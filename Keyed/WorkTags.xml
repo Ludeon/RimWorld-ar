@@ -3,8 +3,8 @@
 
   <WorkTagNone>لا شئ</WorkTagNone>
   <WorkTagIntellectual>مثقف</WorkTagIntellectual>
-  <WorkTagManualDumb>عمل سيئ</WorkTagManualDumb>
-  <WorkTagManualSkilled>عمل إحترافي</WorkTagManualSkilled>
+  <WorkTagManualDumb>عامل سيئ</WorkTagManualDumb>
+  <WorkTagManualSkilled>عامل إحترافي</WorkTagManualSkilled>
   <WorkTagViolent>شديد</WorkTagViolent>
   <WorkTagCaring>لطيف</WorkTagCaring>
   <WorkTagSocial>إجتماعي</WorkTagSocial>
@@ -16,6 +16,6 @@
   <WorkTagCleaning>منظف</WorkTagCleaning>
   <WorkTagHauling>نقل بالعربة</WorkTagHauling>
   <WorkTagPlantWork>كهربائي</WorkTagPlantWork>
-  <WorkTagMining>معدن</WorkTagMining>
+  <WorkTagMining>عامل منجم</WorkTagMining>
 
 </LanguageData>
