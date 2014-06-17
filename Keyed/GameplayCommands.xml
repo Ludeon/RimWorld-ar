@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CommandForbiddenDesc>Forbidden - colonists will not interact with this.</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>Not forbidden - colonists may interact with this.</CommandNotForbiddenDesc>
+
+  <CommandTogglePowerDesc>Toggle power.</CommandTogglePowerDesc>
+  <CommandTogglePowerLabel>Toggle power</CommandTogglePowerLabel>
+
+  <CommandGatherSpotToggleLabel>Gather spot</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Active - colonists will gather around this object.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Inactive - colonists will not gather around this object.</CommandGatherSpotToggleDescInactive>
+  
+  
+  
+  <CommandDraftLabel>Draft</CommandDraftLabel>
+  <CommandUndraftLabel>Undraft</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest.</CommandToggleDraftDesc>
+  <IsIncapped>{0} is incapacitated.</IsIncapped>
+
+  <CommandCancelConstructionLabel>Cancel</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Cancel this construction.</CommandCancelConstructionDesc>
+
+  <CommandBedSetForPrisonersLabel>Set for prisoners</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc> Assign beds in this room for use by prisoners.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForColonistsLabel>Set for colonists</CommandBedSetForColonistsLabel>
+  <CommandBedSetForColonistsDesc> Assign beds in this room for use by colonists.</CommandBedSetForColonistsDesc>
+  <TurningOnPrisonerBedWarning>Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Are you sure you want to do this?</AreYouSure>
+
+  
+  
+  <CommandDetonateDesc>Start the countdown to detonation.</CommandDetonateDesc>
+  <CommandDetonateLabel>Detonate</CommandDetonateLabel>
+
+  <CommandRenameZoneDesc>Rename this zone.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Rename</CommandRenameZoneLabel>
+
+  <CommandHideZoneDesc>Hide/unhide this zone.</CommandHideZoneDesc>
+  <CommandHideZoneLabel>Hide</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Unhide</CommandUnhideZoneLabel>
+
+  <CommandDeleteZoneDesc>Delete this zone.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneLabel>Delete</CommandDeleteZoneLabel>
+  
+  
+</LanguageData>
