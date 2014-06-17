@@ -5,7 +5,7 @@
 
   <ConceptText_RescueColonist>لإنقاذ مستعمر جريح اختر مستعمرا سليما و اضغط بزر الفأرة الأيمن على المستعمر الجريح</ConceptText_RescueColonist>
 
-  <ConceptText_Capture1>An enemy has been incapacitated. You can capture them!</ConceptText_Capture1>
+  <ConceptText_Capture1>An enemy has been  incapacitated. You can capture them!</ConceptText_Capture1>
   <ConceptText_Capture2>To capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use.</ConceptText_Capture2>
 
   <ConceptText_Draft1>To control colonists directly for combat, Draft them by selecting them and hitting the Draft button.</ConceptText_Draft1>
