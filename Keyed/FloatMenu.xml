@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CallOnRadio>Call {0}</CallOnRadio>
+	<CannotUseSolarFlare>Cannot use (solar flare)</CannotUseSolarFlare>
+	<CannotUseNoPower>Cannot use (no power)</CannotUseNoPower>
+	<CannotUseNoPath>Cannot use (no path)</CannotUseNoPath>
+	
+  <FireAt>Fire at {0}</FireAt>
+
+  <OutOfRange>out of range</OutOfRange>
+  <CannotHitTarget>cannot hit target</CannotHitTarget>
+  <CannotFight>{0} cannot fight</CannotFight>
+
+  
+  
+  <MeleeAttack>Melee attack {0}</MeleeAttack>
+  <MeleeAttackToDeath>Melee attack {0} to death</MeleeAttackToDeath>
+  <NoPath>no path</NoPath>
+
+	<ForbiddenLower>forbidden</ForbiddenLower>
+	<SociallyImproperLower>socially improper</SociallyImproperLower>
+	<BurningLower>burning</BurningLower>
+	<NoEmptyPlaceLower>no empty place configured to store it</NoEmptyPlaceLower>
+	<AlreadyFilledLower>already filled enough</AlreadyFilledLower>
+	
+	
+  <CannotGoNoPath>Cannot go here (no path)</CannotGoNoPath>
+  <GoHere>Go here</GoHere>
+  
+  <Arrest>Arrest {0}</Arrest>
+  <CannotArrest>Cannot arrest</CannotArrest>
+
+  <Capture>Capture {0}</Capture>
+  <CannotCapture>Cannot capture</CannotCapture>
+
+  <Rescue>Rescue {0}</Rescue>
+  <CannotRescue>Cannot rescue</CannotRescue>
+
+  <NoPrisonerBed>No available enclosed prisoner-marked bed.</NoPrisonerBed>
+  <NoNonPrisonerBed>No available usable non-prisoner bed.</NoNonPrisonerBed>
+  <Reserved>Reserved by someone else.</Reserved>
+  <ReservedBy>Reserved by {0}.</ReservedBy>
+  <IsReservedBy>{0} is reserved by {1}.</IsReservedBy>
+
+
+  <Equip>Equip {0}</Equip>
+  <CannotEquip>Cannot equip {0}</CannotEquip>
+
+  <Deposit>Deposit {0} in {1}</Deposit>
+  <CannotDeposit>Cannot deposit {0} in {1}</CannotDeposit>
+
+  <Drop>Drop {0}</Drop>
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Cannot {0} {1}</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotGenericAlreadyAm>Already {0} {1}</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeIsNotA>Cannot prioritize ({0} is not a {1})</CannotPrioritizeIsNotA>
+
+  <CannotPrioritizeResearch>Cannot prioritize (research is a long-term task)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Cannot prioritize ({0} is forbidden)</CannotPrioritizeForbidden>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>Prioritize {0} {1}</PrioritizeGeneric>
+  
+</LanguageData>
