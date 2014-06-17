@@ -4,50 +4,50 @@
   <!-- External violence -->
 
   <DamageTypeDef>
-    <defName>Crush</defName>
+    <defName>سحق</defName>
     <incapChanceMultiplier>2</incapChanceMultiplier>
     <externalViolence>true</externalViolence>
-    <deathMessage>{0} has been crushed to death.</deathMessage>
+    <deathMessage>{0} سحق حتى الموت .</deathMessage>
   </DamageTypeDef> 
   
   <DamageTypeDef>
-		<defName>Bludgeon</defName>
+		<defName>مضرب</defName>
 		<incapChanceMultiplier>2</incapChanceMultiplier>
     <externalViolence>true</externalViolence>
     <battleWound>true</battleWound>
-    <deathMessage>{0} has been beaten to death.</deathMessage>
+    <deathMessage>{0} ضرب حتى الموت .</deathMessage>
 	</DamageTypeDef>
 
 	<DamageTypeDef>
-		<defName>Bullet</defName>
+		<defName>طلقة</defName>
     <externalViolence>true</externalViolence>
     <battleWound>true</battleWound>
-    <deathMessage>{0} has been shot to death.</deathMessage>
+    <deathMessage>{0} مات عن طريق إطلاق النار عليه .</deathMessage>
   </DamageTypeDef>
 
 	<DamageTypeDef>
-		<defName>Bomb</defName>
+		<defName>قنبلة</defName>
     <externalViolence>true</externalViolence>
     <battleWound>true</battleWound>
-    <deathMessage>{0} has died in an explosion.</deathMessage>
+    <deathMessage>{0} مات في انفجار .</deathMessage>
   </DamageTypeDef>
 
   <DamageTypeDef>
-    <defName>Flame</defName>
+    <defName>حرق</defName>
     <hasForcefulImpact>false</hasForcefulImpact>
     <makesBlood>false</makesBlood>
     <incapChanceMultiplier>1.5</incapChanceMultiplier>
     <interruptJobs>false</interruptJobs>
     <externalViolence>true</externalViolence>
-    <deathMessage>{0} has burned to death.</deathMessage>
+    <deathMessage>{0} احترق حتى الموت .</deathMessage>
   </DamageTypeDef>
 
   <DamageTypeDef>
-    <defName>Stun</defName>
+    <defName>صعق</defName>
     <harmsHealth>false</harmsHealth>
     <makesBlood>false</makesBlood>
     <externalViolence>true</externalViolence>
-    <deathMessage>{0} has been stunned to death.</deathMessage>
+    <deathMessage>{0} صعق حتى الموت .</deathMessage>
   </DamageTypeDef>
   
   
@@ -55,43 +55,43 @@
   <!-- etc -->
   
 	<DamageTypeDef>
-		<defName>Bleeding</defName>
+		<defName>النزيف</defName>
 		<hasForcefulImpact>false</hasForcefulImpact>
 		<makesBlood>false</makesBlood>
-    <deathMessage>{0} has bled to death.</deathMessage>
+    <deathMessage>{0} نزف حتى الموت .</deathMessage>
   </DamageTypeDef>
 
 	<DamageTypeDef>
-		<defName>Suffocation</defName>
-		<hasForcefulImpact>false</hasForcefulImpact>
-		<makesBlood>false</makesBlood>
-		<incapChanceMultiplier>3</incapChanceMultiplier>
-    <interruptJobs>false</interruptJobs>
-    <deathMessage>{0} has suffocated to death.</deathMessage>
-  </DamageTypeDef>
-
-	<DamageTypeDef>
-		<defName>Starvation</defName>
+		<defName>الإختناق</defName>
 		<hasForcefulImpact>false</hasForcefulImpact>
 		<makesBlood>false</makesBlood>
 		<incapChanceMultiplier>3</incapChanceMultiplier>
     <interruptJobs>false</interruptJobs>
-    <deathMessage>{0} has starved to death.</deathMessage>
+    <deathMessage>{0} مات خنقا .</deathMessage>
   </DamageTypeDef>
 
 	<DamageTypeDef>
-		<defName>Breakdown</defName>
+		<defName>الموت جوعا</defName>
+		<hasForcefulImpact>false</hasForcefulImpact>
+		<makesBlood>false</makesBlood>
+		<incapChanceMultiplier>3</incapChanceMultiplier>
+    <interruptJobs>false</interruptJobs>
+    <deathMessage>{0} مات جوعا .</deathMessage>
+  </DamageTypeDef>
+
+	<DamageTypeDef>
+		<defName>كسر</defName>
 		<hasForcefulImpact>false</hasForcefulImpact>
 		<makesBlood>false</makesBlood>
     <interruptJobs>false</interruptJobs>
   </DamageTypeDef>
 
 	<DamageTypeDef>
-		<defName>Mining</defName>
+		<defName>تعدين</defName>
 	</DamageTypeDef>
 
 	<DamageTypeDef>
-		<defName>Rotting</defName>
+		<defName>تعفن</defName>
 		<hasForcefulImpact>false</hasForcefulImpact>
 		<makesBlood>false</makesBlood>
     <interruptJobs>false</interruptJobs>
@@ -100,14 +100,14 @@
 
 
   <DamageTypeDef>
-		<defName>Extinguish</defName>
+		<defName>إخماد النار</defName>
     <interruptJobs>false</interruptJobs>
   </DamageTypeDef>
 
 
 
 	<DamageTypeDef>
-		<defName>Healing</defName>
+		<defName>إسعاف</defName>
 		<hasForcefulImpact>false</hasForcefulImpact>
 		<harmsHealth>false</harmsHealth>
 		<makesBlood>false</makesBlood>
