@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DamageTypes>
+
+  <!-- External violence -->
+
+  <DamageTypeDef>
+    <defName>Crush</defName>
+    <incapChanceMultiplier>2</incapChanceMultiplier>
+    <externalViolence>true</externalViolence>
+    <deathMessage>{0} has been crushed to death.</deathMessage>
+  </DamageTypeDef> 
+  
+  <DamageTypeDef>
+		<defName>Bludgeon</defName>
+		<incapChanceMultiplier>2</incapChanceMultiplier>
+    <externalViolence>true</externalViolence>
+    <battleWound>true</battleWound>
+    <deathMessage>{0} has been beaten to death.</deathMessage>
+	</DamageTypeDef>
+
+	<DamageTypeDef>
+		<defName>Bullet</defName>
+    <externalViolence>true</externalViolence>
+    <battleWound>true</battleWound>
+    <deathMessage>{0} has been shot to death.</deathMessage>
+  </DamageTypeDef>
+
+	<DamageTypeDef>
+		<defName>Bomb</defName>
+    <externalViolence>true</externalViolence>
+    <battleWound>true</battleWound>
+    <deathMessage>{0} has died in an explosion.</deathMessage>
+  </DamageTypeDef>
+
+  <DamageTypeDef>
+    <defName>Flame</defName>
+    <hasForcefulImpact>false</hasForcefulImpact>
+    <makesBlood>false</makesBlood>
+    <incapChanceMultiplier>1.5</incapChanceMultiplier>
+    <interruptJobs>false</interruptJobs>
+    <externalViolence>true</externalViolence>
+    <deathMessage>{0} has burned to death.</deathMessage>
+  </DamageTypeDef>
+
+  <DamageTypeDef>
+    <defName>Stun</defName>
+    <harmsHealth>false</harmsHealth>
+    <makesBlood>false</makesBlood>
+    <externalViolence>true</externalViolence>
+    <deathMessage>{0} has been stunned to death.</deathMessage>
+  </DamageTypeDef>
+  
+  
+  
+  <!-- etc -->
+  
+	<DamageTypeDef>
+		<defName>Bleeding</defName>
+		<hasForcefulImpact>false</hasForcefulImpact>
+		<makesBlood>false</makesBlood>
+    <deathMessage>{0} has bled to death.</deathMessage>
+  </DamageTypeDef>
+
+	<DamageTypeDef>
+		<defName>Suffocation</defName>
+		<hasForcefulImpact>false</hasForcefulImpact>
+		<makesBlood>false</makesBlood>
+		<incapChanceMultiplier>3</incapChanceMultiplier>
+    <interruptJobs>false</interruptJobs>
+    <deathMessage>{0} has suffocated to death.</deathMessage>
+  </DamageTypeDef>
+
+	<DamageTypeDef>
+		<defName>Starvation</defName>
+		<hasForcefulImpact>false</hasForcefulImpact>
+		<makesBlood>false</makesBlood>
+		<incapChanceMultiplier>3</incapChanceMultiplier>
+    <interruptJobs>false</interruptJobs>
+    <deathMessage>{0} has starved to death.</deathMessage>
+  </DamageTypeDef>
+
+	<DamageTypeDef>
+		<defName>Breakdown</defName>
+		<hasForcefulImpact>false</hasForcefulImpact>
+		<makesBlood>false</makesBlood>
+    <interruptJobs>false</interruptJobs>
+  </DamageTypeDef>
+
+	<DamageTypeDef>
+		<defName>Mining</defName>
+	</DamageTypeDef>
+
+	<DamageTypeDef>
+		<defName>Rotting</defName>
+		<hasForcefulImpact>false</hasForcefulImpact>
+		<makesBlood>false</makesBlood>
+    <interruptJobs>false</interruptJobs>
+  </DamageTypeDef>
+
+
+
+  <DamageTypeDef>
+		<defName>Extinguish</defName>
+    <interruptJobs>false</interruptJobs>
+  </DamageTypeDef>
+
+
+
+	<DamageTypeDef>
+		<defName>Healing</defName>
+		<hasForcefulImpact>false</hasForcefulImpact>
+		<harmsHealth>false</harmsHealth>
+		<makesBlood>false</makesBlood>
+    <interruptJobs>false</interruptJobs>
+  </DamageTypeDef>
+
+</DamageTypes>
