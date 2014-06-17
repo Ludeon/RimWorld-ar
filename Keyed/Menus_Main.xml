@@ -12,14 +12,14 @@
   <QuitToMainMenu>العودة للقائمة الرئيسية</QuitToMainMenu>
   <QuitToOS>الخروج من اللعبة</QuitToOS>
   <FictionPrimer>Fiction primer</FictionPrimer>
-  <LudeonBlog>Ludeon blog</LudeonBlog>
+  <LudeonBlog>Ludeon مدونة</LudeonBlog>
   <Forums>المنتدى</Forums>
   <OfficialWiki>الموسوعة الرسمية</OfficialWiki>
   <TynansTwitter>Tynan's تويتر</TynansTwitter>
   <TynansDesignBook>Tynan's كتاب التصميم</TynansDesignBook>
 
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Build {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
+  <BuildNowAvailable>البنية {0} متوفرة الان. اذهب للموقع ludeon.com لمزيد من المعلومات.</BuildNowAvailable>
 	<BuildUpToDate>Build is up to date.</BuildUpToDate>
 	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
 	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
@@ -43,12 +43,12 @@
   <AgeIndicator>العمر {0}</AgeIndicator>
   <Backstory>Backstory</Backstory>
   <IncapableOf>Incapable of</IncapableOf>
-  <Traits>Traits</Traits>
+  <Traits>الصفات</Traits>
   <TraitsDoNothing>Traits are just fun story bits for now; most of them don't do anything. This will change in future versions.</TraitsDoNothing>
-  <Skills>Skills</Skills>
-  <NoneLower>none</NoneLower>
-  <Adulthood>Adulthood</Adulthood>
-  <Childhood>Childhood</Childhood>
+  <Skills>المهارات</Skills>
+  <NoneLower>لا شئ</NoneLower>
+  <Adulthood>المراهقة</Adulthood>
+  <Childhood>الطفولة</Childhood>
   <Male>ذكر</Male>
   <Female>انثى</Female>
   
@@ -59,12 +59,12 @@
   <Next>التالي</Next>
   <Back>الرجوع</Back>
   
-  <Gameplay>Gameplay</Gameplay>
+  <Gameplay>نمط اللعب</Gameplay>
 
   <ConfirmQuit>هل انت متأكد؟ سوف تفقد جميع الاعمال الغير محفوظة.</ConfirmQuit>
   
-  <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
+  <EveryoneNeedsValidName>كل شخص يحتاج إلى أسم صحيح.</EveryoneNeedsValidName>
 
-  <GeneratingWorld>Generating world...</GeneratingWorld>
+  <GeneratingWorld>إنشاء عالم...</GeneratingWorld>
 
 </LanguageData>
