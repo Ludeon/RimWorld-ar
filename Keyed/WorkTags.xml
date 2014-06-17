@@ -10,12 +10,12 @@
   <WorkTagSocial>إجتماعي</WorkTagSocial>
   <WorkTagScary>مخيف</WorkTagScary>
   <WorkTagArtistic>فنان</WorkTagArtistic>
-  <WorkTagCrafting>حرفي</WorkTagCrafting>
-  <WorkTagCooking>طباخ</WorkTagCooking>
+  <WorkTagCrafting>صياغة</WorkTagCrafting>
+  <WorkTagCooking>طبخ</WorkTagCooking>
   <WorkTagFirefighting>مكافح الحرائق</WorkTagFirefighting>
-  <WorkTagCleaning>منظف</WorkTagCleaning>
+  <WorkTagCleaning>تنظيف</WorkTagCleaning>
   <WorkTagHauling>نقل بالعربة</WorkTagHauling>
-  <WorkTagPlantWork>كهربائي</WorkTagPlantWork>
-  <WorkTagMining>عامل منجم</WorkTagMining>
+  <WorkTagPlantWork>الكهرباء</WorkTagPlantWork>
+  <WorkTagMining>تعدين</WorkTagMining>
   
 </LanguageData>
