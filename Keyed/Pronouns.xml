@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Prohis>ملكه</Prohis>
+  <Proher>ملكها</Proher>
+  <ProhisCap>ملكه</ProhisCap>
+  <ProherCap>ملكها</ProherCap>
+
+  <ProhimObj>هو</ProhimObj>
+  <ProherObj>هي</ProherObj>
+  <ProhimObjCap>هو</ProhimObjCap>
+  <ProherObjCap>هي</ProherObjCap>
+
+  <Prohe>هو</Prohe>
+  <Proshe>هي</Proshe>
+  <ProheCap>هو</ProheCap>
+  <ProsheCap>هي</ProsheCap>
+  
+
+
+</LanguageData>
