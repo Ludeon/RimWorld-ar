@@ -31,7 +31,7 @@
   <NeedDoctor>بحاج لطبيب</NeedDoctor>
   <NeedDoctorDesc>These patients are incapacitated in bed and hungry. They need to be fed, but you have no healthy colonists assigned to the Doctor work type.\n\n{0}\nAssign a healthy colonist to the Doctor work type.</NeedDoctorDesc>
 
-  <NeedMiner>Need miner</NeedMiner>
+  <NeedMiner>بحاجة إلى عامل منجم</NeedMiner>
   <NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
 
   <NeedWarden>Need warden</NeedWarden>
