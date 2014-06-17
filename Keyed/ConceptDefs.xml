@@ -42,17 +42,17 @@
 
   <ConceptText_SpacePause>اضغط زر المسافة لإيقاف اللعبة مؤقتا أو استكمالها .\n\تستطيع إعطاء الأوامر أثناءإيقاف اللعبة مؤقتا .\n\nتذكر هذا : إذا أصبحت الأمور صعبة اضغط زر المسافة!</ConceptText_SpacePause>
 
-  <ConceptText_RightClickClearLetter>You can quickly dismiss incoming letters by right-clicking them.</ConceptText_RightClickClearLetter>
+  <ConceptText_RightClickClearLetter>تستطيع تجاهل الرسائل الجديدة بالضغط عل ى زر الفأرة الأيمن .</ConceptText_RightClickClearLetter>
 
   <ConceptText_OpeningComms>To communicate, select a working colonist and right-click on the comms console.</ConceptText_OpeningComms>
 
-  <ConceptText_StoragePriority>You can change the PRIORITY of storage. Colonists will fill higher-priority storage first.</ConceptText_StoragePriority>
+  <ConceptText_StoragePriority>تستطيع تغيير أولوية التخزين المستعمرون سيخزنون الأغراض ذات الأولوية الأعلى .</ConceptText_StoragePriority>
 
   <ConceptText_Wiki>You can look up information in the WIKI.\n\nUse the link the bottom right of the screen.</ConceptText_Wiki>
 
   <ConceptText_TradeGoodsMustBeNearBeacon>To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON outdoors and place a stockpile of items near it.</ConceptText_TradeGoodsMustBeNearBeacon>
 
-  <ConceptText_ArrestingCreatesEnemies>If you arrest someone, their entire faction will become your enemy.\n\nDon't arrest someone if you want to stay friends with their faction!</ConceptText_ArrestingCreatesEnemies>
+  <ConceptText_ArrestingCreatesEnemies>إذا اعتقلت  شخص فسوف تصبح كامل جماعته عدوا لك .\n\nلا تعتقل شخصا إذا منت تريد أن تبقى صديقا لجماعته!</ConceptText_ArrestingCreatesEnemies>
 
 
 </LanguageData>
