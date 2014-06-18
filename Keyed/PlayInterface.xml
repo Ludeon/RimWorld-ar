@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Overview>Overview</Overview>
-  <OverviewTip>Manage colony work priorities and statistics.</OverviewTip>
-  <ResearchTip>Examine and decide on research projects.</ResearchTip>
-  <Wiki>Wiki</Wiki>
-  <WikiTip>Opens Web browser to see the RimWorld wiki and get help playing.</WikiTip>
-  <Menu>Menu</Menu>
-  <MenuTip>Save, load, or quit the game, or change options.</MenuTip>
+  <Overview>نظرة عامة</Overview>
+  <OverviewTip>أدر أولويات عمل المستعمرة و إحصائيتها</OverviewTip>
+  <ResearchTip>فكر و قرر في مشاريع البحث</ResearchTip>
+  <Wiki>الموسوعة</Wiki>
+  <WikiTip>افتح متصفح الانترنت للوصول إلى موسوعة اللعبة و الحصول على مساعدة للعب</WikiTip>
+  <Menu>القائمة</Menu>
+  <MenuTip>حفظ , استعادة , أو خروج من اللعبة أو تغيير الخيارات</MenuTip>
 
-  <Architect>Architect</Architect>
+  <Architect>البناء</Architect>
 
 
 </LanguageData>
