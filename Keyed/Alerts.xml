@@ -22,13 +22,13 @@
   <BuildARoom>بحاجة لبناء غرفة</BuildARoom>
   <BuildARoomDesc>لايوجد لديك أي غرف.\n\nابن اربع جدراء وباب لكي تكمل الغرفة.\n\nإستخدم قائمة الهندسة لكي تبني ماتريدد.عندما تضع الأمر للبناء مواطنوك سوف يبدؤون بالبناء فور توفر المعدات. </BuildARoomDesc>
 
-  <NeedGrowingZone>بحجاة لمنطقة زراعية</NeedGrowingZone>
-  <NeedGrowingZoneDesc>You have no growing zones.\n\nPlace a growing zone on fertile soil through the ARCHITECT menu.</NeedGrowingZoneDesc>
+  <NeedGrowingZone>بحاجة لمنطقة زراعية.</NeedGrowingZone>
+  <NeedGrowingZoneDesc>لايوجد لديك منطقة زراعية.\n\ضع منطقة زراعية على تربة خصبة بواسطة القائمة المعمارية</NeedGrowingZoneDesc>
 
   <NeedDefenses>بحاجة لدفاعات</NeedDefenses>
   <NeedDefensesDesc>تواجدت في هذه المنطقة لمدة طويلة. القراصنة سوف يلاحظون تواجدك وهجمون عليك قريباً\n\nجهز دفاعاتك.\n\nإبني بعض المدافع.</NeedDefensesDesc>
 
-  <NeedDoctor>بحاج لطبيب</NeedDoctor>
+  <NeedDoctor>بحاجة لطبيب</NeedDoctor>
   <NeedDoctorDesc>These patients are incapacitated in bed and hungry. They need to be fed, but you have no healthy colonists assigned to the Doctor work type.\n\n{0}\nAssign a healthy colonist to the Doctor work type.</NeedDoctorDesc>
 
   <NeedMiner>بحاجة إلى عامل منجم</NeedMiner>
@@ -37,10 +37,10 @@
   <NeedWarden>Need warden</NeedWarden>
   <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
 
-  <LowFood>Low food</LowFood>
+  <LowFood>كمية الطعام قليلة</LowFood>
   <LowFoodDesc>You only have {0} nutrition worth of food in storage. This is dangerously low.\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
 
-  <NeedColonistBeds>Need colonist beds</NeedColonistBeds>
+  <NeedColonistBeds>بحاجة لسرر مستوطنين</NeedColonistBeds>
   <NeedColonistBedsDesc>You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.</NeedColonistBedsDesc>
 
   <Starvation>Starvation</Starvation>
