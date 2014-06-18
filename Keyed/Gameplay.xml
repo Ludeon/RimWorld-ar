@@ -6,15 +6,15 @@
   <Contents>Contents</Contents>
   <ForPrisonerUse>For prisoner use</ForPrisonerUse>
   <ForColonistUse>For colonist use</ForColonistUse>
-  <Owner>Owner</Owner>
+  <Owner>المالك</Owner>
   <Nobody>Nobody</Nobody>
-  <Unowned>Unowned</Unowned>
-  <GunInstalled>Installed</GunInstalled>
-  <DeadTime>Dead {0}</DeadTime>
-  <WalkSpeed>walk speed {0}</WalkSpeed>
-  <DyingLower>dying</DyingLower>
-  <PawnEffectiveness>Effectiveness</PawnEffectiveness>
-  <FilthOnFeet>Filth on feet:</FilthOnFeet>
+  <Unowned>غير مملوك</Unowned>
+  <GunInstalled>مثبت</GunInstalled>
+  <DeadTime> {0} ميت</DeadTime>
+  <WalkSpeed> {0} :سرعة المشي</WalkSpeed>
+  <DyingLower>يموت</DyingLower>
+  <PawnEffectiveness>التأثير</PawnEffectiveness>
+  <FilthOnFeet>القذارة على القدم</FilthOnFeet>
   <NotEnoughStoredLower>not enough stored</NotEnoughStoredLower>
   
 
@@ -28,25 +28,25 @@
 	<RangeSlashEquipment>Range/equipment</RangeSlashEquipment>
 	<Darkness>Darkness</Darkness>
 	<TargetProne>Target prone</TargetProne>
-	<TargetSize>Target size</TargetSize>
-	<Weather>Weather</Weather>
+	<TargetSize>حجم الهدف</TargetSize>
+	<Weather>الطقس</Weather>
 	<ShootingCover>Cover</ShootingCover>
 	<CoverThingBlocksPercentOfShots>{0} stops {1}</CoverThingBlocksPercentOfShots>
 	<NoCoverLower>no cover</NoCoverLower>
 	
 	
 	<!-- Status levels -->
-  <Loyalty>Loyalty</Loyalty>
+  <Loyalty>الوفاء</Loyalty>
   <LoyaltyTip>Loyalty represents a person's belief in the colony. If it falls too low, a person may give up, become irrational, or go insane.\n\nLoyalty is equal to Happiness or Fear - whichever is greatest.</LoyaltyTip>
-  <Happiness>Happiness</Happiness>
+  <Happiness>السعادة</Happiness>
   <HappinessTip>Happiness is sustained by fulfilling physical and psychological needs.</HappinessTip>
-  <Fear>Fear</Fear>
+  <Fear>الخوف</Fear>
   <FearTip>Fear represents how intimidated someone is by their environment.\n\nIt rises witnesses threats, brutality, and displays of power.</FearTip>
-  <Food>Food</Food>
+  <Food>الغذاء</Food>
   <FoodTip>Food is how satisfied someone is with their meals.\n\nFood resets when someone eats. After a while, it will begin falling until they eat again. At zero food, a person will take starvation damage.</FoodTip>
-  <Rest>Rest</Rest>
+  <Rest>الراحة</Rest>
   <RestTip>Rest is how much quality relaxation and sleep a person gets.\n\nIt rises to a maximum when someone sleeps in a bed. Outside of bed, it falls over time.</RestTip>
-  <Environment>Environment</Environment>
+  <Environment>الطبيعة</Environment>
   <EnvironmentTip>Environment reflects how pleasing a person finds their surroundings.\n\nEnvironment is high when people are in spacious rooms with beautiful decorations. It is poor when their surroundings are ugly.</EnvironmentTip>
   <Openness>Openness</Openness>
 
