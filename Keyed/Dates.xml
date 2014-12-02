@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+ <ClockTime> ﺖﻗﻮﻟﺍ </ClockTime>
+ <ClockDate>  ﺦﻳﺭﺎﺗ </ClockDate>   
+ <ClockYear>  ﺔﻨﺴﻟﺍ  </ClockYear>   
+ <DateReadoutTip>  ﺮﻬﺷ ﻞﻛ ﻲﻓ ﻡﺎﻳﺃ {1} ﻙﺎﻨﻫ \n {0} :ﻚﻟﻮﺻﻭ ﺬﻨﻣ ﻡﺎﻳﻷﺍ ﺕﺮﻣ  </DateReadoutTip>   
+
+
+
+ <FullDate>  ﻡﺎﻌﻟﺍ {2} ،{1} {0} </FullDate>   
+ <MonthFullDate>{0} {1}</MonthFullDate>   
+  
+ <MonthFullJanuary>  ﺮﻳﺎﻨﻳ </MonthFullJanuary>   
+ <MonthFullFebruary>  ﺮﻳﺍﺮﺒﻓ </MonthFullFebruary>   
+ <MonthFullMarch>  ﺱﺭﺎﻣ </MonthFullMarch>   
+ <MonthFullApril>  ﻞﻳﺮﺑﺃ </MonthFullApril>   
+ <MonthFullMay>  ﻮﻳﺎﻣ </MonthFullMay>   
+ <MonthFullJune>  ﻮﻴﻧﻮﻳ </MonthFullJune>   
+ <MonthFullJuly>  ﺯﻮﻤﺗ </MonthFullJuly>   
+ <MonthFullAugust>  ﺲﻄﺴﻏﺃ </MonthFullAugust>   
+ <MonthFullSeptember>  ﺮﺒﻤﺘﺒﺳ </MonthFullSeptember>   
+ <MonthFullOctober>  ﺮﺑﻮﺘﻛﺃ </MonthFullOctober>   
+ <MonthFullNovember> ﺮﺒﻤﻓﻮﻧ </MonthFullNovember>   
+ <MonthFullDecember> ﺮﺒﻤﺴﻳﺩ </MonthFullDecember>   
+
+ <MonthShortJanuary> ﺮﻳﺎﻨﻳ </MonthShortJanuary>   
+ <MonthShortFebruary> ﺮﻳﺍﺮﺒﻓ </MonthShortFebruary>   
+ <MonthShortMarch> ﺱﺭﺎﻣ </MonthShortMarch>   
+ <MonthShortApril> ﻞﻳﺮﺑﺃ </MonthShortApril>   
+ <MonthShortMay> ﻮﻳﺎﻣ </MonthShortMay>   
+ <MonthShortJune> ﻮﻴﻧﻮﻳ </MonthShortJune>   
+ <MonthShortJuly> ﻮﻴﻟﻮﻳ </MonthShortJuly>   
+ <MonthShortAugust> ﺲﻄﺴﻏﺃ </MonthShortAugust>   
+ <MonthShortSeptember> ﺮﺒﻤﺘﺒﺳ </MonthShortSeptember>   
+ <MonthShortOctober> ﺮﺑﻮﺘﻛﺃ </MonthShortOctober>   
+ <MonthShortNovember> ﺮﺒﻤﻓﻮﻧ </MonthShortNovember>   
+ <MonthShortDecember> ﺮﺒﻤﺴﻳﺩ </MonthShortDecember>   
+    
+    
+</LanguageData>
