@@ -3,36 +3,39 @@
 
 
 
-  <Confirm>Confirm</Confirm>
-  <GoBack>Go back</GoBack>
-  <OK>OK</OK>
+  <Confirm>ﺪﻴﻛﺄﺗ</Confirm>
+  <GoBack>ﻉﻮﺟﺮﻟﺍ</GoBack>
+  <OK>ﺎﻨﺴﺣ</OK>
   
   <!-- Save/load -->
-  <SaveGameButton>Save</SaveGameButton>
-  <OverwriteButton>Overwrite</OverwriteButton>
-  <LoadGameButton>Load</LoadGameButton>
-  <ConfirmDelete>Really delete {0}?</ConfirmDelete>
-  <DeleteThisSavegame>Delete this savegame.</DeleteThisSavegame>
-  <SavedAs>Saved as {0}.</SavedAs>
-  <NeedAName>Please enter a name.</NeedAName>
-  <LoadingLongEvent>Loading...</LoadingLongEvent>
+  <SaveGameButton>ﻆﻔﺣ</SaveGameButton>
+  <OverwriteButton>ﺔﺑﺎﺘﻜﻟﺍ</OverwriteButton>
+  <LoadGameButton>ﻞﻴﻤﺤﺗ</LoadGameButton>
+  <ConfirmDelete>{0} ؟ ﺎﻘﺣ ﻑﺬﺣ</ConfirmDelete>
+  <DeleteThisSavegame>.ﻞﻴﻤﺤﺘﻟﺍ ﻩﺬﻫ ﻑﺬﺣ</DeleteThisSavegame>
+  <SavedAs>.{0} ﻢﺳﺎﺑ ﻆﻔﺣ</SavedAs>
+  <NeedAName>.ﻢﺳﺍ ﻝﺎﺧﺩﺇ ﺀﺎﺟﺮﻟﺍ</NeedAName>
+  <LoadingLongEvent>... ﻞﻴﻤﺤﺗ</LoadingLongEvent>
   
   
   <!-- Colony naming-->
-  <NameColonyMessage>Everyone knows that you don't want to stay on this rock for long. But {0} is suggesting that you give the colony a name anyway.\n\nWhat should it be called?</NameColonyMessage>
-  <ColonyGainsName>The colony is now known as {0}.</ColonyGainsName>
-  <ColonyNameIsInvalid>That colony name isn't valid.</ColonyNameIsInvalid>
+  <NameColonyMessage>؟ﻚﻟﺫ ﻰﻤﺴﻧ ﻥﺃ ﺐﺠﻳ ﺍﺫﺎﻣ \n\n.ﻝﺎﺣ ﻱﺃ ﻰﻠﻋ ﻢﺳﺍ ﺓﺮﻤﻌﺘﺴﻤﻠﻟ ﻲﻄﻌﺗ ﻥﺃ ﺐﺠﻳ {0} ﻦﻜﻟ .ﺔﻠﻳﻮﻃ ﺓﺪﻤﻟ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻩﺬﻫ ﻰﻠﻋ ﺀﺎﻘﺒﻟﺍ ﻲﻓ ﺐﻏﺮﺗ ﻻ ﻚﻧﺃ ﻑﺮﻌﻳ ﻊﻴﻤﺠﻟﺍ</NameColonyMessage>
+  <ColonyGainsName>.{0} ﻙ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻥﻵﺍ ﻑﻭﺮﻌﻣ</ColonyGainsName>
+  <ColonyNameIsInvalid>.ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺢﻟﺎﺻ ﺮﻴﻏ ﻢﺳﻻﺍ ﺍﺬﻫ</ColonyNameIsInvalid>
 
   <!-- Zone naming -->
-  <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
-  <ZoneNameIsInvalid>Please enter a valid zone name.</ZoneNameIsInvalid>
+  <ZoneGainsName>.{0} ﻥﻵﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻰﻤﺴﺗﻭ</ZoneGainsName>
+  <ZoneNameIsInvalid>.ﺢﻴﺤﺻ ﺔﻘﻄﻨﻣ ﻢﺳﺍ ﻝﺎﺧﺩﺇ ﻰﺟﺮﻳ</ZoneNameIsInvalid>
+  
+  <!-- Pawn naming -->
+  <PawnGainsName>.{0} ﻥﻵﺍ ﻮﻫ ﻢﺳﻻﺍ ﻚﻧ ﺮﻤﻌﺘﺴﻤﻟﺍ</PawnGainsName>
 
   <!-- Save game incompatible warning -->
   <SaveGameIncompatibleWarningText>Version mismatch: Map was saved with game version {0}, we are running version {1}.\n\n Loading this save will probably cause bugs and crashes.</SaveGameIncompatibleWarningText>
   <SaveGameIncompatibleWarningTitle>Save game incompatibility</SaveGameIncompatibleWarningTitle>
   
   <!-- Resolution change dialog -->
-  <ConfirmResolutionChange>You've changed your resolution. Does the new one work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
+  <ConfirmResolutionChange>You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
   <ResolutionKeep>Keep</ResolutionKeep>
   <ResolutionRevert>Revert</ResolutionRevert>
 
@@ -40,12 +43,12 @@
   <OverviewOf>Overview of {0}</OverviewOf>
 
   <!-- Research -->
-  <Research>Research</Research>
-  <Researched>Researched</Researched>
-  <Unresearched>Unresearched</Unresearched>
-  <Finished>Finished</Finished>
-  <InProgress>In Progress</InProgress>
-  <ResearchMenuWithoutBench>Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at and choose research projects now.</ResearchMenuWithoutBench>
+  <Research>ﺚﺤﺑ</Research>
+  <Researched>ﺎﻬﺜﺤﺑ ﻢﺗ</Researched>
+  <Unresearched>ﺎﻬﺜﺤﺑ ﻢﺘﻳ ﻢﻟ</Unresearched>
+  <Finished>انتهى</Finished>
+  <InProgress>ﺚﺤﺒﻟﺍﺭﻮﻃ ﻲﻓ</InProgress>
+  <ResearchMenuWithoutBench>.ﻥﻵﺍ ﺔﻴﺜﺤﺒﻟﺍ ﻊﻳﺭﺎﺸﻤﻟﺍ ﺭﺎﻴﺘﺧﺍﻭ ﻉﻼﻃﻻﺍ ﻚﻧﺎﻜﻣﺈﺑ ﻝﺍﺰﻳ ﻻ ،ﻚﻟﺫ ﻊﻣﻭ \n\n.ﺙﻮﺤﺒﻟﺍ ﺀﺍﺮﺟﺇ ﻰﻠﻋ ﻦﻳﺭﺩﺎﻗ ﺮﻴﻏ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻥﻮﻜﻳ ﻑﻮﺳ ،ﺙﺎﺤﺑﻷﺍ ﺪﻌﻘﻣ ﺀﺎﻨﺒﺑ ﻡﻮﻘﺗ ﻰﺘﺣ</ResearchMenuWithoutBench>
   
   
   <!-- Advanced game start options -->
@@ -63,30 +66,104 @@
   <Suspended>Suspended</Suspended>
   <NotSuspended>Not suspended</NotSuspended>
   <SuspendedAllCaps>SUSPENDED</SuspendedAllCaps>
-  <RepeatCount>Repeat: {0}</RepeatCount>
-  <Forever>Forever</Forever>
-  <IngredientSearchRadius>Ingredient search radius</IngredientSearchRadius>
-  <TargetCount>Make until you have: {0}</TargetCount>
-  <Infinite>Infinite</Infinite>
-  <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
-  <PermittedIngredients>Permitted ingredients</PermittedIngredients>
-  <MinimumSkills>Minimum skills:</MinimumSkills>
-  <DoXTimes>Do X times</DoXTimes>
-  <DoUntilYouHaveX>Do until you have X</DoUntilYouHaveX>
-  <DoForever>Do forever</DoForever>
-  <BillRepeatTargetCountShort>To {0}</BillRepeatTargetCountShort>
+  <RepeatCount>{0} :ﺭﺮﻛ</RepeatCount>
+  <Forever>ﺪﺑﻷﺍ ﻰﻟﺇ</Forever>
+  <IngredientSearchRadius>ﺎﻫﺮﻄﻗ ﻒﺼﻧ ﺓﺮﺋﺍﺩ ﻲﻓ ﺕﺎﻧﻮﻜﻤﻟﺍ ﺚﺤﺑ </IngredientSearchRadius>
+  <TargetCount>{0} :ﻚﻳﺪﻟ ﻥﻮﻜﻳ ﻰﺘﺣﺮﻤﺘﺳﺍ</TargetCount>
+  <Infinite>ﺩﻭﺪﺤﻣ ﺮﻴﻏ</Infinite>
+  <RecipeCannotHaveTargetCount>(.ﺎﻬﺑ ﺆﺒﻨﺘﻟﺍ ﻦﻜﻤﻳ ﻻ ﻭﺃ ﺓﺩﺪﻌﺘﻣ ﺕﺎﺠﺘﻨﻣ ﻚﻳﺪﻟ ﻥﻷ ﺢﺿﺍﻭ ﺪﻌﻟﺍ ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ ﺔﻔﺼﻟﺍ ﻩﺬﻫﻭ)</RecipeCannotHaveTargetCount>
+  <PermittedIngredients>ﺎﻬﺑ ﺡﻮﻤﺴﻤﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ</PermittedIngredients>
+  <MinimumSkills>:ﺕﺍﺭﺎﻬﻤﻟﺍ ﻦﻣ ﻰﻧﺩﻷﺍ ﺪﺤﻟﺍ</MinimumSkills>
+  <BillRequires>{1} {0} ﺐﻠﻄﺘﻳ</BillRequires>
+  <UsableIngredients>ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﻠﺑﺎﻗ ﺕﺎﻧﻮﻜﻣ</UsableIngredients>
+  <DoXTimes>X ﺩﺍﺮﻤﻟﺍ ﻑﺪﻬﻠﻟ ﻩﺪﺣﺍﻭ ﻩﺮﻣ ﺮﻤﺘﺳﺍ</DoXTimes>
+  <DoUntilYouHaveX>X ﻚﻳﺪﻟ ﻥﻮﻜﻳ ﻰﺘﺣ ﺮﻤﺘﺳﺍ</DoUntilYouHaveX>
+  <DoForever>ﺪﺑﻷﺍ ﻰﻟﺇ ﺮﻤﺘﺳﺍ</DoForever>
+  <BillRepeatTargetCountShort>{0} ﻰﻟﺇ</BillRepeatTargetCountShort>
+  <BillStoreMode_DropOnFloor>ﺽﺭﻷﺍ ﻰﻠﻋ ﻁﺎﻘﺳﺍ</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>ﻥﺰﺨﻤﻟﺍ ﻦﻣ ﻞﻀﻓﻷ ﺬﺧ</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>ﻥﺰﺨﻣ ﺏﺮﻗﺃ ﻰﻟﺍ ﻝﻭﺰﻨﻟﺍ</BillStoreMode_NearestStockpileAnyPriority>
   
+  <!-- Def Card -->
+  <Type>ﻉﻮﻨﻟﺍ</Type>
+  <GunType>ﺔﻴﻗﺪﻨﺑ</GunType>
+  <PlantType>ﺕﺎﺒﻧ</PlantType>
+  <FoodType>ﺀﺍﺬﻏ</FoodType>
+  <HumanType>ﻱﺮﺸﺑ</HumanType>
+  <AnimalType>ﻥﺍﻮﻴﺣ</AnimalType>
+  <MechanoidType>Mechanoid</MechanoidType>
+  <Damage>ﺭﺮﻀﻟﺍ</Damage>
+  <Accuracy>Accuracy</Accuracy>
+  <BurstShotCount>Burst shot count</BurstShotCount>
+  <WarmupTime>Warmup</WarmupTime>
+  <CooldownTime>Cooldown</CooldownTime>
+  <BurstShotFireRate>Fire rate</BurstShotFireRate>
+  <Range>ﻕﺎﻄﻧ</Range>
+  <GrowsWild>ﺔﻳﺮﺒﻟﺍ ﻲﻓﻮﻤﻨﻳ</GrowsWild>
+  <Harvestable>ﺩﺎﺼﺣ</Harvestable>
+  <LimitedLifespan>ﺩﻭﺪﺤﻣ ﺮﻤﻋ</LimitedLifespan>
+  <GrowingTime>ﻮﻤﻨﻟﺍ ﺖﻗﻭ</GrowingTime>
+  <Days>ﻡﺎﻳﺃ</Days>
+  <FertilityRequirement>ﺔﺑﻮﺼﺨﻟﺍ ﻁﺮﺷt</FertilityRequirement>
+  <LightRequirement>ﺀﻮﻀﻟﺍ ﻁﺮﺷ</LightRequirement>
+  <Attributes>ﺕﺎﻔﺼﻟﺍ</Attributes>
+  <LifeSpan>ﺮﻤﻋ</LifeSpan>
+  <Nutrition>ﺔﻳﺬﻐﺗ</Nutrition>
+  <FoodQuality>ﺔﻳﺬﻏﻷﺍ ﺓﺩﻮﺟ</FoodQuality>
+  <WalkSpeedProperty>ﻲﺸﻤﻟﺍ ﺔﻋﺮﺳ</WalkSpeedProperty>
+  <MeleeDamage>ﺓﺮﺟﺎﺸﻤﻟﺍ ﺭﺍﺮﺿﺃ</MeleeDamage>
+  <MeatAmount>ﻡﻮﺤﻠﻟﺍ ﺔﻴﻤﻛ</MeatAmount>
+  <MinFoodQuality>ﺔﻳﺬﻏﻷﺍ ﺔﻴﻋﻮﻨﺑ .ﻰﻧﺩﻷﺍ ﺪﺤﻟ</MinFoodQuality>
+  <Diet>Diet</Diet>
+  <RecruitDifficulty>ﻒﻴﻇﻮﺗ ﺔﺑﻮﻌﺻ</RecruitDifficulty>
+  <baseMarketValue>ﻲﺳﺎﺳﻷﺍ ﺮﻌﺴﻟﺍ</baseMarketValue>
+  <Covers>Covers</Covers>
+  <NaturalArmorCovers>Natural armor covers</NaturalArmorCovers>
+  <BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
   
   <!-- Trade -->
+  <DragToTrade>Drag to trade</DragToTrade>
+  <BuyPriceDesc>.ﺍﺬﻫ ﺀﺍﺮﺸﻟ ﻪﻌﻓﺪﺗ ﻱﺬﻟﺍ ﻦﻤﺜﻟﺍ</BuyPriceDesc>
+  <SellPriceDesc>.ﺍﺬﻫ ﻊﻴﺒﻟ ﻪﻌﻓﺪﻳ ﻱﺬﻟﺍ ﻦﻤﺜﻟﺍ</SellPriceDesc>
+  <PriceTypeDesc>.{0} ﻮﻫ ﺮﻌﺴﻟﺍ ،ﺔﻌﻠﺴﻟﺍ ﻩﺬﻬﻟ</PriceTypeDesc>
+  <ColonyCount>How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are outdoors and near an orbital trade beacon.</ColonyCount>
+  <TraderCount>How many of this item the trader has to trade.</TraderCount>
+  <AcceptButton>Accept</AcceptButton>
+  <ResetButton>Reset</ResetButton>
+  <CancelButton>Cancel</CancelButton>
   <YourTradeableSilver>Your tradeable silver: {0}</YourTradeableSilver>
 	<YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
-
+  <TraderHasNoMore>Trader has no more.</TraderHasNoMore>
+  <ColonyHasNoMore>No more to sell.</ColonyHasNoMore>
+  <TraderWillNotTrade>Trader is not willing to trade in this item.</TraderWillNotTrade>
+  
   <!-- Comms -->
   <SocialSkillIs>Social skill: {0}</SocialSkillIs>
 
-	
-	<!--Other-->
-	<ResearchFinished>Research finished: {0}</ResearchFinished>
-	<ResearchScreen>Research Screen</ResearchScreen>
+  <!-- Stats report -->
+  <StatsReport_BaseValue>Base value</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Relevant traits</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Relevant gear</StatsReport_RelevantGear>
+  <StatsReport_Material>Material</StatsReport_Material>
+  <StatsReport_CharacterQuality>Character quality</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Skill factors</StatsReport_Skills>
+  <StatsReport_OtherStats>Other stat factors</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Health factors</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} importance</HealthFactorPercentImpact>
+  <StatsReport_PostProcessed>Post-processed curved</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Final value</StatsReport_FinalValue>
+  
+  
+  <!--Research-->
+  <ResearchFinished>Research finished: {0}</ResearchFinished>
+  <ResearchScreen>Research Screen</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <HistoryUploadMessage>Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Even though history is sent anonymously, you can attach your name.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Allow uploading gameplay data</HistoryUploadYes>
+  <HistoryUploadNo>Do not allow uploading gameplay data</HistoryUploadNo>
+  <HistoryUploadYesOnce>Upload only this time</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Do not upload this time, ask me later</HistoryUploadNoOnce>
 	
 </LanguageData>
