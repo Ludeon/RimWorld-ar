@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <FactionGreetingHostile>The {0} representative hurls some epithets into the monitor and disconnects.</FactionGreetingHostile>
-  <FactionGreetingWary>The {0} representative greets {1} warily and asks HIS business.</FactionGreetingWary>
-  <FactionGreetingWarm>The {0} representative greets {1} warmly and asks how the colony fares.</FactionGreetingWarm>
+  <FactionGreetingHostile> .ﻝﺎﺼﺗﻻ ﻊﻄﻘﻳ ﻥﺍ ﻞﺒﻗ ﻢﺋﺎﺘﺸﻟﺍ ﺾﻌﺑ ﻊﻣ ﺕﺎﺧﺮﺻ {0} ﻢﺳﺎﺑ 
 
-  <Disconnect>Disconnect</Disconnect>
+ﺙﺪﺤﺘﻤﻟﺍ</FactionGreetingHostile>
+  <FactionGreetingWary>. ﻝﺎﻤﻋﻷﺍ ﻝﺄﺴﻳﻭ ﺭﺬﺤﺑ {1} {0} ﻢﺳﺎﺑ ﺙﺪﺤﺘﻤﻟﺍ </FactionGreetingWary>
+  <FactionGreetingWarm> ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻝﺍﻮﺣﺍ ﻝﺄﺴﻳﻭ ﺍﺭﺎﺣ ﺎﺒﻴﺣﺮﺗ ﻝﺎﺒﻘﺘﺳﺍ ﻲﻓ {1} {0} ﻢﺳﺎﺑ ﺙﺪﺤﺘﻤﻟﺍ  
 
-  <OfferGift>Offer gift</OfferGift>
-  <NeedSilverLaunchable>need {0} silver launchable</NeedSilverLaunchable>
-  <NotEnoughSilver>Not enough silver.</NotEnoughSilver>
-  <SilverForGoodwill>{0} silver for {1} goodwill</SilverForGoodwill>
-  <SilverGiftSent>The {0} representative thanks you.\n\n(Goodwill improved by {1}).</SilverGiftSent>
+</FactionGreetingWarm>
+
+  <Disconnect>ﻞﺼﻓ </Disconnect>
+
+  <OfferGift>ﺔﻳﺪﻫ ﺽﺮﻋ </OfferGift>
+  <NeedSilverLaunchable>(ﺓﺰﻫﺎﺟ) ﺔﻀﻔﻟﺍ {0} ﺐﻠﻄﺘﻳ</NeedSilverLaunchable>
+  <NotEnoughSilver>.ﺔﻴﻓﺎﻛ ﺮﻴﻏ ﺔﻀﻔﻟﺍ</NotEnoughSilver>
+  <SilverForGoodwill>ﺔﻌﻤﺳ {1} ﻝ {0 ﺔﻀﻔﻟﺍ</SilverForGoodwill>
+  <SilverGiftSent>.(ﻦﻴﺴﺤﺗ {1} ﻰﻟﺇ ﺓﻮﻋﺩ) \n\n .ﺮﻜﺸﻟﺍ ﻥﻮﺛﺪﺤﺘﻤﻟﺍ {0}ﻭ</SilverGiftSent>
 
 
-  <RequestMilitaryAid>Request immediate military aid ({0} goodwill)</RequestMilitaryAid>
-  <MilitaryAidConfirmMutualEnemy>{0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid?</MilitaryAidConfirmMutualEnemy>
-  <CallConfirm>Yes, call them anyway.</CallConfirm>
-  <CallCancel>No, never mind.</CallCancel>
-  <MilitaryAidSent>The {0} representative agrees to send fighters to help you.</MilitaryAidSent>
+  <RequestMilitaryAid> (ﺔﻌﻤﺳ {0}) ﺓﺮﺷﺎﺒﻤﻟﺍ ﺔﻳﺮﻜﺴﻌﻟﺍ ﺓﺪﻋﺎﺴﻤﻟﺍ ﺐﻠﻃ </RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy> ؟ﺓﺪﻋﺎﺴﻤﻟﺍ ﺐﻠﻃ ﺪﻳﺮﺗ ﺖﻟﺍﺯ ﻻ ﻞﻫ .{1} :ﺔﻋﻮﻤﺠﻤﻟﺍ ﻩﺬﻫ ﻰﻟﺇ ﻂﻘﻓ ﻲﻤﺘﻨﺗ ﻚﻟ ﻢﺟﺎﻬﺗ ﻲﺘﻟﺍ 
+
+ﺀﺍﺪﻋﻷﺍ ﺾﻌﺑ .ﻢﻬﺋﺍﺪﻋﺃ ﻻ ﻲﺘﻟﺍ ﺕﺎﻋﺎﻤﺠﻟﺍ ﺪﺿ ﻙﺪﻋﺎﺴﺗ ﻻ {0}</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>.ﻝﺎﺣ ﻱﺃ ﻰﻠﻋ ،ﻢﻌﻧ</CallConfirm>
+  <CallCancel>.ﺀﺎﻐﻟﺍ ،ﻻ</CallCancel>
+  <MilitaryAidSent>. ﻙﺪﻋﺎﺴﺗ ﻑﻮﺳ ﻦﻳﺬﻟﺍ ﻦﻴﻠﺗﺎﻘﻤﻟﺍ ﻞﺳﺮﻳﻭ ﻖﻓﺍﻮﻳ {0} ﻢﺳﺎﺑ ﺙﺪﺤﺘﻤﻟﺍ </MilitaryAidSent>
   
   
 </LanguageData>
