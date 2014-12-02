@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Prohis>ملكه</Prohis>
-  <Proher>ملكها</Proher>
-  <ProhisCap>ملكه</ProhisCap>
-  <ProherCap>ملكها</ProherCap>
+  <Prohis>ﻪﻟ</Prohis>
+  <Proher>ﺎﻬﻟ</Proher>
+  <ProhisCap>ﻪﻟ</ProhisCap>
+  <ProherCap>ﺎﻬﻟ</ProherCap>
 
-  <ProhimObj>هو</ProhimObj>
-  <ProherObj>هي</ProherObj>
-  <ProhimObjCap>هو</ProhimObjCap>
-  <ProherObjCap>هي</ProherObjCap>
+  <ProhimObj>ﻮﻫ</ProhimObj>
+  <ProherObj>ﻲﻫ</ProherObj>
+  <ProhimObjCap>ﻮﻫ</ProhimObjCap>
+  <ProherObjCap>ﻲﻫ</ProherObjCap>
 
-  <Prohe>هو</Prohe>
-  <Proshe>هي</Proshe>
-  <ProheCap>هو</ProheCap>
-  <ProsheCap>هي</ProsheCap>
+  <Prohe>ﻮﻫ</Prohe>
+  <Proshe>ﻲﻫ</Proshe>
+  <ProheCap>ﻮﻫ</ProheCap>
+  <ProsheCap>ﻲﻫ</ProsheCap>
   
 
 
