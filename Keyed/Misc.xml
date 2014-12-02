@@ -1,31 +1,46 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <GameStartDialog>The three of you awake in your longsleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive.</GameStartDialog>
-
-  <Colony>مستعمرة</Colony>
+  <Autosaving>ﻲﺋﺎﻘﻠﺘﻟﺍ ﻆﻔﺤﻟﺍ</Autosaving>
   
-  <ChangeLanguageFromMainMenu>اللغة يمكن تغييرها فقط عن طريق الخصائص في القائمة الرئيسية.</ChangeLanguageFromMainMenu>
+  <GameStartDialog>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive.</GameStartDialog>
+
+  <Colony>ﺓﺮﻤﻌﺘﺴﻣ</Colony>
+  
+  <ChangeLanguageFromMainMenu>.ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ ﻲﻓ ﺺﺋﺎﺼﺨﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﻂﻘﻓ ﺎﻫﺮﻴﻴﻐﺗ ﻦﻜﻤﻳ ﺔﻐﻠﻟﺍ</ChangeLanguageFromMainMenu>
 
   <AndLower>و</AndLower>
-  <DisabledLower>تعطيل</DisabledLower>
+  <DisabledLower>ﻞﻴﻄﻌﺗ</DisabledLower>
 
-  <CloseButton>إغلاق</CloseButton>
+  <CloseButton>ﻕﻼﻏﺇ</CloseButton>
 
 
-  <VersionIndicator>النسخة {0}</VersionIndicator>
+  <VersionIndicator>ﺔﺨﺴﻨﻟﺍ  {0}</VersionIndicator>
   <DevelopmentBuildLower>development build</DevelopmentBuildLower>
-  <CompiledOn>Compiled {0}</CompiledOn>
+  <CompiledOn>ﻊﻤﺟ {0}</CompiledOn>
 
-	<MeatLabel>{0} لحم</MeatLabel>
-  <MeatDesc>Raw flesh of a {0}.</MeatDesc>
+	<MeatLabel>{0} ﻢﺤﻟ</MeatLabel>
+  <MeatDesc>ﻝ ﺊﻴﻨﻟﺍ ﻢﺤﻠﻟﺍ {0}.</MeatDesc>
 
-	<CorpseLabel>{0} corpse</CorpseLabel>
-	<CorpseDesc>Dead body of a {0}.</CorpseDesc>
+  <LeatherLabel>{0} ﺪﻠﺟ</LeatherLabel>
+  <LeatherDesc>ﺪﻠﺟ ﻦﻣ ﺔﻋﻮﻨﺼﻤﻟﺍ ﺩﻮﻠﺠﻟﺍ {0}.</LeatherDesc>
+
+  <CorpseLabel>{0} ﺔﺜﺟ</CorpseLabel>
+	<CorpseDesc>ﻝ ﺔﺜﺟ {0}.</CorpseDesc>
+  <DeadLabel>{0} (ﻰﻓﻮﺘﻣ)</DeadLabel>
 
 
-	<BlueprintLabelExtra> (blueprint)</BlueprintLabelExtra>
-  <FrameLabelExtra> (frame)</FrameLabelExtra>
+	<BlueprintLabelExtra> (ﻂﻄﺨﻣ)</BlueprintLabelExtra>
+  <FrameLabelExtra> (ﺀﺎﻨﺑ)</FrameLabelExtra>
+  
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <VariousLabel>(various)</VariousLabel>
+
+  <!-- History events -->
+  <ColonistDied>ﺮﻤﻌﺘﺴﻣ ﻲﻓﻮﺗ</ColonistDied>
   
   
   
