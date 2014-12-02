@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+
+ <Construction.skillLabel>ﺀﺎﻨﺒﻟﺍ </Construction.skillLabel>
+		 <Construction.pawnLabel>Constructor</Construction.pawnLabel>
+		
+		 <Growing.skillLabel>ﺔﻋﺭﺍﺰﻟﺍ </Growing.skillLabel>
+		 <Growing.pawnLabel>ﻉﺭﺍﺰﻟﺍ</Growing.pawnLabel>
+
+ <Research.skillLabel>ﺙﺎﺤﺑﺃ </Research.skillLabel>
+ 
+ <Research.pawnLabel>ﺙﻮﺤﺑ </Research.pawnLabel>
+ <Mining.skillLabel>ﻢﺟﺎﻨﻣ </Mining.skillLabel>
+ <Mining.pawnLabel>ﻢﺠﻨﻣ </Mining.pawnLabel>
+
+ <Shooting.skillLabel>ﺔﻳﺎﻣﺮﻟﺍ </Shooting.skillLabel>
+
+ <Shooting.pawnLabel>ﺭﺎﻨﻟﺍ ﻖﻠﻄﻣ</Shooting.pawnLabel>
+ <Melee.skillLabel>ﺓﺮﺟﺎﺸﻤﻟﺍ </Melee.skillLabel>
+
+ <Melee.pawnLabel>ﺓﺮﺟﺎﺸﻤﻟﺍ </Melee.pawnLabel>
+
+ <Social.skillLabel>ﻲﻋﺎﻤﺘﺟﻻﺍ </Social.skillLabel>
+
+ <Social.pawnLabel>ﻲﻋﺎﻤﺘﺟﻻﺍ </Social.pawnLabel>
+
+ <Cooking.skillLabel>ﺦﺒﻄﻟﺍ </Cooking.skillLabel>
+
+ <Cooking.pawnLabel>ﺦﺒﻃ </Cooking.pawnLabel>
+
+ <Medicine.skillLabel>ﺐﻄﻟﺍ </Medicine.skillLabel>
+ <Medicine.pawnLabel>ﺐﻴﺒﻃ </Medicine.pawnLabel>
+		
+		 <Artistic.skillLabel>Artistic</Artistic.skillLabel>
+		 <Artistic.pawnLabel>Artist</Artistic.pawnLabel>
+ <Crafting.skillLabel>ﺔﻳﻭﺪﻴﻟﺍ ﻝﺎﻤﻋﻻﺍ</Crafting.skillLabel>
+
+ <Crafting.pawnLabel>ﻲﻓﺮﺤﻟﺍ </Crafting.pawnLabel>
+
+
+</LanguageData>
