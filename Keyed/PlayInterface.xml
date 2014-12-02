@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Overview>نظرة عامة</Overview>
-  <OverviewTip>أدر أولويات عمل المستعمرة و إحصائيتها</OverviewTip>
-  <ResearchTip>فكر و قرر في مشاريع البحث</ResearchTip>
-  <Wiki>الموسوعة</Wiki>
-  <WikiTip>افتح متصفح الانترنت للوصول إلى موسوعة اللعبة و الحصول على مساعدة للعب</WikiTip>
-  <Menu>القائمة</Menu>
-  <MenuTip>حفظ , استعادة , أو خروج من اللعبة أو تغيير الخيارات</MenuTip>
+  <Overview>ﺔﻣﺎﻋ ﺓﺮﻈﻧ</Overview>
+  <OverviewTip>ﺎﻬﺘﻴﺋﺎﺼﺣﺇ ﻭ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﻤﻋ ﺕﺎﻳﻮﻟﻭﺃ ﺭﺩﺃ.</OverviewTip>
+  <ResearchTip>ﺚﺤﺒﻟﺍ ﻊﻳﺭﺎﺸﻣ ﻲﻓ ﺭﺮﻗ ﻭ ﺮﻜﻓ.</ResearchTip>
+  <Wiki>ﺔﻋﻮﺳﻮﻤﻟﺍ</Wiki>
+  <WikiTip>ﺐﻌﻠﻟ ﺓﺪﻋﺎﺴﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻭ ﺔﺒﻌﻠﻟﺍ ﺔﻋﻮﺳﻮﻣ ﻰﻟﺇ ﻝﻮﺻﻮﻠﻟ ﺖﻧﺮﺘﻧﻻﺍ ﺢﻔﺼﺘﻣ ﺢﺘﻓﺍ.</WikiTip>
+  <Menu>ﺔﻤﺋﺎﻘﻟﺍ</Menu>
+  <MenuTip>ﺕﺍﺭﺎﻴﺨﻟﺍ ﺮﻴﻴﻐﺗ ﻭﺃ ﺔﺒﻌﻠﻟﺍ ﻦﻣ ﺝﻭﺮﺧ ﻭﺃ , ﺓﺩﺎﻌﺘﺳﺍ , ﻆﻔﺣ.</MenuTip>
 
-  <Architect>البناء</Architect>
+  <Architect>ﺀﺎﻨﺒﻟﺍ</Architect>
 
 
 </LanguageData>
