@@ -4,33 +4,33 @@
   <DesignatorCancel>Cancel</DesignatorCancel>
   <DesignatorCancelDesc>Cancel designated building, mining, hauling, harvesting, and all other designations.</DesignatorCancelDesc>
 
-  <DesignatorCutPlants>Cut plants</DesignatorCutPlants>
+  <DesignatorCutPlants>ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻄﻗ</DesignatorCutPlants>
   <DesignatorCutPlantsDesc>Marks plants to be cut and destroyed. The plant will be completely removed, and any food will be harvested.</DesignatorCutPlantsDesc>
 
   <DesignatorDeconstruct>Deconstruct</DesignatorDeconstruct>
   <DesignatorDeconstructDesc>Deconstruct buildings and reclaim part of their resources.</DesignatorDeconstructDesc>
 
-  <DesignatorHarvestFood>Harvest food</DesignatorHarvestFood>
-  <DesignatorHarvestFoodDesc>Marks plants to be harvested for food. Food will be harvested as possible from the plant, but the plant itself will remain.</DesignatorHarvestFoodDesc>
+  <DesignatorHarvest>Harvest</DesignatorHarvest>
+  <DesignatorHarvestDesc>Marks plants to be harvested for their food or other products.</DesignatorHarvestDesc>
 
-  <DesignatorHarvestWood>Chop wood</DesignatorHarvestWood>
+  <DesignatorHarvestWood>ﺐﺸﺨﻟﺍ ﻊﻄﻗ</DesignatorHarvestWood>
   <DesignatorHarvestWoodDesc>Marks trees to be chopped down for wood.</DesignatorHarvestWoodDesc>
 
   <DesignatorHaulThings>Haul things</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Mark debris and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable.</DesignatorHaulThingsDesc>
+  <DesignatorHaulThingsDesc>Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable.</DesignatorHaulThingsDesc>
   <NothingToHaulHere>Nothing to haul here.</NothingToHaulHere>
-  <MustHaulHaulables>Can only designate haulable non-automatic things (like debris).</MustHaulHaulables>
+  <MustHaulHaulables>Can only designate haulable non-automatic things (like rock chunks).</MustHaulHaulables>
 
-  <DesignatorHunt>Hunt</DesignatorHunt>
+  <DesignatorHunt>ﺪﻴﺻ</DesignatorHunt>
   <DesignatorHuntDesc>Mark animals to be hunted by your hunters.</DesignatorHuntDesc>
 
-  <DesignatorMine>Mine</DesignatorMine>
+  <DesignatorMine>ﺐﻴﻘﻨﺗ</DesignatorMine>
   <DesignatorMineDesc>Designate areas of rock to be mined out.</DesignatorMineDesc>
 
-  <DesignatorPlan>Plan</DesignatorPlan>
+  <DesignatorPlan>ﻂﻄﺨﻣ</DesignatorPlan>
   <DesignatorPlanDesc>Place planning designations. These don't do anything except help you plan future expansions.</DesignatorPlanDesc>
 
-  <DesignatorPlanRemove>Remove plans</DesignatorPlanRemove>
+  <DesignatorPlanRemove>ﻂﻄﺨﻟﺍ ﺔﻟﺍﺯﺇ</DesignatorPlanRemove>
   <DesignatorPlanRemoveDesc>Remove planning designations.</DesignatorPlanRemoveDesc>
 
   <DesignatorHomeRegionAdd>Add Home Region</DesignatorHomeRegionAdd>
@@ -55,14 +55,18 @@
   <DesignatorZoneDelete>Delete zones</DesignatorZoneDelete>
   <DesignatorZoneDeleteDesc>Remove zones, like stockpile zones or growing zones.</DesignatorZoneDeleteDesc>
   
+  <DesignatorClaim>Claim</DesignatorClaim>
+  <DesignatorClaimDesc>Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists.</DesignatorClaimDesc>
   
   
   <!-- placement of blueprints -->
+  <UnchosenStuff>Unchosen material</UnchosenStuff>
   <TooCloseToMapEdge>Too close to map edge.</TooCloseToMapEdge>
   <OutOfBounds>Out of bounds.</OutOfBounds>
   <CannotPlaceInUndiscovered>Cannot place in undiscovered areas.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>Interaction spot is blocked.</InteractionSpotBlocked>
-  <InteractionSpotWillBeBlocked>Interaction location will be blocked.</InteractionSpotWillBeBlocked>
+  <InteractionSpotBlocked>Interaction spot is blocked by {0}.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Interaction spot is out of bounds.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Interaction spot will be blocked by {0}.</InteractionSpotWillBeBlocked>
   <WouldBlockInteractionSpot>{0} would block {1}'s interaction square.</WouldBlockInteractionSpot>
   <TerrainIsAlready>The terrain here is already {0}.</TerrainIsAlready>
   <IdenticalThingExists>Identical thing already exists here.</IdenticalThingExists>
@@ -70,6 +74,8 @@
   <TerrainCannotSupport>The terrain here cannot support this.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Space already occupied.</SpaceAlreadyOccupied>
 
+  
+  
   <!-- placement of zones -->
   <ExpandOrCreateZone>Expand {0} or\nCreate new {1}</ExpandOrCreateZone>
   <CreateNewZone>Create new {0}</CreateNewZone>
