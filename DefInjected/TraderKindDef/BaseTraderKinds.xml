@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<FarmingVessel.label> ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ ﺮﺟﺎﺗ </FarmingVessel.label>
+	<IndustrialTrader.label> ﻲﻋﺎﻨﺼﻟﺍ ﺮﺟﺎﺗ </IndustrialTrader.label>
+	<CombatSupplier.label>ﺡﻼﺴﻟﺍ ﺮﺟﺎﺗ</CombatSupplier.label>
+	<SlaveTrader.label>ﺪﻴﺒﻌﻟﺍ ﺮﺟﺎﺗ </SlaveTrader.label>
+	<ExoticTrader.label>ﺔﺒﻳﺮﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ ﺮﺟﺎﺗ</ExoticTrader.label>
+  
+</LanguageData>
