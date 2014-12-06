@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	
+	
+<Torso.label>ﺮﺼﺨﻟﺍ</Torso.label>
+	
+<UpperHead.label>ﺱﺃﺭ</UpperHead.label>
+	
+<FullHead.label>ﺱﺍﺮﻟﺍ ﻞﻣﺎﻛ</FullHead.label>
+	
+<Eyes.label>ﻥﻮﻴﻌﻟﺍ</Eyes.label>
+	
+<Arms.label>ﻉﺭﺫﻻﺍ</Arms.label>
+	
+<Hands.label>ﻦﻳﺪﻴﻟﺍ</Hands.label>
+	
+<LeftFist.label>ﺭﺎﺴﻴﻟﺍ ﺔﻀﺒﻗ</LeftFist.label>
+	
+<RightFist.label>ﻦﻴﻤﻴﻟﺍ ﺔﻀﺒﻗ</RightFist.label>
+	
+<Legs.label>ﻦﻴﻗﺎﺴﻟﺍ</Legs.label>
+	
+<Feet.label>ﻡﺪﻗ</Feet.label>
+	
+<Teeth.label>ﻥﺎﻨﺳﺃ</Teeth.label>
+	
+<FrontLeftPaw.label>ﺮﺴﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﺐﻠﺨﻣ</FrontLeftPaw.label>
+	
+<FrontRightPaw.label>ﻦﻤﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﺐﻠﺨﻣ</FrontRightPaw.label>
+	
+<HeadAttackTool.label>ﺱﺃﺭ</HeadAttackTool.label>
+	
+<FrontLeftLeg.label>ﺭﺎﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</FrontLeftLeg.label>
+	
+<FrontRightLeg.label>ﻦﻤﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</FrontRightLeg.label>
+	
+<FrontLeftClaws.label>ﺮﺴﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﺐﻠﺨﻣ</FrontLeftClaws.label>
+	
+<FrontRightClaws.label>ﻦﻤﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﺐﻠﺨﻣ</FrontRightClaws.label>
+	
+<Mouth.label>ﻢﻓ</Mouth.label>
+	
+<LeftKnifeProtrusion.label>ﻯﺮﺴﻴﻟﺍ ﺔﻴﺣﺎﻨﻟﺍ ﻦﻴﻜﺳ ﺀﻮﺘﻧ </LeftKnifeProtrusion.label>
+	
+<RightKnifeProtrusion.label>ﻮﻰﻨﻤﻴﻟﺍ ﺔﻴﺣﺎﻨﻟﺍ ﻦﻴﻜﺳ ﺀﻮﺘﻧ </RightKnifeProtrusion.label>
+	
+<CoveredByNaturalArmor.label>ﻲﻌﻴﺒﻄﻟﺍ ﻉﺭﺩ ﺔﻄﺳﺍﻮﺑ ﺔﻴﻤﺤﻣ</CoveredByNaturalArmor.label>
+	<TuskAttackTool.label>ﺏﺎﻴﻧﻷﺍ</TuskAttackTool.label>
+	
+<HornAttackTool.label>ﻥﻭﺮﻗ</HornAttackTool.label>
+	
+<TurtleBeakAttackTool.label>ﺭﺎﻘﻨﻣ</TurtleBeakAttackTool.label>
+		
+
+</LanguageData>
