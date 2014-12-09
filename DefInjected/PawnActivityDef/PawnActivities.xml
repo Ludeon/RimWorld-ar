@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+
+
+	<Consciousness.label>ﻲﻋﻮﻟﺍ</Consciousness.label>
+	
+
+
+
+	<Consciousness.labelMechanoids>ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﺔﺠﻟﺎﻌﻣ</Consciousness.labelMechanoids>
+
+
+
+	<Sight.label>ﺔﻳﺅﺮﻟﺍ</Sight.label>
+	
+
+
+	<Hearing.label>ﻉﺎﻤﺘﺳﻻﺍ</Hearing.label>
+	
+	
+
+
+	<Moving.label>ﺔﻛﺮﺤﻟﺍ</Moving.label>
+	
+
+
+	<Manipulation.label>ﻞﻤﻌﻟﺍ</Manipulation.label>
+	
+
+
+	<Talking.label>ﺙﺪﺤﺘﻟﺍ</Talking.label>
+	
+
+
+	<Talking.labelMechanoids>ﻞﺻﺍﻮﺘﻟﺍ</Talking.labelMechanoids>
+	
+
+
+	<Eating.label>ﻞﻛﻷﺍ</Eating.label>
+	
+
+
+	<Breathing.label>ﺲﻔﻨﺘﻟﺍ</Breathing.label>
+	
+
+
+	<BloodFiltration.label>ﻡﺪﻟﺍ ﺔﻴﻔﺼﺗ </BloodFiltration.label>
+	
+
+
+	<BloodPumping.label> ﻡﺪﻟﺍ ﻂﻐﺿ</BloodPumping.label>
+	
+
+
+	<Metabolism.label>ﺾﻳﻷﺍ</Metabolism.label>
+	
+
+</LanguageData>
