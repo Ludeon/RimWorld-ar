@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+
+	<!-- Colony faction -->
+
+
+	<Colony.label>ﺓﺮﻤﻌﺘﺴﻣ</Colony.label>
+
+	<Colony.description>.ﻚﺑ ﺹﺎﺨﻟﺍ ﻊﻤﺘﺠﻤﻟﺍ</Colony.description>
+
+	<Colony.pawnsPlural>ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ</Colony.pawnsPlural>
+
+
+	
+	<!-- Hidden factions -->
+
+
+	<Spacer.label>ﺀﺎﻀﻔﻟﺍ ﺩﺍﻭﺭ</Spacer.label>
+
+	<Spacer.description>.ﺀﺎﻀﻔﻟﺍ ﻦﻣ ﺓﺪﻴﻌﺑ ﻕﺎﻤﻋﺃ ﻦﻣ ﺱﺎﻧ</Spacer.description>
+
+	<Spacer.pawnsPlural>ﺀﺎﻀﻔﻟﺍ ﺩﺍﻭﺭ</Spacer.pawnsPlural>
+
+
+	
+	<!-- Normal humanoid factions -->
+
+
+	<Outlander.label>ﺀﺎﺑﺮﻐﻟﺍ ﺔﻨﻳﺪﻣ</Outlander.label>
+
+	<Outlander.description>.ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻟﺍﻭ ﺔﻘﺜﻟﺍﻭ ﺓﺭﺎﺠﺘﻟﺍ - ﺢﻟﺎﺼﻤﻟﺍ ﺎﻬﻟﺎﺠﻣ ،ﺔﻔﻴﻌﺿ ﺖﺴﻴﻟﻭ ﺔﻴﻧﺍﻭﺪﻋ ﺖﺴﻴﻟ ﻲﻬﻓ ،ﺎﻬﺘﻌﻴﺒﻃ ﻢﻜﺤﺑ \n\n ﺩﻭﺭﺎﺒﻟﺍ ﺔﺤﻠﺳﺃ ﻦﻴﺴﺤﺗ ﻢﻬﻴﻤﺤﻳﻭ ،ﺔﻄﻴﺴﺒﻟﺍ ﺔﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﻢﻴﻣﺎﺼﺘﻟﺍﻭ ﺕﺍﻭﺩﺃ ﻥﻮﻣﺪﺨﺘﺴﻳ ﺓﺩﺎﻋ ﺔﺑ ﻥﻮﻣﻮﻘﻳ ﻱﺬﻟﺍ ﻞﻤﻌﻟﺍ ﻲﻓﻭ .ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺍﻭﺪﻘﻓ ﺪﻘﻟ .ﺩﻮﻘﻋ ﻯﺪﻣ ﻰﻠﻋ ﺎﻨﻫ ﺱﺎﻨﻟﺍ ﺀﻻﺆﻫ ﺍﻮﺷﺎﻋ \n\n .ﻦﻴﺟﺎﻨﻟﺍ ﻦﻣ ﺮﻴﻐﺻ ﻊﻤﺘﺠﻣ</Outlander.description>
+
+	<Outlander.pawnsPlural>ﺀﺎﺑﺮﻐﻟﺍ</Outlander.pawnsPlural>
+
+
+
+	<Pirate.label>ﺔﻨﺻﺍﺮﻘﻟﺍ ﺔﺑﺎﺼﻋ</Pirate.label>
+
+	<Pirate.description>.ﻢﺣﻼﺘﻤﻟﺍ ﻝﺎﺘﻘﻟﺍ ﻭ ﺪﻴﻌﺒﻟﺍ ﻞﺘﻘﻠﺑ ﻦﻳﺪﻳﺆﻤﻟﺍ ﺾﻌﺑ ﺎﻤﺋﺍﺩ ﻙﺎﻨﻫ ﻥﻮﻜﻴﺳ ﻦﻜﻟﻭ ، ﺔﻗﺎﻄﻟﺍ ﺔﺤﻠﺳﺃ ﻲﻓ ﺔﻴﻠﻀﻓﻻﺍ ﺎﻬﻟ ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ ﺎﻈﺣ ﺮﺜﻛﺃ ﻢﻬﻧﺃ ،ﺔﻳﺭﺎﻧ ﺔﺤﻠﺳﺃ ﻰﻠﻋ ﺐﻟﺎﻐﻟﺍ ﻲﻓ ﻮﻠﺼﺣﻭ .ﺔﻗﺮﺴﺑ ﺍﺮﺧﺆﻣ ﺖﻨﻜﻤﺗ ﺎﻬﻧﺃ ﺔﻘﻴﻘﺤﻟﺍ ﻲﻓ ،ﺔﻗﺮﺴﻟﺍ ﻰﻠﻋ ،ﺪﻤﺘﻌﻳ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﺎﻫﺍﻮﺘﺴﻣ \n\n .ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺔﻴﺟﺎﺘﻧﺇ ﺮﺜﻛﺃ ﺕﺎﻋﻮﻤﺠﻣ ﺐﻬﻧﻭ ﺕﺎﻤﻫﺍﺪﻤﻟﺍ ﻲﻓ ﻥﻮﻣﻮﻘﻳ ﺐﻟﺎﻐﻟﺍ ﻲﻓ .ﻥﻭﺮﺟﺎﺘﻳ ﺎﻣﺍﺭﺩﺎﻧ ﺔﻓﺎﺿﻹﺎﺑ ،ﺀﺎﻨﺒﻟﺍﻭ ﺔﻋﺍﺭﺰﻟﺍ ﻲﻓ ﻞﻤﻌﺗ ﻻ ﺔﻨﺻﺍﺮﻘﻟﺍ \n\n .ﻕﺮﻄﻟﺍ ﻉﺎﻄﻗ ﻦﻣ ﺔﺑﺎﺼﻋ</Pirate.description>
+
+	<Pirate.pawnsPlural>ﺔﻨﺻﺍﺮﻘﻟﺍ</Pirate.pawnsPlural>
+
+
+
+	<Tribal.label>ﻦﻴﻴﻠﺻﻷﺍ ﻥﺎﻜﺴﻟﺍ</Tribal.label>
+
+	<Tribal.description>.ﺔﻴﻟﺎﻋ ﻞﻤﺤﺘﻟﺍ ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍﻭ ﺔﻀﻔﺨﻨﻣ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﺔﺤﻠﺳﺃ ﻊﻣ ﻞﻣﺎﻌﺘﻠﻟ ﻢﻬﺗﺍﺭﺎﻬﻣ ﺀﺍﺪﻋﺃ ﻮﻧﺎﻛ ﺍﺫﺍ ﻦﻴﺸﺣﻮﺘﻣ ﻮﻧﻮﻜﻳ ﻥﺍ ﻦﻜﻤﻳ ،ﺢﺿﺍﻭ ﻲﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻒﻌﻀﻟﺍ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ \n\n . ﻦﻴﻨﻃﺍﻮﻤﻟﺍ ﻦﻴﺑ ﺔﻠﺋﺎﻬﻟﺍ ﺔﻳﻮﻐﻠﻟﺍﻭ ﺔﻴﻋﺎﻤﺘﺟﻻﺍﻭ ﺔﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﺕﺎﻓﻼﺘﺧﻻﺍ ﺐﺒﺴﺑ ﺔﻳﺎﻐﻠﻟ ﺐﻌﺼﻟﺍ ﻦﻣ ﻥﻮﻜﻴﺳ ﺪﻗﺎﻌﺘﻟﺍﻭ ﻖﻴﺛﻮﻟﺍ ﻥﻭﺎﻌﺘﻟﺍ ﻥﺈﻓ .ﻚﻠﺜﻣ ﺐﻌﺷ ﻊﻣ ﻰﺘﺣﻭ ،ﺕﺎﻔﻟﺎﺤﺘﻟﺍﻭ ﺓﺭﺎﺠﺘﻟﺍ ﻰﻠﻋ ﺔﺤﺘﻔﻨﻣ ﻢﻬﻨﻣ ﺪﻳﺪﻌﻟﺍ .ﻢﻫﺮﻴﻏ ﻦﻣ ﺔﻴﻧﺍﻭﺪﻋ ﺮﺜﻛﺃ ﻲﻫ ﺔﻴﺋﺍﺪﺒﻟﺍ ﻞﺋﺎﺒﻘﻟﺍ ﺾﻌﺑ \n\n  ﺔﻴﺋﺍﺪﺑ ﺕﺍﻭﺩﺃﻭ ﺔﺤﻠﺳﻷﺍ ﻡﺍﺪﺨﺘﺳﺍﻭ ﺽﺭﻷﺍ ﺏﺎﺴﺣ ﻰﻠﻋ ﻥﻮﺸﻴﻌﻳ ﻦﻳﺬﻟﺍ ﻭﺪﺒﻟﺍ - ﻦﻴﻴﻠﺻﻷﺍ ﻥﺎﻜﺴﻟﺍ ﻦﻣ ﻰﻤﻈﻌﻟﺍ ﺔﻴﺒﻟﺎﻐﻟﺍ ﻥﺈﻓ ،ﻝﺎﺣ ﻱﺃ ﻲﻓ .ﺎﻨﻫ ﺓﺭﺎﻀﺤﻟﺍ ﺮﻳﻮﻄﺗ ﺕﺮﻣﺩ ﻲﺘﻟﺍ ﺔﺛﺭﺎﻛ ﻦﻣ ﺍﻮﺠﻧ ﻢﻬﻧﻷ ﺎﻤﺑﺭ ﻭﺍ .ﻦﻴﻨﺴﻟﺍ ﻑﻻﺁ ﻞﺒﻗ ﺎﻨﻫ ﻢﻫﺩﺍﺪﺟﺃ ﻲﻟ ﺔﻟﻮﺴﺒﻛ ﺖﻤﻄﺤﺗ ﺎﻤﺑﺭ .ﺍﺪﺟ ﻞﻳﻮﻃ ﺖﻗﻭ ﺬﻨﻣ ،ﺎﻨﻫ ﻥﻮﺸﻴﻌﻳ ﺱﺎﻨﻟﺍ ﺀﻻﺆﻫ</Tribal.description>
+	<Tribal.pawnsPlural>ﻦﻴﻴﻠﺻﻷﺍ ﻥﺎﻜﺴﻟﺍ</Tribal.pawnsPlural>
+
+
+
+	<!-- Special non-humanoid factions -->
+
+
+	<Mechanoid.label>Mechanoids ﻱﻭﺭ</Mechanoid.label>
+
+	<Mechanoid.description>.ﺮﺛﺎﻜﺘﻟﺍ ﻲﺗﺍﺫ ﺔﻤﻳﺪﻘﻟﺍ ﺕﻻﺁﻭ ،ﻱﻭﺭ</Mechanoid.description>
+
+	<Mechanoid.pawnsPlural>Mechanoids</Mechanoid.pawnsPlural>
+
+	<Mechanoid.fixedName>Mechanoids ﻱﻭﺭ</Mechanoid.fixedName>
+
+
+</LanguageData>
