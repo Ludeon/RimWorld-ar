@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<Wealth.label>ﺕﺍﻭﺮﺜﻟﺍ</Wealth.label>
+
+	<Wealth.graphLabelY>ﺔﻤﻴﻗ</Wealth.graphLabelY>
+
+	<Population.label>ﻥﺎﻜﺴﻟﺍ ﺩﺪﻋ</Population.label>
+
+	<Population.graphLabelY>ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ</Population.graphLabelY>
+
+	<ColonistMood.label>ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺝﺍﺰﻣ</ColonistMood.label>
+
+	<ColonistMood.graphLabelY>ﺔﺌﻤﻟﺍ ﻲﻓ </ColonistMood.graphLabelY>
+
+  
+</LanguageData>
