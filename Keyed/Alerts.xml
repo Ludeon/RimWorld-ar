@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ClickToJumpToProblem> ﺔﻠﻜﺸﻣ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻼﻟ ﻂﻐﺿﺍ</ClickToJumpToProblem>
-
-
-
+  <ClickToJumpToProblem> ﺔﻠﻜﺸﻣ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻼﻟ ﻂﻐﺿﺍ</ClickToJumpToProblem>
 
   <AlertNeedStockpile>ﺕﺎﻧﻭﺰﺨﻤﻟﺍ ﺔﺟﺎﺣ</AlertNeedStockpile>
   <AlertNeedStockpileDesc>ﻲﻠﻔﺴﻟﺍ ﺭﺎﺴﻴﻟﺍ ﻲﻓ ﻱﺭﺎﻤﻌﻣ ﺔﻤﺋﺎﻘﻟﺍ ﻖﻃﺎﻨﻤﻟﺍ ﻦﻣ ﻢﺴﻗ ﻲﻓ ﺕﺎﻧﻭﺰﺨﻤﻟﺍ ﺪﺠﺗ \n\n. .ﺀﺎﻴﺷﻷﺍ ﻦﻳﺰﺨﺘﻟ ﻢﻬﻟ ﺔﺒﺴﻨﻟﺎﺑ ﻥﻭﺰﺨﻣ ﻦﻴﻴﻌﺗ .ﺮﺻﺎﻨﻌﻟﺍ ﻦﻳﺰﺨﺘﻟ ﻥﺎﻜﻣ ﻰﻟﺇ ﺔﺟﺎﺣ ﻲﻓ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ.</AlertNeedStockpileDesc>
@@ -55,60 +52,71 @@
   <NeedColonistBeds>ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﺓﺮﺳﺃ ﻰﻟﺇ ﺝﺎﺘﺤﺗ</NeedColonistBeds>
   <NeedColonistBedsDesc>.ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳﻭ ﺓﺮﺣ ﻥﻮﻜﺗ ﻡﻮﻨﻟﺍ ﻊﻗﺍﻮﻣﻭ ،ﺩﺭﺍﻮﻤﻟﺍ ﻚﻳﺪﻟ ﺲﻴﻟ ﺍﺫﺇ \n\n.ﺮﻤﻌﺘﺴﻤﻟﺍ ﺮﻳﺮﺳ ﻰﻟﺇ ﻦﻴﺠﺳ ﺮﻳﺮﺳ ﺮﻴﻴﻐﺗ ﻭﺃ ،ﺓﺮﺳﺃ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻢﻳﺪﻘﺗ ﺎﻣﺇ \n\n.ﻡﻮﻨﻠﻟ ﻥﺎﻜﻣ ﻰﻟﺇ ﺎﻣ ﺺﺨﺷ ﺮﻘﺘﻔﻳ ﻑﻮﺳ . ﺓﺮﺳﺃ ﻦﻣ ﻚﻳﺪﻟ ﺎﻤﻣﺮﺜﻛﺍ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻚﻳﺪﻟ</NeedColonistBedsDesc>
 
+
+  <HunterLacksWeapon>ﺡﻼﺴﻟﺍ ﻰﻟﺇ ﺮﻘﺘﻔﻳ ﺩﺎﻴﺼﻟﺍ</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>.ﺡﻼﺴﻟﺍ ﻢﻬﺋﺎﻄﻋﺇ ﻲﺻﻮﻧ ﻦﺤﻧﻭ ،ﺕﺎﺑﺎﺻﻹﺍ ﻦﻣ ﺪﺤﻠﻟ \n\n.ﺡﻼﺳ ﻰﻠﻋ ﻞﺼﺤﻳ ﻰﺘﺣ ﺓﺩﺭﺎﻄﻳ ﻦﻟ ﺎﻬﻧﺈﻓ .ﺡﻼﺴﻟﺍ ﻪﻳﺪﻟ ﺪﺟﻮﻳ ﻻ ﻦﻜﻟﻭ ﺩﺎﻴﺼﻟ ﺮﻤﻌﺘﺴﻣ ﻦﻴﻴﻌﺗ ﻢﺗ</HunterLacksWeaponDesc>
+
   <Starvation>ﺔﻋﺎﺠﻣ  </Starvation>
   <StarvationDesc>.ﻪﺘﻏﺎﻴﺻ ﻻ ﻢﻬﻧﺍ ﻦﻣ ﺪﻛﺄﺗ ،ﺎﻀﻳﺃ .ﻪﻴﻠﻋ ﻡﺎﻌﻃﻹ ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ ﺾﻌﺑﻭ ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻖﺼﻟ ﻉﺯﻮﻣ ﻞﺜﻣ ﺀﺍﺬﻐﻟﺍ ﺭﺪﺼﻣ ﻰﻠﻋ ﻞﺼﺤﺗ ﻥﺍ ﻚﻴﻠﻋ .ﻡﺎﻌﻄﻟﺍ ﺾﻌﺑ ﻢﻬﻟ ﻝﻮﺼﺤﻟﺍ \n{٠}\n\n:ﺎﻋﻮﺟ ﻥﻭﺭﻮﻀﺘﻳ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ</StarvationDesc>
 
-  <Exhaustion>Exhaustion</Exhaustion>
-  <ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
+  <Exhaustion>ﻕﺎﻫﺭﻹﺍ </Exhaustion>
+  <ExhaustionDesc>.ﺮﻤﻌﺘﺴﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺮﻳﺮﺴﻟﺍ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ﻑﻮﺳ ﺎﻬﻧﺃﻭ .ﺔﺣﺍﺮﻟﺍ ﻦﻣ ﻂﺴﻗ ﻲﻠﻋ ﻝﻮﺼﺤﻟﺍ  \n{0}\n\n :ﺔﺣﺍﺮﻟﺍ ﻰﻟﺍ ﻥﻮﺟﺎﺘﺤﻳﻭ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻩﺬﻫ ﺩﺎﻔﻨﺘﺳﺍ ﻢﺗ </ExhaustionDesc>
 
   <NeedFoodHopper>Need food hopper</NeedFoodHopper>
   <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
 
-  <BuildingNeedsPower>يحتاج المبنى للطاقة</BuildingNeedsPower>
-  <BuildingsNeedPower>يحتاج المبنى للطاقة</BuildingsNeedPower>
-  <BuildingsNeedPowerDesc>These power-using buildings are totally disconnected from all possible power sources:\n\n{0}\nConnect them to a power generator or battery.</BuildingsNeedPowerDesc>
-  <AndMore>and more</AndMore>
+  <BuildingNeedsPower>ﺔﻗﺎﻄﻠﻟ ﻰﻨﺒﻤﻟﺍ ﺝﺎﺘﺤﻳ</BuildingNeedsPower>
+  <BuildingsNeedPower>ﺔﻗﺎﻄﻠﻟ ﻰﻨﺒﻤﻟﺍ ﺝﺎﺘﺤﻳ</BuildingsNeedPower>
+  <BuildingsNeedPowerDesc>.ﺔﻳﺭﺎﻄﺒﻟﺍ ﻭﺃ ﺀﺎﺑﺮﻬﻜﻟﺍ ﺪﻟﻮﻣ ﻊﻣ ﺎﻬﻄﺑﺭﻭ \n{0}\n\n:ﺔﻗﺎﻄﻟ ﺔﻠﻤﺘﺤﻤﻟﺍ ﺭﺩﺎﺼﻤﻟﺍ ﻊﻴﻤﺟ ﻦﻣ ﺎﻣﺎﻤﺗ ﺔﻗﺎﻄﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻲﻧﺎﺒﻤﻟﺍ ﻩﺬﻫ ﻝﺎﺼﺗﻻﺍ ﻊﻄﻗ</BuildingsNeedPowerDesc>
+  <AndMore>ﺪﻳﺰﻤﻟﺍﻭ</AndMore>
 
-  <NeedMealSource>Need meal source</NeedMealSource>
-  <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a nutrient paste dispenser or a cook stove.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
+  <NeedMealSource>ﻡﺯﻼﻟﺍ ﺀﺍﺬﻐﻟﺍ</NeedMealSource>
+  <NeedMealSourceDesc>(.ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻙﺎﻨﻫ ،ﻦﺠﺴﻟﺍ ﺔﻧﺍﺰﻧﺯ ﻲﻓ ﻥﻮﻜﻳ ﻻﺃ ﺐﺠﻳ) \n\n ﺪﻗﻮﻣ ﻭﺃ ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ ﺦﺒﻄﻣ ﺀﺎﻨﺑ \n\n .ﻡﺎﺨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺓﺮﻓﻮﺘﻣ ﻡﺎﻌﻄﻟﺍ ﺕﺎﺒﺟﻭ ﻚﻳﺪﻟ ﺪﺟﻮﻳ ﻻ</NeedMealSourceDesc>
 
-  <NeedHomeRegion>Need home region</NeedHomeRegion>
-  <NeedHomeRegionDesc>You need to define a HOME REGION where your colonists will clean, extinguish fires, and repair things.\n\nDefine a home region using the ZONES section of the ARCHITECT menu.</NeedHomeRegionDesc>
+  <NeedHomeRegion>ﻝﺰﻨﻤﻠﻟ ﺔﻨﻣﻻﺍ ﺔﻘﻄﻨﻤﻟﺍ</NeedHomeRegion>
+  <NeedHomeRegionDesc>.ﻱﺭﺎﻤﻌﻣ ﺔﻤﺋﺎﻘﻟﺍ ﻲﻓ ﻖﻃﺎﻨﻤﻟﺍ ﻢﺴﻗ ﻦﻣ ﻝﺰﻨﻤﻠﻟ ﺔﻨﻣﻻﺍ ﺔﻘﻄﻨﻤﻟﺍ ﺪﻳﺪﺤﺘﻟ \n\n . ﻞﻛﺎﻴﻬﻟﺍ ﺡﻼﺻﺍﻭ ﻖﺋﺍﺮﺤﻟﺍ ﺀﺎﻔﻃﺇ ﻭ ﻒﻴﻈﻨﺘﻟﺍ ﻢﻬﻨﻜﻤﻳ ﻑﻮﺳ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻂﻘﻓ .ﺔﻨﻣﻻﺍ ﻖﻃﺎﻨﻤﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</NeedHomeRegionDesc>
 
-  <NeedBatteries>Need batteries</NeedBatteries>
-  <NeedBatteriesDesc>You only have solar generators and no batteries. This means you'll lose power every time the sun goes down.\n\nBuild a battery or two to get you through the night.</NeedBatteriesDesc>
+  <NeedBatteries>ﺕﺎﻳﺭﺎﻄﺒﻟﺍ ﺝﺎﺘﺤﺗ</NeedBatteries>
+  <NeedBatteriesDesc>.ﻞﻴﻠﻟﺍ ﻝﻼﺧ ﺀﺎﺑﺮﻬﻜﻟﺍ ﻚﻟ ﺮﻓﻮﺗ ﻲﻜﻟ ﻦﻴﺘﻨﺛﺍ ﻭﺃ ﺔﻳﺭﺎﻄﺑ ﻲﻨﺑﺍ \n\n .ﺲﻤﺸﻟﺍ ﺏﻭﺮﻐﺗ ﺓﺮﻣ ﻞﻛ ﻲﻓ ﺔﻗﺎﻄﻟﺍ ﺪﻘﻔﺗ ﻑﻮﺳ ﻚﻧﺃ ﻲﻨﻌﻳ ﺍﺬﻫ . ﺕﺎﻳﺭﺎﻄﺑ ﻻﻭ ﺔﻴﺴﻤﺸﻟﺍ ﺔﻗﺎﻄﻟﺍ ﺕﺍﺪﻟﻮﻣ ﻯﻮﺳ ﻚﻳﺪﻟ</NeedBatteriesDesc>
 
-  <NoTradingCapacity>No trading capacity</NoTradingCapacity>
-  <NoTradingCapacityDesc>You have no way of trading with passing ships.\n\nBuild a comms console.</NoTradingCapacityDesc>
+  <NoTradingCapacity>ﻮﻳﺩﺍﺮﻟﺍ ﻚﻳﺪﻟ ﺪﺟﻮﻳ ﻻ</NoTradingCapacity>
+  <NoTradingCapacityDesc>.ﺕﻻﺎﺼﺗﻻﺍ ﺓﺪﺣﻭ ﻲﻨﺑﺍ \n\n .ﺭﺍﺪﻤﻟﺍ ﻲﻓ ﻦﻔﺴﻟﺍ ﻊﻣ ﺽﻭﺎﻔﺘﻟﺍ ﻚﻨﻜﻤﻳ ﻻ</NoTradingCapacityDesc>
 
-  <NeedResearchProject>Need research project</NeedResearchProject>
-  <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
+  <BrawlerHasRangedWeapon>ﺡﻼﺴﻟﺍ ﻭ ﺲﻛﺎﺸﻤﻟﺍ </BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>واحد من المستعمرين الخاص بك لديه ميزة المشاكس، ولكن يحمل سلاحا عن بعد. وهذا سيجعلة غيرسعيدة جدا.</BrawlerHasRangedWeaponDesc>
 
-  <NeedDump>Need dump</NeedDump>
-  <NeedDumpDesc>You have marked {0} to be hauled, but the colonists have nowhere to take it.\n\nDesignate a stockpile and set its storage settings to accept {0}.</NeedDumpDesc>
+  <NeedResearchProject>ﻲﺜﺤﺑ ﻉﻭﺮﺸﻤﻟ ﺔﺟﺎﺤﺑ</NeedResearchProject>
+  <NeedResearchProjectDesc>لديك المعدات للقيام بالأبحاث ولكن لم يتم تحديد المشروع. \n\n افتح قائمة البحث واختيار المشروع.</NeedResearchProjectDesc>
 
-  <NeedGrave>Need grave</NeedGrave>
-  <NeedGraveDesc>There is a dead body laying on the ground and nowhere for your colonists to take it.\n\nBuild a grave or a dumping zone and set their storage settings.</NeedGraveDesc>
+  <NeedDump> ﺕﺎﻳﺎﻔﻨﻟﺍ ﺔﻘﻄﻨﻤﻟ ﺔﺟﺎﺤﺑ</NeedDump>
+  <NeedDumpDesc>.ﺕﺎﻳﺎﻔﻨﻟﺍ ﺔﻘﻄﻨﻣ ﻲﻨﺑﺍ \n\n .ﺎﻬﺑﺎﺤﻄﺻﺍ ﻦﻜﻤﻳ ﺚﻴﺣ ﻥﺎﻜﻣ ﻙﺎﻨﻫ ﺲﻴﻟ ،ﻚﻟﺫ ﻊﻣﻭ .ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺍﺪﻴﻌﺑ ﻊﻀﺗ ﻥﺃ ﺪﻳﺮﺗ ﻲﺘﻟﺍ ﺭﻮﺨﺻ ﻚﻳﺪﻟ</NeedDumpDesc>
 
-  <ColonistsIdle>{0} colonists idle</ColonistsIdle>
-  <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
+  <NeedGrave>ﺓﺮﺒﻘﻣ ﺝﺎﺘﺤﺗ</NeedGrave>
+  <NeedGraveDesc>.ﺚﺜﺠﻟﺍ ﻦﻳﺰﺨﺘﻟ ﺎﻬﻨﻴﻋﻭ ﻢﻬﻟ ﺔﻘﻄﻨﻣ ﺩﺪﺣ ﻭﺃ ﺮﺒﻗ ﻲﻨﺑﺍ \n\n .ﺔﻴﻟﺍ ﺎﻫﺬﺧﻷ ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﻥﺎﻜﻣ ﻲﻓ ﺲﻴﻟﻭ ﺽﺭﻷﺍ ﻰﻠﻋ ﺓﺩﺪﻤﻣ ﺔﺜﺟ ﻙﺎﻨﻫ</NeedGraveDesc>
 
-  <HaltedConstructions>{0} constructions are missing materials</HaltedConstructions>
-  <HaltedConstructionsDesc>These constructions are missing materials:\n\n{0}\nYou should probably make required materials available for your colonists.</HaltedConstructionsDesc>
+  <ColonistsIdle>{0} المستعمرين ما عندهم شغل </ColonistsIdle>
+  <ColonistsIdleDesc>.ﻰﻌﻨﺻ ﻪﻠﻗﻭ ﻰﻋﺮﻣﻭ ﻞﻛﺍ ﻞﻐﺷ ﻢﻬﻟ ﻑﻮﺸﺗ ﻥﺍ ﺐﺠﻳ ﻥ \n{0}\n\n :ﻱﺪﻳﻷﺍ ﻲﻓﻮﺘﻜﻣ ﻦﻴﻜﺘﻣ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻩﺬﻫ </ColonistsIdleDesc>
 
-  <TableNeedsChairs>Table needs chairs</TableNeedsChairs>
-  <TableNeedsChairsDesc>You have a table with no chairs next to it. Tables are useless unless people can sit at them.</TableNeedsChairsDesc>
+  <HaltedConstructions>{0} ﺔﺼﻗﺎﻧ ﺩﺍﻮﻣ</HaltedConstructions>
+  <HaltedConstructionsDesc>.ﺔﺼﻗﺎﻧ ﺩﺍﻮﻤﻟﺍ ،ﻢﻴﻣﺎﺼﺘﻟﺍ ﻩﺬﻫ ﻲﻓ  \{0}\n\n: ﻝﺎﻤﻛﻼﻟ ﺩﺍﻮﻤﻟ ﺔﺟﺎﺤﺑ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﻌﺠﻟ ﺎﺌﻴﺷ ﻞﻌﻔﺗﻭ ﻥﺃ ﺐﺠﻳ {0}</HaltedConstructionsDesc>
 
-  <ColonistNeedsTreatment>Colonist needs treatment</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
+  <TableNeedsChairs> ﻲﺳﺍﺮﻛ ﺝﺎﺘﺤﺗ ﺔﻟﻭﺎﻄﻟﺍ</TableNeedsChairs>
+  <TableNeedsChairsDesc> ﺱﻮﻠﺠﻟﺍ ﺱﺎﻨﻟﺍ ﻊﻴﻄﺘﺴﻳ ﻢﻟ ﺎﻣ ﺓﺪﺋﺎﻔﻟﺍ ﺔﻤﻳﺪﻋ ﻲﻫ ﺕﻻﻭﺎﻄﻟﺍ .ﻪﺒﻧﺎﺠﺑ ﻲﺳﺍﺮﻛ ﺪﺟﻮﻳ ﻻﻭ ﺔﻟﻭﺎﻃ ﻚﻳﺪﻟ </TableNeedsChairsDesc>
 
-  <ColonistsAwaitingMedicalOperation>{0} colonists await medical operation</ColonistsAwaitingMedicalOperation>
-  <ColonistsAwaitingMedicalOperationDesc>These colonists await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</ColonistsAwaitingMedicalOperationDesc>
+  <ColonistNeedsTreatment>ﺝﻼﻋ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﺮﻤﻌﺘﺴﻣ</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>(.ﻲﺒﻃ ﻪﻠﻌﺠﻟ ﺾﻳﺮﻤﻟﺍ ﺮﻳﺮﺳ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍﻭ ﻰﺣﺮﺠﻟﺍ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺮﺘﺧﺍ ﻢﺛ . ﺮﻳﺮﺳ ﻲﻓ ﻲﺒﻃ ﻪﻧﺍ ﺎﻬﻴﻠﻋ ﺔﻣﻼﻋ ﻊﺿﻮﺑ ﻚﻟﺫﻭ ﻰﻔﺸﺘﺴﻤﻟﺍ ﺮﻳﺮﺳ ﺪﻳﺪﺤﺗ ﻻﻭﺃ) \n\n .ﻲﺒﻄﻟﺍ ﺮﻳﺮﺳ ﻰﻟﺍ ﻢﻬﻠﺳﺭﺍ ﻢﻬﺟﻼﻋ ﻲﻟ \n{0}\n\n .ﻢﺋﺍﺩ ﺭﺮﺿ ﻰﻠﻋ ﺍﻮﻠﺼﺤﻳ ﻢﻬﻧﺃ ﻭﺃ ﻢﻬﺗﺎﺑﺎﺻﺇ ﻦﻣ ﺕﻮﻤﻳ ﻥﺃ ﻦﻜﻤﻳ ﺝﻼﻌﻟﺍ ﻥﻭﺪﺑﻭ .ﻲﺒﻃ ﺝﻼﻋ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻩﺬﻫ</ColonistNeedsTreatmentDesc>
 
-  <PawnsWithLifeThreateningDisease>Severe diseases</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>These colonists are at risk for death because of severe diseases:\n\n{0}\nMake sure that they get as much doctors care as possible.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>These colonists are at risk for death because of severe diseases:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <AlertHypothermia>ﻢﺴﺠﻟﺍ ﺓﺭﺍﺮﺣ ﺽﺎﻔﺨﻧﺍ</AlertHypothermia>
+  <AlertHypothermiaDesc>هذه المستعمرين يعانون من انخفاض حرارة الجسم.\n\n{0}\n ن تأكد من ملابسهم هل هو مناسب لهذا الموسم و المباني الداخلية يتم تسخينها بشكل صحيح.</AlertHypothermiaDesc>
 
-  <!--<AlertAbsentMinded>{0} is lost in thought</AlertAbsentMinded>-->
+  <ColonistsAwaitingMedicalOperation>{0} ﺔﻴﺒﻄﻟﺍ ﺔﻴﻠﻤﻌﻟﺍ ﺭﺎﻈﺘﻧﺍ ﻲﻓ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ</ColonistsAwaitingMedicalOperation>
+  <ColonistsAwaitingMedicalOperationDesc>ﺓﺮﻓﻮﺘﻣ ﺐﻴﺒﻃﻭ ﺔﻣﺯﻼﻟﺍ ﺔﻴﺒﻄﻟﺍ ﺕﺍﻭﺩﻷﺍ ﻞﻛ ﻚﻳﺪﻟ ﺪﻛﺄﺗ \n{0}\n\n :ﺔﻴﺒﻄﻟﺍ ﺔﻴﻠﻤﻌﻟﺍ ﺭﺎﻈﺘﻧﺍ ﻲﻓ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻩﺬﻫ</ColonistsAwaitingMedicalOperationDesc>
+
+  <PawnsWithLifeThreateningDisease>ﺓﺩﺎﺤﻟﺍ ﺽﺍﺮﻣﻷﺍ</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>. ﺔﻳﺎﻋﺮﻟﺍ ﻞﺟﺍ ﻦﻣ ﺀﺎﺒﻃﻻﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻰﻠﻋ ﻞﺼﺤﺗ ﻥﺃ ﺪﻛﺄﺗ \n{0}\n\n :ﺓﺩﺎﺤﻟﺍ ﺽﺍﺮﻣﻷﺍ ﺐﺒﺴﺑ ﺕﻮﻤﻟﺍ ﺮﻄﺨﻟ ﻥﻮﺿﺮﻌﻣ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻩﺬﻫ</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>،ﻦﻜﻣﺃ ﺍﺫﺇ \n{0}\n\n :ﺓﺩﺎﺤﻟﺍ ﺽﺍﺮﻣﻷﺍ ﺐﺒﺴﺑ ﺕﻮﻤﻟﺍ ﺮﻄﺨﻟ ﻥﻮﺿﺮﻌﻣ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻩﺬﻫ
+.ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ ﻞﺟﺍ ﻦﻣ ﻝﺍﺪﺒﺘﺳﺍ ﻭﺃ ﺔﺑﺎﺼﻤﻟﺍ ﻢﻬﻓﺍﺮﻃﺃ ﺮﺘﺑ ﻲﻓ ﺮﻈﻨﻟﺍ</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <!--<AlertAbsentMinded>{0} ﺓﺮﻛﺍﺬﻟﺍ ﺪﻗﺎﻓ</AlertAbsentMinded>-->
   
 </LanguageData>
