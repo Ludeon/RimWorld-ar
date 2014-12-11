@@ -1,49 +1,58 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-  <DesignatorCancel>Cancel</DesignatorCancel>
-  <DesignatorCancelDesc>Cancel designated building, mining, hauling, harvesting, and all other designations.</DesignatorCancelDesc>
+  <DesignatorCancel>ﺀﺎﻐﻟﺇ</DesignatorCancel>
+  <DesignatorCancelDesc>.ﻯﺮﺧﻷﺍ ﺕﺎﻴﻠﻤﻋ ﻱﺍﻭﺍ ،ﺩﺎﺼﺤﻟﺍﻭﺍ ﻞﻘﻨﻟﺍﻭﺍ ،ﺐﻴﻘﻨﺘﻟﺍ ﻭﺍ ، ﺀﺎﻨﺒﻟﺍ ﺀﺎﻐﻟﺍ</DesignatorCancelDesc>
 
   <DesignatorCutPlants>ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻄﻗ</DesignatorCutPlants>
-  <DesignatorCutPlantsDesc>Marks plants to be cut and destroyed. The plant will be completely removed, and any food will be harvested.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlantsDesc>ﺀﺍﺬﻐﻟﺍ ﻲﻓ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻲﻟ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻄﻗ ﻢﺘﻴﺳ ﺎﻬﻌﻄﻘﻳ ﻲﻜﻟ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻰﻠﻋ ﻢﻠﻋ.</DesignatorCutPlantsDesc>
 
-  <DesignatorDeconstruct>Deconstruct</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>Deconstruct buildings and reclaim part of their resources.</DesignatorDeconstructDesc>
+  <DesignatorDeconstruct>ﻚﻴﻜﻔﺘﻟﺍ</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>.ﺎﻫﺩﺭﺍﻮﻣ ﻦﻣ ﺀﺰﺟ ﺓﺩﺎﻌﺘﺳﺍﻭ ﻲﻧﺎﺒﻤﻟﺍ </DesignatorDeconstructDesc>
 
-  <DesignatorHarvest>Harvest</DesignatorHarvest>
-  <DesignatorHarvestDesc>Marks plants to be harvested for their food or other products.</DesignatorHarvestDesc>
+  <DesignatorHarvest>ﺩﺎﺼﺤﻟﺍ</DesignatorHarvest>
+  <DesignatorHarvestDesc>.ﺕﺎﺠﺘﻨﻤﻟﺍ ﻦﻣ ﺎﻫﺮﻴﻏ ﻭﺃ ﻡﺎﻌﻄﻟ ﺎﻫﺪﺼﺤﻳ ﻲﻜﻟ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻰﻠﻋ ﻢﻠﻋ</DesignatorHarvestDesc>
 
   <DesignatorHarvestWood>ﺐﺸﺨﻟﺍ ﻊﻄﻗ</DesignatorHarvestWood>
-  <DesignatorHarvestWoodDesc>Marks trees to be chopped down for wood.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWoodDesc>.ﺐﺸﺨﻟﺍ ﻞﺟﺍ ﻦﻣ ﺎﻬﻌﻄﻘﻟ ﺭﺎﺠﺷﻻﺍ ﻰﻠﻋ ﻢﻠﻋ</DesignatorHarvestWoodDesc>
 
-  <DesignatorHaulThings>Haul things</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable.</DesignatorHaulThingsDesc>
-  <NothingToHaulHere>Nothing to haul here.</NothingToHaulHere>
-  <MustHaulHaulables>Can only designate haulable non-automatic things (like rock chunks).</MustHaulHaulables>
+  <DesignatorHaulThings>ﺀﺎﻴﺷﻻﺍ ﻞﻤﺣ</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>ﺕﺎﻳﺎﻔﻨﻟﺍ ﺔﻘﻄﻨﻣ ﻰﻟﺍ ﺎﻬﻠﻤﺤﻟ ﻯﺮﺧﻻﺍ ﺀﺎﻴﺷﻻﺍ ﻭﺍ ﺭﻮﺨﺼﻟﺍ ﻰﻠﻋ ﻢﻠﻋ.</DesignatorHaulThingsDesc>
+  <NothingToHaulHere>ﺔﻠﻤﺤﻟ ﻲﺷ ﺪﺟﻮﻳ ﻻ.</NothingToHaulHere>
+  <MustHaulHaulables>(ﺭﻮﺨﺼﻟﺍ ﻞﺜﻣ )ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ ﺎﻫﺪﺠﺗ ﻻ ﻲﺘﻟﺍ ﺀﺎﻴﺷﻻﺍ ﻞﻤﺣ ﻊﻴﻄﺘﺴﺗ.</MustHaulHaulables>
 
   <DesignatorHunt>ﺪﻴﺻ</DesignatorHunt>
-  <DesignatorHuntDesc>Mark animals to be hunted by your hunters.</DesignatorHuntDesc>
+  <DesignatorHuntDesc>ﻦﻳﺩﺎﻴﺼﻟﺍ ﻞﺒﻗ ﻦﻣ ﺎﻫﺩﺎﻴﻄﺻﺍ ﻢﺘﻴﻟ  ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻰﻠﻋ ﻢﻠﻋ.</DesignatorHuntDesc>
 
   <DesignatorMine>ﺐﻴﻘﻨﺗ</DesignatorMine>
-  <DesignatorMineDesc>Designate areas of rock to be mined out.</DesignatorMineDesc>
+  <DesignatorMineDesc>.ﺐﻴﻘﻨﺘﻟ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺭﻮﺨﺼﻟﺍ ﻦﻣ ﻖﻃﺎﻨﻣ ﻦﻴﻴﻌﺗ</DesignatorMineDesc>
+
+  <DesignatorSmoothFloor>ﺔﺴﻠﺳ ﺔﻴﺿﺭﺍ</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>.ﺲﻠﺳ ﻥﻮﻜﻳ ﻰﻟﺇ ﻡﺎﺨﻟﺍ ﺮﺠﺤﻟﺍ ﻦﻣ ﺕﺎﻴﺿﺭﺃ ﻦﻴﺴﺤﺗ</DesignatorSmoothFloorDesc>
 
   <DesignatorPlan>ﻂﻄﺨﻣ</DesignatorPlan>
-  <DesignatorPlanDesc>Place planning designations. These don't do anything except help you plan future expansions.</DesignatorPlanDesc>
+  <DesignatorPlanDesc>.ﺔﻴﻠﺒﻘﺘﺴﻤﻟﺍ ﺕﺎﻌﺳﻮﺘﻟﺍ ﻂﻴﻄﺨﺗ ﻰﻠﻋ ﻚﺗﺪﻋﺎﺴﻣ ﺍﺪﻋ ﺎﻣ ﺀﻲﺷ ﻱﺃ ﻞﻌﻔﺗ ﻻ ﻩﺬﻫ .ﻥﺎﻜﻤﻟﺍ ﻂﻴﻄﺨﺗ</DesignatorPlanDesc>
 
   <DesignatorPlanRemove>ﻂﻄﺨﻟﺍ ﺔﻟﺍﺯﺇ</DesignatorPlanRemove>
-  <DesignatorPlanRemoveDesc>Remove planning designations.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemoveDesc>.ﻂﻴﻄﺨﺘﻟﺍ ﺔﻟﺍﺯﺇ</DesignatorPlanRemoveDesc>
 
-  <DesignatorHomeRegionAdd>Add Home Region</DesignatorHomeRegionAdd>
-  <DesignatorHomeRegionAddDesc>Colonists will repair buildings, clean floors, and extinguish fires only in the home region.</DesignatorHomeRegionAddDesc>
+  <DesignatorHomeRegionAdd>ﺔﻨﻣﻻﺍ ﻖﻃﺎﻨﻤﻟﺍ ﺔﻓﺎﺿﺍ</DesignatorHomeRegionAdd>
+  <DesignatorHomeRegionAddDesc>ﺔﻨﻣﻻﺍ ﻖﻃﺎﻨﻤﻟﺍ ﻲﻓ ﻲﺘﻟﺍ ﻖﺋﺍﺮﺤﻟﺍ ﺀﺎﻔﻃﺍ ﻭ ﺕﺎﻴﺿﺭﻻﺍ ﻒﻴﻈﻨﺗ ﻭ ﻲﻧﺎﺒﻤﻟﺍ ﺡﻼﺻﺈﺑ ﻥﻮﻣﻮﻘﻳ ﻑﻮﺳ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ.</DesignatorHomeRegionAddDesc>
 
-  <DesignatorHomeRegionRemove>Remove Home Region</DesignatorHomeRegionRemove>
-  <DesignatorHomeRegionRemoveDesc>Removes a home region. Colonists will no longer clean, repair, or extinguish fires here.</DesignatorHomeRegionRemoveDesc>
+  <DesignatorHomeRegionRemove>ﺔﻨﻣﻻﺍ ﻖﻃﺎﻨﻤﻟﺍ ﺔﻟﺍﺯﺍ</DesignatorHomeRegionRemove>
+  <DesignatorHomeRegionRemoveDesc>ﻖﺋﺍﺮﺤﻟﺍ ﺀﺎﻔﻃﺍ ﻭﺍ ﺔﻴﺿﺭﻻﺍ ﻒﻴﻀﻨﺗ ﻭ ﻲﻧﺎﺒﻤﻟﺍ ﺡﻼﺻﺍ ﻰﻠﻋ ﻦﻳﺭﺩﺎﻗ ﻥﻮﻜﻳ ﻦﻟ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻰﻨﻣﻻﺍ ﻖﻃﺎﻨﻤﻟﺍ ﺔﻟﺍﺯﺍ ﻲﺑ.</DesignatorHomeRegionRemoveDesc>
 
-  <DesignatorRegionNoRoofAdd>Create No Roof Region</DesignatorRegionNoRoofAdd>
+  <DesignatorRegionNoRoofAdd>Add No Roof Region</DesignatorRegionNoRoofAdd>
   <DesignatorRegionNoRoofAddDesc>Create a region where roofs will not generate. Colonists will also tear down existing roofs here.</DesignatorRegionNoRoofAddDesc>
 
   <DesignatorRegionNoRoofRemove>Remove No Roof Region</DesignatorRegionNoRoofRemove>
   <DesignatorRegionNoRoofRemoveDesc>Removes a no-roof region. Roofs will generate here, and existing roofs will not be torn down.</DesignatorRegionNoRoofRemoveDesc>
+
+  <DesignatorRegionSnowClearAdd>Add Snow Clear Region</DesignatorRegionSnowClearAdd>
+  <DesignatorRegionSnowClearAddDesc>Create a region which colonists will try to keep clear of snow.</DesignatorRegionSnowClearAddDesc>
+
+  <DesignatorRegionSnowClearRemove>Remove Snow Clear Region</DesignatorRegionSnowClearRemove>
+  <DesignatorRegionSnowClearRemoveDesc>Removes a snow clearing. Colonists will no longer try to keep this area clear of snow.</DesignatorRegionSnowClearRemoveDesc>
 
   <DesignatorGrowingZoneDesc>Create a zone where your colonists will try to grow a certain kind of plant.</DesignatorGrowingZoneDesc>
 
@@ -51,12 +60,11 @@
 
   <DesignatorZoneCreateStorageDumpingDesc>Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageDumpingDesc>
 
-
-  <DesignatorZoneDelete>Delete zones</DesignatorZoneDelete>
-  <DesignatorZoneDeleteDesc>Remove zones, like stockpile zones or growing zones.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDelete>ﻖﻃﺎﻨﻣ ﺔﻟﺍﺯﺍ</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>.ﺔﻋﺍﺭﺰﻟﺍ ﻖﻃﺎﻨﻣ ﻭﺃ ﻥﻭﺰﺨﻤﻟﺍ ﻖﻃﺎﻨﻣ ﻞﺜﻣ ،ﻖﻃﺎﻨﻤﻟﺍ ﺔﻟﺍﺯﺇ</DesignatorZoneDeleteDesc>
   
-  <DesignatorClaim>Claim</DesignatorClaim>
-  <DesignatorClaimDesc>Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists.</DesignatorClaimDesc>
+  <DesignatorClaim>ﺎﻬﻜﻠﻤﺗ</DesignatorClaim>
+  <DesignatorClaimDesc>.ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﺒﻗ ﻦﻣ ﺎﻬﻣﺍﺪﺨﺘﺳﺍﻭ ﺎﻬﺣﻼﺻﺍ ﻦﻜﻤﻳ ﻲﻧﺎﺒﻤﻟﺍ ﻭ ﻞﻛﺎﻴﻬﻟﺍ .ﺓﺭﻮﺠﻬﻤﻟﺍ ﺭﺎﺼﺤﻟﺍ ﻞﻛﺎﻴﻫ ﻭﺃ ﺔﻤﻳﺪﻘﻟﺍ ﺭﺎﺛﻵﺍ ،ﻝﺎﺜﻤﻟﺍ ﻞﻴﺒﺳ ﻰﻠﻋ ،ﺎﻨﻫ ﻞﻤﺸﺗﻭ . ﻚﺑ ﺹﺎﺨﻟﺍ ﺓﺮﻤﻌﺘﺴﻤﻟ ﺓﺪﻳﺎﺤﻣ ﺕﺎﻴﻨﺑ ﺬﺧ </DesignatorClaimDesc>
   
   
   <!-- placement of blueprints -->
