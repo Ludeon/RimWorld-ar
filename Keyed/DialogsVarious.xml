@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-
-
   <Confirm>ﺪﻴﻛﺄﺗ</Confirm>
   <GoBack>ﻉﻮﺟﺮﻟﺍ</GoBack>
   <OK>ﺎﻨﺴﺣ</OK>
@@ -16,8 +14,7 @@
   <SavedAs>.{0} ﻢﺳﺎﺑ ﻆﻔﺣ</SavedAs>
   <NeedAName>.ﻢﺳﺍ ﻝﺎﺧﺩﺇ ﺀﺎﺟﺮﻟﺍ</NeedAName>
   <LoadingLongEvent>... ﻞﻴﻤﺤﺗ</LoadingLongEvent>
-  
-  
+   
   <!-- Colony naming-->
   <NameColonyMessage>؟ﻚﻟﺫ ﻰﻤﺴﻧ ﻥﺃ ﺐﺠﻳ ﺍﺫﺎﻣ \n\n.ﻝﺎﺣ ﻱﺃ ﻰﻠﻋ ﻢﺳﺍ ﺓﺮﻤﻌﺘﺴﻤﻠﻟ ﻲﻄﻌﺗ ﻥﺃ ﺐﺠﻳ {0} ﻦﻜﻟ .ﺔﻠﻳﻮﻃ ﺓﺪﻤﻟ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻩﺬﻫ ﻰﻠﻋ ﺀﺎﻘﺒﻟﺍ ﻲﻓ ﺐﻏﺮﺗ ﻻ ﻚﻧﺃ ﻑﺮﻌﻳ ﻊﻴﻤﺠﻟﺍ</NameColonyMessage>
   <ColonyGainsName>.{0} ﻙ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻥﻵﺍ ﻑﻭﺮﻌﻣ</ColonyGainsName>
@@ -31,41 +28,42 @@
   <PawnGainsName>.{0} ﻥﻵﺍ ﻮﻫ ﻢﺳﻻﺍ ﻚﻧ ﺮﻤﻌﺘﺴﻤﻟﺍ</PawnGainsName>
 
   <!-- Save game incompatible warning -->
-  <SaveGameIncompatibleWarningText>Version mismatch: Map was saved with game version {0}, we are running version {1}.\n\n Loading this save will probably cause bugs and crashes.</SaveGameIncompatibleWarningText>
-  <SaveGameIncompatibleWarningTitle>Save game incompatibility</SaveGameIncompatibleWarningTitle>
-  
+  <SaveGameIncompatibleWarningText>{0} ﺔﺨﺴﻨﻟ ﻆﻔﺤﻟﺍ: ﻖﺑﺎﻄﺘﺗ ﻻ ﺦﺴﻨﻟﺍ  \n\n.{1} ﺔﻴﻟﺎﺤﻟﺍ ﺔﺨﺴﻨﻟﺍﻭ ﺔﺒﻌﻟﺍ ﻞﻴﻄﻌﺗﻭ ﻞﻛﺎﺸﻣ ﺐﺒﺴﻳ ﺍﺬﻫ ﻞﻴﻤﺤﺗ </SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningTitle>ﻖﻓﺍﻮﺗ ﻲﻓ ﺔﺒﻌﻠﻟﺍ ﻆﻔﺣ</SaveGameIncompatibleWarningTitle>
+ 
   <!-- Resolution change dialog -->
-  <ConfirmResolutionChange>You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
-  <ResolutionKeep>Keep</ResolutionKeep>
-  <ResolutionRevert>Revert</ResolutionRevert>
+  <ConfirmResolutionChange>... {0} ﻲﺋﺎﻘﻠﺘﻟﺍ ﻉﻮﺟﺮﻟﺍ \n\n؟ ﻡﺍﺮﻳﺎﻣ ﻰﻠﻋ ﻞﻤﻌﻳ ﺪﻳﺪﺠﻟﺍ ﺮﻴﻐﺘﻟﺍ ﻞﻫ .ﺔﺷﺎﺸﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﺮﻴﻴﻐﺘﺑ ﺖﻤﻗ ﺪﻘﻟ</ConfirmResolutionChange>
+  <ResolutionKeep>ﺀﺎﻘﺑﺇ </ResolutionKeep>
+  <ResolutionRevert>ﻉﻮﺟﺮﻟﺍ </ResolutionRevert>
 
   <!-- Overview -->
-  <OverviewOf>Overview of {0}</OverviewOf>
+  <OverviewOf>ﻰﻠﻋ ﺔﻣﺎﻋ ﺓﺮﻈﻧ {0}</OverviewOf>
 
   <!-- Research -->
   <Research>ﺚﺤﺑ</Research>
   <Researched>ﺎﻬﺜﺤﺑ ﻢﺗ</Researched>
   <Unresearched>ﺎﻬﺜﺤﺑ ﻢﺘﻳ ﻢﻟ</Unresearched>
-  <Finished>انتهى</Finished>
+  <Finished>ﻰﻬﺘﻧﺍ</Finished>
   <InProgress>ﺚﺤﺒﻟﺍﺭﻮﻃ ﻲﻓ</InProgress>
   <ResearchMenuWithoutBench>.ﻥﻵﺍ ﺔﻴﺜﺤﺒﻟﺍ ﻊﻳﺭﺎﺸﻤﻟﺍ ﺭﺎﻴﺘﺧﺍﻭ ﻉﻼﻃﻻﺍ ﻚﻧﺎﻜﻣﺈﺑ ﻝﺍﺰﻳ ﻻ ،ﻚﻟﺫ ﻊﻣﻭ \n\n.ﺙﻮﺤﺒﻟﺍ ﺀﺍﺮﺟﺇ ﻰﻠﻋ ﻦﻳﺭﺩﺎﻗ ﺮﻴﻏ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻥﻮﻜﻳ ﻑﻮﺳ ،ﺙﺎﺤﺑﻷﺍ ﺪﻌﻘﻣ ﺀﺎﻨﺒﺑ ﻡﻮﻘﺗ ﻰﺘﺣ</ResearchMenuWithoutBench>
-  
-  
-  <!-- Advanced game start options -->
-  <MapSizePerformanceWarning>WARNING: Performance may degrade at larger map sizes unless your computer is quite powerful.\n\nIf you have a weak machine, choose Small.\n\nLudeonicrous size is untested and will almost certainly not play well.</MapSizePerformanceWarning>
-  <MapSize>Map size</MapSize>
-  <MapSizeDesc>{0}x{0} ({1} squares)</MapSizeDesc>
-  <MapSizeSmall>Small</MapSizeSmall>
-  <MapSizeMedium>Medium</MapSizeMedium>
-  <MapSizeLarge>Large</MapSizeLarge>
-  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
 
+  <!-- Advanced game start options -->
+  <MapTemperatureDangerWarning>.ﺎﺌﻓﺩ ﺮﺜﻛﺃ ﺮﻬﺷ ﻲﻓ ﻚﻃﻮﺒﻫ ﺔﻌﻘﺑ ﺭﺎﻴﺘﺧﺍ ﺔﻳﺎﻐﻠﻟ ﺔﺒﻌﺻ ﺔﺌﻴﺑ ﻲﻓ ﺐﻌﻠﻟ ﻂﻄﺨﺗ ﻻ ﺖﻨﻛ ﺍﺫﺇ .ﺎﻨﻫ ﺀﺎﻘﺒﻟﺍ ﺐﻌﺼﻟﺍ ﻦﻣﻭ .ﺓﺪﻤﺠﻣ ﺔﺌﻴﺑ ﻲﻓ ﻥﻮﻄﺒﻬﻴﺳ :ﺮﻳﺬﺤﺗ</MapTemperatureDangerWarning>
+  <MapSizePerformanceWarning>.ﺓﺮﻴﻐﺼﻟﺍ ﺮﺘﺧﺍ ،ﻒﻴﻌﺿ ﻙﺯﺎﻬﺟ ﻥﺎﻛ ﺍﺫﺇ ﺔﻳﺎﻔﻜﻟﺍ ﻪﻴﻓ ﺎﻤﺑ ﻱﻮﻗ ﺮﺗﻮﻴﺒﻤﻛ ﺯﺎﻬﺟ ﻚﻳﺪﻟ ﻥﺎﻛ ﺍﺫﺇ ﻻﺇ ،ﺮﺒﻛﺃ ﻂﺋﺍﺮﺨﻟﺍ ﻰﻠﻋ ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﺾﻔﺨﻨﺗ ﺪﻗ ﺀﺍﺩﻷﺍ :ﺮﻳﺬﺤﺗ  ﺐﻌﻠﻟ ﻚﻨﻜﻤﻳ ﻻﺃ ﻞﻤﺘﺤﻤﻟﺍ ﻦﻣ ﻞﺒﻗ ﻦﻣ ﺔﻤﺨﻀﻟﺍ ﺔﻄﻳﺮﺨﻟﺍ ﺭﺎﺒﺘﺧﺍ ﻢﺘﻳ ﻢﻟ ﻥﺎﻛ ﺍﺫﺇ </MapSizePerformanceWarning>
+  <MapSize>ﺔﻄﻳﺮﺨﻟﺍ ﻢﺠﺣ</MapSize>
+  <MapSizeDesc>(ﺕﺎﺣﺎﺴﻤﻟﺍ {1}) {0} X {0</MapSizeDesc>
+  <MapSizeSmall>ﺓﺮﻴﻐﺻ</MapSizeSmall>
+  <MapSizeMedium>ﺔﻄﺳﻮﺘﻣ</MapSizeMedium>
+  <MapSizeLarge>ﺓﺮﻴﺒﻛ</MapSizeLarge>
+  <MapSizeExtreme>ﺔﻤﺨﺿ</MapSizeExtreme>
+  <MapStartMonth>:ﺮﻬﺸﻟﺍ ﻦﻣ ﺀﺍﺪﺘﺑﺍ</MapStartMonth>
+  <MapStartMonthDefault>ﻲﺋﺎﻘﻠﺗ</MapStartMonthDefault>
 
 
   <!-- Bill config -->
-  <Suspended>Suspended</Suspended>
-  <NotSuspended>Not suspended</NotSuspended>
-  <SuspendedAllCaps>SUSPENDED</SuspendedAllCaps>
+  <Suspended>ﺬﻴﻔﻨﺘﻟﺍ ﻒﻗﻭ</Suspended>
+  <NotSuspended>عدم وقف التنفيذ</NotSuspended>
+  <SuspendedAllCaps>ﺬﻴﻔﻨﺘﻟﺍ ﻒﻗﻭ</SuspendedAllCaps>
   <RepeatCount>{0} :ﺭﺮﻛ</RepeatCount>
   <Forever>ﺪﺑﻷﺍ ﻰﻟﺇ</Forever>
   <IngredientSearchRadius>ﺎﻫﺮﻄﻗ ﻒﺼﻧ ﺓﺮﺋﺍﺩ ﻲﻓ ﺕﺎﻧﻮﻜﻤﻟﺍ ﺚﺤﺑ </IngredientSearchRadius>
@@ -73,8 +71,10 @@
   <Infinite>ﺩﻭﺪﺤﻣ ﺮﻴﻏ</Infinite>
   <RecipeCannotHaveTargetCount>(.ﺎﻬﺑ ﺆﺒﻨﺘﻟﺍ ﻦﻜﻤﻳ ﻻ ﻭﺃ ﺓﺩﺪﻌﺘﻣ ﺕﺎﺠﺘﻨﻣ ﻚﻳﺪﻟ ﻥﻷ ﺢﺿﺍﻭ ﺪﻌﻟﺍ ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ ﺔﻔﺼﻟﺍ ﻩﺬﻫﻭ)</RecipeCannotHaveTargetCount>
   <PermittedIngredients>ﺎﻬﺑ ﺡﻮﻤﺴﻤﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ</PermittedIngredients>
+  <WorkAmount>ﻞﻤﻌﻟﺍ ﺔﻴﻤﻛ</WorkAmount>
   <MinimumSkills>:ﺕﺍﺭﺎﻬﻤﻟﺍ ﻦﻣ ﻰﻧﺩﻷﺍ ﺪﺤﻟﺍ</MinimumSkills>
   <BillRequires>{1} {0} ﺐﻠﻄﺘﻳ</BillRequires>
+  <BillRequiresMayVary>(.ﺐﻫﺬﻟﺍ ﻞﺜﻣ ،ﺔﻴﺳﺎﻴﻘﻟﺍ ﺮﻴﻏ ﺕﺎﻴﻤﻛ ﻊﻣ ﺓﺩﺎﻤﻟ ﺩﺍﺪﻌﺗ ﻒﻠﺘﺨﺗ ﺪﻗ)</BillRequiresMayVary>
   <UsableIngredients>ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﻠﺑﺎﻗ ﺕﺎﻧﻮﻜﻣ</UsableIngredients>
   <DoXTimes>X ﺩﺍﺮﻤﻟﺍ ﻑﺪﻬﻠﻟ ﻩﺪﺣﺍﻭ ﻩﺮﻣ ﺮﻤﺘﺳﺍ</DoXTimes>
   <DoUntilYouHaveX>X ﻚﻳﺪﻟ ﻥﻮﻜﻳ ﻰﺘﺣ ﺮﻤﺘﺳﺍ</DoUntilYouHaveX>
@@ -93,11 +93,11 @@
   <AnimalType>ﻥﺍﻮﻴﺣ</AnimalType>
   <MechanoidType>Mechanoid</MechanoidType>
   <Damage>ﺭﺮﻀﻟﺍ</Damage>
-  <Accuracy>Accuracy</Accuracy>
-  <BurstShotCount>Burst shot count</BurstShotCount>
-  <WarmupTime>Warmup</WarmupTime>
-  <CooldownTime>Cooldown</CooldownTime>
-  <BurstShotFireRate>Fire rate</BurstShotFireRate>
+  <Accuracy>ﺔﻗﺪﻟﺍ</Accuracy>
+  <BurstShotCount>ﺖﻘﻠﻃﺃ ﺕﺎﻘﻠﻃ</BurstShotCount>
+  <WarmupTime>ﺀﺎﻤﺣﻹﺍ ﺖﻗﻭ</WarmupTime>
+  <CooldownTime> ﺪﻳﺮﺒﺗ ﺖﻗﻭ</CooldownTime>
+  <BurstShotFireRate>ﺭﺎﻨﻟﺍ ﻕﻼﻃﺍ ﺔﻋﺮﺳ</BurstShotFireRate>
   <Range>ﻕﺎﻄﻧ</Range>
   <GrowsWild>ﺔﻳﺮﺒﻟﺍ ﻲﻓﻮﻤﻨﻳ</GrowsWild>
   <Harvestable>ﺩﺎﺼﺣ</Harvestable>
@@ -117,53 +117,55 @@
   <Diet>Diet</Diet>
   <RecruitDifficulty>ﻒﻴﻇﻮﺗ ﺔﺑﻮﻌﺻ</RecruitDifficulty>
   <baseMarketValue>ﻲﺳﺎﺳﻷﺍ ﺮﻌﺴﻟﺍ</baseMarketValue>
-  <Covers>Covers</Covers>
-  <NaturalArmorCovers>Natural armor covers</NaturalArmorCovers>
-  <BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
+  <Covers>ﺔﻴﻄﻏﺃ</Covers>
+  <NaturalArmorCovers> ﻲﻌﻴﺒﻃ ﺀﺎﻄﻏ </NaturalArmorCovers>
+  <BodyPartEfficiency>ﻢﺴﺠﻟﺍ ﺔﻴﻟﺎﻌﻓ</BodyPartEfficiency>
   
   <!-- Trade -->
-  <DragToTrade>Drag to trade</DragToTrade>
+  <DragToTrade> ﺓﺭﺎﺠﺘﻟ ﺐﺤﺳﺍ</DragToTrade>
   <BuyPriceDesc>.ﺍﺬﻫ ﺀﺍﺮﺸﻟ ﻪﻌﻓﺪﺗ ﻱﺬﻟﺍ ﻦﻤﺜﻟﺍ</BuyPriceDesc>
   <SellPriceDesc>.ﺍﺬﻫ ﻊﻴﺒﻟ ﻪﻌﻓﺪﻳ ﻱﺬﻟﺍ ﻦﻤﺜﻟﺍ</SellPriceDesc>
   <PriceTypeDesc>.{0} ﻮﻫ ﺮﻌﺴﻟﺍ ،ﺔﻌﻠﺴﻟﺍ ﻩﺬﻬﻟ</PriceTypeDesc>
-  <ColonyCount>How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are outdoors and near an orbital trade beacon.</ColonyCount>
-  <TraderCount>How many of this item the trader has to trade.</TraderCount>
-  <AcceptButton>Accept</AcceptButton>
-  <ResetButton>Reset</ResetButton>
-  <CancelButton>Cancel</CancelButton>
-  <YourTradeableSilver>Your tradeable silver: {0}</YourTradeableSilver>
-	<YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
-  <TraderHasNoMore>Trader has no more.</TraderHasNoMore>
-  <ColonyHasNoMore>No more to sell.</ColonyHasNoMore>
-  <TraderWillNotTrade>Trader is not willing to trade in this item.</TraderWillNotTrade>
+  <ColonyCount>  ﺎﻬﺑ ﺓﺮﺟﺎﺘﻤﻟﺍ ﺓﺮﻤﻌﺘﺴﻤﻠﻟ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺩﺪﻋ   orbital ﻲﻓ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻊﻴﺑ ﻊﻴﻄﺘﺴﺗ.</ColonyCount>
+
+
+  <TraderCount>ﻊﻴﺒﻠﻟ ﺮﺟﺎﺘﻟﺍ ﻯﺪﻟ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺩﺪﻋ.</TraderCount>
+  <AcceptButton>ﻝﻮﺒﻗ</AcceptButton>
+  <ResetButton>ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ </ResetButton>
+  <CancelButton>ﺀﺎﻐﻟﺇ</CancelButton>
+  <YourTradeableSilver>:ﺔﻀﻔﻟﺍ ﻝﻭﺍﺪﺗ : {0}</YourTradeableSilver>
+	<YourTradeableSilverTip> orbital ﻲﻓ ﻲﻫ ﻲﺘﻟﺍ ﺔﻀﻔﻟﺍ  ﻲﺑ ﺓﺮﺟﺎﺘﻤﻟﺍ ﻚﻨﻜﻤﻳ.</YourTradeableSilverTip>
+  <TraderHasNoMore>.ﺎﺌﻴﺷ ﻚﻠﻤﻳ ﻻ ﺮﺟﺎﺘﻟﺍ</TraderHasNoMore>
+  <ColonyHasNoMore> .ﻊﻴﺒﻠﻟ ﻲﺷ ﻚﻟﺎﻨﻫ ﺪﻌﻳ ﻢﻟ</ColonyHasNoMore>
+  <TraderWillNotTrade>.ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﻲﺑ ﺓﺭﺎﺠﺘﻟﺎﺑ ﺪﻌﺘﺴﻣ ﺮﻴﻏ ﺮﺟﺎﺘﻟﺍ</TraderWillNotTrade>
   
   <!-- Comms -->
-  <SocialSkillIs>Social skill: {0}</SocialSkillIs>
+  <SocialSkillIs>ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ: {0}</SocialSkillIs>
 
   <!-- Stats report -->
-  <StatsReport_BaseValue>Base value</StatsReport_BaseValue>
-  <StatsReport_RelevantTraits>Relevant traits</StatsReport_RelevantTraits>
-  <StatsReport_RelevantGear>Relevant gear</StatsReport_RelevantGear>
-  <StatsReport_Material>Material</StatsReport_Material>
-  <StatsReport_CharacterQuality>Character quality</StatsReport_CharacterQuality>
-  <StatsReport_Skills>Skill factors</StatsReport_Skills>
-  <StatsReport_OtherStats>Other stat factors</StatsReport_OtherStats>
-  <StatsReport_HealthFactors>Health factors</StatsReport_HealthFactors>
-  <HealthFactorPercentImpact>{0} importance</HealthFactorPercentImpact>
-  <StatsReport_PostProcessed>Post-processed curved</StatsReport_PostProcessed>
-  <StatsReport_FinalValue>Final value</StatsReport_FinalValue>
+  <StatsReport_BaseValue>ﺔﻴﺳﺎﺳﻷﺍ ﺔﻤﻴﻘﻟﺍ</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>ﺔﻠﺼﻟﺍ ﺕﺍﺫ ﺕﺎﻔﺼﻟﺍ</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>ﺔﻠﺼﻟﺍ ﺕﺍﺫ ﺀﺎﻴﺷﻷﺍ</StatsReport_RelevantGear>
+  <StatsReport_Material>ﺩﺍﻮﻤﻟﺍ</StatsReport_Material>
+  <StatsReport_CharacterQuality>ﺕﺎﻔﺼﻟﺍ</StatsReport_CharacterQuality>
+  <StatsReport_Skills>ﺓﺭﺎﻬﻤﻟﺍ ﻞﻣﺍﻮﻋ</StatsReport_Skills>
+  <StatsReport_OtherStats>ﻯﺮﺧﺃ ﻞﻣﺍﻮﻋ</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>ﺔﺤﺼﻟﺍ ﻞﻣﺍﻮﻋ</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} ﺔﻴﻤﻫﺃ </HealthFactorPercentImpact>
+  <StatsReport_PostProcessed> ﺔﺠﻟﺎﻌﻣ ﺪﻌﺑ ﺕﺎﻴﻨﺤﻨﻤﻟﺍ </StatsReport_PostProcessed>
+  <StatsReport_FinalValue>ﻲﻟﺎﻤﺟﺇ</StatsReport_FinalValue>
   
   
   <!--Research-->
-  <ResearchFinished>Research finished: {0}</ResearchFinished>
-  <ResearchScreen>Research Screen</ResearchScreen>
+  <ResearchFinished> ﺖﻠﻤﻛﺃ ﺙﻮﺤﺑ: {0}</ResearchFinished>
+  <ResearchScreen> ﺙﻮﺤﺒﻟﺍ ﺔﻤﺋﺎﻗ</ResearchScreen>
   
   <!--HistoryUpload-->
-  <HistoryUploadMessage>Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu.</HistoryUploadMessage>
-  <HistoryUploadMessagePlayerName>Even though history is sent anonymously, you can attach your name.</HistoryUploadMessagePlayerName>
-  <HistoryUploadYes>Allow uploading gameplay data</HistoryUploadYes>
-  <HistoryUploadNo>Do not allow uploading gameplay data</HistoryUploadNo>
-  <HistoryUploadYesOnce>Upload only this time</HistoryUploadYesOnce>
-  <HistoryUploadNoOnce>Do not upload this time, ask me later</HistoryUploadNoOnce>
+  <HistoryUploadMessage>.ﺕﺍﺭﺎﻴﺨﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ ﻖﺣﻻ ﺖﻗﻭ ﻲﻓ ﺮﻴﻐﺘﺗ ﻥﺃ ﻦﻜﻤﻳ ﺔﻴﺻﻮﺼﺨﻟﺍ ﺕﻼﻴﻀﻔﺗ .(ﺔﺒﻌﻠﻟﺍ ﺔﻳﺎﻬﻧ ﻞﺜﻣ ﻯﺮﺧﻷﺍ ﺓﺭﺩﺎﻨﻟﺍ ﺕﻻﺎﺤﻟﺍ ﺾﻌﺑ ﻲﻓ ﻭ) ﻡﺎﻳﺃ {0} ﻞﻛ ﻲﻓ ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺕﺎﻧﺎﻴﺒﻟﺍ ﻞﻴﻤﺤﺗ ﻢﺘﻴﺳ ،ﺔﻴﻠﻋ ﻖﻓﺍﻮﺗ ﺖﻨﻛ ﺍﺫﺇ ؟ﺔﺒﻌﻠﻟﺍ ﻱﺭﻮﻄﻣ ﺓﺪﻋﺎﺴﻣ ﻞﺟﺃ ﻦﻣ RimWorld ﻡﺩﺎﺧ ﻰﻟﺇ ﻚﺑ ﺹﺎﺨﻟﺍ ﺐﻌﻠﻟﺍ ﺕﺎﻧﺎﻴﺒﻟﺍ ﺕﻼﺠﺳ ﻞﻴﻤﺤﺗ ﻲﻓ ﺐﻏﺮﺗ ﻞﻫ</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>.ﻚﻤﺳﺍ ﻕﺎﻓﺭﺇ ﻚﻨﻜﻤﻳ ،ﻝﻮﻬﺠﻤﻛ ﺎﻬﻟﺎﺳﺭﺇ ﻢﺘﻳ ﺦﻳﺭﺎﺘﻟﺍ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>ﺔﺒﻌﻠﻟﺍ ﺕﺎﻧﺎﻴﺑ ﻞﻴﻤﺤﺘﺑ ﺡﺎﻤﺴﻟﺍ</HistoryUploadYes>
+  <HistoryUploadNo>ﺔﺒﻌﻠﻟﺍ ﺕﺎﻧﺎﻴﺑ ﻞﻴﻤﺤﺘﺑ ﺢﻤﺴﺗ ﻻ</HistoryUploadNo>
+  <HistoryUploadYesOnce>ﻂﻘﻓ ﺓﺮﻤﻟﺍ ﻩﺬﻫ ﻞﻤﺣ</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>ﻖﺣﻻ ﺖﻗﻭ ﻲﻓ ﻲﻨﻟﺎﺳﺍ ،ﺖﻗﻮﻟﺍ ﺍﺬﻫ ﻞﻤﺤﺗ ﻻ</HistoryUploadNoOnce>
 	
 </LanguageData>
