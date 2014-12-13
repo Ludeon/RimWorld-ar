@@ -83,10 +83,11 @@
   <NoTradingCapacityDesc>.ﺕﻻﺎﺼﺗﻻﺍ ﺓﺪﺣﻭ ﻲﻨﺑﺍ \n\n .ﺭﺍﺪﻤﻟﺍ ﻲﻓ ﻦﻔﺴﻟﺍ ﻊﻣ ﺽﻭﺎﻔﺘﻟﺍ ﻚﻨﻜﻤﻳ ﻻ</NoTradingCapacityDesc>
 
   <BrawlerHasRangedWeapon>ﺡﻼﺴﻟﺍ ﻭ ﺲﻛﺎﺸﻤﻟﺍ </BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>واحد من المستعمرين الخاص بك لديه ميزة المشاكس، ولكن يحمل سلاحا عن بعد. وهذا سيجعلة غيرسعيدة جدا.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>.ﺍﺪﺟ ﺓﺪﻴﻌﺳﺮﻴﻏ ﺔﻠﻌﺠﻴﺳ ﺍﺬﻫﻭ .ﺪﻌﺑ ﻦﻋ ﺎﺣﻼﺳ ﻞﻤﺤﻳ ﻦﻜﻟﻭ ،ﺲﻛﺎﺸﻤﻟﺍ ﺓﺰﻴﻣ ﻪﻳﺪﻟ ﻚﺑ ﺹﺎﺨﻟﺍ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻦﻣ ﺪﺣﺍﻭ</BrawlerHasRangedWeaponDesc>
 
   <NeedResearchProject>ﻲﺜﺤﺑ ﻉﻭﺮﺸﻤﻟ ﺔﺟﺎﺤﺑ</NeedResearchProject>
-  <NeedResearchProjectDesc>لديك المعدات للقيام بالأبحاث ولكن لم يتم تحديد المشروع. \n\n افتح قائمة البحث واختيار المشروع.</NeedResearchProjectDesc>
+  <NeedResearchProjectDesc> ﺭﺎﻴﺘﺧﺍﻭ ﺚﺤﺒﻟﺍ ﺔﻤﺋﺎﻗ ﺢﺘﻓﺍ \n\n .ﻉﻭﺮﺸﻤﻟﺍ ﺪﻳﺪﺤﺗ ﻢﺘﻳ ﻢﻟ ﻦﻜﻟﻭ ﺙﺎﺤﺑﻷﺎﺑ ﻡﺎﻴﻘﻠﻟ ﺕﺍﺪﻌﻤﻟﺍ ﻚﻳﺪﻟ
+.ﻉﻭﺮﺸﻤﻟﺍ</NeedResearchProjectDesc>
 
   <NeedDump> ﺕﺎﻳﺎﻔﻨﻟﺍ ﺔﻘﻄﻨﻤﻟ ﺔﺟﺎﺤﺑ</NeedDump>
   <NeedDumpDesc>.ﺕﺎﻳﺎﻔﻨﻟﺍ ﺔﻘﻄﻨﻣ ﻲﻨﺑﺍ \n\n .ﺎﻬﺑﺎﺤﻄﺻﺍ ﻦﻜﻤﻳ ﺚﻴﺣ ﻥﺎﻜﻣ ﻙﺎﻨﻫ ﺲﻴﻟ ،ﻚﻟﺫ ﻊﻣﻭ .ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺍﺪﻴﻌﺑ ﻊﻀﺗ ﻥﺃ ﺪﻳﺮﺗ ﻲﺘﻟﺍ ﺭﻮﺨﺻ ﻚﻳﺪﻟ</NeedDumpDesc>
@@ -94,7 +95,7 @@
   <NeedGrave>ﺓﺮﺒﻘﻣ ﺝﺎﺘﺤﺗ</NeedGrave>
   <NeedGraveDesc>.ﺚﺜﺠﻟﺍ ﻦﻳﺰﺨﺘﻟ ﺎﻬﻨﻴﻋﻭ ﻢﻬﻟ ﺔﻘﻄﻨﻣ ﺩﺪﺣ ﻭﺃ ﺮﺒﻗ ﻲﻨﺑﺍ \n\n .ﺔﻴﻟﺍ ﺎﻫﺬﺧﻷ ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﻥﺎﻜﻣ ﻲﻓ ﺲﻴﻟﻭ ﺽﺭﻷﺍ ﻰﻠﻋ ﺓﺩﺪﻤﻣ ﺔﺜﺟ ﻙﺎﻨﻫ</NeedGraveDesc>
 
-  <ColonistsIdle>{0} المستعمرين ما عندهم شغل </ColonistsIdle>
+  <ColonistsIdle>{0} ﻞﻐﺷ ﻢﻫﺪﻨﻋ ﺎﻣ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ </ColonistsIdle>
   <ColonistsIdleDesc>.ﻰﻌﻨﺻ ﻪﻠﻗﻭ ﻰﻋﺮﻣﻭ ﻞﻛﺍ ﻞﻐﺷ ﻢﻬﻟ ﻑﻮﺸﺗ ﻥﺍ ﺐﺠﻳ ﻥ \n{0}\n\n :ﻱﺪﻳﻷﺍ ﻲﻓﻮﺘﻜﻣ ﻦﻴﻜﺘﻣ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻩﺬﻫ </ColonistsIdleDesc>
 
   <HaltedConstructions>{0} ﺔﺼﻗﺎﻧ ﺩﺍﻮﻣ</HaltedConstructions>
@@ -107,7 +108,7 @@
   <ColonistNeedsTreatmentDesc>(.ﻲﺒﻃ ﻪﻠﻌﺠﻟ ﺾﻳﺮﻤﻟﺍ ﺮﻳﺮﺳ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍﻭ ﻰﺣﺮﺠﻟﺍ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺮﺘﺧﺍ ﻢﺛ . ﺮﻳﺮﺳ ﻲﻓ ﻲﺒﻃ ﻪﻧﺍ ﺎﻬﻴﻠﻋ ﺔﻣﻼﻋ ﻊﺿﻮﺑ ﻚﻟﺫﻭ ﻰﻔﺸﺘﺴﻤﻟﺍ ﺮﻳﺮﺳ ﺪﻳﺪﺤﺗ ﻻﻭﺃ) \n\n .ﻲﺒﻄﻟﺍ ﺮﻳﺮﺳ ﻰﻟﺍ ﻢﻬﻠﺳﺭﺍ ﻢﻬﺟﻼﻋ ﻲﻟ \n{0}\n\n .ﻢﺋﺍﺩ ﺭﺮﺿ ﻰﻠﻋ ﺍﻮﻠﺼﺤﻳ ﻢﻬﻧﺃ ﻭﺃ ﻢﻬﺗﺎﺑﺎﺻﺇ ﻦﻣ ﺕﻮﻤﻳ ﻥﺃ ﻦﻜﻤﻳ ﺝﻼﻌﻟﺍ ﻥﻭﺪﺑﻭ .ﻲﺒﻃ ﺝﻼﻋ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻩﺬﻫ</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>ﻢﺴﺠﻟﺍ ﺓﺭﺍﺮﺣ ﺽﺎﻔﺨﻧﺍ</AlertHypothermia>
-  <AlertHypothermiaDesc>هذه المستعمرين يعانون من انخفاض حرارة الجسم.\n\n{0}\n ن تأكد من ملابسهم هل هو مناسب لهذا الموسم و المباني الداخلية يتم تسخينها بشكل صحيح.</AlertHypothermiaDesc>
+  <AlertHypothermiaDesc>.ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﺎﻬﻨﻴﺨﺴﺗ ﻢﺘﻳ ﺔﻴﻠﺧﺍﺪﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ ﻭ ﻢﺳﻮﻤﻟﺍ ﺍﺬﻬﻟ ﺐﺳﺎﻨﻣ ﻮﻫ ﻞﻫ ﻢﻬﺴﺑﻼﻣ ﻦﻣ ﺪﻛﺄﺗ ﻥ \n{0}\n\n.ﻢﺴﺠﻟﺍ ﺓﺭﺍﺮﺣ ﺽﺎﻔﺨﻧﺍ ﻦﻣ ﻥﻮﻧﺎﻌﻳ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻩﺬﻫ</AlertHypothermiaDesc>
 
   <ColonistsAwaitingMedicalOperation>{0} ﺔﻴﺒﻄﻟﺍ ﺔﻴﻠﻤﻌﻟﺍ ﺭﺎﻈﺘﻧﺍ ﻲﻓ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ</ColonistsAwaitingMedicalOperation>
   <ColonistsAwaitingMedicalOperationDesc>ﺓﺮﻓﻮﺘﻣ ﺐﻴﺒﻃﻭ ﺔﻣﺯﻼﻟﺍ ﺔﻴﺒﻄﻟﺍ ﺕﺍﻭﺩﻷﺍ ﻞﻛ ﻚﻳﺪﻟ ﺪﻛﺄﺗ \n{0}\n\n :ﺔﻴﺒﻄﻟﺍ ﺔﻴﻠﻤﻌﻟﺍ ﺭﺎﻈﺘﻧﺍ ﻲﻓ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻩﺬﻫ</ColonistsAwaitingMedicalOperationDesc>
