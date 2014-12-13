@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <FactionGreetingHostile> .ﻝﺎﺼﺗﻻ ﻊﻄﻘﻳ ﻥﺍ ﻞﺒﻗ ﻢﺋﺎﺘﺸﻟﺍ ﺾﻌﺑ ﻊﻣ ﺕﺎﺧﺮﺻ {0} ﻢﺳﺎﺑ 
-
-ﺙﺪﺤﺘﻤﻟﺍ</FactionGreetingHostile>
+  <FactionGreetingHostile> .ﻝﺎﺼﺗﻻ ﻊﻄﻘﻳ ﻥﺍ ﻞﺒﻗ ﻢﺋﺎﺘﺸﻟﺍ ﺾﻌﺑ ﻊﻣ ﺕﺎﺧﺮﺻ {0} ﻢﺳﺎﺑ ﺙﺪﺤﺘﻤﻟﺍ</FactionGreetingHostile>
   <FactionGreetingWary>. ﻝﺎﻤﻋﻷﺍ ﻝﺄﺴﻳﻭ ﺭﺬﺤﺑ {1} {0} ﻢﺳﺎﺑ ﺙﺪﺤﺘﻤﻟﺍ </FactionGreetingWary>
-  <FactionGreetingWarm> ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻝﺍﻮﺣﺍ ﻝﺄﺴﻳﻭ ﺍﺭﺎﺣ ﺎﺒﻴﺣﺮﺗ ﻝﺎﺒﻘﺘﺳﺍ ﻲﻓ {1} {0} ﻢﺳﺎﺑ ﺙﺪﺤﺘﻤﻟﺍ  
-
-</FactionGreetingWarm>
+  <FactionGreetingWarm> ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻝﺍﻮﺣﺍ ﻝﺄﺴﻳﻭ ﺍﺭﺎﺣ ﺎﺒﻴﺣﺮﺗ ﻝﺎﺒﻘﺘﺳﺍ ﻲﻓ {1} {0} ﻢﺳﺎﺑ ﺙﺪﺤﺘﻤﻟﺍ  </FactionGreetingWarm>
 
   <Disconnect>ﻞﺼﻓ </Disconnect>
 
@@ -19,9 +15,7 @@
 
 
   <RequestMilitaryAid> (ﺔﻌﻤﺳ {0}) ﺓﺮﺷﺎﺒﻤﻟﺍ ﺔﻳﺮﻜﺴﻌﻟﺍ ﺓﺪﻋﺎﺴﻤﻟﺍ ﺐﻠﻃ </RequestMilitaryAid>
-  <MilitaryAidConfirmMutualEnemy> ؟ﺓﺪﻋﺎﺴﻤﻟﺍ ﺐﻠﻃ ﺪﻳﺮﺗ ﺖﻟﺍﺯ ﻻ ﻞﻫ .{1} :ﺔﻋﻮﻤﺠﻤﻟﺍ ﻩﺬﻫ ﻰﻟﺇ ﻂﻘﻓ ﻲﻤﺘﻨﺗ ﻚﻟ ﻢﺟﺎﻬﺗ ﻲﺘﻟﺍ 
-
-ﺀﺍﺪﻋﻷﺍ ﺾﻌﺑ .ﻢﻬﺋﺍﺪﻋﺃ ﻻ ﻲﺘﻟﺍ ﺕﺎﻋﺎﻤﺠﻟﺍ ﺪﺿ ﻙﺪﻋﺎﺴﺗ ﻻ {0}</MilitaryAidConfirmMutualEnemy>
+  <MilitaryAidConfirmMutualEnemy> ؟ﺓﺪﻋﺎﺴﻤﻟﺍ ﺐﻠﻃ ﺪﻳﺮﺗ ﺖﻟﺍﺯ ﻻ ﻞﻫ .{1} :ﺔﻋﻮﻤﺠﻤﻟﺍ ﻩﺬﻫ ﻰﻟﺇ ﻂﻘﻓ ﻲﻤﺘﻨﺗ ﻚﻟ ﻢﺟﺎﻬﺗ ﻲﺘﻟﺍ ﺀﺍﺪﻋﻷﺍ ﺾﻌﺑ .ﻢﻬﺋﺍﺪﻋﺃ ﻻ ﻲﺘﻟﺍ ﺕﺎﻋﺎﻤﺠﻟﺍ ﺪﺿ ﻙﺪﻋﺎﺴﺗ ﻻ {0}</MilitaryAidConfirmMutualEnemy>
   <CallConfirm>.ﻝﺎﺣ ﻱﺃ ﻰﻠﻋ ،ﻢﻌﻧ</CallConfirm>
   <CallCancel>.ﺀﺎﻐﻟﺍ ،ﻻ</CallCancel>
   <MilitaryAidSent>. ﻙﺪﻋﺎﺴﺗ ﻑﻮﺳ ﻦﻳﺬﻟﺍ ﻦﻴﻠﺗﺎﻘﻤﻟﺍ ﻞﺳﺮﻳﻭ ﻖﻓﺍﻮﻳ {0} ﻢﺳﺎﺑ ﺙﺪﺤﺘﻤﻟﺍ </MilitaryAidSent>
