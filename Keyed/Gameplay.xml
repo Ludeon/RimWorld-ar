@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- Various -->
-  <WorkLeft>Work left</WorkLeft>
+  <WorkLeft>ﻲﻘﻴﺒﺘﻤﻟﺍ </WorkLeft>
   <Contents>ﺕﺎﻳﻮﺘﺤﻣ</Contents>
   <ContainedResources>ﺓﺩﺭﺍﻮﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ</ContainedResources>
   <ForPrisonerUse>ﺀﺎﻨﺠﺴﻟﺍ ﻝﺎﻤﻌﺘﺳﻼﻟ</ForPrisonerUse>
@@ -162,7 +162,7 @@
 	<DestroyedBodyPart>ﺮﻴﻣﺪﺗ</DestroyedBodyPart>
 	<ShatteredBodyPart>ﻢﻄﺣ</ShatteredBodyPart>
   <RemovedBodyPart>ﺔﻟﺍﺯﺇ</RemovedBodyPart>
-	<Healthy>يحص</Healthy>
+	<Healthy>ﺓﺪﻴﺟ ﺔﺤﺼﺑ</Healthy>
 	<InPain>In pain</InPain>
 	<PainLevel>ﻢﻟﻷﺍ</PainLevel>
 	<Dead>ﺖﻴﻣ</Dead>
