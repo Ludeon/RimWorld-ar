@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <rep>
+    <path>SpacePause.helpTexts[0]</path>
+    <trans>!ﺔﻓﺎﺴﻤﻟﺍ ﺭﺯ ﻂﻐﺿﺍ ﺔﺒﻌﺻ ﺭﻮﻣﻷﺍ ﺖﺤﺒﺻﺃ ﺍﺫﺇ : ﺍﺬﻫ ﺮﻛﺬﺗ\n\n. ﺎﺘﻗﺆﻣ ﺔﺒﻌﻠﻟﺍ ﻑﺎﻘﻳﺇﺀﺎﻨﺛﺃ ﺮﻣﺍﻭﻷﺍ ﺀﺎﻄﻋﺇ ﻊﻴﻄﺘﺴﺗ\n\. ﺎﻬﻟﺎﻤﻜﺘﺳﺍ ﻭﺃ ﺎﺘﻗﺆﻣ ﺔﺒﻌﻠﻟﺍ ﻑﺎﻘﻳﻹ ﺔﻓﺎﺴﻤﻟﺍ ﺭﺯ ﻂﻐﺿﺍ</trans>
+  </rep>
+
+  <rep>
+    <path>StorageTab.helpTexts[0]</path>
+    <trans>.ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺝﺭﺎﺧ ﻲﻓ 'ﺮﻜﺴﻌﻣ' ﻲﻓ ﻲﺘﻟﺍ ﺕﺎﻳﺎﻔﻨﻟﺍ ﻦﻳﺰﺨﺗ ﻖﻃﺎﻨﻣ ﻦﻴﻴﻌﺗ ﻚﻨﻜﻤﻳ</trans>
+  </rep>
+
+  <rep>
+    <path>StoragePriority.helpTexts[0]</path>
+    <trans>.ﻰﻠﻋﻷﺍ ﺔﻳﻮﻟﻭﻷﺍ ﺕﺍﺫ ﺽﺍﺮﻏﻷﺍ ﻥﻮﻧﺰﺨﻴﺳ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻦﻳﺰﺨﺘﻟﺍ ﺔﻳﻮﻟﻭﺃ ﺮﻴﻴﻐﺗ ﻊﻴﻄﺘﺴﺗ</trans>
+  </rep>
+
+  <rep>
+    <path>MedicalOperations.helpTexts[0]</path>
+    <trans>.ﻲﻋﺮﻔﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻴﻠﻤﻋ ﻰﻟﺇ ﻝﻮﺤﺘﻟﺍ ﻢﺛ ،ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺔﺤﺻ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍﺔﻴﻋﺎﻨﺼﻟﺍ ﻑﺍﺮﻃﻷﺍ ﺐﻴﻛﺮﺗ ﻭﺃ ﺀﺎﻀﻋﻷﺍ ﺩﺎﺼﺣ ﻞﺜﻣ ،ﺔﻴﺒﻄﻟﺍ ﺔﻴﻠﻤﻌﻟﺍ ﻦﻴﻴﻌﺗ</trans>
+  </rep>
+
+  <rep>
+    <path>HomeRegion.helpTexts[0]</path>
+    <trans>. ﺀﺎﻨﺒﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ ﻖﻃﺎﻨﻣ ﻒﻴﻨﺼﺗ ﻲﻓ ﻝﺰﻨﻤﻟﺍ ﺔﻘﻄﻨﻣ ﺩﺪﺣ\n\nﺭﺎﻨﻟﺍ ﺪﻤﺨﻳ ﻦﻳﺃ ﻭ ﻒﻈﻨﻳ ﻦﻳﺃ ﺮﻤﻌﺘﺴﻤﻟﺍ ﺮﺒﺧﺃ</trans>
+  </rep>
+
+  <rep>
+    <path>RightClickClearLetter.helpTexts[0]</path>
+    <trans>. ﻦﻤﻳﻷﺍ ﺓﺭﺄﻔﻟﺍ ﺭﺯ ﻯ ﻞﻋ ﻂﻐﻀﻟﺎﺑ ﺓﺪﻳﺪﺠﻟﺍ ﻞﺋﺎﺳﺮﻟﺍ ﻞﻫﺎﺠﺗ ﻊﻴﻄﺘﺴﺗ</trans>
+  </rep>
+
+  <rep>
+    <path>Wiki.helpTexts[0]</path>
+    <trans>(!ﺔﻳﺰﻴﻠﺠﻧﻹﺍ ﺔﻐﻠﻟﺍ ﻲﻓ :ﺔﻈﺣﻼﻣ) .ﻦﻴﻤﻴﻟﺍ ﻞﻔﺳﺃ ﻲﻓ ﻂﺑﺍﺮﻟﺍ ﻡﺪﺨﺘﺳﺍ WIKI.\n\n ﻲﻓ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻦﻣ ﺪﻳﺰﻣ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻚﻨﻜﻤﻳ</trans>
+  </rep>
+  
+</LanguageData>
