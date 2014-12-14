@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <SaveButton>ﻆﻔﺣ</SaveButton>
+  <!--<CancelButton>ﺀﺎﻐﻟﺇ  </CancelButton>-->
+  <ClearBinding>ﺢﺴﻣ </ClearBinding>
+  <ResetBinding>ﻲﺿﺍﺮﺘﻓﻻﺍ ﻰﻟﺇ ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ </ResetBinding>
+  <BindingButtonToolTip>ﺕﺍﺮﻴﺨﻟﺍ ﻲﻟ ﻦﻤﻳﻻﺍ ﺭﺰﻟﺍ ﻭﺍ ﺡﺎﺘﻔﻤﻟﺍ ﺍﺬﻫ ﻦﻴﻌﺘﻟ ﺮﺴﻳﻻﺍ ﺓﺭﺎﻔﻟﺍ ﺯﺮﺑ ﺮﻘﻧﺍ</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>... ﺀﺎﻐﻟﻹ ESC ﻭﺃ ﺡﺎﺘﻔﻣ ﻱﺃ ﻰﻠﻋ ﻂﻐﺿﺍ </PressAnyKeyOrEsc>
+
+</LanguageData>
