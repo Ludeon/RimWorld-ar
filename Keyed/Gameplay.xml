@@ -26,7 +26,24 @@
   <NextTreatmentAfter>ﻡﺎﻳﺃ {0} ﺪﻌﺑ ﺔﻠﺒﻘﻤﻟﺍ ﺔﺠﻟﺎﻌﻤﻟﺍ</NextTreatmentAfter>
   <MissingMedicalBillIngredient>ﻻ {0}</MissingMedicalBillIngredient>
   <ImmunityDevelopmentProgress>ﺔﻋﺎﻨﻤﻟﺍ ﺔﻴﻤﻨﺗ ﺔﻴﻠﻤﻋ ﻲﻓ ﻡﺪﻘﺘﻟﺍ</ImmunityDevelopmentProgress>
+  <Race>ﺲﻨﺠﻟﺍ </Race>
+  <Description>ﻒﺻﻮﻟﺍ </Description>
+  <Equipment>ﺕﺍﺪﻌﻣ </Equipment>
+  <Apparel>ﺲﺑﻼﻣ </Apparel>
+  <Inventory>ﻥﻭﺰﺨﻤﻟﺍ </Inventory>
+  <ThingInfo>ﺕﺎﻣﻮﻠﻌﻣ </ThingInfo>
+  <DropThing>ﻁﺎﻘﺳﺇ </DropThing>
+  <RenameColonist> ﺮﻤﻌﺘﺴﻤﻟﺍ ﺔﻴﻤﺴﺗ ﺓﺩﺎﻋﺇ </RenameColonist>
+  <UnknownLower>ﻝﻮﻬﺠﻣ</UnknownLower>
+  
+  <!-- Snow -->
+  <SnowNone> ﺝﻮﻠﺛ ﻻ </SnowNone>
+  <SnowDusting> (ﺔﻔﺻﺎﻋ) ﺝﻮﻠﺛ </SnowDusting>
+  <SnowThin> (ﺔﻔﻴﻔﺧ) ﺝﻮﻠﺛ </SnowThin>
+  <SnowMedium> (ﻂﺳﻭ) ﺝﻮﻠﺛ </SnowMedium>
+  <SnowThick> (ﺔﻜﻴﻤﺳ) ﺝﻮﻠﺛ </SnowThick>
 
+  
   <!-- Turrets -->
   <GunInstalled>ﺖﻴﺒﺜﺗ</GunInstalled>
   <MinimumRange>ﻕﺎﻄﻨﻠﻟ ﻰﻧﺩﻻﺍ ﺪﺤﻟﺍ</MinimumRange>
@@ -49,27 +66,21 @@
 	<Weather>ﺲﻘﻄﻟﺍ ﺔﻟﺎﺣ</Weather>
 	<ShootingCover>ﺀﺎﻄﻏ</ShootingCover>
 	<CoverThingBlocksPercentOfShots>{0} ﻒﻗﻮﺗ  {1}</CoverThingBlocksPercentOfShots>
-	<NoCoverLower>ﺀﺎﻄﻏ ﺪﺟﻮﻳ ﻻ</NoCoverLower>
+	<NoCoverLower>no cover</NoCoverLower>
 	
-	
+  <!-- Generated recipes -->
+  <RecipeMake>ﺀﺍﺮﺟﺇ {0}</RecipeMake>
+  <RecipeMakeJobString>ﺫﺎﺨﺗﺍ {0}.</RecipeMakeJobString>
+  
 	<!-- Status levels -->
   <Mood>ﺝﺍﺰﻤﻟﺍ</Mood>
-  <MoodTip>
-ﺎﻣ ﺺﺨﺷ ﺍﺫﺇ \n\n .ﺔﻴﺴﻔﻧﻭ ﺔﻳﺪﺴﺟ ﺕﺎﺟﺎﻴﺘﺣﺍ ﺔﻴﺒﻠﺗ ﻝﻼﺧ ﻦﻣ ﺝﺍﺰﻤﻟﺍ ﺮﻤﺘﺴﻳﻭ
-
-.ﻲﻠﻘﻌﻟﺍ ﻉﺎﻄﻘﻧﺍ ﻦﻣ ﻲﻧﺎﻌﺗ ﺪﻗ ﺎﻬﻧﺈﻓ ،ﺍﺪﺟ ﺔﻀﻔﺨﻨﻣ ﻞﺼﺤﻳ ﺝﺍﺰﻤﻟﺍ</MoodTip>
+  <MoodTip> ﺎﻣ ﺺﺨﺷ ﺍﺫﺇ \n\n .ﺔﻴﺴﻔﻧﻭ ﺔﻳﺪﺴﺟ ﺕﺎﺟﺎﻴﺘﺣﺍ ﺔﻴﺒﻠﺗ ﻝﻼﺧ ﻦﻣ ﺝﺍﺰﻤﻟﺍ ﺮﻤﺘﺴﻳﻭ .ﻲﻠﻘﻌﻟﺍ ﻉﺎﻄﻘﻧﺍ ﻦﻣ ﻲﻧﺎﻌﺗ ﺪﻗ ﺎﻬﻧﺈﻓ ،ﺍﺪﺟ ﺔﻀﻔﺨﻨﻣ ﻞﺼﺤﻳ ﺝﺍﺰﻤﻟﺍ</MoodTip>
   <Food>ﺀﺍﺬﻏ</Food>
-  <FoodTip>ﻭ ،ﺮﻔﺼﻟﺍ ﻯﻮﺘﺴﻣ ﺪﻨﻋ ﻥﺎﻛ ﺍﺫﺇ .ﺍﺮﺧﺆﻣ ﻕﻮﻠﺨﻣ ﻚﻠﻬﺘﺳﺍ ﺪﻗ ﺔﻳﺬﻐﺘﻟﺍ ﺔﻴﻤﻛ ﻮﻫ ﺀﺍﺬﻐﻟﺍ
-
-ﺖﻗﻮﻟﺍ ﺭﻭﺮﻣ ﻊﻣ ﺔﻋﺎﺠﻤﻟﺍ ﺭﺮﻀﻟﺍ ﺬﺧﺄﻳ ﻑﻮﺳ ﻕﻮﻠﺨﻣ</FoodTip>
+  <FoodTip>ﻭ ،ﺮﻔﺼﻟﺍ ﻯﻮﺘﺴﻣ ﺪﻨﻋ ﻥﺎﻛ ﺍﺫﺇ .ﺍﺮﺧﺆﻣ ﻕﻮﻠﺨﻣ ﻚﻠﻬﺘﺳﺍ ﺪﻗ ﺔﻳﺬﻐﺘﻟﺍ ﺔﻴﻤﻛ ﻮﻫ ﺀﺍﺬﻐﻟﺍ ﺖﻗﻮﻟﺍ ﺭﻭﺮﻣ ﻊﻣ ﺔﻋﺎﺠﻤﻟﺍ ﺭﺮﻀﻟﺍ ﺬﺧﺄﻳ ﻑﻮﺳ ﻕﻮﻠﺨﻣ </FoodTip>
   <Rest>ﺔﺣﺍﺭ</Rest>
-  <RestTip>ﻰﺼﻗﺃ ﺪﺣ ﻰﻟﺇ ﻊﻔﺗﺮﺗﻭ  \n\n .ﺺﺨﺸﻟﺍ ﻞﺼﺤﻳ ﻡﻮﻨﻟﺍﻭ ﺀﺎﺧﺮﺘﺳﻻﺍ ﺓﺩﻮﺟ ﻯﺪﻣ ﻮﻫ ﺔﺣﺍﺮﻟﺍ   
-
-.ﺖﻗﻮﻟﺍ ﺭﻭﺮﻣ ﻊﻣ ﻊﻘﺗ ﺎﻬﻧﺍﻭ ،ﺮﻳﺮﺴﻟﺍ ﺝﺭﺎﺧ .ﺮﻳﺮﺴﻟﺍ ﻲﻓ ﺎﻣ ﺺﺨﺷ ﻡﺎﻨﻳ ﺎﻤﻨﻴﺣ</RestTip>
+  <RestTip>ﻰﺼﻗﺃ ﺪﺣ ﻰﻟﺇ ﻊﻔﺗﺮﺗﻭ  \n\n .ﺺﺨﺸﻟﺍ ﻞﺼﺤﻳ ﻡﻮﻨﻟﺍﻭ ﺀﺎﺧﺮﺘﺳﻻﺍ ﺓﺩﻮﺟ ﻯﺪﻣ ﻮﻫ ﺔﺣﺍﺮﻟﺍ .ﺖﻗﻮﻟﺍ ﺭﻭﺮﻣ ﻊﻣ ﻊﻘﺗ ﺎﻬﻧﺍﻭ ،ﺮﻳﺮﺴﻟﺍ ﺝﺭﺎﺧ .ﺮﻳﺮﺴﻟﺍ ﻲﻓ ﺎﻣ ﺺﺨﺷ ﻡﺎﻨﻳ ﺎﻤﻨﻴﺣ</RestTip>
   <Environment>ﺔﺌﻴﺑ</Environment>
-  <EnvironmentTip>ﺀﻮﺳ ﻦﻣﻭ .ﺔﻠﻴﻤﺟ ﻑﺭﺎﺧﺯ ﻊﻣ ﺔﺤﻴﺴﻓ ﻑﺮﻏ ﻲﻓ ﺱﺎﻨﻟﺍ ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋ ﺔﻴﻟﺎﻋ ﻲﻫ ﺔﺌﻴﺒﻟﺍ  \n\n .ﻢﻬﻄﻴﺤﻣ ﺪﺠﻳ ﺺﺨﺷ ﺀﺎﺿﺭﺍ ﻒﻴﻛ ﺔﺌﻴﺒﻟﺍ ﺲﻜﻌﺗ
-
-ﺔﺤﻴﺒﻗ ﻢﻬﻄﻴﺤﻣ ﺎﻤﻨﻴﺣ</EnvironmentTip>
+  <EnvironmentTip>ﺀﻮﺳ ﻦﻣﻭ .ﺔﻠﻴﻤﺟ ﻑﺭﺎﺧﺯ ﻊﻣ ﺔﺤﻴﺴﻓ ﻑﺮﻏ ﻲﻓ ﺱﺎﻨﻟﺍ ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋ ﺔﻴﻟﺎﻋ ﻲﻫ ﺔﺌﻴﺒﻟﺍ  \n\n .ﻢﻬﻄﻴﺤﻣ ﺪﺠﻳ ﺺﺨﺷ ﺀﺎﺿﺭﺍ ﻒﻴﻛ ﺔﺌﻴﺒﻟﺍ ﺲﻜﻌﺗ ﺔﺤﻴﺒﻗ ﻢﻬﻄﻴﺤﻣ ﺎﻤﻨﻴﺣ</EnvironmentTip>
   <Openness>ﺡﺎﺘﻔﻧﻻﺍ</Openness>
 
   
@@ -96,93 +107,12 @@
   <SanityGiveUpExit>Broken: Given up and leaving</SanityGiveUpExit>
   <SanityPanicFlee> ﻑﻮﺨﻟﺍ ﻦﻣ ﻥﻭﺮﻔﻳ :ﺭﻮﺴﻜﻤﻟﺍ </SanityPanicFlee>
   <SanityPsychotic>ﻲﻨﻫﺫ ﻥﺎﺟﺎﻴﻫ :ﺭﻮﺴﻜﻤﻟﺍ</SanityPsychotic>
-  
-  <!-- Body and activities condition -->
-  <None>None</None>
-  <VeryPoor>ﺔﻳﺎﻐﻠﻟ ﺀﻲﺳ </VeryPoor>
-  <Poor>ﺀﻲﺳ </Poor>
-  <Weakened>ﻒﻴﻌﻀﻟﺍ </Weakened>
-  <GoodCondition>OK</GoodCondition>
-  <Enhanced>ﻦﺴﺤﻣ </Enhanced>
-  <SeriouslyImpaired>ﺪﺠﻟﺍ ﻞﻤﺤﻣ ﻰﻠﻋ ﺔﻗﺎﻋﺇ</SeriouslyImpaired>
-  <Impaired>ﺔﻗﺎﻋﺈﺑ </Impaired>
-  <SlightlyImpaired>ﻒﻴﻔﻃ ﻞﻜﺸﺑ ﺔﻗﺎﻋﺇ</SlightlyImpaired>
-  <NoPain>None</NoPain>
-  <LittlePain>ﻼﻴﻠﻗ </LittlePain>
-  <MediumPain>ﻂﺳﻮﺘﻣ </MediumPain>
-  <SeverePain>ﺩﺎﺣ </SeverePain>
-  <ExtremePain>ﺪﻳﺪﺸﻟﺍ </ExtremePain>
-
+ 
   <!-- Inspector general stuff -->
   <SelectNextInSquareTip>Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again.</SelectNextInSquareTip>
   <DefInfoTip>.ﻦﺋﺎﻜﻟﺍ ﺍﺬﻫ ﻦﻋ ﺕﺎﻣﻮﻠﻌﻣ ﺽﺮﻋ</DefInfoTip>
   
   
-  <!-- ITab titles -->
-  <TabBills>ﻥﻭﺫﺃ</TabBills>
-  <TabGrowing>ﺪﻳﺍﺰﺘﻣ</TabGrowing>
-  <TabCharacter>ﺔﻴﺼﺨﺷ</TabCharacter>
-  <TabPrisoner>ﻦﻴﺠﺳ</TabPrisoner>
-  <TabGear>ﺕﺍﺪﻌﻣ</TabGear>
-  <TabThoughts>ﺭﺎﻜﻓﺃ</TabThoughts>
-  <TabStorage>ﻦﻳﺰﺨﺗ</TabStorage>
-  <TabHealth>ﺔﺤﺼﻟﺍ</TabHealth>
-  <TabRace>Race</TabRace>
-  <TabBasics>Basics</TabBasics>
-  <TabStats>ﺕﺎﻴﺋﺎﺼﺣﺍ</TabStats>
-
-
-  <!-- ITabs -->
-	<AddBill>إﺓﺭﻮﺗﺎﻓ ﺔﻓﺎﺿﺇ</AddBill>
-	<RecipeRequiresSkills>ﻉﻭﺮﺸﻤﻟﺍ ﺍﺬﻫ ﻞﻌﻔﻳ ﻑﻮﺳ ﺪﺣﺃ ﻻ ﻚﻟﺬﻟ ،ﺕﺍﺭﺎﻬﻤﻟﺍ ﻩﺬﻫ ﻚﻳﺪﻟ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻦﻣ ﺎﻳﺃ .ﻩﺎﻧﺩﺃ ﺕﺍﺭﺎﻬﻣ ﺐﻠﻄﺘﺗ {0} ﺔﻔﺻﻭ.</RecipeRequiresSkills>
-	<BillConfig>Config</BillConfig>
-	<SuspendedCaps>SUSPENDED</SuspendedCaps>
-	<PlantVerb>ﺕﺎﺒﻨﻟﺍ</PlantVerb>
-	<RecruitmentDifficulty>ﻒﻴﻇﻮﺘﻟﺍ ﺔﺑﻮﻌﺻ</RecruitmentDifficulty>
-	<PrisonerGetsFood>ﺀﺍﺬﻐﻟﺍ ﻰﻠﻋ ﻞﺼﺤﻳ</PrisonerGetsFood>
-	<DoctorsCare>ﺀﺎﺒﻃﻷﺍ ﺔﻳﺎﻋﺭ</DoctorsCare>
-	<PrisonerGetsMedicine>ﺀﺍﻭﺪﻟﺍ ﻰﻠﻋ ﻞﺼﺤﻳ</PrisonerGetsMedicine>
-	<ShouldTryToRecruit>ﺪﻴﻨﺠﺗ ﺔﻟﻭﺎﺤﻣ</ShouldTryToRecruit>
-	<PrisonerNoInteraction>ﻞﻋﺎﻔﺗ ﺪﺟﻮﻳ ﻻ</PrisonerNoInteraction>
-	<PrisonerFriendlyChat>ﺔﻳﺩﻭ ﺔﺛﺩﺎﺤﻣ</PrisonerFriendlyChat>
-	<PrisonerMildBeating>ﻒﻴﻔﺧ ﺏﺮﺿ</PrisonerMildBeating>
-	<PrisonerViciousBeating>Vicious beating</PrisonerViciousBeating>
-	<PrisonerExecution>ﻡﺍﺪﻋﺇ</PrisonerExecution>
-	<Equipment>ﺕﺍﺪﻌﻣ</Equipment>
-	<Apparel>ﺲﺑﻼﻣ</Apparel>
-	<Inventory>ﻥﻭﺰﺨﻤﻟﺍ</Inventory>
-	<ThingInfo>ﺕﺎﻣﻮﻠﻌﻣ</ThingInfo>
-	<DropThing>ﻁﺎﻘﺳﺇ</DropThing>
-	<TotalModifiers>ﺕﻻﺪﻌﻤﻟﺍ ﻲﻟﺎﻤﺟﺇ</TotalModifiers>
-	<DamageAbsorption>ﺭﺮﻀﻟﺍ ﺏﺎﻌﻴﺘﺳﺍ</DamageAbsorption>
-	<DamageDeflection>Damage deflection</DamageDeflection>
-	<MoveSpeed>ﻙﺮﺤﺘﻟﺍ ﺔﻋﺮﺳ</MoveSpeed>
-	<Efficiency>ﺓﺀﺎﻔﻜﻟﺍ</Efficiency>
-	<MissingBodyPart>Gone</MissingBodyPart>
-	<DestroyedBodyPart>ﺮﻴﻣﺪﺗ</DestroyedBodyPart>
-	<ShatteredBodyPart>ﻢﻄﺣ</ShatteredBodyPart>
-  <RemovedBodyPart>ﺔﻟﺍﺯﺇ</RemovedBodyPart>
-	<Healthy>ﺓﺪﻴﺟ ﺔﺤﺼﺑ</Healthy>
-	<InPain>In pain</InPain>
-	<PainLevel>ﻢﻟﻷﺍ</PainLevel>
-	<Dead>ﺖﻴﻣ</Dead>
-	<Unconscious>ﻲﻋﻮﻟﺍ ﺪﻗﺎﻓ</Unconscious>
-	<PainShock>ﺔﻣﺪﺻ ﺔﻟﺎﺣ ﻲﻓ</PainShock>
-	<Injured>ﺢﻳﺮﺟ</Injured>
-	<NoInjuries>(ﺕﺎﺑﺎﺻﺇ ﻊﻘﺗ ﻢﻟ)</NoInjuries>
-	<WholeBody>ﻢﺴﺠﻟﺍ ﻞﻣﺎﻛ</WholeBody>
-	<RenameColonist>ﺮﻤﻌﺘﺴﻤﻟﺍ ﺔﻴﻤﺴﺗ ﺓﺩﺎﻋﺇ</RenameColonist>
-	<DataProcessing>Data processing</DataProcessing>
-	<Communication>ﺕﻻﺎﺼﺗﺍ</Communication>
-	<AffectsLower>affects</AffectsLower>
-	<BleedingRate>ﻒﻳﺰﻨﻟﺍ ﻝﺪﻌﻣ</BleedingRate>
-	<HealthOverview>ﺔﻣﺎﻋ ﺓﺮﻈﻧ</HealthOverview>
-	<MedicalOperationsShort>ﺕﺎﻴﻠﻤﻌﻟﺍ({0})</MedicalOperationsShort>
-	<MedicalOperationsMechanoidsShort>ﺕﻼﻳﺪﻌﺘﻟﺍ({0})</MedicalOperationsMechanoidsShort>
-	<MedicalOperations>ﺔﻴﺒﻄﻟﺍ ﺕﺎﻴﻠﻤﻌﻟﺍ</MedicalOperations>
-	<Amputate>ﺮﺘﺑ</Amputate>
-	<Harvest>ﺩﺎﺼﺤﻟﺍ</Harvest>
-
 	<!-- like 'Blood of John' -->
 	<OfLower>of</OfLower>
 
@@ -194,8 +124,17 @@
   <PowerBatteryStored>ﺔﻧﺰﺨﻤﻟﺍ</PowerBatteryStored>
   <PowerBatteryEfficiency>ﺓﺀﺎﻔﻛ</PowerBatteryEfficiency>
 
+  <!-- Temperature control -->
+  <TargetTemperature>ﺔﻓﺪﻬﺘﺴﻤﻟﺍ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ </TargetTemperature>
+  <PowerConsumptionMode> ﺔﻴﻟﺎﺤﻟﺍ ﺔﻗﺎﻄﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ </PowerConsumptionMode>
+  <PowerConsumptionHigh>ﺔﻌﻔﺗﺮﻣ </PowerConsumptionHigh>
+  <PowerConsumptionLow>ﺔﻀﻔﺨﻨﻣ </PowerConsumptionLow>
   
-	<!--Rotting-->
+  <!-- Temperature readout -->
+  <Indoors>ﻞﺧﺍﺪﻟﺍ ﻲﻓ</Indoors>
+  <Outdoors>ﺝﺭﺎﺨﻟﺍ ﻲﻓ</Outdoors>
+  
+  <!--Rotting-->
 	<RotStateFresh>ﺓﺪﻳﺪﺟ </RotStateFresh>
 	<RotStateRotting>ﺔﻨﻔﻌﺘﻣ </RotStateRotting>
 	<RotStateDessicated>ﻒﻔﺠﻤﻟﺍ </RotStateDessicated>
@@ -212,6 +151,13 @@
   <StoragePriorityImportant>ﻡﺎﻫ </StoragePriorityImportant>
   <StoragePriorityCritical>ﺓﺰﻛﺮﻤﻟﺍ </StoragePriorityCritical>
 
+
+  <!-- Rotting -->
+  <CurrentlyFrozen>(ﺪﺴﻔﺗ ﻦﻟ) ﺓﺪﻤﺠﻤﻟﺍ</CurrentlyFrozen>
+  <CurrentlyRefrigerated>({0} ﻲﻓ ﻢﺋﺎﻨﻏ) ﺪﻳﺮﺒﺗ</CurrentlyRefrigerated>
+  <NotRefrigerated>({0} ﻲﻓ ﻢﺋﺎﻨﻏ) ﺪﻳﺮﺒﺗ ﻡﺪﻋ</NotRefrigerated>
+  <OverADecade>ﺕﺍﻮﻨﺳ ﺮﺸﻋ ﻦﻣ ﺮﺜﻛﺃ</OverADecade>
+  
   <!-- Meal -->
   <TimeToSpoil>ﻲﻓ ﻢﺋﺎﻨﻐﻟﺍ {0}</TimeToSpoil>
   <Ingredients>ﺮﺻﺎﻨﻌﻟﺍ</Ingredients>
@@ -222,28 +168,31 @@
   <NotGrowingNow>ﻥﻵﺍ ﻮﻤﻨﻳ ﻻ (ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ {0}).</NotGrowingNow>
   <NotGrowingNowNight>ﻥﻵﺍ ﻮﻤﻨﻳ ﻻ (ﻞﻴﻟﺍ ﻲﻓ).</NotGrowingNowNight>
   <FullyGrownIn>ﻲﻓ ﻞﻣﺎﻜﻟﺎﺑ ﺖﻤﻧ {0} ﻮﻤﻨﻠﻟ .</FullyGrownIn>
+  <OutOfIdealTemperatureRange> (ﺔﻳﺩﺎﻌﻟﺍ ﺔﻋﺮﺴﻟﺍ ﻦﻣ ٪{0} ﻝﺪﻌﻤﺑ ﻮﻤﻨﻳ) ﺔﻴﻟﺎﺜﻤﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻕﺎﻄﻧ ﺝﺭﺎﺧ </OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing> (ﻮﻤﻨﻳ ﻻ) ﺔﻴﻟﺎﺜﻤﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻕﺎﻄﻧ ﺝﺭﺎﺧ  </OutOfIdealTemperatureRangeNotGrowing>
   <ReadyToHarvest>ﺩﺎﺼﺤﻠﻟ ﺰﻫﺎﺟ.</ReadyToHarvest>
   <Mature>ﺔﺠﺿﺎﻨﻟﺍ .</Mature>
   <SeedLabel>{0} ﺭﻭﺬﺒﻟﺍ </SeedLabel>
-  
+  <OutdoorGrowingPeriod>:ﻮﻤﻨﻟﺍ ﺓﺮﺘﻓ {0}</OutdoorGrowingPeriod>
+  <NoGrowingPeriod>Never</NoGrowingPeriod>
+  <GrowYearRound> ﺔﻨﺴﻟﺍ ﺭﺍﺪﻣ ﻰﻠﻋ </GrowYearRound>
+  <CannotGrowTooCold>ﺍﺪﺟ ﺓﺩﺭﺎﺑ - ﻮﻤﻨﺗ ﻥﺃ ﻦﻜﻤﻳ ﻻ.</CannotGrowTooCold>
+
   <!-- Zones -->
   <Zone>ﺔﻘﻄﻨﻤﻟﺍ </Zone>
   <GrowingZone>ﻮﻤﻨﻟﺍ ﺔﻘﻄﻨﻣ </GrowingZone>
   <Stockpile>ﺕﺎﻧﻭﺰﺨﻤﻟﺍ </Stockpile>
   <DumpingStockpile>ﺕﺎﻳﺎﻔﻧ ﻥﻭﺰﺨﻣ </DumpingStockpile>
   <Priority>ﺔﻳﻮﻟﻭﻷﺍ </Priority>
+  <ClearAll> ﻊﻴﻤﺟ ﺢﺴﻣ</ClearAll>
 
-  <!-- General time stuff -->
-  <DaysLower>ﻡﺎﻳﺃ </DaysLower>
-  <SecondsLower>ﻲﻧﺍﻮﺛ </SecondsLower>
-  
   <!-- Mouseover indicator -->
   <Undiscovered> ﺔﻔﺸﺘﻜﻤﻟﺍ ﺮﻴﻏ </Undiscovered>
   
   <!-- Buttons -->
   <ZoneVisibilityToggleButton>Toggle visiblity of zones.</ZoneVisibilityToggleButton>
   <AutoHomeRegionToggleButton>Toggle automatically adding the home region around new constructions.</AutoHomeRegionToggleButton>
-  <CategorizedResourceReadoutToggleButton>Toggle categorized mode on the resource readout.</CategorizedResourceReadoutToggleButton>utton>
+  <CategorizedResourceReadoutToggleButton>Toggle categorized mode on the resource readout.</CategorizedResourceReadoutToggleButton>
 
   <!-- Fire -->
   <Fire>ﺭﺎﻨﻟﺍ </Fire>
@@ -256,18 +205,23 @@
   <MapConditionsTip>ﻦﻫﺍﺮﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻓ ﺔﻘﻄﻨﻤﻟﺍ ﻰﻠﻋ ﺮﺛﺆﺗ ﻲﺘﻟﺍ ﺔﺻﺎﺨﻟﺍ ﻑﻭﺮﻈﻟﺍ.</MapConditionsTip>
 
   <!-- Building placement -->
-  <NoStuffsToBuildWith>ﺍﺬﻫ ﺀﺎﻨﺑ ﺎﻬﻟﻼﺧ ﻦﻣ ﺓﺪﻴﻔﻣ ﺩﺍﻮﻣ ﻚﻳﺪﻟ ﺪﺟﻮﻳ ﻻ.</NoStuffsToBuildWith>th>
+  <NoStuffsToBuildWith>ﺍﺬﻫ ﺀﺎﻨﺑ ﺎﻬﻟﻼﺧ ﻦﻣ ﺓﺪﻴﻔﻣ ﺩﺍﻮﻣ ﻚﻳﺪﻟ ﺪﺟﻮﻳ ﻻ.</NoStuffsToBuildWith>
 
   <!-- Building placement restricters -->
   <MustPlaceUnroofed>ﻒﻘﺳ ﺖﺤﺗ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳ ﻻ.</MustPlaceUnroofed>
   <MustPlaceHeadOnShipBeam>ﻉﺎﻌﺸﻟﺍ ﺔﻴﻠﻜﻴﻫ ﻦﺤﺸﻟ ﺔﻘﺤﻠﻤﻟﺍ ﺱﺃﺭ ﻊﻣ ﻊﻀﺗ ﺪﺑ ﻻ .</MustPlaceHeadOnShipBeam>
   <MustPlaceNextToHopperAccepter>ﺐﺛﺍﻭ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﻱﺬﻟﺍ ﺀﻲﺸﻟﺍ ﺭﺍﻮﺠﺑ ﻊﺿﻮﺗ ﻥﺃ ﺪﺑ ﻻ .</MustPlaceNextToHopperAccepter>
-  <MustPlaceOnSteamGeyser>ﺭﺎﺣ ﺀﺎﻣ ﻊﺒﻧ ﺭﺎﺨﺒﻟﺍ ﻰﻠﻋ ﺓﺮﺷﺎﺒﻣ ﺎﻬﻌﺿﻭ ﺐﺠﻳ.</MustPlaceOnSteamGeyser>amGeyser>
+  <MustPlaceOnSteamGeyser>ﺭﺎﺣ ﺀﺎﻣ ﻊﺒﻧ ﺭﺎﺨﺒﻟﺍ ﻰﻠﻋ ﺓﺮﺷﺎﺒﻣ ﺎﻬﻌﺿﻭ ﺐﺠﻳ.</MustPlaceOnSteamGeyser>
+  <MustPlaceCoolerWithFreeSpaces>.ﺮﻄﺨﻠﻟ ﺔﺿﺮﻋ ﺐﺠﻳ ﺓﺩﻭﺮﺑ ﺓﺩﺭﺎﺒﻟﺍﻭ ﺔﻨﺧﺎﺴﻟﺍ ﻦﻴﺒﻧﺎﺠﻟﺍ ﻼﻛ</MustPlaceCoolerWithFreeSpaces>
+  
+  <!-- Wind Turbine -->
+  <WindTurbine_WindPathIsBlockedBy>ﺕﺪﺳ</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedByRoof>ﻒﻘﺳ ﺕﺪﺳ</WindTurbine_WindPathIsBlockedByRoof>
 
-
-
-  <!-- Cryptosleep pod -->
-  <PodContains>Contains</PodContains>
+  <!-- Cryptosleep casket -->
+  <CasketContains>Contains</CasketContains>
+  <CasketUnknownContents>Unknown</CasketUnknownContents>
+  <CasketWarning>Warning!\n\nNAME is your last free-standing colonist! If you let HIM step into that casket, you may not be able to continue playing. Are you sure you want to proceed?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>ﻞﻴﻐﺸﺗ ﻦﻜﻤﻳ ﻻ .</ShipReportCannotLaunch>
@@ -277,23 +231,30 @@
 
   <!-- Neurotrainer -->
   <UseNeurotrainer>ﻡﺪﺨﺘﺳﺍ  ﺔﻓﺮﻌﻤﻟ  {0}</UseNeurotrainer>
-  <NeurotrainerUsed>{0} ﻡﺪﺨﺘﺴﻳ {1} neurotrainer ﻯﻮﺘﺴﻣ ﻦﻣ ﻝﺎﻘﺘﻧﻼﻟ {2} ﻯﻮﺘﺴﻣ ﻰﻟﺇ {3}.</NeurotrainerUsed>ed>
+  <NeurotrainerUsed>{0} ﻡﺪﺨﺘﺴﻳ {1} neurotrainer ﻯﻮﺘﺴﻣ ﻦﻣ ﻝﺎﻘﺘﻧﻼﻟ {2} ﻯﻮﺘﺴﻣ ﻰﻟﺇ {3}.</NeurotrainerUsed>
   
+  <!-- Minification -->
+  <Installed>ﺔﺘﺒﺜﻣ</Installed>
+  <NotInstalled>ﺖﺒﺜﻣ ﺮﻴﻏ</NotInstalled>
+
+  <!-- Art -->
+  <Title>ﻥﺍﻮﻨﻋ</Title>
+  <Untitled>ﻥﺍﻮﻨﻋ ﻥﻭﺪﺑ</Untitled>
   
+  <!-- Unfinished thing -->
+  <UnfinishedItem>{0} ﻞﻤﺘﻜﺗ ﻢﻟ</UnfinishedItem>
+  <UnfinishedItemWithStuff> {1} {0} ﻞﻤﺘﻜﺗ ﻢﻟ </UnfinishedItemWithStuff>
+
+  <!-- Quality -->
+  <Quality>ﺓﺩﻮﺟ</Quality>
+  <QualityDescription>.ﺔﻨﻣ ﻉﻮﻨﺼﻤﻟﺍ ﺓﺩﻮﺟ ﻲﻫ ﺮﺻﺎﻨﻌﻟﺍ ﺔﻴﻋﻮﻧ </QualityDescription>
+  <QualityIs> {0} :ﺓﺩﻮﺠﻟﺍ </QualityIs>
+    
   <!-- Game over -->
   <GameOverEveryoneDead> ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﺽﺎﻘﻧﺃ ﻡﺍﺪﺨﺘﺳﻻ ﺔﻘﻳﺮﻃ ﺪﺠﻴﺳ ﺮﺧﺁ ﺺﺨﺷ ﺎﻤﺑﺭ \n\n .ﺖﻬﺘﻧﺍ ﺪﻗ ﺔﺼﻘﻟﺍ ﻩﺬﻫ .ﺐﻫﺫ ﻭﺃ ﺕﺎﻣ ﺪﻗ ﻊﻴﻤﺠﻟﺍ .</GameOverEveryoneDead>
-  <GameOverShipLaunched>
-ﺪﻗ ﻪﻧﺃ .ﻦﻣﺁ ﻥﺎﻜﻣ ﻰﻟﺇ ﺔﻨﻴﻔﺴﻟﺍ ﻪﻴﺟﻮﺘﻟ ﺔﻟﻭﺎﺤﻣ ﻥﻵﺍ AI ﺕﻼﻴﺠﺴﺗ \n{1}\n\n:ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﺍﺭﻭ ﺖﻛﺮﺗ
-
-ﻝ ﺔﻠﻳﻮﻃ ﻥﻭﺮﻗ ﺓﺪﻋ ﺔﻠﺣﺮﺑ ﻡﺎﻴﻘﻟﺍ ﺪﻗ ،ﻭﺃ .ﻡﺎﻈﻨﻟﺍ ﺍﺬﻫ ﻲﻓ ﻞﻀﻓﺃ ﺐﻛﻮﻛ ﻰﻠﻋ ﻚﻟ ﻉﺍﺪﻳﺇ
-
-،ﻦﻴﻨﺴﻟﺍ ﻦﻣ ﻑﻻﺁ ﺔﻌﻀﺒﻟ ﺐﻜﻳﻮﻛ ﻰﻠﻋ ﺪﻴﻠﺠﻟﺍ ﺖﺤﺗ ﺀﺎﺒﺘﺧﻼﻟ ﻰﺘﺣ ﺭﺮﻘﺗ ﺪﻗ .ﺮﺧﺁ ﻢﺠﻧ
-
-ﻆﻘﻴﺘﺴﺗ ﻰﺘﻣ ﺔﻓﺮﻌﻣ ﻚﻴﻠﻋ \n\n  .ﺦﻳﺭﺎﺘﻟﺍ ﻦﻣ ﻞﻀﻓﺃ ﺓﺮﺘﻔﻟ ﺭﺎﻈﺘﻧﻻﺍ
-
-ﻞﺼﻳ.</GameOverShipLaunched>
+  <GameOverShipLaunched> ﺪﻗ ﻪﻧﺃ .ﻦﻣﺁ ﻥﺎﻜﻣ ﻰﻟﺇ ﺔﻨﻴﻔﺴﻟﺍ ﻪﻴﺟﻮﺘﻟ ﺔﻟﻭﺎﺤﻣ ﻥﻵﺍ AI ﺕﻼﻴﺠﺴﺗ \n{1}\n\n:ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﺍﺭﻭ ﺖﻛﺮﺗ ﻝ ﺔﻠﻳﻮﻃ ﻥﻭﺮﻗ ﺓﺪﻋ ﺔﻠﺣﺮﺑ ﻡﺎﻴﻘﻟﺍ ﺪﻗ ،ﻭﺃ .ﻡﺎﻈﻨﻟﺍ ﺍﺬﻫ ﻲﻓ ﻞﻀﻓﺃ ﺐﻛﻮﻛ ﻰﻠﻋ ﻚﻟ ﻉﺍﺪﻳﺇ ،ﻦﻴﻨﺴﻟﺍ ﻦﻣ ﻑﻻﺁ ﺔﻌﻀﺒﻟ ﺐﻜﻳﻮﻛ ﻰﻠﻋ ﺪﻴﻠﺠﻟﺍ ﺖﺤﺗ ﺀﺎﺒﺘﺧﻼﻟ ﻰﺘﺣ ﺭﺮﻘﺗ ﺪﻗ .ﺮﺧﺁ ﻢﺠﻧ ﻆﻘﻴﺘﺴﺗ ﻰﺘﻣ ﺔﻓﺮﻌﻣ ﻚﻴﻠﻋ \n\n  .ﺦﻳﺭﺎﺘﻟﺍ ﻦﻣ ﻞﻀﻓﺃ ﺓﺮﺘﻔﻟ ﺭﺎﻈﺘﻧﻻﺍ ﻞﺼﻳ.</GameOverShipLaunched>
   <GameOverKeepPlaying> ﺐﻌﻠﻟﺍ ﻲﻓ ﺭﺍﺮﻤﺘﺳﻻﺍ</GameOverKeepPlaying>
-  <GameOverMainMenu>ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ</GameOverMainMenu>/GameOverMainMenu>
+  <GameOverMainMenu>ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ</GameOverMainMenu>
   
   
 </LanguageData>
