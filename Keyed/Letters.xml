@@ -3,6 +3,11 @@
 
   <JumpToLocation>ﻊﻗﻮﻣ ﻰﻟﺍ ﻞﻘﺘﻧﺍ</JumpToLocation>
 
+  <FirstSummerWarning>.ﺩﺭﺎﺒﻟﺍ ﺀﺎﺘﺸﻟﺍ ﻞﺼﻓ ﻲﻓ ﻮﻤﻨﺗ ﻻ ﺔﻴﺋﺍﺬﻐﻟﺍ ﻞﻴﺻﺎﺤﻤﻟﺍ \n\n.ﻡﺩﺎﻗ ﺀﺎﺘﺸﻟﺍ ﻦﻜﻟﻭ !ﻒﻴﺼﻟﺍ ﺃﺪﺑ
+ﺹﺭﺎﻘﻟﺍ ﺩﺮﺒﻟﺍ ﻲﻓ ﺪﻤﺠﺘﺗ ﻻ ﻲﻜﻟ ﻰﻬﻨﻣ ﺾﻌﺑ ﻊﻨﺻﺍﻭﺍ ﺲﺑﻼﻤﻟﺍ ﺾﻌﺑ ﺀﺍﺮﺷ ﻝﻭﺎﺣ .ﺪﺴﻔﻳ ﻻ ﺚﻴﺤﺑ ﻡﺎﻌﻄﻟﺍ ﺪﻳﺮﺒﺘﻟﺍ ﻥﺯﺎﺨﻣ ﺀﺎﻨﺑ ﻚﻨﻜﻤﻳ \n\n. ﺮﻬﺷﺃ ﺪﻌﻟ ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻳﺰﺨﺗ 
+
+ﻊﻴﻄﺘﺴﺗ ﻚﻧﺃ ﻦﻣ ﺪﻛﺄﺗ</FirstSummerWarning>
+  
   <RelationsBrokenDown>.ﻚﻟ ﺔﻳﺩﺎﻌﻣ ﻥﻵﺍ ﻢﻫﻭ .ﺭﺎﻬﻧﺍ ﺪﻗ {0} ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ</RelationsBrokenDown>
   <RelationsWarmed>.ﻚﻟ ﺔﻳﺩﺎﻌﻣ ﺪﻌﺗ ﻢﻟ ﺎﻬﻧﺃ .ﺖﻨﺴﺤﺗ {0} ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ</RelationsWarmed>
 
@@ -21,6 +26,10 @@
   <MentalBreakRampage>.ﺝﺎﻴﻬﻟﺍ ﻦﻣ ﺔﻟﺎﺣ ﻲﻓ ﻱﺮﺠﻳﻭ ﻲﻠﻘﻌﻟﺍ ﺮﺴﻛ ﻪﻳﺪﻟ ﻪﻳﺪﻟ {0}</MentalBreakRampage>
   <MentalBreakDaze>.ﻝﻮﻫﺫ ﺔﻟﺎﺣ ﻲﻓ ﻝﻮﺠﺘﻳ ﻮﻫﻭ ﻚﻨﻋ ﻰﻠﺨﺗ {0}</MentalBreakDaze>
   <MentalBreakLeave>.ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻙﺮﺗ ﻮﻫﻭ ﻚﻨﻋ ﻰﻠﺨﺗ {0}</MentalBreakLeave>
+
+  <MentalBreakRecoveryRampage>.ﻪﺘﻳﺎﻬﻧ ﻰﻟﺇ ﻒﻴﻨﻌﻟﺍ ﺝﺎﻴﻬﻟﺍ {0} ﻥﺎﺣ ﺪﻘﻟ</MentalBreakRecoveryRampage>
+  <MentalBreakRecoveryDaze>.ﻝﻮﻫﺫ ﺔﻟﺎﺣ ﻲﻓ ﺪﻌﻳ ﻢﻟ {0}</MentalBreakRecoveryDaze>
+  <MentalBreakRecoveryLeave>.ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻰﻟﺇ ﺩﻮﻌﻳﻭ ﻪﻳﺃﺭ ﻪﻟ ﻥﺎﻛ {0}</MentalBreakRecoveryLeave>
 
   <RecruitSuccess>.(ﺔﺻﺮﻓ {2}) {1} ﺡﺎﺠﻨﺑ ﺪﻴﻨﺠﺗ {0}</RecruitSuccess>
   <RecruitFail>.(ﺔﺻﺮﻓ {2}) {1} ﺪﻴﻨﺠﺗ ﻲﻓ ﺖﻠﺸﻓ {0} </RecruitFail>
