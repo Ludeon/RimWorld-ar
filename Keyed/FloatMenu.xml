@@ -3,7 +3,7 @@
 
 
   
-	<CallOnRadio>ﺀﺍﺪﻧ  {0}</CallOnRadio>
+	<CallOnRadio>ﺀﺎﻋﺪﺘﺳﺍ  {0}</CallOnRadio>
 	<CannotUseSolarFlare>(ﻲﺴﻤﺸﻟﺍ ﺞﻫﻮﺘﻟﺍ ﺐﺒﺴﺑ) ﺔﻗﺎﻄﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ </CannotUseSolarFlare>
 	<CannotUseNoPower>(ﺔﻗﺎﻃ ﺪﺟﻮﺗ ﻻ ﺐﺒﺴﺑ) ﺔﻗﺎﻄﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ </CannotUseNoPower>
 	<CannotUseNoPath>(ﺭﺎﺴﻣ ﺪﺟﻮﻳ ﻻ ﺐﺒﺴﺑ) ﺔﻗﺎﻄﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ </CannotUseNoPath>
@@ -43,6 +43,12 @@
   <Rescue>ﺫﺎﻘﻧﻹﺍ  {0}</Rescue>
   <CannotRescue>ﺫﺎﻘﻧﻹﺍ ﻦﻜﻤﻳ ﻻ</CannotRescue>
 
+  <CarryToCryptosleepCasket>حمل {0} لcryptosleep النعش</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>ﺶﻌﻨﻟﺍ cryptosleepﻝ ﻞﻤﺤﺗ ﻥﺃ ﻦﻜﻤﻳ 
+
+ﻻ</CannotCarryToCryptosleepCasket>
+
+  <NoCryptosleepCasket>.ﺔﺣﺎﺘﻤﻟﺍ cryptosleep ﻻ</NoCryptosleepCasket>
   <NoPrisonerBed>.ﺔﺣﺎﺘﻣ ﻦﻴﺠﺴﻟﺮﻳﺮﺴﻟﺍ ﺪﺟﻮﻳﻻ</NoPrisonerBed>
   <NoNonPrisonerBed>.ﺔﺣﺎﺘﻣ ﻦﻴﺠﺴﻟﺮﻳﺮﺴﻟﺍ ﺪﺟﻮﻳﻻ</NoNonPrisonerBed>
   <Reserved>.ﺮﺧﺁ ﺺﺨﺸﻟ  ﺯﻮﺠﺤﻣ </Reserved>
@@ -64,11 +70,13 @@
   <Deposit> {1} ﻲﻓ {0} ﻉﺍﺪﻳﺇ </Deposit>
   <CannotDeposit>{1} ﻲﻓ {0} ﻉﺍﺪﻳﺇ ﻦﻜﻤﻳ ﻻ</CannotDeposit>
 
+  <SelfDestructHere>ﻲﺗﺍﺬﻟﺍ ﺮﻴﻣﺪﺘﻟﺍ  </SelfDestructHere>
+
   <Drop>ﻁﺎﻘﺳﺇ  {0}</Drop>
   
   <UseMedicalBed>ﺎﻣﺎﻤﺗ ﻰﻓﺎﻌﺘﺗ ﻰﺘﺣ ﺔﺣﺍﺮﻟﺍ</UseMedicalBed>
   <NotInjured> ﺐﺼﻳ ﻢﻟ</NotInjured>
-  <SomeoneElseSleeping>ﺔﻠﺘﺤﻣ </SomeoneElseSleeping>
+  <SomeoneElseSleeping>ﻝﻮﻐﺸﻣ </SomeoneElseSleeping>
 
   <!-- Specific thing interactions -->
   <EnterCryptosleepPod>Enter cryptosleep pod</EnterCryptosleepPod>
@@ -78,7 +86,10 @@
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
   <CannotGenericWork>ﻦﻜﻤﻳ ﻻ {0} {1}</CannotGenericWork>
 
-  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->  
+
+<CannotMissingHealthActivities>({0} :ﺔﻴﺤﺻ ﺔﻠﻜﺸﻣ) ﺎﻬﺗﺎﻳﻮﻟﻭﺃ ﺪﻳﺪﺤﺗ ﻦﻜﻤﻳ ﻻ   </CannotMissingHealthActivities>
+
   <CannotGenericAlreadyAm>ﻞﻌﻔﻟﺎﺑ  {0} {1}</CannotGenericAlreadyAm>
 
   <CannotPrioritizeIsNotA>({1} ﺲﻴﻟ {0}) ﺕﺎﻳﻮﻟﻭﻷﺍ ﺪﻳﺪﺤﺗ ﻦﻜﻤﻳ ﻻ</CannotPrioritizeIsNotA>
