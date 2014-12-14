@@ -62,7 +62,7 @@
 
   <!-- Bill config -->
   <Suspended>ﺬﻴﻔﻨﺘﻟﺍ ﻒﻗﻭ</Suspended>
-  <NotSuspended>عدم وقف التنفيذ</NotSuspended>
+  <NotSuspended>ﺬﻴﻔﻨﺘﻟﺍ ﻒﻗﻭ ﻡﺪﻋ</NotSuspended>
   <SuspendedAllCaps>ﺬﻴﻔﻨﺘﻟﺍ ﻒﻗﻭ</SuspendedAllCaps>
   <RepeatCount>{0} :ﺭﺮﻛ</RepeatCount>
   <Forever>ﺪﺑﻷﺍ ﻰﻟﺇ</Forever>
