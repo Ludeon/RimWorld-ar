@@ -26,7 +26,9 @@
 
   <!-- Friendly raids -->
   <FriendlyRaidWalkIn>.ﺐﻳﺮﻗ ﻥﺎﻜﻣ ﻲﻓ {1} ﻦﻣ {0} ﺀﺎﻗﺪﺻﻻﺍ ﻦﻴﻠﺗﺎﻘﻤﻟﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﺖﻠﺻﻭ</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>.ﺐﻳﺮﻗ ﻥﺎﻜﻣ ﻲﻓ ﻁﻮﺒﻫ {1} ﻦﻣ {0} ﺀﺎﻗﺪﺻﻻﺍ ﻦﻴﻠﺗﺎﻘﻤﻟﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ </FriendlyRaidEdgeDrop>
+  <FriendlyRaidEdgeDrop>.ﺐﻳﺮﻗ ﻥﺎﻜﻣ ﻲﻓ ﻁﻮﺒﻫ {1} ﻦﻣ {0} ﺀﺎﻗﺪﺻﻻﺍ ﻦﻴﻠﺗﺎﻘﻤﻟﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ 
+
+</FriendlyRaidEdgeDrop>
   <FriendlyRaidCenterDrop>!ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻂﺳﻭ ﻲﻓ ﻁﻮﺒﻫ {1} ﻦﻣ {0} ﺀﺎﻗﺪﺻﻻﺍ ﻦﻴﻠﺗﺎﻘﻤﻟﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ 
 
 </FriendlyRaidCenterDrop>
@@ -51,6 +53,11 @@
   <LetterSolarFlare>.ﺪﺣﺍﻭ ﻡﻮﻳ ﻲﻟﺍﻮﺣ ﻲﻓ ﺮﻤﺗ ﻥﺃ ﺐﺠﻳ \n\n .ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺓﺰﻬﺟﻷﺍ ﻊﻴﻤﺟ ﻑﺎﻘﻳﺇ ﺪﻳﺪﺸﻟﺍ ﻉﺎﻌﺷﻹﺍ ﻥﺇ \n\n 
 
 .ﻲﺴﻤﺸﻟﺍ ﺞﻫﻮﺘﻟﺍ ﺃﺪﺑﻭ</LetterSolarFlare>
+
+  <LetterHeatWave>.ﺲﻤﺷ ﺔﺑﺮﺿ ﻦﻣ ﺱﺮﺘﺣﺍ .ﺔﻳﺩﺎﻋ ﺮﻴﻏ ﺓﺭﺍﺮﺣ ﺔﺟﻮﻣ ﺕﺃﺪﺑ</LetterHeatWave>
+  <HeatWaveOver>.ﺖﻬﺘﻧﺍ ﺪﻗ ﺮﺤﻟﺍ ﺔﺟﻮﻣ</HeatWaveOver>
+  <LetterColdSnap>. ﻞﻴﺻﺎﺤﻤﻟﺍ ﻞﺸﻓﻭ ﻊﻴﻘﺼﻟﺍ ﺔﻤﻀﻗ ﻦﻣ ﺱﺮﺘﺣﺍ .ﻱﺩﺎﻋ ﺮﻴﻏ ﺩﺮﺒﻟﺍ ﺔﺟﻮﻣ ﺕﺃﺪﺑ</LetterColdSnap>
+  <ColdSnapOver>.ﺖﻬﺘﻧﺍ ﺪﻗ ﺩﺮﺒﻟﺍ ﺔﺟﻮﻣ</ColdSnapOver>
 
   <TraderArrival>.{1} ﻢﻫ .{0} ﻢﺳﺎﺑ ﺔﻓﻭﺮﻌﻤﻟﺍ ﻲﻫﻭ \n\n .ﺐﻳﺮﻗ ﻥﺎﻜﻣ ﻲﻓ ﺮﻤﺗ ﺔﻳﺭﺎﺠﺗ ﺔﻨﻴﻔﺳ</TraderArrival>
 
@@ -95,5 +102,10 @@
 ﻭﺪﺒﻳ ﻥﺃ ﺩﺩﺮﺗ ﻰﻠﻋ ،ﺎﻬﻠﻤﻛﺄﺑ ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﻰﻠﻋ ﺔﻳﻮﻗ ﺔﻴﺴﻔﻧ ﺭﺎﻴﻃ ﻥﻭﺪﺑ ﺓﺮﺋﺎﻃ ﻁﺎﻘﺳﺇ ﻦﻣﻭ .ﺓﺭﺎﺛﺇﻭ ﺔﻴﻫﺍﺮﻜﻟﺍ ﺪﻴﻌﺑ ﻙﺮﺤﻣ ﺾﻌﺑ \n\n !
 
 ﻢﻟﻷﺍ ﻲﻓ winces ﻦﻴﺴﻨﺠﻟﺍ {0} ﻦﻣ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﻛ</LetterIncidentPsychicDrone>
+  
+  <!-- Beavers -->
+  <BeaversArrived>.ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺓﺮﺠﺷ ﻞﻛ ﻚﻠﻬﺗ ﻥﺃ ﻞﺒﻗ ﻢﻬﻴﻠﻋ ﺀﺎﻀﻘﻟﺍ ﺔﻟﻭﺎﺤﻣ \n\n.ﻮﺘﻠﻟ ﻞﺻﻭ ﺪﻗ ﻉﺎﻴﺠﻟﺍ ﺎﻔﻟﺃ ﺱﺩﺎﻨﻗ ﻦﻣ 
+
+ﺔﻋﻮﻤﺠﻣ</BeaversArrived>
   
 </LanguageData>
