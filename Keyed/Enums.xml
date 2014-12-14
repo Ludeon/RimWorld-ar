@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+
+  <!-- glow -->
+
+  <Dark>ﻡﻼﻈﻟﺍ</Dark>
+
+  <Lit>ﺓﺀﺎﻀﻣ</Lit>
+
+  <LitBrightly>ﺍﺪﺟ ﺓﺀﺎﻀﻣ </LitBrightly>
+
+  
+  <!-- food quality -->
+
+  <NoneQuality>ﻰﺷ ﻻ </NoneQuality>
+
+  <PlantQuality>ﺕﺎﺒﻧ</PlantQuality>
+
+  <RawQuality>ﻡﺎﺨﻟﺍ</RawQuality>
+
+  <MealAwfulQuality>ﻑﺮﻘﻣ</MealAwfulQuality>
+
+  <MealSimpleQuality>ﻂﻴﺴﺑ</MealSimpleQuality>
+
+  <MealFineQuality>ﺬﻳﺬﻟ</MealFineQuality>
+
+  <MealLavishLavish>ﺓﺮﻴﻓﻭ</MealLavishLavish>
+
+  
+  <!-- diet type -->
+
+  <NeverEats>ﻝﻭﺎﻨﺗ ﻡﺪﻋ </NeverEats>
+
+  <Omnivorous> ﻥﺍﻮﻴﺤﻟﺍﻭ ﺕﺎﺒﻨﻟﺍ ﺔﻠﻛﺁ</Omnivorous>
+
+  <Herbivorous> ﺕﺎﺒﻨﻟﺍ ﺔﻠﻛﺁ</Herbivorous>
+
+  <Carnivorous> ﻡﻮﺤﻠﻟﺍ ﺔﻠﻛﺁ</Carnivorous>
+
+  <Dendrovorous>Dendrovorous</Dendrovorous>
+
+
+  <!-- history upload pref -->
+
+  <Unspecified> ﺩﺪﺤﻣ ﺮﻴﻏ</Unspecified>
+
+  <Always>ﺡﺎﻤﺴﻟﺍ</Always>
+
+  <Never> ﺡﺎﻤﺴﻟﺍ ﻡﺪﻋ</Never>
+
+  
+  <!-- Price types -->
+
+  <PriceTypeVeryCheap>ﺍﺪﺟ ﺔﺼﻴﺧﺭ </PriceTypeVeryCheap>
+
+  <PriceTypeCheap>ﺔﺼﻴﺧﺭ</PriceTypeCheap>
+
+  <PriceTypeNormal>ﻱﺩﺎﻋ</PriceTypeNormal>
+
+  <PriceTypeExpensive>ﺔﻔﻠﻜﻣ</PriceTypeExpensive>
+  <PriceTypeExorbitant>ﺎﻬﻴﻓ ﻎﻟﺎﺒﻣ</PriceTypeExorbitant>
+
+
+  <!-- Quality category -->
+
+  <QualityCategory_Awful>ﺔﻋﻭﺮﻣ</QualityCategory_Awful>
+
+  <QualityCategory_Shoddy>ﺔﺌﻳﺩﺭ</QualityCategory_Shoddy>
+
+  <QualityCategory_Poor>ﺔﺌﻴﺳ</QualityCategory_Poor>
+
+  <QualityCategory_Normal>ﻱﺩﺎﻋ</QualityCategory_Normal>
+  <QualityCategory_Good>ﺓﺪﻴﺟ</QualityCategory_Good>
+
+  <QualityCategory_Superior>ﺔﻗﻮﻔﺘﻣ</QualityCategory_Superior>
+
+  <QualityCategory_Excellent>ﺓﺯﺎﺘﻤﻣ</QualityCategory_Excellent>
+
+  <QualityCategory_Masterwork>ﻥﺎﻘﺗﺇ</QualityCategory_Masterwork>
+
+  <QualityCategory_Legendary>ﻱﺭﻮﻄﺳﻷﺍ</QualityCategory_Legendary>
+
+
+
+</LanguageData>
