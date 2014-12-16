@@ -1,29 +1,49 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <JumpToLocation>Jump to location</JumpToLocation>
+  <JumpToLocation>ﻊﻗﻮﻣ ﻰﻟﺍ ﻞﻘﺘﻧﺍ</JumpToLocation>
 
-  <RelationsBrokenDown>Relations with {0} have broken down. They are now hostile to you.</RelationsBrokenDown>
-  <RelationsWarmed>Relations have with {0} have warmed. They are no longer hostile to you.</RelationsWarmed>
+  <FirstSummerWarning>.ﺩﺭﺎﺒﻟﺍ ﺀﺎﺘﺸﻟﺍ ﻞﺼﻓ ﻲﻓ ﻮﻤﻨﺗ ﻻ ﺔﻴﺋﺍﺬﻐﻟﺍ ﻞﻴﺻﺎﺤﻤﻟﺍ \n\n.ﻡﺩﺎﻗ ﺀﺎﺘﺸﻟﺍ ﻦﻜﻟﻭ !ﻒﻴﺼﻟﺍ ﺃﺪﺑ
+ﺹﺭﺎﻘﻟﺍ ﺩﺮﺒﻟﺍ ﻲﻓ ﺪﻤﺠﺘﺗ ﻻ ﻲﻜﻟ ﻰﻬﻨﻣ ﺾﻌﺑ ﻊﻨﺻﺍﻭﺍ ﺲﺑﻼﻤﻟﺍ ﺾﻌﺑ ﺀﺍﺮﺷ ﻝﻭﺎﺣ .ﺪﺴﻔﻳ ﻻ ﺚﻴﺤﺑ ﻡﺎﻌﻄﻟﺍ ﺪﻳﺮﺒﺘﻟﺍ ﻥﺯﺎﺨﻣ ﺀﺎﻨﺑ ﻚﻨﻜﻤﻳ \n\n. ﺮﻬﺷﺃ ﺪﻌﻟ ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻳﺰﺨﺗ 
 
-  <RelationsBrokenCapture>Because you captured {0}, {1} is now your enemy.</RelationsBrokenCapture>
-
-  <ColonyGoodwill>Colony goodwill</ColonyGoodwill>
-  <Neutral>Neutral</Neutral>
-
-  <ShortCircuitRain>A {0} has short-circuited in the rain and started a fire.</ShortCircuitRain>
-  <AreaRevealed>A new area has been revealed.</AreaRevealed>
-
-  <RoofCollapsed>A roof has collapsed because it was too far from any support.</RoofCollapsed>
-  <TheseThingsCrushed>These things were crushed:</TheseThingsCrushed>
-  <NothingCrushed>Nothing was crushed.</NothingCrushed>
+ﻊﻴﻄﺘﺴﺗ ﻚﻧﺃ ﻦﻣ ﺪﻛﺄﺗ</FirstSummerWarning>
   
-  <MentalBreakRampage>{0} has has a mental break and is going on a rampage.</MentalBreakRampage>
-  <MentalBreakDaze>{0} has given up and is leaving from the colony.</MentalBreakDaze>
-  <MentalBreakLeave>{0} has given up and is wandering around in a daze.</MentalBreakLeave>
+  <RelationsBrokenDown>.ﻚﻟ ﺔﻳﺩﺎﻌﻣ ﻥﻵﺍ ﻢﻫﻭ .ﺭﺎﻬﻧﺍ ﺪﻗ {0} ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ</RelationsBrokenDown>
+  <RelationsWarmed>.ﻚﻟ ﺔﻳﺩﺎﻌﻣ ﺪﻌﺗ ﻢﻟ ﺎﻬﻧﺃ .ﺖﻨﺴﺤﺗ {0} ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ</RelationsWarmed>
 
-  <RecruitSuccess>{0} successfully recruited {1} ({2} chance).</RecruitSuccess>
-  <RecruitFail>{0} failed to recruit {1} ({2} chance).</RecruitFail>
+  <RelationsBrokenCapture>.ﻙﻭﺪﻋ ﻥﻵﺍ ﻮﻫ {1} ،{0} ﻰﻠﻋ ﺖﻀﺒﻗ ﻚﻧﻷ</RelationsBrokenCapture>
+
+  <ColonyGoodwill>ﺔﻴﻨﻟﺍ ﻦﺴﺣ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ</ColonyGoodwill>
+  <Neutral>ﺪﻳﺎﺤﻣ </Neutral>
+
+  <ShortCircuitRain>.ﺭﺎﻨﻟﺍ ﺕﺃﺪﺑﻭ ،ﺮﻄﻤﻟﺍ ﻲﻓ ﺓﺮﺼﻘﻣ ﺓﺭﺍﺩ ﻪﻳﺪﻟ {0} </ShortCircuitRain>
+  <AreaRevealed>.ﺓﺪﻳﺪﺟ ﺔﻘﻄﻨﻣ ﻒﺸﻛ ﻢﺗ</AreaRevealed>
+
+  <RoofCollapsed>.ﻢﻋﺩ ﻱﺃ ﻦﻋ ﺍﺪﺟ ﺍﺪﻴﻌﺑ ﻥﺎﻛ ﻪﻧﻷ ﻒﻘﺴﻟﺍ ﺭﺎﻬﻧﺍ ﺪﻗﻭ </RoofCollapsed>
+  <TheseThingsCrushed>:ﺀﺎﻴﺷﻷﺍ ﻩﺬﻫ ﺖﻘﺤﺳ </TheseThingsCrushed>
+  <NothingCrushed> .ﻖﺤﺳ ﺀﻲﺷ ﻻ</NothingCrushed>
   
+  <MentalBreakRampage>.ﺝﺎﻴﻬﻟﺍ ﻦﻣ ﺔﻟﺎﺣ ﻲﻓ ﻱﺮﺠﻳﻭ ﻲﻠﻘﻌﻟﺍ ﺮﺴﻛ ﻪﻳﺪﻟ ﻪﻳﺪﻟ {0}</MentalBreakRampage>
+  <MentalBreakDaze>.ﻝﻮﻫﺫ ﺔﻟﺎﺣ ﻲﻓ ﻝﻮﺠﺘﻳ ﻮﻫﻭ ﻚﻨﻋ ﻰﻠﺨﺗ {0}</MentalBreakDaze>
+  <MentalBreakLeave>.ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻙﺮﺗ ﻮﻫﻭ ﻚﻨﻋ ﻰﻠﺨﺗ {0}</MentalBreakLeave>
+
+  <MentalBreakRecoveryRampage>.ﻪﺘﻳﺎﻬﻧ ﻰﻟﺇ ﻒﻴﻨﻌﻟﺍ ﺝﺎﻴﻬﻟﺍ {0} ﻥﺎﺣ ﺪﻘﻟ</MentalBreakRecoveryRampage>
+  <MentalBreakRecoveryDaze>.ﻝﻮﻫﺫ ﺔﻟﺎﺣ ﻲﻓ ﺪﻌﻳ ﻢﻟ {0}</MentalBreakRecoveryDaze>
+  <MentalBreakRecoveryLeave>.ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻰﻟﺇ ﺩﻮﻌﻳﻭ ﻪﻳﺃﺭ ﻪﻟ ﻥﺎﻛ {0}</MentalBreakRecoveryLeave>
+
+  <RecruitSuccess>.(ﺔﺻﺮﻓ {2}) {1} ﺡﺎﺠﻨﺑ ﺪﻴﻨﺠﺗ {0}</RecruitSuccess>
+  <RecruitFail>.(ﺔﺻﺮﻓ {2}) {1} ﺪﻴﻨﺠﺗ ﻲﻓ ﺖﻠﺸﻓ {0} </RecruitFail>
+  
+  <Birthday>.{2} ﻮﺘﻠﻟ ﺢﺒﺻﺍ ﻭ {1} !ﻩﺩﻼﻴﻣ ﺪﻴﻌﺑ ﻡﻮﻴﻟﺍ ﻞﻔﺘﺤﻳ {0} ﺎﻬﻧﺍ </Birthday>
+  <BirthdayWithInjuries>{3} \n :ﺔﺧﻮﺨﻴﺸﻟﺍ ﺐﺒﺴﺑ ﺔﻴﻟﺎﺘﻟﺍ ﺽﺍﺮﻣﻷﺍ ﺖﺒﺴﺘﻛﺍ {0} ،ﻆﺤﻟﺍ ﺀﻮﺴﻟ \n\n {2} ﻮﺘﻠﻟ ﺢﺒﺻﺍ ﻭ {1} !ﻩﺩﻼﻴﻣ ﺪﻴﻌﺑ ﻡﻮﻴﻟﺍ ﻞﻔﺘﺤﻳ {0} 
+
+ﺎﻬﻧﺍ</BirthdayWithInjuries>
+  
+  <NewDisease>.ﺔﻋﺮﺴﺑ ﻲﻓﺎﻌﺘﻟﺍ ﻞﺟﺃ ﻦﻣ ﻥﺎﻜﻣﻹﺍ ﺭﺪﻗ ﺮﻳﺮﺴﻟﺍ ﻲﻓ ﺖﻗﻮﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺀﺎﻀﻗﻭ ﺐﺳﺎﻨﻤﻟﺍ ﺝﻼﻌﻟﺍ ﻰﻠﻋ ﻞﺼﺤﻳ {0} ﺔﻧﺃ ﻦﻣ ﺪﻛﺄﺗ .({1}) ﺖﺿﺮﻣ {0} 
+
+</NewDisease>
+  <NewPartDisease>.ﺔﻋﺮﺴﺑ ﻲﻓﺎﻌﺘﻟﺍ ﻞﺟﺃ ﻦﻣ ﻥﺎﻜﻣﻹﺍ ﺭﺪﻗ ﺮﻳﺮﺴﻟﺍ ﻲﻓ ﺖﻗﻮﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺀﺎﻀﻗﻭ ﺐﺳﺎﻨﻤﻟﺍ ﺝﻼﻌﻟﺍ ﻰﻠﻋ ﻞﺼﺤﻳ {0} ﺔﻧﺃ ﻦﻣ ﺪﻛﺄﺗ .ﻯﻭﺪﻌﻟﺍ ﺖﻠﺼﺣ {1} {0} 
+
+</NewPartDisease>
   
 </LanguageData>

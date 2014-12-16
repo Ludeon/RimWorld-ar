@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<WealthTotal.label> (ﻞﻜﻟﺍ) ﺔﻤﻴﻗ</WealthTotal.label>
+	
+	<WealthItems.label>(ﺮﺻﺎﻨﻌﻟﺍ) ﺔﻤﻴﻗ</WealthItems.label>
+	
+	<WealthBuildings.label> (ﻲﻧﺎﺒﻤﻟﺍ) ﺔﻤﻴﻗ</WealthBuildings.label>
+	
+	<FreeColonists.label>ﺮﺤﻟﺍ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ</FreeColonists.label>
+	
+	<Prisoners.label>ﺀﺎﻨﺠﺴﻟﺍ  </Prisoners.label>
+	
+	<ColonistMood.label>ﺝﺍﺰﻤﻟﺍ</ColonistMood.label>
+	
+	<!--
+	<ColonistFear.label>ﻑﻮﺨﻟﺍ</ColonistFear.label>
+	-->
+  
+</LanguageData>

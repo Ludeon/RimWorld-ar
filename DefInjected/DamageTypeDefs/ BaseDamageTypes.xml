@@ -1,117 +1,74 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<DamageTypes>
-
-  <!-- External violence -->
-
-  <DamageTypeDef>
-    <defName>سحق</defName>
-    <incapChanceMultiplier>2</incapChanceMultiplier>
-    <externalViolence>true</externalViolence>
-    <deathMessage>{0} سحق حتى الموت .</deathMessage>
-  </DamageTypeDef> 
-  
-  <DamageTypeDef>
-		<defName>مضرب</defName>
-		<incapChanceMultiplier>2</incapChanceMultiplier>
-    <externalViolence>true</externalViolence>
-    <battleWound>true</battleWound>
-    <deathMessage>{0} ضرب حتى الموت .</deathMessage>
-	</DamageTypeDef>
-
-	<DamageTypeDef>
-		<defName>طلقة</defName>
-    <externalViolence>true</externalViolence>
-    <battleWound>true</battleWound>
-    <deathMessage>{0} مات عن طريق إطلاق النار عليه .</deathMessage>
-  </DamageTypeDef>
-
-	<DamageTypeDef>
-		<defName>قنبلة</defName>
-    <externalViolence>true</externalViolence>
-    <battleWound>true</battleWound>
-    <deathMessage>{0} مات في انفجار .</deathMessage>
-  </DamageTypeDef>
-
-  <DamageTypeDef>
-    <defName>حرق</defName>
-    <hasForcefulImpact>false</hasForcefulImpact>
-    <makesBlood>false</makesBlood>
-    <incapChanceMultiplier>1.5</incapChanceMultiplier>
-    <interruptJobs>false</interruptJobs>
-    <externalViolence>true</externalViolence>
-    <deathMessage>{0} احترق حتى الموت .</deathMessage>
-  </DamageTypeDef>
-
-  <DamageTypeDef>
-    <defName>صعق</defName>
-    <harmsHealth>false</harmsHealth>
-    <makesBlood>false</makesBlood>
-    <externalViolence>true</externalViolence>
-    <deathMessage>{0} صعق حتى الموت .</deathMessage>
-  </DamageTypeDef>
-  
-  
-  
-  <!-- etc -->
-  
-	<DamageTypeDef>
-		<defName>النزيف</defName>
-		<hasForcefulImpact>false</hasForcefulImpact>
-		<makesBlood>false</makesBlood>
-    <deathMessage>{0} نزف حتى الموت .</deathMessage>
-  </DamageTypeDef>
-
-	<DamageTypeDef>
-		<defName>الإختناق</defName>
-		<hasForcefulImpact>false</hasForcefulImpact>
-		<makesBlood>false</makesBlood>
-		<incapChanceMultiplier>3</incapChanceMultiplier>
-    <interruptJobs>false</interruptJobs>
-    <deathMessage>{0} مات خنقا .</deathMessage>
-  </DamageTypeDef>
-
-	<DamageTypeDef>
-		<defName>الموت جوعا</defName>
-		<hasForcefulImpact>false</hasForcefulImpact>
-		<makesBlood>false</makesBlood>
-		<incapChanceMultiplier>3</incapChanceMultiplier>
-    <interruptJobs>false</interruptJobs>
-    <deathMessage>{0} مات جوعا .</deathMessage>
-  </DamageTypeDef>
-
-	<DamageTypeDef>
-		<defName>كسر</defName>
-		<hasForcefulImpact>false</hasForcefulImpact>
-		<makesBlood>false</makesBlood>
-    <interruptJobs>false</interruptJobs>
-  </DamageTypeDef>
-
-	<DamageTypeDef>
-		<defName>تعدين</defName>
-	</DamageTypeDef>
-
-	<DamageTypeDef>
-		<defName>تعفن</defName>
-		<hasForcefulImpact>false</hasForcefulImpact>
-		<makesBlood>false</makesBlood>
-    <interruptJobs>false</interruptJobs>
-  </DamageTypeDef>
-
-
-
-  <DamageTypeDef>
-		<defName>إخماد النار</defName>
-    <interruptJobs>false</interruptJobs>
-  </DamageTypeDef>
-
-
-
-	<DamageTypeDef>
-		<defName>إسعاف</defName>
-		<hasForcefulImpact>false</hasForcefulImpact>
-		<harmsHealth>false</harmsHealth>
-		<makesBlood>false</makesBlood>
-    <interruptJobs>false</interruptJobs>
-  </DamageTypeDef>
-
-</DamageTypes>
+<LanguageData>
+	
+	<Cut.label>ﻦﻌﻃ</Cut.label>
+	<Cut.deathMessage>.ﺕﻮﻤﻟﺍ ﻰﺘﺣ ﻦﻌﻃ {0}</Cut.deathMessage>
+	
+	<Crush.label>ﻖﺤﺳ</Crush.label>
+	<Crush.deathMessage>. ﺕﻮﻤﻟﺍ ﻰﺘﺣ ﻖﺤﺳ {0}</Crush.deathMessage>
+	
+	<Blunt.label>ﺏﺮﺿ </Blunt.label>
+	<Blunt.deathMessage>. ﺕﻮﻤﻟﺍ ﻰﺘﺣ ﺏﺮﺿ {0}</Blunt.deathMessage>
+	
+	<Stab.label>ﻊﻄﻗ </Stab.label>
+	<Stab.deathMessage>.ﺕﻮﻤﻟﺍ ﻰﺘﺣ ﻦﻌﻃ {0}</Stab.deathMessage>
+	
+	<Bullet.label>ﺔﺻﺎﺻﺭ </Bullet.label>
+	<Bullet.deathMessage>. ﻪﻴﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻖﻳﺮﻃ ﻦﻋ ﺕﺎﻣ {0}</Bullet.deathMessage>
+	
+	<Arrow.label>ﻢﻬﺴﻟﺍ </Arrow.label>
+	<Arrow.deathMessage> .ﺱﻮﻘﻟﺍ ﻊﻣ ﻞﺘﻗ {0}</Arrow.deathMessage>
+	
+	<Scratch.label>ﺮﺴﻛ </Scratch.label>
+	<Scratch.deathMessage> .ﺓﺭﻮﺴﻜﻣ ﺖﻧﺎﻛ {0} </Scratch.deathMessage>
+	
+	<Bite.label>ﺾﻌ</Bite.label>
+	<Bite.deathMessage>.ﺾﻌﻠﻟ ﺽﺮﻌﺗ {0}</Bite.deathMessage>
+	
+	<Bomb.label>ﺭﺎﺠﻔﻧﻻﺍ </Bomb.label>
+	<Bomb.deathMessage> .ﺭﺎﺠﻔﻧﻻﺍ ﺀﺍﺮﺟ ﻞﺘﻗ {0} </Bomb.deathMessage>
+	
+	<Flame.label>ﻕﺮﺣ</Flame.label>
+	<Flame.deathMessage>. ﺕﻮﻤﻟﺍ ﻰﺘﺣ ﻕﺮﺘﺣﺍ {0}</Flame.deathMessage>
+	
+	<SurgicalCut.label>ﺔﺣﺍﺮﺠﻟﺍ </SurgicalCut.label>
+	<SurgicalCut.deathMessage> .ﺔﺣﺍﺮﺠﻟﺍ ﺀﺎﻨﺛﺃ ﻲﻓﻮﺗ {0} </SurgicalCut.deathMessage>
+	
+	<Frostbite.label>Erfrierung</Frostbite.label>
+	<Frostbite.deathMessage>{0} ist erfrohren.</Frostbite.deathMessage>
+	
+	<Stun.label>ﻖﻌﺻ </Stun.label>
+	<Stun.deathMessage>. ﺕﻮﻤﻟﺍ ﻰﺘﺣ ﻖﻌﺻ {0}</Stun.deathMessage>
+	
+	<EMP.label>EMP</EMP.label>
+	<EMP.deathMessage> EMI. ﻪﺘﻠﺘﻗ {0}</EMP.deathMessage>
+	
+	<Bleeding.label>ﻒﻳﺰﻧ </Bleeding.label>
+	<Bleeding.deathMessage> .ﻡﺪﻟﺍ ﻥﺍﺪﻘﻓ ﻦﻣ ﺕﺎﻣ {0} </Bleeding.deathMessage>
+	
+	<Suffocation.label>ﻕﺎﻨﺘﺧﻹﺍ</Suffocation.label>
+	<Suffocation.deathMessage>. ﺎﻘﻨﺧ ﺕﺎﻣ {0}</Suffocation.deathMessage>
+	
+	<Starvation.label>ﻉﻮﺠﻟﺍ</Starvation.label>
+	<Starvation.deathMessage>. ﺎﻋﻮﺟ ﺕﺎﻣ {0}</Starvation.deathMessage>
+	
+	<Hypothermia.label> ﻢﺴﺠﻟﺍ ﺓﺭﺍﺮﺣ ﺽﺎﻔﺨﻧﺍ</Hypothermia.label>
+	<Hypothermia.deathMessage>.ﻢﺴﺠﻟﺍ ﺓﺭﺍﺮﺣ ﺽﺎﻔﺨﻧﺍ ﻦﻣ ﻲﻓﻮﺗ {0}</Hypothermia.deathMessage>
+	
+  <!-- Healing local injury -->
+	<HealLocalInjury.label> ﺔﻳﺩﺮﻔﻟﺍ ﺕﺎﺑﺎﺻﻹﺍ ﺖﻴﻔﺷ</HealLocalInjury.label>
+	
+  <!-- Healing global injury -->
+	<HealGlobalInjury.label>ﺕﺎﺑﺎﺻﻹﺍ ﻊﻴﻤﺟ ﺖﻴﻔﺷ</HealGlobalInjury.label>
+	
+  <!-- Restoring body part -->
+	<RestoringBodyPart.label> ﻢﺴﺠﻟﺍ ﺓﺩﺎﻌﺘﺳﺍ</RestoringBodyPart.label>
+	
+  <!-- misc -->
+	<Breakdown.label> ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ </Breakdown.label>
+	<Mining.label>ﺔﻠﻠﺤﺘﻣ </Mining.label>
+	<Rotting.label>ﺔﻨﻔﻌﺘﻤﻟﺍ </Rotting.label>
+	<Extinguish.label>ﻑﺬﺣ </Extinguish.label>
+	
+	
+</LanguageData>

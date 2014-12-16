@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+ <!-- ======== Unlandable biomes ==========-->
+
+ <Ocean.label>ﻂﻴﺤﻤﻟﺍ</Ocean.label>
+ <Ocean.description>.ﻚﻟ ﺔﺒﺴﻨﻟﺎﺑ ﺍﺪﺟ ﺔﺤﻳﺮﻣ ﺲﻴﻟ ﻦﻜﻟﻭ ،ﻙﺎﻤﺳﻸﻟ ﺐﺳﺎﻨﻣ ﻥﺎﻜﻣ .ﺡﻮﺘﻔﻤﻟﺍ ﻂﻴﺤﻤﻟﺍ</Ocean.description>
+
+ <IceSheet.label>ﺪﻴﻠﺠﻟﺍ</IceSheet.label>
+ <IceSheet.description>ﺮﺧﺁ ﻥﺎﻜﻣ ﻰﻟﺇ ﺓﺮﺟﺎﻬﻤﻟﺍ ﻲﻫ - ﺎﻫﺍﺮﺗ ﻥﺃ ﻦﻜﻤﻳ ﻱﺬﻟﺍ ﺪﻴﺣﻮﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ .ﺪﺟﻮﻳ ﻻ ﺎﻨﻫ ﻲﺗﺎﺒﻨﻟﺍ ﺀﺎﻄﻐﻟﺍ ﻥﺈﻓ ﻲﻟﺎﺘﻟﺎﺑﻭ ،ﺓﺭﺎﺠﺤﻟﺍ ﻭﺃ ﺔﺑﺮﺘﻟﺍ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ﻻﻭ  .ﺕﺍﺮﺘﻣﻮﻠﻴﻛ ﺓﺪﻋ ﻰﻟﺇ ﻞﺼﺗ ﺪﻴﻠﺠﻟﺍ ﻦﻣ ﺕﺎﻘﺒﻃ ﻦﻣ ﺢﻄﺴﻟﺍ ﻥﻮﻜﺘﻳ</IceSheet.description>
+
+ <!-- ======== Buildable biomes ==========-->	
+
+	
+ <AridShrubland.label>ﺔﻠﺣﺎﻘﻟﺍ ﻝﻮﻬﺴﻟﺍ</AridShrubland.label>
+ <AridShrubland.description>ﺎﻨﻫ ﻮﻤﻨﺗ ﻑﻮﺳ ﺔﻳﻮﻘﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻂﻘﻓ ﺎﻴﺒﺴﻧ .ﺔﻓﺎﺜﻜﻟﺍ ﺔﻄﺳﻮﺘﻣ ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﺓﺭﺩﺎﻧ ﺭﺎﺠﺷﻷﺍﻭ ،ﻊﺳﺍﻭ ﻞﻬﺳ ﻙﺎﻨﻫ .ﻥﻻﺍ ﺪﺣ ﻰﻟﺇ ﺔﻠﺣﺎﻗ ﺀﺍﺮﺤﺻ ﺢﺒﺼﺗ ﻢﻟ ﺎﻬﻨﻜﻟ ،ﺔﻠﺣﺎﻗ ﺔﻘﻄﻨﻣ </AridShrubland.description>
+
+ <TemperateForest.label>ﺔﻟﺪﺘﻌﻤﻟﺍ ﺕﺎﺑﺎﻐﻟﺍ</TemperateForest.label>
+ <TemperateForest.description>.ﺎﻨﻫ ﺶﻴﻌﺗ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺘﻣ ﺔﻋﻮﻤﺠﻣﻭ ﻝﻮﻬﺴﻟﺍﻭ ﺭﺎﺠﺷﻷﺍ .ﺔﺒﺼﺨﻟﺍ ﺔﻴﺿﺍﺭﻷﺍ ﻖﻃﺎﻨﻤﻟﺍﻭ ﺕﺎﺑﺎﻐﻟﺍ </TemperateForest.description>
+
+ <Desert.label>ﺀﺍﺮﺤﺼﻟﺍ</Desert.label>
+ <Desert.description>.ﺕﺎﺗﺎﺒﻨﻟﺍﻭ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺍﺪﺟ ﻞﻴﻠﻗ ﺩﺪﻋ ﻙﺎﻨﻫ ﺚﻴﺣ ﺔﻓﺎﺟﻭ ﺓﺭﺍﺮﺤﻟﺍ ﺓﺪﻳﺪﺷ ﺔﻘﻄﻨﻣ</Desert.description>
+
+ 
+ <TropicalRainforest.label>ﺔﻴﺋﺍﻮﺘﺳﻻﺍ ﺓﺮﻴﻄﻤﻟﺍ ﺕﺎﺑﺎﻐﻟﺍ</TropicalRainforest.label>
+ <TropicalRainforest.description>.ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻟﺍﻭ ﺀﺎﻨﺒﻟﺍ ﺐﻌﺼﻟﺍ ﻦﻣ ﻞﻌﺠﺗ ﺔﻴﻧﺍﻭﺪﻌﻟﺍ ﺔﻳﺮﺒﻟﺍ ﺓﺎﻴﺤﻟﺍﻭ ﻒﻴﺜﻜﻟﺍ ﻲﺗﺎﺒﻨﻟﺍ ﺀﺎﻄﻐﻟﺍ ﻊﻣ ﺔﺒﻃﺭﻭ ﺓﺭﺎﺣ ﺔﺑﺎﻏ</TropicalRainforest.description>
+
+ <!-- ======== Landable biomes (not implemented) ==========-->
+
+ <Tundra.label>ﺩﺮﺟﺃ ﻞﻬﺳ ﺓﺭﺪﻨﺘﻟﺍ</Tundra.label>
+ <Tundra.description> ﺔﺳﺮﺘﻔﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﺓﺮﺟﺎﻬﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺓﺮﻴﺒﻛ ﻥﺎﻌﻄﻗ ﻊﻣ ،ﺓﺮﻴﻐﺼﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺒﻟ ﻦﻃﻮﻣ ﻲﻬﻓ .ﺕﺎﺗﺎﺒﻨﻟﺍ ﻦﻣ ﻞﻴﻠﻘﻟﺍ ﻙﺎﻨﻫﻭ ﺭﺎﺠﺷﻷﺍ ﻦﻣ ﺔﻴﻟﺎﺧ ﻝﻮﻬﺳ </Tundra.description>
+ 
+ <BorealForest.label>ﺔﻳﺮﺑﻮﻨﺼﻟﺍ ﺕﺎﺑﺎﻐﻟﺍ</BorealForest.label>
+ <BorealForest.description>.ﺓﺮﻴﺒﻜﻟﺍﻭ ﺓﺮﻴﻐﺼﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﻉﺍﻮﻧﻷ ﻦﻃﻮﻣ ﻲﻫ ﺔﻴﻟﺎﻤﺸﻟﺍ ﺕﺎﺑﺎﻐﻟﺍ ﺔﺒﻌﺼﻟﺍ ﺀﺎﺘﺸﻟﺍ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋﻭ .ﺔﻴﻟﺎﻤﺸﻟﺍ ﺔﻳﺮﺑﻮﻨﺼﻟﺍ ﺕﺎﺑﺎﻐﻟﺍ</BorealForest.description>
+
+</LanguageData>

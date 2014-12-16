@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	
+	
+ <Human.label>ﻥﺎﺴﻧﺍ</Human.label>
+
+ <QuadrupedAnimalWithPaws.label>ﻊﺑﺭﻷﺍ ﺕﺍﻭﺫ ﻦﻣ ﻥﺍﻮﻴﺣ</QuadrupedAnimalWithPaws.label>
+ <QuadrupedAnimalWithPawsAndTail.label>ﻊﺑﺭﻷﺍ ﺕﺍﻭﺫ ﻦﻣ ﻥﺍﻮﻴﺣ</QuadrupedAnimalWithPawsAndTail.label>
+ <QuadrupedAnimalWithHooves.label>ﻊﺑﺭﻷﺍ ﺕﺍﻭﺫ ﻦﻣ ﻥﺍﻮﻴﺣ</QuadrupedAnimalWithHooves.label>
+
+ <QuadrupedAnimalWithHoovesAndHump.label>ﻊﺑﺭﻷﺍ ﺕﺍﻭﺫ ﻦﻣ ﻥﺍﻮﻴﺣ</QuadrupedAnimalWithHoovesAndHump.label>
+ <QuadrupedAnimalWithHoovesAndTusks.label>ﻊﺑﺭﻷﺍ ﺕﺍﻭﺫ ﻦﻣ ﻥﺍﻮﻴﺣ</QuadrupedAnimalWithHoovesAndTusks.label>
+ <QuadrupedAnimalWithHoovesAndHorn.label>ﻊﺑﺭﻷﺍ ﺕﺍﻭﺫ ﻦﻣ ﻥﺍﻮﻴﺣ</QuadrupedAnimalWithHoovesAndHorn.label>
+ <QuadrupedAnimalWithClawsTailAndJowl.label>ﻊﺑﺭﻷﺍ ﺕﺍﻭﺫ ﻦﻣ ﻥﺍﻮﻴﺣ</QuadrupedAnimalWithClawsTailAndJowl.label>
+
+ <BeetleLike.label>ﺀﺎﺴﻔﻨﺧ</BeetleLike.label>
+
+ <TurtleLike.label>ﺀﺎﻔﺤﻠﺳ</TurtleLike.label>
+
+ <Snake.label>ﻥﺎﺒﻌﺛ</Snake.label>
+
+ <Monkey.label>ﺩﺮﻗ</Monkey.label>
+
+</LanguageData>

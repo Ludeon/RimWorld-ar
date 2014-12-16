@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	
+
+<Orders.label>ﺮﻣﺍﻭﻷﺍ</Orders.label>
+    
+<Orders.description>.ﺓﺩﺪﺤﻣ ﺀﺎﻴﺷﺃ ﻰﻠﻋ ﺕﺍﺀﺍﺮﺟﺇ ﻦﻴﻴﻌﺗ</Orders.description>
+	
+
+<Zone.label>ﻖﻃﺎﻨﻤﻟﺍ</Zone.label>
+    
+<Zone.description>.ﺕﺎﻳﺎﻔﻨﻟﺍ ﺔﻘﻄﻨﻣ ﻰﻟﺍ ﻲﻋﺍﺭﺰﻟﺍ ﻥﺍﺪﻴﻤﻟﺍ ﻰﻟﺇ ﻉﺩﻮﺘﺴﻤﻟﺍ ﻦﻣ .ﻉﺍﻮﻧﻷﺍ ﻒﻠﺘﺨﻣ ﻰﻟﺍ ﻖﻃﺎﻨﻤﻟﺍ ﻢﻴﺳﺮﺗ</Zone.description>
+	
+
+<Structure.label>ﺀﺎﻨﺒﻟﺍ</Structure.label>
+    
+<Structure.description>.ﺏﺍﻮﺑﻷﺍﻭ ﻥﺍﺭﺪﺠﻟﺍ ﻝﺎﺜﻤﻟﺍ ﻞﻴﺒﺳ ﻰﻠﻋ ﺮﺻﺎﻨﻌﻟﺍ ﺀﺎﻨﺑ</Structure.description>
+	
+
+<Production.label>ﺝﺎﺘﻧﺇ</Production.label>
+   
+ <Production.description>.ﺩﺭﺍﻮﻤﻟﺍﻭ ﻊﻠﺴﻟﺍ ﺝﺎﺘﻧﻹ ﺓﺰﻬﺟﺍ</Production.description>
+	
+
+<Furniture.label>ﺙﺎﺛﺃ</Furniture.label>
+    
+<Furniture.description>.ﺕﻻﻭﺎﻄﻟﺍ ﻭ ﺕﺎﺒﻤﻟﺍ ﻭ ﻩﺮﺳﻻﺍ ﻞﺜﻣ ﺓﺪﺋﺎﻓ ﺕﺍﺫ ﺔﻔﻠﺘﺨﻤﻟﺍ ﺕﺍﺪﻌﻤﻟﺍﻭ ﺙﺎﺛﻷﺍ ﺮﺻﺎﻨﻋ</Furniture.description>
+	
+
+<Power.label>ﺔﻗﺎﻃ</Power.label>
+    
+<Power.description>.ﺕﺎﻳﺭﺎﻄﺒﻟﺍ ﻭ ﺔﻗﺎﻄﻟﺍ ﺝﺎﺘﻧﻹ ﺔﻣﺯﻼﻟﺍ ﺕﺍﺪﻌﻤﻟﺍ</Power.description>
+	
+
+
+<Security.label>ﻦﻣﻻﺍ</Security.label>
+    
+<Security.description>.ﺓﺮﻤﻌﺘﺴﻤﻠﻟ ﺔﻳﺎﻤﺤﻟﺍﻭ ﺔﻴﻗﺍﻭ ﺔﻳﺮﻜﺴﻋ ﺕﺍﺀﺎﺸﻧﺇ</Security.description>
+	
+
+<Misc.label>ﻉﻮﻨﺘﻣ</Misc.label>
+    
+<Misc.description>.ﺔﻔﻠﺘﺨﻤﻟﺍ ﺕﺍﺀﺎﺸﻧﻹﺍ</Misc.description>
+	
+
+<Floors.label>ﺔﻴﺿﺭﻻﺍ</Floors.label>
+    
+<Floors.description>.ﺔﺣﺎﺘﻤﻟﺍ ﺔﻔﻠﺘﺨﻤﻟﺍ ﺕﺎﻴﺿﺭﻷﺍ ﻦﻣ ﺮﺘﺧﺍ</Floors.description>
+	
+
+<Decoration.label>ﺔﻨﻳﺰﻟﺍ</Decoration.label>
+    
+<Decoration.description>.ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺝﺍﺰﻣ ﺔﻟﺎﺣ ﻦﻴﺴﺤﺗ ﺎﻬﻧﺄﺷ ﻦﻣ ﻲﺘﻟﺍ ﺔﻠﻴﻤﺠﻟﺍ ﺀﺎﻴﺷﻷﺍ</Decoration.description>
+
+
+<Ship.label>ﺔﻨﻴﻔﺳ</Ship.label>
+    
+<Ship.description>.ﻚﺑ ﺹﺎﺨﻟﺍ ﺫﺎﻘﻧﻻﺍ ﺔﻨﻴﻔﺳ ﺕﺎﻧﻮﻜﻣ</Ship.description>
+
+
+
+</LanguageData>

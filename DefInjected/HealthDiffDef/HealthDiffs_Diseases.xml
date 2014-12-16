@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<!-- Diseases -->
+	<Euthanasia.label>ﻢﻴﺣﺭ ﻞﺘﻗ</Euthanasia.label>
+	
+	<ShutDown.label>إيقاف </ShutDown.label>
+	
+	<WoundInfection.label>ﺡﺮﺠﻟﺍ ﺏﺎﻬﺘﻟﺍ</WoundInfection.label>
+	<rep>
+		<path>WoundInfection.disease.severityStages[0].label</path>
+		<trans>ﺔﻀﻔﺨﻨﻣ</trans>
+	</rep>
+	<rep>
+		<path>WoundInfection.disease.severityStages[1].label</path>
+		<trans>ﺮﻴﺒﻛ</trans>
+	</rep>
+	<rep>
+		<path>WoundInfection.disease.severityStages[2].label</path>
+		<trans>ﺔﻳﺎﻐﻠﻟ</trans>
+	</rep>
+	<rep>
+		<path>WoundInfection.disease.severityStages[3].label</path>
+		<trans>ﺔﻳﺎﻐﻠﻟ</trans>
+	</rep>
+	<rep>
+		<path>WoundInfection.disease.severityStages[4].label</path>
+		<trans>ﺔﻳﺎﻐﻠﻟ</trans>
+	</rep>
+	
+	<BadBack.label>ﺮﻬﻈﻟﺍ ﻡﻻﺁ</BadBack.label>
+	
+	<Cataract.label>ﻦﻴﻌﻟﺍ ﺔﺳﺪﻋ ﻲﻓ ﺾﻴﺑﻷﺍ ﺀﺎﻤﻟﺍ </Cataract.label>
+	
+	<Anesthetic.label>ﺮﻳﺪﺨﺘﻟﺍ</Anesthetic.label>
+	
+	<Concussion.label>ﻍﺎﻣﺪﻟﺍ ﺝﺎﺠﺗﺭﺍ</Concussion.label>
+	
+	<Flu.label>ﺍﺰﻧﻮﻠﻔﻧﺍ</Flu.label>
+	<rep>
+		<path>Flu.disease.severityStages[0].label</path>
+		<trans>ﺔﻀﻔﺨﻨﻣ</trans>
+	</rep>
+	<rep>
+		<path>Flu.disease.severityStages[1].label</path>
+		<trans>ﺔﻀﻔﺨﻨﻣ</trans>
+	</rep>
+	<rep>
+		<path>Flu.disease.severityStages[2].label</path>
+		<trans>ﺮﻴﺒﻛ</trans>
+	</rep>
+	<rep>
+		<path>Flu.disease.severityStages[3].label</path>
+		<trans>ﺔﻳﺎﻐﻠﻟ</trans>
+	</rep>
+	<rep>
+		<path>Flu.disease.severityStages[4].label</path>
+		<trans>ﺔﻳﺎﻐﻠﻟ</trans>
+	</rep>
+	
+	<Plague.label>ﻥﻮﻋﺎﻄﻟﺍ</Plague.label>
+	<rep>
+		<path>Plague.disease.severityStages[0].label</path>
+		<trans>ﺔﻀﻔﺨﻨﻣ</trans>
+	</rep>
+	<rep>
+		<path>Plague.disease.severityStages[1].label</path>
+		<trans>ﺔﻀﻔﺨﻨﻣ</trans>
+	</rep>
+	<rep>
+		<path>Plague.disease.severityStages[2].label</path>
+		<trans>ﺮﻴﺒﻛ</trans>
+	</rep>
+	<rep>
+		<path>Plague.disease.severityStages[3].label</path>
+		<trans>ﺔﻳﺎﻐﻠﻟ</trans>
+	</rep>
+	<rep>
+		<path>Plague.disease.severityStages[4].label</path>
+		<trans>ﺔﻳﺎﻐﻠﻟ</trans>
+	</rep>
+	<rep>
+		<path>Plague.disease.severityStages[5].label</path>
+		<trans>ﺔﻳﺎﻐﻠﻟ</trans>
+	</rep>
+	
+	<Malaria.label>ﺎﻳﺭﻼﻤﻟﺍ</Malaria.label>
+	<rep>
+		<path>Malaria.disease.severityStages[0].label</path>
+		<trans>ﺔﻀﻔﺨﻨﻣ</trans>
+	</rep>
+	<rep>
+		<path>Malaria.disease.severityStages[1].label</path>
+		<trans>ﺔﻀﻔﺨﻨﻣ</trans>
+	</rep>
+	<rep>
+		<path>Malaria.disease.severityStages[2].label</path>
+		<trans>ﺮﻴﺒﻛ</trans>
+	</rep>
+	<rep>
+		<path>Malaria.disease.severityStages[3].label</path>
+		<trans>ﺔﻳﺎﻐﻠﻟ</trans>
+	</rep>
+	<rep>
+		<path>Malaria.disease.severityStages[4].label</path>
+		<trans>ﺔﻳﺎﻐﻠﻟ</trans>
+	</rep>
+	
+	<SleepingSickness.label> ﻡﻮﻨﻟﺍ ﺽﺮﻣ</SleepingSickness.label>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[0].label</path>
+		<trans>ﺔﻀﻔﺨﻨﻣ</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[1].label</path>
+		<trans>ﺔﻀﻔﺨﻨﻣ</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[2].label</path>
+		<trans>ﺔﻀﻔﺨﻨﻣ</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[3].label</path>
+		<trans>ﺮﻴﺒﻛ</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[4].label</path>
+		<trans>ﺔﻳﺎﻐﻠﻟ</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[5].label</path>
+		<trans>ﺔﻳﺎﻐﻠﻟ</trans>
+	</rep>
+	<rep>
+		<path>SleepingSickness.disease.severityStages[6].label</path>
+		<trans>ﺔﻳﺎﻐﻠﻟ</trans>
+	</rep>
+	
+	
+</LanguageData>

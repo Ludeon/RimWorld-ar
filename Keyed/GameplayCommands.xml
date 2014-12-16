@@ -1,48 +1,243 @@
 <?xml version="1.0" encoding="utf-8" ?>
+
 <LanguageData>
 
-	<CommandForbiddenDesc>Forbidden - colonists will not interact with this.</CommandForbiddenDesc>
-	<CommandNotForbiddenDesc>Not forbidden - colonists may interact with this.</CommandNotForbiddenDesc>
 
-  <CommandTogglePowerDesc>Toggle power.</CommandTogglePowerDesc>
-  <CommandTogglePowerLabel>Toggle power</CommandTogglePowerLabel>
 
-  <CommandGatherSpotToggleLabel>Gather spot</CommandGatherSpotToggleLabel>
-  <CommandGatherSpotToggleDescActive>Active - colonists will gather around this object.</CommandGatherSpotToggleDescActive>
-  <CommandGatherSpotToggleDescInactive>Inactive - colonists will not gather around this object.</CommandGatherSpotToggleDescInactive>
+	<CommandForbiddenDesc>.ﺍﺬﻫ ﻡﺍﺪﺨﺘﺳﺍ - ﻉﻮﻨﻤﻣ</CommandForbiddenDesc>
+
+	<CommandNotForbiddenDesc>.ﺍﺬﻫ ﻡﺍﺪﺨﺘﺳﺍ - ﺎﻋﻮﻨﻤﻣ 
+
+ﺲﻴﻟ</CommandNotForbiddenDesc>
+
+
+
+  <!-- Power -->
+
+  <CommandTogglePowerLabel>ﻑﺎﻘﻳﺇ / ﻞﻴﻐﺸﺗ</CommandTogglePowerLabel>
+
+  <CommandTogglePowerDesc>ﻑﺎﻘﻳﺇ / ﻞﻴﻐﺸﺗ.</CommandTogglePowerDesc>
+
+
+  <CommandTryReconnectLabel>ﻝﺎﺼﺗﻻﺍ ﺓﺩﺎﻋﺇ</CommandTryReconnectLabel>
+
+  <CommandTryReconnectDesc>.ﻚﻨﻣ ﺔﺒﻳﺮﻗ ﺔﻗﺎﻄﻟﺎﺑ ﻞﻤﻌﺗ ﺔﻜﺒﺷ ﻙﺎﻨﻫ ﻦﻜﻟﻭ ﻪﻨﻋ ﺭﺎﻴﺘﻟﺍ ﻞﺼﻓ ﻢﺗ ﺔﻜﺒﺷ ﻰﻠﻋ 
+
+ﺔﻠﺼﺘﻣ ﺎﻧﺃ ﺍﺫﺇ ﺪﻴﻔﻣ 
+
+ﺍﺬﻫﻭ .ﻒﻠﺘﺨﻣ ﺬﻔﻨﻣ ﻰﻟﺇ ﺮﻴﻴﻐﺗ ﺔﻟﻭﺎﺤﻣ</CommandTryReconnectDesc>
+
+
+
+
+
+  <CommandGatherSpotToggleLabel>ﻊﻤﺠﺘﻟﺍ ﺔﻄﻘﻧ</CommandGatherSpotToggleLabel>
+
+  <CommandGatherSpotToggleDescActive>.ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻲﻓ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻊﻤﺠﺘﻳ ﻑﻮﺳ - 
+
+ﻂﺸﻧ</CommandGatherSpotToggleDescActive>
+
+  <CommandGatherSpotToggleDescInactive>I.ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻲﻓ ﻊﻤﺠﺘﻳ ﻻ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍﻭ - ﻂﺸﻧ 
+
+ﺮﻴﻏ</CommandGatherSpotToggleDescInactive>
+
+
+
   
   
+  <!-- Drafting -->
+
+  <CommandDraftLabel>ﺐﺤﺳ ﺔﻴﻗﺪﻨﺑ</CommandDraftLabel>
+
+  <CommandUndraftLabel>ﺡﻼﺳ ﺍﺪﻴﻌﺑ ﺖﻌﺿﻭ</CommandUndraftLabel>
+
+  <CommandToggleDraftDesc>.ﺔﺣﺍﺮﻟﺍ ﻭﺃ ،ﻡﺎﻌﻄﻟﺍ ﻝﻭﺎﻨﺗ ،ﻦﻜﻤﻳﻻ  .ﻝﺎﺘﻘﻟﺍ ﺮﻣﺍﻭﺃ ﺬﺧﺃ \n\n. ﻱﺮﻜﺴﻋ 
+
+ﻞﻳﺪﺒﺗ</CommandToggleDraftDesc>
+
+  <IsIncapped>.ﺍﺰﺟﺎﻋ {0}</IsIncapped>
+
+
+
+
+ 
+ <CommandCancelConstructionLabel>ﺀﺎﻐﻟﺇ</CommandCancelConstructionLabel>
+
+  <CommandCancelConstructionDesc>.ﺀﺎﻨﺒﻟﺍ ﺍﺬﻫ ﺀﺎﻐﻟﺇ</CommandCancelConstructionDesc>
+
+
+
+  <CommandGetOutOfBedLabel>ﺮﻳﺮﺴﻟﺍ ﻦﻣ ﺝﻭﺮﺨﻟﺍ</CommandGetOutOfBedLabel>
+
+  <CommandGetOutOfBedDesc>.ﻲﻟﺎﺤﻟﺍ ﺮﻳﺮﺴﻟﺍ ﻦﻣ ﺝﻭﺮﺨﻟﺍ</CommandGetOutOfBedDesc>
+
+
+
+  <CommandBedSetOwnerLabel>ﻚﻟﺎﻣ ﺭﺎﻴﺘﺧﺍ</CommandBedSetOwnerLabel>
+
+  <CommandBedSetOwnerDesc>.ﻙﺭﺎﻴﺘﺧﺍ ﻦﻣ ﺮﻤﻌﺘﺴﻤﻟ ﺮﻳﺮﺴﻟﺍ ﺍﺬﻫ 
+
+ﻲﻄﻌﻳ</CommandBedSetOwnerDesc>
+
+  <BedAssign>ﻦﻴﻴﻌﺗ</BedAssign>
+
+  <CommandBedSetForPrisonersLabel>ﺀﺎﻨﺠﺴﻠﻟ ﻦﻴﻴﻌﺗ</CommandBedSetForPrisonersLabel>
+
+  <CommandBedSetForPrisonersDesc>.ﺀﺎﻨﺠﺴﻟﺍ ﻞﺒﻗ ﻦﻣ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﻓﺮﻐﻟﺍ ﻩﺬﻫ ﻲﻓ ﺮﻳﺮﺳ 
+
+ﻦﻴﻴﻌﺗ</CommandBedSetForPrisonersDesc>
+
+  <CommandBedSetForPrisonersFailOutdoors>.ﺀﺎﻨﺠﺴﻠﻟ ﻥﻮﻜﺘﻟ ﻖﻠﻄﻟﺍ ﺀﺍﻮﻬﻟﺍ ﻲﻓ ﺮﻳﺮﺳ ﻦﻴﻴﻌﺗ ﻦﻜﻤﻳ 
+
+ﻻ</CommandBedSetForPrisonersFailOutdoors>
+
+  <CommandBedSetForColonistsLabel>ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﻦﻴﻴﻌﺗ</CommandBedSetForColonistsLabel>
+
+  <CommandBedSetForColonistsDesc>.ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﺒﻗ ﻦﻣ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﻓﺮﻐﻟﺍ ﻩﺬﻫ ﻲﻓ ﺮﻳﺮﺳ 
+
+ﻦﻴﻴﻌﺗ</CommandBedSetForColonistsDesc>
+
+  <CommandBedSetAsMedicalLabel>ﻲﺒﻃ ﺮﻳﺮﺳ ﻪﻠﻌﺟﺍ</CommandBedSetAsMedicalLabel>
+
+  <CommandBedSetAsMedicalDesc> .ﻲﺒﻄﻟﺍ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺮﻳﺮﺴﻟﺍ ﺍﺬﻫ 
+
+ﻦﻴﻴﻌﺗ</CommandBedSetAsMedicalDesc>
+
+  <CommandBedSetAsNonMedicalLabel>ﻲﺒﻃ ﺮﻴﻏ ﻪﻠﻌﺟﺍ</CommandBedSetAsNonMedicalLabel>
+
+  <CommandBedSetAsNonMedicalDesc> .ﺮﻴﻏ ﻲﺒﻄﻟﺍ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺮﻳﺮﺴﻟﺍ ﺍﺬﻫ 
+
+ﻦﻴﻴﻌﺗ</CommandBedSetAsNonMedicalDesc>
+
+  <TurningOnPrisonerBedWarning>:ﻢﻬﺗﺮﺳﺃ ﺪﻘﻔﻳ ﺍﺬﻫ \n\n (.ﺔﻓﺮﻐﻟﺍ ﺲﻔﻧ ﻲﻓ ﻡﻮﻨﻟﺍ ﻥﻮﻌﻴﻄﺘﺴﻳ ﻻ ﺀﺎﻨﺠﺴﻟﺍﻭ 
+
+ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ) 
+
+.ﺎﻬﻠﻤﻛﺄﺑ ﺔﻓﺮﻐﻟﺍ ﻰﻠﻋ ﺮﺛﺆﻳ ﻊﺿﻮﻟﺍ ﻦﺠﺳ ﻰﻠﻋ ﻝﻮﺤﺗ</TurningOnPrisonerBedWarning>
+
+  <TurningOffPrisonerBedWarning>T:ﻢﻬﺗﺮﺳﺃ ﺪﻘﻔﻳ ﺍﺬﻫ \n\n (.ﺔﻓﺮﻐﻟﺍ ﺲﻔﻧ ﻲﻓ ﻡﻮﻨﻟﺍ ﻥﻮﻌﻴﻄﺘﺴﻳ ﻻ 
+
+ﺀﺎﻨﺠﺴﻟﺍﻭ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ) 
+
+.ﺎﻬﻠﻤﻛﺄﺑ ﺔﻓﺮﻐﻟﺍ ﻰﻠﻋ ﺮﺛﺆﻳ ﻊﺿﻮﻟﺍ ﻦﺠﺳ ﻞﻳﻮﺤﺗ</TurningOffPrisonerBedWarning>
+
+  <AreYouSure>؟ﻚﻟﺫ ﻞﻌﻔﺗ ﻥﺃ ﺪﻳﺮﺗ ﻚﻧﺃ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ</AreYouSure>
+
+
+
+
+
+ 
+  <CommandDetonateDesc>.ﺮﻴﺠﻔﺘﻟﻻ ﻲﻟﺯﺎﻨﺘﻟﺍ ﺪﻌﻟﺍ ﺀﺪﺑ</CommandDetonateDesc>
+
+  <CommandDetonateLabel>ﺭﺎﺠﻔﻧﺍ</CommandDetonateLabel>
+
+
+
+  <CommandRenameZoneDesc>.ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﺔﻴﻤﺴﺗ ﺓﺩﺎﻋﺇ</CommandRenameZoneDesc>
+
+  <CommandRenameZoneLabel>ﺔﻴﻤﺴﺗ ﺓﺩﺎﻋﺇ</CommandRenameZoneLabel>
+
+
+
+  <CommandHideZoneDesc>.ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﺭﺎﻬﻇﺇ / ﺀﺎﻔﺧﺇ</CommandHideZoneDesc>
+
+  <CommandHideZoneLabel>ﺀﺎﻔﺧﺇ</CommandHideZoneLabel>
+
+  <CommandUnhideZoneLabel>ﺭﺎﻬﻇﺇ</CommandUnhideZoneLabel>
+
+
+
+  <CommandDeleteZoneDesc>.ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﻑﺬﺣ</CommandDeleteZoneDesc>
+
+  <CommandDeleteZoneLabel>ﻑﺬﺣ</CommandDeleteZoneLabel>
+
+
+
   
-  <CommandDraftLabel>Draft</CommandDraftLabel>
-  <CommandUndraftLabel>Undraft</CommandUndraftLabel>
-  <CommandToggleDraftDesc>Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest.</CommandToggleDraftDesc>
-  <IsIncapped>{0} is incapacitated.</IsIncapped>
+  
+  <!-- Artillery -->
 
-  <CommandCancelConstructionLabel>Cancel</CommandCancelConstructionLabel>
-  <CommandCancelConstructionDesc>Cancel this construction.</CommandCancelConstructionDesc>
+  <CommandSetForceAttackTarget>ﻱﺭﺎﺒﺟﻻﺍ ﻑﺪﻬﻟﺍ ﻦﻴﻴﻌﺗ</CommandSetForceAttackTarget>
 
-  <CommandBedSetForPrisonersLabel>Set for prisoners</CommandBedSetForPrisonersLabel>
-  <CommandBedSetForPrisonersDesc> Assign beds in this room for use by prisoners.</CommandBedSetForPrisonersDesc>
-  <CommandBedSetForColonistsLabel>Set for colonists</CommandBedSetForColonistsLabel>
-  <CommandBedSetForColonistsDesc> Assign beds in this room for use by colonists.</CommandBedSetForColonistsDesc>
-  <TurningOnPrisonerBedWarning>Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOnPrisonerBedWarning>
-  <TurningOffPrisonerBedWarning>Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOffPrisonerBedWarning>
-  <AreYouSure>Are you sure you want to do this?</AreYouSure>
+  <CommandSetForceAttackTargetDesc>.ﻦﻜﻤﻣ ﺖﻗﻭ ﻝﻮﻃﻷ ﺡﻼﺴﻟﺍ ﺍﺬﻫ ﻡﻮﺠﻬﻟ ﺎﻓﺪﻫ 
+
+ﺩﺪﺣ</CommandSetForceAttackTargetDesc>
+
+  <CommandStopForceAttack>ﻱﺭﺎﺒﺟﻻﺍ ﻡﻮﺠﻫ ﻒﻗﻭ</CommandStopForceAttack>
+
+  <CommandStopForceAttackDesc>.ﺎﻫﺮﻳﺪﻘﺘﻟ ﺎﻘﻓﻭ ﻑﺍﺪﻫﺃ ﺔﻤﺟﺎﻬﻤﻟ ﺔﻴﻗﺪﻨﺒﻠﻟ ﺢﻤﺴﻳﻭ ﻱﺭﺎﺒﺟﻻﺍ ﻡﻮﺠﻬﻟﺍ 
+
+ﺀﺎﻬﻧﺇ</CommandStopForceAttackDesc>
+
+  <CommandStopAttackFailNotForceAttacking>.ﻂﺷﺎﻧ ﻱﺭﺎﺒﺟﻻﺍ ﻡﻮﺠﻫ ﻱﺍ ﺪﺟﻮﻳﻻ 
+
+ﺎﻴﻟﺎﺣ</CommandStopAttackFailNotForceAttacking>
+
+  <MessageTargetBeyondMaximumRange>.ﻯﺪﻤﻟﺍ ﺝﺭﺎﺧ 
+
+ﻑﺪﻬﻟﺍ</MessageTargetBeyondMaximumRange>
+
+  <MessageTargetBelowMinimumRange>.ﻕﺎﻄﻨﻠﻟ ﻰﻧﺩﻷﺍ ﺪﺤﻟﺍ ﻦﻣ ﺏﺮﻗﺃ ﻮﻫ 
+
+ﻑﺪﻬﻟﺍﻭ</MessageTargetBelowMinimumRange>
+
+
 
   
   
-  <CommandDetonateDesc>Start the countdown to detonation.</CommandDetonateDesc>
-  <CommandDetonateLabel>Detonate</CommandDetonateLabel>
+  <!-- Ship computer core -->
 
-  <CommandRenameZoneDesc>Rename this zone.</CommandRenameZoneDesc>
-  <CommandRenameZoneLabel>Rename</CommandRenameZoneLabel>
+  <CommandShipLaunch>ﺔﻨﻴﻔﺳ ﻕﻼﻃﺇ </CommandShipLaunch>
 
-  <CommandHideZoneDesc>Hide/unhide this zone.</CommandHideZoneDesc>
-  <CommandHideZoneLabel>Hide</CommandHideZoneLabel>
-  <CommandUnhideZoneLabel>Unhide</CommandUnhideZoneLabel>
+  <CommandShipLaunchDesc>.ﻲﻟﺎﺤﻟﺍ ﻦﻳﻮﻜﺘﻟﺍ ﻊﻣ ﺀﺎﻀﻔﻟﺍ ﺔﻨﻴﻔﺴﻟ ﺪﻴﻬﻤﺘﻟﺍ ﻞﺴﻠﺴﺗ 
 
-  <CommandDeleteZoneDesc>Delete this zone.</CommandDeleteZoneDesc>
-  <CommandDeleteZoneLabel>Delete</CommandDeleteZoneLabel>
-  
-  
+ﺃﺪﺒﻳ</CommandShipLaunchDesc>
+
+  <CommandShipLaunchReport> ﻕﻼﻃﻻﺍﺮﻳﺮﻘﺗ ﺓﺪﻫﺎﺸﻣ</CommandShipLaunchReport>
+
+  <CommandShipLaunchReportDesc>.ﺔﻨﻴﻔﺴﻟﺍ ﺔﻟﺎﺣ ﻦﻋ ﺮﻳﺮﻘﺗ 
+
+ﺽﺮﻋ</CommandShipLaunchReportDesc>
+
+
+
+
+
+  <!-- Pod -->
+
+  <CommandPodEject>ﺔﻤﺋﺎﻧ ﺝﺍﺮﺧﺇ</CommandPodEject>
+
+  <CommandPodEjectDesc>.ﺔﻟﻮﺴﺒﻜﻟﺍ ﺝﺭﺎﺧ ﺎﻬﺑ ﻰﻣﺭﻭ Kryoschläfer ﻲﻓ 
+
+ﻆﻘﻴﺘﺴﺗ</CommandPodEjectDesc>
+
+  <CommandPodEjectFailEmpty>.ﺪﺣﺃ ﻻ</CommandPodEjectFailEmpty>
+
+
+
+  <!-- Door -->
+
+  <CommandToggleDoorLock>ﺔﻟﺎﺤﻟﺍ ﺮﻴﻴﻐﺗ</CommandToggleDoorLock>
+
+  <CommandToggleDoorLockDesc>.ﺪﺣﻷ ﻱﺍ ﻲﻟ ﺢﺘﻔﺗ ﻻ ﺔﻘﻠﻐﻤﻟﺍ ﺏﺍﻮﺑﻷﺍ  .ﺏﺎﺒﻟﺍ ﺢﺘﻓ ﻭﺃ 
+
+ﻕﻼﻏﺇ</CommandToggleDoorLockDesc>
+
+  <!-- Temperature control -->
+  <CommandResetTemp>ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ</CommandResetTemp>
+  <CommandResetTempDesc>.ﺔﻓﺮﻐﻟﺍ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﻰﻟﺇ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻦﻴﻴﻌﺗ 
+
+ﺓﺩﺎﻋﺇ</CommandResetTempDesc>
+  <CommandRaiseTempDesc>.ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻊﻓﺭ</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>.ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﺾﻔﺧ</CommandLowerTempDesc>
+
+  <!-- Art -->
+  <CommandInstall>ﺖﻴﺒﺜﺗ</CommandInstall>
+  <CommandInstallDesc> .ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻭﺃ ﺎﻬﻴﻟﺇ ﺮﻈﻨﻳ ﻥﺃ ﻦﻜﻤﻳ ﺚﻴﺤﺑ ﻲﺋﺎﻬﻨﻟﺍ ﻊﻗﻮﻣ ﻲﻓ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﺖﻴﺒﺜﺘﻟ ﺮﻣﻷﺍ 
+
+ﺍﺬﻫ ﻡﺪﺨﺘﺳﺍ .ﻞﻘﻨﻟﺍﻭ ﻦﻳﺰﺨﺘﻠﻟ ﺎﻴﻟﺎﺣ ﺔﻌﻠﺴﻟﺍ ﻩﺬﻫ ﻡﺰﺣ</CommandInstallDesc>
+
+
+
 </LanguageData>

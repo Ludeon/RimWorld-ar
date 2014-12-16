@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+
+	<Root.label>ﺭﻭﺬﺟ</Root.label>
+
+
+	<Resources.label>ﺩﺭﺍﻮﻤﻟﺍ</Resources.label>
+
+
+	<Foods.label>ﺀﺍﺬﻐﻟﺍ</Foods.label>
+
+
+	<FoodMeals.label> ﺓﺰﻫﺎﺟ ﻡﺎﻌﻄﻟﺍ ﺕﺎﺒﺟﻭ</FoodMeals.label>
+	<FoodRaw.label> ﻡﺎﺨﻟﺍ ﺀﺍﺬﻐﻟﺍ</FoodRaw.label>
+
+
+	<MeatRaw.label>ﻡﻮﺤﻠﻟﺍ</MeatRaw.label>
+
+
+	<PlantFoodRaw.label>ﺕﺍﻭﺮﻀﺨﻟﺍﻭ ﻪﻛﺍﻮﻔﻟﺍ</PlantFoodRaw.label>
+
+
+	<Manufactured.label>ﺔﻌﻨﺼﻤﻟﺍ</Manufactured.label>
+
+
+	<Fabric.label>ﺞﻴﺴﻨﻟﺍ </Fabric.label>
+
+
+	<ResourcesRaw.label>ﻡﺎﺧ ﺩﺍﻮﻣ</ResourcesRaw.label>
+
+
+	<Items.label>ﺮﺻﺎﻨﻋ</Items.label>
+
+
+	<Weapons.label>ﺔﺤﻠﺳﻻﺍ</Weapons.label>
+
+
+	<Apparel.label>ﺲﺑﻼﻣ</Apparel.label>
+	<BodyParts.label>ﻢﺴﺠﻟﺍ ﺀﺍﺰﺟﺃ</BodyParts.label>
+
+
+	<Chunks.label>ﺔﻣﺎﻤﻘﻟﺍ</Chunks.label>
+
+
+	<Corpses.label>ﺚﺜﺠﻟﺍ</Corpses.label>
+
+
+	<CorpsesHumanoid.label>ﺔﻳﺮﺸﺒﻟﺍ ﺚﺜﺠﻟﺍ</CorpsesHumanoid.label>
+
+
+	<CorpsesAnimal.label>ﺔﻘﻓﺎﻨﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</CorpsesAnimal.label>
+
+
+	<CorpsesMechanoid.label>ﺚﺜﺠ Mechanoid</CorpsesMechanoid.label>
+
+
+</LanguageData>

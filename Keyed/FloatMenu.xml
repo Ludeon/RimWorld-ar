@@ -1,70 +1,104 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CallOnRadio>Call {0}</CallOnRadio>
-	<CannotUseSolarFlare>Cannot use (solar flare)</CannotUseSolarFlare>
-	<CannotUseNoPower>Cannot use (no power)</CannotUseNoPower>
-	<CannotUseNoPath>Cannot use (no path)</CannotUseNoPath>
-	
-  <FireAt>Fire at {0}</FireAt>
-
-  <OutOfRange>out of range</OutOfRange>
-  <CannotHitTarget>cannot hit target</CannotHitTarget>
-  <CannotFight>{0} cannot fight</CannotFight>
 
   
+	<CallOnRadio>ﺀﺎﻋﺪﺘﺳﺍ  {0}</CallOnRadio>
+	<CannotUseSolarFlare>(ﻲﺴﻤﺸﻟﺍ ﺞﻫﻮﺘﻟﺍ ﺐﺒﺴﺑ) ﺔﻗﺎﻄﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ </CannotUseSolarFlare>
+	<CannotUseNoPower>(ﺔﻗﺎﻃ ﺪﺟﻮﺗ ﻻ ﺐﺒﺴﺑ) ﺔﻗﺎﻄﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ </CannotUseNoPower>
+	<CannotUseNoPath>(ﺭﺎﺴﻣ ﺪﺟﻮﻳ ﻻ ﺐﺒﺴﺑ) ﺔﻗﺎﻄﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ </CannotUseNoPath>
+  <CannotUseReserved> (ﺓﺯﻮﺠﺤﻣ ﺐﺒﺴﺑ) ﺔﻗﺎﻄﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ </CannotUseReserved>
+  <CannotUseFull>(ﻞﻣﺎﻛ ﺮﻴﻏ) ﺔﻗﺎﻄﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ</CannotUseFull>
   
-  <MeleeAttack>Melee attack {0}</MeleeAttack>
-  <MeleeAttackToDeath>Melee attack {0} to death</MeleeAttackToDeath>
-  <NoPath>no path</NoPath>
+  <FireAt>ﻲﻓ ﻖﻳﺮﺣ  {0}</FireAt>
 
-	<ForbiddenLower>forbidden</ForbiddenLower>
-	<SociallyImproperLower>socially improper</SociallyImproperLower>
-	<BurningLower>burning</BurningLower>
-	<NoEmptyPlaceLower>no empty place configured to store it</NoEmptyPlaceLower>
-	<AlreadyFilledLower>already filled enough</AlreadyFilledLower>
+  <OutOfRange> ﻕﺎﻄﻨﻟﺍ ﺝﺭﺎﺧ</OutOfRange>
+  <CannotHitTarget>ﻑﺪﻬﻟﺍ ﻰﻟﺍ ﻞﺼﺗ ﻥﺃ ﻦﻜﻤﻳ ﻻ </CannotHitTarget>
+  <CannotFight>{0} ﺔﺑﺭﺎﺤﻣ ﻦﻜﻤﻳ ﻻ</CannotFight>
+
+  <OrderManThing>ﻞﺟﺭ {0}</OrderManThing>
+  
+  <MeleeAttack>ﻙﺍﺮﻋ ﻡﻮﺠﻫ {0}</MeleeAttack>
+  <MeleeAttackToDeath>ﺕﻮﻤﻟﺍ ﻰﺘﺣ {0} ﻙﺍﺮﻋ ﻡﻮﺠﻫ</MeleeAttackToDeath>
+  <NoPath>ﺭﺎﺴﻣ ﺪﺟﻮﻳ ﻻ</NoPath>
+
+	<ForbiddenLower>ﻉﻮﻨﻤﻣ </ForbiddenLower>
+	<SociallyImproperLower>ﺎﻴﻋﺎﻤﺘﺟﺍ ﻖﺋﻻ ﺮﻴﻏ </SociallyImproperLower>
+  <PrisonerRoomLower>ﻦﻴﺠﺴﻟﺍ ﺔﻓﺮﻏ</PrisonerRoomLower>
+	<BurningLower>ﻕﺮﺣ </BurningLower>
+	<NoEmptyPlaceLower>ﻪﻨﻳﺰﺨﺗ ﻦﻜﻤﻳ ﻍﺭﺎﻓ ﻥﺎﻜﻣ ﻻ </NoEmptyPlaceLower>
+	<AlreadyFilledLower> ﻲﻔﻜﻳ ﺎﻤﺑ ﻞﻌﻔﻟﺎﺑ ﻞﻐﺷ</AlreadyFilledLower>
+	<MissingMaterials> ﺎﻬﻟ ﺔﺟﺎﺤﺑ ﺩﺍﻮﻣ</MissingMaterials>
 	
 	
-  <CannotGoNoPath>Cannot go here (no path)</CannotGoNoPath>
-  <GoHere>Go here</GoHere>
+  <CannotGoNoPath>(ﺭﺎﺴﻣ ﺪﺟﻮﻳ ﻻ) ﺎﻨﻫ ﺐﻫﺬﺗ ﻥﺃ ﻦﻜﻤﻳ ﻻ</CannotGoNoPath>
+  <GoHere>ﺎﻨﻫ ﺏﺎﻫﺬﻟﺍ</GoHere>
   
-  <Arrest>Arrest {0}</Arrest>
-  <CannotArrest>Cannot arrest</CannotArrest>
+  <Arrest> ﻝﺎﻘﺘﻋﺍ {0}</Arrest>
+  <CannotArrest>ﻝﺎﻘﺘﻋﺍ ﻦﻜﻤﻳ ﻻ</CannotArrest>
 
-  <Capture>Capture {0}</Capture>
-  <CannotCapture>Cannot capture</CannotCapture>
+  <Capture>ﻰﻠﻋ ﺾﺒﻘﻟﺍ {0}</Capture>
+  <CannotCapture>ﺾﺒﻘﻟﺍ ﻊﻴﻄﺘﺴﺗ ﻻ</CannotCapture>
 
-  <Rescue>Rescue {0}</Rescue>
-  <CannotRescue>Cannot rescue</CannotRescue>
+  <Rescue>ﺫﺎﻘﻧﻹﺍ  {0}</Rescue>
+  <CannotRescue>ﺫﺎﻘﻧﻹﺍ ﻦﻜﻤﻳ ﻻ</CannotRescue>
 
-  <NoPrisonerBed>No available enclosed prisoner-marked bed.</NoPrisonerBed>
-  <NoNonPrisonerBed>No available usable non-prisoner bed.</NoNonPrisonerBed>
-  <Reserved>Reserved by someone else.</Reserved>
-  <ReservedBy>Reserved by {0}.</ReservedBy>
-  <IsReservedBy>{0} is reserved by {1}.</IsReservedBy>
+  <CarryToCryptosleepCasket>حمل {0} لcryptosleep النعش</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>ﺶﻌﻨﻟﺍ cryptosleepﻝ ﻞﻤﺤﺗ ﻥﺃ ﻦﻜﻤﻳ 
 
+ﻻ</CannotCarryToCryptosleepCasket>
 
-  <Equip>Equip {0}</Equip>
-  <CannotEquip>Cannot equip {0}</CannotEquip>
+  <NoCryptosleepCasket>.ﺔﺣﺎﺘﻤﻟﺍ cryptosleep ﻻ</NoCryptosleepCasket>
+  <NoPrisonerBed>.ﺔﺣﺎﺘﻣ ﻦﻴﺠﺴﻟﺮﻳﺮﺴﻟﺍ ﺪﺟﻮﻳﻻ</NoPrisonerBed>
+  <NoNonPrisonerBed>.ﺔﺣﺎﺘﻣ ﻦﻴﺠﺴﻟﺮﻳﺮﺴﻟﺍ ﺪﺟﻮﻳﻻ</NoNonPrisonerBed>
+  <Reserved>.ﺮﺧﺁ ﺺﺨﺸﻟ  ﺯﻮﺠﺤﻣ </Reserved>
+  <ReservedBy>.{0} ﻞﺒﻗ ﻦﻣ ﺯﻮﺠﺤﻣ</ReservedBy>
+  <IsReservedBy>{1} ﻞﺒﻗ ﻦﻣ ﺯﻮﺠﺤﻣ {0}.</IsReservedBy>
 
-  <Deposit>Deposit {0} in {1}</Deposit>
-  <CannotDeposit>Cannot deposit {0} in {1}</CannotDeposit>
+  <NoManipulationSkill>ﺰﺟﺎﻋ </NoManipulationSkill>
 
-  <Drop>Drop {0}</Drop>
+  <Equip>ﺰﻴﻬﺠﺗ  {0}</Equip>
+  <EquipWarningBrawler>(ﺔﻋﺎﺠﺷ ﺪﻴﻌﺳ ﻥﻮﻜﻳ ﻦﻟ) </EquipWarningBrawler>
+  <CannotEquip>ﺰﻴﻬﺠﺗ ﻦﻜﻤﻳ ﻻ {0}</CannotEquip>
+  
+  <Wear>ﺲﺑﻼﻣ  {0}</Wear>
+  <CannotWear>ﺀﺍﺪﺗﺭﺍ ﻦﻜﻤﻳ ﻻ {0}</CannotWear>
+  
+  <Strip>ﺪﻳﺮﺠﺗ  {0}</Strip>
+  <CannotStrip> ﺪﻳﺮﺠﺗ ﻦﻜﻤﻳ ﻻ {0}</CannotStrip>
 
+  <Deposit> {1} ﻲﻓ {0} ﻉﺍﺪﻳﺇ </Deposit>
+  <CannotDeposit>{1} ﻲﻓ {0} ﻉﺍﺪﻳﺇ ﻦﻜﻤﻳ ﻻ</CannotDeposit>
+
+  <SelfDestructHere>ﻲﺗﺍﺬﻟﺍ ﺮﻴﻣﺪﺘﻟﺍ  </SelfDestructHere>
+
+  <Drop>ﻁﺎﻘﺳﺇ  {0}</Drop>
+  
+  <UseMedicalBed>ﺎﻣﺎﻤﺗ ﻰﻓﺎﻌﺘﺗ ﻰﺘﺣ ﺔﺣﺍﺮﻟﺍ</UseMedicalBed>
+  <NotInjured> ﺐﺼﻳ ﻢﻟ</NotInjured>
+  <SomeoneElseSleeping>ﻝﻮﻐﺸﻣ </SomeoneElseSleeping>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepPod>Enter cryptosleep pod</EnterCryptosleepPod>
+  
+  
+  
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-  <CannotGenericWork>Cannot {0} {1}</CannotGenericWork>
+  <CannotGenericWork>ﻦﻜﻤﻳ ﻻ {0} {1}</CannotGenericWork>
 
-  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-  <CannotGenericAlreadyAm>Already {0} {1}</CannotGenericAlreadyAm>
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->  
 
-  <CannotPrioritizeIsNotA>Cannot prioritize ({0} is not a {1})</CannotPrioritizeIsNotA>
+<CannotMissingHealthActivities>({0} :ﺔﻴﺤﺻ ﺔﻠﻜﺸﻣ) ﺎﻬﺗﺎﻳﻮﻟﻭﺃ ﺪﻳﺪﺤﺗ ﻦﻜﻤﻳ ﻻ   </CannotMissingHealthActivities>
 
-  <CannotPrioritizeResearch>Cannot prioritize (research is a long-term task)</CannotPrioritizeResearch>
+  <CannotGenericAlreadyAm>ﻞﻌﻔﻟﺎﺑ  {0} {1}</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeForbidden>Cannot prioritize ({0} is forbidden)</CannotPrioritizeForbidden>
+  <CannotPrioritizeIsNotA>({1} ﺲﻴﻟ {0}) ﺕﺎﻳﻮﻟﻭﻷﺍ ﺪﻳﺪﺤﺗ ﻦﻜﻤﻳ ﻻ</CannotPrioritizeIsNotA>
+
+  <CannotPrioritizeResearch>(ﻞﻳﻮﻄﻟﺍ ﻯﺪﻤﻟﺍ ﻰﻠﻋ ﺔﻤﻬﻣ ﺙﻮﺤﺑ) ﺕﺎﻳﻮﻟﻭﻷﺍ ﺪﻳﺪﺤﺗ ﻦﻜﻤﻳ ﻻ</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>(ﻉﻮﻨﻤﻣ {0}) ﺕﺎﻳﻮﻟﻭﻷﺍ ﺪﻳﺪﺤﺗ ﻦﻜﻤﻳ ﻻ </CannotPrioritizeForbidden>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-  <PrioritizeGeneric>Prioritize {0} {1}</PrioritizeGeneric>
+  <PrioritizeGeneric> ﺔﻳﻮﻟﻭﻷﺍ ﺀﺎﻄﻋﺇ {0} {1}</PrioritizeGeneric>
   
 </LanguageData>

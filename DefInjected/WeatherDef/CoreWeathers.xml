@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	
+
+	<Clear.label>ﺢﺿﺍﻭ</Clear.label>
+
+	<Clear.description>ﻞﻴﻤﺟ ﻭ ﻑﺎﺻ ﺲﻘﻃ</Clear.description>
+
+
+	<Fog.label>ﺏﺎﺒﻀﻟﺍ</Fog.label>
+	
+              <Fog.description>.ﺔﺤﻠﺳﻷﺍ ﺔﻗﺩ ﻦﻣ ﻞﻠﻘﻳ ﺏﺎﺒﻀﻟﺍ</Fog.description>
+
+
+	<Rain.label>ﺮﻄﻤﻣ</Rain.label>
+
+	<Rain.description>.ﻱﺮﺠﻟﺍ ﺔﻋﺮﺳ ﻦﻣ ﻞﻠﻘﻳﻭ ،ﺭﺎﻨﻟﺍ ﺊﻔﻄﻳﻭ ،ﺔﺤﻠﺳﻷﺍ ﺔﻗﺩ ﻦﻣ ﻞﻠﻘﻳ ﺮﻄﻤﻟﺍ</Rain.description>
+
+
+	<DryThunderstorm.label>ﺔﻓﺎﺠﻟﺍ ﺔﻳﺪﻋﺮﻟﺍ ﻒﺻﺍﻮﻌﻟﺍ</DryThunderstorm.label>
+	<DryThunderstorm.description>.ﺮﻄﻤﻟﺍ ﺪﺟﻮﻳ ﻻﻭ ،ﺭﺎﻨﻟﺍ ﻞﻌﺸﻳ ﻥﺃ ﻦﻜﻤﻳ ﻕﺮﺒﻟﺍ ﻥﻷ ﺓﺮﻴﻄﺧ ﺔﻓﺎﺠﻟﺍ ﺔﻳﺪﻋﺮﻟﺍ ﻒﺻﺍﻮﻌﻟﺍ</DryThunderstorm.description>
+
+
+	<RainyThunderstorm.label>ﺔﻔﺻﺎﻌﻟﺍ ﺭﺎﻄﻣﻷﺍ</RainyThunderstorm.label>
+
+	<RainyThunderstorm.description>.ﻞﻤﻌﻟﺍﻭ ﻱﺮﺠﻟﺍ ﺔﻋﺮﺳ ﻦﻣ ﻞﻠﻘﻳ ﺮﻄﻤﻟﺍﻭ ،ﻚﻟﺫ ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑﻭ .ﻚﻟﺫ ﻞﻳﺰﻳ ﺮﻄﻤﻟﺍ ﻦﻜﻟﻭ ،ﺭﺎﻨﻟﺍ ﻞﻌﺸﺗ ﻥﺍ ﻦﻜﻤﻣ ﺔﻳﺪﻋﺮﻟﺍ ﻒﺻﺍﻮﻋ</RainyThunderstorm.description>
+
+
+	<FoggyRain.label>ﺮﻄﻤﻣ ﺔﻴﺑﺎﺒﺿ</FoggyRain.label>
+	<FoggyRain.description>.ﺔﻋﺮﺴﻟﺍﻭ ﺔﻗﺪﻟﺍ ﺾﻔﺧ</FoggyRain.description>
+
+
+
+	<SnowHard.label>ﺔﻔﻴﺜﻜﻟﺍ ﺝﻮﻠﺜﻟﺍ</SnowHard.label>
+
+	<SnowHard.description>.ﺱﺎﻨﻟﺍ ﺊﻄﺒﻳﻭ ﻖﺋﺍﺮﺤﻟﺍ ﺊﻔﻄﻳ ،ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺒﻟﺍ ﺔﺤﻠﺳﻷﺍ ﺔﻗﺩ ﻦﻣ ﻞﻠﻘﻳ ﺞﻠﺜﻟﺍ</SnowHard.description>
+
+
+	<SnowGentle.label>ﺔﻔﻴﻔﺧ ﺝﻮﻠﺛ</SnowGentle.label>
+
+	<SnowGentle.description>.ﺱﺎﻨﻟﺍ ﺊﻄﺒﻳﻭ ﻖﺋﺍﺮﺤﻟﺍ ﺊﻔﻄﻳ ،ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺒﻟﺍ ﺔﺤﻠﺳﻷﺍ ﺔﻗﺩ ﻦﻣ ﻞﻠﻘﻳ ﺞﻠﺜﻟﺍ</SnowGentle.description>
+
+
+	
+</LanguageData>

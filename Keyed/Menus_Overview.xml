@@ -1,39 +1,51 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+  
 
-  <Dark>ظلام</Dark>
-  <Lit>ضوء</Lit>
-  <LitBrightly>Brightly lit</LitBrightly>
-
-  <SkillMax>أقصى</SkillMax>
-
+  <!-- Tab titles -->
+  <WorkTab>ﻞﻤﻌﻟﺍ </WorkTab>
+  <FactionsTab>ﻞﺋﺎﺼﻔﻟﺍ </FactionsTab>
+  <StatisticsTab>ﺕﺎﻴﺋﺎﺼﺣﺇ </StatisticsTab>
+  <HistoryTab>ﺦﻳﺭﺎﺘﻟﺍ </HistoryTab>
+  <WorldTab>ﻢﻟﺎﻌﻟﺍ </WorldTab>
 
   <!-- Work tab -->
-  <WorkTab>عمل</WorkTab>
-  <ManualPriorities>Manual priorities</ManualPriorities>
-  <HigherPriority>Higher priority</HigherPriority>
-  <LowerPriority>Lower priority</LowerPriority>
-  <RelevantSkills>Relevant skills: {0}\nAverage of relevant skills: {1} / {2}</RelevantSkills>
-  <ClickToJumpTo>أضغط للقفز إلى:</ClickToJumpTo>
-  <CannotDoThisWork>{0} لايمكن فعل هذا النوع من العمل.</CannotDoThisWork>
-  <NoneBrackets>(لاشئ)</NoneBrackets>
+  <ManualPriorities> ﺔﻳﻭﺪﻴﻟﺍ ﺕﺎﻳﻮﻟﻭﺃ</ManualPriorities>
+  <HigherPriority>ﻰﻠﻋﺃ ﺔﻳﻮﻟﻭﺃ </HigherPriority>
+  <LowerPriority> ﻰﻧﺩﺃ ﺔﻳﻮﻟﻭﺃ</LowerPriority>
+  <RelevantSkills>{2} / {1} :ﺔﺼﺘﺨﻤﻟﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ ﻂﺳﻮﺘﻣ \n {0} :ﺔﺼﺘﺨﻤﻟﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ </RelevantSkills>
+  <ClickToJumpTo>ﻰﻟﺇ ﻝﺎﻘﺘﻧﻼﻟ ﺮﻘﻧﺍ:</ClickToJumpTo>
+  <CannotDoThisWork>{0} .ﻞﻤﻌﻟﺍ ﻦﻣ ﻉﻮﻨﻟﺍ ﺍﺬﻫ ﻞﻌﻓ ﻥﺃ ﻊﻴﻄﺘﺴﺗ ﻻ</CannotDoThisWork>
+  <NoneBrackets>(none)</NoneBrackets>
+
   
   <!-- Factions tab -->
-  <FactionsTab>Factions</FactionsTab>
-  <Hostile>Hostile</Hostile>
-  <HostileTo>Enemy of {0}</HostileTo>
-  <CurrentGoodwill>Current goodwill with this faction.</CurrentGoodwill>
+  <Hostile>ﺔﻴﺋﺍﺪﻋ </Hostile>
+  <HostileTo> ﻭﺪﻋ{0}</HostileTo>
+  <CurrentGoodwill>.ﻞﻴﺼﻔﻟﺍ ﺍﺬﻫ ﻊﻣ ﺔﻴﻟﺎﺤﻟﺍ ﺔﻴﻨﻟﺍ ﻦﺴﺣ </CurrentGoodwill>
 
-  <!-- Statistics tab -->
-  <StatisticsTab>Statistics</StatisticsTab>
-  <ColonyWealthTotal>Colony wealth</ColonyWealthTotal>
-  <ColonyWealthItems>Colony wealth (items)</ColonyWealthItems>
-  <ColonyWealthBuildings>Colony wealth (buildings)</ColonyWealthBuildings>
-  <ColonyStrength>Colony strength</ColonyStrength>
-  <Danger>خطر</Danger>
-  <FiresOnMap>حرائق في الخريطة</FiresOnMap>
-  <NumEnemyRaids>سلب العدو</NumEnemyRaids>
   
+  <!-- Statistics tab -->
+  <Storyteller>ﻱﻭﺍﺮﻟﺍ </Storyteller>
+  <ColonyWealthTotal>ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺕﺍﻭﺮﺜﻟﺍ</ColonyWealthTotal>
+  <ColonyWealthItems> (ﺔﻌﻠﺳ) ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺕﺍﻭﺮﺛ </ColonyWealthItems>
+  <ColonyWealthBuildings> (ﻲﻧﺎﺒﻤﻟﺍ) ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺕﺍﻭﺮﺛ </ColonyWealthBuildings>
+  <NumThreatBigs>ﺔﻴﺴﻴﺋﺮﻟﺍ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ </NumThreatBigs>
+  <NumEnemyRaids>ﻭﺪﻌﻟﺍ ﺕﺍﺭﺎﻏ</NumEnemyRaids>
+  <DamageTaken>ﺖﻘﺤﻟﺍ ﻲﺘﻟﺍ ﺭﺍﺮﺿﻷﺍ</DamageTaken>
+  <ColonistsKilled>ﻮﺗﺎﻣ ﻥﻭﺮﻤﻌﺘﺴﻣ </ColonistsKilled>
+  <ColonistsLaunched> ﺀﺎﻀﻔﻟﺍ ﻲﻓ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺔﻗﻼﻃﺍ</ColonistsLaunched>
+
+
+  <!-- History tab -->
+  <SelectGraph>ﻲﻧﺎﻴﺒﻟﺍ ﻢﺳﺮﻟﺍ ﺭﺎﻴﺘﺧﺍ</SelectGraph>
+  <Last30Days>ﺎﻣﻮﻳ 30 ﺮﺧﺁ</Last30Days>
+  <Last100Days>ﺎﻣﻮﻳ 100 ﺮﺧﺁ</Last100Days>
+  <Last300Days>ﻡﻮﻳ 300 ﺮﺧﺁ</Last300Days>
+  <AllDays>ﻊﻴﻤﺠﻟﺍ </AllDays>
+  <Day>ﻡﻮﻳ  </Day>
+  <Value>ﺔﻤﻴﻗ  </Value>
+  <External>ﺔﻴﺟﺭﺎﺨﻟﺍ  </External>
   
   
 </LanguageData>

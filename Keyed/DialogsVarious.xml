@@ -1,92 +1,171 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-
-
-  <Confirm>Confirm</Confirm>
-  <GoBack>Go back</GoBack>
-  <OK>OK</OK>
+  <Confirm>ﺪﻴﻛﺄﺗ</Confirm>
+  <GoBack>ﻉﻮﺟﺮﻟﺍ</GoBack>
+  <OK>ﺎﻨﺴﺣ</OK>
   
   <!-- Save/load -->
-  <SaveGameButton>Save</SaveGameButton>
-  <OverwriteButton>Overwrite</OverwriteButton>
-  <LoadGameButton>Load</LoadGameButton>
-  <ConfirmDelete>Really delete {0}?</ConfirmDelete>
-  <DeleteThisSavegame>Delete this savegame.</DeleteThisSavegame>
-  <SavedAs>Saved as {0}.</SavedAs>
-  <NeedAName>Please enter a name.</NeedAName>
-  <LoadingLongEvent>Loading...</LoadingLongEvent>
-  
-  
+  <SaveGameButton>ﻆﻔﺣ</SaveGameButton>
+  <OverwriteButton>ﺔﺑﺎﺘﻜﻟﺍ</OverwriteButton>
+  <LoadGameButton>ﻞﻴﻤﺤﺗ</LoadGameButton>
+  <ConfirmDelete>{0} ؟ ﺎﻘﺣ ﻑﺬﺣ</ConfirmDelete>
+  <DeleteThisSavegame>.ﻞﻴﻤﺤﺘﻟﺍ ﻩﺬﻫ ﻑﺬﺣ</DeleteThisSavegame>
+  <SavedAs>.{0} ﻢﺳﺎﺑ ﻆﻔﺣ</SavedAs>
+  <NeedAName>.ﻢﺳﺍ ﻝﺎﺧﺩﺇ ﺀﺎﺟﺮﻟﺍ</NeedAName>
+  <LoadingLongEvent>... ﻞﻴﻤﺤﺗ</LoadingLongEvent>
+   
   <!-- Colony naming-->
-  <NameColonyMessage>Everyone knows that you don't want to stay on this rock for long. But {0} is suggesting that you give the colony a name anyway.\n\nWhat should it be called?</NameColonyMessage>
-  <ColonyGainsName>The colony is now known as {0}.</ColonyGainsName>
-  <ColonyNameIsInvalid>That colony name isn't valid.</ColonyNameIsInvalid>
+  <NameColonyMessage>؟ﻚﻟﺫ ﻰﻤﺴﻧ ﻥﺃ ﺐﺠﻳ ﺍﺫﺎﻣ \n\n.ﻝﺎﺣ ﻱﺃ ﻰﻠﻋ ﻢﺳﺍ ﺓﺮﻤﻌﺘﺴﻤﻠﻟ ﻲﻄﻌﺗ ﻥﺃ ﺐﺠﻳ {0} ﻦﻜﻟ .ﺔﻠﻳﻮﻃ ﺓﺪﻤﻟ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻩﺬﻫ ﻰﻠﻋ ﺀﺎﻘﺒﻟﺍ ﻲﻓ ﺐﻏﺮﺗ ﻻ ﻚﻧﺃ ﻑﺮﻌﻳ ﻊﻴﻤﺠﻟﺍ</NameColonyMessage>
+  <ColonyGainsName>.{0} ﻙ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻥﻵﺍ ﻑﻭﺮﻌﻣ</ColonyGainsName>
+  <ColonyNameIsInvalid>.ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺢﻟﺎﺻ ﺮﻴﻏ ﻢﺳﻻﺍ ﺍﺬﻫ</ColonyNameIsInvalid>
 
   <!-- Zone naming -->
-  <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
-  <ZoneNameIsInvalid>Please enter a valid zone name.</ZoneNameIsInvalid>
+  <ZoneGainsName>.{0} ﻥﻵﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻰﻤﺴﺗﻭ</ZoneGainsName>
+  <ZoneNameIsInvalid>.ﺢﻴﺤﺻ ﺔﻘﻄﻨﻣ ﻢﺳﺍ ﻝﺎﺧﺩﺇ ﻰﺟﺮﻳ</ZoneNameIsInvalid>
+  
+  <!-- Pawn naming -->
+  <PawnGainsName>.{0} ﻥﻵﺍ ﻮﻫ ﻢﺳﻻﺍ ﻚﻧ ﺮﻤﻌﺘﺴﻤﻟﺍ</PawnGainsName>
 
   <!-- Save game incompatible warning -->
-  <SaveGameIncompatibleWarningText>Version mismatch: Map was saved with game version {0}, we are running version {1}.\n\n Loading this save will probably cause bugs and crashes.</SaveGameIncompatibleWarningText>
-  <SaveGameIncompatibleWarningTitle>Save game incompatibility</SaveGameIncompatibleWarningTitle>
-  
+  <SaveGameIncompatibleWarningText>{0} ﺔﺨﺴﻨﻟ ﻆﻔﺤﻟﺍ: ﻖﺑﺎﻄﺘﺗ ﻻ ﺦﺴﻨﻟﺍ  \n\n.{1} ﺔﻴﻟﺎﺤﻟﺍ ﺔﺨﺴﻨﻟﺍﻭ ﺔﺒﻌﻟﺍ ﻞﻴﻄﻌﺗﻭ ﻞﻛﺎﺸﻣ ﺐﺒﺴﻳ ﺍﺬﻫ ﻞﻴﻤﺤﺗ </SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningTitle>ﻖﻓﺍﻮﺗ ﻲﻓ ﺔﺒﻌﻠﻟﺍ ﻆﻔﺣ</SaveGameIncompatibleWarningTitle>
+ 
   <!-- Resolution change dialog -->
-  <ConfirmResolutionChange>You've changed your resolution. Does the new one work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
-  <ResolutionKeep>Keep</ResolutionKeep>
-  <ResolutionRevert>Revert</ResolutionRevert>
+  <ConfirmResolutionChange>... {0} ﻲﺋﺎﻘﻠﺘﻟﺍ ﻉﻮﺟﺮﻟﺍ \n\n؟ ﻡﺍﺮﻳﺎﻣ ﻰﻠﻋ ﻞﻤﻌﻳ ﺪﻳﺪﺠﻟﺍ ﺮﻴﻐﺘﻟﺍ ﻞﻫ .ﺔﺷﺎﺸﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﺮﻴﻴﻐﺘﺑ ﺖﻤﻗ ﺪﻘﻟ</ConfirmResolutionChange>
+  <ResolutionKeep>ﺀﺎﻘﺑﺇ </ResolutionKeep>
+  <ResolutionRevert>ﻉﻮﺟﺮﻟﺍ </ResolutionRevert>
 
   <!-- Overview -->
-  <OverviewOf>Overview of {0}</OverviewOf>
+  <OverviewOf>ﻰﻠﻋ ﺔﻣﺎﻋ ﺓﺮﻈﻧ {0}</OverviewOf>
 
   <!-- Research -->
-  <Research>Research</Research>
-  <Researched>Researched</Researched>
-  <Unresearched>Unresearched</Unresearched>
-  <Finished>Finished</Finished>
-  <InProgress>In Progress</InProgress>
-  <ResearchMenuWithoutBench>Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at and choose research projects now.</ResearchMenuWithoutBench>
-  
-  
-  <!-- Advanced game start options -->
-  <MapSizePerformanceWarning>WARNING: Performance may degrade at larger map sizes unless your computer is quite powerful.\n\nIf you have a weak machine, choose Small.\n\nLudeonicrous size is untested and will almost certainly not play well.</MapSizePerformanceWarning>
-  <MapSize>Map size</MapSize>
-  <MapSizeDesc>{0}x{0} ({1} squares)</MapSizeDesc>
-  <MapSizeSmall>Small</MapSizeSmall>
-  <MapSizeMedium>Medium</MapSizeMedium>
-  <MapSizeLarge>Large</MapSizeLarge>
-  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+  <Research>ﺚﺤﺑ</Research>
+  <Researched>ﺎﻬﺜﺤﺑ ﻢﺗ</Researched>
+  <Unresearched>ﺎﻬﺜﺤﺑ ﻢﺘﻳ ﻢﻟ</Unresearched>
+  <Finished>ﻰﻬﺘﻧﺍ</Finished>
+  <InProgress>ﺚﺤﺒﻟﺍﺭﻮﻃ ﻲﻓ</InProgress>
+  <ResearchMenuWithoutBench>.ﻥﻵﺍ ﺔﻴﺜﺤﺒﻟﺍ ﻊﻳﺭﺎﺸﻤﻟﺍ ﺭﺎﻴﺘﺧﺍﻭ ﻉﻼﻃﻻﺍ ﻚﻧﺎﻜﻣﺈﺑ ﻝﺍﺰﻳ ﻻ ،ﻚﻟﺫ ﻊﻣﻭ \n\n.ﺙﻮﺤﺒﻟﺍ ﺀﺍﺮﺟﺇ ﻰﻠﻋ ﻦﻳﺭﺩﺎﻗ ﺮﻴﻏ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻥﻮﻜﻳ ﻑﻮﺳ ،ﺙﺎﺤﺑﻷﺍ ﺪﻌﻘﻣ ﺀﺎﻨﺒﺑ ﻡﻮﻘﺗ ﻰﺘﺣ</ResearchMenuWithoutBench>
 
+  <!-- Advanced game start options -->
+  <MapTemperatureDangerWarning>.ﺎﺌﻓﺩ ﺮﺜﻛﺃ ﺮﻬﺷ ﻲﻓ ﻚﻃﻮﺒﻫ ﺔﻌﻘﺑ ﺭﺎﻴﺘﺧﺍ ﺔﻳﺎﻐﻠﻟ ﺔﺒﻌﺻ ﺔﺌﻴﺑ ﻲﻓ ﺐﻌﻠﻟ ﻂﻄﺨﺗ ﻻ ﺖﻨﻛ ﺍﺫﺇ .ﺎﻨﻫ ﺀﺎﻘﺒﻟﺍ ﺐﻌﺼﻟﺍ ﻦﻣﻭ .ﺓﺪﻤﺠﻣ ﺔﺌﻴﺑ ﻲﻓ ﻥﻮﻄﺒﻬﻴﺳ :ﺮﻳﺬﺤﺗ</MapTemperatureDangerWarning>
+  <MapSizePerformanceWarning>.ﺓﺮﻴﻐﺼﻟﺍ ﺮﺘﺧﺍ ،ﻒﻴﻌﺿ ﻙﺯﺎﻬﺟ ﻥﺎﻛ ﺍﺫﺇ ﺔﻳﺎﻔﻜﻟﺍ ﻪﻴﻓ ﺎﻤﺑ ﻱﻮﻗ ﺮﺗﻮﻴﺒﻤﻛ ﺯﺎﻬﺟ ﻚﻳﺪﻟ ﻥﺎﻛ ﺍﺫﺇ ﻻﺇ ،ﺮﺒﻛﺃ ﻂﺋﺍﺮﺨﻟﺍ ﻰﻠﻋ ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﺾﻔﺨﻨﺗ ﺪﻗ ﺀﺍﺩﻷﺍ :ﺮﻳﺬﺤﺗ  ﺐﻌﻠﻟ ﻚﻨﻜﻤﻳ ﻻﺃ ﻞﻤﺘﺤﻤﻟﺍ ﻦﻣ ﻞﺒﻗ ﻦﻣ ﺔﻤﺨﻀﻟﺍ ﺔﻄﻳﺮﺨﻟﺍ ﺭﺎﺒﺘﺧﺍ ﻢﺘﻳ ﻢﻟ ﻥﺎﻛ ﺍﺫﺇ </MapSizePerformanceWarning>
+  <MapSize>ﺔﻄﻳﺮﺨﻟﺍ ﻢﺠﺣ</MapSize>
+  <MapSizeDesc>(ﺕﺎﺣﺎﺴﻤﻟﺍ {1}) {0} X {0</MapSizeDesc>
+  <MapSizeSmall>ﺓﺮﻴﻐﺻ</MapSizeSmall>
+  <MapSizeMedium>ﺔﻄﺳﻮﺘﻣ</MapSizeMedium>
+  <MapSizeLarge>ﺓﺮﻴﺒﻛ</MapSizeLarge>
+  <MapSizeExtreme>ﺔﻤﺨﺿ</MapSizeExtreme>
+  <MapStartMonth>:ﺮﻬﺸﻟﺍ ﻦﻣ ﺀﺍﺪﺘﺑﺍ</MapStartMonth>
+  <MapStartMonthDefault>ﻲﺋﺎﻘﻠﺗ</MapStartMonthDefault>
 
 
   <!-- Bill config -->
-  <Suspended>Suspended</Suspended>
-  <NotSuspended>Not suspended</NotSuspended>
-  <SuspendedAllCaps>SUSPENDED</SuspendedAllCaps>
-  <RepeatCount>Repeat: {0}</RepeatCount>
-  <Forever>Forever</Forever>
-  <IngredientSearchRadius>Ingredient search radius</IngredientSearchRadius>
-  <TargetCount>Make until you have: {0}</TargetCount>
-  <Infinite>Infinite</Infinite>
-  <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
-  <PermittedIngredients>Permitted ingredients</PermittedIngredients>
-  <MinimumSkills>Minimum skills:</MinimumSkills>
-  <DoXTimes>Do X times</DoXTimes>
-  <DoUntilYouHaveX>Do until you have X</DoUntilYouHaveX>
-  <DoForever>Do forever</DoForever>
-  <BillRepeatTargetCountShort>To {0}</BillRepeatTargetCountShort>
+  <Suspended>ﺬﻴﻔﻨﺘﻟﺍ ﻒﻗﻭ</Suspended>
+  <NotSuspended>ﺬﻴﻔﻨﺘﻟﺍ ﻒﻗﻭ ﻡﺪﻋ</NotSuspended>
+  <SuspendedAllCaps>ﺬﻴﻔﻨﺘﻟﺍ ﻒﻗﻭ</SuspendedAllCaps>
+  <RepeatCount>{0} :ﺭﺮﻛ</RepeatCount>
+  <Forever>ﺪﺑﻷﺍ ﻰﻟﺇ</Forever>
+  <IngredientSearchRadius>ﺎﻫﺮﻄﻗ ﻒﺼﻧ ﺓﺮﺋﺍﺩ ﻲﻓ ﺕﺎﻧﻮﻜﻤﻟﺍ ﺚﺤﺑ </IngredientSearchRadius>
+  <TargetCount>{0} :ﻚﻳﺪﻟ ﻥﻮﻜﻳ ﻰﺘﺣﺮﻤﺘﺳﺍ</TargetCount>
+  <Infinite>ﺩﻭﺪﺤﻣ ﺮﻴﻏ</Infinite>
+  <RecipeCannotHaveTargetCount>(.ﺎﻬﺑ ﺆﺒﻨﺘﻟﺍ ﻦﻜﻤﻳ ﻻ ﻭﺃ ﺓﺩﺪﻌﺘﻣ ﺕﺎﺠﺘﻨﻣ ﻚﻳﺪﻟ ﻥﻷ ﺢﺿﺍﻭ ﺪﻌﻟﺍ ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ ﺔﻔﺼﻟﺍ ﻩﺬﻫﻭ)</RecipeCannotHaveTargetCount>
+  <PermittedIngredients>ﺎﻬﺑ ﺡﻮﻤﺴﻤﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ</PermittedIngredients>
+  <WorkAmount>ﻞﻤﻌﻟﺍ ﺔﻴﻤﻛ</WorkAmount>
+  <MinimumSkills>:ﺕﺍﺭﺎﻬﻤﻟﺍ ﻦﻣ ﻰﻧﺩﻷﺍ ﺪﺤﻟﺍ</MinimumSkills>
+  <BillRequires>{1} {0} ﺐﻠﻄﺘﻳ</BillRequires>
+  <BillRequiresMayVary>(.ﺐﻫﺬﻟﺍ ﻞﺜﻣ ،ﺔﻴﺳﺎﻴﻘﻟﺍ ﺮﻴﻏ ﺕﺎﻴﻤﻛ ﻊﻣ ﺓﺩﺎﻤﻟ ﺩﺍﺪﻌﺗ ﻒﻠﺘﺨﺗ ﺪﻗ)</BillRequiresMayVary>
+  <UsableIngredients>ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﻠﺑﺎﻗ ﺕﺎﻧﻮﻜﻣ</UsableIngredients>
+  <DoXTimes>X ﺩﺍﺮﻤﻟﺍ ﻑﺪﻬﻠﻟ ﻩﺪﺣﺍﻭ ﻩﺮﻣ ﺮﻤﺘﺳﺍ</DoXTimes>
+  <DoUntilYouHaveX>X ﻚﻳﺪﻟ ﻥﻮﻜﻳ ﻰﺘﺣ ﺮﻤﺘﺳﺍ</DoUntilYouHaveX>
+  <DoForever>ﺪﺑﻷﺍ ﻰﻟﺇ ﺮﻤﺘﺳﺍ</DoForever>
+  <BillRepeatTargetCountShort>{0} ﻰﻟﺇ</BillRepeatTargetCountShort>
+  <BillStoreMode_DropOnFloor>ﺽﺭﻷﺍ ﻰﻠﻋ ﻁﺎﻘﺳﺍ</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>ﻥﺰﺨﻤﻟﺍ ﻦﻣ ﻞﻀﻓﻷ ﺬﺧ</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>ﻥﺰﺨﻣ ﺏﺮﻗﺃ ﻰﻟﺍ ﻝﻭﺰﻨﻟﺍ</BillStoreMode_NearestStockpileAnyPriority>
   
+  <!-- Def Card -->
+  <Type>ﻉﻮﻨﻟﺍ</Type>
+  <GunType>ﺔﻴﻗﺪﻨﺑ</GunType>
+  <PlantType>ﺕﺎﺒﻧ</PlantType>
+  <FoodType>ﺀﺍﺬﻏ</FoodType>
+  <HumanType>ﻱﺮﺸﺑ</HumanType>
+  <AnimalType>ﻥﺍﻮﻴﺣ</AnimalType>
+  <MechanoidType>Mechanoid</MechanoidType>
+  <Damage>ﺭﺮﻀﻟﺍ</Damage>
+  <Accuracy>ﺔﻗﺪﻟﺍ</Accuracy>
+  <BurstShotCount>ﺖﻘﻠﻃﺃ ﺕﺎﻘﻠﻃ</BurstShotCount>
+  <WarmupTime>ﺀﺎﻤﺣﻹﺍ ﺖﻗﻭ</WarmupTime>
+  <CooldownTime> ﺪﻳﺮﺒﺗ ﺖﻗﻭ</CooldownTime>
+  <BurstShotFireRate>ﺭﺎﻨﻟﺍ ﻕﻼﻃﺍ ﺔﻋﺮﺳ</BurstShotFireRate>
+  <Range>ﻕﺎﻄﻧ</Range>
+  <GrowsWild>ﺔﻳﺮﺒﻟﺍ ﻲﻓﻮﻤﻨﻳ</GrowsWild>
+  <Harvestable>ﺩﺎﺼﺣ</Harvestable>
+  <LimitedLifespan>ﺩﻭﺪﺤﻣ ﺮﻤﻋ</LimitedLifespan>
+  <GrowingTime>ﻮﻤﻨﻟﺍ ﺖﻗﻭ</GrowingTime>
+  <Days>ﻡﺎﻳﺃ</Days>
+  <FertilityRequirement>ﺔﺑﻮﺼﺨﻟﺍ ﻁﺮﺷt</FertilityRequirement>
+  <LightRequirement>ﺀﻮﻀﻟﺍ ﻁﺮﺷ</LightRequirement>
+  <Attributes>ﺕﺎﻔﺼﻟﺍ</Attributes>
+  <LifeSpan>ﺮﻤﻋ</LifeSpan>
+  <Nutrition>ﺔﻳﺬﻐﺗ</Nutrition>
+  <FoodQuality>ﺔﻳﺬﻏﻷﺍ ﺓﺩﻮﺟ</FoodQuality>
+  <WalkSpeedProperty>ﻲﺸﻤﻟﺍ ﺔﻋﺮﺳ</WalkSpeedProperty>
+  <MeleeDamage>ﺓﺮﺟﺎﺸﻤﻟﺍ ﺭﺍﺮﺿﺃ</MeleeDamage>
+  <MeatAmount>ﻡﻮﺤﻠﻟﺍ ﺔﻴﻤﻛ</MeatAmount>
+  <MinFoodQuality>ﺔﻳﺬﻏﻷﺍ ﺔﻴﻋﻮﻨﺑ .ﻰﻧﺩﻷﺍ ﺪﺤﻟ</MinFoodQuality>
+  <Diet>Diet</Diet>
+  <RecruitDifficulty>ﻒﻴﻇﻮﺗ ﺔﺑﻮﻌﺻ</RecruitDifficulty>
+  <baseMarketValue>ﻲﺳﺎﺳﻷﺍ ﺮﻌﺴﻟﺍ</baseMarketValue>
+  <Covers>ﺔﻴﻄﻏﺃ</Covers>
+  <NaturalArmorCovers> ﻲﻌﻴﺒﻃ ﺀﺎﻄﻏ </NaturalArmorCovers>
+  <BodyPartEfficiency>ﻢﺴﺠﻟﺍ ﺔﻴﻟﺎﻌﻓ</BodyPartEfficiency>
   
   <!-- Trade -->
-  <YourTradeableSilver>Your tradeable silver: {0}</YourTradeableSilver>
-	<YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
+  <DragToTrade> ﺓﺭﺎﺠﺘﻟ ﺐﺤﺳﺍ</DragToTrade>
+  <BuyPriceDesc>.ﺍﺬﻫ ﺀﺍﺮﺸﻟ ﻪﻌﻓﺪﺗ ﻱﺬﻟﺍ ﻦﻤﺜﻟﺍ</BuyPriceDesc>
+  <SellPriceDesc>.ﺍﺬﻫ ﻊﻴﺒﻟ ﻪﻌﻓﺪﻳ ﻱﺬﻟﺍ ﻦﻤﺜﻟﺍ</SellPriceDesc>
+  <PriceTypeDesc>.{0} ﻮﻫ ﺮﻌﺴﻟﺍ ،ﺔﻌﻠﺴﻟﺍ ﻩﺬﻬﻟ</PriceTypeDesc>
+  <ColonyCount>  ﺎﻬﺑ ﺓﺮﺟﺎﺘﻤﻟﺍ ﺓﺮﻤﻌﺘﺴﻤﻠﻟ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺩﺪﻋ   orbital ﻲﻓ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻊﻴﺑ ﻊﻴﻄﺘﺴﺗ.</ColonyCount>
 
+
+  <TraderCount>ﻊﻴﺒﻠﻟ ﺮﺟﺎﺘﻟﺍ ﻯﺪﻟ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺩﺪﻋ.</TraderCount>
+  <AcceptButton>ﻝﻮﺒﻗ</AcceptButton>
+  <ResetButton>ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ </ResetButton>
+  <CancelButton>ﺀﺎﻐﻟﺇ</CancelButton>
+  <YourTradeableSilver>:ﺔﻀﻔﻟﺍ ﻝﻭﺍﺪﺗ : {0}</YourTradeableSilver>
+	<YourTradeableSilverTip> orbital ﻲﻓ ﻲﻫ ﻲﺘﻟﺍ ﺔﻀﻔﻟﺍ  ﻲﺑ ﺓﺮﺟﺎﺘﻤﻟﺍ ﻚﻨﻜﻤﻳ.</YourTradeableSilverTip>
+  <TraderHasNoMore>.ﺎﺌﻴﺷ ﻚﻠﻤﻳ ﻻ ﺮﺟﺎﺘﻟﺍ</TraderHasNoMore>
+  <ColonyHasNoMore> .ﻊﻴﺒﻠﻟ ﻲﺷ ﻚﻟﺎﻨﻫ ﺪﻌﻳ ﻢﻟ</ColonyHasNoMore>
+  <TraderWillNotTrade>.ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﻲﺑ ﺓﺭﺎﺠﺘﻟﺎﺑ ﺪﻌﺘﺴﻣ ﺮﻴﻏ ﺮﺟﺎﺘﻟﺍ</TraderWillNotTrade>
+  
   <!-- Comms -->
-  <SocialSkillIs>Social skill: {0}</SocialSkillIs>
+  <SocialSkillIs>ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ: {0}</SocialSkillIs>
 
-	
-	<!--Other-->
-	<ResearchFinished>Research finished: {0}</ResearchFinished>
-	<ResearchScreen>Research Screen</ResearchScreen>
+  <!-- Stats report -->
+  <StatsReport_BaseValue>ﺔﻴﺳﺎﺳﻷﺍ ﺔﻤﻴﻘﻟﺍ</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>ﺔﻠﺼﻟﺍ ﺕﺍﺫ ﺕﺎﻔﺼﻟﺍ</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>ﺔﻠﺼﻟﺍ ﺕﺍﺫ ﺀﺎﻴﺷﻷﺍ</StatsReport_RelevantGear>
+  <StatsReport_Material>ﺩﺍﻮﻤﻟﺍ</StatsReport_Material>
+  <StatsReport_CharacterQuality>ﺕﺎﻔﺼﻟﺍ</StatsReport_CharacterQuality>
+  <StatsReport_Skills>ﺓﺭﺎﻬﻤﻟﺍ ﻞﻣﺍﻮﻋ</StatsReport_Skills>
+  <StatsReport_OtherStats>ﻯﺮﺧﺃ ﻞﻣﺍﻮﻋ</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>ﺔﺤﺼﻟﺍ ﻞﻣﺍﻮﻋ</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} ﺔﻴﻤﻫﺃ </HealthFactorPercentImpact>
+  <StatsReport_PostProcessed> ﺔﺠﻟﺎﻌﻣ ﺪﻌﺑ ﺕﺎﻴﻨﺤﻨﻤﻟﺍ </StatsReport_PostProcessed>
+  <StatsReport_FinalValue>ﻲﻟﺎﻤﺟﺇ</StatsReport_FinalValue>
+  
+  
+  <!--Research-->
+  <ResearchFinished> ﺖﻠﻤﻛﺃ ﺙﻮﺤﺑ: {0}</ResearchFinished>
+  <ResearchScreen> ﺙﻮﺤﺒﻟﺍ ﺔﻤﺋﺎﻗ</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <HistoryUploadMessage>.ﺕﺍﺭﺎﻴﺨﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻓ ﻖﺣﻻ ﺖﻗﻭ ﻲﻓ ﺮﻴﻐﺘﺗ ﻥﺃ ﻦﻜﻤﻳ ﺔﻴﺻﻮﺼﺨﻟﺍ ﺕﻼﻴﻀﻔﺗ .(ﺔﺒﻌﻠﻟﺍ ﺔﻳﺎﻬﻧ ﻞﺜﻣ ﻯﺮﺧﻷﺍ ﺓﺭﺩﺎﻨﻟﺍ ﺕﻻﺎﺤﻟﺍ ﺾﻌﺑ ﻲﻓ ﻭ) ﻡﺎﻳﺃ {0} ﻞﻛ ﻲﻓ ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺕﺎﻧﺎﻴﺒﻟﺍ ﻞﻴﻤﺤﺗ ﻢﺘﻴﺳ ،ﺔﻴﻠﻋ ﻖﻓﺍﻮﺗ ﺖﻨﻛ ﺍﺫﺇ ؟ﺔﺒﻌﻠﻟﺍ ﻱﺭﻮﻄﻣ ﺓﺪﻋﺎﺴﻣ ﻞﺟﺃ ﻦﻣ RimWorld ﻡﺩﺎﺧ ﻰﻟﺇ ﻚﺑ ﺹﺎﺨﻟﺍ ﺐﻌﻠﻟﺍ ﺕﺎﻧﺎﻴﺒﻟﺍ ﺕﻼﺠﺳ ﻞﻴﻤﺤﺗ ﻲﻓ ﺐﻏﺮﺗ ﻞﻫ</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>.ﻚﻤﺳﺍ ﻕﺎﻓﺭﺇ ﻚﻨﻜﻤﻳ ،ﻝﻮﻬﺠﻤﻛ ﺎﻬﻟﺎﺳﺭﺇ ﻢﺘﻳ ﺦﻳﺭﺎﺘﻟﺍ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>ﺔﺒﻌﻠﻟﺍ ﺕﺎﻧﺎﻴﺑ ﻞﻴﻤﺤﺘﺑ ﺡﺎﻤﺴﻟﺍ</HistoryUploadYes>
+  <HistoryUploadNo>ﺔﺒﻌﻠﻟﺍ ﺕﺎﻧﺎﻴﺑ ﻞﻴﻤﺤﺘﺑ ﺢﻤﺴﺗ ﻻ</HistoryUploadNo>
+  <HistoryUploadYesOnce>ﻂﻘﻓ ﺓﺮﻤﻟﺍ ﻩﺬﻫ ﻞﻤﺣ</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>ﻖﺣﻻ ﺖﻗﻭ ﻲﻓ ﻲﻨﻟﺎﺳﺍ ،ﺖﻗﻮﻟﺍ ﺍﺬﻫ ﻞﻤﺤﺗ ﻻ</HistoryUploadNoOnce>
 	
 </LanguageData>

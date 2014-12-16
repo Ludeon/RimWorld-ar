@@ -1,37 +1,38 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Level>Level</Level>
-  <ProgressToNextLevel>Progress to next level</ProgressToNextLevel>
-  <Passion>Passion</Passion>
-  <PassionNone>None (learns {0}x)</PassionNone>
-  <PassionMinor>Interested (learns {0}x)</PassionMinor>
-  <PassionMajor>Burning (learns {0}x)</PassionMajor>
-  <EffectsAtLevel>Effects at level {0}</EffectsAtLevel>
-  
-  
+  <Level>ﻯﻮﺘﺴﻣ</Level>
+  <ProgressToNextLevel>ﻲﻟﺎﺘﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﻡﺪﻘﺘﻟﺍ</ProgressToNextLevel>
+  <Passion>ﻒﻐﺷ</Passion>
+  <PassionNone> ﻢﻠﻌﺘﻳ) ﺪﺟﻮﻳ ﻻ{0}x)</PassionNone>
+  <PassionMinor>ﻢﻠﻌﺘﻳ) ﻢﺘﻬﻣ {0}x)</PassionMinor>
+  <PassionMajor>ﻢﻠﻌﺘﻳ) ﻕﺮﺣ {0}x)</PassionMajor>
+  <EffectsAtLevel>ﻯﻮﺘﺴﻣ ﻰﻠﻋ ﺕﺍﺮﻴﺛﺄﺗ {0}</EffectsAtLevel>
+  <SkillMax>MAX</SkillMax>
 
-  <Skill0>Incapable</Skill0>
-  <Skill1>Incompetent</Skill1>
-  <Skill2>Basic awareness</Skill2>
-  <Skill3>Basic familiarity</Skill3>
-  <Skill4>Amateur</Skill4>
-  <Skill5>Strong amateur</Skill5>
-  <Skill6>Practitioner</Skill6>
-  <Skill7>Skilled practitioner</Skill7>
-  <Skill8>Professional</Skill8>
-  <Skill9>Skilled professional</Skill9>
-  <Skill10>Expert</Skill10>
-  <Skill11>Strong expert</Skill11>
-  <Skill12>Very strong expert</Skill12>
-  <Skill13>Master</Skill13>
-  <Skill14>Strong master</Skill14>
-  <Skill15>Planet-class master</Skill15>
-  <Skill16>System-class master</Skill16>
-  <Skill17>Revered master</Skill17>
-  <Skill18>Visionary</Skill18>
-  <Skill19>Legendary</Skill19>
-  <Skill20>Godlike</Skill20>
+
+
+  <Skill0>ﺭﺩﺎﻗ ﺮﻴﻏ</Skill0>
+  <Skill1>ﻞﻫﺆﻣ ﺮﻴﻏ</Skill1>
+  <Skill2>ﻲﺳﺎﺳﺍ ﻲﻋﻭ</Skill2>
+  <Skill3>ﺔﻄﻴﺴﺑ ﺔﻓﺮﻌﻣ</Skill3>
+  <Skill4>ﻱﻭﺎﻬ</Skill4>
+  <Skill5>ﻱﻮﻗ ﻱﻭﺎﻫ</Skill5>
+  <Skill6>ﺱﺭﺎﻤﻣ</Skill6>
+  <Skill7>ﺓﺮﻫﺎﻣ ﺱﺭﺎﻤﻣ</Skill7>
+  <Skill8>ﻑﺮﺘﺤﻣ</Skill8>
+  <Skill9>ﺓﺮﻫﺎﻣ ﻑﺮﺘﺤﻣ</Skill9>
+  <Skill10>ﺮﻴﺒﺧ</Skill10>
+  <Skill11>ﻱﻮﻗ ﺮﻴﺒﺧ</Skill11>
+  <Skill12>ﺍﺪﺟ ﻱﻮﻗ ﺮﻴﺒﺧ</Skill12>
+  <Skill13>ﺪﻴﺳ</Skill13>
+  <Skill14>ﻱﻮﻗ ﺪﻴﺳ</Skill14>
+  <Skill15>ﺮﻴﺘﺴﺟﺎﻤﻟﺍ ﺔﺟﺭﺪﻟﺍ</Skill15>
+  <Skill16>ﻲﺴﻴﺋﺮﻟﺍﺮﻴﺘﺴﺟﺎﻤﻟﺍ ﺔﻘﺒﻃ</Skill16>
+  <Skill17>ﺮﻴﺘﺴﺟﺎﻤﻟﺍ ﺔﻘﺒﻄﻟﺍ ﻦﻣ ﻑﺮﺘﺤﻣ</Skill17>
+  <Skill18>ﻲﻟﺎﻴﺧ</Skill18>
+  <Skill19>ﻱﺭﻮﻄﺳﺃ</Skill19>
+  <Skill20>ﻝﺎﻤﻜﻟﺍ ﺔﺟﺭﺩ</Skill20>
 
 
   

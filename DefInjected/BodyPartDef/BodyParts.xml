@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<LanguageData>
+
+<!-- base -->
+
+ <Head.label>ﺱﺍﺭ</Head.label>
+
+ <Skull.label> ﺔﻤﺠﻤﺠﻟﺍ </Skull.label>
+
+<Brain.label> ﻍﺎﻣﺪﻟﺍ </Brain.label>
+
+
+<LeftEye.label> ﻯﺮﺴﻴﻟﺍ ﻦﻴﻌﻟﺍ </LeftEye.label>
+
+
+<RightEye.label> ﻰﻨﻤﻴﻟﺍ ﻦﻴﻌﻟﺍ </RightEye.label>
+
+
+<LeftEar.label> ﺭﺎﺴﻴﻟﺍ ﻥﺫﻷﺍ </LeftEar.label>
+
+
+<RightEar.label> ﻰﻨﻤﻴﻟﺍ ﻥﺫﻷﺍ </RightEar.label>
+
+
+<Nose.label> ﻒﻧﻷﺍ </Nose.label>
+
+
+<Jaw.label> ﻚﻔﻟﺍ </Jaw.label>
+
+
+<Neck.label> ﺔﺒﻗﺮﻟﺍ </Neck.label>
+
+
+<Torso.label> ﻉﺬﺠﻟﺍ </Torso.label>
+
+
+<LeftClavicle.label> ﺮﺴﻳﻷﺍ ﺓﻮﻗﺮﺘﻟﺍ </LeftClavicle.label>
+
+
+<RightClavicle.label> ﻰﻨﻤﻴﻟﺍ ﺓﻮﻗﺮﺘﻟﺍ </RightClavicle.label>
+
+
+<Sternum.label>ﺺﻘﻟﺍ ﻢﻈﻋ </Sternum.label>
+
+
+<Rib.label> ﻊﻠﻀﻟﺍ </Rib.label>
+
+
+<LeftHumerus.label> ﺮﺴﻳﻷﺍ ﺪﻀﻌﻟﺍ </LeftHumerus.label>
+
+
+<RightHumerus.label> ﻦﻤﻳﻷﺍ ﺪﻀﻌﻟﺍ </RightHumerus.label>
+
+
+<LeftRadius.label> ﺮﺴﻳﻻﺍ ﺪﻋﺎﺴﻟﺍ </LeftRadius.label>
+
+
+<RightRadius.label> ﻦﻤﻳﻷﺍ ﺪﻋﺎﺴﻟﺍ </RightRadius.label>
+
+
+<Pelvis.label> ﻙﺭﻮﻟﺍ </Pelvis.label>
+
+
+<LeftFemur.label> ﺮﺴﻳﻷﺍ ﺬﺨﻔﻟﺍ ﻢﻈﻋ </LeftFemur.label>
+
+
+<RightFemur.label> ﻦﻤﻳﻷﺍ ﺬﺨﻔﻟﺍ ﻢﻈﻋ </RightFemur.label>
+
+
+<LeftTibia.label> ﺮﺴﻳﻷﺍ ﻕﺎﺴﻟﺍ </LeftTibia.label>
+
+
+<RightTibia.label> ﻦﻤﻳﻷﺍ ﻕﺎﺴﻟﺍ </RightTibia.label>
+
+
+<Heart.label> ﺐﻠﻘﻟﺍ </Heart.label>
+
+
+<LeftLung.label> ﻯﺮﺴﻴﻟﺍ ﺔﺋﺮﻟﺍ </LeftLung.label>
+
+
+<RightLung.label> ﻰﻨﻤﻴﻟﺍ ﺔﺋﺮﻟﺍ </RightLung.label>
+
+
+<LeftKidney.label> ﻯﺮﺴﻴﻟﺍ ﺔﻴﻠﻜﻟﺍ </LeftKidney.label>
+
+
+<RightKidney.label> ﻰﻨﻤﻴﻟﺍ ﺔﻴﻠﻜﻟﺍ </RightKidney.label>
+
+
+<Liver.label> ﺪﺒﻜﻟﺍ </Liver.label>
+
+
+<Stomach.label> ﺓﺪﻌﻤﻟﺍ </Stomach.label>
+
+
+<Spine.label> ﻱﺮﻘﻔﻟﺍ ﺩﻮﻤﻌﻟﺍ </Spine.label>
+
+
+<LeftShoulder.label> ﺮﺴﻳﻷﺍ ﻒﺘﻜﻟﺍ </LeftShoulder.label>
+
+
+<LeftArm.label> ﺮﺴﻳﻷﺍ ﻉﺍﺭﺬﻟﺍ </LeftArm.label>
+
+
+<LeftHand.label> ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ </LeftHand.label>
+
+
+<LeftHandPinky.label> ﺮﻴﻐﺼﻟﺍ ﻊﺒﺻﻻﺍ ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ </LeftHandPinky.label>
+
+
+<LeftHandRingFinger.label> ﺮﺼﻨﺒﻟﺍ ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ </LeftHandRingFinger.label>
+
+
+<LeftHandMiddleFinger.label> ﻰﻄﺳﻮﻟﺍ ﻊﺒﺻﻻﺍ ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ </LeftHandMiddleFinger.label>
+
+
+<LeftHandIndexFinger.label> ﻯﺮﺴﻴﻟﺍ ﺔﺑﺎﺒﺴﻟﺍ</LeftHandIndexFinger.label>
+
+
+<LeftHandThumb.label> ﻡﺎﻬﺑﻹﺍ ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ </LeftHandThumb.label>
+
+
+<RightShoulder.label> ﻦﻤﻳﻷﺍ ﻒﺘﻜﻟﺍ </RightShoulder.label>
+
+
+<RightArm.label> ﻰﻨﻤﻴﻟﺍ ﻉﺍﺭﺬﻟﺍ </RightArm.label>
+
+
+<RightHand.label> ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ </RightHand.label>
+
+
+<RightHandPinky.label> ﺮﻴﻐﺼﻟﺍ ﻊﺒﺻﻻﺍ ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ </RightHandPinky.label>
+
+
+<RightHandRingFinger.label> ﺮﺼﻨﺒﻟﺍ ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ </RightHandRingFinger.label>
+
+
+<RightHandMiddleFinger.label> ﻰﻄﺳﻮﻟﺍ ﻊﺒﺻﻻﺍ ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ </RightHandMiddleFinger.label>
+
+
+<RightHandIndexFinger.label> ﻰﻨﻤﻴﻟﺍ ﺔﺑﺎﺒﺴﻟﺍ </RightHandIndexFinger.label>
+
+
+<RightHandThumb.label> ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ ﻡﺎﻬﺑﺍ </RightHandThumb.label>
+
+
+<LeftLeg.label> ﺮﺴﻳﻷﺍ ﻕﺎﺴﻟﺍ </LeftLeg.label>
+
+
+<LeftFoot.label> ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ </LeftFoot.label>
+
+
+<LeftFootLittleToe.label> ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺇ </LeftFootLittleToe.label>
+
+
+<LeftFootFourthToe.label> ﻊﺑﺍﺮﻟﺍ ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺇ </LeftFootFourthToe.label>
+
+
+<LeftFootMiddleToe.label> ﻂﺳﻭﻷﺍ ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺇ </LeftFootMiddleToe.label>
+
+
+<LeftFootSecondToe.label> ﻲﻧﺎﺜﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺇ ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ </LeftFootSecondToe.label>
+
+
+<LeftFootBigToe.label> ﺮﻴﺒﻜﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺇ ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ </LeftFootBigToe.label>
+
+
+<RightLeg.label> ﻰﻨﻤﻴﻟﺍ ﻕﺎﺴﻟﺍ </RightLeg.label>
+
+
+<RightFoot.label> ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ </RightFoot.label>
+
+
+<RightFootLittleToe.label> ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺇ </RightFootLittleToe.label>
+
+
+<RightFootFourthToe.label> ﻊﺑﺍﺮﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺍ ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ </RightFootFourthToe.label>
+
+
+<RightFootMiddleToe.label> ﻂﺳﻭﻷﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺍ ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ </RightFootMiddleToe.label>
+
+
+<RightFootSecondToe.label> ﻲﻧﺎﺜﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺇ ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ </RightFootSecondToe.label>
+
+
+<RightFootBigToe.label> ﺮﻴﺒﻜﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺍ ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ </RightFootBigToe.label>
+
+<!-- animal -->
+
+
+<InsectHead.label> ﺱﺍﺭ </InsectHead.label>
+
+
+<SnakeBody.label> ﻢﺴﺠﻟﺍ </SnakeBody.label>
+
+
+<SnakeHead.label> ﺱﺍﺭ </SnakeHead.label>
+
+
+<SnakeMouth.label> ﻢﻔﻟﺍ </SnakeMouth.label>
+
+
+<InsectHeart.label> ﺐﻠﻗ </InsectHeart.label>
+
+
+<InsectNostril.label> ﻒﻧﻷﺍ </InsectNostril.label>
+
+
+<InsectMouth.label> ﻢﻔﻟﺍ </InsectMouth.label>
+
+
+<Body.label> ﻢﺴﺠﻟﺍ </Body.label>
+
+
+<Jowl.label> ﻲﻠﻔﺴﻟﺍ ﻚﻔﻟﺍ </Jowl.label>
+
+
+<Tail.label> ﻞﻳﺫ </Tail.label>
+
+
+<LeftAntenna.label> ﺭﺎﺴﻴﻟﺍ ﻲﺋﺍﻮﻫ </LeftAntenna.label>
+
+
+<RightAntenna.label> ﻦﻤﻳﻷﺍ ﻲﺋﺍﻮﻫ </RightAntenna.label>
+
+
+<Pronotum.label> pronotum </Pronotum.label>
+
+
+<Shell.label> Shell </Shell.label>
+
+
+<LeftElytra.label>ﺭﺎﺴﻴﻟﺍ elytra </LeftElytra.label>
+
+
+<RightElytra.label>ﻦﻴﻤﻴﻟﺍ elytra </RightElytra.label>
+
+
+<LeftTusk.label> ﺭﺎﺴﻴﻟﺍ ﺏﺎﻧ </LeftTusk.label>
+
+
+<RightTusk.label> ﻦﻤﻳﻷﺍ ﺏﺎﻧ </RightTusk.label>
+
+
+<Horn.label> ﻥﺮﻘﻟﺍ </Horn.label>
+
+
+<Hump.label> ﻡﺎﻨﺳ </Hump.label>
+
+
+<TurtleShell.label> TurtleShell </TurtleShell.label>
+
+
+<Plastron.label> ﺔﻴﻣﺎﺣ </Plastron.label>
+
+
+<TurtleBeak.label> ﺭﺎﻘﻨﻣ </TurtleBeak.label>
+
+<!-- animals legs -->
+ 
+
+
+<FrontLeftLeg.label> ﺭﺎﺴﻴﻟﺍ ﻪﻴﻣﺎﻣﻻﺍ ﻞﺟﺮﻟﺍ </FrontLeftLeg.label>
+
+
+<FrontRightLeg.label> ﻦﻤﻳﻷﺍ ﻪﻴﻣﺎﻣﻻﺍ ﻞﺟﺮﻟﺍ </FrontRightLeg.label>
+
+
+<MiddleLeftLeg.label> ﻂﺳﻭﻷﺍ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ </MiddleLeftLeg.label>
+
+
+<MiddleRightLeg.label> ﻂﺳﻭﻷﺍ ﻰﻨﻤﻴﻟﺍ ﻕﺎﺴﻟﺍ </MiddleRightLeg.label>
+
+
+<RearLeftLeg.label> ﺔﻴﻔﻠﺨﻟﺍ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ </RearLeftLeg.label>
+
+
+<RearRightLeg.label> ﺔﻴﻔﻠﺨﻟﺍ ﻰﻨﻤﻴﻟﺍ ﻕﺎﺴﻟﺍ </RearRightLeg.label>
+
+
+<FrontLeftInsectLeg.label> ﺭﺎﺴﻴﻟﺍ ﻪﻴﻣﺎﻣﻻﺍ ﻞﺟﺮﻟﺍ </FrontLeftInsectLeg.label>
+
+
+<FrontRightInsectLeg.label> ﻰﻨﻤﻴﻟﺍ ﻪﻴﻣﺎﻣﻻﺍ ﻞﺟﺮﻟﺍ </FrontRightInsectLeg.label>
+
+
+<MiddleLeftInsectLeg.label> ﻂﺳﻭﻷﺍ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ </MiddleLeftInsectLeg.label>
+
+
+<MiddleRightInsectLeg.label> ﻂﺳﻭﻷﺍ ﻰﻨﻤﻴﻟﺍ ﻕﺎﺴﻟﺍ </MiddleRightInsectLeg.label>
+
+
+<RearLeftInsectLeg.label> ﺔﻴﻔﻠﺨﻟﺍ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ </RearLeftInsectLeg.label>
+
+
+<RearRightInsectLeg.label> ﺔﻴﻔﻠﺨﻟﺍ ﻰﻨﻤﻴﻟﺍ ﻕﺎﺴﻟﺍ </RearRightInsectLeg.label>
+
+
+<FrontLeftPaw.label> ﺭﺎﺴﻴﻟﺍ ﺐﻠﺨﻣ ﻪﻴﻣﺎﻣﻻﺍ ﻞﺟﺮﻟﺍ </FrontLeftPaw.label>
+
+
+<FrontRightPaw.label> ﻦﻤﻳﻷﺍ ﺐﻠﺨﻣ ﻪﻴﻣﺎﻣﻻﺍ ﻞﺟﺮﻟﺍ </FrontRightPaw.label>
+
+
+<RearLeftPaw.label> ﻲﻔﻠﺨﻟﺍ ﺐﻠﺨﻣ ﺭﺎﺴﻴﻟﺍ </RearLeftPaw.label>
+
+
+<RearRightPaw.label> ﻦﻤﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ ﺐﻠﺨﻣ </RearRightPaw.label>
+
+
+<FrontLeftHoof.label> ﺮﺴﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﺮﻓﺎﺣ </FrontLeftHoof.label>
+
+
+<FrontRightHoof.label> ﻦﻤﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﺮﻓﺎﺣ </FrontRightHoof.label>
+
+
+<RearLeftHoof.label> ﻲﻔﻠﺨﻟﺍ ﺮﻓﺎﺣ ﺭﺎﺴﻴﻟﺍ </RearLeftHoof.label>
+
+
+<RearRightHoof.label> ﻦﻤﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ ﺮﻓﺎﺣ </RearRightHoof.label>
+
+
+<FrontLeftLegFirstClaw.label> ﻝﻭﻷﺍ ﺐﻠﺨﻣ ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ </FrontLeftLegFirstClaw.label>
+
+
+<FrontLeftLegSecondClaw.label> ﺮﺧﺁ ﺐﻠﺨﻣ ﻢﻘﻳ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ </FrontLeftLegSecondClaw.label>
+
+
+<FrontLeftLegThirdClaw.label> ﺮﺴﻳﻷﺍ ﺚﻟﺎﺜﻟﺍ ﺐﻠﺨﻣ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ </FrontLeftLegThirdClaw.label>
+
+
+<FrontLeftLegFourthClaw.label> ﻊﺑﺍﺮﻟﺍ ﺐﻠﺨﻣ ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ </FrontLeftLegFourthClaw.label>
+
+
+<FrontLeftLegFifthClaw.label> ﺲﻣﺎﺨﻟﺍ ﺐﻠﺨﻣ ﻢﻘﻳ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ </FrontLeftLegFifthClaw.label>
+
+
+<FrontRightLegFirstClaw.label> ﺐﻠﺨﻣ ﻝﻭﻷﺍ ﺢﻴﺤﺼﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ </FrontRightLegFirstClaw.label>
+
+
+<FrontRightLegSecondClaw.label> ﺢﻴﺤﺼﻟﺍ ﻲﻧﺎﺜﻟﺍ ﺐﻠﺨﻣ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ </FrontRightLegSecondClaw.label>
+
+
+<FrontRightLegThirdClaw.label> ﺢﻴﺤﺼﻟﺍ ﺚﻟﺎﺜﻟﺍ ﺐﻠﺨﻣ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ </FrontRightLegThirdClaw.label>
+
+
+<FrontRightLegFourthClaw.label> ﻊﺑﺍﺮﻟﺍ ﺐﻠﺨﻣ ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ </FrontRightLegFourthClaw.label>
+
+
+<FrontRightLegFifthClaw.label> ﺲﻣﺎﺨﻟﺍ ﺐﻠﺨﻣ ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ </FrontRightLegFifthClaw.label>
+
+
+<RearLeftLegFirstClaw.label> ﺐﻠﺨﻣ ﻝﻭﻷﺍ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ ﻲﻔﻠﺨﻟﺍ </RearLeftLegFirstClaw.label>
+
+
+<RearLeftLegSecondClaw.label> ﻲﻧﺎﺜﻟﺍ ﺐﻠﺨﻣ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ ﻲﻔﻠﺨﻟﺍ </RearLeftLegSecondClaw.label>
+
+
+<RearLeftLegThirdClaw.label> ﺚﻟﺎﺜﻟﺍ ﺐﻠﺨﻣ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ ﻲﻔﻠﺨﻟﺍ </RearLeftLegThirdClaw.label>
+
+
+<RearLeftLegFourthClaw.label> ﻊﺑﺍﺮﻟﺍ ﺐﻠﺨﻣ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ ﻲﻔﻠﺨﻟﺍ </RearLeftLegFourthClaw.label>
+
+
+<RearLeftLegFifthClaw.label> ﺲﻣﺎﺨﻟﺍ ﺐﻠﺨﻣ ﺔﻴﻔﻠﺨﻟﺍ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ </RearLeftLegFifthClaw.label>
+
+
+<RearRightLegFirstClaw.label> ﺐﻠﺨﻣ ﻝﻭﺃ ﻰﻨﻤﻴﻟﺍ ﻕﺎﺴﻟﺍ ﻲﻔﻠﺨﻟﺍ </RearRightLegFirstClaw.label>
+
+
+<RearRightLegSecondClaw.label> ﻲﻧﺎﺜﻟﺍ ﺐﻠﺨﻣ ﻰﻨﻤﻴﻟﺍ ﻕﺎﺴﻟﺍ ﻲﻔﻠﺨﻟﺍ </RearRightLegSecondClaw.label>
+
+
+<RearRightLegThirdClaw.label> ﺚﻟﺎﺜﻟﺍ ﺐﻠﺨﻣ ﻰﻨﻤﻴﻟﺍ ﻕﺎﺴﻟﺍ ﻲﻔﻠﺨﻟﺍ </RearRightLegThirdClaw.label>
+
+
+<RearRightLegFourthClaw.label> ﻊﺑﺍﺮﻟﺍ ﺐﻠﺨﻣ ﻰﻨﻤﻴﻟﺍ ﻕﺎﺴﻟﺍ ﻲﻔﻠﺨﻟﺍ </RearRightLegFourthClaw.label>
+
+
+<RearRightLegFifthClaw.label> ﺲﻣﺎﺨﻟﺍ ﺐﻠﺨﻣ ﻰﻨﻤﻴﻟﺍ ﻕﺎﺴﻟﺍ ﻲﻔﻠﺨﻟﺍ </RearRightLegFifthClaw.label>
+
+<!-- mechanical -->
+  
+
+
+<MechanicalThorax.label> ﺭﺪﺼﻟﺍ </MechanicalThorax.label>
+
+
+<LeftKnifeProtrusion.label> ﺀﻮﺘﻧ ﺭﺎﺴﻴﻟﺍ ﺓﺮﻔﺷ </LeftKnifeProtrusion.label>
+
+
+<RightKnifeProtrusion.label> ﺀﻮﺘﻧ ﻖﺣ ﺓﺮﻔﺷ </RightKnifeProtrusion.label>
+
+
+<MechanicalNeck.label> ﺔﺒﻗﺮﻟﺍ </MechanicalNeck.label>
+
+
+<MechanicalHead.label> ﺱﺍﺭ </MechanicalHead.label>
+
+
+<LeftSightSensor.label> ﺭﺎﺴﻴﻟﺍ ﺮﺼﺒﻟﺍ ﺔﺳﺎﺣ </LeftSightSensor.label>
+
+
+<RightSightSensor.label> ﺔﻳﺅﺭ ﺱﺎﺴﺣﺇ ﻦﻤﻳﻷﺍ </RightSightSensor.label>
+
+
+<LeftHearingSensor.label> ﺭﺎﺴﻴﻟﺍ ﻊﻤﺴﻟﺍ </LeftHearingSensor.label>
+
+
+<RightHearingSensor.label> ﻰﻨﻤﻴﻟﺍ ﻊﻤﺴﻟﺍ </RightHearingSensor.label>
+
+
+<SmellSensor.label> ﻢﺸﻟﺍ ﺔﺳﺎﺣ </SmellSensor.label>
+
+
+<LeftMechanicalShoulder.label> ﺭﺎﺴﻴﻟﺍ ﻒﺘﻜﻟﺍ</LeftMechanicalShoulder.label>
+
+
+<LeftMechanicalArm.label> ﺮﺴﻳﻷﺍ ﻉﺍﺭﺬﻟﺍ </LeftMechanicalArm.label>
+
+
+<LeftMechanicalHand.label> ﺭﺎﺴﻴﻟﺍ </LeftMechanicalHand.label>
+
+
+<LeftHandMechanicalPinky.label> ﺮﻴﻐﺼﻟﺍ ﻊﺒﺻﻻﺍ ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ </LeftHandMechanicalPinky.label>
+
+
+<LeftHandMechanicalRingFinger.label> ﺮﺼﻨﺒﻟﺍ ﻊﺒﺻﻻﺍ ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ </LeftHandMechanicalRingFinger.label>
+
+
+<LeftHandMechanicalMiddleFinger.label> ﻰﻄﺳﻮﻟﺍ ﻊﺒﺻﻻﺍ ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ </LeftHandMechanicalMiddleFinger.label>
+
+
+<LeftHandMechanicalIndexFinger.label> ﻊﺒﺻﺇ ﺭﺎﺴﻴﻟﺍ ﺮﺷﺆﻣ </LeftHandMechanicalIndexFinger.label>
+
+
+<LeftHandMechanicalThumb.label> ﻡﺎﻬﺑﻹﺍ ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ </LeftHandMechanicalThumb.label>
+
+
+<RightMechanicalShoulder.label> ﻦﻤﻳﻷﺍ ﻒﺘﻜﻟﺍ </RightMechanicalShoulder.label>
+
+
+<RightMechanicalArm.label> ﻰﻨﻤﻴﻟﺍ ﻉﺍﺭﺬﻟﺍ </RightMechanicalArm.label>
+
+
+<RightMechanicalHand.label> ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ </RightMechanicalHand.label>
+
+
+<RightHandMechanicalPinky.label> ﺮﻴﻐﺼﻟﺍ ﻊﺒﺻﻻﺍ ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ </RightHandMechanicalPinky.label>
+
+
+<RightHandMechanicalRingFinger.label> ﻊﺒﺻﺇ ﻊﺒﺻﺇ ﺔﺑﺎﺼﻋ ﺪﻳ ﺔﺤﻴﺤﺼﻟﺍ </RightHandMechanicalRingFinger.label>
+
+
+<RightHandMechanicalMiddleFinger.label> ﻰﻄﺳﻮﻟﺍ ﻊﺒﺻﻻﺍ ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ </RightHandMechanicalMiddleFinger.label>
+
+
+<RightHandMechanicalIndexFinger.label> ﻰﻨﻤﻴﻟﺍ ﺔﺑﺎﺒﺴﻟﺍ </RightHandMechanicalIndexFinger.label>
+
+
+<RightHandMechanicalThumb.label> ﻡﺎﻬﺑﻹﺍ ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ </RightHandMechanicalThumb.label>
+
+
+<LeftMechanicalLeg.label> ﺮﺴﻳﻷﺍ ﻕﺎﺴﻟﺍ </LeftMechanicalLeg.label>
+
+
+<LeftMechanicalFoot.label> ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ </LeftMechanicalFoot.label>
+
+
+<LeftFootMechanicalLittleToe.label> ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺇ </LeftFootMechanicalLittleToe.label>
+
+
+<LeftFootMechanicalFourthToe.label> ﻊﺑﺍﺮﻟﺍ ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺇ </LeftFootMechanicalFourthToe.label>
+
+
+<LeftFootMechanicalMiddleToe.label> ﻂﺳﻭﻷﺍ ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺇ </LeftFootMechanicalMiddleToe.label>
+
+
+ <LeftFootMechanicalSecondToe.label> ﻲﻧﺎﺜﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺇ ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ </LeftFootMechanicalSecondToe.label>
+
+
+ <LeftFootMechanicalBigToe.label> ﺮﻴﺒﻜﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺇ ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ </LeftFootMechanicalBigToe.label>
+
+
+ <RightMechanicalLeg.label> ﻰﻨﻤﻴﻟﺍ ﻕﺎﺴﻟﺍ </RightMechanicalLeg.label>
+
+
+ <RightMechanicalFoot.label> ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ </RightMechanicalFoot.label>
+
+
+ <RightFootMechanicalLittleToe.label> ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺇ </RightFootMechanicalLittleToe.label>
+
+
+ <RightFootMechanicalFourthToe.label> ﻊﺑﺍﺮﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺍ ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ </RightFootMechanicalFourthToe.label>
+
+
+ <RightFootMechanicalMiddleToe.label> ﻂﺳﻭﻷﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺍ ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ </RightFootMechanicalMiddleToe.label>
+
+
+ <RightFootMechanicalSecondToe.label> ﻲﻧﺎﺜﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺇ ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ </RightFootMechanicalSecondToe.label>
+
+
+ <RightFootMechanicalBigToe.label> ﺮﻴﺒﻜﻟﺍ ﻡﺪﻘﻟﺍ ﻊﺒﺻﺍ ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ </RightFootMechanicalBigToe.label>
+
+
+ <MechanicalCentipedeBodyFirstRing.label> ﻝﻭﻷﺍ ﻢﺴﺠﻟﺍ ﺔﻘﻠﺣ </MechanicalCentipedeBodyFirstRing.label>
+
+
+ <MechanicalCentipedeBodySecondRing.label> ﻢﺴﺠﻟﺍ ﺔﻘﻠﺣ ﻦﻣ ﺎﻫﺮﻴﻏ </MechanicalCentipedeBodySecondRing.label>
+
+
+ <MechanicalCentipedeBodyThirdRing.label> ﺔﺜﻟﺎﺜﻟﺍ ﺔﺜﺠﻟﺍ ﺔﻘﻠﺣ </MechanicalCentipedeBodyThirdRing.label>
+
+
+ <MechanicalCentipedeBodyFourthRing.label> ﻊﺑﺍﺮﻟﺍ ﻢﺴﺠﻟﺍ ﺔﻘﻠﺣ </MechanicalCentipedeBodyFourthRing.label>
+
+
+ <MechanicalCentipedeBodyFifthRing.label> ﺲﻣﺎﺨﻟﺍ ﻢﺴﺠﻟﺍ ﺔﻘﻠﺣ </MechanicalCentipedeBodyFifthRing.label>
+
+
+ <MechanicalCentipedeBodySixthRing.label> ﺔﺳﺩﺎﺴﻟﺍ ﻢﺴﺠﻟﺍ ﺔﻘﻠﺣ </MechanicalCentipedeBodySixthRing.label>
+
+ <ArtificialBrain.label> ﻲﻋﺎﻨﻄﺻﻻﺍ ﻍﺎﻣﺪﻟﺍ </ArtificialBrain.label>
+
+</LanguageData>

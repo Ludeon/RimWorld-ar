@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="utf-8" ?>
+
 <LanguageData>
 
-  <WorkTagNone>لا شئ</WorkTagNone>
-  <WorkTagIntellectual>مثقف</WorkTagIntellectual>
-  <WorkTagManualDumb>عامل سيئ</WorkTagManualDumb>
-  <WorkTagManualSkilled>عامل محترف</WorkTagManualSkilled>
-  <WorkTagViolent>عنف</WorkTagViolent>
-  <WorkTagCaring>إهتمام</WorkTagCaring>
-  <WorkTagSocial>إجتماعي</WorkTagSocial>
-  <WorkTagScary>مخيف</WorkTagScary>
-  <WorkTagArtistic>فنان</WorkTagArtistic>
-  <WorkTagCrafting>صياغة</WorkTagCrafting>
-  <WorkTagCooking>طبخ</WorkTagCooking>
-  <WorkTagFirefighting>مكافح الحرائق</WorkTagFirefighting>
-  <WorkTagCleaning>تنظيف</WorkTagCleaning>
-  <WorkTagHauling>نقل بالعربة</WorkTagHauling>
-  <WorkTagPlantWork>الكهرباء</WorkTagPlantWork>
-  <WorkTagMining>تعدين</WorkTagMining>
-  
+
+
+  <WorkTagNone>ﻰﺷ ﻻى</WorkTagNone>
+
+  <WorkTagIntellectual>ﺔﻳﺮﻜﻔﻟﺍ </WorkTagIntellectual>
+
+  <WorkTagManualDumb>ﻂﻴﺴﺑ ﻞﻤﻌﻟﺍ </WorkTagManualDumb>
+
+  <WorkTagManualSkilled>ﻲﻨﻬﻤﻟﺍ ﻞﻤﻌﻟﺍ </WorkTagManualSkilled>
+
+  <WorkTagViolent>ﻒﻴﻨﻋ </WorkTagViolent>
+
+  <WorkTagCaring>ﺀﺎﻨﺘﻋﻻﺍ </WorkTagCaring>
+
+  <WorkTagSocial>ﺔﻴﻋﺎﻤﺘﺟﻹﺍ </WorkTagSocial>
+
+  <WorkTagScary>ﻑﺍﻮﺧ </WorkTagScary>
+
+  <WorkTagArtistic>ﻦﻔﻟﺍ ﻝﺎﻤﻋﺍ </WorkTagArtistic>
+
+  <WorkTagCrafting>ﺖﻓﺮﻛ/ﺔﻋﺎﻨﺻ </WorkTagCrafting>
+
+  <WorkTagCooking>ﺦﺒﻄﻟﺍ ﻝﺎﻤﻋﺍ </WorkTagCooking>
+
+  <WorkTagFirefighting>ﻖﺋﺍﺮﺤﻟﺍ ﺔﺤﻓﺎﻜﻣ </WorkTagFirefighting>
+
+  <WorkTagCleaning>ﻒﻴﻈﻨﺘﻟﺍ ﻝﺎﻤﻋﺍ </WorkTagCleaning>
+
+  <WorkTagHauling>ﻞﻤﺤﻟﺍ ﻝﺎﻤﻋﺍ </WorkTagHauling>
+
+  <WorkTagPlantWork>ﺔﻋﺍﺭﺰﻟﺍ ﻝﺎﻤﻋﺍ </WorkTagPlantWork>
+
+  <WorkTagMining>ﻢﺟﺎﻨﻤﻟﺍ ﻝﺎﻤﻋﺍ </WorkTagMining>
+
+
+
 </LanguageData>

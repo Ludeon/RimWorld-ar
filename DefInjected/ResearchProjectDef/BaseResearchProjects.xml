@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+
+ <FertilizerPump.label> ﺩﺎﻤﺴﻟﺍ ﺔﺨﻀﻣ</FertilizerPump.label>
+
+ <FertilizerPump.description> .ﺔﺒﺼﺧ ﺔﺑﺮﺗ ﻞﻛ ﻞﻌﺠﺗ ﻥﺃ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺓﺪﻤﺳﻷﺍ ﺕﺎﺨﻀﻣ ﺀﺎﻨﺑ ﺢﻴﺘﻳ</FertilizerPump.description><GeothermalPower.label> ﺔﻴﺿﺭﻷﺍ ﺔﻳﺭﺍﺮﺤﻟﺍ ﺔﻗﺎﻄﻟﺍ </GeothermalPower.label>
+	
+<GeothermalPower.description>.ﺔﺘﺑﺎﺛ ﺔﻗﺎﻄﻛ ﺔﻴﺿﺭﻷﺍ ﺔﻳﺭﺍﺮﺤﻟﺍ ﺔﻗﺎﻄﻟﺍ ﺪﻴﻟﻮﺗ ﺕﺎﻄﺤﻣ ﺭﺎﺨﺒﻟﺍ ﺕﺎﻧﺎﺨﺴﻟﺍ ﺀﺎﻨﺑ ﺢﻴﺘﻳ </GeothermalPower.description>
+<Hydroponics.label> ﺔﻴﺋﺎﻤﻟﺍ ﺔﻋﺍﺭﺰﻟﺍ </Hydroponics.label>
+
+<Hydroponics.description> .ﻰﻨﺒﻤﻟﺍ ﻲﻓ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺔﻋﺍﺭﺯ ﻚﻨﻜﻤﻳ  .ﺔﻴﺋﺎﻤﻟﺍ ﺕﺎﻧﺍﺰﺨﻟﺍ ﺢﺘﻔﻳ </Hydroponics.description>
+
+	
+ <Stonecutting.label> ﺮﺠﺤﻟﺍ ﻝﺎﻤﻋﺃ</Stonecutting.label>
+    	
+<Stonecutting.description> .ﺀﺎﻨﺒﻠﻟ ﺔﻣﺍﺪﺨﺘﺳﺍ ﻚﻨﻜﻤﻳ ﻩﺭﻭﺪﺑ ﻱﺬﻟﺍﻭ ،ﺮﺠﺤﻟﺍ ﻦﻣ ﻞﺘﻛ ﻰﻟﺇ ﺭﻮﺨﺼﻟﺍ ﻞﻳﻮﺤﺗ ﻚﻨﻜﻤﻳ  </Stonecutting.description>
+
+<ElectricSmelting.label> .ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﻥﺮﻔﻟﺍ </ElectricSmelting.label>
+    	
+<ElectricSmelting.description>.ﻡﺎﻄﺤﻟﺍ ﻦﻣ ﺔﻴﻧﺪﻌﻤﻟﺍ ﻊﻄﻘﻟﺍ ﺝﺍﺮﺨﺘﺳﻻ ﻲﺋﺎﺑﺮﻬﻜﻟﺍ ﻱﻮﻗﻭ ﺓﺭﺍﺮﺤﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺓﺎﻔﺼﻣ ﺀﺎﻨﺑ</ElectricSmelting.description>
+	
+	<Machining.label>ﺎﻜﻴﻧﺎﻜﻴﻣ </Machining.label>
+    	
+
+	
+	
+	<NutrientResynthesis.label> ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻒﻴﻠﻐﺗ ﺓﺩﺎﻋﺇ</NutrientResynthesis.label>
+	<NutrientResynthesis.description>  10٪ ﺔﺒﺟﻭ ﻞﻜﻟ ﻡﺎﻌﻄﻟﺍ  ﻚﻠﻬﺘﺳﺍ ﺾﻴﻔﺨﺗ ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻒﻴﻠﻐﺘﻟ   </NutrientResynthesis.description>
+	
+	
+ <GunTurretCooling.label> ﺔﻴﻗﺪﻨﺑ .ﻲﺋﺎﻘﻠﺘﻟﺍ ﻒﻴﻴﻜﺘﻟﺍ</GunTurretCooling.label> 
+	 <GunTurretCooling.description>٣. ﻦﻣ ﻻﺪﺑ ﺓﺮﺷﺎﺒﻣ ﺕﺎﻘﻠﻃ ٤ ﻥﻵﺍ ﺬﺨﺘﺗ ﺝﺍﺮﺑﻷﻼﻟ ﻦﻜﻤﻳ</GunTurretCooling.description>
+	
+	  <Mortars.label>ﻥﻭﺎﻫ </Mortars.label> 
+	
+ <Mortars.description> .ﺓﺪﻴﻌﺑ ﻑﺍﺪﻫﺃ ﻰﻠﻋ ﻥﺍﺭﺪﺠﻟﺍ ﻰﻠﻋ ﺕﺎﻓﻭﺬﻘﻣ ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺍﻭ ﻥﻭﺎﻬﻟﺍ ﻊﻓﺍﺪﻣ ﺀﺎﻨﺑ ﺔﻴﻔﻴﻛ ﻢﻠﻌﺗ </Mortars.description>
+	 <Cremation.label> ﺚﺜﺠﻟﺍ ﻕﺮﺣ  </Cremation.label> 
+	<Cremation.description> .ﺚﺜﺠﻟﺍ ﻕﺮﺣ ﻢﺘﻳ ﻲﺘﻟﺍ ﻕﺭﺎﺤﻤﻟﺍ ﺀﺎﻨﺑ </Cremation.description>
+
+	 <CarpetMaking.label> ﺩﺎﺠﺴﻟﺍ ﺝﺎﺘﻧﺇ </CarpetMaking.label>
+	
+ <CarpetMaking.description>.ﻢﻬﺑ ﺔﻄﻴﺤﻤﻟﺍ ﺔﺌﻴﺒﻟﺍ ﺔﻴﻋﻮﻧ ﺓﺩﺎﻳﺯﻭ ،ﺩﺎﺠﺴﻟﺍ ﻊﻴﻨﺼﺘﻟ ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﺡﺎﻤﺴﻟﺍ </CarpetMaking.description>
+ <ColoredLights.label> ﺔﻧﻮﻠﻣ ﺓﺀﺎﺿﺇ </ColoredLights.label> <ColoredLights.description> .ﺔﻨﻳﺰﻟﺍ ﺽﺍﺮﻏﻷ ﺔﻧﻮﻠﻤﻟﺍ ﺀﺍﻮﺿﻷﺍ ﻊﻴﻨﺼﺘﻟ ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﺢﻤﺴﻳ </ColoredLights.description>
+ <HospitalBed.label> ﺕﺎﻴﻔﺸﺘﺴﻤﻟﺍ ﺓﺮﺳﺃ</HospitalBed.label>
+	<HospitalBed.description> .ﺡﺎﺠﻨﺑ ﻲﺒﻄﻟﺍ ﻞﻤﻌﻟﺍ ﺀﺎﻬﻧﻹ ﻝﺎﻤﺘﺣﺍ ﻦﻣ ﺪﻳﺰﻳ ﺎﻤﻣ ،ﺔﺻﺎﺨﻟﺍ ﺕﺎﻴﻔﺸﺘﺴﻤﻟﺍ ﺓﺮﺳﺃ ﺲﻴﺳﺄﺗ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺢﻴﺘﻳ</HospitalBed.description>
+
+	<Tailoring.label>ﺔﻃﺎﻴﺨﻟﺍ </Tailoring.label>
+	
+<Tailoring.description>ﻯﺮﺧﺃ ﺩﺍﻮﻣ ﻭﺃ ﺩﻮﻠﺠﻟﺍﻭ ،ﺞﻴﺴﻨﻟﺍ  .. ﺱﺎﺒﻟ ﻞﻌﺟ ﻦﻜﻤﻳ .ﻁﺎﻴﺨﻟﺍ ﺔﻟﻭﺎﻃ ﺀﺎﻨﺒﻟ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺢﻴﺘﻳ </Tailoring.description>
+
+<FearTech1.label> ١ ﺐﻳﺬﻌﺘﻟﺍ</FearTech1.label>
+	
+<FearTech1.description> .ﻑﻮﺨﻟﺍ ﺮﺸﻨﻟ ﺓﺪﻳﺪﺟ ﻕﺮﻃ ﻑﺎﺸﻜﺘﺳﺍ </FearTech1.description>
+	<FearTech1.descriptionDiscovered>.ﺔﻳﺎﻐﻠﻟ ﺔﻟﺎﻌﻓ ﺎﻬﻨﻜﻟ ،ﺔﻴﺳﺎﻗﻭ ﺔﻤﻳﺪﻗ ﺓﺍﺩﻻﺍ ﺓﺍﺬﻫ .ﺯﺍﺰﺌﻤﺷﻻﺍﻭ ﻑﻮﺨﻟﺍ ﺐﺒﺴﺗ ﺪﻫﺎﺸﻤﻟﺍ ﻚﻠﺗﻭ  .ﺐﻐﺸﻟﺍ ﻱﺮﻴﺜﻣﻭ ﻚﺋﺍﺪﻋﺃ ﺚﺜﺟ ﺽﺮﻌﻠﻟ ﺔﻘﻨﺸﻤﻟﺍ ﺹﺎﻔﻗﺃ ﻡﺍﺪﺨﺘﺳﺍ ﻥﻵﺍ ﻚﻨﻜﻤﻳ  </FearTech1.descriptionDiscovered>
+
+ 
+</LanguageData>

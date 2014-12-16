@@ -1,70 +1,131 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!--=========== Main menu ==========-->
-  <NewColony>مستعمرة جديدة</NewColony>
-  <BackToGame>الرجوع للعبة</BackToGame>
-  <Save>حفظ</Save>
-  <Load>تحميل</Load>
-  <Options>الخصائص</Options>
-  <Mods>المودات</Mods>
-  <Credits>المطورين</Credits>
-  <QuitToMainMenu>العودة للقائمة الرئيسية</QuitToMainMenu>
-  <QuitToOS>الخروج من اللعبة</QuitToOS>
-  <FictionPrimer>Fiction primer</FictionPrimer>
-  <LudeonBlog>Ludeon مدونة</LudeonBlog>
-  <Forums>المنتدى</Forums>
-  <OfficialWiki>الموسوعة الرسمية</OfficialWiki>
-  <TynansTwitter>Tynan's تويتر</TynansTwitter>
-  <TynansDesignBook>Tynan's كتاب التصميم</TynansDesignBook>
+<!--=========== Main menu ==========-->
+<CreateWorld>ﻢﻟﺎﻋ ﺀﺎﺸﻧﺇ</CreateWorld>
+<NewColony>ﺓﺪﻳﺪﺟ ﺓﺮﻤﻌﺘﺴﻣ</NewColony>
+<BackToGame>ﺔﺒﻌﻠﻟ ﻉﻮﺟﺮﻟﺍ</BackToGame>
+<Save>ﻆﻔﺣ</Save>
+<Load>ﻞﻴﻤﺤﺗ</Load>
+<Options>ﺺﺋﺎﺼﺨﻟﺍ</Options>
+<Mods>ﺕﺍﺩﻮﻤﻟﺍ</Mods>
+<Credits>ﻦﻳﺭﻮﻄﻤ</Credits>
+<QuitToMainMenu>ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻘﻠﻟ ﺓﺩﻮﻌﻟﺍ</QuitToMainMenu>
+<QuitToOS>ﺔﺒﻌﻠﻟﺍ ﻦﻣ ﺝﻭﺮﺨﻟﺍ</QuitToOS>
+<FictionPrimer>Fiction primer</FictionPrimer>
+<LudeonBlog>ﺔﻧﻭﺪﻣ</LudeonBlog>
+<Forums>ﻯﺪﺘﻨﻤﻟﺍ</Forums>
+<OfficialWiki>ﺔﻴﻤﺳﺮﻟﺍ ﺔﻋﻮﺳﻮﻤﻟﺍ</OfficialWiki>
+<TynansTwitter>ﺮﺘﻳﻮﺗ </TynansTwitter>
+<TynansDesignBook>ﻢﻴﻤﺼﺘﻟﺍ ﺏﺎﺘﻛ </TynansDesignBook>
+<HelpTranslate>Help translate RimWorld</HelpTranslate>
 
-  <!--=========== Version info ==========-->
-  <BuildNowAvailable>البنية {0} متوفرة الان. اذهب للموقع ludeon.com لمزيد من المعلومات.</BuildNowAvailable>
-	<BuildUpToDate>Build is up to date.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+<!--=========== Create/review world ================-->
+<ReviewWorld> ﻢﻟﺎﻌﻟﺍ ﺽﺍﺮﻌﺘﺳﺍ</ReviewWorld>
+<WorldGenerate>ﻢﻟﺎﻌﻟﺍ ﺞﺘﻧﺍ</WorldGenerate>
+<WorldSaveAndFinish>ﺀﺎﻬﻧﺇﻭ ﻆﻔﺣ</WorldSaveAndFinish>
+<Reset> ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ</Reset>
+<WorldSize>ﻢﺠﺤﻟﺍ</WorldSize>
+<WorldSeed>Seed</WorldSeed>
+<RandomizeSeed>Randomize seed</RandomizeSeed>
 
-  <!--=========== Mods screen ==========-->
-  <GetMods>الحصول على المودات</GetMods>
-  <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
-  <Author>Author</Author>
-  
+<!--=========== Select world ===================-->
+<SelectWorld>ﻢﻟﺎﻌﻟﺍ ﺮﺘﺧﺍ</SelectWorld>
+<WorldChooseButton>ﺮﺘﺧﺍ</WorldChooseButton>
+<NoWorldsFilesFound>.ﻝﻭﻷﺎﺑ ﻢﻟﺎﻌﻟﺍ ﺀﺎﺸﻧﺇ .ﻢﻟﺎﻌﻟﺍ ﺕﺎﻔﻠﻣ ﺪﺠﻧ ﻢﻟ</NoWorldsFilesFound>
+<!--=========== Version info ==========-->
 
-  <!--=========== Storyteller chooser ==========-->
-  <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
-  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony.</HowStorytellersWork>
+<BuildNowAvailable>.ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟ ludeon.com ﻊﻗﻮﻤﻠﻟ ﺐﻫﺫﺍ .ﻥﻻﺍ ﺓﺮﻓﻮﺘﻣ {0} ﺔﻴﻨﺒﻟﺍ</BuildNowAvailable>
+<BuildUpToDate>.ﺔﺛﺪﺤﻣ ﺔﺨﺴﻨﻟﺍ</BuildUpToDate>
+<ErrorGettingVersionInfo>{0} :ﺔﺨﺴﻨﻟﺍ ﺕﺎﻣﻮﻠﻌﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻲﻓ ﺄﻄﺧ</ErrorGettingVersionInfo>
+<LoadingVersionInfo>... ﺔﺨﺴﻨﻟﺍ ﺕﺎﻣﻮﻠﻌﻣ ﻞﻴﻤﺤﺗ </LoadingVersionInfo>
 
-  <!--=========== Character chooser ==========-->
-  <CreateCharacters>إنشاء شخصية</CreateCharacters>
-  <FirstNameDesc>اسم الشخصية.\n\nThis is only displayed in certain menus.</FirstNameDesc>
-  <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
-  <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
-  <Randomize>إختيار عشوائي</Randomize>
-  <AgeIndicator>العمر {0}</AgeIndicator>
-  <Backstory>Backstory</Backstory>
-  <IncapableOf>Incapable of</IncapableOf>
-  <Traits>الصفات</Traits>
-  <TraitsDoNothing>Traits are just fun story bits for now; most of them don't do anything. This will change in future versions.</TraitsDoNothing>
-  <Skills>المهارات</Skills>
-  <NoneLower>لا شئ</NoneLower>
-  <Adulthood>المراهقة</Adulthood>
-  <Childhood>الطفولة</Childhood>
-  <Male>ذكر</Male>
-  <Female>انثى</Female>
-  
-  
-  <!--=========== Misc ==========-->
-  <Start>ابدأ</Start>
-  <Advanced>متقدم</Advanced>
-  <Next>التالي</Next>
-  <Back>الرجوع</Back>
-  
-  <Gameplay>نمط اللعب</Gameplay>
+<!--=========== World generator =========-->
+<GenerateWorld>ﻢﻟﺎﻌﻟﺍ ﺀﺎﺸﻧﺇ</GenerateWorld>
 
-  <ConfirmQuit>هل انت متأكد؟ سوف تفقد جميع الاعمال الغير محفوظة.</ConfirmQuit>
-  
-  <EveryoneNeedsValidName>كل شخص يحتاج إلى أسم صحيح.</EveryoneNeedsValidName>
+<!--=========== Mods screen ==========-->
+<GetMods>ﺕﺍﺩﻮﻤﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ</GetMods>
+<OpenModsDataFolder>ﺕﺍﺩﻮﻤﻟﺍ ﺪﻠﺠﻣ ﺢﺘﻓﺍ</OpenModsDataFolder>
+<ConfirmDisableCoreMod>ﻚﻳﺪﻟ ﻥﺎﻛ ﺍﺫﺇ ﻻﺇ  ﻞﻤﻌﺗ ﻦﻟ ﺔﺒﻌﻟﺍ ﻥﺈﻓ ؟ﻲﺳﺎﺳﻷﺍ ﺩﻮﻤﻟﺍ ﻞﻴﻄﻌﺗ ﺪﻳﺮﺗ ﻚﻧﺃ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ
+ﻲﺳﺎﺳﻷﺍ MOD ﻲﻓ defs ﺯﻭﺎﺠﺗ ﻭ ﻞﻳﺪﻌﺗ ﻦﻜﻤﻳ  nn.ﺔﻴﺳﺎﺳﻷﺍ ﻒﺋﺎﻇﻮﻟﺍ ﻊﻴﻤﺟ ﻞﺤﻳ ﺮﺧﺍ ﺩﻮﻣ
+defName. ﺲﻔﻧ ﻡﺍﺪﺨﺘﺳﺎﺑ</ConfirmDisableCoreMod>
+<Author>ﺩﻮﻤﻟﺍ ﺐﺗﺎﻛ</Author>
 
-  <GeneratingWorld>إنشاء عالم...</GeneratingWorld>
+<!--=========== Select storyteller ==========-->
+<ChooseAIStoryteller>ﻱﻭﺍﺮﻟﺍ ﺮﺘﺧﺍ</ChooseAIStoryteller>
+<HowStorytellersWork>   ﺔﻨﺻﺍﺮﻘﻟﺍ ﺕﺍﺭﺎﻏ ﻞﺜﻣ ﺙﺍﺪﺣﺃ ﺊﺸﻨﻳ ﻱﻭﺍﺮﻟﺍ
+ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺕﺎﻤﺠﻫ ﻭﺃ ﺩﺭﺍﻮﻤﻟﺍ ﻂﻘﺳﺍ
+  .ﺓﺮﻤﻌﺘﺴﻣ ﺔﺼﻗ ﻰﻠﻋ ﺮﺛﺆﺗ ﻢﻬﺗﺍﺭﺎﻴﺘﺧﺍﻭ </HowStorytellersWork>
+<MustChooseChallengeScale>.ﻱﺪﺤﺘﻟﺍ ﻢﺠﺣ ﺭﺎﻴﺘﺧﺍ ﻰﺟﺮﻳ</MustChooseChallengeScale>
+<ChallengeScale>ﻱﺪﺤﺘﻟﺍ ﺱﺎﻴﻘﻣ</ChallengeScale>
+<ChallengeScaleTip>.ﻱﺪﺤﺘﻟﺍ ﻊﺿﻭ ﻲﻓ ﺓﺮﻴﺒﻛ ﺎﻣ ﺭﺪﻘﺑ {0} ﻥﻮﻜﺘﺳ ﺎﻬﻧﺃ ﻙﺪﻌﺑ ﻦﻣ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﻱﻭﺍﺮﻟﺍ ﻞﺳﺮﻳ ﺎﻣﺪﻨﻋ</ChallengeScaleTip>
+<ChallengeScale_BuilderMode>ﺀﺎﻨﺒﻟﺍ ﻊﺿﻭ</ChallengeScale_BuilderMode>
+<ChallengeScale_Casual>ﺔﻳﺩﺎﻋ</ChallengeScale_Casual>
+<ChallengeScale_Rough>ﺐﻌﺻ</ChallengeScale_Rough>
+<ChallengeScale_Challenge>ﺮﻄﺧ</ChallengeScale_Challenge>
+<ChallengeScale_SeriousChallegne>ﺍﺮﻴﻄﺧ ﺎﻳﺪﺤﺗ</ChallengeScale_SeriousChallegne>
+<ChallengeScale_ExtremeChallenge>ﺪﻳﺪﺸﻟﺍ ﻱﺪﺤﺘﻟﺍ</ChallengeScale_ExtremeChallenge>
 
+<!--=========== Landing site select =========-->
+<SelectLandingSite>ﻁﻮﺒﻬﻟﺍ ﻊﻗﻮﻣ ﺩﺪﺣ</SelectLandingSite>
+<SelectSite>ﻊﻗﻮﻤﻟﺍ ﺩﺪﺣ</SelectSite>
+<MustSelectLandingSite>.ﻁﻮﺒﻬﻟﺍ ﻊﻗﻮﻣ ﺪﻳﺪﺤﺗ ﻰﺟﺮﻳ</MustSelectLandingSite>
+<CannotLandBiome>{0} :ﺔﻴﺋﺎﻴﺣﻷﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﻰﻠﻋ ﻂﺒﻬﺗ ﻥﺃ ﻦﻜﻤﻳ ﻻ</CannotLandBiome>
+<WorldRenderMode>ﻊﺿﻭ</WorldRenderMode>
+<WorldRenderModeFull>ﻞﻣﺎﻛ</WorldRenderModeFull>
+<WorldRenderModeTemperature>ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ</WorldRenderModeTemperature>
+<WorldRenderModeElevation>ﻉﺎﻔﺗﺭﺍ</WorldRenderModeElevation>
+<WorldRenderModeFertility>ﺔﺑﻮﺼﺧ</WorldRenderModeFertility>
+<WorldRenderModeRainfall>ﺮﻄﻤﻟﺍ ﻝﻮﻄﻫ</WorldRenderModeRainfall>
+<WorldRenderModeBiomes> ﺔﻳﻮﻴﺤﻟﺍ ﻖﻃﺎﻨﻤﻟﺍ</WorldRenderModeBiomes>
+<BiomeNotImplemented>ﺬﻔﻨﺗ ﻢﻟ ﻲﺘﻟﺍ ﺔﻴﺋﺎﻴﺣﻷﺍ ﺔﻘﻄﻨﻤﻟﺍ</BiomeNotImplemented>
+<BaseAlreadyThere> .ﻙﺎﻨﻫ ﺓﺪﻋﺎﻗ ﻢﻬﻳﺪﻟ {0} </BaseAlreadyThere>
+<Biome> ﺔﻴﺋﺎﻴﺣﻷﺍ ﺓﺪﺣﻮﻟﺍ</Biome>
+<Terrain> ﺲﻳﺭﺎﻀﺗ</Terrain>
+<Elevation>ﻉﺎﻔﺗﺭﻻﺍ </Elevation>
+<Fertility>ﺔﺑﻮﺼﺨﻟﺍ </Fertility>
+<AvgTemp>ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻂﺳﻮﺘﻣ</AvgTemp>
+<AvgJanTemp>{0} :(ﺮﻳﺎﻨﻳ) ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻂﺳﻮﺘﻣ</AvgJanTemp>
+<AvgJulTemp>{0} :(ﻮﻴﻟﻮﻳ) ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻂﺳﻮﺘﻣ</AvgJulTemp>
+<Rainfall>ﺭﺎﻄﻣﻷﺍ </Rainfall>
+<HasCoast0> ﻲﻟﺎﻤﺸﻟﺍ ﻞﺣﺎﺴﻟﺍ</HasCoast0>
+<HasCoast1> ﻲﻗﺮﺸﻟﺍ ﻞﺣﺎﺴﻟﺍ</HasCoast1>
+<HasCoast2> ﻲﺑﻮﻨﺠﻟﺍ ﻞﺣﺎﺴﻟﺍ</HasCoast2>
+<HasCoast3> ﻲﺑﺮﻐﻟﺍ ﻞﺣﺎﺴﻟﺍ</HasCoast3>
+<FactionBase>Faction base</FactionBase>
+<StoneTypesHere> ﺮﺠﺤﻟﺍ ﻉﺍﻮﻧﺃ </StoneTypesHere>
+
+<!--=========== Character chooser ==========-->
+<CreateCharacters>ﺔﻴﺼﺨﺷ ﺀﺎﺸﻧﺇ</CreateCharacters>
+<FirstNameDesc>.ﺔﻴﺼﺨﺸﻟﺍ ﻢﺳﺍ\n\nThis is only displayed in certain menus.</FirstNameDesc>
+<ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate 
+
+nickname.</ShortIdentifierDesc>
+<LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
+<Randomize>ﺔﻴﺼﺨﺷ ﺀﺎﺸﻧﺇ</Randomize>
+<AgeIndicator>ﺮﻤﻌﻟﺍ {0}</AgeIndicator>
+<Backstory>ﺔﻴﻣﺍﺭﺪﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ</Backstory>
+<IncapableOf>ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ</IncapableOf>
+<Traits>ﺕﺎﻔﺼﻟﺍ</Traits>
+<TraitsDoNothing>.ﻦﻫﺍﺮﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻓ ﺔﻌﺘﻣ ﺩﺮﺠﻣ ﺔﺼﻘﻟﺍ ﺀﺍﺰﺟﺃ ﻦﻋ ﺓﺭﺎﺒﻋ ﻲﻫ ﺕﺎﻔﺼﻟﺍ
+.ﺔﻴﻠﺒﻘﺘﺴﻤﻟﺍ ﺕﺍﺭﺍﺪﺻﻹﺍ ﻲﻓ ﺮﻴﻴﻐﺗ ﻰﻟﺇ ﻚﻟﺫ ﻱﺩﺆﻴﺳ .ﺀﻲﺷ ﻱﺃ ﻞﻌﻔﺗ ﻻ ﻢﻬﻤﻈﻌﻣ </TraitsDoNothing>
+<PermanentMoodEffect>ﻢﺋﺍﺩ ﺝﺍﺰﻤﻟﺍ ﺮﻴﺛﺄﺗ</PermanentMoodEffect>
+<Skills>ﺕﺍﺭﺎﻬﻤﻟﺍ</Skills>
+<NoneLower>ﺊﺷ ﻻ</NoneLower>
+<Adulthood>ﺔﻘﻫﺍﺮﻤﻟﺍ</Adulthood>
+<Childhood>ﺔﻟﻮﻔﻄﻟﺍ</Childhood>
+<Male>ﺮﻛﺫ</Male>
+<Female>ﻰﺜﻧﺍ</Female>
+<Pain>Pain</Pain>
+
+<!--=========== Misc ==========-->
+<Start>ﺃﺪﺑﺍ</Start>
+<Advanced>ﻡﺪﻘﺘﻣ</Advanced>
+<Next>ﻲﻟﺎﺘﻟﺍ</Next>
+<Back>ﻉﻮﺟﺮﻟﺍ</Back>
+<Gameplay>ﺐﻌﻠﻟﺍ ﻂﻤﻧ</Gameplay>
+<ConfirmQuit>.ﺔﻇﻮﻔﺤﻣ ﺮﻴﻐﻟﺍ ﻝﺎﻤﻋﻻﺍ ﻊﻴﻤﺟ ﺪﻘﻔﺗ ﻑﻮﺳ ؟ﺪﻛﺄﺘﻣ ﺖﻧﺍ ﻞﻫ</ConfirmQuit>
+<EveryoneNeedsValidName>.ﺢﻴﺤﺻ ﻢﺳﺃ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﺺﺨﺷ ﻞﻛ</EveryoneNeedsValidName>
+<GeneratingWorld>...ﻢﻟﺎﻋ ﺀﺎﺸﻧﺇ</GeneratingWorld>
+<GeneratingMap>...ﺔﻄﻳﺮﺧ ﺀﺎﺸﻧﺇ</GeneratingMap>
 </LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <rep>
+    <path>TradeGoodsMustBeNearBeacon.helpTexts[0]</path>
+    <trans>.ﻪﻨﻣ ﺏﺮﻘﻟﺎﺑ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﻥﻭﺰﺨﻣ ﻊﺿﻭﻭ ﻖﻠﻄﻟﺍ ﺀﺍﻮﻬﻟﺍ ﻲﻓ BEACON ﺓﺭﺎﺠﺘﻟﺍ ORBITAL ﺀﺎﻨﺑ ﺐﺠﻳ ، orbital ﺭﺎﺠﺘﻠﻟ ﺔﻀﻔﻟﺍ ﻭﺃ ﺩﺍﻮﻤﻟﺍ ﻝﺎﺳﺭﻻ</trans>
+  </rep>
+  
+  <rep>
+    <path>ArrestingCreatesEnemies.helpTexts[0]</path>
+    <trans>!ﻪﺘﻋﺎﻤﺠﻟ ﺎﻘﻳﺪﺻ ﻰﻘﺒﺗ ﻥﺃ ﺪﻳﺮﺗ ﺖﻨﻣ ﺍﺫﺇ ﺎﺼﺨﺷ ﻞﻘﺘﻌﺗ ﻻ\n\n. ﻚﻟ ﺍﻭﺪﻋ ﻪﺘﻋﺎﻤﺟ ﻞﻣﺎﻛ ﺢﺒﺼﺗ ﻑﻮﺴﻓ ﺺﺨﺷ ﺖﻠﻘﺘﻋﺍ ﺍﺫﺇ</trans>
+  </rep>
+  
+</LanguageData>

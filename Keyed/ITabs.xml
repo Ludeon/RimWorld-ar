@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <TabBills>ﻡﺎﻬﻤﻟﺍ</TabBills>
+  <TabGrowing>ﺔﻋﺍﺭﺰﻟﺍ</TabGrowing>
+  <TabCharacter>ﺔﻴﺼﺨﺸﻟﺍ</TabCharacter>
+  <TabPrisoner>ﻦﻴﺠﺴﻟﺍ</TabPrisoner>
+  <TabGear>ﺕﺍﺪﻌﻣ</TabGear>
+  <TabThoughts>ﺭﺎﻜﻓﻷﺍ</TabThoughts>
+  <TabStorage>ﻦﻳﺰﺨﺘﻟﺍ</TabStorage>
+  <TabHealth>ﺔﺤﺻ</TabHealth>
+  <TabRace>ﺲﻨﺠﻟﺍ</TabRace>
+  <TabBasics>ﺕﺎﻴﺳﺎﺳﺃ</TabBasics>
+  <TabStats>ﺕﺎﻴﺋﺎﺼﺣﺇ</TabStats>
+
+  
+  <!-- Bills tab  -->
+  <AddBill>ﺔﻤﻬﻣ ﺔﻓﺎﺿﺇ</AddBill>
+  <RecipeRequiresSkills>.ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﻱﺩﺆﻳ ﻥﺃ ﻦﻜﻤﻳ ﺪﺣﺃ ﻻ ﺐﺒﺴﻟﺍ ﻮﻫ ﺍﺬﻫﻭ ،ﺕﺍﺭﺎﻬﻤﻟﺍ ﻩﺬﻫ ﻪﻳﺪﻟ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻦﻣ ﺪﺣﺃ ﻻ 
+
+.ﺔﻴﻟﺎﺘﻟﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ ﺐﻠﻄﺘﺗ {0} ﺔﻔﺻﻮﻟﺍ</RecipeRequiresSkills>
+  <BillConfig>ﻦﻳﻮﻜﺘﻟﺍ</BillConfig>
+  <SuspendedCaps>ﻖﻴﻠﻌﺗ</SuspendedCaps>
+  <PlantVerb>ﺕﺎﺒﻨﻟﺍ</PlantVerb>
+
+
+  <!-- Prisoner tab -->
+  <RecruitmentDifficulty>ﺪﻴﻨﺠﺘﻟﺍ ﺔﺑﻮﻌﺻ </RecruitmentDifficulty>
+  <PrisonerGetsFood> ﺀﺍﺬﻐﻟﺍ ﻰﻠﻋ ﻞﺼﺤﻳ </PrisonerGetsFood>
+  <DoctorsCare>ﺐﻴﺒﻄﻟﺍ ﻞﺒﻗ ﻦﻣ ﺔﻳﺎﻋﺭ </DoctorsCare>
+  <PrisonerGetsMedicine>ﺝﻼﻌﻟﺍ ﻰﻠﻋ ﻞﺼﺤﻳ</PrisonerGetsMedicine>
+  <ShouldTryToRecruit>ﺪﻴﻨﺠﺗ</ShouldTryToRecruit>
+  <PrisonerNoInteraction>ﺔﺑ ﻢﺘﻬﺗ ﻻ </PrisonerNoInteraction>
+  <PrisonerFriendlyChat> ﺔﻳﺩﻭ ﺔﺛﺩﺎﺤﻣ</PrisonerFriendlyChat>
+  <PrisonerRelease>ﺔﻨﻋ ﺝﺍﺮﻓﻹﺍ</PrisonerRelease>
+  <PrisonerExecution>ﻡﺍﺪﻋﺇ </PrisonerExecution>
+
+
+  <!-- Medical - general -->
+  <MoveSpeed> ﺔﻛﺮﺤﻟﺍ ﺔﻋﺮﺳ</MoveSpeed>
+  <Efficiency>ﺓﺀﺎﻔﻜﻟﺍ </Efficiency>
+  <MissingBodyPart>ﺩﻮﻘﻔﻣ </MissingBodyPart>
+  <DestroyedBodyPart>ﺕﺮﻣﺩ </DestroyedBodyPart>
+  <ShatteredBodyPart>ﺔﻤﻄﺤﻣ </ShatteredBodyPart>
+  <RemovedBodyPart>ﺔﻟﺍﺯﺇ </RemovedBodyPart>
+  <Healthy>ﻲﺤﺻ </Healthy>
+  <InPain> ﻢﻟﻷﺍ ﻲﻓ </InPain>
+  <PainLevel>ﻢﻟﻷﺍ </PainLevel>
+  <Dead>ﺖﻴﻣ </Dead>
+  <Unconscious>ﻲﻋﻮﻟﺍ ﺪﻗﺎﻓ </Unconscious>
+  <PainShock> ﺔﻣﺪﺻ ﻲﻓ </PainShock>
+  <Injured>ﺏﺎﺼﻣ</Injured>
+  <NoInjuries>(ﺕﺎﺑﺎﺻﺇ ﻱﺃ)</NoInjuries>
+  <WholeBody> ﻪﻠﻤﻛﺄﺑ ﻢﺴﺠﻟﺍ </WholeBody>
+  <DataProcessing>ﺕﺎﻧﺎﻴﺒﻟﺍ ﺔﺠﻟﺎﻌﻣ </DataProcessing>
+  <Communication>ﺕﻻﺎﺼﺗﻻﺍ </Communication>
+  <AffectsLower>ﺮﺛﺆﻳ </AffectsLower>
+  <BleedingRate>ﻒﻳﺰﻨﻟﺍ ﻝﺪﻌﻣ </BleedingRate>
+  <HealthOverview>ﺔﻣﺎﻋ ﺓﺮﻈﻧ </HealthOverview>
+  <MedicalOperationsShort>ﺕﺎﻴﻠﻤﻌﻟﺍ  ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>ﺕﻼﻳﺪﻌﺘﻟﺍ  ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations> ﺔﻴﺒﻄﻟﺍ ﺕﺎﻴﻠﻤﻌﻟﺍ </MedicalOperations>
+  <Amputate>ﺮﺘﺑ </Amputate>
+  <Harvest>ﺩﺎﺼﺣ</Harvest>
+  
+  
+
+  <!-- Medical - Body and activities condition -->
+  <None>ﺪﺟﻮﻳ ﻻ</None>
+  <VeryPoor>ﺔﻳﺎﻐﻠﻟ ﺔﺌﻴﺳ </VeryPoor>
+  <Poor>ﺔﺌﻴﺳ </Poor>
+  <Weakened>ﻒﻴﻌﺿ</Weakened>
+  <GoodCondition>ﺓﺪﻴﺟ ﺔﻟﺎﺣ</GoodCondition>
+  <Enhanced>ﻦﺴﺣﺍ ﻝﺎﺣ ﻲﻓ </Enhanced>
+  <SeriouslyImpaired>ﺓﺮﻴﻄﺧ ﺡﻭﺮﺟ</SeriouslyImpaired>
+  <Impaired>ﺏﺎﺼﻣ </Impaired>
+  <SlightlyImpaired> ﺔﻔﻴﻔﻃ ﺡﻭﺮﺟ</SlightlyImpaired>
+  <NoPain> ﺪﺟﻮﻳ ﻻ </NoPain>
+  <LittlePain>ﻒﻴﻔﺧ</LittlePain>
+  <MediumPain>ﺔﻄﺳﻮﺘﻣ</MediumPain>
+  <SeverePain>ﺓﺪﻳﺪﺷ </SeverePain>
+  <ExtremePain>ﻕﺎﻄﻳ ﻻ</ExtremePain>
+
+
+
+
+
+
+
+
+</LanguageData>

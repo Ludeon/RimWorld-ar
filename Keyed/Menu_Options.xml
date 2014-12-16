@@ -1,42 +1,60 @@
 <?xml version="1.0" encoding="utf-8" ?>
+
 <LanguageData>
 
-  <Audiovisuals>Audiovisuals</Audiovisuals>
+  <!-- Audiovisuals -->
 
-  <GameVolume>Game volume</GameVolume>
 
-  <MusicVolume>Music volume</MusicVolume>
+  <Audiovisuals>ﺕﺎﻴﺋﺮﻤﻟﺍ ﻭ ﺕﺎﻴﺗﻮﺼﻟﺍ</Audiovisuals>
 
-  <GraphicsQuality>Graphics quality</GraphicsQuality>
-  <GraphicsQualityNormal>Normal</GraphicsQualityNormal>
-    <GraphicsQualityGreat>Great</GraphicsQualityGreat>
+  <GameVolume>ﺕﻮﺼﻟﺍ ﻯﻮﺘﺴﻣ</GameVolume>
 
+  <MusicVolume>ﻰﻘﻴﺳﻮﻤﻟﺍ ﻯﻮﺘﺴﻣ</MusicVolume>
+
+  <GraphicsQuality>ﺕﺎﻣﻮﺳﺮﻟﺍ ﺓﺩﻮﺟ</GraphicsQuality>
+
+  <GraphicsQualityNormal>ﻱﺩﺎﻋ</GraphicsQualityNormal>
+
+  <GraphicsQualityGreat>ﺯﺎﺘﻤﻣ</GraphicsQualityGreat>
+
+  
+  <!-- Gameplay -->
   <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
-  
-  <CustomCursor>Custom cursor</CustomCursor>
-
-  <ChooseLanguage>Choose language</ChooseLanguage>
-
-  <AdaptiveTutor>Adaptive tutor</AdaptiveTutor>
-
-  <ResetAdaptiveTutor>Reset adaptive tutor</ResetAdaptiveTutor>
-
-  <AdaptiveTutorIsReset>Adaptive tutor is reset. He will now teach you from scratch.</AdaptiveTutorIsReset>
-
-  <RunInBackground>Run in background</RunInBackground>
-
+  <CustomCursor>ﺱﻭﺎﻤﻟﺍﺮﺷﺆﻣ ﻞﻳﺪﻌﺗ</CustomCursor>
+  <KeyboardConfig> ﺢﻴﺗﺎﻔﻤﻟﺍ ﺔﺣﻮﻟ ﻦﻳﻮﻜﺗ </KeyboardConfig>
+  <ChooseLanguage> ﺔﻐﻠﻟﺍ ﺮﺘﺧﺍ </ChooseLanguage>
+  <AdaptiveTutor>ﻢﻠﻌﻤﻟﺍ </AdaptiveTutor>
+  <ResetAdaptiveTutor> ﻢﻠﻌﻤﻟﺍ ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ </ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset> .ﺮﻔﺼﻟﺍ ﻦﻣ ﻥﻵﺍ ﻚﻤﻠﻌﻳ ﻑﻮﺳ I .ﻢﻠﻌﻤﻟﺍ ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ </AdaptiveTutorIsReset>
+  <RunInBackground>ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ ﻞﻴﻐﺸﺗ </RunInBackground>
   <DevelopmentMode>Development mode</DevelopmentMode>
+  <LogVerbose>Verbose logging</LogVerbose>
+  <OpenSaveGameDataFolder> ﺕﺎﻧﺎﻴﺒﻟﺍ ﺪﻠﺠﻣ ﻲﻓ ﺕﺎﻈﻔﺤﻤﻟﺍ ﻒﻠﻣ ﺢﺘﻓ </OpenSaveGameDataFolder>
+  <NamesYouWantToSee> :ﺔﺒﻌﻟﺍ ﻲﻓ ﻢﻫﺍﺮﺗ ﻥﺍ ﺪﻳﺮﺗ ﺔﻓﻭﺮﻌﻣ ﺕﺎﻴﺼﺨﺷ ﻦﻣ ﺀﺎﻤﺳﺍ ﻭﺍ 
 
-  <LogDeepProfileData>Log deep profile data</LogDeepProfileData>
+ﻚﻤﺳﺍ</NamesYouWantToSee>
+  <ChangeStoryteller> ﻱﻭﺍﺮﻟﺍ ﺮﺘﺧﺍ </ChangeStoryteller>
   
-  <NamesYouWantToSee>Last names of Name in Game or Backstory in Game characters you want to see:</NamesYouWantToSee>
+  <!-- Resolution -->
+  <Resolution>ﺔﺷﺎﺸﻟﺍ ﺩﺎﻌﺑﺍ </Resolution>
+  <Fullscreen>ﺔﺷﺎﺸﻟﺍ ﺀﻞﻣ </Fullscreen>
+  <CurrentRes> {0} ﺎﻴﻟﺎﺣ </CurrentRes>
+  <ChooseResolution>ﺔﺷﺎﺸﻟﺍ ﺩﺎﻌﺑﺍ ﺮﺘﺧﺍ </ChooseResolution>
 
-  <Resolution>Resolution</Resolution>
-  <Fullscreen>Fullscreen</Fullscreen>
-  <CurrentRes>Currently {0}</CurrentRes>
+  
+  <!-- Privacy-->
+  <Privacy>ﺔﻴﺻﻮﺼﺨﻟﺍ </Privacy>
+  <UserName> ﻡﺪﺨﺘﺴﻤﻟﺍ ﻢﺳﺍ </UserName>
+  <ChooseHistoryUploadPref>Gameplay data upload pref.</ChooseHistoryUploadPref>
+  <CurrentHistoryUploadPref> {0} ﺎﻴﻟﺎﺣ </CurrentHistoryUploadPref>
+  <AboutHistoryUpload> ﺎﻣﺎﻤﺗ ﻝﻮﻬﺠﻣ ﻮﻫ ﻪﻧﺃ ﻲﻨﻌﻳ ﺎﻤﻣ ،ﻡﺪﺨﺘﺴﻤﻟﺍ ﻢﺳﺍ ﺀﺎﻨﺜﺘﺳﺎﺑ ،ﻱﺮﺠﻳ ﺔﻴﺼﺨﺷ ﺕﺎﻣﻮﻠﻌﻣ ﺔﻳﺃ 
 
-  <OpenSaveGameDataFolder>Open save data folder</OpenSaveGameDataFolder>
-  
-  
+- ﺔﺒﻌﻠﻟﺍ ﺔﻘﻠﻌﺘﻤﻟﺍ ﺦﻳﺭﺎﺘﻟﺍ ﺕﻼﺠﺳﻭ ﺕﺍﺀﺎﺼﺣﺇ ﺐﻌﻠﻟﺍ ﻦﻣ ﻂﻘﻓ ﻥﻮﻜﺘﻳ ﺎﻬﻠﻴﻤﺤﺗ ﺦﻳﺭﺎﺗ .ﺎﻬﻠﻴﻠﺤﺗ ﻢﺛ ﻭ Server 
+
+RimWorld ﻰﻟﺇ (ﺓﺍﺭﺎﺒﻤﻟﺍ ﺔﻳﺎﻬﻧ ﻞﺜﻣ ﻯﺮﺧﻷﺍ ﺓﺭﺩﺎﻨﻟﺍ ﻝﺯﺎﻨﻤﻟﺍ ﺾﻌﺑ ﻲﻓ ﻭ) ﻡﺎﻳﺃ {0} ﺓﺍﺭﺎﺒﻣ ﻞﻛ ﻲﻓ ﻚﺑ ﺔﺻﺎﺨﻟﺍ 
+
+ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻝﺎﺳﺭﺇ ﻢﺘﻴﺳ ،ﻰﻠﻋ ﻖﻓﺍﻮﺗ ﺖﻨﻛ ﺍﺫﺇ .ﺔﺒﻌﻠﻟﺍ ﻱﺭﻮﻄﻣ ﻦﻴﺑ ﻥﺯﺍﻮﺘﻟﺍ ﻖﻴﻘﺤﺗ ﻰﻠﻋ ﺪﻋﺎﺴﻳ ﺐﻌﻠﻟﺍ ﻦﻴﻣﺪﺨﺘﺴﻤﻟﺍ 
+
+ﺦﻳﺭﺎﺗ </AboutHistoryUpload>
   
 </LanguageData>

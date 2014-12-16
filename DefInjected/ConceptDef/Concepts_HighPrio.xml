@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <rep>
+    <path>CameraDolly.helpTexts[0]</path>
+    <trans>w,a,s,d. ﺭﺍﺭﺯﻷﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻭﺍ ﺐﺤﺴﻟﺍ ﻭ ﻂﺳﻭﻷﺍ ﺓﺭﺄﻔﻟﺍ ﺭﺯ ﻰﻠﻋ ﻂﻐﻀﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﺍﺮﻴﻣﺎﻜﻟﺍ ﻚﻳﺮﺤﺘﺑ ﻢﻗ </trans>
+  </rep>
+  
+  <rep>
+    <path>Rescuing.helpTexts[0]</path>
+    <trans>ﺢﻳﺮﺠﻟﺍ ﺮﻤﻌﺘﺴﻤﻟﺍ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺓﺭﺄﻔﻟﺍ ﺭﺰﺑ ﻂﻐﺿﺍ ﻭ ﺎﻤﻴﻠﺳ ﺍﺮﻤﻌﺘﺴﻣ ﺮﺘﺧﺍ ﺢﻳﺮﺟ ﺮﻤﻌﺘﺴﻣ ﺫﺎﻘﻧﻹ</trans>
+  </rep>
+  
+  <rep>
+    <path>Capturing.helpTexts[0]</path>
+    <trans>!ﻪﻴﻠﻋ ﺾﺒﻘﻟﺍ ﻚﻨﻜﻤﻳ .ﻲﻋﻮﻟﺍ ﺪﻗﺎﻓ ﻢﺼﺨﻟﺍ</trans>
+  </rep>
+  <rep>
+    <path>Capturing.helpTexts[1]</path>
+    <trans>.ﻦﻴﺠﺴﻠﻟ ﺎﻬﻣﺍﺪﺨﺘﺳﻻ ﻅﻮﺤﻠﻣ ﻲﻓﺎﺿﺇ ﺮﻳﺮﺳ ﺝﺎﺘﺤﺘﺳ \n\n .ﻁﺎﻘﺘﻟﺍ ﺩﺪﺣﻭ ،ﺍﺰﺟﺎﻋ ﻭﺪﻌﻟﺍ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ ،ﺮﻤﻌﺘﺴﻣ ﺩﺪﺣ ،ﺾﺒﻘﻠﻟ</trans>
+  </rep>
+
+  <rep>
+    <path>Drafting.helpTexts[0]</path>
+    <trans>Um einen Kolonisten für einen Kampf direkt zu steuern, lass ihn die Waffe ziehen, indem du ihn anklickst und den 'Waffe ziehen'-Schaltfläche betätigst.</trans>
+  </rep>
+  <rep>
+    <path>Drafting.helpTexts[1]</path>
+    <trans>Kolonisten mit gezogener Waffe machen nur das, was du ihnen sagst und können nur kämpfen. Kolonisten mit Waffen benutzen diese auch.\n\nLasse Kolonisten nicht für immer mit gezogener Waffe herumlaufen - Sie werden unglücklich und verhungern.</trans>
+  </rep>
+
+  <rep>
+    <path>Forbidding.helpTexts[0]</path>
+    <trans>ﺮﻈﺤﻟﺍ ﺔﻟﺍﺯﻹ f ﺭﺰﻟﺍ ﻂﻐﺿﺍ ﻭ ﻁﻮﺒﻬﻟﺍ ﺔﻘﻄﻨﻣ ﺏﺮﻗ ﻥﺪﻌﻤﻟﺍ ﻭ ﻡﺎﻌﻄﻟﺍ ﺮﺘﺧﺍ\n\ﺭﻮﻈﺤﻤﺑ ﺔﻤﻠﻌﻤﻟﺍ ﺽﺍﺮﻏﻷﺍ ﺍﻮﻣﺪﺨﺘﺴﻳ ﻦﻟ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ</trans>
+  </rep>
+
+  <rep>
+    <path>BillsTab.helpTexts[0]</path>
+    <trans>ﻊﻴﻄﻘﺘﻟ ﻭﺍ ﺦﺒﻄﻟ ﻲﺘﻟﺍ ﺎﻴﺷﻻﺍ ﻲﻫ ﺎﻣ ﺭﺎﻴﺘﺧﺍ ﻚﻨﻜﻤﻳ ﺎﻨﻫ (ﺓﺭﻮﺗﺎﻔﻟﺍ) ﺕﺎﺑﻼﻄﻟﺍ ﺔﻤﺋﺎﻗ ﺢﺘﻓﻭ ﻥﺮﻔﻟﺍ ﺮﺘﺧﺍ ﺦﺒﻄﻤﻟﺍ ﻲﻓ ﻞﻤﻌﻳ ﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﻌﺠﻟ</trans>
+  </rep>
+
+  <rep>
+    <path>GrowingFood.helpTexts[0]</path>
+    <trans>ﻂﻘﻓ ﺔﺒﺼﺧ ﺽﺍﺭﺃ ﻰﻠﻋ ﻲﻓ ﺔﻋﺍﺭﺰﻟﺍ ﻖﻃﺎﻨﻣ ﻊﺿﻮﺗ ﻥﺃ ﻦﻜﻤﻳ\n\nﺀﺎﻨﺒﻟﺍ ﺔﻤﺋﺎﻗ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻋﺍﺭﺯ ﻖﻃﺎﻨﻣ ﻊﺿ ﻡﺎﻌﻄﻟﺍ ﻉﺭﺰﻟ </trans>
+  </rep>
+
+  <rep>
+    <path>BuildOrbitalTradeBeacon.helpTexts[0]</path>
+    <trans>.ﻪﻨﻣ ﺏﺮﻘﻟﺎﺑ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﻥﻭﺰﺨﻣ ﻊﺿﻭﻭ ﻖﻠﻄﻟﺍ ﺀﺍﻮﻬﻟﺍ ﻲﻓ BEACON ﺓﺭﺎﺠﺘﻟﺍ ORBITAL ﺀﺎﻨﺑ ﺐﺠﻳ ، orbital ﺭﺎﺠﺘﻠﻟ ﺔﻀﻔﻟﺍ ﻭﺃ ﺮﺻﺎﻨﻋ ﻝﺎﺳﺭﻹ \n\n:ﺢﻴﻤﻠﺗ</trans>
+  </rep>
+
+  <rep>
+    <path>ReadingAlerts.helpTexts[0]</path>
+    <trans>. ﺔﺷﺎﺸﻟﺍ ﻦﻴﻤﻳ ﻰﻠﻋ ﺕﺍﺭﺍﺬﻧﻹﺍ ﺪﻘﻔﺗ ﻞﻌﻔﺗ ﻥﺃ ﺐﺠﻳ ﺎﻣ ﻑﺮﻌﺗ ﻻ ﺖﻨﻛ ﺍﺫﺇ</trans>
+  </rep>
+
+  <rep>
+    <path>CameraZoom.helpTexts[0]</path>
+    <trans>. T,G ﺭﺍﺭﺯﻷﺍ ﻭﺃ ﺓﺭﺄﻔﻟﺍ ﺔﻠﺠﻋ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺍﺮﻴﻣﺎﻜﻟﺍ ﺐﻳﺮﻘﺘﺑ ﻢﻜﺤﺗ.</trans>
+  </rep>
+
+  <rep>
+    <path>PrisonerTab.helpTexts[0]</path>
+    <trans>. ﻦﻴﺠﺴﻟﺎﺑ ﻡﺎﻤﺘﻫﻺﻟ ﻥﺎﺠﺳ ﺔﻔﻴﻇﻮﺑ ﺮﻤﻌﺘﺴﻣ ﻰﻟﺇ ﺝﺎﺘﺤﺘﺳ\n\ﻞﻣﺎﻌﻴﺳ ﻒﻴﻛ ﺩﺪﺤﺘﻟ ﻦﻴﺠﺳ ﻱﻷ ﻦﻴﺠﺳ ﺐﻳﻮﺒﺗ ﺺﺤﻔﺗ</trans>
+  </rep>
+
+  <rep>
+    <path>TimeControls.helpTexts[0]</path>
+    <trans>. ﻦﻴﻤﻴﻟﺍ ﻞﻔﺳﺃ ﻲﻓ ﻦﻣﺰﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻦﻣﺰﻟﺍ ﻑﺎﻘﻳﺇ ﻭﺃ ﺀﺎﻄﺑﺇ ﻭﺃ ﻊﻳﺮﺴﺗ ﻊﻴﻄﺘﺴﺗ</trans>
+  </rep>
+
+  <rep>
+    <path>OpeningComms.helpTexts[0]</path>
+    <trans>.ﺮﻣﺍﻮﻟﺃﺍ ﺓﺪﺣﻭ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍﻭ ﻞﻤﻌﻟﺍ ﺮﻤﻌﺘﺴﻤﻟﺍ ﺩﺪﺣ ،ﻞﺻﺍﻮﺘﻠﻟ</trans>
+  </rep>
+
+  <rep>
+    <path>StorageTabCategories.helpTexts[0]</path>
+    <trans>. ﻒﻴﻨﺼﺘﻟﺍ ﻢﺳﺍ ﺭﺎﺴﻳ ﻰﻠﻋ ﺕﺎﺜﻠﺜﻤﻟﺍ ﻂﻐﺿﺍ . ﺓﺩﺪﺤﻣ ﺀﺎﻴﺷﺃ ﻊﻨﻣ ﻭﺃ ﺡﺎﻤﺴﻠﻟ ﺕﺎﻔﻴﻨﺼﺘﻟﺍ ﻊﻴﺳﻮﺗ ﻊﻴﻄﺘﺴﺗ ﻦﻳﺰﺨﺘﻟﺍ ﺐﻳﻮﺒﺗ ﻲﻓ</trans>
+  </rep>
+
+  <rep>
+    <path>Mining.helpTexts[0]</path>
+    <trans>. ﺎﺌﻴﺷ ﺞﺘﻨﻳ ﻻ ﺭﻮﺨﺼﻟﺍ ﻦﻳﺪﻌﺗ\n\nﻥﺪﻌﻤﻟﺍ ﺞﺘﻨﻳ ﻥﺩﺎﻌﻤﻟﺍ ﻦﻳﺪﻌﺗ\n\n. ﺀﺎﻨﺒﻟﺍ ﺔﻤﺋﺎﻗ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻦﻳﺪﻌﺘﻟﺍ ﺔﻘﻄﻨﻣ ﻦﻴﻴﻌﺗ ﻊﻴﻄﺘﺴﺗ</trans>
+  </rep>
+
+  <rep>
+    <path>WorkOverview.helpTexts[0]</path>
+    <trans>تستطيع تعيين إعدادات عمل المستعمر في قائمة نظرة عامة في أسفل يمين الشاشة\n\المستوطنون سوف يعملون العمل ذو الأولوية الكبرى</trans>
+  </rep>
+  <rep>
+    <path>WorkOverview.helpTexts[1]</path>
+    <trans>. ﻩﺯﺎﺠﻧﺇ ﻢﺘﻳ ﻦﻠﻓ ﺮﻤﻌﺘﺴﻣ ﻱﻷ ﻦﻴﻌﻣ ﻞﻤﻋ ﻦﻴﻴﻌﺗ ﻢﺘﻳ ﻢﻟ ﺍﺫﺇ\n\nﺎﻬﻨﻴﻴﻌﺗ ﻢﺘﻳ ﻢﻟ ﻝﺎﻤﻋﺃ ﺍﻮﻠﻤﻌﻳ ﻦﻟ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ</trans>
+  </rep>
+
+  <rep>
+    <path>EquippingWeapons.helpTexts[0]</path>
+    <trans>. ﺔﻳﺍﺪﺒﻟﺍ ﻊﻗﻮﻣ ﺏﺮﻗ ﺽﺭﻷﺍ ﻰﻠﻋ ﺔﺤﻠﺳﺃ ﻙﺎﻨﻫ\ﺡﻼﺴﻟﺍ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺓﺭﺄﻔﻟﺍ ﺭﺰﺑ ﻂﻐﺿﺍ ﻭ ﺮﻤﻌﺘﺴﻤﻟﺍ ﺮﺘﺧﺍ ﺎﺣﻼﺳ ﻞﻤﻌﺘﺴﻳ ﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﻌﺠﻟ</trans>
+  </rep>
+
+  <rep>
+    <path>SetGrowingZonePlant.helpTexts[0]</path>
+    <trans>'.ﺕﺎﺒﻨﻟﺍ' ﺭﺯ ﻰﻠﻋ ﺮﻘﻧﺍﻭ ،ﺪﻳﺍﺰﺗ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﻭ ،ﺔﻴﻣﺎﻨﺘﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﺭﺎﻴﺘﺧﺍ ﻯﻮﺳ ﻚﻴﻠﻋ ﺎﻣ \n\n !ﺭﺎﺠﺷﻷﺍ ﻮﻤﻨﺗ ﻰﺘﺣ ﻚﻨﻜﻤﻳ .ﺔﻴﻣﺎﻨﺘﻤﻟﺍ ﺔﻘﻄﻨﻣ ﻲﻓ ﻉﺭﺯ ﺎﻣ ﻦﻴﻴﻌﺗ ﻚﻨﻜﻤﻳ.</trans>
+  </rep>
+  
+  
+</LanguageData>
