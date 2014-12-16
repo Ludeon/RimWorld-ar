@@ -1,57 +1,111 @@
 <?xml version="1.0" encoding="utf-8" ?>
+
 <LanguageData>
+
+
+
 
  
   <MessageSiegersAssaulting>.ﺓﺮﻤﻌﺘﺴﻣ ﻰﻠﻋ ﺀﺍﺪﺘﻋﻻﺍﻭ {1} ﻦﻣ {0} Sieging</MessageSiegersAssaulting>
 
+
+
   <MessageRaidersBeginningAssault>.ﻢﻬﻣﻮﺠﻫ ﺍﻭﺃﺪﺑ {1} ﻦﻣ {0}</MessageRaidersBeginningAssault>
+
   <MessageRaidersDetectedEarlyAssault>.ﺮﻜﺒﻣ ﺖﻗﻭ ﻲﻓ ﻡﻮﺠﻬﻟﺍ ﺃﺪﺑﻭ ،ﻚﻔﺸﻛ ﻢﺗ {1} ﻦﻣ {0}</MessageRaidersDetectedEarlyAssault>
+
   <MessageRaidersKidnapping>.ﻥﻭﺭﺩﺎﻐﻳﻭ ﻢﻬﻌﺳﻭ ﻲﻓ ﻦﻳﺬﻟﺍ ﻒﻄﺧ ﺍﻭﺭﺮﻗ {1} ﻦﻣ {0}</MessageRaidersKidnapping>
 
+
+
   <MessageRaidersLeaving>.ﻥﻭﺭﺩﺎﻐﻳ {1} ﻦﻣ {0}</MessageRaidersLeaving>
+
 	<MessageRaidersGivenUpLeaving>.ﻥﻭﺭﺩﺎﻐﻳﻭ ﻮﺒﻌﺗ {1} ﻦﻣ {0}</MessageRaidersGivenUpLeaving>
+
   <MessageRaidersSatisfiedLeaving>.ﻥﻭﺭﺩﺎﻐﻳﻭ ﺖﻘﺤﻟ ﻲﺘﻟﺍ ﺭﺍﺮﺿﻷﺍ ﻰﻠﻋ ﺎﻴﺿﺍﺭ {1} ﻦﻣ {0}</MessageRaidersSatisfiedLeaving>
 
+
+
   
-  <MessageFightersFleeing>.ﻥﻮﺑﺮﻬﻳ {1} ﻦﻣ {0}</MessageFightersFleeing>
+<MessageFightersFleeing>.ﻥﻮﺑﺮﻬﻳ {1} ﻦﻣ {0}</MessageFightersFleeing>
+
   <MessageFriendlyFightersLeaving>.ﻥﻭﺭﺩﺎﻐﻳ {1} ﻦﻣ {0} ﺔﻳﺩﻭ</MessageFriendlyFightersLeaving>
+
+
+  <MessageSeasonBegun>{0} ﺕﺃﺪﺑ ﺪﻗ .</MessageSeasonBegun>
+
 
 
 
   <MessageShipHasLeftCommsRange>.ﺮﻣﺍﻮﻟﺃﺍ ﻕﺎﻄﻧ ﺭﺩﺎﻏ {0}</MessageShipHasLeftCommsRange>
+
+
 	
 	<MessageNeedBeaconToTradeWithShip>.ﺔﻨﻴﻔﺳ ﻊﻣ ﺓﺭﺎﺠﺘﻠﻟ ﺔﻳﺭﺍﺪﻤﻟﺍ ﺓﺭﺎﺠﺘﻟﺍ ﺓﺭﺎﻨﻣ ﻰﻟﺇ ﺝﺎﺘﺤﺗ</MessageNeedBeaconToTradeWithShip>
-	
+
+
+
   <MessageBillComplete>.{0} :ﻝﺎﻤﺘﻛﺍ ﺓﺭﻮﺗﺎﻓ</MessageBillComplete>
-  
+
+
   <MessageFullyHealed>.ﺎﻣﺎﻤﺗ ﺖﻴﻔﺷ {0}</MessageFullyHealed>
+
+
 
   <MessagePrisonerIsEscaping>.ﺏﺮﻬﻟﺍ {0} ﻦﻴﺠﺴﻟﺍ</MessagePrisonerIsEscaping>
 
+
+
   <MessageRecruitSuccess>.(ﺔﺻﺮﻓ {2}) {1} ﺪﻴﻨﺠﺘﺑ ﺖﺤﺠﻧ {0}.</MessageRecruitSuccess>
+
 	<MessageRecruitFail>.(ﺔﺻﺮﻓ {2}) {1} ﺪﻴﻨﺠﺘﺑ ﻞﺸﻓ {0}</MessageRecruitFail>
+
 	<MessageRecruitFailBecauseLoyalty>.(ﺀﻻﻮﻟﺍ ﺔﺒﺘﻋ ﺖﺤﺗ ﻦﻴﺠﺳ) {1} ﺪﻴﻨﺠﺘﺑ ﻞﺸﻓ {0}</MessageRecruitFailBecauseLoyalty>
-	
+
+
   <MessagePoorlyTreated>.(ﺓﺪﻴﺟ ﺔﺻﺮﻓ {2} ،ﺔﺌﻳﺩﺭ ﺔﻴﻋﻮﻧ ﺕﺍﺫ) {0} ﻞﻣﺎﻌﺗ {1}</MessagePoorlyTreated>
+
   <MessageWellTreated>.(ﺓﺪﻴﺟ ﺔﺻﺮﻓ {2} ،ﺓﺪﻴﺟ ﺔﻴﻋﻮﻧ ﺕﺍﺫ) {0} ﻞﻣﺎﻌﺗ {1}</MessageWellTreated>
-	
+
+
   <MessageTraderCannotAfford>.ﺔﻘﻔﺼﻟﺍ ﻩﺬﻫ ﻊﻴﻄﺘﺴﺗ ﻻ ﺮﺟﺎﺗ</MessageTraderCannotAfford>
+
   <MessageColonyCannotAfford>.ﺔﻘﻔﺼﻟﺍ ﻩﺬﻫ ﻊﻴﻄﺘﺴﺗ ﻻ ﺓﺮﻤﻌﺘﺴﻤﻠﻟ ﻦﻜﻤﻳ</MessageColonyCannotAfford>
+
   <MessageColonyNotEnoughSilver>.ﺓﺭﺎﺠﺘﻠﻟ ﺓﺰﻫﺎﺟ ﺔﻀﻔﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﻚﻳﺪﻟ ﺲﻴﻟ</MessageColonyNotEnoughSilver>
+
   <MessageTraderNotEnoughSilver>.ﺔﻀﻔﻟﺍ ﺮﺟﺎﺗ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﻚﻠﻤﺗ ﻻ</MessageTraderNotEnoughSilver>
+
+
 
   <MessageCriticalAlert>{0} :ﺝﺮﺣ ﻪﻴﺒﻨﺗ</MessageCriticalAlert>
 
+
+
   <MessageMustDesignateHarvestable>.ﻑﺎﻛ ﻞﻜﺸﺑ ﻉﺭﺰﺗ ﻲﺘﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺩﺎﺼﺣ ﻦﻴﻴﻌﺗ ﺐﺠﻳ</MessageMustDesignateHarvestable>
+
   <MessageMustDesignateHarvestableWood>.ﻑﺎﻛ ﻞﻜﺸﺑ ﻉﺭﺰﺗ ﻲﺘﻟﺍ ﺭﺎﺠﺷﻷﺍﻭ ﺐﺸﺨﻟﺍ ﺩﻭﺩﺮﻤﻟﺍ ﻦﻴﻴﻌﺗ ﺐﺠﻳ</MessageMustDesignateHarvestableWood>
+
   <MessageMustDesignatePlants>.ﺕﺎﺗﺎﺒﻨﻟﺍ ﻦﻴﻌﺗ ﺐﺠﻳ</MessageMustDesignatePlants>
+
   <MessageMustDesignateHaulable>haulable. ﺮﺻﺎﻨﻋ ﻦﻴﻴﻌﺗ ﺐﺠﻳ</MessageMustDesignateHaulable>
-  
-  <MessageNoMedicalBeds>ﺓﺮﻓﻮﺘﻣ ﺔﻴﺒﻃ ﺓﺮﺳﺃ ﺮﻓﻮﺘﺗ ﻻ</MessageNoMedicalBeds>
-  
+
+   <MessageMustDesignateMineable>Must designate impassable mineable rocks.</MessageMustDesignateMineable>
+  <MessageMustDesignateHuntable>Must designate huntable animals.</MessageMustDesignateHuntable>
+  <MessageMustDesignateClaimable>Must designate abandoned artificial structures.</MessageMustDesignateClaimable>
+  <MessageMustDesignateSmoothableFloor>Must designate rough stone floor.</MessageMustDesignateSmoothableFloor>
+
+<MessageNoMedicalBeds>ﺓﺮﻓﻮﺘﻣ ﺔﻴﺒﻃ ﺓﺮﺳﺃ ﺮﻓﻮﺘﺗ ﻻ</MessageNoMedicalBeds>
+
+
   <PawnDiedBecauseOf>.{1} ﺐﺒﺴﺑ ﺕﺎﻣ ﺪﻗ {0}</PawnDiedBecauseOf>
 
+
+
   <MessageNoLongerDowned>.ﻲﺸﻤﻟﺍ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ﺪﻌﺗ ﻢﻟ {0}</MessageNoLongerDowned>
+
+
+
   
   
 </LanguageData>
