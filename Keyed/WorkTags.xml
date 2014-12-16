@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="utf-8" ?>
+
 <LanguageData>
 
-  <WorkTagNone>None</WorkTagNone>
+
+
+  <WorkTagNone>لا شى</WorkTagNone>
+
   <WorkTagIntellectual>ﺔﻳﺮﻜﻔﻟﺍ </WorkTagIntellectual>
-  <WorkTagManualDumb>ﻲﺒﻏ ﻞﻤﻌﻟﺍ </WorkTagManualDumb>
-  <WorkTagManualSkilled>ﺓﺮﻫﺎﻣ ﻞﻤﻌﻟﺍ </WorkTagManualSkilled>
+
+  <WorkTagManualDumb>ﻂﻴﺴﺑ ﻞﻤﻌﻟﺍ </WorkTagManualDumb>
+
+  <WorkTagManualSkilled>ﻲﻨﻬﻤﻟﺍ ﻞﻤﻌﻟﺍ </WorkTagManualSkilled>
+
   <WorkTagViolent>ﻒﻴﻨﻋ </WorkTagViolent>
+
   <WorkTagCaring>ﺀﺎﻨﺘﻋﻻﺍ </WorkTagCaring>
+
   <WorkTagSocial>ﺔﻴﻋﺎﻤﺘﺟﻹﺍ </WorkTagSocial>
-  <WorkTagScary>ﻒﻴﺨﻣ </WorkTagScary>
-  <WorkTagArtistic>ﻲﻨﻔﻟﺍ </WorkTagArtistic>
-  <WorkTagCrafting>ﻚﺒﺤﻳ </WorkTagCrafting>
-  <WorkTagCooking>ﺦﺒﻄﻟﺍ </WorkTagCooking>
+
+  <WorkTagScary>ﻑﺍﻮﺧ </WorkTagScary>
+
+  <WorkTagArtistic>ﻦﻔﻟﺍ ﻝﺎﻤﻋﺍ </WorkTagArtistic>
+
+  <WorkTagCrafting>ﺖﻓﺮﻛ/ﺔﻋﺎﻨﺻ </WorkTagCrafting>
+
+  <WorkTagCooking>ﺦﺒﻄﻟﺍ ﻝﺎﻤﻋﺍ </WorkTagCooking>
+
   <WorkTagFirefighting>ﻖﺋﺍﺮﺤﻟﺍ ﺔﺤﻓﺎﻜﻣ </WorkTagFirefighting>
-  <WorkTagCleaning>ﻒﻴﻈﻨﺘﻟﺍ </WorkTagCleaning>
-  <WorkTagHauling>ﺪﺷ </WorkTagHauling>
-  <WorkTagPlantWork>ﻝﺎﻤﻋﺃ ﺕﺎﺒﻨﻟﺍ </WorkTagPlantWork>
-  <WorkTagMining>ﻢﺟﺎﻨﻣ </WorkTagMining>
+
+  <WorkTagCleaning>ﻒﻴﻈﻨﺘﻟﺍ ﻝﺎﻤﻋﺍ </WorkTagCleaning>
+
+  <WorkTagHauling>ﻞﻤﺤﻟﺍ ﻝﺎﻤﻋﺍ </WorkTagHauling>
+
+  <WorkTagPlantWork>ﺔﻋﺍﺭﺰﻟﺍ ﻝﺎﻤﻋﺍ </WorkTagPlantWork>
+
+  <WorkTagMining>ﻢﺟﺎﻨﻤﻟﺍ ﻝﺎﻤﻋﺍ </WorkTagMining>
+
+
 
 </LanguageData>
