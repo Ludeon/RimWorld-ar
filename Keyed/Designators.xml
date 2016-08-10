@@ -1,82 +1,85 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-  <DesignatorCancel>Cancel</DesignatorCancel>
-  <DesignatorCancelDesc>Cancel designated building, mining, hauling, harvesting, and all other designations.</DesignatorCancelDesc>
+  <DesignatorCancel>ÅáÛÇÁ</DesignatorCancel>
+  <DesignatorCancelDesc>ÅáÛÇÁ ãÄÔÑÇÊ ÇæÇãÑ ÇáÈäÇÁ, ÇáÍİÑ, ÇáäŞá, ÇáÍÕÇÏ æ ßá ãÄÔÑÇÊ ÇáÇæÇãÑ ÇáÇÎÑì.</DesignatorCancelDesc>
 
-  <DesignatorCutPlants>Cut plants</DesignatorCutPlants>
-  <DesignatorCutPlantsDesc>Marks plants to be cut and destroyed. The plant will be completely removed, and any food will be harvested.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlants>ŞØÚ ÇáäÈÇÊ</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc> ÅÊÃÔíÑ ÇáäÈÊÉ ááŞÕ. ÓíÊã ŞÕ ÇáäÈÊÉ æ ÅÒÇáÊåÇ, Çí äÈÊÉ ÊÍæí Úáì ÛĞÇÁ ÓíÊã ÍÕÏåÇ. </DesignatorCutPlantsDesc>
 
-  <DesignatorDeconstruct>Deconstruct</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>Deconstruct buildings and reclaim part of their resources.</DesignatorDeconstructDesc>
+  <DesignatorDeconstruct>åÏã</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>ÊÃÔíÑ ÈäÇÁ Ãæ ÇËÇË ááåÏã. ÓíÊã ÇÓÊÑÏÇÏ ÈÚÖ ÇáãæÇÏ ÇáÊí ÇÓÊÎÏãÊ İí ÕäÇÚÊå.</DesignatorDeconstructDesc>
 
-  <DesignatorHarvestFood>Harvest food</DesignatorHarvestFood>
-  <DesignatorHarvestFoodDesc>Marks plants to be harvested for food. Food will be harvested as possible from the plant, but the plant itself will remain.</DesignatorHarvestFoodDesc>
+  <DesignatorHarvestFood>ÍÕÇÏ</DesignatorHarvestFood>
+  <DesignatorHarvestFoodDesc>ÊÇÔíÑ ÇáäÊÉ ááÍÕÇÏ. ÓíÊã ÇáÍÕæá Úáì ÇáÛĞÇÁ ãä ÇáäÈÊÉ Åä Ããßä, áßä áä íÊã ÅÒÇáÉ ÇáäÈÊÉ.</DesignatorHarvestFoodDesc>
 
-  <DesignatorHarvestWood>Chop wood</DesignatorHarvestWood>
-  <DesignatorHarvestWoodDesc>Marks trees to be chopped down for wood.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWood>ŞØÚ ÇáÎÔÈ</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>ÊÇÔíÑ ÇáÇÔÌÇÑ áíÊã ŞØÚåÇ ãä ÃÌá ÇáÎÔÈ.</DesignatorHarvestWoodDesc>
 
-  <DesignatorHaulThings>Haul things</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Mark debris and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable.</DesignatorHaulThingsDesc>
-  <NothingToHaulHere>Nothing to haul here.</NothingToHaulHere>
-  <MustHaulHaulables>Can only designate haulable non-automatic things (like debris).</MustHaulHaulables>
+  <DesignatorHaulThings>äŞá</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>ÊÃÔíÑ ÇáÑßÇã æ ÃÔíÇÁ ÃÎÑì áíÊã äŞáåÇ Åáì ÇáãßÈÇÊ. áÇ íäØÈŞ åĞÇ ÇáÇãÑ Úáì ÇáÌËË Ãæ ÇáØÚÇã ÍíË íÊã äŞáåÇ ÏÇÆãÇ.</DesignatorHaulThingsDesc>
+  <NothingToHaulHere>áÇ íæÌÏ ÔíÁ ááäŞá åäÇ.</NothingToHaulHere>
+  <MustHaulHaulables>íãßä İŞØ ÊÍÏíÏ ÇáÃÔíÇÁ ÇáÊí áÇ íÊã äŞáåÇ ÊáŞÇÆíÇ ßÇáÑßÇã.</MustHaulHaulables>
 
-  <DesignatorHunt>Hunt</DesignatorHunt>
-  <DesignatorHuntDesc>Mark animals to be hunted by your hunters.</DesignatorHuntDesc>
+  <DesignatorHunt>ÕíÏ</DesignatorHunt>
+  <DesignatorHuntDescÊÇÔíÑ ÇáÍíæÇäÇÊ áíÊã ÕíÏåÇ ãä ŞÈá ÇáÕíÇÏíä.</DesignatorHuntDesc>
 
-  <DesignatorMine>Mine</DesignatorMine>
-  <DesignatorMineDesc>Designate areas of rock to be mined out.</DesignatorMineDesc>
+  <DesignatorMine>ÍİÑ</DesignatorMine>
+  <DesignatorMineDesc>ÊÇÔíÑ ãäÇØŞ ãä ÇáÕÎÑ áíÊã ÍİÑåÇ.</DesignatorMineDesc>
 
-  <DesignatorPlan>Plan</DesignatorPlan>
-  <DesignatorPlanDesc>Place planning designations. These don't do anything except help you plan future expansions.</DesignatorPlanDesc>
+  <DesignatorPlan>ÊÎØíØ</DesignatorPlan>
+  <DesignatorPlanDesc>æÖÚ ãÄÔÑÇÊ ÊÎØíØ. åĞå ÇáãÄÔÑÇÊ áÇ ÊÚãá ÔíÆÇ Óæì ãÓÇÚÏÊß İí ÊÎØíØ ãäÇØŞ ÇáÈäÇÁ ÇáãÓÊŞÈáíÉ.</DesignatorPlanDesc>
 
-  <DesignatorPlanRemove>Remove plans</DesignatorPlanRemove>
-  <DesignatorPlanRemoveDesc>Remove planning designations.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemove>ÅÒÇáÉ ÇáÊÎØíØ</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>ÅÒÇáÉ ãÄÔÑÇÊ ÇáÊÎØíØ.</DesignatorPlanRemoveDesc>
 
-  <DesignatorHomeRegionAdd>Add Home Region</DesignatorHomeRegionAdd>
-  <DesignatorHomeRegionAddDesc>Colonists will repair buildings, clean floors, and extinguish fires only in the home region.</DesignatorHomeRegionAddDesc>
+  <DesignatorHomeRegionAdd>ÊæÓíÚ ÇáãäØŞÉ ÇáÈíÊíÉ</DesignatorHomeRegionAdd>
+  <DesignatorHomeRegionAddDesc>íŞæã ÇáãæÇØäæä ÈÇáÊäÙíİ, ÇáÇÕáÇÍ æ ÅØİÇÁ ÇáÍÑÇÆŞ Öãä ÇáãäØŞÉ ÇáÈíÊíÉ İŞØ.</DesignatorHomeRegionAddDesc>
 
-  <DesignatorHomeRegionRemove>Remove Home Region</DesignatorHomeRegionRemove>
-  <DesignatorHomeRegionRemoveDesc>Removes a home region. Colonists will no longer clean, repair, or extinguish fires here.</DesignatorHomeRegionRemoveDesc>
+  <DesignatorHomeRegionRemove>ÅÒÇáÉ ãä ÇáãäØŞÉ ÇáÈíÊíÉ</DesignatorHomeRegionRemove>
+  <DesignatorHomeRegionRemoveDesc>ÅÒÇáÉ ÇáãäØŞÉ ãä ÇáãäØŞÉ ÇáÈíÊíÉ. áä íŞæã ÇáãæÇØäæä ÈÇáÊäÙíİ, ÇáÇÕáÇÍ Ãæ ÅØİÇÁ ÇáÍÑÇÆŞ İí åĞå ÇáãäØŞÉ ÈÚÏ ÇáÇä.</DesignatorHomeRegionRemoveDesc>
 
-  <DesignatorRegionNoRoofAdd>Create No Roof Region</DesignatorRegionNoRoofAdd>
-  <DesignatorRegionNoRoofAddDesc>Create a region where roofs will not generate. Colonists will also tear down existing roofs here.</DesignatorRegionNoRoofAddDesc>
+  <DesignatorRegionNoRoofAdd>ÊÍÏíÏ ãäØŞÉ ÛíÑ ãÓŞæİÉ</DesignatorRegionNoRoofAdd>
+  <DesignatorRegionNoRoofAddDesc>ÊÍÏíÏ ãäØŞÉ áä íÊã ÈäÇÁ ÓŞæİ İíåÇ. ÓíŞæã ÇáãæÇØäæä ÃíÖÇ ÈÅÒÇáÉ ÇáÓŞæİ ÇáãæÌæÏÉ ãÓÈŞÇ İí åĞå ÇáãäØŞÉ.</DesignatorRegionNoRoofAddDesc>
 
-  <DesignatorRegionNoRoofRemove>Remove No Roof Region</DesignatorRegionNoRoofRemove>
-  <DesignatorRegionNoRoofRemoveDesc>Removes a no-roof region. Roofs will generate here, and existing roofs will not be torn down.</DesignatorRegionNoRoofRemoveDesc>
+  <DesignatorRegionNoRoofRemove>ÅÒÇáÉ ãäØŞÉ ÛíÑ ãÓŞæİÉ</DesignatorRegionNoRoofRemove>
+  <DesignatorRegionNoRoofRemoveDesc>ÅÒÇáÉ ãäØŞÉ ÛíÑ ãÓŞæİÉ. ÓíÊã ÈäÇÁ ÓŞæİ İí åĞå ÇáãäØŞÉ, æ ÇáÓŞæİ ÇáãæÌæÏÉ ãÓÈŞÇ áä íÊã ÅÒÇáÊåÇ.</DesignatorRegionNoRoofRemoveDesc>
 
-  <DesignatorGrowingZoneDesc>Create a zone where your colonists will try to grow a certain kind of plant.</DesignatorGrowingZoneDesc>
+  <DesignatorGrowingZone>ÊÍÏíÏ ãäØŞÉ ÒÑÇÚíÉ</DesignatorGrowingZone>
+  <DesignatorGrowingZoneDesc>ÊÍÏíÏ ãäØŞÉ ÓíŞæã İíåÇ ÇáãæÇØäæä ÈÒÑÇÚÉ äæÚ ãÚíä ãä ÇáäÈÇÊ.</DesignatorGrowingZoneDesc>
 
-  <DesignatorZoneCreateStorageResourcesDesc>Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorZoneCreateStorageResources>ÊÍÏíÏ ãäØŞÉ ÊÎÒíä</DesignatorZoneCreateStorageResources>
+  <DesignatorZoneCreateStorageResourcesDesc>ÊÍÏíÏ ãäØŞÉ ÓíŞæã ÇáãæÇØäæä ÈÊÎÒíä ÇáãæÇÏ İíåÇ\níãßä ÇÓÊÎÏÇã åĞå ÇáÇÏÇÉ áÊæÓíÚ Ãí ãäØŞÉ ÊÎÒíä ãæÌæÏÉ ãÓÈŞÇ.</DesignatorZoneCreateStorageResourcesDesc>
 
-  <DesignatorZoneCreateStorageDumpingDesc>Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageDumpingc>ÊÍÏíÏ ãäØŞÉ áÑãí ÇáÑßÇã</DesignatorZoneCreateStorageDumping>
+  <DesignatorZoneCreateStorageDumpingDesc>ÊÍÏíÏ ãäØŞÉ ÓíÓÊÎÏãåÇ ÇáãæÇØäæä áÑãí ÇáÑßÇã æ ÇáäİÇíÇÊ.\níãßä ÇÓÊÎÏÇã åĞå ÇáÇÏÇÉ áÊæÓíÚ Ãí ãäØŞÉ ãæÌæÏÉ ãÓÈŞÇ.</DesignatorZoneCreateStorageDumpingDesc>
 
 
-  <DesignatorZoneDelete>Delete zones</DesignatorZoneDelete>
-  <DesignatorZoneDeleteDesc>Remove zones, like stockpile zones or growing zones.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDelete>ÅÒÇáÉ ãäØŞÉ</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>ÅáÛÇÁ ãäØŞÉ, ßãäØŞÉ ÊÎÒíä Ãæ ÒÑÇÚÉ Ãæ ÛíÑåÇ</DesignatorZoneDeleteDesc>
   
   
   
   <!-- placement of blueprints -->
-  <TooCloseToMapEdge>Too close to map edge.</TooCloseToMapEdge>
-  <OutOfBounds>Out of bounds.</OutOfBounds>
-  <CannotPlaceInUndiscovered>Cannot place in undiscovered areas.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>Interaction spot is blocked.</InteractionSpotBlocked>
-  <InteractionSpotWillBeBlocked>Interaction location will be blocked.</InteractionSpotWillBeBlocked>
-  <WouldBlockInteractionSpot>{0} would block {1}'s interaction square.</WouldBlockInteractionSpot>
-  <TerrainIsAlready>The terrain here is already {0}.</TerrainIsAlready>
+  <TooCloseToMapEdge>ŞÑíÈ ÌÏÇ ãä ÍÇİÉ ÇáÎÑíØÉ</TooCloseToMapEdge>
+  <OutOfBounds>ÎÇÑÌ ÇáÎÑíØÉ</OutOfBounds>
+  <CannotPlaceInUndiscovered>áÇ íãäßäß æÖÚ åĞÇ İí ãäØŞÉ ÛíÑ ãÓÊßÔİÉ.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>äŞØÉ ÇáÇÓÊÎÏÇã ãÓÏæÏÉ.</InteractionSpotBlocked>
+  <InteractionSpotWillBeBlocked>ÓíÄÏí åĞÇ Åáì ÓÏ äŞØÉ ÇáÇÓÊÚãÇá.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot> ÓíŞæã {0} ÈÓÏ äŞØÉ ÇáÇÓÊÚãÇá áÜ{1} ÅĞÇ æÖÚÊå åäÇ.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>ÇáãäØŞÉ åäÇ åí  {0} ÈÇáÇÕá.</TerrainIsAlready>
   <IdenticalThingExists>Identical thing already exists here.</IdenticalThingExists>
-  <IdenticalBlueprintExists>Identical blueprint already exists here.</IdenticalBlueprintExists>
-  <TerrainCannotSupport>The terrain here cannot support this.</TerrainCannotSupport>
-  <SpaceAlreadyOccupied>Space already occupied.</SpaceAlreadyOccupied>
+  <IdenticalBlueprintExists>ãÎØØ ÈäÇÁ  ãØÇÈŞ ãæÌæÏ åäÇ ÈÇáÇÕá.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>äæÚíÉ ÇáÇÑÖ åäÇ áÇ ÊÓãÍ ÈÈäÇÁ åĞÇ.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>ÇáãäØŞÉ åäÇ ãÍÌæÒÉ ãÓÈŞÇ.</SpaceAlreadyOccupied>
 
   <!-- placement of zones -->
-  <ExpandOrCreateZone>Expand {0} or\nCreate new {1}</ExpandOrCreateZone>
-  <CreateNewZone>Create new {0}</CreateNewZone>
+  <ExpandOrCreateZone>æÓÚ {0} Ãæ\nÍÏÏ {1} ÌÏíÏÉ</ExpandOrCreateZone>
+  <CreateNewZone>ÍÏÏ {0} ÌÏíÏÉ</CreateNewZone>
   
   
   <!-- desc helpers -->
-  <TransmitsPower>Transmits power</TransmitsPower>
+  <TransmitsPower>Şã ÈÊæÕíá ÇáØÇŞÉ.</TransmitsPower>
 
 
 </LanguageData>

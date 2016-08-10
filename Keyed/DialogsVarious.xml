@@ -3,90 +3,90 @@
 
 
 
-  <Confirm>Confirm</Confirm>
-  <GoBack>Go back</GoBack>
-  <OK>OK</OK>
+  <Confirm>ÊÃßíÏ</Confirm>
+  <GoBack>ÚæÏÉ</GoBack>
+  <OK>ãæÇİŞ</OK>
   
   <!-- Save/load -->
-  <SaveGameButton>Save</SaveGameButton>
-  <OverwriteButton>Overwrite</OverwriteButton>
-  <LoadGameButton>Load</LoadGameButton>
-  <ConfirmDelete>Really delete {0}?</ConfirmDelete>
-  <DeleteThisSavegame>Delete this savegame.</DeleteThisSavegame>
-  <SavedAs>Saved as {0}.</SavedAs>
-  <NeedAName>Please enter a name.</NeedAName>
-  <LoadingLongEvent>Loading...</LoadingLongEvent>
+  <SaveGameButton>ÍİÙ</SaveGameButton>
+  <OverwriteButton>ÇÓÊÈÏÇá</OverwriteButton>
+  <LoadGameButton>ÊÍãíá</LoadGameButton>
+  <ConfirmDelete>ãÊÃßÏ ãä ÍĞİ{0}¿</ConfirmDelete>
+  <DeleteThisSavegame>ÍĞİ ãáİ ÇáÍİÙ.</DeleteThisSavegame>
+  <SavedAs>Êã ÇáÍİÙ ßÜ{0} ÈäÌÇÍ.</SavedAs>
+  <NeedAName>ÇáÑÌÇÁ ÇÏÎÇá ÇÓã.</NeedAName>
+  <LoadingLongEvent>ÌÇÑí ÇáÊÍãíá...</LoadingLongEvent>
   
   
   <!-- Colony naming-->
-  <NameColonyMessage>Everyone knows that you don't want to stay on this rock for long. But {0} is suggesting that you give the colony a name anyway.\n\nWhat should it be called?</NameColonyMessage>
-  <ColonyGainsName>The colony is now known as {0}.</ColonyGainsName>
-  <ColonyNameIsInvalid>That colony name isn't valid.</ColonyNameIsInvalid>
+  <NameColonyMessage>ßáäÇ äÚÑİ Ãäß áÇ ÊÑíÏ ÇáÈŞÇÁ Úáì åĞå ÇáÕÎÑÉ áãÏÉ ØæíáÉ. áßä {0} íŞÊÑÍ Ãä ÊÓãí åĞå ÇáãÓÊæØäÉ ÈÃí ÍÇá.\n\nãÇĞÇ ÓÊÓãíåÇ¿</NameColonyMessage>
+  <ColonyGainsName>ÓÊÚÑİ åĞå ÇáãÓÊæØäÉ ÈÇÓã {0} ãä ÇáÇä.</ColonyGainsName>
+  <ColonyNameIsInvalid>åĞÇ ÇáÇÓã áÇ íÕáÍ ááãÓÊæØäÉ.</ColonyNameIsInvalid>
 
   <!-- Zone naming -->
-  <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
-  <ZoneNameIsInvalid>Please enter a valid zone name.</ZoneNameIsInvalid>
+  <ZoneGainsName>åĞå ÇáãäØŞÉ ÇÓãåÇ {0} ÇáÇä.</ZoneGainsName>
+  <ZoneNameIsInvalid>ÇáÑÌÇÁ ÇÏÎÇá ÇÓã ÕÇáÍ ááãäØŞÉ.</ZoneNameIsInvalid>
 
   <!-- Save game incompatible warning -->
-  <SaveGameIncompatibleWarningText>Version mismatch: Map was saved with game version {0}, we are running version {1}.\n\n Loading this save will probably cause bugs and crashes.</SaveGameIncompatibleWarningText>
-  <SaveGameIncompatibleWarningTitle>Save game incompatibility</SaveGameIncompatibleWarningTitle>
+  <SaveGameIncompatibleWarningText>äÓÎÉ ÇááÚÈÉ ãÎÊáİÉ:  Êã ÇáÍİÙ ÈäÓÎÉ ÇááÚÈÉ ÑŞã {0} ÓÇÈŞÇ, áßäß ÊÓÊÎÏã ÇáäÓÎÉ ÑŞã {1} ÍÇáíÇ.\n\n ÊÍãíá åĞÇ Çáãáİ ÓíÊÓÈÈ ÛÇáÈÇ İí ÃÎØÇÁ æ ãÔÇßá İí ÇááÚÈÉ.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningTitle>äÓÎÉ ÇááÚÈÉ ÛíÑ ãÊæÇİŞÉ ãÚ Çáãáİ</SaveGameIncompatibleWarningTitle>
   
   <!-- Resolution change dialog -->
-  <ConfirmResolutionChange>You've changed your resolution. Does the new one work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
-  <ResolutionKeep>Keep</ResolutionKeep>
-  <ResolutionRevert>Revert</ResolutionRevert>
+  <ConfirmResolutionChange>áŞÏ ŞãÊ ÈÊÛííÑ ÃÈÚÇÏ ÇáÔÇÔÉ. åá ÊÚãá åĞå ÇáÇÚÏÇÏÇÊ ÌíÏÇ¿\n\nÓíÊã ÇáÚæÏÉ ááÇÚÏÇÏÇÊ ÇáÓÇÈŞÉ ÎáÇá {0} ËÇäíÉ...</ConfirmResolutionChange>
+  <ResolutionKeep>ÅÈŞÇÁ</ResolutionKeep>
+  <ResolutionRevert>ÚæÏÉ</ResolutionRevert>
 
   <!-- Overview -->
-  <OverviewOf>Overview of {0}</OverviewOf>
+  <OverviewOf>ÇÓÊÚÑÇÖ áÜ{0}</OverviewOf>
 
   <!-- Research -->
-  <Research>Research</Research>
-  <Researched>Researched</Researched>
-  <Unresearched>Unresearched</Unresearched>
-  <Finished>Finished</Finished>
-  <InProgress>In Progress</InProgress>
-  <ResearchMenuWithoutBench>Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at and choose research projects now.</ResearchMenuWithoutBench>
+  <Research>ÊØæíÑ</Research>
+  <Researched>Êã ÇáÊØæíÑ</Researched>
+  <Unresearched>ÛíÑ ãØæÑ</Unresearched>
+  <Finished>ãäÊå</Finished>
+  <InProgress>ÌÇÑí ÇáÊØæíÑ</InProgress>
+  <ResearchMenuWithoutBench>áä íÓÊØíÚ ÇáãæÇØäæä ÇáÈÏÁ ÈÇáÊØæíÑ ÍÊì ÊŞæã ÈÈäÇÁ ãÔÛá ÇáÊØæíÑ. \n\náßä ÈÇÓÊØÇÚÊß ÇÎÊíÇÑ ãÔÑæÚ ÇáÊØæíÑ Úáì Çí ÍÇá.</ResearchMenuWithoutBench>
   
   
   <!-- Advanced game start options -->
-  <MapSizePerformanceWarning>WARNING: Performance may degrade at larger map sizes unless your computer is quite powerful.\n\nIf you have a weak machine, choose Small.\n\nLudeonicrous size is untested and will almost certainly not play well.</MapSizePerformanceWarning>
-  <MapSize>Map size</MapSize>
-  <MapSizeDesc>{0}x{0} ({1} squares)</MapSizeDesc>
-  <MapSizeSmall>Small</MapSizeSmall>
-  <MapSizeMedium>Medium</MapSizeMedium>
-  <MapSizeLarge>Large</MapSizeLarge>
-  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+  <MapSizePerformanceWarning>ÊÍĞíÑ: ŞÏ íßæä ÇáÇÏÇÁ ÖÚíİÇ ÚäÏ ÇÓÊÎÏÇã ÎÑíØÉ ßÈíÑÉ ãÇ áã íßä ÌåÇÒß ŞæíÇ ÈÔßá ßÇİ.\n\nÅĞÇ ßÇä ÌåÇÒß ÖÚíİÇ, ÇÎÊÑ ÎÑíØÉ ÕÛíÑÉ.\n\nÇáÍÌã ÇáåÇÆá áã íÊã ÊÌÑíÈå æ ÓíÊÓÈÈ ÈÅÔßÇáÇÊ ÈÇáÊÃßíÏ..</MapSizePerformanceWarning>
+  <MapSize>ÍÌã ÇáÎÑíØÉ</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} ãÑÈÚÇÊ)</MapSizeDesc>
+  <MapSizeSmall>ÕÛíÑ</MapSizeSmall>
+  <MapSizeMedium>ãÊæÓØ</MapSizeMedium>
+  <MapSizeLarge>ßÈíÑ</MapSizeLarge>
+  <MapSizeExtreme>åÇÆá</MapSizeExtreme>
 
 
 
   <!-- Bill config -->
-  <Suspended>Suspended</Suspended>
-  <NotSuspended>Not suspended</NotSuspended>
-  <SuspendedAllCaps>SUSPENDED</SuspendedAllCaps>
-  <RepeatCount>Repeat: {0}</RepeatCount>
-  <Forever>Forever</Forever>
-  <IngredientSearchRadius>Ingredient search radius</IngredientSearchRadius>
-  <TargetCount>Make until you have: {0}</TargetCount>
-  <Infinite>Infinite</Infinite>
-  <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
-  <PermittedIngredients>Permitted ingredients</PermittedIngredients>
-  <MinimumSkills>Minimum skills:</MinimumSkills>
-  <DoXTimes>Do X times</DoXTimes>
-  <DoUntilYouHaveX>Do until you have X</DoUntilYouHaveX>
-  <DoForever>Do forever</DoForever>
-  <BillRepeatTargetCountShort>To {0}</BillRepeatTargetCountShort>
+  <Suspended>ãÊæŞİ</Suspended>
+  <NotSuspended>ÛíÑ ãÊæŞİ</NotSuspended>
+  <SuspendedAllCaps>ãÊÜæŞÜÜİ</SuspendedAllCaps>
+  <RepeatCount>ßÑÑ: {0} ãÑÉ</RepeatCount>
+  <Forever>ÊßÑÇÑ ÛíÑ ãäÊå</Forever>
+  <IngredientSearchRadius>ãäØŞÉ ÇáÍÕæá Úáì ÇáãæÇÏ</IngredientSearchRadius>
+  <TargetCount>ßÑÑ ÍÊì ÇáÍÕæá Úáì: {0} ÚäÕÑ</TargetCount>
+  <Infinite>áÇäåÇÆí</Infinite>
+  <RecipeCannotHaveTargetCount>(åĞå ÇáæÕİÉ áÇ íãßä Çä ÊÍæí åÏİÇ ááÚÏÏ áÃäåÇ ŞÏ Êßæä ãÊÚÏÏÉ Çæ ÛíÑ ãÊæŞÚÉ ÇáäÊíÌÉ)</RecipeCannotHaveTargetCount>
+  <PermittedIngredients>ÇáãæÇÏ ÇáãÓãæÍ ÇÓÊÚãÇáåÇ</PermittedIngredients>
+  <MinimumSkills>ÇáÍÏ ÇáÇÏäì ááÎÈÑÉ:</MinimumSkills>
+  <DoXTimes>ßÑÑ ÚÏÏ ãÍÏÏ ãä ÇáãÑÇÊ</DoXTimes>
+  <DoUntilYouHaveX>ßÑÑ ÍÊì íÕÈÍ áÏíß </DoUntilYouHaveX>
+  <DoForever>ßÑÑ ÈÔßá áÇäåÇÆí</DoForever>
+  <BillRepeatTargetCountShort> {0} ÚäÕÑ</BillRepeatTargetCountShort>
   
   
   <!-- Trade -->
-  <YourTradeableSilver>Your tradeable silver: {0}</YourTradeableSilver>
-	<YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
+  <YourTradeableSilver>Êãáß ãä ÇáİÖÉ: {0} ÌÇåÒ ááãÊÇÌÑÉ</YourTradeableSilver>
+	<YourTradeableSilverTip>íãßäß İŞØ ÇáãÊÇÌÑÉ ÈÇáİÖÉ ÇáŞÑíÈÉ ãä ãäÇÑÉ ÇáÊÌÇÑÉ ÇáãÏÇÑíÉ.</YourTradeableSilverTip>
 
   <!-- Comms -->
-  <SocialSkillIs>Social skill: {0}</SocialSkillIs>
+  <SocialSkillIs>ÇáÎÈÑÉ ÇáÇÌÊãÇÚíÉ {0} ÊÄËÑ ÈÇáÇÓÚÇÑ</SocialSkillIs>
 
 	
 	<!--Other-->
-	<ResearchFinished>Research finished: {0}</ResearchFinished>
-	<ResearchScreen>Research Screen</ResearchScreen>
+	<ResearchFinished>ÇáÊØæÑÇÊ ÇáãäÊåíÉ: {0} ãÔÇÑíÚ</ResearchFinished>
+	<ResearchScreen>ÔÇÔÉ ÇáÊØæíÑ</ResearchScreen>
 	
 </LanguageData>

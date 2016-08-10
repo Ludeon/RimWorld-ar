@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<ClickToJumpToProblem>إنتقل إلى المشكلة</ClickToJumpToProblem>
@@ -10,14 +10,14 @@
   <EquipStartingEquipmentDesc>لقد هبطت مع بعض الأسلحة. خذها من موقع هبوطك.\n\nلتزود مواطنيك بهذه الأسلحة أختر المواطن ومن ثم أنقر بالزر الأيمن على السلاح.</EquipStartingEquipmentDesc>
   
   <MentalBreakSoon>إضطراب نفسي متوقع قريباً</MentalBreakSoon>
-  <MentalBreakSoonDesc>هءلاء المواطنين بدأت تظهر عليهم حالات إضطراب نفسي:\n\n{0}\nحسن حالت هؤلاء المواطنين عما قريب قبل أن تتدهور حالتهم.</MentalBreakSoonDesc>
+  <MentalBreakSoonDesc>هؤلاء المواطنين بدأت تظهر عليهم حالات إضطراب نفسي:\n\n{0}\nحسن حالت هؤلاء المواطنين عما قريب قبل أن تتدهور حالتهم.</MentalBreakSoonDesc>
 
   <MentalBreakImminent>إضطراب نفسي محتم</MentalBreakImminent>
-  <MentalBreakImminentDesc>iهؤلاء المواطنين في حالة إضطراب نفسي وهو محتم عما قريب:\n\n{0}</MentalBreakImminentDesc>
+  <MentalBreakImminentDesc>هؤلاء المواطنين في حالة إضطراب نفسي وهو محتم عما قريب:\n\n{0}</MentalBreakImminentDesc>
 
   <ColonistNeedsRescue>مواطن يحتاج للإنقاذ</ColonistNeedsRescue>
   <ColonistsNeedRescue>مواطن بحاجة للإنقاذ</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>  المواطن فقد وعية على الأرض:\n\n{0}\nإرسل مواطن اخر لكي ينقذة.\n\n(لكي تنقذ المواطن اختر مواطن اخر واضغط بزر الفارة الأيمن من المواطن المصاب وأنقذة.</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>  المواطن فقد وعيه على الأرض:\n\n{0}\nإرسل مواطن اخر لكي ينقذة.\n\n(لكي تنقذ المواطن اختر مواطن اخر واضغط بزر الفارة الأيمن من المواطن المصاب وأنقذة.</ColonistsNeedRescueDesc>
 
   <BuildARoom>بحاجة لبناء غرفة</BuildARoom>
   <BuildARoomDesc>لايوجد لديك أي غرف.\n\nابن اربع جدراء وباب لكي تكمل الغرفة.\n\nإستخدم قائمة الهندسة لكي تبني ماتريدد.عندما تضع الأمر للبناء مواطنوك سوف يبدؤون بالبناء فور توفر المعدات. </BuildARoomDesc>
@@ -29,60 +29,59 @@
   <NeedDefensesDesc>تواجدت في هذه المنطقة لمدة طويلة. القراصنة سوف يلاحظون تواجدك وهجمون عليك قريباً\n\nجهز دفاعاتك.\n\nإبني بعض المدافع.</NeedDefensesDesc>
 
   <NeedDoctor>بحاجة لطبيب</NeedDoctor>
-  <NeedDoctorDesc>These patients are incapacitated in bed and hungry. They need to be fed, but you have no healthy colonists assigned to the Doctor work type.\n\n{0}\nAssign a healthy colonist to the Doctor work type.</NeedDoctorDesc>
+  <NeedDoctorDesc>هؤلاء المرضى جوعى و لا يستطيعون الحراك. يجب إطعامهم ,لكنك لم توكل مهمة العناية الطبية لأي مواطن سليم.\n\n{0}\nعين مواطنا سليما صحيا كطبيب</NeedDoctorDesc>
 
   <NeedMiner>بحاجة إلى عامل منجم</NeedMiner>
-  <NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
+  <NeedMinerDesc>لقد حددت منطقة ليتم حفرها, لكنك لم تعين أي مواطن ليقوم بأعمال الحفر. \n\nعين أحد المواطنين للحفر</NeedMinerDesc>
 
-  <NeedWarden>Need warden</NeedWarden>
-  <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
+  <NeedWarden>بحاجة لسجان</NeedWarden>
+  <NeedWardenDesc>لديك سجين, و لكنك لم تعين أي مواطن كسجان \n\nوكل أحد المواطنين بمهمة السجان.</NeedWardenDesc>
 
   <LowFood>كمية الطعام قليلة</LowFood>
-  <LowFoodDesc>You only have {0} nutrition worth of food in storage. This is dangerously low.\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
+  <LowFoodDesc>لم يبق لديك سوى {0} مواد غذائية في المخازن. هذه الكمية قليلة جدا\n\nازرع, اشتر, اصتد او اعثر على بعض الطعام. </LowFoodDesc>
 
-  <NeedColonistBeds>بحاجة لسرر مستوطنين</NeedColonistBeds>
-  <NeedColonistBedsDesc>You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.</NeedColonistBedsDesc>
+  <NeedColonistBeds>بحاجة لسرر للمستوطنين</NeedColonistBeds>
+  <NeedColonistBedsDesc>عدد المواطنين يفوق عدد السرر. بعضهم لن يجد مكانا للنوم.\n\nاصنع مزيدا من السرر, او غير بعض سرر المساجين ليستعملها الموطنون.</NeedColonistBedsDesc>
 
-  <Starvation>Starvation</Starvation>
-  <StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food. You'll need a food source like a nutrient paste dispenser and some food to feed it. Also, make sure they're not drafted.</StarvationDesc>
+  <Starvation>جوع</Starvation>
+  <StarvationDesc>هؤلاء المواطنون جائعون:\n\n{0}\nاعطهم بعض الطعام. ستحتاج مصدر طعام كصانع المعجون الغذائي و مصدر غذاء لتشغيله. تأكد ايضا انهم ليسو في حالة استنفار. </StarvationDesc>
 
-  <Exhaustion>Exhaustion</Exhaustion>
-  <ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
+  <Exhaustion>انهاك</Exhaustion>
+  <ExhaustionDesc>هؤلاء المواطنون منهكون و بحاجة للراحة: \n\n{0}\nدعهم يستريحون. سيحتاجون سررا محددة للمواطنين. تأكد ايضا انهم لسيو في حالة استنفار.</ExhaustionDesc>
 
-  <NeedFoodHopper>Need food hopper</NeedFoodHopper>
-  <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
+  <NeedFoodHopper>بحاجة لسلة غذاء</NeedFoodHopper>
+  <NeedFoodHopperDesc>لديك صانع معجون غذائي من دون سلة بجانبه. \n\nحتى يعمل, صانع المعجون يحتاج أن يستمد المادة الغذائية من سلة قريبة تحوي طعاما غير مطبوخ. \n\nابن سلة قريبا منه. </NeedFoodHopperDesc>
 
-  <BuildingNeedsPower>Building needs power</BuildingNeedsPower>
-  <BuildingsNeedPower>Buildings need power</BuildingsNeedPower>
-  <BuildingsNeedPowerDesc>These power-using buildings are totally disconnected from all possible power sources:\n\n{0}\nConnect them to a power generator or battery.</BuildingsNeedPowerDesc>
-  <AndMore>and more</AndMore>
+  <BuildingNeedsPower>هذا البناء بحاجة للطاقة</BuildingNeedsPower>
+  <BuildingsNeedPower>هذه الابنية بحاجة للطاقة</BuildingsNeedPower>
+  <BuildingsNeedPowerDesc>هذه الابنية بحاجة للطاقة و هي غير متصلة نهائيا بأي مصدر للطاقة: \n\n{0}\nتأكد من اتصالها بمولد طاقة أو بطارية. </BuildingsNeedPowerDesc>
+  <AndMore>و المزيد</AndMore>
   
-  <NeedMealSource>Need meal source</NeedMealSource>
-  <NeedMealSourceDesc>You have no way of producing edible meals.\n\nBuild a nutrient paste dispenser or a cook stove.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
+  <NeedMealSource>بحاجة لمصدر للوجبات</NeedMealSource>
+  <NeedMealSourceDesc>ليس لديك أي طريقة لانتاج وجبات للأكل. \n\nابن صانعا للمعجون الغذائي أو موقدا للطبخ. \n\n(لا تضعه ضمن غرفة للمساجين حتى يتمكن المواطنون من استعماله.)</NeedMealSourceDesc>
 
-  <NeedHomeRegion>Need home region</NeedHomeRegion>
-  <NeedHomeRegionDesc>You need to define a HOME REGION where your colonists will clean, extinguish fires, and repair things.\n\nDefine a home region using the ZONES section of the ARCHITECT menu.</NeedHomeRegionDesc>
+  <NeedHomeRegion>بحاجة لمنطقة بيتية</NeedHomeRegion>
+  <NeedHomeRegionDesc>يجب أن تحدد منطقة بيتية حيث سيقوم المواطنون بالتنظيف, إخماد الحرائق و إصلاح الاشياء. \n\nحدد منطقة البيت باستخدام أداة المنطقة ضمن القائمة المعمارية. </NeedHomeRegionDesc>
 
-  <NeedBatteries>Need batteries</NeedBatteries>
-  <NeedBatteriesDesc>You only have solar generators and no batteries. This means you'll lose power every time the sun goes down.\n\nBuild a battery or two to get you through the night.</NeedBatteriesDesc>
+  <NeedBatteries>بحاجة لبطاريات</NeedBatteries>
+  <NeedBatteriesDesc>لديك مولدات شمسية و لكن لا توجد بطاريات. هذا سيفقدك الطاقة حال غروب الشمس. \n\nابن بطارية على الاقل لتخزين الطاقة خلال الليل. </NeedBatteriesDesc>
+  <NoTradingCapacity>لا تستطيع المتاجرة</NoTradingCapacity>
+  <NoTradingCapacityDesc>لا تملك وسيلة للمتاجرة مع السفن القريبة. \n\nابن محطة اتصالات. </NoTradingCapacityDesc>
 
-  <NoTradingCapacity>No trading capacity</NoTradingCapacity>
-  <NoTradingCapacityDesc>You have no way of trading with passing ships.\n\nBuild a comms console.</NoTradingCapacityDesc>
+  <NeedResearchProject>بحاجة لمشروع للتطوير</NeedResearchProject>
+  <NeedResearchProjectDesc>لديك الاجهزة اللازمة للتطوير لكنك لم تقم بتحديد مشروع. \n\nافتح قائمة التطوير و قم باختيار احد المشاريع.</NeedResearchProjectDesc>
 
-  <NeedResearchProject>Need research project</NeedResearchProject>
-  <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
+  <NeedDump>بحاجة لمكب</NeedDump>
+  <NeedDumpDesc>يوجد ركام يريد المواطنون إزالته و لكن لا يوجد مكان محدد لرميه\n\n حدد منطقة تخزين مخصصة للركام</NeedDumpDesc>
 
-  <NeedDump>Need dump</NeedDump>
-  <NeedDumpDesc>You have debris your colonists want to haul, but they have nowhere to take it.\n\nDesignate a stockpile and set its storage settings to accept debris.</NeedDumpDesc>
+  <NeedGrave>بحاجة لقبور</NeedGrave>
+  <NeedGraveDesc>توجد جثة مرمية على الارض و لا مكان يستطيع المواطنون وضعها فيه. \n\nابن قبرا أو عين منطقة تخزين لرمي الجثث. </NeedGraveDesc>
 
-  <NeedGrave>Need grave</NeedGrave>
-  <NeedGraveDesc>There is a dead body laying on the ground and nowhere for your colonists to take it.\n\nBuild a grave or a dumping zone and set their storage settings.</NeedGraveDesc>
-
-  <ColonistsIdle>{0} colonists idle</ColonistsIdle>
-  <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
+  <ColonistsIdle>{0} مواطن عاطل</ColonistsIdle>
+  <ColonistsIdleDesc>هؤلاء المواطنون عاطلون و يتجولون عبثا: \n\n{0}\nيفضل أن تجد لهم شيئا مفيدا ليعملوه.</ColonistsIdleDesc>
   
-  <TableNeedsChairs>Table needs chairs</TableNeedsChairs>
-  <TableNeedsChairsDesc>You have a table with no chairs next to it. Tables are useless unless people can sit at them.</TableNeedsChairsDesc>
+  <TableNeedsChairs>طاولة بحاجة لكراسي</TableNeedsChairs>
+  <TableNeedsChairsDesc>لديك طاولة من دون كراسي قربها, الطاولات عديمة الفائدة من غير كرسي للجلوس عندها. </TableNeedsChairsDesc>
   
   
   
