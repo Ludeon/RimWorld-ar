@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Level>Level</Level>
-  <ProgressToNextLevel>Progress to next level</ProgressToNextLevel>
-  <Passion>Passion</Passion>
+  <Level>المستوى</Level>
+  <ProgressToNextLevel>تقدم الى المستوى اللاحق</ProgressToNextLevel>
+  <Passion>الشغف</Passion>
   <PassionNone>None (learns {0}x)</PassionNone>
   <PassionMinor>Interested (learns {0}x)</PassionMinor>
   <PassionMajor>Burning (learns {0}x)</PassionMajor>
   <EffectsAtLevel>Effects at level {0}</EffectsAtLevel>
-  
-  
+
+
 
   <Skill0>Incapable</Skill0>
   <Skill1>Incompetent</Skill1>
@@ -34,7 +34,7 @@
   <Skill20>Godlike</Skill20>
 
 
-  
-  
-  
+
+
+
 </LanguageData>

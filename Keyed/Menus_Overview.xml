@@ -2,38 +2,38 @@
 <LanguageData>
 
   <Dark>ظلام</Dark>
-  <Lit>ضوء</Lit>
-  <LitBrightly>Brightly lit</LitBrightly>
+  <Lit>مضاء</Lit>
+  <LitBrightly>ساطع</LitBrightly>
 
   <SkillMax>أقصى</SkillMax>
 
 
   <!-- Work tab -->
   <WorkTab>عمل</WorkTab>
-  <ManualPriorities>Manual priorities</ManualPriorities>
-  <HigherPriority>Higher priority</HigherPriority>
-  <LowerPriority>Lower priority</LowerPriority>
+  <ManualPriorities>اسبقية يدوية</ManualPriorities>
+  <HigherPriority>اسبقية عالية</HigherPriority>
+  <LowerPriority>عالية واطئة</LowerPriority>
   <RelevantSkills>Relevant skills: {0}\nAverage of relevant skills: {1} / {2}</RelevantSkills>
   <ClickToJumpTo>أضغط للقفز إلى:</ClickToJumpTo>
   <CannotDoThisWork>{0} لايمكن فعل هذا النوع من العمل.</CannotDoThisWork>
   <NoneBrackets>(لاشئ)</NoneBrackets>
-  
+
   <!-- Factions tab -->
-  <FactionsTab>Factions</FactionsTab>
-  <Hostile>Hostile</Hostile>
-  <HostileTo>Enemy of {0}</HostileTo>
-  <CurrentGoodwill>Current goodwill with this faction.</CurrentGoodwill>
+  <FactionsTab>الزمر</FactionsTab>
+  <Hostile>عدائي</Hostile>
+  <HostileTo>{0} عدو الى</HostileTo>
+  <CurrentGoodwill>العلاقة الحالية مع الزمرة</CurrentGoodwill>
 
   <!-- Statistics tab -->
-  <StatisticsTab>Statistics</StatisticsTab>
-  <ColonyWealthTotal>Colony wealth</ColonyWealthTotal>
-  <ColonyWealthItems>Colony wealth (items)</ColonyWealthItems>
-  <ColonyWealthBuildings>Colony wealth (buildings)</ColonyWealthBuildings>
-  <ColonyStrength>Colony strength</ColonyStrength>
+  <StatisticsTab>الاحصائيات</StatisticsTab>
+  <ColonyWealthTotal>ثروة المستعمرة</ColonyWealthTotal>
+  <ColonyWealthItems> (ثروة المستعمرة (مواد</ColonyWealthItems>
+  <ColonyWealthBuildings> (ثروة المستعمرة (بنايات</ColonyWealthBuildings>
+  <ColonyStrength>قوة المستعمرة</ColonyStrength>
   <Danger>خطر</Danger>
   <FiresOnMap>حرائق في الخريطة</FiresOnMap>
-  <NumEnemyRaids>سلب العدو</NumEnemyRaids>
-  
-  
-  
+  <NumEnemyRaids>غارة عدو</NumEnemyRaids>
+
+
+
 </LanguageData>
