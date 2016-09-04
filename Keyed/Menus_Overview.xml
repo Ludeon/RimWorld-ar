@@ -13,11 +13,10 @@
   <ManualPriorities>اسبقية يدوية</ManualPriorities>
   <HigherPriority>اسبقية عالية</HigherPriority>
   <LowerPriority>عالية واطئة</LowerPriority>
-  <RelevantSkills>Relevant skills: {0}\nAverage of relevant skills: {1} / {2}</RelevantSkills>
+  <RelevantSkills>مهارات ذات صلة : {0} متوسط المهارات : {1} / {2}٠</RelevantSkills>
   <ClickToJumpTo>أضغط للقفز إلى:</ClickToJumpTo>
   <CannotDoThisWork>{0} لايمكن فعل هذا النوع من العمل.</CannotDoThisWork>
   <NoneBrackets>(لاشئ)</NoneBrackets>
-
   <!-- Factions tab -->
   <FactionsTab>الزمر</FactionsTab>
   <Hostile>عدائي</Hostile>
