@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Confirm>Confirm</Confirm>
-  <GoBack>Go back</GoBack>
-  <OK>OK</OK>
-  
+  <Confirm>تأكيد</Confirm>
+  <GoBack>عودة</GoBack>
+  <OK>موافق</OK>
+
   <!-- Game updated to new version -->
   <GameUpdatedToNewVersionInitial>RimWorld has been updated from version {0} to version {1}.</GameUpdatedToNewVersionInitial>
   <GameUpdatedToNewVersionSavesIncompatible>This may cause saved games and mods from the old version to stop working.</GameUpdatedToNewVersionSavesIncompatible>
   <GameUpdatedToNewVersionSavesCompatible>Saved games from the old version should be compatible, however some mods may stop working.</GameUpdatedToNewVersionSavesCompatible>
   <GameUpdatedToNewVersionNonSteam>Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions.</GameUpdatedToNewVersionNonSteam>
   <GameUpdatedToNewVersionSteam>If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this.</GameUpdatedToNewVersionSteam>
-  
+
   <!-- Recovered from errors caused by mods -->
   <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
   <RecoveredFromErrorsText>It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog.</RecoveredFromErrorsText>
-  
+
   <!-- Errors during loading -->
   <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
   <ErrorWhileLoadingAssets>An error occurred while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
@@ -24,15 +24,15 @@
   <ErrorWhileGeneratingMap>An error occurred while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
   <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
   <ErrorWhileLoadingMap>An error occurred while loading a map. See error log for more information.</ErrorWhileLoadingMap>
-  
+
   <!-- Unloaded mod with an assembly -->
   <ModsChanged>The mod list has changed. The game will now restart automatically.</ModsChanged>
   <FailedToRestart>Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
   <Restarting>Restarting</Restarting>
-  
+
   <!-- Missing Steam -->
   <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
-  
+
   <!-- Long events -->
   <InitializingInterface>Initializing interface</InitializingInterface>
   <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
@@ -45,16 +45,16 @@
   <InitializingGame>Initializing game</InitializingGame>
   <SpawningAllThings>Spawning all things</SpawningAllThings>
   <SpawningColonists>Spawning colonists</SpawningColonists>
-  
+
   <!-- Save/load -->
-  <SaveGameButton>Save</SaveGameButton>
-  <LoadGameButton>Load</LoadGameButton>
-  <OverwriteButton>Overwrite</OverwriteButton>
-  <ConfirmDelete>Really delete {0}?</ConfirmDelete>
-  <DeleteThisSavegame>Delete this savegame.</DeleteThisSavegame>
-  <SavedAs>Saved as {0}.</SavedAs>
-  <NeedAName>Please enter a name.</NeedAName>
-  <LoadingLongEvent>Loading</LoadingLongEvent>
+  <SaveGameButton>حفظ</SaveGameButton>
+  <LoadGameButton>تحميل</LoadGameButton>
+  <OverwriteButton>استبدال</OverwriteButton>
+  <ConfirmDelete>متأكد من حذف{0}؟</ConfirmDelete>
+  <DeleteThisSavegame>حذف ملف الحفظ.</DeleteThisSavegame>
+  <SavedAs>تم الحفظ كـ{0} بنجاح.</SavedAs>
+  <NeedAName>الرجاء ادخال اسم.</NeedAName>
+  <LoadingLongEvent>جاري التحميل</LoadingLongEvent>
   <SavingLongEvent>Saving</SavingLongEvent>
   <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
   <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
@@ -63,7 +63,7 @@
   <SaveIsUnknownFormat>Save data is in an unknown format and almost certainly will not load properly.</SaveIsUnknownFormat>
   <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information.</ProblemSavingFile>
   <LoadAnyway>Load anyway</LoadAnyway>
-  
+
   <!-- Player faction naming -->
   <NamePlayerFactionMessage>{0} thinks that you should give your faction a name. What should your faction be called?</NamePlayerFactionMessage>
   <PlayerFactionGainsName>Your faction is now known as {0}.</PlayerFactionGainsName>
@@ -73,71 +73,71 @@
   <NamePlayerFactionBaseMessage>Since it looks like you'll be here for a while, {0} thinks that you should give this community a name. What should the local community be called?</NamePlayerFactionBaseMessage>
   <PlayerFactionBaseGainsName>This community is now known as {0}.</PlayerFactionBaseGainsName>
   <PlayerFactionBaseNameIsInvalid>That name isn't valid.</PlayerFactionBaseNameIsInvalid>
-  
+
   <!-- Player faction and faction base naming -->
   <NamePlayerFactionBaseMessage_NameFactionContinuation>Since it looks like you'll be here for a while, {0} also thinks that you should give this community a name. What should this local community be called?</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <PlayerFactionAndBaseGainsName>Your faction is now known as {0}, and this community is now known as {1}.</PlayerFactionAndBaseGainsName>
-  
+
   <!-- Renaming -->
   <NameIsInvalid>Please enter a valid name.</NameIsInvalid>
   <NameIsInUse>Name is already in use.</NameIsInUse>
-  <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
-  
+  <ZoneGainsName>هذه المنطقة اسمها {0} الان.</ZoneGainsName>
+
   <!-- Pawn naming -->
   <PawnGainsName>The colonist nick-name is now {0}.</PawnGainsName>
 
   <!-- Save game incompatible warning -->
   <VersionMismatch>Version mismatch</VersionMismatch>
-  <SaveGameIncompatibleWarningText>This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningText>نسخة اللعبة مختلفة:  تم الحفظ بنسخة اللعبة رقم {0} سابقا, لكنك تستخدم النسخة رقم {1} حاليا.\n\n تحميل هذا الملف سيتسبب غالبا في أخطاء و مشاكل في اللعبة.</SaveGameIncompatibleWarningText>
   <WorldFileVersionMismatch>World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch.</WorldFileVersionMismatch>
   <FileIncompatibleWarning>This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes.</FileIncompatibleWarning>
   <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
   <ModsMismatchWarningText>This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
-  <ConfirmResolutionChange>You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
-  <ResolutionKeep>Keep</ResolutionKeep>
-  <ResolutionRevert>Revert</ResolutionRevert>
+  <ConfirmResolutionChange>لقد قمت بتغيير أبعاد الشاشة. هل تعمل هذه الاعدادات جيدا؟\n\nسيتم العودة للاعدادات السابقة خلال {0} ثانية...</ConfirmResolutionChange>
+  <ResolutionKeep>إبقاء</ResolutionKeep>
+  <ResolutionRevert>تغيير</ResolutionRevert>
 
   <!-- Research -->
-  <Research>Research</Research>
-  <Researched>Researched</Researched>
-  <Unresearched>Unresearched</Unresearched>
-  <Finished>Finished</Finished>
-  <InProgress>In Progress</InProgress>
+  <Research>تطوير</Research>
+  <Researched>تم التطوير</Researched>
+  <Unresearched>غير مطور</Unresearched>
+  <Finished>منته</Finished>
+  <InProgress>جاري التطوير</InProgress>
   <Locked>Locked</Locked>
-  <ResearchMenuWithoutBench>Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now.</ResearchMenuWithoutBench>
+  <ResearchMenuWithoutBench>لن يستطيع المواطنون البدء بالتطوير حتى تقوم ببناء مشغل التطوير. \n\nلكن باستطاعتك اختيار مشروع التطوير على اي حال.</ResearchMenuWithoutBench>
   <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
   <RequiredResearchBench>Required research bench</RequiredResearchBench>
   <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities>
-  
+
   <!-- Advanced game start options -->
   <MapTemperatureDangerWarning>Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season.</MapTemperatureDangerWarning>
-  <MapSizePerformanceWarning>Warning: Performance may degrade at larger map sizes. Ludeonicrous size is untested and will almost certainly not play well.</MapSizePerformanceWarning>
-  <MapSize>Map size</MapSize>
-  <MapSizeDesc>{0}x{0} ({1} cells)</MapSizeDesc>
-  <MapSizeSmall>Small</MapSizeSmall>
-  <MapSizeMedium>Medium</MapSizeMedium>
-  <MapSizeLarge>Large</MapSizeLarge>
-  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+  <MapSizePerformanceWarning>تحذير: قد يكون الاداء ضعيفا عند استخدام خريطة كبيرة ما لم يكن جهازك قويا بشكل كاف.\n\nإذا كان جهازك ضعيفا, اختر خريطة صغيرة.\n\nالحجم الهائل لم يتم تجريبه و سيتسبب بإشكالات بالتأكيد.</MapSizePerformanceWarning>
+  <MapSize>حجم الخريطة</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} مربعات)</MapSizeDesc>
+  <MapSizeSmall>صغير</MapSizeSmall>
+  <MapSizeMedium>متوسط</MapSizeMedium>
+  <MapSizeLarge>كبير</MapSizeLarge>
+  <MapSizeExtreme>هائل</MapSizeExtreme>
   <MapStartSeason>Starting season:</MapStartSeason>
   <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
   <PermadeathMode>Permadeath mode</PermadeathMode>
   <PermadeathModeInfo>In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact.</PermadeathModeInfo>
 
   <!-- Bill config -->
-  <Suspended>Suspended</Suspended>
-  <NotSuspended>Not suspended</NotSuspended>
-  <SuspendedAllCaps>SUSPENDED</SuspendedAllCaps>
-  <RepeatCount>Repeat: {0}</RepeatCount>
-  <Forever>Forever</Forever>
+  <Suspended>متوقف</Suspended>
+  <NotSuspended>غير متوقف</NotSuspended>
+  <SuspendedAllCaps>متـوقــف</SuspendedAllCaps>
+  <RepeatCount>كرر: {0} مرة</RepeatCount>
+  <Forever>تكرار غير منته</Forever>
 	<Details>Details</Details>
-  <IngredientSearchRadius>Ingredient radius</IngredientSearchRadius>
+  <IngredientSearchRadius>منطقة الحصول على المواد</IngredientSearchRadius>
   <CurrentlyHave>Currently have</CurrentlyHave>
   <CountingProducts>Counting</CountingProducts>
-  <Infinite>Infinite</Infinite>
+  <Infinite>لانهائي</Infinite>
   <AllowedSkillRange>Allowed {0} skill:</AllowedSkillRange>
-  
+
   <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
   <WorkAmount>Work amount</WorkAmount>
   <MinimumSkills>Minimum skills:</MinimumSkills>
@@ -158,7 +158,7 @@
   <UnpauseWhenYouHave>Unpause at</UnpauseWhenYouHave>
   <Paused>Paused</Paused>
   <Unpause>Unpause</Unpause>
-  
+
   <!-- Info card -->
   <Damage>Damage</Damage>
   <Accuracy>Accuracy</Accuracy>
@@ -215,8 +215,8 @@
   <ResetButton>Reset</ResetButton>
   <CancelButton>Cancel</CancelButton>
   <CloseButton>Close</CloseButton>
-  <YourTradeableSilver>Your tradeable silver: {0}</YourTradeableSilver>
-	<YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
+  <YourTradeableSilver>تملك من الفضة: {0} جاهز للمتاجرة</YourTradeableSilver>
+	<YourTradeableSilverTip>يمكنك فقط المتاجرة بالفضة القريبة من منارة التجارة المدارية.</YourTradeableSilverTip>
   <TraderHasNoMore>Trader has no more.</TraderHasNoMore>
   <ColonyHasNoMore>No more to sell.</ColonyHasNoMore>
   <TraderWillNotTrade>Trader is not willing to trade this.</TraderWillNotTrade>
@@ -235,7 +235,7 @@
 	<minimum>minimum</minimum>
 	<FinalPrice>Final price</FinalPrice>
   <TradeMassUsageTooltip>The resulting mass usage and mass capacity.</TradeMassUsageTooltip>
-  
+
   <!-- Form caravan -->
   <FormCaravan>Form caravan</FormCaravan>
   <FormCaravanColonyThingCountTip>How many of this item the colony has ready to give to the caravan.</FormCaravanColonyThingCountTip>
@@ -278,7 +278,7 @@
   <PrisonersSection>Prisoners</PrisonersSection>
   <AnimalsSection>Animals</AnimalsSection>
   <EstimatedTimeToDestinationButton>Est. time to destination</EstimatedTimeToDestinationButton>
-  
+
   <!-- Split caravan -->
   <SplitCaravan>Split caravan</SplitCaravan>
   <SourceCaravanMustHaveAtLeastOneColonist>You must leave at least one non-downed colonist.</SourceCaravanMustHaveAtLeastOneColonist>
@@ -286,7 +286,7 @@
   <CaravanSplitDestLabel>New</CaravanSplitDestLabel>
   <SplitCaravanThingCountTip>How many of this item the caravan has ready to give to the new caravan.</SplitCaravanThingCountTip>
   <SplitCaravanMassUsageTooltip>Current mass usage and mass capacity.</SplitCaravanMassUsageTooltip>
-  
+
   <!-- Load transporters -->
   <LoadTransporters>Load {0}</LoadTransporters>
   <TooBigTransportersMassUsage>The assigned people and items are too heavy for the transport pods.</TooBigTransportersMassUsage>
@@ -295,14 +295,14 @@
   <TransporterItemIsUnreachableSingle>There is no path between the transport pods and the {0}.</TransporterItemIsUnreachableSingle>
   <TransporterItemIsUnreachableMulti>There is no path between the transport pods and {0}x {1}.</TransporterItemIsUnreachableMulti>
   <TransportersMassUsageTooltip>Current mass usage and mass capacity.\n\nYou will not be able to send the transport pods if the mass usage exceedes capacity.</TransportersMassUsageTooltip>
-  
+
   <!-- Comms -->
-  <SocialSkillIs>Social skill: {0}</SocialSkillIs>
-  
+  <SocialSkillIs>الخبرة الاجتماعية {0} تؤثر بالاسعار</SocialSkillIs>
+
   <!--Research-->
-  <ResearchFinished>Research finished: {0}</ResearchFinished>
-  <ResearchScreen>Research Screen</ResearchScreen>
-  
+  <ResearchFinished>التطورات المنتهية: {0} مشاريع</ResearchFinished>
+  <ResearchScreen>شاشة التطوير</ResearchScreen>
+
   <!--HistoryUpload-->
   <HistoryUploadMessage>Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu.</HistoryUploadMessage>
   <HistoryUploadMessagePlayerName>Even though history is sent anonymously, you can attach your name.</HistoryUploadMessagePlayerName>
@@ -310,7 +310,7 @@
   <HistoryUploadNo>Do not allow uploading gameplay data</HistoryUploadNo>
   <HistoryUploadYesOnce>Upload only this time</HistoryUploadYesOnce>
   <HistoryUploadNoOnce>Do not upload this time, ask me later</HistoryUploadNoOnce>
-	
+
   <!-- Outfit management -->
   <Outfit>Outfit</Outfit>
   <SelectOutfit>Select outfit...</SelectOutfit>
@@ -318,7 +318,7 @@
   <DeleteOutfit>Delete outfit...</DeleteOutfit>
   <OutfitInUse>Outfit is in use by {0}.</OutfitInUse>
   <NoOutfitSelected>No outfit selected</NoOutfitSelected>
-  
+
   <!-- Drug policy management -->
   <DrugPolicy>Drug policy</DrugPolicy>
   <SelectDrugPolicy>Select policy...</SelectDrugPolicy>
@@ -361,7 +361,7 @@
   <MedGroupNeutralAnimal>Neutral animal</MedGroupNeutralAnimal>
   <MedGroupNeutralFaction>Neutral faction</MedGroupNeutralFaction>
   <MedGroupHostileFaction>Hostile faction</MedGroupHostileFaction>
-  
+
   <!-- Growing -->
   <NoGrowerCanPlant>{0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown.</NoGrowerCanPlant>
 
@@ -369,18 +369,18 @@
   <ConfirmAbandonHomeWithColonyPawns>Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
   <ConfirmAbandonHomeNegativeThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonHomeNegativeThoughts>
   <ConfirmAbandonHomeNegativeThoughts_Everyone>Everyone:</ConfirmAbandonHomeNegativeThoughts_Everyone>
-  
+
   <!-- Move caravan and leave prisoners and animals behind -->
   <ConfirmLeavePrisonersOrAnimalsBehind>There are still some prisoners or animals left in this area and this is the only caravan they can join at the moment.\n\nIf you move your caravan, they won't be able to leave the area until you are back. The prisoners will start escaping, while the animals will keep waiting for you.\n\nIf you decide to wait, they will try to join your caravan as soon as possible.\n\nAre you sure you want to move your caravan?</ConfirmLeavePrisonersOrAnimalsBehind>
-  
+
   <!-- Abandon pawn -->
   <ConfirmAbandonPawnDialog>Do you really want to abandon {0}?</ConfirmAbandonPawnDialog>
   <ConfirmAbandonPawnDialog_LeftToDie>{0} will most likely die.</ConfirmAbandonPawnDialog_LeftToDie>
   <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} will take the following items with HIM:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
   <ConfirmAbandonPawnDialog_AllColonistsThoughts>All colonists will get the following thoughts:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
   <ConfirmAbandonPawnDialog_IndividualThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonPawnDialog_IndividualThoughts>
-  
+
   <!-- Send transport pods which are not completely loaded -->
   <ConfirmSendNotCompletelyLoadedPods>Pod group isn’t completely loaded. {0} is missing. Launch anyway?</ConfirmSendNotCompletelyLoadedPods>
-  
+
 </LanguageData>
