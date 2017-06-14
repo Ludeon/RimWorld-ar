@@ -1,85 +1,126 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  
-  <DesignatorCancel>ÅáÛÇÁ</DesignatorCancel>
-  <DesignatorCancelDesc>ÅáÛÇÁ ãÄÔÑÇÊ ÇæÇãÑ ÇáÈäÇÁ, ÇáÍİÑ, ÇáäŞá, ÇáÍÕÇÏ æ ßá ãÄÔÑÇÊ ÇáÇæÇãÑ ÇáÇÎÑì.</DesignatorCancelDesc>
 
-  <DesignatorCutPlants>ŞØÚ ÇáäÈÇÊ</DesignatorCutPlants>
-  <DesignatorCutPlantsDesc> ÅÊÃÔíÑ ÇáäÈÊÉ ááŞÕ. ÓíÊã ŞÕ ÇáäÈÊÉ æ ÅÒÇáÊåÇ, Çí äÈÊÉ ÊÍæí Úáì ÛĞÇÁ ÓíÊã ÍÕÏåÇ. </DesignatorCutPlantsDesc>
+  <DesignatorCancel>Ø¥Ù„ØºØ§Ø¡</DesignatorCancel>
+  <DesignatorCancelDesc>Ø¥Ù„ØºØ§Ø¡ Ù…Ø¤Ø´Ø±Ø§Øª Ø§ÙˆØ§Ù…Ø± Ø§Ù„Ø¨Ù†Ø§Ø¡, Ø§Ù„Ø­ÙØ±, Ø§Ù„Ù†Ù‚Ù„, Ø§Ù„Ø­ØµØ§Ø¯ Ùˆ ÙƒÙ„ Ù…Ø¤Ø´Ø±Ø§Øª Ø§Ù„Ø§ÙˆØ§Ù…Ø± Ø§Ù„Ø§Ø®Ø±Ù‰.</DesignatorCancelDesc>
 
-  <DesignatorDeconstruct>åÏã</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>ÊÃÔíÑ ÈäÇÁ Ãæ ÇËÇË ááåÏã. ÓíÊã ÇÓÊÑÏÇÏ ÈÚÖ ÇáãæÇÏ ÇáÊí ÇÓÊÎÏãÊ İí ÕäÇÚÊå.</DesignatorDeconstructDesc>
+  <DesignatorCutPlants>Ù‚Ø·Ø¹ Ø§Ù„Ù†Ø¨Ø§Øª</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Ø¥ØªØ£Ø´ÙŠØ± Ø§Ù„Ù†Ø¨ØªØ© Ù„Ù„Ù‚Øµ. Ø³ÙŠØªÙ… Ù‚Øµ Ø§Ù„Ù†Ø¨ØªØ© Ùˆ Ø¥Ø²Ø§Ù„ØªÙ‡Ø§, Ø§ÙŠ Ù†Ø¨ØªØ© ØªØ­ÙˆÙŠ Ø¹Ù„Ù‰ ØºØ°Ø§Ø¡ Ø³ÙŠØªÙ… Ø­ØµØ¯Ù‡Ø§.</DesignatorCutPlantsDesc>
 
-  <DesignatorHarvestFood>ÍÕÇÏ</DesignatorHarvestFood>
-  <DesignatorHarvestFoodDesc>ÊÇÔíÑ ÇáäÊÉ ááÍÕÇÏ. ÓíÊã ÇáÍÕæá Úáì ÇáÛĞÇÁ ãä ÇáäÈÊÉ Åä Ããßä, áßä áä íÊã ÅÒÇáÉ ÇáäÈÊÉ.</DesignatorHarvestFoodDesc>
+  <DesignatorDeconstruct>Ù‡Ø¯Ù…</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>ØªØ£Ø´ÙŠØ± Ø¨Ù†Ø§Ø¡ Ø£Ùˆ Ø§Ø«Ø§Ø« Ù„Ù„Ù‡Ø¯Ù…. Ø³ÙŠØªÙ… Ø§Ø³ØªØ±Ø¯Ø§Ø¯ Ø¨Ø¹Ø¶ Ø§Ù„Ù…ÙˆØ§Ø¯ Ø§Ù„ØªÙŠ Ø§Ø³ØªØ®Ø¯Ù…Øª ÙÙŠ ØµÙ†Ø§Ø¹ØªÙ‡.</DesignatorDeconstructDesc>
 
-  <DesignatorHarvestWood>ŞØÚ ÇáÎÔÈ</DesignatorHarvestWood>
-  <DesignatorHarvestWoodDesc>ÊÇÔíÑ ÇáÇÔÌÇÑ áíÊã ŞØÚåÇ ãä ÃÌá ÇáÎÔÈ.</DesignatorHarvestWoodDesc>
+  <DesignatorUninstall>Uninstall</DesignatorUninstall>
+  <DesignatorUninstallDesc>Uninstall this so it can be moved, sold, or installed somewhere else.</DesignatorUninstallDesc>
 
-  <DesignatorHaulThings>äŞá</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>ÊÃÔíÑ ÇáÑßÇã æ ÃÔíÇÁ ÃÎÑì áíÊã äŞáåÇ Åáì ÇáãßÈÇÊ. áÇ íäØÈŞ åĞÇ ÇáÇãÑ Úáì ÇáÌËË Ãæ ÇáØÚÇã ÍíË íÊã äŞáåÇ ÏÇÆãÇ.</DesignatorHaulThingsDesc>
-  <NothingToHaulHere>áÇ íæÌÏ ÔíÁ ááäŞá åäÇ.</NothingToHaulHere>
-  <MustHaulHaulables>íãßä İŞØ ÊÍÏíÏ ÇáÃÔíÇÁ ÇáÊí áÇ íÊã äŞáåÇ ÊáŞÇÆíÇ ßÇáÑßÇã.</MustHaulHaulables>
+  <DesignatorHarvest>Ø­ØµØ§Ø¯</DesignatorHarvest>
+  <DesignatorHarvestDesc>ØªØ§Ø´ÙŠØ± Ø§Ù„Ù†ØªØ© Ù„Ù„Ø­ØµØ§Ø¯. Ø³ÙŠØªÙ… Ø§Ù„Ø­ØµÙˆÙ„ Ø¹Ù„Ù‰ Ø§Ù„ØºØ°Ø§Ø¡ Ù…Ù† Ø§Ù„Ù†Ø¨ØªØ© Ø¥Ù† Ø£Ù…ÙƒÙ†, Ù„ÙƒÙ† Ù„Ù† ÙŠØªÙ… Ø¥Ø²Ø§Ù„Ø© Ø§Ù„Ù†Ø¨ØªØ©.</DesignatorHarvestDesc>
 
-  <DesignatorHunt>ÕíÏ</DesignatorHunt>
-  <DesignatorHuntDescÊÇÔíÑ ÇáÍíæÇäÇÊ áíÊã ÕíÏåÇ ãä ŞÈá ÇáÕíÇÏíä.</DesignatorHuntDesc>
+  <DesignatorHarvestWood>Ù‚Ø·Ø¹ Ø§Ù„Ø®Ø´Ø¨</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>ØªØ§Ø´ÙŠØ± Ø§Ù„Ø§Ø´Ø¬Ø§Ø± Ù„ÙŠØªÙ… Ù‚Ø·Ø¹Ù‡Ø§ Ù…Ù† Ø£Ø¬Ù„ Ø§Ù„Ø®Ø´Ø¨.</DesignatorHarvestWoodDesc>
 
-  <DesignatorMine>ÍİÑ</DesignatorMine>
-  <DesignatorMineDesc>ÊÇÔíÑ ãäÇØŞ ãä ÇáÕÎÑ áíÊã ÍİÑåÇ.</DesignatorMineDesc>
+  <DesignatorHaulThings>Ù†Ù‚Ù„</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>ØªØ£Ø´ÙŠØ± Ø§Ù„Ø±ÙƒØ§Ù… Ùˆ Ø£Ø´ÙŠØ§Ø¡ Ø£Ø®Ø±Ù‰ Ù„ÙŠØªÙ… Ù†Ù‚Ù„Ù‡Ø§ Ø¥Ù„Ù‰ Ø§Ù„Ù…ÙƒØ¨Ø§Øª. Ù„Ø§ ÙŠÙ†Ø·Ø¨Ù‚ Ù‡Ø°Ø§ Ø§Ù„Ø§Ù…Ø± Ø¹Ù„Ù‰ Ø§Ù„Ø¬Ø«Ø« Ø£Ùˆ Ø§Ù„Ø·Ø¹Ø§Ù… Ø­ÙŠØ« ÙŠØªÙ… Ù†Ù‚Ù„Ù‡Ø§ Ø¯Ø§Ø¦Ù…Ø§.</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>ÙŠÙ…ÙƒÙ† ÙÙ‚Ø· ØªØ­Ø¯ÙŠØ¯ Ø§Ù„Ø£Ø´ÙŠØ§Ø¡ Ø§Ù„ØªÙŠ Ù„Ø§ ÙŠØªÙ… Ù†Ù‚Ù„Ù‡Ø§ ØªÙ„Ù‚Ø§Ø¦ÙŠØ§ ÙƒØ§Ù„Ø±ÙƒØ§Ù….</MustHaulHaulables>
 
-  <DesignatorPlan>ÊÎØíØ</DesignatorPlan>
-  <DesignatorPlanDesc>æÖÚ ãÄÔÑÇÊ ÊÎØíØ. åĞå ÇáãÄÔÑÇÊ áÇ ÊÚãá ÔíÆÇ Óæì ãÓÇÚÏÊß İí ÊÎØíØ ãäÇØŞ ÇáÈäÇÁ ÇáãÓÊŞÈáíÉ.</DesignatorPlanDesc>
+  <DesignatorHunt>ØµÙŠØ¯</DesignatorHunt>
+  <DesignatorHuntDesc>ØªØ§Ø´ÙŠØ± Ø§Ù„Ø­ÙŠÙˆØ§Ù†Ø§Øª Ù„ÙŠØªÙ… ØµÙŠØ¯Ù‡Ø§ Ù…Ù† Ù‚Ø¨Ù„ Ø§Ù„ØµÙŠØ§Ø¯ÙŠÙ†.</DesignatorHuntDesc>
 
-  <DesignatorPlanRemove>ÅÒÇáÉ ÇáÊÎØíØ</DesignatorPlanRemove>
-  <DesignatorPlanRemoveDesc>ÅÒÇáÉ ãÄÔÑÇÊ ÇáÊÎØíØ.</DesignatorPlanRemoveDesc>
+  <DesignatorMine>Ø­ÙØ±</DesignatorMine>
+  <DesignatorMineDesc>ØªØ§Ø´ÙŠØ± Ù…Ù†Ø§Ø·Ù‚ Ù…Ù† Ø§Ù„ØµØ®Ø± Ù„ÙŠØªÙ… Ø­ÙØ±Ù‡Ø§.</DesignatorMineDesc>
 
-  <DesignatorHomeRegionAdd>ÊæÓíÚ ÇáãäØŞÉ ÇáÈíÊíÉ</DesignatorHomeRegionAdd>
-  <DesignatorHomeRegionAddDesc>íŞæã ÇáãæÇØäæä ÈÇáÊäÙíİ, ÇáÇÕáÇÍ æ ÅØİÇÁ ÇáÍÑÇÆŞ Öãä ÇáãäØŞÉ ÇáÈíÊíÉ İŞØ.</DesignatorHomeRegionAddDesc>
+  <DesignatorSmoothFloor>Smooth floor</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Designate rough stone terrain to be smoothed.</DesignatorSmoothFloorDesc>
 
-  <DesignatorHomeRegionRemove>ÅÒÇáÉ ãä ÇáãäØŞÉ ÇáÈíÊíÉ</DesignatorHomeRegionRemove>
-  <DesignatorHomeRegionRemoveDesc>ÅÒÇáÉ ÇáãäØŞÉ ãä ÇáãäØŞÉ ÇáÈíÊíÉ. áä íŞæã ÇáãæÇØäæä ÈÇáÊäÙíİ, ÇáÇÕáÇÍ Ãæ ÅØİÇÁ ÇáÍÑÇÆŞ İí åĞå ÇáãäØŞÉ ÈÚÏ ÇáÇä.</DesignatorHomeRegionRemoveDesc>
+  <DesignatorPlan>ØªØ®Ø·ÙŠØ·</DesignatorPlan>
+  <DesignatorPlanDesc>ÙˆØ¶Ø¹ Ù…Ø¤Ø´Ø±Ø§Øª ØªØ®Ø·ÙŠØ·. Ù‡Ø°Ù‡ Ø§Ù„Ù…Ø¤Ø´Ø±Ø§Øª Ù„Ø§ ØªØ¹Ù…Ù„ Ø´ÙŠØ¦Ø§ Ø³ÙˆÙ‰ Ù…Ø³Ø§Ø¹Ø¯ØªÙƒ ÙÙŠ ØªØ®Ø·ÙŠØ· Ù…Ù†Ø§Ø·Ù‚ Ø§Ù„Ø¨Ù†Ø§Ø¡ Ø§Ù„Ù…Ø³ØªÙ‚Ø¨Ù„ÙŠØ©.</DesignatorPlanDesc>
 
-  <DesignatorRegionNoRoofAdd>ÊÍÏíÏ ãäØŞÉ ÛíÑ ãÓŞæİÉ</DesignatorRegionNoRoofAdd>
-  <DesignatorRegionNoRoofAddDesc>ÊÍÏíÏ ãäØŞÉ áä íÊã ÈäÇÁ ÓŞæİ İíåÇ. ÓíŞæã ÇáãæÇØäæä ÃíÖÇ ÈÅÒÇáÉ ÇáÓŞæİ ÇáãæÌæÏÉ ãÓÈŞÇ İí åĞå ÇáãäØŞÉ.</DesignatorRegionNoRoofAddDesc>
+  <DesignatorPlanRemove>Ø¥Ø²Ø§Ù„Ø© Ø§Ù„ØªØ®Ø·ÙŠØ·</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Ø¥Ø²Ø§Ù„Ø© Ù…Ø¤Ø´Ø±Ø§Øª Ø§Ù„ØªØ®Ø·ÙŠØ·.</DesignatorPlanRemoveDesc>
 
-  <DesignatorRegionNoRoofRemove>ÅÒÇáÉ ãäØŞÉ ÛíÑ ãÓŞæİÉ</DesignatorRegionNoRoofRemove>
-  <DesignatorRegionNoRoofRemoveDesc>ÅÒÇáÉ ãäØŞÉ ÛíÑ ãÓŞæİÉ. ÓíÊã ÈäÇÁ ÓŞæİ İí åĞå ÇáãäØŞÉ, æ ÇáÓŞæİ ÇáãæÌæÏÉ ãÓÈŞÇ áä íÊã ÅÒÇáÊåÇ.</DesignatorRegionNoRoofRemoveDesc>
+  <DesignatorAreaHomeExpand>Expand home area</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>Colonists will repair buildings, clean floors, and extinguish fires only in the home area.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>Clear home area</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>Removes a home area. Colonists will no longer clean, repair, or extinguish fires here.</DesignatorAreaHomeClearDesc>
 
-  <DesignatorGrowingZone>ÊÍÏíÏ ãäØŞÉ ÒÑÇÚíÉ</DesignatorGrowingZone>
-  <DesignatorGrowingZoneDesc>ÊÍÏíÏ ãäØŞÉ ÓíŞæã İíåÇ ÇáãæÇØäæä ÈÒÑÇÚÉ äæÚ ãÚíä ãä ÇáäÈÇÊ.</DesignatorGrowingZoneDesc>
+  <DesignatorAreaBuildRoofExpand>Expand build roof area</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Colonists will build roofs in this area.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>Clear build roof area</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>Remove the area where colonists will build roofs. Existing roofs will remain, but colonists won't build more.</DesignatorAreaBuildRoofClearDesc>
 
-  <DesignatorZoneCreateStorageResources>ÊÍÏíÏ ãäØŞÉ ÊÎÒíä</DesignatorZoneCreateStorageResources>
-  <DesignatorZoneCreateStorageResourcesDesc>ÊÍÏíÏ ãäØŞÉ ÓíŞæã ÇáãæÇØäæä ÈÊÎÒíä ÇáãæÇÏ İíåÇ\níãßä ÇÓÊÎÏÇã åĞå ÇáÇÏÇÉ áÊæÓíÚ Ãí ãäØŞÉ ÊÎÒíä ãæÌæÏÉ ãÓÈŞÇ.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorAreaNoRoofExpand>Expand no roof area</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>Colonists will remove roofs in this area (except overhead mountain, which cannot be removed).</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofClear>Clear no roof area</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>Removes no-roof area, so colonists will no longer remove roofs.</DesignatorAreaNoRoofClearDesc>
 
-  <DesignatorZoneCreateStorageDumpingc>ÊÍÏíÏ ãäØŞÉ áÑãí ÇáÑßÇã</DesignatorZoneCreateStorageDumping>
-  <DesignatorZoneCreateStorageDumpingDesc>ÊÍÏíÏ ãäØŞÉ ÓíÓÊÎÏãåÇ ÇáãæÇØäæä áÑãí ÇáÑßÇã æ ÇáäİÇíÇÊ.\níãßä ÇÓÊÎÏÇã åĞå ÇáÇÏÇÉ áÊæÓíÚ Ãí ãäØŞÉ ãæÌæÏÉ ãÓÈŞÇ.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorAreaSnowClearExpand>Expand snow clear area</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>Create a area which colonists will try to keep clear of snow.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>Clear snow clear Area</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow.</DesignatorAreaSnowClearClearDesc>
+
+  <DesignatorExpandAreaAllowed>Expand allowed area</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>Clear allowed area</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorClearAreaAllowedDesc>
+  <ManageAreas>Manage areas...</ManageAreas>
+
+  <DesignatorGrowingZoneDesc>Create a zone where your colonists will try to grow a certain kind of plant.</DesignatorGrowingZoneDesc>
+
+  <DesignatorZoneCreateStorageResourcesDesc>Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageDumpingDesc>
+
+  <DesignatorZoneDelete>Delete zones</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Remove zones, like stockpile zones or growing zones.</DesignatorZoneDeleteDesc>
+
+  <DesignatorClaim>Claim</DesignatorClaim>
+  <DesignatorClaimDesc>Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists.</DesignatorClaimDesc>
+
+  <DesignatorRemoveFloor>Remove floor</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>Remove floors to reveal the terrain underneath.</DesignatorRemoveFloorDesc>
+
+  <DesignatorStrip>Strip</DesignatorStrip>
+  <DesignatorStripDesc>Strip apparel from corpses and the wounded.</DesignatorStripDesc>
+
+  <DesignatorRearmTrap>Rearm trap</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Rearm a sprung trap so it can be triggered again.</DesignatorRearmTrapDesc>
+
+  <DesignatorOpen>Open</DesignatorOpen>
+  <DesignatorOpenDesc>Open full graves or containers.</DesignatorOpenDesc>
+
+  <DesignatorSlaughter>Slaughter</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>Slaughter a tame animal.</DesignatorSlaughterDesc>
+
+  <DesignatorTame>Tame</DesignatorTame>
+  <DesignatorTameDesc>Tame a wild animal.</DesignatorTameDesc>
 
 
-  <DesignatorZoneDelete>ÅÒÇáÉ ãäØŞÉ</DesignatorZoneDelete>
-  <DesignatorZoneDeleteDesc>ÅáÛÇÁ ãäØŞÉ, ßãäØŞÉ ÊÎÒíä Ãæ ÒÑÇÚÉ Ãæ ÛíÑåÇ</DesignatorZoneDeleteDesc>
-  
-  
-  
-  <!-- placement of blueprints -->
-  <TooCloseToMapEdge>ŞÑíÈ ÌÏÇ ãä ÍÇİÉ ÇáÎÑíØÉ</TooCloseToMapEdge>
-  <OutOfBounds>ÎÇÑÌ ÇáÎÑíØÉ</OutOfBounds>
-  <CannotPlaceInUndiscovered>áÇ íãäßäß æÖÚ åĞÇ İí ãäØŞÉ ÛíÑ ãÓÊßÔİÉ.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>äŞØÉ ÇáÇÓÊÎÏÇã ãÓÏæÏÉ.</InteractionSpotBlocked>
-  <InteractionSpotWillBeBlocked>ÓíÄÏí åĞÇ Åáì ÓÏ äŞØÉ ÇáÇÓÊÚãÇá.</InteractionSpotWillBeBlocked>
-  <WouldBlockInteractionSpot> ÓíŞæã {0} ÈÓÏ äŞØÉ ÇáÇÓÊÚãÇá áÜ{1} ÅĞÇ æÖÚÊå åäÇ.</WouldBlockInteractionSpot>
-  <TerrainIsAlready>ÇáãäØŞÉ åäÇ åí  {0} ÈÇáÇÕá.</TerrainIsAlready>
+  <!-- Failure messages -->
+  <UnchosenStuff>Unchosen material</UnchosenStuff>
+  <TooCloseToMapEdge>Ù‚Ø±ÙŠØ¨ Ø¬Ø¯Ø§ Ù…Ù† Ø­Ø§ÙØ© Ø§Ù„Ø®Ø±ÙŠØ·Ø©.</TooCloseToMapEdge>
+  <OutOfBounds>Ø®Ø§Ø±Ø¬ Ø§Ù„Ø®Ø±ÙŠØ·Ø©.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Ù„Ø§ ÙŠÙ…Ù†ÙƒÙ†Ùƒ ÙˆØ¶Ø¹ Ù‡Ø°Ø§ ÙÙŠ Ù…Ù†Ø·Ù‚Ø© ØºÙŠØ± Ù…Ø³ØªÙƒØ´ÙØ©.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Ù†Ù‚Ø·Ø© Ø§Ù„Ø§Ø³ØªØ®Ø¯Ø§Ù… Ù…Ø³Ø¯ÙˆØ¯Ø© Ù…Ù† Ù‚Ø¨Ù„ {0}.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Interaction spot is out of bounds.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Ø³ÙŠØ¤Ø¯ÙŠ Ù‡Ø°Ø§ Ø¥Ù„Ù‰ Ø³Ø¯ Ù†Ù‚Ø·Ø© Ø§Ù„Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ù…Ù† Ù‚Ø¨Ù„ {0}.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>Ø³ÙŠÙ‚ÙˆÙ… {0} Ø¨Ø³Ø¯ Ù†Ù‚Ø·Ø© Ø§Ù„Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ù„Ù€{1} Ø¥Ø°Ø§ ÙˆØ¶Ø¹ØªÙ‡ Ù‡Ù†Ø§.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>Ø§Ù„Ù…Ù†Ø·Ù‚Ø© Ù‡Ù†Ø§ Ù‡ÙŠ  {0} Ø¨Ø§Ù„Ø§ØµÙ„.</TerrainIsAlready>
+  <TerrainBeingSmoothed>The terrain is already marked for smoothing.</TerrainBeingSmoothed>
   <IdenticalThingExists>Identical thing already exists here.</IdenticalThingExists>
-  <IdenticalBlueprintExists>ãÎØØ ÈäÇÁ  ãØÇÈŞ ãæÌæÏ åäÇ ÈÇáÇÕá.</IdenticalBlueprintExists>
-  <TerrainCannotSupport>äæÚíÉ ÇáÇÑÖ åäÇ áÇ ÊÓãÍ ÈÈäÇÁ åĞÇ.</TerrainCannotSupport>
-  <SpaceAlreadyOccupied>ÇáãäØŞÉ åäÇ ãÍÌæÒÉ ãÓÈŞÇ.</SpaceAlreadyOccupied>
+  <IdenticalBlueprintExists>Ù…Ø®Ø·Ø· Ø¨Ù†Ø§Ø¡  Ù…Ø·Ø§Ø¨Ù‚ Ù…ÙˆØ¬ÙˆØ¯ Ù‡Ù†Ø§ Ø¨Ø§Ù„Ø§ØµÙ„.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Ù†ÙˆØ¹ÙŠØ© Ø§Ù„Ø§Ø±Ø¶ Ù‡Ù†Ø§ Ù„Ø§ ØªØ³Ù…Ø­ Ø¨Ø¨Ù†Ø§Ø¡ Ù‡Ø°Ø§.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Ø§Ù„Ù…Ù†Ø·Ù‚Ø© Ù‡Ù†Ø§ Ù…Ø­Ø¬ÙˆØ²Ø© Ù…Ø³Ø¨Ù‚Ø§.</SpaceAlreadyOccupied>
+  <SpaceBeingSmoothed>Space being smoothed.</SpaceBeingSmoothed>
+  <TerrainMustBeRemovable>Must target a removable floor.</TerrainMustBeRemovable>
 
-  <!-- placement of zones -->
-  <ExpandOrCreateZone>æÓÚ {0} Ãæ\nÍÏÏ {1} ÌÏíÏÉ</ExpandOrCreateZone>
-  <CreateNewZone>ÍÏÏ {0} ÌÏíÏÉ</CreateNewZone>
-  
-  
-  <!-- desc helpers -->
-  <TransmitsPower>Şã ÈÊæÕíá ÇáØÇŞÉ.</TransmitsPower>
+
+  <!-- Mouse attachments -->
+  <ExpandOrCreateZone>ÙˆØ³Ø¹ {0} Ø£Ùˆ\nØ­Ø¯Ø¯ {1} Ø¬Ø¯ÙŠØ¯Ø©</ExpandOrCreateZone>
+  <CreateNewZone>Ø­Ø¯Ø¯ {0} Ø¬Ø¯ÙŠØ¯Ø©</CreateNewZone>
+
+
+  <!-- Desc helpers -->
+  <TransmitsPower>Ù‚Ù… Ø¨ØªÙˆØµÙŠÙ„ Ø§Ù„Ø·Ø§Ù‚Ø©</TransmitsPower>
 
 
 </LanguageData>

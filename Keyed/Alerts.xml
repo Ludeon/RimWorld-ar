@@ -1,29 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<ClickToJumpToProblem>إنتقل إلى المشكلة</ClickToJumpToProblem>
 
-  <NeedSawmill>بحاجة إلى نجارة</NeedSawmill>
-  <NeedSawmillDesc>أنت بحاجة إلى نجارة لكي تقطع القطع الخشبية لقطع متعددة الإستخدام.\n\nيمكنك بناء نجارة خشبية أو إلكترونية.</NeedSawmillDesc>
-  
-  <EquipStartingEquipment>خذ معداتك</EquipStartingEquipment>
-  <EquipStartingEquipmentDesc>لقد هبطت مع بعض الأسلحة. خذها من موقع هبوطك.\n\nلتزود مواطنيك بهذه الأسلحة أختر المواطن ومن ثم أنقر بالزر الأيمن على السلاح.</EquipStartingEquipmentDesc>
-  
-  <MentalBreakSoon>إضطراب نفسي متوقع قريباً</MentalBreakSoon>
-  <MentalBreakSoonDesc>هؤلاء المواطنين بدأت تظهر عليهم حالات إضطراب نفسي:\n\n{0}\nحسن حالة هؤلاء المواطنين عما قريب قبل أن تتدهور حالتهم.</MentalBreakSoonDesc>
-
-  <MentalBreakImminent>إضطراب نفسي محتم</MentalBreakImminent>
-  <MentalBreakImminentDesc>هؤلاء المواطنين في حالة إضطراب نفسي وهو محتم عما قريب:\n\n{0}</MentalBreakImminentDesc>
+  <BreakRiskMinor>Minor break risk</BreakRiskMinor>
+  <BreakRiskMajor>Major break risk</BreakRiskMajor>
+  <BreakRiskExtreme>Extreme break risk</BreakRiskExtreme>
+  <BreakRiskMinorDesc>These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more joy hours per day and nicer joy objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
 
   <ColonistNeedsRescue>مواطن يحتاج للإنقاذ</ColonistNeedsRescue>
   <ColonistsNeedRescue>مواطن بحاجة للإنقاذ</ColonistsNeedRescue>
   <ColonistsNeedRescueDesc>  المواطن فقد وعيه على الأرض:\n\n{0}\nإرسل مواطن اخر لكي ينقذه.\n\n(لكي تنقذ المواطن اختر مواطن اخر واضغط بزر الفارة الأيمن من المواطن المصاب وأنقذه.</ColonistsNeedRescueDesc>
-
-  <BuildARoom>بحاجة لبناء غرفة</BuildARoom>
-  <BuildARoomDesc>لايوجد لديك أي غرف.\n\nابن اربع جدراء وباب لكي تكمل الغرفة.\n\nإستخدم قائمة الهندسة لكي تبني ماتريد.عندما تضع الأمر للبناء مواطنوك سوف يبدؤون بالبناء فور توفر المعدات. </BuildARoomDesc>
-
-  <NeedGrowingZone>بحاجة لمنطقة زراعية.</NeedGrowingZone>
-  <NeedGrowingZoneDesc>لايوجد لديك منطقة زراعية.\n\ضع منطقة زراعية على تربة خصبة بواسطة القائمة المعمارية</NeedGrowingZoneDesc>
 
   <NeedDefenses>بحاجة لدفاعات</NeedDefenses>
   <NeedDefensesDesc>تواجدت في هذه المنطقة لمدة طويلة. القراصنة سوف يلاحظون تواجدك ويهجمون عليك قريباً\n\nجهز دفاعاتك.\n\nابن بعض الدفاعات.</NeedDefensesDesc>
@@ -40,11 +30,27 @@
   <LowFood>كمية الطعام قليلة</LowFood>
   <LowFoodDesc>لم يبق لديك سوى {0} مواد غذائية في المخازن. هذه الكمية قليلة جدا\n\nازرع, اشتر, اصطد او اعثر على بعض الطعام. </LowFoodDesc>
 
+  <LowMedicine>Low medicine</LowMedicine>
+  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
+  <NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
+
   <NeedColonistBeds>بحاجة لسرر للمستوطنين</NeedColonistBeds>
   <NeedColonistBedsDesc>عدد المواطنين يفوق عدد السرر. بعضهم لن يجد مكانا للنوم.\n\nاصنع مزيدا من السرر, او غير بعض سرر المساجين ليستعملها الموطنون.</NeedColonistBedsDesc>
 
+  <HunterLacksWeapon>Hunter lacks ranged weapon</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.</HunterLacksWeaponDesc>
+
+  <AlertTatteredApparel>Tattered apparel</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+
+	<AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>
+	<AlertUnhappyNudityDesc>These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertUnhappyNudityDesc>
+
   <Starvation>جوع</Starvation>
   <StarvationDesc>هؤلاء المواطنون جائعون:\n\n{0}\nاعطهم بعض الطعام. ستحتاج مصدر طعام كصانع المعجون الغذائي و مصدر غذاء لتشغيله. تأكد ايضا انهم ليسو في حالة استنفار. </StarvationDesc>
+
+  <StarvationAnimals>Animal starvation</StarvationAnimals>
+  <StarvationAnimalsDesc>These colony animals are starving:\n\n{0}\nGet them some food.</StarvationAnimalsDesc>
 
   <Exhaustion>انهاك</Exhaustion>
   <ExhaustionDesc>هؤلاء المواطنون منهكون و بحاجة للراحة: \n\n{0}\nدعهم يستريحون. سيحتاجون سررا محددة للمواطنين. تأكد ايضا انهم لسيو في حالة استنفار.</ExhaustionDesc>
@@ -52,37 +58,55 @@
   <NeedFoodHopper>بحاجة لسلة غذاء</NeedFoodHopper>
   <NeedFoodHopperDesc>لديك صانع معجون غذائي من دون سلة بجانبه. \n\nحتى يعمل, صانع المعجون يحتاج أن يستمد المادة الغذائية من سلة قريبة تحوي طعاما غير مطبوخ. \n\nابن سلة قريبا منه. </NeedFoodHopperDesc>
 
-  <BuildingNeedsPower>هذا البناء بحاجة للطاقة</BuildingNeedsPower>
-  <BuildingsNeedPower>هذه الابنية بحاجة للطاقة</BuildingsNeedPower>
-  <BuildingsNeedPowerDesc>هذه الابنية بحاجة للطاقة و هي غير متصلة نهائيا بأي مصدر للطاقة: \n\n{0}\nتأكد من اتصالها بمولد طاقة أو بطارية. </BuildingsNeedPowerDesc>
-  <AndMore>و المزيد</AndMore>
-  
   <NeedMealSource>بحاجة لمصدر للوجبات</NeedMealSource>
   <NeedMealSourceDesc>ليس لديك أي طريقة لانتاج وجبات للأكل. \n\nابن صانعا للمعجون الغذائي أو موقدا للطبخ. \n\n(لا تضعه ضمن غرفة للمساجين حتى يتمكن المواطنون من استعماله.)</NeedMealSourceDesc>
 
-  <NeedHomeRegion>بحاجة لمنطقة بيتية</NeedHomeRegion>
-  <NeedHomeRegionDesc>يجب أن تحدد منطقة بيتية حيث سيقوم المواطنون بالتنظيف, إخماد الحرائق و إصلاح الاشياء. \n\nحدد منطقة البيت باستخدام أداة المنطقة ضمن القائمة المعمارية. </NeedHomeRegionDesc>
+  <NeedJoySource>Need joy source</NeedJoySource>
+  <NeedJoySourceDesc>Your colonists need to fulfill their joy need, but you haven't built any joy sources.\n\nHelp them by building a horseshoes pin, chess table, or other joy source.</NeedJoySourceDesc>
 
   <NeedBatteries>بحاجة لبطاريات</NeedBatteries>
   <NeedBatteriesDesc>لديك مولدات شمسية و لكن لا توجد بطاريات. هذا سيفقدك الطاقة حال غروب الشمس. \n\nابن بطارية على الاقل لتخزين الطاقة خلال الليل. </NeedBatteriesDesc>
-  <NoTradingCapacity>لا تستطيع المتاجرة</NoTradingCapacity>
-  <NoTradingCapacityDesc>لا تملك وسيلة للمتاجرة مع السفن القريبة. \n\nابن محطة اتصالات. </NoTradingCapacityDesc>
+
+  <BrawlerHasRangedWeapon>Brawler has ranged weapon</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy.</BrawlerHasRangedWeaponDesc>
+
+  <ShieldUserHasRangedWeapon>Shield user has ranged weapon</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them).</ShieldUserHasRangedWeaponDesc>
 
   <NeedResearchProject>بحاجة لمشروع للتطوير</NeedResearchProject>
   <NeedResearchProjectDesc>لديك الاجهزة اللازمة للتطوير لكنك لم تقم بتحديد مشروع. \n\nافتح قائمة التطوير و قم باختيار احد المشاريع.</NeedResearchProjectDesc>
 
-  <NeedDump>بحاجة لمكب</NeedDump>
-  <NeedDumpDesc>يوجد ركام يريد المواطنون إزالته و لكن لا يوجد مكان محدد لرميه\n\n حدد منطقة تخزين مخصصة للركام</NeedDumpDesc>
-
-  <NeedGrave>بحاجة لقبور</NeedGrave>
-  <NeedGraveDesc>توجد جثة مرمية على الارض و لا مكان يستطيع المواطنون وضعها فيه. \n\nابن قبرا أو عين منطقة تخزين لرمي الجثث. </NeedGraveDesc>
-
   <ColonistsIdle>{0} مواطن عاطل</ColonistsIdle>
   <ColonistsIdleDesc>هؤلاء المواطنون عاطلون و يتجولون عبثا: \n\n{0}\nيفضل أن تجد لهم شيئا مفيدا ليعملوه.</ColonistsIdleDesc>
-  
-  <TableNeedsChairs>طاولة بحاجة لكراسي</TableNeedsChairs>
-  <TableNeedsChairsDesc>لديك طاولة من دون كراسي قربها, الطاولات عديمة الفائدة من غير كرسي للجلوس عندها. </TableNeedsChairsDesc>
-  
-  
-  
+
+  <ColonistNeedsTreatment>Colonist needs treatment</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
+
+  <AlertHypothermia>Hypothermia</AlertHypothermia>
+  <AlertHypothermiaDesc>These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated.</AlertHypothermiaDesc>
+
+  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
+
+  <FireInHomeArea>Fire!</FireInHomeArea>
+  <FireInHomeAreaDesc>There is a fire in the home area.</FireInHomeAreaDesc>
+
+  <PawnsWithLifeThreateningDisease>Severe illness</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical possible.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <BilliardsNeedsSpace>Billiards needs space</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable.</BilliardsNeedsSpaceDesc>
+
+  <HunterHasShieldAndRangedWeapon>Hunter has shield and ranged weapon</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
+
+  <NeedWarmClothes>Need warm clothes</NeedWarmClothes>
+  <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
+
+  <ImmobileCaravan>Immobile caravan</ImmobileCaravan>
+  <ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
+
 </LanguageData>
