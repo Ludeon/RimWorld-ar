@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Overview>نظرة عامة</Overview>
-  <OverviewTip>أدر أولويات عمل المستعمرة و إحصائيتها</OverviewTip>
-  <ResearchTip>فكر و قرر في مشاريع البحث</ResearchTip>
   <Wiki>الموسوعة</Wiki>
   <WikiTip>افتح متصفح الانترنت للوصول إلى موسوعة اللعبة و الحصول على مساعدة للعب</WikiTip>
   <Menu>القائمة</Menu>
-  <MenuTip>حفظ , استعادة , أو خروج من اللعبة أو تغيير الخيارات</MenuTip>
-
-  <Architect>البناء</Architect>
-
 
 </LanguageData>

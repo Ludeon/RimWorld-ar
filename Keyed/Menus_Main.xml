@@ -2,41 +2,148 @@
 <LanguageData>
 
   <!--=========== Main menu ==========-->
+  <Tutorial>Tutorial</Tutorial>
   <NewColony>مستعمرة جديدة</NewColony>
   <BackToGame>الرجوع للعبة</BackToGame>
+  <ReviewScenario>Review scenario</ReviewScenario>
   <Save>حفظ</Save>
-  <Load>تحميل</Load>
+  <LoadGame>Load game</LoadGame>
   <Options>الخصائص</Options>
   <Mods>المودات</Mods>
   <Credits>المطورين</Credits>
   <QuitToMainMenu>العودة للقائمة الرئيسية</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Save and quit to menu</SaveAndQuitToMainMenu>
   <QuitToOS>الخروج من اللعبة</QuitToOS>
+  <SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
   <FictionPrimer>Fiction primer</FictionPrimer>
   <LudeonBlog>Ludeon مدونة</LudeonBlog>
   <Forums>المنتدى</Forums>
   <OfficialWiki>الموسوعة الرسمية</OfficialWiki>
   <TynansTwitter>Tynan's تويتر</TynansTwitter>
   <TynansDesignBook>Tynan's كتاب التصميم</TynansDesignBook>
+  <HelpTranslate>Help translate RimWorld</HelpTranslate>
+  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
+  <CreateWorld>Create world</CreateWorld>
+
+  <!--=========== Create/review world ================-->
+  <ReviewWorld>Review world</ReviewWorld>
+  <WorldGenerate>Generate</WorldGenerate>
+  <WorldSaveAndFinish>Save and finish</WorldSaveAndFinish>
+  <Reset>Reset</Reset>
+  <PlanetCoverage>Globe coverage</PlanetCoverage>
+  <PlanetRainfall>Overall rainfall</PlanetRainfall>
+  <PlanetTemperature>Overall temperature</PlanetTemperature>
+  <PlanetRainfall_Low>Low</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
+  <PlanetRainfall_High>High</PlanetRainfall_High>
+  <PlanetTemperature_Low>Low</PlanetTemperature_Low>
+  <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
+  <PlanetTemperature_High>High</PlanetTemperature_High>
+  <WorldSeed>Seed</WorldSeed>
+  <RandomizeSeed>Randomize seed</RandomizeSeed>
+  <PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated.</PlanetCoverageTip>
+  <WorldFactionsTab>Factions</WorldFactionsTab>
+
+  <!--=========== Select world ===================-->
+  <SelectWorld>Select world</SelectWorld>
+  <WorldChooseButton>Select</WorldChooseButton>
+  <NoWorldsFilesFound>No world files found. Create a world first.</NoWorldsFilesFound>
 
   <!--=========== Version info ==========-->
   <BuildNowAvailable>البنية {0} متوفرة الان. اذهب للموقع ludeon.com لمزيد من المعلومات.</BuildNowAvailable>
-	<BuildUpToDate>Build is up to date.</BuildUpToDate>
+	<BuildUpToDate>This is the latest version.</BuildUpToDate>
 	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
 	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
 
-  <!--=========== Mods screen ==========-->
-  <GetMods>الحصول على المودات</GetMods>
+  <!--=========== World generator =========-->
+  <GenerateWorld>Generate world</GenerateWorld>
+
+  <!--=========== Mods config ==========-->
+  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Get mods from forum</GetModsFromForum>
+  <OpenModsDataFolder>Open mods data folder</OpenModsDataFolder>
   <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Unsubscribe</Unsubscribe>
+  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
   <Author>Author</Author>
-  
+  <WorkshopPage>Workshop page</WorkshopPage>
+  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
+  <Downloading>Downloading</Downloading>
+  <Source>Source</Source>
+  <ModTargetVersion>For version: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <DragToReorder>Drag to reorder</DragToReorder>
 
-  <!--=========== Storyteller chooser ==========-->
+  <!--=========== Select scenario =============-->
+  <ChooseScenario>Choose scenario</ChooseScenario>
+  <ScenariosCustom>Custom</ScenariosCustom>
+  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <ScenarioEditor>Scenario editor</ScenarioEditor>
+  <Delete>Delete</Delete>
+
+  <!--============ Scenario editor ===============-->
+  <Seed>seed</Seed>
+  <Load>Load</Load>
+  <EditMode>edit mode</EditMode>
+  <Summary>Summary</Summary>
+  <AddPart>Add part</AddPart>
+  <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
+  <Incompatible>Incompatible</Incompatible>
+  <TooMany>Too many (max {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+
+  <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
-  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony.</HowStorytellersWork>
+  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time.</HowStorytellersWork>
+  <MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
+  <Difficulty>Difficulty</Difficulty>
 
-  <!--=========== Character chooser ==========-->
+  <!--=========== Landing site select =========-->
+  <SelectLandingSite>Select landing site</SelectLandingSite>
+  <SelectRandomSite>Select random site</SelectRandomSite>
+  <SelectSite>Select site</SelectSite>
+  <MustSelectLandingSite>Please select a landing site.</MustSelectLandingSite>
+  <CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
+  <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
+  <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
+  <BaseAlreadyThere>{0} already have a base there.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>You already have a base there.</YourBaseAlreadyThere>
+  <TileOccupied>This tile is occupied.</TileOccupied>
+  <FactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</FactionBaseAdjacent>
+  <Biome>Biome</Biome>
+  <Terrain>Terrain</Terrain>
+  <Road>Road</Road>
+  <River>River</River>
+  <Elevation>Elevation</Elevation>
+  <Fertility>Fertility</Fertility>
+  <AvgTemp>Average temperature</AvgTemp>
+  <AvgSummerTemp>Summer temperature</AvgSummerTemp>
+	<AvgWinterTemp>Winter temperature</AvgWinterTemp>
+	<Rainfall>Rainfall</Rainfall>
+  <HasCoast0>Northern coast</HasCoast0>
+  <HasCoast1>Eastern coast</HasCoast1>
+  <HasCoast2>Southern coast</HasCoast2>
+  <HasCoast3>Western coast</HasCoast3>
+  <FactionBase>Faction base</FactionBase>
+  <StoneTypesHere>Stone types</StoneTypesHere>
+  <TimeZone>Time zone</TimeZone>
+	<MovementTimeNow>Current movement time</MovementTimeNow>
+	<MovementTimeSummer>Summer movement time</MovementTimeSummer>
+	<MovementTimeWinter>Winter movement time</MovementTimeWinter>
+  <AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
+
+
+	<!--=========== Character chooser ==========-->
   <CreateCharacters>إنشاء شخصية</CreateCharacters>
-  <FirstNameDesc>اسم الشخصية.\n\nThis is only displayed in certain menus.</FirstNameDesc>
+  <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
   <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
   <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
   <Randomize>إختيار عشوائي</Randomize>
@@ -44,27 +151,32 @@
   <Backstory>Backstory</Backstory>
   <IncapableOf>Incapable of</IncapableOf>
   <Traits>الصفات</Traits>
-  <TraitsDoNothing>Traits are just fun story bits for now; most of them don't do anything. This will change in future versions.</TraitsDoNothing>
+  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
   <Skills>المهارات</Skills>
   <NoneLower>لا شئ</NoneLower>
   <Adulthood>المراهقة</Adulthood>
   <Childhood>الطفولة</Childhood>
   <Male>ذكر</Male>
   <Female>انثى</Female>
-  
-  
+  <Pain>Pain</Pain>
+  <Health>Health</Health>
+  <Relations>Relations</Relations>
+
   <!--=========== Misc ==========-->
   <Start>ابدأ</Start>
   <Advanced>متقدم</Advanced>
   <Next>التالي</Next>
   <Back>الرجوع</Back>
-  
   <Gameplay>نمط اللعب</Gameplay>
-
   <ConfirmQuit>هل انت متأكد؟ سوف تفقد جميع الاعمال الغير محفوظة.</ConfirmQuit>
-  
   <EveryoneNeedsValidName>كل شخص يحتاج إلى أسم صحيح.</EveryoneNeedsValidName>
+  <Quit>Quit</Quit>
+  <Ignore>Ignore</Ignore>
 
-  <GeneratingWorld>إنشاء عالم...</GeneratingWorld>
+  <!--============ Progress bar==============-->
+  <GeneratingWorld>Generating world</GeneratingWorld>
+  <GeneratingPlanet>Generating planet</GeneratingPlanet>
+  <GeneratingMap>Generating map</GeneratingMap>
+  <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
 
 </LanguageData>

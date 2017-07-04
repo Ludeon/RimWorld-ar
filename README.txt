@@ -1,7 +1,7 @@
 RimWorld-ar
 ===========
 
-Arabic localization for RimWorld
+This is the Arabic localization project for [RimWorld](https://rimworldgame.com/).
 
 See this page for license info:
 

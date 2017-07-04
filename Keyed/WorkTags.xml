@@ -8,7 +8,7 @@
   <WorkTagViolent>عنف</WorkTagViolent>
   <WorkTagCaring>إهتمام</WorkTagCaring>
   <WorkTagSocial>إجتماعي</WorkTagSocial>
-  <WorkTagScary>مخيف</WorkTagScary>
+  <WorkTagAnimals>Animals</WorkTagAnimals>
   <WorkTagArtistic>فنان</WorkTagArtistic>
   <WorkTagCrafting>صياغة</WorkTagCrafting>
   <WorkTagCooking>طبخ</WorkTagCooking>
@@ -17,5 +17,5 @@
   <WorkTagHauling>نقل بالعربة</WorkTagHauling>
   <WorkTagPlantWork>الكهرباء</WorkTagPlantWork>
   <WorkTagMining>تعدين</WorkTagMining>
-  
+
 </LanguageData>
