@@ -36,10 +36,10 @@
 
   <LetterLabelNewDisease>Disease</LetterLabelNewDisease>
   <NewDisease>{0} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible.</NewDisease>
-  <NewPartDisease>{0} has gotten sick from {3}. The infection is in HIS {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible.</NewPartDisease>
+  <NewPartDisease>{0} has gotten sick from {3}. The infection is in [PAWN_possessive] {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible.</NewPartDisease>
 
   <LetterLabelAncientShrineWarning>Ancient danger</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>As {0} draws near the ancient wall, a sense of foreboding overcomes HIM. HECAP isn't sure why, but HE feels that this dusty structure may contain great danger.</AncientShrineWarning>
+  <AncientShrineWarning>As {0} draws near the ancient wall, a sense of foreboding overcomes [PAWN_objective]. [PAWN_pronoun] isn't sure why, but [PAWN_pronoun] feels that this dusty structure may contain great danger.</AncientShrineWarning>
 
   <StruckMineable>We have struck {0}!</StruckMineable>
 
@@ -76,8 +76,8 @@
   <LetterRelatedPawnsTradingWithOtherCaravan>The caravan is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithOtherCaravan>
 
   <RelationshipAppendedLetterSuffix>(relationship)</RelationshipAppendedLetterSuffix>
-  <RelationshipAppendedLetterTextColonist>NAME has a relationship with a colonist. HECAP is {0}'s {1}.</RelationshipAppendedLetterTextColonist>
-  <RelationshipAppendedLetterTextPrisoner>NAME has a relationship with one of your prisoners. HECAP is {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] has a relationship with a colonist. [PAWN_pronoun] is {0}'s {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef] has a relationship with one of your prisoners. [PAWN_pronoun] is {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Affair</LetterLabelAffair>
@@ -114,7 +114,7 @@
 
   <!-- Newly addicted -->
   <LetterLabelNewlyAddicted>{0} addiction</LetterLabelNewlyAddicted>
-  <LetterNewlyAddicted>{0} has developed an addiction to {1}.\n\nHECAP now has a need for {1}, visible on HIS Needs tab. HECAP will automatically consume the drug to fulfil HIS need. If HE cannot get any {1}, HE will go into withdrawal.</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{0} has developed an addiction to {1}.\n\n[PAWN_pronoun] now has a need for {1}, visible on [PAWN_possessive] Needs tab. [PAWN_pronoun] will automatically consume the drug to fulfil [PAWN_possessive] need. If [PAWN_pronoun] cannot get any {1}, [PAWN_pronoun] will go into withdrawal.</LetterNewlyAddicted>
 
   <!-- Drug binge -->
   <LetterLabelDrugBinge>{0} binge</LetterLabelDrugBinge>

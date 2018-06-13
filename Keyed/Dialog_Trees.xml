@@ -2,7 +2,7 @@
 <LanguageData>
 
   <FactionGreetingHostile>{0} hurls some epithets into the microphone and disconnects.</FactionGreetingHostile>
-  <FactionGreetingWary>{0} greets {1} warily and asks HIS business.</FactionGreetingWary>
+  <FactionGreetingWary>{0} greets {1} warily and asks [PAWN_possessive] business.</FactionGreetingWary>
   <FactionGreetingWarm>{0} greets {1} warmly and asks how the colony fares.</FactionGreetingWarm>
 
   <Disconnect>Disconnect</Disconnect>

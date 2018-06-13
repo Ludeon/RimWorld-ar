@@ -37,13 +37,13 @@
 
   <TraderArrival>A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.</TraderArrival>
 
-  <SingleTravelerPassing>A {0} from {1} is passing by. HECAP is named {2}.</SingleTravelerPassing>
+  <SingleTravelerPassing>A {0} from {1} is passing by. [PAWN_pronoun] is named {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>A group of travelers from {0} are passing by.</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>Visitor</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives>A {0} from {1} is visiting the colony.\n\nHECAP is named {2}.{3}{4}</SingleVisitorArrives>
-  <SingleVisitorArrivesTraderInfo>\n\nHECAP seems to have a few items to trade.</SingleVisitorArrivesTraderInfo>
-  <SingleVisitorArrivesLeaderInfo>\n\nHECAP is the leader of the faction.</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrives>A {0} from {1} is visiting the colony.\n\n[PAWN_pronoun] is named {2}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] seems to have a few items to trade.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] is the leader of the faction.</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>Visitors</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>A group from {0} are visiting the colony.{1}{2}</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nThey seem to have a few items to trade.</GroupVisitorsArriveTraderInfo>
@@ -51,7 +51,7 @@
   <VisitorsLeaving>Visitors from {0} are leaving.</VisitorsLeaving>
 
   <LetterLabelWandererJoin>Wanderer joins</LetterLabelWandererJoin>
-  <WandererJoin>A {0} named NAME has arrived and is joining the colony. HECAP is a {1}.</WandererJoin>
+  <WandererJoin>A {0} named [PAWN_nameDef] has arrived and is joining the colony. [PAWN_pronoun] is a {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>Manhunter pack</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>A pack of man-hunting {0}s have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey can't pass doors, so if you stay behind walls you should be safe. They won't attack inactive turrets, so turn your turrets off if you want to save them.\n\nThey'll leave the area in a few days.</ManhunterPackArrived>
@@ -85,7 +85,7 @@
 
   <!-- Refugee chased -->
 	<RefugeeChasedTitle>Refugee chased at {0}</RefugeeChasedTitle>
-  <RefugeeChasedInitial>A {1} named {0} calls you from nearby. HECAP is being chased by {2} from {3}!\n\nHECAP begs for safety and offers to join your colony. Biologically, HE is {4} years old.\n\nBe warned - if you accept, you'll have to fight off the {2} on HIS tail.</RefugeeChasedInitial>
+  <RefugeeChasedInitial>A {1} named {0} calls you from nearby. [PAWN_pronoun] is being chased by {2} from {3}!\n\n[PAWN_pronoun] begs for safety and offers to join your colony. Biologically, [PAWN_pronoun] is {4} years old.\n\nBe warned - if you accept, you'll have to fight off the {2} on [PAWN_possessive] tail.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Offer safety</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Ignore the message</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} screams in panic through the tinny speaker before you cut off the transmission.</RefugeeChasedRejected>
@@ -114,7 +114,7 @@
 
   <!-- Ransom demand -->
 	<RansomDemandTitle>Ransom demand at {0}</RansomDemandTitle>
-	<RansomDemand>{1} contacts you on radio. They are holding former colonist {0} for ransom.\n\nThey're willing to release HIM back to you in exchange for {2} silver.</RansomDemand>
+	<RansomDemand>{1} contacts you on radio. They are holding former colonist {0} for ransom.\n\nThey're willing to release [PAWN_objective] back to you in exchange for {2} silver.</RansomDemand>
   <RansomDemand_Accept>Accept</RansomDemand_Accept>
   <RansomDemand_Reject>Reject</RansomDemand_Reject>
 

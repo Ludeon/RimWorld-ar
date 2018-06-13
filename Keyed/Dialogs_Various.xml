@@ -376,7 +376,7 @@
   <!-- Abandon pawn -->
   <ConfirmAbandonPawnDialog>Do you really want to abandon {0}?</ConfirmAbandonPawnDialog>
   <ConfirmAbandonPawnDialog_LeftToDie>{0} will most likely die.</ConfirmAbandonPawnDialog_LeftToDie>
-  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} will take the following items with HIM:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
+  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} will take the following items with [PAWN_objective]:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
   <ConfirmAbandonPawnDialog_AllColonistsThoughts>All colonists will get the following thoughts:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
   <ConfirmAbandonPawnDialog_IndividualThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonPawnDialog_IndividualThoughts>
 
