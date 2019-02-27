@@ -5,20 +5,20 @@
   <ClickToJumpToProblem>إنتقل إلى المشكلة</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
-  <BreakRiskMinor>Minor break risk</BreakRiskMinor>
+  <BreakRiskMinor>خطر الانكسار قليل</BreakRiskMinor>
   <!-- EN: Major break risk -->
-  <BreakRiskMajor>Major break risk</BreakRiskMajor>
+  <BreakRiskMajor>خطر الانكسار كبير</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
-  <BreakRiskExtreme>Extreme break risk</BreakRiskExtreme>
+  <BreakRiskExtreme>خطر الانكسار شديد</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
-  <BreakRiskMinorDesc>These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>هؤلاء المواطنون في مزاج سيئ و قد يتعرظون الى انهيار عقلي طفيف في اي لحضة:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
-  <BreakRiskMajorDesc>These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskMajorDesc>هؤلاء المواطنون في مزاج سيئ و قد يتعرظون الى انهيار عقلي كبير في اي لحضة:\n\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
   <BreakRiskExtremeDesc>These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
   <BreakRiskDescEnding>Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more joy hours per day and nicer joy objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
-  
+
   <!-- EN: Colonist needs rescue -->
   <ColonistNeedsRescue>مواطن يحتاج للإنقاذ</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
@@ -57,7 +57,7 @@
   <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
   <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
   <NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
-  
+
   <!-- EN: Need colonist beds -->
   <NeedColonistBeds>بحاجة لسرر للمستوطنين</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
@@ -140,7 +140,7 @@
   <NeedResearchProject>بحاجة لمشروع للتطوير</NeedResearchProject>
   <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
   <NeedResearchProjectDesc>لديك الاجهزة اللازمة للتطوير لكنك لم تقم بتحديد مشروع. \n\nافتح قائمة التطوير و قم باختيار احد المشاريع.</NeedResearchProjectDesc>
-  
+
   <!-- EN: {0} colonists idle -->
   <ColonistsIdle>{0} مواطن عاطل</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
@@ -155,7 +155,7 @@
   <AlertHypothermia>Hypothermia</AlertHypothermia>
   <!-- EN: These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
   <AlertHypothermiaDesc>These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated.</AlertHypothermiaDesc>
-  
+
   <!-- EN: {0} patients await medical operation -->
   <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
   <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
@@ -191,10 +191,10 @@
   <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
   <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
   <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
-  
+
   <!-- EN: Immobile caravan -->
   <ImmobileCaravan>Immobile caravan</ImmobileCaravan>
   <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
   <ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
-  
+
 </LanguageData>
