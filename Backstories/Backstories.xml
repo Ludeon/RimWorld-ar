@@ -3,11 +3,11 @@
   
   <AbandonedChild47>
     <!-- EN: abandoned child -->
-    <title>TODO</title>
+    <title>طفل مهجور</title>
     <!-- EN: abandoned -->
-    <titleShort>TODO</titleShort>
+    <titleShort>مهجور</titleShort>
     <!-- EN: [PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy genetic parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] كان طفل مسل ومضحك. حتي يوم, [PAWN_pronoun] رحل مع [PAWN_possessive] يجب استخدامه في نسخ طفل جديد [PAWN_objective] و اسرته الوراثية الغنية, وتم تركه في مستودع خام. بسبب تكنولوجية النسخ, الاسرة قررت ان الوقت في </desc>
   </AbandonedChild47>
   
   <AbandonedChild60>

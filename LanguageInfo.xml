@@ -9,5 +9,10 @@
       <roleKey>Credit_Writer</roleKey>
       <creditee>تينان سيلفيستر</creditee>
     </li>
+      <credits>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>CGUltimateno</creditee>
+    </li>
   </credits>
 </LanguageInfo>

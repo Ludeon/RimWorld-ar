@@ -5,36 +5,36 @@
   <ClickToJumpToProblem>إنتقل إلى المشكلة</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
-  <BreakRiskMinor>Minor break risk</BreakRiskMinor>
+  <BreakRiskMinor>خطر صغير</BreakRiskMinor>
   <!-- EN: Major break risk -->
-  <BreakRiskMajor>Major break risk</BreakRiskMajor>
+  <BreakRiskMajor>خطر كبير</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
-  <BreakRiskExtreme>Extreme break risk</BreakRiskExtreme>
+  <BreakRiskExtreme>خطر شديد</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
-  <BreakRiskMinorDesc>These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>هؤلاءالمواطنون في حالة نفسية سيئة و سيكون لديهم انهيار عصبي صغير في اي وقت:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
-  <BreakRiskMajorDesc>These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskMajorDesc>هؤلاءالمواطنون في حالة نفسية سيئة جدا و سيكون لديهم انهيار عصبي كامل في اي وقت:\n\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
-  <BreakRiskExtremeDesc>These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskExtremeDesc>هؤلاءالمواطنون مضغوطين بشكل خطير و سيكون لديهم انهيار عصبي (او عنيف) كامل في اي وقت:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more joy hours per day and nicer joy objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
+  <BreakRiskDescEnding>تحقق من احتياجات المواطنون لتعرف ماذا يزعجهم.\n\nلتجعل مواطنيك يشعرون افضل, تستطيع ان تقوم بفعل اشياء مثل طبخ وجبة شهية, او اعطيهم ساعات مرح والعاب اكثر, او ضعهم في بيئة جميلة, او اجعلهم يشربو الخمور او يدخنو, او اشياء اخرة ليفعلوها.</BreakRiskDescEnding>
   
   <!-- EN: Colonist needs rescue -->
   <ColonistNeedsRescue>مواطن يحتاج للإنقاذ</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>مواطن بحاجة للإنقاذ</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
-  <ColonistsNeedRescueDesc>  المواطن فقد وعيه على الأرض:\n\n{0}\nإرسل مواطن اخر لكي ينقذه.\n\n(لكي تنقذ المواطن اختر مواطن اخر واضغط بزر الفارة الأيمن من المواطن المصاب وأنقذه.</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>  المواطن فقد وعيه على الأرض:\n\n{0}\nإرسل مواطن اخر لكي ينقذه.\n\n(لكي تنقذ المواطن اختر مواطن اخر واضغط بزر الفارة الأيمن علي المواطن المصاب وأنقذه.</ColonistsNeedRescueDesc>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>بحاجة لدفاعات</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
-  <NeedDefensesDesc>تواجدت في هذه المنطقة لمدة طويلة. القراصنة سوف يلاحظون تواجدك ويهجمون عليك قريباً\n\nجهز دفاعاتك.\n\nابن بعض الدفاعات.</NeedDefensesDesc>
+  <NeedDefensesDesc>تواجدت في هذه المنطقة لبعض الوقت. القراصنة سوف يلاحظون تواجدك ويهجمون عليك قريباً\n\nجهز دفاعاتك.\n\nابن بعض الدفاعات.</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
   <NeedDoctor>بحاجة لطبيب</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc>هؤلاء المرضى جوعى و لا يستطيعون الحراك. يجب إطعامهم ,لكنك لم توكل مهمة العناية الطبية لأي مواطن سليم.\n\n{0}\nعين مواطنا سليما كطبيب.</NeedDoctorDesc>
+  <NeedDoctorDesc>هؤلاء المرضى يريدون العناية الطبية, ولكن ليس لديك اي مواطن صحي معيين كطبيب.\n\n{0}\n. عين مواطنا سليما كطبيب.اذا تركت الجرح بدون علاج, هذه الجروح لن تشفى جيدا و ربما ستصبح دائما</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
   <NeedMiner>بحاجة إلى عامل منجم</NeedMiner>
@@ -42,51 +42,50 @@
   <NeedMinerDesc>لقد حددت منطقة ليتم حفرها, لكنك لم تعين أي مواطن ليقوم بأعمال الحفر. \n\nعين أحد المواطنين للحفر.</NeedMinerDesc>
 
   <!-- EN: Need warden -->
-  <NeedWarden>بحاجة لسجان</NeedWarden>
+  <NeedWarden>بحاجة لمراقب</NeedWarden>
   <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
-  <NeedWardenDesc>لديك سجين, و لكنك لم تعين أي مواطن كسجان \n\nوكل أحد المواطنين بمهمة السجان.</NeedWardenDesc>
+  <NeedWardenDesc>لديك سجين, و لكنك لم تعين أي مواطن كمراقب \n\nوكلت أحد المواطنين بمهمة المراقبة</NeedWardenDesc>
 
   <!-- EN: Low food -->
   <LowFood>كمية الطعام قليلة</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>لم يبق لديك سوى {0} مواد غذائية في المخازن. هذه الكمية قليلة جدا\n\nازرع, اشتر, اصطد او اعثر على بعض الطعام. </LowFoodDesc>
-
+<LowFoodDesc>لم يبق لديك سوى {0} مواد غذائية في المخازن. هذه الكمية قليلة جدا\n\nازرع, اشتر, اصطد او اعثر على بعض الطعام. </LowFoodDesc>
   <!-- EN: Low medicine -->
-  <LowMedicine>Low medicine</LowMedicine>
+  <LowMedicine>كمية الدواء منخفض</LowMedicine>
   <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
-  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
+  <LowMedicineDesc>لديك فقد {0} أدوية مطبقية في المخزن\n\n.اشتري المزيد من الادوية من التجار</LowMedicineDesc>
   <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
-  <NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
+  <NoMedicineDesc>لا يوجد اي دواء في المخزن\n\nاشتري المزيد من الادوية من التجار</NoMedicineDesc>
   
   <!-- EN: Need colonist beds -->
-  <NeedColonistBeds>بحاجة لسرر للمستوطنين</NeedColonistBeds>
+  <NeedColonistBeds>بحاجة لسرر للمواطنين</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
   <NeedColonistBedsDesc>عدد المواطنين يفوق عدد السرر. بعضهم لن يجد مكانا للنوم.\n\nاصنع مزيدا من السرر, او غير بعض سرر المساجين ليستعملها الموطنون.</NeedColonistBedsDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
-  <HunterLacksWeapon>Hunter lacks ranged weapon</HunterLacksWeapon>
+  <HunterLacksWeapon>الصياد ليس لديه سلاح</HunterLacksWeapon>
   <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
-  <HunterLacksWeaponDesc>A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>مواطن معين كصياد لكن ليس لديه سلاح\n\nلن يصطادو حتي يتم اعطائهم سلاح</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
-  <AlertTatteredApparel>Tattered apparel</AlertTatteredApparel>
+  <AlertTatteredApparel>الملابس ممزقة</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
-  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>هولاء المواطنون يلبسون ملابس ممزقة حث تجعلهم حزينيين:\n\n{0}\nاعطيهم بعض الملابس الغير متضرره بشدة\n\nتستطيع ان تخيط بعض الملابس في طاولة الخياطة او تشتريها من التجار</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
-  <AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>
+  <AlertUnhappyNudity>المتعري الحزين</AlertUnhappyNudity>
   <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
-  <AlertUnhappyNudityDesc>These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudityDesc>هولاء المواطنون متعريين و غير سعيدين بهذا:\n\n{0}\nاعطيهم بعض الملابس\n\nيمكنك تخيط بعض الملابس في طاولة الخياطة او تشتريها من التجار</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
   <Starvation>جوع</Starvation>
   <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
-  <StarvationDesc>هؤلاء المواطنون جائعون:\n\n{0}\nاعطهم بعض الطعام. ستحتاج مصدر طعام كصانع المعجون الغذائي و مصدر غذاء لتشغيله. تأكد ايضا انهم ليسو في حالة استنفار. </StarvationDesc>
+  <StarvationDesc>هؤلاء المواطنون جائعون:\n\n{0}\nاعطهم بعض الطعام.</StarvationDesc>
 
   <!-- EN: Animal starvation -->
-  <StarvationAnimals>Animal starvation</StarvationAnimals>
+  <StarvationAnimals>جوع حيواني</StarvationAnimals>
   <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
-  <StarvationAnimalsDesc>These colony animals are starving:\n\n{0}\nGet them some food.</StarvationAnimalsDesc>
+  <StarvationAnimalsDesc>هولاء حيوانات البلدة جائعون:\n\n{0}\nاعطيهم بعض الطعام</StarvationAnimalsDesc>
 
   <!-- EN: Exhaustion -->
   <Exhaustion>انهاك</Exhaustion>
@@ -104,9 +103,9 @@
   <NeedMealSourceDesc>ليس لديك أي طريقة لانتاج وجبات للأكل. \n\nابن صانعا للمعجون الغذائي أو موقدا للطبخ. \n\n(لا تضعه ضمن غرفة للمساجين حتى يتمكن المواطنون من استعماله.)</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
-  <NeedJoySource>Need joy source</NeedJoySource>
+  <NeedJoySource>حاجة لمصدر للمرح</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>Your colonists need to fulfill their joy need, but you haven't built any joy sources.\n\nHelp them by building a horseshoes pin, chess table, or other joy source.</NeedJoySourceDesc>
+  <NeedJoySourceDesc>مواطنيك يحتاجون ليزيدو مستوه المرح عندهم ولكن لا يوجد اي مصادر مرح\n\nساعدهم بصنع اي من مصادر المرح</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
   <AvailableRecreationTypes>TODO</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
