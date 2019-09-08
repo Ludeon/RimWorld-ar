@@ -18,7 +18,11 @@ http://ludeon.com/forums/index.php?topic=2933.0
 * mjkubba
 * Blitzilla
 
+If you wish to be added to the list, you must at least commit more than 4 changes.
+اذا عايز تخوش في اليست لازم تعمل علي الاقل 4 ابدات للملافات اللعبة
 # Forums
 
 Official RimWorld translation forums:https://ludeon.com/forums/index.php?board=17.0
 Arabic translation forum: https://ludeon.com/forums/index.php?topic=49509.0
+
+
