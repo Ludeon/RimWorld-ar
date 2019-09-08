@@ -18,7 +18,7 @@ http://ludeon.com/forums/index.php?topic=2933.0
 * mjkubba
 * Blitzilla
 
-#Forums
+# Forums
 
 Official RimWorld translation forums:https://ludeon.com/forums/index.php?board=17.0
 Arabic translation forum: https://ludeon.com/forums/index.php?topic=49509.0
