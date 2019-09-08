@@ -1,12 +1,30 @@
-RimWorld-ar
+RimWorld Arabic
 ===========
 
-This is the Arabic localization project for [RimWorld](https://rimworldgame.com/).
+The Official RimWorld translation data of Arabic.
+If you wish to help on translating, you must read http://ludeon.com/forums/index.php?topic=2933.0 first.
 
-See [this page](http://ludeon.com/forums/index.php?topic=2933.0) for instructions on how this works, as well as licence information.
+الصفحة الرسمية للترجمة للعبة ريمورلد من انجليزي لعربي
+لو عايز تساعد بأي طريقة ممكن, تشوف الأول 
+http://ludeon.com/forums/index.php?topic=2933.0
 
-# Rules
+# Official Translators
 
-* Please do not commit or pull-request to the `master` branch directly! This is to keep a clean, working copy of the project. There will be a branch for every major release, and other branches can be used as necessary.
 
-* Read [this post](http://ludeon.com/forums/index.php?topic=2933.0) before you start work on this project. You really should. You can also check out the [German localization repo](https://github.com/Ludeon/RimWorld-de) to see an example of a good project.
+* mtimoustafa
+* CGUltimateno
+* IHERO97
+* msabsabee
+* mjkubba
+* Blitzilla
+
+If you wish to be added to the list, you must at least commit more than 4 changes.
+
+اذا عايز تخوش في اليست لازم تعمل علي الاقل 4 ابدات للملافات اللعبة
+# Forums
+
+Official RimWorld translation forums:https://ludeon.com/forums/index.php?board=17.0
+
+Arabic translation forum: https://ludeon.com/forums/index.php?topic=49509.0
+
+
