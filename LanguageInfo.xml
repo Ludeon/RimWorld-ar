@@ -14,5 +14,25 @@
       <roleKey>Credit_Translator</roleKey>
       <creditee>CGUltimateno</creditee>
     </li>
+        <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Mtimoustafa</creditee>
+    </li>
+            <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>IHERO97</creditee>
+    </li>
+            <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Msabsabee</creditee>
+    </li>
+            <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Mjkubba</creditee>
+    </li>
+            <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Blitzilla</creditee>
+    </li>
   </credits>
 </LanguageInfo>
