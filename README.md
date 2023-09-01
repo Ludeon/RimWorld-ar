@@ -17,7 +17,7 @@ http://ludeon.com/forums/index.php?topic=2933.0
 # Translators
 
 ## Current 2023
-abduzy2003 (Mr Ant)
+Abdulhadi Mohammed "Nickname = Mr Ant"
 
 ## Previous
 
