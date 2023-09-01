@@ -16,10 +16,8 @@ http://ludeon.com/forums/index.php?topic=2933.0
 
 # Translators
 
-## Current
-
-* mtimoustafa
-* CGUltimateno
+## Current 2023
+Abdulhadi Mohammed "Nickname = Mr Ant"
 
 ## Previous
 
@@ -27,6 +25,8 @@ http://ludeon.com/forums/index.php?topic=2933.0
 * msabsabee
 * mjkubba
 * Blitzilla
+* mtimoustafa
+* CGUltimateno
 
 If you wish to be added to the list, please contact one of the official translators.
 
