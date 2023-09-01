@@ -2,223 +2,223 @@
 <LanguageData>
   
   <!-- EN: Create beautiful works of art from raw materials. -->
-  <Art.description>TODO</Art.description>
+  <Art.description>.ﺔﻠﻴﻤﺟ ﻻﺎﻤﻋﺃ ﻥﻮﻌﻨﺼﻳ ﻥﻮﻧﺎﻨﻔﻟﺍ</Art.description>
   <!-- EN: art -->
-  <Art.gerundLabel>TODO</Art.gerundLabel>
+  <Art.gerundLabel>ﻦﻓ</Art.gerundLabel>
   <!-- EN: Art -->
-  <Art.labelShort>TODO</Art.labelShort>
+  <Art.labelShort>ﻥﺎﻨﻓ</Art.labelShort>
   <!-- EN: Artist -->
-  <Art.pawnLabel>TODO</Art.pawnLabel>
+  <Art.pawnLabel>ﻥﺎﻨﻓ</Art.pawnLabel>
   <!-- EN: Do art at -->
-  <Art.verb>TODO</Art.verb>
+  <Art.verb>ﻼﻤﻋ ﻊﻨﺻﺍ</Art.verb>
   
   <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
-  <BasicWorker.description>TODO</BasicWorker.description>
+  <BasicWorker.description>ﺓﺰﻬﺟﻷﺍ ﻕﻼﻏﺍﻭ ﺢﺘﻔﺑ ﻢﻗﻭ ءﺎﻨﺠﺴﻟﺍ ﺡﺍﺮﺳ ﻖﻠﻃﺃ .ﺔﻠﻬﺴﻟﺍﻭ ﺓﺭﺎﻬﻣ ﺐﻠﻄﺘﺗ ﻻ ﻲﺘﻟﺍ ﻡﺎﻬﻤﻟﺍ</BasicWorker.description>
   <!-- EN: dealing with -->
-  <BasicWorker.gerundLabel>TODO</BasicWorker.gerundLabel>
+  <BasicWorker.gerundLabel>ﻊﻣ ﻕﺎﻔﺗﺍ</BasicWorker.gerundLabel>
   <!-- EN: Basic -->
-  <BasicWorker.labelShort>TODO</BasicWorker.labelShort>
+  <BasicWorker.labelShort>ﻲﺳﺎﺳﺃ</BasicWorker.labelShort>
   <!-- EN: Worker -->
-  <BasicWorker.pawnLabel>TODO</BasicWorker.pawnLabel>
+  <BasicWorker.pawnLabel>ﻞﻣﺎﻋ</BasicWorker.pawnLabel>
   <!-- EN: Deal with -->
-  <BasicWorker.verb>TODO</BasicWorker.verb>
+  <BasicWorker.verb>ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ</BasicWorker.verb>
   
   <!-- EN: Clear snow and clean the floor in the home area. -->
-  <Cleaning.description>TODO</Cleaning.description>
+  <Cleaning.description>قم بإزالة الثلج وتنظيف الأرضية في منطقة المنزل.</Cleaning.description>
   <!-- EN: cleaning -->
-  <Cleaning.gerundLabel>TODO</Cleaning.gerundLabel>
+  <Cleaning.gerundLabel>تنظيف</Cleaning.gerundLabel>
   <!-- EN: Clean -->
-  <Cleaning.labelShort>TODO</Cleaning.labelShort>
+  <Cleaning.labelShort>ينظف</Cleaning.labelShort>
   <!-- EN: Cleaner -->
-  <Cleaning.pawnLabel>TODO</Cleaning.pawnLabel>
+  <Cleaning.pawnLabel>منظف</Cleaning.pawnLabel>
   <!-- EN: Clean -->
-  <Cleaning.verb>TODO</Cleaning.verb>
+  <Cleaning.verb>ينظف</Cleaning.verb>
   
   <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
-  <Construction.description>TODO</Construction.description>
+  <Construction.description>.ﺔﻠﻄﻌﻤﻟﺍ ﻭﺃ ﺓﺭﺮﻀﺘﻤﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ ﺡﻼﺻﺇﻭ ،ﺎﻬﺼﻴﺼﺨﺘﺑ ﺖﻤﻗ ﻲﺘﻟﺍ ءﺎﻴﺷﻷﺍ ءﺎﻨﺒﺑ ﻢﻗ</Construction.description>
   <!-- EN: constructing -->
-  <Construction.gerundLabel>TODO</Construction.gerundLabel>
+  <Construction.gerundLabel>ءﺎﻨﺑ</Construction.gerundLabel>
   <!-- EN: Construct -->
-  <Construction.labelShort>TODO</Construction.labelShort>
+  <Construction.labelShort>ءﺎﻨﺑ</Construction.labelShort>
   <!-- EN: Constructor -->
-  <Construction.pawnLabel>TODO</Construction.pawnLabel>
+  <Construction.pawnLabel>ءﺎﻨﺒﻟﺍ</Construction.pawnLabel>
   <!-- EN: Construct -->
-  <Construction.verb>TODO</Construction.verb>
+  <Construction.verb>ءﺎﻨﺑ</Construction.verb>
   
   <!-- EN: Prepare meals and butcher meat. -->
-  <Cooking.description>TODO</Cooking.description>
+  <Cooking.description>.ﻡﻮﺤﻠﻟﺍ ﺢﺑﺫﻭ ﺕﺎﺒﺟﻮﻟﺍ ﺮﻴﻀﺤﺗ</Cooking.description>
   <!-- EN: cooking -->
-  <Cooking.gerundLabel>TODO</Cooking.gerundLabel>
+  <Cooking.gerundLabel>ﺦﺒﻃ</Cooking.gerundLabel>
   <!-- EN: Cook -->
-  <Cooking.labelShort>TODO</Cooking.labelShort>
+  <Cooking.labelShort>ﺦﺒﻄﻳ</Cooking.labelShort>
   <!-- EN: Cook -->
-  <Cooking.pawnLabel>TODO</Cooking.pawnLabel>
+  <Cooking.pawnLabel>ﺦﺒﻄﻳ</Cooking.pawnLabel>
   <!-- EN: Cook -->
-  <Cooking.verb>TODO</Cooking.verb>
+  <Cooking.verb>ﺦﺒﻄﻳ</Cooking.verb>
   
   <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
-  <Crafting.description>TODO</Crafting.description>
+  <Crafting.description>.ﻚﻟﺫ ﻦﻣ ﺮﺜﻛﺃﻭ ،ﺮﻬﺼﻟﺍﻭ ،ﺓﺭﺎﺠﺤﻟﺍ ﻊﻄﻗ ﻞﻤﺸﻳ ﺍﺬﻫﻭ .ﻞﻤﻌﻟﺍ ﺕﺎﻄﺤﻣ ﻲﻓ ﺔﻀﻔﺨﻨﻤﻟﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ ﺕﺍﺫ ﺔﻣﺎﻌﻟﺍ ﺔﻟﺎﻤﻌﻟﺎﺑ ﻡﺎﻴﻘﻟﺍ</Crafting.description>
   <!-- EN: crafting -->
-  <Crafting.gerundLabel>TODO</Crafting.gerundLabel>
+  <Crafting.gerundLabel>ﺔﻏﺎﻴﺻ</Crafting.gerundLabel>
   <!-- EN: Craft -->
-  <Crafting.labelShort>TODO</Crafting.labelShort>
+  <Crafting.labelShort>ﺔﻓﺮﺣ</Crafting.labelShort>
   <!-- EN: Crafter -->
-  <Crafting.pawnLabel>TODO</Crafting.pawnLabel>
+  <Crafting.pawnLabel>ﻲﻓﺮﺤﻟﺍ</Crafting.pawnLabel>
   <!-- EN: Craft at -->
-  <Crafting.verb>TODO</Crafting.verb>
+  <Crafting.verb>ﻲﻓ ﺔﻏﺎﻴﺻ</Crafting.verb>
   
   <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
-  <Doctor.description>TODO</Doctor.description>
+  <Doctor.description>.ءﺎﻨﺠﺴﻟﺍﻭ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻦﻣ ﻞﻛ ﺔﻳﺎﻋﺮﺑ ءﺎﺒﻃﻷﺍ ﻡﻮﻘﻴﺳ .ﻢﻬﻟ ﺔﺼﺼﺨﻤﻟﺍ ﺔﻴﺣﺍﺮﺠﻟﺍ ﺕﺎﻴﻠﻤﻌﻟﺍ ءﺍﺮﺟﺇﻭ ﻢﻬﻴﻠﻋ ﺔﺠﻬﺒﻟﺍ ﻝﺎﺧﺩﺇﻭ ﻢﻬﻟ ﻡﺎﻌﻄﻟﺍ ﺭﺎﻀﺣﺇﻭ ﻰﺿﺮﻤﻟﺍ ﺝﻼﻋ</Doctor.description>
   <!-- EN: doctoring -->
-  <Doctor.gerundLabel>TODO</Doctor.gerundLabel>
+  <Doctor.gerundLabel>ﺭﻮﺘﻛﺩ</Doctor.gerundLabel>
   <!-- EN: Doctor -->
-  <Doctor.labelShort>TODO</Doctor.labelShort>
+  <Doctor.labelShort>ﺐﻴﺒﻃ</Doctor.labelShort>
   <!-- EN: Doctor -->
-  <Doctor.pawnLabel>TODO</Doctor.pawnLabel>
+  <Doctor.pawnLabel>ﺐﻴﺒﻃ</Doctor.pawnLabel>
   <!-- EN: Care for -->
-  <Doctor.verb>TODO</Doctor.verb>
+  <Doctor.verb>ﺔﻳﺎﻋﺭ</Doctor.verb>
   
   <!-- EN: Extinguish fires in the colony. -->
-  <Firefighter.description>TODO</Firefighter.description>
+  <Firefighter.description>.ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻲﻓ ﻖﺋﺍﺮﺤﻟﺍ ءﺎﻔﻃﺇ/Firefighter.description>
   <!-- EN: firefighting -->
-  <Firefighter.gerundLabel>TODO</Firefighter.gerundLabel>
+  <Firefighter.gerundLabel>ﻖﻳﺮﺤﻟﺍ ﺔﺤﻓﺎﻜﻣe</Firefighter.gerundLabel>
   <!-- EN: Firefight -->
-  <Firefighter.labelShort>TODO</Firefighter.labelShort>
+  <Firefighter.labelShort>ﺭﺎﻨﻟﺍ ﻕﻼﻃﻻ ﻝﺩﺎﺒﺗ</Firefighter.labelShort>
   <!-- EN: Firefighter -->
-  <Firefighter.pawnLabel>TODO</Firefighter.pawnLabel>
+  <Firefighter.pawnLabel>ءﺎﻔﻃﻻﺍ ﻝﺎﺟﺭ</Firefighter.pawnLabel>
   <!-- EN: Extinguish -->
-  <Firefighter.verb>TODO</Firefighter.verb>
+  <Firefighter.verb>ءﺎﻔﻃﺇ</Firefighter.verb>
   
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
-  <Growing.description>TODO</Growing.description>
+  <Growing.description>.ﺔﻳﺮﺒﻟﺍ ﺕﺎﺗﺎﺒﻨﻠﻟ ﻑﻼﻋﻷﺍﻭ ،ﺩﺎﺼﺤﻟﺍ ﻞﻴﺻﺎﺤﻣﻭ ،ﺕﺎﺗﺎﺒﻨﻟﺍ ﺭﻭﺬﺑ.</Growing.description>
   <!-- EN: growing -->
-  <Growing.gerundLabel>TODO</Growing.gerundLabel>
+  <Growing.gerundLabel>ﺪﻳﺍﺰﺗ</Growing.gerundLabel>
   <!-- EN: Grow -->
-  <Growing.labelShort>TODO</Growing.labelShort>
+  <Growing.labelShort>ﻮﻤﻨﻳ</Growing.labelShort>
   <!-- EN: Grower -->
-  <Growing.pawnLabel>TODO</Growing.pawnLabel>
+  <Growing.pawnLabel>ﻉﺭﺍﺰﻟﺍ</Growing.pawnLabel>
   <!-- EN: Grow -->
-  <Growing.verb>TODO</Growing.verb>
+  <Growing.verb>ﻮﻤﻨﻳ</Growing.verb>
   
   <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
-  <Handling.description>TODO</Handling.description>
+  <Handling.description>.ﺎﻬﺤﺑﺫﻭ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺩﺭﺍﻮﻤﻟﺍ ﺩﺎﺼﺣﻭ ﺐﻳﺭﺪﺗﻭ ﺾﻳﻭﺮﺗ</Handling.description>
   <!-- EN: handling -->
-  <Handling.gerundLabel>TODO</Handling.gerundLabel>
+  <Handling.gerundLabel>ﺔﺠﻟﺎﻌﻣ</Handling.gerundLabel>
   <!-- EN: Handle -->
-  <Handling.labelShort>TODO</Handling.labelShort>
+  <Handling.labelShort>ﺾﺒﻘﻣ</Handling.labelShort>
   <!-- EN: Handler -->
-  <Handling.pawnLabel>TODO</Handling.pawnLabel>
+  <Handling.pawnLabel>ﺞﻟﺎﻌﻣ</Handling.pawnLabel>
   <!-- EN: Handle -->
-  <Handling.verb>TODO</Handling.verb>
+  <Handling.verb>ﺾﺒﻘﻣ</Handling.verb>
   
   <!-- EN: Carry things to where they need to be. -->
-  <Hauling.description>TODO</Hauling.description>
+  <Hauling.description>.ﻥﻮﻜﺗ ﻥﺃ ﺐﺠﻳ ﺚﻴﺣ ﻰﻟﺇ ءﺎﻴﺷﻷﺍ ﻞﻤﺣﺍ</Hauling.description>
   <!-- EN: hauling -->
-  <Hauling.gerundLabel>TODO</Hauling.gerundLabel>
+  <Hauling.gerundLabel>ﻥﻮﻠﻘﻨﻳ</Hauling.gerundLabel>
   <!-- EN: Haul -->
-  <Hauling.labelShort>TODO</Hauling.labelShort>
+  <Hauling.labelShort>ﺐﺤﺳ</Hauling.labelShort>
   <!-- EN: Hauler -->
-  <Hauling.pawnLabel>TODO</Hauling.pawnLabel>
+  <Hauling.pawnLabel>ﻞﻘﻨﻟﺍ ﺪﻬﻌﺘﻣ</Hauling.pawnLabel>
   <!-- EN: Haul -->
-  <Hauling.verb>TODO</Hauling.verb>
+  <Hauling.verb>ﺐﺤﺳ</Hauling.verb>
   
   <!-- EN: Kill animals which are designated to be hunted. -->
-  <Hunting.description>TODO</Hunting.description>
+  <Hunting.description>.ﺪﻴﺼﻠﻟ ﺔﺼﺼﺨﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻞﺘﻗ</Hunting.description>
   <!-- EN: hunting -->
-  <Hunting.gerundLabel>TODO</Hunting.gerundLabel>
+  <Hunting.gerundLabel>ﺪﻴﺼﻟﺍ</Hunting.gerundLabel>
   <!-- EN: Hunt -->
-  <Hunting.labelShort>TODO</Hunting.labelShort>
+  <Hunting.labelShort>ﺓﺩﺭﺎﻄﻣ</Hunting.labelShort>
   <!-- EN: Hunter -->
-  <Hunting.pawnLabel>TODO</Hunting.pawnLabel>
+  <Hunting.pawnLabel>ﺩﺎﻴﺻ</Hunting.pawnLabel>
   <!-- EN: Hunt -->
-  <Hunting.verb>TODO</Hunting.verb>
+  <Hunting.verb>ﺓﺩﺭﺎﻄﻣ</Hunting.verb>
   
   <!-- EN: Digging and drilling. -->
-  <Mining.description>TODO</Mining.description>
+  <Mining.description>.ﺮﻔﺤﻟﺍﻭ ﺮﻔﺤﻟﺍ</Mining.description>
   <!-- EN: mining -->
-  <Mining.gerundLabel>TODO</Mining.gerundLabel>
+  <Mining.gerundLabel>ﻦﻳﺪﻌﺘﻟﺍ</Mining.gerundLabel>
   <!-- EN: Mine -->
-  <Mining.labelShort>TODO</Mining.labelShort>
+  <Mining.labelShort>ﻢﺠﻨﻣ</Mining.labelShort>
   <!-- EN: Miner -->
-  <Mining.pawnLabel>TODO</Mining.pawnLabel>
+  <Mining.pawnLabel>ﻢﺠﻨﻣ ﻞﻣﺎﻋ</Mining.pawnLabel>
   <!-- EN: Mine -->
-  <Mining.verb>TODO</Mining.verb>
+  <Mining.verb>ﻢﺠﻨﻣ</Mining.verb>
   
   <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
-  <Patient.description>TODO</Patient.description>
+  <Patient.description>.ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﻚﺗﺎﻴﺣ ﺩﺪﻬﺗ ﺔﻴﺤﺻ ﺔﻟﺎﺣ ﻦﻣ ﻲﻧﺎﻌﺗ ﺖﻨﻛ ﺍﺫﺇ ﺝﻼﻌﻟﺍ ﻲﻘﻠﺘﻟ ﻲﺒﻃ ﺮﻳﺮﺳ ﻰﻟﺇ ﺐﻫﺫﺍ</Patient.description>
   <!-- EN: patienting -->
-  <Patient.gerundLabel>TODO</Patient.gerundLabel>
+  <Patient.gerundLabel>ﺮﺒﺼﻟﺍ</Patient.gerundLabel>
   <!-- EN: Patient -->
-  <Patient.labelShort>TODO</Patient.labelShort>
+  <Patient.labelShort>ﺭﻮﺒﺻ</Patient.labelShort>
   <!-- EN: Patient -->
-  <Patient.pawnLabel>TODO</Patient.pawnLabel>
+  <Patient.pawnLabel>ﺭﻮﺒﺻ</Patient.pawnLabel>
   <!-- EN: Become patient -->
-  <Patient.verb>TODO</Patient.verb>
+  <Patient.verb>ﺮﺒﺼﻟﺎﺑ ﻲﻠﺤﺘﻟﺍ</Patient.verb>
   
   <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
-  <PatientBedRest.description>TODO</PatientBedRest.description>
+  <PatientBedRest.description>.ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﺓﺎﻴﺤﻟﺍ ﺩﺪﻬﺗ ﻻ ﻲﺘﻟﺍ ﺔﻴﺒﻄﻟﺍ ﻞﻛﺎﺸﻤﻟﺍ ﻦﻣ ﻲﻓﺎﻌﺘﻠﻟ ﺮﻳﺮﺴﻟﺍ ﻲﻓ ﺔﺣﺍﺮﻟﺍ</PatientBedRest.description>
   <!-- EN: resting in bed -->
-  <PatientBedRest.gerundLabel>TODO</PatientBedRest.gerundLabel>
+  <PatientBedRest.gerundLabel>ﺮﻳﺮﺴﻟﺍ ﻲﻓ ﺢﻳﺮﺘﺴﻳ</PatientBedRest.gerundLabel>
   <!-- EN: Bed rest -->
-  <PatientBedRest.labelShort>TODO</PatientBedRest.labelShort>
+  <PatientBedRest.labelShort>ﺮﻳﺮﺴﻟﺍ ﻰﻠﻋ ﺔﺣﺍﺭ</PatientBedRest.labelShort>
   <!-- EN: Bed rester -->
-  <PatientBedRest.pawnLabel>TODO</PatientBedRest.pawnLabel>
+  <PatientBedRest.pawnLabel>ﺮﻳﺮﺴﻟﺍ ﺔﺣﺍﺮﺘﺳﺍ</PatientBedRest.pawnLabel>
   <!-- EN: Become patient -->
-  <PatientBedRest.verb>TODO</PatientBedRest.verb>
+  <PatientBedRest.verb>ﺍﺭﻮﺒﺻ ﻦﻛ</PatientBedRest.verb>
   
   <!-- EN: Cut or harvest plants as designated. -->
-  <PlantCutting.description>TODO</PlantCutting.description>
+  <PlantCutting.description>.ﺩﺪﺤﻤﻟﺍ ﻮﺤﻨﻟﺍ ﻰﻠﻋ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺩﺎﺼﺣ ﻭﺃ ﻊﻄﻗ</PlantCutting.description>
   <!-- EN: plant cutting -->
-  <PlantCutting.gerundLabel>TODO</PlantCutting.gerundLabel>
+  <PlantCutting.gerundLabel>ﺕﺎﺒﻨﻟﺍ ﻊﻄﻗ</PlantCutting.gerundLabel>
   <!-- EN: Plant cut -->
-  <PlantCutting.labelShort>TODO</PlantCutting.labelShort>
+  <PlantCutting.labelShort>ﺕﺎﺒﻨﻟﺍ ﻊﻄﻗ</PlantCutting.labelShort>
   <!-- EN: Plant cutter -->
-  <PlantCutting.pawnLabel>TODO</PlantCutting.pawnLabel>
+  <PlantCutting.pawnLabel>ﺕﺎﺗﺎﺒﻧ ﺔﻌﻃﺎﻗ</PlantCutting.pawnLabel>
   <!-- EN: Cut -->
-  <PlantCutting.verb>TODO</PlantCutting.verb>
+  <PlantCutting.verb>ﻊﻄﻘﻳ</PlantCutting.verb>
   
   <!-- EN: Perform research work. -->
-  <Research.description>TODO</Research.description>
+  <Research.description>.ﻲﺜﺤﺒﻟﺍ ﻞﻤﻌﻟﺍ ءﺍﺩﺃ</Research.description>
   <!-- EN: researching -->
-  <Research.gerundLabel>TODO</Research.gerundLabel>
+  <Research.gerundLabel>ﺚﺤﺒﻟﺍ</Research.gerundLabel>
   <!-- EN: Research -->
-  <Research.labelShort>TODO</Research.labelShort>
+  <Research.labelShort>ﺚﺤﺑ</Research.labelShort>
   <!-- EN: Researcher -->
-  <Research.pawnLabel>TODO</Research.pawnLabel>
+  <Research.pawnLabel>ﺚﺣﺎﺒﻟﺍ</Research.pawnLabel>
   <!-- EN: Research at -->
-  <Research.verb>TODO</Research.verb>
+  <Research.verb>ﻲﻓ ﺚﺤﺒﻟﺍ</Research.verb>
   
   <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. -->
-  <Smithing.description>TODO</Smithing.description>
+  <Smithing.description>.ﻲﻟﻵﺍ ﻊﻴﻨﺼﺘﻟﺎﺑ ﻭﺃ ﺓﺩﺍﺪﺤﻟﺎﺑ ﺎﻣﺇ ،ﻡﺎﺨﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﺕﺍﻭﺩﻷﺍﻭ ﺔﺤﻠﺳﻷﺍ ﻊﻨﺻﺍ</Smithing.description>
   <!-- EN: smithing -->
-  <Smithing.gerundLabel>TODO</Smithing.gerundLabel>
+  <Smithing.gerundLabel>ﺓﺩﺍﺪﺣ</Smithing.gerundLabel>
   <!-- EN: Smith -->
-  <Smithing.labelShort>TODO</Smithing.labelShort>
+  <Smithing.labelShort>ﺩﺍﺪﺣ</Smithing.labelShort>
   <!-- EN: Smith -->
-  <Smithing.pawnLabel>TODO</Smithing.pawnLabel>
+  <Smithing.pawnLabel>ﺩﺍﺪﺣ</Smithing.pawnLabel>
   <!-- EN: Smith at -->
-  <Smithing.verb>TODO</Smithing.verb>
+  <Smithing.verb>ﻲﻓ ﺓﺩﺍﺪﺣ</Smithing.verb>
   
   <!-- EN: Create apparel from raw materials. -->
-  <Tailoring.description>TODO</Tailoring.description>
+  <Tailoring.description>.ﻡﺎﺨﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﺲﺑﻼﻤﻟﺍ ﻊﻨﺻ</Tailoring.description>
   <!-- EN: tailoring -->
-  <Tailoring.gerundLabel>TODO</Tailoring.gerundLabel>
+  <Tailoring.gerundLabel>ﺔﻃﺎﻴﺨﻟﺍ</Tailoring.gerundLabel>
   <!-- EN: Tailor -->
-  <Tailoring.labelShort>TODO</Tailoring.labelShort>
+  <Tailoring.labelShort>ﻁﺎﻴﺧ</Tailoring.labelShort>
   <!-- EN: Tailor -->
-  <Tailoring.pawnLabel>TODO</Tailoring.pawnLabel>
+  <Tailoring.pawnLabel>ﻁﺎﻴﺧ</Tailoring.pawnLabel>
   <!-- EN: Tailor at -->
-  <Tailoring.verb>TODO</Tailoring.verb>
+  <Tailoring.verb>ﻲﻓ ﺔﻃﺎﻴﺧ</Tailoring.verb>
   
   <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
-  <Warden.description>TODO</Warden.description>
+  <Warden.description>.ءﺎﻨﺠﺴﻟﺍ ﺪﻴﻨﺠﺗﻭ ﻊﻣ ﺔﺷﺩﺭﺪﻟﺍﻭ ﻡﺎﻌﻃﺇﻭ ﺓﺭﺍﺩﺇ</Warden.description>
   <!-- EN: wardening -->
-  <Warden.gerundLabel>TODO</Warden.gerundLabel>
+  <Warden.gerundLabel>ﺔﺒﻗﺍﺮﻣ</Warden.gerundLabel>
   <!-- EN: Warden -->
-  <Warden.labelShort>TODO</Warden.labelShort>
+  <Warden.labelShort>ﺮﻣﺁ</Warden.labelShort>
   <!-- EN: Warden -->
-  <Warden.pawnLabel>TODO</Warden.pawnLabel>
+  <Warden.pawnLabel>ﺮﻣﺁ</Warden.pawnLabel>
   <!-- EN: Handle -->
-  <Warden.verb>TODO</Warden.verb>
+  <Warden.verb>ﺾﺒﻘﻣ</Warden.verb>
   
 </LanguageData>
