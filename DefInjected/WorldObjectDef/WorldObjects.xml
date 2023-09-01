@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: abandoned settlement -->
-  <AbandonedSettlement.label>TODO</AbandonedSettlement.label>
+  <AbandonedSettlement.label>ﺓﺭﻮﺠﻬﻤﻟﺍ ﺕﺍﻮﻘﻟﺍ ﺓﺪﻋﺎﻗ</AbandonedSettlement.label>
   <!-- EN: An abandoned settlement. -->
-  <AbandonedSettlement.description>TODO</AbandonedSettlement.description>
+  <AbandonedSettlement.description>.ﺕﺍﻮﻘﻟﺍ ﺪﺣﻷ ﺓﺭﻮﺠﻬﻣ ﺓﺪﻋﺎﻗ</AbandonedSettlement.description>
   
   <!-- EN: attacked caravan -->
-  <AttackedNonPlayerCaravan.label>TODO</AttackedNonPlayerCaravan.label>
+  <AttackedNonPlayerCaravan.label>ﻡﻮﺠﻬﻠﻟ ﺔﻠﻓﺎﻘﻟﺍ ﺖﺿﺮﻌﺗ</AttackedNonPlayerCaravan.label>
   <!-- EN: A caravan under attack. -->
-  <AttackedNonPlayerCaravan.description>TODO</AttackedNonPlayerCaravan.description>
+  <AttackedNonPlayerCaravan.description>.ﻡﻮﺠﻬﻠﻟ ﺽﺮﻌﺘﺗ ﺔﻠﻓﺎﻗ</AttackedNonPlayerCaravan.description>
   
   <!-- EN: caravan -->
-  <Caravan.label>TODO</Caravan.label>
+  <Caravan.label>ﻞﻘﻨﺘﻤﻟﺍ ﻝﺰﻨﻤﻟﺍ</Caravan.label>
   <!-- EN: A group of traveling people. -->
-  <Caravan.description>TODO</Caravan.description>
+  <Caravan.description>.ﻦﻳﺮﻓﺎﺴﻤﻟﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ</Caravan.description>
   
   <!-- EN: destroyed settlement -->
-  <DestroyedSettlement.label>TODO</DestroyedSettlement.label>
+  <DestroyedSettlement.label>ﺓﺮﻣﺪﻤﻟﺍ ﺕﺍﻮﻘﻟﺍ ﺓﺪﻋﺎﻗ</DestroyedSettlement.label>
   <!-- EN: A destroyed settlement. -->
-  <DestroyedSettlement.description>TODO</DestroyedSettlement.description>
+  <DestroyedSettlement.description>.ﺓﺮﻣﺪﻣ ﺔﻳﺮﻜﺴﻋ ﺓﺪﻋﺎﻗ</DestroyedSettlement.description>
   
   <!-- EN: landed ship -->
-  <EscapeShip.label>TODO</EscapeShip.label>
+  <EscapeShip.label>ﺮﻔﺴﻟﺍ ﺔﻬﺟﻭ</EscapeShip.label>
   <!-- EN: The location of a hidden ship which can help you escape the planet. -->
-  <EscapeShip.description>TODO</EscapeShip.description>
+  <EscapeShip.description>.ﺐﻛﻮﻜﻟﺍ ﺍﺬﻫ ﻦﻣ ﺏﻭﺮﻬﻟﺍ ﻰﻠﻋ ﻙﺪﻋﺎﺴﺗ ﻥﺃ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺔﻳﺮﺴﻟﺍ ﺔﻨﻴﻔﺴﻟﺍ ﻊﻗﻮﻣ</EscapeShip.description>
   
   <!-- EN: peace talks -->
-  <PeaceTalks.label>TODO</PeaceTalks.label>
+  <PeaceTalks.label>ﻡﻼﺴﻟﺍ ﺕﺎﺛﺩﺎﺤﻣ</PeaceTalks.label>
   <!-- EN: A site designated for peace talks. -->
-  <PeaceTalks.description>TODO</PeaceTalks.description>
+  <PeaceTalks.description>.ﻡﻼﺴﻟﺍ ﺕﺎﺿﻭﺎﻔﻤﻟ ﺓﺩﺪﺤﻣ ﺔﺣﺎﺴﻣ</PeaceTalks.description>
   
   <!-- EN: waypoint -->
-  <RoutePlannerWaypoint.label>TODO</RoutePlannerWaypoint.label>
+  <RoutePlannerWaypoint.label>ﺔﺘﻓﻻ</RoutePlannerWaypoint.label>
   <!-- EN: A temporary waypoint. -->
-  <RoutePlannerWaypoint.description>TODO</RoutePlannerWaypoint.description>
+  <RoutePlannerWaypoint.description>.ﺔﺘﻗﺆﻣ ﻖﻳﺮﻃ ﺔﻣﻼﻋ</RoutePlannerWaypoint.description>
   
   <!-- EN: settlement -->
-  <Settlement.label>TODO</Settlement.label>
+  <Settlement.label>ﺕﺍﻮﻘﻟﺍ ﺓﺪﻋﺎﻗ</Settlement.label>
   <!-- EN: A base of one of the factions. -->
-  <Settlement.description>TODO</Settlement.description>
+  <Settlement.description>.ﺕﺍﻮﻘﻟﺍ ﻯﺪﺣﺇ ﺓﺪﻋﺎﻗ</Settlement.description>
   
   <!-- EN: transport pods -->
-  <TravelingTransportPods.label>TODO</TravelingTransportPods.label>
+  <TravelingTransportPods.label>ﻞﻘﻨﻟﺍ ﺔﻟﻮﺴﺒﻛ</TravelingTransportPods.label>
   <!-- EN: Transport pods in flight. -->
-  <TravelingTransportPods.description>TODO</TravelingTransportPods.description>
+  <TravelingTransportPods.description>.ﺮﻴﻄﺗ ﻞﻘﻨﻟﺍ ﺓﺮﺠﺣ</TravelingTransportPods.description>
   
 </LanguageData>
