@@ -1,0 +1,136 @@
+<LanguageData>
+  
+  
+  <Brewing.label>ﺔﻌﺠﻟﺍ ﻊﻴﻨﺼﺗ</Brewing.label>
+  
+  <Brewing.description>ﻲﻓ (ﺏﻮﻬﻟﺍ) ﺢﻴﺸﻟﺍ ﺕﺎﺒﻧ ﻦﻣ ﺺﻠﺨﺘﺴﻤﻟﺍ ﺮﻴﺼﻌﻟﺍ
+ﺔﺻﺎﺧ ﻞﻴﻣﺍﺮﺑ ﻲﻓ ﺮﻴﻤﺨﺘﻠﻟ ﻊﻀﺨﺗﻭ ﺔﻌﺠﻟﺍ ﻊﻨﺼﻣ
+ﺓﺮﻴﺒﻟﺍ ﻰﻟﺇ ﻝﻮﺤﺘﻳ ﺓﺩﺪﺤﻣ ﺓﺭﺍﺮﺣ ﺕﺎﺟﺭﺩ ﺖﺤﺗ
+.ﺓﺬﻳﺬﻠﻟﺍ</Brewing.description>
+  
+  
+  <CarpetMaking.label>ﺩﺎﺠﺴﻟﺍ ﺔﻋﺎﻨﺻ</CarpetMaking.label>
+  
+  <CarpetMaking.description>ﺯﺰﻌﻳ ﺎﻤﻣ ،ﺩﺎﺠﺴﻟﺎﺑ ﺔﻴﺿﺭﻷﺍ ﺔﻴﻄﻐﺘﺑ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺢﻤﺴﻳ
+.ﻑﺮﻐﻟﺍ ﺔﻴﺑﺫﺎﺟ</CarpetMaking.description>
+  
+  
+  <Cocoa.label>ﻭﺎﻛﺎﻛ</Cocoa.label>
+  
+  <Cocoa.description>ﺐﻠﺠﻴﺳ .ﺔﺗﻻﻮﻛﻮﺸﻟﺍ ﺝﺎﺘﻧﻹ ﺔﻳﺭﻭﺮﺿ ﻭﺎﻛﺎﻜﻟﺍ ﺭﺎﺠﺷﺃ ﺔﻋﺍﺭﺯ
+ﺎﻬﻌﻴﺑ ﻦﻜﻤﻳﻭ ﻚﻴﻨﻃﻮﺘﺴﻤﻟ ﺎﺿﺮﻟﺍ ﺱﺎﺴﺣﺇ ﻯﻮﻠﺤﻟﺍ ﺍﺬﻫ
+.ﺪﻴﺟ ﺮﻌﺴﺑ</Cocoa.description>
+  
+  
+  <ComplexClothing.label>ﺲﺑﻼﻤﻟﺍ ﻊﻴﻨﺼﺗ</ComplexClothing.label>
+  
+  <ComplexClothing.description>ﺕﺎﻌﺒﻘﻟﺍ ،ﺵﺍﻮﻛﻷﺍ ،ﻞﻳﻭﺍﺮﺴﻟﺍ :ﺲﺑﻼﻤﻟﺍ ﻉﺍﻮﻧﺃ ﻢﻈﻌﻣ ﻊﻴﻨﺼﺗ
+.ﻚﻟﺫ ﻦﻣ ﺮﺜﻛﺃﻭ</ComplexClothing.description>
+  
+  
+  <ComplexFurniture.label>ﺙﺎﺛﻷﺍ ﻊﻴﻤﺠﺗ</ComplexFurniture.label>
+  
+  <ComplexFurniture.description>ﺔﻴﺒﻧﺎﺠﻟﺍ ﺕﻻﻭﺎﻄﻟﺍﻭ ، ﺓﺮﺳﻷﺍ :ﺪﻘﻌﻣ ﺙﺎﺛﺃ ﻊﻴﻤﺠﺗ
+ﺕﺍﻭﺩﻷﺍ ﻦﺋﺍﺰﺧﻭ ، ﺕﺍﺩﻮﻣﻮﻜـﻟﺍﻭ ، ﻲﺳﺍﺮﻜﻟﺍﻭ ،
+.ﺓﺮﻴﺜﻛ ﻯﺮﺧﺃ ﺀﺎﻴﺷﺃﻭ ﺮﻛﻮﺒﻟﺍﻭ ﻭﺩﺭﺎﻴﻠﺒﻟﺍ ﺕﻻﻭﺎﻃﻭ ،</ComplexFurniture.description>
+  
+  
+  <Devilstrand.label>ﻊﺠﻔﻤﻟﺍ ﻥﺎﻄﻴﺷ</Devilstrand.label>
+  
+  <Devilstrand.description>ﺔﻳﻮﻗ ﺎﻓﺎﻴﻟﺃ ﺀﻲﻄﺒﻟﺍ ﻮﻤﻨﻟﺍ ﺮﻄﻔﻟﺍ ﻩﺬﻫ ﻲﻄﻌﺗ
+.ﺎﻬﻨﻣ ﻲﻧﺎﻄﻴﺸﻟﺍ ﺵﺎﻤﻘﻟﺍ ﻊﻴﻨﺼﺗ ﻢﺘﻳ ﺓﺭﺍﺮﺤﻠﻟ ﺔﻣﻭﺎﻘﻣﻭ</Devilstrand.description>
+  
+  
+  <DrugProduction.label>ﺔﻴﺋﺍﻭﺪﻟﺍ ﺕﺍﺮﻀﺤﺘﺴﻤﻟﺍ ﺝﺎﺘﻧﺇ</DrugProduction.label>
+  
+  <DrugProduction.description>ﺕﺍﺭﺪﺨﻤﻟﺍﻭ ﺕﺍﺮﻀﺤﺘﺴﻤﻟﺍ ﻒﻠﺘﺨﻣ ﻊﻴﻤﺠﺗﻭ ﺮﻴﻀﺤﺗ ﺕﺎﻴﺳﺎﺳﺃ ﻥﺎﻘﺗﺇ
+ﻰﻟﺇ ﺝﺎﺘﺤﺗ .ﺔﻴﺋﺎﻴﻤﻴﻛ ﺕﺍﺮﺒﺘﺨﻣ ﺀﺎﺸﻧﺇ ﻦﻣ ﻚﻨﻜﻤﻳ
+.ﺓﺩﺪﺤﻣ ﺕﺍﺮﻀﺤﺘﺴﻣ ﻊﻴﻨﺼﺘﻟ ﺔﻴﻓﺎﺿﺇ ﺙﻮﺤﺑ</DrugProduction.description>
+  
+  
+  <GoJuiceProduction.label>Go-juice ﻊﻴﻨﺼﺗ</GoJuiceProduction.label>
+  
+  <GoJuiceProduction.description>ﺯﺰﻌﻳ ﻲﻋﺎﻨﻄﺻﺍ ﺭﺪﺨﻣ ﻮﻫﻭ ،Go-Juice ﺔﻋﺎﻨﺻ ﻢﻠﻌﺗ
+.ﻢﻟﻷﺍ ﻒﻔﺨﻳﻭ ﺔﻛﺮﺤﻟﺍ ﻉﺮﺴﻳﻭ ﺔﻴﻟﺎﺘﻘﻟﺍ ﺕﺍﺭﺪﻘﻟﺍ</GoJuiceProduction.description>
+  
+  
+  <Greatbow.label>ﺔﻠﻳﻮﻃ ﺱﺍﻮﻗﺃ</Greatbow.label>
+  
+  <Greatbow.description>ﻡﺍﺪﺨﺘﺳﺎﺑ ﺓﺪﻴﻌﺑ ﺔﻓﺎﺴﻣ ﻦﻣ ﻑﺍﺪﻫﻷﺍ ﺔﺑﺎﺻﺇ ﻦﻜﻤﻳ
+.ﺔﻠﻳﻮﻄﻟﺍ ﺱﺍﻮﻗﻷﺍ</Greatbow.description>
+  
+  
+  <LongBlades.label>ﺔﻠﻳﻮﻃ ﺕﺍﺮﻔﺷ</LongBlades.label>
+  
+  <LongBlades.description>.ﺔﻠﻳﻮﻃ ﺡﺎﻣﺭﻭ ﻑﻮﻴﺳ ﻊﻨﺻ</LongBlades.description>
+  
+  
+  <PassiveCooler.label>ﻱﺭﺎﺨﺑ ﺩﺮﺒﻣ</PassiveCooler.label>
+  
+  <PassiveCooler.description>.ﺀﺎﺑﺮﻬﻜﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻥﻭﺪﺑ ﺓﺮﺷﺎﺒﻣ ﺩﺮﺒﻳ</PassiveCooler.description>
+  
+  
+  <Pemmican.label>ﻥﺎﻜﻴﻤﻴﺑ</Pemmican.label>
+  
+  <Pemmican.description>ﺕﺎﻧﻮﻜﻣﻭ ﻦﻫﺪﻟﺍﻭ ﻢﺤﻠﻟﺍ ﻦﻣ ﺞﻳﺰﻣ - ﻥﺎﻜﻴﻤﻴﺒﻟﺍ
+.ﺔﻠﻳﻮﻃ ﺔﻴﻨﻣﺯ ﺓﺮﺘﻓ ﻝﺍﻮﻃ ﻒﻠﺘﻳ ﻻ ،ﺔﻴﺗﺎﺒﻧ
+.ﺮﻔﺴﻠﻟ ﻲﻟﺎﺜﻣ</Pemmican.description>
+  
+  
+  <PenoxycylineProduction.label>ﻦﻴﻠﻴﺴﻨﺒﻟﺍ ﺝﺎﺘﻧﺇ</PenoxycylineProduction.label>
+  
+  <PenoxycylineProduction.description>ﺭﻮﻬﻇ ﻊﻨﻤﻟ ﺝﻼﻋ - ﻦﻴﻠﻴﺴﻴﺴﻛﻮﻨﺒﻟﺍ ﻊﻨﺻ ﺐﻳﺭﺪﺗ
+.ﻡﻮﻨﻟﺍ ﺽﺮﻣﻭ ﺎﻳﺭﻼﻤﻟﺍﻭ ﻥﻮﻋﺎﻄﻟﺍ</PenoxycylineProduction.description>
+  
+  
+  <PlateArmor.label>ﺔﺤﻴﻔﺼﻟﺍ ﻉﻭﺭﺪﻟﺍ</PlateArmor.label>
+  
+  <PlateArmor.description>.ﺔﺤﻔﺼﺘﻣ ﺔﻴﺒﺸﺧﻭ ﺔﻴﻧﺪﻌﻣ ﻉﻭﺭﺩ ﻊﻨﺻ</PlateArmor.description>
+  
+  
+  <PsychiteRefining.label>ﺔﻴﻠﻘﻌﻟﺍ ﺔﺤﺼﻟﺍ ﻦﻴﺴﺤﺗ</PsychiteRefining.label>
+  
+  <PsychiteRefining.description>- ﻕﻮﺤﺴﻣﻭ ﺢﺋﺍﺮﺷ ﻰﻟﺇ ﻦﻴﻴﺴﻔﻨﻟﺍ ﻦﻴﻗﺎﻔﻨﻟﺍ ﻞﻳﻮﺤﺗ
+.ﺔﻴﺴﻔﻨﻟﺍ ﺓﻮﺸﻨﻟﺍ ﺭﺪﺨﻤﻟﺍ ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﻝﺎﻜﺷﺃ</PsychiteRefining.description>
+  
+  
+  <PsychoidBrewing.label>ﻲﺴﻔﻨﻟﺍ ﺐﻴﺒﻄﻟﺍ ﺮﻴﻤﺨﺗ</PsychoidBrewing.label>
+  
+  <PsychoidBrewing.description>ﻱﺎﺷ ﺮﻴﻀﺤﺗ ﻚﻨﻜﻤﻳ ، ﺔﻣﺯﻼﻟﺍ ﺔﺠﻟﺎﻌﻤﻟﺍ ﺪﻌﺑ
+ﺔﻟﺪﺘﻌﻣ ﺍﺭﺎﺛﺁ ﺐﺒﺴﻴﺳ - ﻲﺴﻔﻨﻟﺍ ﺐﺸﻌﻟﺍ ﺔﻄﺳﺍﻮﺑ
+.ﻥﺎﻣﺩﻹﺍﻭ ﺓﻮﺸﻨﻟﺍ ﻦﻣ</PsychoidBrewing.description>
+  
+  
+  <RecurveBow.label>ﺩﺪﺠﺘﻣ ﺱﻮﻗ</RecurveBow.label>
+  
+  <RecurveBow.description>.ﺪﻌﺑ ﻦﻋ ﺔﺤﻠﺳﻷﺍ ﻊﻨﺼﻟ ﺺﻴﺧﺭﻭ ﻝﺎﻌﻓ ﺡﻼﺳ</RecurveBow.description>
+  
+  
+  <Smithing.label>ﺔﺤﻠﺳﻷﺍ ﺮﻳﻭﺰﺗ</Smithing.label>
+  
+  <Smithing.description>ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﻉﺍﻮﻧﺃ ﻊﻴﻨﺼﺘﺑ ﺢﻤﺴﻳ ﺓﺩﺍﺪﺤﻟﺍ ﺩﻮﺟﻭ
+،ﺔﻗﺮﻄﻤﻟﺍ ﻲﺼﻌﻟﺍﻭ ﺕﺎﻔﻴﺴﻟﺍﻭ ﻦﻴﻛﺎﻜﺴﻟﺍ ﻞﺜﻣ ﺓﺩﺭﺎﺒﻟﺍ ﺔﺤﻠﺳﻷﺍ
+ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ ﺢﻨﻤﻳ ﻥﺪﻌﻤﻟﺍ ﻞﻳﻮﺤﺗ ﺕﺎﻴﻨﻘﺗ ﻢﻠﻌﺗﻭ
+.ﺽﺭﻷﺍ ﻰﻠﻋ ﻞﻴﻤﺟ ﻲﻧﺪﻌﻣ ﻁﻼﺑ ﻊﺿﻭ</Smithing.description>
+  
+  
+  <Stonecutting.label>ﺮﺠﺤﻟﺍ ﺔﺠﻟﺎﻌﻣ</Stonecutting.label>
+  
+  <Stonecutting.description>ﺔﺤﻟﺎﺻ ﺔﻳﺮﺠﺣ ﻞﺘﻛ ﻰﻟﺇ ﺭﻮﺨﺼﻟﺍ ﻊﻄﻗ ﻊﻄﻗ
+ﺕﺎﻴﺿﺭﺃ ﻊﻨﺻ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﺍﺬﻫ ﺢﻴﺘﻳ ﺎﻤﻛ .ﺀﺎﻨﺒﻠﻟ
+.ﻞﻴﻤﺟ ﺮﺠﺣ ﻁﻼﺑ ﻦﻴﻄﺒﺗﻭ ﺔﻴﻧﺎﺳﺮﺧ</Stonecutting.description>
+  
+  
+  <TreeSowing.label>ﺭﺎﺠﺷﻷﺍ ﺔﻋﺍﺭﺯ</TreeSowing.label>
+  
+  <TreeSowing.description>ﻲﻓ ﻚﺑ ﺔﻄﻴﺤﻤﻟﺍ ﺔﻘﻄﻨﻤﻟ ﺔﻴﻌﻴﺒﻃ ﺭﺎﺠﺷﺃ ﺔﻋﺍﺭﺯ
+.ﺔﺒﻌﻠﻟﺍ</TreeSowing.description>
+  
+  
+  <WakeUpProduction.label>.ﺔﻌﺠﻟﺍ ﺝﺎﺘﻧﺇ</WakeUpProduction.label>
+  
+  <WakeUpProduction.description>ﺔﻴﻨﻘﺗﻭ ﺔﻐﻴﺻ ﻰﻠﻋ ﻥﻮﻓﺮﻌﺘﻳ ﻚﺑ ﺹﺎﺨﻟﺍ ﻥﻮﻴﺋﺎﻴﻤﻴﻜﻟﺍ
+ﺓﺭﺪﻗ ﻦﻣ ﺪﻳﺰﻳ ﺭﺪﺨﻣ - ﻦﻳﺭﺩﻮﺑ ﺪﻴﻟﻮﺗ
+.ﺔﻳﺪﺴﺠﻟﺍ ﺓﻮﻘﻟﺍﻭ ﻞﻤﻌﻟﺍ</WakeUpProduction.description>
+  
+</LanguageData>
