@@ -1,0 +1,74 @@
+ï»؟<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] designed and constructed buildings. On [PAWN_possessive] glitterworld home, most of the technical aspects of architecture were handled by an AI. This enabled [PAWN_objective] to push the artistic limits of the craft, but also meant [PAWN_pronoun] never had to get [PAWN_possessive] hands dirty at building sites. -->
+  <Architect28.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ؟ر€ذ¾ذµذ؛ر‚ذ¸ر€ذ¾ذ²ذ°ذ» ذ¸ رپر‚ر€ذ¾ذ¸ذ» : ذ؟ر€ذ¾ذµذ؛ر‚ذ¸ر€ذ¾ذ²ذ°ذ»ذ° ذ¸ رپر‚ر€ذ¾ذ¸ذ»ذ°} ذ·ذ´ذ°ذ½ذ¸رڈ. ذ’ {PAWN_possessive} ر€ذ¾ذ´ذ½ذ¾ذ¼ رƒر‚ذ¾ذ؟ذ¸ر‡ذµرپذ؛ذ¾ذ¼ ذ¼ذ¸ر€ذµ ذ±ذ¾ذ»رŒرˆذ°رڈ ر‡ذ°رپر‚رŒ ر‚ذµر…ذ½ذ¸ر‡ذµرپذ؛ذ¸ر… ر€ذ°رپر‡ر‘ر‚ذ¾ذ² ذ؟ر€ذ¸ رپر‚ر€ذ¾ذ¸ر‚ذµذ»رŒرپر‚ذ²ذµ ذ²ر‹ذ؟ذ¾ذ»ذ½رڈذ»ذ°رپرŒ ذکذک. ذ­ر‚ذ¾ ذ؟ذ¾ذ·ذ²ذ¾ذ»رڈذ»ذ¾ {PAWN_objective} ذ؛ذ¾ذ½ر†ذµذ½ر‚ر€ذ¸ر€ذ¾ذ²ذ°ر‚رŒرپرڈ ذ½ذ° ر‚ذ²ذ¾ر€ر‡ذµرپذ؛ذ¾ذ¹ رپذ¾رپر‚ذ°ذ²ذ»رڈرژر‰ذµذ¹ رپذ²ذ¾ذµذ¹ ر€ذ°ذ±ذ¾ر‚ر‹, ذ¸, ذ؛ذ°ذ؛ رپذ»ذµذ´رپر‚ذ²ذ¸ذµ, {PAWN_nameDef} ذ½ذµ {PAWN_gender ? ذ¼ذ°ر€ذ°ذ» : ذ¼ذ°ر€ذ°ذ»ذ°} ر€رƒذ؛ ذ½ذ° ذ½ذ°رپر‚ذ¾رڈر‰ذµذ¹ ذ³ر€رڈذ·ذ½ذ¾ذ¹ رپر‚ر€ذ¾ذ¹ذ؛ذµ.</Architect28.baseDesc>
+  <!-- EN: architect -->
+  <Architect28.title>ذ°ر€ر…ذ¸ر‚ذµذ؛ر‚ذ¾ر€</Architect28.title>
+  <!-- EN: architect -->
+  <Architect28.titleShort>ذ°ر€ر…ذ¸ر‚ذµذ؛ر‚ذ¾ر€</Architect28.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] lived on a peaceful glitterworld where all menial work was done by robots and people devoted themselves to leisure. [PAWN_pronoun] managed the plant and animal life of a sprawling park, where citizens came to admire the natural beauty. -->
+  <BiosphereManager95.baseDesc>ذœذ½ذ¾ذ³ذ¾ ذ»ذµر‚ {PAWN_nameDef} {PAWN_gender ? ذ¶ذ¸ذ» : ذ¶ذ¸ذ»ذ°} ذ² رƒر‚ذ¾ذ؟ذ¸ر‡ذµرپذ؛ذ¾ذ¼ ذ¼ذ¸ر€ذµ, ذ³ذ´ذµ ذ²رپرژ ر‡ر‘ر€ذ½رƒرژ ر€ذ°ذ±ذ¾ر‚رƒ ذ²ر‹ذ؟ذ¾ذ»ذ½رڈذ»ذ¸ ر€ذ¾ذ±ذ¾ر‚ر‹, ذ° ذ»رژذ´ذ¸ ذ²ذµذ»ذ¸ ذ؟ر€ذ°ذ·ذ´ذ½ر‹ذ¹ ذ¾ذ±ر€ذ°ذ· ذ¶ذ¸ذ·ذ½ذ¸. {PAWN_pronoun} {PAWN_gender ? ذ¾ر‚ذ²ذµر‡ذ°ذ» : ذ¾ر‚ذ²ذµر‡ذ°ذ»ذ°} ذ·ذ° ر„ذ»ذ¾ر€رƒ ذ¸ ر„ذ°رƒذ½رƒ ذ² ر†ذ²ذµر‚رƒر‰ذµذ¼ ذ؟ذ°ر€ذ؛ذµ, ذ؛رƒذ´ذ° ذ³ر€ذ°ذ¶ذ´ذ°ذ½ذµ ذ؟ر€ذ¸ر…ذ¾ذ´ذ¸ذ»ذ¸ رپذ¾ذ·ذµر€ر†ذ°ر‚رŒ ذ؛ر€ذ°رپذ¾ر‚رƒ ذ¶ذ¸ذ²ذ¾ذ¹ ذ؟ر€ذ¸ر€ذ¾ذ´ر‹.</BiosphereManager95.baseDesc>
+  <!-- EN: biosphere manager -->
+  <BiosphereManager95.title>ذ¼ذµذ½ذµذ´ذ¶ذµر€ ذ؟ذ¾ ذ±ذ¸ذ¾رپر„ذµر€ذµ</BiosphereManager95.title>
+  <!-- EN: botanist -->
+  <BiosphereManager95.titleShort>رپذ°ذ´ذ¾ذ²ذ½ذ¸ذ؛</BiosphereManager95.titleShort>
+  
+  <!-- EN: Glitterworlds are havens of safety and comfort for those lucky enough to live there, but [PAWN_nameDef] could not ignore nearby planets where people suffered in poverty. [PAWN_pronoun] spent [PAWN_possessive] working life appealing for donations and supporting those in need. -->
+  <CharityWorker36.baseDesc>ذ£ر‚ذ¾ذ؟ذ¸ر‡ذµرپذ؛ذ¸ذµ ذ¼ذ¸ر€ر‹آ â€” رچر‚ذ¾ ر€ذ°ذ¹ ذ±ذµذ·ذ¾ذ؟ذ°رپذ½ذ¾رپر‚ذ¸ ذ¸ ذ؛ذ¾ذ¼ر„ذ¾ر€ر‚ذ° ذ´ذ»رڈ ر‚ذµر…, ذ؛ذ¾ذ¼رƒ ذ؟ذ¾ذ²ذµذ·ذ»ذ¾ ر‚ذ°ذ¼ ذ¶ذ¸ر‚رŒ. ذ‍ذ´ذ½ذ°ذ؛ذ¾ {PAWN_nameDef} ذ½ذµ {PAWN_gender ? ذ¼ذ¾ذ³ : ذ¼ذ¾ذ³ذ»ذ°} ذ¸ذ³ذ½ذ¾ر€ذ¸ر€ذ¾ذ²ذ°ر‚رŒ رپذ¾رپذµذ´ذ½ذ¸ذµ ذ؟ذ»ذ°ذ½ذµر‚ر‹, ذ³ذ´ذµ ذ»رژذ´ذ¸ ذ¶ذ¸ذ»ذ¸ ذ² ذ½ذ¸ر‰ذµر‚ذµ ذ¸ رپر‚ر€ذ°ذ´ذ°ذ½ذ¸رڈر…. {PAWN_pronoun} {PAWN_gender ? رپر‚ذ°ر€ذ°ذ»رپرڈ : رپر‚ذ°ر€ذ°ذ»ذ°رپرŒ} ذ؟ذ¾ذ¼ذ¾ر‡رŒ ذ¸ذ¼, رپذ¾ذ±ذ¸ر€ذ°رڈ ذ؟ذ¾ذ¶ذµر€ر‚ذ²ذ¾ذ²ذ°ذ½ذ¸رڈ ذ¸ ذ؟ذ¾ذ´ذ´ذµر€ذ¶ذ¸ذ²ذ°رڈ ذ½رƒذ¶ذ´ذ°رژر‰ذ¸ر…رپرڈ.</CharityWorker36.baseDesc>
+  <!-- EN: charity worker -->
+  <CharityWorker36.title>ذ±ذ»ذ°ذ³ذ¾ر‚ذ²ذ¾ر€ذ¸ر‚ذµذ»رŒ</CharityWorker36.title>
+  <!-- EN: altruist -->
+  <CharityWorker36.titleShort>ر„ذ¸ذ»ذ°ذ½ر‚ر€ذ¾ذ؟</CharityWorker36.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] had an amazing ability to relate to others and mediate conflict. [PAWN_pronoun] was selected to train as an empath. The training intensified [PAWN_possessive] natural abilities, but [PAWN_pronoun] became unable to harm others. -->
+  <GlitterworldEmpath26.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ¾ذ±ذ»ذ°ذ´ذ°ذ» : ذ¾ذ±ذ»ذ°ذ´ذ°ذ»ذ°} رƒذ´ذ¸ذ²ذ¸ر‚ذµذ»رŒذ½ذ¾ذ¹ رپذ؟ذ¾رپذ¾ذ±ذ½ذ¾رپر‚رŒرژ رپر‚ر€ذ¾ذ¸ر‚رŒ ر…ذ¾ر€ذ¾رˆذ¸ذµ ذ¾ر‚ذ½ذ¾رˆذµذ½ذ¸رڈ رپ ذ»رژذ´رŒذ¼ذ¸ ذ¸ رƒذ»ذ°ذ¶ذ¸ذ²ذ°ر‚رŒ ذ؛ذ¾ذ½ر„ذ»ذ¸ذ؛ر‚ر‹. ذںذ¾رچر‚ذ¾ذ¼رƒ {PAWN_possessive} ذ²ر‹ذ±ر€ذ°ذ»ذ¸ ذ´ذ»رڈ ذ؟ذ¾ذ´ذ³ذ¾ر‚ذ¾ذ²ذ؛ذ¸ ذ² ذ؛ذ°ر‡ذµرپر‚ذ²ذµ رچذ¼ذ؟ذ°ر‚ذ°. ذ‍ذ±رƒر‡ذµذ½ذ¸ذµ رƒرپذ¸ذ»ذ¸ذ»ذ¾ {PAWN_possessive} ذ²ر€ذ¾ذ¶ذ´ر‘ذ½ذ½ر‹ذµ رپذ؟ذ¾رپذ¾ذ±ذ½ذ¾رپر‚ذ¸, ذ½ذ¾ ذ؟ذ¾رپذ»ذµ ذ½ذµذ³ذ¾ {PAWN_nameDef} {PAWN_gender ? ذ؟ذ¾ر‚ذµر€رڈذ» : ذ؟ذ¾ر‚ذµر€رڈذ»ذ°} ذ²ذ¾ذ·ذ¼ذ¾ذ¶ذ½ذ¾رپر‚رŒ ذ؟ر€ذ¸ر‡ذ¸ذ½رڈر‚رŒ ذ²ر€ذµذ´ ذ´ر€رƒذ³ذ¾ذ¼رƒ ر‡ذµذ»ذ¾ذ²ذµذ؛رƒ.</GlitterworldEmpath26.baseDesc>
+  <!-- EN: glitterworld empath -->
+  <GlitterworldEmpath26.title>رچذ¼ذ؟ذ°ر‚ رپ ذ¼ذ¸ر€ذ°-رƒر‚ذ¾ذ؟ذ¸ذ¸</GlitterworldEmpath26.title>
+  <!-- EN: empath -->
+  <GlitterworldEmpath26.titleShort>رچذ¼ذ؟ذ°ر‚</GlitterworldEmpath26.titleShort>
+  
+  <!-- EN: Though glitterworlds are peaceful places, they often remain prepared for war. [PAWN_nameDef]'s unit rarely saw any real action.\n\nThough [PAWN_pronoun] pursued [PAWN_possessive] artistic hobbies, [PAWN_possessive] subordinates preferred to entertain themselves by brawling, so [PAWN_nameDef] got good at breaking up fights. -->
+  <GlitterworldOfficer60.baseDesc>ذ¥ذ¾ر‚رڈ ذ² رƒر‚ذ¾ذ؟ذ¸ر‡ذµرپذ؛ذ¸ر… ذ¼ذ¸ر€ذ°ر… ذ´ذ¾رپر‚ذ°ر‚ذ¾ر‡ذ½ذ¾ رپذ؟ذ¾ذ؛ذ¾ذ¹ذ½ذ¾, ذ¾ذ±ر‹ر‡ذ½ذ¾ ذ¾ذ½ذ¸ ذ³ذ¾ر‚ذ¾ذ²ر‹ ذ؛ ذ²ذ¾ذ¹ذ½ذµ. ذںذ¾ذ´ر€ذ°ذ·ذ´ذµذ»ذµذ½ذ¸ذµ, ذ؛ذ¾ر‚ذ¾ر€ر‹ذ¼ {PAWN_gender ? ذ؛ذ¾ذ¼ذ°ذ½ذ´ذ¾ذ²ذ°ذ» : ذ؛ذ¾ذ¼ذ°ذ½ذ´ذ¾ذ²ذ°ذ»ذ°} {PAWN_nameDef}, ر€ذµذ´ذ؛ذ¾ رƒر‡ذ°رپر‚ذ²ذ¾ذ²ذ°ذ»ذ¾ ذ² ذ؛ذ°ذ؛ذ¸ر…-ذ»ذ¸ذ±ذ¾ ذ¾ذ؟ذµر€ذ°ر†ذ¸رڈر….\n\n{PAWN_nameDef} {PAWN_gender ? ذ»رژذ±ذ¸ذ» : ذ»رژذ±ذ¸ذ»ذ°} ذ·ذ°ذ½ذ¸ذ¼ذ°ر‚رŒرپرڈ ر€ذ°ذ·ذ½ذ¾ذ¾ذ±ر€ذ°ذ·ذ½ر‹ذ¼ ر‚ذ²ذ¾ر€ر‡ذµرپر‚ذ²ذ¾ذ¼, ذ¾ذ´ذ½ذ°ذ؛ذ¾ {PAWN_possessive} ذ؟ذ¾ذ´ر‡ذ¸ذ½ر‘ذ½ذ½ر‹ذµ ذ؟ر€ذµذ´ذ؟ذ¾ر‡ذ¸ر‚ذ°ذ»ذ¸ ر€ذ°ذ·ذ²ذ»ذµذ؛ذ°ر‚رŒرپرڈ ذ¼ذ¾ر€ذ´ذ¾ذ±ذ¾ذµذ¼, ذ¸ {PAWN_objective} ر‡ذ°رپر‚ذ¾ ذ؟ر€ذ¸ر…ذ¾ذ´ذ¸ذ»ذ¾رپرŒ ذ¸ر… ر€ذ°ذ·ذ½ذ¸ذ¼ذ°ر‚رŒ.</GlitterworldOfficer60.baseDesc>
+  <!-- EN: glitterworld officer -->
+  <GlitterworldOfficer60.title>ذ¾ر„ذ¸ر†ذµر€ رپ ذ¼ذ¸ر€ذ°-رƒر‚ذ¾ذ؟ذ¸ذ¸</GlitterworldOfficer60.title>
+  <!-- EN: officer -->
+  <GlitterworldOfficer60.titleShort>ذ¾ر„ذ¸ر†ذµر€</GlitterworldOfficer60.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked as a surgeon on a world mostly free of disease and human suffering.\n\n[PAWN_possessive] job mostly involved elaborate and creative cosmetic surgeries. [PAWN_pronoun] has a good understanding of human biology, but never had to remove a cancer â€” or a bullet. -->
+  <GlitterworldSurgeon15.baseDesc>{PAWN_nameDef} {PAWN_gender ? ر€ذ°ذ±ذ¾ر‚ذ°ذ» : ر€ذ°ذ±ذ¾ر‚ذ°ذ»ذ°} ر…ذ¸ر€رƒر€ذ³ذ¾ذ¼ ذ² ذ¼ذ¸ر€ذµ, ذ² ذ؛ذ¾ر‚ذ¾ر€ذ¾ذ¼ ذ؟ذ¾ر‡ر‚ذ¸ ذ½ذµر‚ ذ±ذ¾ذ»ذµذ·ذ½ذµذ¹ ذ¸ ر‡ذµذ»ذ¾ذ²ذµر‡ذµرپذ؛ذ¸ر… رپر‚ر€ذ°ذ´ذ°ذ½ذ¸ذ¹.\n\n{PAWN_possessive} ر€ذ°ذ±ذ¾ر‚ذ° رپذ¾رپر‚ذ¾رڈذ»ذ° ذ² ذ¾رپذ½ذ¾ذ²ذ½ذ¾ذ¼ ذ² ذ؟ر€ذ¾ذ²ذµذ´ذµذ½ذ¸ذ¸ رپذ»ذ¾ذ¶ذ½ر‹ر… ذ¸ ذ¸رپذ؛رƒرپذ½ر‹ر… ذ؟ذ»ذ°رپر‚ذ¸ر‡ذµرپذ؛ذ¸ر… ذ¾ذ؟ذµر€ذ°ر†ذ¸ذ¹. {PAWN_nameDef} ر…ذ¾ر€ذ¾رˆذ¾ ذ؟ذ¾ذ½ذ¸ذ¼ذ°ذµر‚, ذ؛ذ°ذ؛ رƒرپر‚ر€ذ¾ذµذ½ذ¾ ر‡ذµذ»ذ¾ذ²ذµر‡ذµرپذ؛ذ¾ذµ ر‚ذµذ»ذ¾, ذ½ذ¾ {PAWN_objective} ذ½ذ¸ ر€ذ°ذ·رƒ ذ½ذµ ذ؟ر€ذ¸ر…ذ¾ذ´ذ¸ذ»ذ¾رپرŒ رƒذ´ذ°ذ»رڈر‚رŒ ر€ذ°ذ؛ذ¾ذ²رƒرژ ذ¾ذ؟رƒر…ذ¾ذ»رŒ. ذکذ»ذ¸ ذ؟رƒذ»رژ.</GlitterworldSurgeon15.baseDesc>
+  <!-- EN: glitterworld surgeon -->
+  <GlitterworldSurgeon15.title>ر…ذ¸ر€رƒر€ذ³ رپ ذ¼ذ¸ر€ذ°-رƒر‚ذ¾ذ؟ذ¸ذ¸</GlitterworldSurgeon15.title>
+  <!-- EN: surgeon -->
+  <GlitterworldSurgeon15.titleShort>ر…ذ¸ر€رƒر€ذ³</GlitterworldSurgeon15.titleShort>
+  
+  <!-- EN: Interstellar warfare is won by technology, so glitterworld navies are always on the peak of modern research. Even better, they have first access to archotechnological artifacts because they find them in space.\n\n[PAWN_nameDef] worked in a navy lab. -->
+  <NavyScientist52.baseDesc>ذœذµذ¶ذ؟ذ»ذ°ذ½ذµر‚ذ½ر‹ذµ ذ²ذ¾ذ¹ذ½ر‹ ذ²ر‹ذ¸ذ³ر€ر‹ذ²ذ°رژر‚رپرڈ ر‚ذµر…ذ½ذ¾ذ»ذ¾ذ³ذ¸رڈذ¼ذ¸, ر‚ذ°ذ؛ ر‡ر‚ذ¾ ذ¸ذ¼ذ؟ذµر€رپذ؛ذ¸ذµ ذ²ذ¾ذµذ½ذ½ذ¾-ذ؛ذ¾رپذ¼ذ¸ر‡ذµرپذ؛ذ¸ذµ رپذ¸ذ»ر‹ ذ²رپذµذ³ذ´ذ° ذ½ذ°ر…ذ¾ذ´رڈر‚رپرڈ ذ½ذ° ذ¾رپر‚ر€ذ¸ذµ ذ½ذ°رƒذ؛ذ¸. ذ‘ذ¾ذ»ذµذµ ر‚ذ¾ذ³ذ¾, ذ¸ذ¼ذµذ½ذ½ذ¾ ذ¾ذ½ذ¸ ذ؟ذµر€ذ²ر‹ذ¼ذ¸ ذ؟ذ¾ذ»رƒر‡ذ°رژر‚ ذ´ذ¾رپر‚رƒذ؟ ذ؛ ذ°ر€ر‚ذµر„ذ°ذ؛ر‚ذ°ذ¼ ذ°ر€ر…ذ¾ر‚ذµذ؛ذ¾ذ², ر‚ذ°ذ؛ ذ؛ذ°ذ؛ رپذ°ذ¼ذ¸ ذ½ذ°ر…ذ¾ذ´رڈر‚ ذ¸ر… ذ² ذ؛ذ¾رپذ¼ذ¾رپذµ.\n\nذ‌ذµذ؛ذ¾ر‚ذ¾ر€ذ¾ذµ ذ²ر€ذµذ¼رڈ {PAWN_nameDef} {PAWN_gender ? ر€ذ°ذ±ذ¾ر‚ذ°ذ» : ر€ذ°ذ±ذ¾ر‚ذ°ذ»ذ°} ذ² ذ¾ذ´ذ½ذ¾ذ¹ ذ¸ذ· ذ»ذ°ذ±ذ¾ر€ذ°ر‚ذ¾ر€ذ¸ذ¹ ذ؛ذ¾رپذ¼ذ¾ر„ذ»ذ¾ر‚ذ°.</NavyScientist52.baseDesc>
+  <!-- EN: navy scientist -->
+  <NavyScientist52.title>رƒر‡ر‘ذ½ر‹ذ¹ ذ’ذڑذ،</NavyScientist52.title>
+  <!-- EN: scientist -->
+  <NavyScientist52.titleShort>رƒر‡ر‘ذ½ر‹ذ¹</NavyScientist52.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] lived on a glitterworld, penning wildly successful novels. [PAWN_pronoun] lived a carefree lifestyle, spending [PAWN_possessive] days writing and [PAWN_possessive] nights partying - and never did a day's manual labour in [PAWN_possessive] life. -->
+  <Novelist7.baseDesc>ذ–ذ¸ذ²رڈ ذ² ر€ذ¾ذ´ذ½ذ¾ذ¼ {PAWN_objective} رƒر‚ذ¾ذ؟ذ¸ر‡ذµرپذ؛ذ¾ذ¼ ذ¼ذ¸ر€ذµ, {PAWN_nameDef} {PAWN_gender ? ذ؟ذ¸رپذ°ذ» : ذ؟ذ¸رپذ°ذ»} ذ½ذµذ²ذµر€ذ¾رڈر‚ذ½ذ¾ رƒرپذ؟ذµرˆذ½ر‹ذµ ر€ذ¾ذ¼ذ°ذ½ر‹. {PAWN_pronoun} {PAWN_gender ? ذ²ر‘ذ» : ذ²ذµذ»ذ°} ذ±ذµذ·ذ·ذ°ذ±ذ¾ر‚ذ½ر‹ذ¹ ذ¾ذ±ر€ذ°ذ· ذ¶ذ¸ذ·ذ½ذ¸, ذ´ذ½ر‘ذ¼آ â€” ر‚ذ²ذ¾ر€رڈ, ذ½ذ¾ر‡رŒرژآ â€” ذ¾ر‚ر€ر‹ذ²ذ°رڈرپرŒ ذ½ذ° ذ²ذµر‡ذµر€ذ¸ذ½ذ؛ذ°ر…, ذ¸ ذ½ذ¸ذ؛ذ¾ذ³ذ´ذ° ذ½ذµ ذ·ذ°ذ½ذ¸ذ¼ذ°رڈرپرŒ ر€رƒر‡ذ½ر‹ذ¼ ر‚ر€رƒذ´ذ¾ذ¼.</Novelist7.baseDesc>
+  <!-- EN: novelist -->
+  <Novelist7.title>ذ؟ذ¸رپذ°ر‚ذµذ»رŒ-ر€ذ¾ذ¼ذ°ذ½ذ¸رپر‚</Novelist7.title>
+  <!-- EN: novelist -->
+  <Novelist7.titleShort>ذ؟ر€ذ¾ذ·ذ°ذ¸ذ؛</Novelist7.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] started off sculpting person-sized chunks of stone, but [PAWN_pronoun] soon began to think bigger. With the help of mining robots, [PAWN_pronoun] learned how to carve huge monuments out of cliffsides. Soon the nature parks of the glitterworld where [PAWN_pronoun] lived were full of giant rock figures. -->
+  <Sculptor63.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ½ذ°ر‡ذ¸ذ½ذ°ذ» : ذ½ذ°ر‡ذ¸ذ½ذ°ذ»ذ°} رپ ذ¾ذ±ر€ذ°ذ±ذ¾ر‚ذ؛ذ¸ ذ؛ذ°ذ¼ذ½ذµذ¹ ر€ذ°ذ·ذ¼ذµر€ذ¾ذ¼ ذ² ر‡ذµذ»ذ¾ذ²ذµر‡ذµرپذ؛ذ¸ذ¹ ر€ذ¾رپر‚, ذ½ذ¾ ذ²رپذ؛ذ¾ر€ذµ {PAWN_possessive} ذ·ذ°ذ¼ر‹رپذ»ر‹ رپر‚ذ°ذ»ذ¸ ذ¼ذ°رپرˆر‚ذ°ذ±ذ½ذµذµ. {PAWN_nameDef} {PAWN_gender ? ذ½ذ°رƒر‡ذ¸ذ»رپرڈ : ذ½ذ°رƒر‡ذ¸ذ»ذ°رپرŒ} ذ²ر‹ر€ذµذ·ذ°ر‚رŒ ذ¾ذ³ر€ذ¾ذ¼ذ½ر‹ذµ ذ¼ذ¾ذ½رƒذ¼ذµذ½ر‚ر‹ ذ¸ذ· ر†ذµذ»ر‹ر… رپذ؛ذ°ذ» رپ ذ؟ذ¾ذ¼ذ¾ر‰رŒرژ ذ³ذ¾ر€ذ½ذ¾ذ´ذ¾ذ±ر‹ذ²ذ°رژر‰ذ¸ر… ر€ذ¾ذ±ذ¾ر‚ذ¾ذ². ذ’رپذ؛ذ¾ر€ذµ ذ² ذ؟ر€ذ¸ر€ذ¾ذ´ذ½ر‹ر… ذ؟ذ°ر€ذ؛ذ°ر… {PAWN_possessive} ر€ذ¾ذ´ذ½ذ¾ذ³ذ¾ ذ¼ذ¸ر€ذ°-رƒر‚ذ¾ذ؟ذ¸ذ¸ ذ؟ذ¾رڈذ²ذ¸ذ»ذ¾رپرŒ ذ¼ذ½ذ¾ذ¶ذµرپر‚ذ²ذ¾ ذ³ذ¸ذ³ذ°ذ½ر‚رپذ؛ذ¸ر… ر„ذ¸ذ³رƒر€, ذ²ر‹ر€ذµذ·ذ°ذ½ذ½ر‹ر… ذ؟ر€رڈذ¼ذ¾ ذ¸ذ· ذ³ذ¾ر€.</Sculptor63.baseDesc>
+  <!-- EN: sculptor -->
+  <Sculptor63.title>رپذ؛رƒذ»رŒذ؟ر‚ذ¾ر€</Sculptor63.title>
+  <!-- EN: sculptor -->
+  <Sculptor63.titleShort>رپذ؛رƒذ»رŒذ؟ر‚ذ¾ر€</Sculptor63.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] designed virtual reality simulations for glitterworld citizens. [PAWN_pronoun] paid great attention to the details of [PAWN_possessive] worlds, including learning all [PAWN_pronoun] could about plant life to make [PAWN_possessive] landscapes more realistic. -->
+  <VRDesigner87.baseDesc>{PAWN_nameDef} {PAWN_gender ? ر€ذ°ذ·ر€ذ°ذ±ذ°ر‚ر‹ذ²ذ°ذ» : ر€ذ°ذ·ر€ذ°ذ±ذ°ر‚ر‹ذ²ذ°ذ»ذ°} ذ¸ذ³ر€ر‹ ذ² ذ²ذ¸ر€ر‚رƒذ°ذ»رŒذ½ذ¾ذ¹ ر€ذµذ°ذ»رŒذ½ذ¾رپر‚ذ¸ ذ´ذ»رڈ ذ¶ذ¸ر‚ذµذ»ذµذ¹ رƒر‚ذ¾ذ؟ذ¸ر‡ذµرپذ؛ذ¾ذ³ذ¾ ذ¼ذ¸ر€ذ°. {PAWN_pronoun} {PAWN_gender ? رƒذ´ذµذ»رڈذ» : رƒذ´ذµذ»رڈذ»ذ°} ذ¾ذ³ر€ذ¾ذ¼ذ½ذ¾ذµ ذ²ذ½ذ¸ذ¼ذ°ذ½ذ¸ذµ ذ¼ذµذ»ذ؛ذ¸ذ¼ ذ´ذµر‚ذ°ذ»رڈذ¼ رپذ¾ذ·ذ´ذ°ذ²ذ°ذµذ¼ر‹ر… ذ²ذ¸ر€ر‚رƒذ°ذ»رŒذ½ر‹ر… ذ¼ذ¸ر€ذ¾ذ². ذ‌ذ°ذ؟ر€ذ¸ذ¼ذµر€, ذ´ذ»رڈ ر‚ذ¾ذ³ذ¾, ر‡ر‚ذ¾ذ±ر‹ ذ´ذµذ»ذ°ر‚رŒ ذ¼ذ¾ذ´ذµذ»ذ¸ر€رƒذµذ¼ر‹ذµ ذ»ذ°ذ½ذ´رˆذ°ر„ر‚ر‹ ذ¼ذ°ذ؛رپذ¸ذ¼ذ°ذ»رŒذ½ذ¾ ر€ذµذ°ذ»ذ¸رپر‚ذ¸ر‡ذ½ر‹ذ¼ذ¸, {PAWN_pronoun} {PAWN_gender ? ذ¸ذ·رƒر‡ذ°ذ» : ذ¸ذ·رƒر‡ذ°ذ»ذ°} ذ±ذ¾ر‚ذ°ذ½ذ¸ذ؛رƒ.</VRDesigner87.baseDesc>
+  <!-- EN: VR designer -->
+  <VRDesigner87.title>VR-ذ´ذ¸ذ·ذ°ذ¹ذ½ذµر€</VRDesigner87.title>
+  <!-- EN: game dev -->
+  <VRDesigner87.titleShort>ذ´ذ¸ذ·ذ°ذ¹ذ½ذµر€</VRDesigner87.titleShort>
+  
+</LanguageData>
