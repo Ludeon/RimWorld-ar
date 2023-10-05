@@ -1,0 +1,26 @@
+<LanguageData>
+  
+  
+  <Cougar.label>ﺔﻣﻮﺒﻟﺍ</Cougar.label>
+  <Cougar.labelPlural>ﺔﻴﻟﺎﻐﻨﺒﻟﺍ</Cougar.labelPlural>
+  <Cougar.lifeStages.0.label>ﺪﻬﻔﻟﺍ ﻦﻣ ﺓﺮﻴﻐﺻ ﺔﻄﻗ</Cougar.lifeStages.0.label>
+  <Cougar.lifeStages.0.labelPlural>ﺔﻣﻮﺒﻠﻟ ﺓﺮﻴﻐﺼﻟﺍ ﻂﻄﻘﻟﺍ</Cougar.lifeStages.0.labelPlural>
+  <Cougar.lifeStages.1.label>ﺮﻤﻨﻟﺍ ﻞﺒﺷ</Cougar.lifeStages.1.label>
+  
+  
+  <Lynx.label>ﺲﻳﺭ</Lynx.label>
+  
+  <Lynx.labelPlural>ﺝﺎﻨﺳ</Lynx.labelPlural>
+  
+  <Lynx.lifeStages.lynx_kitten.label>ﻞﺒﺷ</Lynx.lifeStages.lynx_kitten.label>
+  <Lynx.lifeStages.lynx_kitten.labelPlural>ﺓﺮﻴﻐﺼﻟﺍ ﻂﻄﻘﻟﺍ</Lynx.lifeStages.lynx_kitten.labelPlural>
+  <Lynx.lifeStages.1.label>ﺪﻬﻔﻟﺍ ﻞﺒﺷ</Lynx.lifeStages.1.label>
+  
+  
+  <Panther.label>ﺮﻤﻨﻟﺍ</Panther.label>
+  <Panther.labelPlural>ﺭﻮﻤﻨﻟﺍ</Panther.labelPlural>
+  <Panther.lifeStages.0.label>ﺮﻤﻨﻟﺍ ﺮﻴﻐﺻ</Panther.lifeStages.0.label>
+  <Panther.lifeStages.0.labelPlural>ﺩﻮﻬﻓ ﻂﻄﻗ</Panther.lifeStages.0.labelPlural>
+  <Panther.lifeStages.1.label>ﺏﺎﺷ ﺮﻤﻧ</Panther.lifeStages.1.label>
+  
+</LanguageData>
