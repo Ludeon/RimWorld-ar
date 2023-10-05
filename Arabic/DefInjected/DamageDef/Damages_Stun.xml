@@ -1,0 +1,14 @@
+<LanguageData>
+  
+  
+  <EMP.label>ﻲﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻜﻟﺍ ﺯﺎﻬﺠﻟﺍ</EMP.label>
+  
+  <EMP.deathMessage>.EMP ﺔﻄﺳﺍﻮﺑ {0} ﻞﺘﻗ ﻢﺗ</EMP.deathMessage>
+  
+  
+  <Stun.label>ﺀﺎﻤﻏﺇ</Stun.label>
+  
+  <Stun.deathMessage>{0} {0_gender ? ﺐﺒﺴﺑ {ﺖﻴﻓﻮﺗ : ﻲﻓﻮﺗ
+ﺀﺎﻤﻏﻹﺍ.</Stun.deathMessage>
+  
+</LanguageData>
