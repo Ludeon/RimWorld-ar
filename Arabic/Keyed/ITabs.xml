@@ -1,0 +1,465 @@
+<LanguageData>
+
+  
+  
+  <TabBills>ﻡﺎﻬﻤﻟﺍ</TabBills>
+  
+  <TabGrowing>ﻁﻮﺒﻬﻟﺍ</TabGrowing>
+  
+  <TabCharacter>ﺔﻴﺼﺨﺸﻟﺍ</TabCharacter>
+  
+  <TabTraining>ﺐﻳﺭﺪﺘﻟﺍ</TabTraining>
+  
+  <TabPrisoner>ﻦﻴﺠﺳ</TabPrisoner>
+  
+  <TabGuest>ﻒﻴﻀﻟﺍ</TabGuest>
+  
+  <TabGear>ﺩﺍﻮﻤﻟﺍ</TabGear>
+  
+  <TabNeeds>ﺕﺎﺟﺎﻴﺘﺣﻻﺍ</TabNeeds>
+  
+  <TabStorage>ﻉﺩﻮﺘﺴﻤﻟﺍ</TabStorage>
+  
+  <TabShells>ﺓﺮﻴﺧﺬﻟﺍ</TabShells>
+  
+  <TabHealth>ﺔﺤﺼﻟﺍ</TabHealth>
+  
+  <TabRace>ﺔﻴﺴﻨﺠﻟﺍ</TabRace>
+  
+  <TabBasics>ﺕﺎﻴﺳﺎﺳﻷﺍ</TabBasics>
+  
+  <TabStats>ﺺﺋﺎﺼﺨﻟﺍ</TabStats>
+  
+  <TabRecords>ﺕﺍﺀﺎﺼﺣﻹﺍ</TabRecords>
+  
+  <TabArt>ﻦﻓ</TabArt>
+  
+  <TabSocial>ﻊﻤﺘﺠﻤﻟﺍ</TabSocial>
+  
+  <TabLog>.ﺔﻠﺠﻤﻟﺍ</TabLog>
+  
+  <TabPenAnimals>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</TabPenAnimals>
+  
+  <TabPenFood>ﻡﺎﻌﻄﻟﺍ</TabPenFood>
+  
+  <TabPenAutoCut>ﺕﺎﺗﺎﺒﻨﻟﺍ</TabPenAutoCut>
+  
+  <TabFormingCaravan>ﺔﻠﻓﺎﻗ</TabFormingCaravan>
+  
+  <TabTransporterContents>ﺔﻟﻮﻤﺤﻟﺍ</TabTransporterContents>
+  
+  <TabCasketContents>ﻯﻮﺘﺤﻤﻟﺍ</TabCasketContents>
+  
+  <TabWindTurbineAutoCut>ﺕﺎﺗﺎﺒﻨﻟﺍ</TabWindTurbineAutoCut>
+  
+  
+  
+  <AddBill>ﺔﻤﻬﻤﻟﺍ ﺽﺮﻋ</AddBill>
+  
+  <RecipeRequiresSkills>ﺪﺣﺃ ﻻ .ﺓﺭﻮﻛﺬﻤﻟﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ ﺐﻠﻄﺘﺗ {0} ﺔﻤﻬﻤﻟﺍ
+ﺍﺬﻟ ،ﺕﺍﺭﺎﻬﻤﻟﺍ ﻚﻠﺗ ﻚﻠﺘﻤﻳ ﻚﻳﺪﻟ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻦﻣ
+.ﺔﻤﻬﻤﻟﺍ ﻚﻠﺗ ﺬﻴﻔﻨﺗ ﻢﺘﻳ ﻦﻟ</RecipeRequiresSkills>
+  
+  <MinimumSkill>ﺎﻴﻧﺪﻟﺍ ﺓﺭﺎﻬﻤﻟﺍ</MinimumSkill>
+  
+  <SuspendedCaps>ﻒﻗﻮﺗ</SuspendedCaps>
+  
+  <BoundWorkerIs>.ﻙﺮﺘﺸﻤﻟﺍ {labelShort_1} ﻦﻴﻴﻌﺗ ﻢﺗ</BoundWorkerIs>
+  
+  <PlantVerb>ﻉﺭﺯ</PlantVerb>
+  
+  <ClipboardBillNotAvailableHere>ﺎﻨﻫ ﻪﺟﺍﺭﺩﺇ ﻦﻜﻤﻳ ﻻ</ClipboardBillNotAvailableHere>
+  
+  <ReorderBillUpTip>ﻰﻠﻋﺃ</ReorderBillUpTip>
+  
+  <ReorderBillDownTip>ﻩﺎﻧﺩﺃ</ReorderBillDownTip>
+  
+  <DeleteBillTip>ﻑﺬﺣ</DeleteBillTip>
+  
+  <CopyBillTip>ﺔﻈﻓﺎﺤﻟﺍ ﻰﻟﺇ ﺦﺴﻧﺍ</CopyBillTip>
+  
+  <SuspendBillTip>ﻖﻴﻠﻌﺗ</SuspendBillTip>
+  
+  <PasteBillTip>ﻞﺧﺩﺃ</PasteBillTip>
+  
+  <PasteBillTip_LimitReached>ﺔﻨﻜﻤﻣ ﺮﻴﻏ ﺔﻓﺎﺿﺇ</PasteBillTip_LimitReached>
+
+  
+  
+  <RecruitmentResistance>ﺔﻴﺴﻔﻨﻟﺍ ﺔﻣﻭﺎﻘﻤﻟﺍ</RecruitmentResistance>
+  
+  <RecruitmentResistanceDesc>ﻰﻟﺇ ﻡﺎﻤﻀﻧﻻﺍ ﻲﻓ ﺮﻴﺳﻷﺍ ﺔﺒﻏﺭ ﻡﺪﻋ ﻯﺪﻣ
+ﺮﻔﺼﻟﺍ ﻰﻟﺇ ﺮﺷﺆﻤﻟﺍ ﺍﺬﻫ ﻞﺼﻳ ﺎﻣﺪﻨﻋ .ﻚﺘﻋﺎﻤﺟ
+.ﻩﺪﻴﻨﺠﺗ ﺀﺪﺑ ﻚﻨﻜﻤﻳ ،</RecruitmentResistanceDesc>
+  
+  <RecruitmentResistanceFromPawnKind>ﺔﻴﺳﺎﺳﻷﺍ ﺔﻣﻭﺎﻘﻤﻟﺍ {0}</RecruitmentResistanceFromPawnKind>
+  
+  <PrisonerReleasePotentialRelationGains>ﻢﻫﺮﻳﺮﺤﺗ ﺪﻨﻋ ﺔﻌﻤﺳ ﺓﺩﺎﻳﺯ</PrisonerReleasePotentialRelationGains>
+  
+  <PrisonerReleaseRelationGainsDesc>ﺔﻟﺎﺣ ﻲﻓ ﺓﺭﻮﺳﺄﻤﻟﺍ ﺔﻋﺎﻤﺠﻟﺍ ﻊﻣ ﺔﻗﻼﻌﻟﺍ ﻦﺴﺤﺗ
+ﺭﻮﺳﺄﻤﻟﺍ ﺔﻴﺼﺨﺷ ﻰﻠﻋ ﻒﻗﻮﺘﻳ ﺍﺬﻫﻭ ،ﻪﺣﺍﺮﺳ ﻕﻼﻃﺇ
+.ﺔﻴﻠﻘﻌﻟﺍﻭ ﺔﻴﻧﺪﺒﻟﺍ ﻪﺘﺤﺻﻭ</PrisonerReleaseRelationGainsDesc>
+  
+  <PrisonBreakMTBDays>ﺏﻭﺮﻬﻟﺍ ﻦﻴﺑ ﺖﻗﻮﻟﺍ</PrisonBreakMTBDays>
+  
+  <PrisonBreakMTBDaysDescription>ﺮﺛﺄﺘﻳ .ﺏﻭﺮﻬﻟﺍ ﺕﻻﻭﺎﺤﻣ ﻦﻴﺑ ﻡﺎﻳﻷﺍ ﺩﺪﻋ ﻂﺳﻮﺘﻣ
+ﺔﻘﺑﺎﺴﻟﺍ ﺔﻟﻭﺎﺤﻤﻟﺍ ﻦﻣ ﺖﻗﻮﻟﺍﻭ ﻪﺘﻛﺮﺣﻭ ﺮﻴﺳﻷﺍ ﺝﺍﺰﻤﺑ
+ﻲﻓ ﻡﻮﻨﻟﺍ ﺖﻗﻭ ﺏﺎﺴﺘﺣﺍ ﻢﺘﻳ ﻻ .ﺏﺮﻬﻠﻟ
+.ﺏﺎﺴﺤﻟﺍ</PrisonBreakMTBDaysDescription>
+  
+  <Never>ﺍﺪﺑﺃ</Never>
+  
+  <NotWhileAsleep>.ﻡﻮﻨﻟﺍ ﺖﻗﻭ ﻲﻓ ﺲﻴﻟ</NotWhileAsleep>
+  
+  <CurrentlyPrisonBreaking>ﺏﻭﺮﻬﻟﺎﺑ ﻡﻮﻘﻳ</CurrentlyPrisonBreaking>
+  
+  <FactorForDoorCount>ﺏﺍﻮﺑﻷﺍ ﻒﻋﺎﻀﻣ</FactorForDoorCount>
+  
+  <FactorForMovement>ﺔﻛﺮﺤﻟﺍ ﻞﻣﺎﻌﻣ</FactorForMovement>
+  
+  <SlavePrice>ﺪﺒﻌﻟﺍ ﺮﻌﺳ</SlavePrice>
+  
+  <SlavePriceDescription>.ﻕﻮﺴﻟﺍ ﻲﻓ ﻊﻴﺒﻟﺍ ﺪﻨﻋ ﺪﺒﻌﻠﻟ ﻲﺳﺎﺳﻷﺍ ﺮﻌﺴﻟﺍ</SlavePriceDescription>
+  
+  <GetsFood>ﻡﺎﻌﻄﻟﺍ ﻰﻠﻋ ﻞﺼﺤﻳ</GetsFood>
+  
+  <DoctorsCare>ﺔﻴﺒﻄﻟﺍ ﺔﻳﺎﻋﺮﻟﺍ</DoctorsCare>
+  
+  <GetsMedicine>ﺀﺍﻭﺪﻟﺍ ﻰﻠﻋ ﻞﺼﺤﻳ</GetsMedicine>
+  
+  <ShouldTryToRecruit>ﺪﻴﻨﺠﺘﻟﺍ ﻝﻭﺎﺣ</ShouldTryToRecruit>
+  
+  <ConsideredGuilty>ﻲﻓ ﺓﺩﺪﺤﻤﻟﺍ ﺓﺪﻤﻟﺍ ﻲﻬﺘﻨﺗ) ﺐﻧﺬﻟﺍ ﺕﺎﺒﺛﺇ ﻢﺗ
+({0}</ConsideredGuilty>
+  
+  <ConsideredGuiltyNoTimer>.ﺐﻧﺬﻟﺍ ﺕﺎﺒﺛﺇ ﻢﺗ</ConsideredGuiltyNoTimer>
+  
+  <LastRecruitment>ﺮﻴﺧﻷﺍ ﺔﻣﻭﺎﻘﻤﻟﺍ ﺽﺎﻔﺨﻧﺍ</LastRecruitment>
+  
+  <LastRecruitmentDescription>ﺓﺮﻴﺧﻷﺍ ﺎﻬﺘﻟﻭﺎﺤﻣ ﺪﻨﻋ {nameDef_0} ﺔﻣﻭﺎﻘﻣ ﺖﻌﺟﺍﺮﺗ ﻢﻛ
+؟{possessive_0} ﺪﻴﻨﺠﺘﻟ</LastRecruitmentDescription>
+  
+  <OpinionOfRecruiter>.ﺪﻨﺠﻤﻟﺍ ﻩﺎﺠﺗ ﻒﻗﻮﻣ</OpinionOfRecruiter>
+  
+  <RecruiterNegotiationAbility>ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺪﻴﻨﺠﺘﻟﺍ ﺕﺍﺭﺎﻬﻣ</RecruiterNegotiationAbility>
+  
+  <NonRecruitable>ﺪﻴﻨﺠﺘﻟﺍ ﻦﻜﻤﻣ ﺮﻴﻏ</NonRecruitable>
+  
+  <NonRecruitableTip>ﻦﻜﻤﻳ ﻻ ،ﺖﺑﺎﺛ ﻪﺘﻋﺎﻤﺠﻟ ﺮﻴﺳﻷﺍ ﺍﺬﻫ ﺀﻻﻭ
+.ﻩﺪﻴﻨﺠﺗ</NonRecruitableTip>
+  
+  <NonRecruitableTipCannotConvert>،ﻉﺰﻋﺰﺘﻳ ﻻ ﻪﺗﺍﺪﻘﺘﻌﻣ ﻲﻓ ﺮﻴﺳﻷﺍ ﺍﺬﻫ ﻥﺎﻤﻳﺇ
+.ﺎﻬﻨﻋ ﻪﻴﻨﺛ ﻦﻜﻤﻳ ﻼﻓ</NonRecruitableTipCannotConvert>
+
+
+
+
+  
+  
+  <MoveSpeed>ﻞﻘﻨﺘﻟﺍ ﺔﻋﺮﺳ</MoveSpeed>
+  
+  <Efficiency>ﺔﻴﻠﻴﻐﺸﺘﻟﺍ ﺓﺀﺎﻔﻜﻟﺍ</Efficiency>
+  
+  <PartEfficiency>ﺀﺰﺠﻟﺍ ﺔﻴﻟﺎﻌﻓ</PartEfficiency>
+  
+  <BodyPartEfficiency>ﻢﺴﺠﻟﺍ ﺀﺰﺠﻟﺍ ﺔﻴﻠﻋﺎﻓ</BodyPartEfficiency>
+  
+  <MissingBodyPart>ﺩﻮﺟﻮﻣ ﺮﻴﻏ</MissingBodyPart>
+  
+  <DestroyedBodyPart>ﺎﻫﺮﻴﻣﺪﺗ ﻢﺗ</DestroyedBodyPart>
+  
+  <ShatteredBodyPart>ﻢﻄﺤﻣ</ShatteredBodyPart>
+  
+  <RemovedBodyPart>ﻑﺬﺤﻟﺍ ﻢﺗ</RemovedBodyPart>
+  
+  <Healthy>ﺕﺎﺑﺎﺻﺇ ﻻ</Healthy>
+  
+  <InPain>ﻢﻟﻷﺎﺑ ﺮﻌﺸﻳ</InPain>
+  
+  <PainLevel>ﻢﻟﻷﺍ</PainLevel>
+  
+  <Injured>ﺡﺮﺠﻟﺍ</Injured>
+  
+  <UntendedInjury>ﺞﻟﺎﻌﻤﻟﺍ ﺮﻴﻏ ﺡﺮﺠﻟﺍ</UntendedInjury>
+  
+  <NoHealthConditions>ﺔﻴﻌﻴﺒﻄﻟﺍ ﺔﻟﺎﺤﻟﺍ ﻦﻋ ﺕﺎﻫﻮﺸﺗ ﺪﺟﻮﺗ ﻻ</NoHealthConditions>
+  
+  <WholeBody>ﻢﺴﺠﻟﺍ ﻞﻛ</WholeBody>
+  
+  <DataProcessing>ﺕﺎﻧﺎﻴﺒﻟﺍ ﺔﺠﻟﺎﻌﻣ</DataProcessing>
+  
+  <Communication>ﻝﺎﺼﺗﻻﺍ</Communication>
+  
+  <Affects>ﻰﻠﻋ ﺮﺛﺆﻳ</Affects>
+  
+  <BleedingRate>ﻒﻳﺰﻧ</BleedingRate>
+  
+  <TimeToDeath>{0} ﻥﻮﻀﻏ ﻲﻓ ﺕﻮﻤﻟﺍ</TimeToDeath>
+  
+  <WontBleedOutSoon>ﺓﺮﻴﻄﺧ ﺮﻴﻏ</WontBleedOutSoon>
+  
+  <HealthOverview>ﺔﻌﺟﺍﺮﻣ</HealthOverview>
+  
+  <MedicalOperationsShort>ﺕﺍﺀﺍﺮﺟﻻﺍ</MedicalOperationsShort>
+  
+  <MedicalOperationsMechanoidsShort>ﺕﻼﻳﺪﻌﺘﻟﺍ</MedicalOperationsMechanoidsShort>
+  
+  <MedicalOperations>ﺔﻴﺒﻄﻟﺍ ﺕﺍﺀﺍﺮﺟﻹﺍ</MedicalOperations>
+  
+  <Amputate>ﺏﺎﺼﻤﻟﺍ ﺀﺰﺠﻟﺍ ﺮﺘﺒﺑ ﻢﻗ</Amputate>
+  
+  <HarvestOrgan>ﻮﻀﻋ ﺝﺍﺮﺨﺘﺳﺍ</HarvestOrgan>
+  
+  <RemoveOrgan>ﻑﺬﺣ</RemoveOrgan>
+  
+  <MemoryLower>ﺓﺮﻛﺍﺬﻟﺍ</MemoryLower>
+  
+  <SocialInteractionsLower>ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺕﻼﻋﺎﻔﺘﻟﺍ</SocialInteractionsLower>
+  
+  <HungerRate>ﻉﻮﺠﻟﺍ</HungerRate>
+  
+  <FoodConsumption>ﻡﺎﻌﻄﻟﺍ ﻙﻼﻬﺘﺳﺍ</FoodConsumption>
+  
+  <Tiredness>ﻕﺎﻫﺭﻹﺍ</Tiredness>
+  
+  <PainFactor>ﻢﻟﻷﺍ</PainFactor>
+  
+  <PreventsInfection>ﻯﻭﺪﻌﻟﺎﺑ ﺔﺑﺎﺻﻹﺍ ﻊﻨﻤﻳ</PreventsInfection>
+  
+  <SelfTend>ﻲﺗﺍﺬﻟﺍ ﺀﺎﻔﺸﻟﺍ</SelfTend>
+  
+  <SelfTendTip>ﻢﻬﺗﺀﺎﻔﻛ ﻞﺼﺗ ﻰﺘﺣ ﻊﻗﻮﻤﻟﺍ ﻲﻓ ﻢﻬﺴﻔﻧﺃ ﻥﻮﺠﻟﺎﻌﻴﺳ
+.ﺩﺎﺘﻌﻤﻟﺍ ﻦﻣ {1} ﻰﻟﺇ</SelfTendTip>
+  
+  <DeathIn>{0} ﻥﻮﻀﻏ ﻲﻓ ﺕﻮﻤﻟﺍ</DeathIn>
+  
+  
+  
+  <None>.ﻻ</None>
+  
+  <VeryPoor>.ﺔﺒﻋﺮﻣ</VeryPoor>
+  
+  <Poor>ﺔﺌﻴﺳ</Poor>
+  
+  <Weakened>ﺔﻔﻌﻀﻣ</Weakened>
+  
+  <GoodCondition>ﺎﻨﺴﺣ</GoodCondition>
+  
+  <Enhanced>ﺎﻬﻨﻴﺴﺤﺗ ﻢﺗ</Enhanced>
+  
+  <SeriouslyImpaired>ﺮﻴﻄﺧ ﺡﺮﺟ</SeriouslyImpaired>
+  
+  <Impaired>ﺡﺮﺠﻟﺍ</Impaired>
+  
+  <SlightlyImpaired>ﺔﻔﻴﻔﻃ ﺔﺑﺎﺻﺇ</SlightlyImpaired>
+  
+  <NoPain>ﺔﺣﺎﺘﻣ ﺔﻤﺟﺮﺗ ﺪﺟﻮﻳ ﻻ</NoPain>
+  
+  <LittlePain>ﺔﻠﻬﺳ</LittlePain>
+  
+  <MediumPain>ﻂﺳﻮﺘﻣ</MediumPain>
+  
+  <SeverePain>ﺔﻳﻮﻗ</SeverePain>
+  
+  <ExtremePain>ﺍﺪﺟ ﺔﺒﻋﺮﻣ</ExtremePain>
+
+  
+  
+  <Trainability>ﻢﻠﻌﺘﻟﺍ ﻰﻠﻋ ﺓﺭﺪﻗ</Trainability>
+  
+  <CannotTrainNotSmartEnough>.ﻢﻠﻌﺗ ﺓﺭﺎﻬﻣ {0} ﺏﻮﻠﻄﻣ</CannotTrainNotSmartEnough>
+  
+  <CannotTrainTooSmall>{1_labelShort} - ﺍﺬﻫ ﻰﻠﻋ ﺐﻳﺭﺪﺘﻠﻟ ﺐﺳﺎﻨﻣ ﺮﻴﻏ
+ﻯﻮﺘﺴﻤﻟﺍ.</CannotTrainTooSmall>
+
+  
+  <TrainingNeedsPrerequisite>{0} :ﺏﻮﻠﻄﻣ</TrainingNeedsPrerequisite>
+  
+  
+  
+  <Kidnapped>ﺎﻬﻓﺎﻄﺘﺧﺍ/ﻪﻓﺎﻄﺘﺧﺍ ﻢﺗ</Kidnapped>
+  
+  <Lent>ﺪﻌﺑ ﺩﻮﻌﻳ ﻑﻮﺳﻭ "{FACTION_name}" ﻢﻴﻠﺴﺗ ﻢﺗ ﺎﺘﻗﺆﻣ
+{ﻡﺎﻳﺃ : ﻡﻮﻳ ? numCase_1}</Lent>
+  
+  <Missing>ﺭﺎﺒﺧﺃ ﻼﺑ ﺪﻘﻓ</Missing>
+  
+  <Slave>ﺪﺒﻌﻟﺍ</Slave>
+  
+  <FactionLeader>ﻞﻴﺼﻔﻟﺍ ﺪﺋﺎﻗ</FactionLeader>
+  
+  <OpinionOf>{0} ﻝﻮﺣ ﻚﻳﺃﺭ</OpinionOf>
+  
+  <SomeonesOpinionOfMe>.ﻲﻨﻋ {0} ﻱﺃﺭ</SomeonesOpinionOfMe>
+  
+  <IAmDead>ﺖﻴﻣ ﺎﻧﺃ</IAmDead>
+  
+  <IAmPsychopath>ﻥﻮﻨﺠﻣ ﺎﻧﺃ</IAmPsychopath>
+  
+  
+  
+  <OverallArmor>ﺔﻣﺎﻌﻟﺍ ﺔﻳﺎﻤﺤﻟﺍ</OverallArmor>
+  
+  <MassCarried>ﻢﺠﻛ {1}/{0} :ﻥﺯﻮﻟﺍ ﻞﻤﺤﻳ</MassCarried>
+  
+  <ComfyTemperatureRange>ﺔﺤﻳﺮﻣ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﻕﺎﻄﻧ</ComfyTemperatureRange>
+  
+  <ArmorBlunt>ﻚﻠﻬﻣ</ArmorBlunt>
+  
+  <ArmorSharp>ﻖﻴﻤﻋ</ArmorSharp>
+  
+  <ArmorHeat>ﺔﻳﺭﺍﺮﺤﻟﺍ</ArmorHeat>
+  
+  
+  
+  <ShowAll>ﻞﻜﻟﺍ ﺭﺎﻬﻇﺇ</ShowAll>
+  
+  <ShowCombat>ﻝﺎﺘﻘﻟﺍ</ShowCombat>
+  
+  <ShowSocial>ﻞﺻﺍﻮﺘﻟﺍ</ShowSocial>
+  
+  <NoRecentEntries>.ﺓﺪﻳﺪﺟ ﺙﺍﺪﺣﺃ ﺪﺟﻮﺗ ﻻ</NoRecentEntries>
+  
+  <CopyLogTip>.ﺔﻈﻓﺎﺤﻟﺍ ﻰﻟﺇ ﻞﺠﺴﻟﺍ ﺦﺴﻧ</CopyLogTip>
+
+  
+  
+  <FormingCaravanStatus_GatheringAnimals>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻴﻤﺠﺗ</FormingCaravanStatus_GatheringAnimals>
+  
+  <FormingCaravanStatus_GatheringAnimals_Pause>(ﺭﺎﻈﺘﻧﻻﺍ ﻲﻓ) ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻤﺟ</FormingCaravanStatus_GatheringAnimals_Pause>
+  
+  <FormingCaravanStatus_GatheringItems>ﻞﻴﻤﺤﺘﻟﺍ</FormingCaravanStatus_GatheringItems>
+  
+  <FormingCaravanStatus_GatheringItems_Pause>(ﺭﺎﻈﺘﻧﺍ) ﻞﻴﻤﺤﺗ</FormingCaravanStatus_GatheringItems_Pause>
+  
+  <FormingCaravanStatus_GatheringDownedPawns>ﻰﺣﺮﺠﻟﺍ ﻊﻤﺟ</FormingCaravanStatus_GatheringDownedPawns>
+  
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>(ﺭﺎﻈﺘﻧﺍ) ﻰﺣﺮﺠﻟﺍ ﺀﻼﺟﻹ ﺩﺍﺪﻌﺘﺳﺍ</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  
+  <FormingCaravanStatus_Leaving>ﺓﺭﺩﺎﻐﻤﻟﺍ</FormingCaravanStatus_Leaving>
+  
+  <FormingCaravanStatus_Leaving_Pause>(ﺭﺎﻈﺘﻧﻻﺍ) ﺓﺭﺩﺎﻐﻤﻟﺍ</FormingCaravanStatus_Leaving_Pause>
+  
+  <FormingCaravanStatus_Waiting>ﺭﺎﻈﺘﻧﻹﺍ</FormingCaravanStatus_Waiting>
+  
+  <CaravanMembers>ﻥﻮﺒﻋﻼﻟﺍ</CaravanMembers>
+  
+  <CaravanAnimals>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</CaravanAnimals>
+  
+  <ItemsToLoad>ﻞﻴﻤﺤﺘﻠﻟ</ItemsToLoad>
+  
+  <LoadedItems>ﻊﻘﻨﺘﺴﻣ</LoadedItems>
+  
+  <PackAnimalsCountLower>ﺮﺠﻟﺍ ﺕﺎﻧﺍﻮﻴﺣ</PackAnimalsCountLower>
+  
+  <InMentalStateCountLower>ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﺔﻟﺎﺣ ﻲﻓ</InMentalStateCountLower>
+
+  
+  
+  <RemoveSliderText>(ﺔﻌﻄﻗ {{lookup: {0}; Case; 3} ({{0} ﻎﻳﺮﻔﺗ</RemoveSliderText>
+  
+  <ContainedItems>ﻯﻮﺘﺤﻤﻟﺍ</ContainedItems>
+  
+  <ConfirmRemoveItemDialog>lookup:} ﻎﻳﺮﻔﺗ ﺪﻳﺮﺗ ﻚﻧﺃ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ
+?{{0}; Case; 3</ConfirmRemoveItemDialog>
+  
+  
+  
+  <DismissQuest>."ﺦﻳﺭﺎﺘﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻰﻟﺇ ﺎﻬﻠﻘﻧﻭ ﺔﻤﻬﻤﻟﺍ ﺾﻓﺭ
+ﻢﺘﻴﺳ .ﺖﻗﻭ ﻱﺃ ﻲﻓ ﺔﻤﻬﻤﻟﺍ ﺓﺩﺎﻌﺘﺳﺍ ﻚﻨﻜﻤﻳ
+ﺯﺎﺠﻧﻺﻟ ﺩﺪﺤﻤﻟﺍ ﺖﻗﻮﻟﺍﻭ ﺔﻤﻬﻤﻟﺍ ﻯﻮﺘﺤﻣ ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ
+.ﺔﺿﻮﻓﺮﻤﻟﺍ ﻡﺎﻬﻤﻟﺍ ﻥﺄﺸﺑ ﺕﺍﺭﺎﻌﺷﺇ ﻰﻘﻠﺘﺗ ﻦﻟ .ﺩﺎﺘﻌﻤﻟﺎﻛ</DismissQuest>
+  
+  <UnDismissQuest>ﺕﺎﻣﻼﻋ ﺔﻣﻼﻋ ﻰﻟﺇ ﺔﻤﻬﻤﻟﺍ ﺓﺩﺎﻋﺇ ﻢﺘﻳ ﻑﻮﺳ
+ﺓﺮﻣ ﺕﺍﺭﺎﻌﺷﻹﺍ ﻦﻴﻜﻤﺗ ﻢﺘﻴﺳﻭ "ﺔﻄﺸﻧ" ﻭﺃ "ﺔﺣﺎﺘﻣ"
+.ﻯﺮﺧﺃ</UnDismissQuest>
+  
+  <QuestDismissed>ﺎﻬﺗﺩﺎﻌﺘﺳﺍ ﻚﻨﻜﻤﻳ .ﺎﻬﻀﻓﺭ ﻢﺗ ﺎﻬﻧﻷ ﺎﻨﻫ ﺔﻤﻬﻤﻟﺍ
+.ﺔﻠﻬﻤﻟﺍ ﺀﺎﻬﺘﻧﺍ ﻞﺒﻗ</QuestDismissed>
+  
+  <DeleteQuest>.ﻝﺎﻤﻋﻷﺍ ﺔﻤﺋﺎﻗ ﻦﻣ ﺎﻴﺋﺎﻬﻧ ﺎﻬﺘﻟﺍﺯﺇﻭ ﺔﻤﻬﻤﻟﺍ ﻑﺬﺣ</DeleteQuest>
+
+  
+  
+  <PenFoodTab_NotEnclosed>.ﻡﺎﻌﻄﻟﺍ ﺕﺍﺮﺷﺆﻣ ﺏﺎﺴﺤﻟ ﺎﺟﺎﻴﺳ ﻢﻗﺃ</PenFoodTab_NotEnclosed>
+
+  
+  <PenFoodTab_StockpileTotal>ﺰﻫﺎﺟ ﻡﺎﻌﻄﻟﺍ</PenFoodTab_StockpileTotal>
+  
+  <PenFoodTab_StockpileTotalDescription>؟ﺓﺮﻴﻈﺤﻟﺍ ﺍﺬﻫ ﻲﻓ ﺔﻧﺰﺨﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺔﻴﻤﻛ</PenFoodTab_StockpileTotalDescription>
+  
+  <PenFoodTab_StockpileEmptyDays>.ﺔﻧﺰﺨﻤﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﺩﺎﻔﻧ ﻰﺘﺣ ﻡﺎﻳﺃ</PenFoodTab_StockpileEmptyDays>
+  
+  <PenFoodTab_StockpileEmptyDaysDescription>.ﺓﺮﻴﻈﺤﻟﺍ ﻩﺬﻫ ﻲﻓ ﻩﻮﻤﻧ ﺯﻭﺎﺠﺘﻳ ﻡﺎﻌﻄﻟﺍ ﻙﻼﻬﺘﺳﺍ
+ﻥﻭﺰﺨﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﻞﻛ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻞﻛﺄﺘﺳ ،ﺖﻗﻮﻟﺍ ﻊﻣ
+.ﻉﻮﺠﻟﺍ ﻲﻓ ﺃﺪﺒﺘﺳﻭ</PenFoodTab_StockpileEmptyDaysDescription>
+
+  
+  <PenFoodTab_AnimalType>ﻥﺍﻮﻴﺤﻟﺍ ﻉﻮﻧ</PenFoodTab_AnimalType>
+  
+  <PenFoodTab_Count>ﺔﻴﻤﻜﻟﺍ</PenFoodTab_Count>
+  
+  <PenFoodTab_CurrentDay>ﻡﻮﻴﻟﺍ</PenFoodTab_CurrentDay>
+  
+  <PenFoodTab_Nutrition_Unit>ﻡﺎﻌﻄﻟﺍ ﺩﺪﻋ</PenFoodTab_Nutrition_Unit>
+  
+  <PenFoodTab_NutritionPerDay_Unit>ﻡﻮﻴﻟﺍ ﻲﻓ</PenFoodTab_NutritionPerDay_Unit>
+  
+  <PenFoodTab_AddAnimal>...ﻥﺍﻮﻴﺤﻟﺍ ﺽﺮﻋ</PenFoodTab_AddAnimal>
+
+  
+  <PenFoodTab_NaturalNutritionGrowthRate>ﻡﺎﻌﻄﻟﺍ ﺔﻴﻤﻛ ﻲﻓ ﺓﺩﺎﻳﺯ</PenFoodTab_NaturalNutritionGrowthRate>
+  
+  <PenFoodTab_GrowthPerSeason>ﻢﺳﻮﻤﻠﻟ ﻮﻤﻨﻟﺍ ﺓﺩﺎﻳﺯ</PenFoodTab_GrowthPerSeason>
+  
+  <PenFoodTab_TotalNutritionConsumptionRate>ﻡﺎﻌﻄﻟﺍ ﻙﻼﻬﺘﺳﺍ</PenFoodTab_TotalNutritionConsumptionRate>
+  
+  <PenFoodTab_NaturalNutritionGrowthRateDescription>ﺔﺤﻟﺎﺼﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻦﻣ ﻡﺪﻘﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺩﺪﻋ ﻂﺳﻮﻟﺍ
+ﺓﺮﻴﻈﺤﻟﺍ ﺍﺬﻫ ﻲﻓ ﻞﻛﻸﻟ</PenFoodTab_NaturalNutritionGrowthRateDescription>
+  
+  <PenFoodTab_NutritionConsumptionDescription>.ﺓﺮﻴﻈﺤﻟﺍ ﺍﺬﻫ ﻲﻓ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺔﺑﻮﻠﻄﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺔﻴﻤﻛ
+ﻊﻴﺳﻮﺘﺑ ﻢﻗ ،ﻡﺎﻌﻄﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ
+ﻭﺃ ،ﺔﻳﺮﺒﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻦﻣ ﺔﺣﺎﺴﻣ ﺔﻓﺎﺿﺇﻭ ﺓﺮﻴﻈﺤﻟﺍ
+.ﺓﺮﻴﻈﺤﻟﺍ ﻲﻓ ﺮﻀﺤﻤﻟﺍ ﻒﻠﻌﻟﺍ ﻊﺿ</PenFoodTab_NutritionConsumptionDescription>
+  
+  <PenFoodTab_NaturalNutritionGrowthRateSeasonal>ﻢﺳﻮﻤﻟﺍ ﺐﺴﺣ ﺮﻴﻐﺘﺗ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻮﻤﻧ ﺔﻋﺮﺳ :ﺮﻳﺬﺤﺗ
+ﺕﺎﺑﺎﺴﺤﻟﺍ .ﻯﺮﺧﺃ ﻞﻣﺍﻮﻋﻭ ﺔﻳﺮﺒﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻁﺎﺸﻧﻭ ﺲﻘﻄﻟﺍﻭ
+.ﺮﻳﺪﻘﺗ ﻲﻫ ﺔﻣﺪﻘﻤﻟﺍ</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
+
+  
+  <PenFoodTab_NutritionConsumedPerDay_ColumLabel>ﻡﺎﻌﻟﺍ ﻙﻼﻬﺘﺳﻻﺍ</PenFoodTab_NutritionConsumedPerDay_ColumLabel>
+  
+  <PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>ﺎﻴﻣﻮﻳ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺎﻬﻟﻭﺎﻨﺘﻳ ﻲﺘﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺔﻴﻤﻛ ﻲﻟﺎﻤﺟﺍ
+ﺓﺮﻴﻈﺤﻟﺍ ﻩﺬﻫ ﻲﻓ</PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>
+  
+  <PenFoodTab_NutritionConsumedPerDay>{lookup: {ANIMALDEF_label}; Case; 1} ـﻟ ﻲﻣﻮﻴﻟﺍ ﻙﻼﻬﺘﺳﻻﺍ</PenFoodTab_NutritionConsumedPerDay>
+  
+  <PenFoodTab_NutritionConsumedEachAnimalLabel>ﺩﺮﻔﻠﻟ {ﻙﻼﻬﺘﺳﻻﺍﺔﻴﻤﻛ}</PenFoodTab_NutritionConsumedEachAnimalLabel>
+  
+  <PenFoodTab_AnimalTypeAnimalCapacity>ﻥﻭﺪﺑ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﻪﺑ ﺡﻮﻤﺴﻤﻟﺍ ﻰﺼﻗﻷﺍ ﻢﺠﺤﻟﺍ
+.ﻯﺮﺧﻷﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻉﺍﻮﻧﺃ ﺏﺎﺴﺘﺣﺍ</PenFoodTab_AnimalTypeAnimalCapacity>
+
+  
+  <PenFoodTab_EdibleNow>ﻡﺎﻌﻄﻟﺍ ﻝﻭﺎﻨﺗ ﻥﻵﺍ ﻚﻨﻜﻤﻳ</PenFoodTab_EdibleNow>
+
+  
+  <PenAutoCut_EnabledCheckbox>.ﺓﺮﻴﻈﺤﻟﺍ ﻲﻓ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻄﻗ</PenAutoCut_EnabledCheckbox>
+  
+  <PenAutoCut_EnabledCheckboxTip>.ﺓﺩﺪﺤﻤﻟﺍ ﻉﺍﻮﻧﻷﺍ ﻦﻣ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻄﻘﻟ ﻲﺋﺎﻘﻠﺗ ﺪﻳﺪﺤﺗ
+ﻯﺮﺧﻷﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻮﻤﻨﻟ ﺔﺣﺎﺴﻤﻟﺍ ﺮﻴﻬﻄﺗ ﻰﻠﻋ ﺪﻋﺎﺴﻳ
+ﻩﺬﻫ ﻢﺘﺗ .ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻡﺎﻌﻃﻹ ﺔﺑﻮﻠﻄﻤﻟﺍ
+ﻉﺍﻮﻧﺃ ﻰﻠﻋ ﻂﻘﻓ ﻖﺒﻄﻨﺗﻭ ﻱﺭﻭﺩ ﻞﻜﺸﺑ ﺔﻴﻠﻤﻌﻟﺍ
+ﻂﻘﻓ ﺭﺎﺠﺷﻷﺍ ﻊﻄﻗ ﺬﻴﻔﻨﺗ ﻦﻜﻤﻳ .ﺓﺩﺪﺤﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ
+.ﺔﻃﺎﺤﻤﻟﺍ ﺹﺎﻔﻗﻷﺍ ﻲﻓ</PenAutoCut_EnabledCheckboxTip>
+
+  
+  <AutocutUnenclosedPen>ﺔﻃﺎﺤﻣ ﺮﻴﻏ ﺔﻠﻈﻤﻟﺍ</AutocutUnenclosedPen>
+  
+  <AutocutUnenclosedPenTip>ﻦﻟ ﺕﺎﺗﺎﺒﻨﻟﺎﻓ ،ﺔﻃﺎﺤﻣ ﺮﻴﻏ ﺓﺮﻴﻈﺤﻟﺍ ﻥﺃ ﺎﻤﺑ
+.ﻮﻤﻨﻟﺍ ﻦﻋ ﻒﻗﻮﺘﺗ</AutocutUnenclosedPenTip>
+
+  
+  <WindTurbineAutoCut_EnabledCheckbox>ﻲﺘﻟﺍ ﺓﺭﺎﻀﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻰﻠﻋ ﺎﻴﺋﺎﻘﻠﺗ ﺕﺎﻣﻼﻋ ﻊﺿﻭ
+.ﻞﻤﻌﻟﺍ ﻕﻮﻌﺗ</WindTurbineAutoCut_EnabledCheckbox>
+
+</LanguageData>
