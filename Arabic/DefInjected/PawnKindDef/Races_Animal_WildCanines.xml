@@ -1,0 +1,59 @@
+<LanguageData>
+  
+  
+  <Fox_Arctic.label>ﺐﻠﻌﺛ</Fox_Arctic.label>
+  
+  <Fox_Arctic.labelPlural>ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ</Fox_Arctic.labelPlural>
+  
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>ﺏﺎﻌﻠﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ ﻭﺮﺟ</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
+  
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>ﺏﺎﺠﻨﺴﻟﺍ ﺀﺍﺮﺟ</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
+  <Fox_Arctic.lifeStages.1.label>ﺏﺎﺸﻟﺍ ﺐﻠﻌﺜﻟﺍ</Fox_Arctic.lifeStages.1.label>
+  
+  
+  <Fox_Fennec.label>ﻱﻭﺍﺮﺤﺻ ﺐﻠﻌﺛ</Fox_Fennec.label>
+  
+  <Fox_Fennec.labelPlural>ﺔﻳﻭﺍﺮﺤﺼﻟﺍ ﺐﻟﺎﻌﺜﻟﺍ</Fox_Fennec.labelPlural>
+  
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>ﻱﻭﺍﺮﺤﺼﻟﺍ ﺐﻠﻌﺜﻟﺍ ﻭﺮﺟ</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
+  
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>ﺀﺍﺮﺤﺼﻟﺍ ﺐﻠﻌﺛ ﺀﺍﺮﺟ</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
+  <Fox_Fennec.lifeStages.1.label>ﻱﻭﺍﺮﺤﺼﻟﺍ ﺐﻠﻌﺜﻟﺍ ﻞﺒﺷ</Fox_Fennec.lifeStages.1.label>
+  
+  
+  <Fox_Red.label>ﺐﻠﻌﺛ</Fox_Red.label>
+  <Fox_Red.labelMale>ﺐﻠﻌﺛ</Fox_Red.labelMale>
+  
+  <Fox_Red.labelPlural>ﺐﻟﺎﻌﺜﻟﺍ</Fox_Red.labelPlural>
+  
+  <Fox_Red.lifeStages.red_fox_puppy.label>ﻙﻮﻨﺴﻴﻟ</Fox_Red.lifeStages.red_fox_puppy.label>
+  
+  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>ﺀﺍﺪﻐﻟﺍ</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
+  <Fox_Red.lifeStages.1.label>ﺓﺮﻴﻐﺼﻟﺍ ﺔﺒﻠﻌﺜﻟﺍ</Fox_Red.lifeStages.1.label>
+  <Fox_Red.lifeStages.1.labelMale>ﺏﺎﺸﻟﺍ ﺐﻠﻌﺜﻟﺍ</Fox_Red.lifeStages.1.labelMale>
+  
+  
+  <Wolf_Arctic.label>ﻲﺒﻄﻘﻟﺍ ﺐﺋﺬﻟﺍ</Wolf_Arctic.label>
+  <Wolf_Arctic.labelFemale>ﺔﻌﻄﻘﺘﻤﻟﺍ ﺔﺒﺋﺬﻟﺍ</Wolf_Arctic.labelFemale>
+  
+  <Wolf_Arctic.labelPlural>ﺔﻴﺒﻄﻘﻟﺍ ﺏﺎﺋﺬﻟﺍ</Wolf_Arctic.labelPlural>
+  
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>ﻲﺒﻄﻗ ﺐﺋﺫ</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>
+  
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>ﺔﻴﺒﻄﻘﻟﺍ ﺏﺎﺋﺬﻟﺍ ﺀﺍﺮﺟ</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
+  <Wolf_Arctic.lifeStages.1.label>.ﺮﻴﻐﺻ ﻲﺒﻄﻗ ﺐﺋﺫ</Wolf_Arctic.lifeStages.1.label>
+  <Wolf_Arctic.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺼﻟﺍ ﺔﻴﺒﻄﻘﻟﺍ ﺔﺒﺋﺬﻟﺍ</Wolf_Arctic.lifeStages.1.labelFemale>
+  
+  
+  <Wolf_Timber.label>.ﺐﺋﺬﻟﺍ</Wolf_Timber.label>
+  <Wolf_Timber.labelFemale>ﺔﺑﻮﺋﺬﻤﻟﺍ</Wolf_Timber.labelFemale>
+  
+  <Wolf_Timber.labelPlural>ﺏﺎﺋﺬﻟﺍ</Wolf_Timber.labelPlural>
+  
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>ﺮﻴﻐﺻ ﻭﺮﺟ</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
+  
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>ﺏﺎﺋﺬﻟﺍ ﺀﺍﺮﺟ</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
+  <Wolf_Timber.lifeStages.1.label>ﺐﺋﺬﻟﺍ ﺏﺎﺒﺷ</Wolf_Timber.lifeStages.1.label>
+  <Wolf_Timber.lifeStages.1.labelFemale>.ﺓﺮﻴﻐﺼﻟﺍ ﺔﺒﺋﺬﻟﺍ</Wolf_Timber.lifeStages.1.labelFemale>
+  
+</LanguageData>
