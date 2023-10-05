@@ -1,0 +1,34 @@
+<LanguageData>
+  
+  
+  <MedicalOperationSpeed.label>ﺔﻴﺒﻄﻟﺍ ﺕﺍﺀﺍﺮﺟﻹﺍ ﺀﺍﺮﺟﺇ ﺔﻋﺮﺳ</MedicalOperationSpeed.label>
+  
+  <MedicalOperationSpeed.description>.ﺔﻴﺒﻄﻟﺍ ﺕﺍﺀﺍﺮﺟﻺﻟ ﺔﻴﺼﺨﺸﻟﺍ ﺬﻴﻔﻨﺗ ﺔﻋﺮﺳ</MedicalOperationSpeed.description>
+  
+  
+  <MedicalSurgerySuccessChance.label>ﺔﻴﻠﻤﻌﻟﺍ ﺡﺎﺠﻧ ﺔﺻﺮﻓ</MedicalSurgerySuccessChance.label>
+  
+  <MedicalSurgerySuccessChance.description>ﺔﻴﻠﻤﻋ ﺀﺍﺮﺟﺇ ﻲﻓ ﺔﻴﺼﺨﺸﻟﺍ ﺡﺎﺠﻨﻟ ﺔﻴﺳﺎﺳﻷﺍ ﺔﻴﻟﺎﻤﺘﺣﻻﺍ
+.ﺔﻴﺣﺍﺮﺟ
+ﻱﺬﻟﺍ ﻥﺎﻜﻤﻟﺍﻭ ﺮﻳﺮﺴﻟﺎﺑ ﺎﻀﻳﺃ ﺡﺎﺠﻨﻟﺍ ﺮﺛﺄﺘﻳ -
+ﺔﻴﻠﻤﻌﻟﺍ ﺔﺑﻮﻌﺻﻭ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺔﻳﻭﺩﻷﺍﻭ ﺔﻴﻠﻤﻌﻟﺍ ﻪﻴﻓ ﻢﺘﻳ
+.ﺐﻴﺒﻄﻟﺍ ﺰﻴﻔﺤﺗﻭ ﺎﻬﺴﻔﻧ
+ﻙﺎﻨﻫ ﻥﺈﻓ ،ﻚﻟﺫ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ -
+ﺮﻈﻨﻟﺍ ﺾﻐﺑ ﺄﻄﺧ ﺏﺎﻜﺗﺭﻻ ﺮﻴﻐﺻ ﺮﻄﺧ ﺎﻤﺋﺍﺩ
+.ﺮﺷﺆﻤﻟﺍ ﺍﺬﻫ ﻦﻋ</MedicalSurgerySuccessChance.description>
+  
+  
+  <MedicalTendQuality.label>ﺝﻼﻌﻟﺍ ﺓﺩﻮﺟ</MedicalTendQuality.label>
+  
+  <MedicalTendQuality.description>ﺽﺍﺮﻣﻷﺍ ﺝﻼﻋﻭ ﺡﻭﺮﺠﻠﻟ ﺔﻣﺪﻘﻤﻟﺍ ﺔﻴﺳﺎﺳﻷﺍ ﺔﻳﺎﻋﺮﻟﺍ ﺔﻴﻋﻮﻧ
+.ﺔﻴﺼﺨﺸﻟﺍ ﻞﺒﻗ ﻦﻣ
+ﺔﻓﺮﻐﻟﺍﻭ ﺮﻳﺮﺴﻟﺍ ﻰﻠﻋ ﺪﻤﺘﻌﺗ ﺝﻼﻌﻠﻟ ﺔﻴﻠﻌﻔﻟﺍ ﺓﺩﻮﺠﻟﺍ
+ﻆﺤﻟﺍﻭ ،ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺔﻳﻭﺩﻷﺍﻭ ،ﺔﻴﻠﻤﻌﻟﺍ ﺎﻬﻴﻓ ﻢﺘﻳ ﻲﺘﻟﺍ
+.ﻯﺮﺧﺃ ﻞﻣﺍﻮﻋﻭ</MedicalTendQuality.description>
+  
+  
+  <MedicalTendSpeed.label>ﺀﺎﻔﺸﻟﺍ ﺔﻋﺮﺳ</MedicalTendSpeed.label>
+  
+  <MedicalTendSpeed.description>.ﺔﻴﺼﺨﺸﻠﻟ ﺽﺍﺮﻣﻷﺍﻭ ﺡﻭﺮﺠﻟﺍ ﺝﻼﻋﻭ ﻲﻓﺎﻌﺘﻟﺍ ﺔﻋﺮﺳ</MedicalTendSpeed.description>
+  
+</LanguageData>
