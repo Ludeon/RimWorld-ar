@@ -1,0 +1,59 @@
+<LanguageData>
+  
+  
+  <InstallCochlearImplant.label>ﻲﻌﻤﺳ ﻉﺭﺯ ﺖﻴﺒﺜﺗ</InstallCochlearImplant.label>
+  
+  <InstallCochlearImplant.description>.ﻲﻌﻤﺳ ﻉﺭﺯ ﺐﻴﻛﺮﺗ</InstallCochlearImplant.description>
+  
+  <InstallCochlearImplant.jobString>ﻲﻌﻤﺳ ﻉﺭﺯ ﺐﻴﻛﺮﺗ</InstallCochlearImplant.jobString>
+  
+  
+  <InstallJoywire.label>ﺓﺩﺎﻌﺴﻟﺍ ﺔﺤﻳﺮﺷ ﺖﻴﺒﺜﺗ</InstallJoywire.label>
+  
+  <InstallJoywire.description>.ﺓﺩﺎﻌﺴﻟﺍ ﺔﻗﺎﻗﺭ ﺖﻴﺒﺜﺗ</InstallJoywire.description>
+  
+  <InstallJoywire.jobString>ﺓﺩﺎﻌﺴﻟﺍ ﺔﻗﺎﻗﺭ ﺖﺒﺜﻳ</InstallJoywire.jobString>
+  
+  
+  <InstallPainstopper.label>ﺮﻳﺪﺨﺗ ﺔﻗﺎﻗﺭ ﺐﻴﻛﺮﺗ</InstallPainstopper.label>
+  
+  <InstallPainstopper.description>.ﺮﻳﺪﺨﺗ ﺔﻗﺎﻗﺭ ﺖﻴﺒﺜﺗ</InstallPainstopper.description>
+  
+  <InstallPainstopper.jobString>ﻢﻟﻷﺍ ﻦﻜﺴﻣ ﺔﻗﺎﻗﺭ ﺐﻴﻛﺮﺘﺑ ﻡﻮﻘﻳ</InstallPainstopper.jobString>
+  
+  
+  <InstallPowerClaw.label>.ﺔﻳﻮﻘﻟﺍ ﺐﻟﺎﺨﻤﻟﺍ ﺐﻴﻛﺮﺘﺑ ﻢﻗ</InstallPowerClaw.label>
+  
+  <InstallPowerClaw.description>.ﺔﻳﻮﻘﻟﺍ ﺐﻟﺎﺨﻤﻟﺍ ﺐﻴﻛﺮﺘﺑ ﻢﻗ</InstallPowerClaw.description>
+  
+  <InstallPowerClaw.jobString>.ﺓﻮﻘﻟﺍ ﺐﻟﺎﺨﻣ ﺖﺒﺜﻳ</InstallPowerClaw.jobString>
+  
+  
+  <InstallSimpleProstheticArm.label>ﺪﻴﻠﻟ ﻂﻴﺴﺑ ﻲﻋﺎﻨﺻ ﻑﺮﻃ ﺐﻴﻛﺮﺗ</InstallSimpleProstheticArm.label>
+  
+  <InstallSimpleProstheticArm.description>.ﺔﻄﻴﺴﺑ ﺔﻴﻋﺎﻨﻄﺻﺍ ﻉﺍﺭﺯ ﺖﻴﺒﺜﺗ</InstallSimpleProstheticArm.description>
+  
+  <InstallSimpleProstheticArm.jobString>ﺪﻴﻠﻟ ﺎﻄﻴﺴﺑ ﺎﻋﺍﺭﺯ ﺖﺒﺜﻳ</InstallSimpleProstheticArm.jobString>
+  
+  
+  <InstallSimpleProstheticHeart.label>ﻂﻴﺴﺒﻟﺍ ﺐﻠﻘﻟﺍ ﺕﺎﺑﺮﺿ ﻢﻴﻈﻨﺗ ﺯﺎﻬﺟ ﻉﺭﺯ</InstallSimpleProstheticHeart.label>
+  
+  <InstallSimpleProstheticHeart.description>.ﻂﻴﺴﺑ ﻲﻋﺎﻨﻄﺻﺍ ﺐﻠﻗ ﺯﺎﻬﺟ ﻉﺭﺯ</InstallSimpleProstheticHeart.description>
+  
+  <InstallSimpleProstheticHeart.jobString>.ﻂﻴﺴﺒﻟﺍ ﺐﻠﻘﻟﺍ ﺾﻳﻮﻌﺗ ﺯﺎﻬﺟ ﻉﺭﺯ ﻢﺘﻴﺳ</InstallSimpleProstheticHeart.jobString>
+  
+  
+  <InstallSimpleProstheticLeg.label>.ﻕﺎﺴﻠﻟ ﻂﻴﺴﺑ ﺰﻴﺗﻭﺮﺑ ﺐﻴﻛﺮﺘﺑ ﻢﻗ</InstallSimpleProstheticLeg.label>
+  
+  <InstallSimpleProstheticLeg.description>.ﻕﺎﺴﻠﻟ ﻂﻴﺴﺑ ﺰﻴﺗﻭﺮﺑ ﺐﻴﻛﺮﺗ</InstallSimpleProstheticLeg.description>
+  
+  <InstallSimpleProstheticLeg.jobString>.ﺔﻄﻴﺴﺑ ﻕﺎﺳ ﻉﺭﺯ ﺖﺒﺜﻳ</InstallSimpleProstheticLeg.jobString>
+  
+  
+  <RemovePainstopper.label>.ﺮﻳﺪﺨﺘﻟﺍ ﺔﻗﺎﻗﺭ ﺔﻟﺍﺯﺇ</RemovePainstopper.label>
+  
+  <RemovePainstopper.description>.ﺮﻳﺪﺨﺘﻟﺍ ﺔﻗﺎﻗﺭ ﺔﻟﺍﺯﺇ</RemovePainstopper.description>
+  
+  <RemovePainstopper.jobString>ﺮﻳﺪﺨﺘﻟﺍ ﺔﻗﺎﻗﺭ ﻞﻳﺰﻳ</RemovePainstopper.jobString>
+  
+</LanguageData>
