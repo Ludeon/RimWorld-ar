@@ -1,0 +1,68 @@
+<LanguageData>
+  
+  
+  <BionicArm.label>ﺔﻴﻧﻮﻴﺒﻟﺍ ﺪﻴﻟﺍ</BionicArm.label>
+  
+  <BionicArm.description>.ﺔﻋﻭﺭﺰﻣ ﺔﻴﻜﻴﻧﻮﻴﺑ ﺪﻳ</BionicArm.description>
+  
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>ﺔﻀﺒﻘﻟﺍ</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  
+  <BionicArm.labelNoun>ﺔﻴﻧﻮﻴﺒﻟﺍ ﺪﻴﻟﺍ</BionicArm.labelNoun>
+  
+  
+  <BionicEar.label>ﺔﻴﻧﻮﻴﺒﻟﺍ ﻥﺫﻷﺍ</BionicEar.label>
+  
+  <BionicEar.description>ﺔﻋﻮﺒﻄﻤﻟﺍ ﺔﻴﻧﻮﻴﺒﻟﺍ ﻥﺫﻷﺍ</BionicEar.description>
+  
+  <BionicEar.labelNoun>ﺔﻴﻧﻮﻴﺒﻟﺍ ﻥﺫﻷﺍ</BionicEar.labelNoun>
+  
+  
+  <BionicEye.label>ﺔﻴﻧﻮﻴﺒﻟﺍ ﻦﻴﻌﻟﺍ</BionicEye.label>
+  
+  <BionicEye.description>.ﺔﻋﻭﺭﺰﻤﻟﺍ ﺔﻴﻧﻮﻳﺎﺒﻟﺍ ﻦﻴﻌﻟﺍ</BionicEye.description>
+  
+  <BionicEye.labelNoun>ﺔﻴﻧﻮﻴﺑ ﻦﻴﻋ</BionicEye.labelNoun>
+  
+  
+  <BionicHeart.label>ﻲﻜﻴﻧﻮﻳﺎﺒﻟﺍ ﺐﻠﻘﻟﺍ</BionicHeart.label>
+  
+  <BionicHeart.description>.ﻉﻭﺭﺰﻣ ﻚﻴﻧﻮﻴﺑ ﺐﻠﻗ</BionicHeart.description>
+  
+  <BionicHeart.labelNoun>ﻲﻜﻴﻧﻮﻴﺒﻟﺍ ﺐﻠﻘﻟﺍ</BionicHeart.labelNoun>
+  
+  
+  <BionicLeg.label>ﺔﻴﻧﻮﻴﺒﻟﺍ ﻕﺎﺴﻟﺍ</BionicLeg.label>
+  
+  <BionicLeg.description>.ﺔﻋﻭﺭﺰﻤﻟﺍ ﺔﻴﻧﻮﻳﺎﺒﻟﺍ ﻕﺎﺴﻟﺍ</BionicLeg.description>
+  
+  <BionicLeg.labelNoun>ﺔﻴﻧﻮﻴﺒﻟﺍ ﻕﺎﺴﻟﺍ</BionicLeg.labelNoun>
+  
+  
+  <BionicSpine.label>ﻲﻜﻴﻧﻮﻴﺒﻟﺍ ﻱﺮﻘﻔﻟﺍ ﺩﻮﻤﻌﻟﺍ</BionicSpine.label>
+  
+  <BionicSpine.description>.ﻉﻭﺭﺰﻤﻟﺍ ﻲﻜﻴﻧﻮﻴﺒﻟﺍ ﻱﺮﻘﻔﻟﺍ ﺩﻮﻤﻌﻟﺍ</BionicSpine.description>
+  
+  <BionicSpine.labelNoun>ﻲﻜﻴﻧﻮﻴﺒﻟﺍ ﻱﺮﻘﻔﻟﺍ ﺩﻮﻤﻌﻟﺍ</BionicSpine.labelNoun>
+  
+  
+  <BionicStomach.label>ﺔﻴﻧﻮﻴﺒﻟﺍ ﺓﺪﻌﻤﻟﺍ</BionicStomach.label>
+  
+  <BionicStomach.description>ﺔﻋﻭﺭﺰﻤﻟﺍ ﺔﻴﻧﻮﻳﺎﺒﻟﺍ ﺓﺪﻌﻤﻟﺍ</BionicStomach.description>
+  
+  <BionicStomach.labelNoun>ﺔﻴﻧﻮﻴﺒﻟﺍ ﺓﺪﻌﻤﻟﺍ</BionicStomach.labelNoun>
+  
+  
+  <BionicTongue.label>ﺔﻴﻧﻮﻴﺒﻟﺍ ﺔﻐﻠﻟﺍ</BionicTongue.label>
+  
+  <BionicTongue.description>.ﻢﺴﺠﻟﺍ ﻲﻓ ﺔﻋﻭﺭﺰﻤﻟﺍ ﺔﻴﻧﻮﻴﺒﻟﺍ ﺔﻐﻠﻟﺍ</BionicTongue.description>
+  
+  <BionicTongue.labelNoun>ﺔﻴﻧﻮﻴﺒﻟﺍ ﺔﻐﻠﻟﺍ</BionicTongue.labelNoun>
+  
+  
+  <DeathAcidifier.label>ﺓﺎﻓﻮﻟﺍ ﺪﻌﺑ ﺐﻳﺬﻣ</DeathAcidifier.label>
+  
+  <DeathAcidifier.description>ﺓﺎﻓﻮﻟﺍ ﺪﻌﺑ ﺯﺮﻔﻤﻟﺍ ﺐﻠﺤﺘﺴﻤﻟﺍ ﻝﻮﻠﺤﻤﻟﺍ</DeathAcidifier.description>
+  
+  <DeathAcidifier.labelNoun>ﺕﻮﻤﻟﺍ ﺪﻌﺑ ﺐﻳﺬﻣ</DeathAcidifier.labelNoun>
+  
+</LanguageData>
