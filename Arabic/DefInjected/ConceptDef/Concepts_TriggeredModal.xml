@@ -1,0 +1,65 @@
+<LanguageData>
+  
+  
+  <ArrestingCreatesEnemies.label>ﻞﺋﺎﺼﻔﻟﺍ ﻊﻣ ﺕﺎﻗﻼﻌﻠﻟ ﺀﻲﺴﻳ ﻝﺎﻘﺘﻋﻻﺍ</ArrestingCreatesEnemies.label>
+  
+  <ArrestingCreatesEnemies.helpText>.ﻡﻭﺎﻘﻳ ﺪﻗ ﻪﻟﺎﻘﺘﻋﺍ ﻝﻭﺎﺤﺗ ﻱﺬﻟﺍ ﺺﺨﺸﻟﺍ :ﺮﻳﺬﺤﺗ
+
+ﻦﻣ ﻦﻃﻮﺘﺴﻣ ﻭﺃ ﻦﻃﻮﺘﺴﻣ ﺮﻴﻏ ﺖﻠﻘﺘﻋﺍ ﺍﺫﺇ
+.ﻙﻭﺪﻋ ﻪﻠﻤﻛﺄﺑ ﻞﻴﺼﻔﻟﺍ ﺢﺒﺼﻳ ﻑﻮﺴﻓ ،ﻯﺮﺧﺃ ﺔﻠﻴﺼﻓ
+
+ﺡﺎﺠﻨﻟﺍ ﺔﺻﺮﻓ ﻥﺈﻓ ،ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﻦﻃﻮﺘﺴﻤﻟﺍ ﺕﺍﺭﺎﻬﻤﻟ ﺍﺮﻈﻧ
+.{0} ﻲﻫ</ArrestingCreatesEnemies.helpText>
+  
+  
+  <MaxNumberOfPlayerSettlements.label>ﺕﺎﻨﻃﻮﺘﺴﻤﻠﻟ ﻰﺼﻗﻷﺍ ﺩﺪﻌﻟﺍ</MaxNumberOfPlayerSettlements.label>
+  
+  <MaxNumberOfPlayerSettlements.helpText>ﺮﻴﻴﺴﺘﺑ ﺐﻋﻼﻟ ﺡﺎﻤﺴﻠﻟ RimWorld ﻢﻴﻤﺼﺗ ﻢﺗ :ﺮﻳﺬﺤﺗ
+ﻚﻨﻜﻤﻳ .ﺔﺒﻌﻟ ﻞﻛ ﻲﻓ ﻂﻘﻓ ﺓﺪﺣﺍﻭ ﺔﻨﻃﻮﺘﺴﻣ
+.ﺔﻴﺒﻳﺮﺠﺗ ﺓﺰﻴﻣ ﻩﺬﻫ ﻦﻜﻟﻭ ،ﺓﺩﺪﻌﺘﻣ ﺕﺎﻨﻃﻮﺘﺴﻣ ﺮﻴﻴﺴﺗ
+
+ﻲﻓ ﺓﺩﺪﻌﺘﻣ ﺕﺎﻨﻃﻮﺘﺴﻣ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺮﻜﻌﻳ ﺪﻗ
+،ﺔﺒﻌﻠﻟﺍ ﻲﻓ ﻰﻠﻋﺎﻔﺘﻟﺍ ﻥﺯﺍﻮﺘﻟﺍ ﻰﻠﻋ ﺖﻗﻮﻟﺍ ﺲﻔﻧ
+.ﺙﺪﺤﻳ ﺎﻣ ﺮﻛﺬﺗﻭ ﺰﻴﻛﺮﺘﻟﺍ ﺐﻌﺼﻟﺍ ﻦﻣ ﺢﺒﺼﻳﻭ
+.ﺀﺍﺩﻷﺍ ﻲﻓ ﻞﻛﺎﺸﻣ ﺎﻀﻳﺃ ﺪﺟﻮﺗ ﺪﻗ
+
+.ﺔﻳﺍﺪﺒﻟﺍ ﻲﻓ ﺓﺪﺣﺍﻭ ﺔﻨﻃﻮﺘﺴﻤﺑ ﺐﻌﻠﻟﺍ ﺔﺑﺮﺠﺘﺑ ﺢﺼﻨﻳ</MaxNumberOfPlayerSettlements.helpText>
+  
+  
+  <SteamDeckControlsGame.label>Steam Deck ﻝﻼﺧ ﻦﻣ ﻢﻜﺤﺘﻟﺍ</SteamDeckControlsGame.label>
+  
+  <SteamDeckControlsGame.helpText>{Key:TogglePause} ﻭ ،"ﻊﻳﺭﺎﺸﻤﻟﺍ" ﺔﻤﺋﺎﻗ ﺢﺘﻔﻟ X ﻂﻐﺿﺍ
+ﺕﺍﺮﻘﻨﻠﻟ ﻦﻳﺩﺎﻧﺰﻟﺍ ﻡﺪﺨﺘﺳﺍ .ﺎﻬﻓﺎﻨﺌﺘﺳﺍ ﻭﺃ ﺔﺒﻌﻠﻟﺍ ﻑﺎﻘﻳﻹ
+ﻞﻴﻠﻘﺘﻟﺍﻭ ﺓﺩﺎﻳﺰﻟﺍ ،ﻢﺋﺍﻮﻘﻟﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻠﻟ .ﺔﻠﻳﺪﺒﻟﺍﻭ ﺔﻳﺩﺎﻌﻟﺍ
+ﻂﻐﺿﺍ .{Key:MapZoom_Out} ﻭ {Key:MapZoom_In} ﻡﺪﺨﺘﺳﺍ ﻕﺎﻄﻨﻟﺍ ﻦﻣ
+ﻡﺍﺪﺨﺘﺳﺎﺑ ﺍﺮﻴﻣﺎﻜﻟﺍ ﻚﻳﺮﺤﺘﻟ L5 ﺭﺰﻟﺍ ﻰﻠﻋ ﺭﺍﺮﻤﺘﺳﺎﺑ
+.ﺔﻠﻳﺪﺒﻟﺍ ﺕﺍﺮﻘﻨﻟﺍ ﺓﺎﻛﺎﺤﻣﻭ ﺲﻤﻠﻟﺎﺑ ﻞﻤﻌﺗ ﻲﺘﻟﺍ ﺔﺷﺎﺸﻟﺍ</SteamDeckControlsGame.helpText>
+  
+  
+  <SteamDeckControlsMainMenu.label>Steam Deck ﻝﻼﺧ ﻦﻣ ﻢﻜﺤﺘﻟﺍ</SteamDeckControlsMainMenu.label>
+  
+  <SteamDeckControlsMainMenu.helpText>ﻦﻤﻳﻷﺍ ﺩﺎﻧﺰﻟﺍﻭ ﺮﺷﺆﻤﻟﺍ ﻚﻳﺮﺤﺘﻟ ﺲﻤﻠﻟﺍ ﺔﺣﻮﻟ ﻡﺪﺨﺘﺳﺍ
+.ﻉﻮﺟﺮﻠﻟ {Key:Cancel}ﻭ ﺕﺍﺮﻴﻴﻐﺘﻟﺍ ﻖﻴﺒﻄﺘﻟ {Key:Accept} ﻂﻐﺿﺍ .ﺮﻘﻨﻠﻟ</SteamDeckControlsMainMenu.helpText>
+  
+  
+  <SwitchFlickingDesignation.label>ﻞﻳﺪﺒﺘﻟﺍ ﺮﻣﺃ</SwitchFlickingDesignation.label>
+  
+  <SwitchFlickingDesignation.helpText>.ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺮﻣﺃ ﻂﻘﻓ ﻮﻫ ﺀﺍﺮﺟﻹﺍ ﺍﺬﻫ :ﺔﻈﺣﻼﻣ
+ﻦﻴﻌﻤﻟﺍ ﻦﻃﻮﺘﺴﻤﻟﺍ ﻡﻮﻘﻳ ﻰﺘﺣ ﺀﻲﺷ ﺙﺪﺤﻳ ﻦﻟ
+.ﺎﻳﻭﺪﻳ ﺡﺎﺘﻔﻤﻟﺍ ﻞﻳﺪﺒﺘﺑ ﻞﻐﺸﻤﻛ</SwitchFlickingDesignation.helpText>
+  
+  
+  <TradeGoodsMustBeNearBeacon.label>ﺓﺭﺎﺠﺘﻟﺍ ﺝﺍﺮﺑﺃﻭ ﻊﻠﺴﻟﺍ ﻝﺩﺎﺒﺗ</TradeGoodsMustBeNearBeacon.label>
+  
+  <TradeGoodsMustBeNearBeacon.helpText>،ﻦﻴﻳﺭﺍﺪﻤﻟﺍ ﺭﺎﺠﺘﻟﺍ ﻰﻟﺇ ﺔﻀﻔﻟﺍ ﻭﺃ ﻊﺋﺎﻀﺒﻟﺍ ﻝﺎﺳﺭﻹ
+ﻊﺋﺎﻀﺒﻟﺍ ﻉﺩﻮﺘﺴﻣ ﻊﺿﻭ ﺔﻳﺭﺎﺠﺗ ﺓﺭﺎﻨﻣ ﺀﺎﻨﺒﺑ ﻢﻗ
+.ﺎﻬﺒﻧﺎﺠﺑ</TradeGoodsMustBeNearBeacon.helpText>
+  
+  
+  <TradingRequiresPermit.label>ﻱﺭﺎﺠﺘﻟﺍ ﺯﺎﻴﺘﻣﻻﺍ ﺕﺎﺒﻠﻄﺘﻣ</TradingRequiresPermit.label>
+  
+  <TradingRequiresPermit.helpText>ﻦﻋ ﻞﻘﻳ ﻻ ﺐﻘﻟ ﺐﻠﻄﺘﻳ ﺎﻨﻫ ﺓﺭﺎﺠﺘﻠﻟ
+ﺺﺨﺷ ﻱﺃ ﻭﺃ {0} ﺩﻮﺟﻭ ﻦﻣ ﺪﻛﺄﺗn\n\.{0}
+.ﻚﺘﻠﻓﺎﻗ ﻲﻓ ﻰﻠﻋﺃ ﺔﺒﺗﺮﻤﺑ ﺮﺧﺁ</TradingRequiresPermit.helpText> 
+  
+</LanguageData>
