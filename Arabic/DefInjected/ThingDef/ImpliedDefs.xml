@@ -1,0 +1,553 @@
+<LanguageData>
+  
+  
+  <Corpse_Alpaca.label>ﺔﻜﺒﻟﻷﺍ ﻢﺴﺟ</Corpse_Alpaca.label>
+  
+  <Corpse_Alpaca.description>.ﺔﻜﻟﺎﻬﻟﺍ ﺓﺮﻘﺒﻟﺍ</Corpse_Alpaca.description>
+  
+  
+  <Corpse_Alphabeaver.label>ﺎﻔﻟﻷﺍ ﺭﺄﻔﻟﺍ ﻢﺴﺟ</Corpse_Alphabeaver.label>
+  
+  <Corpse_Alphabeaver.description>.ﺖﻴﻣ ﺮﻔﻴﺑ ﺎﻔﻟﻷﺍ</Corpse_Alphabeaver.description>
+  
+  
+  <Corpse_Bear_Grizzly.label>ﺏﺪﻟﺍ ﻢﺴﺟ</Corpse_Bear_Grizzly.label>
+  
+  <Corpse_Bear_Grizzly.description>.ﺖﻴﻤﻟﺍ ﻲﻨﺒﻟﺍ ﺏﺪﻟﺍ</Corpse_Bear_Grizzly.description>
+  
+  
+  <Corpse_Bear_Polar.label>.ﺾﻴﺑﺃ ﺏﺩ ﺔﺜﺟ</Corpse_Bear_Polar.label>
+  
+  <Corpse_Bear_Polar.description>.ﺖﻴﻤﻟﺍ ﺾﻴﺑﻷﺍ ﺏﺪﻟﺍ</Corpse_Bear_Polar.description>
+  
+  
+  <Corpse_Bison.label>ﻲﺒﻈﻟﺍ ﻢﺤﻟ ﻢﺗ</Corpse_Bison.label>
+  
+  <Corpse_Bison.description>.ﺖﻴﻤﻟﺍ ﻲﺒﻈﻟﺍ</Corpse_Bison.description>
+  
+  
+  <Corpse_Boomalope.label>ﺏﻮﻟﺎﻣﻮﺑ ﺔﺜﺟ</Corpse_Boomalope.label>
+  
+  <Corpse_Boomalope.description>.ﺔﻤﻴﺸﻬﺒﻟﺍ ﺔﻳﺭﺰﻣ</Corpse_Boomalope.description>
+  
+  
+  <Corpse_Boomrat.label>ﺓﺭﺎﻔﻟﺍ ﺶﻴﺸﺤﺗ</Corpse_Boomrat.label>
+  
+  <Corpse_Boomrat.description>.ﺖﻴﻣ ﺱﻭﺎﻤﻟﺍ</Corpse_Boomrat.description>
+  
+  
+  <Corpse_Capybara.label>ﺀﻻﺯﺎﺒﻟﺍ ﺕﺎﺒﻧ ﺲﺟ ﻢﺗ</Corpse_Capybara.label>
+  
+  <Corpse_Capybara.description>.ﺔﺘﻴﻤﻟﺍ ﺍﺭﺎﺒﻴﺑﺎﻜﻟﺍ</Corpse_Capybara.description>
+  
+  
+  <Corpse_Caribou.label>ﺔﻴﻟﺎﻤﺸﻟﺍ ﻞﺋﺎﻳﻷﺍ ﺪﻴﺼﻟﺍ</Corpse_Caribou.label>
+  
+  <Corpse_Caribou.description>.ﺖﻴﻤﻟﺍ ﻲﻟﺎﻤﺸﻟﺍ ﻝﺍﺰﻐﻟﺍ</Corpse_Caribou.description>
+  
+  
+  <Corpse_Cassowary.label>ﺔﻋﺭﺰﻤﻟﺍ ﻲﻓ ﺭﺍﻭﺯﺎﻜﻟﺍ ﺔﺜﺟ ﻊﻳﺩﻮﺗ ﻢﺗ</Corpse_Cassowary.label>
+  
+  <Corpse_Cassowary.description>.ﺖﻴﻤﻟﺍ ﺭﺍﻮﺳﺎﻜﻟﺍ</Corpse_Cassowary.description>
+  
+  
+  <Corpse_Cat.label>ﺔﻄﻘﻟﺍ ﺔﺜﺟ</Corpse_Cat.label>
+  
+  <Corpse_Cat.description>.ﺔﺘﻴﻣ ﺔﻄﻗ</Corpse_Cat.description>
+  
+  
+  <Corpse_Chicken.label>ﺝﺎﺟﺪﻟﺍ ﺔﻨﺒﺠﺗ</Corpse_Chicken.label>
+  
+  <Corpse_Chicken.description>.ﺔﺘﻴﻣ ﺔﺟﺎﺟﺩ</Corpse_Chicken.description>
+  
+  
+  <Corpse_Chinchilla.label>ﺔﻠﺸﻨﺸﻟﺍ ﻢﺴﺟ</Corpse_Chinchilla.label>
+  
+  <Corpse_Chinchilla.description>.ﺖﻴﻣ ﻞﻴﺸﻨﻴﺷ ﺫﺮﺟ</Corpse_Chinchilla.description>
+  
+  
+  <Corpse_Cobra.label>ﺍﺮﺑﻮﻜﻟﺍ ﻰﻌﻓﺃ ﺔﺜﺟ</Corpse_Cobra.label>
+  
+  <Corpse_Cobra.description>.ﺔﺘﻴﻤﻟﺍ ﻰﻌﻓﻷﺍ</Corpse_Cobra.description>
+  
+  
+  <Corpse_Cougar.label>.ﺔﻣﻮﺒﻟﺍ ﻥﺯﻭ ﻞﻳﺪﻌﺗ ﻢﺗ</Corpse_Cougar.label>
+  
+  <Corpse_Cougar.description>.ﺖﻴﻤﻟﺍ ﺮﻤﻨﻟﺍ</Corpse_Cougar.description>
+  
+  
+  <Corpse_Cow.label>ﺔﺣﻮﺑﺬﻤﻟﺍ ﺓﺮﻘﺒﻟﺍ ﻢﺴﺟ</Corpse_Cow.label>
+  
+  <Corpse_Cow.description>.ﺔﺘﻴﻤﻟﺍ ﺓﺮﻘﺒﻟﺍ</Corpse_Cow.description>
+  
+  
+  <Corpse_Deer.label>ﻝﺍﺰﻐﻟﺍ ﻢﺤﻟ</Corpse_Deer.label>
+  
+  <Corpse_Deer.description>.ﺖﻴﻤﻟﺍ ﻝﺍﺰﻐﻟﺍ</Corpse_Deer.description>
+  
+  
+  <Corpse_Donkey.label>ﺭﺎﻤﺤﻟﺍ ﺔﺜﺟ</Corpse_Donkey.label>
+  
+  <Corpse_Donkey.description>.ﺖﻴﻤﻟﺍ ﺭﺎﻤﺤﻟﺍ</Corpse_Donkey.description>
+  
+  
+  <Corpse_Dromedary.label>ﻞﻤﺠﻟﺍ ﺔﺜﺟ</Corpse_Dromedary.label>
+  
+  <Corpse_Dromedary.description>.ﺔﻀﻣﺎﻏ ﺔﻠﻤﺟ</Corpse_Dromedary.description>
+  
+  
+  <Corpse_Duck.label>ﺔﻄﺑ ﺔﺜﺟ</Corpse_Duck.label>
+  
+  <Corpse_Duck.description>.ﺔﺘﻴﻣ ﺔﻄﺑ</Corpse_Duck.description>
+  
+  
+  <Corpse_Elephant.label>ﻞﻴﻔﻟﺍ ﺔﺜﺟ</Corpse_Elephant.label>
+  
+  <Corpse_Elephant.description>.ﺖﻴﻣ ﻞﻴﻓ</Corpse_Elephant.description>
+  
+  
+  <Corpse_Elk.label>ﻝﺍﺭﺎﻤﻟﺍ ﺓﻭﺮﺛ ﺔﻴﻔﺼﺗ ﻢﺗ</Corpse_Elk.label>
+  
+  <Corpse_Elk.description>.ﺖﻴﻤﻟﺍ ﻝﺍﺰﻐﻟﺍ</Corpse_Elk.description>
+  
+  
+  <Corpse_Emu.label>ﻮﻤﻳﺇ ﺔﺜﺟ ﺪﺟﻮﺗ</Corpse_Emu.label>
+  
+  <Corpse_Emu.description>.ﺔﺘﻴﻤﻟﺍ ﺔﻣﺎﻌﻨﻟﺍ</Corpse_Emu.description>
+  
+  
+  <Corpse_Fox_Arctic.label>ﺐﻠﻌﺜﻟﺍ ﺎﺷﻮﺗ</Corpse_Fox_Arctic.label>
+  
+  <Corpse_Fox_Arctic.description>.ﺖﻴﻤﻟﺍ ﺐﻠﻌﺜﻟﺍ</Corpse_Fox_Arctic.description>
+  
+  
+  <Corpse_Fox_Fennec.label>ﺮﻴﻐﺼﻟﺍ ﺐﻠﻌﺜﻟﺍ ﺔﺜﺟ</Corpse_Fox_Fennec.label>
+  
+  <Corpse_Fox_Fennec.description>ﻑﺎﺠﻟﺍ ﻚﻴﻨﻴﻔﻟﺍ</Corpse_Fox_Fennec.description>
+  
+  
+  <Corpse_Fox_Red.label>ﺐﻠﻌﺛ ﻢﺤﻟ</Corpse_Fox_Red.label>
+  
+  <Corpse_Fox_Red.description>.ﺖﻴﻤﻟﺍ ﺐﻠﻌﺜﻟﺍ</Corpse_Fox_Red.description>
+  
+  
+  <Corpse_Gazelle.label>ﻝﺍﺰﻐﻟﺍ ﺔﺜﺟ</Corpse_Gazelle.label>
+  
+  <Corpse_Gazelle.description>.ﺖﻴﻣ ﻝﺍﺰﻏ</Corpse_Gazelle.description>
+  
+  
+  <Corpse_Goat.label>ﺰﻋﺎﻤﻟﺍ ﻢﺤﻟ</Corpse_Goat.label>
+  
+  <Corpse_Goat.description>.ﺔﺘﻴﻤﻟﺍ ﺰﻋﺎﻤﻟﺍ</Corpse_Goat.description>
+  
+  
+  <Corpse_Goose.label>ﺯﻭﻷﺍ ﺪﺴﺟ</Corpse_Goose.label>
+  
+  <Corpse_Goose.description>.ﺔﺘﻴﻤﻟﺍ ﺓﺯﻮﻟﺍ</Corpse_Goose.description>
+  
+  
+  <Corpse_GuineaPig.label>ﻱﺮﺤﺒﻟﺍ ﺮﻳﺰﻨﺨﻟﺍ ﺪﻴﺴﺠﺗ</Corpse_GuineaPig.label>
+  
+  <Corpse_GuineaPig.description>.ﺖﻴﻤﻟﺍ ﺮﺤﺒﻟﺍ ﺮﻳﺰﻨﺧ</Corpse_GuineaPig.description>
+  
+  
+  <Corpse_Hare.label>ﺡﻮﺑﺬﻤﻟﺍ ﺐﻧﺭﻷﺍ</Corpse_Hare.label>
+  
+  <Corpse_Hare.description>.ﺖﻴﻣ ﺐﻧﺭﺃ</Corpse_Hare.description>
+  
+  
+  <Corpse_Horse.label>ﻥﺎﺼﺤﻟﺍ ﺔﺜﺟ</Corpse_Horse.label>
+  
+  <Corpse_Horse.description>.ﺖﻴﻣ ﺶﺤﺟ</Corpse_Horse.description>
+  
+  
+  <Corpse_Human.label>ﻥﺎﺴﻧﺇ ﺔﺜﺟ</Corpse_Human.label>
+  
+  <Corpse_Human.description>.ﻥﺎﺴﻧﺇ ﺔﺜﺟ</Corpse_Human.description>
+  
+  
+  <Corpse_Husky.label>ﻲﻜﺳﺎﻬﻟﺍ ﺔﺜﺟ</Corpse_Husky.label>
+  
+  <Corpse_Husky.description>.ﺖﻴﻤﻟﺍ ﻲﻜﺳﺎﻬﻟﺍ</Corpse_Husky.description>
+  
+  
+  <Corpse_Ibex.label>ﻲﻠﺒﺠﻟﺍ ﺐﻧﺭﻷﺍ ﻭﺫ ﻢﺴﺟ</Corpse_Ibex.label>
+  
+  <Corpse_Ibex.description>.ﺖﻴﻣ ﻞﺒﺟ ﺰﻋﺎﻣ</Corpse_Ibex.description>
+  
+  
+  <Corpse_Iguana.label>ﺎﻧﺍﻮﺠﻳﻹﺍ ﻢﺴﺟ</Corpse_Iguana.label>
+  
+  <Corpse_Iguana.description>.ﺔﺘﻴﻤﻟﺍ ﺎﻧﺍﻮﺠﻳﻹﺍ</Corpse_Iguana.description>
+  
+  
+  <Corpse_LabradorRetriever.label>ﺭﻭﺩﺍﺮﺑﻻ ﺔﺜﺟ</Corpse_LabradorRetriever.label>
+  
+  <Corpse_LabradorRetriever.description>.ﺖﻴﻣ ﺮﻔﻳﺮﺘﻳﺭ ﺭﻭﺩﺍﺮﺑﻻ</Corpse_LabradorRetriever.description>
+  
+  
+  <Corpse_Lynx.label>ﺭﻮﻨﺴﻟﺍ ﻥﺎﻌﻄﻗ</Corpse_Lynx.label>
+  
+  <Corpse_Lynx.description>.ﺔﻠﺗﺭ ﺔﺒﻴﻫﺭ</Corpse_Lynx.description>
+  
+  
+  <Corpse_Mech_Lancer.label>.ﻥﻻﻭﻷﺍ ﻥﺎﺳﺮﻔﻠﻟ ﺔﺜﺟ</Corpse_Mech_Lancer.label>
+  
+  <Corpse_Mech_Lancer.description>.ﺓﺎﻓﻭ ﺏﺭﺎﺤﻤﻟﺍ ﻱﺪﻨﺟ ﺪﻴﺴﺠﺗ</Corpse_Mech_Lancer.description>
+  
+  
+  <Corpse_Mech_Scyther.label>ﻑﺭﺎﺟ ﺔﺜﺟ</Corpse_Mech_Scyther.label>
+  
+  <Corpse_Mech_Scyther.description>.ﺪﺻﺎﺤﻟﺍ ﺔﺜﺟ</Corpse_Mech_Scyther.description>
+  
+  
+  <Corpse_Megascarab.label>ﻲﺑﺍﺭﺎﻜﺳﺎﻐﻴﻣ ﻢﺴﺟ</Corpse_Megascarab.label>
+  
+  <Corpse_Megascarab.description>.ﺖﻴﻤﻟﺍ ﻲﺑﺍﺭﺎﻜﺳﺎﺠﻴﻤﻟﺍ</Corpse_Megascarab.description>
+  
+  
+  <Corpse_Megasloth.label>ﻝﻮﺴﻛ ﺏﺎﺠﻨﺴﻟ ﻢﺨﺿ ﻝﺎﺜﻤﺗ</Corpse_Megasloth.label>
+  
+  <Corpse_Megasloth.description>.ﺖﻴﻣ ﻢﺨﺿ ﻥﻼﺴﻛ ﻊﺋﺎﺟ</Corpse_Megasloth.description>
+  
+  
+  <Corpse_Megaspider.label>ﻕﻼﻤﻌﻟﺍ ﺕﻮﺒﻜﻨﻌﻟﺍ ﻢﺴﺟ</Corpse_Megaspider.label>
+  
+  <Corpse_Megaspider.description>.ﺖﻴﻤﻟﺍ ﻕﻼﻤﻌﻟﺍ ﺕﻮﺒﻜﻨﻌﻟﺍ</Corpse_Megaspider.description>
+  
+  
+  <Corpse_Monkey.label>ﺩﺮﻘﻟﺍ ﺪﺴﺟ ﻍﺍﺮﻓﺇ ﻢﺗ</Corpse_Monkey.label>
+  
+  <Corpse_Monkey.description>.ﺖﻴﻣ ﺩﺮﻗ</Corpse_Monkey.description>
+  
+  
+  <Corpse_Muffalo.label>ﻮﻟﺎﻓﻮﻤﻟﺍ ﻢﺴﺟ</Corpse_Muffalo.label>
+  
+  <Corpse_Muffalo.description>.ﺖﻴﻤﻟﺍ ﻮﻟﺎﻓﻮﻤﻟﺍ</Corpse_Muffalo.description>
+  
+  
+  <Corpse_Ostrich.label>ﺔﻣﺎﻌﻧ ﻢﺴﺟ</Corpse_Ostrich.label>
+  
+  <Corpse_Ostrich.description>.ﺔﺘﻴﻤﻟﺍ ﺔﻣﺎﻌﻨﻟﺍ</Corpse_Ostrich.description>
+  
+  
+  <Corpse_Panther.label>ﻱﺮﺒﻟﺍ ﺮﻤﻨﻟﺍ ﻂﻴﺸﻤﺗ</Corpse_Panther.label>
+  
+  <Corpse_Panther.description>.ﺖﻴﻤﻟﺍ ﺮﻤﻨﻟﺍ</Corpse_Panther.description>
+  
+  
+  <Corpse_Pig.label>ﺮﻳﺰﻨﺧ ﺔﺜﺟ</Corpse_Pig.label>
+  
+  <Corpse_Pig.description>.ﺖﻴﻣ ﺮﻳﺰﻨﺧ</Corpse_Pig.description>
+  
+  
+  <Corpse_Raccoon.label>ﻥﻮﻛﺍﺮﻟﺍ ﺔﺜﺟ</Corpse_Raccoon.label>
+  
+  <Corpse_Raccoon.description>.ﺖﻴﻤﻟﺍ ﻥﻮﻛﺍﺮﻟﺍ</Corpse_Raccoon.description>
+  
+  
+  <Corpse_Rat.label>ﺭﺄﻔﻟﺍ ﺔﺜﺟ</Corpse_Rat.label>
+  
+  <Corpse_Rat.description>.ﺖﻴﻣ ﺫﺮﺟ</Corpse_Rat.description>
+  
+  
+  <Corpse_Rhinoceros.label>.ﻝﻮﻴﺨﻟﺍ ﻦﺒﻟ ﺏﺮﺸﺗ</Corpse_Rhinoceros.label>
+  
+  <Corpse_Rhinoceros.description>.ﺖﻴﻤﻟﺍ ﻮﻨﻳﺍﺮﻟﺍ</Corpse_Rhinoceros.description>
+  
+  
+  <Corpse_Sheep.label>ﻑﻭﺮﺧ ﺔﺜﺟ</Corpse_Sheep.label>
+  
+  <Corpse_Sheep.description>.ﺖﻴﻤﻟﺍ ﻑﻭﺮﺨﻟﺍ</Corpse_Sheep.description>
+  
+  
+  <Corpse_Snowhare.label>ﺏﺎﺠﻨﺴﻟﺍ ﺮﺟﺎﺗ</Corpse_Snowhare.label>
+  
+  <Corpse_Snowhare.description>.ﺔﺘﻴﻤﻟﺍ ﺔﻋﺎﻘﻔﻟﺍ</Corpse_Snowhare.description>
+  
+  
+  <Corpse_Spelopede.label>ﻒﻬﻜﻟﺍ ﺓﺮﺸﺣ ﺓﺭﻮﻨﺗ</Corpse_Spelopede.label>
+  
+  <Corpse_Spelopede.description>.ﻒﻬﻜﻟﺍ ﻲﻓ ﺔﺘﻴﻤﻟﺍ ﺓﺮﺸﺤﻟﺍ</Corpse_Spelopede.description>
+  
+  
+  <Corpse_Squirrel.label>ﺏﺎﺠﻨﺳ ﺔﺜﺟ ﺪﺟﻮﺗ</Corpse_Squirrel.label>
+  
+  <Corpse_Squirrel.description>.ﺖﻴﻣ ﺏﺎﺠﻨﺳ</Corpse_Squirrel.description>
+  
+  
+  <Corpse_Thrumbo.label>ﻮﺒﻣﻭﺮﺗ ﺔﺜﺟ</Corpse_Thrumbo.label>
+  
+  <Corpse_Thrumbo.description>.ﺖﻴﻣ ﻮﺒﻣﺮﺗ</Corpse_Thrumbo.description>
+  
+  
+  <Corpse_Tortoise.label>ﺓﺎﻔﺤﻠﺴﻟﺍ ﺪﺴﺟ</Corpse_Tortoise.label>
+  
+  <Corpse_Tortoise.description>.ﺔﺘﻴﻣ ﺓﺎﻔﺤﻠﺳ</Corpse_Tortoise.description>
+  
+  
+  <Corpse_Turkey.label>ﻲﻣﻭﺮﻟﺍ ﻚﻳﺪﻟﺍ ﺪﺴﺟ</Corpse_Turkey.label>
+  
+  <Corpse_Turkey.description>.ﺖﻴﻣ ﻲﻣﻭﺭ ﻚﻳﺩ</Corpse_Turkey.description>
+  
+  
+  <Corpse_Warg.label>ﻍﺭﺍﻮﻟﺍ ﺔﺜﺟ</Corpse_Warg.label>
+  
+  <Corpse_Warg.description>.ﺖﻴﻣ ﻍﺭﺍﻭ</Corpse_Warg.description>
+  
+  
+  <Corpse_WildBoar.label>ﻱﺮﺑ ﺮﻳﺰﻨﺧ ﺪﻴﺴﺠﺗ</Corpse_WildBoar.label>
+  
+  <Corpse_WildBoar.description>.ﺖﻴﻣ ﺮﻳﺰﻨﺧ</Corpse_WildBoar.description>
+  
+  
+  <Corpse_Wolf_Arctic.label>ﻲﺒﻄﻗ ﺐﺋﺫ ﺪﺴﺟ</Corpse_Wolf_Arctic.label>
+  
+  <Corpse_Wolf_Arctic.description>.ﺖﻴﻣ ﻲﺒﻄﻗ ﺐﺋﺫ</Corpse_Wolf_Arctic.description>
+  
+  
+  <Corpse_Wolf_Timber.label>ﺐﺋﺬﻟﺍ ﺔﺜﺟ</Corpse_Wolf_Timber.label>
+  
+  <Corpse_Wolf_Timber.description>.ﺖﻴﻣ ﺐﺋﺫ</Corpse_Wolf_Timber.description>
+  
+  
+  <Corpse_Yak.label>ﻝﺍﺰﻐﻟﺍ ﺪﺴﺟ</Corpse_Yak.label>
+  
+  <Corpse_Yak.description>.ﺖﻴﻤﻟﺍ ﻙﺎﻴﻟﺍ</Corpse_Yak.description>
+  
+  
+  <Corpse_YorkshireTerrier.label>ﻞﻳﺩﺮﻳﻷﺍ ﺐﻠﻛ ﺔﺜﺟ</Corpse_YorkshireTerrier.label>
+  
+  <Corpse_YorkshireTerrier.description>.ﺖﻴﻤﻟﺍ ﺮﻳﺮﻴﺗ ﺮﻳﺎﺸﻛﺭﻮﻴﻟﺍ</Corpse_YorkshireTerrier.description>
+  
+  
+  <Frame_AnimalSleepingSpot.label>(ﻩﺰﻴﻬﺠﺗ ﻢﺘﻳ) ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻡﻮﻧ ﻥﺎﻜﻣ</Frame_AnimalSleepingSpot.label>
+  
+  
+  <Frame_Autodoor.label>(ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ) ﻲﻟﺁ ﺏﺎﺑ ﺐﻴﻛﺮﺗ</Frame_Autodoor.label>
+  
+  
+  <Frame_Bedroll.label>(ﺔﻃﺎﻴﺨﻟﺍ ﺪﻴﻗ) ﻡﻮﻨﻟﺍ ﺓﺪﺨﻣ</Frame_Bedroll.label>
+  
+  
+  <Frame_BedrollDouble.label>(ﺔﻃﺎﻴﺨﻟﺍ ﺪﻴﻗ) ﺔﺟﻭﺩﺰﻣ ﻡﻮﻧ ﺔﺒﻴﻘﺣ</Frame_BedrollDouble.label>
+  
+  
+  <Frame_ButcherSpot.label>(ﺰﻴﻬﺠﺘﻟﺍ ﺪﻴﻗ) ﺚﺜﺠﻟﺍ ﻊﻴﻄﻘﺗ ﻥﺎﻜﻣ</Frame_ButcherSpot.label>
+  
+  
+  <Frame_Campfire.label>(ﻞﻌﺘﺸﻳ) ﺪﻗﻮﻣ</Frame_Campfire.label>
+  
+  
+  <Frame_Carpet.label>(ﺹﺮﺗ) ﺓﺩﺎﺠﺴﻟﺍ</Frame_Carpet.label>
+  <Frame_Carpet.description>.ﺐﻴﻄﺸﺘﻟﺍ ﻰﻠﻋ ﻞﻤﻌﻟﺍ ﺭﺎﺟ</Frame_Carpet.description>
+  
+  
+  <Frame_Concrete.label>(ﻊﺿﻮﺗ) ﺔﻧﺎﺳﺮﺨﻟﺍ</Frame_Concrete.label>
+  
+  <Frame_Concrete.description>.ﻥﻵﺍ ﺐﻴﻄﺸﺘﻟﺍ ﻝﺎﻤﻋﺃ ﻱﺮﺠﺗ</Frame_Concrete.description>
+  
+  
+  <Frame_CraftingSpot.label>(ﻩﺰﻴﻬﺠﺗ ﻢﺘﻳ) ﻞﻤﻌﻟﺍ ﻥﺎﻜﻣ</Frame_CraftingSpot.label>
+  
+  
+  <Frame_Door.label>ﺏﺎﺒﻟﺍ (ﺀﺎﻨﺑ) ﻢﺘﺗ</Frame_Door.label>
+  
+  
+  <Frame_DoubleSleepingSpot.label>(ﺰﻴﻬﺠﺘﻠﻟ ﻞﺑﺎﻗ) ﺝﻭﺩﺰﻣ ﺮﻳﺮﺳ</Frame_DoubleSleepingSpot.label>
+  
+  
+  <Frame_ElectricCrematorium.label>(ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ) ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺔﻗﺮﺤﻤﻟﺍ</Frame_ElectricCrematorium.label>
+  
+  
+  <Frame_FlagstoneGranite.label>(ﺐﻛﺮﻳ) ﻦﺸﺨﻟﺍ ﺖﻴﻧﺍﺮﺠﻟﺍ ﻁﻼﺑ</Frame_FlagstoneGranite.label>
+  
+  <Frame_FlagstoneGranite.description>ﺐﻴﻄﺸﺘﻟﺍ ﻝﺎﻤﻋﺃ ﻱﺮﺠﺗ</Frame_FlagstoneGranite.description>
+  
+  
+  <Frame_FlagstoneLimestone.label>(ﺎﻬﻌﺿﻭ ﻢﺘﻳ) ﺔﻨﺸﺧ ﺔﻴﺴﻠﻛ ﺔﻃﻼﺑ</Frame_FlagstoneLimestone.label>
+  
+  <Frame_FlagstoneLimestone.description>.ﻥﻵﺍ ﺐﻴﻄﺸﺘﻟﺍ ﻝﺎﻤﻋﺃ ﻱﺮﺠﺗ</Frame_FlagstoneLimestone.description>
+  
+  
+  <Frame_FlagstoneMarble.label>(ﻪﻌﺿﻭ ﻢﺘﻳ) ﻦﺸﺧ ﻡﺎﺧﺭ ﻁﻼﺑ</Frame_FlagstoneMarble.label>
+  
+  <Frame_FlagstoneMarble.description>ﺐﻴﻄﺸﺘﻟﺍ ﻝﺎﻤﻋﺄﺑ ﻡﺎﻴﻘﻟﺍ ﻢﺘﻳ</Frame_FlagstoneMarble.description>
+  
+  
+  <Frame_FlagstoneSandstone.label>(ﺐﻛﺮﺗ) ﺔﻨﺸﺧ ﺔﻴﻠﻣﺭ ﺔﻃﻼﺑ</Frame_FlagstoneSandstone.label>
+  
+  <Frame_FlagstoneSandstone.description>.ﺕﺎﺒﻴﻄﺸﺘﻟﺍ ﻰﻠﻋ ﻞﻤﻌﻟﺍ ﻱﺭﺎﺟ</Frame_FlagstoneSandstone.description>
+  
+  
+  <Frame_FlagstoneSlate.label>(ﻊﺿﻮﺗ) ﺔﻳﺮﺨﺼﻟﺍ ﺢﺋﺍﺮﺸﻟﺍ ﻦﻣ ﺔﻨﺸﺧ ﺔﻃﻼﺑ</Frame_FlagstoneSlate.label>
+  
+  <Frame_FlagstoneSlate.description>.ﺔﻴﻠﺧﺍﺪﻟﺍ ﺔﻠﻴﻜﺸﺘﻟﺍ ﻝﺎﻤﻋﺃ ﻦﻣ ﺀﺎﻬﺘﻧﻻﺍ ﻱﺭﺎﺟ</Frame_FlagstoneSlate.description>
+  
+  
+  <Frame_GeothermalGenerator.label>(ﻰﻨﺒﻳ) ﺔﻴﻟﺎﻣﺮﻴﺛﻮﻴﺠﻟﺍ ﺔﻗﺎﻄﻟﺍ ﺪﻟﻮﻣ</Frame_GeothermalGenerator.label>
+  
+  
+  <Frame_GoldTile.label>(ﺎﻬﺒﻴﻛﺮﺗ ﻢﺘﻳ) ﺔﻴﺒﻫﺫ ﺓﺪﻴﻣﺮﻗ</Frame_GoldTile.label>
+  
+  <Frame_GoldTile.description>ﺐﻴﻄﺸﺘﻟﺍ ﻝﺎﻤﻋﺃ ﺀﺍﺮﺟﺇ ﻢﺘﻳ</Frame_GoldTile.description>
+  
+  
+  <Frame_Grave.label>(ﺮﻔﺣ) ﺮﺒﻗ</Frame_Grave.label>
+  
+  
+  <Frame_GroundPenetratingScanner.label>(ﺀﺎﻨﺒﻟﺍ ﺪﻴﻗ) ﻖﻴﻤﻌﻟﺍ ﺢﺳﺎﻤﻟﺍ</Frame_GroundPenetratingScanner.label>
+  
+  
+  <Frame_HoopstoneRing.label>(ﺰﻬﺠﻳ) ﺓﺭﺎﺠﺤﻟﺍ ﻲﻣﺮﻟ ﻢﺗﺎﺧ</Frame_HoopstoneRing.label>
+  
+  
+  <Frame_HorseshoesPin.label>(ﺖﺒﺜﺗ) ﺓﺪﻳﺪﺤﻟﺍ ﻲﻣﺭ ﺪﻨﺴﻣ</Frame_HorseshoesPin.label>
+  
+  
+  <Frame_HydroponicsBasin.label>(ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ) ﺔﻴﻜﻴﻧﻮﺑﻭﺭﺪﻴﻫ ﺔﻋﺭﺰﻣ</Frame_HydroponicsBasin.label>
+  
+  
+  <Frame_LongRangeMineralScanner.label>(ﺀﺎﻨﺒﻟﺍ ﻱﺭﺎﺟ) ﺪﻌﺑ ﻦﻋ ﻥﺩﺎﻌﻣ ﺢﺳﺎﻣ</Frame_LongRangeMineralScanner.label>
+  
+  
+  <Frame_MarriageSpot.label>(ﺰﻬﺠﺗ) ﻑﺎﻓﺰﻟﺍ ﺕﻼﻔﺣ ﻊﻗﻮﻣ</Frame_MarriageSpot.label>
+  
+  
+  <Frame_MetalTile.label>(ﻊﺿﻮﻳ) ﻲﻧﺪﻌﻤﻟﺍ ﻁﻼﺒﻟﺍ</Frame_MetalTile.label>
+  
+  <Frame_MetalTile.description>.ﺐﻴﻄﺸﺘﻟﺍ ﻝﺎﻤﻋﺃ ﺬﻴﻔﻨﺗ ﻱﺮﺠﻳ</Frame_MetalTile.description>
+  
+  
+  <Frame_PartySpot.label>(ﺰﻬﺠﺗ) ﺕﻼﻔﺤﻟﺍ ﻥﺎﻜﻣ</Frame_PartySpot.label>
+  
+  
+  <Frame_PavedTile.label>(ﻪﺒﻴﻛﺮﺗ ﻢﺘﻳ) ﻲﺘﻨﻤﺳﻻﺍ ﻁﻼﺒﻟﺍ</Frame_PavedTile.label>
+  
+  <Frame_PavedTile.description>.ﺐﻴﻄﺸﺘﻟﺍ ﻝﺎﻤﻋﺃ ﻱﺮﺠﺗ</Frame_PavedTile.description>
+  
+  
+  <Frame_PlantPot.label>(ﻊﻨﺻ) ﻱﺮﻫﺯ ﺀﺎﻋﻭ</Frame_PlantPot.label>
+  
+  
+  <Frame_PodLauncher.label>(ﻰﻨﺒﺗ) ﺕﻻﻮﺴﺒﻜﻠﻟ ﻕﻼﻃﺇ ﺔﻄﺤﻣ</Frame_PodLauncher.label>
+  
+  
+  <Frame_PowerConduit.label>(ﻪﻌﻳﺯﻮﺗ ﻢﺘﻳ) ﻞﺑﺎﻛ</Frame_PowerConduit.label>
+  
+  
+  <Frame_Sandbags.label>(ﺎﻬﻐﻳﺮﻔﺗ ﻱﺭﺎﺟ) ﻞﻣﺮﻟﺍ ﺱﺎﻴﻛﺃ</Frame_Sandbags.label>
+  
+  
+  <Frame_Ship_Beam.label>(ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ) ﺔﻨﻴﻔﺴﻟﺍ ﺓﺪﻋﺎﻘﻟﺍ</Frame_Ship_Beam.label>
+  
+  
+  <Frame_Ship_Reactor.label>(ﺀﺎﻨﺒﻟﺍ ﺪﻴﻗ) ﺔﻨﻴﻔﺴﻟﺍ ﻞﻋﺎﻔﻣ</Frame_Ship_Reactor.label>
+  
+  
+  <Frame_SilverTile.label>(ﻪﻌﺿﻭ ﻢﺘﻳ) ﻲﻀﻔﻟﺍ ﻁﻼﺒﻟﺍ</Frame_SilverTile.label>
+  
+  <Frame_SilverTile.description>ﺐﻴﻄﺸﺘﻟﺍ ﻝﺎﻤﻋﺃ ﺀﺍﺮﺟﺇ ﻢﺘﻳ</Frame_SilverTile.description>
+  
+  
+  <Frame_SleepingSpot.label>(ﻩﺰﻴﻬﺠﺗ ﻢﺘﻳ) ﻡﻮﻨﻠﻟ ﻥﺎﻜﻣ</Frame_SleepingSpot.label>
+  
+  
+  <Frame_SolarGenerator.label>(ﺔﻗﺎﻄﻟﺍ ﺪﻴﻟﻮﺘﻟ ﻡﺪﺨﺘﺴﺗ) ﺔﻴﺴﻤﺸﻟﺍ ﺔﻳﺭﺎﻄﺒﻟﺍ</Frame_SolarGenerator.label>
+  
+  
+  <Frame_SterileTile.label>(ﻊﺿﻮﻳ) ﻢﻘﻌﻤﻟﺍ ﻁﻼﺒﻟﺍ</Frame_SterileTile.label>
+  
+  <Frame_SterileTile.description>.ﺎﻴﻟﺎﺣ ﺐﻴﻄﺸﺘﻟﺍ ﻝﺎﻤﻋﺃ ﺀﺍﺮﺟﺇ ﻢﺘﻳ</Frame_SterileTile.description>
+  
+  
+  <Frame_TileGranite.label>(ﻪﻌﺿﻭ ﻢﺘﻳ) ﺖﻴﻧﺍﺮﺠﻟﺍ ﻁﻼﺒﻟﺍ</Frame_TileGranite.label>
+  
+  <Frame_TileGranite.description>.ﺐﻴﻄﺸﺘﻟﺍ ﻝﺎﻤﻋﺃ ﺀﺍﺮﺟﺇ ﻢﺘﻳ</Frame_TileGranite.description>
+  
+  
+  <Frame_TileLimestone.label>(ﻊﺿﻮﺗ) ﺲﻠﻜﻟﺍ ﺮﺠﺣ ﺔﻃﻼﺑ</Frame_TileLimestone.label>
+  
+  <Frame_TileLimestone.description>.ﺐﻴﻄﺸﺘﻟﺍ ﻝﺎﻤﻋﺃ ﻱﺭﺎﺟ</Frame_TileLimestone.description>
+  
+  
+  <Frame_TileMarble.label>(ﻊﺿﻮﺗ) ﻡﺎﺧﺭ ﻁﻼﺑ</Frame_TileMarble.label>
+  
+  <Frame_TileMarble.description>.ﺐﻴﻄﺸﺘﻟﺍ ﻝﺎﻤﻋﺃ ﻱﺮﺠﺗ</Frame_TileMarble.description>
+  
+  
+  <Frame_TileSandstone.label>(ﺔﻌﺻﺮﻣ) ﺔﻴﻠﻣﺭ ﺔﻃﻼﺑ</Frame_TileSandstone.label>
+  
+  <Frame_TileSandstone.description>ﺐﻴﻄﺸﺘﻟﺍ ﻝﺎﻤﻋﺃ ﻱﺮﺠﺗ</Frame_TileSandstone.description>
+  
+  
+  <Frame_TileSlate.label>(ﺹﺮﻳ) ﻲﻠﻣﺮﻟﺍ ﺮﺨﺼﻟﺍ ﻦﻣ ﺔﻃﻼﺑ</Frame_TileSlate.label>
+  
+  <Frame_TileSlate.description>.ﺭﻮﻜﻳﺪﻟﺍ ﻝﺎﻤﻋﺃ ﺬﻴﻔﻨﺗ ﺭﺎﺟ</Frame_TileSlate.description>
+  
+  
+  <Frame_TorchLamp.label>(ﺖﻴﺒﺜﺗ) ﺔﻠﻌﺸﻟﺍ ﺡﺎﺒﺼﻣ</Frame_TorchLamp.label>
+  
+  
+  <Frame_TrapIED_AntigrainWarhead.label>(ﺔﺘﺒﺜﻣ) ﺔﻴﺒﻴﺒﺤﻟﺍ ﺔﻠﺒﻨﻘﻟﺍ ﺕﺍﺮﺠﻔﺘﻣ</Frame_TrapIED_AntigrainWarhead.label>
+  
+  
+  <Frame_TrapIED_EMP.label>(ﺖﺒﺜﺗ) ﺎﻨﻴﻣ-ﻲﻣﺇ</Frame_TrapIED_EMP.label>
+  
+  
+  <Frame_TrapIED_Firefoam.label>(ﺎﻬﺘﻴﺒﺜﺗ ﻢﺘﻳ) ﺔﻴﻋﺎﻘﻔﻟﺍ ﻡﺎﻐﻟﻷﺍ</Frame_TrapIED_Firefoam.label>
+  
+  
+  <Frame_TrapIED_HighExplosive.label>(ﺎﻬﺒﻴﻛﺮﺗ ﻢﺘﻳ) ﺓﺩﺎﻀﻣ ﻒﺋﺍﺬﻗ ﺓﺮﺠﻔﺘﻣ</Frame_TrapIED_HighExplosive.label>
+  
+  
+  <Frame_TrapIED_Incendiary.label>(ﺖﻴﺒﺜﺘﻟﺍ ﺪﻴﻗ) ﻝﺎﻌﺘﺷﻼﻟ ﺔﻠﺑﺎﻗ ﺀﺎﻨﻴﻣ</Frame_TrapIED_Incendiary.label>
+  
+  
+  <Frame_Vent.label>(ﺎﻫﺅﺎﻨﺑ ﻢﺘﺗ) ﺔﻳﻮﻬﺗ</Frame_Vent.label>
+  
+  
+  <Frame_Wall.label>(ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ) ﺭﺍﺪﺠﻟﺍ</Frame_Wall.label>
+  
+  
+  <Frame_WatermillGenerator.label>(ﺀﺎﻨﺒﻠﻟ ﻞﺑﺎﻗ) ﻲﺋﺎﻣ ﺪﻟﻮﻣ</Frame_WatermillGenerator.label>
+  
+  
+  <Frame_WaterproofConduit.label>(ﻩﺮﻳﺮﻤﺗ ﻢﺘﻳ) ﻱﺮﺤﺒﻟﺍ ﻞﺑﺎﻜﻟﺍ</Frame_WaterproofConduit.label>
+  
+  
+  <Frame_WindTurbine.label>(ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ) ﺡﺎﻳﺮﻟﺍ ﺪﻟﻮﻣ</Frame_WindTurbine.label>
+  
+  
+  <Frame_WoodPlankFloor.label>(ﺐﻛﺮﺗ) ﺔﻴﺒﺸﺨﻟﺍ ﺔﻴﺿﺭﻷﺍ</Frame_WoodPlankFloor.label>
+  
+  <Frame_WoodPlankFloor.description>.ﺐﻴﻄﺸﺘﻟﺍ ﻝﺎﻤﻋﺃ ﻱﺮﺠﺗ</Frame_WoodPlankFloor.description>
+  
+  
+  <Meat_Alpaca.label>ﺔﻜﺒﻟﻷﺍ ﻢﺤﻟ</Meat_Alpaca.label>
+  
+  
+  <Meat_Alphabeaver.label>ﻦﻴﺗﻭﺮﺑ ﺎﻔﻟﺍ</Meat_Alphabeaver.label>
+  
+  
+  <Meat_Boomrat.label>ﺎﻨﻴﺘﻴﺴﻳﺮﻜﻣﻮﺑ</Meat_Boomrat.label>
+  
+  
+  <Meat_Chicken.label>ﺝﺎﺟﺪﻟﺍ</Meat_Chicken.label>
+  
+  
+  <Meat_Cougar.label>ﺮﻤﻨﻟﺍ ﻢﺤﻟ</Meat_Cougar.label>
+  
+  
+  <Meat_Human.label>ﻥﺎﺴﻧﻹﺍ ﻢﺤﻟ</Meat_Human.label>
+  
+  
+  <Meat_Rat.label>ﺎﻨﻴﺗﺎﻴﺴﻳﺮﻛ</Meat_Rat.label>
+  
+  
+  <Meat_Squirrel.label>ﺏﺎﺠﻨﺴﻟﺍ ﻢﺤﻟ</Meat_Squirrel.label>
+  
+  
+  <Meat_YorkshireTerrier.label>ﺮﻴﻳﺮﻴﺗ ﻢﺤﻟ</Meat_YorkshireTerrier.label>
+  
+</LanguageData>
