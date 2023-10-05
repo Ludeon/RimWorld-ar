@@ -1,0 +1,962 @@
+<LanguageData>
+
+  
+  <MessageSiegersAssaulting>ﺓﺮﺻﺎﺤﻣ ﻲﻓ ﺍﻭﺃﺪﺑ ،{1} ﻞﻴﺼﻔﻟﺍ ﻦﻣ {0}
+.ﺎﻬﺘﻤﺟﺎﻬﻣﻭ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ</MessageSiegersAssaulting>
+
+  
+  <MessageRaidersBeginningAssault>.ﻡﻮﺠﻬﻟﺎﺑ ﻥﻮﻣﻮﻘﻳ {1} ﺔﻗﺮﻓ ﻦﻣ {0}</MessageRaidersBeginningAssault>
+  
+  <MessageRaidersDetectedEarlyAssault>ﺍﻭﺭﺮﻗﻭ ﻙﺩﻮﺟﻭ ﺍﻮﻔﺸﺘﻛﺍ {1} ﺔﻗﺮﻓ ﻦﻣ {0}
+.ﺍﺮﻜﺒﻣ ﻡﻮﺠﻬﻟﺍ ﺀﺪﺑ</MessageRaidersDetectedEarlyAssault>
+  
+  <MessageRaidersKidnapping>ﻦﻣ ﺔﻗﺮﺳ {1} ﺔﻋﺎﻤﺟ ﻦﻣ {0} ﺭﺪﻗ
+.ﺏﻭﺮﻬﻟﺍﻭ ﻥﻮﻌﻴﻄﺘﺴﻳ</MessageRaidersKidnapping>
+  
+  <MessageRaidersStealing>ﺎﻣ ﺔﻗﺮﺳ ﺍﻭﺭﺮﻗ {1} ﺔﻗﺮﻔﻟﺍ ﻦﻣ {0}
+.ﺏﻭﺮﻬﻟﺍﻭ ﻢﻬﻨﻜﻤﻳ</MessageRaidersStealing>
+
+  
+  <MessageCaravanDetectedRaidArrived>ﻞﺼﺘﺳ !ﻚﺘﻠﻓﺎﻗ {1} ﺔﻋﺎﻤﺟ ﻦﻣ {0} ﻢﺟﺎﻬﻳ
+.{2} ﻝﻼﺧ ﻢﻬﻟ ﺓﺪﻳﺪﺟ ﺕﺍﺰﻳﺰﻌﺗ</MessageCaravanDetectedRaidArrived>
+
+  
+  <MessageRaidersLeaving>.{1} ﻞﻴﺼﻔﻟﺍ ﻦﻣ {0} ﺐﺤﺴﻨﻳ</MessageRaidersLeaving>
+  
+  <MessageRaidersGivenUpLeaving>.ﻞﺣﺮﻴﺳﻭ ﻢﻠﺴﺘﺳﺍ {1} ﺔﻋﺎﻤﺟ ﻦﻣ {0} ﻢﺳﺍ</MessageRaidersGivenUpLeaving>
+  
+  <MessageRaidersSatisfiedLeaving>.ﻥﻭﺭﺩﺎﻐﻳﻭ ﺔﻤﻳﺰﻬﻟﺎﺑ ﺀﺍﺪﻌﺳ {1} ﺔﻋﺎﻤﺟ ﻦﻣ {0}</MessageRaidersSatisfiedLeaving>
+
+  
+  <MessageFightersFleeing>.{1} ﻞﻴﺼﻔﻟﺍ ﻦﻣ ﺓﺎﺠﻨﻠﻟ ﻥﻮﺑﺮﻬﻳ {0}</MessageFightersFleeing>
+  
+  <MessageFriendlyFightersLeaving>.ﻥﻮﻠﺣﺮﻳ {1} ﺔﻗﺮﻔﻟﺍ ﻦﻣ {0} ﻥﻭﺩﻭﺩﻮﻟﺍ ﺀﺎﻀﻋﻷﺍ</MessageFriendlyFightersLeaving>
+
+  
+  <MessageVisitorsTakingWounded>ﻒﻴﻀﻟﺍ {1} ﺔﻗﺮﻓ ﺀﺎﻀﻋﺃ ﺪﺣﺃ ﺬﺧﺄﻳ {0}
+.ﻢﻬﻌﻣ ﺏﺎﺼﻤﻟﺍ</MessageVisitorsTakingWounded>
+  
+  <MessageVisitorsTrappedLeaving>ﻲﻓ ﺍﻮﻌﻗﻭ ﺪﻗ {1} ﺔﺒﻴﺘﻜﻟﺍ ﻦﻣ {0}
+.ﺭﺮﺤﺘﻟﺍﻭ ﺏﻭﺮﻬﻟﺍ ﻥﻮﻟﻭﺎﺤﻳﻭ ﺦﻓ</MessageVisitorsTrappedLeaving>
+  
+  <MessageVisitorsDangerousTemperature>ﻑﻭﺮﻇ ﺐﺒﺴﺑ ﻥﻭﺭﺩﺎﻐﻳ {1} ﺔﻋﺎﻤﺟ ﻦﻣ {0}
+.ﺓﺮﻄﺧ ﺔﻳﺭﺍﺮﺣ</MessageVisitorsDangerousTemperature>
+
+  
+  <MessageWornApparelDeterioratedAway>‎‎‎‎‎‎‎‎‎1} ﺔﺨﺴﻨﻟﺍ ، ﻞﻣﺎﻛ ﻞﻜﺸﺑ ﺎﻫﺅﺍﺪﺗﺭﺍ ﻢﺗ_nameFull}
+ﻢﺗ ، ﺎﻫﺬﺧﺃ ﻢﺗ {0} ـﺑ ﺔﺻﺎﺨﻟﺍ
+ﺩﺎﻣﺮﻟﺍ ﻰﻟﺇ ﺖﺘﺘﻔﺗﻭ ﻲﺋﺎﻬﻧ ﻞﻜﺸﺑ ﺎﻫﺯﻭﺎﺠﺗ.</MessageWornApparelDeterioratedAway>
+  
+  <MessageDeterioratedAway>.ﻉﺩﻮﺘﺴﻤﻟﺍ ﻲﻓ ﻒﻠﺗ ﻪﺑﺎﺻﺃ {0}</MessageDeterioratedAway>
+
+  
+  <MessageSeasonBegun>gender ? &lt; &gt; : &lt; &gt; :_0} ﺕﺃﺪﺑ
+.{&lt; &gt; } {0</MessageSeasonBegun>
+
+  
+  <MessageShipHasLeftCommsRange>.ﻝﺎﺼﺗﻻﺍ ﺔﻘﻄﻨﻣ ﻦﻣ ﺔﻨﻴﻔﺴﻟﺍ {0} ﺖﺒﺤﺴﻧﺇ</MessageShipHasLeftCommsRange>
+
+  
+  <MessageNeedBeaconToTradeWithShip>ﻱﺭﺎﺠﺗ ﺝﺮﺑ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ،ﺔﻨﻴﻔﺴﻟﺍ ﻊﻣ ﺓﺭﺎﺠﺘﻠﻟ
+.ﻞﻤﻌﻳ</MessageNeedBeaconToTradeWithShip>
+  
+  <MessageNeedRoyalTitleToCallWithShip>lookup:} ﺐﻘﻟ ﻪﻳﺪﻟ ﻲﻋﺪﺘﺴﻤﻟﺍ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ
+.ﻰﻠﻋﺃ ﻭﺃ {1 ;ﺔﻟﺎﺤﻟﺍ ;{{0_label</MessageNeedRoyalTitleToCallWithShip>
+
+  
+  <MessageConditionCauserDespawned>.{0} ﺮﻴﻣﺪﺗ ﻢﺗ</MessageConditionCauserDespawned>
+  
+  
+  <MessageBillComplete>.{0} : ﺔﻤﻬﻤﻟﺍ ﻝﺎﻤﻛﺇ ﻢﺗ</MessageBillComplete>
+
+  
+  <MessageFullyHealed>.ﻡﺎﺘﻟﺍ {label_1} ـﻟ ﺔﺤﺼﻟﺍ ﻯﻮﺘﺴﻣ</MessageFullyHealed>
+
+  
+  <MessagePrisonerIsEscaping>{1_gender ? 1} {ﺓﺮﻴﺳﻷﺍ : ﺮﻴﺳﻷﺍ_labelShort} ﻝﻭﺎﺤﻳ
+ﺏﻭﺮﻬﻟﺍ!</MessagePrisonerIsEscaping>
+
+  
+  <MessageOutOfNearbyShellsFor>ـﻟ ﺕﺎﻘﻠﻃ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ {PAWN_labelShort} ﻊﻴﻄﺘﺴﻳ ﻻ
+.{lookup: {GUN_label}; Case; 1}</MessageOutOfNearbyShellsFor>
+  
+  <MessageOutOfNearbyFuelFor>lookup:} ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ {PAWN_labelShort} ـﻟ ﻦﻜﻤﻳ ﻻ
+;ﺔﻟﺎﺣ ;{lookup: {GUN_label} ـﻟ {3 ;ﺔﻟﺎﺣ ;{{FUEL
+.{1</MessageOutOfNearbyFuelFor>
+
+  
+  <MessageAnimalsGoPsychoHunted>ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﻥﺍﺮﻴﻨﺑ {ANIMAL_kindBasePlural} ﺔﺑﺎﺻﺇ ﺪﻨﻋ :ﻪﻴﺒﻨﺗ
+ﺮﺛﺄﺘﻳ .{1} ﺔﻴﺳﺎﺳﺃ ﺔﺻﺮﻔﺑ ﻢﺟﺎﻬﺗ ﺎﻬﻧﺈﻓ ،
+.ﺩﺎﻴﺼﻟﺍ ﺔﻛﺮﺣ ﺔﻔﺧﻭ ﻑﺪﻬﻟﺍ ﻰﻟﺇ ﺔﻓﺎﺴﻤﻟﺎﺑ ﻚﻟﺫ</MessageAnimalsGoPsychoHunted>
+  
+  <MessageAnimalManhuntsOnTameFailed>,{domesticating {ANIMAL_kindBasePlural ﺊﺘﺳﺍ ﺔﻟﻭﺎﺤﻣ ﻞﺸﻓ ﺪﻨﻋ :ﺮﻳﺬﺤﺗ
+.{1} ﺔﺒﺴﻨﺑ ﻡﻮﺠﻬﻠﻟ ﺔﻴﻟﺎﻤﺘﺣﺍ ﻙﺎﻨﻫ</MessageAnimalManhuntsOnTameFailed>
+  
+  <MessageInsectTameDesignated>ﻢﻬﻨﻜﻤﻳ "ﺕﺍﺮﺸﺤﻟﺍ ﺔﺒﺤﻣ" ﺕﺎﻤﺳ ﻭﻭﺫ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻂﻘﻓ
+({INSECT_indefinite}) ﺾﻳﻭﺮﺗ</MessageInsectTameDesignated>
+
+  
+  <MessageInsectsHostileOnTaming>ﻚﻨﻃﻮﺘﺴﻣ ﻢﺟﺎﻬﻴﺳﻭ ﺩﺎﻌﻣ ﻦﺋﺎﻛ - {PAWN_labelShort} :ﻪﻴﺒﻨﺗ
+.ﻪﻀﻳﻭﺮﺗ ﻪﺘﻟﻭﺎﺤﻣ ﺀﺎﻨﺛﺃ</MessageInsectsHostileOnTaming>
+  
+  
+  <LetterLabelMessageRecruitSuccess>ﺪﻳﺪﺟ ﻦﻃﻮﺘﺴﻣ</LetterLabelMessageRecruitSuccess>
+  
+  <MessageRecruitSuccess>.{RECRUITEE_nameFull} ﺏﺎﻄﻘﺘﺳﺍ ﻦﻣ ﺡﺎﺠﻨﺑ {RECRUITER_nameFull} ﻦﻜﻤﺗ</MessageRecruitSuccess>
+  
+  <MessageTameSuccess>ﺡﺎﺠﻨﺑ {lookup: {1}; Case; 3} ﺾﻳﻭﺮﺗ ﺖﻤﺗ
+.{RECRUITER_labelShort} ﻞﺒﻗ ﻦﻣ</MessageTameSuccess>
+  
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort} ﻞﺒﻗ ﻦﻣ ﺡﺎﺠﻨﺑ {1} ﺾﻳﻭﺮﺗ ﺖﻤﺗ
+.{RECRUITEE_nameFull} ﻪﻤﺳﺍ ﻪﻴﻠﻋ ﻖﻠﻃﺃﻭ</MessageTameAndNameSuccess>
+  
+  <MessageTameNoSuitablePens>ﺏﺮﻬﺘﺳ .{ANIMAL_labelShort} ـﻟ ﺐﺳﺎﻨﻣ ﺮﻘﺘﺴﻣ ﺪﺟﻮﻳ ﻻ
+.ﺎﻣ ﺖﻗﻭ ﻲﻓ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻩﺬﻫ</MessageTameNoSuitablePens>
+  
+  <MessageRecruitJoinOfferAccepted>{RECRUITEE} ﻚﺘﻨﻃﻮﺘﺴﻣ ﻰﻟﺇ ﻢﻀﻨﻳ.</MessageRecruitJoinOfferAccepted>
+
+  
+  <MessageColonyCannotAfford>.ﺔﻘﻔﺼﻟﺍ ﺍﺬﻫ ﻞﻤﺤﺗ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ﺮﻴﻏ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ</MessageColonyCannotAfford>
+  
+  <MessageColonyNotEnoughSilver>.ﺔﻀﻔﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﻚﻳﺪﻟ ﺪﺟﻮﻳ ﻻ</MessageColonyNotEnoughSilver>
+
+  
+  <MessageCriticalAlert>{0} :ﺮﻳﺬﺤﺗ</MessageCriticalAlert>
+
+  
+  <MessageMustDesignateHarvestable>.ﺓﺭﺍﺪﻘﻤﻟﺍ ﺔﺠﺿﺎﻨﻟﺍ ﻞﻴﺻﺎﺤﻤﻟﺍ</MessageMustDesignateHarvestable>
+  
+  <MessageMustDesignateHarvestableWood>ﻪﻴﻓ ﺎﻤﺑ ﺖﻤﻧ ﻲﺘﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ
+.ﺔﻳﺎﻔﻜﻟﺍ</MessageMustDesignateHarvestableWood>
+  
+  <MessageMustDesignatePlants>.ﺕﺎﺗﺎﺒﻨﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignatePlants>
+  
+  <MessageMustDesignateHaulable>ﺾﻌﺑ .ﺎﻬﻠﻘﻧ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ
+ﻻﻭ ﺕﺎﻗﻭﻷﺍ ﻞﻛ ﻲﻓ ﺎﻬﻠﻘﻧ ﻦﻜﻤﻳ ﺮﺻﺎﻨﻌﻟﺍ
+.ﻞﻘﻨﻠﻟ ﺎﻫﺪﻳﺪﺤﺗ ﻦﻜﻤﻳ</MessageMustDesignateHaulable>
+  
+  <MessageMustDesignateMineable>.ﺎﻬﻣﺎﺤﺘﻗﺍ ﻦﻜﻤﻳ ﻻ ﻲﺘﻟﺍ ﺔﺒﻌﺼﻟﺍ ﺭﻮﺨﺼﻟﺍ ﺮﺘﺧﺍ</MessageMustDesignateMineable>
+  
+  <MessageMustDesignateHuntable>.ﺓﺩﺎﻄﺼﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺪﻳﺪﺤﺗ ﻰﺟﺮﻳ</MessageMustDesignateHuntable>
+  
+  <MessageMustDesignateTameable>.ﺾﻳﻭﺮﺘﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺪﻳﺪﺤﺗ ﻰﺟﺮﻳ</MessageMustDesignateTameable>
+  
+  <MessageMustDesignateClaimable>ﻲﺘﻟﺍ ﺔﻤﻳﺪﻘﻟﺍ ﺀﺎﻴﺷﻷﺍ ﻭﺃ ﺕﺂﺸﻨﻤﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ
+.ﺎﻬﻴﻠﻋ ﻰﻟﻮﺘﺴﺗ ﻥﺃ ﻦﻜﻤﻳ</MessageMustDesignateClaimable>
+  
+  <MessageMustDesignatePaintableBuildings>ﻥﻮﻜﺗ ﻥﺃ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ
+.{label_0} ﻥﻮﻠﻟﺎﺑ ﻞﻌﻔﻟﺎﺑ ﺔﻴﻠﻄﻤﻟﺍ ﻚﻠﺗ ﺀﺎﻨﺜﺘﺳﺎﺑ ،ﺔﻴﻠﻄﻣ</MessageMustDesignatePaintableBuildings>
+  
+  <MessageMustDesignatePaintableFloors>ﺀﺎﻨﺜﺘﺳﺎﺑ ،ﺎﻬﻨﻳﻮﻠﺗ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺕﺎﻴﺿﺭﻷﺍ ﺪﻳﺪﺤﺗ ﻰﺟﺮﻳ
+.{label_0} ﻥﻮﻠﻟﺎﺑ ﻞﻌﻔﻟﺎﺑ ﺎﻬﻨﻳﻮﻠﺗ ﻢﺗ ﻲﺘﻟﺍ ﻚﻠﺗ</MessageMustDesignatePaintableFloors>
+  
+  <MessageMustDesignatePainted>ﺔﻧﻮﻠﻤﻟﺍ ﺕﺎﻴﺿﺭﻷﺍ ﻭﺃ ﻲﻧﺎﺒﻤﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignatePainted>
+  
+  <MessageMustDesignateDeconstructibleMechCluster>.ﻪﻜﻴﻜﻔﺗ ﻞﺒﻗ ﻦﻴﻴﻟﻵﺍ ﻊﻤﺠﺗ ﺔﻤﻳﺰﻫ ﻚﻴﻠﻋ</MessageMustDesignateDeconstructibleMechCluster>
+  
+  <MessageMustDesignateSmoothableSurface>.ﻮﺘﺴﻣ ﺮﻴﻏ ﺮﺠﺣ ﺢﻄﺳ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateSmoothableSurface>
+  
+  <MessageNothingCanRemoveThickRoofs>ﻪﻧﺄﻛﻭ ﻭﺪﺒﻳ ﻱﺬﻟﺍ ﻒﻘﺴﻟﺍ ﺔﻟﺍﺯﺇ ﻦﻜﻤﻳ ﻻ
+.ﺔﻜﻴﻤﺳ ﻞﺒﺟ ﺓﺮﺨﺻ</MessageNothingCanRemoveThickRoofs>
+  
+  <MessageAlreadyInStorage>ﻢﺘﻴﺳﻭ ﻉﺩﻮﺘﺴﻤﻟﺍ ﻲﻓ ﻞﻌﻔﻟﺎﺑ ﺩﻮﺟﻮﻣ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ
+ﺪﻨﻋ ﻰﻠﻋﻷﺍ ﺔﻳﻮﻟﻭﻷﺍ ﻭﺫ ﻉﺩﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﻪﻠﻘﻧ
+.ﺔﺟﺎﺤﻟﺍ</MessageAlreadyInStorage>
+  
+  <MessageMustDesignateStrippable>ﺹﺎﺨﺷﻷﺍ ﻭﺃ ﺍﻮﺗﺎﻣ ﻦﻳﺬﻟﺍ ﺹﺎﺨﺷﻷﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ
+ﺲﺑﻼﻣ ﻥﻭﺪﺗﺮﻳ ﻢﻫﻭ ﺽﺭﻷﺍ ﻰﻠﻋ ﻥﻭﺪﻗﺮﻳ ﻦﻳﺬﻟﺍ
+.ﺎﻬﻌﻠﺧ ﻦﻜﻤﻳ</MessageMustDesignateStrippable>
+  
+  <MessageMustDesignateSlaughterable>.ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﻲﻤﺘﻨﻳ ﺽﻭﺮﻣ ﻥﺍﻮﻴﺣ ﺪﻳﺪﺤﺗ ﻰﺟﺮﻳ</MessageMustDesignateSlaughterable>
+  
+  <MessageMustDesignateOpenable>.ﺔﻏﺭﺎﻔﻟﺍ ﺔﻳﺰﺋﺎﻨﺠﻟﺍ ﺢﻴﺑﺎﻀﻤﻟﺍ ﻭﺃ ﺭﻮﺒﻘﻟﺍ ﺪﻳﺪﺤﺗ ﺐﺠﻳ</MessageMustDesignateOpenable>
+  
+  <MessageMustDesignateForbiddable>.ﻡﺍﺪﺨﺘﺳﻼﻟ ﺎﻬﺑ ﺡﻮﻤﺴﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺪﻳﺪﺤﺗ ﺀﺎﺟﺮﻟﺍ</MessageMustDesignateForbiddable>
+  
+  <MessageMustDesignateUnforbiddable>.ﻡﺍﺪﺨﺘﺳﻼﻟ ﺎﻬﺑ ﺡﻮﻤﺴﻤﻟﺍ ﺮﻴﻏ ﺮﺻﺎﻨﻌﻟﺍ ﺪﻳﺪﺤﺗ ﺀﺎﺟﺮﻟﺍ</MessageMustDesignateUnforbiddable>
+  
+  <MessageCannotClaimWhenThreatsAreNear>;ﺔﻟﺎﺣ ;{lookup: {CLAIMABLE_labelShort} ﻰﻠﻋ ﺀﻼﻴﺘﺳﻻﺍ ﻦﻜﻤﻳ ﻻ
+ﻦﻳﺭﺩﺎﻗ {THREAT_factionPawnsPlural} ﻙﺎﻨﻫ ﻦﻜﻳ ﻢﻟ ﺎﻣ {3
+.ﺔﻣﻭﺎﻘﻤﻟﺍ ﻰﻠﻋ</MessageCannotClaimWhenThreatsAreNear>
+  
+  <MessageCannotAdoptWhileThreatsAreNear>ﻙﺎﻨﻫ ﻡﺍﺩ ﺎﻣ {CLAIMABLE_labelShort} ﻡﻼﺘﺳﺍ ﻦﻜﻤﻳ ﻻ
+.ﺎﻬﺑﺮﻗ ﺔﺣﺎﺘﻣ {THREAT_factionPawnsPlural}</MessageCannotAdoptWhileThreatsAreNear>
+
+  
+  <MessageRefusedArrest>{1_labelShort} ﻝﺎﻘﺘﻋﻻﺍ ﻡﻭﺎﻘﻳ!</MessageRefusedArrest>
+  
+  
+  <MessageNoMedicalBeds>.ﺔﺣﺎﺘﻣ ﺔﻴﺒﻃ ﺓﺮﺳﺃ ﺪﺟﻮﺗ ﻻ</MessageNoMedicalBeds>
+  
+  <MessageNoAnimalBeds>.ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺔﺣﺎﺘﻣ ﻡﻮﻧ ﻦﻛﺎﻣﺃ ﺪﺟﻮﺗ ﻻ</MessageNoAnimalBeds>
+  
+  <MessageWarningNoMedicineForRestriction>({PAWN_nameDef} ({RESTRICTIONLABEL} ـﻟ ﺔﻴﺒﻄﻟﺍ ﺔﻳﺎﻋﺮﻟﺍ ﺔﺳﺎﻴﺳ :ﻪﻴﺒﻨﺗ
+ﺔﺳﺎﻴﺳ ﺔﻌﺟﺍﺮﻣ ﻰﺟﺮﻳ .ﺔﻴﻠﻤﻌﻟﺍ ﺍﺬﻫ ﺀﺍﺮﺟﺇ ﻖﻴﻌﺗ
+.ﻪﺑ ﺔﺻﺎﺨﻟﺍ ﺔﻴﺒﻄﻟﺍ ﺔﻳﺎﻋﺮﻟﺍ</MessageWarningNoMedicineForRestriction>
+  
+  
+  <PawnDiedBecauseOf>.{1} :ﺐﺒﺴﻟﺍ .{ﻰﺜﻧﺃ:ﺮﻛﺫ? PAWN_labelShort} {PAWN_gender} ﻲﻓﻮﺗ</PawnDiedBecauseOf>
+  
+  <PawnDied>{PAWN_labelShort} ﻲﻓﻮﺗ.</PawnDied>
+
+  
+  <MessageNoLongerDowned>{1_label} ﻯﺮﺧﺃ ﺓﺮﻣ ﻲﺸﻤﻟﺍ ﻊﻴﻄﺘﺴﻳ ﺩﺎﻋ.</MessageNoLongerDowned>
+
+  
+  <MessageInvoluntarySleep>{1_labelShort} ﺪﻳﺪﺸﻟﺍ ﺐﻌﺘﻟﺍ ﻦﻣ ﻲﻋﻮﻟﺍ ﺪﻘﻔﻳ.</MessageInvoluntarySleep>
+
+  
+  <MessageMedicalOperationWillAngerFaction>lookup: {0}; Case;} ﺐﻀﻏ ﺮﻴﺜﺘﺳ ﺔﻴﻠﻤﻌﻟﺍ ﺍﺬﻫ
+.{3</MessageMedicalOperationWillAngerFaction>
+
+  
+  <MessageAnimalIsPregnant>{PAWN_nameDef} ﻞﻣﺎﺣ!</MessageAnimalIsPregnant>
+  
+  <MessageMiscarriedStarvation>ﺔﻟﺎﺣ {lookup: {0}; Case; 1} ـﻟ ﺖﺛﺪﺣ
+.ﻉﻮﺠﻟﺍ ﺐﺒﺴﺑ ﺽﺎﻬﺟﺇ</MessageMiscarriedStarvation>
+  
+  <MessageMiscarriedPoorHealth>.ﺔﺤﺼﻟﺍ ﺀﻮﺳ ﺐﺒﺴﺑ {0} ـﻟ ﺽﺎﻬﺟﺇ ﺙﺪﺣ</MessageMiscarriedPoorHealth>
+  
+  <MessageGaveBirth>.ﺕﺪﻟﻭ {0}</MessageGaveBirth>
+  
+  
+  <MessagePsylinkNoSensitivity>ﻲﺴﻔﻨﻟﺍ ﻝﺎﺼﺗﻻﺍ ﻡﺍﺪﺨﺘﺳﺍ {PAWN_labelShort} ـﻟ ﻦﻜﻤﻳ ﻻ
+.ﺔﻳﺮﻔﺼﻟﺍ ﺔﻴﺴﻔﻨﻟﺍ ﻪﺘﻴﺳﺎﺴﺣ ﻡﺪﻋ ﺐﺒﺴﺑ</MessagePsylinkNoSensitivity>
+  
+  <MessageLostImplantLevelFromHediff>{PAWN_labelShort} {PAWN_gender?{1} ﺔﻋﺍﺭﺰﻟﺍ ﻯﻮﺘﺴﻣ {ﺕﺪﻘﻓ : ﺪﻘﻓ
+2} :ﺐﺒﺴﺑ}.</MessageLostImplantLevelFromHediff>
+  
+  <MessageReceivedBrainDamageFromHediff>{PAWN_labelShort} 1} ﺔﺒﺴﻨﺑ ﻍﺎﻣﺪﻟﺍ ﻲﻓ ﻯﺫﻷ ﺽﺮﻌﺗ_numCase
+? :ﺐﺒﺴﺑ {ﺕﺍﺪﺣﻭ : ﻦﻴﺗﺪﺣﻭ : ﺓﺪﺣﺍﻭ
+2}}.</MessageReceivedBrainDamageFromHediff>
+  
+  <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort} ﻲﻏﺎﻣﺪﻟﺍ ﻞﻤﺤﺘﻠﻟ ﻦﻣﻵﺍ ﺪﺤﻟﺍ ﺯﻭﺎﺠﺗ.</MessageWentOverPsychicEntropyLimit>
+
+  
+  <MessageNoHandlerSkilledEnough>ﻯﻮﺘﺴﻣ ﺐﻠﻄﺘﻳ .{ANIMAL_kindBase} ﺾﻳﻭﺮﺗ ﺪﺣﻷ ﻦﻜﻤﻳ ﻻ
+،{HANDLER_labelShort} ،ﺕﺎﻧﺍﻮﻴﺣ ﺽﻭﺮﻣ ﻞﻀﻓﺃ .{2} ﺭﺍﺪﻘﻤﺑ {1}
+.{4} ﻯﻮﺘﺴﻣ ﻪﻳﺪﻟ</MessageNoHandlerSkilledEnough>
+  
+  
+  <MessageEatenByPredator>lookup:} {ﺖﻠﻛﺃ : ﻞﻛﺃ ? PREDATOR_gender} ﺱﺮﺘﻔﻤﻟﺍ
+{{EATEN_labelShort}; Case; 3</MessageEatenByPredator>
+  
+  <MessageAttackedByPredator>!{lookup: {PREY_labelShort}; Case; 3} ﻰﻠﻋ {PREDATOR} ﻢﺠﻫ</MessageAttackedByPredator>
+
+  
+  <MessageRoamerLeaving>ﺍﺫﺇ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﺭﺩﺎﻐﻳ ﻑﻮﺳ !{PAWN_labelShort} ﻊﻨﻘﻳ
+.ﺓﺮﻴﻈﺤﻟﺍ ﻰﻟﺇ ﻪﺗﺩﺎﻋﺈﺑ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻲﺑﺮﻣ ﺩﻮﻌﻳ ﻢﻟ</MessageRoamerLeaving>
+
+  
+  <MessageHiveReproduced>.ﺕﺍﺮﺸﺤﻟﺍ ﺶﻋ ﺕﺮﺛﺎﻜﺗ</MessageHiveReproduced>
+  
+  
+  <MessageTraderCaravanLeaving>.{0} ﺔﻋﺎﻤﺠﻟ ﺓﺭﺎﺠﺘﻟﺍ ﺔﻠﻓﺎﻗ ﺐﺤﺴﻨﺗ</MessageTraderCaravanLeaving>
+  
+  
+  <MessageCantSelectDeadPawn>{1_labelShort} {1_gender ? ﺔﺘﻴﻣ : ﺖﻴﻣ}.</MessageCantSelectDeadPawn>
+  
+  <MessageCantSelectOffMapPawn>.ﺔﻄﻳﺮﺨﻟﺍ ﺝﺭﺎﺧ</MessageCantSelectOffMapPawn>
+  
+  
+  <MessageSocialFight>{PAWN2_labelShort} ﻭ {PAWN1_labelShort} ﺮﺟﺎﺸﺗ</MessageSocialFight>
+  
+  
+  <MessageNewMarriageCeremony>{PAWN1_labelShort} ﻭ {PAWN2_labelShort} ﻝﺎﻔﺘﺣﻼﻟ ﻥﻮﻄﺷﺎﻨﻟﺍ ﻊﻤﺘﺠﻳ !ﻥﺎﺟﻭﺰﺘﻴﺳ
+ﺎﻤﻬﻓﺎﻓﺰﺑ.</MessageNewMarriageCeremony>
+  
+  <MessageMarriageCeremonyStarts>{PAWN1_labelShort} ﻭ {PAWN2_labelShort} ﺎﻤﻬﻓﺎﻓﺯ ﻞﻔﺣ ﻥﺁﺪﺒﻳ!</MessageMarriageCeremonyStarts>
+  
+  <MessageMarriageCeremonyCalledOff>.{PAWN2_labelShort} ﻭ {PAWN1_labelShort} ﻑﺎﻓﺯ ﻞﻔﺣ ﺀﺎﻐﻟﺇ ﻢﺗ</MessageMarriageCeremonyCalledOff>
+  
+  <MessageNewlyMarried>ﺔﺒﺳﺎﻨﻤﺑ ﺔﻋﺎﺒﻟﺍ ﻞﻔﺘﺤﻳ .{PAWN2_labelShort} ﻭ {PAWN1_labelShort} ﺝﻭﺰﺗ
+.ﺙﺪﺤﻟﺍ ﺍﺬﻫ</MessageNewlyMarried>
+  
+  <MessageMarriageCeremonyAfterPartyFinished>.{PAWN2_labelShort} ﻭ {PAWN1_labelShort} ﻦﻴﺑ ﻑﺎﻓﺰﻟﺍ ﻢﺳﺍﺮﻣ ﺖﻬﺘﻧﺍ</MessageMarriageCeremonyAfterPartyFinished>
+  
+  
+  <MessageNewBondRelation>.ﺎﻤﻬﻨﻴﺑ ﺎﻤﻴﻓ ﺔﻴﻧﺍﻮﻴﺤﻟﺍﻭ ﺔﻴﻧﺎﺴﻧﻹﺍ ﺖﻠﻘﺘﻧﺍ</MessageNewBondRelation>
+  
+  <MessageNewBondRelationNewName>{HUMAN_labelShort} ﻖﻠﻄﻳ .ﺎﻤﻬﻀﻌﺒﺑ {1} ﻭ {HUMAN_labelShort} ﻖﻠﻌﺗ
+.{ANIMAL_possessive} ﻰﻠﻋ {ANIMAL_nameFull} ﻢﺳﺍ</MessageNewBondRelationNewName>
+  
+  
+  <MessageBondedAnimalMentalBreak>ﺓﺎﻓﻭ ﺐﺒﺴﺑ ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﺔﻟﺎﺤﻟ {ANIMAL} ﺖﺿﺮﻌﺗ
+.{HUMAN_labelShort}</MessageBondedAnimalMentalBreak>
+  
+  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} ﻰﻋﺪﻳ {ANIMAL_label} ﺐﺒﺴﺑ ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﻻ ﺽﺮﻌﺗ
+ﺓﺎﻓﻭ {HUMAN_labelShort}.</MessageNamedBondedAnimalMentalBreak>
+  
+  <MessageBondedAnimalsMentalBreak>ﺓﺎﻓﻭ ﺐﺒﺴﺑ ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﻻ ﺎﻧﺍﻮﻴﺣ {0} ﺽﺮﻌﺗ
+.{ﺭﻮﻛﺬﻤﻟﺍ : HUMAN_labelShort ? src}</MessageBondedAnimalsMentalBreak>
+  
+  
+  <MessageSuccessfullyRemovedHediff>lookup:} ﻉﻮﻧ ﺔﻟﺍﺯﺇ ﻲﻓ ﺔﺣﺍﺮﺠﻟﺍ ﺐﻴﺒﻃ ﺢﺠﻧ
+.{PATIENT_labelShort} ﻦﻣ ﺡﺎﺠﻨﺑ {{HEDIFF}; Case; 3</MessageSuccessfullyRemovedHediff> 
+  
+  
+  <MessageShipChunkDrop>ﻲﻓ ﺖﻤﻄﺤﺗ ﺔﻴﺋﺎﻀﻔﻟﺍ ﺔﻨﻴﻔﺴﻟﺍ ﻦﻣ ﺀﺍﺰﺟﺃ ﺓﺪﻋ
+.ﺔﻤﻴﻗ ﺩﺭﺍﻮﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺎﻬﻜﻴﻜﻔﺗ ﻦﻜﻤﻳ .ﺏﺮﻘﻟﺍ</MessageShipChunkDrop>
+
+  
+  <MessageCannotSellItemsReason>ﺔﺒﻳﺮﻗ ﺎﻬﻧﻷ ﺎﻬﻌﻴﺑ ﻦﻜﻤﻳ ﻻ ﺮﺻﺎﻨﻌﻟﺍ ﺾﻌﺑ</MessageCannotSellItemsReason>
+
+  
+  <MessageConstructionFailed>{WORKER_labelShort} {WORKER_gender ? ﺄﻄﺨﺑ {ﺖﻣﺎﻗ : ﻡﺎﻗ
+ﻰﻠﻋ ﻞﻤﻌﻟﺍ ﺀﺎﻨﺛﺃ {lookup: {0}; Case; 4}.
+ﻯﻭﺪﺟ ﻼﺑ ﻉﺎﺿ ﺩﺭﺍﻮﻤﻟﺍ ﻦﻣ ﺀﺰﺟ.</MessageConstructionFailed>
+
+  
+  <MessageScreenshotSavedAs>{0} :ﻢﺳﺎﺑ ﺔﺷﺎﺸﻟﺍ ﺔﻄﻘﻠﻟ ﻅﻮﻔﺤﻤﻟﺍ ﻒﻠﻤﻟﺍ</MessageScreenshotSavedAs>
+  
+  
+  <MessageNoLongerSocialFighting>.ﻝﺎﺘﻘﻟﺍ ﻦﻋ {PAWN2_labelShort} ﻭ {PAWN1_labelShort} ﻒﻗﻮﺗ</MessageNoLongerSocialFighting>
+  
+  
+  <MessageNoLongerBingingOnDrug>{2_gender ? ﻝﻭﺎﻨﺗ ﻦﻋ {ﺖﻔﻗﻮﺗ : ﻒﻗﻮﺗ
+{lookup: {1}; Case; 3} ﺓﺮﻄﻴﺴﻣ ﺮﻴﻏ ﺓﺭﻮﺼﺑ.</MessageNoLongerBingingOnDrug>
+
+  
+  <MessageNoLongerOnTargetedInsultingSpree>.ﻥﻵﺍ ﺪﻌﺑ {PAWN_labelShort} {TARGET_label} ﻦﻴﻬﻳ ﻻ</MessageNoLongerOnTargetedInsultingSpree>
+
+  
+  <MessageRottedAwayInStorage>.ﻉﺩﻮﺘﺴﻤﻟﺍ ﻲﻓ ﻦﻔﻌﺗ {label_1} ﻝﺍ</MessageRottedAwayInStorage>
+  
+  
+  <MessageFoodPoisoning>{PAWN_labelShort} {PAWN_gender ? ـﺑ {ﺖﻤﻤﺴﺗ : ﻢﻤﺴﺗ
+{lookup: {FOOD_labelShort}; Case; 4}. 2} - ﺐﺒﺴﻟﺍ}.</MessageFoodPoisoning>
+  
+  
+  <MessagePawnLostWhileFormingCaravan>.ﺔﻠﻓﺎﻘﻟﺍ ﻦﻣ {0} ﺝﺍﺮﺧﺇ ﺖﻤﺗ</MessagePawnLostWhileFormingCaravan>
+  
+  <MessagePawnLostWhileFormingCaravan_AllLost>.ﺔﻠﻓﺎﻘﻟﺍ ﺩﺍﺪﻋﺇ ﺀﺎﻐﻟﺇ ﻢﺗ</MessagePawnLostWhileFormingCaravan_AllLost>
+  
+  <MessageCaravanFormationPaused>ﻦﻣ ﻊﻴﻤﺠﻟﺍ ﻲﻓﺎﻌﺗ ﺩﺮﺠﻤﺑ ﺔﻠﻓﺎﻘﻟﺍ ﺰﻴﻬﺠﺗ ﺮﻤﺘﺴﻴﺳ
+.ﻲﺒﺼﻌﻟﺍ ﺭﺎﻴﻬﻧﻻﺍ</MessageCaravanFormationPaused>
+  
+  <MessageCaravanFormationUnpaused>ﺮﻔﺴﻟﺍ ﺔﻠﻓﺎﻘﻟ ﺮﻴﻀﺤﺘﻟﺍ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻊﺑﺎﺗ</MessageCaravanFormationUnpaused>
+  
+  
+  <MessageCaravanMemberHasExtremeMentalBreak>.ﻚﺘﻠﻓﺎﻗ ﻲﻓ ﺺﺨﺸﻟ ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﺖﺛﺪﺣ</MessageCaravanMemberHasExtremeMentalBreak>
+  
+  
+  <MessageMaxPlanetCoveragePerformanceWarning>ﺎﺘﻗﻭ ﻞﻣﺎﻛ ﺐﻛﻮﻛ ﺀﺎﺸﻧﺇ ﻕﺮﻐﺘﺴﻳ ﺪﻗ :ﻪﻴﺒﻨﺗ
+.ﻼﻳﻮﻃ</MessageMaxPlanetCoveragePerformanceWarning>
+
+  
+  <MessagePlantDiedOfCold>.ﺩﺮﺒﻟﺍ ﻦﻣ ﺖﻴﻓﻮﺗ/ﻲﻓﻮﺗ {0}</MessagePlantDiedOfCold>
+  
+  <MessagePlantDiedOfRot_LeftUnharvested>.ﺔﺧﻮﺨﻴﺸﻟﺍ ﻦﻣ ﻲﻓﻮﺗ {0}</MessagePlantDiedOfRot_LeftUnharvested>
+  
+  <MessagePlantDiedOfRot_ExposedToLight>ﻲﻓ ﻼﻳﻮﻃ ﺎﺘﻗﻭ ﻰﻀﻗ ﻪﻧﻷ ،{0} ﻲﻓﻮﺗ
+.ﻢﻟﺎﻌﻟﺍ ﺍﺬﻫ</MessagePlantDiedOfRot_ExposedToLight>
+  
+  <MessagePlantDiedOfRot>.ﺕﺎﻣ ﺪﻘﻟ {0}</MessagePlantDiedOfRot>
+  
+  <MessagePlantDiedOfPoison>.ﻢﻤﺴﺘﻟﺍ ﺐﺒﺴﺑ ﻲﻓﻮﺗ {0}</MessagePlantDiedOfPoison>
+  
+  <MessagePlantDiedOfBlight>.ﺽﺮﻤﻟﺍ ﺐﺒﺴﺑ ﻲﻓﻮﺗ {0}</MessagePlantDiedOfBlight>
+
+  
+  <MessagePawnBeingBurned>!ﻕﺮﺘﺤﻤﻟﺍ ﻦﺧﺎﺴﻟﺍ ﺀﺍﻮﻬﻟﺍ ﺐﺒﺴﺑ ﻕﻭﺮﺤﻟ {labelShort_1} ﺽﺮﻌﺘﺗ</MessagePawnBeingBurned>
+
+  
+  <MessageAccidentalOverdose>INGESTER_gender} ـﻟ {DRUG_labelShort} ﻦﻣ ﺓﺪﺋﺍﺯ ﺔﻋﺮﺟ ﺖﺛﺪﺣ
+!{ﻲﻫ:ﻮﻫ?</MessageAccidentalOverdose>
+  
+  
+  <MessageCaravanArrivedAtDestination>.ﺔﻬﺟﻮﻟﺍ ﻥﺎﻜﻣ ﻰﻟﺇ ﻞﺻﻭ {0}</MessageCaravanArrivedAtDestination>
+  
+  
+  <MessagePawnLeftMapAndCreatedCaravan>.ﺔﻠﻓﺎﻗ ﻞﻜﺷﻭ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ {labelShort_1} ﻙﺮﺗ</MessagePawnLeftMapAndCreatedCaravan>
+  
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>.ﻪﻴﻟﺇ ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻢﻀﻨﻳ</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  
+  
+  <MessageSettledInExistingMap>ﻲﻓ ﺡﺎﺠﻨﺑ ﺔﻴﻧﺎﻄﻴﺘﺳﺍ ﻦﻛﺎﻣﺃ ﺲﻴﺳﺄﺗ ﻦﻣ ﺖﻨﻜﻤﺗ
+.ﻊﻗﻮﻤﻟﺍ ﺍﺬﻫ</MessageSettledInExistingMap>
+  
+  
+  <MessagePermanentWoundHealed>{0} :ﺐﺒﺴﻟﺍ .{2} ﻦﻣ {PAWN_labelShort} ﻲﻧﺎﻌﻳ</MessagePermanentWoundHealed>
+  
+  
+  <MessageRescueeDidntJoin>.ﻪﻴﻓﺎﻌﺗ ﺪﻌﺑ ﺓﺭﺩﺎﻐﻤﻟﺍ [PAWN_nameDef] ﺭﺮﻘﻳ</MessageRescueeDidntJoin>
+  
+  
+  <MessageTransporterUnreachable>ﻰﻠﻋ ﺓﺪﺣﺍﻭ ﻞﻘﻧ ﺔﻟﻮﺴﺒﻛ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﺭﺬﻌﺗ
+.ﻞﻗﻷﺍ</MessageTransporterUnreachable>
+  
+  <MessageTransportersNotAdjacent>ﺐﺠﻳ ﺓﺭﺎﺘﺨﻤﻟﺍ ﺕﻻﻮﺴﺒﻜﻟﺎﺑ ﺔﻘﻠﻌﺘﻤﻟﺍ ﺔﻳﺍﺪﺒﻟﺍ ﺕﺎﺼﻨﻣ ﻊﻴﻤﺟ
+.ﺾﻌﺒﻟﺍ ﺎﻬﻀﻌﺑ ﻦﻣ ﺍﺪﺟ ﺔﺒﻳﺮﻗ ﻥﻮﻜﺗ ﻥﺃ</MessageTransportersNotAdjacent>
+  
+  
+  <MessageTransportersLoadCanceled_TransporterDestroyed>ﻢﺗ ﺕﻻﻮﺴﺒﻜﻟﺍ ﺪﺣﺃ ﻥﻷ ﻞﻴﻤﺤﺘﻟﺍ ﺀﺎﻐﻟﺇ ﻢﺗ
+.ﺎﻫﺮﻴﻣﺪﺗ</MessageTransportersLoadCanceled_TransporterDestroyed>
+  
+  <MessageTransporterSingleLoadCanceled_TransporterDestroyed>.ﻩﺮﻴﻣﺪﺗ ﻢﺗ ﻙﻮﻜﻤﻟﺍ ﻥﻷ ﻞﻴﻤﺤﺘﻟﺍ ﺀﺎﻐﻟﺇ ﻢﺗ</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
+  
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>ﺓﺰﻬﺟﺃ ﺪﺣﺃ ﺮﻴﻣﺪﺗ ﺐﺒﺴﺑ ﻞﻴﻤﺤﺘﻟﺍ ﺀﺎﻐﻟﺇ ﻢﺗ
+.ﻕﻼﻃﻹﺍ</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  
+  
+  <MessageTransportersLoadingProcessStarted>.ﺕﻻﻮﺴﺒﻜﻟﺍ ﻲﻓ ﺓﺩﺪﺤﻤﻟﺍ ﺏﺎﻛﺮﻟﺍﻭ ﺀﺎﻴﺷﻷﺍ ﻞﻴﻤﺤﺗ ﺃﺪﺑ</MessageTransportersLoadingProcessStarted>
+  
+  <MessageTransporterSingleLoadingProcessStarted>ﺔﺒﻛﺮﻤﻟﺍ ﻲﻓ ﺓﺩﺪﺤﻤﻟﺍ ﺏﺎﻛﺮﻟﺍﻭ ﺀﺎﻴﺷﻷﺍ ﻞﻴﻤﺤﺗ ﺃﺪﺑ
+.ﺔﻴﺋﺎﻀﻔﻟﺍ</MessageTransporterSingleLoadingProcessStarted>
+  
+  
+  <MessageTransportPodsArrived>.ﺓﺩﺪﺤﻤﻟﺍ ﺎﻬﺘﻬﺟﻭ ﻰﻟﺇ ﻞﻘﻨﻟﺍ ﻢﻜﺗﻻﻮﺴﺒﻛ ﺖﻠﺻﻭ</MessageTransportPodsArrived>
+  
+  <MessageTransportPodsArrivedAndLost>،ﺎﻬﺘﻬﺟﻭ ﻰﻟﺇ ﺖﻠﺻﻭ ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻜﻟﺍ
+ﻚﻧﺎﻜﺳ ﻦﻣ ﻱﺃ ﻙﺎﻨﻫ ﻦﻜﺗ ﻢﻟ ﻦﻜﻟﻭ
+.ﻲﺋﺎﻬﻧ ﻞﻜﺸﺑ ﺎﻬﺘﻟﻮﻤﺣ ﻥﺍﺪﻘﻓ ﻢﺗ ﺪﻘﻓ ،ﺎﻬﺑﺮﻗ</MessageTransportPodsArrivedAndLost>
+  
+  <MessageTransportPodsArrivedAndAddedToCaravan>.ﺎﻬﺘﻬﺟﻭ ﻰﻟﺇ ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻛ ﺖﻠﺻﻭ
+.ﻊﺋﺎﻀﺒﻟﺍﻭ ﺏﺎﻛﺮﻟﺍ ﻊﻤﺠﺑ {0} ﻡﺎﻗ</MessageTransportPodsArrivedAndAddedToCaravan>
+  
+  
+  <MessageFinishedLoadingTransporters>.ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻜﻟﺍ ﻞﻴﻤﺤﺗ ﻝﺎﻤﺘﻛﺍ</MessageFinishedLoadingTransporters>
+  
+  <MessageFinishedLoadingTransporterSingle>.ﺔﻴﺋﺎﻤﻟﺍ ﺔﺒﻛﺮﻤﻟﺍ ﻞﻴﻤﺤﺗ ﻢﺗ</MessageFinishedLoadingTransporterSingle>
+
+  
+  <MessageCantLoadMoreIntoTransporters>ﻞﻴﻤﺤﺘﻟﺍ ﻦﻣ ﺀﺎﻬﺘﻧﻻﺍ {1} ـﻟ ﻦﻜﻤﻳ ﻻ
+ﺹﺎﺨﺷﻷﺍ ﺾﻌﺑ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﺮﻓﻮﺗ ﻡﺪﻋ ﺐﺒﺴﺑ
+.{labelShort_2} :ﺮﺻﺎﻨﻌﻟﺍ ﻭﺃ</MessageCantLoadMoreIntoTransporters>
+  
+  
+  <MessageTransportPodsDestinationIsInvalid>.ﺐﺳﺎﻨﻣ ﺮﻴﻏ ﺭﺎﺘﺨﻤﻟﺍ ﻥﺎﻜﻤﻟﺍ</MessageTransportPodsDestinationIsInvalid>
+  
+  <MessageTransportPodsDestinationIsTooFar>ﺎﻣ ﻰﻠﻋ ﺔﻟﻮﺴﺒﻛ ﻞﻛ ﻱﻮﺘﺤﻳ ﻥﺃ ﺐﺠﻳ
+: ﺓﺪﺣﻭ ? numCase_0} ﻦﻋ ﻞﻘﻳ ﻻ
+.ﺎﻨﻫ ﻰﻟﺇ ﻝﻮﺻﻮﻠﻟ ﺩﻮﻗﻭ {ﺕﺍﺪﺣﻭ : ﻦﻴﺗﺪﺣﻭ</MessageTransportPodsDestinationIsTooFar>
+  
+  
+  <MessageReformedCaravan>.ﺓﺭﺩﺎﻐﻤﻠﻟ ﺓﺰﻫﺎﺟ ﺔﻠﻓﺎﻘﻟﺍ</MessageReformedCaravan>
+  
+  
+  <MessageCantBanishLastColonist>.ﺓﺮﻴﺧﻷﺍ ﺔﻬﺟﺍﻮﻟﺍ ﺩﺮﻃ ﻚﻨﻜﻤﻳ ﻻ</MessageCantBanishLastColonist>
+
+  
+  <MessageCantEquipCustom>{0} :ﺡﻼﺴﻟﺍ ﺬﺧﺃ ﻦﻜﻤﻣ ﺮﻴﻏ</MessageCantEquipCustom>
+  
+  <MessageCantEquipIncapableOfViolence>labelShort} {1_gender_1} :ﺡﻼﺴﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ
+ﻰﻠﻋ {ﺓﺭﺩﺎﻗ ﺮﻴﻏ : ﺭﺩﺎﻗ ﺮﻴﻏ ?
+.ﻒﻨﻌﻟﺍ</MessageCantEquipIncapableOfViolence>
+  
+  <MessageCantEquipIncapableOfShooting>labelShort} {1_gender_1} :ﺡﻼﺴﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻣ ﺮﻴﻏ
+ﻰﻠﻋ {ﺓﺭﺩﺎﻗ ﺮﻴﻏ : ﺭﺩﺎﻗ ﺮﻴﻏ ?
+.ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ</MessageCantEquipIncapableOfShooting>
+  
+  <MessageCantEquipIncapableOfManipulation>.ﺡﻼﺴﻟﺍ ﺍﺬﻫ ﻁﺎﻘﺘﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ ﻦﻃﻮﺘﺴﻤﻟﺍ</MessageCantEquipIncapableOfManipulation>
+  
+  <MessageCantWearApparelMissingBodyParts>ﺪﺟﻮﺗ ﻻ {labelShort_1} :ﺀﺍﺪﺗﺭﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ
+.ﺔﺑﻮﻠﻄﻤﻟﺍ ﻢﺴﺠﻟﺍ ﺀﺍﺰﺟﺃ</MessageCantWearApparelMissingBodyParts>
+  
+  <MessageCantUnequipLockedApparel>.ﺲﺑﻼﻤﻟﺍ ﺍﺬﻫ ﻊﻠﺧ ﺾﻓﺮﻳ ﺺﺨﺸﻟﺍ ﺍﺬﻫ</MessageCantUnequipLockedApparel>
+  
+  <MessageWouldReplaceLockedApparel>.ﻪﺴﺑﻼﻣ ﻊﻠﺧ ﺾﻓﺮﻳ {labelShort_1} :ﺀﺍﺪﺗﺭﺍ ﻦﻜﻤﻳ ﻻ</MessageWouldReplaceLockedApparel>
+  
+  
+  <MessageSlaughteringBondedAnimal>ﻥﻮﻜﻴﺳ ،{lookup: {DESIGNATED_labelShort}; Case; 3} ﺖﻠﺘﻗ ﺍﺫﺇ
+ﻂﺒﺗﺮﻣ ﻮﻫ ? BONDED_gender} ﻥﻷ ﺎﻨﻳﺰﺣ {BONDED_labelShort}
+.ﻥﺍﻮﻴﺤﻟﺍ ﺍﺬﻬﺑ { ﺔﻄﺒﺗﺮﻣ ﻲﻫ :</MessageSlaughteringBondedAnimal>
+  
+  <MessageReleaseBondedAnimal>lookup: {DESIGNATED_labelShort}; Case;} ﻦﻋ ﺝﺍﺮﻓﻹﺍ ﺕﺭﺮﻗ ﺍﺫﺇ
+ﻥﺍﻮﻴﺤﻟﺎﺑ ﻂﺒﺗﺮﻣ ﻪﻧﻷ ،ﺎﺒﺿﺎﻏ {BONDED_labelShort} ﻥﻮﻜﻴﺳ ,{3
+.ﺍﺬﻫ</MessageReleaseBondedAnimal>
+  
+  
+  <MessageCaravanRanOutOfFood>ﻡﺎﻌﻄﻟﺍ ﻦﻣ ﺪﻔﻧ {0}</MessageCaravanRanOutOfFood>
+  
+  <MessageCaravanDeathCorpseAddedToInventory>ﺊﻄﺒﻳﻭ ﻞﻴﻘﺛ ﻪﻧﺇ .{PAWN_definite} ﻢﺴﺟ ﻥﺎﻓﺍﺭﺎﻛ ﻝﺪﺘﺳﺍ
+ﻰﻠﻋ ﺮﻘﻨﻟﺎﺑ ﻪﻨﻣ ﺺﻠﺨﺘﻟﺍ ﻦﻜﻤﻳ ﻦﻜﻟﻭ ﺔﻛﺮﺤﻟﺍ
+."ﺔﻟﻮﻤﺤﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻲﻓ ﺐﺳﺎﻨﻤﻟﺍ ﺭﺰﻟﺍ</MessageCaravanDeathCorpseAddedToInventory>
+
+  
+  <MessageSelectOwnBaseToFormCaravan>ﻥﺎﻜﻣ ﻱﺃ ﻭﺃ ﻚﺘﻨﻃﻮﺘﺴﻣ ﺮﺘﺧﺍ ،ﺔﻠﻓﺎﻘﻟﺍ ﺰﻴﻬﺠﺘﻟ
+.ﻚﻴﻨﻃﻮﺘﺴﻣ ﻰﻠﻋ ﻱﻮﺘﺤﻳ</MessageSelectOwnBaseToFormCaravan>
+
+  
+  <MessageScreenResTooSmallForUIScale>ﻥﻮﻜﺗ ﻦﻟ ﺎﻬﻧﺈﻓ ،ﺔﻬﺟﺍﻮﻟﺍ ﻢﺠﺣﻭ ﺔﻗﺪﻟﺍ ﺍﺬﻬﺑ
+ﺔﻬﺟﺍﻮﻟﺍ ﻢﺠﺣ ﺮﻴﻐﺼﺗ ﻰﺟﺮﻳ .ﺔﺷﺎﺸﻟﺍ ﻰﻠﻋ ﺔﺒﺳﺎﻨﻣ
+.ﻯﺮﺧﺃ ﺔﻗﺩ ﺭﺎﻴﺘﺧﺍ ﻭﺃ</MessageScreenResTooSmallForUIScale>
+  
+  
+  <MessageYouHaveToReformCaravanNow>.ﺭﺪﻘﻠﻟ ﺔﻴﻘﺒﻟﺍ ﻙﺮﺗ ﻢﺘﻴﺳ !ﺍﺭﻮﻓ ﻕﻼﻄﻧﻻﺍ ﺎﻨﻴﻠﻋ</MessageYouHaveToReformCaravanNow>
+  
+  
+  <MessageDefendersAttacking>lookup: {2};} ﻥﻮﻤﺟﺎﻬﻳ {1} ﺔﻗﺮﻓ ﻦﻣ {0}
+.ﻚﺑ ﺔﺻﺎﺨﻟﺍ {Case; 3</MessageDefendersAttacking>
+  
+  <MessageMechanoidsAssembled>ﺔﻳﺎﻤﺤﺑ ﻥﻮﻣﻮﻘﻳ ﻑﻮﺳﻭ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻊﻴﻤﺠﺗ ﺀﺎﻬﻧﺇ ﻢﺗ
+.ﻢﻬﻌﻤﺠﺗ</MessageMechanoidsAssembled>
+  
+  <MessageMechanoidsLeftToAssemble>ﻊﻴﻤﺠﺘﻠﻟ ﺔﻴﻘﺒﺘﻤﻟﺍ ﺔﻴﻟﻵﺍ ﺕﻻﻵﺍ</MessageMechanoidsLeftToAssemble>
+  
+  <MessageMechanoidsReinforcementsDrop>ﻦﻋ ﺖﻠﺻﻭ .ﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺔﻠﻗﺎﻨﻟ ﺕﺍﺰﻳﺰﻌﺗ ﺀﺎﻋﺪﺘﺳﺍ ﻢﺗ
+.ﺕﻻﻮﺴﺒﻜﻟﺍ ﻖﻳﺮﻃ</MessageMechanoidsReinforcementsDrop>
+
+  
+  <MessageSelfTendUnsatisfied>{labelShort_1} ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ ،ﻲﺗﺍﺬﻟﺍ ﺝﻼﻌﻟﺍ ﺬﻴﻔﻨﺘﻟ
+.ﺔﺿﺮﻤﻤﻛ ﺎﻨﻴﻌﻣ</MessageSelfTendUnsatisfied>
+  
+  <MessageCannotSelfTendEver>{1_labelShort} ﺐﻴﺒﻄﻟﺍ ﺔﻔﻴﻇﻭ ﺀﺍﺩﺃ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ
+ﻲﺗﺍﺬﻟﺍ ﺝﻼﻌﻟﺍ ﻚﻟﺫ ﻲﻓ ﺎﻤﺑ ،.</MessageCannotSelfTendEver>
+  
+  
+  <MessageCantAddWaypointBecauseImpassable>.ﺭﻮﺒﻌﻠﻟ ﺔﻠﺑﺎﻗ ﺮﻴﻏ ﺔﻘﻄﻨﻤﻟﺍ ﺍﺬﻫ</MessageCantAddWaypointBecauseImpassable>
+  
+  <MessageCantAddWaypointBecauseUnreachable>ﻦﻣ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ﻻ
+.ﻖﻳﺮﻄﻟﺍ ﻲﻓ ﺓﺮﻴﺧﻷﺍ ﺔﻬﺟﻮﻟﺍ ﺔﻄﻘﻧ</MessageCantAddWaypointBecauseUnreachable>
+  
+  <MessageCantAddWaypointBecauseLimit>ﺔﻄﻘﻧ {0} ﻦﻣ ﺮﺜﻛﺃ ﺀﺎﺸﻧﺇ ﻦﻜﻤﻳ ﻻ
+.ﺭﺎﺴﻣ</MessageCantAddWaypointBecauseLimit>
+  
+  <MessageCantRemoveWaypointBecauseFirst>.ﺭﺎﺴﻤﻟﺍ ﻦﻣ ﺔﻄﻘﻨﻟﺍ ﻩﺬﻫ ﻑﺬﺣ ﻦﻜﻤﻳ ﻻ</MessageCantRemoveWaypointBecauseFirst>
+  
+  
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>ﻦﻣ ﺪﺣﺃ ﻻ :ﻡﺍﺪﻋﻹﺍ ﺬﻴﻔﻨﺗ ﻦﻜﻤﻳ ﻻ
+.ﻒﻨﻌﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺱﺍﺮﺤﻟﺍ</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  
+  
+  <MessageCanReformCaravanNowNoMoreEnemies>ﺮﻔﺴﻟﺎﺑ ﺭﺍﺮﻤﺘﺳﻻﺍ ﻚﻨﻜﻤﻳ .ﻥﻵﺍ ﻦﻣﺁ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ
+.ﻢﻟﺎﻌﻟﺍ ﺔﻄﻳﺮﺧ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻻﺍ ﻝﻼﺧ ﻦﻣ</MessageCanReformCaravanNowNoMoreEnemies>
+  
+  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>ﻖﻃﺎﻨﻣ ﻙﺎﻨﻫ ﻦﻜﻟ ،ﻥﻵﺍ ﻦﻣﺁ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ
+ﺔﻠﺣﺮﻟﺍ ﺔﻠﺻﺍﻮﻣ ﻭﺃ ﺎﻬﻓﺎﺸﻜﺘﺳﺍ ﻚﻨﻜﻤﻳ .ﺔﻔﺸﻜﺘﺴﻣ ﺮﻴﻏ
+.ﺔﻴﻤﻟﺎﻌﻟﺍ ﺔﻄﻳﺮﺨﻟﺍ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻻﺍﻭ</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
+
+  
+  <MessageCantBanishDownedPawn>ﻻ {pronoun_1} ﻥﻷ ،{labelShort_1} ﺩﺮﻃ ﻦﻜﻤﻳ ﻻ
+.ﺮﻴﺴﻟﺍ ﻊﻴﻄﺘﺴﻳ</MessageCantBanishDownedPawn>
+
+  
+  <MessageSleepingPawnsWokenUp>.ﻆﻘﻴﺘﺳﺍ {0}</MessageSleepingPawnsWokenUp>
+  
+  <MessageMechClusterDefeated>.ﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻦﻴﻴﻟﻵﺍ ﺔﻋﻮﻤﺠﻣ ﺮﻴﻣﺪﺗ ﻢﺗ</MessageMechClusterDefeated>
+
+  
+  <MessageCompSpawnerSpawnedItem>.{0} :ﻞﻐﺸﻣ</MessageCompSpawnerSpawnedItem>
+
+  
+  <MessageHediffCuredByItem>.{0} :ﺽﺮﻤﻟﺍ ﺀﺎﻔﺷ ﻢﺗ</MessageHediffCuredByItem>
+  
+  <MessageBodyPartCuredByItem>.{0} :ﻢﺴﺠﻟﺍ ﻦﻣ ﺀﺰﺟ ﺓﺩﺎﻌﺘﺳﺇ ﻢﺗ</MessageBodyPartCuredByItem>
+  
+  <MessageResearchProjectFinishedByItem>.{0} :ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻢﺗ</MessageResearchProjectFinishedByItem>
+
+  
+  <MessagePawnResurrected>!{0} ﺀﺎﻴﺣﺇ ﺕﺪﻋﺃ ﺪﻘﻟ</MessagePawnResurrected>
+
+  
+  <MessageFailedToRescueRelative>.{RELATIVE_labelShort} ﻥﺰﺤﻴﺳ .{PAWN_labelShort} ﺫﺎﻘﻧﺇ ﻦﻣ ﻦﻜﻤﺘﺗ ﻢﻟ</MessageFailedToRescueRelative>
+  
+  <MessageRescuedRelative>.ﺍﺬﻬﺑ ﺡﺮﻔﻳ ﻑﻮﺳ {PAWN_labelShort}. {RELATIVE_labelShort} ﺕﺬﻘﻧﺃ</MessageRescuedRelative>
+
+  
+  <MessageTornadoLeftMap>.ﺭﺎﺼﻋﻹﺍ ﺰﻛﺮﻤﺗ</MessageTornadoLeftMap>
+  
+  <MessageTornadoDissipated>.ﺭﺎﺼﻋﻹﺍ ﺩﺪﺒﺗ</MessageTornadoDissipated>
+
+  
+  <MessagePeaceTalksNoDiplomat>ﺪﻗﺎﻓ ﻮﻫ ﻭﺃ ﺐﺳﺎﻨﻣ ﻲﺳﺎﻣﻮﻠﺑﺩ ﺪﺟﻮﻳ ﻻ
+.ﻲﻋﻮﻟﺍ</MessagePeaceTalksNoDiplomat>
+
+  
+  <MessageWarningCavePlantsExposedToLight>ﺍﺬﻫ ﻲﻓ ﺀﺎﻘﺒﻟﺍ ﻊﻴﻄﺘﺴﻳ ﻦﻟ {0} :ﺮﻳﺬﺤﺗ
+.ﻢﻟﺎﻌﻟﺍ</MessageWarningCavePlantsExposedToLight>
+
+  
+  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ﻻ {lookup: {OLDTARGET_label};
+Case; 1} ﻮﺤﻧ ﻪﺒﻀﻏ ﺪﻟﻮﻳﻭ {lookup: {TARGET_label};
+Case; 3}.</MessageTargetedTantrumChangedTarget>
+
+  
+  <MessageTargetedInsultingSpreeChangedTarget>lookup:} ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ {PAWN_labelShort} ـﻟ ﻦﻜﻤﻳ ﻻ
+lookup:} ﻮﺤﻧ ﻪﺒﻀﻏ ﻪﺟﻮﻳﻭ {{OLDTARGET_label}; Case; 1
+.{{TARGET_label}; Case; 3</MessageTargetedInsultingSpreeChangedTarget>
+
+  
+  <MessageMurderousRageChangedTarget>{PAWN_labelShort} ﻮﺤﻧ ﻪﺒﻀﻏ ﻪﺟﻮﻳ {lookup: {TARGET_label}; Case;
+3}.</MessageMurderousRageChangedTarget>
+
+  
+  <MessagePlantIncompatibleWithRoof>.ﻒﻘﺴﻟﺍ ﺖﺤﺗ ﻮﻤﻨﻳ ﻻ {0}</MessagePlantIncompatibleWithRoof>
+  
+  <MessageRoofIncompatibleWithPlant>lookup: {0};} ﻕﻮﻓ ﻒﻘﺳ ﺀﺎﻨﺑ ﻦﻜﻤﻳ ﻻ
+.{Case; 4</MessageRoofIncompatibleWithPlant>
+
+  
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>ﻲﻓ "ﺔﻠﺣﺮﻟﺍ ﻞﻤﻜﺘﺳﺍ" ﺭﺯ ﻰﻠﻋ ﻂﻐﺿﺍ ،ﺓﺭﺩﺎﻐﻤﻠﻟ
+"ﻢﻟﺎﻌﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>.ﻥﻵﺍ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻙﺮﺗ ﻚﻨﻜﻤﻳ ﻻ</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
+
+  
+  <MessageGoodwillChanged>{1} ﻦﻣ {0} ﺔﻗﺮﻔﻟﺍ ﻊﻣ ﺔﻗﻼﻌﻟﺍ ﺕﺮﻴﻐﺗ
+.{2} ﻰﻟﺇ</MessageGoodwillChanged>
+  
+  <MessageGoodwillChangedWithReason>{1} ﻦﻣ {0} ﺔﻗﺮﻔﻟﺍ ﻊﻣ ﻚﺘﻗﻼﻋ ﺕﺮﻴﻐﺗ
+.({3}) {2} ﻰﻟﺇ</MessageGoodwillChangedWithReason>
+  
+  <GoodwillChangedReason_AttackedPawn>ﺎﻬﻣﻮﺠﻫ/ﻪﻣﻮﺠﻫ {labelShort_1} ﻢﺗ</GoodwillChangedReason_AttackedPawn>
+  
+  <GoodwillChangedReason_UsedItem>.{TARGET_labelShort} ﻰﻠﻋ {lookup: {ITEM_labelShort}; Case; 3} ﻡﺪﺨﺘﺳﺍ</GoodwillChangedReason_UsedItem>
+  
+  <GoodwillChangedReason_UsedAbility>.{1} ﻰﻠﻋ "{0}" ﻖﻴﺒﻄﺗ ﻢﺗ</GoodwillChangedReason_UsedAbility>
+  
+  <GoodwillChangedReason_RemovedBodyPart>: ﺓﺎﻨﺜﺘﺴﻣ : ﻰﻨﺜﺘﺴﻣ ? gender_0}} ﺮﻴﻏ
+{0} {{ﻰﻨﺜﺘﺴﻣ</GoodwillChangedReason_RemovedBodyPart>
+  
+  <GoodwillChangedReason_RemovedImplant>{0_gender ? {ﻑﻭﺬﺤﻣ : ﺔﻓﻭﺬﺤﻣ : ﻑﻭﺬﺤﻣ
+0}}</GoodwillChangedReason_RemovedImplant>
+  
+  <GoodwillChangedReason_DowngradedImplant>.{0} ﻉﺭﺰﻟﺍ ﻯﻮﺘﺴﻣ ﺾﻴﻔﺨﺗ ﻢﺗ</GoodwillChangedReason_DowngradedImplant>
+  
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>ﻪﺘﻴﺒﺜﺗ ﻢﺘﻳ {0} ﻰﻟﺇ ﺔﺟﺎﺤﻟﺍ ﻥﻭﺪﺑ</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  
+  <GoodwillChangedReason_CapturedPawn>.{ﻰﺜﻧﺃ : ﺮﻛﺫ? labelShort} {1_gender_1} ﺮﺳﺃ ﻢﺗ</GoodwillChangedReason_CapturedPawn>
+  
+  <GoodwillChangedReason_PawnCrushed>{1_labelShort} {1_gender ? ﺖﺤﺗ {ﺖﻌﻗﻭ : ﻊﻗﻭ
+ﻒﻘﺳ ﺭﺎﻴﻬﻧﺍ.</GoodwillChangedReason_PawnCrushed>
+  
+  <GoodwillChangedReason_PawnDied>{1_gender ? ﺖﺗﺎﻣ : ﺕﺎﻣ}</GoodwillChangedReason_PawnDied>
+  
+  <GoodwillChangedReason_PawnStripped>{0_gender ? ﺔﻳﺭﺎﻋ : ﻱﺭﺎﻋ}</GoodwillChangedReason_PawnStripped>
+  
+  <GoodwillChangedReason_Traded>ﺓﺮﻴﺒﻛ ﺔﻘﻔﺻ ﻡﺍﺮﺑﺇ ﻢﺗ</GoodwillChangedReason_Traded>
+  
+  <GoodwillChangedReason_AttackedCaravan>.ﻡﻮﺠﻬﻠﻟ ﺔﻠﻓﺎﻘﻟﺍ ﺖﺿﺮﻌﺗ</GoodwillChangedReason_AttackedCaravan>
+  
+  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} {1_gender ? ﺔﻣﻼﺴﺑ {ﺕﺭﺩﺎﻏ : ﺭﺩﺎﻏ.</GoodwillChangedReason_ExitedMapHealthy>
+  
+  <GoodwillChangedReason_Tended>{1_labelShort} {1_gender ? ﻰﻠﻋ {ﺖﻠﺼﺣ : ﻞﺼﺣ
+ﺔﺣﺍﺭ</GoodwillChangedReason_Tended>
+  
+  <GoodwillChangedReason_ReceivedGift>.ﺔﻳﺪﻫ ﻡﻼﺘﺳﺍ ﻢﺗ</GoodwillChangedReason_ReceivedGift>
+  
+  <GoodwillChangedReason_FulfilledTradeRequest>ﺓﺭﺎﺠﺘﻟﺍ ﺐﻠﻃ ﺬﻴﻔﻨﺗ ﻢﺗ</GoodwillChangedReason_FulfilledTradeRequest>
+  
+  <GoodwillChangedReason_FinishedQuest>.ﺔﻤﻬﻤﻟﺍ ﺯﺎﺠﻧﺇ ﻢﺗ</GoodwillChangedReason_FinishedQuest>
+  
+  <GoodwillChangedReason_UsedForbiddenThing>{ ﻡﺪﺨﺘﺴﺗ: : ? PAWN_labelShort} {PAWN_gender} ﻡﺪﺨﺘﺳﺍ
+{lookup: {CULPRIT}; Case; 3}</GoodwillChangedReason_UsedForbiddenThing>
+  
+  <GoodwillChangedReason_SoldPawn>{labelShort_0}{ ﻖﺣ: ? gender_0} ﻉﺎﺒﻣ</GoodwillChangedReason_SoldPawn>
+  
+  <GoodwillChangedReason_EuthanizedPawn>{PAWN_labelShort} ﺎﻳﺯﺎﻧﺎﺜﻳﻺﻟ ﻪﻋﺎﻀﺧﺇ ﻢﺗ.</GoodwillChangedReason_EuthanizedPawn>
+  
+  <GoodwillChangedReason_RequestedMilitaryAid>ﺔﻳﺮﻜﺴﻋ ﺓﺪﻋﺎﺴﻣ ﺐﻠﻃ ﻢﺗ</GoodwillChangedReason_RequestedMilitaryAid>
+  
+  <GoodwillChangedReason_RequestedTrader>ﺔﻳﺭﺎﺠﺗ ﺔﻠﻓﺎﻗ ﺐﻠﻃ ﻢﺗ</GoodwillChangedReason_RequestedTrader>
+  
+  <GoodwillChangedReason_CausedNeuroquakeEcho>ﺔﻴﺒﺼﻋ ﺔﻔﺻﺎﻋ ﺀﺎﻋﺪﺘﺳﺍ ﻢﺗ</GoodwillChangedReason_CausedNeuroquakeEcho>
+  
+  <GoodwillChangedReason_CausedBerserk>{PAWN_labelShort} ﻥﻮﻨﺟ ﺔﻟﺎﺣ ﻲﻓ ﻞﺧﺪﺗ.</GoodwillChangedReason_CausedBerserk>
+  
+  <GoodwillChangeReason_AttackedFaction>.ﻡﻮﺠﻬﻟ {name_0} ﺔﻋﺎﻤﺠﻟﺍ ﺖﺿﺮﻌﺗ</GoodwillChangeReason_AttackedFaction>
+  
+  <GoodwillChangeReason_ShuttleDestroyed>.ﺔﻴﺋﺎﻀﻔﻟﺍ ﺔﺒﻛﺮﻤﻟﺍ ﺮﻴﻣﺪﺗ ﻢﺗ</GoodwillChangeReason_ShuttleDestroyed>
+  
+  <GoodwillChangeReason_CiviliansLost>.ﻥﻮﻴﻧﺪﻤﻟﺍ ﺍﻮﻓﻮﺗ</GoodwillChangeReason_CiviliansLost>
+  
+  <GoodwillChangeReason_CommanderLost>.ﺪﺋﺎﻘﻟﺍ ﻲﻓﻮﺗ</GoodwillChangeReason_CommanderLost>
+
+  
+  <MessageGiftGivenButNotAppreciated>ﻻ ﻦﻜﻟﻭ ،ﻚﺘﻳﺪﻫ ﻥﻮﻠﺒﻘﻳ {0} ﺔﻗﺮﻔﻟﺍ ﻲﻓ
+.ﻡﺎﻤﺘﻫﺍ ﻱﺃ ﺎﻬﻧﻮﻄﻌﻳ</MessageGiftGivenButNotAppreciated>
+
+  
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>ﺏﺎﻌﻴﺘﺳﺍ ﺎﻬﻨﻜﻤﻳ ﻻﻭ ﻑﺎﻛ ﻞﻜﺸﺑ ﺔﻠﻤﺤﻣ ﺔﻠﻓﺎﻘﻟﺍ
+.ﻥﻵﺍ ﺮﺧﺁ ﺀﻲﺷ ﻱﺃ</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  
+  <MessageCantGiveGiftBecauseCantCarry>.ﺓﺮﻴﺒﻜﻟﺍ ﺔﻴﻤﻜﻟﺍ ﻩﺬﻫ ﻞﻘﻧ ﻊﻴﻄﺘﺴﺗ ﻻ ﺔﻠﻓﺎﻘﻟﺍ
+ﻰﻠﻋ ﺓﺭﺩﺎﻗ ﺔﻠﻓﺎﻘﻟﺍ ﺎﻤﻨﻴﺑ {0} ﻥﺰﺗ ﺎﻳﺍﺪﻬﻟﺍ
+.{1} ﻂﻘﻓ ﻞﻤﺣ</MessageCantGiveGiftBecauseCantCarry>
+
+  
+  <MessageFormedCaravan>.ﻪﺘﻠﺣﺭ ﺃﺪﺒﻳﻭ {0} ﻞﻴﻜﺸﺗ ﻢﺗ</MessageFormedCaravan>
+  
+  <MessageFormedCaravan_Orders>ﻑﺪﻬﻟﺍ</MessageFormedCaravan_Orders>
+
+  
+  <MessageBillValidationStoreZoneDeleted>ﻦﻤﺿ "{0}" ﺔﻤﻬﻣ ﻝﺎﻤﻛﺇ ﺔﺠﻴﺘﻧ ﻒﻴﻨﺼﺗ ﺭﺬﻌﺗ
+.ﺎﻬﻓﺬﺣ ﻢﺗ ﺚﻴﺣ ،{2} ﻝﺎﺠﻣ</MessageBillValidationStoreZoneDeleted>
+  
+  <MessageBillValidationStoreZoneUnavailable>ﺔﻤﻬﻣ ﻝﺎﻤﻛﺇ ﺔﺠﻴﺘﻧ ﻒﻴﻨﺼﺗ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ
+.ﺔﺣﺎﺘﻣ ﺮﻴﻏ ﺎﻬﻧﻷ ،{2} ﻝﺎﺠﻤﻟﺍ ﺖﺤﺗ "{0}"</MessageBillValidationStoreZoneUnavailable>
+  
+  <MessageBillValidationPawnUnavailable>ﻰﻠﻋ ﻞﻤﻌﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﺎﻫ/ﻪﻨﻜﻤﻳ ﻻ {0}
+.ﺎﻬﺘﻟﺍﺯﺇ ﺖﻤﺗ ﺪﻗ ﺩﻮﻴﻘﻟﺍ ."{1}" ﺔﻤﻬﻣ</MessageBillValidationPawnUnavailable>
+  
+  <MessageBillValidationIncludeZoneDeleted>ﺓﺩﺪﺤﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺩﺪﻋ ﺏﺎﺴﺣ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ
+.ﺎﻬﺘﻟﺍﺯﺇ ﺖﻤﺗ {2} ﺔﻘﻄﻨﻤﻟﺍ ﻥﻷ "{0}" ﺔﻤﻬﻤﻠﻟ</MessageBillValidationIncludeZoneDeleted>
+  
+  <MessageBillValidationIncludeZoneUnavailable>ﺔﻤﻬﻣ ﻲﻓ ﺀﺎﻴﺷﻷﺍ ﺩﺪﻋ ﺏﺎﺴﺣ ﻦﻜﻤﻣ ﺮﻴﻏ
+.{2} ﺮﻓﻮﺗ ﻡﺪﻋ ﺐﺒﺴﺑ "{0}"</MessageBillValidationIncludeZoneUnavailable>
+  
+  <MessageBillValidationStoreZoneInsufficient>ﺔﻤﻬﻤﻟﺍ ﻝﺎﻤﻛﺇ ﺞﺋﺎﺘﻧ ﻊﻴﻤﺟ ﻦﻴﻴﻌﺗ ﻦﻜﻤﻳ ﻻ
+.{2} ﺔﻘﻄﻨﻤﻟﺍ ﻰﻟﺇ "{0}"</MessageBillValidationStoreZoneInsufficient>
+
+  
+  <MessageAnimalReturnedWild>{labelShort_1} ، ﺾﻳﻭﺮﺘﻟﺍ ﺕﻻﻭﺎﺤﻤﻟ ﻞﻳﻮﻃ ﺏﺎﻴﻏ ﺐﺒﺴﺑ
+.ﻯﺮﺧﺃ ﺓﺮﻣ ﺎﺸﺣﻮﺘﻣ ﺢﺒﺻﺃ</MessageAnimalReturnedWild>
+  
+  <MessageAnimalReturnedWildReleased>{1_labelShort} {1_gender ? ﻰﻟﺇ {ﺕﺩﺎﻋ : ﺩﺎﻋ
+ﺔﻳﺮﺒﻟﺍ ﺔﻌﻴﺒﻄﻟﺍ.</MessageAnimalReturnedWildReleased>
+  
+  <MessageAnimalLostSkill>{1} :ﺓﺭﺎﻬﻤﻟﺍ ﺕﺪﻘﻓ ،ﺔﻠﻳﻮﻄﻟﺍ ﻦﻳﺭﺎﻤﺘﻟﺍ ﺏﺎﻴﻏ ﺐﺒﺴﺑ
+.{ﺎﻬﻟ : ﻪﻟ ? ANIMAL_labelShort} {ANIMAL_gender}</MessageAnimalLostSkill>
+
+  
+  <MessageTranslationReportSaved>{0} ﻒﻠﻤﻟﺍ ﻲﻓ ﺔﻤﺟﺮﺘﻟﺍ ﺮﻳﺮﻘﺗ ﻞﻴﺠﺴﺗ ﻢﺗ</MessageTranslationReportSaved>
+
+  
+  <MessageCaravanArrivalActionNoLongerValid>ﺔﻬﺟﻮﻟﺍ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ {0} ـﻟ ﻦﻜﻤﻳ ﻻ
+.ﺓﺩﺪﺤﻤﻟﺍ</MessageCaravanArrivalActionNoLongerValid>
+
+  
+  <MessageEnterCooldownBlocksEntering>numCase_0} ﺓﺪﻤﻟ ﻪﺗﺭﺎﻳﺰﻟ ﺔﻳﺎﻐﻠﻟ ﺮﻴﻄﺧ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ
+.{ﻡﺎﻳﺃ : ﻦﻴﻣﻮﻳ : ﻡﻮﻳ ?</MessageEnterCooldownBlocksEntering>
+
+  
+  <MessagePermitCooldownFinished>{0_labelShort} "{1}" ﺯﺎﻴﺘﻣﺍ ﻦﻣ ﺓﺩﺎﻔﺘﺳﻻﺍ ﻥﻵﺍ ﻪﻨﻜﻤﻳ
+ﺔﻳﺮﺤﺑ.</MessagePermitCooldownFinished>
+
+  
+  <MessagePredatorHuntingPlayerAnimal>!({PREY_definite_case3} ({PREY_kindBase} ﺩﺎﻄﺼﻳ {ﺱﺮﺘﻔﻤﻟﺍ}</MessagePredatorHuntingPlayerAnimal>
+
+  
+  <MessagePrisonerResistanceBroken>{WARDEN_labelShort} ﺮﻴﺳﻸﻟ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻣﻭﺎﻘﻤﻟﺍ ﻰﻠﻋ ﺡﺎﺠﻨﺑ ﺐﻠﻐﺘﻳ
+{PRISONER_gender ? ﺓﺎﻤﺴﻤﻟﺍ : ﻰﻤﺴﻤﻟﺍ} {PRISONER_labelShort}.</MessagePrisonerResistanceBroken>
+  
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>ﻩﺬﻫ ﻦﻣ ﺀﺍﺪﺘﺑﺍ ﺪﻴﻨﺠﺘﻟﺍ ﻲﻓ ﺀﺪﺒﻟﺍ ﻚﻨﻜﻤﻳ
+.ﺔﻈﺤﻠﻟﺍ</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+
+  
+  <MessageModWithPackageIdAlreadyEnabled>ﺐﺠﻳ .ﻞﻌﻔﻟﺎﺑ ﻞﻌﻔﻣ {0} ﻑﺮﻌﻣ ﻊﻣ ﺩﻮﻤﻟﺍ
+.ﻻﻭﺃ {1} ﻞﻴﻌﻔﺗ ﺀﺎﻐﻟﺇ</MessageModWithPackageIdAlreadyEnabled>
+  
+  <MessageDisableModsBeforeCleaningTranslationFiles>ﻩﺬﻫ ﻡﺍﺪﺨﺘﺳﺍ ﻞﺒﻗ ﺕﺎﻓﺎﺿﻹﺍ ﻊﻴﻤﺟ ﻞﻴﻄﻌﺗ ﻰﺟﺮﻳ
+.ﺓﺍﺩﻷﺍ</MessageDisableModsBeforeCleaningTranslationFiles>
+  
+  <MessageUnpackBeforeCleaningTranslationFiles>ﻑﺬﺣﺍﻭ ﺓﺍﺩﻷﺍ ﻩﺬﻫ ﻦﻋ ﻂﻐﻀﻟﺍ ﻚﻔﺑ ﻢﻗ
+ﻰﻟﺇ ﺔﻤﺟﺮﺘﻟﺍ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﻲﺘﻟﺍ ﺔﻃﻮﻐﻀﻤﻟﺍ ﺕﺎﻔﻠﻤﻟﺍ
+.ﺔﻐﻠﻟﺍ ﻩﺬﻫ</MessageUnpackBeforeCleaningTranslationFiles>
+  
+  <MessageTranslationFilesCleanupDone>{0} :ﺕﺍﺪﻠﺠﻤﻟﺍ ﻞﻳﺪﻌﺗ ﻢﺗ .ﺀﺎﻬﺘﻧﻻﺍ ﻢﺗ</MessageTranslationFilesCleanupDone>
+
+  
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>ﻰﺟﺮﻳ .{0} :ﺔﻤﺟﺮﺘﻟﺍ ﺕﺎﻔﻠﻣ ﺪﺣﺃ ﻞﻴﻤﺤﺗ ﺭﺬﻌﺗ
+.XML ﻒﻠﻤﻟ ﺢﻴﺤﺻ ﺮﻴﻐﻟﺍ ﻖﻴﺴﻨﺘﻟﺍ ﺀﺎﻄﺧﺃ ﺡﻼﺻﺇ</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+
+  
+  <MessageCapturingWillAngerFaction>ﻰﻠﻋ ﺎﺒﻠﺳ ﺮﺛﺆﻳ ﻑﻮﺳ {PAWN_nameDef} ﺯﺎﺠﺘﺣﺍ :ﺮﻳﺬﺤﺗ
+.{PAWN_factionName} ﺔﻋﺎﻤﺟ ﻊﻣ ﺔﻗﻼﻌﻟﺍ</MessageCapturingWillAngerFaction>
+
+  
+  <MessageStrippingWillAngerFaction>ﻊﻣ ﻚﺘﻗﻼﻋ ﺭﻮﻫﺪﺘﺘﺳ ,{PAWN_nameDef} ﺖﻠﺼﻓﺃ ﺍﺫﺇ :ﺮﻳﺬﺤﺗ
+.{PAWN_factionName} ﺔﺒﻴﺘﻜﻟﺍ</MessageStrippingWillAngerFaction>
+
+  
+  <MessageCantShootInMelee>.ﻰﺑﺮﻘﻟﺍ ﻝﺎﺘﻗ ﻲﻓ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻦﻜﻤﻳ ﻻ</MessageCantShootInMelee>
+
+  
+  <MessageNoColonistCanAcceptQuest>ﻥﺃ &lt;0&gt; ﻝﺍ ﻦﻣ ﻱﻷ ﻦﻜﻤﻳ ﻻ
+.ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﻞﺒﻘﻳ</MessageNoColonistCanAcceptQuest>
+  
+  <MessageCannotAcceptQuest>.ﺔﻤﻬﻤﻟﺍ ﻝﻮﺒﻗ ﻦﻜﻤﻣ ﺮﻴﻏ</MessageCannotAcceptQuest>
+  
+  <MessageQuestAccepted>{0_definite} {0_gender ? ﺔﻤﻬﻣ {ﺖﻠﺒﻗ : ﻞﺒﻗ
+1}"}"</MessageQuestAccepted>
+  
+  <MessagePawnLeaving>.ﺭﺩﺎﻐﻳ {0}</MessagePawnLeaving>
+  
+  <MessagePawnsLeaving>.ﻥﻭﺭﺩﺎﻐﻳ {0}</MessagePawnsLeaving>
+
+  
+  <MessageMonumentDestroyedBecauseOfDisallowedBuilding>ﺀﺎﻨﺑ ﻪﻠﺧﺍﺩ ﺖﻴﻨﺑ ﻚﻧﻷ ﻩﺮﻴﻣﺪﺗ ﻢﺗ ﺐﺼﻨﻟﺍ
+.ﻪﺑ ﺡﻮﻤﺴﻣ ﺮﻴﻏ</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
+
+  
+  <MessageNoResearchBenchForTechprint>ﺪﺟﻮﻳ ﻻ :ﻲﻧﺎﻴﺒﻟﺍ ﻢﺳﺮﻟﺍ ﺬﻴﻔﻨﺗ ﻦﻜﻤﻳ ﻻ
+.ﻝﻮﺻﻮﻟﺍ ﻕﺎﻄﻧ ﻲﻓ ﺙﺎﺤﺑﻸﻟ ﺔﻣﺪﺨﺘﺴﻣ ﺮﻴﻏ ﺔﻟﻭﺎﻃ</MessageNoResearchBenchForTechprint>
+
+  
+  <NoValidDestinationFound>{0} ﺓﺭﺪﻘﻟ ﺔﻬﺟﻭ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻢﺘﻳ ﻢﻟ</NoValidDestinationFound>
+
+  
+  <MessageMinifiedTreeDied>.ﺖﻴﻓﻮﺗ ﺪﻗ ﺎﻬﺟﺍﺮﺨﺘﺳﺍ ﻢﺗ ﻲﺘﻟﺍ ﺓﺮﺠﺸﻟﺍ</MessageMinifiedTreeDied>
+  
+  
+  
+  <MessageResearchMenuWithoutBench>ﺀﺎﻨﺒﺑ ﻡﻮﻘﺗ ﻰﺘﺣ ﺚﺤﺒﻟﺍ ﺃﺪﺒﻳ ﻦﻟ :ﻩﺎﺒﺘﻧﺍ
+.ﺚﺤﺒﻟﺍ ﺔﻟﻭﺎﻃ</MessageResearchMenuWithoutBench>
+
+  
+  <MessageActivatorProximityTriggered>{0_indefinite} {0_gender ? ﻞﻴﻌﻔﺘﺑ {ﺖﻣﺎﻗ : ﻡﺎﻗ
+ﺔﻛﺮﺤﻟﺍ ﻦﻋ ﻒﺸﻜﻟﺍ ﺯﺎﻬﺟ.</MessageActivatorProximityTriggered>
+
+  
+  <MessageCannotSelectInvisibleStat>.ﻲﻟﺎﺤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻓ ﻲﻔﺨﻣ "{label_0}" ﺮﺷﺆﻣ</MessageCannotSelectInvisibleStat>
+
+  
+  <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef} - {PAWN_gender ?ﺓﺮﻴﺳﺃ : ﺮﻴﺳﺍ}.</MessagePrisonerCannotEquipWeapon>
+
+  
+  <MessageIdeoOpposedWorkTypeSelected>ـﺑ ﻪﻟ ﺢﻤﺴﺗ ﻻ {nameDef_0} ﺔﻋﺎﻨﻗ :ﻪﻴﺒﻨﺗ
+.ﻥﺰﺤﻳ ﺪﻗ .{objective} {1_0}</MessageIdeoOpposedWorkTypeSelected>
+
+  
+  <MessageBedLostAssignment>{nameDef_1} ﺪﻌﺑ ﻦﻴﻌﻳ ﻢﻟ {0}</MessageBedLostAssignment>
+  
+  <MessageBedDestroyed>.ﺎﻫﺮﻴﻣﺪﺗ ﻢﺗ ،{nameDef_1} ﺔﻨﻴﻌﻤﻟﺍ ،{0}</MessageBedDestroyed>
+
+  
+  
+  <Spectate>ﺔﺒﻗﺍﺮﻣ</Spectate>
+  
+  <AssignToRole>ﺭﻭﺩ ﻲﻓ {0} ﻦﻴﻴﻌﺗ</AssignToRole>
+  
+  <RitualBegun>.{0} ﺱﻮﻘﻃ ﺕﺃﺪﺑ</RitualBegun>
+  
+  <MaxPawnsPerRole>"{0}" ﺭﻭﺩ ﻲﻓ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺩﺪﻌﻟ ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ
+.{1} ﻮﻫ</MaxPawnsPerRole>
+  
+  <RoleIsLocked>.ﺡﺎﺘﻣ ﺮﻴﻏ {0} ﺭﻭﺪﻟﺍ</RoleIsLocked>
+  
+  <MessageRitualNeedsAtLeastOnePerson>.ﺪﺣﺍﻭ ﻙﺭﺎﺸﻣ ﻞﻗﻷﺍ ﻰﻠﻋ ﺏﻮﻠﻄﻣ</MessageRitualNeedsAtLeastOnePerson>
+  
+  <MessageRitualNeedsAtLeastOneSpectator>ﻰﻠﻋ ﺪﺣﺍﻭ ﺐﻗﺍﺮﻣ ﻙﺪﻨﻋ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ
+.ﻞﻗﻷﺍ</MessageRitualNeedsAtLeastOneSpectator>
+  
+  <MessageRitualNeedsAtLeastOneRolePawn>.{0} ﺝﺎﺘﺣﺃ</MessageRitualNeedsAtLeastOneRolePawn>
+  
+  <MessageRitualNeedsAtLeastNumRolePawn>? numCase_1} ﻞﻗﻷﺍ ﻰﻠﻋ {0} ﻰﻟﺇ ﺝﺎﺘﺤﻧ
+.{ﺺﺨﺷ : ﺺﺨﺷ : ﺹﺎﺨﺷﻷﺍ ﻦﻣ</MessageRitualNeedsAtLeastNumRolePawn> 
+  
+  <MessageRitualPawnDowned>{0_gender ? `ﺔﻟﻮﻠﺸﻣ` : `ﻝﻮﻠﺸﻣ`}</MessageRitualPawnDowned>
+  
+  <MessageRitualPawnPrisonerNotSecured>{0_labelShort} ﺏﺮﻬﻳ.</MessageRitualPawnPrisonerNotSecured>
+  
+  <MessageRitualPawnSlaveNotSecured>.{labelShort_0} ﺭﻮﺜﻳ</MessageRitualPawnSlaveNotSecured>
+  
+  <MessageRitualPawnReleased>.{labelShort_0} ﺭﺮﺤﺗ</MessageRitualPawnReleased>
+  
+  <MessageRitualPawnInjured>{0_labelShort} {0_gender ? ﺔﺑﺎﺼﻣ : ﺏﺎﺼﻣ}.</MessageRitualPawnInjured>
+  
+  <MessageRitualRoleRequired>ﺭﺍﻭﺩﻷﺍ ﺪﺣﺃ ﻲﻓ ﻥﻮﻜﻳ {LabelShort_0} ﻥﺃ ﺐﺠﻳ
+ﺔﻴﻟﺎﺘﻟﺍ</MessageRitualRoleRequired>
+  
+  <MessageRitualRoleMustBePrisoner>.ﺎﻨﻴﺠﺳ ﺢﺒﺼﻳ {0} ﻥﺃ ﺐﺠﻳ</MessageRitualRoleMustBePrisoner> 
+  
+  <MessageRitualRoleMustBeAnimal>.ﺎﻧﺍﻮﻴﺣ ﻥﻮﻜﺗ ﻥﺃ ﺐﺠﻳ {0}</MessageRitualRoleMustBeAnimal> 
+  
+  <MessageRitualRoleMustBeHumanlike>.ﺎﺼﺨﺷ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ {0}</MessageRitualRoleMustBeHumanlike> 
+  
+  <MessageRitualRoleCannotBeABaby>.ﺎﻌﻴﺿﺭ ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ {0}</MessageRitualRoleCannotBeABaby>
+  
+  <MessageRitualNoRolesAvailable>.{labelShort_0} ـﻟ ﺔﺣﺎﺘﻣ ﺭﺍﻭﺩﺃ ﺪﺟﻮﺗ ﻻ</MessageRitualNoRolesAvailable>
+  
+  <MessageRitualNotOfPlayerIdeo>{0_labelShort} ﺓﺩﻮﺟﻮﻤﻟﺍ ﺕﺎﻴﺟﻮﻟﻮﻳﺪﻳﻷﺍ ﻦﻣ ﻱﻷ ﺎﻋﺎﺒﺗﺃ ﺲﻴﻟ
+ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻲﻓ.</MessageRitualNotOfPlayerIdeo>
+  
+  <MessageRitualRoleMustHaveEyes>.ﻥﻮﻴﻋ ﻪﻳﺪﻟ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ {0}</MessageRitualRoleMustHaveEyes> 
+  
+  <MessageRitualRoleMustRequireScarification>{0_labelShort} ﻲﻣﺎﺴﺘﻟﺍ ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﺪﻌﻳ ﻢﻟ.</MessageRitualRoleMustRequireScarification>
+  
+  <MessageRitualRoleMustRequireBlinding>{0_labelShort} ﻲﺳﻮﻘﻃ ﻞﻜﺸﺑ ﺎﻬﺘﻴﻤﻌﺘﻟ ﺔﺟﺎﺣ ﻻ.</MessageRitualRoleMustRequireBlinding>
+  
+  <MessageRitualRoleMustBePrisonerOrSlave>.ﺍﺪﺒﻋ ﻭﺃ ﺎﻨﻴﺠﺳ {0} ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualRoleMustBePrisonerOrSlave> 
+  
+  <MessageRitualRoleMustBeCapableOfFighting>ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ {0} ـﻟ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ
+.ﺔﻠﺗﺎﻘﻤﻟﺍ</MessageRitualRoleMustBeCapableOfFighting> 
+  
+  <MessageRitualRoleCannotReplaceRequiredPawn>ﺮﺧﺁ ﺺﺨﺷ ﻱﻷ ﻦﻜﻤﻳ ﻻ ﺭﻭﺪﻟﺍ ﺍﺬﻫ
+.ﻪﻠﻤﺤﺗ</MessageRitualRoleCannotReplaceRequiredPawn>
+  
+  <MessageRitualRolePawnRecentlyTornConnection>ﻦﻴﻠﻧﺍﺭﻭﺎﻏ ﺓﺮﺠﺷ ﻊﻣ ﻞﺻﺍﻮﺘﻟﺍ {labelShort_0} ﻊﻴﻄﺘﺴﻳ ﻻ
+.ﺍﺮﺧﺆﻣ ﻊﻄﻗ ﺪﻗ ﻥﺎﻛ ﻪﻟﺎﺼﺗﺍ ﻥﻷ</MessageRitualRolePawnRecentlyTornConnection>
+  
+  <MessageRitualRolePawnHasSameIdeo>{0_labelShort} ﺙﺪﺤﺘﻤﻠﻟ ﺓﺪﻳﺆﻤﻟﺍ ﺔﻴﺟﻮﻟﻮﻳﺪﻳﻷﺍ ﺲﻔﻧ ﻊﺒﺘﻳ.</MessageRitualRolePawnHasSameIdeo>
+  
+  <MessageRitualRoleMustBeCapableOfWardening>.ﻑﺍﺮﺷﻹﺍ ﻰﻠﻋ ﺍﺭﺩﺎﻗ {labelShort_0} ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageRitualRoleMustBeCapableOfWardening>
+  
+  <MessageRitualRoleMustBeCapableOfGeneric>ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ {0} ﻯﺪﻟ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ
+.{1}</MessageRitualRoleMustBeCapableOfGeneric> 
+  
+  <MessageRitualRoleMustNotBePrisonerToSpectate>.{0} ﻥﻮﻌﻴﻄﺘﺴﻳ ﻻ ﻯﺮﺳﻷﺍ</MessageRitualRoleMustNotBePrisonerToSpectate>
+  
+  <MessageRitualRoleMustHaveIdeoToSpectate>.{1} ﻢﻬﻨﻜﻤﻳ {0} ﻂﻘﻓ</MessageRitualRoleMustHaveIdeoToSpectate>
+  
+  <MessageRitualRoleMustHaveIdeoToDoRole>."{1}" ﺭﻭﺩ ﺬﺧﺄﻳ ﻥﺃ ﻦﻜﻤﻳ {0} ﻂﻘﻓ</MessageRitualRoleMustHaveIdeoToDoRole>
+  
+  <MessageRitualRoleMustBeColonist>."{0}" ﺭﻭﺪﻟﺍ ﻰﻟﺇ ﺪﻴﻌﺼﺘﻟﺎﺑ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﻂﻘﻓ ﺢﻤﺴﻳ</MessageRitualRoleMustBeColonist>
+  
+  <MessageRitualWontAttendExtremeTemperature>{0_labelShort} ﻯﻮﺼﻘﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﺐﺒﺴﺑ ﻲﺗﺄﻳ ﻦﻟ
+ﺱﻮﻘﻄﻟﺍ ﺀﺍﺮﺟﺇ ﻥﺎﻜﻣ ﻲﻓ.</MessageRitualWontAttendExtremeTemperature>
+  
+  <MessageRitualRoleMustBeFreeColonist>.ﺍﺮﺣ ﺎﻨﻃﻮﺘﺴﻣ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ {0}</MessageRitualRoleMustBeFreeColonist>
+  
+  <MessageRitualRoleMustHaveLargerBodySize>ﻢﺴﺟ ﻢﺠﺤﺑ ﺎﻧﺍﻮﻴﺣ {0} ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ
+.{1} ﻦﻋ ﻞﻘﻳ ﻻ</MessageRitualRoleMustHaveLargerBodySize> 
+  
+  <MessageRitualPawnMentalState>{0_labelShort} ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﺔﻟﺎﺣ ﻲﻓ.</MessageRitualPawnMentalState>
+  
+  <MessageRitualPawnIsAlreadyBelievingIdeo>{0_labelShort} ﻥﻵﺍ ﻞﻤﻌﻠﻟ ﺪﻌﺘﺴﻣ.</MessageRitualPawnIsAlreadyBelievingIdeo>
+  
+  <MessageRitualCannotAssignAnyRoleFromSpectating>.ﺎﺒﻗﺍﺮﻣ ﻥﻮﻜﻳ ﻥﺃ ﻯﻮﺳ {labelShort_0} ﻊﻴﻄﺘﺴﻳ ﻻ</MessageRitualCannotAssignAnyRoleFromSpectating>
+  
+  <MessageRitualRoleMustNotBeImprisonedWildMan>ﺮﺑﺭﺮﺒﻠﻟ ﺍﺮﻴﺳﺃ {0} ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ
+.ﺓﺮﺑﺮﺒﻟﺍ ﻭﺃ</MessageRitualRoleMustNotBeImprisonedWildMan> 
+  
+  <MessageRitualRoleMustNotBeImprisoned>ﺍﺮﺣ? gender_0} &lt;ﻮﻫ:he&gt; ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ {0}
+.{ﺓﺮﺣ :</MessageRitualRoleMustNotBeImprisoned>
+  
+  <MessageRitualRoleCannotBeChild>.ﻼﻔﻃ ﻥﻮﻜﻳ ﻥﺃ {0} ـﻟ ﻦﻜﻤﻳ ﻻ</MessageRitualRoleCannotBeChild>
+  
+  <MessageRitualRoleCannotBeBaby>.ﻊﻴﺿﺭ ﻥﻮﻜﻳ {0} ﻥﺃ ﻦﻜﻤﻳ ﻻ</MessageRitualRoleCannotBeBaby>
+
+  
+  <MessagePlayerMustSelectTile>.ﻥﺎﻜﻤﻟﺍ ﺪﻳﺪﺤﺘﺑ ﻢﻗ ،ﺔﻌﺑﺎﺘﻤﻟﺍ ﻞﺒﻗ</MessagePlayerMustSelectTile>
+
+  
+  <CannotPlantThing>{3 ;ﺔﻟﺎﺣ ;{lookup: {0_labelShort} ﺔﻋﺍﺭﺯ ﻦﻜﻤﻣ ﺮﻴﻏ</CannotPlantThing>
+  
+  <MessageWarningNotEnoughFertility>.ﺔﺑﻮﺼﺧ ﺮﺜﻛﺃ ﺔﺑﺮﺘﻟﺍ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ</MessageWarningNotEnoughFertility>
+  
+  <BlockedBy>.{lookup: {0_label}; Case; 4} ﺮﻈﺣ ﻢﺗ</BlockedBy>
+  
+  <AdjacentSowBlocker>.{label; Case; 4_0} ﺭﺍﻮﺠﺑ ﻪﺘﻋﺍﺭﺯ ﻦﻜﻤﻳ ﻻ</AdjacentSowBlocker>
+  
+  <TooCloseToOtherPlant>.{lookup: {0_label}; Case; 2} ﻦﻣ ﺍﺪﺟ ﺐﻳﺮﻗ</TooCloseToOtherPlant>
+  
+  <TooCloseToOtherSeedPlantCell>؛{lookup: {0} ﻁﻮﺒﻬﻟﺍ ﺔﻘﻄﻨﻣ ﻰﻟﺇ ﺍﺮﻴﺜﻛ ﺏﺮﻗﺃ
+.{1 :ﺔﻟﺎﺣ</TooCloseToOtherSeedPlantCell>
+
+  
+  <MessageWarningCutImportantPlant>.ﻊﻄﻘﻠﻟ {0} ﺪﻳﺪﺤﺗ ﻢﺗ :ﻪﻴﺒﻨﺗ</MessageWarningCutImportantPlant>
+
+  
+  <MessageIncapableOfManipulation>.ﻞﻤﻌﻟﺍ {labelShort_0} ـﻟ ﻦﻜﻤﻳ ﻻ</MessageIncapableOfManipulation>
+
+  
+  <MessageActivationCanceled>{lookup: {0_labelShort}; Case; 1} ﻞﻴﻌﻔﺗ ﺀﺎﻐﻟﺇ ﻢﺗ</MessageActivationCanceled>
+
+  
+  <NothingAvailableInCategory>ﻩﺬﻫ ﻦﻣ ﺀﻲﺷ ﻱﺃ ﺀﺎﻨﺑ ﻚﻨﻜﻤﻳ ﻻ
+.ﻥﻵﺍ ﻰﺘﺣ ﺔﺌﻔﻟﺍ</NothingAvailableInCategory>
+
+  
+  <SettingsLinkedFor>ﻲﻧﺎﺒﻤﻟﺍ : ﻰﻨﺒﻣ ? numCase_0} ﻊﻴﻤﺠﺗ ﻢﺗ
+.{ﻲﻧﺎﺒﻤﻟﺍ :</SettingsLinkedFor>
+  
+  <SettingsUnlinkedFor>: ﺓﺄﺸﻨﻤﻟﺍ ?numCase_0} ـﻟ ﻊﻤﺠﺘﻟﺍ ﺀﺎﻐﻟﺇ ﻢﺗ
+.{ﺕﺂﺸﻨﻤﻟﺍ : ﺕﺂﺸﻨﻤﻟﺍ</SettingsUnlinkedFor>
+  
+  <StorageSettingsCopiedToClipboard>.ﺔﻈﻓﺎﺤﻟﺍ ﻰﻟﺇ ﻦﻳﺰﺨﺘﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﺦﺴﻧ ﻢﺗ</StorageSettingsCopiedToClipboard>
+  
+  <StorageSettingsPastedFromClipboard>.ﺔﻈﻓﺎﺤﻟﺍ ﻦﻣ ﻦﻳﺰﺨﺘﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﻝﺎﺧﺩﺇ ﻢﺗ</StorageSettingsPastedFromClipboard>
+
+</LanguageData>
