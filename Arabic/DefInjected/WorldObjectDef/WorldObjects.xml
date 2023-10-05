@@ -1,0 +1,49 @@
+<LanguageData>
+  
+  
+  <AbandonedSettlement.label>ﺓﺭﻮﺠﻬﻤﻟﺍ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ</AbandonedSettlement.label>
+  
+  <AbandonedSettlement.description>.ﺓﺭﻮﺠﻬﻤﻟﺍ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ</AbandonedSettlement.description>
+  
+  
+  <AttackedNonPlayerCaravan.label>ﺔﻓﺪﻬﺘﺴﻤﻟﺍ ﺔﻠﻓﺎﻘﻟﺍ</AttackedNonPlayerCaravan.label>
+  
+  <AttackedNonPlayerCaravan.description>.ﻡﻮﺠﻬﻠﻟ ﺔﻠﻓﺎﻘﻟﺍ ﺍﺬﻫ ﺽﺮﻌﺘﻳ</AttackedNonPlayerCaravan.description>
+  
+  
+  <Caravan.label>ﺔﻠﻓﺎﻘﻟﺍ</Caravan.label>
+  
+  <Caravan.description>ﻦﻳﺮﻓﺎﺴﻣ ﺔﻋﻮﻤﺠﻣ</Caravan.description>
+  
+  
+  <DestroyedSettlement.label>ﺔﻋﺎﻤﺠﻟ ﺔﻣﻭﺰﻬﻤﻟﺍ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ</DestroyedSettlement.label>
+  
+  <DestroyedSettlement.description>.ﻞﺋﺎﺼﻔﻟﺍ ﻯﺪﺣﻹ ﺔﻣﻭﺰﻬﻤﻟﺍ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ</DestroyedSettlement.description>
+  
+  
+  <EscapeShip.label>ﺔﻨﻴﻔﺴﻟﺍ</EscapeShip.label>
+  
+  <EscapeShip.description>ﺓﺭﺩﺎﻐﻣ ﻲﻓ ﻙﺪﻋﺎﺴﺗ ﺪﻗ ﺔﻴﻔﺨﻣ ﺔﻨﻴﻔﺳ ﻊﻗﻮﻣ
+.ﺐﻛﻮﻜﻟﺍ</EscapeShip.description>
+  
+  
+  <PeaceTalks.label>ﺔﻴﻤﻠﺴﻟﺍ ﺕﺎﺿﻭﺎﻔﻤﻟﺍ</PeaceTalks.label>
+  
+  <PeaceTalks.description>ﺔﻴﻤﻠﺴﻟﺍ ﺕﺎﺿﻭﺎﻔﻤﻟﺍ ﺪﻘﻌﻟ ﺺﺼﺨﻤﻟﺍ ﻥﺎﻜﻤﻟﺍ</PeaceTalks.description>
+  
+  
+  <RoutePlannerWaypoint.label>ﺔﻬﺟﻮﻟﺍ ﺔﻄﻘﻧ</RoutePlannerWaypoint.label>
+  
+  <RoutePlannerWaypoint.description>ﻖﻳﺮﻄﻟﺍ ﺔﻄﻘﻧ ﻰﻟﺇ ﺮﻴﺸﺗ ﺔﺘﻗﺆﻣ ﺔﻣﻼﻋ</RoutePlannerWaypoint.description>
+  
+  
+  <Settlement.label>ﻞﻴﺼﻔﻟﺍ ﺔﻨﻃﻮﺘﺴﻣ</Settlement.label>
+  
+  <Settlement.description>.ﻞﺋﺎﺼﻔﻟﺍ ﻯﺪﺣﺇ ﺔﻨﻃﻮﺘﺴﻣ</Settlement.description>
+  
+  
+  <TravelingTransportPods.label>ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻜﻟﺍ</TravelingTransportPods.label>
+  
+  <TravelingTransportPods.description>ﻖﻠﺤﺗ ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻜﻟﺍ</TravelingTransportPods.description>
+  
+</LanguageData>
