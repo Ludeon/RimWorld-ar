@@ -1,0 +1,36 @@
+<LanguageData>
+  
+  
+  <Alpaca.label>ﺔﻜﺒﻟﻷﺍ</Alpaca.label>
+  <Alpaca.labelPlural>ﺎﻜﺒﻟﺍ</Alpaca.labelPlural>
+  <Alpaca.lifeStages.0.label>ﻱﺮﻘﺒﻟﺍ ﻞﺠﻌﻟﺍ</Alpaca.lifeStages.0.label>
+  <Alpaca.lifeStages.1.label>ﺔﺑﺎﺸﻟﺍ ﺓﺭﺎﻜﺒﻟﺍ</Alpaca.lifeStages.1.label>
+  
+  
+  <Capybara.label>ﺍﺭﺎﺒﻴﺑﺎﻛ</Capybara.label>
+  <Capybara.labelPlural>ﺍﺭﺎﺒﻴﺑﺎﻜﻟﺍ</Capybara.labelPlural>
+  <Capybara.lifeStages.0.label>ﺍﺭﺎﺒﻴﺑﺎﻜﻟﺍ ﺭﺎﻐﺻ</Capybara.lifeStages.0.label>
+  <Capybara.lifeStages.1.label>ﺓﺮﻴﻐﺼﻟﺍ ﺍﺭﺎﺒﻴﺑﺎﻜﻟﺍ</Capybara.lifeStages.1.label>
+  
+  
+  <Megasloth.label>ﻕﻼﻤﻌﻟﺍ ﻥﻼﺴﻜﻟﺍ</Megasloth.label>
+  <Megasloth.labelPlural>ﺔﻘﻟﺎﻤﻌﻟﺍ ﺔﻜﺒﺳ</Megasloth.labelPlural>
+  <Megasloth.lifeStages.0.label>ﻝﻮﺴﻜﻟﺍ ﺲﻴﺘﻧﺎﻐﻴﻏ ﻝﺎﻔﻃﺃ</Megasloth.lifeStages.0.label>
+  <Megasloth.lifeStages.1.label>ﺮﻴﻐﺻ ﻢﺨﺿ ﻝﻮﺴﻛ</Megasloth.lifeStages.1.label>
+  
+  
+  <Sheep.label>ﻑﻭﺮﺨﻟﺍ</Sheep.label>
+  
+  <Sheep.labelFemale>ﻑﻭﺮﺧ</Sheep.labelFemale>
+  
+  <Sheep.labelMale>ﺓﺮﻘﺑ</Sheep.labelMale>
+  
+  <Sheep.labelPlural>ﻡﺎﻨﻏﻷﺍ</Sheep.labelPlural>
+  
+  <Sheep.lifeStages.lamb.label>ﻞﻤﺤﻟﺍ</Sheep.lifeStages.lamb.label>
+  
+  <Sheep.lifeStages.lamb.labelPlural>ﺓﺮﻴﻐﺻ ﻡﺎﻨﻏﺃ</Sheep.lifeStages.lamb.labelPlural>
+  <Sheep.lifeStages.1.labelFemale>ﺮﻴﻐﺼﻟﺍ ﻑﻭﺮﺨﻟﺍ</Sheep.lifeStages.1.labelFemale>
+  <Sheep.lifeStages.1.labelMale>ﺶﺒﻜﻟﺍ ﺏﺎﺷ</Sheep.lifeStages.1.labelMale>
+  
+</LanguageData>
