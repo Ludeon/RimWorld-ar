@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageInfo>
+  <friendlyNameNative>Arabic</friendlyNameNative>
+  <friendlyNameEnglish>Arabic</friendlyNameEnglish>
+  <canBeTiny>true</canBeTiny>
+  <credits>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>FALTAH_7</creditee>
+    </li>
+  </credits>
+</LanguageInfo>
