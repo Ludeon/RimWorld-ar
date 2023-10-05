@@ -1,0 +1,68 @@
+<LanguageData>
+  
+  
+  <Animals.label>ﺔﻔﻴﻟﻷﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</Animals.label>
+  
+  <Animals.description>ﺔﺿﻭﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻲﻓ ﺔﻣﺎﻗﻹﺍ ﺪﻋﺍﻮﻗ</Animals.description>
+  
+  
+  <Architect.label>ﻊﻳﺭﺎﺸﻤﻟﺍ</Architect.label>
+  
+  <Architect.description>ﻦﻳﺰﺨﺘﻟﺍﻭ ﺔﻋﺍﺭﺰﻟﺍﻭ ﺀﺎﻨﺒﻟﺍ ﻥﺄﺸﺑ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺕﺎﻬﻴﺟﻮﺗ</Architect.description>
+  
+  
+  <Assign.label>ﺕﺎﻨﻴﻴﻌﺗ</Assign.label>
+  
+  <Assign.description>ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ ﺔﻴﻔﻴﻛﻭ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺲﺑﻼﻤﻟﺍ ﺀﺍﺪﺗﺭﺍ ﺪﻋﺍﻮﻗ
+ﺕﺍﺪﻳﺪﻬﺘﻟﺍ</Assign.description>
+  
+  
+  <Factions.label>ﻞﺋﺎﺼﻔﻟﺍ</Factions.label>
+  
+  <Factions.description>ﺎﻬﻨﻴﺑ ﺕﺎﻗﻼﻌﻟﺍﻭ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻲﻓ ﺔﻓﻭﺮﻌﻤﻟﺍ ﺕﺎﻌﻤﺠﺘﻟﺍ</Factions.description>
+  
+  
+  <History.label>ﺔﺼﻘﻟﺍ</History.label>
+  
+  <History.description>ﺔﻴﻧﺎﻴﺒﻟﺍ ﻡﻮﺳﺮﻟﺍﻭ ﻡﺎﻗﺭﻷﺎﺑ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﺦﻳﺭﺎﺗ</History.description>
+  
+  
+  <Inspect.label>ﺶﻴﺘﻔﺗ</Inspect.label>
+  
+  
+  <Menu.label>ﺔﻤﺋﺎﻗ</Menu.label>
+  
+  <Menu.description>ﺔﺒﻌﻠﻟﺍ ﻦﻣ ﺝﻭﺮﺨﻟﺍ ﻭﺃ ﻞﻴﻤﺤﺗ ،ﻆﻔﺣ ،ﺕﺍﺩﺍﺪﻋﻹﺍ</Menu.description>
+  
+  
+  <Quests.label>ﻡﺎﻬﻤﻟﺍ</Quests.label>
+  
+  <Quests.description>.ﺔﻴﻬﺘﻨﻤﻟﺍﻭ ﺔﻄﺸﻨﻟﺍ ،ﺔﺣﺎﺘﻤﻟﺍ ﻡﺎﻬﻤﻟﺍ</Quests.description>
+  
+  
+  <Research.label>ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ</Research.label>
+  
+  <Research.description>ﺔﻴﻟﺎﺤﻟﺍﻭ ﺔﺣﺎﺘﻤﻟﺍ ﺙﻮﺤﺒﻟﺍ</Research.description>
+  
+  
+  <Schedule.label>ﺭﺎﻬﻨﻟﺍ ﻊﺿﻭ</Schedule.label>
+  
+  <Schedule.description>.ﻢﻬﻟ ﺔﺣﺎﺘﻤﻟﺍ ﻖﻃﺎﻨﻤﻟﺍﻭ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺭﺎﻬﻨﻟﺍ ﻊﺿﻭ</Schedule.description>
+  
+  
+  <Wildlife.label>ﺔﻳﺮﺒﻟﺍ ﺓﺎﻴﺤﻟﺍ</Wildlife.label>
+  
+  <Wildlife.description>ﺎﻬﻣﺍﺪﺨﺘﺳﺍﻭ ﺭﺍﻮﺠﻟﺍ ﻲﻓ ﺓﺩﻮﺟﻮﻤﻟﺍ ﺔﻳﺮﺒﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﻤﺋﺎﻗ
+.ﺪﻴﺼﻟﺍ ﻭﺃ ﺾﻳﻭﺮﺘﻠﻟ</Wildlife.description>
+  
+  
+  <Work.label>ﻞﻤﻌﻟﺍ</Work.label>
+  
+  <Work.description>ﺕﺎﻳﻮﻟﻭﻷﺍ ﻦﻴﻴﻌﺗﻭ ﻡﺎﻬﻤﻟﺍ ﻊﻳﺯﻮﺗ</Work.description>
+  
+  
+  <World.label>ﻢﻟﺎﻋ</World.label>
+  
+  <World.description>ﻢﻟﺎﻌﻟﺍ ﺔﻄﻳﺮﺧ</World.description>
+  
+</LanguageData>
