@@ -1,0 +1,49 @@
+<LanguageData>
+  
+  
+  <Bomb.label>ﺭﺎﺠﻔﻧﺍ</Bomb.label>
+  
+  <Bomb.deathMessage>.ﺭﺎﺠﻔﻧﻻﺍ ﺔﻄﺳﺍﻮﺑ {?gender_0} {0} ﻞﺘﻗ ﻢﺗ</Bomb.deathMessage>
+  
+  
+  <BombSuper.label>ﺭﺎﺠﻔﻧﺍ</BombSuper.label>
+  
+  <BombSuper.deathMessage>.ﺭﺎﺠﻔﻧﺍ ﺔﻄﺳﺍﻮﺑ {0} ﻞﺘﻗ ﻢﺗ</BombSuper.deathMessage>
+  
+  
+  <Deterioration.label>ﻒﻠﺘﻟﺍ</Deterioration.label>
+  
+  <Deterioration.deathMessage>{0} {0_gender ? : ﺖﻟﻮﺤﺗ : ﻝﻮﺤﺗ
+ﺩﺎﻣﺭ ﻰﻟﺇ {ﻝﻮﺤﺗ.</Deterioration.deathMessage>
+  
+  
+  <Extinguish.label>ﺀﺎﻔﻃﺇ</Extinguish.label>
+  
+  <Extinguish.deathMessage>{0} {0_gender ? : ﺖﻠﺘﻗ : ﻞﺘﻗ
+ﻞﺘﻗ}.</Extinguish.deathMessage>
+  
+  
+  <Mining.label>ﻦﻳﺪﻌﺘﻟﺍ</Mining.label>
+  
+  <Mining.deathMessage>{0} {0_gender ? : ﺖﻠﺘﻗ : ﻞﺘﻗ
+ﻞﺘﻗ}.</Mining.deathMessage>
+  
+  
+  <Rotting.label>ﻞﻠﺤﺘﻟﺍ</Rotting.label>
+  
+  <Rotting.deathMessage>.{gender_0} {0} ﻦﻔﻌﺗ</Rotting.deathMessage>
+  
+  
+  <Smoke.label>ﻥﺎﺧﺩ</Smoke.label>
+  
+  <Smoke.deathMessage>{0} {0_gender ? ﻢﺗ : ﻪﻠﺘﻗ ﻢﺗ
+ﻪﻠﺘﻗ ﻢﺗ : ﺎﻬﻠﺘﻗ}.</Smoke.deathMessage>
+  
+  
+  <Thump.label>ﺔﺑﺮﻀﻟﺍ</Thump.label>
+  
+  <Thump.deathMessage>{0} {0_gender ? ﻪﻴﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻢﺗ
+ﻢﺗ : ﺎﻬﻴﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻢﺗ :
+ﻪﻴﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ}</Thump.deathMessage>
+  
+</LanguageData>
