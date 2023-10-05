@@ -1,0 +1,136 @@
+<LanguageData>
+  
+  
+  <Cloth.label>.ﺵﺎﻤﻘﻟﺍ</Cloth.label>
+  
+  <Cloth.description>.ﺔﻳﻮﻀﻋ ﻑﺎﻴﻟﺃ ﻦﻣ ﻉﻮﻨﺼﻣ ﺵﺎﻤﻗ</Cloth.description>
+  <Cloth.stuffProps.stuffAdjective>ﺔﺠﺴﻧﺃ</Cloth.stuffProps.stuffAdjective>
+  
+  
+  <DevilstrandCloth.label>ﻚﻴﻧﺩ</DevilstrandCloth.label>
+  
+  <DevilstrandCloth.description>ﺔﻨﻴﺘﻣ .ﻲﻧﺎﻄﻴﺸﻟﺍ ﺮﻄﻔﻟﺍ ﻑﺎﻴﻟﺃ ﻦﻣ ﺝﻮﺴﻨﻤﻟﺍ ﺞﻴﺴﻨﻟﺍ
+ﺯﺎﺘﻤﻣ ﻞﻜﺸﺑ ﻲﻤﺤﺗﻭ ﺪﻴﺟ ﻞﻜﺸﺑ ﻝﺰﻌﺗﻭ ﺍﺪﺟ
+.ﺭﺎﻨﻟﺍ ﻦﻣ</DevilstrandCloth.description>
+  <DevilstrandCloth.stuffProps.stuffAdjective>ﻲﻧﺎﻜﺗﻮﻠﻓﺎﻳﺩ</DevilstrandCloth.stuffProps.stuffAdjective>
+  
+  
+  <Gold.label>ﺐﻫﺬﻟﺍ</Gold.label>
+  
+  <Gold.description>ﻪﺻﺍﻮﺧ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ .ﺔﻴﺑﺫﺎﺟ ﻥﺩﺎﻌﻤﻟﺍ ﺮﺜﻛﺃ
+ﺎﻌﺋﺍﺭ ﻭﺪﺒﻳ ﻪﻧﺃ ﻻﺇ ، ﺔﻔﻴﻌﻀﻟﺍ ﺔﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ
+ﻲﻓ ﺍﻮﺗﺎﻣ ﺪﻗ ﻦﻴﻳﻼﻣ .ﺶﻫﺪﻣ ﻞﻜﺸﺑ ﺍﺭﺩﺎﻧﻭ
+.ﺐﻫﺬﻠﻟ ﻲﺋﺎﻬﻧﻼﻟﺍ ﻱﺮﺸﺒﻟﺍ ﺶﻄﻌﻟﺍ ﻉﺎﺒﺷﺇ ﺕﻻﻭﺎﺤﻣ</Gold.description>
+  
+  <Gold.stuffProps.stuffAdjective>ﺐﻫﺬﻟﺍ</Gold.stuffProps.stuffAdjective>
+  
+  
+  <Hyperweave.label>ﺔﻘﺋﺎﻔﻟﺍ ﺔﺸﻤﻗﻷﺍ</Hyperweave.label>
+  
+  <Hyperweave.description>ﻡﺍﺪﺨﺘﺳﺎﺑ ﻑﺎﻴﻟﺃﻮﻧﺎﻨﻟﺍ ﻦﻣ ﻉﻮﻨﺼﻣ ﺔﻴﻨﻘﺘﻟﺍ ﻲﻟﺎﻋ ﺞﻴﺴﻧ
+.ﻕﺪﺼﺗ ﻻ ﺓﻮﻘﺑ ﻊﺘﻤﺘﻳ .ﺔﺼﺼﺨﺘﻣ ﺔﻴﻋﺎﻨﺻ ﺎﻜﻴﻧﺎﻜﻴﻣ
+ﺪﻨﻋﻭ ، ﺔﻳﺩﺎﻋ ﻑﻭﺮﻇ ﻲﻓ ﺀﺎﻨﺜﻧﻼﻟ ﻞﺑﺎﻗ
+.ﺔﻗﺎﻄﻟﺍ ﺺﺘﻤﻳﻭ ، ﺎﺒﻠﺻ ﺢﺒﺼﻳ ﺔﻣﺪﺼﻠﻟ ﺽﺮﻌﺘﻟﺍ
+ﻲﻓ ﻂﻘﻓ ﺔﻓﻭﺮﻌﻣ ﺔﻘﺋﺎﻔﻟﺍ ﺔﺠﺴﻧﻷﺍ ﺔﻋﺎﻨﺻ ﺭﺍﺮﺳﺃ
+.ﺔﻣﺪﻘﺘﻣ ﺔﻴﺑﻮﺗﻭﺃ ﻢﻟﺍﻮﻋ</Hyperweave.description>
+  <Hyperweave.stuffProps.stuffAdjective>ﺔﻘﺋﺎﻔﻟﺍ ﺔﺸﻤﻗﻷﺍ</Hyperweave.stuffProps.stuffAdjective>
+  
+  
+  <Jade.label>ﺖﻳﺮﻔﻴﻧ ﺔﺘﻓﻻ</Jade.label>
+  
+  <Jade.description>ﻭ ﻪﻟﺎﻤﺟ ﺐﺒﺴﺑ .ﻥﻮﻠﻟﺍ ﺮﻀﺧﺃ ﺐﻠﺻ ﺮﺠﺣ
+ﻦﻜﻟﻭ ،ﺭﻮﻜﻳﺪﻟﺍ ﺽﺍﺮﻏﺃ ﻲﻓ ﻢﺸﻴﻟﺍ ﻡﺪﺨﺘﺴﻳ ﻪﺗﺭﺪﻧ
+ﺔﺤﻠﺳﻸﻟ ﺓﺪﻴﺟ ﺓﺩﺎﻣ ﺎﻀﻳﺃ ﻪﻧﻼﻌﺠﻳ ﻪﺘﻓﺎﺜﻛﻭ ﻪﺘﺑﻼﺻ
+.ﻢﻄﺤﺗ ﻲﺘﻟﺍ</Jade.description>
+  <Jade.stuffProps.stuffAdjective>ﺖﻳﺮﻔﻴﻧ</Jade.stuffProps.stuffAdjective>
+  
+  
+  <Plasteel.label>ﻞﻴﺘﺳﻼﺑ</Plasteel.label>
+  
+  <Plasteel.description>ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﺮﺼﻋ ﻦﻣ ﺔﻘﺋﺎﻓ ﺔﻴﻨﻘﺗ ﺀﺎﻨﺑ ﺓﺩﺎﻣ
+ﻲﺌﻳﺰﺠﻟﺍ ﺎﻬﻠﻜﻴﻫ ﻞﻀﻔﺑ ﺓﻮﻗ ﻰﺼﻗﺄﺑ ﻊﺘﻤﺘﺗ .ﺔﻴﺋﺎﻀﻔﻟﺍ
+.ﺪﻳﺮﻔﻟﺍ</Plasteel.description>
+  <Plasteel.stuffProps.stuffAdjective>ﻞﻴﺘﺳﻼﺑ</Plasteel.stuffProps.stuffAdjective>
+  
+  
+  <Silver.label>ﺔﻀﻓ</Silver.label>
+  
+  <Silver.description>ﻦﻜﻤﻳ ﻪﻨﻜﻟ ،ﺔﻠﻤﻌﻛ ﻡﺪﺨﺘﺴﻳ ﺓﺩﺎﻋ ﻥﺪﻌﻤﻟﺍ ﺍﺬﻫ
+.ﺔﻠﻴﻤﺟ ﺭﻮﻜﻳﺩ ﺀﺎﻴﺷﺃ ﻊﻨﺻ ﻲﻓ ﻪﻣﺍﺪﺨﺘﺳﺍ ﺎﻀﻳﺃ</Silver.description>
+  <Silver.stuffProps.stuffAdjective>ﺔﻀﻔﻟﺍ</Silver.stuffProps.stuffAdjective>
+  
+  
+  <Steel.label>ﺫﻻﻮﻓ</Steel.label>
+  
+  <Steel.description>ﺀﺎﻨﺒﻟﺍ ﻲﻓ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﻥﻮﺑﺮﻜﻟﺍﻭ ﺪﻳﺪﺤﻟﺍ ﻦﻣ ﺔﻜﻴﺒﺳ
+.ﺔﺤﻠﺳﻷﺍﻭ ﺕﺍﻭﺩﻷﺍ ﺔﻋﺎﻨﺻﻭ</Steel.description>
+  <Steel.stuffProps.stuffAdjective>ﺍﻮﺤﺒﺻﺃ</Steel.stuffProps.stuffAdjective>
+  
+  
+  <Synthread.label>ﻥﺎﻜﺘﻨﻴﺳ</Synthread.label>
+  
+  <Synthread.description>ﻊﻨﺼﻟ ﻢﻤﺼﻣ ،ﺔﻴﺋﺎﻀﻔﻟﺍ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﺮﺼﻋ ﻲﻋﺎﻨﺻ ﺞﻴﺴﻧ
+ﻞﻜﺸﺑ ﻝﺰﻌﺗﻭ ﺔﻳﻮﻗ ،ﺔﻤﻋﺎﻧ ،ﺔﻔﻴﻔﺧ .ﺔﻴﻣﻮﻴﻟﺍ ﺲﺑﻼﻤﻟﺍ
+.ﺪﻴﺟ</Synthread.description>
+  <Synthread.stuffProps.stuffAdjective>ﻲﻧﺎﻜﺘﻨﻴﺳ</Synthread.stuffProps.stuffAdjective>
+  
+  
+  <Uranium.label>ﻡﻮﻴﻧﺍﺭﻭﺃ</Uranium.label>
+  
+  <Uranium.description>ﺕﻼﻋﺎﻔﻤﻠﻟ ﺩﻮﻗﻮﻛ ﺓﺮﻬﺷ ﺮﺜﻛﻷﺍ .ﻦﻛﺍﺩﻭ ﻞﻴﻘﺛ ﻥﺪﻌﻣ
+ﻡﺪﺨﺘﺴﻳ ، ﺔﻴﺋﺎﻳﺰﻴﻔﻟﺍ ﻪﺼﺋﺎﺼﺧ ﻞﻀﻔﺑ ﻦﻜﻟﻭ ،ﺔﻳﻭﻮﻨﻟﺍ
+ﺔﺤﻠﺳﻷﺍﻭ ﻉﻭﺭﺪﻟﺍﻭ ﺕﺍﻭﺩﻷﺍ ﺾﻌﺑ ﺔﻋﺎﻨﺻ ﻲﻓ ﺎﻀﻳﺃ
+.ﺮﺋﺎﺧﺬﻟﺍﻭ</Uranium.description>
+  <Uranium.stuffProps.stuffAdjective>؟ﻡﻮﻴﻧﺍﺭﻮﻴﻟﺍ ﻦﻳﺃ</Uranium.stuffProps.stuffAdjective>
+  
+  
+  <WoodLog.label>ﺐﺸﺧ</WoodLog.label>
+  
+  <WoodLog.description>.ﻯﺮﺧﻷﺍ ﺔﻴﺒﺸﺨﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍﻭ ﺭﺎﺠﺷﻷﺍ ﻦﻣ ﺝﺮﺨﺘﺴﻣ ﺐﺸﺧ
+ﻦﻜﻤﻳ .ﺔﻄﻴﺴﺒﻟﺍ ﺔﺤﻠﺳﻷﺍ ﻊﻨﺻﻭ ﺀﺎﻨﺒﻟﺍ ﻲﻓ ﺪﻴﻔﻣ
+ﻦﻜﻳ ﻢﻟ ﺍﺫﺇ .ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻭ ﻰﻟﺇ ﻪﻠﻳﻮﺤﺗ
+ﺐﻄﺤﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ،ﺎﺣﺎﺘﻣ ﺮﺧﺁ ﺀﻲﺷ ﻙﺎﻨﻫ
+.ﺡﻼﺴﻟﺍ ﻭﺃ ﻡﺪﻘﻠﻟ ﻲﺋﺰﺟ ﻲﻃﺎﻴﺘﺣﺎﻛ</WoodLog.description>
+  
+  <WoodLog.stuffProps.stuffAdjective>ﺭﺎﺠﺷﻷﺍ</WoodLog.stuffProps.stuffAdjective>
+  
+  <WoodLog.tools.log.label>ﺐﺸﺧ ﺔﻌﻄﻗ</WoodLog.tools.log.label>
+  
+  
+  <WoolAlpaca.label>ﺎﻛﺎﺒﻟﻷﺍ ﻑﻮﺻ</WoolAlpaca.label>
+  
+  <WoolAlpaca.description>ﺓﺪﻴﺟ ﺔﻳﺎﻤﺣ ﺮﻓﻮﺗﻭ ﺍﺪﺟ ﺔﻤﻋﺎﻧ ﺔﻜﺒﻟﻷﺍ ﻑﻮﺻ
+.ﺔﻴﻟﺎﻋ ﺔﻤﻴﻗ ﺎﻬﻟﻭ ﺓﺭﺍﺮﺤﻟﺍ ﻦﻣ</WoolAlpaca.description>
+  <WoolAlpaca.stuffProps.stuffAdjective>ﺔﻜﺒﻟﻷﺍ ﻑﻮﺻ</WoolAlpaca.stuffProps.stuffAdjective>
+  
+  
+  <WoolBison.label>ﺱﺮﺘﻔﻤﻟﺍ ﻲﻨﺒﻟﺍ ﻑﻮﺼﻟﺍ</WoolBison.label>
+  
+  <WoolBison.description>ﻪﻴﻓ ﺎﻤﺑ ﺔﺌﻓﺍﺩ .ﺔﻨﺸﺧﻭ ﺔﻨﺸﺧ ﻥﻮﺴﻴﺒﻟﺍ ﻑﻮﺻ
+.ﺔﻳﺎﻔﻜﻟﺍ</WoolBison.description>
+  <WoolBison.stuffProps.stuffAdjective>ﻥﻮﺴﻴﺒﻟﺍ ﺭﻮﺛ ﺮﻌﺷ</WoolBison.stuffProps.stuffAdjective>
+  
+  
+  <WoolMegasloth.label>ﻕﻼﻤﻌﻟﺍ ﻥﻼﺴﻜﻟﺍ ﻑﻮﺻ</WoolMegasloth.label>
+  
+  <WoolMegasloth.description>ﺎﻳﻮﻗ ﻕﻼﻤﻌﻟﺍ ﻥﻼﺴﻜﻟﺍ ﻑﻮﺻ ﻞﻌﺠﺗ ﺔﻠﻳﻮﻄﻟﺍ ﻑﺎﻴﻟﻷﺍ
+ﻼﻴﻠﻗ ﺱﺎﻗ ﻪﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ،ﺎﺌﻓﺍﺩﻭ
+.ﺲﻤﻠﻟﺍ ﺪﻨﻋ</WoolMegasloth.description>
+  <WoolMegasloth.stuffProps.stuffAdjective>ﻕﻼﻤﻌﻟﺍ ﺭﻮﻤﻀﻟﺍ ﻑﻮﺻ</WoolMegasloth.stuffProps.stuffAdjective>
+  
+  
+  <WoolMuffalo.label>ﻮﻟﺎﻓﻮﻤﻟﺍ ﻑﻮﺻ</WoolMuffalo.label>
+  
+  <WoolMuffalo.description>ﻦﻣ ﺪﻴﺟ ﻞﻜﺸﺑ ﻝﺰﻌﺗ ،ﺔﻔﻴﻔﺧﻭ ﺔﻤﻋﺎﻧ ﺓﺩﺎﻣ
+ﻲﻓ ﻰﺘﺣ ﺪﻤﺠﺘﻟﺍ ﻊﻨﻤﺗ ﺔﻴﻓﻮﺼﻟﺍ ﺲﺑﻼﻤﻟﺍ .ﺩﺮﺒﻟﺍ
+.ﺀﺍﻮﺟﻷﺍ ﺩﺮﺑﺃ</WoolMuffalo.description>
+  <WoolMuffalo.stuffProps.stuffAdjective>ﻮﻟﺎﻓﻮﻤﻟﺍ ﻑﻮﺻ</WoolMuffalo.stuffProps.stuffAdjective>
+  
+  
+  <WoolSheep.label>ﻑﺍﺮﺨﻟﺍ ﻑﻮﺻ</WoolSheep.label>
+  
+  <WoolSheep.description>.ﻑﻭﺮﺨﻟﺍ ﻑﻮﺻ
+.ﺍﺪﻴﺟ ﺎﻳﺭﺍﺮﺣ ﻻﺰﻋ ﻪﻳﺪﻟ</WoolSheep.description>
+  <WoolSheep.stuffProps.stuffAdjective>ﻑﺍﺮﺨﻟﺍ ﻑﻮﺻ</WoolSheep.stuffProps.stuffAdjective>
+  
+</LanguageData>
