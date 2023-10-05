@@ -1,0 +1,1175 @@
+<LanguageData>
+
+  
+  <HitPointsBasic>ﺏﺮﻀﻟﺍ ﻁﺎﻘﻧ</HitPointsBasic>
+  <WorkLeft>ﻲﻘﺒﺘﻤﻟﺍ ﻞﻤﻌﻟﺍ</WorkLeft>
+  <Contents>ﺕﺎﻳﻮﺘﺤﻣ</Contents>
+  <ContainedResources>ﺓﺩﻮﺟﻮﻤﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ</ContainedResources>
+  <ForPrisonerUse>ﻲﻨﺠﺴﻟﺍ ﻡﺍﺪﺨﺘﺳﻼﻟ</ForPrisonerUse>
+  <InPrisonCell>ﻦﻴﺠﺴﻟﺍ ﻞﺒﻗ ﻦﻣ ﻡﺍﺪﺨﺘﺳﻼﻟ :ﻦﺠﺴﻟﺍ ﺔﻧﺍﺰﻧﺯ ﻲﻓ</InPrisonCell>
+  <ForColonistUse>ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻞﺒﻗ ﻦﻣ ﻡﺍﺪﺨﺘﺳﻼﻟ</ForColonistUse>
+  <MedicalBed>ﻲﺒﻃ</MedicalBed>
+  <Owner>ﻚﻟﺎﻤﻟﺍ</Owner>
+  <Owners>ﻥﻮﻜﻟﺎﻤﻟﺍ</Owners>
+  <AssignedColonist>ﻦﻴﻌﻤﻟﺍ ﻦﻃﻮﺘﺴﻤﻟﺍ</AssignedColonist>
+  <BedUncomfortableTemperature>.ﺔﺤﻳﺮﻣ ﺮﻴﻏ ﺔﻓﺮﻐﻟﺍ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ</BedUncomfortableTemperature>
+  <BedUnsafeTemperature>ﺔﻨﻣﺁ ﺮﻴﻏ ﺔﻓﺮﻐﻟﺍ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ</BedUnsafeTemperature>
+  <DiedOn>{0} ﻰﻠﻋ ﻲﻓﻮﺗ</DiedOn>
+  <Nobody>ﺪﺣﺃ ﻻ</Nobody>
+  <Unowned>ﻙﻮﻠﻤﻣ ﺮﻴﻏ</Unowned>
+  <DeadTime>{0} ﺓﺪﻤﻟ ﺖﻴﻣ</DeadTime>
+  <WalkSpeed>{0} ﺮﻴﺴﻟﺍ ﺔﻋﺮﺳ</WalkSpeed>
+  <FertShort>ﺐﺸﻋ</FertShort>
+  <DyingLower>ﺮﻀﺘﺤﻳ</DyingLower>
+  <FilthOnFeet>:ﻡﺍﺪﻗﻷﺍ ﻰﻠﻋ ﺓﺭﺍﺬﻘﻟﺍ</FilthOnFeet>
+  <NotEnoughStoredLower>ﻦﻳﺰﺨﺘﻠﻟ ﻑﺎﻛ ﺮﻴﻏ</NotEnoughStoredLower>
+  <NothingLower>.ﺀﻲﺷ ﻻ</NothingLower>
+  <Nothing>.ﺀﻲﺷ ﻻ</Nothing>
+  <Adapted>ﺔﻤﺋﻼﻣ</Adapted>
+  <FreshMissingBodyPart>ﺝﺯﺎﻃ</FreshMissingBodyPart>
+  <DevelopedImmunityLower>ﺔﻋﺎﻨﻣ ﺐﺴﺘﻛﺍ</DevelopedImmunityLower>
+  <NeedsTendingNow>ﻥﻵﺍ ﺔﻳﺎﻋﺭ ﻰﻟﺇ ﺝﺎﺘﺤﻳ</NeedsTendingNow>
+  <CanTendNow>ﻥﻵﺍ ﺔﻳﺎﻋﺭ ﻚﻨﻜﻤﻳ</CanTendNow>
+  <TreatmentExpiresIn>{0} ﺪﻌﺑ ﺔﻳﺎﻨﻌﻟﺍ ﺀﺎﻬﺘﻧﺍ</TreatmentExpiresIn>
+  <NextTendIn>{0} ﻲﻓ ﻪﺟﻼﻋ ﻦﻜﻤﻳ</NextTendIn>
+  <TendQuality>ﺔﺠﻟﺎﻌﻤﻟﺍ ﺓﺩﻮﺟ</TendQuality>
+  <DisappearsAtTotalTendQuality>ﺔﻴﻠﻜﻟﺍ ﺔﺠﻟﺎﻌﻤﻟﺍ ﺓﺩﻮﺟ</DisappearsAtTotalTendQuality>
+  <MissingMedicalBillIngredient>{0} ﻻ</MissingMedicalBillIngredient>
+  <Immunity>ﺔﻧﺎﺼﺣ</Immunity>
+  <DaysToRecover>ﻲﻓﺎﻌﺘﻠﻟ ﻡﻮﻳ {0}</DaysToRecover>
+  <Ineffective>ﻝﺎﻌﻓ ﺮﻴﻏ</Ineffective>
+  <Illegal>ﻲﻧﻮﻧﺎﻗ ﺮﻴﻏ</Illegal>
+  <DetectionChance>ﻒﺸﻜﻟﺍ ﺔﺻﺮﻓ</DetectionChance>
+  <Race>ﻕﺮﻌﻟﺍ</Race>
+  <Description>ﻒﺻﻮﻟﺍ</Description>
+  <Equipment>ﺕﺍﺰﻴﻬﺠﺘﻟﺍ</Equipment>
+  <Apparel>ﺲﺑﻼﻤﻟﺍ</Apparel>
+  <Inventory>ﻥﻭﺰﺨﻤﻟﺍ</Inventory>
+  <ThingInfo>ﺕﺎﻣﻮﻠﻌﻣ</ThingInfo>
+  <DropThing>ﻁﺎﻘﺳﺇ</DropThing>
+  <DropThingLodger>.ﻢﻬﺿﺍﺮﻏﺃ ﺍﻮﻛﺮﺘﻳ ﻦﻟ ﺖﻗﺆﻤﻟﺍ ﻞﻴﺼﻔﻟﺍ ﺀﺎﻀﻋﺃ</DropThingLodger>
+  <DropThingLocked>.ﻚﻟﺫ ﻦﻋ ﻰﻠﺨﺘﻳ ﻥﺃ ﺾﻓﺮﻳ ﺺﺨﺸﻟﺍ ﺍﺬﻫ</DropThingLocked>
+  <Rename>ﺔﻴﻤﺴﺘﻟﺍ ﺓﺩﺎﻋﺇ</Rename>
+  <RenameAnimal>ﻥﺍﻮﻴﺤﻟﺍ ﺔﻴﻤﺴﺗ ﺓﺩﺎﻋﺇ</RenameAnimal>
+  <RenameColonist>ﻦﻃﻮﺘﺴﻤﻟﺍ ﺔﻴﻤﺴﺗ ﺓﺩﺎﻋﺇ</RenameColonist>
+  <RenounceTitle>ﺐﻘﻠﻟﺍ ﻦﻋ ﻝﺯﺎﻨﺗ</RenounceTitle>
+  <Execute>ﺬﻔﻧ</Execute>
+  <ExecuteColonist>ﺐﻧﺬﻤﻟﺍ ﻦﻃﻮﺘﺴﻤﻟﺍ ﻡﺪﻋﺃ
+
+ﺱﺭﺎﺤﻟﺍ ﻡﻮﻘﻴﺳ ،ﺭﺎﻴﺨﻟﺍ ﺍﺬﻫ ﻞﻴﻐﺸﺘﺑ ﺖﻤﻗ ﺍﺫﺇ
+.ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﻡﺍﺪﻋﻹﺍ ﻢﻜﺣ ﺬﻴﻔﻨﺘﺑ</ExecuteColonist>
+  <MessageColonistMarkedForExecution>{0_labelShort} ﺡﺎﺘﻤﻟﺍ ﺱﺭﺎﺤﻟﺍ ﻡﻮﻘﻴﺳ .ﻡﺍﺪﻋﻺﻟ ﻥﻵﺍ ﺩﺪﺤﻣ
+0} ﺬﻴﻔﻨﺘﺑ ﻲﻟﺎﺘﻟﺍ_objective}.</MessageColonistMarkedForExecution>
+  <TitleOfFaction>{1} ﻦﻣ {0}</TitleOfFaction>
+  <RenounceTitleDescription>.{TITLE} ﻪﺒﻘﻟ ﺪﻘﻔﻳ {PAWN_nameDef} ﻞﻌﺠﻴﺳ ﺀﺍﺮﺟﻹﺍ ﺍﺬﻫ
+ﻦﻋ ﻲﻠﺨﺘﻟﺍ ﻦﻋ ﺾﻳﻮﻌﺗ ﻰﻠﻋ ﻞﺼﺤﺗ ﻦﻟ
+.ﺐﻘﻠﻟﺍ
+
+:ﻲﻟﺎﺘﻟﺍ ﺮﺛﻷﺍ ﺍﺬﻬﻟ ﻥﻮﻜﻴﺳ
+
+{EFFECTS}</RenounceTitleDescription>
+  <RenounceTitleWillLoosePermits>{PAWN_pronoun} ﺕﺎﻴﺣﻼﺼﻟﺍ ﻩﺬﻫ ﺪﻘﻔﻴﺳ</RenounceTitleWillLoosePermits>
+  <RenounceTitleWillLosePermitPoints>ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺮﻴﻏ ﺢﻳﺮﺼﺘﻟﺍ ﻁﺎﻘﻧ {PAWN_nameDef} {POINTS} ﺪﻘﻔﻴﺳ
+.{FACTION_name} ﻊﻣ</RenounceTitleWillLosePermitPoints>
+  <RenounceTitleWillKeepPsylinkLevels>{PAWN_pronoun} ﺕﺎﻳﻮﺘﺴﻣ ﻊﻴﻤﺠﺑ ﻆﻔﺘﺤﻴﺳ {PAWN_possessive} psylink ﻭ
+psycasts.</RenounceTitleWillKeepPsylinkLevels>
+  <UnknownLower>ﻝﻮﻬﺠﻣ</UnknownLower>
+  <On>ﻰﻠﻋ</On>
+  <Off>ﻑﺎﻘﻳﺇ</Off>
+  <PowerSwitch_Power>ﺔﻗﺎﻄﻟﺍ</PowerSwitch_Power>
+  <JoyTolerances>ﻪﻴﻓﺮﺘﻟﺍ ﻲﻓ ﺢﻣﺎﺴﺘﻟﺍ ﻉﺍﻮﻧﺃ</JoyTolerances>
+  <MilkFullness>ﺐﻴﻠﺤﻟﺍ ﺀﻼﺘﻣﺍ</MilkFullness>
+  <WoolGrowth>ﻑﻮﺼﻟﺍ ﻮﻤﻧ</WoolGrowth>
+  <EggProgress>ﺔﻀﻴﺒﻟﺍ ﻡﺪﻘﺗ</EggProgress>
+  <Fertilized>ﺐﺼﺨﻣ</Fertilized>
+  <ProgressStoppedUntilFertilized>ﺐﻴﺼﺨﺘﻟﺍ ﻢﺘﻳ ﻰﺘﺣ ﻡﺪﻘﺘﻟﺍ ﻒﻗﻮﺗ</ProgressStoppedUntilFertilized>
+  <HatchesIn>ﻝﻼﺧ ﺲﻘﻔﻴﺳ</HatchesIn>
+  <SkillTooLow>{1} ﻱﺪﻟﻭ ،{2} ﺭﺍﺪﻘﻤﺑ {0} ﻯﻮﺘﺴﻣ ﺝﺎﺘﺣﺃ</SkillTooLow>
+  <Freezing>ﺪﻤﺠﺗ</Freezing>
+  <Overheating>ﺪﺋﺍﺰﻟﺍ ﻦﻴﺨﺴﺘﻟﺍ</Overheating>
+  <RuinedByTemperature>.ﺓﺭﺍﺮﺤﻟﺍ ﺐﺒﺴﺑ ﺮﻣﺪﻣ</RuinedByTemperature>
+  <CorpsePercentMissing>ﺓﺩﻮﻘﻔﻤﻟﺍ ﻢﺴﺠﻟﺍ ﺀﺍﺰﺟﺃ</CorpsePercentMissing>
+  <HiveReproducesIn>ﻲﻓ ﺮﺛﺎﻜﺘﻳ</HiveReproducesIn>
+  <DormantHiveNotReproducing>.ﺮﺛﺎﻜﺘﺗ ﻻ :ﺔﻠﻋﺎﻓ ﺮﻴﻏ</DormantHiveNotReproducing>
+  <NextSpawnedItemIn>ﻲﻓ {0} ﻲﻟﺎﺘﻟﺍ</NextSpawnedItemIn>
+  <NextSpawnedResourceIn>ﻲﻓ ﻲﻟﺎﺘﻟﺍ ﺩﺭﻮﻤﻟﺍ</NextSpawnedResourceIn>
+  <BrokenDown>ﻞﻄﻌﻣ</BrokenDown>
+  <BondBrackets>(ﻂﺑﺍﻭﺭ)</BondBrackets>
+  <Fuel>ﺩﻮﻗﻭ</Fuel>
+  <FuelLevelGizmoLabel>ﺩﻮﻗﻭ</FuelLevelGizmoLabel>
+  <SetTargetFuelLevel>{0} ﻰﻟﺇ ﻑﺪﻬﺘﺴﻤﻟﺍ ﺩﻮﻗﻮﻟﺍ ﻯﻮﺘﺴﻣ ﻦﻴﻴﻌﺘﺑ ﻢﻗ</SetTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>:ﺔﻓﺎﺴﻣ ﻰﺼﻗﺃn\{0} ﻰﻟﺇ ﻑﺪﻬﺘﺴﻤﻟﺍ ﺩﻮﻗﻮﻟﺍ ﻯﻮﺘﺴﻣ ﻦﻴﻴﻌﺗ
+ﺕﺎﻌﺑﺮﻣ {1}</SetPodLauncherTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>{0} :ﻑﺪﻬﺘﺴﻤﻟﺍ ﺩﻮﻗﻮﻟﺍ ﻯﻮﺘﺴﻣ</ConfiguredTargetFuelLevel>
+  <Enemies>ﺀﺍﺪﻋﻷﺍ</Enemies>
+  <People>ﺱﺎﻨﻟﺍ</People>
+  <TimePassed>ﺖﻗﻮﻟﺍ ﺮﻣ</TimePassed>
+  <CurrentRadius>ﻲﻟﺎﺤﻟﺍ ﺮﻄﻘﻟﺍ ﻒﺼﻧ</CurrentRadius>
+  <RadiusExpandsIn>ﺮﻄﻘﻟﺍ ﻒﺼﻧ ﻊﺳﻮﺘﻳ</RadiusExpandsIn>
+  <Permanent>ﻢﺋﺍﺩ</Permanent>
+  <CaravanResting>ﺔﺣﺍﺮﻟﺍ</CaravanResting>
+  <UsingBedroll>.ﻲﻄﻠﻟ ﻞﺑﺎﻗ ﺮﻳﺮﺳ ﻡﺍﺪﺨﺘﺳﺍ</UsingBedroll>
+  <UsingBedrolls>ﺮﻳﺮﺴﻠﻟ ﺕﺎﻴﻧﺎﻄﺑ {0} ﻡﺍﺪﺨﺘﺳﺍ</UsingBedrolls>
+  <CaravanEstimatedTimeToDestination>ﻡﺎﻳﺃ {0} :ﻝﻮﺻﻮﻠﻟ ﻊﻗﻮﺘﻤﻟﺍ ﺖﻗﻮﻟﺍ</CaravanEstimatedTimeToDestination>
+  <CaravanEstimatedDaysToDestination>ﻡﺎﻳﺃ {0} :ﺔﻌﻗﻮﺘﻤﻟﺍ ﺮﻔﺴﻟﺍ ﺓﺪﻣ</CaravanEstimatedDaysToDestination>
+  <CaravanImmobilizedByMass>.ﺍﺪﺟ ﺪﺋﺍﺯ ﻥﺯﻭ :ﻝﻮﻠﺸﻣ</CaravanImmobilizedByMass>
+  <CaravanOutOfFood>.ﻡﺎﻌﻄﻟﺍ ﺬﻔﻧ</CaravanOutOfFood>
+  <CaravanDaysOfFood>{0} :ﻡﺎﻌﻄﻟﺍ ﻡﺎﻳﺃ</CaravanDaysOfFood>
+  <CaravanDaysOfFoodRot>(ﻡﺎﻳﺃ {1} ﻲﻓ ﻦﻔﻌﺘﻳ) {0} :ﻡﺎﻌﻄﻟﺍ ﻡﺎﻳﺃ</CaravanDaysOfFoodRot>
+  <AllCaravanMembersDowned>.ﺍﻮﻄﻘﺳ ﺹﺎﺨﺷﻷﺍ ﻊﻴﻤﺟ :ﺐﺒﺴﺑ ﻪﻓﺎﻘﻳﺇ ﻢﺗ</AllCaravanMembersDowned>
+  <AllCaravanMembersMentalBreak>.ﻲﻠﻘﻋ ﺭﺎﻴﻬﻧﺍ ﺔﻟﺎﺣ ﻲﻓ ﻊﻴﻤﺠﻟﺍ :ﺐﺒﺴﺑ ﺖﻔﻗﻮﺗ</AllCaravanMembersMentalBreak>
+  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
+  <CaravanAnimal>ﺪﺣﺍﻭ ﻥﺍﻮﻴﺣ</CaravanAnimal>
+  <CaravanAnimalsCount>ﺕﺎﻧﺍﻮﻴﺣ {0}</CaravanAnimalsCount>
+  <CaravanPrisoner>ﻦﻴﺠﺳ 1</CaravanPrisoner>
+  <CaravanPrisonersCount>ﺀﺎﻨﺠﺳ {0}</CaravanPrisonersCount>
+  <CaravanPawnsInMentalState>ﺔﻴﺴﻔﻧ ﺔﻟﺎﺣ ﻲﻓ {0}</CaravanPawnsInMentalState>
+  <CaravanPawnsDowned>ﺓﺪﻳﺪﺸﻟﺍ ﺔﺑﺎﺻﻺﻟ {0} ﺽﺮﻌﺗ</CaravanPawnsDowned>
+  <CaravanTraveling>.ﺮﻔﺴﻟﺍ</CaravanTraveling>
+  <CaravanWaiting>.ﺮﻈﺘﻧﺍ</CaravanWaiting>
+  <BeingCarriedDueToIllness>ﺽﺮﻤﻟﺍ ﺐﺒﺴﺑ ﻞﻘﻨﻟﺍ</BeingCarriedDueToIllness>
+  <UsingBedrollsDueToIllness>ﺽﺮﻤﻟﺍ ﺐﺒﺴﺑ ﺔﻠﻘﻨﺘﻣ ﺮﺋﺍﺮﺳ ﻡﺍﺪﺨﺘﺳﺍ</UsingBedrollsDueToIllness>
+  <CurrentTileMovementTime>ﻲﻟﺎﺤﻟﺍ ﺔﻃﻼﺒﻟﺍ ﻙﺮﺤﺗ ﺖﻗﻭ</CurrentTileMovementTime>
+  <Visibility>ﺔﻳﺅﺮﻟﺍ</Visibility>
+  <Temperature>ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ</Temperature>
+  <BadTemperature>ﺔﺌﻴﺳ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ</BadTemperature>
+  <IdealFermentingTemperature>ﺮﻴﻤﺨﺘﻠﻟ ﺔﻴﻟﺎﺜﻤﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ</IdealFermentingTemperature>
+  <DrugEffectMultiplier>{1} :{0} ﺮﻴﺛﺄﺗ ﻒﻋﺎﻀﻣ</DrugEffectMultiplier>
+  <CaravanVisiting>.{0} ﺓﺭﺎﻳﺯ</CaravanVisiting>
+  <CaravanEntering>.{0} ﻝﻮﺧﺩ</CaravanEntering>
+  <CaravanAttacking>.{0} ﻰﻠﻋ ﻡﻮﺠﻫ</CaravanAttacking>
+  <CaravanOfferingGifts>.{0} ـﻟ ﺎﻳﺍﺪﻬﻟﺍ ﻢﻳﺪﻘﺗ</CaravanOfferingGifts>
+  <CaravanTrading>.{0} ﻊﻣ ﺓﺭﺎﺠﺘﻟﺍ</CaravanTrading>
+  <WasWornByCorpse>.ﺔﺜﺠﻟ ﻪﺋﺍﺪﺗﺭﺍ ﻝﻼﺧ ﻦﻣ ﻪﺜﻳﻮﻠﺗ ﻢﺗ</WasWornByCorpse>
+  <WornByCorpseChar>T</WornByCorpseChar>
+  <DeterioratingUnroofed>ﻰﻄﻐﻣ ﺮﻴﻏ</DeterioratingUnroofed>
+  <DeterioratingOutdoors>ﻖﻠﻄﻟﺍ ﺀﺍﻮﻬﻟﺍ ﻲﻓ</DeterioratingOutdoors>
+  <DeterioratingRaining>ﺮﻄﻤﻟﺍ</DeterioratingRaining> 
+  <Protected>ﻲﻤﺤﻣ</Protected>
+  <DeterioratingBecauseOf>ﺭﻮﻫﺪﺘﺗ</DeterioratingBecauseOf>
+  <DeteriorateInDuration>.{0} ﻲﻓ ﻢﻗﺎﻔﺘﻳ ﻑﻮﺳ</DeteriorateInDuration>
+  <Map>ﺔﻄﻳﺮﺨﻟﺍ</Map>
+  <CaravanDetectedRaidCountdown>.ﺀﺍﺪﻋﻷﺍ ﻝﻮﺻﻭ ﻰﺘﺣ {0}</CaravanDetectedRaidCountdown>
+  <CaravanDetectedRaidCountdownTip>ﻝﻼﺧ ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﻰﻟﺇ ﻭﺪﻌﻟﺍ ﺕﺍﺰﻳﺰﻌﺗ ﻞﺼﺘﺳ
+.{0}</CaravanDetectedRaidCountdownTip>
+  <Room>ﺔﻓﺮﻏ</Room>
+  <BeautyHere>ﺎﻨﻫ ﻝﺎﻤﺠﻟﺍ</BeautyHere>
+  <NoPower>ﺔﻗﺎﻃ ﺪﺟﻮﺗ ﻻ</NoPower>
+  <WorkSpeedPenalty>ﻞﻤﻌﻟﺍ ﺔﻋﺮﺳ</WorkSpeedPenalty>
+  <DisabledCommand>.ﻞﻄﻌﻣ</DisabledCommand>
+  <ReadyForLaunch>.ﻕﻼﻄﻧﻺﻟ ﺰﻫﺎﺟ</ReadyForLaunch>
+  <NotReadyForLaunch>ﻕﻼﻃﻺﻟ ﺰﻫﺎﺟ ﺮﻴﻏ</NotReadyForLaunch>
+  <NotAllInGroupConnectedToFuelingPort>ﺩﻮﻗﻮﻟﺎﺑ ﺩﻭﺰﺘﻠﻟ ﺬﻔﻨﻤﻟ ﺩﻮﺟﻭ ﻻ</NotAllInGroupConnectedToFuelingPort>
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>ﺩﻮﻗﻭ ﻻ</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <TransportPodInGroupHasSomethingLeftToLoad>ﻡﺪﻘﺘﻟﺍ ﺪﻴﻗ ﻞﻴﻤﺤﺘﻟﺍ</TransportPodInGroupHasSomethingLeftToLoad>
+  <TransportPodDestinationBeyondMaximumRange>ﻰﺼﻗﻷﺍ ﻕﺎﻄﻨﻟﺍ ﺝﺭﺎﺧ</TransportPodDestinationBeyondMaximumRange>
+  <TransportPodNotEnoughFuel>ﺩﻮﻗﻮﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﺪﺟﻮﻳ ﻻ</TransportPodNotEnoughFuel>
+  <SettlementTrader>{1} ﻦﻣ {0}</SettlementTrader>
+  <RoomSurgerySuccessChanceFactor>ﺔﻓﺮﻐﻟﺍ ﻦﻣ ﺔﺣﺍﺮﺠﻟﺍ ﺡﺎﺠﻧ ﻒﻋﺎﻀﻣ</RoomSurgerySuccessChanceFactor>
+  <RoomInfectionChanceFactor>ﺔﻓﺮﻐﻟﺍ ﻦﻣ ﻯﻭﺪﻌﻟﺎﺑ ﺔﺑﺎﺻﻹﺍ ﺔﺻﺮﻓ ﻒﻋﺎﻀﻣ</RoomInfectionChanceFactor>
+  <VentClosed>ﻖﻠﻐﻣ</VentClosed>
+  <WornBy>{labelShort_1} ﺔﻄﺳﺍﻮﺑ ﻯﺪﺗﺮﻣ</WornBy>
+  <EquippedBy>{labelShort_1} ﺔﻄﺳﺍﻮﺑ ﺰﻬﺠﻣ</EquippedBy>
+  <QuestTargetDestroyInspectString>({2}) {1} :ﺓﺄﻓﺎﻜﻣ n\.ﺍﺬﻫ ﺮﻴﻣﺪﺗ {0} ﺪﻳﺮﻳ</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectStringShort>.ﺍﺬﻫ ﺮﻴﻣﺪﺗ ﺪﻳﺮﻳ {0}</QuestTargetDestroyInspectStringShort>
+  <ShuttleDelayInspectString>{0} ﻲﻓ ﺔﺒﻛﺮﻤﻟﺍ ﻰﻠﻋ ﺓﺭﺩﺎﻐﻤﻟﺍ</ShuttleDelayInspectString>
+  <ShuttleLeaveDelayInspectString>{0} ﻲﻓ ﺓﺭﺩﺎﻐﻤﻟﺍ</ShuttleLeaveDelayInspectString>
+  <ShouldDepartOnShuttleInspectString>ﻙﻮﻜﻤﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻐﺗ ﻥﺃ ﺐﺠﻳ</ShouldDepartOnShuttleInspectString>
+  <WorldObjectTimeout>{0} :ﻲﻘﺒﺘﻤﻟﺍ ﺖﻗﻮﻟﺍ</WorldObjectTimeout>
+  <ClickToSortByThisColumn>.ﺩﻮﻤﻌﻟﺍ ﺍﺬﻫ ﺐﺴﺣ ﺐﻴﺗﺮﺘﻟ ﺮﻘﻧﺍ</ClickToSortByThisColumn>
+  <WorkPriorityShiftClickTip>Shift + ﺔﻳﻮﻟﻭﻷﺍ ﺓﺩﺎﻳﺯ :ﺮﻘﻧﺍ\nShift + ﺮﻘﻧﺍ
+ﺔﻳﻮﻟﻭﻷﺍ ﺾﻔﺧ :ﻦﻤﻳﻷﺍ ﺭﺰﻟﺎﺑ</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickEnableDisableTip>Shift + ﻞﻜﻟﺍ ﻦﻴﻜﻤﺗ :ﺮﻘﻧﺍ\nShift + ﺮﻘﻧﺍ
+ﻞﻜﻟﺍ ﻞﻴﻄﻌﺗ :ﻦﻤﻳﻷﺍ ﺭﺰﻟﺎﺑ</WorkPriorityShiftClickEnableDisableTip>
+  <AllowedAreaShiftClickTip>Shift + ﻰﻟﺇ ﻊﻴﻤﺠﻟﺍ ﻦﻴﻴﻌﺘﺑ ﻢﻗ :ﺮﻘﻧﺍ
+ﻝﺰﻨﻤﻟﺍ
+Shift + ﻢﻗ :ﻦﻤﻳﻷﺍ ﺓﺭﺄﻔﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ
+ﺩﻮﻴﻗ ﻥﻭﺪﺑ ﻊﻴﻤﺠﻟﺍ ﻦﻴﻴﻌﺘﺑ</AllowedAreaShiftClickTip>
+  <CheckboxShiftClickTip>Shift + ﻞﻜﻟﺍ ﻦﻣ ﻖﻘﺤﺘﻟﺍ :ﺮﻘﻧﺍ
+Shift + ﺀﺎﻐﻟﺇ :ﻦﻤﻳﻷﺍ ﺓﺭﺄﻔﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ
+ﻞﻜﻟﺍ ﻦﻣ ﻖﻘﺤﺘﻟﺍ</CheckboxShiftClickTip>
+  <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend>
+  <SkillRequirements>ﺓﺭﺎﻬﻤﻟﺍ ﺕﺎﺒﻠﻄﺘﻣ</SkillRequirements>
+  <Products>ﺕﺎﺠﺘﻨﻤﻟﺍ</Products>
+  <Requires>ﺔﺑﻮﻠﻄﻣ</Requires>
+  <NumAnyOf>{0}x ﻦﻣ ﻱﺃ</NumAnyOf>
+  <Relationship>{1} ﻦﻣ {0}</Relationship>
+  <Prisoner>ﺮﻴﺳﻷﺍ</Prisoner>
+  <Refugee>ﺊﺟﻻ</Refugee>
+  <TileMovementDifficulty>ﺲﻳﺭﺎﻀﺘﻟﺍ ﻲﻓ ﻞﻘﻨﺘﻟﺍ ﺔﺑﻮﻌﺻ</TileMovementDifficulty>
+  <Impassable>ﺭﻮﺒﻌﻠﻟ ﻞﺑﺎﻗ ﺮﻴﻏ</Impassable>
+  <CaravanMovementSpeedFull>ﺔﻠﻓﺎﻘﻟﺍ ﻙﺮﺤﺗ ﺔﻋﺮﺳ</CaravanMovementSpeedFull>
+  <DownedLower>ﺏﺎﺼﻣ</DownedLower>
+  <Carried>ﺔﺣﺍﺮﺘﺳﻻﺍ</Carried>
+  <RideableAnimalsPerPeople>ﺎﻬﺑﻮﻛﺭ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺹﺎﺨﺷﻷﺍ/ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</RideableAnimalsPerPeople>
+  <MultiplierFromRiddenAnimals>ﺔﺑﻮﻛﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻒﻋﺎﻀﻤﻟﺍ</MultiplierFromRiddenAnimals>
+  <MultiplierForCarriedMass>{0} :ﺔﻟﻮﻤﺤﻤﻟﺍ ﺔﻠﺘﻜﻟ ﻒﻋﺎﻀﻣ</MultiplierForCarriedMass>
+  <RideableAnimalTip>ﻲﻓ ﺱﺎﻨﻟﺍ ﺐﻛﺮﻴﺳ .ﺏﻮﻛﺮﻠﻟ ﻞﺑﺎﻗ ﻥﺍﻮﻴﺤﻟﺍ ﺍﺬﻫ
+ﺔﻋﺮﺳ ﺪﻳﺰﻳ ﺎﻤﻣ ،ﺔﺣﺎﺘﻤﻟﺍ ﻉﺮﺳﻷﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﻠﻓﺎﻗ
+.ﻡﺎﻋ ﻞﻜﺸﺑ ﺔﻠﻓﺎﻘﻟﺍ</RideableAnimalTip>
+  <EncumberedCaravanTilesPerDayTip>ﻞﻤﺤﺗ ﺎﻬﻧﻷ ﻝﺎﻘﺘﻧﻻﺍ ﺔﻠﻓﺎﻘﻟﺍ ﻩﺬﻬﻟ ﻦﻜﻤﻳ ﻻ
+.ﺍﺪﺟ ﺮﻴﺜﻜﻟﺍ</EncumberedCaravanTilesPerDayTip>
+  <FinalCaravanPawnsMovementSpeed>ﺔﻠﻓﺎﻘﻟﺍ ﺀﺎﻀﻋﺃ ﺔﻋﺮﺳ</FinalCaravanPawnsMovementSpeed>
+  <FinalCaravanMovementSpeed>ﺔﻴﺋﺎﻬﻨﻟﺍ ﺔﻋﺮﺴﻟﺍ</FinalCaravanMovementSpeed>
+  <Winter>ﺀﺎﺘﺸﻟﺍ</Winter>
+  <MovementDifficultyOffsetInWinter>{0} ﺀﺎﺘﺸﻟﺍ ﻲﻓ</MovementDifficultyOffsetInWinter>
+  <RangeTo>ﻰﻟﺇ</RangeTo>
+  <NoDietCategoryLetter>ﺔﻟﺎﺳﺭ ﺪﺟﻮﺗ ﻻ</NoDietCategoryLetter>
+  <ExpiresIn>ﻲﻓ ﻲﻬﺘﻨﻳ</ExpiresIn>
+  <CaravanLeaderCaravanName>{labelShort_1} ﺔﻠﻓﺎﻗ</CaravanLeaderCaravanName>
+  <Reason>ﺐﺒﺴﻟﺍ</Reason>
+  <RelationsWith>{0} ﻊﻣ ﺕﺎﻗﻼﻋ</RelationsWith>
+  <capturedBy>{0} ﺔﻄﺳﺍﻮﺑ ﻥﻮﺠﺴﻣ</capturedBy>
+  <yourCaravan>ﻚﺘﻠﻓﺎﻗ</yourCaravan>
+  <CreatureWildness>ﺔﻳﺮﺒﻟﺍ {0}</CreatureWildness>
+  <CreatureTrainability>ﺐﻳﺭﺪﺘﻟﺍ ﻯﻮﺘﺴﻣ {0}</CreatureTrainability>
+  <CreatureFollowDrafted>ﻩﺪﻴﻨﺠﺗ ﺀﺎﻨﺛﺃ ﺪﻴﺴﻟﺍ ﻊﺒﺗﺍ</CreatureFollowDrafted>
+  <CreatureFollowFieldwork>ﺔﻴﻧﺍﺪﻴﻤﻟﺍ ﻝﺎﻤﻋﻷﺎﺑ ﻡﺎﻴﻘﻟﺍ ﺀﺎﻨﺛﺃ ﺪﻴﺴﻟﺍ ﻊﺒﺗﺍ</CreatureFollowFieldwork>
+  <ProximitySingleGoodwillChange>{1} ﻊﻣ {0}</ProximitySingleGoodwillChange>
+  <EnterCooldown>.{0} ـﻟ ﺩﻮﻌﻳ ﻥﺃ ﺍﺪﺟ ﺮﻄﺧ</EnterCooldown>
+  <Caravan>ﺔﻠﻓﺎﻗ</Caravan>
+  <HiddenOrNoSitePartDescription>.ﻙﺎﻨﻫ ﺮﻄﺧ ﻙﺎﻨﻫ ﻥﻮﻜﻳ ﺪﻗ</HiddenOrNoSitePartDescription>
+  <PreciousLumpHostileThreat>ﺢﺟﺮﻤﻟﺍ ﻦﻣ .ﺔﻠﺘﻜﻟﺍ ﻝﻮﺣ ﺎﻃﺎﺸﻧ ﺪﺻﺮﻳ ﺢﺳﺎﻤﻟﺍ
+.ﺔﻳﺩﺎﻌﻣ ﺎﻬﻧﺃ</PreciousLumpHostileThreat>
+  <PreciousLumpLabel>{0} ﻦﻣ ﺔﻠﺘﻛ</PreciousLumpLabel>
+  <NoActiveResearchProjectToFinish>ﻂﺸﻧ ﺚﺤﺑ ﻉﻭﺮﺸﻣ ﺪﺟﻮﻳ ﻻ</NoActiveResearchProjectToFinish>
+  <Turret>ﺔﻴﻌﻓﺪﻤﻟﺍ</Turret>
+  <Turrets>ﻊﻓﺍﺪﻤﻟﺍ</Turrets>
+  <Mortar>ﺔﻴﻌﻓﺪﻤﻟﺍ</Mortar>
+  <Mortars>ﻊﻓﺍﺪﻤﻟﺍ</Mortars>
+  <Enemy>ﻭﺪﻋ</Enemy>
+  <Location>ﻊﻗﻮﻤﻟﺍ</Location>
+  <AnimalsLower>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</AnimalsLower>
+  <ItemsLower>ﺽﺍﺮﻏﻷﺍ</ItemsLower>
+  <FilthLabel>{0} × {1}</FilthLabel>
+  <FilthLabelWithSource>{x{2 {1} ﻦﻣ {0}</FilthLabelWithSource>
+  <Required>ﺏﻮﻠﻄﻣ</Required>
+  <GiveGiftViaTransportPodsTradeRequestWarning>ﻡﺍﺪﺨﺘﺳﺎﺑ ﺓﺭﺎﺠﺘﻟﺍ ﺕﺎﺒﻠﻃ ﻝﺎﻤﻛﺇ ﻚﻨﻜﻤﻳ ﻻ :ﺮﻳﺬﺤﺗ
+ﻞﺒﻘﻴﺳ ،ﻊﺋﺎﻀﺒﻟﺍ ﻝﺎﺳﺭﺈﺑ ﺖﻤﻗ ﺍﺫﺇ .ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻜﻟﺍ
+،ﺓﺭﺎﺠﺘﻠﻟ .ﻚﺌﻓﺎﻜﺗ ﻦﻟ ﺎﻬﻨﻜﻟﻭ ﺎﻳﺍﺪﻫ ﺎﻬﻧﻮﻜﺑ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ
+ﺖﻧﺃ ﻞﻫ !ﻚﺘﻠﻓﺎﻗ ﻊﻣ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻦﻣ ﺏﺮﺘﻗﺍ
+ﺔﻠﻤﺤﻤﻟﺍ ﻊﺋﺎﻀﺒﻟﺍ ﻢﻳﺪﻘﺗ ﻲﻓ ﻚﺘﺒﻏﺭ ﻦﻣ ﺪﻛﺄﺘﻣ
+؟ﻞﻴﺼﻔﻠﻟ ﺎﻳﺍﺪﻬﻛ</GiveGiftViaTransportPodsTradeRequestWarning>
+  <PrisonerLower>ﻦﻴﺠﺳ</PrisonerLower>
+  <PrisonersLower>ﺀﺎﻨﺠﺴﻟﺍ</PrisonersLower>
+  <ClickToViewInQuestsTab>ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻲﻓ ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﺽﺮﻌﻟ ﺮﻘﻧﺍ
+ﻡﺎﻬﻤﻟﺍ</ClickToViewInQuestsTab>
+  <Mood>ﺝﺍﺰﻤﻟﺍ</Mood>
+  <Quest>ﺔﻤﻬﻣ</Quest>
+  <BringsRaidsEvery>{0} ﻞﻛ ﺕﺎﻤﺠﻫ ﻦﺸﻳ</BringsRaidsEvery>
+  <GeneratesResourcesEvery>{1} ﻞﻛ {0} ﺪﻟﻮﻳ</GeneratesResourcesEvery>
+  <FoliageKillRadius>ﺕﺎﺗﺎﺒﻨﻠﻟ ﻞﺗﺎﻗ ﺮﻄﻗ ﻒﺼﻧ</FoliageKillRadius>
+  <RadiusExpandRate>ﺮﻄﻘﻟﺍ ﻒﺼﻧ ﻊﻴﺳﻮﺗ ﻝﺪﻌﻣ</RadiusExpandRate>
+  <ViewHyperlink>{0} :ﺽﺮﻋ</ViewHyperlink>
+  <DetonationCountdown>ﻡﺎﻳﺃ {0} ﻲﻓ ﺮﺠﻔﻨﻳ</DetonationCountdown>
+  <ExplosionOnDamageWarning>.ﻒﻠﺘﻟﺍ ﺪﻨﻋ ﺮﻴﺒﻛ ﺭﺎﺠﻔﻧﺍ</ExplosionOnDamageWarning>
+  <MechCluster>ﺔﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﻦﻴﻴﻟﻵﺍ ﻊﻤﺠﺗ</MechCluster>
+  <SpawningNextPawnIn>{0} ﻲﻓ ﺭﻮﻬﻈﻟﺍ</SpawningNextPawnIn>
+  <MechAssemblyCompleteIn>.{1} ﻲﻓ {0} ﻊﻴﻤﺠﺗ ﻝﺎﻤﺘﻛﺍ</MechAssemblyCompleteIn>
+  <MechAssemblyNextType>ﻊﻤﺟﺃ ﻑﻮﺳ</MechAssemblyNextType>
+  <ThingsProduced>ﻪﺟﺎﺘﻧﺇ ﻢﺗ</ThingsProduced>
+  <PlantsHarvested>ﺎﻬﻴﻨﺟ ﻢﺗ</PlantsHarvested>
+  <PawnsKilled>{0} ﻞﺘﻗ</PawnsKilled>
+  <PawnsLent>{1} ﻥﻮﻀﻏ ﻲﻓ ﺩﻮﻋﺄﺳ ،{0} ﻝﺎﺳﺭﺇ ﻢﺗ</PawnsLent>
+  <DormantCompInactive>ﺔﻔﻗﻮﺘﻣ</DormantCompInactive>
+  <DormantCompSealed>ﺔﻘﻠﻐﻣ</DormantCompSealed>
+  <DormantCompBeacon>ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻁﺎﻘﺳﻹ ﺪﻌﺘﺴﻣ</DormantCompBeacon>
+  <DormantCompExpired>ﺔﻴﺣﻼﺼﻟﺍ ﺖﻬﺘﻧﺍ</DormantCompExpired>
+  <InitiatesIn>ﻲﻓ ﺃﺪﺒﻳ</InitiatesIn>
+  <SendSignalOnCountdownCompTime>{0} ﻲﻓ ﻂﻴﺸﻨﺗ</SendSignalOnCountdownCompTime>
+  <PsychicEntropy>ﺔﻴﺒﺼﻌﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ</PsychicEntropy>
+  <PsychicEntropyShort>ﺓﺭﺍﺮﺤﻟﺍ</PsychicEntropyShort>
+  <PsychicEntropyPainFocus>{0} ﻢﻟﻷﺍ ﺓﺩﺎﻳﺯ</PsychicEntropyPainFocus>
+  <ConditionCauserRadius>{0} ﺮﻄﻘﻟﺍ ﻒﺼﻧ</ConditionCauserRadius>
+  <LowPsyfocus>ﻲﺴﻔﻨﻟﺍ ﺰﻴﻛﺮﺘﻟﺍ ﺽﺎﻔﺨﻧﺍ</LowPsyfocus>
+  <DurationLeft>{0} ﻙﺮﺗ</DurationLeft>
+  <AnyOf>ﺎﻤﻬﻨﻣ ﻱﺃ</AnyOf>
+  <TraitRequired>{0} ﺔﻔﺼﻟﺍ ﺐﻠﻄﺘﻳ</TraitRequired>
+  <Goodwill>ﺔﻴﻨﻟﺍ ﻦﺴﺣ</Goodwill>
+  <NaturalGoodwill>ﻲﻌﻴﺒﻄﻟﺍ ﺔﻴﻨﻟﺍ ﻦﺴﺣ</NaturalGoodwill>
+  <NaturalGoodwillRange>ﻲﻌﻴﺒﻄﻟﺍ ﺔﻨﺴﺤﻟﺍ ﻕﺎﻄﻧ</NaturalGoodwillRange>
+  <NaturalGoodwillDescription>.ﺕﺍﺪﻘﺘﻌﻤﻟﺍﻭ ﻞﺋﺎﺼﻔﻟﺍ ﺕﺎﻳﻮﻫ ﻰﻠﻋ ﺔﻴﻨﺒﻣ ﺔﻴﻌﻴﺒﻄﻟﺍ ﺔﺒﻏﺮﻟﺍ
+ﺔﺒﻏﺮﻟﺍ ﻦﻋ ﺓﺪﻴﻌﺑ ﺔﻴﻟﺎﺤﻟﺍ ﺔﺒﻏﺮﻟﺍ ﺖﻧﺎﻛ ﺍﺫﺇ
+ﺔﺒﻏﺮﻟﺍ ﻮﺤﻧ ﺀﻂﺒﺑ ﻞﻘﺘﻨﺘﺳ ﺎﻬﻧﺈﻓ ، ﺔﻴﻌﻴﺒﻄﻟﺍ
+ﺕﺍﺮﻴﺛﺄﺗ ﻊﻴﻤﺟ ﻒﻋﺎﻀﺘﺗ .ﺖﻗﻮﻟﺍ ﺭﻭﺮﻣ ﻊﻣ ﺔﻴﻌﻴﺒﻄﻟﺍ
+ﺔﺒﻏﺮﻟﺍ ﻮﺤﻧ ﻝﺎﻘﺘﻧﻻﺍ ﺪﻨﻋ {0} ﺔﻄﺳﺍﻮﺑ ﺔﺒﻏﺮﻟﺍ
+.ﺔﻴﻌﻴﺒﻄﻟﺍ</NaturalGoodwillDescription>
+  <JobReport_ReduceResistance>{nameIndef_0} ﺔﻣﻭﺎﻘﻣ ﻞﻴﻠﻘﺗ</JobReport_ReduceResistance>
+  <TooLargeForBed>ﺍﺪﺟ ﺮﻴﺒﻛ ﻢﺠﺣ</TooLargeForBed>
+  <Warning>ﺮﻳﺬﺤﺗ</Warning>
+  <HasSubquest>ﺔﻴﻋﺮﻓ ﺔﻤﻬﻣ ﻪﻳﺪﻟ</HasSubquest>
+  <SubquestOf>ـﻟ ﺔﻴﻋﺮﻓ ﺔﻤﻬﻣ</SubquestOf>
+  <Raid>ﺓﺭﺎﻏ</Raid>
+  <ApparelRequirementDisabledLabel>ﺔﻄﺳﺍﻮﺑ ﻞﻴﻄﻌﺗ</ApparelRequirementDisabledLabel>
+  <Nudism>ﻱﺮﻌﻟﺍ</Nudism>
+  <StudyProgress>ﺔﺳﺍﺭﺪﻟﺍ ﻡﺪﻘﺗ</StudyProgress>
+  <StudyCompleted>ﺀﺎﻬﺘﻧﻻﺍ ﻢﺗ</StudyCompleted>
+  <AttackToDestroy>.ﺎﻫﺮﻴﻣﺪﺘﻟ ﺎﻬﻤﺟﺎﻫ</AttackToDestroy>
+  <RemoveByAttackingTooltip>.ﻡﻮﺠﻬﻟﺎﺑ ﺎﻬﻴﻠﻋ ﺾﻗﺍ</RemoveByAttackingTooltip>
+  <ThoughtFoodEatenFood>ﻡﺎﻌﻃ</ThoughtFoodEatenFood>
+  <ThoughtFoodEatenIngredients>ﺕﺎﻧﻮﻜﻤﻟﺍ</ThoughtFoodEatenIngredients>
+  <ShieldInbuilt>ﻉﻭﺭﺪﻟﺍ ﺔﻣﺰﺣ</ShieldInbuilt>
+  <PuncturedWillExplode>.ﺎﺒﻳﺮﻗ ﺮﺠﻔﻨﺘﺳ - ﺔﺑﻮﻘﺜﻣ</PuncturedWillExplode>
+  <ClickToOpenResearchTab>ﺚﺤﺒﻟﺍ ﺓﺬﻓﺎﻧ ﺢﺘﻔﻟ ﺮﻘﻧﺍ</ClickToOpenResearchTab>
+  <TargetBelongsToNPCFaction>.ﻯﺮﺧﺃ ﺔﻋﺎﻤﺟ ﻰﻟﺇ ﻲﻤﺘﻨﻳ ﻑﺪﻬﻟﺍ</TargetBelongsToNPCFaction>
+  <MoreLower>ﺪﻳﺰﻤﻟﺍ</MoreLower>
+  <RequiredTechprintTip>ﻡﺎﻈﻨﻟﺍ ﺕﺎﺒﻠﻄﺘﻣ</RequiredTechprintTip>
+  <Size>ﻢﺠﺤﻟﺍ</Size>
+  <Cost>ﺔﻔﻠﻜﺗ</Cost>
+  <BackstoryTitle>ﻥﺍﻮﻨﻋ</BackstoryTitle>
+  <Person>ﺺﺨﺷ</Person>
+
+  
+  <UserScanAbility>ﻡﺪﺨﺘﺴﻤﻟﺍ ﺢﺴﻣ ﺔﻋﺮﺳ</UserScanAbility>
+  <ScanAverageInterval>ﻲﺋﺍﻮﺸﻌﻟﺍ ﺭﻮﺜﻌﻟﺍ ﺓﺮﺘﻓ</ScanAverageInterval>
+  <ScanningProgressToGuaranteedFind>ﻥﻮﻤﻀﻤﻟﺍ ﺭﻮﺜﻌﻠﻟ ﻡﺪﻘﺘﻟﺍ</ScanningProgressToGuaranteedFind>
+  
+  
+  <MeditatingAt>ﻲﻓ ﻞﻣﺄﺘﻟﺍ</MeditatingAt>
+
+  
+  <ContainsWort>.ﺔﻤﻠﻛ {1} / {0} ﻰﻠﻋ ﻱﻮﺘﺤﺗ</ContainsWort>
+  <ContainsBeer>.ﺓﺮﻴﺑ {1} / {0} ﻰﻠﻋ ﻱﻮﺘﺤﻳ</ContainsBeer>
+  <Contains>ﻱﻮﺘﺤﻳ</Contains>
+  <Fermented>ﺓﺮﻤﺨﻣ</Fermented>
+  <FermentationProgress>(ﻲﻘﺒﺘﻣ {1}) {0} :ﻡﺪﻘﺘﻟﺍ</FermentationProgress>
+  <FermentationBarrelOutOfIdealTemperature>{0} :ﺮﻤﺨﺘﻟﺍ ﺔﻋﺮﺳ .ﺔﻴﻟﺎﺜﻣ ﺮﻴﻏ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ</FermentationBarrelOutOfIdealTemperature>
+
+  
+  <Headshot>ﺔﻴﺳﺃﺭ</Headshot>
+  <TextMote_TreatSuccess>{0} ﺔﺻﺮﻓn\!ﺝﻼﻌﻟﺍ ﺡﺎﺠﻧ</TextMote_TreatSuccess>
+  <TextMote_TreatFailed>{0} ﺔﺻﺮﻓn\ﺝﻼﻌﻟﺍ ﻞﺸﻓ</TextMote_TreatFailed>
+  <TextMote_HarvestFailed>ﻝﻮﺼﺤﻤﻟﺍ ﻲﻨﺟ ﻞﺸﻓ</TextMote_HarvestFailed>
+  <TextMote_YieldWasted>ﻊﻴﻀﺗn\ﻢﻠﺴﺘﺳﺍ</TextMote_YieldWasted>
+  <TextMote_ProductWasted>ﺭﺪﻬﻤﻟﺍ ﺞﺘﻨﻤﻟﺍ</TextMote_ProductWasted>
+  <TextMote_RecruitFail>ﺔﺻﺮﻓ {n{0\!ﺔﻟﻭﺎﺤﻤﻟﺍ ﺖﻠﺸﻓ</TextMote_RecruitFail>
+  <TextMote_ResistanceReduced>{1} ـﻟ {0} ﺔﻣﻭﺎﻘﻤﻟﺍ</TextMote_ResistanceReduced>
+  <TextMote_TameFail>ﺔﺻﺮﻓ {n{0\ﺾﻳﻭﺮﺘﻟﺍ ﻞﺸﻓ</TextMote_TameFail>
+  <TextMote_TameSuccess>!ﺾﻳﻭﺮﺗ</TextMote_TameSuccess>
+  <TextMote_TrainFail>{1} ﺔﺻﺮﻓn\{0} :ﺐﻳﺭﺪﺘﻟﺍ ﻞﺸﻓ</TextMote_TrainFail>
+  <TextMote_TrainSuccess>{1} :ﺔﺻﺮﻓn\{0} :ﺏﺭﺪﺗ</TextMote_TrainSuccess>
+  <TextMote_FixBrokenDownBuildingFail>ﺝﻮﻌﻣn\ﺡﻼﺻﺇ</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_ConstructionFail>ﺀﺎﻨﺒﻟﺍ ﺮﺜﻌﺗ</TextMote_ConstructionFail>
+  <TextMote_Dodge>ﺐﻨﺠﺗ</TextMote_Dodge>
+  <TextMote_Immune>ﺔﻋﺎﻨﻣ</TextMote_Immune>
+  <TextMote_Tended>ﺀﺎﻨﺘﻋﻹﺎﺑ ﻡﺎﻗ {0}</TextMote_Tended>
+  <TextMote_SkillUp>{0} ﻯﻮﺘﺴﻣ</TextMote_SkillUp>
+  <lowMood>ﺾﻔﺨﻨﻣ ﺝﺍﺰﻣ</lowMood>
+  <lowOpinion>ﻲﺒﻠﺳ ﻱﺃﺭ</lowOpinion>
+
+  
+  <Home>ﻝﺰﻨﻤﻟﺍ</Home>
+  <BuildRoof>ﻒﻘﺴﻟﺍ ﺀﺎﻨﺑ</BuildRoof>
+  <NoRoof>ﻒﻘﺳ ﺪﺟﻮﻳ ﻻ</NoRoof>
+  <SnowClear>ﺞﻠﺜﻟﺍ ﻒﻴﻈﻨﺗ</SnowClear>
+  <AreaDefaultLabel>{0} ﺔﻘﻄﻨﻤﻟﺍ</AreaDefaultLabel>
+  <NoAreaAllowed>ﺪﻴﻘﻣ ﺮﻴﻏ</NoAreaAllowed>
+  <NewArea>ﺓﺪﻳﺪﺟ ﺔﻘﻄﻨﻣ</NewArea>
+  <InvertArea>ﺲﻜﻋ</InvertArea>
+
+  
+  <PenUnenclosedLabel>ﻦﺼﺤﻣ ﺮﻴﻏ</PenUnenclosedLabel>
+  <PenOpenDoorLabel>ﺏﺎﺒﻟﺍ ﺢﺘﻓﺍ</PenOpenDoorLabel>
+  <RenameAnimalPen>ﺔﻴﻤﺴﺗ ﺪﻋﺃ</RenameAnimalPen>
+  <AnimalPenMarkerDefaultLabel>{0} ﺔﻣﻼﻋ</AnimalPenMarkerDefaultLabel>
+  <InPen>ﺓﺮﻴﻈﺤﻟﺍ ﻲﻓ</InPen>
+  <Unpenned>ﺓﺮﻴﻈﺤﻟﺍ ﻲﻓ ﺲﻴﻟ</Unpenned>
+  <UnpennedTooltip>ﺀﺎﻨﺑ ﻖﻳﺮﻃ ﻦﻋ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺹﺎﻔﻗﺃ ﺀﺎﺸﻧﺇ ﻦﻜﻤﻳ
+ﻥﻮﺠﻟﺎﻌﻤﻟﺍ ﻡﻮﻘﻴﺳ .ﺔﻘﻠﻐﻣ ﺔﻘﻄﻨﻣ ﻞﺧﺍﺩ ﺺﻔﻗ ﺔﻣﻼﻋ
+ﻖﻴﻠﻐﺗ ﻦﻜﻤﻳ .ﺐﺳﺎﻨﻤﻟﺍ ﺺﻔﻘﻟﺍ ﻰﻟﺇ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺭﺎﻀﺣﺈﺑ
+.ﺏﺍﻮﺑﺃﻭ ﻥﺍﺭﺪﺟﻭ ﺰﺟﺍﻮﺣﻭ ﺭﺍﻮﺳﺄﺑ ﺹﺎﻔﻗﻷﺍ</UnpennedTooltip>
+  <RopedByPawn>ﺔﻄﺳﺍﻮﺑ ﺱﻮﺒﺤﻣ</RopedByPawn>
+  <RopedToThing>ﻰﻟﺇ ﻁﻮﺑﺮﻣ</RopedToThing>
+  <RopedToSpot>.ﺔﻄﻘﻨﻟﺍ ﻰﻟﺇ ﻁﻮﺑﺮﻣ</RopedToSpot>
+  <PenSizeLabel>ﻢﺠﺤﻟﺍ</PenSizeLabel>
+  <PenSizeDesc_VerySmall>ﺍﺪﺟ ﺮﻴﻐﺻ ﺺﻔﻗ</PenSizeDesc_VerySmall>
+  <PenSizeDesc_Small>ﺔﻠﻴﻠﻗ ﺔﺣﺎﺴﻣ</PenSizeDesc_Small>
+  <PenSizeDesc_Medium>ﻂﺳﻮﺘﻣ ﻢﺠﺤﺑ</PenSizeDesc_Medium>
+  <PenSizeDesc_Large>ﺮﻴﺒﻛ ﺺﻔﻗ</PenSizeDesc_Large>
+  <PenSizeDesc_Unenclosed>ﺭﺍﻮﺳﻷﺍ ﺀﺎﻨﺒﺑ ﻢﻗ - ﻦﺼﺤﻣ ﺮﻴﻏ</PenSizeDesc_Unenclosed>
+  <PenCapacityDesc>{ANIMALDEF_label} ﺓﺭﺪﻘﻟﺍ</PenCapacityDesc>
+  <PenExampleAnimals>ﺔﻴﻟﺎﺜﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</PenExampleAnimals>
+  <NoExteriorAccess>ﻻ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ - ﻲﺟﺭﺎﺧ ﻝﻮﺻﻭ ﺪﺟﻮﻳ ﻻ
+.ﺝﺭﺎﺧ ﻭﺃ ﻞﺧﺍﺩ ﺎﻬﻠﻘﻧ ﻦﻜﻤﻳ</NoExteriorAccess>
+
+  
+  <Beauty_Label>ﻝﺎﻤﺟ</Beauty_Label>
+  <Zone_Label>ﺔﻘﻄﻨﻣ</Zone_Label>
+  <Roof_Label>ﻒﻘﺳ</Roof_Label>
+  <Terrain_Label>ﺲﻳﺭﺎﻀﺘﻟﺍ</Terrain_Label>
+  <Snow_Label>ﺞﻠﺛ</Snow_Label>
+  <WalkSpeed_Label>ﻲﺸﻤﻟﺍ ﺔﻋﺮﺳ</WalkSpeed_Label>
+  <Fertility_Label>ﺔﺑﻮﺼﺨﻟﺍ</Fertility_Label>
+  <Temperature_Label>ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ</Temperature_Label>
+  <LightLevel_Label>ﺓﺀﺎﺿﻹﺍ ﻯﻮﺘﺴﻣ</LightLevel_Label>
+  <Biome_Label>ﺔﻴﻌﻴﺒﻄﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ</Biome_Label>
+  <Hilliness_Label>ﺔﻴﻟﻼﺗ</Hilliness_Label>
+  <Road_Label>ﻖﻳﺮﻃ</Road_Label>
+  <River_Label>ﺮﻬﻧ</River_Label> 
+  <MovementDifficulty_Label>ﻙﺮﺤﺘﻟﺍ ﺔﺑﻮﻌﺻ</MovementDifficulty_Label>
+  <Pollution_Label>ﺙﻮﻠﺘﻟﺍ</Pollution_Label>
+  <Filth_Label>ﺥﺎﺳﻭﻷﺍ</Filth_Label>
+  
+  <Faction_Label>ﻞﻴﺼﻔﻟﺍ</Faction_Label>
+  <Relationship_Label>ﺔﻗﻼﻌﻟﺍ</Relationship_Label>
+  <CaravanColonists_Label>ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ</CaravanColonists_Label>
+  <CaravanStatus_Label>ﺔﻟﺎﺤﻟﺍ</CaravanStatus_Label>
+  <CaravanTTD_Label>ﺔﻬﺟﻮﻟﺍ ﻰﻟﺇ ﻝﻮﺻﻮﻠﻟ ﻲﻘﺒﺘﻤﻟﺍ ﺖﻗﻮﻟﺍ</CaravanTTD_Label>
+  
+
+  
+  <CannotOrderNonControlled>ﻲﺘﻟﺍ ﺕﺎﻴﺼﺨﺸﻠﻟ ﺮﻣﺍﻭﻷﺍ ﺀﺎﻘﻟﺇ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ
+.ﻚﺗﺮﻄﻴﺴﻟ ﻊﻀﺨﺗ ﻻ</CannotOrderNonControlled>
+  <IsIncapableOfViolence>{1_labelShort} ﻒﻨﻌﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ.</IsIncapableOfViolence>
+  <IsIncapableOfViolenceShort>ﻒﻨﻌﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ</IsIncapableOfViolenceShort>
+  <IsNotDrafted>{1_labelShort} ﻩﺪﻴﻨﺠﺗ ﻢﺘﻳ ﻢﻟ.</IsNotDrafted>
+  <ApparelPreventsShooting>ﻦﻋ ﺔﺤﻠﺳﻷﺍ ﻡﺍﺪﺨﺘﺳﺍ {PAWN_nameDef} ـﻟ ﻦﻜﻤﻳ ﻻ
+.ﻪﺑ ﺹﺎﺨﻟﺍ {APPAREL_label} ﺐﺒﺴﺑ ﺪﻌﺑ</ApparelPreventsShooting>
+
+  
+  <Snow>ﺞﻠﺛ</Snow>
+  <SnowNone>ﺞﻠﺛ ﺪﺟﻮﻳ ﻻ</SnowNone>
+  <SnowDusting>ﺭﺎﺒﻐﻟﺍ ﻒﻴﻈﻨﺗ</SnowDusting>
+  <SnowThin>ﻊﻴﻓﺭ</SnowThin>
+  <SnowMedium>ﻂﺳﻮﺘﻣ</SnowMedium>
+  <SnowThick>ﺔﻜﻴﻤﺳ</SnowThick>
+
+  
+  <GunInstalled>ﺖﻴﺒﺜﺘﻟﺍ ﻢﺗ</GunInstalled>
+  <MinimumRange>ﻰﻧﺩﻷﺍ ﻕﺎﻄﻨﻟﺍ</MinimumRange>
+  <CanFireIn>؟ﻖﻳﺮﺣ ﻉﻻﺪﻧﺍ ﻦﻜﻤﻳ ﻞﻫ</CanFireIn>
+  <CannotFire>ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ</CannotFire>
+  <Roofed>ﻒﻘﺴﺑ ﻰﻄﻐﻣ</Roofed>
+  <ShellLoaded>{label_1} :ﺔﻠﻤﺤﻣ ﺔﻔﻳﺬﻘﻟﺍ</ShellLoaded>
+  <ShellNotLoaded>ﻪﻠﻴﻤﺤﺗ ﻢﺘﻳ ﻢﻟ</ShellNotLoaded>
+  <AlreadyActive>ﻞﻌﻔﻟﺎﺑ ﺔﻟﺎﻌﻓ</AlreadyActive>
+  <OrderActivation>ﺮﻣﻷﺍ ﻂﻴﺸﻨﺗ</OrderActivation>
+  <OrderActivationDesc>.{THING_definite} ﻞﻴﻌﻔﺘﻟ ﻞﺻﺍﻮﻟﺍ ﺮﻣﺃ</OrderActivationDesc>
+  <MustBeActivatedByColonist>.ﻦﻃﻮﺘﺴﻣ ﺔﻄﺳﺍﻮﺑ ﺎﻬﻄﻴﺸﻨﺗ ﺐﺠﻳ</MustBeActivatedByColonist>
+  <NoNearbyFire>ﺐﻳﺮﻗ ﻖﻳﺮﺣ ﺪﺟﻮﻳ ﻻ</NoNearbyFire>
+  <NoNearbyFireNoFuelUsed>ﻡﺍﺪﺨﺘﺳﺍ ﻢﺘﻳ ﻢﻟ .ﺐﻳﺮﻗ ﻖﻳﺮﺣ ﺪﺟﻮﻳ ﻻ
+.ﺩﻮﻗﻭ</NoNearbyFireNoFuelUsed>
+  <ChooseWhoShouldActivate>.ﺍﺬﻫ ﻞﻴﻌﻔﺘﺑ ﻡﻮﻘﻳ ﻥﺃ ﺐﺠﻳ ﻦﻣ ﺮﺘﺧﺍ</ChooseWhoShouldActivate>
+  <NoFuel>ﺩﻮﻗﻭ ﻻ</NoFuel>
+
+  
+  <ReportHaulingTo>.{DESTINATION} ﻰﻟﺇ {THING_label} ﻞﻘﻧ ﺭﺎﺟ</ReportHaulingTo>
+  <ReportHaulingToGrave>.{DESTINATION} ﻲﻓ {THING_label} ﻦﻓﺩ</ReportHaulingToGrave>
+  <ReportHauling>.{label_1} ﻞﻘﻧ</ReportHauling>
+  <ReportHaulingUnknown>.ﺀﺎﻴﺷﻷﺍ ﻊﻤﺟ</ReportHaulingUnknown>
+  <ReportSleeping>.ﻡﻮﻨﻟﺍ</ReportSleeping>
+  <ReportResting>.ﺔﺣﺍﺭ ﺔﻟﺎﺣ ﻲﻓ</ReportResting>
+  <ReportLayingDown>.ﺀﺎﻘﻠﺘﺳﻻﺍ</ReportLayingDown>
+  <WatchingSunrise>.ﺲﻤﺸﻟﺍ ﻕﻭﺮﺷ ﺓﺪﻫﺎﺸﻣ</WatchingSunrise>
+  <CloudWatching>.ﺏﺎﺤﺴﻟﺍ ﺔﺒﻗﺍﺮﻣ</CloudWatching>
+  <WatchingSunset>.ﺲﻤﺸﻟﺍ ﺏﻭﺮﻏ ﺓﺪﻫﺎﺸﻣ</WatchingSunset>
+  <Stargazing>.ﻡﻮﺠﻨﻟﺍ ﻞﻣﺄﺗ</Stargazing>
+  <WatchingEclipse>.ﻑﻮﺴﻜﻟﺍ ﺓﺪﻫﺎﺸﻣ</WatchingEclipse>
+  <WatchingAurora>.ﻲﺒﻄﻘﻟﺍ ﻖﻔﺸﻟﺍ ﺓﺪﻫﺎﺸﻣ</WatchingAurora>
+  <UsingVerb>.{1} ﻰﻠﻋ {0} ﻡﺍﺪﺨﺘﺳﺍ</UsingVerb>
+  <UsingVerbNoTarget>.{0} ﻡﺍﺪﺨﺘﺳﺎﺑ</UsingVerbNoTarget>
+  <AreaLower>ﺔﻘﻄﻨﻣ</AreaLower>
+  <ReportCowering>.ﻒﺋﺎﺧ</ReportCowering>
+  <ReportStanding>.ﻒﻗﺍﻭ</ReportStanding>
+  <ReportExtinguishingFire>.ﺭﺎﻨﻟﺍ ﺩﺎﻤﺧﺇ</ReportExtinguishingFire>
+  <ReportExtinguishingFireOn>. &lt;TARGET_label&gt; ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﺀﺎﻔﻃﺇ</ReportExtinguishingFireOn>
+  <ReportDiggingUpCorpse>ﺔﺜﺟ ﺮﻔﺣ</ReportDiggingUpCorpse>
+  <CarriedBy>.{labelShort_0} ﺔﻄﺳﺍﻮﺑ ﻪﻠﻤﺣ ﻢﺘﻳ</CarriedBy> 
+  <InContainer>.{labelShort_0} ﻞﺧﺍﺩ</InContainer> 
+
+  
+  <LordReportAttendingMarriageCeremony>ﻑﺎﻓﺯ ﻞﻔﺣ ﺭﻮﻀﺣ</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingParty>ﺔﻠﻔﺤﻟﺍ ﺭﻮﻀﺣ</LordReportAttendingParty>
+  <LordReportAttendingConcert>ﻰﻘﻴﺳﻮﻤﻟﺍ ﺔﻠﻔﺣ ﺭﻮﻀﺣ</LordReportAttendingConcert>
+  <LordReportHoldingConcert>ﺔﻴﺋﺎﻨﻏ ﺔﻠﻔﺣ ﺪﻘﻋ</LordReportHoldingConcert>
+  <LordReportGivingSpeech>ﺏﺎﻄﺧ ﺀﺎﻘﻟﺇ</LordReportGivingSpeech>
+  <LordReportListeningSpeech>{ORGANIZER_labelShort} ﺔﻤﻠﻛ ﻰﻟﺇ ﻉﺎﻤﺘﺳﻻﺍ</LordReportListeningSpeech>
+  <LordReportFormingCaravan>ﺔﻠﻓﺎﻗ ﻞﻴﻜﺸﺗ</LordReportFormingCaravan>
+
+  
+  <WeaponMissRadius>ﺡﻼﺴﻟﺎﺑ ﺏﺮﻀﻟﺍ ﻲﻓ ﻞﺸﻔﻟﺍ ﺮﻄﻗ ﻒﺼﻧ</WeaponMissRadius>
+  <ShootReportShooterAbility>ﺭﺎﻨﻟﺍ ﻖﻠﻄﻤﻟﺍ</ShootReportShooterAbility>
+  <ShootReportWeapon>ﺡﻼﺳ</ShootReportWeapon>
+  <Darkness>ﻡﻼﻈﻟﺍ</Darkness>
+  <TargetProne>ﻖﻠﺘﺴﻣ ﻑﺪﻬﻟﺍ</TargetProne>
+  <TargetSize>ﻑﺪﻬﻟﺍ ﻢﺠﺣ</TargetSize>
+  <Weather>ﺲﻘﻄﻟﺍ</Weather>
+  <ShootingCover>ﺔﻴﻄﻐﺘﻟﺍ</ShootingCover>
+  <CoverThingBlocksPercentOfShots>{COVER_label} 1} ﻒﻗﻮﺘﻳ}</CoverThingBlocksPercentOfShots>
+  <NoCoverLower>ﺔﻴﻄﻐﺗ ﻻ</NoCoverLower>
+  <Execution>ﻡﺍﺪﻋﻹﺍ</Execution>
+
+  
+  <RecipeMake>{0} ﻞﻤﻋ</RecipeMake>
+  <RecipeMakeDescription>.{0} ﻊﻨﺼﺑ ﻢﻗ</RecipeMakeDescription>
+  <RecipeMakeJobString>.{0} ﺀﺎﺸﻧﺇ</RecipeMakeJobString>
+  <RecipeAdminister>{0} ﻰﻠﻋ ﻞﻤﻋﺃ</RecipeAdminister>
+  <RecipeAdministerJobString>.{0} ﻊﻳﺯﻮﺗ</RecipeAdministerJobString>
+  <TeetotalerUnhappy>ﺪﻴﻌﺳ ﺮﻴﻏ ﻥﻮﻜﻴﺳ ﻝﻮﺤﻜﻟﺍ ﻦﻋ ﻊﻨﺘﻤﻤﻟﺍ</TeetotalerUnhappy>
+  <ProsthophobeUnhappy>ﻦﻴﺿﺍﺭ ﺮﻴﻏ ﻥﻮﻧﻮﻜﻴﺳ ﻲﻘﻨﻟﺍ ﺪﺴﺠﻠﻟ ﻥﻮﺴﻤﺤﺘﻤﻟﺍ</ProsthophobeUnhappy>
+
+  
+  <ThoughtExpiresIn>{0} :ﻲﻓ ﻲﻬﺘﻨﻳ</ThoughtExpiresIn>
+  <ThoughtNullifiedBy>ﺔﻄﺳﺍﻮﺑ ﺮﻜﻔﻟﺍ ﻞﻴﻄﻌﺗ</ThoughtNullifiedBy>
+  <ThoughtStartsExpiringIn>{0} :ﻲﻓ ﺀﺎﻬﺘﻧﻻﺍ ﺃﺪﺒﻳ</ThoughtStartsExpiringIn>
+  <ThoughtFinishesExpiringIn>{0} :ﻲﻓ ﻲﻬﺘﻨﺗ ﺕﺍﺀﺎﻨﺘﻗﺍ</ThoughtFinishesExpiringIn>
+  <MentalBreakThresholdExtreme>ﻑﺮﻄﺘﻤﻟﺍ ﺭﺎﻴﻬﻧﻻﺍ ﺪﺣ</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdMajor>ﻲﺴﻴﺋﺮﻟﺍ ﺭﺎﻴﻬﻧﻻﺍ ﺪﺣ</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMinor>ﺔﻠﻴﻠﻘﻟﺍ ﺮﺴﻜﻟﺍ ﺔﺒﺘﻋ</MentalBreakThresholdMinor>
+
+  
+  <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
+  <PawnMainDescFactionedWrap>{1} ﻦﻣ {0}</PawnMainDescFactionedWrap>
+  <PawnTitleDescWrap>{1} ﻲﻓ {0}</PawnTitleDescWrap>
+  <PawnMainDescUnderFactionedWrap>{1} ﺖﺤﺗ {0}</PawnMainDescUnderFactionedWrap>
+  <PawnMainDescLifestageWrap>{0} {ﺓﺎﻴﺤﻟﺍ_ﺔﻠﺣﺮﻣ_ﺔﻔﺻ_2}</PawnMainDescLifestageWrap>
+  <Faction>ﻞﻴﺼﻔﻟﺍ</Faction>
+  <FactionDesc>.{PAWN_labelShort} ﻞﻋﺎﻔﻟﺍ ﺎﻴﻟﺎﺣ ﻪﻴﻟﺇ ﻲﻤﺘﻨﻳ ﻱﺬﻟﺍ ﻥﺎﻴﻜﻟﺍ</FactionDesc>
+  <ExtraFactionDesc>.ﻲﻠﺻﺃ ﻞﻜﺸﺑ ﺎﻬﻴﻟﺇ ﻲﻤﺘﻨﺗ {PAWN_labelShort} ﻲﺘﻟﺍ ﺔﻠﻴﺼﻔﻟﺍ</ExtraFactionDesc>
+  <Equipped>ﺓﺰﻬﺠﻣ</Equipped>
+  <EquippedNothing>ﺀﻲﺷ ﻻ</EquippedNothing>
+  <Dead>ﺖﻴﻣ</Dead>
+  <Unconscious>ﻲﻋﻭﻻ</Unconscious>
+  <PainShock>.ﻢﻟﻷﺍ ﺐﺒﺴﺑ ﺔﻣﺪﺻ ﺔﻟﺎﺣ ﻲﻓ</PainShock>
+  <PainShockShort>ﻢﻟﻷﺍ ﺔﻣﺪﺻ</PainShockShort>
+  <Incapacitated>ﻞﻄﻌﻣ</Incapacitated>
+  <InRestraints>(ﺀﻂﺑ) ﺩﻮﻴﻘﻟﺍ ﻲﻓ</InRestraints>
+  <Carrying>ﻞﻤﺣ</Carrying>
+  <AffectedBy>:ـﺑ ﺓﺮﺛﺄﺘﻣ</AffectedBy>
+  <Queued>ﺭﺎﻈﺘﻧﻻﺍ ﺔﻤﺋﺎﻗ ﻲﻓ ﻪﺘﻓﺎﺿﺇ ﻢﺗ</Queued>
+  <State>ﻊﺿﻭ</State>
+  <StunLower>ﺔﻣﺪﺻ</StunLower>
+  <SlowedByDamage>ﺭﺮﻀﻟﺍ ﺐﺒﺴﺑ ﺄﻃﺎﺒﺗ</SlowedByDamage>
+
+  
+  <SelectNextInSquareTip>.ﻊﺑﺮﻤﻟﺍ ﺲﻔﻧ ﻲﻓ ﻲﻟﺎﺘﻟﺍ ﺀﻲﺸﻟﺍ ﺮﺘﺧﺍ
+ﺮﻘﻨﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﻚﻟﺬﺑ ﻡﺎﻴﻘﻟﺍ ﺎﻀﻳﺃ ﻚﻨﻜﻤﻳ
+.ﻯﺮﺧﺃ ﺓﺮﻣ ﻊﺑﺮﻤﻟﺍ ﺲﻔﻧ ﻰﻠﻋ ﺀﻂﺒﺑ</SelectNextInSquareTip>
+  <DefInfoTip>.ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﺽﺮﻋ</DefInfoTip>
+  <SelectNextInSquareTipController>ﻚﻨﻜﻤﻳ .ﻊﺑﺮﻤﻟﺍ ﺲﻔﻧ ﻲﻓ ﻲﻟﺎﺘﻟﺍ ﺀﻲﺸﻟﺍ ﺮﺘﺧﺍ
+ﺲﻔﻧ ﻰﻠﻋ ﺀﻂﺒﺑ ﺮﻘﻨﻟﺎﺑ ﻚﻟﺬﺑ ﻡﺎﻴﻘﻟﺍ ﺎﻀﻳﺃ
+.ﻯﺮﺧﺃ ﺓﺮﻣ ﻊﺑﺮﻤﻟﺍ</SelectNextInSquareTipController>
+
+  
+  <HostilityReponseTip>ﺀﺍﺪﻋﻷﺍ ﻊﻣ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﻞﻋﺎﻔﺘﻴﺳ ﻒﻴﻛ ﺮﻴﻴﻐﺗ
+.ﺍﺪﻨﺠﺘﻣ ﻥﻮﻜﻳ ﻻ ﺎﻣﺪﻨﻋ ﻦﻴﺒﻳﺮﻘﻟﺍ</HostilityReponseTip>
+  <HostilityResponseCurrentMode>ﻲﻟﺎﺤﻟﺍ ﺐﻌﻠﻟﺍ ﻊﺿﻭ</HostilityResponseCurrentMode>
+
+  
+  <OfLower>ﻦﻣ</OfLower>
+
+  
+  <PowerNotConnected>.ﺀﺎﺑﺮﻬﻜﻟﺎﺑ ﻞﺼﺘﻣ ﺮﻴﻏ</PowerNotConnected>
+  <PowerConnectedRateStored>{1} / ﻁﺍﻭ {0} :ﺔﻜﺒﺸﻟﺍ ﻲﻓ ﻦﻳﺰﺨﺘﻟﺍ/ﺾﺋﺎﻔﻟﺍ
+ﻁﺍﻭ</PowerConnectedRateStored>
+  <PowerNeeded>ﺔﺑﻮﻠﻄﻤﻟﺍ ﺔﻗﺎﻄﻟﺍ</PowerNeeded>
+  <PowerOutput>ﺀﺎﺑﺮﻬﻜﻟﺍ ﺝﺍﺮﺧﺇ</PowerOutput>
+  <PowerActiveNeeded>ﻞﻴﻌﻔﺘﻟﺍ ﺪﻨﻋ {0}</PowerActiveNeeded>
+  <PowerBatteryStored>ﺔﻧﺰﺨﻣ</PowerBatteryStored>
+  <PowerBatteryEfficiency>ﺓﺀﺎﻔﻜﻟﺍ</PowerBatteryEfficiency>
+  <SelfDischarging>ﻲﺗﺍﺫ ﻎﻳﺮﻔﺗ</SelfDischarging>
+
+  
+  <TargetTemperature>ﺔﻓﺪﻬﺘﺴﻤﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ</TargetTemperature>
+  <PowerConsumptionMode>ﻲﻟﺎﺤﻟﺍ ﺔﻗﺎﻄﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ</PowerConsumptionMode>
+  <PowerConsumptionHigh>ﻲﻟﺎﻋ</PowerConsumptionHigh>
+  <PowerConsumptionLow>ﺾﻔﺨﻨﻣ</PowerConsumptionLow>
+
+  
+  <Indoors>ﻰﻨﺒﻤﻟﺍ ﻞﺧﺍﺩ</Indoors>
+  <IndoorsUnroofed>ﻒﻘﺴﻟﺎﺑ ﺓﺎﻄﻐﻣ ﺮﻴﻏ</IndoorsUnroofed>
+  <Outdoors>ﻖﻠﻄﻟﺍ ﺀﺍﻮﻬﻟﺍ ﻲﻓ</Outdoors>
+
+  
+  <RotStateFresh>ﺝﺯﺎﻃ</RotStateFresh>
+  <RotStateRotting>ﻦﻔﻌﺗ</RotStateRotting>
+  <RotStateDessicated>ﺪﺳﺄﻔﻟﺎﻳ</RotStateDessicated>
+  <CurrentlyFrozen>(ﺪﺴﻓﺃ ﻦﻟ) ﺓﺪﻤﺠﻣ</CurrentlyFrozen>
+  <CurrentlyRefrigerated>({0} ﻲﻓ ﺪﺴﻔﻳ) ﺩﺮﺒﻣ</CurrentlyRefrigerated>
+  <NotRefrigerated>({0} ﻲﻓ ﺪﺴﻔﻳ) ﺩﺮﺒﻣ ﺮﻴﻏ</NotRefrigerated>
+  <OverADecade>ﻥﺎﻣﺰﻟﺍ ﻦﻣ ﺪﻘﻋ ﻦﻣ ﺮﺜﻛﺃ</OverADecade>
+  <LessThanADay>ﺪﺣﺍﻭ ﻡﻮﻳ ﻦﻣ ﻞﻗﺃ</LessThanADay>
+
+  
+  <ShotBy>{labelShort_1} ﺔﻄﺳﺍﻮﺑ ﺐﻴﺻﺃ</ShotBy>
+  <CannotHit>.ﻑﺪﻬﻟﺍ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ﻻ</CannotHit>
+  <ManhunterPerHit>ﺔﺑﺮﺿ ﻞﻜﻟ ﺱﺮﺸﻟﺍ ﺀﺍﺪﺘﻋﻻﺍ ﺔﺻﺮﻓ</ManhunterPerHit>
+
+  
+  <Ingredients>ﺕﺎﻧﻮﻜﻤﻟﺍ</Ingredients>
+  <IngredientsDesc>.ﺔﺒﺟﻮﻟﺍ ﻩﺬﻫ ﺩﺍﺪﻋﻹ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ</IngredientsDesc>
+  <DietaryType>ﻲﺋﺍﺬﻐﻟﺍ ﻡﺎﻈﻨﻟﺍ ﻉﻮﻧ</DietaryType>
+  <DietaryTypeDesc>ﺕﻼﻴﻀﻔﺗ ﻢﻬﻳﺪﻟ ﺹﺎﺨﺷﻷﺍ ﺾﻌﺑ .ﺔﺠﺘﻨﻤﻟﺍ ﺔﺒﺟﻮﻟﺍ ﻉﻮﻧ
+.ﺕﺎﺒﺟﻮﻟﺍ ﻦﻣ ﺔﻨﻴﻌﻣ ﻉﺍﻮﻧﻷ</DietaryTypeDesc>
+  <OnlyStacksWithCompatibleMeals>ﺔﻠﺛﺎﻤﻣ ﺕﺎﺒﺟﻭ ﻊﻣ ﺱﺪﻜﺗ ﻂﻘﻓ</OnlyStacksWithCompatibleMeals>
+
+  
+  <PercentGrowth>.ﻮﻤﻧ {0}</PercentGrowth>
+  <GrowthRate>ﻮﻤﻨﻟﺍ ﻝﺪﻌﻣ</GrowthRate>
+  <FullyGrownIn>.ﻮﻤﻨﻟﺍ ﺓﺪﻣ ﻦﻣ {0} ﻲﻓ ﻞﻣﺎﻜﻟﺎﺑ ﺖﺠﻀﻧ</FullyGrownIn>
+  <PlantNeedsLightLevel>ﺏﻮﻠﻄﻣ ﺓﺀﺎﺿﻹﺍ ﻯﻮﺘﺴﻣ</PlantNeedsLightLevel>
+  <PlantResting>ﺔﺣﺍﺮﻟﺍ</PlantResting>
+  <OutOfIdealTemperatureRange>:ﺓﺭﺍﺮﺤﻟﺍ ﻮﻤﻧ ﻒﻋﺎﻀﻣ .ﺔﻴﻟﺎﺜﻣ ﺮﻴﻏ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ
+%{0}</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing>.ﻮﻤﻨﻳ ﻻ .ﺔﻴﻟﺎﺜﻣ ﺮﻴﻏ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ</OutOfIdealTemperatureRangeNotGrowing>
+  <ReadyToHarvest>.ﺩﺎﺼﺤﻠﻟ ﺰﻫﺎﺟ</ReadyToHarvest>
+  <Mature>.ﺞﺿﺎﻧ</Mature>
+  <AveragePlantAge>ﺕﺎﺗﺎﺒﻨﻠﻟ ﻂﺳﻮﺘﻤﻟﺍ ﺮﻤﻌﻟﺍ</AveragePlantAge>
+  <OldestPlantAge>ﺔﺘﺒﻨﻟ ﺮﻤﻋ ﻡﺪﻗﺃ</OldestPlantAge>
+  <OutdoorGrowingPeriod>ﻮﻤﻨﻟﺍ ﺓﺮﺘﻓ</OutdoorGrowingPeriod>
+  <NoGrowingPeriod>ﺎﻬﻠﻌﻔﺗ ﻻ</NoGrowingPeriod>
+  <GrowYearRound>ﻡﺎﻌﻟﺍ ﺭﺍﺪﻣ ﻰﻠﻋ</GrowYearRound>
+  <GrowSeasonHereNow>.ﻥﻵﺍ ﺎﻨﻫ ﺩﻮﺟﻮﻣ ﻮﻤﻨﻟﺍ ﻞﺼﻓ</GrowSeasonHereNow>
+  <CannotGrowBadSeasonTemperature>.(ﺔﺒﺳﺎﻨﻣ ﺮﻴﻏ ﺔﻴﻠﺼﻓ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ) ﻮﻤﻨﻟﺍ ﺭﺬﻌﺗ</CannotGrowBadSeasonTemperature>
+  <Blighted>ﻦﻔﻌﻟﺎﺑ ﺏﺎﺼﻣ</Blighted>
+  <DyingBecauseExposedToLight>ﺀﻮﻀﻠﻟ ﺽﺮﻌﺘﻟﺍ ﺐﺒﺴﺑ ﺕﻮﻤﻟﺍ</DyingBecauseExposedToLight>
+  <AutoCutNow>ﻥﻵﺍ ﻊﻄﻗ</AutoCutNow>
+  <HarvestGerund>ﺩﺎﺼﺤﻟﺍ</HarvestGerund>
+  <CutGerund>ﻊﻄﻘﻟﺍ</CutGerund>
+  <CutAllBlight>.ﺩﺎﺴﻔﻟﺍ ﻞﻛ ﻊﻄﻗ</CutAllBlight>
+  <CutAllBlightDesc>ﻢﺘﻳ ﻥﺄﺑ ﻯﻭﺪﻌﻟﺎﺑ ﺔﺑﺎﺼﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻴﻤﺟ ﻢﻠﻋ
+ﻡﺎﻌﻃ ﻱﺃ ﻲﻄﻌﺗ ﻦﻟ ﺔﺑﺎﺼﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ .ﺎﻫﺮﻴﻣﺪﺗ
+.ﻯﻭﺪﻌﻟﺍ ﺭﺎﺸﺘﻧﺍ ﻞﺒﻗ ﺎﻫﺮﻴﻣﺪﺗ ﺐﺠﻳﻭ ،ﺩﺭﺍﻮﻣ ﻭﺃ</CutAllBlightDesc>
+
+  
+  <Zone>ﺔﻘﻄﻨﻤﻟﺍ</Zone>
+  <GrowingZone>ﺔﻴﻋﺍﺭﺯ ﺔﻘﻄﻨﻣ</GrowingZone>
+  <Stockpile>ﻦﻳﺰﺨﺘﻟﺍ ﺔﻘﻄﻨﻣ</Stockpile>
+  <DumpingStockpile>ﺕﺎﻔﻠﺨﻤﻟﺍ ﻦﻳﺰﺨﺗ ﺔﻘﻄﻨﻣ ﺀﺎﻘﻟﺇ</DumpingStockpile>
+  <Priority>ﺔﻳﻮﻟﻭﻷﺍ</Priority>
+  <ClearAll>ﻞﻜﻟﺍ ﺢﺴﻣ</ClearAll>
+  <AllowAll>ﻞﻜﻟﺎﺑ ﺡﺎﻤﺴﻟﺍ</AllowAll>
+
+  
+  <HitPoints>ﺏﺮﺿ ﺔﻄﻘﻧ {0}</HitPoints>
+  <AnyQuality>.ﺓﺩﻮﺟ ﻱﺃ</AnyQuality>
+  <OnlyQuality>{0} ﻂﻘﻓ</OnlyQuality>
+
+  
+  <Undiscovered>ﺔﻔﺸﺘﻜﻣ ﺮﻴﻏ</Undiscovered>
+
+  
+  <ShowLearningHelperWhenEmptyToggleButton>.ﺎﻏﺭﺎﻓ ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋ ﻲﻤﻴﻠﻌﺘﻟﺍ ﺪﻋﺎﺴﻤﻟﺍ ﺭﻮﻬﻇ ﻞﻳﺪﺒﺗ
+ﻙﺎﻨﻫ ﻥﺎﻛ ﺍﺫﺇ ﺎﻤﺋﺍﺩ ﻲﺋﺮﻣ ﻲﻤﻴﻠﻌﺘﻟﺍ ﺪﻋﺎﺴﻤﻟﺍ
+ﻲﻔﺘﺨﻳ ﻪﻠﻌﺠﻳ ﻞﻳﺪﺒﺘﻟﺍ ﺍﺬﻫ .ﻢﻠﻌﺘﻠﻟ ﻂﺸﻧ ﻡﻮﻬﻔﻣ
+.ﻂﺸﻧ ﻡﻮﻬﻔﻣ ﻙﺎﻨﻫ ﻥﻮﻜﻳ ﻻ ﺎﻣﺪﻨﻋ</ShowLearningHelperWhenEmptyToggleButton>
+  <ZoneVisibilityToggleButton>.ﻖﻃﺎﻨﻤﻟﺍ ﺭﻮﻬﻇ ﻞﻳﺪﺒﺗ</ZoneVisibilityToggleButton>
+  <ShowBeautyToggleButton>.ﻝﺎﻤﺠﻟﺍ ﺽﺮﻋ ﻞﻳﺪﺒﺗ
+ﺎﻫﺪﻫﺎﺸﻳ ﻥﺃ ﻦﻜﻤﻳ ﺎﻤﻛ ﻢﻟﺎﻌﻟﺍ ﻝﺎﻤﺟ ﺽﺮﻌﻳ
+.ﺮﺷﺆﻤﻟﺍ ﺮﻴﺸﻳ ﺚﻴﺣ ﻒﻗﺍﻮﻟﺍ ﺺﺨﺸﻟﺍ</ShowBeautyToggleButton>
+  <ShowRoomStatsToggleButton>ﻲﺘﻟﺍ ﺔﻓﺮﻐﻟﺍ ﺕﺎﻴﺋﺎﺼﺣﺇ ﺽﺮﻋn\n\.ﺔﻓﺮﻐﻟﺍ ﺕﺎﻴﺋﺎﺼﺣﺇ ﺽﺮﻋ ﻞﻳﺪﺒﺗ
+.ﺮﺷﺆﻤﻟﺍ ﺎﻬﻴﻟﺇ ﺮﻴﺸﻳ</ShowRoomStatsToggleButton>
+  <ShowColonistBarToggleButton>ﻊﻴﻤﺠﻟ ﺔﻴﺳﺎﺳﻷﺍ ﺔﻟﺎﺤﻟﺍﻭ ﺯﻮﻣﺮﻟﺍ ﺽﺮﻌﻳn\n\.ﺮﺸﺒﻟﺍ ﻂﻳﺮﺷ ﻞﻳﺪﺒﺗ
+ﺓﺩﺎﻋﺇ ﻚﻨﻜﻤﻳn\n\.ﺔﺷﺎﺸﻟﺍ ﻦﻣ ﻱﻮﻠﻌﻟﺍ ﺀﺰﺠﻟﺍ ﻲﻓ ﺮﺸﺒﻟﺍ
+ﺭﺰﺑ ﺮﻘﻨﻟﺎﺑ ﺮﺸﺒﻟﺍ ﻂﻳﺮﺷ ﻲﻓ ﺮﺸﺒﻟﺍ ﺐﻴﺗﺮﺗ
+.ﻢﻬﺒﺤﺳﻭ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButtonController>.ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻂﻳﺮﺷ ﻝﺪﺑ
+ﻰﻠﻋ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻊﻴﻤﺠﻟ ﺔﻴﺳﺎﺳﻷﺍ ﺔﻟﺎﺤﻟﺍﻭ ﺯﻮﻣﺮﻟﺍ ﺽﺮﻌﻳ
+.ﺔﺷﺎﺸﻟﺍ ﻦﻣ ﻱﻮﻠﻌﻟﺍ ﺀﺰﺠﻟﺍ
+ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻂﻳﺮﺷ ﻲﻓ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺐﻴﺗﺮﺗ ﺓﺩﺎﻋﺇ ﻚﻨﻜﻤﻳ
+ﺮﺴﻳﻷﺍ ﺩﺎﻧﺰﻟﺍ ﺭﺯ ﻰﻠﻋ ﻂﻐﻀﻟﺍ ﻖﻳﺮﻃ ﻦﻋ
+.ﻢﻬﺒﺤﺳﻭ</ShowColonistBarToggleButtonController>
+  <AutoHomeAreaToggleButton>ﺕﺂﺸﻨﻤﻟﺍ ﻝﻮﺣ ﺎﻴﺋﺎﻘﻠﺗ ﺖﻴﺒﻟﺍ ﺔﻘﻄﻨﻣ ﺪﻳﺪﻤﺗ ﻞﻳﺪﺒﺗ
+.ﺓﺪﻳﺪﺠﻟﺍ</AutoHomeAreaToggleButton>
+  <AutoRebuildButton>ﻲﻓ ﺎﻴﺋﺎﻘﻠﺗ ﺓﺮﻣﺪﻤﻟﺍ ﻞﻛﺎﻴﻬﻟﺍ ﺀﺎﻨﺑ ﺓﺩﺎﻋﺇ ﻞﻳﺪﺒﺗ
+.ﻝﺰﻨﻤﻟﺍ ﺔﻘﻄﻨﻣ</AutoRebuildButton>
+  <CategorizedResourceReadoutToggleButton>ﺕﺍﺀﺎﺼﺣﻹﺍ ﻂﻳﺮﺷ ﻰﻠﻋ ﻒﻴﻨﺼﺘﻟﺍ ﻊﺿﻭ ﻞﻳﺪﺒﺘﺑ ﻢﻗ
+.ﺩﺭﺍﻮﻤﻠﻟ</CategorizedResourceReadoutToggleButton>
+  <ShowAnimalNamesToggleButton>.ﺓﺎﻤﺴﻤﻟﺍ ﺔﺿﻭﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺀﺎﻤﺳﺃ ﺽﺮﻋ ﻞﻳﺪﺒﺗ</ShowAnimalNamesToggleButton>
+  <ShowRoofOverlayToggleButton>.ﻒﻘﺳﻷﺍ ﺔﻳﺅﺭ ﻞﻳﺪﺒﺗ</ShowRoofOverlayToggleButton>
+  <ShowFertilityOverlayToggleButton>ﻮﻫﻭ ،ﺽﺭﻷﺍ ﺔﺑﻮﺼﺧ ﺭﺍﺪﻘﻣ ﺮﻬﻈﻳn\n\.ﺔﺑﻮﺼﺨﻟﺍ ﺐﻛﺍﺮﺗ ﻞﻳﺪﺒﺗ
+ﻥﺃ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻉﻮﻧ ﻰﻠﻋ ﺮﺛﺆﻳ
+.ﺎﻫﻮﻤﻧ ﺔﻋﺮﺳﻭ ﻮﻤﻨﺗ</ShowFertilityOverlayToggleButton>
+  <ShowTerrainAffordanceOverlayToggleButton>ﻖﻠﻌﺘﺗ .ﺲﻳﺭﺎﻀﺘﻟﺍ ﻲﻓ ﺔﻴﻧﺎﻜﻣﻹﺍ ﺺﻧ ﺭﻮﻬﻇ ﻞﻳﺪﺒﺗ
+.ﻊﻗﻮﻣ ﻞﻛ ﻲﻓ ﺎﻫﺅﺎﺸﻧﺇ ﻦﻜﻤﻤﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ ﻉﺍﻮﻧﺄﺑ</ShowTerrainAffordanceOverlayToggleButton>
+  <LockNorthUpToggleButton>ﻝﺎﻤﺸﻟﺍ ﺐﻄﻗ ﻥﻮﻜﻳ ﻰﺘﺣ ﺍﺮﻴﻣﺎﻜﻟﺍ ﻥﺍﺭﻭﺩ ﻞﻔﻗ
+.ﻰﻠﻋﻸﻟ ﺎﻤﺋﺍﺩ</LockNorthUpToggleButton>
+  <UsePlanetDayNightSystemToggleButton>.ﺐﻛﻮﻜﻟﺍ ﺽﺮﻋ ﻲﻓ ﺔﻴﻠﻴﻠﻟﺍ/ﺔﻳﺭﺎﻬﻨﻟﺍ ﺓﺀﺎﺿﻹﺍ ﻞﻳﺪﺒﺗ ﺀﺎﻐﻟﺇ/ﻞﻴﻌﻔﺗ</UsePlanetDayNightSystemToggleButton>
+  <ShowExpandingIconsToggleButton>ﺕﺎﻧﻮﻘﻳﻷﺍ ﻦﻣ ﻻﺪﺑ ﺓﺩﺪﻤﺘﻤﻟﺍ ﺯﻮﻣﺮﻟﺍ ﺽﺮﻋ ﻞﻳﺪﺒﺗ
+.ﺓﺪﻴﻌﺒﻟﺍ ﺕﺎﻨﺋﺎﻜﻠﻟ ﺔﻳﺩﺎﻌﻟﺍ</ShowExpandingIconsToggleButton>
+  <ShowWorldFeaturesToggleButton>.ﺲﻳﺭﺎﻀﺘﻟﺍ ﺀﺎﻤﺳﺃ ﺭﻮﻬﻇ ﻞﻳﺪﺒﺗ</ShowWorldFeaturesToggleButton>
+  <ShowTemperatureOverlayToggleButton>ﺀﺍﻮﻬﻟﺍ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﺮﻬﻈﻳ .ﻱﺭﺍﺮﺤﻟﺍ ﺐﻛﺍﺮﺘﻟﺍ ﻞﻳﺪﺒﺗ
+ﻥﺎﻜﺴﻟﺍ ﻞﻌﺠﻳ .ﺝﺭﺎﺨﻟﺍ ﻲﻓﻭ ﺔﻓﺮﻏ ﻞﻛ ﻲﻓ
+ﻭﺃ ﺔﻌﻔﺗﺮﻣ ﺓﺭﺍﺮﺤﻟﺍ ﺖﻧﺎﻛ ﺍﺫﺇ ﺀﺍﺪﻌﺳ ﺮﻴﻏ
+ﻰﻟﺇ ﻱﺩﺆﻳ ﺔﻃﺮﻔﻣ ﺓﺭﺍﺮﺣ ﺕﺎﺟﺭﺪﻟ ﻢﻬﺿﺮﻌﺗﻭ ،ﺔﻀﻔﺨﻨﻣ
+.ﺕﻮﻤﻟﺍﻭ ﻕﻭﺮﺤﻟﺍ ،ﺲﻤﺸﻟﺍ ﺔﺑﺮﺿ ،ﺪﻤﺠﺘﻟﺍ ،ﺱﺭﺎﻘﻟﺍ ﺩﺮﺒﻟﺍ</ShowTemperatureOverlayToggleButton>
+
+  
+  <FireOn>{label_1} ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻖﻠﻃﺍ</FireOn>
+  <Burning>ﻕﺮﺣ</Burning>
+  <FireSizeLower>{0} ﻖﻳﺮﺤﻟﺍ ﻢﺠﺣ</FireSizeLower>
+
+  
+  <GameConditionsTip>ﻲﻓ ﺔﻘﻄﻨﻤﻟﺍ ﻰﻠﻋ ﺮﺛﺆﺗ ﻲﺘﻟﺍ ﺔﺻﺎﺨﻟﺍ ﻑﻭﺮﻈﻟﺍ
+.ﻲﻟﺎﺤﻟﺍ ﺖﻗﻮﻟﺍ</GameConditionsTip>
+  <TimeLeft>ﻲﻘﺒﺘﻤﻟﺍ ﺖﻗﻮﻟﺍ</TimeLeft>
+  <ImpactDate>ﻡﺍﺪﻄﺻﻻﺍ ﺦﻳﺭﺎﺗ</ImpactDate>
+  <SourceUnknown>.ﻑﻭﺮﻌﻣ ﺮﻴﻏ ﺭﺪﺼﻤﻟﺍ</SourceUnknown>
+  <ClickToJumpToSource>.ﺭﺪﺼﻤﻟﺍ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻼﻟ ﺮﻘﻧﺍ</ClickToJumpToSource>
+  <ClickToJumpToFlashstorm>.ﺔﻴﻗﺮﺒﻟﺍ ﺔﻔﺻﺎﻌﻟﺍ ﻰﻟﺇ ﺰﻔﻘﻠﻟ ﺮﻘﻧﺍ</ClickToJumpToFlashstorm>
+  <CausedByQuest>{0} :ﺔﻤﻬﻤﻟﺎﺑ ﺖﺒﺒﺴﺗ</CausedByQuest>
+
+  
+  <NoStuffsToBuildWith>ﺀﺎﻨﺒﻟ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﻠﺑﺎﻗ ﺩﺍﻮﻣ ﻚﻳﺪﻟ ﺪﺟﻮﻳ ﻻ
+.ﺍﺬﻫ</NoStuffsToBuildWith>
+
+  
+  <WillGetWorkSpeedPenalty>ﻞﻤﻌﻟﺍ ﺔﻋﺮﺳ ﻲﻓ ﺔﺑﻮﻘﻋ {0} ﻯﺪﻟ ﻥﻮﻜﻴﺳ</WillGetWorkSpeedPenalty>
+  <MustPlaceUnroofed>.ﺢﻄﺳ ﺖﺤﺗ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳ ﻻ</MustPlaceUnroofed>
+  <MustPlaceUnderThickRoof>.ﻚﻴﻤﺳ ﻒﻘﺳ ﺖﺤﺗ ﻪﻌﺿﻭ ﺐﺠﻳ</MustPlaceUnderThickRoof>
+  <MustPlaceHeadOnShipBeam>ﻞﻜﻴﻬﻟﺍ ﻂﻳﺮﺸﺑ ﻁﻮﺑﺮﻤﻟﺍ ﺱﺃﺮﻟﺍ ﻊﻣ ﻪﻌﺿﻭ ﺐﺠﻳ
+.ﺔﻨﻴﻔﺴﻟﺍ</MustPlaceHeadOnShipBeam>
+  <MustPlaceNextToHopperAccepter>.ﺮﺑﻮﻬﻴﻟﺇ ﺝﺎﺘﺤﻳ ﺀﻲﺷ ﺭﺍﻮﺠﺑ ﺎﻬﻌﺿﻭ ﺐﺠﻳ</MustPlaceNextToHopperAccepter>
+  <MustPlaceOnSteamGeyser>.ﺭﺎﺨﺒﻟﺍ ﺔﻫﻮﻓ ﻕﻮﻓ ﺓﺮﺷﺎﺒﻣ ﻪﻌﺿﻭ ﺐﺠﻳ</MustPlaceOnSteamGeyser>
+  <MustPlaceCoolerWithFreeSpaces>ﺩﺭﺎﺒﻟﺍﻭ ﻦﺧﺎﺴﻟﺍ ﻦﻴﺒﻧﺎﺠﻟﺍ ﻼﻛ ﺽﺮﻌﺘﻳ ﻥﺃ ﺐﺠﻳ
+.ﺪﻳﺮﺒﺘﻟﺍ ﻦﻣ</MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceVentWithFreeSpaces>ﺮﻳﺮﻤﺘﻟ ﻦﻴﻓﻮﺸﻜﻣ ﻦﻴﺒﻧﺎﺠﻟﺍ ﻼﻛ ﻥﻮﻜﺗ ﻥﺃ ﺐﺠﻳ
+.ﺀﺍﻮﻬﻟﺍ</MustPlaceVentWithFreeSpaces>
+  <MustPlaceAdjacentStandable>ﻊﻴﻤﺟ ﻰﻠﻋ ﺔﻣﺯﻼﻟﺍ ﺔﺣﺎﺴﻤﻟﺎﺑ ﻊﺿﻮﻳ ﻥﺃ ﺐﺠﻳ
+.ﺐﻧﺍﻮﺠﻟﺍ</MustPlaceAdjacentStandable>
+  <MustPlaceNearFuelingPort>ﺕﺍﺮﺒﻜﻤﻟﺍ ﺔﻘﻠﻃﻷ ﺩﻮﻗﻮﻟﺍ ﻞﺧﺪﻣ ﺭﺍﻮﺠﺑ ﻪﻌﺿﻭ ﺐﺠﻳ
+.ﺔﻴﺋﺎﻀﻔﻟﺍ</MustPlaceNearFuelingPort>
+  <MustPlaceOnDrillable>ﺔﻠﺑﺎﻘﻟﺍ ﺓﻭﺮﺜﻟﺍ ﺭﺩﺎﺼﻣ ﻰﻠﻋ ﻊﺿﻮﻳ ﻥﺃ ﺐﺠﻳ
+.ﺮﻔﺤﻠﻟ</MustPlaceOnDrillable>
+  <CannotPlaceAdjacentTrap>.ﺥﺎﺨﻔﻟﺍ ﺭﺍﻮﺠﺑ ﻪﻌﺿﻭ ﻦﻜﻤﻳ ﻻ</CannotPlaceAdjacentTrap>
+  <CannotPlaceAdjacentSameDef>ﻦﻣ ﺮﺧﺁ ﻰﻨﺒﻣ ﺭﺍﻮﺠﺑ ﻪﻌﺿﻭ ﻦﻜﻤﻳ ﻻ
+.ﻉﻮﻨﻟﺍ ﺲﻔﻧ</CannotPlaceAdjacentSameDef>
+
+  
+  <WindTurbine_WindPathIsBlockedBy>ﺔﻄﺳﺍﻮﺑ ﺭﻮﻈﺤﻣ</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedByRoof>ﻒﻘﺴﺑ ﺭﻮﻈﺤﻣ</WindTurbine_WindPathIsBlockedByRoof>
+
+  
+  <Watermill_WaterUsedTwice>ﻯﺮﺧﺃ ﻩﺎﻴﻣ ﺔﻨﺤﻄﻣ ﻪﺒﺒﺴﺗ ﺏﺍﺮﻄﺿﺍ :ﻞﻘﻳ ﻖﻓﺪﺘﻟﺍ</Watermill_WaterUsedTwice>
+
+  
+  <CasketContains>ﻰﻠﻋ ﻱﻮﺘﺤﻳ</CasketContains>
+  <CasketWarning>ﺍﺫﺇ !ﻚﻳﺪﻟ ﻦﻃﻮﺘﺴﻣ ﺮﺧﺁ ﻮﻫ {PAWN_nameDef} !ﺮﻳﺬﺤﺗ
+،ﺔﺸﻌﻨﻟﺍ ﻚﻠﺗ ﻰﻟﺇ ﻝﻮﺧﺪﻟﺎﺑ {PAWN_objective} ـﻟ ﺖﺤﻤﺳ
+.ﺐﻌﻠﻟﺍ ﻲﻓ ﺭﺍﺮﻤﺘﺳﻻﺍ ﻦﻣ ﻦﻜﻤﺘﺗ ﻻ ﺪﻗ
+؟ﺔﻌﺑﺎﺘﻤﻟﺍ ﺪﻳﺮﺗ ﻚﻧﺃ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ</CasketWarning>
+
+  
+  <ShipReportCannotLaunch>.ﻕﻼﻃﻹﺍ ﺭﺬﻌﺗ</ShipReportCannotLaunch>
+  <ShipReportCanLaunch>.ﻕﻼﻃﻺﻟ ﺰﻫﺎﺟ</ShipReportCanLaunch>
+  <ShipReportMissingPart>ﺓﺩﻮﻘﻔﻣ ﺔﻤﺳﺎﺣ ﺔﻌﻄﻗ</ShipReportMissingPart>
+  <ShipReportMissingPartRequires>ﺏﻮﻠﻄﻣ</ShipReportMissingPartRequires>
+  <ShipReportNoFullPods>ﺔﻠﻣﺎﻛ ﺓﺪﻤﺠﻣ ﻡﻮﻧ ﻖﻳﺩﺎﻨﺻ ﺪﺟﻮﺗ ﻻ</ShipReportNoFullPods>
+  <ShipReportHibernating>ﻞﻌﻔﻤﻟﺍ ﺮﻴﻏ ﻥﻮﻜﻤﻟﺍ</ShipReportHibernating>
+  <ShipReportNotReady>.ﺪﻌﺑ ﺰﻫﺎﺟ ﺮﻴﻏ ﻥﻮﻜﻤﻟﺍ</ShipReportNotReady>
+  <ShipNoSettlementToReturnTo>ﻞﻴﻜﺸﺘﺑ ﻢﻗ .ﺎﻬﻴﻟﺇ ﺓﺩﻮﻌﻠﻟ ﺔﻨﻃﻮﺘﺴﻣ ﺪﺟﻮﻳ ﻻ
+.ﻻﻭﺃ ﺔﻨﻃﻮﺘﺴﻣ</ShipNoSettlementToReturnTo> 
+  <HibernateWarning>( *Name)Charlon Whitestone(/Name) ﺓﺩﺎﻌﺘﺳﺍ ﺔﻴﻠﻤﻋ ﺀﺪﺒﻟ ﺰﻫﺎﺟ
+ﻞﻋﺎﻔﻤﻟﺍ ﻒﻗﻮﺗ.\n\nﻲﻟﺍﻮﺣ ﻕﺮﻐﺘﺴﺘﺳ ﺔﻴﻠﻤﻌﻟﺍ ﻩﺬﻫ ﻥﺃ ﻙﺭﺬﺤﻳ
+ﺔﻓﺎﺴﻤﻟ ﺎﻓﻮﺸﻜﻣ ﺔﻗﺎﻄﻟﺍ ﻊﻴﻗﻮﺗ ﻥﻮﻜﻴﺳﻭ ،ﺎﻣﻮﻳ 15
+ﺓﺪﻴﻌﺑ.\n\nﻰﻟﺇ ﺮﻴﺸﻳ ﺔﻗﺎﻄﻟﺍ ﺕﺎﻌﻴﻗﻮﺗ ﻦﻣ ﻉﻮﻨﻟﺍ ﺍﺬﻫ
+ﺔﺴﺋﺎﻴﻟﺍ ﺕﺎﺑﺎﺼﻌﻟﺍ ﺏﺬﺠﻳ ﻑﻮﺳﻭ ،ﻲﻜﻠﻔﻟﺍ ﻥﺍﺮﻴﻄﻟﺍ ﺓﺭﺪﻗ
+ﺔﺘﻴﻤﻤﻟﺍ ﺔﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﺏﺍﺮﺳﺃﻭ.\n\nﻢﻟ ﺓﺪﺸﺑ ﻚﻴﻠﻋ ﺀﺍﺪﺘﻋﻻﺍ ﻢﺘﻴﺳ
+ﺓﺪﻌﻣ ﻚﺗﺎﻋﺎﻓﺩ ﻥﺃ ﺪﻛﺄﺗ .ﻞﺒﻗ ﻦﻣ ﺎﻫﺮﺗ
+ﻻﻭﺃ.</HibernateWarning>
+  <HibernateWarningStandalone>.ﻞﻴﻐﺸﺘﻠﻟ ﺰﻫﺎﺟ ﻞﻋﺎﻔﻤﻟﺍ
+ﻥﺎﻜﻣﺈﺑ ﻥﻮﻜﻴﺳﻭ ،ﺎﻣﻮﻳ 15 ﻲﻟﺍﻮﺣ ﺔﻴﻠﻤﻌﻟﺍ ﻕﺮﻐﺘﺴﺘﺳ
+ﻉﻮﻨﻟﺍ ﺍﺬﻫ .ﺓﺪﻴﻌﺑ ﺔﻓﺎﺴﻣ ﻦﻣ ﺔﻗﺎﻄﻟﺍ ﺔﺒﻗﺍﺮﻣ
+ﺔﻠﺣﺮﻟﺍ ﺔﻴﻧﺎﻜﻣﺇ ﻰﻟﺇ ﺮﻴﺸﻳ ﻱﻮﻗﺎﻄﻟﺍ ﻊﻴﻗﻮﺘﻟﺍ ﻦﻣ
+ﺏﺍﺮﺳﺃﻭ ﺔﺴﺋﺎﻴﻟﺍ ﺔﺒﻬﻨﻟﺍ ﺕﺎﺑﺎﺼﻋ ﺏﺬﺘﺠﻴﺳﻭ ،ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ
+.ﺔﺘﻴﻤﻤﻟﺍ ﺔﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﻦﻣ
+ﺎﻬﻟ ﻯﺮﺗ ﻢﻟ ﺓﺪﺸﺑ ﻡﻮﺠﻬﻟ ﺽﺮﻌﺘﺗ ﻑﻮﺳ
+.ﻚﺗﺎﻋﺎﻓﺩ ﺰﻴﻬﺠﺗ ﻦﻣ ﻻﻭﺃ ﺪﻛﺄﺗ .ﻞﻴﺜﻣ</HibernateWarningStandalone>
+  <HibernateWarningPacifist>(Charlon Whitestone).ﻞﻋﺎﻔﻤﻟﺍ ﻅﺎﻘﻴﺘﺳﺍ ﺓﺩﺎﻌﺘﺳﺍ ﻞﺴﻠﺴﺗ ﺀﺪﺒﻟ ﺰﻫﺎﺟ
+ﺎﻣﻮﻳ ١٥ ﻲﻟﺍﻮﺣ ﻕﺮﻐﺘﺴﻴﺳ ﻪﻧﺃ ﻙﺭﺬﺤﻳ.</HibernateWarningPacifist>
+  <HibernateWarningStandalonePacifist>15 ﻲﻟﺍﻮﺣ ﺔﻴﻠﻤﻌﻟﺍ ﻕﺮﻐﺘﺴﻴﺳ .ﻞﻴﻐﺸﺘﻠﻟ ﺰﻫﺎﺟ ﻞﻋﺎﻔﻤﻟﺍ
+.ﺎﻣﻮﻳ</HibernateWarningStandalonePacifist>
+
+  
+  <SkillNeurotrainerLabel>({0}) ﺕﺍﺭﺎﻬﻤﻟﺍ ﺏﺭﺪﻣ</SkillNeurotrainerLabel>
+  <SkillNeurotrainerUseLabel>{0} ﻢﻠﻌﺘﻟ ﺕﺍﺭﺎﻬﻤﻟﺍ ﺏﺭﺪﻣ ﻡﺪﺨﺘﺳﺍ</SkillNeurotrainerUseLabel>
+  <SkillNeurotrainerDescription>ﻱﺬﻟﺍ ﻦﻴﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﻦﻣ ﺪﺣﺍﻭ ﻝﺎﻤﻌﺘﺳﻻ ﺔﻘﺋﺎﻓ ﺔﻋﺮﺟ
+.ﺓﺩﺪﺤﻣ ﺓﺭﺎﻬﻣ ﻰﻠﻋ ﺏﺭﺪﻳ
+ﺩﺮﺠﻤﺑ .ﻦﻴﻌﻟﺍ ﺭﺍﺪﻣ ﻖﻳﺮﻃ ﻦﻋ ﺔﻋﺮﺠﻟﺍ ﻡﺪﺨﺘﺴﺗ
+ﻢﻬﺗﺍﺭﺎﻬﻣ ﺔﻋﺮﺴﺑ ﻦﻴﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﻦﺴﺤﺗ ،ﻍﺎﻣﺪﻟﺍ ﻲﻓ ﺎﻬﻗﻼﻃﺇ
+ﺔﻴﺒﺼﻋ ﺔﺠﺴﻧﺃ ﻰﻟﺇ ﻝﻮﺤﺘﺗﻭ ،ﺩﺪﺤﻣ ﻝﺎﺠﻣ ﻲﻓ
+.ﺔﺟﺎﺤﻟﺍ ﺐﺴﺣ</SkillNeurotrainerDescription>
+  <SkillNeurotrainerUsed>ﻦﻣ ﻝﺎﻘﺘﻧﻼﻟ {1} ﻲﺒﺼﻋ ﺯﺰﻌﻣ {USER_labelShort} ﻡﺪﺨﺘﺳﺍ
+.{3} ﻯﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ {2} ﻯﻮﺘﺴﻤﻟﺍ</SkillNeurotrainerUsed>
+
+  
+  <Installed>ﺔﺘﺒﺜﻣ</Installed>
+  <NotInstalled>ﺖﻴﺒﺜﺘﻟﺍ ﻢﺘﻳ ﻢﻟ</NotInstalled>
+  <MinifiedTreeWillDieIn>ﻢﻟ ﺎﻣ {time} ﻲﻓ ﺔﺟﺮﺨﺘﺴﻤﻟﺍ ﺓﺮﺠﺸﻟﺍ ﺕﻮﻤﻴﺳ
+.ﺎﻬﺘﻋﺍﺭﺯ ﺓﺩﺎﻋﺇ ﻢﺘﻳ</MinifiedTreeWillDieIn>
+
+  
+  <Title>ﺔﺒﻌﻠﻟﺍ ﻥﺍﻮﻨﻋ</Title>
+  <Untitled>ﻰﻤﺴﻣ ﺮﻴﻏ</Untitled>
+
+  
+  <UnfinishedItem>ﺔﻠﻤﺘﻜﻣ ﺮﻴﻏ {0}</UnfinishedItem>
+  <UnfinishedItemWithStuff>ﻞﻤﺘﻜﻣ ﺮﻴﻏ {1} {0}</UnfinishedItemWithStuff>
+
+  
+  <Quality>ﺓﺩﻮﺟ</Quality>
+  <quality>ﺓﺩﻮﺠﻟﺍ</quality>
+  <QualityDescription>.ﻊﻨﺼﻟﺍ ﻲﻓ ﻪﺗﺩﻮﺟ ﻯﺪﻣ ﻲﻫ ﺮﺼﻨﻌﻟﺍ ﺓﺩﻮﺟ</QualityDescription>
+  <QualityIs>{0} :ﺓﺩﻮﺠﻟﺍ</QualityIs>
+
+  
+  <Mood_MentalState>ﺔﻴﻠﻘﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</Mood_MentalState>
+  <Mood_AboutToBreak>ﺭﺎﻴﻬﻧﻻﺍ ﻚﺷﻭ ﻰﻠﻋ</Mood_AboutToBreak>
+  <Mood_OnEdge>ﺭﺎﻴﻬﻧﻻﺍ ﺔﻓﺎﺣ ﻰﻠﻋ</Mood_OnEdge>
+  <Mood_Stressed>ﺮﺗﻮﺘﻣ</Mood_Stressed>
+  <Mood_Neutral>ﺪﻳﺎﺤﻣ</Mood_Neutral>
+  <Mood_Content>ﻯﻮﺘﺤﻤﻟﺍ</Mood_Content>
+  <Mood_Happy>ﺪﻴﻌﺳ</Mood_Happy>
+
+  
+  <GameOverEveryoneDead>.ﺔﺼﻘﻟﺍ ﺖﻬﺘﻧﺍ .ﺍﻮﻠﺣﺭ ﻭﺃ ﺍﻮﺗﺎﻣ ﺪﻗ ﻊﻴﻤﺠﻟﺍ
+ﺍﺬﻫ ﻝﻼﻃﻷ ﺓﺪﺋﺎﻓ ﺮﺧﺁ ﺺﺨﺷ ﺪﺠﻴﺳ ﺎﻤﺑﺭ
+.ﻥﺎﻜﻤﻟﺍ</GameOverEveryoneDead>
+  <GameOverPlanetkillerImpact>ﺐﻛﺍﻮﻜﻟﺍ ﺮﻴﻣﺪﺗ ﺡﻼﺳ ،ﺀﻮﻀﻟﺍ ﺔﻋﺮﺳ ﻦﻣ ﺏﺮﻘﻟﺎﺑ
+ﺍﺬﻫ .ﻦﻴﺟﻭﺭﺪﻴﻫ ﺔﻠﺒﻨﻗ ﻥﻮﻴﻠﻳﺮﺗ ﺓﻮﻘﺑ ﺽﺭﻷﺎﺑ ﻡﺪﻄﺻﺍ
+ﺀﺰﺟ ﺢﺷﺭﻭ ﺮﻴﺛﺄﺘﻟﺍ ﺖﺤﺗ ﻞﺋﺍﻮﺴﻟﺍ ﻚﻟﺎﺳ ﻢﻟﺎﻌﻟﺍ
+ﺎﻣﺍﺰﺣ {0} ﻦﻣ ﺀﺰﺟ ﺢﺒﺻﺃ&lt;0&gt;.ﻥﻮﻜﻟﺍ ﺮﺒﻋ ﻪﻨﻣ
+ﺞﻫﻮﺘﻣ ﺪﻬﺸﻣ ﻦﻋ ﺓﺭﺎﺒﻋ ﻲﻗﺎﺒﻟﺍ .ﺕﺎﺒﻜﻳﻮﻜﻠﻟ ﺍﺮﻴﻐﺻ
+ﻢﻟ&lt;0&gt;.ﺭﺎﺘﻣﻷﺍ ﺕﺎﺌﻤﺑ ﺔﻴﺒﻛﻮﻛ ﻝﺯﻻﺰﺑ ﺭﺍﺮﻤﺘﺳﺎﺑ ﺰﺘﻬﻳ ،ﻲﻋﺎﻌﺷﺇﻭ
+.ﺍﺬﻫ ﻦﻣ ﻮﺠﻨﺗ</GameOverPlanetkillerImpact>
+  <GameOverShipLaunchedIntro>!ﺔﻨﻴﻔﺴﻟﺍ ﻕﻼﻃﺈﺑ ﺖﻤﻗ ﺪﻘﻟ</GameOverShipLaunchedIntro>
+  <GameOverShipLaunchedEnding>ﻰﻟﺇ ﺔﻨﻴﻔﺴﻟﺍ ﻪﻴﺟﻮﺗ ﻥﻵﺍ ﻝﻭﺎﺤﺘﺳ ﺔﻴﻟﻵﺍ ﻚﺘﻴﺼﺨﺷ
+ﻲﻓ ﺍﺮﻫﺩﺰﻣ ﺎﺒﻛﻮﻛ ﺪﺠﺗ ﺪﻗ .ﻦﻣﺁ ﻥﺎﻜﻣ
+ﺔﻠﻳﻮﻃ ﺔﻠﺣﺮﺑ ﻡﻮﻘﺗ ﺪﻗ ﻭﺃ .ﻡﺎﻈﻨﻟﺍ ﺍﺬﻫ
+ﻰﺘﺣ ﺭﺮﻘﺗ ﺪﻗ .ﺮﺧﺁ ﻢﺠﻧ ﻰﻟﺇ ﺪﻣﻷﺍ
+ﻑﻻﻵ ﺕﺎﺒﻜﻳﻮﻜﻟﺍ ﺪﺣﺃ ﻰﻠﻋ ﺪﻴﻠﺠﻟﺍ ﺖﺤﺗ ﺀﺎﺒﺘﺧﻻﺍ
+ﻢﻟﺎﻋ ﺀﺎﻨﺒﻟ ﺎﻣ ﺺﺨﺷ ﺭﺎﻈﺘﻧﺍ ﻲﻓ ،ﻦﻴﻨﺴﻟﺍ
+.ﻆﻘﻴﺘﺴﺗ ﺎﻣﺪﻨﻋ ﺔﻘﻴﻘﺤﻟﺍ ﻑﺮﻌﺘﺳ .ﺎﻨﻫ ﺪﻳﺪﺟ ﺊﻟﻸﺘﻣ</GameOverShipLaunchedEnding>
+  <GameOverColonistsEscaped>{0} :ﺍﻮﺑﺮﻫ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ</GameOverColonistsEscaped>
+  <GameOverColonistsLeft>{0} :ﻢﻫﺀﺍﺭﻭ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ ﻙﺮﺗ ﻢﺗ</GameOverColonistsLeft>
+  <GameOverInMemoryOf>:ﻯﺮﻛﺬﻟ ﺎﻤﻳﺮﻜﺗ</GameOverInMemoryOf>
+  <GameOverKeepPlaying>ﺐﻌﻠﻟﺍ ﻲﻓ ﺮﻤﺘﺳﺍ</GameOverKeepPlaying>
+  <GameOverMainMenu>ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ</GameOverMainMenu>
+
+  
+  <LifespanExpiry>:ﻲﻓ ﻲﻬﺘﻨﻳ</LifespanExpiry>
+
+  
+  <InactiveFacility>ﻂﺸﻧ ﺮﻴﻏ</InactiveFacility>
+  <FacilityPotentiallyLinkedTo>ﻰﻟﺇ ﻂﺑﺍﻭﺮﻟﺍ</FacilityPotentiallyLinkedTo>
+  <FacilityNoPotentialLinks>ﻰﻨﺒﻤﺑ ﻂﺒﺗﺮﻣ ﺮﻴﻏ</FacilityNoPotentialLinks>
+
+  
+  <DiseaseGrowthModeChanged_Growing>.{PAWN_labelShort} ﻯﺪﻟ {1} ﻮﻤﻨﺗ ﻥﻵﺍ</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Stable>.ﺓﺮﻘﺘﺴﻣ ﻥﻵﺍ {PAWN_labelShort} ـﻟ {1} ﺔﻟﺎﺣ</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Remission>.{PAWN_labelShort} ﻯﺪﻟ {1} ﻦﻣ ﻥﻵﺍ ﺺﻠﺨﺘﻟﺍ ﺖﻤﺗ</DiseaseGrowthModeChanged_Remission>
+
+  
+  <MarriageSpotUsable>.ﻥﻵﺍ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ</MarriageSpotUsable>
+  <MarriageSpotNotUsable>.{0} :ﺢﻟﺎﺻ ﺮﻴﻏ</MarriageSpotNotUsable>
+  <MarriageSpotNotStandable>ﻝﻮﺻﻮﻟﺍ ﺮﻈﺣ ﻢﺗ</MarriageSpotNotStandable>
+  <MarriageSpotDangerous>{labelShort_1} ﻰﻠﻋ ﺍﺪﺟ ﺮﻄﺧ</MarriageSpotDangerous>
+  <MarriageSpotForbidden>{labelShort_1} ـﻟ ﺔﺒﺴﻨﻟﺎﺑ ﺭﻮﻈﺤﻣ</MarriageSpotForbidden>
+  <MarriageSpotReserved>ﺯﻮﺠﺤﻣ</MarriageSpotReserved>
+  <MarriageSpotUnreachable>{labelShort_1} ـﻟ ﺡﺎﺘﻣ ﺮﻴﻏ</MarriageSpotUnreachable>
+  <MarriageSpotInPrisonCell>ﻦﺠﺴﻟﺍ ﺔﻧﺍﺰﻧﺯ ﻲﻓ</MarriageSpotInPrisonCell>
+  <NotEnjoyableOutsideTemperature>ﺔﺤﻳﺮﻣ ﺮﻴﻏ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ</NotEnjoyableOutsideTemperature>
+
+  
+  <ActivityIconMedicalRest>ﺔﻴﺒﻃ ﺔﺣﺍﺭ</ActivityIconMedicalRest>
+  <ActivityIconSleeping>ﻡﻮﻨﻟﺍ</ActivityIconSleeping>
+  <ActivityIconFleeing>ﺏﺮﻬﻳ</ActivityIconFleeing>
+  <ActivityIconAttacking>ﻝﺎﺘﻘﻟﺍ</ActivityIconAttacking>
+  <ActivityIconIdle>ﻝﻮﻤﺧ/ﺪﺟﺍﻮﺘﻟﺍ ﻡﺪﻋ ﺔﻟﺎﺣ ﻲﻓ</ActivityIconIdle>
+  <ActivityIconBurning>ﻖﻳﺮﺣ</ActivityIconBurning>
+  <ActivityIconFormingCaravan>ﺔﻠﻓﺎﻗ ﻞﻴﻜﺸﺗ</ActivityIconFormingCaravan>
+
+  
+  <DueForMaintenance>.ﺔﻧﺎﻴﺼﻟ ﺝﺎﺘﺤﻣ</DueForMaintenance>
+  <DeterioratingDueToLackOfMaintenance>.ﺔﻧﺎﻴﺼﻟﺍ ﻡﺪﻋ ﺐﺒﺴﺑ ﺭﻮﻫﺪﺘﻳ</DeterioratingDueToLackOfMaintenance>
+
+  
+  <ProgressToNextLump>ﺔﻴﻟﺎﺘﻟﺍ ﺔﻠﺘﻜﻟﺍ ﻰﻟﺇ ﻡﺪﻘﺗ</ProgressToNextLump>
+  <ResourceBelow>ﻩﺎﻧﺩﺃ ﺩﺭﻮﻤﻟﺍ</ResourceBelow>
+  <ProgressToNextPortion>ﻲﻟﺎﺘﻟﺍ ﺀﺰﺠﻟﺍ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻻﺍ</ProgressToNextPortion>
+  <DeepDrillNoResources>.ﻩﺎﻧﺩﺃ ﺩﺭﺍﻮﻣ ﺪﺟﻮﺗ ﻻ</DeepDrillNoResources>
+  <DeepDrillExhausted>ﺓﺮﻔﺤﻟﺍ ، ﺔﻘﻴﻤﻌﻟﺍ ﺮﻔﺤﻟﺍ ﺩﺭﺍﻮﻣ ﻑﺍﺰﻨﺘﺳﺍ ﻢﺗ
+ﺐﻴﻘﻨﺘﻟﺍ ﺀﺪﺒﻟ ﻊﻨﻤﻟﺍ ﺢﺘﻔﺑ ﻢﻗ .ﺎﻴﺋﺎﻘﻠﺗ ﺓﺭﻮﻈﺤﻣ
+.{0} ﻦﻋ</DeepDrillExhausted>
+  <DeepDrillExhaustedNoFallback>.ﻖﻴﻤﻌﻟﺍ ﺮﻔﺤﻟﺍ ﺩﺭﺍﻮﻣ ﺕﺪﻔﻨﺘﺳﺍ</DeepDrillExhaustedNoFallback>
+
+  
+  <ChargesRemaining>ﺔﻴﻘﺒﺘﻤﻟﺍ ﺕﺎﻨﺤﺸﻟﺍ</ChargesRemaining>
+  
+  
+  <LearningHelper>ﻢﻠﻌﺘﻟﺍ ﺪﻋﺎﺴﻣ</LearningHelper>
+  <LearningHelperTooltip>ﺕﺎﻣﻮﻠﻌﻣ ﻚﻤﻴﻠﻌﺗ ﻰﻟﺇ ﻑﺪﻬﻳ ﻱﺬﻟﺍ ﺔﺒﻌﻠﻟﺍ ﻢﻠﻌﻣ
+.ﺔﻴﻟﺎﺤﻟﺍ ﻚﺘﻨﻃﻮﺘﺴﻣ ﻊﺿﻮﺑ ﺔﻠﺼﻟﺍ ﺕﺍﺫ ﻊﻴﺿﺍﻮﻤﻟﺍ ﻝﻮﺣ</LearningHelperTooltip>
+  <MarkLearned>ﻢﻠﻌﺘﻛ ﺔﻣﻼﻋ ﻊﺿﻭ ﻢﺗ</MarkLearned>
+  <AlreadyLearned>ﻞﻌﻔﻟﺎﺑ ﺖﻤﻠﻌﺗ</AlreadyLearned>
+  <Filter>ﺔﻴﻔﺼﺗ</Filter>
+
+  
+  <CompassTip>ﻰﺘﺣ ﺍﺮﻴﻣﺎﻜﻟﺍ ﺮﻳﻭﺪﺘﻟ ﺮﻘﻧﺍ .ﻝﺎﻤﺸﻟﺍ ﻩﺎﺠﺗﺍ ﺮﻬﻇﺃ
+.ﻰﻠﻋﻷﺍ ﻲﻓ ﻲﻟﺎﻤﺸﻟﺍ ﺐﻄﻘﻟﺍ ﺢﺒﺼﺗ</CompassTip>
+
+  
+  <RoutePlannerButtonTip>ﻚﻨﻜﻤﻳ ﺚﻴﺣ ﻂﻴﻄﺨﺘﻟﺍ ﻊﺿﻭ ﻰﻟﺇ ﻝﻮﺧﺪﻠﻟ ﺮﻘﻧﺍ
+.ﻝﻮﺻﻮﻟﺍ ﻁﺎﻘﻧ ﻦﻴﺑ ﺔﻓﺎﺴﻤﻟﺍ ﺏﺎﺴﺣﻭ ﻚﺘﻠﺣﺭ ﻂﻴﻄﺨﺗ</RoutePlannerButtonTip>
+  <RoutePlannerAddTwoOrMoreWaypoints>.ﺮﺜﻛﺃ ﻭﺃ ﻪﺟﻮﺗ ﻲﺘﻄﻘﻧ ﻒﺿﺃ</RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>ﺔﻴﻓﺎﺿﺇ ﻪﻴﺟﻮﺗ ﻁﺎﻘﻧ ﻒﺿﺃ</RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerEstTimeToFinalDest>{0} :ﺔﻴﻟﺎﻤﺟﻹﺍ ﻖﻳﺮﻄﻟﺍ ﺓﺪﻣ</RoutePlannerEstTimeToFinalDest>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>ﺪﻗ .ﺔﻴﺿﺍﺮﺘﻓﻻﺍ ﺔﻠﻓﺎﻘﻟﺍ ﺔﻋﺮﺳ ﻡﺪﺨﺘﺴﻳ ﻂﻴﻄﺨﺘﻟﺍ ﻊﺿﻭ
+.ﻚﺘﻋﺮﺳ ﻒﻠﺘﺨﺗ</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>{0} :ـﻟ ﺏﺎﺴﺤﻟﺍ</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>.ﺔﻬﺟﻮﻟﺍ ﻁﺎﻘﻧ ﺔﻟﺍﺯﺇ/ﺔﻓﺎﺿﺇ :ﻦﻤﻳﻷﺍ ﺓﺭﺄﻔﻟﺍ ﺭﺯ</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>.ﺔﻬﺟﻮﻟﺍ ﻁﺎﻘﻧ ﺔﻟﺍﺯﺇ/ﺔﻓﺎﺿﺇ :ﺮﺴﻳﻷﺍ ﺩﺎﻧﺰﻟﺍ ﺭﺯ</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
+  <RoutePlannerPressEscapeToExit>ESC: ﻂﻴﻄﺨﺘﻟﺍ ﻊﺿﻭ ﺀﺎﻬﺘﻧﺍ.</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToExitController>{Key:ﻂﻴﻄﺨﺘﻟﺍ ﻊﺿﻭ ﻦﻣ ﺝﻭﺮﺧ :{ﺀﺎﻐﻟﺇ.</RoutePlannerPressEscapeToExitController>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ﺖﻠﻴﻜﺸﺗ ﺭﺍﻮﺣ ﻰﻟﺇ ﺓﺩﻮﻌﻠﻟ ESC ﻰﻠﻋ ﻂﻐﺿﺍ
+.ﺔﻠﻓﺎﻘﻟﺍ</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>{Key:ﺔﻠﻓﺎﻘﻟﺍ ﻞﻴﻜﺸﺗ ﺭﺍﻮﺣ ﻰﻟﺇ ﺓﺩﻮﻌﻟﺍ :{ﺀﺎﻐﻟﺇ.</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
+  <EstimatedTimeToWaypoint>{0} :ﺮﻔﺴﻠﻟ ﻊﻗﻮﺘﻤﻟﺍ ﺖﻗﻮﻟﺍ</EstimatedTimeToWaypoint>
+  <EstimatedTimeToWaypointFromPrevious>:(ﺔﻘﺑﺎﺴﻟﺍ ﻝﻮﺻﻮﻟﺍ ﺔﻄﻘﻧ ﻦﻣ) ﺮﻔﺴﻠﻟ ﺭﺪﻘﻤﻟﺍ ﺖﻗﻮﻟﺍ
+{0}</EstimatedTimeToWaypointFromPrevious>
+  <EstimatedTimeToTile>{0} :ﺮﻔﺴﻠﻟ ﺭﺪﻘﻤﻟﺍ ﺖﻗﻮﻟﺍ</EstimatedTimeToTile>
+  <ForagedFoodAmount>ﺔﻠﻘﻨﺘﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺔﻴﻤﻛ</ForagedFoodAmount>
+
+  
+  <OutfitAnything>ﺀﻲﺷ ﻱﺃ</OutfitAnything>
+  <OutfitWorker>ﻞﻣﺎﻋ</OutfitWorker>
+  <OutfitSoldier>ﻱﺪﻨﺟ</OutfitSoldier>
+  <OutfitNudist>ﻱﺮﻌﻟﺍ ﻦﻋ ﺐﺋﺎﻧ</OutfitNudist>
+
+  
+  <HibernatableHibernating>ﺓﻮﻔﻏ</HibernatableHibernating>
+  <HibernatableStartingUp>ﻞﻴﻐﺸﺘﻟﺍ ﺀﺪﺑ</HibernatableStartingUp>
+
+  
+  <ClickToSeeAvailableOrders_WorldObject>...ﺔﺣﺎﺘﻤﻟﺍ ﺮﻣﺍﻭﻷﺍ ﻰﻠﻋ ﻊﻠﻃﺍ :{0}</ClickToSeeAvailableOrders_WorldObject>
+  <ClickToSeeAvailableOrders_Empty>...ﺔﺣﺎﺘﻤﻟﺍ ﺮﻣﺍﻭﻷﺍ ﻰﻟﺇ ﺮﻈﻧﺍ</ClickToSeeAvailableOrders_Empty>
+  
+  
+  <PawnTooltipWithDescAndPrimaryEquip>{0} ({1})\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
+  <PawnTooltipWithDescNoPrimaryEquip>{0} ({1})\n{2}</PawnTooltipWithDescNoPrimaryEquip>
+  <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
+  <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
+  <PawnTooltipPsychicEntropyStats>{1} ﻕﺮﻐﺘﺴﺘﺳ) ﺙ / {0} :ﻁﻮﻘﺴﻟﺍ ﻝﺪﻌﻣ
+(ﺮﻔﺼﻟﺍ ﻰﺘﺣ ﺙ</PawnTooltipPsychicEntropyStats>
+  <PawnTooltipPsychicEntropyDesc>.ﺔﻴﺴﻔﻧ ﺓﻮﻗ ﻡﺍﺪﺨﺘﺳﺍ ﺪﻌﺑ ﺔﻴﺒﺼﻌﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺓﺩﺎﻳﺯ
+ﺭﺎﻴﻬﻧﺍ ﻰﻟﺇ ﻲﻌﻴﺒﻄﻟﺍ ﺪﺤﻟﺍ ﺯﻭﺎﺠﺗ ﻱﺩﺆﻳ ﺪﻗ
+.ﻡﺎﻳﺃ ﺓﺪﻌﻟ ﻡﻭﺪﻳ ﻲﺴﻔﻧ
+ﺭﻭﺮﻣ ﻊﻣ ﻲﻌﻴﺒﻃ ﻞﻜﺸﺑ ﺔﻴﺒﺼﻌﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﻰﺷﻼﺘﺗ
+ﻖﻳﺮﻃ ﻦﻋ ﺔﻴﻠﻤﻌﻟﺍ ﻩﺬﻫ ﻊﻳﺮﺴﺗ ﻦﻜﻤﻳ .ﺖﻗﻮﻟﺍ
+.ﻢﻟﻷﺎﺑ ﺭﻮﻌﺸﻟﺍ ﻭﺃ ﺲﻜﺘﻟﻹﺍ ﺲﺑﻼﻣ ﺀﺍﺪﺗﺭﺍ</PawnTooltipPsychicEntropyDesc>
+  <PawnTooltipPsychicEntropyPainFocus>ﻦﻣ ﻉﺮﺴﻳﻭ ﺰﻛﺮﺘﻳ ﻞﻘﻌﻟﺍ ﻞﻌﺠﻳ ﻢﻟﻷﺍn\n\ﻢﻟﻷﺍ ﺰﻳﺰﻌﺗ
+ﺓﺩﺎﻌﺘﺳﻻ ﺓﺄﻓﺎﻜﻣn\{0} :ﻢﻟﻷﺍ ﻯﻮﺘﺴﻣn\n\.ﺏﺎﺼﻋﻷﺍ ﺮﺒﻋ ﺓﺭﺍﺮﺤﻟﺍ ﺪﻳﺪﺒﺗ
+{1} :ﺓﺭﺍﺮﺤﻟﺍ</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyLimit>ﺓﺭﺍﺮﺤﻟﺍ ﺪﺣ ﺯﻭﺎﺠﺗ .ﻲﺒﺼﻌﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺰﺟﺎﺣ ﻞﻳﺪﺒﺗ
+.ﻡﺎﻳﻷ ﺮﻤﺘﺴﻳ ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﺐﺒﺴﻳ ﻥﺃ ﻦﻜﻤﻳ
+.ﻢﺋﺍﺩ ﺭﺮﺿ ﻲﻓ ﺐﺒﺴﺘﻳ ﻦﻟ</PawnTooltipPsychicEntropyLimit>
+  <PawnTooltipPsyfocus>{0} :ﻲﺴﻔﻨﻟﺍ ﺰﻴﻛﺮﺘﻟﺍ</PawnTooltipPsyfocus>
+  
+  
+  <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
+
+  
+  <Reward_Pawn_DropPod>ﺎﻣﺎﻋ {age_0} ﺮﻤﻌﻟﺍ ﻦﻣ ﻎﻠﺒﻳ ﺺﺨﺷ ﻞﺼﻴﺳ
+{relationInfoInParentheses_0} ﻞﻘﻧ ﺔﻟﻮﺴﺒﻛ ﻲﻓ {nameDef_0} ﻰﻋﺪﻳ ﻮﻫﻭ</Reward_Pawn_DropPod>
+  <Reward_Pawn_WalkIn>ﺔﻨﺳ {age_0} ﺮﻤﻌﺑ {nameDef_0} ﻰﻋﺪﻳ ﺺﺨﺷ ﻞﺼﻴﺳ
+.{relationInfoInParentheses_0} ﻚﻴﻟﺇ ﻢﻀﻨﻴﺳﻭ</Reward_Pawn_WalkIn>
+  <Reward_Pawn_Caravan>{age_0} ﺮﻤﻌﻟﺍ ﻦﻣ ﻎﻠﺒﻳ ﺺﺨﺷ ﻚﻴﻟﺇ ﻢﻀﻨﻴﺳ
+.{relationInfoInParentheses_0} ﻪﺘﻠﺻﻭ {nameDef_0} ﻰﻋﺪﻳ ﺎﻣﺎﻋ</Reward_Pawn_Caravan>
+  <Reward_Items>ﺔﻤﻴﻗ) ﺔﻴﻟﺎﺘﻟﺍ ﺩﺭﺍﻮﻤﻟﺎﺑ ﺔﻠﻤﺤﻣ ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻜﻟﺍ ﻞﺼﻴﺳ
+:({1} ﺔﻴﻟﺎﻤﺟﺇ
+\n{0}</Reward_Items>
+  <Reward_Items_Caravan>:({1} ﺔﻴﻟﺎﻤﺟﺇ ﺔﻤﻴﻗ) ﻰﻠﻋ ﻞﺼﺤﺗ ﻑﻮﺳ
+\n{0}</Reward_Items_Caravan>
+  <Reward_Goodwill>ﺭﺍﺪﻘﻤﺑ {name_0} ﺔﻋﺎﻤﺠﻟﺍ ﻊﻣ ﻚﺘﻗﻼﻋ ﻦﺴﺤﺘﺗ ﻑﻮﺳ
+{1}</Reward_Goodwill>
+  <Reward_PassageOffworld>ﻡﻮﺠﻨﻟﺍ ﻰﻟﺇ ﻚﻠﻘﻧ ﻢﺘﻴﺳ</Reward_PassageOffworld>
+  <Reward_PassageOffworld_Label>ﻢﻟﺎﻌﻟﺍ ﺝﺭﺎﺧ ﻞﻘﻧ</Reward_PassageOffworld_Label>
+  <Reward_CampLoot>ﺮﻜﺴﻌﻤﻟﺍ ﻦﻣ ﺀﻲﺷ ﻞﻛ ﺐﻬﻧ ﻚﻨﻜﻤﻳ</Reward_CampLoot>
+  <Reward_CampLoot_Label>ﻢﻴﺨﻤﻟﺍ ﺔﻤﻴﻨﻏ</Reward_CampLoot_Label>
+  <Reward_VisitorsHelp>ﻚﻠﺟﺃ ﻦﻣ ﻥﻮﻠﺗﺎﻘﻳﻭ ﻥﻮﻠﻤﻌﻴﺳ</Reward_VisitorsHelp>
+  <Reward_VisitorsHelp_Label>ﺭﺍﻭﺰﻟﺍ ﺓﺪﻋﺎﺴﻣ</Reward_VisitorsHelp_Label>
+  <Reward_BestowingCeremony_Label>ﺔﻴﺴﻔﻨﻟﺍ ﻂﺑﺍﻭﺮﻠﻟ ﺪﻳﺪﺟ ﻯﻮﺘﺴﻣ</Reward_BestowingCeremony_Label>
+  <Reward_BestowingCeremony>.ﺔﻴﺴﻔﻧ ﺔﻄﺑﺭ ﻰﻠﻋ {PAWNNAME} ﻞﺼﺤﻳ</Reward_BestowingCeremony>
+  <Reward_ShuttleLoot_Label>ﺔﻴﺋﺎﻀﻔﻟﺍ ﺓﺮﺧﺎﺒﻟﺍ ﺔﻤﻴﻨﻏ</Reward_ShuttleLoot_Label>
+  <Reward_ShuttleLoot>ﻙﻮﻜﻤﻟﺍ ﺐﻬﻧﻭ ﻚﻴﻜﻔﺗ ﻚﻨﻜﻤﻳ</Reward_ShuttleLoot>
+  <Reward_PossibleFutureReward_Label>ﻞﺒﻘﺘﺴﻤﻟﺍ ﻲﻓ ﺔﻠﻤﺘﺤﻣ ﺓﺄﻓﺎﻜﻣ</Reward_PossibleFutureReward_Label>
+  <Reward_PossibleFutureReward>ﻞﺒﻘﺘﺴﻤﻟﺍ ﻲﻓ ﺢﻨﻤﺗ ﺪﻗ ﺔﺌﻓﺎﻜﻣ</Reward_PossibleFutureReward>
+  <Reward_Title_Label>ﺔﺒﻌﻠﻟﺍ ﻥﺍﻮﻨﻋ {ﻥﺍﻮﻨﻌﻟﺍ}</Reward_Title_Label>
+  <Reward_Title>{FACTION} ﻦﻣ {TITLE} ﺐﻘﻟ ﻰﻠﻋ {PAWNNAME} ﻞﺼﺤﻳ</Reward_Title>
+  <TotalValue>{0} ﺔﻤﻴﻘﻟﺍ</TotalValue>
+  
+  
+  <BondedWith>{0} :ـﺑ ﻂﺒﺗﺮﻣ</BondedWith>
+  <NotBonded>ﺪﻌﺑ ﻂﺑﺮﻟﺍ ﻢﺘﻳ ﻢﻟ</NotBonded>
+  <BladelinkBondedToSomeoneElse>ﺮﺧﺁ ﺺﺨﺷ ﻰﻟﺇ ﺔﻃﻮﺑﺮﻣ</BladelinkBondedToSomeoneElse>
+  <BladelinkAlreadyBonded>ﺓﺩﻮﺟﻮﻤﻟﺍ ﺔﻠﺼﻟﺍ</BladelinkAlreadyBonded>
+  <BladelinkAlreadyBondedDialog>ﺡﻼﺴﺑ ﻻﺇ ﻂﺒﺗﺮﻳ ﻥﺃ ﺺﺨﺸﻠﻟ ﻦﻜﻤﻳ ﻻ
+.ﺖﻗﻮﻟﺍ ﺲﻔﻧ ﻲﻓ ﺪﺣﺍﻭ ﻲﺼﺨﺷ
+ﺐﺠﻳ ,&lt;b&gt; &lt;i&gt; {WEAPON_labelShort}&lt;/i&gt;&lt;/b&gt; ﻊﻣ ﻂﺑﺮﻟﺍﻭ ﺰﻴﻬﺠﺘﻟ
+ـﺑ ﺎﻴﻟﺎﺣ ﻂﺒﺗﺮﻤﻟﺍ ﺡﻼﺴﻟﺍ ﺮﻴﻣﺪﺗ ﻢﺘﻳ ﻥﺃ
+.&lt;b&gt; &lt;i&gt; {BONDEDWEAPON_labelShort}&lt;/i&gt;&lt;/b&gt; ﻮﻫﻭ &lt;b&gt; &lt;i&gt; {PAWN_nameDef}&lt;/i&gt;&lt;/b&gt;</BladelinkAlreadyBondedDialog>
+  <BladelinkAlreadyBondedMessage>{PAWN_nameDef} ﻊﻣ ﻞﻌﻔﻟﺎﺑ ﻂﺑﺭ ﺪﻗ {BONDEDWEAPON_labelShort}.</BladelinkAlreadyBondedMessage>
+
+  
+  <Biocoded>{0} ﺎﻴﺟﻮﻟﻮﻴﺑ ﺮﻔﺸﻤﻟﺍ</Biocoded>
+  <CodedFor>{0} :ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﺮﻴﻔﺸﺗ</CodedFor>
+  <BiocodedCodedForSomeoneElse>ﺎﻴﺟﻮﻟﻮﻴﺑ ﺮﻔﺸﻣ</BiocodedCodedForSomeoneElse>
+
+  
+  <InterceptsProjectilesEvery>{1} ﻞﻛ {0} ﺽﺮﺘﻌﻳ</InterceptsProjectilesEvery>
+  <InterceptsProjectiles>{0} ﺽﺮﺘﻌﻳ</InterceptsProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>ﺔﻴﺿﺭﻷﺍ ﻒﺋﺍﺬﻘﻟﺍ</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>ﺔﻳﻮﺠﻟﺍ ﻊﻳﺭﺎﺸﻤﻟﺍ</InterceptsProjectiles_AerialProjectiles>
+
+  
+  <AffectedGender>ﺮﺛﺄﺘﻤﻟﺍ ﺲﻨﺠﻟﺍ</AffectedGender>
+
+  
+  <CausedByHediff>{0} :ﻦﻋ ﺔﻤﺟﺎﻧ</CausedByHediff>
+  
+  
+  <HealingCureHediff>.{nameDef_0} ـﻟ {1} ﺝﻼﻋ ﻢﺗ</HealingCureHediff>
+  <HealingRestoreBodyPart>.{nameDef_0} ـﻟ {1} ﺓﺩﺎﻌﺘﺳﺍ ﻢﺗ</HealingRestoreBodyPart>
+
+  <WarningBuildingCausesHostility>!{FACTION_name} ﺐﻀﻏ ﺮﻴﺜﻴﺳ ﺎﻨﻫ ﻰﻨﺒﻣ ﻊﺿﻭ :ﺮﻳﺬﺤﺗ</WarningBuildingCausesHostility>
+
+  <ChooseLandingSite>ﻁﻮﺒﻬﻟﺍ ﻊﻗﻮﻣ ﺮﺘﺧﺍ</ChooseLandingSite>
+  
+  
+  <Ritual>ﺲﻘﻃ</Ritual>
+
+  <RitualTakesPlaceAt>ﻲﻓ ﺙﺍﺪﺣﻷﺍ ﻱﺮﺠﺗ</RitualTakesPlaceAt>
+  <RitualTargetThingDefsInfo>{0} ﻱﺃ</RitualTargetThingDefsInfo>
+  <LordReportAttending>{0} ﺭﻮﻀﺣ</LordReportAttending>
+  <RitualCalledOff>.{0} ﺀﺎﻐﻟﺇ ﻢﺗ</RitualCalledOff>
+  <RitualNobodyAttended>ﺪﺟﺍﻮﺗ ﻡﺪﻋ ﺐﺒﺴﺑ {0} ﻝﺎﻤﻛﺇ ﻢﺘﻳ ﻢﻟ
+.ﺭﻮﻀﺤﻟﺍ</RitualNobodyAttended>
+  <RitualFinished>.{0} ﻝﺎﻤﻛﺇ ﻢﺗ</RitualFinished>
+  <RitualEndsIn>{0} ﻲﻓ ﻲﻬﺘﻨﻳ</RitualEndsIn>
+  <RitualStartAnyTime>ﺖﻗﻭ ﻱﺃ ﻲﻓ ﺀﺪﺒﻟﺍ ﻦﻜﻤﻳ</RitualStartAnyTime>
+  <RitualStartEvent>ﺙﺪﺤﻟﺍ ﺪﻌﺑ ﺃﺪﺒﻧ ﻥﺃ ﻦﻜﻤﻳ</RitualStartEvent>
+  <RitualFocusObjects>ﺕﺎﻨﺋﺎﻜﻟﺍ ﺰﻴﻛﺮﺗ</RitualFocusObjects>
+  <RitualParticipatingRoles>ﺔﻛﺭﺎﺸﻤﻟﺍ ﺭﺍﻭﺩﻷﺍ</RitualParticipatingRoles>
+  <Organizers>ﻥﻮﻤﻈﻨﻤﻟﺍ</Organizers>
+  <QualityFactors>ﺓﺩﻮﺠﻟﺍ ﻞﻣﺍﻮﻋ</QualityFactors>
+  <QualityFactorTooltipUncertain>ﻰﻠﻋ ﺀﺎﻨﺑ ، ﻁﺮﺸﻟﺍ ﺍﺬﻫ ﻖﻘﺤﺘﻳ ﺪﻗ
+.ﺭﻮﻣﻷﺍ ﺞﺋﺎﺘﻧ
+.ﺓﺩﻮﺠﻟﺍ ﺓﺄﻓﺎﻜﻣ ﻖﻴﺒﻄﺗ ﻢﺘﻴﺳ ، ﻖﻘﺤﺗ ﺍﺫﺇ</QualityFactorTooltipUncertain>
+  <QualityFactorTooltipNotFulfilled>ﺓﺄﻓﺎﻜﻣ ﻖﻴﺒﻄﺗ ﻢﺘﻴﺳ ﻻn\n\.ﻖﻘﺤﺘﻳ ﻢﻟ ﻁﺮﺸﻟﺍ ﺍﺬﻫ
+.ﺓﺩﻮﺠﻟﺍ</QualityFactorTooltipNotFulfilled>
+  <Spectators>ﻦﻳﺪﻫﺎﺸﻤﻟﺍ</Spectators>
+  <NotParticipating>ﺔﻛﺭﺎﺸﻤﻟﺍ ﻻ</NotParticipating>
+  <DragPawnsToRolesInfo>ﻙﺮﺤﺘﻠﻟ ﻦﻤﻳﻷﺍ/ﺮﺴﻳﻷﺍ ﺭﺰﻟﺎﺑ ﺮﻘﻧﺍ ﻭﺃ ﺖﻠﻓﺃﻭ ﺐﺤﺳﺍ
+.ﺹﺎﺨﺷﻷﺍ ﻊﻣ</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfoController>.ﺹﺎﺨﺷﻷﺍ ﻞﻘﻨﻟ ﺮﻘﻧﺍ ﻭﺃ ﻂﻘﺳﺃﻭ ﺐﺤﺳﺍ</DragPawnsToRolesInfoController>
+  <RitualBeginSlaveDesc>.ﻦﻳﺮﺧﻶﻟ ﺔﻳﺮﺸﺑ ﺔﻴﻜﻠﻣ .ﺪﺒﻋ</RitualBeginSlaveDesc>
+  <RitualBeginSleepingDesc>{0_labelShort} ﺱﻮﻘﻄﻟﺍ ﻲﻓ ﻪﻨﻴﻤﻀﺗ ﻢﺗ ﺍﺫﺇ .ﻢﺋﺎﻧ
+ﺔﻛﺭﺎﺸﻤﻠﻟ ﻆﻘﻴﺘﺴﻴﺳ ،.</RitualBeginSleepingDesc>
+  <RitualBeginSleepingWarning>ﺃﺪﺒﺗ ﺎﻣﺪﻨﻋ ﻥﻮﻘﻴﻔﺘﺴﻴﺳ .ﻥﻮﻤﺋﺎﻧ ﻦﻳﺭﺎﺘﺨﻤﻟﺍ ﻦﻴﻛﺭﺎﺸﻤﻟﺍ ﺾﻌﺑ
+.ﺱﻮﻘﻄﻟﺍ</RitualBeginSleepingWarning>
+  <RitualRoleRequiresSocialRole>ﻲﻓﻮﺘﺴﻤﻟﺍ ﻮﻫ ﺐﺼﻨﻤﻟﺍ ﺍﺬﻬﻟ ﻞﻫﺆﻣ ﺺﺨﺷ ﻞﻀﻓﺃ
+ﻥﻭﺪﺑ ﺺﺨﺷ ﻡﺎﻗ ﺍﺫﺇn\n\.{0} ﻲﻋﺎﻤﺘﺟﻻﺍ ﺭﻭﺪﻟﺍ ﻦﻣ
+ﻞﺼﺤﺗ ﻦﻠﻓ ،ﺐﺼﻨﻤﻟﺍ ﺍﺬﻫ ﻞﻐﺸﺑ ﺭﻭﺪﻟﺍ ﺍﺬﻫ
+.ﺔﻴﻟﺎﺘﻟﺍ ﺪﺋﺍﻮﻔﻟﺍ ﻰﻠﻋ</RitualRoleRequiresSocialRole>
+  <RitualRoleCantSubstitute>.{0} ﺭﻭﺪﻟ ﺡﺎﺘﻣ ﻞﻳﺪﺑ ﺪﺟﻮﻳ ﻻ</RitualRoleCantSubstitute>
+  <RitualOutcomeProgress>{0} ﻡﺪﻘﺗ</RitualOutcomeProgress>
+  <RitualOutcomeQualityAbstract>ﻰﻠﻋ ﺪﻤﺘﻌﺗ {0} ﺓﺩﻮﺟ</RitualOutcomeQualityAbstract>
+  <RitualOutcomeQualitySpecific>ﻩﺪﻳﺪﺤﺗ ﻢﺗ ،{1} ﻥﺎﻛ {0} ﺓﺩﻮﺠﻟﺍ ﻲﻟﺎﻤﺟﺇ
+.ﻞﻣﺍﻮﻌﻟﺍ ﻩﺬﻫ ﺔﻄﺳﺍﻮﺑ</RitualOutcomeQualitySpecific>
+  <RitualOutcomeChances>{0} ﺓﺩﻮﺠﺑ ﺞﺋﺎﺘﻨﻟﺍ ﺹﺮﻓ</RitualOutcomeChances>
+  <RitualOutcomePerformedRecently>ﺍﺮﺧﺆﻣ ﻩﺬﻴﻔﻨﺗ ﻢﺗ</RitualOutcomePerformedRecently>
+  <RitualQualityExpectations>{0} ﺕﺎﻌﻗﻮﺗ</RitualQualityExpectations>
+  <RitualAmbienceSound>ﻲﺴﻘﻄﻟﺍ ﻱﻮﺠﻟﺍ ﺕﻮﺼﻟﺍ</RitualAmbienceSound>
+  <RitualQualityLowWarning>ﻦﻜﻤﻳ .{1} ﻦﻣ ﻞﻗﺃ {0} ﺔﻴﻟﺎﻤﺟﻹﺍ ﺓﺩﻮﺟ
+ﻰﻠﻋ ﺎﺒﻠﺳ ﺐﻠﻏﻷﺍ ﻲﻓ ﻡﺪﻘﺘﻟﺍ ﺮﺛﺆﺗ ﻥﺃ
+.ﻚﺘﻨﻃﻮﺘﺴﻣ
+؟ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ</RitualQualityLowWarning>
+  <AbilitySpeechDisabledNoSpot>.ﺙﺪﺤﺘﻠﻟ ﻝﻮﺻﻮﻠﻟ ﻞﺑﺎﻗ ﺐﺳﺎﻨﻣ ﻥﺎﻜﻣ ﺪﺟﻮﻳ ﻻ</AbilitySpeechDisabledNoSpot>
+  <AbilityDisabledNoCapacity>{0_labelShort} 1} ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ}.</AbilityDisabledNoCapacity>
+  <RitualOutcomeExtraDesc_Mood>ﻰﻠﻋ ﺱﻮﻘﻄﻟﺍ ﻲﻓ ﻙﺭﺎﺸﻳ ﻦﻣ ﻞﻛ ﻞﺼﺤﻳ
+.ﻡﺎﻳﺃ {1} ﺓﺪﻤﻟ ﺝﺍﺰﻣ {0}</RitualOutcomeExtraDesc_Mood>
+  <RitualOutcomeNoQuality>،ﺱﻮﻘﻄﻟﺍ ﻩﺬﻫ ﻲﻓ ﺓﺩﻮﺟ ﺕﻼﻳﺪﻌﺗ ﺪﺟﻮﺗ ﻻ
+.ﻞﻀﻓﻷﺍ ﺞﺋﺎﺘﻨﻟﺍ ﺎﻤﺋﺍﺩ ﻊﻗﻮﺘﻳ ﺍﺬﻟ</RitualOutcomeNoQuality>
+  
+  <ChooseParticipants>.{RITUAL_labelDef} ﻲﻓ ﻙﺭﺎﺸﻳ ﻥﺃ ﺐﺠﻳ ﻦﻣ ﺮﺘﺧﺍ</ChooseParticipants>
+  <Begin>ﺔﻳﺍﺪﺑ</Begin>
+  <BeginRitual>{0} ﺃﺪﺑﺍ</BeginRitual>
+  <BeginRitualFor>{1} ـﻟ {0} ﺃﺪﺑﺍ</BeginRitualFor>
+  <QualityOutOf>({1} ﻦﻣ) {0}</QualityOutOf>
+  <DateRitualNoObligation>ﻦﻜﻤﺘﺘﺳ .ﺩﺪﺤﻣ ﺦﻳﺭﺎﺘﺑ ﺹﺎﺧ ﺲﻘﻃ ﻮﻫ {0}
+.{2} ﻡﻮﻳ ،{1} ﻲﻓ ﻪﺋﺪﺑ ﻦﻣ</DateRitualNoObligation>
+
+  <PreceptReplaceWith>ﻞﻳﺪﺑ</PreceptReplaceWith>
+  <RitualSeatOf>{IDEOS} ـﻟ ﺱﻮﻘﻄﻟﺍ ﺪﻌﻘﻣ</RitualSeatOf>
+  <ExpectedRitualQuality>ﺔﻌﻗﻮﺘﻤﻟﺍ ﺓﺩﻮﺠﻟﺍ</ExpectedRitualQuality>
+  <StartingQuality>ﺀﺪﺒﻟﺍ ﺓﺩﻮﺟ</StartingQuality>
+  <ExpectedRitualDuration>ﺔﻌﻗﻮﺘﻤﻟﺍ ﺓﺪﻤﻟﺍ</ExpectedRitualDuration>
+  
+  <RitualPredictedOutcomeDescPawnStat>{PAWN_labelShort} 1} ﻪﻳﺪﻟ}</RitualPredictedOutcomeDescPawnStat>
+  <RitualPredictedOutcomeDescRoomBeauty>ﺔﻓﺮﻐﻟﺍ ﻝﺎﻤﺟ</RitualPredictedOutcomeDescRoomBeauty>
+  <RitualPredictedOutcomeDescParticipantCount>ﻥﻮﻛﺭﺎﺸﻤﻟﺍ</RitualPredictedOutcomeDescParticipantCount>
+  <RitualPredictedOutcomeDescPawnExpectations>{PAWN_labelShort} ﺕﺎﻌﻗﻮﺗ</RitualPredictedOutcomeDescPawnExpectations>
+  <RitualOutcomeLovedOnePresentLabel>ﺩﻮﺟﻮﻣ ﺏﻮﺒﺤﻣ ﺪﺣﺍﻭ</RitualOutcomeLovedOnePresentLabel>
+  <RitualOutcomeLovedOnePresentTip>.ﺮﺜﻛﺃ ﻭﺃ ﺎﻘﻳﺪﺻ {PAWN_labelShort} ﻩﺮﺒﺘﻌﻳ ﺺﺨﺷ ﻱﺃ</RitualOutcomeLovedOnePresentTip>
+
+  <RitualOutcomeLabelAnyOfThese>ﺀﻻﺆﻫ ﻦﻣ ﻱﺃ</RitualOutcomeLabelAnyOfThese>
+  <RitualRoleReplaces>{PAWN_labelShort} ﻝﺪﺒﺘﺴﻳ</RitualRoleReplaces>
+
+  <Present>ﺮﺿﺎﺣ</Present>
+  <Used>{0} ﻡﺪﺨﺘﺳﺍ</Used>
+  <StartingRitualQuality>{0} ﺔﻳﺍﺪﺒﻟﺍ ﺓﺩﻮﺟ</StartingRitualQuality>
+
+  <OutcomeBonusDesc_Quality>{0} ﺓﺩﻮﺟ ﻰﺘﺣ</OutcomeBonusDesc_Quality>
+  <OutcomeBonusDesc_QualitySingleOffset>{0} ﺓﺩﻮﺟ</OutcomeBonusDesc_QualitySingleOffset>
+  <OutcomeLetterLabel>{ﺲﻘﻃ} {ﺔﺠﻴﺘﻧ}</OutcomeLetterLabel>
+  <MaxValue>ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ {0}</MaxValue>
+
+  <ThingOf>ﻦﻣ {0}</ThingOf>
+  <ThingOfSource>{1} ﻦﻣ {0}</ThingOfSource>
+  <ThingOfTwoSources>{2} ﻭ {1} ﻦﻣ {0}</ThingOfTwoSources>
+
+  
+  <BlindSmoke>ﻒﻴﺜﻜﻟﺍ ﻥﺎﺧﺪﻟﺍ</BlindSmoke>
+  <ToxGas>ﻡﺎﺳ ﺯﺎﻏ</ToxGas>
+  <RotStink>ﺓﺭﺬﻗ ﺔﺗﻭﺭ</RotStink>
+
+  
+  <AbilityDisabledUndrafted>.ﻙﺪﻴﻨﺠﺗ ﺐﺠﻳ</AbilityDisabledUndrafted>
+  <AbilityOnCooldown>ﻲﻓ ﺔﺣﺎﺘﻣ ﻥﻮﻜﺘﺳ .ﺐﻫﺄﺗ ﺔﻟﺎﺣ ﻲﻓ ﺓﺭﺪﻘﻟﺍ
+.{0}</AbilityOnCooldown>
+  <AbilityAlreadyQueued>.ﺭﺎﻈﺘﻧﻻﺍ ﻲﻓ ﻞﻌﻔﻟﺎﺑ ﺎﻬﺒﻴﺗﺮﺗ ﻢﺗ ﺓﺭﺪﻘﻟﺍ</AbilityAlreadyQueued>
+  <AbilityReadyLabel>{0} :ﺓﺪﻌﺘﺴﻣ ﺓﺭﺪﻘﻟﺍ</AbilityReadyLabel>
+  <AbilityReadyText>{0_nameDef} 1} ﻡﺍﺪﺨﺘﺳﻻ ﺪﻌﺘﺴﻣ}.</AbilityReadyText>
+  <AbilityDisabledInRitual>{0_labelShort} 1} ﻲﻓ ﻙﺭﺎﺸﻳ}.</AbilityDisabledInRitual>
+  <Charges>ﺔﻤﻬﺗ</Charges>
+
+  <PawnIsInMentalState>{0_nameDef} ﺔﻴﻧﺍﻭﺪﻋ ﺔﻴﺴﻔﻧ ﺔﻟﺎﺣ ﻲﻓ.</PawnIsInMentalState>
+
+  <DisabledWorkLabel>ﻞﻄﻌﻤﻟﺍ ﻞﻤﻌﻟﺍ</DisabledWorkLabel>
+
+  
+  <GlowerChangeColor>ﻥﻮﻠﻟﺍ ﺮﻴﻴﻐﺗ</GlowerChangeColor>
+  <GlowerChangeColorDescription>.ﺀﻮﻀﻟﺍ ﻥﻮﻟ ﺮﻴﻏ</GlowerChangeColorDescription>
+  <GlowerChangeColorNeedsResearch>ﻥﻮﻟ ﺮﻴﻴﻐﺘﻟ {0} ﻦﻋ ﺚﺤﺒﺗ ﻥﺃ ﺐﺠﻳ
+.ﺀﻮﻀﻟﺍ</GlowerChangeColorNeedsResearch>
+
+  
+  <ShieldPersonalTip>ﻭﺃ ﺔﻣﺩﺎﻘﻟﺍ ﻥﺍﺮﻴﻨﻟﺍ ﻑﺎﻘﻳﺇ ﻝﻭﺎﺤﻳ ﻲﺼﺨﺷ ﻉﺭﺩ
+ﻞﻄﻌﺘﻳﻭ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻦﻣ ﺺﺨﺸﻟﺍ ﻊﻨﻤﻳ .ﺎﻳﺎﻈﺸﻟﺍ
+.EMP ﺮﻴﺛﺄﺘﻟ ﺽﺮﻌﺗ ﺍﺫﺇ ﺍﺭﻮﻓ</ShieldPersonalTip>
+
+  <UnrecruitableDesc>{PAWN_nameDef} ﺾﻓﺮﻴﺳ ﻪﻧﺃ ﻰﺘﺣ ﻪﻟﺰﻨﻤﻟ ﺍﺪﺟ ﺺﻠﺨﻣ
+ﺮﻴﺳﺄﻛ ﺬﺧﺃ ﺍﺫﺇ ﻩﺪﻴﻨﺠﺗ.</UnrecruitableDesc>
+
+  <Random>ﻲﺋﺍﻮﺸﻋ</Random>
+
+  <PlantThing>{label_0} ﻉﺭﺯ</PlantThing>
+  <PlantThingDesc>.ﺓﺩﺪﺤﻣ ﺔﻘﻄﻨﻣ ﻲﻓ {label_0} ﻉﺭﺯ</PlantThingDesc>
+  <CancelPlantThing>{label_0} ﺔﻋﺍﺭﺯ ﺀﺎﻐﻟﺇ</CancelPlantThing>
+  <CancelPlantThingDesc>.{label_0} ﺔﻋﺍﺭﺯ ﺀﺎﻐﻟﺇ</CancelPlantThingDesc>
+
+  <AbilitySpeechDisabledAnotherGatheringInProgress>.ﻡﺪﻘﺘﻟﺍ ﻲﻓ ﺮﺧﺁ ﻊﻤﺠﺗ ﺪﻘﻋ ﻢﺘﻳ</AbilitySpeechDisabledAnotherGatheringInProgress>
+  <AbilitySpeechCooldown>.ﺰﻴﻬﺠﺘﻟﺍ ﺭﻮﻃ ﻲﻓ ﻲﻟﺎﺘﻟﺍ ﺏﺎﻄﺨﻟﺍ ﺩﺍﺪﻋﺇ</AbilitySpeechCooldown>
+  <AbilitySpeechTargetsLabel>ﻲﻓ ﻞﻴﻐﺸﺘﻟﺍ ﻢﺗ</AbilitySpeechTargetsLabel>
+
+</LanguageData>
