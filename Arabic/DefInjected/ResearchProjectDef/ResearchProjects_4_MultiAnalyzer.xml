@@ -1,0 +1,86 @@
+<LanguageData>
+  
+  
+  <AdvancedFabrication.label>ﺔﻗﺪﻟﺍ ﻖﺋﺎﻓ ﺝﺎﺘﻧﺇ</AdvancedFabrication.label>
+  
+  <AdvancedFabrication.description>ﺔﻳﺩﺎﻋ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺓﺭﻮﻄﺘﻣ ﺕﺎﻧﻮﻜﻣ ﻊﻤﺠﺑ ﺢﻤﺴﻳ
+.ﺎﻬﻀﻌﺑ ﻯﺮﺧﺃ ﺩﺍﻮﻣﻭ</AdvancedFabrication.description>
+  
+  
+  <Bionics.label>ﻑﺍﺮﻃﻸﻟ ﻲﻧﻮﻴﺒﻟﺍ ﺐﻴﻛﺮﺘﻟﺍ</Bionics.label>
+  
+  <Bionics.description>ﻝﺍﺪﺒﺘﺳﻻ ﺔﻴﻟﺎﻋ ﺎﻴﺟﻮﻟﻮﻨﻜﺗ ﺔﻴﻋﺎﻨﺻ ﻑﺍﺮﻃﺃ ﻊﻨﺻ ﻦﻜﻤﻳ
+.ﺮﻫﺎﻣ ﺐﻴﺒﻃ ﺔﻋﺍﺭﺯ ﺐﻠﻄﺘﻳ .ﻥﻮﻴﻌﻟﺍﻭ ﺓﺩﻮﻘﻔﻤﻟﺍ ﺀﺎﻀﻋﻷﺍ</Bionics.description>
+  
+  
+  <ChargedShot.label>ﻱﻮﻗﺎﻄﻟﺍ ﺡﻼﺴﻟﺍ</ChargedShot.label>
+  
+  <ChargedShot.description>ﻊﻨﺻ ﺢﻴﺘﻳ ﺔﺴﺒﻜﻤﻟﺍ ﺔﻴﻗﺎﻄﻟﺍ ﺓﺮﻴﻋﻷﺍ ﺭﺍﺮﺳﺃ ﻢﻬﻓ
+.ﺔﻣﺪﻘﺘﻣ ﺕﺎﻧﻮﻜﻣ ﺐﻠﻄﺘﻳ ﺍﺬﻫ .ﺔﻗﺎﻄﻟﺍ ﻕﺩﺎﻨﺑ</ChargedShot.description>
+  
+  
+  <Cryptosleep.label>ﺔﺛﺎﺤﺘﺴﻤﻟﺍ ﺖﻴﺑﺍﻮﺘﻟﺍ</Cryptosleep.label>
+  
+  <Cryptosleep.description>ﺔﻴﺤﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﻊﺿﻮﻟ ﺔﻤﻤﺼﻣ ﺓﺮﻔﺸﻤﻟﺍ ﻮﺒﻘﻟﺍ ﺓﺭﺍﻮﺳ
+.ﺔﻴﻃﺎﺸﻧ ﻡﻮﻃ ﺔﻟﺎﺣ ﻲﻓ</Cryptosleep.description>
+  
+  
+  <Fabrication.label>ﺔﻗﺪﻟﺍ ﻲﻟﺎﻋ ﺝﺎﺘﻧﺇ</Fabrication.label>
+  
+  <Fabrication.description>ﺕﺎﺠﺘﻨﻣ ﻊﻴﻨﺼﺘﻟ ﺔﺻﺎﺧ ﺕﺎﻄﺤﻣ ﺀﺎﻨﺑ ﻚﻟ ﺢﻴﺘﻳ
+.ﺔﻳﻮﻘﻟﺍ ﻉﻭﺭﺪﻟﺍ ﻰﻟﺇ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﺔﻘﺋﺎﻓ</Fabrication.description>
+  
+  <Fabrication.discoveredLetterText>ﺔﻴﻟﺎﻋ ﺔﻘﻴﻗﺩ ﺔﻟﺁ ﺀﺎﻨﺒﻟ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻚﻳﺪﻟ ﻥﻵﺍ
+ﺮﺻﺎﻨﻌﻟﺍ ﺾﻌﺑ ﻰﻟﺇ ﺝﺎﺘﺤﺘﺳ ﻦﻜﻟﻭ ، ﺓﺩﻮﺠﻟﺍ
+:ﻕﺮﻃ ﺓﺪﻋ ﻦﻣ ﻢﻬﻴﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻚﻨﻜﻤﻳ .ﺔﻣﺪﻘﺘﻤﻟﺍ
+
+ﻦﻋ ﺔﻣﺪﻘﺘﻣ ﻯﺮﺧﺃ ﺔﻨﻃﻮﺘﺴﻣ ﻦﻣ ﺎﻫﺅﺍﺮﺷ -
+.ﻢﻬﻴﻟﺇ ﺔﻠﻓﺎﻗ ﻝﺎﺳﺭﺇ ﻖﻳﺮﻃ
+ﺔﻠﻓﺎﻗ ﻉﺪﺘﺳﺍ .ﻥﻭﺮﺑﺎﻌﻟﺍ ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺎﻫﺅﺍﺮﺷ -
+.ﻚﻴﻟﺇ ﺍﻮﺗﺄﻳ ﻰﺘﺣ ﺮﻈﺘﻧﺍ ﻭﺃ
+.ﺕﺎﻤﻬﻤﻟﺍ ﻝﺎﻤﻛﺇ ﺪﻨﻋ ﺓﺄﻓﺎﻜﻤﻛ ﺎﻬﻴﻠﻋ ﻝﻮﺼﺤﻟﺍ -</Fabrication.discoveredLetterText>
+  
+  <Fabrication.discoveredLetterTitle>ﺔﻣﺪﻘﺘﻣ ﺕﺎﻧﻮﻜﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ</Fabrication.discoveredLetterTitle>
+  
+  
+  <MultiAnalyzer.label>ﺓﺩﺪﻌﺘﻤﻟﺍ ﺕﻼﻠﺤﻤﻟﺍ</MultiAnalyzer.label>
+  
+  <MultiAnalyzer.description>ﺙﺎﺤﺑﻷﺍ ﺀﺍﺮﺟﺇ ﻰﻠﻋ ﺪﻋﺎﺴﻳ ﺩﺪﻌﺘﻣ ﻞﻠﺤﻣ ﻡﺍﺪﺨﺘﺳﺍ
+ﻰﻠﻋﺃ ﺎﻴﺟﻮﻟﻮﻨﻜﺗ ﻡﺎﻣﺃ ﺏﺎﺒﻟﺍ ﺢﺘﻔﻳﻭ ﻉﺮﺳﺃ ﻞﻜﺸﺑ
+.ﺕﺎﻳﻮﺘﺴﻤﻟﺍ</MultiAnalyzer.description>
+  
+  
+  <PoweredArmor.label>ﺔﻴﻟﺎﺘﻘﻟﺍ ﻉﻭﺭﺪﻟﺍ</PoweredArmor.label>
+  
+  <PoweredArmor.description>ﺀﺎﻀﻔﻟﺍ ﺩﻮﻨﺟ ﻪﻣﺪﺨﺘﺴﻳ ﻡﺎﻋ ﻱﻮﻗ ﻉﺭﺩ ﻊﻴﻨﺼﺗ
+.ﺝﺎﺘﻧﻺﻟ ﺔﻣﺪﻘﺘﻣ ﺕﺎﻧﻮﻜﻣ ﻡﺍﺪﺨﺘﺳﺍ ﻡﺰﻠﻳ .ﻦﻴﻤﺟﺎﻬﻤﻟﺍ</PoweredArmor.description>
+  
+  
+  <ReconArmor.label>ﺔﻴﻋﻼﻄﺘﺳﻻﺍ ﻉﻭﺭﺪﻟﺍ</ReconArmor.label>
+  
+  <ReconArmor.description>ﻥﻮﺟﺎﺘﺤﻳ ﻉﻼﻄﺘﺳﻻﺍ ﺩﻮﻨﺠﻟ ﺔﻔﻴﻔﺧ ﻝﺎﺘﻗ ﺔﻟﺪﺑ ﻊﻨﺻ
+ﺕﺎﻧﻮﻜﻣ ﺎﻬﺟﺎﺘﻧﺇ ﺐﻠﻄﺘﻳ .ﺔﻛﺮﺤﻟﺍ ﺪﻴﻴﻘﺗ ﻥﻭﺩ ﺔﻳﺎﻤﺤﻟ
+.ﺔﻣﺪﻘﺘﻣ</ReconArmor.description>
+  
+  
+  <RocketswarmLauncher.label>ﺔﺒﻗﺎﻌﺘﻤﻟﺍ ﺦﻳﺭﺍﻮﺼﻟﺍ</RocketswarmLauncher.label>
+  
+  <RocketswarmLauncher.description>ﺮﻴﺠﻔﺗ ﻲﻓ ﺦﻳﺭﺍﻮﺼﻟﺍ ﻦﻣ ﺏﺮﺳ ﻕﻼﻃﺇ ﻢﺘﻳ
+ﺔﻘﻄﻨﻤﻟ ﻢﺨﺿ ﺭﺮﺿ ﺐﺒﺴﺗ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ،ﺪﺣﺍﻭ
+.ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﻢﻬﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻓ ﺔﻌﺳﺍﻭ</RocketswarmLauncher.description>
+  
+  
+  <SniperTurret.label>ﺔﺻﺎﻨﻘﻟﺍ ﻊﻓﺍﺪﻤﻟﺍ</SniperTurret.label>
+  
+  <SniperTurret.description>ﻲﻟﺎﻋ ﻕﻼﻃﺇ ﻕﺎﻄﻨﺑ ﺔﻴﻟﻵﺍ ﻊﻓﺍﺪﻤﻟﺍ ﻩﺬﻫ ﺯﺎﺘﻤﺗ
+ﻥﺪﻌﻤﻟﺍ ﻕﺮﺘﺨﺗ ﻲﺘﻟﺍ ﻡﻮﻴﻧﺍﺭﻮﻴﻟﺍ ﻒﺋﺍﺬﻗ ﻖﻠﻄﺗ .ﺍﺪﺟ
+ﺔﻟﺎﻌﻓ ﺖﺴﻴﻟ ﺎﻬﻧﺈﻓ ،ﻚﻟﺫ ﻊﻣﻭ .ﻕﺭﻮﻟﺍ ﻕﺭﻮﻛ
+.ﺔﺒﻳﺮﻗ ﺕﺎﻓﺎﺴﻣ ﻰﻠﻋ</SniperTurret.description>
+  
+  
+  <VitalsMonitor.label>ﺓﺎﻴﺤﻟﺍ ﺕﺍﺮﺷﺆﻣ ﺔﺒﻗﺍﺮﻣ</VitalsMonitor.label>
+  
+  <VitalsMonitor.description>ﺝﻼﻋ ﺓﺩﻮﺟ ﻦﻴﺴﺤﺘﺑ ﺓﺎﻴﺤﻟﺍ ﺕﺍﺮﺷﺆﻣ ﺕﺎﺷﺎﺷ ﺢﻤﺴﺗ
+.ﺔﻴﺒﻄﻟﺍ ﺓﺮﺳﻷﺍ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺎﻬﻌﺿﻭ ﺪﻨﻋ ﻰﺿﺮﻤﻟﺍ</VitalsMonitor.description>
+  
+</LanguageData>
