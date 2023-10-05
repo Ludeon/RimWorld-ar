@@ -1,0 +1,19 @@
+<LanguageData>
+  
+  
+  <WakeUp.label>ﻦﻳﺭﺩﻮﺑ</WakeUp.label>
+  
+  <WakeUp.description>ﺢﻴﺘﻳﻭ ﺔﺣﺍﺮﻟﺍ ﻰﻟﺇ ﺔﺟﺎﺤﻟﺍ ﺽﻮﻌﻳ .ﻲﻋﺎﻨﺻ ﻂﺸﻨﻣ
+ﻦﻳﺭﺩﻮﺑ ﺢﻤﺴﻳ .ﻕﺎﻫﺭﺇ ﻥﻭﺪﺑ ﺔﻠﻳﻮﻃ ﺕﺍﺮﺘﻔﻟ ﻞﻤﻌﻟﺍ
+ﻲﻓ ﺰﻴﻛﺮﺘﻟﺍ ﻦﻣ ﺪﻳﺰﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺎﺑ ﻚﻴﻧﻮﻴﺴﻔﻨﻠﻟ
+.ﻥﺎﻣﺩﻹﺍ ﺐﺒﺴﻳ ﻢﻈﺘﻨﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﻻﺍ .ﻞﻣﺄﺘﻟﺍ ﺀﺎﻨﺛﺃ
+
+ﻥﻭﺰﻴﻤﺘﻤﻟﺍ ﻥﻮﻠﺜﻤﻤﻟﺍ ﻲﻧﺎﻌﻳ ،ﻦﻴﻤﻟﺎﻌﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻲﻓ
+ﺐﺒﺴﺑ ﻥﺎﻫﺬﻟﺍ ﻦﻣ ﻯﺮﺒﻜﻟﺍ ﺕﺎﻛﺮﺸﻟﺍﻭ ﺕﺎﻌﻣﺎﺠﻟﺍ ﻲﻓ
+.ﻦﻳﺭﺩﻮﺑ ﻰﻠﻋ ﻥﺎﻣﺩﻹﺍ</WakeUp.description>
+  
+  <WakeUp.ingestible.ingestCommandString>{lookup: {0}; Case; 3} ﻝﻮﺒﻗ</WakeUp.ingestible.ingestCommandString>
+  
+  <WakeUp.ingestible.ingestReportString>{lookup: {0}; Case; 3} ﻞﺒﻘﻳ</WakeUp.ingestible.ingestReportString>
+  
+</LanguageData>
