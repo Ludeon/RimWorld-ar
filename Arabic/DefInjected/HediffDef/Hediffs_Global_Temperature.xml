@@ -1,0 +1,64 @@
+<LanguageData>
+  
+  
+  <Heatstroke.label>ﺔﻳﺭﺍﺮﺣ ﺔﻘﻋﺎﺻ</Heatstroke.label>
+  
+  <Heatstroke.description>ﺓﺭﺍﺮﺤﻠﻟ ﺪﺋﺍﺯ ﺽﺮﻌﺗ ﺐﺒﺴﺑ ﺀﺍﺩﻷﺍ ﻲﻓ ﻞﺸﻓ
+ﻝﻭﺰﺘﺳ .ﻙﺎﺒﺗﺭﺍﻭ ﻒﻌﺿﻭ ﺭﺍﻭﺩ ﻪﺒﺣﺎﺼﻳ .ﺲﻤﺸﻟﺍ ﺔﻌﺷﺃﻭ
+ﺍﺫﺇ .ﺩﺭﺎﺑ ﻥﺎﻜﻣ ﻲﻓ ﺔﻋﺮﺴﺑ ﺔﻟﺎﺤﻟﺍ ﻩﺬﻫ
+ﻱﺩﺆﻳﻭ ﺭﺮﻀﻟﺍ ﻢﻗﺎﻔﺘﻴﺳ ،ﺓﺭﺎﻀﻟﺍ ﻞﻣﺍﻮﻌﻠﻟ ﺽﺮﻌﺘﻟﺍ ﺮﻤﺘﺳﺍ
+.ﺕﻮﻤﻟﺍ ﻰﻟﺇ ﺎﻴﺠﻳﺭﺪﺗ</Heatstroke.description>
+  
+  <Heatstroke.stages.initial-0.label>ﺔﻳﺍﺪﺒﻟﺍ</Heatstroke.stages.initial-0.label>
+  
+  <Heatstroke.stages.initial-1.label>ﺔﻳﺍﺪﺒﻟﺍ</Heatstroke.stages.initial-1.label>
+  
+  <Heatstroke.stages.minor.label>.ﺔﻠﻬﺳ</Heatstroke.stages.minor.label>
+  
+  <Heatstroke.stages.serious.label>ﺩﺎﺟ</Heatstroke.stages.serious.label>
+  
+  <Heatstroke.stages.extreme.label>ﻯﻮﻗﺃ</Heatstroke.stages.extreme.label>
+  
+  
+  <Hypothermia.label>ﺪﻤﺠﺘﻟﺍ</Hypothermia.label>
+  
+  <Hypothermia.description>ﺍﺫﺇ .ﺓﺮﻄﺧﻭ ﺔﻳﺎﻐﻠﻟ ﺔﻀﻔﺨﻨﻣ ﻢﺴﺠﻟﺍ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ
+ﻱﺩﺆﻳﻭ ﻢﻗﺎﻔﺘﻴﺳ ﺽﺎﻔﺨﻧﻹﺍ ﻥﺈﻓ ،ﺎﻬﺗﺩﺎﻳﺯ ﻢﺘﺗ ﻢﻟ
+ﺔﻟﺎﺤﻟﺍ ﻩﺬﻫ ﻦﻣ ﺺﻠﺨﺘﻟﺍ ﻦﻜﻤﻳ .ﺕﻮﻤﻟﺍ ﻰﻟﺇ
+ﺊﻓﺍﺩ ﻥﺎﻜﻣ ﻲﻓ ﺀﺎﻘﺒﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﺔﻋﺮﺴﺑ
+ﻖﻳﺮﻃ ﻦﻋ ﺪﻤﺠﺘﻟﺎﺑ ﺔﺑﺎﺻﻹﺍ ﺐﻨﺠﺗ .ﺓﺮﺘﻓ ﺔﻌﻀﺒﻟ
+.ﺓﺩﺭﺎﺑ ﺥﺎﻨﻣ ﻑﻭﺮﻇ ﻲﻓ ﺔﺌﻓﺍﺩ ﺲﺑﻼﻣ ﺀﺍﺪﺗﺭﺍ</Hypothermia.description>
+  
+  <Hypothermia.stages.shivering-0.label>ﺪﻳﺪﺸﻟﺍ ﺩﺮﺒﻟﺎﺑ ﺭﻮﻌﺷ</Hypothermia.stages.shivering-0.label>
+  
+  <Hypothermia.stages.shivering-1.label>ﺪﻤﺠﺘﻟﺍ</Hypothermia.stages.shivering-1.label>
+  
+  <Hypothermia.stages.minor.label>ﺔﻠﻬﺳ</Hypothermia.stages.minor.label>
+  
+  <Hypothermia.stages.serious.label>ﺔﻳﺪﺟ</Hypothermia.stages.serious.label>
+  
+  <Hypothermia.stages.extreme.label>ﻞﻘﺛﺃ</Hypothermia.stages.extreme.label>
+  
+  
+  <HypothermicSlowdown.label>ﺾﻳﻷﺍ ﺔﻴﻠﻤﻋ ﺆﻃﺎﺒﺗ</HypothermicSlowdown.label>
+  
+  <HypothermicSlowdown.description>ﺕﺎﻨﺋﺎﻜﻟﺍ ﺾﻌﺑ ﻯﺪﻟ ﺐﻗﺍﺮﺗ ﺔﺻﺎﺧ ﺔﻴﺟﻮﻟﻮﻴﺑ ﺔﻟﺎﺣ
+ﻲﻌﺴﻟﺍ ﻦﻣ ﻻﺪﺑ .ﺪﻳﺪﺸﻟﺍ ﺩﺮﺒﻟﺍ ﻲﻓ ﺔﻴﻗﺎﺒﻟﺍ
+ﻝﺩﺎﺒﺘﻟﺎﺑ ﻦﺋﺎﻜﻟﺍ ﻒﻴﻜﺘﺗ ، ﺀﻑﺪﻟﺍ ﻰﻠﻋ ﻅﺎﻔﺤﻠﻟ
+ﺔﺟﺭﺩ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ﺪﻤﺠﺘﻟﺍ ﻡﺪﻌﻟ ﻱﻮﻴﺤﻟﺍ
+ﺓﺎﻴﺤﻟﺍ ﻒﺋﺎﻇﻭ ﻊﻴﻤﺟ ﺄﻃﺎﺒﺘﺗ .ﺔﻀﻔﺨﻨﻤﻟﺍ ﻢﺴﺠﻟﺍ ﺓﺭﺍﺮﺣ
+ﻻ ﻯﺫﺃ ﻲﻓ ﺩﺮﺒﻟﺍ ﺐﺒﺴﺘﻳ ﻻ ﻦﻜﻟﻭ
+ﻢﺳﺍ ﻦﻴﻴﺟﻮﻟﻮﻴﺒﻟﺍ ﺾﻌﺑ ﻪﻴﻠﻋ ﻖﻠﻄﻳ .ﻪﺴﻜﻋ ﻦﻜﻤﻳ
+."ﻂﺸﻨﻟﺍ ﺕﺎﺒﺴﻟﺍ ﻦﻣ ﻉﻮﻧ"</HypothermicSlowdown.description>
+  
+  <HypothermicSlowdown.stages.minor-0.label>ﻞﻬﺳ</HypothermicSlowdown.stages.minor-0.label>
+  
+  <HypothermicSlowdown.stages.minor-1.label>ﻞﻬﺳ</HypothermicSlowdown.stages.minor-1.label>
+  
+  <HypothermicSlowdown.stages.moderate.label>ﻂﺳﻮﺘﻣ</HypothermicSlowdown.stages.moderate.label>
+  
+  <HypothermicSlowdown.stages.serious.label>ﺔﻳﺪﺟ</HypothermicSlowdown.stages.serious.label>
+  
+  <HypothermicSlowdown.stages.extreme.label>ﺔﺟﺮﺣ ﺔﻟﺎﺣ</HypothermicSlowdown.stages.extreme.label>
+  
+</LanguageData>
