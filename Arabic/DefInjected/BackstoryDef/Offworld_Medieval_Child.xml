@@ -1,0 +1,31 @@
+ï»؟<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The child of an illicit affair, [PAWN_nameDef] was bought up by nuns in a medieval convent. [PAWN_pronoun] learned the value of hard work and submission, but was taught that technology is heretical. -->
+  <ConventChild16.baseDesc>{PAWN_possessive} ذ¾ر‚ذ´ذ°ذ»ذ¸ ذ² رپر€ذµذ´ذ½ذµذ²ذµذ؛ذ¾ذ²ر‹ذ¹ ذ¼ذ¾ذ½ذ°رپر‚ر‹ر€رŒ ذ؛ذ°ذ؛ ذ´ذ¸ر‚رڈ ذ²ذ½ذµذ±ر€ذ°ر‡ذ½ذ¾ذ¹ ذ»رژذ±ذ²ذ¸. ذ¢ذ°ذ¼ {PAWN_nameDef} {PAWN_gender ? ذ؟ذ¾ذ·ذ½ذ°ذ» : ذ؟ذ¾ذ·ذ½ذ°ذ»ذ°} ذ؟ر€ذ°ذ²ذµذ´ذ½ذ¾رپر‚رŒ ر‚رڈذ¶ر‘ذ»ذ¾ذ¹ ر€ذ°ذ±ذ¾ر‚ر‹ ذ¸ ذ؟ذ¾رپذ»رƒرˆذ°ذ½ذ¸رڈ, ذ¾ذ´ذ½ذ°ذ؛ذ¾ ذ²ر‹رپذ¾ذ؛ذ¸ذµ ر‚ذµر…ذ½ذ¾ذ»ذ¾ذ³ذ¸ذ¸ رپر‚ذ°ذ»ذ¸ ذµر€ذµرپرŒرژ ذ² {PAWN_possessive} رپذ¾ذ·ذ½ذ°ذ½ذ¸ذ¸.</ConventChild16.baseDesc>
+  <!-- EN: convent child -->
+  <ConventChild16.title>ذ¼ذ¾ذ½ذ°رپر‚ر‹ر€رپذ؛ذ¸ذ¹ ر€ذµذ±ر‘ذ½ذ¾ذ؛</ConventChild16.title>
+  <!-- EN: illicit -->
+  <ConventChild16.titleShort>ذ±ذ°ذ¹رپر‚ر€رژذ؛</ConventChild16.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a minor noble in an old kingdom on a medieval world. [PAWN_pronoun] grew up in a manor made of stone, served by bowing lowerclassmen.\n\nSuch a life teaches no technical skills and instils a lifelong aversion to manual labor - but [PAWN_nameDef] learned early the ways of social manipulation. -->
+  <MedievalLordling19.baseDesc>{PAWN_nameDef} {PAWN_gender ? ر€ذ¾ذ´ذ¸ذ»رپرڈ : ر€ذ¾ذ´ذ¸ذ»ذ°رپرŒ} ذ² ذ´ذ²ذ¾ر€رڈذ½رپذ؛ذ¾ذ¹ رپذµذ¼رŒذµ ذ² ذ¾ذ´ذ½ذ¾ذ¼ ذ¸ذ· رپر‚ذ°ر€ر‹ر… ذ؛ذ¾ر€ذ¾ذ»ذµذ²رپر‚ذ² رپر€ذµذ´ذ½ذµذ²ذµذ؛ذ¾ذ²ذ¾ذ³ذ¾ ذ¼ذ¸ر€ذ°. {PAWN_pronoun} {PAWN_gender ? ر€ذ¾رپ : ر€ذ¾رپذ»ذ°} ذ² ذ؛ذ°ذ¼ذµذ½ذ½ذ¾ذ¼ ذ¾رپذ¾ذ±ذ½رڈذ؛ذµ, ذ³ذ´ذµ {PAWN_objective} ذ؟ر€ذ¸رپذ»رƒذ¶ذ¸ذ²ذ°ذ»ذ¸ ذ»رژذ´ذ¸ ذ¸ذ· ذ±ذ¾ذ»ذµذµ ذ½ذ¸ذ·ذ؛ذ¸ر… رپذ¾رپذ»ذ¾ذ²ذ¸ذ¹.\n\nذ¢ذ°ذ؛ذ°رڈ ذ¶ذ¸ذ·ذ½رŒ ذ½ذµ رƒر‡ذ¸ر‚ ذ½ذ¸ذ؛ذ°ذ؛ذ¸ذ¼ ذ؟ر€ذ°ذ؛ر‚ذ¸ر‡ذµرپذ؛ذ¸ذ¼ ذ½ذ°ذ²ر‹ذ؛ذ°ذ¼ ذ¸ ذ²ذ´ذ¾ذ±ذ°ذ²ذ¾ذ؛ ذ²ذ½رƒرˆذ°ذµر‚ ذ؟ذ¾ذ¶ذ¸ذ·ذ½ذµذ½ذ½ذ¾ذµ ذ¾ر‚ذ²ر€ذ°ر‰ذµذ½ذ¸ذµ ذ؛ ر€رƒر‡ذ½ذ¾ذ¼رƒ ر‚ر€رƒذ´رƒ. ذ‍ذ´ذ½ذ°ذ؛ذ¾ ر‚ذ¾ذ½ذ؛ذ¾رپر‚ذ¸ رپذ¾ر†ذ¸ذ°ذ»رŒذ½ر‹ر… ذ¼ذ°ذ½ذ¸ذ؟رƒذ»رڈر†ذ¸ذ¹ {PAWN_nameDef} {PAWN_gender ? ذ؟ذ¾رپر‚ذ¸ذ³ : ذ؟ذ¾رپر‚ذ¸ذ³ذ»ذ°} رپ ر€ذ°ذ½ذ½ذ¸ر… ذ»ذµر‚.</MedievalLordling19.baseDesc>
+  <!-- EN: medieval lordling -->
+  <MedievalLordling19.title>رپر‹ذ½ ر„ذµذ¾ذ´ذ°ذ»ذ°</MedievalLordling19.title>
+  <!-- EN: medieval lady -->
+  <MedievalLordling19.titleFemale>ذ´ذ¾ر‡رŒ ر„ذµذ¾ذ´ذ°ذ»ذ°</MedievalLordling19.titleFemale>
+  <!-- EN: lordling -->
+  <MedievalLordling19.titleShort>ذ»ذ¾ر€ذ´</MedievalLordling19.titleShort>
+  <!-- EN: lady -->
+  <MedievalLordling19.titleShortFemale>ذ»ذµذ´ذ¸</MedievalLordling19.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up pulling carts and digging holes on a medieval world. Simple manual labor is [PAWN_possessive] oldest companion - along with the master's lash.\n\n[PAWN_pronoun] didn't learn to read until age nine. -->
+  <MedievalSlave49.baseDesc>{PAWN_nameDef} {PAWN_gender ? ر€ذ¾رپ : ر€ذ¾رپذ»ذ°}, ر‚رڈذ³ذ°رڈ ر‚ذµذ»ذµذ³ذ¸ ذ¸ ر€ذ¾رڈ رڈذ¼ر‹ ذ² رپر€ذµذ´ذ½ذµذ²ذµذ؛ذ¾ذ²ذ¾ذ¼ ذ¼ذ¸ر€ذµ. ذںر€ذ¾رپر‚ذ¾ذ¹ ر€رƒر‡ذ½ذ¾ذ¹ ر‚ر€رƒذ´آ â€” {PAWN_possessive} رپر‚ذ°ر€ذµذ¹رˆذ¸ذ¹ رپذ؟رƒر‚ذ½ذ¸ذ؛, ذ؛ذ°ذ؛ ذ¸ ر…ذ¾ذ·رڈذ¹رپذ؛ذ°رڈ ذ؟ذ»ذµر‚رŒ.\n\n{PAWN_pronoun} {PAWN_gender ? ذ½ذ°رƒر‡ذ¸ذ»رپرڈ : ذ½ذ°رƒر‡ذ¸ذ»ذ°رپرŒ} ر‡ذ¸ر‚ذ°ر‚رŒ ذ»ذ¸رˆرŒ ذ؛ ذ´ذµذ²رڈر‚ذ¸ ذ³ذ¾ذ´ذ°ذ¼.</MedievalSlave49.baseDesc>
+  <!-- EN: medieval slave -->
+  <MedievalSlave49.title>رپر€ذµذ´ذ½ذµذ²ذµذ؛ذ¾ذ²ر‹ذ¹ ر€ذ°ذ±</MedievalSlave49.title>
+  <MedievalSlave49.titleFemale>رپر€ذµذ´ذ½ذµذ²ذµذ؛ذ¾ذ²ذ°رڈ ر€ذ°ذ±ر‹ذ½رڈ</MedievalSlave49.titleFemale>
+  <!-- EN: slave -->
+  <MedievalSlave49.titleShort>ر€ذ°ذ±</MedievalSlave49.titleShort>
+  <MedievalSlave49.titleShortFemale>ر€ذ°ذ±ر‹ذ½رڈ</MedievalSlave49.titleShortFemale>
+  
+</LanguageData>
