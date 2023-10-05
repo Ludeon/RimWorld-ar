@@ -1,0 +1,31 @@
+<LanguageData>
+  
+  
+  <InstallDenture.label>ﻲﻨﺴﻟﺍ ﺮﺴﺠﻟﺍ ﺐﻴﻛﺮﺘﺑ ﻢﻗ</InstallDenture.label>
+  
+  <InstallDenture.description>.ﻥﺎﻨﺳﺃ ﻢﻘﻃ ﺐﻴﻛﺮﺗ</InstallDenture.description>
+  
+  <InstallDenture.jobString>ﻥﺎﻨﺳﺃ ﻢﻘﻃ ﺐﻴﻛﺮﺘﺑ ﻡﻮﻘﻳ</InstallDenture.jobString>
+  
+  
+  <InstallPegLeg.label>ﺔﻴﺒﺸﺧ ﻡﺪﻗ ﺖﻴﺒﺜﺗ</InstallPegLeg.label>
+  
+  <InstallPegLeg.description>.ﺔﻴﺒﺸﺧ ﻡﺪﻗ ﺐﻴﻛﺮﺗ</InstallPegLeg.description>
+  
+  <InstallPegLeg.jobString>.ﺔﻴﺒﺸﺧ ﻡﺪﻗ ﺖﺒﺜﻳ</InstallPegLeg.jobString>
+  
+  
+  <InstallWoodenFoot.label>ﺔﻴﺒﺸﺧ ﻡﺪﻗ ﺐﻴﻛﺮﺗ</InstallWoodenFoot.label>
+  
+  <InstallWoodenFoot.description>.ﺔﻴﺒﺸﺧ ﻕﺎﺳ ﺐﻴﻛﺮﺗ</InstallWoodenFoot.description>
+  
+  <InstallWoodenFoot.jobString>ﺔﻴﺒﺸﺧ ﺎﻣﺪﻗ ﻊﻀﻳ</InstallWoodenFoot.jobString>
+  
+  
+  <InstallWoodenHand.label>ﺔﻴﺒﺸﺧ ﺓﺎﺷﺮﻓ ﺐﻴﻛﺮﺗ</InstallWoodenHand.label>
+  
+  <InstallWoodenHand.description>.ﺔﻴﺒﺸﺧ ﺓﺎﺷﺮﻓ ﺖﻴﺒﺜﺗ</InstallWoodenHand.description>
+  
+  <InstallWoodenHand.jobString>ﺔﻴﺒﺸﺧ ﺓﺎﺷﺮﻓ ﻊﻀﻳ</InstallWoodenHand.jobString>
+  
+</LanguageData>
