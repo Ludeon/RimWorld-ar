@@ -1,0 +1,53 @@
+ï»؟<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was a professional assassin. [PAWN_pronoun] was cold, calculating, and made a good profit. In this business, an utter lack of empathy was an asset. -->
+  <Assassin20.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ±ر‹ذ» : ذ±ر‹ذ»ذ°} ذ؟ر€ذ¾ر„ذµرپرپذ¸ذ¾ذ½ذ°ذ»رŒذ½ر‹ذ¼ رƒذ±ذ¸ذ¹ر†ذµذ¹. ذ‘ذµرپرپر‚ر€ذ°رپر‚ذ½ذ¾رپر‚رŒ ذ¸ ر€ذ°رپر‡ر‘ر‚ذ»ذ¸ذ²ذ¾رپر‚رŒ ذ؟ر€ذ¸ذ½ذ¾رپذ¸ذ»ذ¸ {PAWN_objective} ذ½ذµذ¼ذ°ذ»ذ¾ ذ´ذµذ½ذµذ³. ذ’ رچر‚ذ¾ذ¼ ذ±ذ¸ذ·ذ½ذµرپذµ ذ؟ذ¾ذ»ذ½ذ¾ذµ ذ¾ر‚رپرƒر‚رپر‚ذ²ذ¸ذµ رپذ¾ر‡رƒذ²رپر‚ذ²ذ¸رڈآ â€” ذ؛ر€ذ°ذ¹ذ½ذµ ر†ذµذ½ذ½ر‹ذ¹ ذ°ذ؛ر‚ذ¸ذ².</Assassin20.baseDesc>
+  <!-- EN: assassin -->
+  <Assassin20.title>ذ°رپرپذ°رپذ¸ذ½</Assassin20.title>
+  <!-- EN: assassin -->
+  <Assassin20.titleShort>ذ°رپرپذ°رپذ¸ذ½</Assassin20.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was used for [PAWN_possessive] body by hundreds of customers in brothels on several planets. [PAWN_pronoun] gained some mental marks and a special kind of street smarts. -->
+  <Gigolo30.baseDesc>{PAWN_nameDef} {PAWN_gender ? ر‚ذ¾ر€ذ³ذ¾ذ²ذ°ذ» : ر‚ذ¾ر€ذ³ذ¾ذ²ذ°ذ»ذ°} رپذ²ذ¾ذ¸ذ¼ ر‚ذµذ»ذ¾ذ¼. ذکذ¼ ذ؟ذ¾ذ»رŒذ·ذ¾ذ²ذ°ذ»ذ¸رپرŒ رپذ¾ر‚ذ½ذ¸ ذ؛ذ»ذ¸ذµذ½ر‚ذ¾ذ² ذ² ذ±ذ¾ر€ذ´ذµذ»رڈر… ذ½ذ° ذ½ذµرپذ؛ذ¾ذ»رŒذ؛ذ¸ر… ذ؟ذ»ذ°ذ½ذµر‚ذ°ر…. ذ­ر‚ذ¾ ذ½ذµ ذ؟ر€ذ¾رˆذ»ذ¾ ذ½ذµذ·ذ°ذ¼ذµر‚ذ½ذ¾ ذ´ذ»رڈ ذ؟رپذ¸ر…ذ¸ذ؛ذ¸, ذ½ذ¾ ذ·ذ°ر‚ذ¾ {PAWN_nameDef} {PAWN_gender ? ذ½ذ°رƒر‡ذ¸ذ»رپرڈ : ذ½ذ°رƒر‡ذ¸ذ»ذ°رپرŒ} ذ½ذ°ر…ذ¾ذ´ذ¸ر‚رŒ ذ¾ذ±ر‰ذ¸ذ¹ رڈذ·ر‹ذ؛ رپ رپذ°ذ¼ر‹ذ¼ذ¸ ر€ذ°ذ·ذ½ر‹ذ¼ذ¸ ذ»رژذ´رŒذ¼ذ¸.</Gigolo30.baseDesc>
+  <!-- EN: gigolo -->
+  <Gigolo30.title>ذ¶ذ¸ذ³ذ¾ذ»ذ¾</Gigolo30.title>
+  <!-- EN: gigolo -->
+  <Gigolo30.titleFemale>ذ؛رƒر€ر‚ذ¸ذ·ذ°ذ½ذ؛ذ°</Gigolo30.titleFemale>
+  <!-- EN: courtesean -->
+  <Gigolo30.titleShort>ذ¶ذ¸ذ³ذ¾ذ»ذ¾</Gigolo30.titleShort>
+  <!-- EN: courtesean -->
+  <Gigolo30.titleShortFemale>ذ؛رƒر€ر‚ذ¸ذ·ذ°ذ½ذ؛ذ°</Gigolo30.titleShortFemale>
+  
+  <!-- EN: There is a law that says that you're not allowed to put terawatt-range grasers on a cargo scow. Especially if you hide them under what looks like a communications dish for better ambush potential. [PAWN_nameDef] discovered that there is great profit to be made, however, from those who are uninterested in these laws. -->
+  <IllegalShipwright76.baseDesc>ذ،رƒر‰ذµرپر‚ذ²رƒذµر‚ ذ·ذ°ذ؛ذ¾ذ½, ذ؟ذ¾ ذ؛ذ¾ر‚ذ¾ر€ذ¾ذ¼رƒ ذ·ذ°ذ؟ر€ذµر‰ذ°ذµر‚رپرڈ رƒرپر‚ذ°ذ½ذ°ذ²ذ»ذ¸ذ²ذ°ر‚رŒ ر‚ذµر€ذ°ذ²ذ°ر‚ر‚ذ½ر‹ذµ ذ»ذ°ذ·ذµر€ر‹ ذ½ذ° ذ½ذµذ±ذ¾ذ»رŒرˆذ¸ذµ ر‚ذ¾ر€ذ³ذ¾ذ²ر‹ذµ رپرƒذ´ذ°. ذ‍رپذ¾ذ±ذµذ½ذ½ذ¾ ذµرپذ»ذ¸ ذ²ر‹ ذ؟ر€رڈر‡ذµر‚ذµ ذ¸ر… ذ؟ذ¾ذ´ ر‡ذµذ¼-ر‚ذ¾, ذ½ذ°ذ؟ذ¾ذ¼ذ¸ذ½ذ°رژر‰ذ¸ذ¼ رپذ؟رƒر‚ذ½ذ¸ذ؛ذ¾ذ²رƒرژ ر‚ذ°ر€ذµذ»ذ؛رƒ رپذ²رڈذ·ذ¸, ذ´ذ»رڈ ذ»رƒر‡رˆذµذ³ذ¾ ذ·ذ°رپذ°ذ´ذ½ذ¾ذ³ذ¾ ذ؟ذ¾ر‚ذµذ½ر†ذ¸ذ°ذ»ذ°. {PAWN_nameDef} {PAWN_gender ? ذ؟ذ¾ذ½ذ¸ذ¼ذ°ذ» : ذ؟ذ¾ذ½ذ¸ذ¼ذ°ذ»ذ°}, ر‡ر‚ذ¾ ذ½ذ° ر‚ذ°ذ؛ذ¾ذ¼ ذ¼ذ¾ذ¶ذ½ذ¾ ذ½ذµذ؟ذ»ذ¾ر…ذ¾ ذ·ذ°ر€ذ°ذ±ذ¾ر‚ذ°ر‚رŒ, ذ¾ذ´ذ½ذ°ذ؛ذ¾ ر‚ذ¾ذ»رŒذ؛ذ¾ ذ·ذ° رپر‡ر‘ر‚ ر‚ذµر…, ذ؛ذ¾ذ³ذ¾ ذ½ذµ رپذ»ذ¸رˆذ؛ذ¾ذ¼ ذ²ذ¾ذ»ذ½رƒرژر‚ ذ؟ذ¾ذ´ذ¾ذ±ذ½ر‹ذµ ذ·ذ°ذ؛ذ¾ذ½ر‹.</IllegalShipwright76.baseDesc>
+  <!-- EN: illegal shipwright -->
+  <IllegalShipwright76.title>ذ½ذµذ»ذµذ³ذ°ذ»رŒذ½ر‹ذ¹ ذ؛ذ¾ر€ذ°ذ±ذµذ»</IllegalShipwright76.title>
+  <!-- EN: shipwright -->
+  <IllegalShipwright76.titleShort>ذ؛ذ¾ر€ذ°ذ±ذµذ»</IllegalShipwright76.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was nine years old when [PAWN_pronoun] got in [PAWN_possessive] first fight. [PAWN_pronoun] won, but more important was the enjoyment of [PAWN_possessive] audience. Pit fighting turned out to be a lucrative career for those who could survive it. And it was even mostly legal. -->
+  <PitBrawler76.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ؟ر€ذ¸ذ½رڈذ» رƒر‡ذ°رپر‚ذ¸ذµ : ذ؟ر€ذ¸ذ½رڈذ»ذ° رƒر‡ذ°رپر‚ذ¸ذµ} ذ² رپذ²ذ¾ر‘ذ¼ ذ؟ذµر€ذ²ذ¾ذ¼ ذ±ذ¾رژ ذ² ذ²ذ¾ذ·ر€ذ°رپر‚ذµ ذ´ذµذ²رڈر‚ذ¸ ذ»ذµر‚. {PAWN_pronoun} {PAWN_gender ? ذ¾ذ´ذµر€ذ¶ذ°ذ» : ذ¾ذ´ذµر€ذ¶ذ°ذ»ذ°} ذ؟ذ¾ذ±ذµذ´رƒ ذ¸, ر‡ر‚ذ¾ ذ³ذ¾ر€ذ°ذ·ذ´ذ¾ ذ²ذ°ذ¶ذ½ذµذµ, {PAWN_gender ? رپر‚ذ°ذ» : رپر‚ذ°ذ»ذ°} ذ»رژذ±ذ¸ذ¼ر†ذµذ¼ ذ؟رƒذ±ذ»ذ¸ذ؛ذ¸. ذڑذ°ر€رŒذµر€ذ° رƒر‡ذ°رپر‚ذ½ذ¸ذ؛ذ° ذ±ذ¾ر‘ذ² ذ½ذ° ذ°ر€ذµذ½ذµ ذ؟ر€ذ¸ذ½ذ¾رپذ¸ر‚ ذ½ذµذ؟ذ»ذ¾ر…ذ¸ذµ ذ´ذµذ½رŒذ³ذ¸ ر‚ذµذ¼, ذ؛ذ¾ذ¼رƒ رƒذ´ذ°ر‘ر‚رپرڈ ذ²ر‹ذ¶ذ¸ذ²ذ°ر‚رŒ. ذ‍ذ½ذ° ذ´ذ°ذ¶ذµ ذ·ذ°ذ؛ذ¾ذ½ذ½ذ°. ذںذ¾ ذ±ذ¾ذ»رŒرˆذµذ¹ ر‡ذ°رپر‚ذ¸.</PitBrawler76.baseDesc>
+  <!-- EN: pit brawler -->
+  <PitBrawler76.title>ذ±ذ¾ذµر† ذ½ذ° ذ°ر€ذµذ½ذµ</PitBrawler76.title>
+  <!-- EN: brawler -->
+  <PitBrawler76.titleShort>ذ³ذ»ذ°ذ´ذ¸ذ°ر‚ذ¾ر€</PitBrawler76.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a warrior in an Imperial navy. [PAWN_possessive] job was to punch into enemy starships, gun down the crew, and capture the ship intact. And [PAWN_pronoun] was good at it. -->
+  <SpaceMarine16.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ±ر‹ذ» : ذ±ر‹ذ»ذ°} ذ±ذ¾ذ¹ر†ذ¾ذ¼ ذ²ذ¾ذµذ½ذ½ذ¾-ذ؛ذ¾رپذ¼ذ¸ر‡ذµرپذ؛ذ¸ر… رپذ¸ذ» ذکذ¼ذ؟ذµر€ذ¸ذ¸. ذ’ {PAWN_possessive} ذ¾ذ±رڈذ·ذ°ذ½ذ½ذ¾رپر‚ذ¸ ذ²ر…ذ¾ذ´ذ¸ذ»ذ¸ ذ°ذ±ذ¾ر€ذ´ذ°ذ¶, رƒذ½ذ¸ر‡ر‚ذ¾ذ¶ذµذ½ذ¸ذµ رچذ؛ذ¸ذ؟ذ°ذ¶ذ° ذ¸ ذ·ذ°ر…ذ²ذ°ر‚ ذ²ر€ذ°ذ¶ذµرپذ؛ذ¸ر… ذ؛ذ¾ر€ذ°ذ±ذ»ذµذ¹ رپ ذ¼ذ¸ذ½ذ¸ذ¼رƒذ¼ذ¾ذ¼ ذ½ذ°ذ½ذ¾رپذ¸ذ¼ر‹ر… ذ؟ذ¾ذ²ر€ذµذ¶ذ´ذµذ½ذ¸ذ¹. ذک رƒ ذ½{PAWN_possessive} رچر‚ذ¾ ذ¾ر‚ذ»ذ¸ر‡ذ½ذ¾ ذ؟ذ¾ذ»رƒر‡ذ°ذ»ذ¾رپرŒ.</SpaceMarine16.baseDesc>
+  <!-- EN: space marine -->
+  <SpaceMarine16.title>ذ؛ذ¾رپذ¼ذ¾ذ´ذµرپذ°ذ½ر‚ذ½ذ¸ذ؛</SpaceMarine16.title>
+  <SpaceMarine16.titleFemale>ذ؛ذ¾رپذ¼ذ¾ذ´ذµرپذ°ذ½ر‚ذ½ذ¸ر†ذ°</SpaceMarine16.titleFemale>
+  <!-- EN: marine -->
+  <SpaceMarine16.titleShort>ذ´ذµرپذ°ذ½ر‚ذ½ذ¸ذ؛</SpaceMarine16.titleShort>
+  <SpaceMarine16.titleShortFemale>ذ´ذµرپذ°ذ½ر‚ذ½ذ¸ر†ذ°</SpaceMarine16.titleShortFemale>
+  
+  <!-- EN: Piracy appears everywhere that governments are weak and society spread thin. [PAWN_nameDef] was part of this age-old part of human existence, extorting and smashing peaceful trade ships for profit. -->
+  <SpacePirate55.baseDesc>ذںذ¸ر€ذ°ر‚رپر‚ذ²ذ¾ ذ؟ذ¾رڈذ²ذ»رڈذµر‚رپرڈ ذ²ذµذ·ذ´ذµ, ذ³ذ´ذµ ذ؟ر€ذ°ذ²ذ¸ر‚ذµذ»رŒرپر‚ذ²ذ° رپذ»ذ°ذ±ر‹, ذ° ذ½ذ°رپذµذ»ذµذ½ذ¸ذµ ر€ذ°ذ·ذ¾ذ±ر‰ذµذ½ذ¾. {PAWN_nameDef} {PAWN_gender ? ذ±ر‹ذ» : ذ±ر‹ذ»ذ°} ر‡ذ°رپر‚رŒرژ رچر‚ذ¾ذ³ذ¾ رڈذ²ذ»ذµذ½ذ¸رڈ رپ ذ±ذ¾ذ»رŒرˆذ¸ذ¼ ذ؟ر€ذ¾رˆذ»ر‹ذ¼ ذ² ر‡ذµذ»ذ¾ذ²ذµر‡ذµرپذ؛ذ¾ذ¹ ذ¸رپر‚ذ¾ر€ذ¸ذ¸, ذ·ذ°ذ½ذ¸ذ¼ذ°رڈرپرŒ ذ²ر‹ذ¼ذ¾ذ³ذ°ر‚ذµذ»رŒرپر‚ذ²ذ¾ذ¼ ذ¸ ذ³ر€ذ°ذ±ذµذ¶ذ¾ذ¼ ذ¼ذ¸ر€ذ½ر‹ر… ر‚ذ¾ر€ذ³ذ¾ذ²ر‹ر… ذ؛ذ¾ر€ذ°ذ±ذ»ذµذ¹ ر€ذ°ذ´ذ¸ ذ؟ذ¾ذ»رƒر‡ذµذ½ذ¸رڈ ذ؟ر€ذ¸ذ±ر‹ذ»ذ¸.</SpacePirate55.baseDesc>
+  <!-- EN: space pirate -->
+  <SpacePirate55.title>ذ؛ذ¾رپذ¼ذ¸ر‡ذµرپذ؛ذ¸ذ¹ ذ؟ذ¸ر€ذ°ر‚</SpacePirate55.title>
+  <!-- EN: pirate -->
+  <SpacePirate55.titleShort>ذ؟ذ¸ر€ذ°ر‚</SpacePirate55.titleShort>
+  <SpacePirate55.titleShortFemale>ذ؟ذ¸ر€ذ°ر‚ذ؛ذ°</SpacePirate55.titleShortFemale>
+  
+</LanguageData>
