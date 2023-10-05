@@ -1,0 +1,227 @@
+<LanguageData>
+  
+  
+  <Bullet_AssaultRifle.label>ﺔﻴﻟﺁ ﺔﻴﻗﺪﻨﺑ ﻦﻣ ﺔﺻﺎﺻﺭ</Bullet_AssaultRifle.label>
+  
+  
+  <Bullet_Autopistol.label>ﺱﺪﺴﻣ ﻦﻣ ﺔﺻﺎﺻﺮﻟﺍ</Bullet_Autopistol.label>
+  
+  
+  <Bullet_BoltActionRifle.label>.ﺔﻴﻗﺪﻨﺑ ﻦﻣ ﺔﺻﺎﺻﺭ</Bullet_BoltActionRifle.label>
+  
+  
+  <Bullet_EMPLauncher.label>ﻲﻤﻳﺇ ﺔﻧﺍﻮﻄﺳﺍ</Bullet_EMPLauncher.label>
+  
+  
+  <Bullet_HeavySMG.label>ﺔﺷﺎﺷﺭ ﺔﻴﻗﺪﻨﺑ ﻦﻣ ﺔﺻﺎﺻﺭ</Bullet_HeavySMG.label>
+  
+  
+  <Bullet_IncendiaryLauncher.label>ﺔﻴﻟﺎﻌﺘﺷﻻﺍ ﺔﻔﻳﺬﻘﻟﺍ</Bullet_IncendiaryLauncher.label>
+  
+  
+  <Bullet_LMG.label>ﻱﻭﺪﻳ ﺵﺎﺷﺭ ﻦﻣ ﺔﺻﺎﺻﺭ</Bullet_LMG.label>
+  
+  
+  <Bullet_MachinePistol.label>ﻲﻟﺁ ﺱﺪﺴﻣ ﻦﻣ ﺔﺻﺎﺻﺭ</Bullet_MachinePistol.label>
+  
+  
+  <Bullet_Minigun.label>ﻥﺎﺠﻴﻨﻴﻣ ﻦﻣ ﺔﺻﺎﺻﺭ</Bullet_Minigun.label>
+  
+  
+  <Bullet_Revolver.label>ﺯﺍﺰﻬﻟﺍ ﺱﺪﺴﻣ ﻦﻣ ﺔﺻﺎﺻﺭ</Bullet_Revolver.label>
+  
+  
+  <Bullet_Shotgun.label>ﺕﺎﻘﻠﻄﻟﺍ</Bullet_Shotgun.label>
+  
+  
+  <Bullet_SmokeLauncher.label>ﺔﻴﻧﺎﺧﺪﻟﺍ ﺔﻠﺒﻨﻘﻟﺍ</Bullet_SmokeLauncher.label>
+  
+  
+  <Bullet_SniperRifle.label>ﺺﻨﻗ ﺔﻴﻗﺪﻨﺑ ﻦﻣ ﺔﺻﺎﺻﺭ</Bullet_SniperRifle.label>
+  
+  
+  <Gun_AssaultRifle.label>ﺔﻟﺁ</Gun_AssaultRifle.label>
+  
+  <Gun_AssaultRifle.description>ﺕﺎﺌﻴﺒﻟﺍﻭ ﻝﻮﻘﺤﻟﺍ ﻲﻓ ﻡﺍﺪﺨﺘﺳﻼﻟ ﻡﺎﻋ ﻝﺎﺘﻗ ﺡﻼﺳ
+،ﺔﺷﺭ ﻞﻛ ﻲﻓ ﺕﺎﻘﻠﻃ ﺙﻼﺛ ﻖﻠﻄﻳ .ﺔﻳﺮﻀﺤﻟﺍ
+.ﺔﻴﻟﺎﻋ ﺐﻳﻮﺼﺗ ﺔﻗﺩﻭ ﻕﺎﻄﻧﻭ ﺪﻴﺟ ﺭﺮﺿ ﻪﻳﺪﻟﻭ</Gun_AssaultRifle.description>
+  
+  <Gun_AssaultRifle.tools.stock.label>ﻖﻴﺒﻄﺗ</Gun_AssaultRifle.tools.stock.label>
+  
+  <Gun_AssaultRifle.tools.barrel.label>ﺡﻼﺳ</Gun_AssaultRifle.tools.barrel.label>
+  
+  <Gun_AssaultRifle.verbs.Verb_Shoot.label>ﻲﻟﺁ ﺱﺪﺴﻣ</Gun_AssaultRifle.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_Autopistol.label>ﺱﺪﺴﻣ</Gun_Autopistol.label>
+  
+  <Gun_Autopistol.description>ﺎﻫﺍﺪﻣﻭ ﺎﻬﺑﺮﺿ ﺓﻮﻗ .ﺔﻴﻟﺁ ﺕﺎﻘﻠﻃ ﺕﺍﺫ ﺱﺪﺴﻣ
+.ﺔﻴﻟﺎﻌﻟﺍ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﺔﻋﺮﺴﺑ ﻥﺎﺿﻮﻌﺘﻳ ﻦﻳﺮﻴﺼﻘﻟﺍ</Gun_Autopistol.description>
+  
+  <Gun_Autopistol.tools.grip.label>ﺾﺒﻘﻤﻟﺍ</Gun_Autopistol.tools.grip.label>
+  
+  <Gun_Autopistol.tools.barrel.label>ﺡﻼﺴﻟﺍ</Gun_Autopistol.tools.barrel.label>
+  
+  <Gun_Autopistol.verbs.Verb_Shoot.label>ﺱﺪﺴﻣ</Gun_Autopistol.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_BoltActionRifle.label>ﺔﻴﻗﺪﻨﺑ</Gun_BoltActionRifle.label>
+  
+  <Gun_BoltActionRifle.description>ﺪﻴﺟ ﻯﺪﻣ ﺎﻬﻳﺪﻟ .ﺔﻛﺮﺤﺘﻣ ﺓﺮﺧﺆﻣ ﺕﺍﺫ ﺔﻴﻗﺪﻨﺑ
+ﺭﺎﻧ ﻕﻼﻃﺇ ﻝﺪﻌﻤﺑ ﻦﻜﻟﻭ ﺔﻴﻟﺎﻋ ﺔﻴﻟﺎﺘﻗ ﺓﻮﻗﻭ
+ﺚﻴﺣ ﺔﻴﻗﺪﻨﺒﻟﺍ ﻩﺬﻫ ﻥﻮﻠﻀﻔﻳ ﻥﻭﺮﻫﺎﻤﻟﺍ ﻥﻭﺩﺎﻴﺼﻟﺍ .ﺾﻔﺨﻨﻣ
+ﺕﺎﺻﺎﺻﺮﻟﺍ ﺐﺒﺴﺑ ﻡﻮﺠﻬﻠﻟ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺯﺍﺰﻔﺘﺳﺍ ﻝﺎﻤﺘﺣﺍ ﻞﻘﻳ
+.ﺎﻬﻨﻣ ﻖﻠﻄﺗ ﻲﺘﻟﺍ ﺔﻠﺗﺎﻘﻟﺍ</Gun_BoltActionRifle.description>
+  
+  <Gun_BoltActionRifle.tools.stock.label>ﺡﻼﺳ</Gun_BoltActionRifle.tools.stock.label>
+  
+  <Gun_BoltActionRifle.tools.barrel.label>ﻖﺒﻃ</Gun_BoltActionRifle.tools.barrel.label>
+  
+  <Gun_BoltActionRifle.verbs.Verb_Shoot.label>ﺔﻴﻗﺪﻨﺑ</Gun_BoltActionRifle.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_ChainShotgun.label>ﺔﻴﻟﺁ ﺔﻴﻗﺪﻨﺑ</Gun_ChainShotgun.label>
+  
+  <Gun_ChainShotgun.description>ﺔﻗﺩﻭ ﻯﺪﻤﺑ ﺰﻴﻤﺘﺗ .ﺓﺮﻴﺧﺫ ﺔﻨﺤﺸﺑ ﺔﻴﻟﺁ ﺔﻴﻗﺪﻨﺑ
+ﺡﻼﺳ ﻲﻬﻓ ،ﻚﻟﺫ ﻊﻣﻭ ،ﻕﻼﻃﻹﺍ ﻲﻓ ﺔﻀﻔﺨﻨﻣ
+.ﺔﻳﺎﻐﻠﻟ ﺮﻴﻄﺧ</Gun_ChainShotgun.description>
+  
+  <Gun_ChainShotgun.tools.stock.label>ﻖﻴﺒﻄﺗ</Gun_ChainShotgun.tools.stock.label>
+  
+  <Gun_ChainShotgun.tools.barrel.label>ﺔﻴﻗﺪﻨﺒﻟﺍ ﺓﺭﻮﺳﺎﻣ</Gun_ChainShotgun.tools.barrel.label>
+  
+  <Gun_ChainShotgun.verbs.Verb_Shoot.label>ﺔﻴﻟﺁ ﺔﻴﻗﺪﻨﺑ</Gun_ChainShotgun.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_EmpLauncher.label>ﻲﺴﻴﻃﺎﻨﻐﻣﻭﺮﺘﻜﻟﺇ ﻞﺑﺎﻨﻗ ﻊﻓﺪﻣ</Gun_EmpLauncher.label>
+  
+  <Gun_EmpLauncher.description>ﺪﻨﻋ .ﺮﻴﺒﻜﻟﺍ ﺭﺎﻴﻌﻟﺍ ﻭﺫ ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻜﻟﺍ ﻒﺋﺍﺬﻘﻟﺍ ﻊﻓﺍﺪﻣ
+ﻒﻗﻮﺗ ﺔﻳﻮﻗ ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﺔﻀﺒﻧ ﺔﻔﻳﺬﻘﻟﺍ ﻖﻠﻄﻳ ،ﺔﺑﺎﺻﻻﺍ
+ﻞﻄﻌﺗﻭ ﺔﻴﺧﻭﺭﺎﺼﻟﺍ ﻊﻓﺍﺪﻤﻟﺍ ،ﻊﻓﺍﺪﻤﻟﺍ ،ﺕﺎﺗﻮﺑﻭﺮﻟﺍ :ﺔﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﻑﺍﺪﻫﻷﺍ
+.ﻞﻤﻌﻟﺍ ﻕﺎﻄﻧ ﻲﻓ ﻉﻭﺭﺪﻟﺍ</Gun_EmpLauncher.description>
+  
+  <Gun_EmpLauncher.tools.stock.label>ﺔﺒﻌﻠﺑ ﺔﺻﺎﺨﻟﺍ ﺔﺛﺩﺎﺤﻤﻟﺍ ﺺﻨﺑ ﻱﺪﻳﻭﺰﺗ ﻰﺟﺮﻳ ،ﺍﺭﺬﻋ
+.ﺔﻴﺑﺮﻌﻟﺍ ﻰﻟﺇ ﺎﻬﺘﻤﺟﺮﺗ ﻦﻣ ﻦﻜﻤﺘﺘﻟ RimWorld</Gun_EmpLauncher.tools.stock.label>
+  
+  <Gun_EmpLauncher.tools.barrel.label>ﻕﺪﻨﺒﻟﺍ ﻞﻴﻣﺮﺑ</Gun_EmpLauncher.tools.barrel.label>
+  
+  <Gun_EmpLauncher.verbs.Verb_Shoot.label>ﺕﺎﻴﻧﻭﺮﺘﻜﻟﻹﺍ ﻒﺋﺍﺬﻗ ﻊﻓﺪﻣ</Gun_EmpLauncher.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_HeavySMG.label>ﻲﻟﺁ ﺱﺪﺴﻣ</Gun_HeavySMG.label>
+  
+  <Gun_HeavySMG.description>ﺓﻮﻗﻭ ﺮﻴﺼﻗ ﻯﺪﻣ ﻪﻟ .ﺞﻣﺪﻣ ﻲﻟﺁ ﺡﻼﺳ
+.ﻡﺍﺪﺨﺘﺳﻻﺍ ﻲﻓ ﺔﻟﻮﻬﺳﻭ ﺔﻴﻟﺎﻋ ﻕﺍﺮﺘﺧﺇ</Gun_HeavySMG.description>
+  
+  <Gun_HeavySMG.tools.grip.label>ﺰﻣﺭ</Gun_HeavySMG.tools.grip.label>
+  
+  <Gun_HeavySMG.tools.barrel.label>ﻉﺬﺟ</Gun_HeavySMG.tools.barrel.label>
+  
+  <Gun_HeavySMG.verbs.Verb_Shoot.label>ﺵﺎﺷﺭ ﺱﺪﺴﻣ</Gun_HeavySMG.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_IncendiaryLauncher.label>ﺙﺎﻔﻨﻟﺍ ﺐﻬﻠﻟﺍ</Gun_IncendiaryLauncher.label>
+  
+  <Gun_IncendiaryLauncher.description>ﺪﻨﻋ .ﻝﺎﻌﺘﺷﻼﻟ ﺔﻠﺑﺎﻗ ﻒﺋﺍﺬﻗ ﻖﻠﻄﺗ ﻕﻼﻃﺇ ﺔﺼﻨﻣ
+ﺓﺭﺍﺮﺤﻟﺍ ﻲﻟﺎﻋ ﺍﺭﺎﺠﻔﻧﺍ ﺙﺪﺤﺗ ،ﺢﻄﺴﻟﺎﺑ ﺔﻔﻳﺬﻘﻟﺍ ﻡﺍﺪﻄﺻﺍ
+.ﺎﻘﻳﺮﺣ ﺐﺒﺴﻳ</Gun_IncendiaryLauncher.description>
+  
+  <Gun_IncendiaryLauncher.tools.stock.label>ﻲﺟﻮﻟ</Gun_IncendiaryLauncher.tools.stock.label>
+  
+  <Gun_IncendiaryLauncher.tools.barrel.label>ﻕﺪﻨﺒﻟﺍ ﻞﻴﻣﺮﺑ</Gun_IncendiaryLauncher.tools.barrel.label>
+  
+  <Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>.ﻊﻳﺮﺳ ﺐﻬﻟ ﺵﺎﺷﺭ</Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_LMG.label>ﻱﻭﺪﻳ ﺵﺎﺷﺭ</Gun_LMG.label>
+  
+  <Gun_LMG.description>ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻞﻴﻐﺸﺗ ﻢﺘﻳ .ﻒﻴﻔﺧ ﻱﻭﺪﻳ ﺵﺎﺷﺭ
+ﻰﻠﻋ .ﺩﻭﺭﺎﺒﻟﺍ ﺕﺍﺯﺎﻏ ﻪﻴﺟﻮﺗ ﻖﻳﺮﻃ ﻦﻋ ﺎﻴﺋﺎﻘﻠﺗ
+، ﺔﻀﻔﺨﻨﻤﻟﺍ ﻪﺘﻗﺩﻭ ﺮﻴﺒﻜﻟﺍ ﻪﻤﺠﺣ ﻦﻣ ﻢﻏﺮﻟﺍ
+ﻑﺍﺪﻫﻷﺍ ﺪﺿ ﺍﺪﺟ ﻝﺎﻌﻓ ﺡﻼﺴﻟﺍ ﺍﺬﻫ ﻥﺈﻓ
+.ﺔﻴﻋﺎﻤﺠﻟﺍ</Gun_LMG.description>
+  
+  <Gun_LMG.tools.stock.label>ﻖﻴﺒﻄﺗ</Gun_LMG.tools.stock.label>
+  
+  <Gun_LMG.tools.barrel.label>ﺔﻴﻗﺪﻨﺑ</Gun_LMG.tools.barrel.label>
+  
+  <Gun_LMG.verbs.Verb_Shoot.label>ﻱﻭﺪﻳ ﺵﺎﺷﺭ</Gun_LMG.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_MachinePistol.label>ﻲﻟﺁ ﺱﺪﺴﻣ</Gun_MachinePistol.label>
+  
+  <Gun_MachinePistol.description>ﻯﺪﻣ ﻪﻟ .ﺓﺮﻤﺘﺴﻣ ﺕﺎﻘﻠﻃ ﻕﻼﻃﺇ ﺔﻴﻧﺎﻜﻣﺈﺑ ﺱﺪﺴﻣ
+.ﻊﻳﺮﺳ ﻕﻼﻃﺇ ﻝﺪﻌﻣﻭ ﺔﻴﻟﺎﻋ ﺮﻴﻣﺪﺗ ﺓﻮﻗﻭ ﺮﻴﺼﻗ
+ﺢﺘﻓﻭ ﻊﻳﺮﺴﻟﺍ ﺐﻳﻮﺼﺘﻟﺎﺑ ﺢﻤﺴﻳ ﺮﻴﻐﺻ ﻢﺠﺣﻭ ﻥﺯﻭ
+.ﺭﺎﻨﻟﺍ</Gun_MachinePistol.description>
+  
+  <Gun_MachinePistol.tools.grip.label>ﺾﺒﻘﻤﻟﺍ</Gun_MachinePistol.tools.grip.label>
+  
+  <Gun_MachinePistol.tools.barrel.label>ﺡﻼﺳ</Gun_MachinePistol.tools.barrel.label>
+  
+  <Gun_MachinePistol.verbs.Verb_Shoot.label>ﻲﻟﺁ ﺱﺪﺴﻣ</Gun_MachinePistol.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_Minigun.label>ﻥﺎﺠﻴﻨﻴﻣ</Gun_Minigun.label>
+  
+  <Gun_Minigun.description>ﻲﻓ ﺢﻳﺮﻣ ﺮﻴﻏ .ﺕﺎﻧﺍﻮﻄﺳﻷﺍ ﺩﺪﻌﺘﻣ ﺵﺎﺷﺭ ﻊﻓﺪﻣ
+.ﺔﻴﺋﺎﻨﺜﺘﺳﺍ ﺭﺎﻧ ﻕﻼﻃﺇ ﺔﻋﺮﺴﺑ ﻊﺘﻤﺘﻳ ﻪﻨﻜﻟ ،ﻞﻣﺎﻌﺘﻟﺍ
+ﻕﻼﻃﻻﺍ ﺕﺍﺫ ﺔﺤﻠﺳﻷﺍ ﻉﺍﻮﻧﺃ ﻢﻈﻌﻣ ﻡﺪﺨﺘﺴﻳ ﺎﻤﻨﻴﺑ
+ﻥﺎﺠﻴﻨﻴﻤﻟﺍ ﺰﻴﻬﺠﺗ ﻢﺘﻳ ،ﺓﺮﺠﻔﺘﻤﻟﺍ ﺕﺍﺯﺎﻐﻟﺍ ﺔﻗﺎﻃ ﻲﺋﺎﻘﻠﺘﻟﺍ
+ﻡﻮﻘﻳﻭ ﺕﺎﻧﺍﻮﻄﺳﻷﺍ ﺔﻋﻮﻤﺠﻣ ﺭﻭﺪﻳ ﺹﺎﺧ ﻲﺋﺎﺑﺮﻬﻛ ﻙﺮﺤﻤﺑ
+.ﻦﺤﺸﻟﺍ ﺔﻴﻠﻤﻌﺑ</Gun_Minigun.description>
+  
+  <Gun_Minigun.tools.barrels.label>ﻉﺮﻓﻷﺍ</Gun_Minigun.tools.barrels.label>
+  
+  <Gun_Minigun.verbs.Verb_Shoot.label>ﻥﺎﺠﻴﻨﻴﻣ</Gun_Minigun.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_PumpShotgun.label>ﺔﻴﻗﺪﻨﺒﻟﺍ ﺡﻼﺳ</Gun_PumpShotgun.label>
+  
+  <Gun_PumpShotgun.description>.ﺔﺒﻳﺮﻗ ﺕﺎﻓﺎﺴﻣ ﻰﻠﻋ ﺔﻛﺎﺘﻓ .ﺥﺎﺨﺒﻟﺍ ﺔﻴﻗﺪﻨﺑ</Gun_PumpShotgun.description>
+  
+  <Gun_PumpShotgun.tools.stock.label>ﻖﻴﺒﻄﺗ</Gun_PumpShotgun.tools.stock.label>
+  
+  <Gun_PumpShotgun.tools.barrel.label>ﺔﻴﻗﺎﺳ</Gun_PumpShotgun.tools.barrel.label>
+  
+  <Gun_PumpShotgun.verbs.Verb_Shoot.label>ﺺﻨﻗ ﺔﻴﻗﺪﻨﺑ</Gun_PumpShotgun.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_Revolver.label>ﺱﺪﺴﻣ</Gun_Revolver.label>
+  
+  <Gun_Revolver.description>ﺓﺪﻴﺟ ﻕﻼﻃﺇ ﺔﻋﺮﺳ ﺕﺍﺫ ﺦﻔﻧ ﺕﺍﺫ ﺱﺪﺴﻣ
+.ﻂﺳﻮﺘﻣ ﺐﻳﻮﺼﺗ ﻯﺪﻣﻭ ﺓﺮﻴﻐﺻ ﺔﻴﻟﺎﺘﻗ ﺓﻮﻗﻭ</Gun_Revolver.description>
+  
+  <Gun_Revolver.tools.grip.label>ﺡﻼﺴﻟﺍ ﺾﺒﻘﻣ</Gun_Revolver.tools.grip.label>
+  
+  <Gun_Revolver.tools.barrel.label>ﺔﻴﻗﺪﻨﺑ</Gun_Revolver.tools.barrel.label>
+  
+  <Gun_Revolver.verbs.Verb_Shoot.label>ﺓﺪﺣﺍﻮﻟﺍ ﺓﺭﻮﺳﺎﻤﻟﺍ ﻭﺫ ﺱﺪﺴﻣ</Gun_Revolver.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_SmokeLauncher.label>ﺔﻴﻧﺎﺧﺩ ﺔﺑﺎﺑﺭﺩ</Gun_SmokeLauncher.label>
+  
+  <Gun_SmokeLauncher.description>ﺪﻨﻋ .ﺔﻴﻧﺎﺧﺩ ﻒﺋﺍﺬﻗ ﻖﻠﻄﺗ ﺔﻠﻴﻘﺛ ﻞﺑﺎﻨﻗ ﺔﻓﺫﺎﻗ
+ﻲﻔﺨﺗ ﻥﺎﺧﺪﻟﺍ ﻦﻣ ﺔﻔﻴﺜﻛ ﺔﺑﺎﺤﺳ ﺭﺪﺼﺗ ،ﻡﺍﺪﻄﺻﻻﺍ
+.ﻊﻓﺍﺪﻤﻟﺍ ﻑﺍﺪﻬﺘﺳﺍ ﻕﻮﻌﺗﻭ ﻑﺍﺪﻫﻷﺍ</Gun_SmokeLauncher.description>
+  
+  <Gun_SmokeLauncher.tools.stock.label>ﻖﻴﺒﻄﺗ</Gun_SmokeLauncher.tools.stock.label>
+  
+  <Gun_SmokeLauncher.tools.barrel.label>ﺔﺤﺳﺎﻤﻟﺍ</Gun_SmokeLauncher.tools.barrel.label>
+  
+  <Gun_SmokeLauncher.verbs.Verb_Shoot.label>ﻲﻧﺎﺧﺪﻟﺍ ﻑﺫﺎﻘﻟﺍ</Gun_SmokeLauncher.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_SniperRifle.label>ﺺﻨﻗ ﺔﻴﻗﺪﻨﺑ</Gun_SniperRifle.label>
+  
+  <Gun_SniperRifle.description>ﺔﺑﺮﺿ ﻕﺎﻄﻨﺑ ﺰﻴﻤﺘﺗ .ﻲﻛﺮﺒﻧﺯ ﻢﻴﻤﺼﺘﺑ ﺔﺻﺎﻨﻗ ﺔﻴﻗﺪﻨﺑ
+.ﻞﺘﻘﻟﺍ ﻲﻓ ﺓﺮﻴﺒﻛ ﺓﻮﻗﻭ ﺔﻠﻫﺬﻣ ﺔﻗﺩﻭ ﺮﻴﺒﻛ
+.ﺐﻳﺮﻘﻟﺍ ﻝﺎﺘﻘﻠﻟ ﺔﺒﺳﺎﻨﻣ ﺮﻴﻏ</Gun_SniperRifle.description>
+  
+  <Gun_SniperRifle.tools.stock.label>ﻖﻴﺒﻄﺗ</Gun_SniperRifle.tools.stock.label>
+  
+  <Gun_SniperRifle.tools.barrel.label>ﺡﻼﺴﻟﺍ ﻒﺼﻧ</Gun_SniperRifle.tools.barrel.label>
+  
+  <Gun_SniperRifle.verbs.Verb_Shoot.label>ﺺﻨﻗ ﺔﻴﻗﺪﻨﺑ</Gun_SniperRifle.verbs.Verb_Shoot.label>
+  
+</LanguageData>
