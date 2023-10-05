@@ -1,0 +1,301 @@
+<LanguageData>
+  
+  
+  
+  <BotchedMySurgery.stages.botched_my_surgery.label>.ﺔﺌﻴﺳ ﺔﻴﺣﺍﺮﺟ ﺔﻴﻠﻤﻋ ﻲﻟ ﺖﻳﺮﺟﺃ</BotchedMySurgery.stages.botched_my_surgery.label>
+  <BotchedMySurgery.stages.botched_my_surgery.labelSocial>ﺔﺌﻴﺳ ﺔﻴﻠﻤﻋ { : ? OTHERPAWN_gender} ﻯﺮﺟﺃ
+ﻲﻟ</BotchedMySurgery.stages.botched_my_surgery.labelSocial>
+  
+  
+  
+  <BrokeUpWithMe.stages.broke_up_with_me.label>ﻲﻨﻛﺮﺗﺃ</BrokeUpWithMe.stages.broke_up_with_me.label>
+  <BrokeUpWithMe.stages.broke_up_with_me.labelSocial>{1_gender ? ﻲﻧﺎﻣﺭ : ﻲﻧﺎﻣﺭ}</BrokeUpWithMe.stages.broke_up_with_me.labelSocial>
+  
+  
+  
+  <BrokeUpWithMeMood.stages.broken_up_with_by.label>ﻰﻣﺭ - {1} {0}</BrokeUpWithMeMood.stages.broken_up_with_by.label>
+  
+  <BrokeUpWithMeMood.stages.broken_up_with_by.description>ﺀﻲﺸﻛ {ﻲﻫ : ﻮﻫﺎﻳ ? OTHERPAWN_gender} ﻲﻧﺎﻘﻟﺃ
+!ﻪﻴﻓ ﺏﻮﻏﺮﻣ ﺮﻴﻏ</BrokeUpWithMeMood.stages.broken_up_with_by.description>
+  
+  
+  
+  <CheatedOnMe.stages.cheated_on_me.label>.ﻲﻟ ﺕﺮﻴﻏ</CheatedOnMe.stages.cheated_on_me.label>
+  <CheatedOnMe.stages.cheated_on_me.labelSocial>{ﻲﻟ : ﻲﻟ ? OTHERPAWN_gender} ﺮﻴﻏ</CheatedOnMe.stages.cheated_on_me.labelSocial>
+  
+  
+  
+  <CheatedOnMeMood.stages.cheated_on_by.label>{0} {1_gender ? ﺕﺮﻴﻐﺗ : ﺮﻴﻐﺗ}</CheatedOnMeMood.stages.cheated_on_by.label>
+  
+  <CheatedOnMeMood.stages.cheated_on_by.description>ﺮﻴﻐﺘﻳ ﻥﺃ ﻂﻘﻓ {OTHERPAWN_pronoun} ـﻟ ﻦﻜﻤﻳ ﻒﻴﻛ
+!ﻲﻟ</CheatedOnMeMood.stages.cheated_on_by.description>
+  
+  
+  
+  <Chitchat.stages.chitchat.label>ﺎﻨﺛﺪﺤﺗ</Chitchat.stages.chitchat.label>
+  
+  
+  
+  <CrashedTogether.stages.crashed_together.label>.ﺎﻌﻣ ﺎﻨﻤﻄﺤﺗ</CrashedTogether.stages.crashed_together.label>
+  
+  
+  
+  <DeepTalk.stages.deep_talk.label>ﺔﻳﺪﺠﺑ ﺎﻨﺛﺪﺤﺗ</DeepTalk.stages.deep_talk.label>
+  
+  
+  
+  <DivorcedMe.stages.divorced_me.label>ﻲﻨﻋ ﺖﻠﺼﻔﻧﺍ</DivorcedMe.stages.divorced_me.label>
+  <DivorcedMe.stages.divorced_me.labelSocial>ﻢﺗ: ﻲﻨﻋ ﻝﺎﺼﻔﻧﻻﺍ ﻢﺗ ? OTHERPAWN_gender} ﻮﻫ
+{ﻲﻨﻋ ﻝﺎﺼﻔﻧﻻﺍ</DivorcedMe.stages.divorced_me.labelSocial>
+  
+  
+  
+  <DivorcedMeMood.stages.divorced_by.label>{0} {1_gender ? ﺖﻠﺼﻔﻧﺍ : ﻞﺼﻔﻧﺍ}</DivorcedMeMood.stages.divorced_by.label>
+  
+  <DivorcedMeMood.stages.divorced_by.description>،ﺔﻟﺩﺎﺒﺘﻣ ﺕﺎﻣﺍﺰﺘﻟﺍ ﺾﻌﺑ ﺎﻨﻘﺗﺎﻋ ﻰﻠﻋ ﺎﻧﺬﺧﺃ ﺪﻘﻟ
+{ﺖﻌﻄﻗ : ﻊﻄﻗ ? OTHERPAWN_gender} ﻂﻘﻓ {OTHERPAWN_pronoun}ﻭ
+!ﻲﻌﻣ ﺔﻗﻼﻌﻟﺍ</DivorcedMeMood.stages.divorced_by.description>
+  
+  
+  
+  <FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>ﻲﻨﺠﻋﺰﻳ ﻥﺎﻛ</FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>
+  <FailedRomanceAttemptOnMe.stages.failed_to_romance_me.labelSocial>{OTHERPAWN_gender ? ﻲﻨﻣ ﺏﺮﻘﺗ : ﻲﻨﻣ ﺏﺮﻘﺗ}</FailedRomanceAttemptOnMe.stages.failed_to_romance_me.labelSocial>
+  
+  
+  
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>.{ﻲﻫ :ﻮﻫ? gender_1} ﻖﺣﻼﻳ ﻥﺎﻛ {0}</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>
+  
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>.ﺖﻀﻓﺭ ﺎﻌﺒﻃ .ﻲﻨﻣ ﺏﺮﻘﺘﻟﺍ {OTHERPAWN_nameDef} ﻝﻭﺎﺤﻳ ﺡﺍﺭ</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>
+  
+  
+  
+  <ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>ﺕﺍﺭﺪﺨﻤﻟﺎﺑ ﻲﻨﻨﻘﺣ</ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>
+  <ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.labelSocial>{1_gender ? ﺕﺍﺭﺪﺨﻣ {ﻲﻨﺘﻄﻋﺃ : ﻲﻧﺎﻄﻋﺃ</ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.labelSocial>
+  
+  
+  
+  <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>? gender_1} ﻲﻓ ﺕﺍﺭﺪﺨﻤﻟﺍ ﻝﺎﺧﺩﺇ ﻢﺗ {0}
+.{ﺎﻫﺪﺴﺟ : ﻩﺪﺴﺟ</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>
+  
+  <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>.ﺎﻬﻟﻭﺎﻨﺘﻟ ﻲﻧﻭﺮﻄﺿﺍ ﻢﻬﻨﻜﻟ !ﺕﺍﺭﺪﺨﻤﻠﻟ ﺽﺭﺎﻌﻣﻭ ﻊﻨﺘﻤﻣ ﺎﻧﺃ
+...ﺔﻧﺎﻫﺍ ﻲﻨﻧﺄﻛ ﻲﺘﻠﻣﺎﻌﻣ ﺀﻲﺴﺗ ﺪﻗ</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>
+  
+  
+  
+  <ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>ﺮﻴﻔﻴﺳﻮﻠﻟﺎﺑ ﻲﻨﺘﺨﻔﻧ</ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>
+  <ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.labelSocial>{OTHERPAWN_gender ? ﻢﻳﺮﻴﻔﻴﺳﻮﻟ ﺏ {ﻼﺸﻜﻧ : ﻞﺸﻜﻧ</ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.labelSocial>
+  
+  
+  
+  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>{0} {1_gender ? ﻡﻮﻳﺮﻴﻔﻴﺳﻮﻠﻟﺍ {ﺖﻣﺪﺨﺘﺳﺍ : ﻡﺪﺨﺘﺳﺍ</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>
+  
+  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>ﻢﺗ ﻦﻜﻟﻭ !ﻱﺪﺴﺠﻟ ﻒﻴﺨﺴﻟﺍ ﻡﺍﺪﺨﺘﺳﻻﺍ ﻞﺒﻗﺃ ﻻ
+ﻥﻵﺍﻭ ﻥﻮﻌﻠﻤﻟﺍ ﺮﻔﻴﺳﻮﻠﻟﺍ ﺍﺬﻫ ﻝﻭﺎﻨﺗ ﻰﻠﻋ ﻱﺭﺎﺒﺟﺇ
+ﺪﻘﻟ .ﻲﺗﺎﻴﺣ ﺔﻳﺎﻬﻧ ﻰﺘﺣ ﻪﺑ ﺎﻘﻠﻌﺘﻣ ﻥﻮﻛﺄﺳ
+!؟ﻚﻟﺫ ﺍﺫﺎﻤﻟ !ﺎﻴﻓﺮﺣ ﻲﺑ ﺀﺍﺰﻬﺘﺳﻻﺍ ﻢﺗ</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>
+  
+  
+  
+  <GotSomeLovin.stages.got_some_lovin.label>ﺏﺮﻘﻟﺍ</GotSomeLovin.stages.got_some_lovin.label>
+  
+  <GotSomeLovin.stages.got_some_lovin.description>ﺖﺤﺗ ﺀﺎﻘﻠﺘﺳﻻﺍ ﻦﻣ ﻞﻀﻓﺃ ﺀﻲﺷ ﺪﺟﻮﻳ ﻻ
+.ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺔﺣﺍﺮﻟﺎﺑ ﻉﺎﺘﻤﺘﺳﻻﺍﻭ ﺔﻴﻧﺎﻄﺒﻟﺍ</GotSomeLovin.stages.got_some_lovin.description>
+  
+  
+  
+  <HadAngeringFight.stages.angering_fight.label>ﻲﻟ ﺥﺭﺎﺻ</HadAngeringFight.stages.angering_fight.label>
+  <HadAngeringFight.stages.angering_fight.labelSocial>{OTHERPAWN_gender ? ﻲﻌﻣ {ﺖﻋﺭﺎﺻ : ﻉﺭﺎﺻ.</HadAngeringFight.stages.angering_fight.labelSocial>
+  
+  
+  
+  <HadCatharticFight.stages.cathartic_fight.label>ﻲﻌﻣ ﺢﻣﺎﺴﺘﻟﺍ ﺡﻭﺮﺑ ﻞﺗﺎﻘﺗ</HadCatharticFight.stages.cathartic_fight.label>
+  <HadCatharticFight.stages.cathartic_fight.labelSocial>ﻲﻌﻣ {ﻞﺗﺎﻘﺗ : ﻞﺗﺎﻘﺗ ? OTHERPAWN_gender} ﻢﺋﺍﻮﺗ</HadCatharticFight.stages.cathartic_fight.labelSocial>
+  
+  
+  
+  <HarmedMe.stages.harmed_me.label>ﺍﺭﺮﺿ ﻲﻟ ﺖﺛﺪﺣﺃ</HarmedMe.stages.harmed_me.label>
+  <HarmedMe.stages.harmed_me.labelSocial>ﺭﺮﺿ {ﺎﻬﺑ : ﻪﺑ ? OTHERPAWN_gender} ﻖﺤﻟﺃ</HarmedMe.stages.harmed_me.labelSocial>
+  
+  
+  
+  <HoneymoonPhase.stages.honeymoon_phase.label>ﻞﺴﻌﻟﺍ ﺮﻬﺷ</HoneymoonPhase.stages.honeymoon_phase.label>
+  <HoneymoonPhase.stages.honeymoon_phase.description>ﺓﺪﻳﺪﺟ ﺓﺎﻴﺣ ﺃﺪﺒﻧ ﻥﺃ ﻊﺋﺍﺭ ﻮﻫ ﻢﻛ
+!ﺎﻌﻣ</HoneymoonPhase.stages.honeymoon_phase.description>
+  
+  
+  
+  <Insulted.stages.insulted.label>ﻲﻨﻧﺎﻫﺃ</Insulted.stages.insulted.label>
+  <Insulted.stages.insulted.labelSocial>{OTHERPAWN_gender ?ﻲﻧ{ﺖﻧﺎﻫﺃ : ﻥﺎﻫﺃ</Insulted.stages.insulted.labelSocial>
+  
+  
+  
+  <InsultedMood.stages.insulted.label>ﺔﻧﺎﻫﺇ</InsultedMood.stages.insulted.label>
+  
+  <InsultedMood.stages.insulted.description>!ﻚﻟﺫ ﻰﻠﻋ {OTHERPAWN_pronoun} ﺅﺮﺠﺗ ﻒﻴﻛ .{OTHERPAWN} ﻲﻨﻧﺎﻫﺃ</InsultedMood.stages.insulted.description>
+  
+  
+  
+  <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>.ﻝﻮﺒﻘﻣ ﺮﻴﻏ ﺎﺿﺮﻋ ﺖﻣﺪﻗ</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
+  <IRejectedTheirProposal.stages.I_rejected_their_proposal.labelSocial>{OTHERPAWN_gender ? ﺮﻴﻏ ﺎﺣﺍﺮﺘﻗﺍ {ﺖﻣﺪﻗ : ﻡﺪﻗ
+ﻝﻮﺒﻘﻣ</IRejectedTheirProposal.stages.I_rejected_their_proposal.labelSocial>
+  
+  
+  
+  
+  <KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>ﺔﻠﻀﻔﻣ ﺔﻔﻴﻟﺃ ﺕﺎﻧﺍﻮﻴﺣ ﺖﻠﺘﻗ</KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>
+  <KilledMyBondedAnimal.stages.killed_my_bonded_animal.labelSocial>{OTHERPAWN_gender ? ﻒﻴﻟﻷﺍ ﻥﺍﻮﻴﺤﻟﺍ {ﺖﻠﺘﻗ : ﻞﺘﻗ
+ﻞﻀﻔﻤﻟﺍ</KilledMyBondedAnimal.stages.killed_my_bonded_animal.labelSocial>
+  
+  
+  
+  <KilledMyBrother.stages.killed_my_brother.label>ﻪﺘﺒﺒﺣﺃ ﻱﺬﻟﺍ ﻲﺧﺃ ﻞﺘﻗ</KilledMyBrother.stages.killed_my_brother.label>
+  <KilledMyBrother.stages.killed_my_brother.labelSocial>.ﻲﻘﻴﻘﺷ {ﺖﻠﺘﻘﺑ : ﻞﺘﻘﺑ ? OTHERPAWN_gender} ﻡﺎﻗ</KilledMyBrother.stages.killed_my_brother.labelSocial>
+  
+  
+  
+  <KilledMyDaughter.stages.killed_my_daughter.label>ﻲﺘﻨﺑﺍ (ﺕ) ﻞﺘﻗ</KilledMyDaughter.stages.killed_my_daughter.label>
+  <KilledMyDaughter.stages.killed_my_daughter.labelSocial>.ﻲﺘﻨﺑﺍ {ﺖﻠﺘﻘﺑ : ﻞﺘﻘﺑ ?OTHERPAWN_gender} ﻡﺎﻗ</KilledMyDaughter.stages.killed_my_daughter.labelSocial>
+  
+  
+  
+  <KilledMyFather.stages.killed_my_father.label>ﻱﺪﻟﺍﻭ ﻞﺘﻗ</KilledMyFather.stages.killed_my_father.label>
+  <KilledMyFather.stages.killed_my_father.labelSocial>{OTHERPAWN_gender ? ﻱﺪﻟﺍﻭ {ﺖﻠﺘﻗ : ﻞﺘﻗ</KilledMyFather.stages.killed_my_father.labelSocial>
+  
+  
+  
+  <KilledMyFiance.stages.killed_my_fiance.label>ﻲﺘﺒﻴﻄﺧ ﺖﻠﺘﻗ</KilledMyFiance.stages.killed_my_fiance.label>
+  <KilledMyFiance.stages.killed_my_fiance.labelSocial>ﻲﺘﺒﻴﻄﺧ {ﻲﻫ : ﻮﻫ ? OTHERPAWN_gender} ﻞﺘﻗ</KilledMyFiance.stages.killed_my_fiance.labelSocial>
+  
+  
+  
+  <KilledMyFriend.stages.killed_my_friend.label>ﻲﻘﻳﺪﺻ (ﺖﻠﺘﻗ) ﻞﺘﻗ</KilledMyFriend.stages.killed_my_friend.label>
+  <KilledMyFriend.stages.killed_my_friend.labelSocial>{OTHERPAWN_gender ? ﻲﻘﻳﺪﺻ {ﺖﻠﺘﻗ : ﻞﺘﻗ</KilledMyFriend.stages.killed_my_friend.labelSocial>
+  
+  
+  
+  <KilledMyKin.stages.killed_my_kin.label>ﻲﺘﻠﺋﺎﻋ ﺩﺍﺮﻓﺃ ﺪﺣﺃ ﻞﺘﻗ</KilledMyKin.stages.killed_my_kin.label>
+  <KilledMyKin.stages.killed_my_kin.labelSocial>{OTHERPAWN_gender ? {ﻞﺘﻘﺑ ﺖﻣﺎﻗ : ﻞﺘﻘﺑ ﻡﺎﻗ
+ﻲﺒﻳﺮﻗ</KilledMyKin.stages.killed_my_kin.labelSocial>
+  
+  
+  
+  <KilledMyLover.stages.killed_my_lover.label>ﺏﻮﺒﺤﻤﻟﺍ ﺺﺨﺸﻟﺍ ﺖﻠﺘﻗ</KilledMyLover.stages.killed_my_lover.label>
+  <KilledMyLover.stages.killed_my_lover.labelSocial>{OTHERPAWN_gender ? ﺏﻮﺒﺤﻤﻟﺍ ﺺﺨﺸﻟﺍ {ﺖﻠﺘﻗ : ﻞﺘﻗ</KilledMyLover.stages.killed_my_lover.labelSocial>
+  
+  
+  
+  <KilledMyMother.stages.killed_my_mother.label>ﻲﻣﺃ (ﺕ) ﻞﺘﻗ</KilledMyMother.stages.killed_my_mother.label>
+  <KilledMyMother.stages.killed_my_mother.labelSocial>{OTHERPAWN_gender ? ﻲﻣﺃ {ﺖﻠﺘﻗ : ﻞﺘﻗ</KilledMyMother.stages.killed_my_mother.labelSocial>
+  
+  
+  
+  <KilledMyRival.stages.killed_my_rival.label>ﻲﺴﻓﺎﻨﻣ (ﺕ) ﻞﺘﻗ</KilledMyRival.stages.killed_my_rival.label>
+  <KilledMyRival.stages.killed_my_rival.labelSocial>ﻲﺴﻓﺎﻨﻣ { : ? OTHERPAWN_gender} ﻞﺘﻗ</KilledMyRival.stages.killed_my_rival.labelSocial>
+  
+  
+  
+  <KilledMySister.stages.killed_my_sister.label>ﻲﺘﺧﺃ ﺖﻠﺘﻗ</KilledMySister.stages.killed_my_sister.label>
+  <KilledMySister.stages.killed_my_sister.labelSocial>{OTHERPAWN_gender ? ﻲﺘﺧﺃ {ﺖﻠﺘﻗ : ﻞﺘﻗ</KilledMySister.stages.killed_my_sister.labelSocial>
+  
+  
+  
+  <KilledMySon.stages.killed_my_son.label>.ﻲﻨﺑﺍ ﻞﺘﻘﺑ ﻡﺎﻗ</KilledMySon.stages.killed_my_son.label>
+  <KilledMySon.stages.killed_my_son.labelSocial>.ﻲﻨﺑﺍ {ﺖﻠﺘﻘﺑ : ﻞﺘﻘﺑ ? OTHERPAWN_gender} ﻡﺎﻗ</KilledMySon.stages.killed_my_son.labelSocial>
+  
+  
+  
+  <KilledMySpouse.stages.killed_my_spouse.label>ﻲﺒﻴﻄﺧ (ﺕ) ﻞﺘﻗ</KilledMySpouse.stages.killed_my_spouse.label>
+  <KilledMySpouse.stages.killed_my_spouse.labelSocial>{OTHERPAWN_gender ? ﻲﺒﻴﻄﺧ {ﺖﻠﺘﻗ : ﻞﺘﻗ</KilledMySpouse.stages.killed_my_spouse.labelSocial>
+  
+  
+  
+  <KindWords.stages.kind_words.label>ﻲﻧﺪﻧﺎﺳ</KindWords.stages.kind_words.label>
+  <KindWords.stages.kind_words.labelSocial>{OTHERPAWN_gender} ﻲﻨﻤﻋﺩ</KindWords.stages.kind_words.labelSocial>
+  
+  
+  
+  <KindWordsMood.stages.kind_words.label>ﻲﻨﻔﻟﺍ ﻢﻋﺪﻟﺍ</KindWordsMood.stages.kind_words.label>
+  
+  <KindWordsMood.stages.kind_words.description>.ﺔﻔﻴﻄﻟ ﺔﻈﺤﻟ ﺖﻧﺎﻛ !ﺔﻔﻴﻄﻟ ﺔﻤﻠﻜﺑ ﻲﻌﻴﺠﺸﺗ ﻢﺗ</KindWordsMood.stages.kind_words.description>
+  
+  
+  
+  <RapportBuilt.stages.rapport_built.label>ﺪﻴﺟ ﻝﺎﺼﺗﺍ ﺀﺎﻨﺑ ﻢﺗ</RapportBuilt.stages.rapport_built.label>
+  <RapportBuilt.stages.rapport_built.labelSocial>{ﻝﺎﺼﺗﻻﺍ : ﻝﺎﺼﺗﻻﺍ ? OTHERPAWN_gender} ﻡﺎﻗﺃ</RapportBuilt.stages.rapport_built.labelSocial>
+  
+  
+  
+  <RebuffedMyRomanceAttempt.stages.rebuffed_me.label>ﻲﻟ ﺾﻓﺭ</RebuffedMyRomanceAttempt.stages.rebuffed_me.label>
+  <RebuffedMyRomanceAttempt.stages.rebuffed_me.labelSocial>{OTHERPAWN_gender} ﻲﻨﻀﻓﺭ</RebuffedMyRomanceAttempt.stages.rebuffed_me.labelSocial>
+  
+  
+  
+  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>{0} {1_gender ? ﺖﻀﻓﺭ : ﺾﻓﺭ}</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>
+  
+  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>ﻮﻫ ? OTHERPAWN_gender} ـﺑ ﻲﻨﺘﻋﺃ ﻥﺃ ﺖﻟﻭﺎﺣ
+? OTHERPAWN_gender} ﻂﻘﻓ {OTHERPAWN_pronoun} ﻦﻜﻟﻭ ,{ﻲﻫ :
+.ﺔﻤﻟﺆﻣ ﺎﻬﻧﺇ !{ﻲﻨﺘﻠﻫﺎﺠﺗ : ﻲﻨﻠﻫﺎﺠﺗ</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>
+  
+  
+  
+  <RecruitedMe.stages.recruited_me.label>.ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﻲﻧﺎﻋﺩ</RecruitedMe.stages.recruited_me.label>
+  <RecruitedMe.stages.recruited_me.labelSocial>{OTHERPAWN_gender ? ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ {ﻲﻨﺘﻋﺩ : ﻲﻧﺎﻋﺩ</RecruitedMe.stages.recruited_me.labelSocial>
+  
+  
+  
+  <RejectedMyProposal.stages.rejected_my_proposal.label>ﻲﺿﺮﻋ ﺾﻓﺮﺗ/ﺾﻓﺭ</RejectedMyProposal.stages.rejected_my_proposal.label>
+  <RejectedMyProposal.stages.rejected_my_proposal.labelSocial>ﻲﺣﺍﺮﺘﻗﺍ {OTHERPAWN_gender} ﺾﻓﺭ</RejectedMyProposal.stages.rejected_my_proposal.labelSocial>
+  
+  
+  
+  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>{ﺖﺿﺮﻌﻟﺍ : ﺽﺮﻌﻟﺍ ? gender_1} ﺾﻓﺭ {0}</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>
+  
+  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>ﻦﻜﻟ ،ﺝﺍﻭﺰﻟﺍ ﺎﻨﻟ ﺭﺪﻘﻣ ﺎﻨﻧﺃ ﺪﻘﺘﻋﺃ ﺖﻨﻛ
+!ﺔﻃﺎﺴﺒﺑ ﻲﻨﻀﻓﺭ {OTHERPAWN_pronoun}</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>
+  
+  
+  
+  <RescuedMe.stages.rescued_me.label>ﻲﻧ(ﺕ)ﺬﻘﻧﺃ</RescuedMe.stages.rescued_me.label>
+  <RescuedMe.stages.rescued_me.labelSocial>{OTHERPAWN_gender ? ﻲﺗﺎﻴﺣ {ﺕﺬﻘﻧﺃ : ﺬﻘﻧﺃ</RescuedMe.stages.rescued_me.labelSocial>
+  
+  
+  
+  <RescuedMeByOfferingHelp.stages.rescued_me.label>{1_gender ? ﻲﻧ{ﺕﺬﻘﻧﺃ : ﺬﻘﻧﺃ</RescuedMeByOfferingHelp.stages.rescued_me.label>
+  
+  <RescuedMeByOfferingHelp.stages.rescued_me.description>OTHERPAWN_nameDef}} ﻦﻜﻟﻭ ،ﺍﺪﻴﺣﻭ ﻙﺮﺗﺄﺳ ﻲﻨﻧﺃ ﺮﻌﺷﺃ ﺕﺃﺪﺑ
+ﻦﺘﻤﻣ ﺎﻧﺃ !{ﻲﻨﺗﺬﻘﻧﺃ : ﻲﻧﺬﻘﻧﺃ ? {OTHERPAWN_gender
+!ﺍﺪﺟ</RescuedMeByOfferingHelp.stages.rescued_me.description>
+  
+  
+  
+  <Slighted.stages.slighted.label>ﻲﻨﺘﻠﻫﺎﺠﺗ</Slighted.stages.slighted.label>
+  <Slighted.stages.slighted.labelSocial>{OTHERPAWN_gender ? ﻲﻠﻫﺎﺠﺗ ﻲﻓ {ﺖﻤﻫﺎﺳ : ﺖﻤﻫﺎﺳ</Slighted.stages.slighted.labelSocial>
+  
+  
+  
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.label>ﻒﻴﻟﻷﺍ ﻥﺍﻮﻴﺤﻟﺍ ﻊﻴﺑ ﻢﺗ</SoldMyBondedAnimal.stages.bonded_animal_given_away.label>
+  
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.description>!ﺮﺟﺎﺘﻠﻟ ﻞﻀﻔﻤﻟﺍ ﻲﻔﻴﻟﺃ ﻥﺍﻮﻴﺣ ﻊﻴﺑ ﻢﺗ</SoldMyBondedAnimal.stages.bonded_animal_given_away.description>
+  
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>ﺎﻬﻟ/ﻪﻟ: ? OTHERPAWN_gender} ﻞﻀﻔﻤﻟﺍ ﻒﻴﻟﻷﺍ ﻥﺍﻮﻴﺤﻟﺍ ﻉﺎﺑ
+{</SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>
+  
+  
+  
+  
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>ﻒﻴﻟﻷﺍ ﻥﺍﻮﻴﺤﻟﺍ ﺖﻌﻴﺑ</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>
+  
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>!ﺮﺟﺎﺘﻟ ﻞﻀﻔﻤﻟﺍ ﻲﻔﻴﻟﺃ ﻥﺍﻮﻴﺣ ﻊﻴﺑ ﻢﺗ</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>
+  
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>{ە:ﻮﻫ? OTHERPAWN_gender} ﻞﻀﻔﻣ ﻒﻴﻟﺃ ﻥﺍﻮﻴﺣ ﺖﻋﺎﺑ</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>
+  
+  
+  
+  <SoldMyLovedOne.stages.loved_one_sold.label>ﺏﻮﺒﺤﻤﻟﺍ ﺺﺨﺸﻟﺍ ﻊﻴﺑ ﻢﺗ</SoldMyLovedOne.stages.loved_one_sold.label>
+  
+  <SoldMyLovedOne.stages.loved_one_sold.description>: ﻪﺘﺒﺒﺣﺃ ? PAWN_gender} ﺖﻨﻛ ﻱﺬﻟﺍ ﺺﺨﺸﻟﺍ
+!ﻢﺤﻟ ﺔﻌﻄﻘﻛ ﺮﺟﺎﺘﻠﻟ ﻪﻌﻴﺑ ﻢﺗ {ﺎﻬﺘﺒﺒﺣﺃ</SoldMyLovedOne.stages.loved_one_sold.description>
+  
+  <SoldMyLovedOne.stages.loved_one_sold.labelSocial>{OTHERPAWN_gender ? ﺏﻮﺒﺤﻤﻟﺍ ﺺﺨﺸﻟﺍ {ﺖﻋﺎﺑ : ﻉﺎﺑ</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
+  
+</LanguageData>
