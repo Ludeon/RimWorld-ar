@@ -1,0 +1,44 @@
+<LanguageData>
+  
+  
+  <Gravel.label>ﺔﻳﺮﺨﺼﻟﺍ ﺔﺑﺮﺘﻟﺍ</Gravel.label>
+  
+  <Gravel.tools.gravel.label>ﻂﻟﺰﻟﺍ</Gravel.tools.gravel.label>
+  
+  
+  <Ice.label>ﺪﻴﻠﺠﻟﺍ</Ice.label>
+  
+  
+  <MarshyTerrain.label>ﺔﻴﻌﻘﻨﺘﺴﻣ ﺔﻘﻄﻨﻣ</MarshyTerrain.label>
+  
+  <MarshyTerrain.tools.mud.label>ﺔﺨﺳﻮﻟﺍ</MarshyTerrain.tools.mud.label>
+  
+  
+  <MossyTerrain.label>ﺔﻤﻳﺪﻘﻟﺍ ﺔﺑﺮﺘﻟﺍ</MossyTerrain.label>
+  
+  
+  <Mud.label>ﺦﺳﻮﻟﺍ</Mud.label>
+  
+  <Mud.tools.mud.label>ﺦﺳﻮﻟﺍ</Mud.tools.mud.label>
+  
+  
+  <Sand.label>ﻞﻣﺭ</Sand.label>
+  
+  <Sand.tools.sand.label>ﻞﻣﺮﻟﺍ</Sand.tools.sand.label>
+  
+  
+  <SoftSand.label>ﺔﻤﻋﺎﻧ ﻝﺎﻣﺭ</SoftSand.label>
+  
+  <SoftSand.tools.sand.label>ﻞﻣﺮﻟﺍ</SoftSand.tools.sand.label>
+  
+  
+  <Soil.label>ﺽﺭﺃ</Soil.label>
+  
+  <Soil.tools.dirt.label>ﺽﺭﻷﺍ</Soil.tools.dirt.label>
+  
+  
+  <SoilRich.label>ﺔﺒﺼﺨﻟﺍ ﺔﺑﺮﺘﻟﺍ</SoilRich.label>
+  
+  <SoilRich.tools.dirt.label>ﺽﺭﻷﺍ</SoilRich.tools.dirt.label>
+  
+</LanguageData>
