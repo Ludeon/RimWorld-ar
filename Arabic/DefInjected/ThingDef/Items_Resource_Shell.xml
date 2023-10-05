@@ -1,0 +1,71 @@
+<LanguageData>
+  
+  
+  <Bullet_Shell_AntigrainWarhead.label>ﺔﻴﺒﻴﺒﺤﻟﺍ ﺔﻔﻳﺬﻘﻟﺍ</Bullet_Shell_AntigrainWarhead.label>
+  
+  
+  <Bullet_Shell_EMP.label>ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﺘﻜﻟﻹﺍ ﺔﻔﻳﺬﻘﻟﺍ</Bullet_Shell_EMP.label>
+  
+  
+  <Bullet_Shell_Firefoam.label>ﺔﻳﻮﻏﺭ ﺔﻔﻳﺬﻗ</Bullet_Shell_Firefoam.label>
+  
+  
+  <Bullet_Shell_HighExplosive.label>ﺔﺘﺘﻔﺘﻣ ﺔﻔﻳﺬﻗ</Bullet_Shell_HighExplosive.label>
+  
+  
+  <Bullet_Shell_Incendiary.label>ﺔﻠﻌﺘﺸﻤﻟﺍ ﺔﻔﻳﺬﻘﻟﺍ</Bullet_Shell_Incendiary.label>
+  
+  
+  <Bullet_Shell_Smoke.label>ﺔﻴﻧﺎﺧﺩ ﺔﻔﻳﺬﻗ</Bullet_Shell_Smoke.label>
+  
+  
+  <Shell_AntigrainWarhead.label>ﺔﻴﺒﻴﺒﺤﻟﺍ ﺔﻔﻳﺬﻘﻟﺍ</Shell_AntigrainWarhead.label>
+  
+  <Shell_AntigrainWarhead.description>ﺓﺰﻬﺟﺃ ﻲﻓ ﻡﺪﺨﺘﺴﻳ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻖﺋﺎﻓ ﻲﻟﺎﺘﻗ ﺥﻭﺭﺎﺻ
+ﻰﻠﻋ ﻱﻮﺘﺤﻳ .ﺔﻴﻟﺎﻴﺧ ﻢﻟﺍﻮﻋ ﻲﻓ ﺔﻳﺮﻜﺴﻌﻟﺍ ﺓﻮﻘﻟﺍ
+،ﺮﻴﺠﻔﺘﻟﺍ ﺪﻨﻋ .ﺓﺩﺎﻤﻠﻟ ﺓﺩﺎﻀﻤﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﺓﺭﺬﺑ
+ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ .ﻕﺍﺮﺘﺣﺍ ﻪﻌﺒﺘﻳ ﻒﻴﻨﻋ ﺭﺎﺠﻔﻧﺍ ﺙﺪﺤﻳ
+ﺪﻨﻋ ﺮﺠﻔﻨﻳ .ﻡﺎﻐﻟﻷﺍ ﻊﻴﻨﺼﺘﻟ ﻭﺃ ﻥﻭﺎﻬﻠﻟ ﺔﻔﻳﺬﻘﻛ
+.ﻒﻠﺘﻟﺍ</Shell_AntigrainWarhead.description>
+  
+  
+  <Shell_EMP.label>ﺔﻔﻳﺬﻗ - ﻲﻤﻳﺇ</Shell_EMP.label>
+  
+  <Shell_EMP.description>ﺎﻣﺪﻨﻋ .ﻲﺋﺍﻮﻫﻭ ﺕﺎﻴﻧﻭﺮﺘﻜﻟﺇﻭ ﺔﻗﺎﻃ ﺔﻗﺎﻄﺑ ﺓﺩﻭﺰﻣ ﺓﺭﺎﻳ
+ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﺔﻀﺒﻧ ﺪﻴﻟﻮﺗ ﻢﺘﻳ ، ﻞﻌﺸﻤﻟﺍ ﺮﺠﻔﻨﻳ
+ﺕﺎﻴﻧﻭﺮﺘﻜﻟﻹﺍ ﻊﻴﻤﺟ ﻞﻄﻌﺗ ﺓﺭﺪﻘﻟﺍ ﺔﻴﻟﺎﻋ (EM ﺔﻀﺒﻧ)
+ﻒﺋﺍﺬﻘﻟﺍ ﻕﻼﻃﻹ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ .ﺭﺮﻀﻟﺍ ﻕﺎﻄﻧ ﻲﻓ
+ﺪﻨﻋ ﺮﺠﻔﻨﻴﺳ .ﻡﺎﻐﻟﻷﺍ ﻊﻨﺼﻟ ﻭﺃ ﻊﻓﺍﺪﻤﻟﺍ ﻦﻣ
+.ﻒﻠﺘﻟﺍ</Shell_EMP.description>
+  
+  
+  <Shell_Firefoam.label>ﺔﻳﻮﻏﺮﻟﺍ ﺔﻔﻳﺬﻘﻟﺍ</Shell_Firefoam.label>
+  
+  <Shell_Firefoam.description>ﻂﻐﺿ ﺖﺤﺗ ﻖﺋﺍﺮﺤﻠﻟ ﺓﺄﻔﻄﻣ ﺓﻮﻏﺮﺑ ﺓﺀﻮﻠﻤﻣ ﺔﻔﻳﺬﻗ
+ﻭﺃ ﺔﻴﻌﻓﺪﻤﻟﺍ ﻦﻣ ﺎﻬﻗﻼﻃﻹ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ .ﻲﻟﺎﻋ
+.ﻒﻠﺘﻟﺍ ﺪﻨﻋ ﺮﺠﻔﻨﺗ .ﻡﺎﻐﻟﻷﺍ ﻊﻨﺻ</Shell_Firefoam.description>
+  
+  
+  <Shell_HighExplosive.label>ﺓﺮﺛﺎﻨﺘﻣ ﻒﺋﺍﺬﻗ ﺡﻼﺳ</Shell_HighExplosive.label>
+  
+  <Shell_HighExplosive.description>ﻦﻣ ﺎﻬﻗﻼﻃﻹ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ .ﺕﺍﺮﺠﻔﺘﻤﻟﺎﺑ ﺓﺀﻮﻠﻤﻣ ﺔﻔﻳﺬﻗ
+ﺪﻨﻋ ﺮﺠﻔﻨﺗ .ﻡﺎﻐﻟﻷﺍ ﻊﻨﺼﻟ ﻭﺃ ﻥﻭﺎﻬﻟﺍ ﻊﻓﺪﻤﻟﺍ
+.ﻒﻠﺘﻟﺍ</Shell_HighExplosive.description>
+  
+  
+  <Shell_Incendiary.label>ﺔﻠﻌﺘﺸﻣ ﺔﻔﻳﺬﻗ</Shell_Incendiary.label>
+  
+  <Shell_Incendiary.description>ﺔﻴﻤﻛ ﻊﻣ ﻝﺎﻌﺘﺷﻼﻟ ﻞﺑﺎﻗ ﻂﻴﻠﺨﺑ ﺓﺀﻮﻠﻤﻣ ﺔﻠﺒﻨﻗ
+ﻖﺋﺍﺮﺣ ﺙﻭﺪﺣ ﻲﻓ ﺐﺒﺴﺘﻳ .ﺕﺍﺮﺠﻔﺘﻤﻟﺍ ﻦﻣ ﺓﺮﻴﻐﺻ
+ﻊﻓﺍﺪﻤﻟﺍ ﻦﻣ ﺎﻬﻗﻼﻃﻹ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ .ﺭﺎﺠﻔﻧﻻﺍ ﺪﻨﻋ
+.ﻒﻠﺘﻟﺍ ﺪﻨﻋ ﺮﺠﻔﻨﺗ .ﻡﺎﻐﻟﻷﺍ ﻊﻨﺼﻟ ﺎﻀﻳﺃﻭ</Shell_Incendiary.description>
+  
+  
+  <Shell_Smoke.label>ﺔﻴﻧﺎﺧﺪﻟﺍ ﺔﻠﺒﻨﻘﻟﺍ</Shell_Smoke.label>
+  
+  <Shell_Smoke.description>ﻦﻣ ﺔﻔﻴﺜﻛ ﺔﺑﺎﺤﺳ ﻥﻮﻜﻳ ﺭﺎﺠﻔﻧﺍ ﺕﺍﺫ ﻑﻮﻤﻠﺳ
+ﻦﻜﻤﻳ .ﺝﺍﺮﺑﻷﺍ ﻑﺍﺪﻬﺘﺳﺍ ﻕﻮﻌﺗﻭ ﻑﺍﺪﻫﻷﺍ ﻲﻔﺨﺗ ﻥﺎﺧﺪﻟﺍ
+.ﻡﺎﻐﻟﻷﺍ ﻊﻴﻨﺼﺗﻭ ﻥﻭﺎﻬﻟﺍ ﻊﻓﺍﺪﻤﻟﺍ ﻕﻼﻃﺇ ﻲﻓ ﻪﻣﺍﺪﺨﺘﺳﺍ
+.ﻒﻠﺘﻟﺍ ﺪﻨﻋ ﺮﺠﻔﻨﻳ</Shell_Smoke.description>
+  
+</LanguageData>
