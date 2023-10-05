@@ -1,0 +1,11 @@
+ï»؟<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: They say that the Caesics soldiers are recruited from the dead. Rising through such ranks, most return whence they came. [PAWN_nameDef] dominated because of [PAWN_possessive] strategic genius, machine-like focus, and tolerance for suffering - both [PAWN_objective] own and that of others. -->
+  <CaesicMarshal72.baseDesc>ذ“ذ¾ذ²ذ¾ر€رڈر‚, ر‡ر‚ذ¾ رپذ¾ذ»ذ´ذ°ر‚ ذ¦ذµذ·ذ¸ذ¸ ذ½ذ°ذ±ذ¸ر€ذ°رژر‚ ذ؟ر€رڈذ¼ذ¸ذ؛ذ¾ذ¼ ذ¸ذ· ذ¼ذµر€ر‚ذ²ذµر†ذ¾ذ². ذںذ¾ذ»رƒر‡ذ°رڈ ذ·ذ²ذ°ذ½ذ¸ذµ ذ·ذ° ذ·ذ²ذ°ذ½ذ¸ذµذ¼, ذ؟ذ¾ر‡ر‚ذ¸ ذ²رپذµ ذ¾ذ½ذ¸ ذ¾ذ±ر€ذµر‡ذµذ½ر‹ ذ²ذµر€ذ½رƒر‚رŒرپرڈ ر‚رƒذ´ذ°, ذ¾ر‚ذ؛رƒذ´ذ° ذ؟ر€ذ¸رˆذ»ذ¸. {PAWN_nameDef} ذ¶ذµ {PAWN_gender ? ذ؟ر€ذµذ²ذ¾رپر…ذ¾ذ´ذ¸ذ» : ذ؟ر€ذµذ²ذ¾رپر…ذ¾ذ´ذ¸ذ»ذ°} ذ¾رپر‚ذ°ذ»رŒذ½ر‹ر…, ذ¾ر‚ذ»ذ¸ر‡ذ°رڈرپرŒ رپذ²ذ¾ذ¸ذ¼ رپر‚ر€ذ°ر‚ذµذ³ذ¸ر‡ذµرپذ؛ذ¸ذ¼ ذ³ذµذ½ذ¸ذµذ¼, ر‚ذ¾ر‡ذ½ذ¾ذ¹, ذ؟ذ¾ذ´ذ¾ذ±ذ½ذ¾ ذ¼ذ°رˆذ¸ذ½ذµ, ذ؛ذ¾ذ½ر†ذµذ½ر‚ر€ذ°ر†ذ¸ذµذ¹ ذ¸ ر‚ذµر€ذ؟ذ¸ذ¼ذ¾رپر‚رŒرژ ذ؛ رپر‚ر€ذ°ذ´ذ°ذ½ذ¸رڈذ¼: ذ؛ذ°ذ؛ ذ؛ رپذ²ذ¾ذ¸ذ¼, ر‚ذ°ذ؛ ذ¸ ذ؛ ر‡رƒذ¶ذ¸ذ¼.</CaesicMarshal72.baseDesc>
+  <!-- EN: Caesic marshal -->
+  <CaesicMarshal72.title>ر†ذµذ·ذ¸ذ¹رپذ؛ذ¸ذ¹ ذ¼ذ°ر€رˆذ°ذ»</CaesicMarshal72.title>
+  <!-- EN: marshal -->
+  <CaesicMarshal72.titleShort>ذ¼ذ°ر€رˆذ°ذ»</CaesicMarshal72.titleShort>
+  
+</LanguageData>
