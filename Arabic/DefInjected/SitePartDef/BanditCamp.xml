@@ -1,0 +1,14 @@
+<LanguageData>
+  
+  
+  <BanditCamp.label>ﺕﺎﺑﺎﺼﻌﻟﺍ ﺮﻜﺴﻌﻣ</BanditCamp.label>
+  
+  <BanditCamp.description>.ﺹﻮﺼﻠﻟﺍ ﺮﻜﺴﻌﻣ</BanditCamp.description>
+  
+  <BanditCamp.approachingReportString>{lookup: {0}; Case; 3} ﻢﺟﺎﻬﻳ</BanditCamp.approachingReportString>
+  
+  <BanditCamp.approachOrderString>{lookup: {0}; Case; 3} ﻰﻠﻋ ﻡﻮﺠﻫ</BanditCamp.approachOrderString>
+  
+  <BanditCamp.arrivedLetter>.ﻭﺪﻌﻟﺍ ﺮﻜﺴﻌﻣ ﺪﺟﺍﻮﺘﻳ ﻊﻗﻮﻤﻟﺍ ﺍﺬﻫ ﻲﻓ</BanditCamp.arrivedLetter>
+  
+</LanguageData>
