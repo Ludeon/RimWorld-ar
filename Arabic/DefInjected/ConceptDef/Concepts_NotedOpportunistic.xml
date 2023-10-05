@@ -1,0 +1,222 @@
+<LanguageData>
+  
+  
+  <AnimalsDontAttackDoors.label>ﺏﺍﻮﺑﻷﺍ ﺔﻤﺟﺎﻬﻣ ﺎﻬﻨﻜﻤﻳ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</AnimalsDontAttackDoors.label>
+  
+  <AnimalsDontAttackDoors.helpText>ﺪﻗ ﻞﻳﺰﻨﻟﺍ ﻥﺃ ﺔﻴﻧﺍﻭﺪﻌﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻆﺣﻻ ﺍﺫﺇ
+ﻥﻮﻟﻭﺎﺤﻳ ﻑﻮﺳ .ﻪﺟﺍﺮﺧﺇ ﻥﻮﻟﻭﺎﺤﻴﺳ ،ﺏﺎﺒﻟﺍ ﻦﻣ ﺮﻣ
+.ﻞﻤﻌﺗ ﻻ ﻲﺘﻟﺍ ﺝﺍﺮﺑﻷﺍ ﺮﺴﻛ ﺎﻀﻳﺃ</AnimalsDontAttackDoors.helpText>
+  
+  
+  <BillsTab.label>"ﻡﺎﻬﻤﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ</BillsTab.label>
+  
+  <BillsTab.helpText>ﺔﻟﻭﺎﻄﻟﺍ ﺮﺘﺧﺍ ،ﺕﻻﻭﺎﻄﻟﺍ ﻰﻠﻋ ﺀﻻﺰﻨﻟﺍ ﻞﻤﻌﻳ ﻲﻜﻟ
+ﻕﺎﺒﻃﻷﺍ ﺪﻳﺪﺤﺗ ﺎﻨﻫ ﻚﻨﻜﻤﻳ .ﺕﺎﻤﻬﻤﻟﺍ ﺔﻤﺋﺎﻗ ﺢﺘﻓﺍﻭ
+.ﺎﻬﻤﻴﺴﻘﺘﻟ ﺕﺎﻨﺋﺎﻜﻟﺍﻭ ،ﺎﻬﺘﻋﺎﻨﺼﻟ ﺀﺎﻴﺷﻷﺍ ،ﺎﻫﺩﺍﺪﻋﻹ</BillsTab.helpText>
+  
+  
+  <BuildOrbitalTradeBeacon.label>ﺓﺭﺎﺠﺘﻟﺍ ﺝﺍﺮﺑﺃ</BuildOrbitalTradeBeacon.label>
+  
+  <BuildOrbitalTradeBeacon.helpText>ﺐﺠﻳ ،ﻦﻴﻴﺋﺎﻀﻔﻟﺍ ﺭﺎﺠﺘﻠﻟ ﺔﻀﻔﻟﺍ ﻭﺃ ﻊﺋﺎﻀﺒﻟﺍ ﻝﺎﺳﺭﻹ
+ﻊﺿﻭﻭ ﺔﺣﻮﺘﻔﻣ ﺔﻘﻄﻨﻣ ﻲﻓ ﺔﻳﺭﺎﺠﺗ ﺓﺭﺎﻨﻣ ﺀﺎﻨﺑ
+.ﺎﻬﺒﻧﺎﺠﺑ ﻉﺩﻮﺘﺴﻣ</BuildOrbitalTradeBeacon.helpText>
+  
+  
+  <Capturing.label>ﻯﺮﺳﻷﺍ ﻰﻠﻋ ﺾﺒﻘﻟﺍ</Capturing.label>
+  
+  <Capturing.helpText>،ﺖﻤﻳ ﻢﻟﻭ ﺽﺭﻷﺍ ﻰﻠﻋ ﻭﺪﻌﻟﺍ ﻂﻘﺳ ﺍﺫﺇ
+.ﻪﻴﻠﻋ ﺾﺒﻘﻟﺍ ﻝﻭﺎﺣ
+
+ﺭﺰﺑ ﺮﻘﻧﺍ ﻢﺛ ﻦﻃﻮﺘﺴﻣ ﺮﺘﺧﺍ ،ﻪﻴﻠﻋ ﺾﺒﻘﻠﻟ
+ﺾﺒﻘﻟﺍ" ﺮﺘﺧﺍﻭ ﻒﻗﻮﺘﻤﻟﺍ ﻭﺪﻌﻟﺍ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ
+."ﻪﻴﻠﻋ
+
+.ﻯﺮﺳﻸﻟ ﺺﺼﺨﻣ ﻲﻓﺎﺿﺇ ﺮﻳﺮﺳ ﻰﻟﺇ ﺝﺎﺘﺤﺘﺳ</Capturing.helpText>
+  
+  <Capturing.helpTextController>،ﺖﻤﻳ ﻢﻟﻭ ﺽﺭﻷﺍ ﻰﻠﻋ ﻭﺪﻌﻟﺍ ﻂﻘﺳ ﺍﺫﺇ
+.ﻩﺯﺎﺠﺘﺣﺍ ﻝﻭﺎﺣ
+
+ﻭﺪﻌﻟﺍ ﻕﻮﻓ ﺮﺴﻳﻷﺍ ﺭﺰﻟﺎﺑ ﺮﻘﻧﺍ ،ﺎﻨﻛﺎﺳ ﺮﺘﺧﺍ
+."ﺯﺎﺠﺘﺣﻻﺍ" ﺮﺘﺧﺍﻭ ﺪﻴﻘﻤﻟﺍ
+
+.ﻯﺮﺳﻸﻟ ﺺﺼﺨﻣ ﻲﻓﺎﺿﺇ ﺮﻳﺮﺳ ﻰﻟﺇ ﺝﺎﺘﺤﺘﺳ</Capturing.helpTextController>
+  
+  
+  <DoorOpenSpeed.label>ﺏﺍﻮﺑﻷﺍ ﺢﺘﻓ ﺔﻋﺮﺳ</DoorOpenSpeed.label>
+  
+  <DoorOpenSpeed.helpText>ﺔﻋﻮﻨﺼﻤﻟﺍ ﺓﺩﺎﻤﻟﺍ ﺐﺴﺣ ﺔﻔﻠﺘﺨﻣ ﺕﺎﻋﺮﺴﺑ ﺏﺍﻮﺑﻷﺍ ﺢﺘﻔﺗ
+.ﺎﻬﻨﻣ
+
+ﻖﻴﻌﺗﻭ ﺪﻳﺪﺷ ﺀﻂﺒﺑ ﺢﺘﻔﺗ ﺔﻳﺮﺠﺤﻟﺍ ﺏﺍﻮﺑﻷﺍ :ﻪﻴﺒﻨﺗ
+.ﺎﻬﻟﻼﺧ ﻦﻣ ﺮﻤﻳ ﻦﻣ ﻱﺃ</DoorOpenSpeed.helpText>
+  
+  
+  <Drafting.label>ﻝﺎﺘﻘﻠﻟ ﺩﺍﺪﻌﺘﺳﻻﺍ</Drafting.label>
+  
+  <Drafting.helpText>ﻢﻗ ،ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﻦﻴﻨﻃﻮﺘﺴﻟﺍ ﻲﻓ ﺮﺷﺎﺒﻤﻟﺍ ﻢﻜﺤﺘﻠﻟ
+."ﺔﻛﺮﻌﻤﻟﺍ ﻰﻟﺇ" ﺭﺯ ﻰﻠﻋ ﻂﻐﺿﺍﻭ ﻢﻫﺪﻳﺪﺤﺘﺑ
+
+ﻂﻘﻓ ﺬﻔﻨﻳ ﻑﻮﺳ ﻦﻃﻮﺘﺴﻟﺍ ،ﻲﻟﺎﺘﻘﻟﺍ ﻊﺿﻮﻟﺍ ﻲﻓ
+ﻝﺎﻌﻓﻷﺎﺑ ﻂﻘﻓ ﻡﻮﻘﻳ ﻑﻮﺳﻭ ﻪﻟ ﻪﺟﻮﻳ ﺎﻣ
+ﺪﻨﻋ ﺎﻬﻧﻮﻣﺪﺨﺘﺴﻴﺳ ﺔﺤﻠﺳﺃ ﻢﻬﻳﺪﻟ ﻦﻳﺬﻟﺍ ﻚﺌﻟﻭﺃ .ﺔﻴﻟﺎﺘﻘﻟﺍ
+.ﺔﺟﺎﺤﻟﺍ
+
+ﻼﻳﻮﻃ ﻲﻟﺎﺘﻘﻟﺍ ﻊﺿﻮﻟﺍ ﻲﻓ ﻦﻴﻨﻃﻮﺘﺴﻟﺍ ﻰﻘﺒﺗ ﻻ
+.ﻢﻬﺟﺍﺰﻣ ﺭﻮﻫﺪﺘﻴﺳﻭ ﻉﻮﺠﻟﺍ ﻲﻓ ﻥﻭﺃﺪﺒﻴﺳ ﻻﺇﻭ ،</Drafting.helpText>
+  
+  
+  <DrugAddiction.label>ﺕﺍﺭﺪﺨﻤﻟﺍ ﻥﺎﻣﺩﺇ</DrugAddiction.label>
+  
+  <DrugAddiction.helpText>ﺕﺍﺭﺪﺨﻤﻟﺍ ﻲﻃﺎﻌﺗ ﻲﻓ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺔﺒﻏﺭ ﻦﻣ ﻖﻘﺤﺗ
+."ﺕﺎﺟﺎﻴﺘﺣﻻﺍ" ـﻟﺍ ﻝﻭﺪﺠﻟﺍ ﺔﻣﻼﻋ ﻲﻓ
+
+،ﺮﻔﺼﻟﺍ ﻰﻟﺇ ﺕﺍﺭﺪﺨﻤﻠﻟ ﻢﻬﺘﺟﺎﺣ ﺮﺷﺆﻣ ﺾﻔﺨﻧﺍ ﺍﺫﺇ
+ﺔﻴﺒﻧﺎﺟ ﺕﺍﺮﻴﺛﺄﺗ ﻞﻤﺤﻳ "ﺭﺎﻴﻬﻧﺍ" ﺐﺒﺴﻴﺳ ﻥﺎﻣﺩﻹﺍ ﻥﺈﻓ
+.ﺔﻔﻠﺘﺨﻣ
+
+ﻝﻭﺰﻴﺳ ،ﺔﻠﻳﻮﻄﻟﺍ ﻉﺎﻨﺘﻣﻻﺍ ﺓﺮﺘﻓ ﺪﻌﺑ ،ﻚﻟﺫ ﻊﻣﻭ
+.ﺕﺍﺭﺪﺨﻤﻟﺍ ﻲﻃﺎﻌﺗ ﻰﻟﺇ ﺔﺟﺎﺤﻟﺍ ﻪﻌﻣﻭ ﻥﺎﻣﺩﻹﺍ</DrugAddiction.helpText>
+  
+  
+  <DrugBurning.label>ﺕﺍﺭﺪﺨﻤﻟﺍ ﻕﺮﺣ</DrugBurning.label>
+  
+  <DrugBurning.helpText>ﺐﺒﺴﺗ ﺪﻗ ﺎﻬﻨﻜﻟﻭ ،ﺓﺪﻴﻔﻣ ﻥﻮﻜﺗ ﺪﻗ ﺕﺍﺭﺪﺨﻤﻟﺍ
+ﺔﻘﻠﻌﺘﻤﻟﺍ ﻞﻛﺎﺸﻤﻟﺍ ﺐﻨﺠﺗ ﺪﻳﺮﺗ ﺖﻨﻛ ﺍﺫﺇ .ﻥﺎﻣﺩﻹﺍ
+.ﺭﺎﻨﻟﺍ ﻲﻓ ﺎﻬﻗﺮﺣﺃ ،ﻚﺘﻨﻃﻮﺘﺴﻣ ﻲﻓ ﺕﺍﺭﺪﺨﻤﻟﺎﺑ</DrugBurning.helpText>
+  
+  
+  <DrugPolicies.label>ﺔﻳﻭﺩﻷﺍ ﻝﻭﺎﻨﺗ ﺔﺳﺎﻴﺳ</DrugPolicies.label>
+  
+  <DrugPolicies.helpText>ﺾﻌﺑ ﻝﻭﺎﻨﺘﻟ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﻲﻨﻣﺯ ﻝﻭﺪﺟ ﻦﻴﻴﻌﺗ ﻚﻨﻜﻤﻳ
+ﻦﻴﻠﻴﺴﻴﺴﻛﻮﻨﻴﺒﻟﺍ ﻦﻣ ﺔﻴﻣﻮﻳ ﺔﻋﺮﺟ ﻦﻴﻴﻌﺗ ﻞﺜﻣ .ﺔﻳﻭﺩﻷﺍ
+.ﺝﺍﺰﻤﻟﺍ ﺓﺩﺎﻳﺰﻟ ﺓﺮﻴﺒﻟﺍ ﺏﺮﺷ ﻭﺃ
+
+ﺓﺭﺍﺩﺇ" ﻰﻠﻋ ﻂﻐﺿﺍﻭ "ﺕﺎﻨﻴﻴﻌﺘﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ
+ﻥﻵﺍ ﻚﻨﻜﻤﻳ .ﺓﺪﻳﺪﺟ ﺔﺳﺎﻴﺳ ﺊﺸﻧﺃ ."ﺔﻳﻭﺩﻷﺍ ﻝﻭﺎﻨﺗ
+.ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺎﻬﻨﻴﻴﻌﺗ
+
+ﺪﻗ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻥﺃ ﺭﺎﺒﺘﻋﻻﺍ ﻲﻓ ﻚﻳﺪﻟ ﻦﻛﺍ
+،ﻢﻬﻬﻴﺟﻮﺗ ﻚﻨﻜﻤﻳ .ﺔﻨﻴﻌﻤﻟﺍ ﺕﺎﺳﺎﻴﺴﻟﺍ ﺝﺭﺎﺧ ﺕﺍﺭﺪﺨﻤﻟﺍ ﻥﻮﻟﻭﺎﻨﺘﻳ
+.ﺔﺻﺎﺨﻟﺍ ﻢﻬﺗﺎﺒﻏﺭ ﺐﺴﺣ ﻥﻮﻓﺮﺼﺘﻳ ﺪﻗ ﻢﻬﻨﻜﻟ</DrugPolicies.helpText>
+  
+  
+  <GroupGotoHereDragging.label>ﻦﻴﻠﺗﺎﻘﻤﻟﺍ ﻊﻗﻮﻣ</GroupGotoHereDragging.label>
+  
+  <GroupGotoHereDragging.helpText>ﻢﻗﻭ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺯ ﻂﻐﺿﺍ ،ﻚﻴﻠﺗﺎﻘﻣ ﺩﺪﺣ
+.ﻂﺧ ﻲﻓ ﻢﻬﺒﻴﺗﺮﺘﺑ
+
+ﻞﻬﺴﻟﺍ ﻦﻣ :ﺔﻓﺎﺴﻤﻟﺍ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ ﻰﺴﻨﺗ ﻻ
+!ﺩﻮﺸﺤﻟﺍ ﻲﻓ ﺔﺑﺎﺻﻹﺍ</GroupGotoHereDragging.helpText>
+  
+  <GroupGotoHereDragging.helpTextController>ﻲﻓ ﻢﻬﺒﺗﺭﻭ ﺮﺴﻳﻷﺍ ﺭﺰﻟﺍ ﻂﻐﺿﺍ ،ﻚﻴﻠﺗﺎﻘﻣ ﺩﺪﺣ
+.ﻂﺧ
+
+ﺀﻲﺷ ﻞﻬﺳﺃ :ﺔﻓﺎﺴﻤﻟﺍ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ ﻰﺴﻨﺗ ﻻ
+!ﺩﻮﺸﺤﻟﺍ ﻲﻓ ﺔﺑﺎﺻﻹﺍ ﻮﻫ</GroupGotoHereDragging.helpTextController>
+  
+  
+  <InteractingWithTraders.label>ﺭﺎﺠﺘﻟﺍ</InteractingWithTraders.label>
+  
+  <InteractingWithTraders.helpText>ﻢﻬﻟ ﺮﻬﻈﻳ ﻦﻳﺬﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻊﻣ ﺙﺪﺤﺘﻟﺍ ﻚﻨﻜﻤﻳ
+ﻦﻴﻠﺳﺎﻨﻟﺍ ﺪﺣﺃ ﺮﺘﺧﺍ .ﻢﻬﺳﻭﺅﺭ ﻕﻮﻓ "؟" ﺰﻣﺭ
+ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ ﻢﺛ ، ﻻﻭﺃ
+.ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﻰﻠﻋ</InteractingWithTraders.helpText>
+  
+  <InteractingWithTraders.helpTextController>ﺔﻣﻼﻋ ﻥﻮﻠﻤﺤﻳ ﻦﻳﺬﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻊﻣ ﺙﺪﺤﺘﻟﺍ ﻚﻨﻜﻤﻳ
+ﻢﺛ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺪﺣﺃ ﻻﻭﺃ ﺩﺪﺣn\n\.ﻢﻬﺳﻭﺅﺭ ﻕﻮﻓ "؟"
+.ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ ﻰﻠﻋ ﺮﻘﻧﺍ</InteractingWithTraders.helpTextController>
+  
+  
+  <OpeningComms.label>ﺕﻻﺎﺼﺗﻻﺍ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺓﺪﺣﻭ</OpeningComms.label>
+  
+  <OpeningComms.helpText>ﺮﻘﻧﺍﻭ ﻦﻃﻮﺘﺴﻤﻟﺍ ﺩﺪﺣ ،ﺺﺨﺷ ﻱﺃ ﻊﻣ ﻞﺻﺍﻮﺘﻠﻟ
+.ﻝﺎﺼﺗﻻﺎﺑ ﻢﻜﺤﺘﻟﺍ ﺓﺪﺣﻭ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ</OpeningComms.helpText>
+  
+  <OpeningComms.helpTextController>ﺭﺰﻟﺎﺑ ﻂﻐﺿﺍﻭ ﻦﻛﺎﺳ ﺮﺘﺧﺍ ،ﺺﺨﺷ ﻱﺄﺑ ﻝﺎﺼﺗﻼﻟ
+.ﻝﺎﺼﺗﻻﺍ ﺔﺣﻮﻟ ﻰﻠﻋ ﺮﺴﻳﻷﺍ</OpeningComms.helpTextController>
+  
+  
+  <PrisonerTab.label>"ﺮﻴﺳﻷﺍ" ﺐﻳﻮﺒﺘﻟﺍ</PrisonerTab.label>
+  
+  <PrisonerTab.helpText>ﻞﻣﺎﻌﺘﻟﺍ ﺔﻴﻔﻴﻛ ﺪﻳﺪﺤﺘﻟ "ﺮﻴﺳﻷﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﻰﻠﻋ ﻊﻠﻃﺃ
+.ﻪﻤﻌﻄﺘﺳ ﺖﻨﻛ ﺍﺫﺇﻭ ،ﺔﻴﺒﻄﻟﺍ ﺔﻳﺎﻋﺮﻟﺍ ،ﻪﻌﻣ
+
+ﻞﻋﺎﻔﺘﻠﻟ ﺲﻴﻠﺠﻟﺍ ﺔﻤﻬﻤﺑ ﻒﻠﻜﻣ ﻦﻃﻮﺘﺴﻣ ﻰﻟﺇ ﺝﺎﺘﺤﺘﺳ
+.ﺮﻴﺳﻷﺍ ﻊﻣ</PrisonerTab.helpText>
+  
+  
+  <QueueOrders.label>ﺮﻣﺍﻭﻷﺍ ﺔﻤﺋﺎﻗ</QueueOrders.label>
+  
+  <QueueOrders.helpText>ﻖﻳﺮﻃ ﻦﻋ ﻦﻃﻮﺘﺴﻤﻠﻟ ﺓﺩﺪﻌﺘﻣ ﻡﺎﻬﻣ ﻦﻴﻴﻌﺗ ﻚﻨﻜﻤﻳ
+ﺍﺬﻫ .Shift ﺡﺎﺘﻔﻣ ﻰﻠﻋ ﺭﺍﺮﻤﺘﺳﻻﺍ ﻊﻣ ﻂﻐﻀﻟﺍ
+.ﻲﻟﺎﺘﻘﻟﺍ ﺮﻴﻏ ﻊﺿﻮﻟﺍ ﻲﻓ ﺎﻀﻳﺃ ﻞﻤﻌﻳ</QueueOrders.helpText>
+  
+  <QueueOrders.helpTextController>ﻂﻐﻀﻟﺍ ﺀﺎﻨﺛﺃ ﻦﻃﻮﺘﺴﻤﻠﻟ ﺓﺩﺪﻌﺘﻣ ﻡﺎﻬﻣ ﻦﻴﻴﻌﺗ ﻚﻨﻜﻤﻳ
+ﻊﺿﻮﻟﺍ ﻲﻓ ﺎﻀﻳﺃ ﻞﻤﻌﻳ ﺍﺬﻫ .{Key:QueueOrder} ﻰﻠﻋ
+.ﻲﻟﺎﺘﻘﻟﺍ ﺮﻴﻏ</QueueOrders.helpTextController>
+  
+  
+  <ReformCaravan.label>ﻖﻳﺮﻄﻟﺍ ﺔﻌﺑﺎﺘﻣ</ReformCaravan.label>
+  
+  <ReformCaravan.helpText>ﺔﻠﻓﺎﻘﻟﺍ ﺔﻠﺣﺭ ﺔﻌﺑﺎﺘﻣ ﻚﻨﻜﻤﻳ ،ﺔﻴﻟﺎﺘﻘﻟﺍ ﺔﻬﺟﺍﻮﻤﻟﺍ ﺪﻌﺑ
+ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻲﻓ ﺐﺳﺎﻨﻤﻟﺍ ﺮﻣﻷﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻟﻮﻬﺴﺑ
+."ﻢﻟﺎﻌﻟﺍ"</ReformCaravan.helpText>
+  
+  
+  <Rescuing.label>ﺫﺎﻘﻧﻹﺍ</Rescuing.label>
+  
+  <Rescuing.helpText>ﺭﺰﺑ ﺮﻘﻧﺍﻭ ﻢﻴﻠﺳ ﻦﻃﻮﺘﺴﻣ ﺮﺘﺧﺍ ،ﻦﻴﺑﺎﺼﻤﻟﺍ ﺫﺎﻘﻧﻹ
+.ﺏﺎﺼﻤﻟﺍ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ
+
+ﻢﻫﺫﺎﻘﻧﺇ ﻢﺗ ﻦﻳﺬﻟﺍ ﺱﺎﻨﻟﺍ ﺐﻏﺮﻳ ﻻ ﺪﻗ
+.ﻚﻴﻟﺇ ﻡﺎﻤﻀﻧﻻﺍ ﻲﻓ ﻚﻴﻨﻃﻮﺘﺴﻣ ﻦﻣ ﺍﻮﺴﻴﻟ ﻦﻳﺬﻟﺍﻭ
+ﺖﻨﻛ ﺍﺫﺇ .ﻲﻓﺎﻌﺘﻟﺍ ﺪﻌﺑ ﺔﻃﺎﺴﺒﺑ ﻥﻭﺭﺩﺎﻐﻳ ﺪﻗ
+ﻰﻠﻋ ﺾﺒﻘﻟﺍ ﻝﻭﺎﺣ ،ﺪﻴﻛﺄﺘﻟﺎﺑ ﺍﻮﻤﻀﻨﻳ ﻥﺃ ﺪﻳﺮﺗ
+.ﻢﻫﺪﻴﻨﺠﺗﻭ ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ</Rescuing.helpText>
+  
+  <Rescuing.helpTextController>ﻰﻠﻋ ﻂﻐﺿﺍﻭ ﺎﻤﻴﻠﺳ ﺎﻨﻛﺎﺳ ﺩﺪﺣ ،ﻦﻴﺑﺎﺼﻤﻟﺍ ﺫﺎﻘﻧﻹ
+.ﺮﺴﻳﻷﺍ ﺭﺰﻟﺎﺑ ﺏﺎﺼﻤﻟﺍ
+
+ﻢﻫﺫﺎﻘﻧﺇ ﻢﺗ ﻦﻳﺬﻟﺍ ﺹﺎﺨﺷﻷﺍ ﺐﻏﺮﻳ ﻻ ﺪﻗ
+.ﻚﻴﻟﺇ ﻡﺎﻤﻀﻧﻻﺍ ﻲﻓ ﻚﻧﺎﻜﺳ ﻦﻣ ﺍﻮﺴﻴﻟ ﻦﻳﺬﻟﺍﻭ
+ﺖﻨﻛ ﺍﺫﺇ .ﺀﺎﻔﺸﻟﺍ ﺪﻌﺑ ﺔﻃﺎﺴﺒﺑ ﻥﻭﺭﺩﺎﻐﻳ ﺪﻗ
+ﺪﻴﻨﺠﺗﻭ ﺯﺎﺠﺘﺣﺍ ﻝﻭﺎﺣ ،ﺪﻴﻛﺄﺘﻟﺎﺑ ﺍﻮﻤﻀﻨﻳ ﻥﺃ ﺪﻳﺮﺗ
+.ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ</Rescuing.helpTextController>
+  
+  
+  <SetGrowingZonePlant.label>ﻪﺘﻋﺍﺭﺯ ﺪﻳﺮﺗ ﻱﺬﻟﺍ ﺕﺎﺒﻨﻟﺍ ﺩﺪﺣ</SetGrowingZonePlant.label>
+  
+  <SetGrowingZonePlant.helpText>ﺔﺼﺼﺨﻤﻟﺍ ﻖﻃﺎﻨﻤﻟﺍ ﻲﻓ ﺀﻻﺰﻨﻟﺍ ﻪﻋﺭﺰﻴﺳ ﺎﻣ ﺮﺘﺧﺍ
+ﺭﺯ ﻰﻠﻋ ﻂﻐﺿﺍ ،ﺔﻋﺍﺭﺰﻟﺍ ﺔﻘﻄﻨﻣ ﺮﺘﺧﺍ .ﻚﻟﺬﻟ
+.ﺎﻬﺘﻋﺍﺭﺯ ﻲﻓ ﺐﻏﺮﺗ ﻲﺘﻟﺍ ﺔﻓﺎﻘﺜﻟﺍ ﺮﺘﺧﺍﻭ "ﺕﺎﺒﻨﻟﺍ"</SetGrowingZonePlant.helpText>
+  
+  
+  <Shelves.label>ﻑﻮﻓﺮﻟﺍ</Shelves.label>
+  
+  <Shelves.helpText>ﺙﻼﺜﺑ ﺔﻴﻟﺎﻌﻓ ﺮﺜﻛﺃ ﻑﻮﻓﺮﻟﺍ ﻰﻠﻋ ﺮﺻﺎﻨﻌﻟﺍ ﻦﻳﺰﺨﺗ
+ﻰﻠﻋ ﺮﺻﺎﻨﻌﻟﺍ .ﺽﺭﻷﺍ ﻰﻠﻋ ﺎﻬﻨﻳﺰﺨﺗ ﻦﻣ ﺕﺍﺮﻣ
+ﻝﺎﻤﺟ ﻰﻠﻋ ﺮﺛﺆﺗ ﻻﻭ ﻦﻔﻌﺘﺗ ﻻ ﻑﻮﻓﺮﻟﺍ
+.ﺔﻄﻴﺤﻤﻟﺍ ﺔﺌﻴﺒﻟﺍ
+
+ﻦﻳﺰﺨﺗ ﺕﺍﺩﺍﺪﻋﺈﺑ ﺕﺎﻋﻮﻤﺠﻣ ﻲﻓ ﻑﻮﻓﺮﻟﺍ ﺞﻣﺩ ﻦﻜﻤﻳ
+ﺮﺜﻛﺃ ﻭﺃ 2 ﺮﺘﺧﺍ ،ﻚﻟﺬﺑ ﻡﺎﻴﻘﻠﻟ .ﺔﻛﺮﺘﺸﻣ
+Merge&gt;" ﺭﺰﻟﺍ ﻰﻠﻋ ﻂﻐﺿﺍ ﻢﺛ ،ﻑﻮﻓﺮﻟﺍ ﻦﻣ
+."&lt;storage settings</Shelves.helpText>
+  
+  
+  <ShieldBelts.label>ﺔﻳﺮﺼﺨﻟﺍ ﻉﻭﺭﺪﻟﺍ ﺕﺍﺪﻟﻮﻣ</ShieldBelts.label>
+  
+  <ShieldBelts.helpText>ﺔﻳﺮﺼﺨﻟﺍ ﻉﻭﺭﺪﻟﺍ ﺕﺍﺪﻟﻮﻣ ﻪﺌﺸﻨﻳ ﻱﺬﻟﺍ ﻲﻗﺍﻮﻟﺍ ﻞﻘﺤﻟﺍ
+ﻻ ﻪﻨﻜﻟ ،ﺔﺟﺭﺎﺨﻟﺍﻭ ﺔﻣﺩﺎﻘﻟﺍ ﺓﺪﻴﻌﺒﻟﺍ ﺕﺎﻤﺠﻬﻟﺍ ﻒﻗﻮﻳ
+.ﺔﺒﻳﺮﻘﻟﺍ ﺕﺎﻤﺠﻬﻟﺍ ﻰﻠﻋ ﺮﺛﺆﻳ
+
+ﺭﺎﻨﻟﺍ ﺰﻛﺭ ،ﻉﺭﺩ ﻡﺍﺰﺣ ﻱﺪﺗﺮﻳ ﻭﺪﻋ ﺔﺤﻓﺎﻜﻤﻟ
+.ﺔﻳﺭﺎﻌﻟﺍ ﻱﺪﻳﻷﺎﺑ ﻪﻠﺗﺎﻗ ﻭﺃ ﻪﻴﻠﻋ</ShieldBelts.helpText>
+  
+  
+  <TVForSickPeople.label>ﻰﺿﺮﻤﻠﻟ ﺯﺎﻔﻠﺘﻟﺍ ﺓﺰﻬﺟﺃ</TVForSickPeople.label>
+  
+  <TVForSickPeople.helpText>ﻥﻮﻳﺰﻔﻠﺘﻟﺍ ﻊﺿ ،ﺝﻼﻌﻟﺍ ﺖﺤﺗ ﻦﻳﺩﻮﺟﻮﻤﻟﺍ ﺀﻻﺰﻨﻟﺍ ﻪﻴﻓﺮﺘﻟ
+.ﻢﻬﺗﺮﺳﺃ ﻦﻣ ﺏﺮﻘﻟﺎﺑ</TVForSickPeople.helpText>
+  
+</LanguageData>
