@@ -1,0 +1,38 @@
+<LanguageData>
+  
+  
+  <PsychiteAddiction.label>ﻲﺴﻔﻧ ﻥﺎﻣﺩﺇ</PsychiteAddiction.label>
+  
+  <PsychiteAddiction.description>ﺕﺍﺮﻴﻐﺗ ﺐﺒﺴﻳ ﻙﻼﻬﺘﺳﻻﺍ ﻉﺎﻔﺗﺭﺍ .ﺕﺍﺭﺪﺨﻤﻟﺍ ﻰﻠﻋ ﻥﺎﻣﺩﻹﺍ
+ﻥﺃ ﻲﻨﻌﻳ ﺎﻤﻣ ،ﺎﻳﻼﺨﻟﺍ ﻯﻮﺘﺴﻣ ﻰﻠﻋ ﺔﻴﺒﺼﻋ
+ﻥﻭﺪﺑ ﻲﻌﻴﺒﻃ ﻞﻜﺸﺑ ﻞﻤﻌﻟﺍ ﻊﻴﻄﺘﺴﻳ ﻻ ﻍﺎﻣﺪﻟﺍ
+.ﺓﺩﺎﻤﻟﺍ
+
+ﺓﺮﺘﻓﻭ ،ﺎﺑﺎﺤﺴﻧﺍ ﺐﺒﺴﻴﺳ ﺭﺪﺨﻤﻠﻟ ﻢﻈﺘﻨﻤﻟﺍ ﻙﻼﻬﺘﺳﻻﺍ ﻊﻄﻗ
+ﻰﻟﺇ ﺓﺩﻮﻌﻟﺍ ﻰﻠﻋ ﻍﺎﻣﺪﻟﺍ ﺪﻋﺎﺴﺘﺳ ﺔﻠﻳﻮﻃ ﻉﺎﻨﺘﻣﺍ
+.ﻥﺎﻣﺩﻹﺍ ﻦﻣ ﺺﻠﺨﺘﻟﺍﻭ ﺔﻴﻌﻴﺒﻄﻟﺍ ﺔﻟﺎﺤﻟﺍ</PsychiteAddiction.description>
+  
+  <PsychiteAddiction.stages.withdrawal.label>ﻞﻄﻌﺗ</PsychiteAddiction.stages.withdrawal.label>
+  
+  
+  <PsychiteTolerance.label>ﺏﺮﻄﻀﻤﻟﺍ ﻞﻘﻌﻟﺍ ﻩﺎﺠﺗ ﺢﻣﺎﺴﺘﻟﺍ</PsychiteTolerance.label>
+  
+  <PsychiteTolerance.description>ﺔﻳﺪﺟ ﺮﺜﻛﺃ ﻥﺎﻛ ﺎﻤﻠﻛ .ﺲﻔﻨﻟﺍ ﻩﺎﺠﺗ ﺢﻣﺎﺴﺘﻟﺍ
+ﻊﻣ ﻞﻣﺎﻌﺘﻠﻟ ﺮﺒﻛﺃ ﺔﺟﺎﺣ ﻙﺎﻨﻫ ﻥﺎﻛ ،
+.ﻲﺋﺪﺒﻤﻟﺍ ﺮﻴﺛﺄﺘﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺲﻔﻨﻟﺍ</PsychiteTolerance.description>
+  
+  <PsychiteTolerance.stages.small.label>ﺍﺪﺟ ﺓﺮﻴﻐﺻ</PsychiteTolerance.stages.small.label>
+  
+  <PsychiteTolerance.stages.large.label>ﺔﻄﺳﻮﺘﻣ</PsychiteTolerance.stages.large.label>
+  
+  <PsychiteTolerance.stages.massive.label>ﺔﻳﻮﻗ</PsychiteTolerance.stages.massive.label>
+  
+  
+  <YayoHigh.label>ﻲﻠﻘﻌﻟﺍ ﺫﺍﻮﺤﺘﺳﻻﺍ ﻕﻮﺤﺴﻣ ﺮﻴﺛﺄﺗ ﺖﺤﺗ</YayoHigh.label>
+  
+  <YayoHigh.description>ﺍﺭﻮﻌﺷ ﺐﺒﺴﺗ ﻞﻘﻌﻟﺍ ﻕﻮﺤﺴﻣ ﻲﻓ ﺔﻄﺸﻨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ
+.ﻡﺪﻟﺍ ﻲﻓ ﺓﻮﺸﻨﻟﺎﺑ ﺔﻳﺎﻐﻠﻟ ﺍﺪﻳﺪﺷ</YayoHigh.description>
+  
+  <YayoHigh.labelNoun>ﻦﻫﺬﻟﺍ ﻕﻮﺤﺴﻣ ﻦﻣ ﺔﻌﺘﻣ</YayoHigh.labelNoun>
+  
+</LanguageData>
