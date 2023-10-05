@@ -1,0 +1,408 @@
+<LanguageData>
+
+  
+  
+  <ManualPriorities>ﻖﻴﻗﺩ ﻂﺒﺿ</ManualPriorities>
+  
+  <HigherPriority>ﺔﻳﻮﻟﻭﺃ ﻰﻠﻋﺃ</HigherPriority>
+  
+  <LowerPriority>ﺔﻀﻔﺨﻨﻣ ﺔﻳﻮﻟﻭﺃ</LowerPriority>
+  
+  <RelevantSkills>{1} :ﺕﺍﺭﺎﻬﻤﻟﺍ ﻯﻮﺘﺴﻣ ﻂﺳﻮﺘﻣn\{0} :ﺔﺑﻮﻠﻄﻤﻟﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ</RelevantSkills>
+  
+  <ClickToJumpTo>:ﻰﻟﺇ ﻝﺎﻘﺘﻧﻼﻟ ﻂﻐﺿﺍ</ClickToJumpTo>
+  
+  <CannotDoThisWork>ﺍﺬﻫ ﻦﻣ ﻞﻤﻌﺑ ﻡﺎﻴﻘﻟﺍ {labelShort_1} ﻊﻴﻄﺘﺴﻳ ﻻ
+.ﻉﻮﻨﻟﺍ</CannotDoThisWork>
+  
+  <NoneBrackets>(ﺓﺩﻮﻘﻔﻤﻟﺍ)</NoneBrackets>
+  
+  <IncapableOfWorkTypeBecauseOfCapacities>ﻞﻤﻌﺑ ﻡﺎﻴﻘﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ ﻦﻃﻮﺘﺴﻤﻟﺍ ﺍﺬﻫ
+.ﺔﻴﺤﺼﻟﺍ ﻪﺘﻟﺎﺣ ﺐﺒﺴﺑ ﻉﻮﻨﻟﺍ ﺍﺬﻫ ﻦﻣ</IncapableOfWorkTypeBecauseOfCapacities>
+  
+  <EmergencyWorkMarker>!</EmergencyWorkMarker>
+  
+  <SelectedWorkTypeWithVeryBadSkill>ﺾﻔﺨﻨﻣ ﺕﺍﺭﺎﻬﻤﻟﺍ ﻦﻣ ﺏﻮﻠﻄﻤﻟﺍ ﻂﺳﻮﺘﻤﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ :ﻪﻴﺒﻨﺗ
+.ﺍﺪﺟ</SelectedWorkTypeWithVeryBadSkill>
+  
+  <PriorityOneDoneFirst>- 4 ﺔﻴﻠﻀﻓﻷﺍ .ﻰﻠﻋﻷﺍ - 1 ﺔﻴﻠﻀﻓﻷﺍ
+.ﻰﻧﺩﻷﺍ</PriorityOneDoneFirst>
+  
+  <Priority0>ﺔﻤﻬﻤﻟﺎﺑ ﻡﺎﻴﻘﻟﺍ ﻡﺪﻋ</Priority0>
+  
+  <Priority1>ﺔﻳﻮﻟﻭﺃ ﻰﻠﻋﺃ</Priority1>
+  
+  <Priority2>ﺔﻴﻟﺎﻋ ﺔﻳﻮﻟﻭﺃ</Priority2>
+  
+  <Priority3>ﺔﻳﺩﺎﻌﻟﺍ ﺔﻳﻮﻟﻭﻷﺍ</Priority3>
+  
+  <Priority4>ﺔﻀﻔﺨﻨﻣ ﺔﻳﻮﻟﻭﺃ</Priority4>
+  
+  <PawnFactionInfo>{0}\n\n1} ﺎﻬﻴﻟﺇ ﻲﻤﺘﻨﻳ ﻲﺘﻟﺍ ﺔﻋﺎﻤﺠﻟﺍ_nameDef} ﺖﻗﻮﻟﺍ ﻲﻓ
+ﻲﻟﺎﺤﻟﺍ.\n\nﺔﻋﺎﻤﺠﻟﺍ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻼﻟ ﺮﻘﻧﺍ.</PawnFactionInfo>
+  
+  <WorkDisabledByBackstory>{0} :ﺔﻴﺗﺍﺬﻟﺍ ﻪﺗﺮﻴﺳ ﺐﺒﺴﺑ ﺭﻮﻈﺤﻣ</WorkDisabledByBackstory>
+  
+  <WorkDisabledByTrait>{0} :ﺶﺣﻮﻟﺍ ﺮﻈﺣ ﻢﺗ</WorkDisabledByTrait>
+  
+  <WorkDisabledByQuest>"{0}" ﺔﻤﻬﻤﻟﺍ ﺮﻈﺣ ﻢﺗ</WorkDisabledByQuest>
+  
+  
+  
+  <ManageOutfits>ﺔﻧﺍﺰﺨﻟﺍ ﺓﺭﺍﺩﺇ</ManageOutfits>
+  
+  <Unchangeable>.ﺎﻬﻟﺍﺪﺒﺘﺳﺍ ﻦﻜﻤﻳ ﻻ</Unchangeable>
+  
+  <ClearForcedApparel>ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ</ClearForcedApparel>
+  
+  <ApparelForcedLower>ﺮﺒﺠﻣ</ApparelForcedLower>
+  
+  <ApparelLockedLower>ﻩﺮﻈﺣ ﻢﺗ</ApparelLockedLower>
+  
+  <ForcedApparel>ﺔﻳﺮﺴﻘﻟﺍ ﺲﺑﻼﻤﻟﺍ</ForcedApparel>
+  
+  <AssignTabEdit>ﻞﻳﺪﻌﺗ</AssignTabEdit>
+  
+  <ManageDrugPolicies>ﺔﻳﻭﺩﻷﺍ ﻝﻭﺎﻨﺗ ﺓﺭﺍﺩﺇ</ManageDrugPolicies>
+  
+  <ManageFoodRestrictions>ﻲﺋﺍﺬﻐﻟﺍ ﻡﺎﻈﻨﻟﺍ ﺓﺭﺍﺩﺇ</ManageFoodRestrictions>
+  
+  
+  
+  <Copy>ﺮﺒﺘﻌﺗ ﺎﻬﻧﻷ "Копировать" ﺔﻤﻠﻛ ﺔﻤﺟﺮﺗ ﻲﻨﻨﻜﻤﻳ ﻻ
+.RimWorld ﺔﺒﻌﻟ ﻲﻓ ﺎﻴﻨﻓ ﺍﺮﻣﺃ</Copy>
+  
+  <Paste>ﺝﺍﺭﺩﺇ</Paste>
+  
+  <AllowedArea>ﺔﺣﺎﺘﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ</AllowedArea>
+  
+  
+  
+  <Master>ﺪﻴﺴﻟﺍ</Master>
+  
+  <PregnantIconDesc>({1} / {0}) ﻞﻣﺎﺣ</PregnantIconDesc>
+  
+  <BondedTo>ﻰﻟﺇ ﺀﺎﻤﺘﻧﻻﺍ</BondedTo>
+  
+  <SterilizeAnimal>.ﻥﺍﻮﻴﺤﻟﺍ ﻢﻴﻘﻌﺗ</SterilizeAnimal>
+  
+  <AnimalAlreadySterile>.ﻢﻴﻘﻋ ﻥﺍﻮﻴﺤﻟﺍ</AnimalAlreadySterile>
+  
+  
+  
+  <IsPredator>ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋ .ﻦﻳﺮﺧﻵﺍ ﻡﻮﺤﻟ ﻞﻛﺁ ﻥﺍﻮﻴﺣ ﺍﺬﻫ
+ﺎﻤﺑ ﺎﻤﺑﺭ ،ﺎﻤﺠﺣ ﺮﻐﺻﺃ ﺕﺎﻧﺍﻮﻴﺣ ﺩﺎﻄﺼﻴﺳ ،ﺎﻌﺋﺎﺟ
+.ﺮﺸﺒﻟﺍ ﻚﻟﺫ ﻲﻓ</IsPredator>
+  
+  <IsInMentalState>{0} :ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﺔﻟﺎﺣ ﻲﻓ ﻥﺍﻮﻴﺤﻟﺍ</IsInMentalState>
+  
+  
+  
+  <Hostile>ﺀﺍﺪﻋﺃ</Hostile>
+  
+  <Ally>ﺀﺎﻔﻠﺤﻟﺍ</Ally>
+  
+  <HostileLower>ﺀﺍﺪﻋﻷﺍ</HostileLower>
+  
+  <AllyLower>ﺀﺎﻔﻠﺤﻟﺍ</AllyLower>
+  
+  <DefeatedLower>.ﻢﻬﻣﺰﻫ ﻢﺗ</DefeatedLower>
+  
+  <HostileTo>{0} ﺔﺒﻴﺘﻜﻟﺍ ﺀﺍﺪﻋﺃ</HostileTo>
+  
+  <EnemyOf>:ﺕﺎﻋﺎﻤﺠﻟﺍ ﺀﺍﺪﻋﺃ</EnemyOf>
+  
+  <RecentEvents>ﺓﺮﻴﺧﻷﺍ ﺙﺍﺪﺣﻷﺍ</RecentEvents>
+  
+  <OngoingEvents>ﺔﻴﻟﺎﺤﻟﺍ ﺙﺍﺪﺣﻷﺍ</OngoingEvents>
+  
+  <CurrentGoodwillTip_PermanentEnemy>ﻑﻮﺳ .ﻚﻫﺎﺠﺗ ﺎﻴﻧﺍﻭﺪﻋ ﺎﻤﺋﺍﺩ ﻥﻮﻜﻴﺳ ﻞﻴﺼﻔﻟﺍ ﺍﺬﻫ
+ﺕﺎﻗﻼﻌﻟﺍ ﻦﻴﺴﺤﺗ ﻦﻜﻤﻳ ﻻ .ﻚﻠﻓﺍﻮﻗﻭ ﻚﺗﺎﻨﻃﻮﺘﺴﻣ ﻥﻮﻤﺟﺎﻬﻳ
+.ﺔﻘﻳﺮﻃ ﻱﺄﺑ ﻢﻬﻌﻣ</CurrentGoodwillTip_PermanentEnemy>
+  
+  <CurrentGoodwillTip_Ally>ﻦﻴﻠﺗﺎﻘﻣ ﻝﺎﺳﺭﺈﺑ ﻥﻮﻣﻮﻘﻴﺳ .ﻚﻟ ﺔﻔﻴﻠﺣ ﺔﺒﻴﺘﻜﻟﺍ ﻩﺬﻫ
+ﻞﻗﺃ ﻚﺘﻌﻤﺳ ﺖﻀﻔﺨﻧﺍ ﺍﺫﺇ .ﻥﺎﻜﻣﻹﺍ ﺭﺪﻘﺑ ﺓﺪﻋﺎﺴﻤﻠﻟ
+.ﺓﺪﻳﺎﺤﻣ ﺢﺒﺼﺘﺳ ، {0} ﻦﻣ</CurrentGoodwillTip_Ally>
+  
+  <CurrentGoodwillTip_Neutral>ﻢﻜﻌﻣ ﻥﻭﺮﺟﺎﺘﻳﻭ ﻥﻮﻠﺻﺍﻮﺘﻴﺳ ،ﻢﻜﻫﺎﺠﺗ ﺪﻳﺎﺤﻣ ﻖﻳﺮﻔﻟﺍ ﺍﺬﻫ
+ﻞﻗﺃ ﻢﻬﻳﺪﻟ ﻚﺘﻌﻤﺳ ﺾﻔﺨﻧﺍ ﺍﺫﺇ ﻦﻜﻟ .ﺔﻳﺮﺤﺑ
+ﺐﺴﻜﺗ ﺖﻨﻛ ﺍﺫﺇ .ﺀﺍﺪﻋﺃ ﻥﻮﺤﺒﺼﻴﺳ ،{0} ﻦﻣ
+ﻚﻟ ﺀﺎﻔﻠﺣ ﻥﻮﺤﺒﺼﻴﺳ ،{1} ﻦﻣ ﻰﻠﻋﺃ ﺔﻌﻤﺳ
+.ﻁﺎﺸﻨﺑ ﻚﻧﻭﺪﻋﺎﺴﻴﺳﻭ</CurrentGoodwillTip_Neutral>
+  
+  <CurrentGoodwillTip_Hostile>ﻚﺗﺎﻨﻃﻮﺘﺴﻣ ﻢﺟﺎﻬﺘﺳ .ﻚﻟ ﺓﻭﺪﻋ ﺔﻗﺮﻔﻟﺍ ﻩﺬﻫ ﺪﻌﺗ
+ﻦﻣ ﻰﻠﻋﺃ ﺔﻌﻤﺳ ﻰﻠﻋ ﺖﻠﺼﺣ ﺍﺫﺇ .ﻚﻠﻓﺍﻮﻗﻭ
+.ﺪﻳﺎﺤﻣ ﻞﻜﺸﺑ ﻚﻠﻣﺎﻌﺘﺳ ، {0}</CurrentGoodwillTip_Hostile>
+
+  
+  
+  <Friend>ﻖﻳﺪﺻ</Friend>
+  
+  <Rival>ﻢﺼﺨﻟﺍ</Rival>
+  
+  <Acquaintance>ﻑﻭﺮﻌﻣ</Acquaintance>
+  
+  
+  
+  <Graph>ﻲﻨﻣﺰﻟﺍ ﻝﻭﺪﺠﻟﺍ</Graph>
+  
+  <Messages>ﺕﺎﻧﻼﻋﺇ</Messages>
+  
+  <Statistics>ﺕﺎﻴﺋﺎﺼﺣﻹﺍ</Statistics>
+  
+  
+  
+  <SelectGraph>ﻲﻨﻣﺰﻟﺍ ﻝﻭﺪﺠﻟﺍ ﺮﺘﺧﺍ</SelectGraph>
+  
+  <Last30Days>ﺎﻣﻮﻳ 30 ﺓﺪﻤﻟ</Last30Days>
+  
+  <Last100Days>ﻡﻮﻳ 100 ﺓﺪﻤﻟ</Last100Days>
+  
+  <Last300Days>ﻡﻮﻳ 300 ﻝﻼﺧ</Last300Days>
+  
+  <AllDays>ﺖﻗﻮﻟﺍ ﻝﺍﻮﻃ</AllDays>
+  
+  <Value>ﺔﻤﺟﺮﺗ ﺪﻳﺮﺗ ﻞﻫ .ﻚﺒﻠﻃ ﻦﻣ ﺍﺪﻛﺄﺘﻣ ﺖﺴﻟ
+؟ﺩﺪﺤﻣ ﻞﻜﺸﺑ ﺕﺍﺭﺎﺒﻌﻟﺍ ﺪﺣﺃ ﻡﺃ ﺺﻨﻟﺍ ﻞﻛ</Value>
+  
+  <External>ﻲﺟﺭﺎﺨﻟﺍ ﺮﻬﻈﻤﻟﺍ</External>
+
+  
+  
+  <ShowLetters>ﻞﺋﺎﺳﺮﻟﺍ ﺮﻬﻇﺃ</ShowLetters>
+  
+  <ShowMessages>ﻞﺋﺎﺳﺮﻟﺍ ﺽﺮﻋ</ShowMessages>
+  
+  <PinArchivableTip>ﺎﻣ ﺖﻴﺒﺜﺗ ﻦﻜﻤﻳn\n\.ﺔﻟﺎﺳﺮﻟﺍ ﺖﻴﺒﺜﺗ ﺀﺎﻐﻟﺇ ﻭﺃ ﺖﻴﺒﺜﺗ
+ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﺪﻨﻋ .ﺔﻟﺎﺳﺭ {0} ﻰﻟﺇ ﻞﺼﻳ
+.ﺔﻤﻳﺪﻘﻟﺍ ﻞﺋﺎﺳﺮﻟﺍ ﺖﻴﺒﺜﺗ ﺀﺎﻐﻟﺇ ﻢﺘﺘﺳ ،ﺪﺤﻟﺍ ﺍﺬﻫ</PinArchivableTip>
+  
+  <NoMessages>ﻞﺋﺎﺳﺭ ﺪﺟﻮﺗ ﻻ</NoMessages>
+
+  
+  
+  <Playtime>ﺔﺒﻌﻠﻟﺍ ﺖﻗﻭ</Playtime>
+  
+  <Storyteller>ﺙﺪﺤﺘﻤﻟﺍ</Storyteller>
+  
+  <ThisMapColonyWealthTotal>(ﺔﻄﻳﺮﺨﻟﺍ ﻩﺬﻫ ﻰﻠﻋ) ﺔﻨﻃﻮﺘﺴﻤﻠﻟ ﺔﻣﺎﻌﻟﺍ ﺓﻭﺮﺜﻟﺍ</ThisMapColonyWealthTotal>
+  
+  <ThisMapColonyWealthItems>(ﺔﻄﻳﺮﺨﻟﺍ ﻩﺬﻫ ﻲﻓ) ﺮﺻﺎﻨﻌﻟﺍ ﺓﻭﺮﺛ</ThisMapColonyWealthItems>
+  
+  <ThisMapColonyWealthBuildings>(ﺔﻄﻳﺮﺨﻟﺍ ﻩﺬﻫ ﻰﻠﻋ) ﺀﺎﻨﺒﻟﺍ ﻲﻓ ﺓﻭﺮﺛ</ThisMapColonyWealthBuildings>
+  
+  <ThisMapColonyWealthColonistsAndTameAnimals>(ﺔﻄﻳﺮﺨﻟﺍ ﻩﺬﻫ ﻰﻠﻋ) ﺔﻔﻴﻟﻷﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺓﻭﺮﺛ</ThisMapColonyWealthColonistsAndTameAnimals>
+  
+  <NumThreatBigs>ﺔﻴﺴﻴﺋﺮﻟﺍ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ</NumThreatBigs>
+  
+  <NumEnemyRaids>ﺔﻴﻧﺍﻭﺪﻌﻟﺍ ﺕﺎﻤﺠﻬﻟﺍ</NumEnemyRaids>
+  
+  <ThisMapDamageTaken>(ﺔﻄﻳﺮﺨﻟﺍ ﻩﺬﻫ ﻰﻠﻋ) ﻰﻘﻠﺘﻤﻟﺍ ﺭﺮﻀﻟﺍ</ThisMapDamageTaken>
+  
+  <ColonistsKilled>.ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻞﺘﻗ ﻢﺗ</ColonistsKilled>
+  
+  <ColonistsLaunched>.ﺀﺎﻀﻔﻟﺍ ﻰﻟﺇ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻝﺎﺳﺭﺇ ﻢﺗ</ColonistsLaunched>
+
+  
+  
+  <Research>ﻑﺎﺸﻜﺘﺳﺍ</Research>
+  
+  <Study>ﻢﻠﻌﺗ</Study>
+  
+  <StudyThing>{0} ﺔﺳﺍﺭﺩ</StudyThing>
+  
+  <Unresearched>ﺱﺭﺪﻣ ﺮﻴﻏ</Unresearched>
+  
+  <Finished>ﺀﺎﻬﺘﻧﻻﺍ ﻢﺗ</Finished>
+  
+  <InProgress>ﺔﻳﺭﺎﺟ ﺔﻴﻠﻤﻌﻟﺍ</InProgress>
+  
+  <Locked>ﺡﺎﺘﻣ ﺮﻴﻏ</Locked>
+  
+  <ResearchPrerequisites>ﺔﺑﻮﻠﻄﻤﻟﺍ ﺕﺎﻴﻨﻘﺘﻟﺍ</ResearchPrerequisites>
+  
+  <ResearchTechprintRequirement>{1} / {0} ﺔﺑﻮﻠﻄﻤﻟﺍ ﺕﺎﻄﻄﺨﻤﻟﺍ</ResearchTechprintRequirement>
+  
+  <InsufficientTechprintsApplied>{0}) ﺔﺑﻮﻠﻄﻤﻟﺍ ﺕﺎﻣﻮﺳﺮﻟﺍ ﻊﻴﻤﺟ ﻖﻴﺒﻄﺗ ﻢﺘﻳ ﻢﻟ
+({1} /</InsufficientTechprintsApplied>
+  
+  <PrerequisitesNotCompleted>ﻖﻘﺤﺘﺗ ﻢﻟ ﻁﻭﺮﺸﻟﺍ</PrerequisitesNotCompleted>
+  
+  <MissingRequiredResearchFacilities>ﺔﺑﻮﻠﻄﻣ ﺚﺤﺑ ﺕﺍﺪﻌﻣ ﺪﺟﻮﻳ ﻻ</MissingRequiredResearchFacilities>
+  
+  <RequiredResearchBench>.ﺙﺎﺤﺑﻸﻟ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺔﻟﻭﺎﻄﻟﺍ</RequiredResearchBench>
+  
+  <RequiredResearchBenchFacilities>.ﺙﻮﺤﺒﻟﺍ ﺔﻟﻭﺎﻄﻟ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺕﺍﺪﻌﻤﻟﺍ</RequiredResearchBenchFacilities>
+  
+  <ResearchCostComparison>ﻊﻣﻭ ، {0} ﻮﻫ ﻉﻭﺮﺸﻤﻠﻟ ﻲﺳﺎﺳﻷﺍ ﺮﻌﺴﻟﺍ
+.{1} ﺢﺒﺼﻳ ﻢﻜﺘﻴﻨﻘﺗ ﻯﻮﺘﺴﻣ</ResearchCostComparison>
+  
+  <ResearchTechprintsFromFactions>ﻝﺎﻤﻜﺘﺳﺍ ﻖﻳﺮﻃ ﻦﻋ ﺕﺎﻄﻄﺨﻤﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻳ
+:ﺕﺎﻧﺎﻴﻜﻟﺍ ﻩﺬﻫ ﻊﻣ ﺓﺭﺎﺠﺘﻟﺍ ﻭﺃ ﻡﺎﻬﻤﻟﺍ</ResearchTechprintsFromFactions>
+  
+  <TechLevelTooLow>ﻯﻮﺘﺴﻣﻭ {0} ﻮﻫ ﻚﺑ ﺹﺎﺨﻟﺍ ﺔﻴﻨﻘﺘﻟﺍ ﻯﻮﺘﺴﻣ
+ﺔﻋﺮﺳ ﺏﺮﺿ ﻢﺘﺘﺳ .{1} ﻮﻫ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻩﺬﻫ
+.{2} ـﺑ ﺚﺤﺒﻟﺍ</TechLevelTooLow>
+  
+  <UnlockedWith>ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺎﻬﺤﺘﻓ ﻢﺘﻳ</UnlockedWith>
+
+  
+  
+  <FactionsTab>ﺐﺋﺎﺘﻜﻟﺍ</FactionsTab>
+  
+  <NoFactions>.ﺔﻓﻭﺮﻌﻣ ﺕﺎﻋﺎﻤﺟ ﺪﺟﻮﺗ ﻻ</NoFactions>
+
+  
+  
+  <AvailableQuests>ﺓﺮﻓﻮﺘﻣ</AvailableQuests>
+  
+  <ActiveQuests>ﺔﻄﺸﻨﻟﺍ</ActiveQuests>
+  
+  <HistoricalQuests>ﺦﻳﺭﺎﺘﻟﺍ</HistoricalQuests>
+  
+  <NoQuestSelected>ﺓﺩﺪﺤﻣ ﺮﻴﻏ ﺔﻤﻬﻤﻟﺍ</NoQuestSelected>
+  
+  <AppearedDaysAgo>ﺎﻣﻮﻳ {numCase:d_0} ﺬﻨﻣ ﺕﺮﻬﻇ</AppearedDaysAgo>
+  
+  <AppearedOn>{0} ﺭﻮﻬﻇ</AppearedOn>
+  
+  <AcceptedAgo>ﺔﻠﺒﻗ {0} ﻝﻮﺒﻗ ﻢﺗ</AcceptedAgo>
+  
+  <AcceptedOn>{0} ﻝﻮﺒﻗ ﻢﺗ</AcceptedOn>
+  
+  <AcceptedAgoBy>ﺎﻨﻃﻮﺘﺴﻣ ﻪﻧﻮﻛ {1} ﺬﻨﻣ {0} ﻝﻮﺒﻗ ﻢﺗ
+.ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻲﻓ</AcceptedAgoBy>
+  
+  <AcceptedOnBy>.{1} ﻥﺎﻜﺳ ﻦﻣ ﺓﺪﺣﺍﻮﻛ {0} ﻝﻮﺒﻗ ﻢﺗ</AcceptedOnBy>
+  
+  <QuestExpiresIn>{0} ﻲﻓ ﺖﻗﻮﻟﺍ ﺀﺎﻬﺘﻧﺍ</QuestExpiresIn>
+  
+  <QuestExpiresOn>{0} ﺖﻗﻮﻟﺍ ﺀﺎﻬﺘﻧﺍ</QuestExpiresOn>
+  
+  <QuestAveragePawnMood>({1} :({0} ﻚﻟﺫ ﻞﺒﻗ) :ﺮﺋﺍﺰﻠﻟ ﻡﺎﻌﻟﺍ ﺝﺍﺰﻤﻟﺍ</QuestAveragePawnMood>
+  
+  <QuestAveragePawnMoodTargets>ـﺑ ﺔﻧﺭﺎﻘﻣ {0} ـﻟ ﺔﻄﺳﻮﺘﻤﻟﺍ ﺝﺍﺰﻤﻟﺍ ﺔﻟﺎﺣ
+{1}</QuestAveragePawnMoodTargets>
+  
+  <ShuttleArrivesIn>{0} ﻝﻼﺧ ﻞﺼﺘﺳ ﺔﻴﺋﺎﻀﻔﻟﺍ ﺔﺒﻛﺮﻤﻟﺍ</ShuttleArrivesIn>
+  
+  <ShuttleArrivesOn>{0} ﺔﻣﺩﺎﻗ ﺔﺒﻛﺮﻤﻟﺍ</ShuttleArrivesOn>
+  
+  <ShuttleDepartsIn>{0} ﻝﻼﺧ ﻖﻠﻄﻨﺗ ﻉﺍﺮﺸﻟﺍ ﺔﻨﻴﻔﺳ</ShuttleDepartsIn>
+  
+  <ShuttleDepartsOn>.{0} ﻰﻟﺇ ﺭﺩﺎﻐﺗ ﺔﻴﺋﺎﻀﻔﻟﺍ ﺔﺒﻛﺮﻤﻟﺍ</ShuttleDepartsOn>
+  
+  <GuestsDepartsIn>{0} ﻝﻼﺧ ﻥﻮﻬﺟﻮﺘﻳ ﻑﻮﻴﻀﻟﺍ</GuestsDepartsIn>
+  
+  <GuestsDepartsOn>{0} ﻰﻟﺇ ﻢﻬﻘﻳﺮﻃ ﻲﻓ ﻑﻮﻴﻀﻟﺍ</GuestsDepartsOn>
+  
+  <QuestFinishedAgo>ﻞﺒﻗ {0} ﻦﻣ ﺀﺎﻬﺘﻧﻻﺍ ﻢﺗ</QuestFinishedAgo>
+  
+  <AcceptQuest>ﺔﻤﻬﻤﻟﺍ ﻝﻮﺒﻗ</AcceptQuest>
+  
+  <AcceptWith>{labelShort_0} ﻦﻃﻮﺘﺴﻤﻟﺍ ﻝﻮﺒﻗ</AcceptWith>
+  
+  <AcceptQuestFor>ﺔﻤﻬﻤﻟﺍ ﻝﻮﺒﻗ</AcceptQuestFor>
+  
+  <AcceptQuestForTip>.ﺓﺰﺋﺎﺠﻟﺍ ﺍﺬﻫ ﻞﺑﺎﻘﻣ ﺔﻤﻬﻤﻟﺍ ﻝﻮﺒﻘﻟ ﻂﻐﺿﺍ</AcceptQuestForTip>
+  
+  <QuestOutcomeInfo_OfferExpired>.ﺽﺮﻌﻟﺍ ﺔﻴﺣﻼﺻ ﺖﻬﺘﻧﺍ</QuestOutcomeInfo_OfferExpired>
+  
+  <QuestOutcomeInfo_UnknownOrSuccess>.ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﺖﻠﻤﻛﺃ ﺪﻘﻟ</QuestOutcomeInfo_UnknownOrSuccess>
+  
+  <QuestOutcomeInfo_Failed>.ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﻡﺎﻤﺗﺇ ﻲﻓ ﺖﻠﺸﻓ ﺪﻘﻟ</QuestOutcomeInfo_Failed>
+  
+  <QuestOutcomeInfo_Invalid>.ﻪﻟﻮﺒﻗ ﻢﺘﻳ ﻥﺃ ﻞﺒﻗ ﻞﻤﻌﻟﺍ ﻥﺍﺪﻘﻓ ﻢﺗ</QuestOutcomeInfo_Invalid>
+  
+  <JumpToTargetCustom>{0} ﻰﻟﺇ ﻝﺎﻘﺘﻧﻻﺍ</JumpToTargetCustom>
+  
+  <SelectHiveTargets>ﺎﻳﻼﺨﻟﺍ ﺭﺎﻴﺘﺧﺍ</SelectHiveTargets>
+  
+  <QuestChallengeRatingTip>ﻞﻬﺳ :1
+ﺐﻌﺻ :2
+ﺍﺪﺟ ﺐﻌﺻ :3
+ﺔﻳﺎﻐﻠﻟ ﺐﻌﺻ :4</QuestChallengeRatingTip>
+  
+  <QuestAcceptanceRequirementsDescription>ﻚﻳﺪﻟ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ ،ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﻝﻮﺒﻘﻟ</QuestAcceptanceRequirementsDescription>
+  
+  <QuestBedroomRequirementsUnsatisfied>.ﻕﻮﻣﺮﻤﻟﺍ ﺐﺼﻨﻤﻠﻟ ﺔﺒﺳﺎﻨﻣ ، ﻡﻮﻧ ﻑﺮﻏ ﺓﺪﻋ</QuestBedroomRequirementsUnsatisfied>
+  
+  <QuestBedroomRequirementsUnsatisfiedSingle>ﺐﻘﻠﻟﺎﺑ ﻖﻴﻠﺗ ﻡﻮﻧ ﺔﻓﺮﻏ</QuestBedroomRequirementsUnsatisfiedSingle>
+  
+  <QuestThroneRoomRequirementsUnsatisfied>ـﻟ ﻊﺑﺎﺘﻟﺍ {TITLE} ﺐﻘﻠﻟ ﺔﺒﺳﺎﻨﻤﻟﺍ ﺔﻴﺷﺮﻌﻟﺍ ﺔﻋﺎﻘﻟﺍ
+.{PAWN_definite}</QuestThroneRoomRequirementsUnsatisfied>
+  
+  <QuestNoThroneRoom>{PAWN_definite} ـﻟ ﺵﺮﻌﻟﺍ ﻦﻴﻴﻌﺗ</QuestNoThroneRoom>
+  
+  <QuestNoColonistWithTitle>{0} ﺐﻘﻠﻟﺍ ﻭﺫ ﻦﻃﻮﺘﺴﻤﻟﺍ</QuestNoColonistWithTitle> 
+  
+  <QuestPawnNotOnColonyMap>ﻚﺘﻨﻃﻮﺘﺴﻣ ﻲﻓ ﻦﻛﺎﺴﻟﺍ</QuestPawnNotOnColonyMap>
+  
+  <QuestRequiresNoDangerOnMap>.ﺮﻴﻔﺴﻟﺍ ﺔﻋﺎﻤﺟ ﺀﺍﺪﻋﺃ ﻦﻣ ﺔﻄﻳﺮﺨﻟﺍ ﺮﻴﻬﻄﺗ</QuestRequiresNoDangerOnMap>
+  
+  <QuestCanNotStartUntilBestowingCeremonyFinished>ﺐﻘﻠﻟﺍ ﻢﻴﻠﺴﺗ ﻞﻔﺣ ﺀﺎﻬﺘﻧﺍ ﺮﻈﺘﻧﺍ</QuestCanNotStartUntilBestowingCeremonyFinished>
+  
+  <ChooseRewards>ﺕﺂﻓﺎﻜﻤﻟﺍ ﺕﻼﻴﻀﻔﺗ</ChooseRewards>
+  
+  <ChooseRewardsDesc>ﺐﻏﺮﺗ ﻲﺘﻟﺍ ﺕﺂﻓﺎﻜﻤﻟﺍ ﻉﺍﻮﻧﺄﺑ ﻯﺮﺧﻷﺍ ﻞﺋﺎﺼﻔﻟﺍ ﻢﻠﻋﺃ
+.ﺔﻴﻠﺒﻘﺘﺴﻤﻟﺍ ﻡﺎﻬﻤﻟﺍ ﻝﺎﻤﻛﺇ ﺪﻨﻋ ﺎﻬﻴﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻲﻓ
+ﻲﺘﻟﺍ ﻡﺎﻬﻤﻟﺍ ﻰﻠﻋ ﺮﺛﺆﻳ ﻦﻟ ﺭﺎﻴﺘﺧﻻﺍ ﺍﺬﻫ
+.ﻞﻌﻔﻟﺎﺑ ﺎﻬﻴﻘﻠﺗ ﻢﺗ</ChooseRewardsDesc>
+  
+  <AcceptRoyalFavor>ﺀﻼﺒﻨﻟﺍ ﻞﻀﻓ</AcceptRoyalFavor>
+  
+  <AcceptRoyalFavorDesc>lookup: {FACTION_royalFavorLabel};} ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻲﻓ ﺐﻏﺮﻧ ﻞﻫ
+ﻦﻜﻳ ﻢﻟ ﺍﺫﺇ .{FACTION_name} ﻦﻣ {Case; 3
+ﺎﻨﻀﻳﻮﻌﺗ ﻦﻣ {FACTION_name} ﺎﻨﻜﻤﺘﺳ ، ﻚﻟﺬﻛ ﺮﻣﻷﺍ
+ﻰﻠﻋ ﻂﻘﻓ ﺭﺎﻴﺨﻟﺍ ﻩﺬﻫ ﺮﺛﺆﺘﺳ .ﻯﺮﺧﺃ ﺔﻘﻳﺮﻄﺑ
+.ﻞﺒﻘﺘﺴﻤﻟﺍ ﻲﻓ ﺎﻬﻤﻠﺘﺴﻧ ﻲﺘﻟﺍ ﻡﺎﻬﻤﻟﺍ</AcceptRoyalFavorDesc>
+  
+  <AcceptGoodwill>ﺔﻌﻤﺴﻟﺍ</AcceptGoodwill>
+  
+  <AcceptGoodwillDesc>ﺓﺭﺎﺒﻋ ﺓﺄﻓﺎﻜﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻲﻓ ﺐﻏﺮﻧ ﻞﻫ
+ﺍﺫﺇ ؟{FACTION_name} ﺔﻗﺮﻔﻟﺍ ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﻦﻴﺴﺤﺗ ﻦﻋ
+ﺓﺄﻓﺎﻜﻣ {FACTION_name} ﺔﻗﺮﻔﻟﺍ ﺎﻨﺤﻨﻤﺘﺳ ،ﻚﻟﺬﻛ ﻦﻜﻧ ﻢﻟ
+ﻰﻠﻋ ﻂﻘﻓ ﺮﺛﺆﻴﺳ ﺭﺎﻴﺨﻟﺍ ﺍﺬﻫ .ﺔﻔﻠﺘﺨﻣ ﺔﻘﻳﺮﻄﺑ
+.ﺎﺜﻳﺪﺣ ﺔﻤﻠﺘﺴﻤﻟﺍ ﻡﺎﻬﻤﻟﺍ</AcceptGoodwillDesc>
+  
+  <RoyalFavorOn>ﻻﺪﺑ [FACTION_royalFavorLabel; Case; 3] ﻰﻘﻠﺘﺗ ﻥﺍ ﺕﺭﺮﻗ
+.ﻚﻟﺫ ﻦﻣ</RoyalFavorOn>
+  
+  <RoyalFavorOff>.[3 ;ﺔﻟﺎﺣ ;FACTION_royalFavorLabel] ﻝﻮﺒﻗ ﻡﺪﻋ ﺕﺭﺮﻗ ﺪﻘﻟ</RoyalFavorOff>
+  
+  <GoodwillTip>ﺔﻌﻤﺴﻟﺍn\n\.{1} ﺭﺍﺪﻘﻤﺑ {name_0} ﺔﻋﺎﻤﺟ ﻊﻣ ﻚﺘﻌﻤﺳ ﻊﻔﺗﺮﺘﺳ
+ﻦﻴﺑﻭ ﻚﻨﻴﺑ ﺔﻗﻼﻌﻟﺍ ﺔﻌﻤﺴﻟﺍ ﺲﻜﻌﺗn\n\.({5}) {4} :ﺔﻴﻟﺎﺤﻟﺍ
+،{2} ﻦﻣ ﻞﻗﺃ ﺖﻀﻔﺨﻧﺍ ﺍﺫﺇ .ﻯﺮﺧﻷﺍ ﺕﺎﻋﺎﻤﺠﻟﺍ
+ﺍﺫﺇ .ﻚﻠﻓﺍﻮﻗﻭ ﻚﺘﻨﻃﻮﺘﺴﻣ ﻢﺟﺎﻬﺘﺳﻭ ﺔﻳﺩﺎﻌﻣ ﺔﻋﺎﻤﺟ ﺢﺒﺼﺘﺳ
+ﺔﻔﻴﻠﺣ ﺔﻋﺎﻤﺟ ﺢﺒﺼﺘﺳ ،{3} ﻕﻮﻓ ﺔﻌﻤﺴﻟﺍ ﺖﻌﻔﺗﺭﺍ
+ﻞﻈﺘﺳ ،ﻻﺇﻭ .ﻥﺎﻜﻣﻹﺍ ﺐﺴﺣ ﺔﻳﺮﻜﺴﻌﻟﺍ ﺓﺪﻋﺎﺴﻤﻟﺍ ﻞﺳﺮﺘﺳﻭ
+.ﺕﺎﺿﻭﺎﻔﻤﻟﺍﻭ ﺓﺭﺎﺠﺘﻠﻟ ﺔﺣﻮﺘﻔﻣ ﻥﻮﻜﺘﺳﻭ ﺓﺪﻳﺎﺤﻣ ﺔﻋﺎﻤﺠﻟﺍ</GoodwillTip>
+  
+  <PawnQuestReward>{0_labelShort} ﻚﻴﻟﺇ ﻢﻀﻨﻴﺳ.</PawnQuestReward>
+  
+  <QuestBetrayalOffer>? numCase_0} ﻙﺎﻨﻫ ﻝﺍﺯ ﺎﻣ :ﺔﻧﺎﻴﺨﻟﺍ ﺽﺮﻋ
+{ﻑﺍﺪﻫﺃ : ﻑﺍﺪﻫﺃ : ﻑﺪﻫ</QuestBetrayalOffer>
+  
+  <QuestBetrayalOfferTip>ﺔﻗﺮﻓ ﺀﺎﻀﻋﺃ ﻊﻴﻤﺟ ﻞﺘﻗ ﻰﻠﻋ ﻚﺌﻓﺎﻜﻴﺳ {0}
+.{1}</QuestBetrayalOfferTip>
+  
+  <QuestRequiredPlayerWealth>.{0} ﻦﻣ ﻞﻗﺃ ﺖﺴﻴﻟ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﺓﻭﺮﺛ</QuestRequiredPlayerWealth>
+  
+  <QuestAlliedTo>{0} ﻊﻣ ﻒﻟﺎﺤﺗ</QuestAlliedTo>
+  
+  <QuestHostileTo>{0} ﻊﻣ ﺓﻭﺍﺪﻋ</QuestHostileTo>
+  
+  <QuestNeutralTo>{0} ﻊﻣ ﺩﺎﻴﺤﻟﺍ</QuestNeutralTo>
+  
+  <QuestRequiredThingStudied>{0_gender ? {ﺔﺳﺭﺪﻣ : ﺔﺳﺭﺪﻣ : ﺔﺳﺭﺪﻣ
+0}_labelShort}</QuestRequiredThingStudied>
+
+  
+  
+  <CreatesNeed>ﺔﺟﺎﺤﻟﺍ ﻱﺮﺜﻳ</CreatesNeed>
+
+  
+  
+  <ClickToEdit>ﻞﻳﺪﻌﺘﻠﻟ ﻂﻐﺿﺍ</ClickToEdit>
+
+</LanguageData>
