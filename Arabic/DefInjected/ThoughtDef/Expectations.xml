@@ -1,0 +1,56 @@
+<LanguageData>
+  
+  
+  
+  <Expectations.stages.skyhigh_expectations.label>ﺔﻴﻌﻗﺍﻭ ﺮﻴﻏ ﺕﺎﻌﻗﻮﺗ</Expectations.stages.skyhigh_expectations.label>
+  
+  <Expectations.stages.skyhigh_expectations.description>ﺮﻴﻓﻮﺗ ﻢﺘﻳ ﻥﺃ ﺐﺠﻳ !ﺔﻴﻫﺎﻓﺮﺑ ﺶﻴﻌﻧ ﻦﺤﻧ
+.ﻲﻟ ﺔﺣﺍﺮﻟﺍ ﻞﺋﺎﺳﻭ ﻊﻴﻤﺟ</Expectations.stages.skyhigh_expectations.description>
+  
+  <Expectations.stages.high_expectations.label>ﺔﻴﻟﺎﻋ ﺕﺎﻌﻗﻮﺗ</Expectations.stages.high_expectations.label>
+  
+  <Expectations.stages.high_expectations.description>ﻯﺭﺃ ﻻ .ﻞﻌﻔﻟﺎﺑ ﺪﻴﺟ ﻞﻜﺸﺑ ﺶﻴﻌﻧ ﻦﺤﻧ
+.ﺔﺻﺎﺨﻟﺍ ﺎﻨﺘﺣﺍﺮﺑ ﻡﺎﻤﺘﻫﻻﺍ ﻡﺪﻌﻟ ﺎﺒﺒﺳ</Expectations.stages.high_expectations.description>
+  
+  <Expectations.stages.moderate_expectations.label>ﺔﻟﺪﺘﻌﻣ ﺕﺎﻌﻗﻮﺗ</Expectations.stages.moderate_expectations.label>
+  
+  <Expectations.stages.moderate_expectations.description>ﺐﻠﻄﻟ ﻲﻔﻜﻳ ﺎﻤﺑ ﺎﻴﻨﻏ ﺲﻴﻟ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ
+.ﻚﺴﻔﻨﻟ ﺹﺎﺧ ﻡﺎﻤﺘﻫﺍ</Expectations.stages.moderate_expectations.description>
+  
+  <Expectations.stages.low_expectations.label>ﺔﻀﻔﺨﻨﻣ ﺕﺎﻌﻗﻮﺗ</Expectations.stages.low_expectations.label>
+  
+  <Expectations.stages.low_expectations.description>ﻯﻭﺪﺟ ﻻ ، ﻑﺮﺘﻠﻟ ﺖﻗﻭ ﺎﻨﻳﺪﻟ ﺲﻴﻟ
+.ﺔﺻﺎﺧ ﺔﺣﺍﺭ ﻊﻗﻮﺗ ﻦﻣ</Expectations.stages.low_expectations.description>
+  
+  <Expectations.stages.very_low_expectations.label>ﺍﺪﺟ ﺔﻀﻔﺨﻨﻣ ﺕﺎﻌﻗﻮﺗ</Expectations.stages.very_low_expectations.label>
+  
+  <Expectations.stages.very_low_expectations.description>ﻢﻟ ﺍﺫﺇﻭ ،ﺔﻴﺛﺭﺎﻛ ﺔﻟﺎﺣ ﻲﻓ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ
+.ﺀﻲﺷ ﺮﻴﻐﺘﻳ ﻦﻟ ،ﺔﻣﺰﺣﻷﺍ ﺪﺸﻧ</Expectations.stages.very_low_expectations.description>
+  
+  <Expectations.stages.extremely_low_expectations.label>ﺍﺪﺟ ﺔﻴﻧﺪﺘﻣ ﺕﺎﻌﻗﻮﺗ</Expectations.stages.extremely_low_expectations.label>
+  
+  <Expectations.stages.extremely_low_expectations.description>.ﻥﻵﺍ ﺔﺣﺍﺭ ﻱﺃ ﻦﻋ ﺚﻳﺪﺤﻟﺍ ﻦﻜﻤﻳ ﻻ
+.ﺭﻮﻣﻷﺎﺑ ﻚﺴﻤﺘﺗﻭ ﻚﻤﻓ ﻖﻠﻐﺗ ﻥﺃ ﺐﺠﻳ</Expectations.stages.extremely_low_expectations.description>
+  
+  <Expectations.stages.noble_expectations.label>ﺔﻓﺮﻌﻤﻟﺍ ﺕﺎﻌﻗﻮﺗ</Expectations.stages.noble_expectations.label>
+  
+  <Expectations.stages.noble_expectations.description>ﻰﻟﺇ ﺝﺎﺘﺣﺃﻭ ﻦﻴﻳﺩﺎﻌﻟﺍ ﺱﺎﻨﻟﺍ ﻕﻮﻓ ﻒﻗﺃ ﺎﻧﺃ
+!ﺔﻤﺋﻼﻣ ﻑﻭﺮﻇ</Expectations.stages.noble_expectations.description>
+  
+  <Expectations.stages.royal_expectations.label>ﺔﻴﻜﻠﻤﻟﺍ ﺕﺎﻌﻗﻮﺘﻟﺍ</Expectations.stages.royal_expectations.label>
+  
+  <Expectations.stages.royal_expectations.description>.ﻚﻟﺫ ﻕﺪﺼﻧ ﻥﺃ ﺐﻌﺼﻟﺍ ﻦﻣ ﻰﺘﺣ ...ﻲﺘﺒﺣﺎﺻ
+ﺝﺎﻋﺯﺇ ﻱﺃ ﻲﺘﻣﺍﺮﻜﻟ ﺀﻲﺴﻳ ﻥﺃ ﻲﻐﺒﻨﻳ ﻻ
+!ﺎﻔﻴﻔﻃ ﻥﺎﻛ ﻮﻟ ﻰﺘﺣ</Expectations.stages.royal_expectations.description>
+  
+  <Expectations.stages.elite_expectations.label>ﺔﺒﺨﻨﻟﺍ ﺕﺎﻌﻗﻮﺗ</Expectations.stages.elite_expectations.label>
+  
+  <Expectations.stages.elite_expectations.description>ﺀﺍﺩﺃ ﻦﻋ ﻲﻨﻴﻬﻠﻳ ﻥﺃ ﺐﺠﻳ ﺀﻲﺷ ﻻ
+.ﻡﺎﻬﻟﺍ ﻱﺭﻭﺩ</Expectations.stages.elite_expectations.description>
+  
+  <Expectations.stages.supreme_expectations.label>ﺔﻳﻭﺎﻤﺴﻟﺍ ﺕﺎﻌﻗﻮﺘﻟﺍ</Expectations.stages.supreme_expectations.label>
+  
+  <Expectations.stages.supreme_expectations.description>ﻲﻫ ﻲﺘﺣﺍﺭ ﻚﻟﺬﻟ ،ﺎﻬﻴﻓ ﻚﻜﺸﺗ ﻻ ﻲﺘﻴﻤﻫﺃ
+.ﺎﻨﻫ ﻦﻳﺪﺟﺍﻮﺘﻤﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻊﻴﻤﺠﻟ ﺔﻴﺳﺎﺳﻷﺍ ﺔﻤﻬﻤﻟﺍ</Expectations.stages.supreme_expectations.description>
+  
+</LanguageData>
