@@ -1,0 +1,38 @@
+<LanguageData>
+  
+  
+  <GoJuiceAddiction.label>Go ﺮﻴﺼﻋ ﻰﻠﻋ ﻥﺎﻣﺩﻹﺍ</GoJuiceAddiction.label>
+  
+  <GoJuiceAddiction.description>Go ﺮﻴﺼﻌﻟ ﻝﻮﻄﻣ ﻙﻼﻬﺘﺳﺍ .Go ﺮﻴﺼﻋ ﻥﺎﻣﺩﺇ
+ﺎﻤﻣ ،ﻱﻮﻠﺨﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ ﻰﻠﻋ ﺔﻴﺒﺼﻋ ﺕﺍﺮﻴﻐﺗ ﺐﺒﺴﻳ
+ﻞﻜﺸﺑ ﻞﻤﻌﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ ﻍﺎﻣﺪﻟﺍ ﻞﻌﺠﻳ
+.ﺓﺩﺎﻤﻟﺍ ﻥﻭﺪﺑ ﻲﻌﻴﺒﻃ
+
+- ﺏﺎﺤﺴﻧﻻﺍ ﺔﻣﺯﻼﺘﻣ ﻰﻟﺇ ﻱﺩﺆﻴﺳ ﺭﺮﻜﺘﻤﻟﺍ ﻉﺎﻨﺘﻣﻻﺍ
+ﻰﻠﻋ ﻍﺎﻣﺪﻟﺍ ﺪﻋﺎﺴﻴﺳ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﻉﺎﻨﺘﻣﻻﺍ .ﺭﺎﻴﻬﻧﻻﺍ
+.ﻥﺎﻣﺩﻹﺍ ﻦﻣ ﺺﻠﺨﺘﻟﺍﻭ ﺔﻴﻌﻴﺒﻄﻟﺍ ﺔﻟﺎﺤﻟﺍ ﻰﻟﺇ ﺓﺩﻮﻌﻟﺍ</GoJuiceAddiction.description>
+  
+  <GoJuiceAddiction.stages.withdrawal.label>ﻞﻄﻌﺗ</GoJuiceAddiction.stages.withdrawal.label>
+  
+  
+  <GoJuiceHigh.label>ﺏﺎﻫﺬﻟﺍ ﺮﻴﺼﻋ ﺮﻴﺛﺄﺗ ﺖﺤﺗ</GoJuiceHigh.label>
+  
+  <GoJuiceHigh.description>Go-сок ﻱﺎﺴﺒﻟﺍ ﺰﻴﻛﺮﺗ ﺪﻳﺰﻳﻭ ﺔﻴﻟﺎﺘﻘﻟﺍ ﺕﺍﺭﺪﻘﻟﺍ ﺯﺰﻌﻳ
+ﻡﺪﻟﺍ ﻞﺧﺪﻳﻭ ﻝﻭﻷﺍ ﻡﺍﺪﺨﺘﺳﻻﺍ ﺪﻨﻋ.</GoJuiceHigh.description>
+  
+  <GoJuiceHigh.labelNoun>Go-Juice Action</GoJuiceHigh.labelNoun>
+  
+  
+  <GoJuiceTolerance.label>Go ﺮﻴﺼﻋ ﻩﺎﺠﺗ ﺢﻣﺎﺴﺘﻟﺍ</GoJuiceTolerance.label>
+  
+  <GoJuiceTolerance.description>ﺕﺩﺍﺯ ،ﻞﻤﺤﺘﻟﺍ ﺩﺍﺯ ﺎﻤﻠﻛ .ﻱﻮﻘﻟﺍ ﺮﻴﺼﻌﻠﻟ ﻞﻤﺤﺘﻟﺍ
+ﺮﻴﺛﺄﺘﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺮﻴﺼﻌﻟﺍ ﻦﻣ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺔﻴﻤﻜﻟﺍ
+.ﺏﻮﻠﻄﻤﻟﺍ</GoJuiceTolerance.description>
+  
+  <GoJuiceTolerance.stages.small.label>ﺓﺮﻴﻐﺻ</GoJuiceTolerance.stages.small.label>
+  
+  <GoJuiceTolerance.stages.large.label>.ﺔﻄﺳﻮﺘﻣ</GoJuiceTolerance.stages.large.label>
+  
+  <GoJuiceTolerance.stages.massive.label>ﺔﻳﻮﻗ</GoJuiceTolerance.stages.massive.label>
+  
+</LanguageData>
