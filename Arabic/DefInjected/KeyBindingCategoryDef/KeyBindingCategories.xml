@@ -1,0 +1,51 @@
+<LanguageData>
+  
+  
+  <Architect.label>ﺀﺎﺸﻧﺇ</Architect.label>
+  
+  <Architect.description>."ﻊﻳﺭﺎﺸﻤﻟﺍ" ﺔﻤﺋﺎﻗ ﻲﻓ ﻢﻜﺤﺘﻟﺍ</Architect.description>
+  
+  
+  <DebugMenu.label>ﺢﻴﺤﺼﺘﻟﺍ ﺔﻤﺋﺎﻗ</DebugMenu.label>
+  
+  <DebugMenu.description>ﻲﻓ ﻂﻘﻓ ﺡﺎﺘﻣ .ﺕﺎﺣﻼﺻﻹﺍ ﺔﻤﺋﺎﻗ ﻲﻓ ﻢﻜﺤﺘﻟﺍ
+ﺭﻮﻄﻤﻟﺍ ﻊﺿﻭ</DebugMenu.description>
+  
+  
+  <Development.label>.ﻦﻳﺭﻮﻄﻤﻟﺍ ﻰﻟﺇ</Development.label>
+  
+  <Development.description>.ﺭﻮﻄﻤﻟﺍ ﻊﺿﻭ ﻒﺋﺎﻇﻭ ﻲﻓ ﻢﻜﺤﺘﻠﻟ ﺢﻴﺗﺎﻔﻣ</Development.description>
+  
+  
+  <Game.label>ﺔﺒﻌﻠﻟﺍ ﻲﻓ ﻡﺎﻌﻟﺍ ﻢﻜﺤﺘﻟﺍ</Game.label>
+  
+  <Game.description>.ﺔﺒﻌﻠﻟﺍ ﺔﻴﻠﻤﻋ ﺐﻧﺍﻮﺟ ﻢﻈﻌﻣ ﻲﻓ ﻢﻜﺤﺘﻠﻟ ﺢﻴﺗﺎﻔﻣ</Game.description>
+  
+  
+  <GameMapCamera.label>ﺍﺮﻴﻣﺎﻜﻟﺍ ﻲﻓ ﻢﻜﺤﺘﻟﺍ</GameMapCamera.label>
+  
+  <GameMapCamera.description>.ﺍﺮﻴﻣﺎﻜﻟﺍ ﺽﺮﻋ</GameMapCamera.description>
+  
+  
+  <MainTabs.label>ﺔﻴﺴﻴﺋﺮﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺕﺎﻣﻼﻌﻟﺍ</MainTabs.label>
+  
+  <MainTabs.description>.ﺔﻴﺴﻴﺋﺮﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺭﺍﺭﺯﺃ</MainTabs.description>
+  
+  
+  <Modifiers.label>ﺕﻼﻳﺪﻌﺘﻟﺍ</Modifiers.label>
+  
+  <Modifiers.description>.ﻯﺮﺧﺃ ﺕﺍﺀﺍﺮﺟﺇ ﻞﻳﺪﻌﺘﻟ ﺢﻴﺗﺎﻔﻣ</Modifiers.description>
+  
+  
+  <SelectionMisc.label>ﺪﺟﻮﻳ ﻻ .ﺔﻔﻠﺘﺨﻤﻟﺍ ﺭﻮﻣﻷﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻙﺎﻨﻫ
+.ﻕﺎﻴﺴﻟﺍ ﺍﺬﻫ ﻲﻓ ﻪﺘﻤﺟﺮﺘﻟ ﺩﺪﺤﻣ ﺀﻲﺷ</SelectionMisc.label>
+  
+  <SelectionMisc.description>ﻲﻓ ﺕﺎﻨﺋﺎﻜﻟﺍﻭ ﺮﺻﺎﻨﻌﻟﺍ ﻢﻈﻌﻣ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺭﺍﺭﺯﺃ
+.ﺔﺒﻌﻠﻟﺍ</SelectionMisc.description>
+  
+  
+  <SelectionSpecial.label>ﺔﺻﺎﺧ</SelectionSpecial.label>
+  
+  <SelectionSpecial.description>.ﺕﺎﻨﺋﺎﻜﻟﺍ ﺾﻌﺑ ﻰﻠﻋ ﺔﺻﺎﺧ ﺕﺎﻴﻠﻤﻋ ﺀﺍﺮﺟﻹ ﺭﺍﺭﺯﺃ</SelectionSpecial.description>
+  
+</LanguageData>
