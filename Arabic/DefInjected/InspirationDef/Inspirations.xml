@@ -1,0 +1,101 @@
+<LanguageData>
+  
+  
+  <Frenzy_Go.label>ﺓﻮﻘﻟﺍ ﻖﻓﺪﺗ</Frenzy_Go.label>
+  
+  <Frenzy_Go.baseInspectLine>ﺓﻮﻘﻟﺍ ﻢﺧﺯ :ﻡﺎﻬﻟﺇ</Frenzy_Go.baseInspectLine>
+  
+  <Frenzy_Go.beginLetter>ﻞﻜﺸﺑ {PAWN_pronoun} ﻙﺮﺤﺘﺘﺳ ،ﺔﻣﺩﺎﻘﻟﺍ ﺔﻴﻧﺎﻤﺜﻟﺍ ﻡﺎﻳﻷﺍ ﻲﻓ
+.ﻅﻮﺤﻠﻣ ﻞﻜﺸﺑ ﻉﺮﺳﺃ</Frenzy_Go.beginLetter>
+  <Frenzy_Go.beginLetterLabel>(ﺓﻮﻘﻟﺍ ﻖﻓﺪﺗ) ﺔﺒﻏﺭ</Frenzy_Go.beginLetterLabel>
+  
+  <Frenzy_Go.endMessage>.(ﺓﻮﻘﻟﺍ ﺡﺎﻴﺗﺭﺍ) ﺔﺳﺎﻤﺤﻟﺍ {PAWN_nameIndef} ﺪﻘﻔﺗ</Frenzy_Go.endMessage>
+  
+  
+  <Frenzy_Shoot.label>ﺔﻳﺎﻣﺮﻟﺎﺑ ﺱﻮﻬﻟﺍ</Frenzy_Shoot.label>
+  
+  <Frenzy_Shoot.baseInspectLine>ﺭﺎﻨﻟﺍ ﻕﻼﻃﻻ ﻒﻐﺷ :ﺔﺳﺎﻤﺤﻟﺍ</Frenzy_Shoot.baseInspectLine>
+  
+  <Frenzy_Shoot.beginLetter>ﻲﻓ ﻥﺍﺮﻴﻨﻠﻟ {PAWN_possessive} ﻕﻼﻃﺇ ﺔﻗﺩ ﺩﺍﺩﺰﻳ ﻑﻮﺳ
+.ﺔﻴﻧﺎﻤﺜﻟﺍ ﺔﻣﺩﺎﻘﻟﺍ ﻡﺎﻳﻷﺍ</Frenzy_Shoot.beginLetter>
+  <Frenzy_Shoot.beginLetterLabel>(ﺓﺎﻣﺮﻟﺍ ﻲﻌﺳ) ﺱﺎﻤﺤﻟﺍ</Frenzy_Shoot.beginLetterLabel>
+  
+  <Frenzy_Shoot.endMessage>.(ﻥﺍﺮﻴﻨﻟﺍ ﻦﻣ ﺓﺭﺎﺛﻹﺍ) ﻪﺳﺎﻤﺣ {PAWN_nameIndef} ﺪﻘﻔﻳ</Frenzy_Shoot.endMessage>
+  
+  
+  <Frenzy_Work.label>ﻞﻣﺎﻌﻟﺍ ﺱﺎﻤﺤﻟﺍ</Frenzy_Work.label>
+  
+  <Frenzy_Work.baseInspectLine>ﻞﻤﻌﻟﺍ ﻁﺎﺸﻧ :ﺔﺳﺎﻤﺣ</Frenzy_Work.baseInspectLine>
+  
+  <Frenzy_Work.beginLetter>ﺔﻴﺟﺎﺘﻧﺇ ﺪﻳﺰﺘﺳ ،ﺔﻣﺩﺎﻘﻟﺍ ﻡﺎﻳﺃ 8 ـﻟﺍ ﻲﻓ
+.ﺮﻴﺒﻛ ﻞﻜﺸﺑ {PAWN_possessive} ﻞﻤﻋ</Frenzy_Work.beginLetter>
+  <Frenzy_Work.beginLetterLabel>(ﻞﻤﻌﻟﺍ ﻲﻓ ﺔﺒﻏﺭ) ﺱﺎﻤﺣ</Frenzy_Work.beginLetterLabel>
+  
+  <Frenzy_Work.endMessage>.(ﻞﻤﻌﻟﺍ ﻲﻓ ﺔﺳﺎﻤﺤﻟﺍ) ﺎﻬﺳﺎﻤﺣ {PAWN_nameIndef} ﺪﻘﻔﺗ</Frenzy_Work.endMessage>
+  
+  
+  <Inspired_Creativity.label>ﻲﻋﺍﺪﺑﺇ ﺀﺎﻘﺗﺭﺍ</Inspired_Creativity.label>
+  
+  <Inspired_Creativity.baseInspectLine>ﺔﻴﻋﺍﺪﺑﺇ ﺔﻗﻼﻄﻧﺍ :ﺱﺎﻤﺣ</Inspired_Creativity.baseInspectLine>
+  
+  <Inspired_Creativity.beginLetter>ﺪﻨﻋ ﻦﻴﻨﺛﺍ ﺭﺍﺪﻘﻤﺑ ﺪﻳﺰﻴﺳ ﻊﻧﺎﺼﻟﺍ ﺓﺭﺎﻬﻣ ﻯﻮﺘﺴﻣ
+ﻭﺃ ﻲﻨﻓ ﻞﻤﻋ ﻭﺃ ﺞﺘﻨﻣ ﻱﺃ ﻪﻟﺎﻤﻛﺇ
+.ﺔﻳﺭﻮﻄﺳﺃ ﺔﻴﻋﻮﻨﺑ ﺔﻌﻄﻗ ﺀﺎﺸﻧﺈﺑ ﺢﻤﺴﻴﺳ ﺎﻤﻣ ،ﺙﺎﺛﺃ
+ﻭﺃ ﻡﺎﻳﺃ 8 ﺪﻌﺑ ﺓﺩﺎﻳﺰﻟﺍ ﻩﺬﻫ ﻲﻔﺘﺨﺘﺳ
+.ﻝﻭﻷﺍ ﻞﻤﻌﻟﺍ ﻝﺎﻤﻛﺇ ﺪﻌﺑ</Inspired_Creativity.beginLetter>
+  <Inspired_Creativity.beginLetterLabel>(ﻉﺍﺪﺑﺇ ﺪﻴﻋﺎﺠﺗ) ﺔﺳﺎﻤﺤﻟﺍ</Inspired_Creativity.beginLetterLabel>
+  
+  <Inspired_Creativity.endMessage>.(ﻲﻋﺍﺪﺑﻹﺍ ﻉﺎﻓﺪﻧﻻﺍ) ﺰﻴﻔﺤﺘﻟﺍ {PAWN_nameIndef} ﺪﻘﻔﺗ</Inspired_Creativity.endMessage>
+  
+  
+  <Inspired_Recruitment.label>ﺔﻗﻼﻄﺑ ﺙﺪﺤﺘﻟﺍ</Inspired_Recruitment.label>
+  
+  <Inspired_Recruitment.baseInspectLine>ﻲﻏﻼﺒﻟﺍ ﺏﺎﻄﺨﻟﺍ :ﻡﺎﻬﻟﻹﺍ</Inspired_Recruitment.baseInspectLine>
+  
+  <Inspired_Recruitment.beginLetter>ﻱﺃ ﻉﺎﻨﻗﺇ ﻰﻠﻋ ﺭﺩﺎﻗ ﻪﻧﺃ {PAWN_pronoun} ﺮﻌﺸﻳ
+.ﺔﻘﺒﻠﻟﺍ ﻪﺗﺭﺎﻬﻤﺑ ﻚﺘﻋﺎﻤﺟ ﻰﻟﺇ ﻡﺎﻤﻀﻧﻻﺎﺑ ﺮﻴﺳﺃ
+ﻭﺃ ﻡﺎﻳﺃ 8 ﺪﻌﺑ ﺭﻮﻌﺸﻟﺍ ﺍﺬﻫ ﻲﻔﺘﺨﻴﺳ
+.ﺪﻴﻨﺠﺘﻟﺍ ﺔﻴﻠﻤﻋ ﺡﺎﺠﻧ ﺪﻌﺑ</Inspired_Recruitment.beginLetter>
+  <Inspired_Recruitment.beginLetterLabel>(ﺔﺣﺎﺼﻓ) ﻡﺎﻬﻟﻹﺍ</Inspired_Recruitment.beginLetterLabel>
+  
+  <Inspired_Recruitment.endMessage>.(ﺓﺩﻼﺒﻟﺍ) ﺱﺎﻤﺤﻟﺍ {PAWN_nameIndef} ﺪﻘﻔﻳ</Inspired_Recruitment.endMessage>
+  
+  
+  <Inspired_Surgery.label>ﺔﺣﺍﺮﺠﻟﺍ ﺓﺭﺎﻬﻣ</Inspired_Surgery.label>
+  
+  <Inspired_Surgery.baseInspectLine>ﺡﺍﺮﺠﻟﺍ ﺓﺰﻳﺮﻏ :ﺔﺳﺎﻤﺣ</Inspired_Surgery.baseInspectLine>
+  
+  <Inspired_Surgery.beginLetter>ﺔﺣﺍﺮﺠﻟﺍ ﺔﻴﻠﻤﻋ ﺡﺎﺠﻧ ﺹﺮﻓ ﻥﺃ ﺮﻌﺸﻳ ﺩﺮﻔﻟﺍ
+ﻙﺎﻨﻫ ﻝﺍﺰﻳ ﻻ ﻦﻜﻟ ،ﺔﻔﻋﺎﻀﻣ ﻥﻮﻜﺘﺳ ﺔﻣﺩﺎﻘﻟﺍ
+ﺭﻮﻌﺸﻟﺍ ﺍﺬﻫ ﻲﻔﺘﺨﻳ ﻑﻮﺳ .ﺄﻄﺨﻠﻟ ﺓﺮﻴﻐﺻ ﺔﻴﻟﺎﻤﺘﺣﺍ
+.ﺔﻴﻠﻤﻌﻟﺍ ﺪﻌﺑ ﻭﺃ ﻡﺎﻳﺃ 8 ﺪﻌﺑ</Inspired_Surgery.beginLetter>
+  <Inspired_Surgery.beginLetterLabel>(ﺡﺍﺮﺠﻟﺍ ﻊﺑﺎﻃ) ﺱﺎﻤﺣ</Inspired_Surgery.beginLetterLabel>
+  
+  <Inspired_Surgery.endMessage>.(ﺔﺣﺍﺮﺠﻟﺍ ﺓﺭﺎﻬﻣ) ﺰﻴﻔﺤﺘﻟﺍ {PAWN_nameIndef} ﺪﻘﻔﻳ</Inspired_Surgery.endMessage>
+  
+  
+  <Inspired_Taming.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺐﺣ</Inspired_Taming.label>
+  
+  <Inspired_Taming.baseInspectLine>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺐﺣ :ﺱﺎﻤﺤﻟﺍ</Inspired_Taming.baseInspectLine>
+  
+  <Inspired_Taming.beginLetter>،ﻥﺍﻮﻴﺣ ﻱﺃ ﺾﻳﻭﺮﺗ ﻊﻴﻄﺘﺴﻳ ﻪﻧﺃ {PAWN_pronoun} ﺮﻌﺸﻳ
+ﺭﻮﻌﺸﻟﺍ ﺍﺬﻫ ﻲﻔﺘﺨﻴﺳ .ﻪﺘﺋﺍﺮﺑ ﻦﻋ ﺮﻈﻨﻟﺍ ﺾﻐﺑ
+.ﺾﻳﻭﺮﺗ ﻝﻭﺃ ﺪﻌﺑ ﻭﺃ ﻡﺎﻳﺃ 8 ﺪﻌﺑ</Inspired_Taming.beginLetter>
+  <Inspired_Taming.beginLetterLabel>(ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺐﺣ) ﻊﻴﺠﺸﺗ</Inspired_Taming.beginLetterLabel>
+  
+  <Inspired_Taming.endMessage>. &lt;PAWN_nameIndef&gt; (ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺐﺣ) ﻉﺎﺘﻤﺘﺳﻻﺍ ﺪﻘﻔﻳ</Inspired_Taming.endMessage>
+  
+  
+  <Inspired_Trade.label>ﻱﺭﺎﺠﺘﻟﺍ ﺲﺤﻟﺍ</Inspired_Trade.label>
+  
+  <Inspired_Trade.baseInspectLine>ﺓﺭﺎﺠﺘﻟﺍ ﺓﺭﺪﻗ :ﺱﺎﻤﺣ</Inspired_Trade.baseInspectLine>
+  
+  <Inspired_Trade.beginLetter>ﺮﺜﻛﺃ ﻥﻮﻜﺘﺳ ﺔﻣﺩﺎﻘﻟﺍ ﻪﺘﻘﻔﺻ ﻥﺃ {PAWN_pronoun} ﺮﻌﺸﻳ
+.ﺩﺎﺘﻌﻤﻟﺍ ﻦﻣ ﺓﺪﺋﺎﻓ
+{PAWN_possessive} ﺔﺳﺎﻤﺣ ﻲﻔﺘﺨﺘﺳ ،ﺔﻘﻔﺼﻟﺍ ﻢﺘﺗ ﻢﻟ ﺍﺫﺇ
+.ﻡﺎﻳﺃ 8 ﺪﻌﺑ</Inspired_Trade.beginLetter>
+  <Inspired_Trade.beginLetterLabel>(ﺓﺭﺎﺠﺘﻟﺍ ﺮﺤﺳ) ﺱﺎﻤﺤﻟﺍ</Inspired_Trade.beginLetterLabel>
+  
+  <Inspired_Trade.endMessage>.{PAWN_nameIndef} ﻦﻣ (ﻱﺭﺎﺠﺘﻟﺍ ﺲﺤﻟﺍ) ﻝﻮﻫﺬﻟﺍ ﺪﻘﻔﻳ</Inspired_Trade.endMessage>
+  
+</LanguageData>
