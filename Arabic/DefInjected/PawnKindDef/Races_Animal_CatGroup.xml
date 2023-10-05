@@ -1,0 +1,52 @@
+<LanguageData>
+  
+  
+  <Cat.label>ﺔﻄﻘﻟﺍ</Cat.label>
+  <Cat.labelPlural>ﻂﻄﻘﻟﺍ</Cat.labelPlural>
+  
+  <Cat.lifeStages.kitten.label>ﺓﺮﻴﻐﺼﻟﺍ ﺔﻄﻘﻟﺍ</Cat.lifeStages.kitten.label>
+  <Cat.lifeStages.1.labelFemale>.ﺓﺮﻴﻐﺻ ﺔﻄﻗ</Cat.lifeStages.1.labelFemale>
+  <Cat.lifeStages.1.labelMale>ﺔﺑﺎﺷ ﺔﻄﻗ</Cat.lifeStages.1.labelMale>
+  <Cat.lifeStages.2.labelFemale>ﺔﻄﻘﻟﺍ</Cat.lifeStages.2.labelFemale>
+  <Cat.lifeStages.2.labelMale>ﺔﺘﻛ</Cat.lifeStages.2.labelMale>
+  
+  
+  <GuineaPig.label>ﻱﺮﺤﺒﻟﺍ ﺮﺘﺴﻣﺎﻬﻟﺍ</GuineaPig.label>
+  <GuineaPig.labelPlural>ﺮﺤﺒﻟﺍ ﺩﻭﺮﻗ</GuineaPig.labelPlural>
+  
+  
+  <Husky.label>ﻲﻛﺎﻬﻟﺍ</Husky.label>
+  
+  <Husky.labelPlural>ﻲﻜﺳﺎﻬﻟﺍ</Husky.labelPlural>
+  
+  <Husky.lifeStages.husky_puppy.label>ﻲﻜﺳﺎﻫ ﻭﺮﺟ</Husky.lifeStages.husky_puppy.label>
+  
+  <Husky.lifeStages.husky_puppy.labelPlural>ﻲﻜﺳﺎﻬﻟﺍ ﺀﺍﺮﺟ</Husky.lifeStages.husky_puppy.labelPlural>
+  <Husky.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺼﻟﺍ ﻲﻜﺳﺎﻬﻟﺍ</Husky.lifeStages.1.labelFemale>
+  <Husky.lifeStages.1.labelMale>ﺮﻴﻐﺻ ﻲﻜﺳﺎﻫ ﺐﻠﻛ</Husky.lifeStages.1.labelMale>
+  
+  
+  <LabradorRetriever.label>ﺮﻔﻳﺮﺘﻳﺭ ﺭﻭﺩﺍﺮﺑﻻ</LabradorRetriever.label>
+  <LabradorRetriever.labelPlural>ﺮﻔﻳﺮﺘﻳﺭ ﺭﻭﺩﺍﺮﺑﻼﻟﺍ</LabradorRetriever.labelPlural>
+  
+  <LabradorRetriever.lifeStages.labrador_puppy.label>ﺮﻔﻳﺮﺘﻳﺭ ﺭﻭﺩﺍﺮﺑﻻ ﻭﺮﺟ</LabradorRetriever.lifeStages.labrador_puppy.label>
+  
+  <LabradorRetriever.lifeStages.labrador_puppy.labelPlural>ﺮﻔﻳﺮﺘﻳﺭ ﺭﻭﺩﺍﺮﺑﻻ ﺀﺍﺮﺟ</LabradorRetriever.lifeStages.labrador_puppy.labelPlural>
+  <LabradorRetriever.lifeStages.1.label>ﺮﻴﻐﺼﻟﺍ ﺮﻔﻳﺮﺘﻳﺭ ﺭﻭﺩﺍﺮﺑﻻ ﺐﻠﻛ</LabradorRetriever.lifeStages.1.label>
+  
+  
+  <Monkey.label>ﺩﺮﻘﻟﺍ</Monkey.label>
+  <Monkey.labelPlural>ﺩﻭﺮﻘﻟﺍ</Monkey.labelPlural>
+  <Monkey.lifeStages.0.label>ﺩﺮﻗ ﺮﻴﻐﺻ</Monkey.lifeStages.0.label>
+  <Monkey.lifeStages.1.label>ﺮﻴﻐﺻ ﺩﺮﻗ</Monkey.lifeStages.1.label>
+  
+  
+  <YorkshireTerrier.label>ﺮﻴﻳﺮﻴﺗ ﺮﻳﺎﺸﻛﺮﻳ</YorkshireTerrier.label>
+  <YorkshireTerrier.labelPlural>ﺮﻳﺮﻴﺗ ﺮﻳﺎﺸﻛﺭﻮﻴﻟﺍ</YorkshireTerrier.labelPlural>
+  
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>.ﺮﻴﻳﺮﻴﺗ ﺮﻳﺎﺸﻛﺭﻮﻳ ﻭﺮﺟ</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
+  
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>ﺮﻴﻳﺮﻴﺗ ﺮﻳﺎﺸﻛﺭﻮﻴﻟﺍ ﺀﺍﺮﺟ</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>
+  <YorkshireTerrier.lifeStages.1.label>ﺮﻳﺮﻴﺗ ﺮﻳﺎﺸﻛﺭﻮﻳ ﺏﺎﺷ</YorkshireTerrier.lifeStages.1.label>
+  
+</LanguageData>
