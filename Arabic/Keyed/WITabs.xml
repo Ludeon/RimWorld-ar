@@ -1,0 +1,82 @@
+<LanguageData>
+
+  
+  
+  <TabTerrain>ﻲﻌﻴﺒﻄﻟﺍ ﺪﻬﺸﻤﻟﺍ</TabTerrain>
+  
+  <TabPlanet>ﺐﻛﻮﻛ</TabPlanet>
+  
+  <TabCaravanFeeding>ﺔﻴﺼﺨﺸﻟﺍ ﺔﻳﺬﻐﺗ</TabCaravanFeeding>
+  
+  <TabCaravanSocial>ﻊﻤﺘﺠﻤﻟﺍ</TabCaravanSocial>
+  
+  <TabCaravanHealth>ﺔﺤﺼﻟﺍ</TabCaravanHealth>
+  
+  <TabCaravanNeeds>ﺕﺎﺟﺎﻴﺘﺣﻻﺍ</TabCaravanNeeds>
+  
+  <TabCaravanGear>ﺽﺍﺮﻏﻷﺍ</TabCaravanGear>
+  
+  <TabCaravanItems>ﺔﻟﻮﻤﺤﻟﺍ</TabCaravanItems>
+  
+  
+  
+  <AbandonSliderText>(ﺔﻌﻄﻗ {{lookup: {0}; Case; 3} ({{0} ﺀﺎﻘﻟﺇ‏</AbandonSliderText>
+  
+  <ConfirmAbandonItemDialog>lookup: {0};} ﻦﻣ ﺺﻠﺨﺘﻟﺍ ﺎﻘﺣ ﺪﻳﺮﺗ ﻞﻫ
+ﻲﻔﺘﺨﺘﺳ ﺎﻬﻨﻣ ﺺﻠﺨﺘﻟﺍ ﻢﺗ ﻲﺘﻟﺍ ﺀﺎﻴﺷﻷﺍn\n\؟{Case; 3
+.ﺎﻬﺗﺩﺎﻌﺘﺳﺍ ﻦﻜﻤﻳ ﻻﻭ</ConfirmAbandonItemDialog>
+  
+  <AbandonTip>ﻪﻨﻣ ﺺﻠﺨﺘﻟﺍ ﺭﺍﺮﻗ ﺫﺎﺨﺗﺍ</AbandonTip>
+  
+  <BanishTip>ﺩﺮﻃ</BanishTip>
+  
+  <AbandonSpecificCountTip>ﺓﺩﺪﺤﻤﻟﺍ ﺔﻴﻤﻜﻟﺍ ﻖﻟﺃ</AbandonSpecificCountTip>
+  
+  <AbandonAllTip>ﺀﻲﺷ ﻞﻛ ﻦﻣ ﺺﻠﺨﺘﻟﺍ</AbandonAllTip>
+  
+  <AbandonItemTipExtraText>.ﺎﻬﻋﺎﺟﺮﺘﺳﺍ ﻦﻜﻤﻳ ﻻﻭ ﻲﻔﺘﺨﺘﺳ ﺓﺎﻘﻠﻤﻟﺍ ﺀﺎﻴﺷﻷﺍ</AbandonItemTipExtraText>
+  
+  <BanishTipWillDie>.ﺢﺟﺭﻷﺍ ﻰﻠﻋ {labelShort_1} ﺕﻮﻤﻳ ﺪﻗ</BanishTipWillDie>
+  
+  
+  
+  <CaravanColonists>ﻥﻭﺮﻓﺎﺴﻤﻟﺍ</CaravanColonists>
+  
+  <CaravanPrisonersAndAnimals>.ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﻯﺮﺳﻷﺍ</CaravanPrisonersAndAnimals>
+  
+  <CaravanItems>ﻊﺋﺎﻀﺒﻟﺍ</CaravanItems>
+  
+  <OpenSpecificTabButtonTip>.ﻞﻴﺻﺎﻔﺘﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟ ﻂﻐﺿﺍ</OpenSpecificTabButtonTip>
+  
+  <CaravanPrisoners>ﻯﺮﺳﻷﺍ</CaravanPrisoners>
+  
+  <CaravanWeaponsAndApparel>ﺔﺒﻌﻠﻟﺍ ﺕﺍﺰﻴﻬﺠﺗ</CaravanWeaponsAndApparel>
+  
+  <NoneCapable>ﺪﺟﻮﻳ ﻻ</NoneCapable>
+  
+  <GainingJoyBecauseCaravanNotMoving>ﺔﻔﻗﻮﺘﻣ ﺔﻠﻓﺎﻘﻟﺍ</GainingJoyBecauseCaravanNotMoving>
+  
+  
+  
+  <DragToRearrange>.ﺮﺻﺎﻨﻌﻟﺍ ﺐﻴﺗﺮﺘﻟ ﺐﺤﺳﺍ</DragToRearrange>
+
+  
+  
+  <AssignDrugPolicies>ﺔﻳﻭﺩﻷﺍ ﻡﺍﺪﺨﺘﺳﺍ ﺔﺳﺎﻴﺳ</AssignDrugPolicies>
+
+  
+  
+  <BeCarriedIfSickTip>ﺍﻮﻠﻤﺤﻳ ﻥﺃ ﺔﻠﻓﺎﻘﻟﺍ ﺀﺎﻀﻋﺃ ﻰﻠﻋ ﺐﺠﻳ ﻞﻫ
+ﻝﻮﻤﺤﻤﻟﺍ ﺮﻳﺮﺴﻟﺍ ﻰﻠﻋ ﻥﺍﻮﻴﺤﻟﺍ ﻭﺃ ﺺﺨﺸﻟﺍ ﺍﺬﻫ
+؟ﺽﺮﻤﻟﺍ ﺔﻟﺎﺣ ﻲﻓ
+ﺔﺣﺍﺮﺘﺳﻻﺍ ﻢﻬﻨﻜﻤﻳ ﻝﻮﻤﺤﻤﻟﺍ ﺮﻳﺮﺴﻟﺍ ﻰﻠﻋ ﻦﻳﺪﻗﺍﺮﻟﺍ ﺹﺎﺨﺷﻷﺍ
+ﺊﻄﺒﺗ ﻢﻬﻠﻤﺣ ﺓﺭﻭﺮﺿ ﻦﻜﻟﻭ ،ﺔﻠﻓﺎﻘﻟﺍ ﻙﺮﺤﺗ ﺀﺎﻨﺛﺃ
+.ﺔﻠﻓﺎﻘﻟﺍ</BeCarriedIfSickTip>
+  
+  
+  
+  <PlanetSeed>ﺏﻮﺒﺤﻟﺍ</PlanetSeed>
+  
+  <PlanetCoverageShort>ﺔﻄﻳﺮﺨﻟﺍ ﻢﺠﺣ</PlanetCoverageShort>
+
+</LanguageData>
