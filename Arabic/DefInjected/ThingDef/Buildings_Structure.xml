@@ -1,0 +1,52 @@
+<LanguageData>
+  
+  
+  <AnimalFlap.label>ﺓﺭﺎﺘﺴﻟﺍ</AnimalFlap.label>
+  
+  <AnimalFlap.description>ﺪﻠﺟ ﻭﺃ ﺵﺎﻤﻗ ﻊﻄﻗ ﻦﻣ ﺔﻋﻮﻨﺼﻣ ﺓﺭﺎﺘﺳ
+ﻥﻭﺩ ﺎﻬﻟﻼﺧ ﺭﻭﺮﻤﻟﺍ ﻦﻣ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻜﻤﺗ .ﺔﻔﻴﺜﻛ
+ﻡﺍﺪﺨﺘﺳﺍ ﻢﺘﻳ .ﺔﻓﺮﻐﻟﺍ ﻲﻓ ﺓﺭﺍﺮﺤﻟﺍ ﻝﺰﻋ ﺐﻳﺮﺨﺗ
+ﺀﺎﻄﻋﻹ ﻉﺩﻮﺘﺴﻤﻠﻟ ﻞﺧﺪﻤﻛ ﺎﺒﻟﺎﻏ ﺮﺋﺎﺘﺴﻟﺍ ﻩﺬﻫ ﻞﺜﻣ
+.ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﺔﺣﺍﺮﺘﺳﻻﺍ ﺔﺻﺮﻓ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</AnimalFlap.description>
+  
+  
+  <Autodoor.label>ﻲﻜﻴﺗﺎﻣﻮﺗﻭﻷﺍ ﺓﺭﺎﻴﺴﻟﺍ ﺏﺎﺑ</Autodoor.label>
+  
+  <Autodoor.description>.ﺮﻴﺧﺄﺗ ﻥﻭﺪﺑ ﺝﻭﺮﺨﻟﺍﻭ ﻝﻮﺧﺪﻟﺎﺑ ﺢﻤﺴﻳ ﻲﺋﺎﻘﻠﺘﻟﺍ ﺏﺎﺒﻟﺍ</Autodoor.description>
+  
+  
+  <Column.label>ﺩﻮﻤﻋ</Column.label>
+  
+  <Column.description>ﻭﺃ ﺔﻳﺅﺮﻟﺍ ﻕﻮﻌﻳ ﻻ ،ﻒﻘﺴﻟﺍ ﻢﻋﺪﻟ ﺩﻮﻤﻋ
+.ﻼﻴﻤﺟ ﻭﺪﺒﻳﻭ ،ﺔﻛﺮﺤﻟﺍ</Column.description>
+  
+  
+  <Door.label>ﺏﺎﺒﻟﺍ</Door.label>
+  
+  <Door.description>ﺖﻗﻭ .ﺎﻳﻭﺪﻳ ﻪﻗﻼﻏﺇﻭ ﻪﺤﺘﻓ ﺐﻠﻄﺘﻳ ﻂﻴﺴﺑ ﺏﺎﺑ
+.ﺎﻬﻨﻣ ﺔﻋﻮﻨﺼﻤﻟﺍ ﺓﺩﺎﻤﻟﺍ ﻰﻠﻋ ﺪﻤﺘﻌﻳ ﻕﻼﻏﻹﺍﻭ ﺢﺘﻔﻟﺍ</Door.description>
+  
+  
+  <Fence.label>ﺝﺎﻴﺳ</Fence.label>
+  
+  <Fence.description>ﻪﻓﺪﻫﻭ ،ﺎﻬﻨﻴﺑ ﻱﺩﻮﻤﻌﻟﺍ ﺐﺸﺨﻟﺍﻭ ﺓﺪﻤﻋﻷﺍ ﻦﻣ ﺝﺎﻴﺳ
+ﺾﻌﺑ .ﺮﺋﺎﻈﺤﻟﺍ ﻞﺧﺍﺩ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺀﺍﻮﺘﺣﺍ ﻮﻫ ﻲﺳﺎﺳﻷﺍ
+ﺔﺳﺮﺘﻔﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺩﺎﻄﺼﻳ ﻦﻟ .ﻪﻗﺍﺮﺘﺧﺍ ﺎﻬﻨﻜﻤﻳ ﺕﺎﻨﺋﺎﻜﻟﺍ
+،ﺝﺎﻴﺴﻟﺍ ﻦﻣ ﺮﺧﻵﺍ ﺐﻧﺎﺠﻟﺍ ﻰﻠﻋ ﺔﻌﻗﺍﻮﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ
+.ﺝﺎﻴﺴﻟﺍ ﻞﺧﺪﺗ ﺪﻗ ﺎﻬﻨﻜﻟﻭ</Fence.description>
+  
+  
+  <FenceGate.label>ﺔﺑﺍﻮﺒﻟﺍ</FenceGate.label>
+  
+  <FenceGate.description>.ﺔﻴﺿﺮﻋ ﺓﺪﻤﻋﺃﻭ ﺓﺪﻤﻋﺃ ﻦﻣ ﺔﻧﻮﻜﻣ ﺔﻄﻴﺴﺑ ﺔﺑﺍﻮﺑ
+ﻦﻜﻤﻳ .ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻉﺍﻮﻧﺃ ﺾﻌﺑ ﺭﻭﺮﻣ ﻊﻨﻤﺗ ،ﺭﻮﺴﻟﺎﻛ
+ﺎﻬﺟﺍﺮﺧﺇﻭ ﺮﺋﺎﻈﺤﻟﺍ ﻰﻟﺇ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻝﺎﺧﺩﺇ ﺔﻴﺷﺎﻤﻟﺍ ﺱﺭﺎﺤﻟ
+.ﺎﻫﺮﺒﻋ</FenceGate.description>
+  
+  
+  <Wall.label>ﺭﺍﺪﺟ</Wall.label>
+  
+  <Wall.description>ﻲﻔﻜﻳ ﺎﻤﺑ ﻱﻮﻗ .ﻪﻗﺍﺮﺘﺧﺍ ﻦﻜﻤﻳ ﻻ ﺭﺍﺪﺟ
+.ﻒﻘﺴﻟﺍ ﻢﻋﺪﻟ</Wall.description>
+  
+</LanguageData>
