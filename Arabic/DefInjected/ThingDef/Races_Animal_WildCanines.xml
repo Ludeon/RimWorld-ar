@@ -1,0 +1,73 @@
+<LanguageData>
+  
+  
+  <Fox_Arctic.label>ﺐﻠﻌﺜﻟﺍ</Fox_Arctic.label>
+  
+  <Fox_Arctic.description>ﻑﻭﺮﻇ ﻲﻓ ﺓﺎﻴﺤﻟﺍ ﻊﻣ ﻒﻴﻜﺘﻳ ﺮﻴﻐﺻ ﺱﺮﺘﻔﻣ
+ﻞﺜﻣ ﺓﺮﻴﻐﺻ ﺲﺋﺍﺮﻓ ﺓﺩﺎﻋ ﺩﺎﻄﺼﻳ .ﺔﻴﺳﺎﻗ ﺔﻴﻟﺎﻤﺷ
+ﺞﻠﺜﻟﺍ ﻲﻓ ﺍﺮﺘﻣ ﺮﻔﺤﻳ ﺎﻧﺎﻴﺣﺃﻭ ،ﺭﻮﻴﻄﻟﺍﻭ ﻥﺍﺮﺌﻔﻟﺍ
+.ﻪﺘﺴﻳﺮﻓ ﻰﻟﺇ ﻝﻮﺻﻮﻠﻟ</Fox_Arctic.description>
+  
+  <Fox_Arctic.tools.left_claw.label>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</Fox_Arctic.tools.left_claw.label>
+  
+  <Fox_Arctic.tools.right_claw.label>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ</Fox_Arctic.tools.right_claw.label>
+  
+  <Fox_Arctic.tools.head.label>ﺱﺃﺮﻟﺍ</Fox_Arctic.tools.head.label>
+  
+  
+  <Fox_Fennec.label>ﺲﻜﻴﻨﻴﻓ</Fox_Fennec.label>
+  
+  <Fox_Fennec.description>ﻖﻴﻨﻴﻔﻟﺍ ﻑﺮﻌﻳ .ﺎﻴﻘﻳﺮﻓﺃ ﻝﺎﻤﺷ ﻪﻨﻃﻮﻣ ﺮﻴﻐﺻ ﺐﻠﻌﺛ
+ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺩﺎﻄﺼﻳ .ﺐﺳﺎﻨﺘﻣ ﺮﻴﻏ ﻞﻜﺸﺑ ﺓﺮﻴﺒﻜﻟﺍ ﻪﻴﻧﺫﺄﺑ
+.ﺓﺮﻴﻐﺼﻟﺍ</Fox_Fennec.description>
+  
+  <Fox_Fennec.race.meatLabel>ﺐﻠﻌﺜﻟﺍ ﻢﺤﻟ</Fox_Fennec.race.meatLabel>
+  
+  <Fox_Fennec.tools.left_claw.label>ﺮﺴﻳﻷﺍ ﻒﻜﻟﺍ</Fox_Fennec.tools.left_claw.label>
+  
+  <Fox_Fennec.tools.right_claw.label>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ</Fox_Fennec.tools.right_claw.label>
+  
+  <Fox_Fennec.tools.head.label>ﺱﺃﺮﻟﺍ</Fox_Fennec.tools.head.label>
+  
+  
+  <Fox_Red.label>ﺐﻠﻌﺜﻟﺍ</Fox_Red.label>
+  
+  <Fox_Red.description>ﺪﻴﺼﻟ ﻒﻴﻜﺘﻣ ،ﺏﻼﻜﻟﺍ ﺔﻠﺋﺎﻋ ﻦﻣ ﺮﻴﻐﺻ ﻥﺍﻮﻴﺣ
+ﻥﻮﻋﺭﺍﺰﻤﻟﺍ ﻩﺮﻜﻳ .ﻝﺪﺘﻌﻣ ﺥﺎﻨﻣ ﻲﻓ ﺓﺮﻴﻐﺼﻟﺍ ﺲﺋﺍﺮﻔﻟﺍ
+.ﺝﺎﺟﺪﻟﺍ ﺵﺎﺸﻋﺃ ﺎﻬﺒﻳﺮﺨﺘﻟ ﺐﻟﺎﻌﺜﻟﺍ</Fox_Red.description>
+  
+  <Fox_Red.tools.left_claw.label>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</Fox_Red.tools.left_claw.label>
+  
+  <Fox_Red.tools.right_claw.label>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ</Fox_Red.tools.right_claw.label>
+  
+  <Fox_Red.tools.head.label>ﺱﺃﺭ</Fox_Red.tools.head.label>
+  
+  
+  <Wolf_Arctic.label>ﻲﺒﻄﻘﻟﺍ ﺐﺋﺬﻟﺍ</Wolf_Arctic.label>
+  
+  <Wolf_Arctic.description>ﺓﺩﺎﻴﺻ ﺕﺎﻨﺋﺎﻜﻛ .ﺔﻳﺩﺎﻌﻟﺍ ﺏﺎﺋﺬﻟﺍ ﻦﻣ ﺔﻴﺒﻄﻗ ﺔﻠﻴﺼﻓ
+ﺓﺪﻘﻌﻣ ﺔﻴﻋﺎﻤﺘﺟﺍ ﺓﺎﻴﺣ ﺏﺎﺋﺬﻟﺍ ﻚﻠﺘﻤﺗ ، ﺔﻴﻋﺎﻤﺟ
+.ﺎﻴﻟﺎﻋ ﺀﺎﻛﺫﻭ</Wolf_Arctic.description>
+  
+  <Wolf_Arctic.tools.left_claw.label>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</Wolf_Arctic.tools.left_claw.label>
+  
+  <Wolf_Arctic.tools.right_claw.label>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ</Wolf_Arctic.tools.right_claw.label>
+  
+  <Wolf_Arctic.tools.head.label>ﺱﺃﺮﻟﺍ</Wolf_Arctic.tools.head.label>
+  
+  
+  <Wolf_Timber.label>ﺐﺋﺬﻟﺍ</Wolf_Timber.label>
+  
+  <Wolf_Timber.description>ﺕﺎﻓﺎﻘﺜﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻩﺎﺸﺨﻳ ﻱﻮﻗ ﻊﺋﺎﺟ ﻦﺋﺎﻛ
+ﺕﺎﺳﺮﺘﻔﻣ ﺏﺎﺋﺬﻟﺍ ﻥﺃ ﺎﻤﻛ .ﺽﺭﻷﺍ ﻪﺟﻭ ﻰﻠﻋ
+.ﺔﻳﺎﻐﻠﻟ ﺔﻴﻛﺫ ﺔﻴﻌﻤﺘﺠﻣ</Wolf_Timber.description>
+  
+  <Wolf_Timber.race.meatLabel>ﺐﺋﺬﻟﺍ ﻢﺤﻠﻟﺍ</Wolf_Timber.race.meatLabel>
+  
+  <Wolf_Timber.tools.left_claw.label>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</Wolf_Timber.tools.left_claw.label>
+  
+  <Wolf_Timber.tools.right_claw.label>ﻦﻤﻳﻷﺍ ﻒﻜﻟﺍ</Wolf_Timber.tools.right_claw.label>
+  
+  <Wolf_Timber.tools.head.label>ﺱﺃﺭ</Wolf_Timber.tools.head.label>
+  
+</LanguageData>
