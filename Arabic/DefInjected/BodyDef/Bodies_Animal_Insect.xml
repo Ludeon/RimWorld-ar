@@ -1,0 +1,57 @@
+<LanguageData>
+  
+  
+  <BeetleLike.label>ﺔﺟﻭﺩﺰﻤﻟﺍ ﺓﺮﺸﺤﻟﺍ</BeetleLike.label>
+  
+  <BeetleLike.corePart.parts.left_elytra.customLabel>ﺮﺴﻳﻷﺍ ﺡﺎﻨﺠﻟﺍ</BeetleLike.corePart.parts.left_elytra.customLabel>
+  
+  <BeetleLike.corePart.parts.right_elytra.customLabel>ﻦﻤﻳﻷﺍ ﺡﺎﻨﺠﻟﺍ</BeetleLike.corePart.parts.right_elytra.customLabel>
+  
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>ﻯﺮﺴﻴﻟﺍ ﻦﻴﻌﻟﺍ</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>ﻰﻨﻤﻴﻟﺍ ﻦﻴﻌﻟﺍ</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>ﺮﺴﻳﻷﺍ ﺏﺭﺎﺸﻟﺍ</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>ﻦﻤﻳﻷﺍ ﺏﺭﺎﺸﻟﺍ</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  
+  <BeetleLike.corePart.parts.front_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻞﺟﺮﻟﺍ</BeetleLike.corePart.parts.front_left_leg.customLabel>
+  
+  <BeetleLike.corePart.parts.front_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻞﺟﺮﻟﺍ</BeetleLike.corePart.parts.front_right_leg.customLabel>
+  
+  <BeetleLike.corePart.parts.middle_left_leg.customLabel>ﺔﻄﺳﻮﺘﻤﻟﺍ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ</BeetleLike.corePart.parts.middle_left_leg.customLabel>
+  
+  <BeetleLike.corePart.parts.middle_right_leg.customLabel>ﻰﻄﺳﻮﻟﺍ ﻰﻨﻤﻴﻟﺍ ﻕﺎﺴﻟﺍ</BeetleLike.corePart.parts.middle_right_leg.customLabel>
+  
+  <BeetleLike.corePart.parts.rear_left_leg.customLabel>ﺔﻴﻔﻠﺨﻟﺍ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ</BeetleLike.corePart.parts.rear_left_leg.customLabel>
+  
+  <BeetleLike.corePart.parts.rear_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻞﺟﺮﻟﺍ</BeetleLike.corePart.parts.rear_right_leg.customLabel>
+  
+  
+  <BeetleLikeWithClaw.label>.ﺐﻟﺎﺨﻤﻟﺍ ﻊﻣ ﺭﻮﺻﺮﺼﻟﺍ ﺮﻬﻈﻣ ﺕﺍﺫ ﺓﺮﺸﺤﻟﺍ</BeetleLikeWithClaw.label>
+  
+  <BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>ﺮﺴﻳﻷﺍ ﺡﺎﻨﺠﻟﺍ</BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>
+  
+  <BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>ﻦﻤﻳﻷﺍ ﻱﻮﻠﻌﻟﺍ ﺀﺎﻄﻐﻟﺍ</BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>
+  
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>ﻯﺮﺴﻴﻟﺍ ﻦﻴﻌﻟﺍ</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>ﻰﻨﻤﻴﻟﺍ ﻦﻴﻌﻟﺍ</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>ﺮﺴﻳﻷﺍ ﺏﺭﺎﺸﻟﺍ</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>ﻦﻤﻳﻷﺍ ﺏﺭﺎﺸﻟﺍ</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  
+  <BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>
+  
+  <BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>
+  
+  <BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>ﻰﻄﺳﻮﻟﺍ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ</BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>
+  
+  <BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>ﺔﻄﺳﻮﺘﻤﻟﺍ ﻰﻨﻤﻴﻟﺍ ﻞﺟﺮﻟﺍ</BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>
+  
+  <BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>ﺔﻴﻔﻠﺨﻟﺍ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ</BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>
+  
+  <BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻕﺎﺴﻟﺍ</BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>
+  
+</LanguageData>
