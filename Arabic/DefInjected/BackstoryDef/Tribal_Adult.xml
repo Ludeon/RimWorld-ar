@@ -1,0 +1,231 @@
+ï»؟<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] fought for [PAWN_possessive] tribe. [PAWN_pronoun] and specialized in the use of bows, pila, and other ranged weapons. -->
+  <Archer25.baseDesc>{PAWN_nameDef} {PAWN_gender ? رپر€ذ°ذ¶ذ°ذ»رپرڈ : رپر€ذ°ذ¶ذ°ذ»ذ°رپرŒ} ذ·ذ° رپذ²ذ¾ر‘ ذ؟ذ»ذµذ¼رڈ. {PAWN_pronoun} رپذ؟ذµر†ذ¸ذ°ذ»ذ¸رپر‚ ذ² رپر‚ر€ذµذ»رŒذ±ذµ ذ¸ذ· ذ»رƒذ؛ذ°, ذ¼ذµر‚ذ°ذ½ذ¸ذ¸ ذ؟ذ¸ذ»رƒذ¼ذ° ذ¸ ذ´ر€رƒذ³ذ¾ذ¼ ذ´ذ°ذ»رŒذ½ذ¾ذ±ذ¾ذ¹ذ½ذ¾ذ¼ ذ¾ر€رƒذ¶ذ¸ذ¸.</Archer25.baseDesc>
+  <!-- EN: archer -->
+  <Archer25.title>ذ»رƒر‡ذ½ذ¸ذ؛</Archer25.title>
+  <Archer25.titleFemale>ذ»رƒر‡ذ½ذ¸ر†ذ°</Archer25.titleFemale>
+  <!-- EN: archer -->
+  <Archer25.titleShort>ذ»رƒر‡ذ½ذ¸ذ؛</Archer25.titleShort>
+  <Archer25.titleShortFemale>ذ»رƒر‡ذ½ذ¸ر†ذ°</Archer25.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s tribe banished [PAWN_objective] following a bloody dispute. [PAWN_pronoun] survived in the wilds alone for a long time. -->
+  <Banished68.baseDesc>ذںذ»ذµذ¼رڈ {PAWN_nameDef} ذ¸ذ·ذ³ذ½ذ°ذ»ذ¾ {PAWN_possessive} ذ؟ذ¾رپذ»ذµ ذ؛ر€ذ¾ذ²ذ°ذ²ذ¾ذ³ذ¾ ذ؛ذ¾ذ½ر„ذ»ذ¸ذ؛ر‚ذ°. {PAWN_pronoun} {PAWN_gender ? ذ±ر‹ذ» ذ²ر‹ذ½رƒذ¶ذ´ذµذ½ : ذ±ر‹ذ»ذ° ذ²ر‹ذ½رƒذ¶ذ´ذµذ½ذ°} ذ´ذ¾ذ»ذ³ذ¸ذµ ذ³ذ¾ذ´ر‹ ذ²ر‹ذ¶ذ¸ذ²ذ°ر‚رŒ ذ² ذ³ذ»رƒرˆذ¸, ذ؟ذ¾ذ»ذ°ذ³ذ°رڈرپرŒ ر‚ذ¾ذ»رŒذ؛ذ¾ ذ½ذ° رپذµذ±رڈ.</Banished68.baseDesc>
+  <!-- EN: banished -->
+  <Banished68.title>ذ¸ذ·ذ³ذ½ذ°ذ½ذ½ذ¸ذ؛</Banished68.title>
+  <Banished68.titleFemale>ذ¸ذ·ذ³ذ½ذ°ذ½ذ½ذ¸ر†ذ°</Banished68.titleFemale>
+  <!-- EN: banished -->
+  <Banished68.titleShort>ذ¸ذ·ذ³ذ½ذ°ذ½ذ½ذ¸ذ؛</Banished68.titleShort>
+  <Banished68.titleShortFemale>ذ¸ذ·ذ³ذ½ذ°ذ½ذ½ذ¸ر†ذ°</Banished68.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] wielded ikwa, axes, clubs, and other close-ranged weapons in battles for [PAWN_possessive] tribe. -->
+  <Brave88.baseDesc>{PAWN_nameDef} ذ¼ذ°رپر‚ذµر€رپذ؛ذ¸ {PAWN_gender ? رƒذ؟ر€ذ°ذ²ذ»رڈذ»رپرڈ : رƒذ؟ر€ذ°ذ²ذ»رڈذ»ذ°رپرŒ} ر‚ذ¾ذ؟ذ¾ر€ذ°ذ¼ذ¸, ذ´رƒذ±ذ¸ذ½ذ°ذ¼ذ¸, ذ¸ذ؛ذ»ذ²ذ° ذ¸ ذ´ر€رƒذ³ذ¸ذ¼ ر…ذ¾ذ»ذ¾ذ´ذ½ر‹ذ¼ ذ¾ر€رƒذ¶ذ¸ذµذ¼ ذ² ذ±ذ¸ر‚ذ²ذ°ر… ذ·ذ° رپذ²ذ¾ر‘ ذ؟ذ»ذµذ¼رڈ.</Brave88.baseDesc>
+  <!-- EN: brave -->
+  <Brave88.title>ر…ر€ذ°ذ±ر€ر‹ذ¹ ذ²ذ¾ذ¸ر‚ذµذ»رŒ</Brave88.title>
+  <Brave88.titleFemale>ر…ر€ذ°ذ±ر€ذ°رڈ ذ²ذ¾ذ¸ر‚ذµذ»رŒذ½ذ¸ر†ذ°</Brave88.titleFemale>
+  <!-- EN: brave -->
+  <Brave88.titleShort>ذ²ذ¾ذ¸ر‚ذµذ»رŒ</Brave88.titleShort>
+  <Brave88.titleShortFemale>ذ²ذ¾ذ¸ر‚ذµذ»رŒذ½ذ¸ر†ذ°</Brave88.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s main job in the hunting party was the butchering of animals. [PAWN_pronoun] became a master with the knife, able to extract every bit of value from a carcass in a short time. -->
+  <Butcher40.baseDesc>ذ’ رپذ²ذ¾ر‘ذ¼ ذ¾ر…ذ¾ر‚ذ½ذ¸ر‡رŒذµذ¼ ذ¾ر‚ر€رڈذ´ذµ {PAWN_nameDef} ذ² ذ¾رپذ½ذ¾ذ²ذ½ذ¾ذ¼ {PAWN_gender ? ذ·ذ°ذ½ذ¸ذ¼ذ°ذ»رپرڈ : ذ·ذ°ذ½ذ¸ذ¼ذ°ذ»ذ°رپرŒ} ر€ذ°ذ·ذ´ذµذ»ذ؛ذ¾ذ¹ ذ¶ذ¸ذ²ذ¾ر‚ذ½ر‹ر…. {PAWN_pronoun} {PAWN_gender ? رپر‚ذ°ذ» : رپر‚ذ°ذ»ذ°} ذ¼ذ°رپر‚ذµر€ذ¾ذ¼ ذ² ذ¾ذ±ر€ذ°ر‰ذµذ½ذ¸ذ¸ رپ ذ½ذ¾ذ¶ذ¾ذ¼ ذ¸ {PAWN_gender ? رپذ؟ذ¾رپذ¾ذ±ذµذ½ : رپذ؟ذ¾رپذ¾ذ±ذ½ذ°} ذ·ذ° ذ؛ذ¾ر€ذ¾ر‚ذ؛ذ¾ذµ ذ²ر€ذµذ¼رڈ ذ¸ذ·ذ²ذ»ذµر‡رŒ ذ¸ذ· ر‚رƒرˆذ¸ ذ؛ذ°ذ¶ذ´ر‹ذ¹ ر†ذµذ½ذ½ر‹ذ¹ ذ؛رƒرپذ¾ر‡ذµذ؛.</Butcher40.baseDesc>
+  <!-- EN: butcher -->
+  <Butcher40.title>ذ¼رڈرپذ½ذ¸ذ؛</Butcher40.title>
+  <!-- EN: butcher -->
+  <Butcher40.titleShort>ذ¼رڈرپذ½ذ¸ذ؛</Butcher40.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] carved artworks for [PAWN_possessive] tribe from wood, stone, and occasionally, more exotic materials. The work was sometimes sold, and sometimes kept to beautify settlements and provide a focus for rituals. -->
+  <Carver1.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ²ر‹ر€ذµذ·ذ°ذ» : ذ²ر‹ر€ذµذ·ذ°ذ»ذ°} ذ´ذ»رڈ رپذ²ذ¾ذµذ³ذ¾ ذ؟ذ»ذµذ¼ذµذ½ذ¸ رپذ؛رƒذ»رŒذ؟ر‚رƒر€ر‹ ذ¸ذ· ذ´ذµر€ذµذ²ذ°, ذ؛ذ°ذ¼ذ½رڈ, ذ° ذ؟ذ¾ر€ذ¾ذ¹ ذ¸ ذ¸ذ· ذ±ذ¾ذ»ذµذµ رچذ؛ذ·ذ¾ر‚ذ¸ر‡ذµرپذ؛ذ¸ر… ذ¼ذ°ر‚ذµر€ذ¸ذ°ذ»ذ¾ذ². ذ§ر‚ذ¾-ر‚ذ¾ ذ¸ذ· {PAWN_possessive} ر€ذ°ذ±ذ¾ر‚ ذ؟ر€ذ¾ذ´ذ°ذ²ذ°ذ»ذ¾رپرŒ, ر‡ر‚ذ¾-ر‚ذ¾آ â€” ر…ر€ذ°ذ½ذ¸ذ»ذ¾رپرŒ ذ؟ذ¾رپذµذ»ذµذ½ر†ذ°ذ¼ذ¸ ذ² ر€ذ¸ر‚رƒذ°ذ»رŒذ½ر‹ر… ر†ذµذ»رڈر… ذ¸ ذ؟ر€ذ¾رپر‚ذ¾ ذ´ذ»رڈ ذ؛ر€ذ°رپذ¾ر‚ر‹.</Carver1.baseDesc>
+  <!-- EN: carver -->
+  <Carver1.title>ر€ذµذ·ر‡ذ¸ذ؛</Carver1.title>
+  <Carver1.titleFemale>ر€ذµذ·ر‡ذ¸ر†ذ°</Carver1.titleFemale>
+  <!-- EN: carver -->
+  <Carver1.titleShort>ر€ذµذ·ر‡ذ¸ذ؛</Carver1.titleShort>
+  <Carver1.titleShortFemale>ر€ذµذ·ر‡ذ¸ر†ذ°</Carver1.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] specialized in cave complex excavation and construction. -->
+  <CaveBuilder81.baseDesc>[PAWN_nameDef] {PAWN_gender ? رپذ؟ذµر†ذ¸ذ°ذ»ذ¸ذ·ذ¸ر€ذ¾ذ²ذ°ذ»رپرڈ : رپذ؟ذµر†ذ¸ذ°ذ»ذ¸ذ·ذ¸ر€ذ¾ذ²ذ°ذ»ذ°رپرŒ} ذ½ذ° ر€ذ°رپذ؛ذ¾ذ؟ذ؛ذ°ر… ذ¸ رپذ¾ذ·ذ´ذ°ذ½ذ¸ذ¸ ذ؟ذµر‰ذµر€ذ½ر‹ر… ذ؛ذ¾ذ¼ذ؟ذ»ذµذ؛رپذ¾ذ².</CaveBuilder81.baseDesc>
+  <!-- EN: cave builder -->
+  <CaveBuilder81.title>رپر‚ر€ذ¾ذ¸ر‚ذµذ»رŒ ذ؟ذµر‰ذµر€</CaveBuilder81.title>
+  <!-- EN: cave builder -->
+  <CaveBuilder81.titleShort>رˆذ°ر…ر‚ر‘ر€</CaveBuilder81.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] labored in mines and caves, digging out spaces for storing items and hiding from threats. [PAWN_possessive] work provided hiding spots for [PAWN_possessive] friends on many occasions. -->
+  <Digger31.baseDesc>[PAWN_nameDef] labored in mines and caves, digging out spaces for storing items and hiding from threats. [PAWN_possessive] work provided hiding spots for [PAWN_possessive] friends on many occasions.</Digger31.baseDesc>
+  <!-- EN: digger -->
+  <Digger31.title>digger</Digger31.title>
+  <!-- EN: digger -->
+  <Digger31.titleShort>digger</Digger31.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] carved living spaces and mined minerals from the sides of hills and mountains. [PAWN_pronoun] learned to feel at home picking through rock and shoring up cave walls. -->
+  <Digger66.baseDesc>{PAWN_nameDef} ذ¸ {PAWN_possessive} ذ؟ذ»ذµذ¼رڈ ذ²ر‹رپذµذ؛ذ»ذ¸ رپذ²ذ¾ذ¹ ذ´ذ¾ذ¼ ذ³ذ»رƒذ±ذ¾ذ؛ذ¾ ذ² رپذ؛ذ»ذ¾ذ½ذµ ذ³ذ¾ر€ر‹. ذ، ر‚ذµر… ذ؟ذ¾ر€ {PAWN_pronoun} رƒذ¼ذµذµر‚ ذ±ذµذ· ر‚ر€رƒذ´ذ° ذ؟ر€ذ¾ذ±ذ¸ذ²ذ°ر‚رŒرپرڈ رپذ؛ذ²ذ¾ذ·رŒ ذ؟ذ¾ر€ذ¾ذ´رƒ ذ¸ رƒذ؛ر€ذµذ؟ذ»رڈر‚رŒ ذ؟ذµر‰ذµر€ذ½ر‹ذµ رپذ²ذ¾ذ´ر‹.</Digger66.baseDesc>
+  <!-- EN: digger -->
+  <Digger66.title>ذ؛ذ¾ذ؟ذ°ر‚ذµذ»رŒ</Digger66.title>
+  <!-- EN: digger -->
+  <Digger66.titleShort>ذ؛ذ¾ذ؟ذ°ر‚ذµذ»رŒ</Digger66.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked at dig sites, extracting valuable items and materials from ancient compacted ruins. [PAWN_pronoun] learned how to spot valuables in the ground and use a variety of excavating tools. -->
+  <Excavator55.baseDesc>[PAWN_nameDef] worked at dig sites, extracting valuable items and materials from ancient compacted ruins. [PAWN_pronoun] learned how to spot valuables in the ground and use a variety of excavating tools.</Excavator55.baseDesc>
+  <!-- EN: excavator -->
+  <Excavator55.title>excavator</Excavator55.title>
+  <!-- EN: excavator -->
+  <Excavator55.titleShort>excavator</Excavator55.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was responsible for erecting structures for [PAWN_possessive] fellow tribespeople to live in. This included both temporary structures for nomadic travel, and permanent settlements. Gathering building materials from local plant life was part of the job. -->
+  <Framer37.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ¾ر‚ذ²ذµر‡ذ°ذ» : ذ¾ر‚ذ²ذµر‡ذ°ذ»ذ°} ذ·ذ° ذ²ذ¾ذ·ذ²ذµذ´ذµذ½ذ¸ذµ ذ¶ذ¸ذ»ر‹ر… رپذ¾ذ¾ر€رƒذ¶ذµذ½ذ¸ذ¹ ذ´ذ»رڈ رپذ²ذ¾ذµذ³ذ¾ ذ؟ذ»ذµذ¼ذµذ½ذ¸, ذ² ر‚ذ¾ذ¼ ر‡ذ¸رپذ»ذµ ذ²ر€ذµذ¼ذµذ½ذ½ر‹ر… ذ¶ذ¸ذ»ذ¸ر‰ ذ´ذ»رڈ ذ؟رƒر‚ذµرˆذµرپر‚ذ²ذ¸ذ¹ ذ¸ ذ؟ذ¾رپر‚ذ¾رڈذ½ذ½ر‹ر…آ â€” ذ´ذ»رڈ ذ؟ذ¾رپذµذ»ذµذ½ذ¸ذ¹. ذ‍ذ´ذ½ذ¾ذ¹ ذ¸ذ· ذ²ذ°ذ¶ذ½ر‹ر… ذ·ذ°ذ´ذ°ر‡ ذ² رچر‚ذ¾ذ¹ ر€ذ°ذ±ذ¾ر‚ذµ ذ±ر‹ذ» رپذ±ذ¾ر€ ذ¸ ذ¸رپذ؟ذ¾ذ»رŒذ·ذ¾ذ²ذ°ذ½ذ¸ذµ ذ¼ذµرپر‚ذ½ر‹ر… ر€ذ°رپر‚ذµذ½ذ¸ذ¹ ذ² ذ؛ذ°ر‡ذµرپر‚ذ²ذµ رپر‚ر€ذ¾ذ¸ر‚ذµذ»رŒذ½ر‹ر… ذ¼ذ°ر‚ذµر€ذ¸ذ°ذ»ذ¾ذ².</Framer37.baseDesc>
+  <!-- EN: framer -->
+  <Framer37.title>رپر‚ر€ذ¾ذ¸ر‚ذµذ»رŒ</Framer37.title>
+  <!-- EN: framer -->
+  <Framer37.titleShort>رپر‚ر€ذ¾ذ¸ر‚ذµذ»رŒ</Framer37.titleShort>
+  
+  <!-- EN: Using [PAWN_possessive] knowledge of plants, roots, and berries, [PAWN_nameDef] could find food in even the most barren landscapes. [PAWN_pronoun] stayed away from animals. -->
+  <Gatherer70.baseDesc>ذ‘ذ»ذ°ذ³ذ¾ذ´ذ°ر€رڈ رپذ²ذ¾ذ¸ذ¼ ذ·ذ½ذ°ذ½ذ¸رڈذ¼ ذ¾ ر€ذ°رپر‚ذµذ½ذ¸رڈر…, رپرٹذµذ´ذ¾ذ±ذ½ر‹ر… ذ؛ذ¾ر€ذ½رڈر… ذ¸ رڈذ³ذ¾ذ´ذ°ر…, {PAWN_nameDef} {PAWN_gender ? ذ¼ذ¾ذ³ : ذ¼ذ¾ذ³ذ»ذ°} ذ½ذ°ذ¹ر‚ذ¸ ذµذ´رƒ ذ² رپذ°ذ¼ر‹ر… ذ±ذµرپذ؟ذ»ذ¾ذ´ذ½ر‹ر… ذ¼ذµرپر‚ذ°ر…. ذ‌ذ¾ ذ¾ر‚ ذ¶ذ¸ذ²ذ¾ر‚ذ½ر‹ر… {PAWN_pronoun} {PAWN_gender ? ذ؟ر€ذµذ´ذ؟ذ¾ر‡ذ¸ر‚ذ°ذ» : ذ؟ر€ذµذ´ذ؟ذ¾ر‡ذ¸ر‚ذ°ذ»ذ°} ذ´ذµر€ذ¶ذ°ر‚رŒرپرڈ ذ؟ذ¾ذ´ذ°ذ»رŒرˆذµ.</Gatherer70.baseDesc>
+  <!-- EN: gatherer -->
+  <Gatherer70.title>رپذ¾ذ±ذ¸ر€ذ°ر‚ذµذ»رŒ</Gatherer70.title>
+  <Gatherer70.titleFemale>رپذ¾ذ±ذ¸ر€ذ°ر‚ذµذ»رŒذ½ذ¸ر†ذ°</Gatherer70.titleFemale>
+  <!-- EN: gatherer -->
+  <Gatherer70.titleShort>رپذ¾ذ±ذ¸ر€ذ°ر‚ذµذ»رŒ</Gatherer70.titleShort>
+  <Gatherer70.titleShortFemale>رپذ¾ذ±ذ¸ر€ذ°ر‚ذµذ»رŒذ½ذ¸ر†ذ°</Gatherer70.titleShortFemale>
+  
+  <!-- EN: After [PAWN_possessive] tribe's elder healer was killed in a raid, [PAWN_nameDef] took on the role. [PAWN_pronoun] spent [PAWN_possessive] days scrounging up herbs and mineral compounds from the nearby area to use in surprisingly effective remedies. -->
+  <Healer46.baseDesc>ذںذ¾رپذ»ذµ ر‚ذ¾ذ³ذ¾, ذ؛ذ°ذ؛ ذ²ذ¾ ذ²ر€ذµذ¼رڈ ذ¾ر‡ذµر€ذµذ´ذ½ذ¾ذ³ذ¾ ذ½ذ°ذ»ر‘ر‚ذ° ذ±ذ°ذ½ذ´ذ¸ر‚ر‹ رƒذ±ذ¸ذ»ذ¸ ذ؟ذ»ذµذ¼ذµذ½ذ½ذ¾ذ³ذ¾ ذ»ذµذ؛ذ°ر€رڈ, {PAWN_nameDef} {PAWN_gender ? ذ·ذ°ذ½رڈذ» : ذ·ذ°ذ½رڈذ»ذ°} ذµذ³ذ¾ ذ¼ذµرپر‚ذ¾. {PAWN_pronoun} {PAWN_gender ? ذ؟ر€ذ¾ذ²ذ¾ذ´ذ¸ذ» : ذ؟ر€ذ¾ذ²ذ¾ذ´ذ¸ذ»ذ°} ذ´ذ½ذ¸, رپذ¾ذ±ذ¸ر€ذ°رڈ ر‚ر€ذ°ذ²ر‹ ذ¸ ذ¼ذ¸ذ½ذµر€ذ°ذ»ر‹, ذ¸ذ· ذ؛ذ¾ر‚ذ¾ر€ر‹ر… ذ؟ذ¾ذ»رƒر‡ذ°ذ»ذ¸رپرŒ ذ½ذ° رƒذ´ذ¸ذ²ذ»ذµذ½ذ¸ذµ رچر„ر„ذµذ؛ر‚ذ¸ذ²ذ½ر‹ذµ رپذ½ذ°ذ´ذ¾ذ±رŒرڈ.</Healer46.baseDesc>
+  <!-- EN: healer -->
+  <Healer46.title>ذ·ذ½ذ°ر…ذ°ر€رŒ</Healer46.title>
+  <Healer46.titleFemale>ذ·ذ½ذ°ر…ذ°ر€ذ؛ذ°</Healer46.titleFemale>
+  <!-- EN: healer -->
+  <Healer46.titleShort>ذ·ذ½ذ°ر…ذ°ر€رŒ</Healer46.titleShort>
+  <Healer46.titleShortFemale>ذ·ذ½ذ°ر…ذ°ر€ذ؛ذ°</Healer46.titleShortFemale>
+  
+  <!-- EN: While the others were out hunting and foraging, [PAWN_nameDef] would stay at home to cook and take care of the young and sick. -->
+  <HearthTender66.baseDesc>ذںذ¾ذ؛ذ° ذ¾رپر‚ذ°ذ»رŒذ½ر‹ذµ ذ¾ر…ذ¾ر‚ذ¸ذ»ذ¸رپرŒ ذ¸ ذ·ذ°ذ½ذ¸ذ¼ذ°ذ»ذ¸رپرŒ رپذ¾ذ±ذ¸ر€ذ°ر‚ذµذ»رŒرپر‚ذ²ذ¾ذ¼, {PAWN_nameDef} {PAWN_gender ? ذ¾رپر‚ذ°ذ²ذ°ذ»رپرڈ : ذ¾رپر‚ذ°ذ²ذ°ذ»ذ°رپرŒ} ذ´ذ¾ذ¼ذ°, ذ³ذ¾ر‚ذ¾ذ²رڈ ذµذ´رƒ ذ¸ رƒر…ذ°ذ¶ذ¸ذ²ذ°رڈ ذ·ذ° ذ±ذ¾ذ»رŒذ½ر‹ذ¼ذ¸ ذ¸ ذ´ذµر‚رŒذ¼ذ¸.</HearthTender66.baseDesc>
+  <!-- EN: hearth tender -->
+  <HearthTender66.title>ذ؟ذµر‰ذµر€ذ½ذ°رڈ رپذ¸ذ´ذµذ»ذ؛ذ°</HearthTender66.title>
+  <!-- EN: tender -->
+  <HearthTender66.titleShort>رپذ¸ذ´ذµذ»ذ؛ذ°</HearthTender66.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] herded a variety of animals to help feed and clothe [PAWN_possessive] tribe while on the move. [PAWN_nameDef] learned how to calm and direct the beasts, and how to hunt [PAWN_possessive] own meals on the trail. -->
+  <Herder33.baseDesc>[PAWN_nameDef] herded a variety of animals to help feed and clothe [PAWN_possessive] tribe while on the move. [PAWN_nameDef] learned how to calm and direct the beasts, and how to hunt [PAWN_possessive] own meals on the trail.</Herder33.baseDesc>
+  <!-- EN: herder -->
+  <Herder33.title>herder</Herder33.title>
+  <!-- EN: herder -->
+  <Herder33.titleShort>herder</Herder33.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] tracked, trapped and killed animals for their meat and leather.\n\n[PAWN_nameDef] used both ranged and melee weapons. Sometimes, [PAWN_pronoun] hunted alongside animals. -->
+  <Hunter74.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ²ر‹رپذ»ذµذ¶ذ¸ذ²ذ°ذ» : ذ²ر‹رپذ»ذµذ¶ذ¸ذ²ذ°ذ»ذ°}, {PAWN_gender ? ذ»ذ¾ذ²ذ¸ذ» : ذ»ذ¾ذ²ذ¸ذ»ذ°} ذ¸ {PAWN_gender ? رƒذ±ذ¸ذ²ذ°ذ» : رƒذ±ذ¸ذ²ذ°ذ»ذ°} ذ¶ذ¸ذ²ذ¾ر‚ذ½ر‹ر… ر€ذ°ذ´ذ¸ ذ¸ر… ذ؛ذ¾ذ¶ذ¸ ذ¸ ذ¼رڈرپذ°.\n\n{PAWN_nameDef} {PAWN_gender ? ذ؟ذ¾ذ»رŒذ·ذ¾ذ²ذ°ذ»رپرڈ : ذ؟ذ¾ذ»رŒذ·ذ¾ذ²ذ°ذ»ذ°رپرŒ} ذ¾ر€رƒذ¶ذ¸ذµذ¼ ذ؛ذ°ذ؛ ذ±ذ»ذ¸ذ¶ذ½ذµذ³ذ¾, ر‚ذ°ذ؛ ذ¸ ذ´ذ°ذ»رŒذ½ذµذ³ذ¾ ذ±ذ¾رڈ. ذکذ½ذ¾ذ³ذ´ذ° {PAWN_pronoun} {PAWN_gender ? ذ¾ر…ذ¾ر‚ذ¸ذ»رپرڈ: ذ¾ر…ذ¾ر‚ذ¸ذ»ذ°رپرŒ} رپ ذ»ذ¾ذ²ر‡ذ¸ذ¼ذ¸ ذ¶ذ¸ذ²ذ¾ر‚ذ½ر‹ذ¼ذ¸.</Hunter74.baseDesc>
+  <!-- EN: hunter -->
+  <Hunter74.title>ذ¾ر…ذ¾ر‚ذ½ذ¸ذ؛</Hunter74.title>
+  <Hunter74.titleFemale>ذ¾ر…ذ¾ر‚ذ½ذ¸ر†ذ°</Hunter74.titleFemale>
+  <!-- EN: hunter -->
+  <Hunter74.titleShort>ذ¾ر…ذ¾ر‚ذ½ذ¸ذ؛</Hunter74.titleShort>
+  <Hunter74.titleShortFemale>ذ¾ر…ذ¾ر‚ذ½ذ¸ر†ذ°</Hunter74.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] chopped trees and hauled their lumber back to the tribe. [PAWN_pronoun] wielded [PAWN_possessive] axe with the finesse of an artist and the force of a charging muffalo. -->
+  <Logger16.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ²ذ°ذ»ذ¸ذ» : ذ²ذ°ذ»ذ¸ذ»ذ°} ذ»ذµرپ ذ¸ {PAWN_gender ? ذ¾ذ±ذµرپذ؟ذµر‡ذ¸ذ²ذ°ذ» : ذ¾ذ±ذµرپذ؟ذµر‡ذ¸ذ²ذ°ذ»} ذ´ر€ذµذ²ذµرپذ¸ذ½ذ¾ذ¹ رپذ²ذ¾ر‘ ذ؟ذ»ذµذ¼رڈ. {PAWN_pronoun} {PAWN_gender ? رƒذ؟ر€ذ°ذ²ذ»رڈذ»رپرڈ : رƒذ؟ر€ذ°ذ²ذ»رڈذ»ذ°رپرŒ} ر‚ذ¾ذ؟ذ¾ر€ذ¾ذ¼ رپ ذ¸ذ·رڈر‰ذµرپر‚ذ²ذ¾ذ¼ ر…رƒذ´ذ¾ذ¶ذ½ذ¸ذ؛ذ° ذ¸ ذ¼ذ¾ر‰رŒرژ ر€ذ°ذ·رٹرڈر€ر‘ذ½ذ½ذ¾ذ³ذ¾ ذ¼رƒر„ر„ذ°ذ»ذ¾.</Logger16.baseDesc>
+  <!-- EN: logger -->
+  <Logger16.title>ذ»ذµرپذ¾ر€رƒذ±</Logger16.title>
+  <!-- EN: logger -->
+  <Logger16.titleShort>ذ»ذµرپذ¾ر€رƒذ±</Logger16.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] never much liked the tribal council or the yearly festivals. [PAWN_pronoun] preferred the open plain and the whistle of wind through the rocks.\n\n[PAWN_pronoun] visited [PAWN_possessive] tribe from time to time, but mostly took care of [PAWN_objective]self using [PAWN_possessive] own survival skills. -->
+  <Loner61.baseDesc>ذںذ¾رپذµر‰ذµذ½ذ¸رژ رپذ¾ذ²ذµر‚ذ° ذ؟ذ»ذµذ¼ذµذ½ذ¸ ذ¸ ذµذ¶ذµذ³ذ¾ذ´ذ½ر‹ر… ذ؟ر€ذ°ذ·ذ´ذ½ذµرپر‚ذ² {PAWN_nameDef} {PAWN_gender ? ذ؟ر€ذµذ´ذ؟ذ¾ر‡ذ¸ر‚ذ°ذ» : ذ؟ر€ذµذ´ذ؟ذ¾ر‡ذ¸ر‚ذ°ذ»ذ°} ذ¾ر‚ذ؛ر€ر‹ر‚رƒرژ ر€ذ°ذ²ذ½ذ¸ذ½رƒ ذ¸ ذ¾ذ´ذ¸ذ½ذ¾ذ؛ذ¸ذ¹ رپذ²ذ¸رپر‚ ذ²ذµر‚ر€ذ° ذ² رپذ؛ذ°ذ»ذ°ر….\n\n{PAWN_pronoun} ذ²ر€ذµذ¼رڈ ذ¾ر‚ ذ²ر€ذµذ¼ذµذ½ذ¸ {PAWN_gender ? ذ½ذ°ذ²ذµذ´ر‹ذ²ذ°ذ»رپرڈ : ذ½ذ°ذ²ذµذ´ر‹ذ²ذ°ذ»ذ°رپرŒ} ذ² رپذ²ذ¾ر‘ ذ؟ذ»ذµذ¼رڈ, ذ½ذ¾ ذ² ذ¾رپذ½ذ¾ذ²ذ½ذ¾ذ¼ رپذ°ذ¼ذ¾رپر‚ذ¾رڈر‚ذµذ»رŒذ½ذ¾ {PAWN_gender ? ذ·ذ°ذ±ذ¾ر‚ذ¸ذ»رپرڈ : ذ·ذ°ذ±ذ¾ر‚ذ¸ذ»ذ°رپرŒ} ذ¾ رپذµذ±ذµ, ذ؟ذ¾ذ»رŒذ·رƒرڈرپرŒ رپذ²ذ¾ذ¸ذ¼ذ¸ ذ½ذ°ذ²ر‹ذ؛ذ°ذ¼ذ¸ ذ²ر‹ذ¶ذ¸ذ²ذ°ذ½ذ¸رڈ.</Loner61.baseDesc>
+  <!-- EN: loner -->
+  <Loner61.title>ذ¾ذ´ذ¸ذ½ذ¾ر‡ذ؛ذ°</Loner61.title>
+  <!-- EN: loner -->
+  <Loner61.titleShort>ذ±ذ¸ر€رژذ؛</Loner61.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was one of a long line of lore keepers in [PAWN_possessive] tribe. Every night around the fire, [PAWN_pronoun] would pass on ancient knowledge and helpful wisdom through stories. -->
+  <LoreKeeper51.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ؟ر€ذ¾ذ´ذ¾ذ»ذ¶ذ°ذ» : ذ؟ر€ذ¾ذ´ذ¾ذ»ذ¶ذ°ذ»ذ°} ذ´ر€ذµذ²ذ½ذ¸ذ¹ ر€ذ¾ذ´ ر…ر€ذ°ذ½ذ¸ر‚ذµذ»ذµذ¹ رپذ؛ذ°ذ·ذ°ذ½ذ¸ذ¹ ذ² رپذ²ذ¾ر‘ذ¼ ذ؟ذ»ذµذ¼ذµذ½ذ¸. ذڑذ°ذ¶ذ´رƒرژ ذ½ذ¾ر‡رŒ, ذ؛ذ¾ذ³ذ´ذ° ذ²رپذµ رپذ¾ذ±ذ¸ر€ذ°ذ»ذ¸رپرŒ رƒ ذ¾ذ³ذ½رڈ, {PAWN_pronoun} {PAWN_gender ? ر€ذ°رپرپذ؛ذ°ذ·ر‹ذ²ذ°ذ» : ر€ذ°رپرپذ؛ذ°ذ·ر‹ذ²ذ°ذ»ذ°} ذ¸رپر‚ذ¾ر€ذ¸ذ¸, ذ؟ذµر€ذµذ´ذ°ذ²ذ°رڈ ر‚ذµذ¼ رپذ°ذ¼ر‹ذ¼ ذ´ر€ذµذ²ذ½ذ¸ذµ ذ·ذ½ذ°ذ½ذ¸رڈ ذ¸ ذ¼رƒذ´ر€ذ¾رپر‚رŒ.</LoreKeeper51.baseDesc>
+  <!-- EN: lore keeper -->
+  <LoreKeeper51.title>ر…ر€ذ°ذ½ذ¸ر‚ذµذ»رŒ ذ»ذµذ³ذµذ½ذ´</LoreKeeper51.title>
+  <LoreKeeper51.titleFemale>ر…ر€ذ°ذ½ذ¸ر‚ذµذ»رŒذ½ذ¸ر†ذ° ذ»ذµذ³ذµذ½ذ´</LoreKeeper51.titleFemale>
+  <!-- EN: keeper -->
+  <LoreKeeper51.titleShort>رپذ؛ذ°ذ·ذ¸ر‚ذµذ»رŒ</LoreKeeper51.titleShort>
+  <LoreKeeper51.titleShortFemale>رپذ؛ذ°ذ·ذ¸ر‚ذµذ»رŒذ½ذ¸ر†ذ°</LoreKeeper51.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] often feigned sickness in order to avoid [PAWN_possessive] responsibilities. While resting in the sick hut, [PAWN_pronoun] told stories to the children. -->
+  <Malingerer28.baseDesc>{PAWN_nameDef} ر‡ذ°رپر‚ذ¾ {PAWN_gender ? ذ؟ر€ذ¸ذ´رƒذ¼ر‹ذ²ذ°ذ» : ذ؟ر€ذ¸ذ´رƒذ¼ر‹ذ²ذ°ذ»ذ°} رپذµذ±ذµ ذ²رپرڈذ؛ذ¸ذµ ذ±ذ¾ذ»ذµذ·ذ½ذ¸, ر‡ر‚ذ¾ذ±ر‹ ذ¸ذ·ذ±ذµذ³ذ°ر‚رŒ ر€ذ°ذ±ذ¾ر‚ر‹. ذ‍ر‚ذ´ر‹ر…ذ°رڈ ذ² ر…ذ¸ذ¶ذ¸ذ½ذµ ذ´ذ»رڈ ذ±ذ¾ذ»رŒذ½ر‹ر…, {PAWN_pronoun} {PAWN_gender ? ر€ذ°رپرپذ؛ذ°ذ·ر‹ذ²ذ°ذ» : ر€ذ°رپرپذ؛ذ°ذ·ر‹ذ²ذ°ذ»ذ°} ر€ذ°ذ·ذ½ر‹ذµ ذ¸رپر‚ذ¾ر€ذ¸ذ¸ ذ´ذµر‚ذ¸رˆذ؛ذ°ذ¼.</Malingerer28.baseDesc>
+  <!-- EN: malingerer -->
+  <Malingerer28.title>رپذ¸ذ¼رƒذ»رڈذ½ر‚</Malingerer28.title>
+  <Malingerer28.titleFemale>رپذ¸ذ¼رƒذ»رڈذ½ر‚ذ؛ذ°</Malingerer28.titleFemale>
+  <!-- EN: malingerer -->
+  <Malingerer28.titleShort>رپذ¸ذ¼رƒذ»رڈذ½ر‚</Malingerer28.titleShort>
+  <Malingerer28.titleShortFemale>رپذ¸ذ¼رƒذ»رڈذ½ر‚ذ؛ذ°</Malingerer28.titleShortFemale>
+  
+  <!-- EN: Because of [PAWN_possessive] quiet wisdom and great strength, [PAWN_nameDef] became the spiritual guide for [PAWN_possessive] tribe. [PAWN_pronoun] had a special connection with the great spirit of the muffalo. -->
+  <MuffaloShaman95.baseDesc>ذ—ذ° ذ¼ذ¾ذ»ر‡ذ°ذ»ذ¸ذ²رƒرژ ذ¼رƒذ´ر€ذ¾رپر‚رŒ ذ¸ ذ¾ذ³ر€ذ¾ذ¼ذ½رƒرژ رپذ¸ذ»رƒ {PAWN_nameDef} {PAWN_gender ? ذ±ر‹ذ» ذ¸ذ·ذ±ر€ذ°ذ½ : ذ±ر‹ذ»ذ° ذ¸ذ·ذ±ر€ذ°ذ½ذ°} ذ´رƒر…ذ¾ذ²ذ½ر‹ذ¼ ذ»ذ¸ذ´ذµر€ذ¾ذ¼ ذ؛ذ¾ر‡ذµذ²ذ¾ذ³ذ¾ ذ؟ذ»ذµذ¼ذµذ½ذ¸, رپذ»ذµذ´رƒرژر‰ذµذ³ذ¾ ذ·ذ° رپر‚ذ°ذ´ذ°ذ¼ذ¸ ذ¼رƒر„ر„ذ°ذ»ذ¾.</MuffaloShaman95.baseDesc>
+  <!-- EN: muffalo shaman -->
+  <MuffaloShaman95.title>رˆذ°ذ¼ذ°ذ½ ذ¼رƒر„ر„ذ°ذ»ذ¾</MuffaloShaman95.title>
+  <MuffaloShaman95.titleFemale>رˆذ°ذ¼ذ°ذ½ذ؛ذ° ذ¼رƒر„ر„ذ°ذ»ذ¾</MuffaloShaman95.titleFemale>
+  <!-- EN: shaman -->
+  <MuffaloShaman95.titleShort>رˆذ°ذ¼ذ°ذ½</MuffaloShaman95.titleShort>
+  <MuffaloShaman95.titleShortFemale>رˆذ°ذ¼ذ°ذ½ذ؛ذ°</MuffaloShaman95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] helped [PAWN_possessive] tribe build huge wooden structures by cutting trees into sturdy planks. [PAWN_nameDef] developed a fine understanding of how wood grows and splits. -->
+  <PlankCutter72.baseDesc>[PAWN_nameDef] helped [PAWN_possessive] tribe build huge wooden structures by cutting trees into sturdy planks. [PAWN_nameDef] developed a fine understanding of how wood grows and splits.</PlankCutter72.baseDesc>
+  <!-- EN: plank cutter -->
+  <PlankCutter72.title>plank cutter</PlankCutter72.title>
+  <!-- EN: plank cutter -->
+  <PlankCutter72.titleShort>plank cutter</PlankCutter72.titleShort>
+  
+  <!-- EN: Since [PAWN_possessive] tribe made contact with local outlanders, [PAWN_nameDef] contracted [PAWN_possessive] services out as a guide. Frequent contact with ancient technology made [PAWN_objective] comfortable with the lost machines. -->
+  <Scout59.baseDesc>ذ، ر‚ذµر… ذ؟ذ¾ر€, ذ؛ذ°ذ؛ {PAWN_possessive} ذ؟ذ»ذµذ¼رڈ ذ½ذ°ذ»ذ°ذ´ذ¸ذ»ذ¾ ذ¾ر‚ذ½ذ¾رˆذµذ½ذ¸رڈ رپ ر‡رƒذ¶ذµذ·ذµذ¼ر†ذ°ذ¼ذ¸ ذ½ذµذ؟ذ¾ذ´ذ°ذ»ر‘ذ؛رƒ, {PAWN_nameDef} {PAWN_gender ? ذ؟ر€ذµذ´ذ»ذ°ذ³ذ°ذ» : ذ؟ر€ذµذ´ذ»ذ°ذ³ذ°ذ»}  رپذ²ذ¾ذ¸ رƒرپذ»رƒذ³ذ¸ ذ² ذ؛ذ°ر‡ذµرپر‚ذ²ذµ ذ؟ر€ذ¾ذ²ذ¾ذ´ذ½ذ¸ذ؛ذ° ذ؟ذ¾ ذ¼ذµرپر‚ذ½ذ¾رپر‚ذ¸. ذ§ذ°رپر‚ر‹ذµ ذ؛ذ¾ذ½ر‚ذ°ذ؛ر‚ر‹ رپ ذ°ر€ر‚ذµر„ذ°ذ؛ر‚ذ°ذ¼ذ¸ ذ´ر€ذµذ²ذ½ذ¾رپر‚ذ¸ ذ¼ذ½ذ¾ذ³ذ¾ذ¼رƒ ذ½ذ°رƒر‡ذ¸ذ»ذ¸ {PAWN_objective} ذ¾ ذ´ذ°ذ²ذ½ذ¾ ذ·ذ°ذ±ر‹ر‚ر‹ر… ر‚ذµر…ذ½ذ¾ذ»ذ¾ذ³ذ¸رڈر….</Scout59.baseDesc>
+  <!-- EN: scout -->
+  <Scout59.title>ر€ذ°ذ·ذ²ذµذ´ر‡ذ¸ذ؛</Scout59.title>
+  <Scout59.titleFemale>ر€ذ°ذ·ذ²ذµذ´ر‡ذ¸ر†ذ°</Scout59.titleFemale>
+  <!-- EN: scout -->
+  <Scout59.titleShort>ر€ذ°ذ·ذ²ذµذ´ر‡ذ¸ذ؛</Scout59.titleShort>
+  <Scout59.titleShortFemale>ر€ذ°ذ·ذ²ذµذ´ر‡ذ¸ر†ذ°</Scout59.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] prepared meals from the plants and animals brought in by gatherers, farmers, and hunters of [PAWN_possessive] tribe. [PAWN_pronoun] had to make sure it was calorie-efficient, long-lasting, and healthy. [PAWN_pronoun] often processed and sometime gathered plants [PAWN_objective]self. -->
+  <StewKeeper95.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ³ذ¾ر‚ذ¾ذ²ذ¸ذ» : ذ³ذ¾ر‚ذ¾ذ²ذ¸ذ»ذ°} ذµذ´رƒ ذ¸ذ· ر€ذ°رپر‚ذµذ½ذ¸ذ¹ ذ¸ ذ¶ذ¸ذ²ذ¾ر‚ذ½ر‹ر…, ذ؟ر€ذ¸ذ½ذµرپذµذ½ذ½ر‹ر… رپذ¾ذ±ذ¸ر€ذ°ر‚ذµذ»رڈذ¼ذ¸, ذ·ذµذ¼ذ»ذµذ´ذµذ»رŒر†ذ°ذ¼ذ¸ ذ¸ ذ¾ر…ذ¾ر‚ذ½ذ¸ذ؛ذ°ذ¼ذ¸ {PAWN_possessive} ذ؟ذ»ذµذ¼ذµذ½ذ¸. {PAWN_pronoun} {PAWN_gender ? رپذ»ذµذ´ذ¸ذ» : رپذ»ذµذ´ذ¸ذ»ذ°}, ر‡ر‚ذ¾ذ±ر‹ ذ؟ذ¸ر‰ذ° ذ±ر‹ذ»ذ° رپر‹ر‚ذ½ذ¾ذ¹, ذ·ذ´ذ¾ر€ذ¾ذ²ذ¾ذ¹ ذ¸ ر…ذ¾ر€ذ¾رˆذ¾ ر…ر€ذ°ذ½ذ¸ذ»ذ°رپرŒ. {PAWN_nameDef} ر€ذµذ³رƒذ»رڈر€ذ½ذ¾ {PAWN_gender ? ذ¾ذ±ر€ذ°ذ±ذ°ر‚ر‹ذ²ذ°ذ» : ذ¾ذ±ر€ذ°ذ±ذ°ر‚ر‹ذ²ذ°ذ»ذ°}, ذ° ذ؟ذ¾ر€ذ¾ذ¹ ذ¸ {PAWN_gender ? رپذ°ذ¼ : رپذ°ذ¼ذ°} {PAWN_gender ? رپذ¾ذ±ذ¸ر€ذ°ذ» : رپذ¾ذ±ذ¸ر€ذ°ذ»ذ°} ر€ذ°رپر‚ذµذ½ذ¸رڈ.</StewKeeper95.baseDesc>
+  <!-- EN: stew keeper -->
+  <StewKeeper95.title>ذ؛رƒر…ذ°ر€رŒ</StewKeeper95.title>
+  <StewKeeper95.titleFemale>ذ؛رƒر…ذ°ر€ذ؛ذ°</StewKeeper95.titleFemale>
+  <!-- EN: stewkeeper -->
+  <StewKeeper95.titleShort>ذ؛رƒر…ذ°ر€رŒ</StewKeeper95.titleShort>
+  <StewKeeper95.titleShortFemale>ذ؛رƒر…ذ°ر€ذ؛ذ°</StewKeeper95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s role in [PAWN_possessive] tribe was to connect with the natural world around - especially the world of animals. In addition to fulfilling a spiritual role, [PAWN_pronoun] also tamed wild beasts and cared for them as they served the tribe. -->
+  <Tamer79.baseDesc>ذ’ رپذ²ذ¾ر‘ذ¼ ذ؟ذ»ذµذ¼ذµذ½ذ¸ {PAWN_nameDef} {PAWN_gender ? ذ¾ر‚ذ²ذµر‡ذ°ذ» : ذ¾ر‚ذ²ذµر‡ذ°ذ»ذ°} ذ·ذ° ذµذ´ذ¸ذ½ذµذ½ذ¸ذµ رپ ذ¼ذ¸ر€ذ¾ذ¼ ذ؟ر€ذ¸ر€ذ¾ذ´ر‹آ â€” ذ¾رپذ¾ذ±ذµذ½ذ½ذ¾ رپ ذ¶ذ¸ذ²ذ¾ر‚ذ½ر‹ذ¼ذ¸. {PAWN_pronoun} ذ½ذµ ر‚ذ¾ذ»رŒذ؛ذ¾ {PAWN_gender ? ذ¸رپذ؟ذ¾ذ»ذ½رڈذ» : ذ¸رپذ؟ذ¾ذ»ذ½رڈذ»ذ°} رپذ²ذ¾رژ ذ´رƒر…ذ¾ذ²ذ½رƒرژ ر€ذ¾ذ»رŒ, ذ½ذ¾ ر‚ذ°ذ؛ذ¶ذµ {PAWN_gender ? ذ؟ر€ذ¸ر€رƒر‡ذ°ذ» : ذ؟ر€ذ¸ر€رƒر‡ذ°ذ»ذ°} ذ´ذ¸ذ؛ذ¸ر… ذ·ذ²ذµر€ذµذ¹ ذ´ذ»رڈ ر€ذ°ذ±ذ¾ر‚ر‹ ذ² ذ؟ذ»ذµذ¼ذµذ½ذ¸ ذ¸ {PAWN_gender ? ذ·ذ°ذ±ذ¾ر‚ذ¸ذ»رپرڈ : ذ·ذ°ذ±ذ¾ر‚ذ¸ذ»ذ°رپرŒ} ذ¾ ذ½ذ¸ر….</Tamer79.baseDesc>
+  <!-- EN: tamer -->
+  <Tamer79.title>رƒذ؛ر€ذ¾ر‚ذ¸ر‚ذµذ»رŒ</Tamer79.title>
+  <Tamer79.titleFemale>رƒذ؛ر€ذ¾ر‚ذ¸ر‚ذµذ»رŒذ½ذ¸ر†ذ°</Tamer79.titleFemale>
+  <!-- EN: tamer -->
+  <Tamer79.titleShort>رƒذ؛ر€ذ¾ر‚ذ¸ر‚ذµذ»رŒ</Tamer79.titleShort>
+  <Tamer79.titleShortFemale>رƒذ؛ر€ذ¾ر‚ذ¸ر‚ذµذ»رŒذ½ذ¸ر†ذ°</Tamer79.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] built houses among, and sometimes suspended in, the trees for [PAWN_possessive] people to use while traveling or foraging. [PAWN_nameDef] learned how to best find and use wild plants, and how to fight off wild animals. -->
+  <TreehouseBuilder86.baseDesc>[PAWN_nameDef] built houses among, and sometimes suspended in, the trees for [PAWN_possessive] people to use while traveling or foraging. [PAWN_nameDef] learned how to best find and use wild plants, and how to fight off wild animals.</TreehouseBuilder86.baseDesc>
+  <!-- EN: treehouse builder -->
+  <TreehouseBuilder86.title>treehouse builder</TreehouseBuilder86.title>
+  <!-- EN: treehouse builder -->
+  <TreehouseBuilder86.titleShort>treehouse builder</TreehouseBuilder86.titleShort>
+  
+  <!-- EN: Following the death of a close friend by animal attack, [PAWN_nameDef] hunted the beast responsible. [PAWN_pronoun] tracked it to a nearby village, only to find one of the villagers wearing its pelt. -->
+  <VengefulHunter32.baseDesc>ذںذ¾رپذ»ذµ ر‚ذ¾ذ³ذ¾, ذ؛ذ°ذ؛ ذ´ذ¸ذ؛ذ¸ذ¹ ذ·ذ²ذµر€رŒ رƒذ±ذ¸ذ» {PAWN_possessive} ذ´ر€رƒذ³ذ°, {PAWN_nameDef} {PAWN_gender ? ذ½ذ°ر‡ذ°ذ» : ذ½ذ°ر‡ذ°ذ»ذ°} ذ½ذ° ذ½ذµذ³ذ¾ ذ¾ر…ذ¾ر‚رƒ. {PAWN_pronoun} {PAWN_gender ? ذ²ر‹رپذ»ذµذ´ذ¸ذ» : ذ²ر‹رپذ»ذµذ´ذ¸ذ»ذ°} ذ¶ذ¸ذ²ذ¾ر‚ذ½ذ¾ذµ ذ´ذ¾ رپذ¾رپذµذ´ذ½ذµذ¹ ذ´ذµر€ذµذ²ذ½ذ¸, ذ½ذ¾ {PAWN_gender ? ذ½ذ°رˆر‘ذ» : ذ½ذ°رˆذ»ذ°} ذ»ذ¸رˆرŒ ذµذ³ذ¾ رˆذ؛رƒر€رƒ, ذ؛ذ¾ر‚ذ¾ر€رƒرژ رƒذ¶ذµ ذ½ذ¾رپذ¸ذ» ذ½ذ° رپذµذ±ذµ ذ¾ذ´ذ¸ذ½ ذ¸ذ· ذ¼ذµرپر‚ذ½ر‹ر… ذ¶ذ¸ر‚ذµذ»ذµذ¹.</VengefulHunter32.baseDesc>
+  <!-- EN: vengeful hunter -->
+  <VengefulHunter32.title>ذ¼رپر‚ذ¸ر‚ذµذ»رŒذ½ر‹ذ¹ ذ¾ر…ذ¾ر‚ذ½ذ¸ذ؛</VengefulHunter32.title>
+  <VengefulHunter32.titleFemale>ذ¼رپر‚ذ¸ر‚ذµذ»رŒذ½ذ°رڈ ذ¾ر…ذ¾ر‚ذ½ذ¸ر†ذ°</VengefulHunter32.titleFemale>
+  <!-- EN: vengeful -->
+  <VengefulHunter32.titleShort>ذ¾ر…ذ¾ر‚ذ½ذ¸ذ؛</VengefulHunter32.titleShort>
+  <VengefulHunter32.titleShortFemale>ذ¾ر…ذ¾ر‚ذ½ذ¸ر†ذ°</VengefulHunter32.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a fearsome warrior, proficient with many weapons. [PAWN_pronoun] participated in many battles. -->
+  <Warrior94.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ±ر‹ذ» ذ±ذµرپرپر‚ر€ذ°رˆذ½ر‹ذ¼ ذ²ذ¾ذ¸ذ½ذ¾ذ¼ : ذ±ر‹ذ»ذ° ذ±ذµرپرپر‚ر€ذ°رˆذ½ذ¾ذ¹ ذ²ذ¾ذ¸ر‚ذµذ»رŒذ½ذ¸ر†ذµذ¹}. {PAWN_pronoun} رƒذ¼ذµذ»ذ¾ {PAWN_gender ? ذ¾ذ±ر€ذ°ر‰ذ°ذ»رپرڈ : ذ¾ذ±ر€ذ°ر‰ذ°ذ»ذ°رپرŒ} رپ رپذ°ذ¼ر‹ذ¼ذ¸ ر€ذ°ذ·ذ½ر‹ذ¼ذ¸ ذ²ذ¸ذ´ذ°ذ¼ذ¸ ذ¾ر€رƒذ¶ذ¸رڈ ذ¸ {PAWN_gender ? رƒر‡ذ°رپر‚ذ²ذ¾ذ²ذ°ذ» : رƒر‡ذ°رپر‚ذ²ذ¾ذ²ذ°ذ»ذ°} ذ²ذ¾ ذ¼ذ½ذ¾ذ³ذ¸ر… رپر€ذ°ذ¶ذµذ½ذ¸رڈر….</Warrior94.baseDesc>
+  <!-- EN: warrior -->
+  <Warrior94.title>ذ²ذ¾ذ¸ر‚ذµذ»رŒ</Warrior94.title>
+  <Warrior94.titleFemale>ذ²ذ¾ذ¸ر‚ذµذ»رŒذ½ذ¸ر†ذ°</Warrior94.titleFemale>
+  <!-- EN: warrior -->
+  <Warrior94.titleShort>ذ²ذ¾ذ¸ذ½</Warrior94.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was an expert at working wool, plant fibers and natural dyes into beautiful clothing for [PAWN_possessive] kin. [PAWN_possessive] handicrafts were traded frequently with other settlements. -->
+  <Weaver63.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ±ر‹ذ» : ذ±ر‹ذ»ذ°} رچذ؛رپذ؟ذµر€ر‚ذ¾ذ¼ ذ؟ذ¾ ذ؟ر€ذµذ²ر€ذ°ر‰ذµذ½ذ¸رژ رˆذµر€رپر‚ذ¸ ذ¼رƒر„ر„ذ°ذ»ذ¾, ر€ذ°رپر‚ذ¸ر‚ذµذ»رŒذ½ر‹ر… ذ²ذ¾ذ»ذ¾ذ؛ذ¾ذ½ ذ¸ ذ½ذ°ر‚رƒر€ذ°ذ»رŒذ½ر‹ر… ذ؛ر€ذ°رپذ¸ر‚ذµذ»ذµذ¹ ذ² ذ؟ر€ذµذ؛ر€ذ°رپذ½رƒرژ ذ¾ذ´ذµذ¶ذ´رƒ ذ´ذ»رڈ رپذ²ذ¾ذµذ¹ ر€ذ¾ذ´ذ½ذ¸. {PAWN_possessive} ر‚ذ²ذ¾ر€ذµذ½ذ¸رڈذ¼ذ¸ ر‡ذ°رپر‚ذ¾ ر‚ذ¾ر€ذ³ذ¾ذ²ذ°ذ»ذ¸ رپ رپذ¾رپذµذ´ذ½ذ¸ذ¼ذ¸ ذ؟ذ»ذµذ¼ذµذ½ذ°ذ¼ذ¸.</Weaver63.baseDesc>
+  <!-- EN: weaver -->
+  <Weaver63.title>ر‚ذ؛ذ°ر‡</Weaver63.title>
+  <Weaver63.titleFemale>ر‚ذ؛ذ°ر‡ذ¸ر…ذ°</Weaver63.titleFemale>
+  <!-- EN: weaver -->
+  <Weaver63.titleShort>ر‚ذ؛ذ°ر‡</Weaver63.titleShort>
+  <Weaver63.titleShortFemale>ر‚ذ؛ذ°ر‡ذ¸ر…ذ°</Weaver63.titleShortFemale>
+  
+</LanguageData>
