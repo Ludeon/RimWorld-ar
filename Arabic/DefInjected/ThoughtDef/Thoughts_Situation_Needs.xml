@@ -1,0 +1,265 @@
+<LanguageData>
+  
+  
+  
+  <DrugDesireFascination.stages.chemical_want.label>"ﺀﺎﻴﻤﻴﻜﻟﺍ" ـﻟ ﻕﺎﻴﺘﺷﻻﺍ</DrugDesireFascination.stages.chemical_want.label>
+  
+  <DrugDesireFascination.stages.chemical_want.description>ﺎﻬﺑ ﻡﺎﻴﻘﻟﺍ ﻲﻓ ﺐﻏﺭﺃﻭ ﺔﻌﺘﻤﻟﺎﺑ ﻊﺘﻤﺘﻟﺍ ﺐﺣﺃ
+.ﺍﺭﺍﺮﻜﺗ ﺮﺜﻛﺃ ﻞﻜﺸﺑ</DrugDesireFascination.stages.chemical_want.description>
+  
+  <DrugDesireFascination.stages.chemical_hunger.label>"ﺀﺎﻴﻤﻴﻜﻟﺍ" ـﻟ ﺏﺍﺬﺠﻧﻻﺍ</DrugDesireFascination.stages.chemical_hunger.label>
+  
+  <DrugDesireFascination.stages.chemical_hunger.description>ﻚﻟﺬﺑ ﻡﺎﻴﻘﻟﺍ ﻲﻓ ﺐﻏﺭﺃﻭ ﻉﺎﺘﻤﺘﺳﻻﺍ ﻖﺸﻋﺃ ﺎﻧﺃ
+!ﺮﺒﻛﺃ ﺔﻴﻤﻛﻭ ﺍﺮﺗﺍﻮﺗ ﺮﺜﻛﺃ ﻞﻜﺸﺑ</DrugDesireFascination.stages.chemical_hunger.description>
+  
+  <DrugDesireFascination.stages.chemical_starvation.label>"ﺀﺎﻴﻤﻴﻜﻟﺍ" ﺶﻄﻋ</DrugDesireFascination.stages.chemical_starvation.label>
+  
+  <DrugDesireFascination.stages.chemical_starvation.description>!ﻚﻟﺫ ﺪﻳﺭﺃﻭ .ﺓﻮﺸﻨﻟﺎﺑ ﺮﻌﺷﺃ ﻥﺃ ﺐﺣﺃ ﺎﻧﺃ
+!ﺮﻴﺜﻜﺑ ﺮﺜﻛﺃ !ﺮﺜﻛﺃ</DrugDesireFascination.stages.chemical_starvation.description>
+  
+  
+  
+  <DrugDesireFascinationSatisfied.stages.chemical_comfort.label>ﺭﺪﺨﻤﻟﺍ ﺀﻭﺪﻬﻟﺍ</DrugDesireFascinationSatisfied.stages.chemical_comfort.label>
+  
+  <DrugDesireFascinationSatisfied.stages.chemical_comfort.description>.ﻲﺗﺎﺒﻏﺭ ﻊﺒﺗﺃﻭ ﺔﻌﺘﻤﻟﺍ ﺔﺑﺮﺠﺗ ﺐﺣﺃ ﺎﻧﺃ</DrugDesireFascinationSatisfied.stages.chemical_comfort.description>
+  
+  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>ﺓﺭﺪﺨﻤﻟﺍ ﺔﻴﻠﺴﺘﻟﺍ</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>
+  
+  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>ﻲﻓ ﺖﺤﺠﻧ ﺪﻘﻟﻭ .ﺐﻌﻠﻟﺎﺑ ﻊﺘﻤﺘﺳﺃ ﻥﺃ ﺐﺣﺃ
+.ﺍﺮﺧﺆﻣ ﻊﺋﺍﺭ ﻞﻜﺸﺑ ﻚﻟﺫ</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>
+  
+  
+  
+  <DrugDesireInterest.stages.chemical_want.label>ﺀﺎﻴﻤﻴﻜﻟﺎﺑ ﻒﻐﺸﻟﺍ</DrugDesireInterest.stages.chemical_want.label>
+  
+  <DrugDesireInterest.stages.chemical_want.description>ﻚﻟﺫ ﻞﻌﻓﺃ ﻥﺃ ﺩﻭﺃﻭ .ﻉﺎﺘﻤﺘﺳﻻﺎﺑ ﻊﺘﻤﺘﺳﺃ ﺎﻧﺃ
+.ﺍﺮﺗﺍﻮﺗ ﺮﺜﻛﺃ ﻞﻜﺸﺑ</DrugDesireInterest.stages.chemical_want.description>
+  
+  <DrugDesireInterest.stages.chemical_hunger.label>"ﺀﺎﻴﻤﻴﻜﻟﺍ" ـﻟ ﺏﺍﺬﺠﻧﻻﺍ</DrugDesireInterest.stages.chemical_hunger.label>
+  
+  <DrugDesireInterest.stages.chemical_hunger.description>ﻚﻟﺫ ﻞﻌﻓﺃ ﻥﺃ ﻰﻨﻤﺗﺃﻭ .ﻊﺘﻤﺘﺳﺃ ﻥﺃ ﺐﺣﺃ
+.ﺍﺭﺍﺮﻜﺗ ﺮﺜﻛﺃ ﻞﻜﺸﺑ</DrugDesireInterest.stages.chemical_hunger.description>
+  
+  <DrugDesireInterest.stages.chemical_starvation.label>"ﺀﺎﻴﻤﻴﻜﻟﺍ" ﻰﻟﺇ ﻕﻮﺸﻟﺍ</DrugDesireInterest.stages.chemical_starvation.label>
+  
+  <DrugDesireInterest.stages.chemical_starvation.description>ﻞﻣﺎﻛ ﻞﻜﺸﺑ ﻉﺎﺘﻤﺘﺳﻻﺍ ﻲﻓ ﺐﻏﺭﺃﻭ ﻉﺎﺘﻤﺘﺳﻻﺍ ﺐﺣﺃ
+!ﻥﻵﺍ</DrugDesireInterest.stages.chemical_starvation.description>
+  
+  
+  
+  <DrugDesireInterestSatisfied.stages.chemical_comfort.label>ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﻡﻼﺴﻟﺍ</DrugDesireInterestSatisfied.stages.chemical_comfort.label>
+  
+  <DrugDesireInterestSatisfied.stages.chemical_comfort.description>!ﺍﺪﻴﺟ ﻥﺎﻛﻭ .ﻚﻟﺬﺑ ﻊﺘﻤﺘﺳﺍ ﺎﻧﺃ</DrugDesireInterestSatisfied.stages.chemical_comfort.description>
+  
+  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>.ﻲﺋﺎﻴﻤﻴﻜﻟﺍ ﻉﺎﺒﺷﻻﺍ</DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>
+  
+  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>ﻮﺘﻠﻟ ﻚﻟﺬﺑ ﺖﻤﻗ ﺪﻘﻟ .ﺓﺎﻴﺤﻟﺎﺑ ﻊﺘﻤﺘﻟﺍ ﺐﺣﺃ
+.ﺪﻴﺟ ﺮﻣﺃ ﺍﺬﻫﻭ</DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>
+  
+  
+  
+  <NeedBeauty.stages.hideous_environment.label>ﺐﻋﺮﻣ ﻥﺎﻜﻣ</NeedBeauty.stages.hideous_environment.label>
+  
+  <NeedBeauty.stages.hideous_environment.description>...ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻦﻋ ﺩﺎﻌﺘﺑﻻﺍ ﺪﻳﺭﺃ .ﻒﻴﺨﻣ ﺎﻨﻫ</NeedBeauty.stages.hideous_environment.description>
+  
+  <NeedBeauty.stages.ugly_environment.label>ﻑﺮﻘﻣ ﻥﺎﻜﻣ</NeedBeauty.stages.ugly_environment.label>
+  
+  <NeedBeauty.stages.ugly_environment.description>.ﺎﻨﻫ ﺀﺎﻘﺒﻟﺍ ﻲﻓ ﺐﻏﺭﺃ ﻻ !ﺯﺰﻘﻣ ﻥﺎﻜﻣ</NeedBeauty.stages.ugly_environment.description>
+  
+  <NeedBeauty.stages.unsightly_environment.label>ﺢﻳﺮﻣ ﺮﻴﻏ ﻥﺎﻜﻣ</NeedBeauty.stages.unsightly_environment.label>
+  
+  <NeedBeauty.stages.unsightly_environment.description>.ﺀﺎﻘﺒﻠﻟ ﺎﻔﻴﻄﻟ ﺎﻧﺎﻜﻣ ﺲﻴﻟ ﺎﻨﻫ</NeedBeauty.stages.unsightly_environment.description>
+  
+  <NeedBeauty.stages.pretty_environment.label>ﻒﻴﻄﻟ ﻥﺎﻜﻣ</NeedBeauty.stages.pretty_environment.label>
+  
+  <NeedBeauty.stages.pretty_environment.description>.ﺎﻨﻫ ﻥﻮﻜﺗ ﻥﺃ ﻒﻴﻄﻟ .ﺎﺒﺣﺮﻣ</NeedBeauty.stages.pretty_environment.description>
+  
+  <NeedBeauty.stages.beautiful_environment.label>ﻞﻴﻤﺟ ﻊﻗﻮﻣ</NeedBeauty.stages.beautiful_environment.label>
+  
+  <NeedBeauty.stages.beautiful_environment.description>.ﺎﻨﻫ ﻞﻴﻤﺟ ﻪﻧﺇ .ﺍﺮﻴﺜﻛ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﺐﺣﺃ</NeedBeauty.stages.beautiful_environment.description>
+  
+  <NeedBeauty.stages.gorgeous_environment.label>ﻊﺋﺍﺭ ﻥﺎﻜﻣ</NeedBeauty.stages.gorgeous_environment.label>
+  
+  <NeedBeauty.stages.gorgeous_environment.description>ﺯﺰﻌﻳﻭ ﺓﻮﻗ ﻲﻨﻴﻄﻌﻳ ﻪﻧﺇ !ﻊﺋﺍﺭ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ
+.ﻲﺟﺍﺰﻣ</NeedBeauty.stages.gorgeous_environment.description>
+  
+  
+  
+  <NeedComfort.stages.uncomfortable.label>ﺢﻳﺮﻣ ﺮﻴﻏ</NeedComfort.stages.uncomfortable.label>
+  
+  <NeedComfort.stages.uncomfortable.description>ﺱﻮﻠﺠﻟﺍ ﻰﺘﺣ .ﻕﻼﻃﻹﺍ ﻰﻠﻋ ﺢﻳﺮﻣ ﺮﻴﻏ ﺎﻨﻫ
+.ﻞﻴﺤﺘﺴﻣ</NeedComfort.stages.uncomfortable.description>
+  
+  <NeedComfort.stages.comfortable.label>ﺏﺎﺠﻋﻺﻟ ﺮﻴﺜﻣﻭ ﺢﻳﺮﻣ</NeedComfort.stages.comfortable.label>
+  
+  <NeedComfort.stages.comfortable.description>!ﺍﺪﺟ ﺢﻳﺮﻣ ﺎﻨﻫﻭ</NeedComfort.stages.comfortable.description>
+  
+  <NeedComfort.stages.quite_comfortable.label>ﺔﺤﻳﺮﻣ</NeedComfort.stages.quite_comfortable.label>
+  
+  <NeedComfort.stages.quite_comfortable.description>!ﺔﺤﻳﺮﻣ ﻑﻭﺮﻇ ﻲﻓ ﺀﺎﺧﺮﺘﺳﻻﺍﻭ ﻞﻤﻌﻟﺍ ﻦﻜﻤﻳ ,ﺪﻴﺟ</NeedComfort.stages.quite_comfortable.description>
+  
+  <NeedComfort.stages.extremely_comfortable.label>ﺔﻳﺎﻐﻠﻟ ﺢﻳﺮﻣ</NeedComfort.stages.extremely_comfortable.label>
+  
+  <NeedComfort.stages.extremely_comfortable.description>ﻭ ﺔﺣﺍﺮﺑ ﺎﻨﻫ ﺎﻨﺗﺎﻴﺣ ﻲﻀﻘﻧ ﻥﺃ ﺎﻨﻨﻜﻤﻳ
+.ﻚﻟﺫ ﻰﻠﻋ ﻡﺪﻨﻧ ﻦﻟ</NeedComfort.stages.extremely_comfortable.description>
+  
+  <NeedComfort.stages.luxuriantly_comfortable.label>ﺔﻳﺎﻐﻠﻟ ﺢﻳﺮﻣ</NeedComfort.stages.luxuriantly_comfortable.label>
+  
+  <NeedComfort.stages.luxuriantly_comfortable.description>ﺕﺎﺑﺎﺤﺳ ﻰﻠﻋ ﻲﻨﻧﺃ ﻮﻟ ﺎﻤﻛ ﺢﻳﺮﺘﺳﺃ ﺎﻧﺃ
+...ﺔﻨﺠﻟﺍ</NeedComfort.stages.luxuriantly_comfortable.description>
+  
+  
+  
+  <NeedFood.stages.hungry.label>ﻲﻓﺎﻛ ﻞﻜﺸﺑ ﻞﻛﺄﻳ ﻻ</NeedFood.stages.hungry.label>
+  
+  <NeedFood.stages.hungry.description>ﺔﺒﺟﻭ ﻝﻭﺎﻨﺘﻟ ﺖﻗﻮﻟﺍ ﻥﺎﺣ</NeedFood.stages.hungry.description>
+  
+  <NeedFood.stages.ravenously_hungry.label>ﺔﻳﺬﻐﺘﻟﺍ ﻲﻓ ﺺﻘﻧ ﻦﻣ ﺓﺎﻧﺎﻌﻣ</NeedFood.stages.ravenously_hungry.label>
+  
+  <NeedFood.stages.ravenously_hungry.description>ﺍﺬﻫ ﻰﻟﺇ ﻩﺎﺒﺘﻧﻻﺍ ﺖﻔﻟ ﻡﺪﻋ ﺐﻌﺼﻟﺍ ﻦﻣ
+.ﻉﻮﺠﻟﺍ</NeedFood.stages.ravenously_hungry.description>
+  
+  <NeedFood.stages.malnourished.label>.ﻼﻴﻠﻗ ﻡﺎﻌﻄﻟﺍ ﻲﻓ ﺺﺨﺸﻟﺍ ﺐﻏﺮﻳ</NeedFood.stages.malnourished.label>
+  
+  <NeedFood.stages.malnourished.description>ﺓﺮﺘﻔﻟ ﻞﻛﺃ ﻥﻭﺪﺑ ﻰﻘﺒﺗ ﻥﺃ ﻦﻜﻤﻳ ﻻ
+ﻻ ،ﻲﻨﻴﻋ ﻡﺎﻣﺃ ﻮﻔﻄﺗ ﺀﺎﻴﺷﻷﺍ ﺮﺼﺑﺃ !ﺔﻠﻳﻮﻃ
+.ﻲﺘﻗﺎﻃ ﺪﻘﻓﺃ ﺕﺃﺪﺑ ﻲﻨﻧﺃ ﻭﺪﺒﻳ .ﺰﻴﻛﺮﺘﻟﺍ ﻊﻴﻄﺘﺳﺃ</NeedFood.stages.malnourished.description>
+  
+  <NeedFood.stages.badly_malnourished.label>ﻼﻴﻠﻗ ﻉﻮﺠﻟﺎﺑ ﺮﻌﺸﻳ</NeedFood.stages.badly_malnourished.label>
+  
+  <NeedFood.stages.badly_malnourished.description>ﺍﺪﺑﺃ ﺮﻌﺷﺃ ﻢﻟ .ﻒﻌﻀﺗ ﻲﺗﻮﻗ ﻥﺄﺑ ﺮﻌﺷﺃ
+...ﺓﺪﺸﻟﺍ ﻩﺬﻬﺑ ﻦﻄﺒﻟﺍ ﻲﻓ ﻢﻟﺄﺑ</NeedFood.stages.badly_malnourished.description>
+  
+  <NeedFood.stages.starving.label>ﻂﺳﻮﺘﻣ ﺪﺣ ﻰﻟﺇ ﻉﻮﺠﻟﺍ ﻦﻣ ﻲﻧﺎﻌﻳ</NeedFood.stages.starving.label>
+  
+  <NeedFood.stages.starving.description>ﻯﻮﺳ ﺀﻲﺷ ﻱﺃ ﻲﻓ ﺮﻴﻜﻔﺘﻟﺍ ﻊﻴﻄﺘﺳﺃ ﻻ
+ﻝﻼﺧ ﻦﻣ ﻲﻣﺎﻈﻋ ﻯﺭﺃ ﻥﺃ ﻲﻨﻨﻜﻤﻳ .ﻡﺎﻌﻄﻟﺍ
+؟ﺕﻮﻣﺄﺳ ﻞﻫ .ﻱﺪﻠﺟ</NeedFood.stages.starving.description>
+  
+  <NeedFood.stages.advanced_starvation.label>ﺍﺪﺟ ﻊﺋﺎﺟ ﻮﻫ</NeedFood.stages.advanced_starvation.label>
+  
+  <NeedFood.stages.advanced_starvation.description>.ﻡﺎﻌﻄﻟﺍ ﻦﻋ ﻱﺭﺎﻜﻓﺃ ﻞﻛ ،ﻙﺮﺤﺗﺃ ﺩﺎﻜﻟﺎﺑ ﺎﻧﺃ
+ﻦﻣ ﺓﺪﺸﻟﺍ ﻩﺬﻬﺑ ﻦﻄﺒﻟﺍ ﻢﻟﺄﺑ ﺮﻌﺷﺃ ﻢﻟ
+...ﺎﺒﻳﺮﻗ ﺕﻮﻣﺄﺳ ﻲﻨﻧﺃ ﻭﺪﺒﻳ .ﻞﺒﻗ</NeedFood.stages.advanced_starvation.description>
+  
+  <NeedFood.stages.extreme_starvation.label>ﻁﺮﻔﻤﻟﺍ ﻉﻮﺠﻟﺍ ﻦﻣ ﻲﻧﺎﻌﻳ</NeedFood.stages.extreme_starvation.label>
+  
+  <NeedFood.stages.extreme_starvation.description>ﻦﻣ ...ﺀﻲﺷ ﻱﺃ ...ﺀﻲﺷ ﻱﺃ ...ﻡﺍﺎﻌﻃ ...ﻡﺎﻌﻃ
+...ﻚﻠﻀﻓ</NeedFood.stages.extreme_starvation.description>
+  
+  
+  
+  <NeedIndoors.stages.just_outdoors.label>ﺝﺭﺎﺧ</NeedIndoors.stages.just_outdoors.label>
+  
+  <NeedIndoors.stages.just_outdoors.description>.ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﻝﻮﺠﺗﺃ ﻥﺃ ﺐﺣﺃ ﻻ ﺎﻧﺃ</NeedIndoors.stages.just_outdoors.description>
+  
+  <NeedIndoors.stages.outdoors.label>ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﺔﻣﺎﻗﺇ</NeedIndoors.stages.outdoors.label>
+  
+  <NeedIndoors.stages.outdoors.description>ﻲﻨﺒﺠﻌﻳ ﻻ .ﺖﻗﻮﻟﺍ ﺾﻌﺒﻟ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﺝﺭﺎﺧ ﺎﻧﺃ
+ﺍﺬﻫ</NeedIndoors.stages.outdoors.description>
+  
+  <NeedIndoors.stages.long_outdoors.label>ﻞﻘﺤﻟﺍ ﻲﻓ ﺝﺮﺣﺪﺘﺗ</NeedIndoors.stages.long_outdoors.label>
+  
+  <NeedIndoors.stages.long_outdoors.description>ﻕﻮﻓ ﻒﻘﺳ ﻥﻭﺪﺑ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﻝﻮﺠﺘﻟﺍ ﻩﺮﻛﺃ
+.ﻲﺳﺃﺭ</NeedIndoors.stages.long_outdoors.description>
+  
+  <NeedIndoors.stages.very_long_outdoors.label>ﻊﻴﻤﺠﻟﺍ ﻯﺃﺮﻣ ﻲﻓ</NeedIndoors.stages.very_long_outdoors.label>
+  
+  <NeedIndoors.stages.very_long_outdoors.description>.ﺔﺣﻮﺘﻔﻤﻟﺍ ﻦﻛﺎﻣﻷﺍ ﻲﻓ ﺍﺪﺟ ﻼﻳﻮﻃ ﺎﺘﻗﻭ ﻲﻀﻗﺃ
+.ﺡﺎﺗﺮﻣ ﺮﻴﻏ ﻲﻨﻠﻌﺠﻳ ﺍﺬﻫ</NeedIndoors.stages.very_long_outdoors.description>
+  
+  <NeedIndoors.stages.brutal_outdoors.label>ﺕﺎﺣﺎﺴﻟﺍ ﺏﺎﻫﺮﻟﺍ</NeedIndoors.stages.brutal_outdoors.label>
+  
+  <NeedIndoors.stages.brutal_outdoors.description>!ﻥﻵﺍ ﺪﻌﺑ ﻚﻟﺫ ﻞﻤﺤﺗ ﻦﻜﻤﻳ ﻻ</NeedIndoors.stages.brutal_outdoors.description>
+  
+  
+  
+  <NeedJoy.stages.recreationstarved.label>ﺔﺒﻌﻠﻟﺍ ﻲﻓ ﻊﺿﻮﻟﺍ ﺔﺑﻮﻌﺻ ﻞﻫﺎﺠﺘﻣ</NeedJoy.stages.recreationstarved.label>
+  
+  <NeedJoy.stages.recreationstarved.description>!؟ﺀﺎﺧﺮﺘﺳﻻﺍ ﺍﺮﻴﺧﺃ ﻊﻴﻄﺘﺳﺄﺳ ﻰﺘﻣ ...ﻞﻤﻌﻟﺍ ،ﻞﻤﻌﻟﺍ</NeedJoy.stages.recreationstarved.description>
+  
+  <NeedJoy.stages.recreationdeprived.label>ﺓﺪﺸﺑ ﺔﺒﺿﺎﻏ</NeedJoy.stages.recreationdeprived.label>
+  
+  <NeedJoy.stages.recreationdeprived.description>ﺪﻳﺰﻣﻭ ،ﻪﻴﻓﺮﺘﻟﺍ ﻉﺍﻮﻧﺃ ﻦﻣ ﺪﻳﺰﻣ ﻰﻟﺇ ﺝﺎﺘﺣﺃ
+!ﻞﻤﻤﻟﺍ ﻞﻤﻌﻟﺍ ﻦﻣ ﻞﻗﺃﻭ ،ﺮﺤﻟﺍ ﺖﻗﻮﻟﺍ ﻦﻣ</NeedJoy.stages.recreationdeprived.description>
+  
+  <NeedJoy.stages.recreation_unfulfilled.label>ﺮﻴﻏ : ﺽﺍﺭ ﺮﻴﻏ ? PAWN_gender} ﻼﻴﻠﻗ
+{ﺔﻴﺿﺍﺭ</NeedJoy.stages.recreation_unfulfilled.label>
+  
+  <NeedJoy.stages.recreation_unfulfilled.description>ﻲﺟﺍﺰﻣ ﻊﻓﺮﻟ ﻕﺮﻄﻟﺍ ﻦﻣ ﺪﻳﺰﻣ ﻰﻟﺇ ﺝﺎﺘﺣﺃ
+.ﺮﺤﻟﺍ ﺖﻗﻮﻟﺍ ﻦﻣ ﺪﻳﺰﻣﻭ</NeedJoy.stages.recreation_unfulfilled.description>
+  
+  <NeedJoy.stages.recreation_satisfied.label>ﺡﺎﻴﺗﺭﻻﺍ</NeedJoy.stages.recreation_satisfied.label>
+  
+  <NeedJoy.stages.recreation_satisfied.description>ﺮﻴﻏ ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ ﺪﻴﺟ ﺖﻗﻭ
+!ﺭﻭﺮﺴﻣ</NeedJoy.stages.recreation_satisfied.description>
+  
+  <NeedJoy.stages.recreation_fully_satisfied.label>ﺓﺩﺎﻌﺳ</NeedJoy.stages.recreation_fully_satisfied.label>
+  
+  <NeedJoy.stages.recreation_fully_satisfied.description>ﺪﻴﻔﺘﺑ ﺀﺎﺧﺮﺘﺳﺍ ﺔﻳﻮﺷ ,ﻒﻳﺎﺷ ﺎﻧﺃ ﻞﺴﻋ ﺶﻣ
+ﻢﺴﺠﻟﺍﻭ ﺡﻭﺮﻟﺍ</NeedJoy.stages.recreation_fully_satisfied.description>
+  
+  
+  
+  <NeedOutdoors.stages.entombed_underground.label>{PAWN_gender ? ﺽﺭﻷﺍ ﺖﺤﺗ {ﺔﻧﻮﻓﺪﻣ : ﻥﻮﻓﺪﻣ</NeedOutdoors.stages.entombed_underground.label>
+  
+  <NeedOutdoors.stages.entombed_underground.description>ﺀﻮﺿ ﻮﻫ ﺎﻣ ﻞﻌﻔﻟﺎﺑ ﺮﻛﺫﺃ ﻻ ﺎﻧﺃ
+!ﻪﺘﻠﺘﻛ ﻞﻜﺑ ﻲﻠﻋ ﻂﻐﻀﻳ ﻞﺒﺠﻟﺍ ﺍﺬﻫ .ﺲﻤﺸﻟﺍ
+!ﺮﻈﻨﻟﺍ ﻲﻓ ﺀﺎﻄﺧﺃ ﻱﺪﻟ ﺢﺒﺼﺘﺳ ﺍﺪﺟ ﺎﺒﻳﺮﻗ</NeedOutdoors.stages.entombed_underground.description>
+  
+  <NeedOutdoors.stages.trapped_underground.label>{PAWN_gender ? ﺽﺭﻷﺍ ﺖﺤﺗ {ﺓﺮﺻﺎﺤﻣ : ﺮﺻﺎﺤﻣ</NeedOutdoors.stages.trapped_underground.label>
+  
+  <NeedOutdoors.stages.trapped_underground.description>؟ﺔﻨﺳ ؟ﺮﻬﺷ ؟ﺽﺭﻷﺍ ﺖﺤﺗ ﺎﻧﺃ ﻰﺘﻣ ﺬﻨﻣ
+ﺓﺮﻈﻧ ﺀﺎﻘﻟﻻ ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﺝﺮﺧﺃ ﻥﺃ ﺐﺠﻳ
+!ﺀﺎﻤﺴﻟﺍ ﻰﻠﻋ</NeedOutdoors.stages.trapped_underground.description>
+  
+  <NeedOutdoors.stages.cabin_fever.label>ﺔﻘﻠﻐﻤﻟﺍ ﻦﻛﺎﻣﻷﺍ ﻦﻣ ﺏﺎﻫﺮﻟﺍ</NeedOutdoors.stages.cabin_fever.label>
+  
+  <NeedOutdoors.stages.cabin_fever.description>ﻒﻘﺴﻟﺍ .ﻥﺍﺭﺪﺠﻟﺍ ﻩﺬﻫ ﻲﻓ ﻼﻳﻮﻃ ﺎﺘﻗﻭ ﻲﻀﻗﺃ
+ﻰﻟﺇ ﺝﻭﺮﺨﻟﺍ ﺪﻳﺭﺃ !ﻲﻠﻋ ﻂﻐﻀﻳ ﻱﺬﻟﺍ ﻮﻫ
+!ﺝﺭﺎﺨﻟﺍ</NeedOutdoors.stages.cabin_fever.description>
+  
+  <NeedOutdoors.stages.trapped_indoors.label>ﺓﺮﺻﺎﺤﻣ</NeedOutdoors.stages.trapped_indoors.label>
+  
+  <NeedOutdoors.stages.trapped_indoors.description>ﻯﺭﺃ ﻥﺃ ﺪﻳﺭﺃ ؟ﺎﻨﻫ ﺱﻮﻠﺠﻟﺍ ﻲﻨﻨﻜﻤﻳ ﻢﻛ
+.ﻯﺮﺧﺃ ﺓﺮﻣ ﺀﺎﻤﺴﻟﺍ</NeedOutdoors.stages.trapped_indoors.description>
+  
+  <NeedOutdoors.stages.stuck_indoors.label>ﻥﺍﺭﺪﺟ ﻊﺑﺭﺃ ﻲﻓ</NeedOutdoors.stages.stuck_indoors.label>
+  
+  <NeedOutdoors.stages.stuck_indoors.description>ﺍﺪﻴﺟ ﻥﻮﻜﻴﺳ .ﺔﻓﺮﻐﻟﺍ ﻲﻓ ﺱﻮﻠﺠﻟﺍ ﻦﻣ ﺖﺒﻌﺗ
+.ﻉﺭﺎﺸﻟﺍ ﻰﻟﺇ ﺝﺮﺧﺃ ﻥﺃ</NeedOutdoors.stages.stuck_indoors.description>
+  
+  
+  
+  <NeedRest.stages.drowsy.label>{PAWN_gender ? ﺖﺒﻌﺗ : ﺐﻌﺗ}</NeedRest.stages.drowsy.label>
+  
+  <NeedRest.stages.drowsy.description>.ﻥﻵﺍ ﻮﻔﻏﺃ ﻲﻨﻋﺩ</NeedRest.stages.drowsy.description>
+  
+  <NeedRest.stages.tired.label>ﺓﺪﺸﺑ : ﻕﺎﻫﺭﻹﺍ ﺓﺪﺸﺑ ? PAWN_gender} ﺮﻌﺷ
+{ﻕﺎﻫﺭﻹﺍ</NeedRest.stages.tired.label>
+  
+  <NeedRest.stages.tired.description>.ﺔﺑﻮﻌﺻ ﺮﺜﻛﺃ ﺭﻮﻣﻷﺍ ﺖﺤﺒﺻﺃ ﺎﻤﻠﻛ ,ﺖﻣﺪﻘﺗ ﺎﻤﻠﻛ
+.ﺢﻳﺮﺘﺴﻧ ﻥﺃ ﺐﺠﻳ</NeedRest.stages.tired.description>
+  
+  <NeedRest.stages.exhausted.label>{PAWN_gender ? ﺔﻔﻴﻌﺿ ﺖﺤﺒﺻﺃ : ﺎﻔﻴﻌﺿ ﺢﺒﺻﺃ}</NeedRest.stages.exhausted.label>
+  
+  <NeedRest.stages.exhausted.description>...ﻥﺎﻘﻠﻐﺗ ﻱﺎﻨﻴﻋ ...ﺍﺪﺟ ﺔﺌﻴﺳ ﺔﻟﺎﺣ ﻲﻓ ﺎﻧﺃ
+...ﻡﻮﻨﻠﻟ ﺔﺻﺮﻓ ﻲﻧﻮﻄﻋﺃ</NeedRest.stages.exhausted.description>
+  
+  
+  
+  <NeedRoomSize.stages.confined_interior.label>ﺍﺪﺟ ﺔﻘﻴﺿ ﺔﺣﺎﺴﻣ</NeedRoomSize.stages.confined_interior.label>
+  
+  <NeedRoomSize.stages.confined_interior.description>ﺭﺄﻓ ﻲﻨﻧﺄﻛﻭ ﺮﻌﺷﺃ .ﺎﻨﻫ ﻙﺮﺤﺘﻟﺍ ﻲﻨﻨﻜﻤﻳ ﻻ
+.ﺺﻔﻗ ﻲﻓ</NeedRoomSize.stages.confined_interior.description>
+  
+  <NeedRoomSize.stages.cramped_interior.label>ﻖﻴﺿ ﻥﺎﻜﻣ</NeedRoomSize.stages.cramped_interior.label>
+  
+  <NeedRoomSize.stages.cramped_interior.description>ﺾﻌﺑ ﺲﻔﻨﺘﻟﺍ ﻲﻠﻋ ﺐﻌﺼﻳ ﻰﺘﺣ .ﺎﻨﻫ ﺝﺮﺣ
+.ﺀﻲﺸﻟﺍ</NeedRoomSize.stages.cramped_interior.description>
+  
+  <NeedRoomSize.stages.spacious_interior.label>ﺔﻌﺳﺍﻮﻟﺍ ﺔﻴﻠﺧﺍﺪﻟﺍ ﺔﺣﺎﺴﻤﻟﺍ</NeedRoomSize.stages.spacious_interior.label>
+  
+  <NeedRoomSize.stages.spacious_interior.description>.ﻊﺋﺍﺭ ﻥﺎﻜﻣ .ﺔﺤﺴﻓﻭ ﺔﻳﺮﺣ</NeedRoomSize.stages.spacious_interior.description>
+  
+</LanguageData>
