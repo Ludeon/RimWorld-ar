@@ -1,0 +1,75 @@
+<LanguageData>
+
+  
+  
+  
+  <ScenPart_PlayerFaction>.{0} :ﻚﺘﻋﺎﻤﺟ ﻉﻮﻧ</ScenPart_PlayerFaction>
+
+  
+  <ScenPart_StartWithPawn>.ﺪﺣﺍﻭ ﺺﺨﺷ ﻊﻣ ﺔﻳﺍﺪﺑ</ScenPart_StartWithPawn>
+  
+  <ScenPart_StartWithPawns>ﺹﺎﺨﺷﺃ : ﺺﺨﺷ ? numCase_0} ﻊﻣ ﺔﻳﺍﺪﺑ
+.{ﺹﺎﺨﺷﺃ :</ScenPart_StartWithPawns>
+  
+  <ScenPart_StartWithPawns_OutOf>ﻢﻬﻨﻴﺑ ﻦﻣ ﺮﺘﺧﺍ</ScenPart_StartWithPawns_OutOf>
+  
+  <RandomPet>ﻲﺋﺍﻮﺸﻌﻟﺍ ﻒﻴﻟﻷﺍ ﻥﺍﻮﻴﺤﻟﺍ</RandomPet>
+
+  
+  <ScenPart_StartingResearchFinished>{0} :ﻞﻌﻔﻟﺎﺑ ﻪﻓﺎﺸﻜﺘﺳﺍ ﻢﺗ</ScenPart_StartingResearchFinished>
+  
+  
+  <ScenPart_ArriveInDropPods>.ﺫﺎﻘﻧﻹﺍ ﺕﻻﻮﺴﺒﻛ ﻲﻓ ﻝﻮﺻﻭ</ScenPart_ArriveInDropPods>
+
+  
+  <ScenPart_StatFactor>ﻲﻓ "{0}" ﺔﻤﻠﻌﻤﻟﺍ ﻢﻴﻗ ﻊﻴﻤﺟ ﻂﺒﺿ ﻢﺘﻴﺳ
+.{1} ﻢﺠﺤﺑ ﻢﻟﺎﻌﻟﺍ</ScenPart_StatFactor>
+
+  
+  
+  <ScenPart_PawnsHaveHediff>ﺔﻴﺤﺻ ﺔﻟﺎﺤﺑ ﺀﺪﺒﻠﻟ {1} ﺔﺻﺮﻓ ﻢﻬﻳﺪﻟ {0}
+."{2}"</ScenPart_PawnsHaveHediff>
+  
+  <ConfigurableSeverity>{0} :ﺓﺪﺤﻟﺍ ﺔﺟﺭﺩ</ConfigurableSeverity>
+
+  
+  <ScenPart_SetNeed>ﺓﺰﻴﻤﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺔﺻﺮﻓ {1} ﻢﻬﻟ {0}
+.{4} ﻰﻟﺇ {3} ﻦﻣ ﻕﺎﻄﻧ ﻲﻓ "{2}"</ScenPart_SetNeed>
+  
+  <ConfigurableLevel>{0} :ﻯﻮﺘﺴﻤﻟﺍ</ConfigurableLevel>
+
+  
+  <ScenPart_PawnsHaveTrait>."{2}" :ﺔﻤﺴﺑ ﺀﺪﺒﻠﻟ {1} ﺔﺻﺮﻓ ﻢﻬﻳﺪﻟ {0}</ScenPart_PawnsHaveTrait>
+  
+  <ScenPart_OnPawnDeathExplode>ﻒﺼﻧ ،{0}) ﺕﻮﻤﻟﺍ ﺪﻨﻋ ﺮﺠﻔﻨﺗ ﺕﺎﻨﺋﺎﻜﻟﺍﻭ ﺕﺎﻴﺼﺨﺸﻟﺍ
+.({1} ﺭﺎﺠﻔﻧﻻﺍ ﺮﻄﻗ</ScenPart_OnPawnDeathExplode>
+  
+  <ScenPart_PawnsAreNaked>{1} ﺔﺒﺴﻨﺑ ﺲﺑﻼﻣ ﻥﻭﺪﺑ ﻥﻭﺃﺪﺒﻳ {0}</ScenPart_PawnsAreNaked>
+  
+  
+  
+  <ScenPart_StartingPawnAgeMin>? numCase_0} ﻢﻬﻳﺪﻟ ﻥﻮﻜﺘﺳ ﻞﻗﻷﺍ ﻰﻠﻋ ﻚﺒﻌﺸﻟ
+.{ﺕﺍﻮﻨﺳ : ﻡﺍﻮﻋﺃ : ﻡﺎﻋ</ScenPart_StartingPawnAgeMin>
+  
+  <ScenPart_StartingPawnAgeMax>? numCase_0} ﻦﻣ ﺮﺜﻛﺃ ﻚﺻﺎﺨﺷﻷ ﻥﻮﻜﻳ ﻦﻟ
+.{ﺕﺍﻮﻨﺳ : ﺕﺍﻮﻨﺳ : ﺔﻨﺳ</ScenPart_StartingPawnAgeMax>
+  
+  <ScenPart_StartingPawnAgeRange>? numCase_1} ﻰﻟﺇ {0} ﻦﻣ ﻢﻜﻘﻳﺮﻔﻟ ﻥﻮﻜﻴﺳ
+.{ﺕﺍﻮﻨﺳ : ﺕﺍﻮﻨﺳ : ﺔﻨﺳ</ScenPart_StartingPawnAgeRange>
+
+  
+
+  
+  <ScenPart_StartWith>ﺔﻴﻟﻭﻷﺍ ﺩﺭﺍﻮﻤﻟﺍ</ScenPart_StartWith>
+  
+  <ScenPart_MapScatteredWith>ﺮﺛﺎﻨﺗ ﻰﻠﻋ ﻱﻮﺘﺤﺘﺳ ﺔﻄﻳﺮﺨﻟﺍ</ScenPart_MapScatteredWith>
+  
+  <ScenPart_PermaGameCondition>ﺔﻤﺋﺍﺪﻟﺍ ﻑﻭﺮﻈﻟﺍ</ScenPart_PermaGameCondition>
+  
+  <ScenPart_DisableIncident>.ﺙﺩﺍﻮﺤﻟﺍ ﻩﺬﻫ ﻞﻴﻄﻌﺗ ﻢﺗ</ScenPart_DisableIncident>
+  
+  <ScenPart_CreateIncident>ﺔﺛﺩﺎﺤﻟﺍ ﺀﺎﺸﻧﺇ ﻢﺗ</ScenPart_CreateIncident>
+  
+  <ScenPart_DisallowBuilding>ﺀﺎﻨﺒﻟﺎﺑ ﺡﺎﻤﺴﻟﺍ ﻡﺪﻋ</ScenPart_DisallowBuilding>
+
+</LanguageData>
