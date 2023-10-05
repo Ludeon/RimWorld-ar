@@ -1,0 +1,24 @@
+<LanguageData>
+  
+  
+  <InstallArchotechArm.label>ﺔﻠﻳﺪﺑ ﻉﺍﺭﺫ ﻉﺭﺯ</InstallArchotechArm.label>
+  
+  <InstallArchotechArm.description>.ﺓﺪﺸﻟﺍ ﻉﺍﺭﺫ ﻉﺭﺯﺃ</InstallArchotechArm.description>
+  
+  <InstallArchotechArm.jobString>ﺔﻴﺳﻮﻗ ﺎﻋﺍﺭﺫ ﻉﺭﺰﻳ</InstallArchotechArm.jobString>
+  
+  
+  <InstallArchotechEye.label>ﺓﺩﺪﻌﺘﻣ ﻦﻴﻋ ﻉﺭﺯ ﺔﺣﺍﺮﺟ</InstallArchotechEye.label>
+  
+  <InstallArchotechEye.description>ﺦﻴﻧﺭﺯ ﺭﺯﻭ</InstallArchotechEye.description>
+  
+  <InstallArchotechEye.jobString>ﺔﻴﻋﺎﻨﺻ ﺎﻨﻴﻋ ﻉﺭﺰﻳ</InstallArchotechEye.jobString>
+  
+  
+  <InstallArchotechLeg.label>ﺔﻴﺗﻮﺑﻭﺮﻟﺍ ﺔﺻﺎﻨﻘﻟﺍ ﺱﺮﻏﺍ</InstallArchotechLeg.label>
+  
+  <InstallArchotechLeg.description>.ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺓﻮﻘﻟﺍ ﺓﺪﺣﻭ ﺐﻴﻛﺮﺗ</InstallArchotechLeg.description>
+  
+  <InstallArchotechLeg.jobString>ﺕﻮﻧﻮﻛﺭﻷﺍ ﺐﻛﺮﻳ</InstallArchotechLeg.jobString>
+  
+</LanguageData>
