@@ -1,0 +1,102 @@
+<LanguageData>
+  
+  
+  <Human.label>ﻥﺎﺴﻧﻹﺍ</Human.label>
+  
+  <Human.corePart.parts.left_lung.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﺋﺮﻟﺍ</Human.corePart.parts.left_lung.customLabel>
+  
+  <Human.corePart.parts.right_lung.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﺋﺮﻟﺍ</Human.corePart.parts.right_lung.customLabel>
+  
+  <Human.corePart.parts.left_kidney.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻠﻜﻟﺍ</Human.corePart.parts.left_kidney.customLabel>
+  
+  <Human.corePart.parts.right_kidney.customLabel>ﻰﻨﻤﻴﻟﺍ ﻰﻠﻜﻟﺍ</Human.corePart.parts.right_kidney.customLabel>
+  
+  <Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ﻯﺮﺴﻴﻟﺍ ﻦﻴﻌﻟﺍ</Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  
+  <Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ﻰﻨﻤﻴﻟﺍ ﻦﻴﻌﻟﺍ</Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  
+  <Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ﻯﺮﺴﻴﻟﺍ ﻥﺫﻷﺍ</Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  
+  <Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ﻰﻨﻤﻴﻟﺍ ﻥﺫﻷﺍ</Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  
+  <Human.corePart.parts.left_shoulder.customLabel>ﺮﺴﻳﻷﺍ ﻒﺘﻜﻟﺍ</Human.corePart.parts.left_shoulder.customLabel>
+  
+  <Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>ﺮﺴﻳﻷﺍ ﻒﺘﻜﻟﺍ</Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  
+  <Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ</Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>ﺮﺴﻳﻷﺍ ﻲﻔﺘﻜﻟﺍ ﻢﻈﻌﻟﺍ</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>ﺮﺴﻳﻷﺍ ﺪﻋﺎﺴﻟﺍ</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>ﺮﺴﻳﻷﺍ ﻡﺎﻬﺑﻹﺍ ﻊﺒﺻﺎﺑ</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ ﻲﻓ ﻢﺳﺍ ﻼﺑ ﻊﺒﺻﺇ</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻠﻟ ﻂﺳﻭﻷﺍ ﻊﺒﺻﻷﺍ</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻠﻟ ﺓﺭﺎﺷﻹﺍ ﻊﺒﺻﺇ</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>ﺮﺴﻳﻷﺍ ﻡﺎﻬﺑﻹﺍ</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  
+  <Human.corePart.parts.right_shoulder.customLabel>ﻦﻤﻳﻷﺍ ﻒﺘﻜﻟﺍ</Human.corePart.parts.right_shoulder.customLabel>
+  
+  <Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻗﺮﺘﻟﺍ</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  
+  <Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ</Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>ﻦﻤﻳﻷﺍ ﻲﻔﺘﻜﻟﺍ ﻢﻈﻌﻟﺍ</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>ﻦﻤﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﻉﺍﺭﺬﻟﺍ</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>.ﻰﻨﻤﻴﻟﺍ ﺮﺼﻨﺨﻟﺍ ﻊﺒﺻﺇ</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ ﻲﻓ ﻰﻤﺴﻣ ﺮﻴﻏ ﻊﺒﺻﺇ</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻠﻟ ﻂﺳﻭﻷﺍ ﻊﺒﺻﻹﺍ</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ ﻲﻓ ﻢﻬﺴﻟﺍ ﻊﺒﺻﺇ</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻠﻟ ﺮﻴﺒﻜﻟﺍ ﻡﺎﻬﺑﻹﺍ</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  
+  <Human.corePart.parts.left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ</Human.corePart.parts.left_leg.customLabel>
+  
+  <Human.corePart.parts.left_leg.parts.left_femur.customLabel>ﺮﺴﻳﻷﺍ ﺬﺨﻔﻟﺍ</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
+  
+  <Human.corePart.parts.left_leg.parts.left_tibia.customLabel>ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  
+  <Human.corePart.parts.left_leg.parts.left_foot.customLabel>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</Human.corePart.parts.left_leg.parts.left_foot.customLabel>
+  
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>ﺮﺴﻳﻷﺍ ﻡﺎﻬﺑﻹﺍ</Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>.ﻯﺮﺴﻴﻟﺍ ﻪﻠﺟﺭ ﻡﺎـﻬﺑﺇ ﺺﻨﺑ</Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻠﻟ ﻂﺳﻭﻷﺍ ﻊﺒﺻﻹﺍ</Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>ﺔﺑﺎﺒﺴﻟﺍ ﻊﺒﺻﺈﺑ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ</Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻠﻟ ﺮﻴﺒﻜﻟﺍ ﻡﺎﻬﺑﻹﺍ</Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  
+  <Human.corePart.parts.right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ</Human.corePart.parts.right_leg.customLabel>
+  
+  <Human.corePart.parts.right_leg.parts.right_femur.customLabel>ﻦﻤﻳﻷﺍ ﺬﺨﻔﻟﺍ</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
+  
+  <Human.corePart.parts.right_leg.parts.right_tibia.customLabel>ﻰﻨﻤﻴﻟﺍ ﻕﺎﺴﻟﺍ</Human.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  
+  <Human.corePart.parts.right_leg.parts.right_foot.customLabel>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ</Human.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ ﻲﻓ ﺮﺼﻨﻋ ﻉﺎﻔﺗﺭﺎﺑ</Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>ﻢﺳﺍ ﻼﺒﻟﺍ ﻦﻤﻳﻷﺍ ﻡﺪﻘﻟﺍ ﺏﺎﺑ</Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>.ﻦﻴﻤﻴﻟﺍ ﻡﺪﻗ ﻂﺳﻭ ﻊﺒﺻﺇ</Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﺑﺎﺒﺴﻟﺍ</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻠﻟ ﺮﻴﺒﻜﻟﺍ ﻡﺎﻬﺑﻹﺍ</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
+</LanguageData>
