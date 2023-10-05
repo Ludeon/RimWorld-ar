@@ -1,0 +1,170 @@
+<LanguageData>
+  
+  
+  <Accept.label>ﻝﻮﺒﻗ</Accept.label>
+  
+  
+  <Cancel.label>ﺀﺎﻐﻟﺇ</Cancel.label>
+  
+  
+  <Command_ColonistDraft.label>ﺔﻗﺮﻔﺘﻟﺍ/ﻝﺎﺘﻘﻟﺍ ﻰﻟﺇ</Command_ColonistDraft.label>
+  
+  
+  <Command_ItemForbid.label>ﺮﻈﺣ/ﺡﺎﻤﺳ</Command_ItemForbid.label>
+  
+  
+  <Command_TogglePower.label>ﻑﺎﻘﻳﺇ/ﻞﻴﻐﺸﺗ</Command_TogglePower.label>
+  
+  
+  <Designator_Cancel.label>ﺀﺎﻐﻟﺇ</Designator_Cancel.label>
+  
+  
+  <Designator_Deconstruct.label>ﺮﻴﻔﺸﺗ ﻚﻓ</Designator_Deconstruct.label>
+  
+  
+  <Designator_RotateLeft.label>.ﺍﺭﺎﺴﻳ ﺭﺪﺘﺳﺍ</Designator_RotateLeft.label>
+  
+  
+  <Designator_RotateRight.label>ﻦﻴﻤﻴﻠﻟ ﻪﺟﻮﺘﻟﺍ</Designator_RotateRight.label>
+  
+  
+  <Dev_ChangeSelectedDebugAction.label>.ﺮﺧﺁ ﺢﻴﺤﺼﺗ ﺀﺍﺮﺟﺇ ﺮﺘﺧﺍ</Dev_ChangeSelectedDebugAction.label>
+  
+  
+  <Dev_TickOnce.label>ﻲﻟﺎﺘﻟﺍ ﻑﺎﻘﻳﻹﺍ :ﺢﻴﺤﺼﺘﻟﺍ</Dev_TickOnce.label>
+  
+  
+  <Dev_ToggleDebugActionsMenu.label>ﺔﻴﺤﻴﺤﺼﺘﻟﺍ ﺕﺍﺀﺍﺮﺟﻹﺍ ﺀﺎﻔﺧﺍ/ﺭﺎﻬﻇﺍ</Dev_ToggleDebugActionsMenu.label>
+  
+  
+  <Dev_ToggleDebugInspector.label>ﺶﺘﻔﻤﻟﺍ ﺀﺎﻔﺧﺇ/ﺭﺎﻬﻇﺇ</Dev_ToggleDebugInspector.label>
+  
+  
+  <Dev_ToggleDebugLog.label>ﻞﺠﺴﻟﺍ ﺀﺎﻔﺧﺇ/ﺭﺎﻬﻇﺇ</Dev_ToggleDebugLog.label>
+  
+  
+  <Dev_ToggleDebugLogMenu.label>ﻞﺠﺴﻟﺍ ﺔﻤﺋﺎﻗ ﺀﺎﻔﺧﺇ/ﺭﺎﻬﻇﺇ</Dev_ToggleDebugLogMenu.label>
+  
+  
+  <Dev_ToggleDebugSettingsMenu.label>ﺢﻴﺤﺼﺘﻟﺍ ﻊﺿﻭ ﺕﺍﺩﺍﺪﻋﺇ ﺀﺎﻔﺧﺇ/ﺭﺎﻬﻇﺇ</Dev_ToggleDebugSettingsMenu.label>
+  
+  
+  <Dev_ToggleDevPalette.label>ﻦﻳﺭﻮﻄﻤﻟﺍ ﺔﺣﻮﻟ ﻑﺎﻘﻳﺇ/ﻞﻴﻐﺸﺗ</Dev_ToggleDevPalette.label>
+  
+  
+  <Dev_ToggleGodMode.label>ﻪﻟﻹﺍ ﻊﺿﻭ ﻑﺎﻘﻳﺇ/ﻞﻴﻐﺸﺗ</Dev_ToggleGodMode.label>
+  
+  
+  <MapDolly_Down.label>ﻞﻔﺳﻸﻟ ﻞﻘﻧ</MapDolly_Down.label>
+  
+  
+  <MapDolly_Left.label>.ﺭﺎﺴﻴﻟﺍ ﻰﻟﺇ ﻞﻘﻧﺇ</MapDolly_Left.label>
+  
+  
+  <MapDolly_Right.label>ﻦﻴﻤﻴﻠﻟ ﻞﻘﻧ</MapDolly_Right.label>
+  
+  
+  <MapDolly_Up.label>ﻰﻠﻋﻷ ﻞﻘﻧ</MapDolly_Up.label>
+  
+  
+  <MapZoom_In.label>ﺏﺮﺘﻗﺍ</MapZoom_In.label>
+  
+  
+  <MapZoom_Out.label>ﺪﻌﺘﺑﺍ</MapZoom_Out.label>
+  
+  
+  <Misc1.label>1 ﺔﺗﻭﺎﻔﺘﻤﻟﺍ</Misc1.label>
+  
+  
+  <Misc10.label>10 ﺔﻋﻮﻨﺘﻣ ﺕﺎﻳﻮﺘﺤﻣ</Misc10.label>
+  
+  
+  <Misc11.label>11 ﻉﻮﻨﺘﻣ</Misc11.label>
+  
+  
+  <Misc12.label>ﻉﻮﻨﺘﻣ - 12</Misc12.label>
+  
+  
+  <Misc2.label>، ﺎﻬﺗﺪﻘﻓ ﻲﺘﻟﺍ ﺀﺎﻴﺷﻷﺍ ﻰﻠﻋ ﻡﺪﻨﺗ ﻻ
+.ﻚﻣﺎﻣﺃ ﻲﺘﻟﺍ ﺀﺎﻴﺷﻸﻟ ﻚﻴﻨﻴﻋ ﺢﺘﻓﺍ ﻞﺑ</Misc2.label>
+  
+  
+  <Misc3.label>3 ﻉﻮﻨﺘﻣ</Misc3.label>
+  
+  
+  <Misc4.label>4 ﺕﺎﻗﺮﻔﺘﻣ</Misc4.label>
+  
+  
+  <Misc5.label>5 ﺩﺪﺤﻣ ﺮﻴﻏ</Misc5.label>
+  
+  
+  <Misc6.label>6 ﺔﻋﻮﻨﺘﻣ</Misc6.label>
+  
+  
+  <Misc7.label>7 ﺩﺪﺤﻣ ﺮﻴﻏ</Misc7.label>
+  
+  
+  <Misc8.label>ﺕﺎﻨﻃﻮﺘﺴﻤﻟﺍ ﺓﺭﺍﺩﻹ ﻮﻳﺪﻴﻓ ﺔﺒﻌﻟ ﻮﻫ ﺪﻟﺭﻭﻭ ﻢﻳﺭ
+.ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻟﺍﻭ ﺔﻴﺋﺎﻀﻔﻟﺍ</Misc8.label>
+  
+  
+  <Misc9.label>9 ﻉﻮﻨﺘﻟﺍ</Misc9.label>
+  
+  
+  <ModifierIncrement_100x.label>100x ﻰﻟﺇ ﺮﻴﻴﻐﺗ</ModifierIncrement_100x.label>
+  
+  
+  <ModifierIncrement_10x.label>ﺕﺍﺮﻣ 10 ﻰﻟﺇ ﺮﻴﻴﻐﺗ</ModifierIncrement_10x.label>
+  
+  
+  <NextColonist.label>ﻲﻟﺎﺘﻟﺍ ﻦﻃﻮﺘﺴﻤﻟﺍ</NextColonist.label>
+  
+  
+  <PreviousColonist.label>ﻖﺑﺎﺴﻟﺍ ﻦﻛﺎﺴﻟﺍ</PreviousColonist.label>
+  
+  
+  <QueueOrder.label>ﻒﺼﻟﺍ ﻲﻓ ﻊﺿ</QueueOrder.label>
+  
+  
+  <SelectNextInCell.label>ﺔﻴﻟﺎﺘﻟﺍ ﺔﻴﻠﺨﻟﺍ ﺮﺘﺧﺍ</SelectNextInCell.label>
+  
+  
+  <ShowCellInspector.label>.ﺔﻘﻄﻨﻤﻟﺍ ﻢﻠﻌﺗ</ShowCellInspector.label>
+  
+  
+  <ShowEyedropper.label>ﺔﻤﺴﻘﻤﻟﺍ</ShowEyedropper.label>
+  
+  
+  <TakeScreenshot.label>ﺔﺷﺎﺸﻠﻟ ﺔﻄﻘﻟ ﻁﺎﻘﺘﻟﺎﺑ ﻢﻗ</TakeScreenshot.label>
+  
+  
+  <TimeSpeed_Fast.label>ﺔﻌﻳﺮﺳ :ﺔﺒﻌﻠﻟﺍ ﺔﻋﺮﺳ</TimeSpeed_Fast.label>
+  
+  
+  <TimeSpeed_Faster.label>ﻉﺮﺳﺃ :ﺔﺒﻌﻠﻟﺍ ﺔﻋﺮﺳ</TimeSpeed_Faster.label>
+  
+  
+  <TimeSpeed_Normal.label>ﺔﻴﻌﻴﺒﻃ :ﺔﺒﻌﻠﻟﺍ ﺔﻋﺮﺳ</TimeSpeed_Normal.label>
+  
+  
+  <TimeSpeed_Slower.label>.ﺄﻄﺑﺃ :ﺔﺒﻌﻠﻟﺍ ﺔﻋﺮﺳ</TimeSpeed_Slower.label>
+  
+  
+  <TimeSpeed_Superfast.label>.ﺍﺪﺟ ﺔﻌﻳﺮﺳ :ﺔﺒﻌﻠﻟﺍ ﺔﻋﺮﺳ</TimeSpeed_Superfast.label>
+  
+  
+  <TimeSpeed_Ultrafast.label>(ﺢﻴﺤﺼﺗ) ﺍﺪﺟ ﺍﺪﺟ ﺔﻌﻳﺮﺳ :ﺔﺒﻌﻠﻟﺍ ﺔﻋﺮﺳ</TimeSpeed_Ultrafast.label>
+  
+  
+  <ToggleBeautyDisplay.label>ﺔﺌﻴﺒﻟﺍ ﻝﺎﻤﺟ ﺕﺍﺮﺷﺆﻣ ﺀﺎﻔﺧﺇ/ﺭﺎﻬﻇﺇ</ToggleBeautyDisplay.label>
+  
+  
+  <TogglePause.label>ﺔﺒﻌﻠﻟﺍ ﻑﺎﻨﺌﺘﺳﺍ/ﻒﻗﻮﺗ</TogglePause.label>
+  
+  
+  <ToggleRoomStatsDisplay.label>ﻑﺮﻐﻟﺍ ﺺﺋﺎﺼﺧ ﺀﺎﻔﺧﺇ/ﺭﺎﻬﻇﺇ</ToggleRoomStatsDisplay.label>
+  
+  
+  <ToggleScreenshotMode.label>ﺔﺷﺎﺸﻟﺍ ﺕﺎﻄﻘﻟ ﻊﺿﻭ ﺮﻴﻴﻐﺗ</ToggleScreenshotMode.label>
+  
+</LanguageData>
