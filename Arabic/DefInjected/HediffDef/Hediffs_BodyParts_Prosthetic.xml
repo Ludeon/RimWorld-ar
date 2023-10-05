@@ -1,0 +1,56 @@
+<LanguageData>
+  
+  
+  <CochlearImplant.label>ﻉﻭﺭﺰﻤﻟﺍ ﻲﻌﻤﺴﻟﺍ ﻉﺭﺰﻟﺍ</CochlearImplant.label>
+  
+  <CochlearImplant.description>.ﺔﺘﺒﺜﻤﻟﺍ ﺔﻴﻌﻤﺴﻟﺍ ﺔﻋﺭﺰﻟﺍ</CochlearImplant.description>
+  
+  <CochlearImplant.labelNoun>ﻲﻌﻤﺴﻟﺍ ﻉﺭﺰﻟﺍ</CochlearImplant.labelNoun>
+  
+  
+  <Joywire.label>ﺓﺪﻴﻌﺴﻟﺍ ﺔﻗﺎﻗﺮﻟﺍ</Joywire.label>
+  
+  <Joywire.description>.ﺔﻋﻭﺭﺰﻤﻟﺍ ﺓﺩﺎﻌﺴﻟﺍ ﺔﻗﺎﻗﺭ</Joywire.description>
+  
+  <Joywire.labelNoun>ﺓﺩﺎﻌﺴﻟﺍ ﺔﻗﺎﻗﺭ</Joywire.labelNoun>
+  
+  
+  <Painstopper.label>ﺮﻳﺪﺨﺗ ﺔﻗﺎﻗﺭ</Painstopper.label>
+  
+  <Painstopper.description>.ﻢﻟﻷﺍ ﺮﻳﺪﺨﺘﻟ ﺔﻋﻭﺭﺰﻤﻟﺍ ﺔﻗﺎﻗﺮﻟﺍ</Painstopper.description>
+  
+  <Painstopper.labelNoun>ﺕﺎﻨﻜﺴﻤﻟﺍ ﺔﺤﻳﺮﺷ</Painstopper.labelNoun>
+  
+  
+  <PowerClaw.label>ﺔﻳﻮﻘﻟﺍ ﺐﻟﺎﺨﻤﻟﺍ</PowerClaw.label>
+  
+  <PowerClaw.description>ﺔﻋﻭﺭﺰﻤﻟﺍ ﺔﻳﻮﻘﻟﺍ ﺐﻟﺎﺨﻤﻟﺍ</PowerClaw.description>
+  
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>ﺐﻟﺎﺨﻤﻟﺍ</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  
+  <PowerClaw.labelNoun>ﺔﻳﻮﻘﻟﺍ ﺐﻟﺎﺨﻤﻟﺍ</PowerClaw.labelNoun>
+  
+  
+  <SimpleProstheticArm.label>ﺪﻴﻠﻟ ﺔﻄﻴﺴﺒﻟﺍ ﺔﻟﺪﺒﻟﺍ</SimpleProstheticArm.label>
+  
+  <SimpleProstheticArm.description>.ﺪﻴﻟﺍ ﺾﻳﻮﻌﺘﻟ ﻂﻴﺴﺑ ﺯﺎﻬﺟ</SimpleProstheticArm.description>
+  
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>ﺪﻴﻟﺍ ﺔﻀﺒﻗ</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  
+  <SimpleProstheticArm.labelNoun>ﺪﻴﻠﻟ ﻂﻴﺴﺒﻟﺍ ﻲﻋﺎﻨﻄﺻﻻﺍ ﻑﺮﻄﻟﺍ</SimpleProstheticArm.labelNoun>
+  
+  
+  <SimpleProstheticHeart.label>ﻂﻴﺴﺒﻟﺍ ﻲﻋﺎﻨﺼﻟﺍ ﺐﻠﻘﻟﺍ ﺯﺎﻬﺟ</SimpleProstheticHeart.label>
+  
+  <SimpleProstheticHeart.description>.ﺐﻠﻘﻠﻟ ﻂﻴﺴﺑ ﺾﻳﻮﻌﺗ ﺯﺎﻬﺟ ﻉﻭﺭﺰﻣ</SimpleProstheticHeart.description>
+  
+  <SimpleProstheticHeart.labelNoun>ﺔﻄﻴﺴﺒﻟﺍ ﺔﻴﺒﻠﻘﻟﺍ ﺔﻋﺍﺭﺰﻟﺍ</SimpleProstheticHeart.labelNoun>
+  
+  
+  <SimpleProstheticLeg.label>ﺔﻄﻴﺴﺒﻟﺍ ﺔﻴﻋﺎﻨﻄﺻﻻﺍ ﻕﺎﺴﻟﺍ</SimpleProstheticLeg.label>
+  
+  <SimpleProstheticLeg.description>.ﻕﺎﺴﻠﻟ ﻂﻴﺴﺑ ﺰﻴﺗﻭﺮﺑ ﺐﻴﻛﺮﺗ</SimpleProstheticLeg.description>
+  
+  <SimpleProstheticLeg.labelNoun>ﺔﻄﻴﺴﺒﻟﺍ ﺔﻴﻋﺎﻨﻄﺻﻻﺍ ﻕﺎﺴﻟﺍ</SimpleProstheticLeg.labelNoun>
+  
+</LanguageData>
