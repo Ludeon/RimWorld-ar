@@ -1,0 +1,53 @@
+<LanguageData>
+  
+  
+  <DirtInEyes.label>ﺽﺭﻷﺍ</DirtInEyes.label>
+  
+  <DirtInEyes.description>ﺎﻬﻨﻜﻟﻭ ﺔﻳﺅﺮﻟﺍ ﺀﻮﺴﺗ .ﻥﻮﻴﻌﻟﺍ ﻲﻓ ﺏﺍﺮﺘﻟﺍ ﺕﺎﻤﻴﺴﺟ
+.ﻒﻴﻈﻨﺘﻟﺍ ﺔﻠﻬﺳ</DirtInEyes.description>
+  
+  <DirtInEyes.battleStateLabel>ﻰﻤﻌﻟﺍ</DirtInEyes.battleStateLabel>
+  
+  <DirtInEyes.labelNoun>ﺽﺭﻷﺍ</DirtInEyes.labelNoun>
+  
+  
+  <GravelInEyes.label>ﻰﺼﺤﻟﺍ</GravelInEyes.label>
+  
+  <GravelInEyes.description>ﺓﺭﺪﻘﻟﺍ ﻰﻠﻋ ﺮﺛﺆﺗ .ﻦﻴﻨﻴﻌﻟﺍ ﻲﻓ ﻰﺼﺤﻟﺍ ﺕﺎﺌﻳﺰﺟ
+.ﺔﻟﻮﻬﺴﺑ ﻝﺍﺰﺗ ﺎﻬﻨﻜﻟ ﺔﻳﺅﺮﻟﺍ ﻰﻠﻋ</GravelInEyes.description>
+  
+  <GravelInEyes.battleStateLabel>ﻰﻤﻌﻟﺍ</GravelInEyes.battleStateLabel>
+  
+  <GravelInEyes.labelNoun>ﻂﻟﺰﻟﺍ</GravelInEyes.labelNoun>
+  
+  
+  <MudInEyes.label>ﺔﺨﺳﻮﻟﺍ</MudInEyes.label>
+  
+  <MudInEyes.description>،ﺔﻳﺅﺮﻟﺍ ﻞﻴﻠﻘﺘﺑ ﻡﻮﻘﺗ .ﻥﻮﻴﻌﻟﺍ ﻲﻓ ﻦﻴﻄﻟﺍ ﺕﺎﻤﻴﺴﺟ
+.ﺔﻟﻮﻬﺴﺑ ﻰﺤﻤﺗ ﺎﻬﻨﻜﻟ</MudInEyes.description>
+  
+  <MudInEyes.battleStateLabel>ﻰﻤﻌﻟﺍ</MudInEyes.battleStateLabel>
+  
+  <MudInEyes.labelNoun>ﺦﺳﻮﻟﺍ</MudInEyes.labelNoun>
+  
+  
+  <SandInEyes.label>ﻝﺎﻣﺭ</SandInEyes.label>
+  
+  <SandInEyes.description>ﺔﻳﺅﺮﻟﺍ ﻰﻠﻋ ﺮﺛﺆﺗ .ﻥﻮﻴﻌﻟﺍ ﻲﻓ ﻞﻣﺮﻟﺍ ﺕﺎﺒﻴﺒﺣ
+.ﺔﻟﻮﻬﺴﺑ ﺎﻬﺘﻟﺍﺯﺇ ﻦﻜﻤﻳ ﻦﻜﻟﻭ</SandInEyes.description>
+  
+  <SandInEyes.battleStateLabel>ﻰﻤﻌﻟﺍ</SandInEyes.battleStateLabel>
+  
+  <SandInEyes.labelNoun>ﻞﻣﺭ</SandInEyes.labelNoun>
+  
+  
+  <WaterInEyes.label>ﺀﺎﻤﻟﺍ</WaterInEyes.label>
+  
+  <WaterInEyes.description>ﻰﻠﻋ ﻥﻭﺮﺛﺆﻳ .ﻥﻮﻴﻌﻟﺍ ﻲﻓ ﺓﺭﺬﻘﻟﺍ ﺀﺎﻤﻟﺍ ﺕﺍﺭﺫ
+.ﺔﻋﺮﺴﺑ ﻦﻴﻨﻴﻌﻟﺍ ﻙﺮﻓ ﻲﻔﻜﻳ ﻦﻜﻟ ،ﺔﻳﺅﺮﻟﺍ</WaterInEyes.description>
+  
+  <WaterInEyes.battleStateLabel>ﻰﻤﻌﻟﺍ</WaterInEyes.battleStateLabel>
+  
+  <WaterInEyes.labelNoun>ﺀﺎﻣ</WaterInEyes.labelNoun>
+  
+</LanguageData>
