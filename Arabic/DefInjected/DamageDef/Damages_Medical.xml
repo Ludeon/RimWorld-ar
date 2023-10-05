@@ -1,0 +1,14 @@
+<LanguageData>
+  
+  
+  <ExecutionCut.label>ﺔﺑﻮﻘﻌﻟﺍ ﻦﻣ ﺀﺎﻔﻋﻹﺍ</ExecutionCut.label>
+  
+  <ExecutionCut.deathMessage>.{gender_0} {0} ﻡﺍﺪﻋﺍ ﻢﺗ</ExecutionCut.deathMessage>
+  
+  
+  <SurgicalCut.label>ﻲﺣﺍﺮﺟ ﺡﺮﺟ</SurgicalCut.label>
+  
+  <SurgicalCut.deathMessage>{0} {0_gender ? ﺀﺎﻨﺛﺃ {ﺖﻴﻓﻮﺗ : ﻲﻓﻮﺗ
+ﺔﻴﻠﻤﻌﻟﺍ.</SurgicalCut.deathMessage>
+  
+</LanguageData>
