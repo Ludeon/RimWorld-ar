@@ -1,0 +1,416 @@
+<LanguageData>
+
+  <ClickToJumpToProblem>ﺔﻠﻜﺸﻤﻟﺍ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻼﻟ ﺮﻘﻧﺍ</ClickToJumpToProblem>
+
+  <BreakRiskMinor>ﻒﻴﻔﻃ ﻢﻄﺤﺗ ﺮﻄﺧ</BreakRiskMinor>
+  <BreakRiskMajor>ﻲﺴﻔﻨﻟﺍ ﺭﺎﻴﻬﻧﻻﺍ ﻰﻠﻋ ﺮﻴﺒﻛ ﺮﻄﺧ</BreakRiskMajor>
+  <BreakRiskExtreme>ﻁﺮﻔﻤﻟﺍ ﻲﺴﻔﻨﻟﺍ ﺭﺎﻴﻬﻧﻼﻟ ﺓﺮﻴﺒﻛ ﺓﺮﻃﺎﺨﻣ</BreakRiskExtreme>
+  <BreakRiskMinorDesc>ﺙﺪﺤﻳ ﺪﻗﻭ ﺀﻲﺳ ﺝﺍﺰﻣ ﻲﻓ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ
+:ﺖﻗﻭ ﻱﺃ ﻲﻓ ﻒﻴﻔﻃ ﻲﻠﻘﻋ ﺭﺎﻴﻬﻧﺍ ﻢﻬﻟ
+{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>ﺪﻗﻭ ﺍﺪﺟ ﺀﻲﺳ ﺝﺍﺰﻣ ﻲﻓ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ
+ﻱﺃ ﻲﻓ ﻲﺴﻴﺋﺭ ﻲﻠﻘﻋ ﺭﺎﻴﻬﻧﺍ ﻢﻬﻳﺪﻟ ﺙﺪﺤﻳ
+{0} :ﺖﻗﻭ</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>ﺓﺩﺎﺣ ﺔﻴﺴﻔﻧ ﻁﻮﻐﺿ ﻦﻣ ﻥﻮﻧﺎﻌﻳ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ
+.ﺔﻈﺤﻟ ﻱﺃ ﻲﻓ ﻢﻬﻨﻫﺫ ﺮﺠﻔﻨﻳ ﺪﻗﻭ</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>ﻯﺮﺘﻟ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺀﻻﺆﻬﻟ ﺕﺎﺟﺎﻴﺘﺣﻻﺍ ﻥﺎﺴﻟ ﻦﻣ ﻖﻘﺤﺗ
+.ﻢﻬﺠﻋﺰﻳ ﺎﻣ
+ﺀﺎﻴﺷﺃ ﻞﻌﻓ ﻚﻨﻜﻤﻳ ،ﻦﺴﺤﺘﺑ ﻥﻭﺮﻌﺸﻳ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻞﻌﺠﻟ
+ﺕﺎﻋﺎﺳ ﻢﻬﺤﻨﻣﻭ ،ﻢﻬﻟ ﺓﺮﺧﺎﻓ ﺕﺎﺒﺟﻭ ﺮﻴﻀﺤﺗ ﻞﺜﻣ
+ﺔﻴﻬﻴﻓﺮﺗ ﺀﺎﻴﺷﺃ ﺩﻮﺟﻭﻭ ﻡﻮﻴﻟﺍ ﻲﻓ ﻪﻴﻓﺮﺘﻠﻟ ﺮﺜﻛﺃ
+ﺬﻴﺒﻧ ﻢﻬﺋﺎﻄﻋﺍﻭ ،ﺔﻠﻴﻤﺟ ﺕﺎﺌﻴﺑ ﻲﻓ ﻢﻬﻌﺿﻭﻭ ،ﻞﻤﺟﺃ
+.ﻯﺮﺧﻷﺍ ﺭﻮﻣﻷﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍﻭ ،ﻥﺎﺧﺩ ﻭﺃ</BreakRiskDescEnding>
+
+  <ColonistNeedsRescue>ﺫﺎﻘﻧﺇ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﻦﻃﻮﺘﺴﻤﻟﺍ</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Colonists need rescue</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>:ﺽﺭﻷﺍ ﻰﻠﻋ ﻥﻭﺰﺟﺎﻋ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ
+{0}
+.ﺮﻳﺮﺴﻟﺍ ﻰﻟﺇ ﻢﻬﻠﻤﺣﻭ ﻢﻫﺫﺎﻘﻧﻹ ﺮﺧﺁ ﺎﻨﻃﻮﺘﺴﻣ ﻞﺳﺭﺃ
+ﺭﺰﺑ ﺮﻘﻧﺍ ﻢﺛ ﺮﺧﺁ ﺎﻨﻃﻮﺘﺴﻣ ﺮﺘﺧﺍ ،ﻢﻫﺫﺎﻘﻧﻹ)
+(."ﺫﺎﻘﻧﻹﺍ" ﺮﺘﺧﺍﻭ ﺏﺎﺼﻤﻟﺍ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDescController>ﺮﺧﺁ ﺎﻨﻃﻮﺘﺴﻣ ﻞﺳﺭﺃn\n{0}\n\:ﺽﺭﻷﺍ ﻰﻠﻋ ﻥﻮﻗﺎﻌﻣ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ
+،ﺮﺧﺁ ﺎﻨﻃﻮﺘﺴﻣ ﺮﺘﺧﺍ ،ﺫﺎﻘﻧﻺﻟ)n\n\.ﺮﻳﺮﺴﻟﺍ ﻰﻟﺇ ﻢﻬﻠﻤﺣﻭ ﻢﻫﺫﺎﻘﻧﻹ
+ﺔﻴﺤﻀﻠﻟ ﺮﺴﻳﻷﺍ ﺩﺎﻧﺰﻟﺍ ﺭﺯ ﻰﻠﻋ ﻂﻐﺿﺍ ﻢﺛ
+(.'ﺫﺎﻘﻧﺇ' ﺮﺘﺧﺍﻭ</ColonistsNeedRescueDescController>
+
+  <NeedDefenses>ﻉﺎﻓﺪﻠﻟ ﺔﺟﺎﺣ</NeedDefenses>
+  <NeedDefensesDesc>ﻢﺗ ﺎﻤﺑﺭﻭ ﺎﻨﻫ ﻞﻳﻮﻃ ﺖﻗﻭ ﺮﻣ ﺪﻘﻟ
+.ﺎﺒﻳﺮﻗ ﺔﻨﺻﺍﺮﻘﻟﺍ ﺕﺎﻤﺠﻫ ﺃﺪﺒﻴﺳ .ﻚﺗﺪﻫﺎﺸﻣ
+ﺔﻴﻠﻣﺮﻟﺍ ﺰﺟﺍﻮﺤﻟﺍ ﻞﺜﻣ ،ﺕﺎﻋﺎﻓﺪﻟﺍ ﺩﺍﺪﻋﺇ ﻚﻴﻠﻋ ﺐﺠﻳ
+.ﺥﺎﺨﻔﻟﺍ ﻭﺃ</NeedDefensesDesc>
+
+  <NeedDoctor>.ﺎﺒﻴﺒﻃ ﺝﺎﺘﺣﺃ</NeedDoctor>
+  <NeedDoctorDesc>ﻦﻜﻟﻭ ،ﺔﻴﺒﻃ ﺔﻳﺎﻋﺭ ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ
+&lt;newline&gt; .ﺀﺎﺒﻃﺄﻛ ﻦﻴﻨﻴﻌﻣ ﺀﺎﺤﺻﺃ ﻥﻮﻨﻃﻮﺘﺴﻣ ﻚﻳﺪﻟ ﺲﻴﻟ
+ﺍﺫﺇ .ﺐﻴﺒﻄﻛ ﻞﻤﻌﻠﻟ ﻩﺪﻋﺃﻭ ﺎﻴﺤﺻ ﺎﻨﻃﻮﺘﺴﻣ ﺮﺘﺧﺍ
+ﻢﺌﺘﻠﺗ ﻻ ﺪﻘﻓ ،ﺡﻭﺮﺠﻟﺍ ﺝﻼﻋ ﻢﺘﻳ ﻢﻟ
+.ﺔﻤﺋﺍﺩ ﺢﺒﺼﺗﻭ ﺢﻴﺤﺻ ﻞﻜﺸﺑ</NeedDoctorDesc>
+
+  <NeedMiner>ﺎﺒﻘﻨﻣ ﺝﺎﺘﺣﺍ</NeedMiner>
+  <NeedMinerDesc>،ﺎﻬﻨﻳﺪﻌﺗ ﻢﺘﻴﻟ ﺭﻮﺨﺼﻟﺍ ﺾﻌﺑ ﺪﻳﺪﺤﺘﺑ ﺖﻤﻗ ﺪﻘﻟ
+ﻪﻳﺪﻟ ﻥﺎﻜﺴﻟﺍ ﻦﻣ ﺪﺣﺃ ﺪﺟﻮﻳ ﻻ ﻦﻜﻟﻭ
+."ﻦﻳﺪﻌﺘﻟﺍ" ﻞﻤﻋ ﺔﻴﻋﻮﻧ
+
+."ﻦﻳﺪﻌﺘﻟﺍ" ﻞﻤﻋ ﺔﻴﻋﻮﻨﺑ ﻦﻛﺎﺳ ﻦﻴﻴﻌﺘﺑ ﻢﻗ</NeedMinerDesc>
+
+  <NeedWarden>ﻲﺻﻭ ﻰﻟﺇ ﺔﺟﺎﺤﺑ</NeedWarden>
+  <NeedWardenDesc>ﻱﺃ ﺪﻨﻋ ﺪﺟﻮﻳ ﻻ ﻦﻜﻟﻭ ﺮﻴﺳﺃ ﻚﻳﺪﻟ
+.ﻥﺎﺠﺴﻟﺍ ﺔﻔﻴﻇﻭ ﻦﻃﻮﺘﺴﻣ
+.ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺪﺣﻷ ﻥﺎﺠﺴﻟﺍ ﺔﻔﻴﻇﻭ ﻦﻴﻴﻌﺘﺑ ﻢﻗ</NeedWardenDesc>
+
+  <LowFood>ﻞﻴﻠﻗ ﻡﺎﻌﻄﻟﺍ</LowFood>
+  <LowFoodDesc>.ﻡﺎﻌﻄﻟﺍ ﺺﻘﻧ ﺐﺒﺴﺑ ﺮﻄﺧ ﻊﺿﻭ ﻲﻓ ﺖﻧﺃ
+ﺮﻓﻮﺘﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ .ﺔﻃﺮﺷﺃ {0} :ﺔﻧﺰﺨﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺔﻴﻤﻛ
+:ﻥﺰﺨﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺔﻤﻴﻗ ﻡﺎﻳﺃ {1} :ﺀﺎﻨﺠﺴﻟﺍﻭ ﻥﺎﻜﺴﻠﻟ
+ﻦﻋ ﺚﺤﺑﺍ ﻭﺃ ﺮﺘﺷﺍ ﻭﺃ ﻉﺭﺯﺍ .{2}
+.ﻡﺎﻌﻄﻟﺍ ﺾﻌﺑ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﻞﺘﻗ ﻭﺃ ﻡﺎﻌﻄﻟﺍ</LowFoodDesc>
+
+  <LowMedicine>ﺔﻀﻔﺨﻨﻣ ﺔﻳﻭﺩﻷﺍ</LowMedicine>
+  <LowMedicineDesc>ﺀﺍﺮﺷn\n\.ﻦﻳﺰﺨﺘﻟﺍ ﻲﻓ ﺔﻴﻘﺒﺘﻣ ﺔﻳﻭﺩﺃ {0} ﻂﻘﻓ ﻚﻳﺪﻟ
+.ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺔﻳﻭﺩﻷﺍ ﻦﻣ ﺪﻳﺰﻣ</LowMedicineDesc>
+  <NoMedicineDesc>.ﻦﻳﺰﺨﺘﻟﺍ ﻲﻓ ﺔﻴﻘﺒﺘﻣ ﺔﻳﻭﺩﺃ ﻚﻳﺪﻟ ﺪﺟﻮﺗ ﻻ
+.ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺔﻳﻭﺩﻷﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﺮﺘﺷﺍ</NoMedicineDesc>
+  
+  <NeedColonistBeds>ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺓﺮﺳﺃ ﻰﻟﺇ ﺔﺟﺎﺣ</NeedColonistBeds>
+  <NeedColonistBedsDesc>ﺓﺮﺳﺃ ﻦﻣ ﻚﻳﺪﻟ ﺎﻤﻣ ﺮﺜﻛﺃ ﻥﻮﻨﻃﻮﺘﺴﻣ ﻚﻳﺪﻟ
+.ﻡﻮﻨﻠﻟ ﻥﺎﻜﻣ ﻼﺑ ﺺﺨﺷ ﻙﺎﻨﻫ ﻥﻮﻜﻴﺳ .ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ
+ﻭﺃ ﺓﺮﺳﻷﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻊﻨﺻ ﺎﻣﺇ ﻚﻨﻜﻤﻳ
+.ﻦﻃﻮﺘﺴﻤﻠﻟ ﺮﻳﺮﺳ ﻰﻟﺇ ﺮﻴﺳﻷﺍ ﺮﻳﺮﺳ ﻞﻳﻮﺤﺗ
+ﻊﺿﻭ ﻦﻜﻤﻳ ،ﺩﺭﺍﻮﻣ ﻚﻳﺪﻟ ﻦﻜﺗ ﻢﻟ ﺍﺫﺇ
+.ﻱﺭﻮﻓ ﻞﻜﺸﺑﻭ ﺎﻧﺎﺠﻣ ﺔﻤﺋﺎﻨﻟﺍ ﻦﻛﺎﻣﻷﺍ</NeedColonistBedsDesc>
+  
+  <AlertColonistLeftUnburied>ﻦﻓﺩ ﻥﻭﺪﺑ ﻦﻛﺎﺴﻟﺍ ﻙﺮﺗ</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburiedDesc>ﻰﻠﻋ ﺎﺒﻠﺳ ﺍﺬﻫ ﺮﺛﺆﻳ ﺪﻗn\n\.ﻦﻓﺪﻳ ﻢﻟ ﺖﺴﻴﻧﻮﻟﻮﻜﻟﺍ
+ﺖﺴﻴﻧﻮﻟﻮﻜﻟﺍ ﺝﺍﺰﻣ</AlertColonistLeftUnburiedDesc>
+
+  <HunterLacksWeapon>ﺓﺪﻴﻌﺑ ﺔﻓﺎﺴﻣ ﻦﻣ ﺡﻼﺳ ﻰﻟﺇ ﺪﻘﺘﻔﻳ ﺩﺎﻴﺼﻟﺍ</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>ﺎﻬﻨﻜﻟ ﺩﺎﻴﺻ ﺭﻭﺪﺑ ﺓﺩﺎﺒﻌﺘﺳﻻﺍ ﻊﻴﻤﺟ ﻦﻴﻴﻌﺗ ﻢﺗ
+.ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺎﺣﻼﺳ ﺎﻬﻳﺪﻟ ﺖﺴﻴﻟ
+.ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺎﺣﻼﺳ ﻞﻤﺤﺗ ﻰﺘﺣ ﺩﺎﻄﺼﺗ ﻦﻟ
+ﺡﻼﺳ ﻰﻟﺇ ﺝﺎﺘﺤﺗﻭ ﺓﺩﺎﻴﺼﻛ ﺎﻬﻨﻴﻴﻌﺗ ﺔﻴﻟﺎﺘﻟﺍ ﺓﺩﺎﺒﻌﺘﺳﻻﺍ
+.ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ</HunterLacksWeaponDesc>
+
+  <AlertTatteredApparel>ﺔﻜﻟﺎﻬﺘﻤﻟﺍ ﺲﺑﻼﻤﻟﺍ</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>ﻢﻬﻠﻌﺠﻳ ﺎﻤﻣ ،ﺔﻜﻟﺎﻬﺘﻣ ﺲﺑﻼﻣ ﻥﻭﺪﺗﺮﻳ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ
+.ﻦﻴﻨﻳﺰﺣ
+ﺍﺬﻬﺑ ﺖﺴﻴﻟ ﻲﺘﻟﺍ ﺲﺑﻼﻤﻟﺍ ﺾﻌﺑ ﻢﻬﻴﻠﻋ ﻞﺼﺣﺍ
+.ﻒﻠﺘﻟﺍ ﻦﻣ ﺭﺪﻘﻟﺍ
+ﻑﺮﺤﻟﺍ ﻊﻗﻮﻣ ﻖﻳﺮﻃ ﻦﻋ ﺲﺑﻼﻤﻟﺍ ﻊﻨﺻ ﻚﻨﻜﻤﻳ
+.ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺎﻬﺋﺍﺮﺷ ﻭﺃ ،ﺔﻃﺎﻴﺨﻟﺍ ﺔﻟﻭﺎﻄﻟﺍ ﻭﺃ</AlertTatteredApparelDesc>
+
+  <AlertUnhappyNudity>ﻱﺮﻌﻟﺎﺑ ﺎﺿﺭ ﻡﺪﻋ</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>:ﻚﻟﺬﺑ ﺀﺍﺪﻌﺳ ﺮﻴﻏﻭ ﺓﺍﺮﻋ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ
+{0}
+.ﺲﺑﻼﻤﻟﺍ ﺾﻌﺑ ﻢﻬﻴﻠﻋ ﻞﺼﺣﺍ
+ﻭﺃ ﻑﺮﺤﻟﺍ ﻥﺎﻜﻣ ﻲﻓ ﺲﺑﻼﻤﻟﺍ ﻊﻨﺻ ﻚﻨﻜﻤﻳ
+.ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺎﻬﺋﺍﺮﺷ ﻭﺃ ،ﺔﻃﺎﻴﺨﻟﺍ ﺔﻟﻭﺎﻃ</AlertUnhappyNudityDesc>
+
+  <Starvation>ﻉﻮﺠﻟﺍ</Starvation>
+  <StarvationDesc>:ﻥﻮﻌﺋﺎﺟ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ
+{0}
+.ﻡﺎﻌﻄﻟﺍ ﺾﻌﺑ ﻢﻬﻟ ﺮﻀﺣﺃ</StarvationDesc>
+
+  <StarvationAnimals>ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺔﻳﺬﻐﺘﻟﺍ ﺺﻘﻧ</StarvationAnimals>
+  <StarvationAnimalsDesc>ﺾﻌﺑ ﻢﻬﺋﺎﻄﻋﺈﺑ ﻢﻗn\n{0}\n\ :ﺔﻌﺋﺎﺟ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺀﻻﺆﻫ
+.ﻡﺎﻌﻄﻟﺍ</StarvationAnimalsDesc>
+
+  <Exhaustion>ﻕﺎﻫﺭﻹﺍ</Exhaustion>
+  <ExhaustionDesc>:ﺔﺣﺍﺭ ﻰﻟﺇ ﺔﺟﺎﺤﺑﻭ Exhausted ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ
+{0}
+ﻡﺍﺪﺨﺘﺳﻼﻟ ﺺﺼﺨﻣ ﺮﻳﺮﺳ ﻰﻟﺇ ﻥﻮﺟﺎﺘﺤﻴﺳ .ﻥﻮﺤﻳﺮﺘﺴﻳ ﻢﻬﻠﻌﺟﺍ
+ﻢﻬﻧﺃ ﻦﻣ ﺎﻀﻳﺃ ﺪﻛﺄﺗ .ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻞﺒﻗ ﻦﻣ
+.ﻢﻫﺪﻴﻨﺠﺗ ﻢﺘﻳ ﻢﻟ</ExhaustionDesc>
+
+  <NeedFoodHopper>ﻡﺎﻌﻃ ﻕﻭﺪﻨﺻ ﺝﺎﺘﺣﺍ</NeedFoodHopper>
+  <NeedFoodHopperDesc>ﻲﻜﻟn\n\.ﻪﺑﺮﻗ ﺀﺎﻋﻭ ﻥﻭﺪﺑ ﻲﺋﺍﺬﻏ ﻊﻳﺯﻮﺗ ﺯﺎﻬﺟ ﻚﻳﺪﻟ
+ﻊﻳﺯﻮﺘﻟﺍ ﺯﺎﻬﺟ ﺔﻳﺬﻐﺘﺑ ﻡﻮﻘﺗ ﻥﺃ ﺐﺠﻳ ،ﻞﻤﻌﻳ
+ﻢﻗn\n\.ﻡﺎﺧ ﻡﺎﻌﻃ ﻰﻠﻋ ﻱﻮﺘﺤﻳ ﺭﻭﺎﺠﻣ ﺀﺎﻋﻭ ﻦﻣ
+.ﻊﻳﺯﻮﺘﻟﺍ ﺯﺎﻬﺠﻠﻟ ﺭﻭﺎﺠﻣ ﺀﺎﻋﻭ ﺀﺎﻨﺒﺑ</NeedFoodHopperDesc>
+
+  <NeedMealSource>ﺔﺑﻮﻠﻄﻤﻟﺍ ﺔﻴﺋﺍﺬﻐﻟﺍ ﺕﺎﺒﺟﻮﻟﺍ ﺭﺪﺼﻣ</NeedMealSource>
+  <NeedMealSourceDesc>ﻦﻣ ﺔﻤﺋﻼﻣ ﺕﺎﺒﺟﻭ ﺩﺍﺪﻋﻹ ﺔﻠﻴﺳﻭ ﻚﻳﺪﻟ ﺲﻴﻟ
+،ﻢﻴﺨﻣ ﺍﺭﺎﻧ ﻭﺃ ،ﺍﺪﻗﻮﻣ ﻦﺑﺍ .ﻡﺎﺨﻟﺍ ﻡﺎﻌﻄﻟﺍ
+ﻪﻌﺿﻭ ﻦﻜﻤﻳ ﻻ) .ﺕﺎﻳﺬﻐﻤﻟﺍ ﻊﻳﺯﻮﺗ ﺯﺎﻬﺟ ﻭﺃ
+ﻦﻴﺣﺯﺎﻨﻠﻟ ﻦﻜﻤﻳ ﻻ ﻻﺇﻭ ،ﻥﻮﺠﺴﻟﺍ ﺔﻧﺍﺰﻧﺯ ﻲﻓ
+(.ﻪﻣﺍﺪﺨﺘﺳﺍ</NeedMealSourceDesc>
+
+  <NeedJoySource>ﻪﻴﻓﺮﺘﻟﺍ ﻲﻓ ﻉﻮﻨﺗ ﻰﻟﺇ ﺝﺎﺘﺤﺗ</NeedJoySource>
+  <NeedJoySourceDesc>ﻪﻴﻓﺮﺘﻟﺍ ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﻉﺍﻮﻧﺃ {0} ﻂﻘﻓ ﻙﺎﻨﻫ
+ﻲﻟﺎﺤﻟﺍ ﺕﺎﻌﻗﻮﺘﻟﺍ ﻯﻮﺘﺴﻤﺑ ﻦﻜﻟﻭ ،{1} ﻲﻓ ﺔﺣﺎﺘﻤﻟﺍ
+ﻉﺍﻮﻧﺃ {3} ﻰﻟﺇ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻥﺎﻜﺴﻟﺍ ﺝﺎﺘﺤﻳ ،({2})
+ﺎﻋﻮﻨﺗ ﻡﺪﻗ .ﻦﻴﻴﺿﺍﺭ ﺀﺎﻘﺒﻠﻟ ﻪﻴﻓﺮﺘﻟﺍ ﻦﻣ ﺔﻔﻠﺘﺨﻣ
+ﺪﻳﺪﺟ ﻉﻮﻧ ﺮﻴﻓﻮﺗ ﻖﻳﺮﻃ ﻦﻋ ﻪﻴﻓﺮﺘﻟﺍ ﻲﻓ
+.ﻪﻴﻓﺮﺘﻟﺍ ﻦﻣ ﻒﻠﺘﺨﻣﻭ
+
+{4}
+
+{5}
+
+ﻱﻷ ﻪﻴﻓﺮﺘﻟﺍ ﻉﻮﻧ ﻦﻣ ﻖﻘﺤﺘﻟﺍ ﻚﻨﻜﻤﻳ :ﺔﻈﺣﻼﻣ
+ﺭﺰﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻚﻟﺫﻭ ،ﺔﻴﺋﺎﺼﺣﻹﺍ ﻪﺘﺤﻔﺻ ﻲﻓ ﺮﺼﻨﻋ
+."i"</NeedJoySourceDesc>
+  <AvailableRecreationTypes>ﺔﺣﺎﺘﻤﻟﺍ ﻪﻴﻓﺮﺘﻟﺍ ﻉﺍﻮﻧﺃ</AvailableRecreationTypes>
+  <MissingRecreationTypes>ﻪﻴﻓﺮﺘﻟﺍ ﻦﻣ ﺓﺩﻮﻘﻔﻤﻟﺍ ﻉﺍﻮﻧﻷﺍ</MissingRecreationTypes>
+  <CurrentExpectationsAndRecreation>ﻞﻛ ﻞﻘﻳ ,({0}) ﺔﻴﻟﺎﺤﻟﺍ ﺕﺎﻌﻗﻮﺘﻟﺍ ﻰﻠﻋ ﺀﺎﻨﺑ
+.ﻲﺣﺎﺻ ﻡﻮﻳ ﻞﻛ ﻲﻓ {1} ﻝﺪﻌﻤﺑ ﻞﻤﺤﺗ
+.ﻪﻴﻓﺮﺗ ﻉﺍﻮﻧﺃ {2} ﺩﻮﺟﻮﺑ ﻰﺻﻮﻳ</CurrentExpectationsAndRecreation>
+  <bored>ﻞﻠﻣ</bored>
+
+  <Boredom>ﻞﻠﻤﻟﺍ</Boredom>
+  <BoredomDesc>ﻭﺃ ﻪﻴﻓﺮﺗ ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﺎﻣﺇ ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ
+ﻞﻛ ﻦﻣ ﻞﻠﻤﻟﺎﺑ ﻥﻭﺮﻌﺸﻳ ﻦﻜﻟﻭ ،ﻪﻴﻓﺮﺘﻟﺎﺑ ﻦﻴﻔﻠﻜﻣ
+ﻉﻮﻨﺗ ﻰﻠﻋ ﻢﻬﻟ ﻞﺼﺣﺍ .ﺔﺣﺎﺘﻤﻟﺍ ﻪﻴﻓﺮﺘﻟﺍ ﻞﺋﺎﺳﻭ
+.ﻪﻴﻓﺮﺘﻟﺍ ﻲﻓ ﺮﺜﻛﺃ
+:{PAWN_labelShort} ـﻟ ﺎﻴﻟﺎﺣ ﺔﺣﺎﺘﻤﻟﺍ ﻪﻴﻓﺮﺘﻟﺍ ﻉﺍﻮﻧﺃ
+{2}</BoredomDesc>
+
+  <NeedBatteries>.ﺕﺎﻳﺭﺎﻄﺑ ﺝﺎﺘﺣﺃ</NeedBatteries>
+  <NeedBatteriesDesc>ﻦﻜﻟ ،ﺡﺎﻳﺭ ﺪﻟﻮﻣ ﻭﺃ ﻲﺴﻤﺷ ﺪﻟﻮﻣ ﻚﻳﺪﻟ
+ﻞﻛ ﻲﻓ ﺀﺎﺑﺮﻬﻜﻟﺍ ﺪﻘﻔﺘﺳ .ﺕﺎﻳﺭﺎﻄﺑ ﻱﺃ ﻥﻭﺪﺑ
+.ﺡﺎﻳﺮﻟﺍ ﺃﺪﻬﻳ ﻭﺃ ﺲﻤﺸﻟﺍ ﺎﻬﻴﻓ ﺐﻴﻐﻳ ﺓﺮﻣ</NeedBatteriesDesc>
+  <NeedBatteriesResearchedDesc>ﺔﻗﺎﻄﻟﺍ ﺔﻳﺭﺍﺮﻤﺘﺳﺍ ﻥﺎﻤﻀﻟ ﻦﻴﺘﻨﺛﺍ ﻭﺃ ﺔﻳﺭﺎﻄﺑ ﺀﺎﻨﺑ</NeedBatteriesResearchedDesc>
+  <NeedBatteriesNotResearchedDesc>ﺔﻗﺎﻄﻟﺍ ﻥﺎﻤﻀﻟ ﺔﻌﻀﺑ ﻦﺑﺍﻭ ﺕﺎﻳﺭﺎﻄﺒﻟﺍ ﻦﻋ ﺚﺤﺑﺍ
+.ﺔﻣﺍﺪﺘﺴﻤﻟﺍ</NeedBatteriesNotResearchedDesc>
+
+  <BrawlerHasRangedWeapon>ﻯﺪﻣ ﻭﺫ ﺡﻼﺳ ﻞﻤﺤﻳ ﺮﺟﺎﺸﻤﻟﺍ</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>ﻪﻨﻜﻟ ،ﺐﻳﺮﻘﻟﺍ ﻝﺎﺘﻘﻟﺍ ﺔﻔﺼﺑ ﻊﺘﻤﺘﻳ ﻚﻴﻨﻃﻮﺘﺴﻣ ﺪﺣﺃ
+ﺙﺍﺪﺣﻹ ﻚﻟﺫ ﻱﺩﺆﻴﺳ .ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺎﺣﻼﺳ ﻞﻤﺤﻳ
+.ﻪﻟ ﺔﻠﻴﻠﻗ ﺓﺩﺎﻌﺳ</BrawlerHasRangedWeaponDesc>
+
+  <ShieldUserHasRangedWeapon>ﺪﻴﻌﺑ ﻯﺪﻣ ﻭﺫ ﺡﻼﺳ ﻪﻳﺪﻟ ﻉﻭﺭﺪﻠﻟ ﻡﺪﺨﺘﺴﻤﻟﺍ</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>ﻦﻣ ﺎﺣﻼﺳﻭ ﻉﺭﺩ ﻡﺍﺰﺣ ﻞﻤﺤﻳ ﻚﻴﻨﻃﻮﺘﺴﻣ ﺪﺣﺃ
+ﻕﻼﻃﺇ ﻰﻠﻋ ﺍﺭﺩﺎﻗ ﻥﻮﻜﻳ ﻦﻟ .ﺪﻴﻌﺑ ﻯﺪﻣ
+ﺔﺴﻣﻼﻤﻟﺍ ﻑﺍﺪﻫﻷﺍ ﺀﺎﻨﺜﺘﺳﺎﺑ) ﻉﺭﺪﻟﺍ ﻝﻼﺧ ﻦﻣ ﺭﺎﻨﻟﺍ
+.(ﻪﻟ</ShieldUserHasRangedWeaponDesc>
+
+  <NeedResearchProject>ﺚﺤﺑ ﻉﻭﺮﺸﻣ ﺝﺎﺘﺤﺗ</NeedResearchProject>
+  <NeedResearchProjectDesc>ﻢﻟ ﻦﻜﻟﻭ ﺙﻮﺤﺒﻟﺍ ﺀﺍﺮﺟﻹ ﺔﻣﺯﻼﻟﺍ ﺕﺍﻭﺩﻷﺍ ﻚﻳﺪﻟ
+.ﺎﻋﻭﺮﺸﻣ ﺮﺘﺧﺍﻭ ﺚﺤﺒﻟﺍ ﺔﻤﺋﺎﻗ ﺢﺘﻓﺍn\n\.ﺎﻋﻭﺮﺸﻣ ﺮﺘﺨﺗ</NeedResearchProjectDesc>
+
+  <ColonistsIdle>ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻦﻣ ﻥﻮﻔﻛﺍﻮﻟﺍ {0}</ColonistsIdle>
+  <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably
+find them something productive to do.</ColonistsIdleDesc>
+  
+  <CaravanIdle>ﺔﻄﺸﻧ ﺮﻴﻏ ﺔﻠﻓﺎﻘﻟﺍ</CaravanIdle>
+  <CaravanIdleDesc>:ﺔﻴﻟﺎﺘﻟﺍ ﻢﻬﺘﻬﺟﻭ ﺪﻳﺪﺤﺘﻟ ﻙﺭﺎﻈﺘﻧﺍ ﻲﻓ ﻞﻓﺍﻮﻘﻟﺍ ﻩﺬﻫ
+{0}</CaravanIdleDesc>
+
+  <ColonistNeedsTreatment>ﺏﻮﻠﻄﻣ ﻲﺒﻄﻟﺍ ﺝﻼﻌﻟﺍ</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>ﻥﻮﺗﻮﻤﻳ ﺪﻗ .ﻲﺒﻃ ﺝﻼﻌﻟ ﺔﺟﺎﺤﺑ ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ
+ﻲﻓ ﻢﻬﺣﻭﺮﺟ ﺐﺒﺴﺘﺗ ﺪﻗ ﻭﺃ ﻢﻬﺣﻭﺮﺟ ﺐﺒﺴﺑ
+.ﺔﻤﺋﺍﺩ ﺕﺎﻗﺎﻋﺇ
+.ﻲﺒﻃ ﺮﻳﺮﺳ ﻰﻟﺇ ﻢﻬﻟﺎﺳﺭﺇ ﻖﻳﺮﻃ ﻦﻋ ﻢﻬﺟﻼﻋ
+ﻖﻳﺮﻃ ﻦﻋ ﻲﺒﻃ ﺮﻳﺮﺳ ﻦﻴﻴﻌﺘﺑ ﻢﻗ ،ﻻﻭﺃ)
+ﺩﺪﺣ ،ﻢﺛ .ﻲﺒﻃ ﺮﻳﺮﺳ ﻰﻟﺇ ﻪﻠﻳﺪﺒﺗﻭ ﻩﺪﻳﺪﺤﺗ
+ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍﻭ ﺏﺎﺼﻤﻟﺍ ﺺﺨﺸﻟﺍ
+(.ﺎﻀﻳﺮﻣ ﻪﻠﻌﺠﻟ ﻲﺒﻄﻟﺍ ﺮﻳﺮﺴﻟﺍ</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDescController>ﺪﻗ ،ﻪﻧﻭﺪﺑ .ﻲﺒﻃ ﺝﻼﻌﻟ ﺔﺟﺎﺤﺑ ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ
+ﺢﺒﺼﺗ ﺪﻗ ﻭﺃ ،ﻢﻬﺣﻭﺮﺟ ﺀﺍﺮﺟ ﻦﻣ ﻥﻮﺗﻮﻤﻳ
+ﻰﻟﺇ ﻢﻬﻟﺎﺳﺭﺇ ﻖﻳﺮﻃ ﻦﻋ ﻢﻬﺟﻼﻌﺑ ﻢﻗn\n{0}\n\ﺔﻤﺋﺍﺩ ﻢﻬﺣﻭﺮﺟ
+ﻦﻣ ﻲﺒﻃ ﺮﻳﺮﺳ ﻦﻴﻴﻌﺘﺑ ﻢﻗ ،ﻻﻭﺃ)n\n\ﻲﺒﻃ ﺮﻳﺮﺳ
+ﻢﻗ ﻢﺛ ،ﻲﺒﻃ ﺮﻳﺮﺴﻛ ﻪﻠﻴﻐﺸﺗﻭ ﻩﺪﻳﺪﺤﺗ ﻝﻼﺧ
+ﺩﺎﻧﺰﻟﺍ ﺭﺯ ﻰﻠﻋ ﻂﻐﺿﺍﻭ ﺏﺎﺼﻤﻟﺍ ﺺﺨﺸﻟﺍ ﺪﻳﺪﺤﺘﺑ
+(.ﺾﻳﺮﻤﻟ ﻪﻠﻳﻮﺤﺘﻟ ﻲﺒﻄﻟﺍ ﺮﻳﺮﺴﻟﺍ ﻰﻠﻋ ﺮﺴﻳﻷﺍ</ColonistNeedsTreatmentDescController>
+
+  <AlertHypothermia>ﺔﻳﺩﺎﻤﺠﻧﻹﺍ</AlertHypothermia>
+  <AlertHypothermiaDesc>ﻦﻣ ﺪﻛﺄﺗ .ﺩﺎﻤﺠﻧﻹﺍ ﻦﻣ ﻥﻮﻧﺎﻌﻳ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﺀﻻﺆﻫ
+ﺔﻘﻠﻐﻤﻟﺍ ﻦﻛﺎﻣﻷﺍ ﺔﺌﻓﺪﺗﻭ ﻞﺼﻔﻠﻟ ﺔﺒﺳﺎﻨﻣ ﺲﺑﻼﻣ ﺀﺍﺪﺗﺭﺍ
+.ﺢﻴﺤﺻ ﻞﻜﺸﺑ</AlertHypothermiaDesc>
+  
+  <PatientsAwaitingMedicalOperation>.ﺔﻴﺒﻃ ﺔﻴﺣﺍﺮﺟ ﺔﻴﻠﻤﻋ ﻥﻭﺮﻈﺘﻨﻳ {0}</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>ﺪﻛﺄﺗ .ﺔﻴﺣﺍﺮﺟ ﺔﻴﻠﻤﻋ ﺭﺎﻈﺘﻧﺍ ﻲﻓ ﻰﺿﺮﻤﻟﺍ ﺀﻻﺆﻫ
+ﺐﻴﺒﻃﻭ ﺔﻣﺯﻼﻟﺍ ﺔﻴﺒﻄﻟﺍ ﺕﺍﻭﺩﻷﺍ ﻊﻴﻤﺟ ﺩﻮﺟﻭ ﻦﻣ
+.ﺡﺎﺘﻣ</PatientsAwaitingMedicalOperationDesc>
+
+  <FireInHomeArea>!ﺭﺎﻧ</FireInHomeArea>
+  <FireInHomeAreaDesc>.ﻝﺰﻨﻤﻟﺍ ﺔﻘﻄﻨﻣ ﻲﻓ ﻖﻳﺮﺣ ﻙﺎﻨﻫ</FireInHomeAreaDesc>
+
+  <PawnsWithLifeThreateningDisease>ﺔﺋﺭﺎﻃ ﺔﻴﺒﻃ ﺔﻟﺎﺣ</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>ﺪﻛﺄﺗ .ﺪﻳﺪﺸﻟﺍ ﺽﺮﻤﻟﺍ ﺐﺒﺴﺑ ﺕﻮﻤﻠﻟ ﺔﺿﺮﻋ ﺱﺎﻨﻟﺍ
+ﻞﻀﻓﻷﺍ ﺔﻴﺒﻄﻟﺍ ﺔﻳﺎﻋﺮﻟﺍ ﻰﻠﻋ ﻥﻮﻠﺼﺤﻳ ﻢﻬﻧﺃ ﻦﻣ
+.ﺔﻨﻜﻤﻤﻟﺍ</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>ﺐﺒﺴﺑ ﺕﻮﻤﻠﻟ ﺹﺎﺨﺷﻷﺍ ﺽﺮﻌﺘﻳ ﻥﺃ ﻦﻜﻤﻤﻟﺍ ﻦﻣ
+ﻭﺃ ﺮﺘﺑ ﻲﻓ ﺮﻜﻔﺗ ﺪﻗ .ﺪﻳﺪﺸﻟﺍ ﺽﺮﻤﻟﺍ
+.ﻥﺎﻜﺴﻟﺍ ﺓﺎﻴﺣ ﻰﻠﻋ ﻅﺎﻔﺤﻠﻟ ﺔﺑﺎﺼﻤﻟﺍ ﻑﺍﺮﻃﻷﺍ ﻝﺍﺪﺒﺘﺳﺍ</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <BilliardsNeedsSpace>ﺔﺣﺎﺴﻣ ﻰﻟﺇ ﻭﺩﺭﺎﻴﻠﺒﻟﺍ ﺝﺎﺘﺤﺗ</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>ﻊﻨﻤﻴﺳ ﻖﺋﺎﻋ ﻰﻟﺇ ﺔﻳﺫﺎﺤﻣ ﻭﺩﺭﺎﻴﻠﺒﻟﺍ ﺕﻻﻭﺎﻃ ﺪﺣﺃ
+.ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻣ ﻥﻮﻄﺷﺎﻨﻟﺍ
+ﺎﻬﻟﻮﺣ ﺔﺤﺿﺍﻭ ﺔﺣﺎﺴﻣ ﻰﻟﺇ ﻭﺩﺭﺎﻴﻠﺒﻟﺍ ﺔﻟﻭﺎﻃ ﺝﺎﺘﺤﺗ
+.ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﻠﺑﺎﻗ ﻥﻮﻜﺘﻟ ﺕﺎﻬﺠﻟﺍ ﻊﻴﻤﺟ ﻦﻣ</BilliardsNeedsSpaceDesc>
+
+  <ChessTablesNeedChairs>ﻲﺳﺍﺮﻛ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ﺞﻧﺮﻄﺸﻟﺍ ﺔﻟﻭﺎﻃ</ChessTablesNeedChairs>
+  <ChessTablesNeedChairsDesc>ﻢﻗn\n\.ﻲﺳﺍﺮﻛ ﻱﻷ ﺓﺭﻭﺎﺠﻣ ﺖﺴﻴﻟ ﺞﻧﺮﻄﺸﻟﺍ ﺕﻻﻭﺎﻃ ﻯﺪﺣﺇ
+ﻊﻴﻄﺘﺴﻴﻟ ﺔﻟﻭﺎﻄﻟﺍ ﺭﺍﻮﺠﺑ ﺪﻋﺎﻘﻣ ﻭﺃ ﻲﺳﺍﺮﻛ ﺀﺎﻨﺒﺑ
+ﻦﻣ ﺞﻧﺮﻄﺸﻟﺍ ﺔﻟﻭﺎﻃ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ .ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ
+.ﺪﺣﺍﻭ ﺖﻗﻭ ﻲﻓ ﻦﻴﺼﺨﺷ ﻞﺒﻗ</ChessTablesNeedChairsDesc>
+
+  <PokerTablesNeedChairs>ﻲﺳﺍﺮﻛ ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﺮﻛﻮﺒﻟﺍ ﺔﻟﻭﺎﻃ</PokerTablesNeedChairs>
+  <PokerTablesNeedChairsDesc>ﻰﻠﻋ ﻱﻮﺘﺤﻳ ﻻ ﻚﻳﺪﻟ ﺮﻛﻮﺒﻟﺍ ﺕﻻﻭﺎﻃ ﺪﺣﺃ
+ﺡﺎﻤﺴﻠﻟ ﺓﺭﻭﺎﺠﻣ ﻲﺳﺍﺮﻛ ﺀﺎﻨﺒﺑ ﻢﻗ .ﺓﺭﻭﺎﺠﻣ ﻲﺳﺍﺮﻛ
+ﺹﺎﺨﺷﺃ ﺔﻴﻧﺎﻤﺜﻟ ﻦﻜﻤﻳ .ﺮﻛﻮﺒﻟﺍ ﺔﻟﻭﺎﻃ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ
+.ﺖﻗﻮﻟﺍ ﺲﻔﻧ ﻲﻓ ﺮﻛﻮﺒﻟﺍ ﺔﻟﻭﺎﻃ ﻡﺍﺪﺨﺘﺳﺍ</PokerTablesNeedChairsDesc>
+
+  <HunterHasShieldAndRangedWeapon>ﻯﺪﻣ ﺡﻼﺳﻭ ﻉﺭﺩ ﻪﻳﺪﻟ ﺩﺎﻴﺼﻟﺍ</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>ﻱﺪﺗﺮﻳﻭ ﺪﻌﺑ ﻦﻋ ﺎﺣﻼﺳ ﻡﺪﺨﺘﺴﻳ ﻚﻳﺪﺋﺎﺻ ﺪﺣﺃ
+.ﺪﻌﺑ ﻦﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻊﻨﻤﻳ ﻉﺭﺩ ﻡﺍﺰﺣ
+ﻢﺘﻳ ﻢﻟ ﺎﻣ ﺪﻴﺼﻟﺍ ﻦﻣ ﻦﻜﻤﺘﻳ ﻦﻟ
+.ﻉﺭﺪﻟﺍ ﺔﻟﺍﺯﺇ</HunterHasShieldAndRangedWeaponDesc>
+
+  <NeedWarmClothes>ﺔﺌﻓﺍﺩ ﺲﺑﻼﻣ ﺝﺎﺘﺣﺃ</NeedWarmClothes>
+  <NeedWarmClothesDesc1>ﻚﻴﻨﻃﻮﺘﺴﻣ ﻦﻣ ﻞﻗﻷﺍ ﻰﻠﻋ {0} ﻯﺪﻟ ﻥﻮﻜﻴﺳ
+ﻞﺼﻓ ﻞﺤﻳ ﺎﻣﺪﻨﻋ ﺔﺌﻓﺍﺪﻟﺍ ﺲﺑﻼﻤﻟﺍ ﻲﻓ ﺺﻘﻧ
+.ﺩﺮﺒﻟﺍ</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>ﺔﺌﻓﺍﺩ ﺲﺑﻼﻣ ﻰﻟﺇ ﻚﻳﺪﻟ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻊﻴﻤﺟ ﺮﻘﺘﻔﻴﺳ
+.ﺩﺮﺒﻟﺍ ﻞﺼﻓ ﻞﺤﻳ ﺎﻣﺪﻨﻋ</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>ﻚﻨﻜﻤﻳn\.{0} ﻰﻟﺇ ﺔﻴﺟﺭﺎﺨﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻞﺼﺗ ﻑﻮﺳ
+ﻭﺃ ،ﺔﻃﺎﻴﺨﻟﺍ ﺔﻃﺮﺨﻣ ﻰﻠﻋ ﺔﺌﻓﺍﺩ ﺲﺑﻼﻣ ﻊﻨﺻ
+.ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺎﻬﺋﺍﺮﺷ</NeedWarmClothesDesc2>
+
+  <ImmobileCaravan>ﻙﺮﺤﺘﻟﺍ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ﺮﻴﻏ ﺔﻠﻓﺎﻘﻟﺍ</ImmobileCaravan>
+  <ImmobileCaravanDesc>ﻙﺮﺤﺘﻟﺍ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ﺮﻴﻏ ﻚﻠﻓﺍﻮﻗ ﻦﻣ ﺓﺪﺣﺍﻭ
+ﺓﺭﺩﺎﻗ ﺔﻠﻓﺎﻘﻟﺍ ﻞﻌﺟ ﻚﻨﻜﻤﻳ .ﺮﻴﺜﻜﻟﺍ ﻞﻤﺤﺗ ﺎﻬﻧﻷ
+ﺺﻠﺨﺘﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﻯﺮﺧﺃ ﺓﺮﻣ ﻙﺮﺤﺘﻟﺍ ﻰﻠﻋ
+.ﺮﺻﺎﻨﻌﻟﺍ ﺾﻌﺑ ﻦﻣ</ImmobileCaravanDesc>
+
+  <BuildingCantBeUsedRoofed>ﻒﻘﺴﻟﺍ ﺐﺒﺴﺑ ﻡﺍﺪﺨﺘﺳﻼﻟ ﻞﺑﺎﻗ ﺮﻴﻏ ﻰﻨﺒﻤﻟﺍ</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofedDesc>ﻦﻜﻤﻳ ﻻ ﻚﻴﻧﺎﺒﻣ ﻦﻣ ﺮﺜﻛﺃ ﻭﺃ ﺪﺣﺍﻭ
+،ﻒﻘﺴﺑ ﺎﻬﺘﻴﻄﻐﺗ ﻢﺘﻳ ﻢﻟ ﺍﺫﺇ ﻻﺇ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ
+ﻞﺑﺎﻗ (ﻲﻧﺎﺒﻤﻟﺍ ﻭﺃ)ﻰﻨﺒﻤﻟﺍ ﻞﻌﺠﻟ ﻒﻘﺴﻟﺍ ﺔﻟﺍﺯﺇ ﺐﺠﻳ
+.ﻡﺍﺪﺨﺘﺳﻼﻟ</BuildingCantBeUsedRoofedDesc>
+
+  <AlertHeatstroke>ﺓﺭﺍﺮﺣ ﺔﺑﺮﺿ</AlertHeatstroke>
+  <AlertHeatstrokeDesc>:ﺓﺭﺍﺮﺤﻟﺍ ﻙﺎﻬﻧﺇ ﻦﻣ ﻥﻮﻧﺎﻌﻳ ﻦﻴﻴﻟﺎﺘﻟﺍ ﺹﺎﺨﺷﻷﺍ
+{0}
+ﺪﻳﺮﺒﺗ ﻚﻨﻜﻤﻳ .ﺩﺮﺑﺃ ﺔﻘﻄﻨﻣ ﻰﻟﺇ ﻢﻬﻠﻘﻨﺑ ﻢﻗ
+ﺕﺎﺣﺎﺴﻤﻟﺍ .ﺔﻴﺋﺎﺑﺮﻬﻛ ﻭﺃ ﺔﻴﺒﻠﺳ ﺕﺍﺩﺮﺒﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻑﺮﻐﻟﺍ
+ﺍﺫﺇ ﺎﻴﻌﻴﺒﻃ ﺓﺩﺭﺎﺑ ﺎﻀﻳﺃ ﺽﺭﻷﺍ ﺖﺤﺗ ﺔﻴﻓﻮﺠﻟﺍ
+.ﺏﺎﺑ ﺔﻄﺳﺍﻮﺑ ﻲﺟﺭﺎﺨﻟﺍ ﺀﺍﻮﻬﻟﺍ ﻦﻋ ﺎﻬﻠﺼﻓ ﻢﺗ</AlertHeatstrokeDesc>
+
+  <QuestPartMoodBelowThreshold>ﺽﺍﺭ ﺮﻴﻏ ﺮﺋﺍﺯ</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThresholdDesc>ﻰﻠﻋ ﻆﻓﺎﺤﺗ ﻥﺃ ﻚﻨﻣ ﺐﻠﻄﺘﺗ {0} ﺔﻤﻬﻤﻟﺍ
+ﻪﺟﺍﺰﻣ ،ﻚﻟﺫ ﻊﻣﻭ .ﺍﺪﻴﺟ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﺝﺍﺰﻣ
+:ﻦﺴﺤﺘﺑ ﺮﻌﺸﻳ ﻪﻠﻌﺠﻟ ﺎﻣ ﺀﺍﺮﺟﺇ ﺬﺨﺗﺍ .ﺀﻲﺳ
+{n\n{1\</QuestPartMoodBelowThresholdDesc>
+  
+  <QuestPartShuttleLeaveDelay>{0} ﻲﻓ ﺭﺩﺎﻐﻴﺳ ﻙﻮﻜﻤﻟﺍ</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelayDesc>ﺖﺴﻳﻮﻜﻟﺍ ﺐﻠﻄﺘﻳ .{1} ﻲﻓ ﻲﺋﺎﻀﻔﻟﺍ ﻙﻮﻜﻤﻟﺍ ﺭﺩﺎﻐﻴﺳ
+ﻞﺒﻗ ﻙﻮﻜﻤﻟﺍ ﻰﻠﻋ {2} :ﻲﻟﺎﺘﻟﺍ ﻞﻴﻤﺤﺗ {0}
+.ﻪﺗﺭﺩﺎﻐﻣ</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDescHidden>.{0} ﻝﻼﺧ ﻲﺋﺎﻀﻔﻟﺍ ﻙﻮﻜﻤﻟﺍ ﺭﺩﺎﻐﻴﺳ</QuestPartShuttleLeaveDelayDescHidden>
+
+  <QuestPartShuttleArriveDelay>{0} ﻲﻓ ﺲﺒﻜﻤﻟﺍ ﻝﻮﺻﻭ</QuestPartShuttleArriveDelay>
+  <QuestPartShuttleArriveDelayDesc>{0} ﺔﻤﻬﻤﻟﺍ ﺐﻠﻄﺘﺗ .{1} ﻲﻓ ﺲﺒﻜﻤﻟﺍ ﻞﺼﻴﺳ
+ﻰﻠﻋ ﺔﻴﻟﺎﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻭﺃ ﺹﺎﺨﺷﻷﺍ ﻞﻴﻤﺤﺗ ﻚﻨﻣ
+{2} :ﺭﺩﺎﻐﻳ ﻥﺃ ﻞﺒﻗ ﺲﺒﻜﻤﻟﺍ</QuestPartShuttleArriveDelayDesc>
+  <QuestPartShuttleArriveDelayDescHidden>.{0} ﻲﻓ ﻙﻮﻜﻤﻟﺍ ﻞﺼﻳ ﻑﻮﺳ</QuestPartShuttleArriveDelayDescHidden>
+
+  <DisallowedBuildingInsideMonument>ﻱﺭﺎﻛﺬﺘﻟﺍ ﺐﺼﻨﻟﺍ ﺮﻴﻣﺪﺗ ﻢﺘﻴﺳ</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonumentDesc>ﻢﻟﺎﻌﻤﻟﺍ ﺪﺣﺃ ﻞﺧﺍﺩ ﺭﻮﻈﺤﻣ ﻰﻨﺒﻣ ﺖﻴﻨﺑ ﺪﻘﻟ
+ﻝﻼﺧ ﺍﺮﻣﺪﻣ ﻢﻠﻌﻤﻟﺍ ﺭﺎﺒﺘﻋﺍ ﻢﺘﻴﺳ .ﻚﺑ ﺔﺻﺎﺨﻟﺍ
+.{0}</DisallowedBuildingInsideMonumentDesc>
+
+  <ActivatorCountdown>{0} ﻲﻟﺯﺎﻨﺘﻟﺍ ﺪﻌﻟﺍ ﻞﻐﺸﻣ</ActivatorCountdown>
+  <ActivatorCountdownDesc>ﻅﺎﻘﻳﻹ ﺪﻌﺘﺴﻳ ،ﺾﻣﻮﻳ ﻲﻟﺯﺎﻨﺘﻟﺍ ﺪﻌﻟﺍ ﺖﻗﺆﻣ ﻙﺎﻨﻫ
+.ﺔﺒﻳﺮﻘﻟﺍ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ</ActivatorCountdownDesc>
+  <ActivatorCountdownMultiple>{0} ﻂﻴﺸﻨﺘﻟﺍ ﺕﺎﺘﻗﺆﻣ</ActivatorCountdownMultiple>
+  <ActivatorCountdownDescMultiple>ﺓﺰﻫﺎﺟ ،ﻞﻤﻌﺗ ﻲﻟﺯﺎﻨﺘﻟﺍ ﺪﻌﻟﺍ ﺕﻼﻐﺸﻣ {0} ﻙﺎﻨﻫ
+.ﺔﺒﻳﺮﻘﻟﺍ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻅﺎﻘﻳﻹ</ActivatorCountdownDescMultiple>
+
+  <QuestExpiresSoon>{0} ﻲﻓ ﻲﻬﺘﻨﺗ ﺔﻤﻬﻤﻟﺍ!</QuestExpiresSoon>
+  <QuestExpiresSoonDesc>.{1} ﻲﻓ "{0}" ﺔﻤﻬﻣ ﻲﻬﺘﻨﺘﺳ</QuestExpiresSoonDesc>
+
+  <AlertAnimalFilth>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺥﺎﺳﻭﺃ</AlertAnimalFilth>
+  <AlertAnimalFilthDesc>ﺔﻴﺿﺭﺃ ﻰﻠﻋ ﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ ﺥﺎﺳﻭﻷﺍ ﺞﺘﻨﻳ ﻥﺍﻮﻴﺣ
+.ﺔﻔﻴﻈﻧ
+ﺪﻨﻋ ﺥﺎﺳﻭﻷﺍ ﻦﻣ ﺓﺮﻴﺒﻛ ﺔﻴﻤﻛ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺞﺘﻨﻳ
+ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺀﺎﻘﺑﺈﺑ ﻢﻗ .ﺔﻳﺩﺎﻌﻟﺍ ﺕﺎﻴﺿﺭﻷﺍ ﻰﻠﻋ ﺎﻬﻛﺮﺤﺗ
+ﺓﺮﻴﺼﺣ ﻰﻠﻋ ﻭﺃ ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﺥﺎﺳﻭﻸﻟ ﺔﺠﺘﻨﻤﻟﺍ
+.ﺥﺎﺳﻭﻷﺍ ﻦﻣ ﺔﻴﻤﻛ ﻞﻗﺃ ﺞﺘﻨﺘﺳ ﺚﻴﺣ ﺶﻗ
+ﻥﺍﻮﻴﺤﻠﻟ ﺥﺎﺳﻭﻷﺍ ﺝﺎﺘﻧﺇ ﻝﺪﻌﻣ ﻦﻣ ﻖﻘﺤﺘﻟﺍ ﻚﻨﻜﻤﻳ
+.'i' ﺭﺰﻟﺍ ﻕﻮﻓ ﺮﻘﻨﻟﺍ ﻝﻼﺧ ﻦﻣ
+:ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻩﺬﻫ ﻊﻣ ﺔﻠﻜﺸﻤﻟﺍ ﻲﻫ ﻩﺬﻫ
+{0}</AlertAnimalFilthDesc>
+
+  <AlertAnimalPenNeeded>ﻢﻠﻗ ﻰﻟﺇ ﺝﺎﺘﺤﺗ</AlertAnimalPenNeeded>
+  <AlertAnimalPenNeededDesc>ﺍﺫﺇ .ﺔﻟﻮﺠﺘﻤﻟﺍ ﻲﻫ ﻚﻳﺪﻟ ﺔﺿﻭﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ
+ﻂﺑﺮﺗ ﻭﺃ ﻒﻳﺭﺎﻈﻣ ﻲﻓ ﺎﻬﺑ ﻆﻔﺘﺤﺗ ﻢﻟ
+.ﺍﺪﻴﻌﺑ ﻝﻮﺠﺘﺗ ﻑﻮﺴﻓ ،ﺔﻠﻓﺎﻘﻟﺍ ﺔﺒﻛﺮﻣ ﻰﻠﻋ ﺔﻄﻘﻨﺑ</AlertAnimalPenNeededDesc>
+  <AlertAnimalPenNeededNoHandlers>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻝﺎﺼﻳﻹ ﻦﻴﺒﻘﻨﻣ ﻱﺃ ﻚﻳﺪﻟ ﺪﺟﻮﻳ ﻻ
+ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ ﺔﻔﻴﻇﻮﺑ ﻦﻃﻮﺘﺴﻣ ﻒﻴﻠﻜﺘﺑ ﻢﻗn\n\.ﺓﺮﻴﻈﺤﻟﺍ ﻰﻟﺇ
+.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</AlertAnimalPenNeededNoHandlers>
+  <AlertAnimalPenNeededDescExplanation>ﺔﻣﻼﻋ ﺀﺎﻨﺑ ﻖﻳﺮﻃ ﻦﻋ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺓﺮﻴﻈﺣ ﺊﺸﻧﺃ
+.ﺰﺟﺍﻮﺣ ﻭﺃ ﺭﻮﺴﺑ ﺔﻃﺎﺤﻣ ﺔﻘﻄﻨﻣ ﻞﺧﺍﺩ ﺓﺮﻴﻈﺤﻟﺍ
+ﺩﺪﻋﻭ ﺔﻟﻮﺒﻘﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﻓﺮﻌﻤﻟ ﺓﺮﻴﻈﺤﻟﺍ ﺔﻣﻼﻋ ﺩﺪﺣ
+.ﺓﺮﻴﻈﺤﻟﺍ ﺎﻬﻤﻋﺪﺗ ﻥﺃ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ
+
+.ﺎﻴﺋﺎﻘﻠﺗ ﺔﻨﻴﻌﻤﻟﺍ ﺓﺮﻴﻈﺤﻟﺎﺑ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻮﺠﻟﺎﻌﻣ ﻂﺑﺮﻴﺳ
+
+ﺡﺎﻤﺴﻠﻟ ﺔﺑﺍﻮﺑ ﻭﺃ ﺏﺎﺑ ﻰﻟﺇ ﺓﺮﻴﻈﺤﻟﺍ ﺝﺎﺘﺤﺗ
+.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻝﻮﺧﺪﺑ</AlertAnimalPenNeededDescExplanation>
+  
+  <AlertAnimalPenNotEnclosed>ﻖﻠﻐﻣ ﺮﻴﻏ ﻢﻠﻘﻟﺍ</AlertAnimalPenNotEnclosed>
+  <AlertAnimalPenNotEnclosedDesc>ﺓﺮﻴﻈﺤﻟﺍ ﺔﻃﺎﺣﺈﺑ ﻢﻗn\n\.ﺔﻘﻠﻐﻣ ﺖﺴﻴﻟ ﻥﺍﻮﻴﺤﻟﺍ ﺓﺮﻴﻈﺣ ﺓﺭﺎﺷﺍﻭ
+ﺏﺍﻮﺑﺃ ﻭﺃ ﻥﺍﺭﺪﺟ ،ﺏﺍﻮﺑﺃ ،ﺰﺟﺍﻮﺣ ،ﺝﺎﻴﺳ ﻡﺍﺪﺨﺘﺳﺎﺑ
+ﻂﻘﻓ ﻚﻳﺪﻟ ﻥﺎﻛ ﺍﺫﺇn\n\.ﺝﻭﺮﺨﻟﺍ ﻦﻣ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻨﻤﻟ
+ﻦﻴﺻﺎﺨﻟﺍ ﻦﻴﺠﻟﺎﻌﻤﻠﻟ ﻦﻜﻤﻳ ،ﺔﻘﻠﻐﻣ ﺮﻴﻏ ﺓﺮﻴﻈﺣ ﺕﺍﺭﺎﺷﺇ
+ﻝﺰﻨﻤﻟﺍ ﻰﻟﺇ ﺔﺴﻟﺎﺠﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺍﻭﺪﻴﻌﻳ ﻥﺃ ﻚﺑ
+ﺓﺮﻣ ﺍﺬﻫ ﻢﺘﻳ ﻥﺃ ﺐﺠﻳ ﻦﻜﻟﻭ -
+ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺝﺮﺨﺗ ﺎﻣﺪﻨﻋ ﺮﺧﻵ ﺖﻗﻭ ﻦﻣ ﻯﺮﺧﺃ
+.ﻯﺮﺧﺃ ﺓﺮﻣ</AlertAnimalPenNotEnclosedDesc>
+
+  <AlertPredatorInAnimalPen>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺓﺮﻴﻈﺣ ﻲﻓ</AlertPredatorInAnimalPen>
+  <AlertPredatorInAnimalPenDesc>ﺪﻗ .ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺓﺮﻴﻈﺣ ﻰﻟﺇ ﺔﻳﺮﺑ ﺕﺎﻧﺍﻮﻴﺣ ﺖﻠﺧﺩ
+ﺭﺎﻈﺘﻧﻻﺍ ﻭﺃ ﺎﻬﻠﺘﻗ ﻚﻨﻜﻤﻳ .ﻚﺗﺎﻧﺍﻮﻴﺣ ﺔﻤﺟﺎﻬﻣ ﺭﺮﻘﺗ
+.ﺭﺩﺎﻐﺗ ﻥﺃ ﻲﻓ ﻞﻣﻷﺍﻭ</AlertPredatorInAnimalPenDesc>
+
+  <AlertAnimalIsRoaming>ﺍﺪﻴﻌﺑ ﻝﻮﺠﺘﻳ ﻥﺍﻮﻴﺤﻟﺍ</AlertAnimalIsRoaming>
+  <AlertAnimalIsRoamingDesc>ﻑﺪﻫ ﻼﺑ ﺏﻮﺠﺗ ﻚﻳﺪﻟ ﺔﺿﻭﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ
+ﻢﻬﻧﺈﻓ ،ﺔﻄﻳﺮﺨﻟﺍ ﺔﻓﺎﺤﻟ ﺍﻮﻠﺻﻭ ﺍﺫﺇ .ﻝﺍﻮﺠﺘﻟﺎﺑ ﺕﺃﺪﺑﻭ
+.ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﻥﻭﺭﺩﺎﻐﻴﺳ
+ﻦﻜﻤﻳ ،ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺔﻘﻠﻐﻣ ﺓﺮﻴﻈﺣ ﻚﻳﺪﻟ ﻥﺎﻛ ﺍﺫﺇ
+ﺓﺮﻴﻈﺤﻟﺍ ﻲﻓ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ .ﺍﺩﺪﺠﻣ ﺎﻬﺗﺩﺎﻋﺇ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺓﺎﻋﺮﻟ
+.ﻝﻮﺠﺘﺗ ﻦﻟ
+:ﻝﻮﺠﺘﺗ ﺔﻴﻟﺎﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ
+{0}</AlertAnimalIsRoamingDesc>
+
+  <AlertPennedAnimalHungry>ﺺﻔﻘﻟﺍ ﻲﻓ ﺔﻌﺋﺎﺟ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</AlertPennedAnimalHungry>
+  <AlertPennedAnimalHungryDesc>ﺩﺪﺣ .ﺔﻌﺋﺎﺟ ﺎﻬﺴﺒﺣ ﻢﺗ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ
+ﻦﻣ ﺪﻳﺰﻤﻠﻟ ﻡﺎﻌﻄﻟﺍ ﺔﻣﻼﻋ ﻡﺪﺨﺘﺳﺍﻭ ﺺﻔﻘﻟﺍ ﺔﻣﻼﻋ
+ﺐﺸﻌﻟﺍ ﻞﻛﺄﺗ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺝﺎﺘﺤﺗ ﺪﻗ .ﻞﻴﺻﺎﻔﺘﻟﺍ
+ﻦﻣ ﺔﻴﻓﺎﻛ ﺔﻴﻤﻛ ﺮﻓﻮﻳ ﺮﺒﻛﺃ ﺺﻔﻗ ﻰﻟﺇ
+ﺮﻴﻓﻮﺗ ﻰﻟﺇ ﻯﺮﺧﻷﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺝﺎﺘﺤﻳ ﺪﻗ .ﺐﺸﻌﻟﺍ
+.ﻥﺰﺨﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻞﺛﺎﻤﻣ ﻡﺎﻌﻃ ﻭﺃ ﺶﻘﻟﺍ ﺕﺎﺒﻧ
+{0} :ﺔﻌﺋﺎﺟ ﺎﻬﺴﺒﺣ ﻢﺗ ﻲﺘﻟﺍ ﺔﻴﻟﺎﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</AlertPennedAnimalHungryDesc>
+
+  <AlertHitchedAnimalHungryNoFood>ﺔﻓﺎﺤﻟﺍ ﻲﻓ ﻖﻠﻌﻣ ﻊﺋﺎﺟ ﻥﺍﻮﻴﺣ</AlertHitchedAnimalHungryNoFood>
+  <AlertHitchedAnimalHungryNoFoodDesc>.ﺔﻌﺋﺎﺟ ﺕﺎﻧﺍﻮﻴﺤﻟﺎﺑ ﺔﻄﺒﺗﺮﻤﻟﺍ ﻦﻛﺎﻣﻷﺎﺑ ﺔﻃﻮﺑﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ
+ﻲﻓ ﺐﺳﺎﻨﻣ ﻡﺎﻌﻃ ﻙﺎﻨﻫ ﻥﻮﻜﻳ ﻻ ﺪﻗ
+ﻝﺯﺍ ﻭﺃ ﻢﻬﻟ ﻡﺎﻌﻃ ﺭﺎﻀﺣﺈﺑ ﻢﻗ .ﺎﻬﻟﻭﺎﻨﺘﻣ
+ﺭﻮﺜﻌﻟﺍ ﻦﻣ ﺍﻮﻨﻜﻤﺘﻳ ﻰﺘﺣ ﻢﻬﺑ ﻂﺒﺗﺮﻤﻟﺍ ﻥﺎﻜﻤﻟﺍ
+{n\n{0\:ﺔﻌﺋﺎﺟ ﺔﻴﻟﺎﺘﻟﺍ ﺔﻃﻮﺑﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍn\n\.ﻢﻬﺴﻔﻧﺄﺑ ﻡﺎﻌﻄﻟﺍ ﻰﻠﻋ</AlertHitchedAnimalHungryNoFoodDesc>
+
+  <AlertTimedRaidsArrivingIn>{0} ﻲﻓ ﺕﺍﺀﺍﺪﺘﻋﻻﺍ ﻝﻮﺻﻭ</AlertTimedRaidsArrivingIn>
+  <AlertTimedRaidsArrivingInDesc>ﻥﻭﺃﺪﺒﻴﺳﻭ ﺔﻴﻟﺎﺘﻟﺍ ﻊﻗﺍﻮﻤﻟﺍ ﻰﻟﺇ ﺀﺍﺪﻋﻷﺍ ﺏﺬﺟ ﻢﺗ
+.ﺎﺒﻳﺮﻗ ﺓﻮﻘﺑ ﻝﻮﺻﻮﻟﺍ ﻲﻓ
+
+{0}</AlertTimedRaidsArrivingInDesc>
+  <AlertTimedRaidsArrivingAt>{1} ﻲﻓ {0} ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ</AlertTimedRaidsArrivingAt>
+
+  <FactionWillBecomeHostileIfNotLeavingWithin>.ﺎﻨﻫ ﺖﻴﻘﺑ ﺍﺫﺇ ﺔﻳﺩﺎﻌﻣ ﺢﺒﺼﺘﺳ ﺔﻋﺎﻤﺠﻟﺍ</FactionWillBecomeHostileIfNotLeavingWithin>
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>ﺓﺮﺘﻔﻟ ﺕﺭﺮﻤﺘﺳﺍ ﺍﺫﺇ ﺔﻳﺩﺎﻌﻣ ﺢﺒﺼﺘﺳ ﺕﺎﻋﺎﻤﺠﻟﺍ ﻩﺬﻫ
+{0} :ﻢﻫﺬﻔﻨﻣ ﻭﺃ ﻢﻬﺘﻨﻃﻮﺘﺴﻣ ﻲﻓ ﺔﻠﻳﻮﻃ</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+
+  <AlertMinifiedTreeAboutToDie>ﺭﺎﺠﺷﺃ {0} ﺕﻮﻣ</AlertMinifiedTreeAboutToDie>
+  <AlertMinifiedTreeAboutToDieDesc>ﻞﻗﺃ ﻲﻓ ﺔﺟﺮﺨﺘﺴﻤﻟﺍ ﺭﺎﺠﺷﻷﺍ {0} ﺕﻮﻤﻳ ﻑﻮﺳ
+ﺮﻴﻏ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺾﻌﺑ ﻞﻌﺠﻴﺳ ﺍﺬﻫ .ﻡﻮﻳ ﻦﻣ
+.ﻢﻬﺗﺍﺪﻘﺘﻌﻣ ﺐﺒﺴﺑ ﺀﺍﺪﻌﺳ
+
+ﺔﻋﺍﺭﺯ ﺓﺩﺎﻋﺇ ﻖﻳﺮﻃ ﻦﻋ ﻚﻟﺫ ﻊﻨﻣ ﻚﻨﻜﻤﻳ
+.ﺭﺎﺠﺷﻷﺍ ﻩﺬﻫ</AlertMinifiedTreeAboutToDieDesc>
+
+  <NeedResearchBench>ﺚﺤﺒﻟﺍ ﺪﻌﻘﻣ ﻰﻟﺇ ﺝﺎﺘﺣﺃ</NeedResearchBench>
+  <NeedResearchBenchDesc>ﺍﺬﻫ ﺐﻠﻄﺘﻳ ."{0}" ﻂﺸﻧ ﺚﺤﺑ ﻉﻭﺮﺸﻣ ﻚﻳﺪﻟ
+.{1} ﺀﺎﻨﺑ ﻉﻭﺮﺸﻤﻟﺍ</NeedResearchBenchDesc>
+  
+</LanguageData>
