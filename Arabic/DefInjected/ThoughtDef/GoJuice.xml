@@ -1,0 +1,18 @@
+<LanguageData>
+  
+  
+  
+  <GoJuiceHigh.stages.high_on_gojuice.label>Go ﺓﻮﻘﺑ</GoJuiceHigh.stages.high_on_gojuice.label>
+  
+  <GoJuiceHigh.stages.high_on_gojuice.description>ﺖﻗﻮﻟﺍ ﺲﻔﻧ ﻲﻓ ﻦﻜﻟ ،ﺝﻮﻓ ﻲﻓ ﺎﻧﺃ
+ﺔﺻﺎﺻﺮﻟﺎﻛ ﺎﻧﺃ .{ﺔﺋﺩﺎﻫ : ﺉﺩﺎﻫ ? PAWN_gender}
+.ﻑﺪﻬﻟﺍ ﻮﺤﻧ ﻪﺠﺘﺗ ،ﺹﺎﻨﻘﻟﺍ</GoJuiceHigh.stages.high_on_gojuice.description>
+  
+  
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.label>Go-juice ﻰﻠﻋ ﻥﺎﻣﺩﻹﺍ</GoJuiceWithdrawal.stages.gojuice_withdrawal.label>
+  
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.description>.ﺔﻴﺑﺎﺒﻀﻟﺎﺑ ﺮﻌﺷﺃ ،ﺡﻮﺿﻮﺑ ﺮﻴﻜﻔﺘﻟﺍ ﻰﻠﻋ ﺍﺭﺩﺎﻗ ﺖﺴﻟ
+،ﻲﻗﺎﺳ ﻲﻓ ﻒﻌﻀﻟﺎﺑ ﺮﻌﺷﺃﻭ ،ﺓﻮﻘﻟﺍ ﻱﺪﻟ ﺲﻴﻟ
+!ﺀﻲﺷ ﻞﻛ ﻲﻓ ﻢﻟﺃﻭ ﻉﻮﺠﻟﺎﺑ ﺮﻌﺷﺃﻭ</GoJuiceWithdrawal.stages.gojuice_withdrawal.description>
+  
+</LanguageData>
