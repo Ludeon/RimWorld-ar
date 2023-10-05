@@ -1,0 +1,88 @@
+<LanguageData>
+  
+  
+  <Cat.label>ﺔﻄﻗ</Cat.label>
+  
+  <Cat.description>- ﻂﻄﻘﻟﺍ ، ﻰﻟﻭﻷﺍ ﺔﻔﻴﻟﻷﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ
+ﻰﻠﻋ .ﺔﻔﻠﺘﺨﻤﻟﺍ ﺕﺎﻓﻵﺍ ﺩﺎﻄﺼﺗ ﺓﺮﻴﻐﺻ ﺔﻴﻳﺪﺛ ﺕﺎﻧﺍﻮﻴﺣ
+ﻻﺇ ، ﺎﻬﻳﺪﻟ ﺓﺰﻴﻤﻤﻟﺍ ﺓﻻﺎﺒﻣﻼﻟﺍ ﻦﻣ ﻢﻏﺮﻟﺍ
+ﺎﻬﺋﻭﺪﻫ ﺐﺒﺴﺑ ﺍﺪﺟ ﺔﻌﺋﺎﺷ ﻝﺍﺰﺗ ﻻ ﺎﻬﻧﺃ
+.ﺲﻤﻠﻟ ﻊﺘﻤﻤﻟﺍﻭ ﻢﻋﺎﻨﻟﺍ ﺎﻫﻭﺮﻓﻭ ﺎﻬﺘﻴﻟﻼﻘﺘﺳﺍﻭ</Cat.description>
+  
+  <Cat.tools.left_claw.label>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</Cat.tools.left_claw.label>
+  
+  <Cat.tools.right_claw.label>ﻦﻤﻳﻷﺍ ﻒﻜﻟﺍ</Cat.tools.right_claw.label>
+  
+  <Cat.tools.head.label>ﺱﺃﺮﻟﺍ</Cat.tools.head.label>
+  
+  
+  <GuineaPig.label>ﺔﻳﺮﺤﺒﻟﺍ ﺀﺎﺴﻔﻨﺨﻟﺍ</GuineaPig.label>
+  
+  <GuineaPig.description>ﻢﺘﻳ .ﺮﺤﺒﻟﺎﺑ ﺔﻗﻼﻋ ﻪﻟ ﻻﻭ ﺍﺮﻳﺰﻨﺧ ﺲﻴﻟ
+ﺭﺪﺼﻣﻭ ﻒﻴﻟﺃ ﻥﺍﻮﻴﺤﻛ ﺮﻴﻐﺼﻟﺍ ﺽﺭﺎﻘﻟﺍ ﺍﺬﻫ ﺔﻴﺑﺮﺗ
+.ﻱﺬﻐﻤﻟﺍ ﻢﺤﻠﻟ</GuineaPig.description>
+  
+  <GuineaPig.tools.left_claw.label>ﺮﺴﻳﻷﺍ ﺬﺨﻔﻟﺍ</GuineaPig.tools.left_claw.label>
+  
+  <GuineaPig.tools.right_claw.label>ﻦﻤﻳﻷﺍ ﻒﻜﻟﺍ</GuineaPig.tools.right_claw.label>
+  
+  <GuineaPig.tools.head.label>ﺱﺃﺮﻟﺍ</GuineaPig.tools.head.label>
+  
+  
+  <Husky.label>ﻲﻜﺳﺎﻫ</Husky.label>
+  
+  <Husky.description>ﺀﺍﺮﻓ ﺕﺍﺫ ﺏﻼﻜﻟﺍ ﻦﻣ ﺔﻄﻴﺸﻧﻭ ﺓﺮﻴﺒﻛ ﺔﻟﻼﺳ
+ﻑﻭﺮﻈﻟﺍ ﻲﻓ ﻰﺘﺣ ﺔﺣﺍﺮﻟﺎﺑ ﺮﻌﺸﻳ ﻲﻜﺳﺎﻬﻟﺍ .ﻒﻴﺜﻛ
+.ﺔﻴﺒﻄﻘﻟﺍ</Husky.description>
+  
+  <Husky.tools.left_claw.label>ﺮﺴﻳﻷﺍ ﻒﻜﻟﺍ</Husky.tools.left_claw.label>
+  
+  <Husky.tools.right_claw.label>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ</Husky.tools.right_claw.label>
+  
+  <Husky.tools.head.label>ﺱﺃﺭ</Husky.tools.head.label>
+  
+  
+  <LabradorRetriever.label>ﺮﻔﻳﺮﺘﻳﺭ ﺭﻭﺩﺍﺮﺑﻻ</LabradorRetriever.label>
+  
+  <LabradorRetriever.description>ﺔﻟﻼﺴﻟﺍ ﺍﺬﻫ ﺖﻴﺑﺮﺗ ﻢﺗ .ﻢﺠﺤﻟﺍ ﻂﺳﻮﺘﻣ ﺐﻠﻛ
+ﺭﻭﺮﻣ ﻊﻣ ﻦﻜﻟﻭ ﺭﻮﻴﻄﻟﺍ ﺪﻴﺼﻟ ﺔﻳﺍﺪﺒﻟﺍ ﻲﻓ
+.ﺍﺪﺟ ﺺﻠﺨﻣ ﻖﻳﺪﺻ .ﺱﺭﺎﺤﻛ ﺔﻣﺪﺨﺘﺴﻣ ﺖﺤﺒﺻﺃ ﺖﻗﻮﻟﺍ</LabradorRetriever.description>
+  
+  <LabradorRetriever.tools.left_claw.label>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</LabradorRetriever.tools.left_claw.label>
+  
+  <LabradorRetriever.tools.right_claw.label>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ</LabradorRetriever.tools.right_claw.label>
+  
+  <LabradorRetriever.tools.head.label>ﺱﺃﺮﻟﺍ</LabradorRetriever.tools.head.label>
+  
+  
+  <Monkey.label>ﺩﺮﻘﻟﺍ</Monkey.label>
+  
+  <Monkey.description>ﺎﻤﻣ ،ﻥﺎﺼﻏﻷﺎﺑ ﻖﻠﻌﺘﻠﻟ ﻲﻨﺤﻨﻤﻟﺍ ﺎﻬﻠﻳﺫ ﻡﺪﺨﺘﺴﺗ ﺩﻭﺮﻘﻟﺍ
+ﺭﻮﻣﺃ ﻲﻓ ﺎﻬﻳﺪﻳﺃ ﻡﺍﺪﺨﺘﺳﺍ ﺔﻳﺮﺣ ﺎﻬﻟ ﺢﻴﺘﻳ
+ﺔﻴﻛﺫ ﺎﻬﻨﻜﻟﻭ ،ﺔﻴﻧﺎﻧﻷﺍ ﺓﺪﻳﺪﺷ ﺎﻬﺘﻌﻴﺒﻃ ﺩﻭﺮﻘﻟﺍ .ﻯﺮﺧﺃ
+.ﺓﺪﻘﻌﻣ ﻡﺎﻬﻣ ﺬﻴﻔﻨﺗ ﻊﻴﻄﺘﺴﺗﻭ</Monkey.description>
+  
+  <Monkey.tools.left_fist.label>.ﻯﺮﺴﻴﻟﺍ ﺔﻀﺒﻘﻟﺍ</Monkey.tools.left_fist.label>
+  
+  <Monkey.tools.right_fist.label>ﻰﻨﻤﻴﻟﺍ ﺔﻀﺒﻘﻟﺍ</Monkey.tools.right_fist.label>
+  
+  <Monkey.tools.head.label>.ﺱﺃﺮﻟﺍ</Monkey.tools.head.label>
+  
+  
+  <YorkshireTerrier.label>ﺮﻳﺮﻴﺗ ﺮﻳﺎﺸﻛﺭﻮﻳ</YorkshireTerrier.label>
+  
+  <YorkshireTerrier.description>ﻞﺻﻷﺍ ﻲﻓ ﺎﻬﺘﻴﺑﺮﺗ ﻢﺗ .ﺉﺩﺎﻫﻭ ﺮﻴﻐﺻ ﺐﻠﻛ
+ﺔﻔﻴﻟﺃ ﺕﺎﻧﺍﻮﻴﺣ ﺪﻌﺑ ﺎﻤﻴﻓ ﺖﺤﺒﺻﺃﻭ ،ﻥﺍﺮﺌﻔﻟﺍ ﺩﺎﻴﻄﺻﻻ
+ﻦﻳﺮﻴﺜﻜﻠﻟ ﻦﻜﻟﻭ ،ﻯﻭﺪﺠﻟﺍ ﺔﻤﻳﺪﻋ ﺾﻌﺒﻟﺍ ﺎﻫﺮﺒﺘﻌﻳ .ﺔﻳﺭﻮﻜﻳﺩﻭ
+ﺩﻮﻬﺠﻟﺍ ﻕﻮﻔﺗ ﺔﻟﻼﺴﻟﺍ ﻩﺬﻫ ﻊﻣ ﻞﺻﺍﻮﺘﻟﺍ ﺔﺣﺮﻓ
+.ﺎﻬﺘﻳﺎﻋﺮﺑ ﺔﻘﻠﻌﺘﻤﻟﺍ</YorkshireTerrier.description>
+  
+  <YorkshireTerrier.tools.left_claw.label>.ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</YorkshireTerrier.tools.left_claw.label>
+  
+  <YorkshireTerrier.tools.right_claw.label>ﻦﻤﻳﻷﺍ ﻒﻜﻟﺍ</YorkshireTerrier.tools.right_claw.label>
+  
+  <YorkshireTerrier.tools.cute_little_teeth.label>ﺔﻠﻴﻤﺠﻟﺍ ﺓﺮﻴﻐﺼﻟﺍ ﻥﺎﻨﺳﻷﺍ</YorkshireTerrier.tools.cute_little_teeth.label>
+  
+  <YorkshireTerrier.tools.head.label>ﺱﺃﺮﻟﺍ</YorkshireTerrier.tools.head.label>
+  
+</LanguageData>
