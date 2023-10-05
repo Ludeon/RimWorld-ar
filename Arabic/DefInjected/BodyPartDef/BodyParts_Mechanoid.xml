@@ -1,0 +1,84 @@
+<LanguageData>
+  
+  
+  <ArtificialBrain.label>ﻲﻋﺎﻨﻄﺻﻻﺍ ﻍﺎﻣﺪﻟﺍ</ArtificialBrain.label>
+  
+  
+  <Blade.label>ﻦﻴﻜﺴﻟﺍ</Blade.label>
+  
+  
+  <FluidReprocessor.label>ﺔﻳﻮﻣﺪﻟﺍ ﺓﺭﻭﺪﻟﺍ ﺞﻟﺎﻌﻣ</FluidReprocessor.label>
+  
+  
+  <HearingSensor.label>ﺕﻮﺼﻟﺍ ﺮﻌﺸﺘﺴﻣ</HearingSensor.label>
+  
+  
+  <MechanicalArm.label>ﺪﻴﻟﺍ</MechanicalArm.label>
+  
+  
+  <MechanicalCentipedeBodyFifthRing.label>ﻢﺴﺠﻟﺍ ﻦﻣ ﺔﺴﻣﺎﺨﻟﺍ ﺔﻘﻠﺤﻟﺍ</MechanicalCentipedeBodyFifthRing.label>
+  
+  <MechanicalCentipedeBodyFifthRing.labelShort>ﻢﺴﺠﻟﺍ ﻢﺗﺎﺧ</MechanicalCentipedeBodyFifthRing.labelShort>
+  
+  
+  <MechanicalCentipedeBodyFirstRing.label>ﻢﺴﺠﻟﺍ ﻦﻣ ﻰﻟﻭﻷﺍ ﺔﻘﻠﺤﻟﺍ</MechanicalCentipedeBodyFirstRing.label>
+  
+  <MechanicalCentipedeBodyFirstRing.labelShort>ﻢﺴﺠﻟﺍ ﺔﻘﻠﺣ</MechanicalCentipedeBodyFirstRing.labelShort>
+  
+  
+  <MechanicalCentipedeBodyFourthRing.label>ﻢﺴﺠﻟﺍ ﻦﻣ ﺔﻌﺑﺍﺮﻟﺍ ﺔﻘﻠﺤﻟﺍ</MechanicalCentipedeBodyFourthRing.label>
+  
+  <MechanicalCentipedeBodyFourthRing.labelShort>ﻢﺴﺠﻟﺍ ﻢﺗﺎﺧ</MechanicalCentipedeBodyFourthRing.labelShort>
+  
+  
+  <MechanicalCentipedeBodySecondRing.label>ﻢﺴﺠﻟﺍ ﻦﻣ ﺔﻴﻧﺎﺜﻟﺍ ﺔﻘﻠﺤﻟﺍ</MechanicalCentipedeBodySecondRing.label>
+  
+  <MechanicalCentipedeBodySecondRing.labelShort>ﺪﺴﺠﻟﺍ ﺔﻘﻠﺣ</MechanicalCentipedeBodySecondRing.labelShort>
+  
+  
+  <MechanicalCentipedeBodySixthRing.label>ﻢﺴﺠﻟﺍ ﻦﻣ ﺔﺳﺩﺎﺴﻟﺍ ﺔﻘﻠﺤﻟﺍ</MechanicalCentipedeBodySixthRing.label>
+  
+  <MechanicalCentipedeBodySixthRing.labelShort>ﺪﺴﺠﻟﺍ ﻢﺗﺎﺧ</MechanicalCentipedeBodySixthRing.labelShort>
+  
+  
+  <MechanicalCentipedeBodyThirdRing.label>ﻢﺴﺠﻟﺍ ﻦﻣ ﺔﺜﻟﺎﺜﻟﺍ ﺔﻘﻠﺤﻟﺍ</MechanicalCentipedeBodyThirdRing.label>
+  
+  <MechanicalCentipedeBodyThirdRing.labelShort>ﻢﺴﺠﻟﺍ ﺔﻘﻠﺣ</MechanicalCentipedeBodyThirdRing.labelShort>
+  
+  
+  <MechanicalFinger.label>ﻊﺒﺻﺇ</MechanicalFinger.label>
+  
+  
+  <MechanicalFoot.label>ﻡﺪﻗ</MechanicalFoot.label>
+  
+  
+  <MechanicalHand.label>ﺓﺎﺷﺮﻓ</MechanicalHand.label>
+  
+  
+  <MechanicalHead.label>ﺱﺃﺮﻟﺍ</MechanicalHead.label>
+  
+  
+  <MechanicalLeg.label>ﻕﺎﺴﻟﺍ</MechanicalLeg.label>
+  
+  
+  <MechanicalNeck.label>ﺔﺒﻗﺮﻟﺍ</MechanicalNeck.label>
+  
+  
+  <MechanicalShoulder.label>ﻒﺘﻜﻟﺍ</MechanicalShoulder.label>
+  
+  
+  <MechanicalThorax.label>ﻱﺭﺪﺼﻟﺍ ﺺﻔﻘﻟﺍ</MechanicalThorax.label>
+  
+  
+  <MechanicalThoraxCanManipulate.label>ﻱﺭﺪﺼﻟﺍ ﺺﻔﻘﻟﺍ</MechanicalThoraxCanManipulate.label>
+  
+  
+  <Reactor.label>ﻞﻋﺎﻔﻤﻟﺍ</Reactor.label>
+  
+  
+  <SightSensor.label>ﻱﺮﺼﺑ ﺮﻌﺸﺘﺴﻣ</SightSensor.label>
+  
+  
+  <SmellSensor.label>ﻲﺋﺎﻴﻤﻴﻛ ﺮﻌﺸﺘﺴﻣ</SmellSensor.label>
+  
+</LanguageData>
