@@ -1,0 +1,133 @@
+<LanguageData>
+  
+  
+  <OutlanderCivil.label>ﻲﻤﻠﺴﻟﺍ ﺐﻧﺎﺟﻷﺍ ﺩﺎﺤﺗﺍ</OutlanderCivil.label>
+  
+  <OutlanderCivil.description>ﻭﺃ ﺩﻮﻘﻋ ﺬﻨﻣ ﺎﻨﻫ ﻥﻮﺸﻴﻌﻳ ﺱﺎﻨﻟﺍ ﺀﻻﺆﻫ
+ﺎﻨﻫ ﻢﻬﺑ ﺖﺗﺃ ﻲﺘﻟﺍ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻢﻈﻌﻣ .ﻥﻭﺮﻗ
+ﺔﻴﻜﻴﻧﺎﻜﻴﻣ ﺕﺍﻭﺩﺃ ﺎﺒﻟﺎﻏ ﻥﻮﻣﺪﺨﺘﺴﻳ .ﻦﻣﺯ ﺬﻨﻣ ﺖﻋﺎﺿ
+.ﺔﻣﺪﻘﺘﻣ ﺔﻳﺭﺎﻧ ﺔﺤﻠﺳﺄﺑ ﻢﻬﺴﻔﻧﺃ ﻦﻋ ﻥﻮﻌﻓﺍﺪﻳﻭ ،ﺔﻄﻴﺴﺑ
+
+.ﺀﺎﻘﺒﻟﺍﻭ ﺔﻘﺜﻟﺍ ،ﺓﺭﺎﺠﺘﻟﺍ ﻮﻫ ﻢﻬﻣﺎﻤﺘﻫﺍ ﻝﺎﺠﻣ
+
+ﺔﻤﻴﻗ ﻭﺫ ﻲﻧﺪﻤﻟﺍ ﻞﺻﺍﻮﺘﻟﺍ ﺮﺒﺘﻌﺗ ﺔﻗﺮﻔﻟﺍ ﻩﺬﻫ
+.ﺔﻴﻟﺎﻋ</OutlanderCivil.description>
+  
+  <OutlanderCivil.leaderTitle>ﻰﻠﻋﻷﺍ ﺭﺎﺸﺘﺴﻤﻟﺍ</OutlanderCivil.leaderTitle>
+  
+  <OutlanderCivil.pawnSingular>ﻲﺒﻨﺟﺃ</OutlanderCivil.pawnSingular>
+  
+  <OutlanderCivil.pawnsPlural>ﺐﻧﺎﺟﻷﺍ</OutlanderCivil.pawnsPlural>
+  
+  
+  <OutlanderRough.label>ﻲﺑﺮﺤﻟﺍ ﺐﻧﺎﺟﻷﺍ ﺩﺎﺤﺗﺍ</OutlanderRough.label>
+  
+  <OutlanderRough.description>.ﻥﻭﺮﻗ ﻭﺃ ﺩﻮﻘﻌﻟ ﺎﻨﻫ ﺍﻮﺷﺎﻋ ﺱﺎﻨﻟﺍ ﺀﻻﺆﻫ
+ﺎﻨﻫ ﻰﻟﺇ ﻢﻬﺘﺒﻠﺟ ﻲﺘﻟﺍ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ
+ﺔﻴﻜﻴﻧﺎﻜﻴﻣ ﺕﺍﻭﺩﺃ ﺎﺒﻟﺎﻏ ﻥﻮﻣﺪﺨﺘﺴﻳ .ﻦﻣﺯ ﺬﻨﻣ ﺖﻋﺎﺿ
+ﺔﻳﺭﺎﻧ ﺔﺤﻠﺳﺄﺑ ﻢﻬﺴﻔﻧﺃ ﻥﻮﻤﺤﻳﻭ ،ﻢﻬﻠﻤﻋ ﻲﻓ ﺔﻄﻴﺴﺑ
+.ﺔﻣﺪﻘﺘﻣ
+
+ﻰﻠﻋ ﺀﺎﻘﺒﻟﺍﻭ ﺔﻘﺜﻟﺍ ،ﺓﺭﺎﺠﺘﻟﺍ ﻮﻫ ﻢﻬﺗﺎﻣﺎﻤﺘﻫﺍ ﻝﺎﺠﻣ
+.ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ
+
+.ﺔﻳﺮﺑﺮﺒﻠﻟ ﺔﻟﺎﻴﻣﻭ ﺔﺑﺭﺎﺤﻣ ﺔﻠﻴﺼﻔﻟﺍ ﻩﺬﻫ</OutlanderRough.description>
+  
+  <OutlanderRough.leaderTitle>ﻰﻠﻋﻷﺍ ﺭﺎﺸﺘﺴﻤﻟﺍ</OutlanderRough.leaderTitle>
+  
+  <OutlanderRough.pawnSingular>ﻲﺒﻨﺟﺃ</OutlanderRough.pawnSingular>
+  
+  <OutlanderRough.pawnsPlural>ﺐﻧﺎﺟﻷﺍ</OutlanderRough.pawnsPlural>
+  
+  
+  <Pirate.label>ﺔﻨﺻﺍﺮﻘﻟﺍ ﺔﺑﺎﺼﻋ</Pirate.label>
+  
+  <Pirate.description>ﻰﻠﻋ ﺖﻘﻔﺗﺍ ﻲﺘﻟﺍ ﺔﻴﺠﻄﻠﺒﻟﺍ ﺕﺎﺑﺎﺼﻌﻟﺍ ﻦﻣ ﺩﺎﺤﺗﺍ
+.ﺎﻬﻀﻌﺑ ﺪﺿ ﺏﺮﺤﻟﺍ ﻦﻣ ﻻﺪﺑ ﻊﻴﻤﺠﻟﺍ ﺔﻤﺟﺎﻬﻣ
+ﻥﻮﻟﻭﺍﺪﺘﻳ ﻭﺃ ﻥﻮﻨﺒﻳ ﻻﻭ ﻥﻮﻋﺭﺰﻳ ﻻ ﺔﻨﺻﺍﺮﻘﻟﺍ
+ﺓﻮﻘﻟﺍ ﻥﻭﺮﺒﺘﻌﻳﻭ "ﻑﺮﺸﻟﺍﻭ ﻡﺪﻟﺍ" ﺉﺩﺎﺒﻣ ﻥﻮﻌﺒﺘﻳ .ﻡﺎﻈﺘﻧﺎﺑ
+ﺕﺎﻤﺠﻬﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﻥﻭﺮﺜﻳ ،ﺔﻗﻮﻣﺮﻣ ﺕﺎﻔﺻ ﺓﻮﺴﻘﻟﺍﻭ
+ﻢﻬﺘﻴﻨﻘﺗ ﻯﻮﺘﺴﻣ .ﺔﻴﺟﺎﺘﻧﺇ ﺮﺜﻛﻷﺍ ﻢﻬﻧﺍﺮﻴﺟ ﻦﻣ ﺐﻬﻨﻟﺍﻭ
+ﺍﺮﺧﺆﻣ ﺍﻮﻋﺎﻄﺘﺳﺍ ﻦﻣ ﻰﻠﻋ ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﺪﻤﺘﻌﻳ
+،ﺔﻳﺭﺎﻧ ﺔﺤﻠﺳﺃ ﻦﻣ ﺎﺳﺎﺳﺃ ﻥﻮﻜﺘﺗ ﻢﻬﺗﺍﺰﻴﻬﺠﺗ .ﻪﺒﻬﻧ
+ﻝﺎﺘﻘﻟﺍ ﻲﻓ ﻢﻫﺎﻳﺎﺤﺿ ﻞﺘﻗ ﻞﻀﻔﻳ ﻢﻬﻀﻌﺑ ﻦﻜﻟﻭ
+.ﺮﺷﺎﺒﻤﻟﺍ</Pirate.description>
+  
+  <Pirate.leaderTitle>ﻢﻴﻋﺰﻟﺍ</Pirate.leaderTitle>
+  
+  <Pirate.pawnSingular>ﻥﺎﺻﺮﻗ</Pirate.pawnSingular>
+  
+  <Pirate.pawnsPlural>ﺔﻨﺻﺍﺮﻘﻟﺍ</Pirate.pawnsPlural>
+  
+  
+  <TribeCivil.label>ﺔﻴﻤﻠﺴﻟﺍ ﺔﻠﻴﺒﻘﻟﺍ</TribeCivil.label>
+  
+  <TribeCivil.description>.ﻞﻳﻮﻃ ﻦﻣﺯ ﺬﻨﻣ ﺐﻛﻮﻜﻟﺍ ﺹﺎﺨﺷﻻﺍ ﺀﻻﺆﻫ ﻦﻜﺳ
+،ﻦﻴﻨﺴﻟﺍ ﻑﻻﺍ ﺬﻨﻣ ﺎﻨﻫ ﻢﻫﺩﺍﺪﺟﺃ ﻢﻄﺤﺗ ﺎﻤﺑﺭ
+ﺓﺭﺎﻀﺣ ﺕﺮﻣﺩ ،ﺔﺛﺭﺎﻛ ﻦﻣ ﺍﻮﺠﻧ ﺎﻤﺑﺭ ﻭﺃ
+ﺓﺎﻴﺣ ﻦﻴﻴﻠﺻﻷﺍ ﻥﺎﻜﺴﻟﺍ ﺮﺜﻛﺃ ﺶﻴﻌﻳ .ﺎﻣﺪﻘﺗ ﺮﺜﻛﺃ
+.ﺔﻴﺋﺍﺪﺑ ﻞﻤﻋ ﺕﺍﻭﺩﺃﻭ ﺔﺤﻠﺳﺃ ﻥﻮﻣﺪﺨﺘﺴﻳ ،ﺔﻳﻭﺪﺑ
+
+ﻥﻮﻜﻳ ﻥﺍ ﻦﻜﻤﻳ ،ﺢﺿﺍﻮﻟﺍ ﻲﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻒﻠﺨﺘﻟﺍ ﻢﻏﺮﺑ
+ﻞﻀﻔﺑ ،ﻦﻴﻤﻴﻗ ﺀﺎﻔﻠﺣ ﻭﺃ ﺍﺮﻄﺧ ﺮﺑﺮﺒﻟﺍ ﺀﻻﺆﻫ
+.ﺔﻴﺋﺍﺪﺒﻟﺍ ﺔﺤﻠﺳﻷﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻲﻓ ﻢﻬﺗﺍﺭﺎﻬﻣﻭ ﻢﻫﺩﺪﻋﻭ ﻢﻬﻠﻤﺤﺗ
+
+ﻊﻣ ﺔﻴﻤﻠﺳ ﺕﺎﻗﻼﻋ ﺀﺎﻨﺑ ﺔﻠﻴﺒﻘﻟﺍ ﺍﺬﻫ ﻞﻀﻔﻳ
+ﻡﺍﺮﺑﺇﻭ ﺓﺭﺎﺠﺘﻠﻟ ﻦﻴﺣﻮﺘﻔﻣ ﻢﻫ .ﻦﻜﻤﻳ ﻦﻣ ﻞﻛ
+.ﺔﺒﻳﺮﻐﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻊﻣ ﻰﺘﺣ ﺀﺎﻔﻠﺤﻟﺍ</TribeCivil.description>
+  
+  <TribeCivil.leaderTitle>ﻢﻴﻋﺰﻟﺍ</TribeCivil.leaderTitle>
+  
+  <TribeCivil.pawnSingular>ﻞﻴﺻﺃ</TribeCivil.pawnSingular>
+  
+  <TribeCivil.pawnsPlural>ﻦﻴﻴﻠﺻﻷﺍ ﻥﺎﻜﺴﻟﺍ</TribeCivil.pawnsPlural>
+  
+  
+  <TribeRough.label>ﺔﻴﺑﺮﺤﻟﺍ ﺔﻠﻴﺒﻘﻟﺍ</TribeRough.label>
+  
+  <TribeRough.description>ﺓﺮﺘﻓ ﺬﻨﻣ ﺐﻛﻮﻜﻟﺍ ﻰﻠﻋ ﻥﻮﺸﻴﻌﻳ ﺱﺎﻨﻟﺍ ﺀﻻﺆﻫ
+ﻑﻻﺁ ﺬﻨﻣ ﺎﻨﻫ ﺍﻮﻤﻄﺤﺗ ﺎﻤﺑﺭ ﻢﻫﺩﺍﺪﺟﺃ .ﺔﻠﻳﻮﻃ
+ﺕﺮﻣﺩ ﺔﺛﺭﺎﻛ ﻦﻣ ﺍﻮﺠﻧ ﺎﻤﺑﺭ ﻭﺃ ﻦﻴﻨﺴﻟﺍ
+ﺶﻴﻌﻳ ، ﺮﻈﻨﻟﺍ ﺾﻐﺑﻭ .ﺎﻣﺪﻘﺗ ﺮﺜﻛﻷﺍ ﺓﺭﺎﻀﺤﻟﺍ
+ﺔﺤﻠﺳﺄﺑ ﻞﺣﺭ ﺓﺎﻴﺣ ﻂﻤﻧ ﻦﻴﻴﻠﺻﻷﺍ ﻥﺎﻜﺴﻟﺍ ﻢﻈﻌﻣ
+.ﻞﻤﻋ ﺕﺍﻭﺩﺃﻭ ﺔﻴﺋﺍﺪﺑ
+
+ﻥﺃ ﻦﻜﻤﻳ ،ﺢﺿﺍﻮﻟﺍ ﻲﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻒﻠﺨﺘﻟﺍ ﻦﻣ ﻢﻏﺮﻟﺎﺑ
+ﺐﺒﺴﺑ ﺎﻤﻴﻗ ﺎﻔﻴﻠﺣ ﻭﺃ ﺍﺮﻄﺧ ﺮﺑﺮﺒﻟﺍ ﻥﻮﻜﻳ
+ﺔﺤﻠﺳﻷﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ ﻲﻓ ﻢﻬﺗﺍﺭﺎﻬﻣﻭ ﺩﺪﻋﻭ ﻢﻬﺘﺑﻼﺻ
+.ﺔﻴﺋﺍﺪﺒﻟﺍ
+
+.ﺔﻳﺮﻜﺴﻌﻟﺍ ﺔﻨﻤﻴﻬﻟﺍﻭ ﻡﺎﺨﻟﺍ ﺓﻮﻘﻟﺍ ﻡﺮﺘﺤﺗ ﺔﻠﻴﺒﻘﻟﺍ ﺍﺬﻫ
+.ﻢﻬﻌﻗﻮﻣ ﺐﺴﻛ ﺐﻌﺼﻟﺍ ﻦﻣ ﻥﻮﻜﺘﺳ</TribeRough.description>
+  
+  <TribeRough.leaderTitle>ﻢﻴﻋﺰﻟﺍ</TribeRough.leaderTitle>
+  
+  <TribeRough.pawnSingular>ﻲﻠﺻﻷﺍ</TribeRough.pawnSingular>
+  
+  <TribeRough.pawnsPlural>ﻦﻴﻴﻠﺻﻷﺍ ﻥﺎﻜﺴﻟﺍ</TribeRough.pawnsPlural>
+  
+  
+  <TribeSavage.label>ﺮﺑﺮﺒﻟﺍ ﺔﻠﻴﺒﻗ</TribeSavage.label>
+  
+  <TribeSavage.description>ﺬﻨﻣ ﺐﻛﻮﻜﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﺍﻮﺷﺎﻋ ﺱﺎﻨﻟﺍ ﺀﻻﺆﻫ
+ﺬﻨﻣ ﺎﻨﻫ ﻢﻫﺩﺍﺪﺟﺃ ﻢﻄﺤﺗ ﺎﻤﺑﺭ .ﻞﻳﻮﻃ ﺖﻗﻭ
+ﺔﺛﺭﺎﻛ ﻦﻣ ﺍﻮﺠﻧ ﺎﻤﺑﺭ ﻭﺃ .ﻦﻴﻨﺴﻟﺍ ﻑﻻﺁ
+ﻦﻋ ﺮﻈﻨﻟﺍ ﺾﻐﺑ .ﺎﻣﺪﻘﺗ ﺮﺜﻛﺃ ﺓﺭﺎﻀﺣ ﺖﻤﻄﺣ
+ﻝﻮﺠﺘﻣ ﺓﺎﻴﺣ ﻂﻤﻧ ﻦﻴﻴﻠﺻﻷﺍ ﻢﻈﻌﻣ ﺮﺒﺘﻌﻳ ,ﻚﻟﺫ
+.ﺔﻳﻭﺪﻴﻟﺍ ﺕﺍﻭﺩﻷﺍﻭ ﺔﻴﺋﺍﺪﺒﻟﺍ ﺔﺤﻠﺳﻷﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ
+
+ﺮﺑﺮﺒﻟﺍ ﻥﻮﻜﻳ ﺪﻗ ،ﺢﺿﺍﻮﻟﺍ ﻲﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻒﻠﺨﺘﻟﺍ ﻢﻏﺭ
+ﻲﻓ ﻢﻬﺗﺭﺎﻬﻣﻭ ﻢﻫﺩﺍﺪﻋﺃﻭ ﻢﻬﺗﻮﻗ ﻞﻀﻔﺑ ﻦﻳﺮﻄﺧ ﺎﻣﻮﺼﺧ
+.ﺔﻴﺋﺍﺪﺒﻟﺍ ﺔﺤﻠﺳﻷﺍ ﻡﺍﺪﺨﺘﺳﺍ
+
+ﻂﻘﻓ ﻢﻬﺘﻓﺎﻘﺛ ﻲﻓ ﻑﺮﺸﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻳ
+ﻥﺃ ﻞﻴﺤﺘﺴﻤﻟﺍ ﻦﻣ .ﻭﺪﻌﻟﺍ ﺀﺎﻣﺩ ﻝﻼﺧ ﻦﻣ
+!ﻢﻬﻟ ﺎﻔﻴﻠﺣ ﺢﺒﺼﺗ</TribeSavage.description>
+  
+  <TribeSavage.leaderTitle>ﻢﻴﻋﺰﻟﺍ</TribeSavage.leaderTitle>
+  
+  <TribeSavage.pawnSingular>ﻲﻠﺻﻷﺍ</TribeSavage.pawnSingular>
+  
+  <TribeSavage.pawnsPlural>ﻦﻴﻴﻠﺻﻷﺍ ﻥﺎﻜﺴﻟﺍ</TribeSavage.pawnsPlural>
+  
+</LanguageData>
