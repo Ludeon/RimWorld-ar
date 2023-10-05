@@ -1,0 +1,66 @@
+<LanguageData>
+  
+  
+  <CenterDrop.textEnemy>ﺓﺮﺷﺎﺒﻣ ﻥﻮﻄﺒﻬﻳ {1} ﻞﻴﺼﻓ ﻦﻣ {0} ﺀﺍﺪﻋﺃ
+!ﻚﺘﻨﻃﻮﺘﺴﻣ ﻰﻠﻋ</CenterDrop.textEnemy>
+  
+  <CenterDrop.textFriendly>ﺓﺮﺷﺎﺒﻣ ﻥﻮﻄﺒﻬﻳ {1} ﻞﻴﺼﻔﻟﺍ ﻦﻣ {0} ﺀﺎﻗﺪﺻﻷﺍ
+!ﻚﺘﻨﻃﻮﺘﺴﻣ ﻰﻠﻋ</CenterDrop.textFriendly>
+  
+  <CenterDrop.textWillArrive>{0_pawnsPluralDef} ﻚﺘﻨﻃﻮﺘﺴﻣ ﻰﻠﻋ ﺓﺮﺷﺎﺒﻣ ﺕﻻﻮﺴﺒﻜﻟﺍ ﻲﻓ ﻥﻮﻟﺰﻨﻳ.</CenterDrop.textWillArrive>
+  
+  
+  <EdgeDrop.textEnemy>ﺏﺮﻘﻟﺎﺑ ﻥﻮﻄﺒﻬﻳ {1} ﺔﻠﻴﺼﻓ ﻦﻣ {0} ﺀﺍﺪﻋﺃ
+.ﻝﺍﺰﻧﻹﺍ ﺹﺍﺮﻗﺃ ﻦﻣ</EdgeDrop.textEnemy>
+  
+  <EdgeDrop.textFriendly>ﺏﺮﻘﻟﺎﺑ ﻥﻮﻄﺒﻬﻳ {1} ﺔﻠﻴﺼﻓ ﻦﻣ {0} ﺀﺎﻗﺪﺻﻷﺍ
+.ﺕﻻﻮﺴﺒﻛ ﻲﻓ</EdgeDrop.textFriendly>
+  
+  <EdgeDrop.textWillArrive>{0_pawnsPluralDef} ﺕﻻﻮﺴﺒﻜﻟﺍ ﻲﻓ ﻥﻮﻄﺒﻬﻳ.</EdgeDrop.textWillArrive>
+  
+  
+  <EdgeDropGroups.textEnemy>ﻲﻓ ﻥﻮﻄﺒﻬﻳ {1} ﻞﻴﺼﻓ ﻦﻣ {0} ﺀﺍﺪﻋﺃ
+.ﺕﻻﻮﺴﺒﻜﻟﺍ ﻲﻓ ﻚﻨﻣ ﺏﺮﻘﻟﺎﺑ ﺕﺎﻋﻮﻤﺠﻣ ﺓﺪﻋ</EdgeDropGroups.textEnemy>
+  
+  <EdgeDropGroups.textFriendly>ﻦﻣ ﻥﻭﺰﻔﻘﻴﺳ {1} ﻞﻴﺼﻔﻟﺍ ﻦﻣ {0} ﺀﺎﻗﺪﺻﻷﺍ
+.ﺓﺪﻋ ﺕﺎﻋﻮﻤﺠﻣ ﻲﻓ ﺏﺮﻘﻟﺎﺑ ﺔﻴﺋﺎﻀﻔﻟﺍ ﻦﻔﺴﻟﺍ</EdgeDropGroups.textFriendly>
+  
+  <EdgeDropGroups.textWillArrive>{0_pawnsPluralDef} ﺕﻻﻮﺴﺒﻜﻟﺍ ﻲﻓ ﺓﺩﺪﻌﺘﻣ ﺕﺎﻋﻮﻤﺠﻣ ﻲﻓ ﻥﻮﻟﺰﻨﻳ.</EdgeDropGroups.textWillArrive>
+  
+  
+  <EdgeWalkIn.textEnemy>ﺎﻌﻗﻮﻣ ﺍﻮﻣﺎﻗﺃ {1} ﺔﻠﻴﺼﻓ ﻦﻣ {0} ﺀﺍﺪﻋﺃ
+.ﺎﺒﻳﺮﻗ</EdgeWalkIn.textEnemy>
+  
+  <EdgeWalkIn.textFriendly>ﺍﻭﺮﻘﺘﺳﺍ ﺪﻗ {1} ﻞﻴﺼﻔﻟﺍ ﻦﻣ ﻦﻳﺩﻭﺩﻮﻟﺍ {0}
+.ﺔﺒﻳﺮﻘﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ</EdgeWalkIn.textFriendly>
+  
+  <EdgeWalkIn.textWillArrive>{pawnsPluralDef_0} ﻞﺼﻳ ﻑﻮﺳ</EdgeWalkIn.textWillArrive>
+  
+  
+  <EdgeWalkInGroups.textEnemy>ﻦﻣ ﻥﻮﺑﺮﺘﻘﻳ {1} ﺔﻠﻴﺼﻓ ﻦﻣ {0} ﺀﺍﺪﻋﺃ
+.ﺕﺎﻬﺠﻟﺍ ﻞﻛ</EdgeWalkInGroups.textEnemy>
+  
+  <EdgeWalkInGroups.textFriendly>ﻦﻣ ﻥﻮﺑﺮﺘﻘﻳ {1} ﻞﻴﺼﻔﻟﺍ ﻦﻣ {0} ﺀﺎﻗﺪﺻﻷﺍ
+.ﺔﻔﻠﺘﺨﻤﻟﺍ ﺕﺎﻬﺠﻟﺍ</EdgeWalkInGroups.textFriendly>
+  
+  <EdgeWalkInGroups.textWillArrive>{0_pawnsPluralDef} ﻊﻴﻤﺟ ﻦﻣ ﺖﻗﻮﻟﺍ ﺲﻔﻧ ﻲﻓ ﻥﻮﺑﺮﺘﻘﻴﺳ
+ﺕﺎﻬﺠﻟﺍ.</EdgeWalkInGroups.textWillArrive>
+  
+  
+  <MechClusterDrop.textEnemy>.ﺐﻳﺮﻗ ﻥﺎﻜﻣ ﻲﻓ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻊﻤﺠﺗ ﺹﺍﺮﻗﺃ ﻂﺒﻬﺘﺳ</MechClusterDrop.textEnemy>
+  
+  <MechClusterDrop.textWillArrive>.ﺔﻴﻋﺎﻨﺼﻟﺍ ﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺭﺎﻤﻗﺃ ﻂﺒﻬﺘﺳ</MechClusterDrop.textWillArrive>
+  
+  
+  <RandomDrop.textEnemy>ﻭﺪﺒﻳ .{1} ﺔﻗﺮﻔﻟﺍ ﻦﻣ {0} ﺀﺍﺪﻋﺃ ﻂﺒﻬﻳ
+ﻢﻫﻭ ،ﻢﻬﻠﻘﻧ ﺕﻻﻮﺴﺒﻛ ﻲﻓ ﻼﻠﺧ ﻙﺎﻨﻫ ﻥﺃ
+!ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺎﻴﺋﺍﻮﺸﻋ ﻥﻮﻄﺒﻬﻳ</RandomDrop.textEnemy>
+  
+  <RandomDrop.textFriendly>ﻭﺪﺒﻳ .{1} ﺔﻠﻴﺼﻓ ﻦﻣ ﻥﻮﻳﺩﻮﻟﺍ {0} ﻂﺒﻬﻳ
+ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻛ ﻰﻠﻋ ﺃﺮﻃ ﻼﻠﺧ ﻙﺎﻨﻫ ﻥﺃ
+ﻱﺃ ﻲﻓ ﻥﻮﻄﺒﻬﻳ ﻥﻵﺍ ﻢﻫﻭ ،ﻢﻬﺑ ﺔﺻﺎﺨﻟﺍ
+!ﻥﺎﻜﻣ</RandomDrop.textFriendly>
+  
+  <RandomDrop.textWillArrive>.ﺕﻻﻮﺴﺒﻜﻟﺍ ﻲﻓ {pawnsPluralDef_0} ﻂﺒﻬﻳ</RandomDrop.textWillArrive>
+  
+</LanguageData>
