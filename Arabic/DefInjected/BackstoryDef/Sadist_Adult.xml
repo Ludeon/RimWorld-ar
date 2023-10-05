@@ -1,0 +1,20 @@
+ï»؟<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Unquenchable ambition propelled [PAWN_nameDef] to the highest levels of military command.\n\n[PAWN_pronoun] satisfied [PAWN_objective]self with the power to order death and pain upon [PAWN_possessive] enemies - and upon [PAWN_possessive] own soldiers. -->
+  <ArmyCommander14.baseDesc>ذ‌ذµرƒر‚ذ¾ذ»ذ¸ذ¼ر‹ذµ ذ°ذ¼ذ±ذ¸ر†ذ¸ذ¸ ذ؟ذ¾ذ¼ذ¾ذ³ذ»ذ¸ {PAWN_nameDef} ذ´ذ¾ذ±ذ¸ر‚رŒرپرڈ ذ²ر‹رپذ¾ذ؛ذ¾ذ³ذ¾ ذ·ذ²ذ°ذ½ذ¸رڈ ذ² ذ°ر€ذ¼ذ¸ذ¸.\n\n{PAWN_pronoun} {PAWN_gender ? رƒذ؟ذ¸ذ²ذ°ذ»رپرڈ : رƒذ؟ذ¸ذ²ذ°ذ»ذ°رپرŒ} رپذ²ذ¾ذµذ¹ ذ²ذ»ذ°رپر‚رŒرژ, ذ½ذµرپرƒر‰ذµذ¹ رپذ¼ذµر€ر‚رŒ ذ¸ رپر‚ر€ذ°ذ´ذ°ذ½ذ¸رڈ ذ؟ر€ذ¾ر‚ذ¸ذ²ذ½ذ¸ذ؛رƒ... ذ¸ {PAWN_possessive} رپذ¾ذ±رپر‚ذ²ذµذ½ذ½ر‹ذ¼ رپذ¾ذ»ذ´ذ°ر‚ذ°ذ¼.</ArmyCommander14.baseDesc>
+  <!-- EN: Army commander -->
+  <ArmyCommander14.title>ذ؛ذ¾ذ¼ذ°ذ½ذ´رƒرژر‰ذ¸ذ¹ ذ°ر€ذ¼ذ¸ذµذ¹</ArmyCommander14.title>
+  <ArmyCommander14.titleFemale>ذ؛ذ¾ذ¼ذ°ذ½ذ´رƒرژر‰ذ°رڈ ذ°ر€ذ¼ذ¸ذµذ¹</ArmyCommander14.titleFemale>
+  <!-- EN: Commander -->
+  <ArmyCommander14.titleShort>ذ³ذµذ½ذµر€ذ°ذ»</ArmyCommander14.titleShort>
+  
+  <!-- EN: Seeking to satiate an unconscious thirst for power, [PAWN_nameDef] entered government. [PAWN_pronoun] rose through the ranks by ruining the careers of those around [PAWN_objective].\n\nOnce established, [PAWN_possessive] bureaucratic fief allowed [PAWN_objective] to get away with severe moral transgressions. -->
+  <DepartmentHead61.baseDesc>ذ،ر‚ر€ذµذ¼رڈرپرŒ رƒذ´ذ¾ذ²ذ»ذµر‚ذ²ذ¾ر€ذ¸ر‚رŒ ذ؟ذ¾ذ´رپذ¾ذ·ذ½ذ°ر‚ذµذ»رŒذ½رƒرژ ذ¶ذ°ذ¶ذ´رƒ ذ²ذ»ذ°رپر‚ذ¸, {PAWN_nameDef} {PAWN_gender ? ذ؟ذ¾رˆر‘ذ» : ذ؟ذ¾رˆذ»ذ°} ذ² ذ؟ذ¾ذ»ذ¸ر‚ذ¸ذ؛رƒ. {PAWN_pronoun} {PAWN_gender ? ذ؟ذ¾ذ»رƒر‡ذ°ذ» : ذ؟ذ¾ذ»رƒر‡ذ°ذ»ذ°} ر‡ذ¸ذ½ ذ·ذ° ر‡ذ¸ذ½ذ¾ذ¼, ر€ذ°ذ·ر€رƒرˆذ°رڈ ذ؛ذ°ر€رŒذµر€ر‹ ذ¸ ذ¶ذ¸ذ·ذ½ذ¸ ر‚ذµر…, ذ؛ر‚ذ¾ ذ¾ذ؛ر€رƒذ¶ذ°ذ» {PAWN_objective}.\n\nذگ ذ´ذ¾ر€ذ²ذ°ذ²رˆذ¸رپرŒ ذ´ذ¾ ذ²ذ»ذ°رپر‚ذ¸, {PAWN_nameDef} {PAWN_gender ? ذ؟ذ¾ذ»رƒر‡ذ¸ذ» : ذ؟ذ¾ذ»رƒر‡ذ¸ذ»ذ°} ذµر‰ر‘ ذ¸ ذ²ذ¾ذ·ذ¼ذ¾ذ¶ذ½ذ¾رپر‚رŒ, ذ؟ر€ذ¸ ذ؟ذ¾ذ¼ذ¾ر‰ذ¸ {PAWN_possessive} ذ±رژر€ذ¾ذ؛ر€ذ°ر‚ذ¸ر‡ذµرپذ؛ذ¾ذ¹ ذ²ذ¾ر‚ر‡ذ¸ذ½ر‹, ذ¸ذ·ذ±ذµذ³ذ°ر‚رŒ ذ¾ر‚ذ²ذµر‚رپر‚ذ²ذµذ½ذ½ذ¾رپر‚ذ¸ ذ·ذ° رپذ²ذ¾ذ¸ ذ·ذ»ذ¾ذ´ذµرڈذ½ذ¸رڈ.</DepartmentHead61.baseDesc>
+  <!-- EN: Department head -->
+  <DepartmentHead61.title>ذ³ذ»ذ°ذ²ذ° ذ؟ر€ذ°ذ²ذ¸ر‚ذµذ»رŒرپر‚ذ²ذ°</DepartmentHead61.title>
+  <!-- EN: Boss -->
+  <DepartmentHead61.titleShort>ذ½ذ°ر‡ذ°ذ»رŒذ½ذ¸ذ؛</DepartmentHead61.titleShort>
+  <DepartmentHead61.titleShortFemale>ذ½ذ°ر‡ذ°ذ»رŒذ½ذ¸ر†ذ°</DepartmentHead61.titleShortFemale>
+  
+</LanguageData>
