@@ -1,0 +1,85 @@
+<LanguageData>
+  
+  
+  
+  
+  <AteCorpse.stages.ate_corpse.label>ﺔﺜﺠﻟﺍ ﻞﻛﺃ</AteCorpse.stages.ate_corpse.label>
+  
+  <AteCorpse.stages.ate_corpse.description>،ﺰﻬﺠﻤﻟﺍ ﺮﻴﻏ ﺀﻲﻨﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ ﻢﺤﻟ ﻞﻛﻷ ﺕﺭﺮﻄﺿﺍ
+.ﺎﺒﻴﻫﺭ ﺍﺬﻫ ﻥﺎﻛ .ﻥﺍﻮﻴﺣ ﻲﻨﻧﺄﻛ</AteCorpse.stages.ate_corpse.description>
+  
+  
+  <AteFineMeal.stages.ate_fine_meal.label>ﺬﻳﺬﻠﻟﺍ {ﻖﺒﻄﻟﺍ : ﻖﺒﻄﻟﺍ ? PAWN_gender} ﻞﻛﺃ</AteFineMeal.stages.ate_fine_meal.label>
+  
+  <AteFineMeal.stages.ate_fine_meal.description>!ﺬﻳﺬﻟ .ﺎﻘﺣ ﺍﺬﻳﺬﻟ ﻚﻟﺫ ﻥﺎﻛ</AteFineMeal.stages.ate_fine_meal.description>
+  
+  
+  <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>ﻡﺎﻌﻄﻟﺍ {ﺖﻟﻭﺎﻨﺗ : ﻡﺎﻌﻄﻟﺍ ? PAWN_gender} ﻝﻭﺎﻨﺗ
+ﻱﺮﺸﺒﻟﺍ ﻢﺤﻠﻟﺍ ﻦﻣ ﻉﻮﻨﺼﻤﻟﺍ</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>
+  
+  <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>ﺎﻘﺒﻃ {ﺖﻠﻛﺃ : ﺖﻠﻛﺃ ? PAWN_gender} ﺎﻧﺃ
+!ﻉﻭﺮﻣ ﺍﺬﻫ .ﻥﺎﺴﻧﻹﺍ ﻢﺤﻟ ﻦﻣ ﺍﺮﻀﺤﻣ</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>
+  
+  
+  <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>ﻱﻮﺘﺤﻳ ﺎﻘﺒﻃ { : ? PAWN_gender} ﻞﻛﺃ
+ﻥﺎﺴﻧﻹﺍ ﻢﺤﻟ ﻰﻠﻋ</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>
+  
+  <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>ﻂﻘﻓ ﺪﻘﺘﻔﻳ !ﺍﺪﺟ ﺬﻳﺬﻟ ﻱﺮﺸﺒﻟﺍ ﻢﺤﻠﻟﺍ ﻖﺒﻃ
+ﻲﺘﻧﺎﻴﻛ ﻦﻣ ﺱﺄﻛﻭ ﻲﺒﻧﺎﺟ ﻖﺒﻄﻛ ﺀﻻﺯﺎﺒﻟﺍ ﻰﻟﺇ
+.ﺪﻴﺠﻟﺍ</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>
+  
+  
+  <AteHumanlikeMeatDirect.stages.raw_cannibalism.label>ﻢﺤﻟ {ﻡﺎﺨﻟﺍ : ﻡﺎﺨﻟﺍ ? PAWN_gender} ﻞﻛﺃ
+ﺮﺸﺒﻟﺍ</AteHumanlikeMeatDirect.stages.raw_cannibalism.label>
+  
+  <AteHumanlikeMeatDirect.stages.raw_cannibalism.description>.ﺶﺣﻮﻟﺍ ﻞﺜﻣ .ﺊﻴﻨﻟﺍ ﻥﺎﺴﻧﻹﺍ ﻢﺤﻟ ﻞﻛﻷ ﺕﺭﺮﻄﺿﺍ
+!ﺱﻮﺑﺎﻛ ﻦﻣ ﻪﻟ ﺎﻳ</AteHumanlikeMeatDirect.stages.raw_cannibalism.description>
+  
+  
+  <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>{PAWN_gender ? ﻥﺎﺴﻧﻹﺍ ﻢﺤﻟ {ﺖﻠﻛﺃ : ﻞﻛﺃ
+ﻡﺎﺨﻟﺍ</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>
+  
+  <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>ﻲﻨﻧﺄﻛ .ﺊﻴﻨﻟﺍ ﻥﺎﺴﻧﻹﺍ ﻢﺤﻟ ﻕﻭﺬﺗ ﻦﻣ ﺖﻨﻜﻤﺗ
+.ﺔﻳﺮﻃ ... ﺖﻧﺎﻛ !ﺶﺣﻭ</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>
+  
+  
+  <AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>{PAWN_gender ? ﻱﻮﺘﺤﻳ ﺎﻘﺒﻃ {ﺖﻠﻛﺃ : ﻞﻛﺃ
+ﺕﺍﺮﺸﺣ ﻢﺤﻟ ﻰﻠﻋ</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>
+  
+  <AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>{ﺔﺒﺟﻭ : ﺔﺒﺟﻭ ? PAWN_gender} ﺖﻟﻭﺎﻨﺗ ﺪﻘﻟ
+ﺕﺍﺭﺎﻬﺒﻟﺍ .ﺲﻠﻣﺃﻭ ﺐﻃﺭ ﺓﺮﺸﺣ ﻢﺤﻟ ﻦﻣ ﺔﻋﻮﻨﺼﻣ
+ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﺖﻧﺎﻛ ﺎﻬﻨﻜﻟﻭ ،ﻢﻌﻄﻟﺍ ﻦﻴﺴﺤﺗ ﺖﻟﻭﺎﺣ
+.ﺔﺒﻳﺮﻏ ﻞﺋﺍﻮﺳﻭ ﺔﻓﻭﺮﻌﻣ ﺮﻴﻏ ﺀﺎﻀﻋﺃ</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>
+  
+  
+  <AteInsectMeatDirect.stages.ate_insect_meat.label>ﺓﺮﺸﺣ ﻢﺤﻟ { : ? PAWN_gender} ﻞﻛﺃ</AteInsectMeatDirect.stages.ate_insect_meat.label>
+  
+  <AteInsectMeatDirect.stages.ate_insect_meat.description>ﺐﻃﺮﻟﺍ ﺕﺍﺮﺸﺤﻟﺍ ﻢﺤﻟ ﻞﻛﺁ ﻥﺃ ﻲﻠﻋ ﻥﺎﻛ
+ﻲﻓ ﺎﻓﺮﻗ ﺮﺜﻛﻷﺍ ﻡﺎﻌﻄﻟﺍ ﺎﻤﺑﺭ ﺖﻧﺎﻛ .ﻱﺩﺎﻣﺮﻟﺍ
+.ﻲﺗﺎﻴﺣ</AteInsectMeatDirect.stages.ate_insect_meat.description>
+  
+  
+  <AteKibble.stages.ate_kibble.label>{PAWN_gender ? ﺐﻛﺮﻣ ﻒﻠﻋ {ﺖﻠﻛﺃ : ﻞﻛﺃ</AteKibble.stages.ate_kibble.label>
+  
+  <AteKibble.stages.ate_kibble.description>ﺪﻋﺃ ﻢﻟ ﻲﻨﻧﺄﻛ ، ﻒﻠﻌﻟﺍ ﻞﻛﻷ ﺕﺭﺮﻄﺿﺍ
+.ﺎﻧﺎﺴﻧﺇ ﺮﺒﺘﻋﺃ</AteKibble.stages.ate_kibble.description>
+  
+  
+  <AteLavishMeal.stages.ate_lavish_meal.label>ﺓﺮﺧﺎﻓ ﺔﺒﺟﻭ {: ? PAWN_gender} ﻞﻛﺃ</AteLavishMeal.stages.ate_lavish_meal.label>
+  
+  <AteLavishMeal.stages.ate_lavish_meal.description>ﺍﺬﻫ !ﺎﻘﺣ ﺎﺸﻫﺪﻣﻭ ﺍﺮﺧﺎﻓ ﻖﺒﻄﻟﺍ ﺍﺬﻫ ﻥﺎﻛ
+.ﺡﻭﺮﻟﺍﻭ ﻢﺴﺠﻟﺍ ﻱﺬﻐﻳ ﻡﺎﻌﻄﻟﺍ ﻦﻣ ﻉﻮﻨﻟﺍ</AteLavishMeal.stages.ate_lavish_meal.description>
+  
+  
+  <AteRawFood.stages.ate_raw_food.label>.ﻡﺎﺨﻟﺍ {ﺀﺍﺬﻐﻟﺍ : ﺀﺍﺬﻐﻟﺍ ? PAWN_gender} ﻝﻭﺎﻨﺗ</AteRawFood.stages.ate_raw_food.label>
+  
+  <AteRawFood.stages.ate_raw_food.description>ﺎﻬﺨﺒﻃ ﺎﻨﻨﻜﻤﻳ ﺎﻨﺴﻟﺃ .ﻡﺎﺨﻟﺍ ﺕﺎﺠﺘﻨﻤﻟﺍ ﻝﻭﺎﻨﺘﻟ ﺕﺭﺮﻄﺿﺍ
+؟ﻲﺋﺍﺬﻏ ﻥﻮﺠﻌﻣ ﺪﻴﻟﻮﺗ ﻰﺘﺣ ﻭﺃ</AteRawFood.stages.ate_raw_food.description>
+  
+  
+  <AteRottenFood.stages.ate_rotten_food.label>{PAWN_gender ? ﺍﺪﺳﺎﻓ ﺎﻣﺎﻌﻃ {ﺖﻠﻛﺃ : ﻞﻛﺃ</AteRottenFood.stages.ate_rotten_food.label>
+  
+  <AteRottenFood.stages.ate_rotten_food.description>ﻲﻓ ﺏﻭﺬﻳ ﻥﺎﻛ ،ﺪﺳﺎﻓ ﻡﺎﻌﻃ ﻞﻛﻷ ﺕﺭﺮﻄﺿﺍ
+.ﺀﻲﺳ ﻰﻨﻌﻤﺑ ... ﻲﻤﻓ</AteRottenFood.stages.ate_rotten_food.description>
+  
+</LanguageData>
