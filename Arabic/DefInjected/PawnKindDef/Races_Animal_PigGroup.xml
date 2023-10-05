@@ -1,0 +1,59 @@
+<LanguageData>
+  
+  
+  <Chinchilla.label>ﻼﻴﺸﻨﻴﺷ</Chinchilla.label>
+  <Chinchilla.labelPlural>ﻼﻴﺸﻨﺷ</Chinchilla.labelPlural>
+  <Chinchilla.lifeStages.0.label>ﻼﻴﺸﻨﺸﻟﺍ ﺔﻴﻣﺩ</Chinchilla.lifeStages.0.label>
+  <Chinchilla.lifeStages.1.label>ﺓﺮﻴﻐﺻ ﻞﻴﺸﻨﻴﺷ</Chinchilla.lifeStages.1.label>
+  
+  
+  <Deer.label>ﻝﺍﺰﻐﻟﺍ</Deer.label>
+  
+  <Deer.labelFemale>ﺔﻔﻏﺭﻷﺍ</Deer.labelFemale>
+  
+  <Deer.labelMale>ﻞﻳﻷﺍ</Deer.labelMale>
+  
+  <Deer.labelPlural>ﻥﻻﺰﻐﻟﺍ</Deer.labelPlural>
+  <Deer.lifeStages.0.label>ﺔﺴﻳﺮﻬﻟﺍ</Deer.lifeStages.0.label>
+  <Deer.lifeStages.1.label>ﺮﻴﻐﺼﻟﺍ ﻝﺍﺰﻐﻟﺍ</Deer.lifeStages.1.label>
+  <Deer.lifeStages.1.labelFemale>.ﺔﺑﺎﺸﻟﺍ ﻞﻳﺰﻐﻟﺍ</Deer.lifeStages.1.labelFemale>
+  
+  
+  <Gazelle.label>ﻝﺍﺰﻏ</Gazelle.label>
+  <Gazelle.labelPlural>ﻞﻳﺯﺎﻏ</Gazelle.labelPlural>
+  <Gazelle.lifeStages.0.label>ﻝﺍﺰﻏ ﻱﺪﻴﻛ</Gazelle.lifeStages.0.label>
+  <Gazelle.lifeStages.0.labelPlural>ﺓﺪﻳﺪﺟ ﺓﺩﺪﻬﻣ</Gazelle.lifeStages.0.labelPlural>
+  <Gazelle.lifeStages.1.label>.ﺓﺮﻴﻐﺻ ﺔﻟﺍﺰﻏ</Gazelle.lifeStages.1.label>
+  
+  
+  <Ibex.label>ﻲﻠﺒﺠﻟﺍ ﻝﺍﺰﻐﻟﺍ</Ibex.label>
+  
+  <Ibex.labelFemale>.ﺔﻴﻠﺒﺠﻟﺍ ﺰﻋﺎﻤﻟﺍ</Ibex.labelFemale>
+  
+  <Ibex.labelMale>ﻲﻠﺒﺠﻟﺍ ﺶﺒﻜﻟﺍ</Ibex.labelMale>
+  
+  <Ibex.labelPlural>ﺔﻴﻠﺒﺠﻟﺍ ﺰﻋﺎﻤﻟﺍ</Ibex.labelPlural>
+  <Ibex.lifeStages.0.label>ﻲﻠﺒﺟ ﺰﻋﺎﻣ</Ibex.lifeStages.0.label>
+  <Ibex.lifeStages.1.label>ﺮﻴﻐﺻ ﻲﻠﺒﺟ</Ibex.lifeStages.1.label>
+  <Ibex.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﺔﻴﻠﺒﺟ ﺰﻋﺎﻣ</Ibex.lifeStages.1.labelFemale>
+  
+  
+  <Pig.label>ﺮﻳﺰﻨﺧ</Pig.label>
+  
+  <Pig.labelFemale>ﺮﻳﺰﻨﺧ</Pig.labelFemale>
+  <Pig.labelMale>ﺡﺎﻔﻛ</Pig.labelMale>
+  <Pig.labelPlural>ﺮﻳﺯﺎﻨﺨﻟﺍ</Pig.labelPlural>
+  
+  <Pig.lifeStages.piglet.label>ﺮﻴﻐﺻ ﺮﻳﺰﻨﺧ</Pig.lifeStages.piglet.label>
+  <Pig.lifeStages.1.labelFemale>ﺏﺎﺷ ﺮﻳﺰﻨﺧ</Pig.lifeStages.1.labelFemale>
+  <Pig.lifeStages.1.labelMale>ﺮﻴﻐﺻ ﺮﻳﺰﻨﺧ</Pig.lifeStages.1.labelMale>
+  
+  
+  <WildBoar.label>ﻱﺮﺒﻟﺍ ﺮﻳﺰﻨﺨﻟﺍ</WildBoar.label>
+  <WildBoar.labelFemale>ﺎﺨﻴﻧﺎﺑﺎﻛ</WildBoar.labelFemale>
+  <WildBoar.labelPlural>ﺮﻳﺯﺎﻨﺨﻟﺍ</WildBoar.labelPlural>
+  <WildBoar.lifeStages.0.label>ﺮﻳﺰﻨﺨﻟﺍ ﺥﻮﻛ</WildBoar.lifeStages.0.label>
+  <WildBoar.lifeStages.1.labelFemale>ﺮﻳﺰﻨﺧ ﻞﺒﺷ</WildBoar.lifeStages.1.labelFemale>
+  <WildBoar.lifeStages.1.labelMale>ﺮﻴﻐﺻ ﺮﻳﺰﻨﺧ</WildBoar.lifeStages.1.labelMale>
+  
+</LanguageData>
