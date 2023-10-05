@@ -1,0 +1,124 @@
+ï»؟<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Children are presumed innocent, which makes them excellent spies. [PAWN_nameDef] was trained in the art of infiltration when [PAWN_pronoun] was just a small child.\n\n[PAWN_possessive] years undercover gave [PAWN_objective] experience with social manipulation and lying, but [PAWN_pronoun] never had a normal education. -->
+  <ChildSpy47.baseDesc>ذ”ذµر‚ذ¸ رپر‡ذ¸ر‚ذ°رژر‚رپرڈ ذ²ذ¾ذ؟ذ»ذ¾ر‰ذµذ½ذ¸ذµذ¼ ذ½ذµذ²ذ¸ذ½ذ½ذ¾رپر‚ذ¸, ر‡ر‚ذ¾ ذ´ذµذ»ذ°ذµر‚ ذ¸ر… ذ¸ذ´ذµذ°ذ»رŒذ½ر‹ذ¼ذ¸ رˆذ؟ذ¸ذ¾ذ½ذ°ذ¼ذ¸. ذڑذ¾ذ³ذ´ذ° {PAWN_objective} ذ¸رپذ؟ذ¾ذ»ذ½ذ¸ذ»ذ¾رپرŒ ذ´ذµذ²رڈر‚رŒ ذ»ذµر‚, {PAWN_nameDef} {PAWN_gender ? ذ½ذ°ر‡ذ°ذ» : ذ½ذ°ر‡ذ°ذ»ذ°} ذ¾ذ±رƒر‡ذ°ر‚رŒرپرڈ ذ¸رپذ؛رƒرپرپر‚ذ²رƒ ذ؟ر€ذ¾ذ½ذ¸ذ؛ذ½ذ¾ذ²ذµذ½ذ¸رڈ ذ¸ رپذ±ذ¾ر€ذ° ذ¸ذ½ر„ذ¾ر€ذ¼ذ°ر†ذ¸ذ¸.\n\nذ“ذ¾ذ´ر‹, ذ؟ر€ذ¾ذ²ذµذ´ر‘ذ½ذ½ر‹ذµ ذ² ر‚ر‹ذ»رƒ ذ؟ر€ذ¾ر‚ذ¸ذ²ذ½ذ¸ذ؛ذ°, رپذ´ذµذ»ذ°ذ»ذ¸ {PAWN_possessive} ذ¼ذ°رپر‚ذµر€ذ¾ذ¼ ذ»ذ¶ذ¸ ذ¸ ذ¼ذ°ذ½ذ¸ذ؟رƒذ»رڈر†ذ¸ذ¹. ذ¢ذµذ¼ ذ½ذµ ذ¼ذµذ½ذµذµ, ذ½ذ¾ر€ذ¼ذ°ذ»رŒذ½ذ¾ذ³ذ¾ ذ¾ذ±ر€ذ°ذ·ذ¾ذ²ذ°ذ½ذ¸رڈ {PAWN_nameDef} ر‚ذ°ذ؛ ذ¸ ذ½ذµ {PAWN_gender ? ذ؟ذ¾ذ»رƒر‡ذ¸ذ» : ذ؟ذ¾ذ»رƒر‡ذ¸ذ»ذ°}.</ChildSpy47.baseDesc>
+  <!-- EN: child spy -->
+  <ChildSpy47.title>رژذ½ر‹ذ¹ رˆذ؟ذ¸ذ¾ذ½</ChildSpy47.title>
+  <ChildSpy47.titleFemale>رژذ½ذ°رڈ رˆذ؟ذ¸ذ¾ذ½ذ؛ذ°</ChildSpy47.titleFemale>
+  <!-- EN: spy -->
+  <ChildSpy47.titleShort>ذ؟ر€ذ¾ذ½ر‹ر€ذ°</ChildSpy47.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was well-known throughout [PAWN_possessive] homeworld as a child actor in films and TV shows. [PAWN_possessive] fame put [PAWN_objective] in contact with many different kinds of people, but also tended to get in the way of [PAWN_possessive] education. -->
+  <ChildStar74.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ¾ذ±ر€ر‘ذ» : ذ¾ذ±ر€ذµذ»ذ°} رˆذ¸ر€ذ¾ذ؛رƒرژ ذ¸ذ·ذ²ذµرپر‚ذ½ذ¾رپر‚رŒ ذ² رپذ²ذ¾ر‘ذ¼ ذ¼ذ¸ر€ذµ, ذ¸ذ³ر€ذ°رڈ ر€ذ¾ذ»ذ¸ ذ² ر€ذ°ذ·ذ½ر‹ر… ر„ذ¸ذ»رŒذ¼ذ°ر… ذ¸ ر‚ذµذ»ذµرˆذ¾رƒ. ذ¢ذ°ذ؛ذ°رڈ رپذ»ذ°ذ²ذ° ذ؟ذ¾ذ·ذ²ذ¾ذ»ذ¸ذ»ذ° {PAWN_objective} ذ¾ذ±ذ·ذ°ذ²ذµرپر‚ذ¸رپرŒ رپذ°ذ¼ر‹ذ¼ذ¸ ر€ذ°ذ·ذ½ر‹ذ¼ذ¸ ذ·ذ½ذ°ذ؛ذ¾ذ¼رپر‚ذ²ذ°ذ¼ذ¸, ذ½ذ¾ ر‚ذ°ذ؛ذ¶ذµ ذ¼ذµرˆذ°ذ»ذ° {PAWN_objective} ذ½ذ¾ر€ذ¼ذ°ذ»رŒذ½ذ¾ رƒر‡ذ¸ر‚رŒرپرڈ.</ChildStar74.baseDesc>
+  <!-- EN: child star -->
+  <ChildStar74.title>رژذ½ذ°رڈ ذ·ذ²ذµذ·ذ´ذ°</ChildStar74.title>
+  <!-- EN: star -->
+  <ChildStar74.titleShort>ذ·ذ²ذµذ·ذ´ذ°</ChildStar74.titleShort>
+  
+  <!-- EN: A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn't wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story. -->
+  <ComaChild93.baseDesc>ذ’ ر€ذµذ·رƒذ»رŒر‚ذ°ر‚ذµ ذ½ذµرپر‡ذ°رپر‚ذ½ذ¾ذ³ذ¾ رپذ»رƒر‡ذ°رڈ, ذ؟ر€ذ¾ذ¸ذ·ذ¾رˆذµذ´رˆذµذ³ذ¾ ذ² ذ´ذµر‚رپر‚ذ²ذµ, {PAWN_nameDef}  {PAWN_gender ? ذ²ذ؟ذ°ذ» : ذ²ذ؟ذ°ذ»ذ°} ذ² ذ؛ذ¾ذ¼رƒ. {PAWN_possessive} ر‚ذµذ»ذ¾ ر‚ذ°ذ؛ ذ¸ ذ½ذµ ذ¾ذ؟ر€ذ°ذ²ذ¸ذ»ذ¾رپرŒ ذ¾ر‚ ذ´ذ¾ذ»ذ³ذ¸ر… ذ»ذµر‚ ذ±ذµذ· ذ´ذ²ذ¸ذ¶ذµذ½ذ¸رڈ. ذ’ذ؟ر€ذ¾ر‡ذµذ¼, رƒرپذ»ر‹رˆذ°ذ² رچر‚رƒ ذ¸رپر‚ذ¾ر€ذ¸رژ, ذ±ذ¾ذ»رŒرˆذ¸ذ½رپر‚ذ²ذ¾ ذ»رژذ´ذµذ¹ ذ¶ذ°ذ»ذµرژر‚ {PAWN_possessive}.</ComaChild93.baseDesc>
+  <!-- EN: coma child -->
+  <ComaChild93.title>ذ؛ذ¾ذ¼ذ°ر‚ذ¾ذ·ذ½ذ¸ذ؛</ComaChild93.title>
+  <ComaChild93.titleFemale>ذ؛ذ¾ذ¼ذ°ر‚ذ¾ذ·ذ½ذ¸ر†ذ°</ComaChild93.titleFemale>
+  <!-- EN: coma child -->
+  <ComaChild93.titleShort>ذ؛ذ¾ذ¼ذ°ر‚ذ¾ذ·ذ½ذ¸ذ؛</ComaChild93.titleShort>
+  <ComaChild93.titleShortFemale>ذ؛ذ¾ذ¼ذ°ر‚ذ¾ذ·ذ½ذ¸ر†ذ°</ComaChild93.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was born into a powerful cult which shunned advanced technology and believed that all illness could be cured by cleansing the soul through sacred art.\n\nAfter [PAWN_possessive] first glimpse of the outside world, [PAWN_pronoun] decided to run away. -->
+  <CultChild3.baseDesc>{PAWN_nameDef} {PAWN_gender ? ر€ذ¾ذ´ذ¸ذ»رپرڈ : ر€ذ¾ذ´ذ¸ذ»ذ°رپرŒ} ذ² ذ¼ذ¾ذ³رƒر‰ذµرپر‚ذ²ذµذ½ذ½ذ¾ذ¼ ذ؛رƒذ»رŒر‚ذµ, ذ¾ر‚ذ²ذµر€ذ³ذ½رƒذ²رˆذµذ¼ ذ²ر‹رپذ¾ذ؛ذ¸ذµ ر‚ذµر…ذ½ذ¾ذ»ذ¾ذ³ذ¸ذ¸. ذڑرƒذ»رŒر‚ذ¸رپر‚ر‹ ذ²ذµر€ذ¸ذ»ذ¸, ر‡ر‚ذ¾ ذ»رژذ±رƒرژ ر…ذ²ذ¾ر€رŒ رپذ»ذµذ´رƒذµر‚ ذ»ذµر‡ذ¸ر‚رŒ, ذ¾ر‡ذ¸ر‰ذ°رڈ ذ´رƒرˆرƒ رپذ²رڈر‰ذµذ½ذ½ر‹ذ¼ذ¸ ر€ذ¸ر‚رƒذ°ذ»ذ°ذ¼ذ¸.\n\nذ‍ذ´ذ½ذ°ذ¶ذ´ر‹ {PAWN_objective} رƒذ´ذ°ذ»ذ¾رپرŒ رƒذ²ذ¸ذ´ذµر‚رŒ ذ²ذ½ذµرˆذ½ذ¸ذ¹ ذ¼ذ¸ر€, ذ¸ رچر‚ذ¾ ذ؟ذ¾ذ´ذ²ذ¸ذ³ذ»ذ¾ {PAWN_possessive} ذ½ذ° ذ؟ذ¾ذ±ذµذ³.</CultChild3.baseDesc>
+  <!-- EN: cult child -->
+  <CultChild3.title>ذ´ذ¸ر‚رڈ ذ؛رƒذ»رŒر‚ذ°</CultChild3.title>
+  <!-- EN: cult kid -->
+  <CultChild3.titleShort>ذ´ذ¸ر‚رڈ ذ؛رƒذ»رŒر‚ذ°</CultChild3.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up with a laundry list of phobias and neuroses. [PAWN_pronoun] feared, among other things, doctors and foodborne pathogens.\n\nAs a result, [PAWN_pronoun] learned to cook and care for [PAWN_objective]self, but many of [PAWN_possessive] fears dog [PAWN_objective] in adulthood. -->
+  <FrightenedChild43.baseDesc>{PAWN_nameDef} {PAWN_gender ? ر€ذ¾رپ : ر€ذ¾رپذ»ذ°} رپ ر†ذµذ»ر‹ذ¼ ذ½ذ°ذ±ذ¾ر€ذ¾ذ¼ ر„ذ¾ذ±ذ¸ذ¹ ذ¸ ذ½ذµذ²ر€ذ¾ذ·ذ¾ذ². ذںذ¾ذ¼ذ¸ذ¼ذ¾ ذ²رپذµذ³ذ¾ ذ؟ر€ذ¾ر‡ذµذ³ذ¾, {PAWN_pronoun} {PAWN_gender ? ذ±ذ¾رڈذ»رپرڈ : ذ±ذ¾رڈذ»ذ°رپرŒ} ر‚ذ°ذ؛ذ¶ذµ ذ´ذ¾ذ؛ر‚ذ¾ر€ذ¾ذ² ذ¸ ذ؟ذ¸ر‰ذµذ²ر‹ر… ذ¼ذ¸ذ؛ر€ذ¾ذ±ذ¾ذ².\n\nذڑذ°ذ؛ ر€ذµذ·رƒذ»رŒر‚ذ°ر‚, {PAWN_pronoun} {PAWN_gender ? رƒر‡ذ¸ذ»رپرڈ : رƒر‡ذ¸ذ»ذ°رپرŒ} ذ³ذ¾ر‚ذ¾ذ²ذ¸ر‚رŒ ذ¸ ذ·ذ°ذ±ذ¾ر‚ذ¸ر‚رŒرپرڈ ذ¾ رپذµذ±ذµ رپذ°ذ¼ذ¾رپر‚ذ¾رڈر‚ذµذ»رŒذ½ذ¾. ذ‍ذ´ذ½ذ°ذ؛ذ¾ ذ¼ذ½ذ¾ذ³ذ¸ذµ ذ¸ذ· {PAWN_possessive} رپر‚ر€ذ°ر…ذ¾ذ² ذ½ذµ ذ¾رپر‚ذ°ذ²ذ¸ذ»ذ¸ {PAWN_possessive} ذ¸ ذ² ذ±ذ¾ذ»ذµذµ ذ²ذ·ر€ذ¾رپذ»ذ¾ذ¼ ذ²ذ¾ذ·ر€ذ°رپر‚ذµ.</FrightenedChild43.baseDesc>
+  <!-- EN: frightened child -->
+  <FrightenedChild43.title>ذ؟رƒذ³ذ»ذ¸ذ²ر‹ذ¹ ذ¼ذ°ذ»رŒر‡ذ¸ذ؛</FrightenedChild43.title>
+  <FrightenedChild43.titleFemale>ذ؟رƒذ³ذ»ذ¸ذ²ذ°رڈ ذ´ذµذ²ذ¾ر‡ذ؛ذ°</FrightenedChild43.titleFemale>
+  <!-- EN: scared -->
+  <FrightenedChild43.titleShort>ذ±ذ¾رڈذ؛ذ°</FrightenedChild43.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born during a catastrophic war in which both sides used incendiary weapons. [PAWN_pronoun] grew up helping [PAWN_possessive] parents in an infirmary, treating the cascade of horrific burns from the battlefields. [PAWN_pronoun] was left with a lifelong fear of fire. -->
+  <MedicalAssistant12.baseDesc>{PAWN_nameDef} {PAWN_gender ? ر€ذ¾ذ´ذ¸ذ»رپرڈ : ر€ذ¾ذ´ذ¸ذ»ذ°رپرŒ} ذ²ذ¾ ذ²ر€ذµذ¼رڈ رƒذ¶ذ°رپذ½ذ¾ذ¹ ذ²ذ¾ذ¹ذ½ر‹, ذ² ذ؛ذ¾ر‚ذ¾ر€ذ¾ذ¹ ذ¾ذ±ذµ رپر‚ذ¾ر€ذ¾ذ½ر‹ رˆذ¸ر€ذ¾ذ؛ذ¾ ذ؟ر€ذ¸ذ¼ذµذ½رڈذ»ذ¸ ذ·ذ°ذ¶ذ¸ذ³ذ°ر‚ذµذ»رŒذ½ذ¾ذµ ذ¾ر€رƒذ¶ذ¸ذµ. {PAWN_pronoun} {PAWN_gender ? ر€ذ¾رپ : ر€ذ¾رپذ»ذ°}, ذ؟ذ¾ذ¼ذ¾ذ³ذ°رڈ رپذ²ذ¾ذ¸ذ¼ ر€ذ¾ذ´ذ¸ر‚ذµذ»رڈذ¼ ذ² ذ³ذ¾رپذ؟ذ¸ر‚ذ°ذ»ذµ, ذ¾ذ±ر€ذ°ذ±ذ°ر‚ر‹ذ²ذ°رڈ ذ±ذµرپذ؛ذ¾ذ½ذµر‡ذ½ر‹ذ¹ ذ؟ذ¾ر‚ذ¾ذ؛ رƒذ¶ذ°رپذ°رژر‰ذ¸ر… ذ¾ذ¶ذ¾ذ³ذ¾ذ² ذ½ذ° ر‚ذµذ»ذ°ر… رپذ¾ذ»ذ´ذ°ر‚. ذ،ر‚ر€ذ°ر… ذ؟ذµر€ذµذ´ ذ¾ذ³ذ½ر‘ذ¼ ذ¾رپر‚ذ°ذ»رپرڈ رƒ ذ½{PAWN_possessive} ذ½ذ° ذ²رپرژ ذ¶ذ¸ذ·ذ½رŒ.</MedicalAssistant12.baseDesc>
+  <!-- EN: medical assistant -->
+  <MedicalAssistant12.title>ذ°رپرپذ¸رپر‚ذµذ½ر‚ ذ²ر€ذ°ر‡ذ°</MedicalAssistant12.title>
+  <MedicalAssistant12.titleFemale>ذ°رپرپذ¸رپر‚ذµذ½ر‚ذ؛ذ° ذ²ر€ذ°ر‡ذ°</MedicalAssistant12.titleFemale>
+  <!-- EN: medic -->
+  <MedicalAssistant12.titleShort>ذ¼ذµذ´ذ¸ذ؛</MedicalAssistant12.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] had a talent for playing musical instruments and singing. [PAWN_pronoun] was given expert training and loved to perform in recitals and concerts, though the lavish praise [PAWN_pronoun] received made [PAWN_objective] a little self-obsessed. -->
+  <MusicalKid86.baseDesc>{PAWN_nameDef} ذµر‰ر‘ ر€ذµذ±ر‘ذ½ذ؛ذ¾ذ¼ {PAWN_gender ? ذ؟ر€ذ¾رڈذ²ذ¸ذ» : ذ؟ر€ذ¾رڈذ²ذ¸ذ»ذ°} رپذ؟ذ¾رپذ¾ذ±ذ½ذ¾رپر‚ذ¸ ذ؛ ذ¸ذ³ر€ذµ ذ½ذ° ذ¼رƒذ·ر‹ذ؛ذ°ذ»رŒذ½ر‹ر… ذ¸ذ½رپر‚ر€رƒذ¼ذµذ½ر‚ذ°ر… ذ¸ ذ؟ذµذ½ذ¸رژ. {PAWN_pronoun} {PAWN_gender ? ذ±ر‹ذ» ذ؟ر€ذµذ؛ر€ذ°رپذ½ذ¾ ذ¾ذ±رƒر‡ذµذ½ ذ¸ ذ¾ذ±ذ¾ذ¶ذ°ذ» : ذ±ر‹ذ»ذ° ذ؟ر€ذµذ؛ر€ذ°رپذ½ذ¾ ذ¾ذ±رƒر‡ذµذ½ذ° ذ¸ ذ¾ذ±ذ¾ذ¶ذ°ذ»ذ°} ذ´ذ°ذ²ذ°ر‚رŒ ذ؛ذ¾ذ½ر†ذµر€ر‚ر‹ ذ¸ رپذ¾ذ»رŒذ½ر‹ذµ ذ²ر‹رپر‚رƒذ؟ذ»ذµذ½ذ¸رڈ. ذ‍ذ´ذ½ذ°ذ؛ذ¾ ذ؟ذ¾رپر‚ذ¾رڈذ½ذ½ذ¾ذµ ذ²ذ¾رپر…ذ²ذ°ذ»ذµذ½ذ¸ذµ {PAWN_possessive} ر‚ذ°ذ»ذ°ذ½ر‚ذ° رپذ¾ رپر‚ذ¾ر€ذ¾ذ½ر‹ ذ¾ذ؛ر€رƒذ¶ذ°رژر‰ذ¸ر… رپذ´ذµذ»ذ°ذ»ذ¾ {PAWN_possessive} ذ´ذ¾ذ²ذ¾ذ»رŒذ½ذ¾ {PAWN_gender ? ر‚ر‰ذµرپذ»ذ°ذ²ذ½ر‹ذ¼ : ر‚ر‰ذµرپذ»ذ°ذ²ذ½ذ¾ذ¹}.</MusicalKid86.baseDesc>
+  <!-- EN: musical kid -->
+  <MusicalKid86.title>رژذ½ر‹ذ¹ ذ¼رƒذ·ر‹ذ؛ذ°ذ½ر‚</MusicalKid86.title>
+  <!-- EN: musician -->
+  <MusicalKid86.titleShort>ذ¼رƒذ·ر‹ذ؛ذ°ذ½ر‚</MusicalKid86.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was greatly affected by a traumatic event early in [PAWN_possessive] life. For many years [PAWN_pronoun] refused to speak to people, preferring instead to play with [PAWN_possessive] household's numerous pets. -->
+  <Mute34.baseDesc>ذ’ ذ´ذµر‚رپر‚ذ²ذµ {PAWN_nameDef} {PAWN_gender ? ذ؟ذµر€ذµذ¶ذ¸ذ» : ذ؟ذµر€ذµذ¶ذ¸ذ»ذ°} ر‚ر€ذ°ذ²ذ¼ذ¸ر€رƒرژر‰ذµذµ {PAWN_possessive} رپذ¾ذ±ر‹ر‚ذ¸ذµ. ذکذ·-ذ·ذ° رچر‚ذ¾ذ³ذ¾ ذ¼ذ½ذ¾ذ³ذ¾ ذ»ذµر‚ {PAWN_pronoun} ذ½ذµ {PAWN_gender ? ر…ذ¾ر‚ذµذ» : ر…ذ¾ر‚ذµذ»ذ°} ذ³ذ¾ذ²ذ¾ر€ذ¸ر‚رŒ رپ ذ»رژذ´رŒذ¼ذ¸ ذ¸ {PAWN_gender ? ذ؟ر€ذµذ´ذ؟ذ¾ر‡ذ¸ر‚ذ°ذ» : ذ؟ر€ذµذ´ذ؟ذ¾ر‡ذ¸ر‚ذ°ذ»ذ°} ذ¸ذ³ر€ذ°ر‚رŒ رپ ذ؛رƒر‡ذµذ¹ رپذ²ذ¾ذ¸ر… ذ´ذ¾ذ¼ذ°رˆذ½ذ¸ر… ذ¶ذ¸ذ²ذ¾ر‚ذ½ر‹ر….</Mute34.baseDesc>
+  <!-- EN: mute -->
+  <Mute34.title>ر‚ذ¸ر…ذ¾ذ½رڈ</Mute34.title>
+  <!-- EN: mute -->
+  <Mute34.titleShort>ر‚ذ¸ر…ذ¾ذ½رڈ</Mute34.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was raised in an illegal underground organ farm. [PAWN_possessive] body was used to grow organic implants for wounded mercenaries. Though [PAWN_possessive] upbringing has left [PAWN_objective] haunted, it has also given [PAWN_objective] a unique understanding of human biology. -->
+  <OrganFarm67.baseDesc>{PAWN_nameDef} {PAWN_gender ? ر€ذ¾رپ : ر€ذ¾رپذ»ذ°} ذ³ذ»رƒذ±ذ¾ذ؛ذ¾ ذ؟ذ¾ذ´ ذ·ذµذ¼ذ»ر‘ذ¹ ذ½ذ° ذ½ذµذ»ذµذ³ذ°ذ»رŒذ½ذ¾ذ¹ ر„ذµر€ذ¼ذµ ذ¾ر€ذ³ذ°ذ½ذ¾ذ². {PAWN_possessive} ر‚ذµذ»ذ¾ ذ¸رپذ؟ذ¾ذ»رŒذ·ذ¾ذ²ذ°ذ»ذ¾رپرŒ ذ´ذ»رڈ ذ²ر‹ر€ذ°ر‰ذ¸ذ²ذ°ذ½ذ¸رڈ ذ¾ر€ذ³ذ°ذ½ذ¸ر‡ذµرپذ؛ذ¸ر… ذ¸ذ¼ذ؟ذ»ذ°ذ½ر‚ذ¾ذ² ذ´ذ»رڈ ر€ذ°ذ½ذµذ½ر‹ر… ذ½ذ°ر‘ذ¼ذ½ذ¸ذ؛ذ¾ذ². ذ¥ذ¾ر‚رڈ ر‚ذ°ذ؛ذ¾ذ³ذ¾ ر€ذ¾ذ´ذ° آ«ذ²ذ¾رپذ؟ذ¸ر‚ذ°ذ½ذ¸ذµآ» ذ½ذ°ذ»ذ¾ذ¶ذ¸ذ»ذ¾ ذ¾ر‚ذ؟ذµر‡ذ°ر‚ذ¾ذ؛ ذ½ذ° {PAWN_possessive} ذ؟رپذ¸ر…ذ¸ذ؛رƒ, ذ¾ذ½ذ¾ ذ´ذ°ذ»ذ¾ {PAWN_objective} ذ¾رپذ¾ذ±ذ¾ذµ ذ؟ذ¾ذ½ذ¸ذ¼ذ°ذ½ذ¸ذµ ر‡ذµذ»ذ¾ذ²ذµر‡ذµرپذ؛ذ¾ذ¹ ذ±ذ¸ذ¾ذ»ذ¾ذ³ذ¸ذ¸.</OrganFarm67.baseDesc>
+  <!-- EN: organ farm -->
+  <OrganFarm67.title>ذ´ذ¾ذ½ذ¾ر€ ذ¾ر€ذ³ذ°ذ½ذ¾ذ²</OrganFarm67.title>
+  <!-- EN: organ farm -->
+  <OrganFarm67.titleShort>ذ´ذ¾ذ½ذ¾ر€</OrganFarm67.titleShort>
+  
+  <!-- EN: From an early age, [PAWN_nameDef] had an unhealthy fascination with fire. [PAWN_pronoun] would set refuse heaps ablaze and become so entranced by the flames [PAWN_pronoun] would absent-mindedly burn [PAWN_objective]self.\n\nOne day while playing with matches, [PAWN_pronoun] carelessly burned down [PAWN_possessive] home. -->
+  <Pyromaniac18.baseDesc>ذ، ر€ذ°ذ½ذ½ذµذ³ذ¾ ذ²ذ¾ذ·ر€ذ°رپر‚ذ° {PAWN_nameDef} {PAWN_gender ? ذ؟ذ¸ر‚ذ°ذ» : ذ؟ذ¸ر‚ذ°ذ»ذ°} ذ½ذµذ·ذ´ذ¾ر€ذ¾ذ²ر‹ذ¹ ذ¸ذ½ر‚ذµر€ذµرپ ذ؛ ذ¾ذ³ذ½رژ. ذڑذ¾ذ³ذ´ذ° {PAWN_pronoun} ذ·ذ°ذ¶ذ¸ذ³ذ°ذµر‚ ذ¾ذ³ذ¾ذ½رŒ, ذ؟ذ»ذ°ذ¼رڈ ذ½ذ°رپر‚ذ¾ذ»رŒذ؛ذ¾ ذ·ذ°ذ²ذ¾ر€ذ°ذ¶ذ¸ذ²ذ°ذµر‚ {PAWN_possessive}, ر‡ر‚ذ¾ {PAWN_pronoun} ذ¼ذ¾ذ¶ذµر‚ ذ؟ذ¾ ر€ذ°رپرپذµرڈذ½ذ½ذ¾رپر‚ذ¸ ذ¾ذ±ذ¶ذµر‡رŒرپرڈ.\n\nذ‍ذ´ذ½ذ°ذ¶ذ´ر‹ {PAWN_possessive} ذ´ذ¾ذ¼ رپذ³ذ¾ر€ذµذ» ذ¸ذ·-ذ·ذ° ذ½ذµذ¾رپر‚ذ¾ر€ذ¾ذ¶ذ½ذ¾ذ¹ ذ¸ذ³ر€ر‹ رپذ¾ رپذ؟ذ¸ر‡ذ؛ذ°ذ¼ذ¸.</Pyromaniac18.baseDesc>
+  <!-- EN: pyromaniac -->
+  <Pyromaniac18.title>ذ؟ذ¸ر€ذ¾ذ¼ذ°ذ½</Pyromaniac18.title>
+  <Pyromaniac18.titleFemale>ذ؟ذ¸ر€ذ¾ذ¼ذ°ذ½ذ؛ذ°</Pyromaniac18.titleFemale>
+  <!-- EN: pyro -->
+  <Pyromaniac18.titleShort>ذ؟ذ¸ر€ذ¾ذ¼ذ°ذ½</Pyromaniac18.titleShort>
+  <Pyromaniac18.titleShortFemale>ذ؟ذ¸ر€ذ¾ذ¼ذ°ذ½ذ؛ذ°</Pyromaniac18.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s mother was often ill, and it fell to [PAWN_objective] to run the store which was their only source of income. [PAWN_pronoun] learned a little about the exotic artifacts which [PAWN_pronoun] sold, and a lot about the art of the deal. -->
+  <ShopKid36.baseDesc>ذںذ¾رپذ؛ذ¾ذ»رŒذ؛رƒ {PAWN_possessive} ذ¼ذ°ر‚رŒ ر‡ذ°رپر‚ذ¾ ذ±ذ¾ذ»ذµذ»ذ°, {PAWN_nameDef} ذ²ر€ذµذ¼رڈ ذ¾ر‚ ذ²ر€ذµذ¼ذµذ½ذ¸ {PAWN_gender ? رƒذ؟ر€ذ°ذ²ذ»رڈذ» : رƒذ؟ر€ذ°ذ²ذ»رڈذ»ذ°} ذ¼ذ°ذ³ذ°ذ·ذ¸ذ½ذ¾ذ¼, ذµذ´ذ¸ذ½رپر‚ذ²ذµذ½ذ½ر‹ذ¼ ذ¸رپر‚ذ¾ر‡ذ½ذ¸ذ؛ذ¾ذ¼ ذ´ذ¾ر…ذ¾ذ´ذ° ذ¸ر… رپذµذ¼رŒذ¸. ذ’ ذ؟ر€ذ¾ذ´ذ°رژر‰ذ¸ر…رپرڈ رƒ ذ½ذ¸ر… رچذ؛ذ·ذ¾ر‚ذ¸ر‡ذµرپذ؛ذ¸ر… ذ°ر€ر‚ذµر„ذ°ذ؛ر‚ذ°ر… {PAWN_pronoun} {PAWN_gender ? ر€ذ°ذ·ذ±ذ¸ر€ذ°ذ»رپرڈ : ر€ذ°ذ·ذ±ذ¸ر€ذ°ذ»ذ°رپرŒ} ذ½ذµذ¼ذ½ذ¾ذ³ذ¾, ذ½ذ¾ ذ·ذ°ر‚ذ¾ ذ² ذ¸رپذ؛رƒرپرپر‚ذ²ذµ ذ·ذ°ذ؛ذ»رژر‡ذµذ½ذ¸رڈ ذ²ر‹ذ³ذ¾ذ´ذ½ر‹ر… رپذ´ذµذ»ذ¾ذ؛آ â€” ذ¾ر‡ذµذ½رŒ ر…ذ¾ر€ذ¾رˆذ¾.</ShopKid36.baseDesc>
+  <!-- EN: shop kid -->
+  <ShopKid36.title>ذ؟ر€ذ¾ذ´ذ°ذ²ذµر†</ShopKid36.title>
+  <ShopKid36.titleFemale>ذ؟ر€ذ¾ذ´ذ°ذ²ر‰ذ¸ر†ذ°</ShopKid36.titleFemale>
+  <!-- EN: shopkid -->
+  <ShopKid36.titleShort>ذ؟ر€ذ¾ذ´ذ°ذ²ذµر†</ShopKid36.titleShort>
+  <ShopKid36.titleShortFemale>ذ؟ر€ذ¾ذ´ذ°ذ²ر‰ذ¸ر†ذ°</ShopKid36.titleShortFemale>
+  
+  <!-- EN: As a child, [PAWN_nameDef] suffered from a rare disease. Quarantined in a hospital, [PAWN_pronoun] had minimal human contact and got little physical exercise. In the sterile hospital environment, however, [PAWN_pronoun] became very familiar with science and medicine. -->
+  <SicklyChild55.baseDesc>ذ’رپر‘ ذ´ذµر‚رپر‚ذ²ذ¾ {PAWN_nameDef} {PAWN_gender ? رپر‚ر€ذ°ذ´ذ°ذ» : رپر‚ر€ذ°ذ´ذ°ذ»ذ°} ذ¾ر‚ ر€ذµذ´ذ؛ذ¾ذ¹ ذ±ذ¾ذ»ذµذ·ذ½ذ¸. ذ‌ذ° ذ؟ذ¾رپر‚ذ¾رڈذ½ذ½ذ¾ذ¼ ذ؛ذ°ر€ذ°ذ½ر‚ذ¸ذ½ذµ ذ² ذ¸رپرپذ»ذµذ´ذ¾ذ²ذ°ر‚ذµذ»رŒرپذ؛ذ¾ذ¹ ذ±ذ¾ذ»رŒذ½ذ¸ر†ذµ رƒ ذ½{PAWN_possessive} ذ±ر‹ذ»ذ¾ ذ¼ذ¸ذ½ذ¸ذ¼رƒذ¼ ذ؛ذ¾ذ½ر‚ذ°ذ؛ر‚ذ¾ذ² رپ ذ»رژذ´رŒذ¼ذ¸ ذ¸ ذ؟ر€ذ°ذ؛ر‚ذ¸ر‡ذµرپذ؛ذ¸ ذ½ذ¸ذ؛ذ°ذ؛ذ¸ر… ر„ذ¸ذ·ذ¸ر‡ذµرپذ؛ذ¸ر… ذ½ذ°ذ³ر€رƒذ·ذ¾ذ؛. ذ‍ذ´ذ½ذ°ذ؛ذ¾ ذ² رچر‚ذ¸ر… رپر‚ذµر€ذ¸ذ»رŒذ½ر‹ر… ذ»ذ°ذ±ذ¾ر€ذ°ر‚ذ¾ر€ذ¸رڈر… {PAWN_pronoun} ذ؟ذ¾ذ´ر€ذ¾ذ±ذ½ذ¾ {PAWN_gender ? ذ¾ذ·ذ½ذ°ذ؛ذ¾ذ¼ذ¸ذ»رپرڈ : ذ¾ذ·ذ½ذ°ذ؛ذ¾ذ¼ذ¸ذ»رپرڈ} رپ ذ½ذ°رƒذ؛ذ¾ذ¹ ذ¸ ذ¼ذµذ´ذ¸ر†ذ¸ذ½ذ¾ذ¹.</SicklyChild55.baseDesc>
+  <!-- EN: sickly child -->
+  <SicklyChild55.title>ذ±ذ¾ذ»ذµذ·ذ½ذµذ½ذ½ر‹ذ¹ ذ¼ذ°ذ»رŒر‡ذ¸ذ؛</SicklyChild55.title>
+  <SicklyChild55.titleFemale>ذ±ذ¾ذ»ذµذ·ذ½ذµذ½ذ½ذ°رڈ ذ´ذµذ²ذ¾ر‡ذ؛ذ°</SicklyChild55.titleFemale>
+  <!-- EN: patient -->
+  <SicklyChild55.titleShort>ذ؟ذ°ر†ذ¸ذµذ½ر‚</SicklyChild55.titleShort>
+  <SicklyChild55.titleShortFemale>ذ؟ذ°ر†ذ¸ذµذ½ر‚ذ؛ذ°</SicklyChild55.titleShortFemale>
+  
+  <!-- EN: As a child, [PAWN_nameDef] was addicted to reading. [PAWN_pronoun] would spend all day in [PAWN_possessive] local library with [PAWN_possessive] nose in a book. When budget cuts forced the library to close, [PAWN_nameDef] was distraught. [PAWN_pronoun] decided to fill the gap by writing [PAWN_possessive] own stories instead. -->
+  <StoryWriter67.baseDesc>{PAWN_nameDef} رپ ذ´ذµر‚رپر‚ذ²ذ° {PAWN_gender ? ذ»رژذ±ذ¸ذ» : ذ»رژذ±ذ¸ذ»ذ°} ر‡ذ¸ر‚ذ°ر‚رŒ, ذ؟ر€ذ¾ذ²ذ¾ذ´رڈ ر†ذµذ»ر‹ذµ ذ´ذ½ذ¸ ذ² ذ±ذ¸ذ±ذ»ذ¸ذ¾ر‚ذµذ؛ذµ ذ¸ رƒر‚ذ؛ذ½رƒذ² رپذ²ذ¾ذ¹ ذ½ذ¾رپ ذ² ذ؛ذ½ذ¸ذ³رƒ. ذڑذ¾ذ³ذ´ذ° ذ±رژذ´ذ¶ذµر‚ ذ³ذ¾ر€ذ¾ذ´ذ° رƒر€ذµذ·ذ°ذ»ذ¸, ذ¸ ذ±ذ¸ذ±ذ»ذ¸ذ¾ر‚ذµذ؛ذ° ذ·ذ°ذ؛ر€ر‹ذ»ذ°رپرŒ, {PAWN_pronoun} رپذ½ذ°ر‡ذ°ذ»ذ° {PAWN_gender ? ر€ذ°رپرپر‚ر€ذ¾ذ¸ذ»رپرڈ : ر€ذ°رپرپر‚ر€ذ¾ذ¸ذ»ذ°رپرŒ}, ذ½ذ¾ ذ·ذ°ر‚ذµذ¼ {PAWN_gender ? ر€ذµرˆذ¸ذ» : ر€ذµرˆذ¸ذ»ذ°} ذ·ذ°ذ؟ذ¾ذ»ذ½ذ¸ر‚رŒ ذ؟ذ¾رڈذ²ذ¸ذ²رˆرƒرژرپرڈ ذ؟رƒرپر‚ذ¾ر‚رƒ ذ½ذ°ذ؟ذ¸رپذ°ذ½ذ¸ذµذ¼ رپذ²ذ¾ذ¸ر… رپذ¾ذ±رپر‚ذ²ذµذ½ذ½ر‹ر… ذ؛ذ½ذ¸ذ³.</StoryWriter67.baseDesc>
+  <!-- EN: story writer -->
+  <StoryWriter67.title>ذ؟ذ¸رپذ°ر‚ذµذ»رŒ</StoryWriter67.title>
+  <StoryWriter67.titleFemale>ذ؟ذ¸رپذ°ر‚ذµذ»رŒذ½ذ¸ر†ذ°</StoryWriter67.titleFemale>
+  <!-- EN: writer -->
+  <StoryWriter67.titleShort>ذ؟ذ¸رپذ°ر‚ذµذ»رŒ</StoryWriter67.titleShort>
+  <StoryWriter67.titleShortFemale>ذ؟ذ¸رپذ°ر‚ذµذ»رŒذ½ذ¸ر†ذ°</StoryWriter67.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] wasn't made as a person, but as an instrument of destruction. Grown in a bioweapons facility and taught combat during [PAWN_possessive] accelerated growth, [PAWN_nameDef] still has a proclivity for combat of all kinds and an aversion to human contact. -->
+  <VatgrownSoldier8.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ²ذ¾رپذ؟ذ¸ر‚ر‹ذ²ذ°ذ»رپرڈ : ذ²ذ¾رپذ؟ذ¸ر‚ر‹ذ²ذ°ذ»ذ°رپرŒ} ذ½ذµ ذ؛ذ°ذ؛ ذ»ذ¸ر‡ذ½ذ¾رپر‚رŒ, ذ° ذ؛ذ°ذ؛ ذ¸ذ½رپر‚ر€رƒذ¼ذµذ½ر‚ رƒذ½ذ¸ر‡ر‚ذ¾ذ¶ذµذ½ذ¸رڈ. {PAWN_possessive} رƒرپذ؛ذ¾ر€ذµذ½ذ½ذ¾ ذ²ر‹ر€ذ°رپر‚ذ¸ذ»ذ¸ ذ½ذ° رپذ؟ذµر†ذ¸ذ°ذ»رŒذ½ذ¾ذ¼ ذ¾ذ±رٹذµذ؛ر‚ذµ ذ؟ذ¾ ذ؟ر€ذ¾ذ¸ذ·ذ²ذ¾ذ´رپر‚ذ²رƒ ذ±ذ¸ذ¾ذ¾ر€رƒذ¶ذ¸رڈ, ذ¾ذ±رƒر‡ذ¸ذ² ذ²رپذµذ¼ ذ°رپذ؟ذµذ؛ر‚ذ°ذ¼ ذ²ذµذ´ذµذ½ذ¸رڈ ذ±ذ¾رڈ. ذ£ ذ½{PAWN_possessive} ذ´ذ¾ رپذ¸ر… ذ؟ذ¾ر€ رپذ¾ر…ر€ذ°ذ½رڈذµر‚رپرڈ ر‚رڈذ³ذ° ذ؛ رپر€ذ°ذ¶ذµذ½ذ¸رڈذ¼ ذ¸ ذ½ذµذ¶ذµذ»ذ°ذ½ذ¸ذµ ذ¾ذ±ر‰ذ°ر‚رŒرپرڈ رپ ذ»رژذ´رŒذ¼ذ¸.</VatgrownSoldier8.baseDesc>
+  <!-- EN: vatgrown soldier -->
+  <VatgrownSoldier8.title>ذ²ر‹ر€ذ°ر‰ذµذ½ذ½ر‹ذ¹ رپذ¾ذ»ذ´ذ°ر‚</VatgrownSoldier8.title>
+  <!-- EN: vatgrown -->
+  <VatgrownSoldier8.titleShort>رپذ¾ذ»ذ´ذ°ر‚</VatgrownSoldier8.titleShort>
+  
+  <!-- EN: War broke out in [PAWN_nameDef]'s home when [PAWN_pronoun] was a baby. [PAWN_possessive] parents fled with [PAWN_objective], seeking safety wherever they could find it. [PAWN_nameDef]'s earliest memories are of being taught how to defend [PAWN_objective]self.\n\nThe violence and destruction [PAWN_pronoun] witnessed left [PAWN_objective] scarred for life. -->
+  <WarRefugee51.baseDesc>ذںذ¾رپذ»ذµ ر‚ذ¾ذ³ذ¾, ذ؛ذ°ذ؛ ذ²ذ¾ذ¹ذ½ذ° ذ؟ر€ذ¸رˆذ»ذ° ذ² {PAWN_possessive} ر€ذ¾ذ´ذ½ذ¾ذ¹ ذ´ذ¾ذ¼, {PAWN_nameDef} ذ¸ {PAWN_possessive} ر€ذ¾ذ´ذ¸ر‚ذµذ»ذ¸ ذ±ذµذ¶ذ°ذ»ذ¸, ذ؟ر‹ر‚ذ°رڈرپرŒ ر…ذ¾ر‚رŒ ذ³ذ´ذµ-ذ½ذ¸ذ±رƒذ´رŒ ذ½ذ°ذ¹ر‚ذ¸ ذ±ذµذ·ذ¾ذ؟ذ°رپذ½ذ¾ذµ رƒذ±ذµذ¶ذ¸ر‰ذµ. {PAWN_possessive} رپذ°ذ¼ر‹ذµ ذ؟ذµر€ذ²ر‹ذµ ذ²ذ¾رپذ؟ذ¾ذ¼ذ¸ذ½ذ°ذ½ذ¸رڈآ â€” رƒر€ذ¾ذ؛ذ¸ رپذ°ذ¼ذ¾ذ·ذ°ر‰ذ¸ر‚ر‹.\n\nذ‌ذ°رپذ¸ذ»ذ¸ذµ ذ¸ ر€ذ°ذ·ر€رƒرˆذµذ½ذ¸رڈ, رپذ²ذ¸ذ´ذµر‚ذµذ»ذµذ¼ ذ؛ذ¾ر‚ذ¾ر€ر‹ر… {PAWN_gender ? رپر‚ذ°ذ½ذ¾ذ²ذ¸ذ»رپرڈ : رپر‚ذ°ذ½ذ¾ذ²ذ¸ذ»ذ°رپرŒ} {PAWN_nameDef}, ذ½ذ°ذ²رپذµذ³ذ´ذ° ذ¾رپر‚ذ°ذ²ذ¸ذ»ذ¸ ذ³ذ»رƒذ±ذ¾ذ؛ذ¸ذ¹ رپذ»ذµذ´ ذ² {PAWN_possessive} ذ؟ذ°ذ¼رڈر‚ذ¸.</WarRefugee51.baseDesc>
+  <!-- EN: war refugee -->
+  <WarRefugee51.title>ذ±ذµذ¶ذµذ½ذµر†</WarRefugee51.title>
+  <WarRefugee51.titleFemale>ذ±ذµذ¶ذµذ½ذ؛ذ°</WarRefugee51.titleFemale>
+  <!-- EN: refugee -->
+  <WarRefugee51.titleShort>ذ±ذµذ¶ذµذ½ذµر†</WarRefugee51.titleShort>
+  <WarRefugee51.titleShortFemale>ذ±ذµذ¶ذµذ½ذ؛ذ°</WarRefugee51.titleShortFemale>
+  
+</LanguageData>
