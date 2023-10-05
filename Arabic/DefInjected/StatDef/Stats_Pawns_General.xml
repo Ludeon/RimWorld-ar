@@ -1,0 +1,197 @@
+<LanguageData>
+  
+  
+  <AnimalsLearningFactor.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺐﻳﺭﺪﺗ ﺓﺀﺎﻔﻛ</AnimalsLearningFactor.label>
+  
+  <AnimalsLearningFactor.description>ﺓﺭﺎﻬﻣ ﻱﺃ ﻥﺍﻮﻴﺤﻟﺍ ﻢﻠﻌﺗ ﻲﻓ ﺓﺀﺎﻔﻜﻟﺍ ﻒﻋﺎﻀﻣ</AnimalsLearningFactor.description>
+  
+  
+  <BedHungerRateFactor.label>ﺮﻳﺮﺴﻟﺍ ﻲﻓ ﻉﻮﺠﻟﺍ ﻞﻣﺎﻌﻣ</BedHungerRateFactor.label>
+  
+  
+  <CaravanRidingSpeedFactor.label>ﺔﻠﻓﺎﻘﻟﺍ ﻲﻓ ﺮﻔﺴﻟﺍ ﺔﻋﺮﺳ</CaravanRidingSpeedFactor.label>
+  
+  <CaravanRidingSpeedFactor.description>ﺔﺑﺍﺮﻘﻟ ﺎﻬﺑﻮﻛﺭ ﺪﻨﻋ ﺔﻴﺼﺨﺸﻟﺍ ﻙﺮﺤﺗ ﺔﻋﺮﺳ ﻒﻋﺎﻀﻣ
+.ﺕﺎﻧﺎﻓﺍﺭﺎﻜﻟﺍ ﻲﻓ ﻂﻘﻓ ﺡﺎﺘﻣ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺏﻮﻛﺭ ،ﻥﺎﻓﺍﺭﺎﻜﻟﺍ</CaravanRidingSpeedFactor.description>
+  
+  
+  <CarryingCapacity.label>ﺔﻟﻮﻤﺤﻟﺍ</CarryingCapacity.label>
+  
+  <CarryingCapacity.description>ﻪﻳﺪﻴﺑ ﺎﻬﻠﻘﻧ ﻦﺋﺎﻜﻠﻟ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺩﺪﻋ
+.ﻯﺮﺧﻷﺍ ﺐﻋﻼﺘﻟﺍ ﻱﺪﻳﺃﻭ ﻪﻧﺎﻨﺳﺃﻭ
+ﻲﻓ ﻊﺋﺎﻀﺒﻟﺍ ﻞﻘﻧ ﺓﺭﺪﻗ ﻰﻠﻋ ﺮﺛﺆﻳ ﻻ
+.ﺔﻠﻳﻮﻃ ﺕﻼﺣﺭ</CarryingCapacity.description>
+  
+  
+  <ComfyTemperatureMax.label>ﺔﺤﻳﺮﻣ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﻰﺼﻗﺃ</ComfyTemperatureMax.label>
+  
+  <ComfyTemperatureMax.description>ﺔﻤﻴﻘﻟﺍ ﻩﺬﻫ ﻕﻮﻓ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﺖﻌﻔﺗﺭﺍ ﺍﺫﺇ
+ﺕﺩﺍﺯ ﺍﺫﺇ .ﺽﺍﺭ ﺮﻴﻏ ﺺﺨﺸﻟﺍ ﻥﻮﻜﻴﺳ ،
+ﺓﺭﺍﺮﺣ ﺔﺑﺮﻀﻟ ﺽﺮﻌﺘﻳ ﺪﻘﻓ ، ﺮﻴﺒﻛ ﻞﻜﺸﺑ
+.ﺪﻌﺑ ﺎﻤﻴﻓ ﻪﺑ ﻱﺩﻮﻳ ﻥﺃ ﻦﻜﻤﻳ ﺔﻠﺗﺎﻗ</ComfyTemperatureMax.description>
+  
+  
+  <ComfyTemperatureMin.label>.ﻰﻧﺩﻷﺍ ﺪﺤﻟﺍ ﺔﺤﻳﺮﻣ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ</ComfyTemperatureMin.label>
+  
+  <ComfyTemperatureMin.description>ﻩﺬﻫ ﻦﻣ ﻞﻗﺃ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﺖﻀﻔﺨﻧﺍ ﺍﺫﺇ
+.ﺽﺍﺭ ﺮﻴﻏ ﺺﺨﺸﻟﺍ ﻥﻮﻜﻴﺳ ، ﺔﻤﻴﻘﻟﺍ
+ﺪﻤﺠﺘﻟﺎﺑ ﺏﺎﺼﻴﺳ ، ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﺖﻀﻔﺨﻧﺍ ﺍﺫﺇ
+ﻲﻓ ﻱﺩﺆﻳ ﺪﻗ ﺎﻤﻣ ، ﺩﺮﺒﻟﺍ ﻢﻤﺴﺘﻟﺍﻭ
+.ﻪﺗﺎﻓﻭ ﻰﻟﺇ ﻑﺎﻄﻤﻟﺍ ﺔﻳﺎﻬﻧ</ComfyTemperatureMin.description>
+  
+  
+  <EatingSpeed.label>ﻡﺎﻌﻄﻟﺍ ﺹﺎﺼﺘﻣﺍ ﺔﻋﺮﺳ</EatingSpeed.label>
+  
+  <EatingSpeed.description>.ﻡﺎﻌﻄﻟﺍ ﺹﺎﺼﺘﻣﺍ ﺔﻋﺮﺳ ﻞﻣﺎﻌﻣ</EatingSpeed.description>
+  
+  
+  <FilthRate.label>ﺙﻮﻠﺘﻟﺍ ﻯﻮﺘﺴﻣ</FilthRate.label>
+  
+  <FilthRate.description>ﻦﻣn\n\؟ﺦﺳﻮﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﺞﺘﻨﻳ ﻒﻴﻛ
+ﺔﻴﻟﺎﻌﻟﺍ ﺲﻴﻳﺎﻘﻤﻟﺍ ﺕﺍﺫ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻆﻔﺘﺤﺗ ﻥﺃ ﻞﻀﻓﻷﺍ
+ﺓﺎﻄﻐﻣ ﻦﻛﺎﻣﺃ ﻲﻓ ﻭﺃ ﻖﻠﻄﻟﺍ ﺀﺍﻮﻬﻟﺍ ﻲﻓ
+.ﺔﻠﻜﺸﻣ ﺔﺨﺳﻮﻟﺍ ﻥﻮﻜﺗ ﻦﻟ ﺚﻴﺣ ،ﺶﻘﻟﺎﺑ</FilthRate.description>
+  
+  
+  <ForagedNutritionPerDay.label>ﺐﻴﻘﻨﺘﻠﻟ ﺔﺣﺎﺘﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺔﻴﻤﻛ</ForagedNutritionPerDay.label>
+  
+  <ForagedNutritionPerDay.description>ﺎﻬﻴﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﺋﺎﻜﻠﻟ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺔﻴﻤﻛ
+.ﺔﻠﺣﺮﻟﺍ ﻦﻣ ﻡﻮﻳ ﻝﻼﺧ</ForagedNutritionPerDay.description>
+  
+  
+  <GlobalLearningFactor.label>ﺐﻳﺭﺪﺘﻟﺍ ﺔﻴﻟﺎﻌﻓ</GlobalLearningFactor.label>
+  
+  <GlobalLearningFactor.description>.ﺓﺭﺎﻬﻣ ﻱﺃ ﻢﻠﻌﺗ ﺔﻴﻟﺎﻌﻓ ﻒﻋﺎﻀﻣ</GlobalLearningFactor.description>
+  
+  
+  <ImmunityGainSpeed.label>ﺔﻋﺎﻨﻤﻟﺍ ﻦﻳﻮﻜﺗ ﺔﻋﺮﺳ</ImmunityGainSpeed.label>
+  
+  <ImmunityGainSpeed.description>ﻥﺎﻛ ﺍﺫﺇ .ﺽﺍﺮﻣﻷﺍ ﺪﺿ ﺔﻋﺎﻨﻤﻟﺍ ﻦﻳﻮﻜﺗ ﺔﻋﺮﺳ
+ﻦﻣ ﺕﻮﻤﺘﺳ ﺔﻴﺼﺨﺸﻟﺎﻓ ، ﺍﺪﺟ ﺔﻀﻔﺨﻨﻣ ﺔﻤﻴﻘﻟﺍ
+.ﻪﻟ ﺔﻋﺎﻨﻤﻟﺍ ﻦﻳﻮﻜﺗ ﻞﺒﻗ ﺽﺮﻤﻟﺍ</ImmunityGainSpeed.description>
+  
+  
+  <InjuryHealingFactor.label>ﺡﻭﺮﺠﻟﺍ ﻲﻓﺎﻌﺗ ﺔﻋﺮﺳ</InjuryHealingFactor.label>
+  
+  <InjuryHealingFactor.description>.ﺔﻴﺼﺨﺸﻟﺍ ﺡﻭﺮﺟ ﺀﺎﻔﺷ ﺔﻋﺮﺳ</InjuryHealingFactor.description>
+  
+  
+  <LeatherAmount.label>ﺩﻮﻠﺠﻟﺍ ﺩﺪﻋ</LeatherAmount.label>
+  
+  <LeatherAmount.description>.ﻕﻮﻠﺨﻤﻟﺍ ﺢﺑﺫ ﺔﻟﺎﺣ ﻲﻓ ﺔﻟﻮﺼﺤﻤﻟﺍ ﺪﻠﺠﻟﺍ ﺔﻴﻤﻛ
+ﻞﻜﺸﺑ ﻦﺋﺎﻜﻟﺍ ﻞﺘﻗ ﻢﺗ ﺍﺫﺇ ﺺﻘﻨﺘﻴﺳ ﺩﺪﻌﻟﺍ
+ﻞﺒﻗ ﻪﻳﻮﺸﺘﻠﻟ ﺽﺮﻌﺗ ﺍﺫﺇ ﻭﺃ ﺢﻴﺤﺻ ﺮﻴﻏ
+.ﺕﻮﻤﻟﺍ</LeatherAmount.description>
+  
+  
+  <LifespanFactor.label>ﺮﻤﻌﻟﺍ ﻝﻮﻃ ﻞﻣﺎﻌﻣ</LifespanFactor.label>
+  
+  <LifespanFactor.description>ﻉﺮﺴﻳ ،ﻲﺤﻟﺍ ﻦﺋﺎﻜﻟﺍ ﺮﻤﻋ ﻰﻠﻋ ﺮﺛﺆﻳ ﻞﻣﺎﻌﻣ
+ﺎﻣﺪﻨﻋ .ﺔﻳﺮﻤﻌﻟﺍ ﺽﺍﺮﻣﻷﺍ ﺭﻮﻄﺗ ﺖﻗﻭ ﺊﻄﺒﻳ ﻭﺃ
+ﺽﺍﺮﻣﻷﺍ ﺭﻮﻬﻇ ﺄﻃﺎﺒﺘﻳ ،٪100 ﻦﻣ ﺮﺜﻛﺃ ﻥﻮﻜﻳ
+ﻦﻣ ﻞﻗﺃ ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋﻭ ،ﻲﻟﺎﻤﺟﻹﺍ ﺮﻤﻌﻟﺍ ﺪﻳﺰﻳﻭ
+.ﺮﻤﻌﻟﺍ ﻞﻘﻳﻭ ﺽﺍﺮﻣﻷﺍ ﺭﻮﻬﻇ ﻉﺭﺎﺴﺘﻳ ،٪100</LifespanFactor.description>
+  
+  
+  <MaxNutrition.label>ﻊﺒﺷ ﻯﻮﺘﺴﻣ ﻰﺼﻗﺃ</MaxNutrition.label>
+  
+  <MaxNutrition.description>.ﺎﻣﺎﻤﺗ ﻕﻮﻠﺨﻤﻟﺍ ﺓﺪﻌﻣ ﺀﻞﻤﻟ ﺔﻣﺯﻼﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺔﻴﻤﻛ</MaxNutrition.description>
+  
+  
+  <MeatAmount.label>ﻢﺤﻠﻟﺍ ﺔﻴﻤﻛ</MeatAmount.label>
+  
+  <MeatAmount.description>ﺪﻨﻋ ﺎﻬﻴﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﻢﺤﻠﻟﺍ ﺔﻴﻤﻛ
+ﻝﺎﺣ ﻲﻓ ﺩﺪﻌﻟﺍ ﺺﻘﻨﺘﻳ ﺪﻗ .ﻕﻮﻠﺨﻤﻟﺍ ﺢﺑﺫ
+ﻞﺒﻗ ﻩﻮﺸﺗ ﻭﺃ ﺊﻃﺎﺧ ﺢﺑﺬﻟ ﻕﻮﻠﺨﻤﻟﺍ ﺽﺮﻌﺗ
+.ﺓﺎﻓﻮﻟﺍ</MeatAmount.description>
+  
+  
+  <MeditationFocusGain.label>ﻞﻣﺄﺘﻟﺍ ﺔﻴﻟﺎﻌﻓ</MeditationFocusGain.label>
+  
+  <MeditationFocusGain.description>ﺔﻴﺼﺨﺸﻟﺍ ﺪﻴﻌﺘﺴﻳ ﻲﺘﻟﺍ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻗﺎﻄﻟﺍ ﻊﻤﺠﺗ ﺔﻴﻤﻛ
+ﺓﺎﻋﺍﺮﻣ ﻥﻭﺪﺑ ،ﻞﻣﺄﺘﻟﺍ ﻦﻣ ﻡﻮﻴﻟﺍ ﻲﻓ ﻩﺬﻫ
+.ﺰﻴﻛﺮﺘﻟﺍ ﻡﺎﺴﺟﺃ ﻦﻣ ﺓﺄﻓﺎﻜﻤﻟﺍ</MeditationFocusGain.description>
+  
+  <MeditationFocusGain.formatString>ﻡﻮﻴﻟﺍ ﻲﻓ {0}</MeditationFocusGain.formatString>
+  
+  <MeditationFocusGain.formatStringUnfinalized>ﻡﻮﻴﻟﺍ ﻲﻓ 0</MeditationFocusGain.formatStringUnfinalized>
+  
+  
+  <MentalBreakThreshold.label>ﻲﺒﺼﻌﻟﺍ ﺭﺎﻴﻬﻧﻻﺍ ﺔﻓﺎﺣ</MentalBreakThreshold.label>
+  
+  <MentalBreakThreshold.description>ﺍﺬﻫ ﻦﻣ ﻰﻧﺩﺃ ﺔﻴﺼﺨﺸﻟﺍ ﺝﺍﺰﻣ ﻊﺟﺍﺮﺗ ﺍﺫﺇ
+ﻦﻣ ﺏﺮﻗ ﺔﻟﺎﺣ ﻲﻓ ﻥﻮﻜﻴﺴﻓ ، ﻯﻮﺘﺴﻤﻟﺍ
+.ﻲﺒﺼﻌﻟﺍ ﺭﺎﻴﻬﻧﻻﺍ
+
+ﺽﺎﻔﺨﻧﺍ ﻯﺪﻣ ﻰﻠﻋ ﻲﺒﺼﻌﻟﺍ ﺭﺎﻴﻬﻧﻻﺍ ﺓﺭﻮﻄﺧ ﺪﻤﺘﻌﻳ
+.ﺪﺤﻟﺍ ﺍﺬﻫ ﺖﺤﺗ ﺔﻴﺼﺨﺸﻟﺍ ﺝﺍﺰﻣ</MentalBreakThreshold.description>
+  
+  
+  <MinimumHandlingSkill.label>ﺔﺑﻮﻠﻄﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﻴﺑﺮﺗ ﺓﺭﺎﻬﻣ</MinimumHandlingSkill.label>
+  
+  <MinimumHandlingSkill.description>ﻯﻮﺘﺴﻣ ﻥﺎﻛ ﺍﺫﺇ ﻥﺍﻮﻴﺤﻟﺍ ﺱﺎﻨﺌﺘﺳﺍ ﻦﻜﻤﻳ ﻻ
+ﻦﻣ ﻞﻗﺃ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻣ ﻦﻃﻮﺘﺴﻤﻟﺍ ﻞﻣﺎﻌﺗ ﺓﺭﺎﻬﻣ
+.ﻯﻮﺘﺴﻤﻟﺍ ﺍﺬﻫ</MinimumHandlingSkill.description>
+  
+  
+  <MoveSpeed.label>ﻞﻘﻨﺘﻟﺍ ﺔﻋﺮﺳ</MoveSpeed.label>
+  
+  <MoveSpeed.description>Сﺎﻳﻼﺨﻟﺍ ﺓﺪﺣﻮﺑ ،ﻢﻟﺎﻌﻟﺍ ﻲﻓ ﻕﻮﻠﺨﻤﻟﺍ ﻙﺮﺤﺗ ﺔﻋﺭ
+ﺔﻴﻧﺎﺜﻟﺍ ﻲﻓ.</MoveSpeed.description>
+  
+  <MoveSpeed.formatString>ﺙ/ﻡ {0}</MoveSpeed.formatString>
+  
+  
+  <PainShockThreshold.label>ﻢﻟﻷﺍ ﻞﻤﺤﺗ ﺪﺣ</PainShockThreshold.label>
+  
+  <PainShockThreshold.description>ﻥﺃ ﻦﺋﺎﻜﻠﻟ ﻦﻜﻤﻳ ﻱﺬﻟﺍ ﻢﻟﻸﻟ ﻯﻮﺘﺴﻣ ﻰﺼﻗﺃ
+.ﻪﻴﻣﺪﻗ ﻰﻠﻋ ﻒﻘﻳ</PainShockThreshold.description>
+  
+  
+  <PsychicEntropyMax.label>ﻲﺒﺼﻌﻟﺍ ﻉﺎﻔﺗﺭﻹﺍ ﺪﺣ</PsychicEntropyMax.label>
+  
+  <PsychicEntropyMax.description>ﻦﻣ ﻪﻠﻤﺤﺗ ﺺﺨﺸﻟﺍ ﺍﺬﻬﻟ ﻦﻜﻤﻳ ﻯﻮﺘﺴﻣ ﻰﺼﻗﺃ
+.ﺏﺎﺼﻋﻷﺍ ﻦﻴﺨﺴﺗ</PsychicEntropyMax.description>
+  
+  
+  <PsychicEntropyRecoveryRate.label>ﺏﺎﺼﻋﻷﺍ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﻉﺎﻔﺗﺭﺍ ﺽﺎﻔﺨﻧﺍ ﺔﻋﺮﺳ</PsychicEntropyRecoveryRate.label>
+  
+  <PsychicEntropyRecoveryRate.description>ﻲﺒﺼﻌﻟﺍ ﻞﻴﻤﺤﺘﻟﺍ ﻯﻮﺘﺴﻣ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﺾﻴﻔﺨﺗ ﺔﻋﺮﺳ
+.ﻪﺑ ﺹﺎﺨﻟﺍ ﺪﺋﺍﺰﻟﺍ</PsychicEntropyRecoveryRate.description>
+  
+  <PsychicEntropyRecoveryRate.formatString>{0}/c</PsychicEntropyRecoveryRate.formatString>
+  
+  
+  <PsychicSensitivity.label>ﻱﻮﻗ ﻲﻔﻃﺎﻋ ﺱﺎﺴﺣﺇ</PsychicSensitivity.label>
+  
+  <PsychicSensitivity.description>ﺔﻴﺒﻠﺴﻟﺍ ﺭﺎﺛﻵﺍ ﻦﻣ ﺮﺜﻛﺃ ﻥﻮﻧﺎﻌﻳ ﻥﻮﺳﺎﺴﺤﻟﺍ ﺹﺎﺨﺷﻷﺍ
+ﻊﻓﺮﺗ ﺔﻴﻟﺎﻌﻟﺍ ﺔﻴﺒﺼﻌﻟﺍ ﺔﻴﺳﺎﺴﺤﻟﺍ .ﺔﻴﺑﺎﺠﻳﻹﺍ ﺀﺎﻴﺷﻷﺎﺑ ﻥﻮﻌﺘﻤﺘﺴﻳﻭ
+.ﻲﺒﺼﻌﻟﺍ ﻁﺍﺮﻓﻹﺍ ﺔﺒﺘﻋ ﺎﻀﻳﺃ</PsychicSensitivity.description>
+  
+  
+  <RestFallRateFactor.label>ﻡﻮﻨﻟﺍ ﺔﺟﺎﺣ ﻒﻋﺎﻀﻣ</RestFallRateFactor.label>
+  
+  <RestFallRateFactor.description>.ﺺﺨﺸﻟﺍ ﺍﺬﻬﻟ ﻡﻮﻨﻟﺍ ﺔﺟﺎﺣ ﺭﻮﻬﻇ ﺔﻋﺮﺳ ﻞﻣﺎﻌﻣ</RestFallRateFactor.description>
+  
+  
+  <RestRateMultiplier.label>ﻡﻮﻨﻟﺍ ﺓﺀﺎﻔﻛ</RestRateMultiplier.label>
+  
+  <RestRateMultiplier.description>.ﻡﻮﻨﻟﺍ ﺀﺎﻨﺛﺃ ﻦﺋﺎﻜﻟﺍ ﻯﻮﻗ ﺓﺩﺎﻌﺘﺳﺍ ﺔﻋﺮﺳ ﺮﺷﺆﻣ</RestRateMultiplier.description>
+  
+  
+  <ToxicEnvironmentResistance.label>ﺔﻣﺎﺴﻟﺍ ﺔﺌﻴﺒﻠﻟ ﺔﻣﻭﺎﻘﻣ</ToxicEnvironmentResistance.label>
+  
+  <ToxicEnvironmentResistance.description>ﺔﻄﻴﺤﻤﻟﺍ ﺔﺌﻴﺒﻟﺍ ﻲﻓ ﻡﻮﻤﺴﻟﺍ ﺮﻴﺛﺄﺘﻟ ﻕﻮﻠﺨﻤﻟﺍ ﺔﻣﻭﺎﻘﻣ
+ﺔﻨﻔﻌﺘﻤﻟﺍ ﺕﺍﺯﺎﻐﻟﺍﻭ ﺔﻣﺎﺴﻟﺍ ﺕﺍﺯﺎﻐﻟﺍ ﻦﻣ ﻲﻤﺤﻳ .ﻪﺑ
+ﻦﻣ ﺲﻴﻟ ﻦﻜﻟﻭ ،ﺔﺛﻮﻠﻤﻟﺍ ﺔﺑﺮﺘﻟﺍﻭ ﺔﻣﺎﺴﻟﺍ ﺐﺳﺍﻭﺮﻟﺍﻭ
+ﺩﺍﺯ ﺎﻤﻠﻛ .ﻢﻤﺴﺘﻟﺍ ﻭﺃ ﻢﺴﻟﺎﺑ ﺓﺮﺷﺎﺒﻤﻟﺍ ﺕﺎﻤﺠﻬﻟﺍ
+ﺔﻴﺼﺨﺸﻟﺍ ﻢﺴﺟ ﻢﻤﺴﺗ ﺔﺻﺮﻓ ﺖﻀﻔﺨﻧﺍ ،ﺮﺷﺆﻤﻟﺍ ﺍﺬﻫ
+.ﻞﻣﺍﻮﻌﻟﺍ ﻩﺬﻫ ﻦﻣ</ToxicEnvironmentResistance.description>
+  
+  
+  <ToxicResistance.label>ﻡﻮﻤﺴﻟﺍ ﺔﻣﻭﺎﻘﻣ</ToxicResistance.label>
+  
+  <ToxicResistance.description>ﻢﻤﺴﺘﻟﺍ ﺔﻬﺟﺍﻮﻣ ﻲﻓ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﺔﻴﻠﻋﺎﻓ ﻯﺪﻣ
+.ﻡﻮﻤﺴﻟﺎﺑ</ToxicResistance.description>
+  
+</LanguageData>
