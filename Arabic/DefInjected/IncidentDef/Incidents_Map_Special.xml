@@ -1,0 +1,30 @@
+<LanguageData>
+  
+  
+  <OrbitalTraderArrival.label>ﻲﺋﺎﻀﻔﻟﺍ ﺮﺟﺎﺘﻟﺍ</OrbitalTraderArrival.label>
+  
+  
+  <RaidFriendly.label>ﺔﻳﺩﻭ ﺓﺭﺎﻏ</RaidFriendly.label>
+  
+  
+  <ShipChunkDrop.label>ﺔﻤﻄﺤﻣ ﺔﻨﻴﻔﺳ ﺔﻌﻄﻗ</ShipChunkDrop.label>
+  
+  
+  <StrangerInBlackJoin.label>ﺩﻮﺳﻷﺍ ﻲﻓ ﺐﻳﺮﻏ</StrangerInBlackJoin.label>
+  
+  <StrangerInBlackJoin.letterLabel>ﺩﻮﺳﻷﺍ ﺱﺎﺒﻠﻟﺍ ﻲﻓ ﺾﻣﺎﻐﻟﺍ ﺐﻳﺮﻐﻟﺍ</StrangerInBlackJoin.letterLabel>
+  
+  <StrangerInBlackJoin.letterText>: ﺾﻣﺎﻏ ? PAWN_gender} ﺐﻠﺠﻳ ﺔﺛﺭﺎﻜﻟﺍ ﺭﻮﻌﺷ
+ﻡﺎﻈﻨﻟﺍ ﺓﺩﺎﻌﺘﺳﺍ ﻦﻣ {PAWN_pronoun} ﻦﻜﻤﺘﻴﺳ ﻞﻫPAWN_kind}.\n} {ﺔﻀﻣﺎﻏ
+؟ﻲﺿﺍﺭﻷﺍ ﻩﺬﻫ ﻲﻓ</StrangerInBlackJoin.letterText>
+  
+  
+  <TraderCaravanArrival.label>ﺔﻳﺭﺎﺠﺗ ﺔﻠﻓﺎﻗ</TraderCaravanArrival.label>
+  
+  
+  <TravelerGroup.label>ﻥﻭﺮﻓﺎﺴﻤﻟﺍ</TravelerGroup.label>
+  
+  
+  <VisitorGroup.label>ﺭﺍﻭﺰﻟﺍ</VisitorGroup.label>
+  
+</LanguageData>
