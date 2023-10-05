@@ -1,0 +1,154 @@
+<LanguageData>
+  
+  
+  <ArmorRating_Blunt.label>ﺔﺑﺮﻀﻟﺍ :ﻉﻭﺭﺪﻟﺍ</ArmorRating_Blunt.label>
+  
+  <ArmorRating_Blunt.description>,ﺔﻀﺒﻘﻟﺍ ﺔﺑﺮﺿ ﻞﺜﻣ ﺔﻗﻮﺤﺴﻤﻟﺍ ﺕﺎﺑﺮﻀﻟﺍ ﺪﺿ ﺔﻳﺎﻤﺣ
+ﻢﺘﻳ ﺏﺮﻀﻟﺍ ﺪﻨﻋ .ﺓﺭﺎﺠﺤﻟﺍ ﻁﻮﻘﺳﻭ ،ﺎﺼﻌﻟﺍ ﻡﻮﺠﻫ
+ﻢﺛ .ﺔﺑﺮﻀﻟﺍ ﺓﻮﻗ ﻦﻣ ﻉﻭﺭﺪﻟﺍ ﻯﻮﺘﺴﻣ ﻢﺼﺧ
+ﻦﻴﺑ ﻲﺋﺍﻮﺸﻋ ﻢﻗﺭ ﻊﻣ ﺞﺗﺎﻨﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ ﻥﺭﺎﻘﻳ
+ﻞﻗﺃ ﻢﻗﺮﻟﺍ ﻥﺎﻛ ﺍﺫﺇ - .100ﻭ 0
+ﻡﻮﺠﻬﻟﺍ ﻥﺈﻓ ،ﻉﻭﺭﺪﻠﻟ ﺞﺗﺎﻨﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ ﻒﺼﻧ ﻦﻣ
+ﻢﻗﺮﻟﺍ ﻥﺎﻛ ﺍﺫﺇ - .ﻞﻣﺎﻜﻟﺎﺑ ﺍﺪﺗﺮﻣ ﺮﺒﺘﻌﻳ
+ﻦﻜﻟﻭ ،ﻉﻭﺭﺪﻠﻟ ﺞﺗﺎﻨﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ ﻒﺼﻧ ﻦﻣ ﻰﻠﻋﺃ
+ﺭﺮﻀﻟﺍ ﻒﻴﻔﺨﺗ ﻢﺘﻳ ،ﻪﺴﻔﻧ ﻯﻮﺘﺴﻤﻟﺍ ﻯﺪﻌﺘﻳ ﻻ
+ﺯﻭﺎﺠﺘﻳ ﻢﻗﺮﻟﺍ ﻥﺎﻛ ﺍﺫﺇ - .ﻒﺼﻨﻟﺍ ﻰﻟﺇ
+ﺮﺛﺆﺗ ﻻ ﻉﻭﺭﺪﻟﺍ ﻥﺈﻓ ،ﻉﻭﺭﺪﻠﻟ ﺞﺗﺎﻨﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ
+ﺍﺫﺇ ،ﻝﺎﺜﻤﻟﺍ ﻞﻴﺒﺳ ﻰﻠﻋ .ﻢﻠﺘﺴﻤﻟﺍ ﺭﺮﻀﻟﺍ ﻰﻠﻋ
+%10 ﻉﻭﺭﺪﻟﺍ ﻕﺍﺮﺘﺧﺍ ﺔﺒﺴﻨﺑ ﻡﻮﺠﻫ ﻙﺎﻨﻫ ﻥﺎﻛ
+ﺔﻴﻟﺎﻤﺘﺣﺍ ﻙﺎﻨﻫ ﻥﺈﻓ ،%90 ﻯﻮﺘﺴﻤﺑ ﻉﺭﺩ ﻪﺟﺍﻮﻳ
+ﺔﻴﻟﺎﻤﺘﺣﺍﻭ ﻞﻣﺎﻜﻟﺎﺑ ﺭﺮﻀﻟﺍ ﺪﺻ ﻢﺘﻳ ﻥﺃ %40
+ﺔﻘﺒﻃ ﻞﻛ ﺮﺛﺆﺗ .ﻪﻔﻴﻔﺨﺗ ﻢﺘﻳ ﻥﺃ %40
+ﻞﻜﺸﺑ ﻡﻮﺠﻬﻟﺍ ﺔﺠﻴﺘﻧ ﻰﻠﻋ ﻉﻭﺭﺪﻟﺍﻭ ﺲﺑﻼﻤﻟﺍ ﻦﻣ
+.ﺔﻴﻠﺧﺍﺪﻟﺍ ﻰﻟﺇ ﺔﻴﺟﺭﺎﺨﻟﺍ ﺔﻘﺒﻄﻟﺍ ﻦﻣ :ﻊﺑﺎﺘﺘﻣ</ArmorRating_Blunt.description>
+  
+  <ArmorRating_Blunt.labelForFullStatList>(ﻉﻭﺭﺪﻟﺍ ﺮﺷﺆﻣ) ﺏﺮﻀﻟﺍ :ﻉﻭﺭﺪﻟﺍ</ArmorRating_Blunt.labelForFullStatList>
+  
+  
+  <ArmorRating_Heat.label>ﻦﻴﺨﺴﺘﻟﺍ :ﻉﺭﺪﻟﺍ</ArmorRating_Heat.label>
+  
+  <ArmorRating_Heat.description>ﻞﺜﻣ ﺓﺭﺍﺮﺤﻟﺍ ﺕﺎﺟﺭﺪﺑ ﺔﻘﻠﻌﺘﻤﻟﺍ ﺕﺍﺮﻴﺛﺄﺘﻟﺍ ﺪﺿ ﺔﻳﺎﻤﺣ
+.ﻕﻭﺮﺤﻟﺍ
+ﺓﻮﻗ ﻦﻣ ﻉﻭﺭﺪﻟﺍ ﻕﺍﺮﺘﺧﺍ ﺓﻮﻗ ﻢﺼﺧ ﻢﺘﻳ
+.ﻡﻮﺠﻬﻠﻟ ﺽﺮﻌﺘﻟﺍ ﺪﻨﻋ ﻉﻭﺭﺪﻟﺍ
+ﺪﻌﺑ ﺔﻘﺤﺘﺴﻤﻟﺍ ﻉﻭﺭﺪﻟﺍ ﺓﻮﻗ ﺔﻧﺭﺎﻘﻣ ﻢﺘﻳ ﻢﺛ
+ﻭ 0 ﻦﻴﺑ ﻲﺋﺍﻮﺸﻌﻟﺍ ﺩﺪﻌﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ
+.100
+ﻒﺼﻧ ﻦﻣ ﻞﻗﺃ ﺩﺪﻌﻟﺍ ﻥﺎﻛ ﺍﺫﺇ -
+ﺍﺪﺗﺮﻣ ﻡﻮﺠﻬﻟﺍ ﺮﺒﺘﻌﻳ ، ﺔﻘﺤﺘﺴﻤﻟﺍ ﻉﻭﺭﺪﻟﺍ ﺓﻮﻗ
+.ﻞﻣﺎﻜﻟﺎﺑ
+ﻒﺼﻧ ﻦﻣ ﺮﺒﻛﺃ ﺩﺪﻌﻟﺍ ﻥﺎﻛ ﺍﺫﺇ -
+ﺎﻬﻨﻣ ﻰﻠﻋﺃ ﺲﻴﻟ ﻦﻜﻟﻭ ﺔﻘﺤﺘﺴﻤﻟﺍ ﻉﻭﺭﺪﻟﺍ ﺓﻮﻗ
+.ﻒﺼﻨﻟﺍ ﻰﻟﺇ ﺭﺮﻀﻟﺍ ﻒﻴﻔﺨﺗ ﻢﺘﻳ ،
+ﻉﻭﺭﺪﻟﺍ ﺓﻮﻗ ﺯﻭﺎﺠﺘﻳ ﺩﺪﻌﻟﺍ ﻥﺎﻛ ﺍﺫﺇ -
+ﻰﻠﻋ ﺮﺛﺆﺗ ﻻ ﻉﻭﺭﺪﻟﺍ ﻥﺈﻓ ، ﺔﻘﺤﺘﺴﻤﻟﺍ
+.ﻰﻘﻠﺘﻤﻟﺍ ﺭﺮﻀﻟﺍ
+ﺔﺒﺴﻧ ﺖﻧﺎﻛ ﺍﺫﺇ ، ﻝﺎﺜﻤﻟﺍ ﻞﻴﺒﺳ ﻰﻠﻋ
+٪90 ﺓﻮﻘﺑ ﻉﺭﺩ ﺖﻬﺟﺍﻭ ٪10 ﻉﻭﺭﺪﻟﺍ ﻕﺍﺮﺘﺧﺍ
+ﻝﺎﻤﺘﺣﺍﻭ ﻞﻣﺎﻜﻟﺍ ﻉﺩﺮﻠﻟ ٪40 ﻝﺎﻤﺘﺣﺍ ﻙﺎﻨﻬﻓ ،
+.ﺭﺮﻀﻟﺍ ﻒﻴﻔﺨﺘﻟ ٪40
+ﻰﻠﻋ ﻉﻭﺭﺪﻟﺍﻭ ﺲﺑﻼﻤﻟﺍ ﻦﻣ ﺔﻘﺒﻃ ﻞﻛ ﺮﺛﺆﺗ
+ﻰﻟﺇ ﺔﻴﺟﺭﺎﺨﻟﺍ ﺔﻘﺒﻄﻟﺍ ﻦﻣ :ﻞﺴﻠﺴﺘﻟﺎﺑ ﻡﻮﺠﻬﻟﺍ ﺔﺠﻴﺘﻧ
+.ﺔﻴﻠﺧﺍﺪﻟﺍ</ArmorRating_Heat.description>
+  
+  <ArmorRating_Heat.labelForFullStatList>(ﻉﻭﺭﺪﻟﺍ ﺱﺎﻴﻗ) ﻦﻴﺨﺴﺘﻟﺍ :ﻉﻭﺭﺪﻟﺍ</ArmorRating_Heat.labelForFullStatList>
+  
+  
+  <ArmorRating_Sharp.label>ﻕﺍﺮﺘﺧﺍ :ﻉﻭﺭﺪﻟﺍ</ArmorRating_Sharp.label>
+  
+  <ArmorRating_Sharp.description>ﺹﺎﺻﺮﻟﺍ ﺕﺎﻘﻠﻃ ﻞﺜﻣ ﻕﺍﺮﺘﺧﻻﺍ ﺕﺍﺮﻴﺛﺄﺗ ﺪﺿ ﺔﻳﺎﻤﺣ
+.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺕﺎﻀﻋﻭ ﺕﺍﺭﺎﺠﻔﻧﻻﺍﻭ ﻦﻴﻛﺎﻜﺴﻟﺍ ﺡﺍﺮﺠﻟﺍﻭ
+ﻉﻭﺭﺪﻟﺍ ﺮﺷﺆﻣ ﻢﺼﺧ ﻢﺘﻳ ، ﺮﻴﺛﺄﺘﻟﺍ ﺀﺎﻨﺛﺃ
+ﻕﺍﺮﺘﺧﺍ ﺮﺷﺆﻣ ﻦﻣ ﻝﻭﻷﺍ ﻡﺎﻘﻤﻟﺍ ﻲﻓ ﺍﺬﻫ
+.ﻡﻮﺠﻬﻟﺍ
+ﻊﻣ ﺞﺗﺎﻨﻟﺍ ﻉﻭﺭﺪﻟﺍ ﺮﺷﺆﻣ ﺔﻧﺭﺎﻘﻣ ﻢﺘﻳ ﻢﺛ
+.100 ﻭ 0 ﻦﻴﺑ ﻲﺋﺍﻮﺸﻋ ﻢﻗﺭ
+ﻒﺼﻧ ﻦﻣ ﻞﻗﺃ ﻢﻗﺮﻟﺍ ﻥﺎﻛ ﺍﺫﺇ -
+ﺎﻣﺎﻤﺗ ﻡﻮﺠﻬﻟﺍ ﺮﺒﺘﻌﻳ ، ﺏﻮﻠﻄﻤﻟﺍ ﻉﻭﺭﺪﻟﺍ ﺮﺷﺆﻣ
+.ﺍﺪﺗﺮﻣ
+ﻒﺼﻧ ﻦﻣ ﺮﺒﻛﺃ ﻢﻗﺮﻟﺍ ﻥﺎﻛ ﺍﺫﺇ -
+ﺮﺷﺆﻤﻟﺍ ﻯﺪﻌﺘﻳ ﻻ ﻦﻜﻟﻭ ﺏﻮﻠﻄﻤﻟﺍ ﻉﻭﺭﺪﻟﺍ ﺮﺷﺆﻣ
+ﻢﺘﻳﻭ ﺮﺴﻛ ﻰﻟﺇ ﺭﺮﻀﻟﺍ ﻞﻳﻮﺤﺗ ﻢﺘﻳ ،
+.ﻒﺼﻨﻟﺍ ﻰﻟﺇ ﻪﻔﻴﻔﺨﺗ
+ﻉﻭﺭﺪﻟﺍ ﺮﺷﺆﻣ ﺯﻭﺎﺠﺘﻳ ﻢﻗﺮﻟﺍ ﻥﺎﻛ ﺍﺫﺇ -
+ﻰﻠﻋ ﺮﺛﺆﺗ ﻻ ﻉﻭﺭﺪﻟﺍ ﻥﺈﻓ ، ﺏﻮﻠﻄﻤﻟﺍ
+.ﻰﻘﻠﺘﻤﻟﺍ ﺭﺮﻀﻟﺍ
+
+ﻙﺎﻨﻫ ﻥﺎﻛ ﺍﺫﺇ ، ﻝﺎﺜﻤﻟﺍ ﻞﻴﺒﺳ ﻰﻠﻋ
+ﺔﺒﺴﻨﺑ ﺎﻋﺭﺩ ﻪﺟﺍﻮﻳ ٪10 ﻕﺍﺮﺘﺧﺍ ﺔﺒﺴﻨﺑ ﻡﻮﺠﻫ
+ﻥﺃ ٪40 ﺔﺒﺴﻨﺑ ﻞﻤﺘﺤﻤﻟﺍ ﻦﻤﻓ ، ٪90
+٪40 ﺔﺒﺴﻨﺑﻭ ، ﻞﻣﺎﻜﻟﺎﺑ ﺭﺮﻀﻟﺍ ﺩﺭ ﻢﺘﻳ
+.ﻪﻔﻴﻔﺨﺗ ﻢﺘﻴﺳ
+
+ﻰﻠﻋ ﻉﻭﺭﺪﻟﺍﻭ ﺲﺑﻼﻤﻟﺍ ﻦﻣ ﺔﻘﺒﻃ ﻞﻛ ﺮﺛﺆﻳ
+ﻰﻟﺇ ﺔﻴﺟﺭﺎﺨﻟﺍ ﺔﻘﺒﻄﻟﺍ ﻦﻣ :ﺎﻴﻌﺑﺎﺘﺗ ﻡﻮﺠﻬﻟﺍ ﺔﺠﻴﺘﻧ
+.ﺔﻴﻠﺧﺍﺪﻟﺍ</ArmorRating_Sharp.description>
+  
+  <ArmorRating_Sharp.labelForFullStatList>(ﻉﻭﺭﺪﻟﺍ ﺮﺷﺆﻣ) ﻕﺍﺮﺘﺧﻻﺍ :ﻉﻭﺭﺪﻟﺍ</ArmorRating_Sharp.labelForFullStatList>
+  
+  
+  <EnergyShieldEnergyMax.label>ﻉﻭﺭﺪﻟﺍ ﻦﺤﺸﻟ ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ</EnergyShieldEnergyMax.label>
+  
+  <EnergyShieldEnergyMax.description>ﻉﺭﺪﻠﻟ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺔﻗﺎﻄﻟﺍ ﻦﻣ ﺔﻴﻤﻛ ﻰﺼﻗﺃ
+.ﺎﻬﻌﻴﻤﺠﺗ
+ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺭﺍﺮﺿﻷﺍ ﺕﺩﺍﺯ ،ﺔﻗﺎﻄﻟﺍ ﺕﺩﺍﺯ ﺎﻤﻠﻛ
+.ﺎﻬﺻﺎﺼﺘﻣﺍ</EnergyShieldEnergyMax.description>
+  
+  
+  <EnergyShieldRechargeRate.label>ﻉﻭﺭﺪﻟﺍ ﺓﺩﺎﻌﺘﺳﺍ ﺔﻋﺮﺳ</EnergyShieldRechargeRate.label>
+  
+  <EnergyShieldRechargeRate.description>ﻢﺘﻳ ﻢﻟ ﺍﺫﺇ ﻉﺭﺪﻟﺍ ﺔﻗﺎﻃ ﺓﺩﺎﻌﺘﺳﺍ ﺔﻋﺮﺳ
+.ﻪﻤﻴﻄﺤﺗ</EnergyShieldRechargeRate.description>
+  
+  <EnergyShieldRechargeRate.formatString>ﻻ .ﺔﻴﺑﺮﻌﻟﺍ ﻰﻟﺇ ﺪﻟﺭﻭﻭ ﻢﻳﺭ ﺔﺒﻌﻠﻟﺍ ﺔﻤﺟﺮﺗ/{0}
+ﻦﻣ ﺀﺰﺟ ﻱﺃ ﻞﻳﺪﻌﺗ ﻭﺃ ﺔﻓﺎﺿﺈﺑ ﻢﻘﺗ
+.ﺔﺒﺳﺎﻨﻣﻭ ﺓﺮﻴﺼﻗ ﺔﻤﺟﺮﺘﻟﺍ .ﺺﻨﻟﺍ</EnergyShieldRechargeRate.formatString>
+  
+  
+  <EquipDelay.label>ﺀﺍﺪﺗﺭﻻﺍ ﺖﻗﻭ</EquipDelay.label>
+  
+  <EquipDelay.description>ﺲﺑﻼﻤﻟﺍ ﻊﻠﺧﻭ ﺀﺍﺪﺗﺭﻻ ﻡﺯﻼﻟﺍ ﺖﻗﻮﻟﺍ</EquipDelay.description>
+  
+  <EquipDelay.formatString>{0} с</EquipDelay.formatString>
+  
+  
+  <Insulation_Cold.label>ﺓﺩﻭﺮﺒﻟﺍ :ﻝﺰﻌﻟﺍ</Insulation_Cold.label>
+  
+  <Insulation_Cold.description>ﺔﺤﻳﺮﻤﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻦﻣ ﺔﻌﻄﻘﻟﺍ ﻩﺬﻫ ﻦﺴﺤﺗ
+.ﺎﻬﺋﺍﺪﺗﺭﺍ ﺀﺎﻨﺛﺃ ﺎﻴﻧﺪﻟﺍ
+ﺔﺟﺭﺩ ﺖﻀﻔﺨﻧﺍ ، ﺔﻤﻴﻘﻟﺍ ﻩﺬﻫ ﺕﺩﺍﺯ ﺎﻤﻠﻛ
+ﺎﻬﻴﻓ ﻥﻮﻜﻳ ﻲﺘﻟﺍ ﺎﻴﻧﺪﻟﺍ ﺔﻄﻴﺤﻤﻟﺍ ﺔﺌﻴﺒﻟﺍ ﺓﺭﺍﺮﺣ
+ﻥﺎﻛ ، ﺔﻤﻴﻘﻟﺍ ﺕﺩﺍﺯ ﺎﻤﻠﻛ) ﺎﺣﺎﺗﺮﻣ ﺺﺨﺸﻟﺍ
+.(ﻞﻀﻓﺃ ﻚﻟﺫ</Insulation_Cold.description>
+  
+  <Insulation_Cold.labelForFullStatList>(ﻉﺭﺪﻟﺍ ﺱﺎﻴﻘﻣ) ﺓﺩﻭﺮﺒﻟﺍ :ﻝﺰﻌﻟﺍ</Insulation_Cold.labelForFullStatList>
+  
+  
+  <Insulation_Heat.label>ﺓﺭﺍﺮﺣ :ﻝﺰﻌﻟﺍ</Insulation_Heat.label>
+  
+  <Insulation_Heat.description>ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﻰﺼﻗﺃ ﻦﻣ ﺔﻌﻄﻘﻟﺍ ﻩﺬﻫ ﻦﺴﺤﺗ
+، ﻰﻠﻋﺃ ﺔﻤﻴﻘﻟﺍ ﺖﻧﺎﻛ ﺎﻤﻠﻛn\n\.ﺎﻬﺋﺍﺪﺗﺭﺍ ﺪﻨﻋ ﺔﺤﻳﺮﻣ
+ﺮﻌﺸﻴﺳ ﻲﺘﻟﺍ ﻯﻮﺼﻘﻟﺍ ﺔﺌﻴﺒﻟﺍ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﺖﻧﺎﻛ
+، ﺔﻤﻴﻘﻟﺍ ﺕﺩﺍﺯ ﺎﻤﻠﻛ) ﺎﻬﻴﻓ ﺔﺣﺍﺮﻟﺎﺑ ﺺﺨﺸﻟﺍ
+.(ﻞﻀﻓﺃ ﻥﺎﻛ ﺎﻤﻠﻛ</Insulation_Heat.description>
+  
+  <Insulation_Heat.labelForFullStatList>(ﻉﻭﺭﺪﻟﺍ ﺮﺷﺆﻣ) ﺓﺭﺍﺮﺣ :ﻝﺰﻌﻟﺍ</Insulation_Heat.labelForFullStatList>
+  
+  
+  <SmokepopBeltRadius.label>ﺔﻴﻧﺎﺧﺪﻟﺍ ﺓﺭﺎﺘﺴﻟﺍ ﺮﻄﻗ ﻒﺼﻧ</SmokepopBeltRadius.label>
+  
+  <SmokepopBeltRadius.description>ﻡﺍﺪﺨﺘﺳﺍ ﺪﻨﻋ ﻥﺎﺧﺪﻟﺍ ﺔﺷﺎﺷ ﺔﻄﺳﺍﻮﺑ ﺔﻴﻄﻐﺘﻟﺍ ﻯﺪﻣ
+.ﻥﺎﺧﺪﻟﺍ ﺔﻠﺒﻨﻗ</SmokepopBeltRadius.description>
+  
+  <SmokepopBeltRadius.formatString>{0} м</SmokepopBeltRadius.formatString>
+  
+  
+  <StuffEffectMultiplierArmor.label>(ﺓﺩﺎﻤﻟﺍ ﻒﻋﺎﻀﻣ) ﻉﻭﺭﺪﻟﺍ</StuffEffectMultiplierArmor.label>
+  
+  
+  <StuffEffectMultiplierInsulation_Cold.label>(ﺩﺍﻮﻤﻟﺍ ﻒﻋﺎﻀﻣ) ﺓﺩﻭﺮﺑ :ﻝﺰﻌﻟﺍ</StuffEffectMultiplierInsulation_Cold.label>
+  
+  
+  <StuffEffectMultiplierInsulation_Heat.label>(ﺓﺩﺎﻤﻟﺍ ﻞﻣﺎﻌﻣ) ﺓﺭﺍﺮﺣ :ﻝﺰﻌﻟﺍ</StuffEffectMultiplierInsulation_Heat.label>
+  
+</LanguageData>
