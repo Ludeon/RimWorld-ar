@@ -1,0 +1,59 @@
+<LanguageData>
+  
+  
+  <Bite.label>ﺔﻏﺪﻟ</Bite.label>
+  
+  <Bite.deathMessage>{0} {0_gender ? ﺔﻗﺰﻤﻣ : ﻕﺰﻤﻣ}.</Bite.deathMessage>
+  
+  
+  <Blunt.label>ﺔﺑﺮﻀﻟﺍ</Blunt.label>
+  
+  <Blunt.deathMessage>ﺕﻮﻤﻟﺍ ﻰﺘﺣ ? gender_0} {0} ﺏﺮﺿ ﻢﺗ
+.{ﺕﻮﻤﻟﺍ ﻰﺘﺣ :</Blunt.deathMessage>
+  
+  
+  <Crush.label>ﻡﺎﺣﺰﻟﺍ</Crush.label>
+  
+  <Crush.deathMessage>{0} {0_gender ? ﻢﺗ : ﻪﻘﺤﺳ ﻢﺗ
+ﺎﻬﻘﺤﺳ}.</Crush.deathMessage>
+  
+  
+  <Cut.label>ﻲﻄﻳﺮﺷ ﺡﺮﺟ</Cut.label>
+  
+  <Cut.deathMessage>{0} {0_gender ? ﻢﺗ : ﻪﺤﺑﺫ ﻢﺗ
+ﺎﻬﺤﺑﺫ}.</Cut.deathMessage>
+  
+  
+  <Demolish.label>ﺔﺑﺮﻀﻟﺍ</Demolish.label>
+  
+  <Demolish.deathMessage>{0} {0_gender ? ﺕﻮﻤﻟﺍ ﻰﺘﺣ ﻪﺑﺮﺿ ﻢﺗ
+ﺕﻮﻤﻟﺍ ﻰﺘﺣ ﺎﻬﺑﺮﺿ ﻢﺗ :}.</Demolish.deathMessage>
+  
+  
+  <Poke.label>ﺰﻜﻧ</Poke.label>
+  
+  <Poke.deathMessage>.ﺕﻮﻤﻟﺍ ﻰﺘﺣ {gender_0} {0} ﺏﺮﺿ ﻢﺗ</Poke.deathMessage>
+  
+  
+  <Scratch.label>ﻕﺰﻤﻣ ﺡﺮﺟ</Scratch.label>
+  
+  <Scratch.deathMessage>{0} {0_gender ? ﻢﺗ : ﻪﻘﻳﺰﻤﺗ ﻢﺗ
+ﺎﻬﻘﻳﺰﻤﺗ}.</Scratch.deathMessage>
+  
+  
+  <ScratchToxic.label>ﻢﺳ ﻊﻣ ﺡﺮﺟ</ScratchToxic.label>
+  
+  <ScratchToxic.deathMessage>{0} {0_gender ? ﺔﻗﺰﻤﻣ : ﻕﺰﻤﻣ}.</ScratchToxic.deathMessage>
+  
+  
+  <Stab.label>ﺔﻨﻘﺣ</Stab.label>
+  
+  <Stab.deathMessage>.{ : ? gender_0} {0} ﺢﺑﺫ ﻢﺗ</Stab.deathMessage>
+  
+  
+  <ToxicBite.label>ﺔﻣﺎﺳ ﺔﻏﺪﻟ</ToxicBite.label>
+  
+  <ToxicBite.deathMessage>{0} {0_gender ? ﺐﺒﺴﺑ {ﺖﺗﺎﻣ : ﺕﺎﻣ
+ﺔﻣﺎﺳ ﺔﻏﺪﻟ.</ToxicBite.deathMessage>
+  
+</LanguageData>

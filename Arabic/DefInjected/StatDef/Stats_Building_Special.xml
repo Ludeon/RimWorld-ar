@@ -1,0 +1,78 @@
+<LanguageData>
+  
+  
+  <BedRestEffectiveness.label>ﺔﺣﺍﺮﻟﺍ ﺔﻴﻟﺎﻌﻓ</BedRestEffectiveness.label>
+  
+  <BedRestEffectiveness.description>ﻥﻮﻣﺎﻨﻳ ﻦﻳﺬﻟﺍ ﺱﺎﻨﻟﺍ ﺓﺩﺎﻌﺘﺳﺍ ﺔﻋﺮﺳ ﻯﺪﻣ ﺽﺮﻌﻳ
+.ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﻰﻠﻋ</BedRestEffectiveness.description>
+  
+  
+  <DoorOpenSpeed.label>ﺏﺎﺒﻟﺍ ﺢﺘﻓ ﺔﻋﺮﺳ</DoorOpenSpeed.label>
+  
+  <DoorOpenSpeed.description>ﻥﻭﺪﺑ ﺏﺎﺒﻟﺍ ﺢﺘﻓ ﺎﻬﻴﻓ ﻢﺘﻳ ﻲﺘﻟﺍ ﺔﻋﺮﺴﻟﺍ
+ﻊﻴﻤﺟ ﻞﻗﺮﻌﻴﺳ ﺀﻂﺒﺑ ﺢﺘﻔﻳ ﻱﺬﻟﺍ ﺏﺎﺒﻟﺍ .ﺀﺎﺑﺮﻬﻛ
+.ﻪﺑ ﻥﻭﺮﻤﻳ ﻦﻣ</DoorOpenSpeed.description>
+  
+  
+  <ImmunityGainSpeedFactor.label>ﺔﻋﺎﻨﻤﻟﺍ ﻦﻳﻮﻜﺗ ﺔﻋﺮﺳ</ImmunityGainSpeedFactor.label>
+  
+  <ImmunityGainSpeedFactor.description>.ﺔﻤﻴﻘﻟﺍ ﺍﺬﻫ ﺔﻄﺳﺍﻮﺑ ﻲﺳﺎﺳﻷﺍ ﺔﻧﺎﺼﺤﻟﺍ ﻝﺪﻌﻣ ﻒﻋﺎﻀﺗ</ImmunityGainSpeedFactor.description>
+  
+  
+  <JoyGainFactor.label>ﻪﻴﻓﺮﺘﻟﺍ ﺔﻴﻟﺎﻌﻓ</JoyGainFactor.label>
+  
+  <JoyGainFactor.description>ﺱﺎﻨﻟﺍ ﺩﺎﻌﺳﺇ ﻲﻓ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﺓﺀﺎﻔﻛ ﺮﻬﻈﻳ
+.ﺎﺿﺮﻟﺎﺑ ﺭﻮﻌﺷ ﻢﻬﺋﺎﻄﻋﺇﻭ</JoyGainFactor.description>
+  
+  
+  <MedicalTendQualityOffset.label>ﺝﻼﻌﻟﺍ ﺓﺩﻮﺟ ﺓﺩﺎﻳﺯ</MedicalTendQualityOffset.label>
+  
+  <MedicalTendQualityOffset.description>ﺍﺬﻫ ﻰﻟﺇ ﺔﻴﺒﻄﻟﺍ ﺔﻳﺎﻋﺮﻟﺍ ﺓﺩﻮﺟ ﻝﺪﻌﻣ ﺮﻴﻐﺘﺗ
+.ﺔﻤﻴﻘﻟﺍ</MedicalTendQualityOffset.description>
+  
+  
+  <ResearchSpeedFactor.label>ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ</ResearchSpeedFactor.label>
+  
+  <ResearchSpeedFactor.description>ﺔﻄﺳﺍﻮﺑ ﺙﺎﺤﺑﻷﺍ ﺀﺍﺮﺟﺇ ﻲﻓ ﻦﻴﺜﺣﺎﺒﻟﺍ ﺔﻋﺮﺳ ﻒﻋﺎﻀﺘﺗ
+.ﺔﻤﻴﻘﻟﺍ ﺍﺬﻫ</ResearchSpeedFactor.description>
+  
+  <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>ﺔﻓﺮﻐﻟﺍ ﺔﻓﺎﻈﻧ</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
+  
+  
+  <SurgerySuccessChanceFactor.label>ﺔﻴﻠﻤﻌﻟﺍ ﺡﺎﺠﻧ ﺔﺻﺮﻓ</SurgerySuccessChanceFactor.label>
+  
+  <SurgerySuccessChanceFactor.description>ﺔﻴﻠﻤﻋ ﺀﺍﺮﺟﺇ ﻲﻓ ﺺﺨﺸﻟﺍ ﺡﺎﺠﻧ ﺔﻴﻟﺎﻤﺘﺣﺍ ﻞﻳﺪﻌﺗ
+ﻰﻠﻋ ﺪﻤﺘﻌﻳ ﺡﺎﺠﻨﻟﺍ .ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻲﻓ ﺔﻴﺣﺍﺮﺟ
+.ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺔﻳﻭﺩﻷﺍﻭ ﺡﺍﺮﺠﻟﺍ ﺕﺍﺭﺎﻬﻣ</SurgerySuccessChanceFactor.description>
+  
+  <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>ﻥﺎﻜﻤﻟﺍ ﺔﻓﺎﻈﻧ</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
+  
+  
+  <TrapMeleeDamage.label>ﺦﻔﻟﺍ ﺭﺮﺿ</TrapMeleeDamage.label>
+  
+  <TrapMeleeDamage.description>ﺭﺮﻀﻟﺍn\n\.ﺦﻔﻟﺍ ﻪﺒﺒﺴﻳ ﻥﺃ ﻦﻜﻤﻳ ﻱﺬﻟﺍ ﺭﺮﻀﻟﺍ ﻝﺪﻌﻣ
+.ﺓﺩﺪﻌﺘﻣ ﺔﻴﺋﺍﻮﺸﻋ ﻞﻣﺍﻮﻋ ﻰﻠﻋ ﺪﻤﺘﻌﻳ ﻲﻠﻌﻔﻟﺍ</TrapMeleeDamage.description>
+  
+  
+  <TrapSpringChance.label>ﺡﺎﺠﻨﻟﺍ ﺔﺻﺮﻓ</TrapSpringChance.label>
+  
+  <TrapSpringChance.description>.ﺺﺨﺷ ﺎﻬﻴﻓ ﻞﺧﺪﻳ ﺎﻣﺪﻨﻋ ﺦﻔﻟﺍ ﻞﻴﻐﺸﺗ ﺔﺻﺮﻓ</TrapSpringChance.description>
+  
+  
+  <WorkTableEfficiencyFactor.label>ﻞﻤﻌﻟﺍ ﺔﻴﻟﺎﻌﻓ</WorkTableEfficiencyFactor.label>
+  
+  <WorkTableEfficiencyFactor.description>.ﻚﻟﺫ ﺔﻤﻴﻘﺑ ﺔﺠﺘﻨﻤﻟﺍ ﻝﺎﻤﻋﻷﺍ ﺓﺀﺎﻔﻛ ﻒﻋﺎﻀﺘﺗ</WorkTableEfficiencyFactor.description>
+  
+  
+  <WorkTableWorkSpeedFactor.label>ﻞﻤﻌﻟﺍ ﺔﻋﺮﺳ</WorkTableWorkSpeedFactor.label>
+  
+  <WorkTableWorkSpeedFactor.description>.ﺔﻤﻴﻘﻟﺍ ﻩﺬﻫ ﺭﺍﺪﻘﻤﺑ ﻞﻤﻌﻟﺍ ﺔﻋﺮﺳ ﻒﻋﺎﻀﺗ</WorkTableWorkSpeedFactor.description>
+  
+  
+  <WorkToBuild.label>ﻞﻤﻌﻟﺍ ﻢﺠﺣ</WorkToBuild.label>
+  
+  <WorkToBuild.description>ﺪﻌﺑ ﻰﻨﺒﻤﻟﺍ ﺍﺬﻫ ﺀﺎﻨﺒﻟ ﺏﻮﻠﻄﻤﻟﺍ ﻞﻤﻌﻟﺍ ﻯﺪﻣ
+ﺎﻀﻳﺃ ﻢﻗﺮﻟﺍ ﺍﺬﻫ ﺮﺛﺆﻳn\n\.ﺕﺍﻭﺩﻷﺍﻭ ﺩﺍﻮﻤﻟﺍ ﻊﻴﻤﺟ ﻊﻤﺟ
+.ﻰﻨﺒﻤﻟﺍ ﻚﻴﻜﻔﺘﻟ ﺏﻮﻠﻄﻤﻟﺍ ﻞﻤﻌﻟﺍ ﻯﺪﻣ ﻰﻠﻋ</WorkToBuild.description>
+  
+</LanguageData>

@@ -1,0 +1,467 @@
+<LanguageData>
+  
+  
+  <AcceptStartingPawns.text>!ﻊﺋﺍﺭ
+ﻦﻜﻟﻭ ،ﺐﻏﺮﺗ ﺖﻨﻛ ﺍﺫﺇ ﻯﺮﺧﺃ ﺓﺮﻣ ﻝﻭﺎﺣ
+،ﺏﻮﻴﻋ ﻊﻴﻤﺠﻠﻟ .ﺔﻴﻟﺎﺜﻣ ﺔﻴﺼﺨﺷ ﺀﺎﺸﻧﺇ ﻝﻭﺎﺤﺗ ﻻ
+!ﺓﺭﺎﺛﺇ ﺮﺜﻛﺃ ﺔﺼﻘﻟﺍ ﺢﺒﺼﺗ ﻚﻟﺫ ﻦﻣﻭ
+ﻖﻳﺮﻃ ﻦﻋ ﺕﺎﻴﺼﺨﺸﻟﺍ ﺔﻴﻤﺴﺗ ﺓﺩﺎﻋﺇ ﺎﻀﻳﺃ ﻚﻨﻜﻤﻳ
+.ﻢﻬﺋﺎﻤﺳﺃ ﻰﻠﻋ ﺮﻘﻨﻟﺍ
+.ﺍﺰﻫﺎﺟ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ "ﺀﺪﺑ" ﻕﻮﻓ ﺮﻘﻧﺍ</AcceptStartingPawns.text>
+  
+  
+  <AddBillSimpleMeal.onMapInstruction>.ﺍﺬﻫ ﺮﺘﺧﺍ</AddBillSimpleMeal.onMapInstruction>
+  
+  <AddBillSimpleMeal.rejectInputMessage>ﻰﻟﺇ ﻂﻴﺴﺑ ﻡﺎﻌﻃ ﺩﺍﺪﻋﺇ ﺐﻠﻃ ﺔﻓﺎﺿﺇ ﻰﺟﺮﻳ
+.ﺕﺎﺒﻠﻄﻟﺍ ﺔﻤﺋﺎﻗ</AddBillSimpleMeal.rejectInputMessage>
+  
+  <AddBillSimpleMeal.text>.ﻩﻮﺨﺒﻄﻳ ﻥﺃ ﺐﺠﻳ ﺎﻤﺑ ﻥﺎﻜﺴﻟﺍ ﺮﺒﺧﺃ
+.ﺪﻗﻮﻤﻟﺍ ﺔﻤﺋﺎﻗ ﺮﺒﻋ ﻲﻬﻄﻟﺍ ﺕﺎﺒﻠﻃ ﺔﻓﺎﺿﺇ ﻢﺘﻳ
+ﻲﻬﻄﻟﺎﺑ ﻥﺎﻜﺴﻟﺍ ﺃﺪﺒﻴﺳ ، ﺐﻠﻄﻟﺍ ﺔﻓﺎﺿﺇ ﺪﻌﺑ
+.ﻢﻬﺴﻔﻧﺄﺑ
+.ﺪﻗﻮﻤﻟﺍ ﺀﺎﻨﺑ ﺀﺎﻬﺘﻧﺍ ﺮﻈﺘﻧﺍ .1
+.ﺪﻗﻮﻤﻟﺍ ﺮﺘﺧﺍ .2
+."ﻡﺎﻬﻤﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ .3
+."ﺔﻤﻬﻣ ﺔﻓﺎﺿﺇ" ﻕﻮﻓ ﺮﻘﻧﺍ .4
+ﺔﻤﺋﺎﻘﻟﺍ ﻲﻓ "ﺔﻄﻴﺴﺑ ﺔﺒﺟﻭ ﻲﻬﻃ" ﺩﺪﺣ .5
+.ﺔﻘﺜﺒﻨﻤﻟﺍ
+ﺩﺪﻋ ﺓﺩﺎﻳﺰﻟ "+" ﺭﺯ ﻰﻠﻋ ﺮﻘﻧﺍ .6
+.10 ﻰﻟﺇ ﺕﺎﺒﺟﻮﻟﺍ
+
+ﻢﻗ ، ﻼﻳﻮﻃ ﺎﺘﻗﻭ ﺮﻣﻷﺍ ﻕﺮﻐﺘﺳﺍ ﺍﺫﺇ
+.ﺖﻗﻮﻟﺍ ﻊﻳﺮﺴﺘﺑ
+
+ﺭﺰﺑ ﺮﻘﻨﻟﺎﺑ ﺦﺒﻄﻟﺎﺑ ﻩﺮﻣﺃﻭ ﺎﻨﻛﺎﺳ ﺮﺘﺧﺍ ﻭﺃ
+.ﺪﻗﻮﻤﻟﺍ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ</AddBillSimpleMeal.text>
+  
+  <AddBillSimpleMeal.textController>.ﻲﻬﻄﻟﺍ ﻲﻓ ﺀﺪﺒﻟﺎﺑ ﻥﺎﻜﺴﻟﺍ ﺮﺒﺧﺃ
+.ﺪﻗﻮﻤﻟﺍ ﺔﻤﺋﺎﻗ ﻖﻳﺮﻃ ﻦﻋ ﻲﻬﻄﻟﺍ ﺕﺎﺒﻠﻄﻟﺍ ﺔﻓﺎﺿﺇ
+.ﺎﻴﺋﺎﻘﻠﺗ ﻲﻬﻄﻟﺎﺑ ﻥﺎﻜﺴﻟﺍ ﺃﺪﺒﻴﺳ ،ﺐﻠﻄﻟﺍ ﺔﻓﺎﺿﺇ ﺪﻌﺑ
+.ﺪﻗﻮﻤﻟﺍ ﺀﺎﻨﺑ ﺀﺎﻬﺘﻧﺍ ﺮﻈﺘﻧﺍ .1
+.ﺪﻗﻮﻤﻟﺍ ﺩﺪﺣ .2
+."ﻡﺎﻬﻤﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ .3
+."ﺔﻤﻬﻣ ﺔﻓﺎﺿﺇ" ﻕﻮﻓ ﺮﻘﻧﺍ .4
+ﺔﻤﺋﺎﻘﻟﺍ ﻲﻓ "ﺔﻄﻴﺴﺑ ﺔﺒﺟﻭ ﺮﻴﻀﺤﺗ" ﺩﺪﺣ .5
+.ﺔﻟﺪﺴﻨﻤﻟﺍ
+ﺩﺪﻋ ﺓﺩﺎﻳﺰﻟ "+" ﺭﺯ ﻰﻠﻋ ﺮﻘﻧﺍ .6
+.10 ﻰﻟﺇ ﺺﺼﺤﻟﺍ
+ﻊﻳﺮﺴﺘﺑ ﻢﻗ ،ﻼﻳﻮﻃ ﺎﺘﻗﻭ ﺔﻤﻬﻤﻟﺍ ﺖﻗﺮﻐﺘﺳﺍ ﺍﺫﺇ
+.ﺖﻗﻮﻟﺍ
+ﻖﻳﺮﻃ ﻦﻋ ﻲﻬﻄﻟﺎﺑ ﻩﺮﻣﺃﻭ ﺎﻨﻛﺎﺳ ﺩﺪﺣ ﻭﺃ
+.ﺓﺭﺄﻔﻠﻟ ﺮﺴﻳﻷﺍ ﺭﺰﻟﺎﺑ ﺪﻗﻮﻤﻟﺍ ﻰﻠﻋ ﺮﻘﻨﻟﺍ</AddBillSimpleMeal.textController>
+  
+  
+  <BuildAnimalSleepingSpot.onMapInstruction>ﻰﻨﺒﻤﻟﺍ ﻞﺧﺍﺩ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻡﻮﻧ ﺔﺣﺎﺴﻣ ﺊﺸﻧﺍ</BuildAnimalSleepingSpot.onMapInstruction>
+  
+  <BuildAnimalSleepingSpot.rejectInputMessage>.ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻞﺧﺍﺩ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻦﻜﺴﻣ ﻊﺿﻭ ﻰﺟﺮﻳ</BuildAnimalSleepingSpot.rejectInputMessage>
+  
+  <BuildAnimalSleepingSpot.text>ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻡﺎﻨﺗ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻥﺎﻌﻄﻗ ﻦﻣ ﻦﻜﻤﺘﺘﻟ
+.ﻰﻨﺒﻤﻟﺍ ﻞﺧﺍﺩ ﻡﻮﻨﻟﺍ ﻥﺎﻜﻣ ﻊﺿ ، ﺎﻬﺑﺎﺤﺻﺃ
+ﺵﺮﻓ ﻰﻠﻋ ﻝﺪﺗ ﺕﺎﻣﻼﻋ ﻲﻫ ﻡﻮﻨﻟﺍ ﻦﻛﺎﻣﺃ
+.ﻡﻮﻨﻠﻟ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</BuildAnimalSleepingSpot.text>
+  
+  
+  <BuildBeds.onMapInstruction>.ﻲﻠﺧﺍﺪﻟﺍ ﻰﻨﺒﻤﻟﺍ ﻲﻓ ﺓﺮﺳﺃ ﺔﺛﻼﺛ ﺔﻣﺎﻗﺇ</BuildBeds.onMapInstruction>
+  
+  <BuildBeds.rejectInputMessage>.ﺔﻓﺮﻐﻟﺍ ﺍﺬﻫ ﻲﻓ ﺔﻴﺒﺸﺧ ﺓﺮﺳﺃ ﺀﺎﻨﺑ ﻰﺟﺮﻳ</BuildBeds.rejectInputMessage>
+  
+  <BuildBeds.text>!ﺔﻣﺎﻗﻺﻟ ﻥﺎﻜﻣ ﺀﺎﻨﺒﺑ ﺎﺒﻳﺮﻗ ﻥﻮﻣﻮﻘﻳ ﻑﻮﺳ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ
+ﺓﺮﺳﺃ ﺔﺛﻼﺛ ﻊﺿ .ﻡﻮﻨﻟﺍﻭ ﺔﺣﺍﺮﻠﻟ ﺔﺟﺎﺤﺑ ﻢﻬﻨﻜﻟ
+.ﻰﻨﺒﻤﻟﺍ ﻞﺧﺍﺩ
+،ﺀﺎﻨﺒﻟﺍ ﺮﻳﻭﺪﺘﻟ ."ﺙﺎﺛﻷﺍ" ﻢﺴﻗ ﻲﻓ ﺎﻬﻨﻋ ﺚﺤﺑﺍ
+.{Key:Designator_RotateRight} ﻭ {Key:Designator_RotateLeft} ﺢﻴﺗﺎﻔﻣ ﻡﺪﺨﺘﺳﺍ</BuildBeds.text>
+  
+  <BuildBeds.textController>.ﻡﻮﻨﻟﺍﻭ ﺔﺣﺍﺮﻠﻟ ﺔﺟﺎﺤﺑ ﻢﻬﻨﻜﻟﻭn\n\!ﺔﻓﺮﻐﻟﺍ ﺎﺒﻳﺮﻗ ﻥﻮﺒﺗﺮﻴﺳ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ
+ﻲﻓ ﻢﻬﻨﻋ ﺚﺤﺑﺍn\n\.ﺔﻓﺮﻐﻟﺍ ﻞﺧﺍﺩ ﺓﺮﺳﺃ ﺔﺛﻼﺛ ﻊﺿ
+ﺭﺎﺴﻴﻟﺍ ﻰﻠﻋ ﺓﺭﺍﻭﺪﻟﺍ ﺭﺍﺭﺯﻷﺍ ﻡﺪﺨﺘﺳﺍ ."ﺙﺎﺛﻷﺍ" ﻢﺴﻗ
+.ﺀﺎﻨﺒﻟﺍ ﺮﻳﻭﺪﺘﻟ</BuildBeds.textController>
+  
+  
+  <BuildFueledStove.onMapInstruction>ﺔﻓﺮﻐﻟﺍ ﻩﺬﻫ ﻞﺧﺍﺩ ﺩﻮﻗﻭ ﺪﻗﻮﻣ ﺀﺎﻨﺒﺑ ﻢﻗ</BuildFueledStove.onMapInstruction>
+  
+  <BuildFueledStove.rejectInputMessage>ﻱﺬﻟﺍ ﻰﻨﺒﻤﻟﺍ ﻞﺧﺍﺩ ﻲﻬﻄﻟﺍ ﺢﻄﺳ ﺀﺎﻨﺑ ﻰﺟﺮﻳ
+.ﺎﻘﺑﺎﺳ ﻪﺋﺎﻨﺒﺑ ﺖﻤﻗ</BuildFueledStove.rejectInputMessage>
+  
+  <BuildFueledStove.text>!ﺪﻴﺟ
+.ﺦﺒﻄﻠﻟ ﺪﻗﻮﻣ ﻊﻨﺼﺑ ﻢﻗ ﻥﻵﺍ
+.ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﺪﻗﻮﻤﻟﺍ ﻊﺿ</BuildFueledStove.text>
+  
+  
+  <BuildHorseshoesPin.onMapInstruction>.ﻰﻨﺒﻤﻟﺍ ﺝﺭﺎﺧn\ﻥﺎﺼﺤﻟﺍ ﺓﺪﻳﺪﺣ ﻲﻣﺮﻟ ﺱﻮﻗ ﺖﻴﺒﺜﺘﺑ ﻢﻗ</BuildHorseshoesPin.onMapInstruction>
+  
+  <BuildHorseshoesPin.rejectInputMessage>ﺭﺍﻮﺠﺑ ﺯﺭﺎﺒﻟﺍ ﺀﺍﺬﺤﻟﺍ ﻲﻣﺮﻟ ﺍﺩﻮﻤﻋ ﻊﺿ ،ﺀﺎﺟﺭ
+.ﻰﻨﺒﻤﻟﺍ ﺍﺬﻫ</BuildHorseshoesPin.rejectInputMessage>
+  
+  <BuildHorseshoesPin.text>ﻊﻣ ﻞﻠﻤﻟﺎﺑ ﻥﻭﺮﻌﺸﻴﺳ ﻻﺇﻭ ،ﺔﻴﻠﺴﺘﻠﻟ ﺔﺟﺎﺤﺑ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ
+ﺓﻭﺪﺤﻟﺍ ﻲﻣﺭ ﺓﺪﻋﺎﻗ ﺐﻴﻛﺮﺘﺑ ﻢﻗ .ﺖﻗﻮﻟﺍ ﺭﻭﺮﻣ
+.ﺀﺎﻨﺒﻟﺍ ﺝﺭﺎﺧ</BuildHorseshoesPin.text>
+  
+  
+  <BuildRoomDoor.onMapInstruction>.ﻥﺍﺭﺪﺠﻟﺍ ﻯﺪﺣﺇ ﻲﻓ ﺏﺎﺑ ﺀﺎﻨﺒﺑ ﻢﻗ</BuildRoomDoor.onMapInstruction>
+  
+  <BuildRoomDoor.rejectInputMessage>ﻥﺍﺭﺪﺟ ﻯﺪﺣﺇ ﻲﻓ ﻲﺒﺸﺧ ﺏﺎﺑ ﺀﺎﻨﺑ ﻰﺟﺮﻳ
+.ﺔﻓﺮﻐﻟﺍ</BuildRoomDoor.rejectInputMessage>
+  
+  <BuildRoomDoor.text>.ﺔﻓﺮﻐﻟﺍ ﺭﺍﺪﺠﻟﺍ ﻲﻓ ﺏﺎﺒﻟﺍ ﻊﺿ
+ﺔﻤﺋﺎﻗ ،"ﺀﺎﻨﺒﻟﺍ" ﻢﺴﻗ ﻲﻓ ﺓﺮﻓﻮﺘﻣ "ﺏﺎﺒﻟﺍ" ﺓﺍﺩﻷﺍ
+."ﻊﻳﺭﺎﺸﻤﻟﺍ"</BuildRoomDoor.text>
+  
+  
+  <BuildRoomWalls.onMapInstruction>.ﺎﻧﺍﺭﺪﺟ ﻢﻗﺃ</BuildRoomWalls.onMapInstruction>
+  
+  <BuildRoomWalls.rejectInputMessage>ﻞﻴﻄﺘﺴﻤﻟﺍ ﺐﻧﺍﻮﺟ ﻰﻠﻋ ﺔﻴﺒﺸﺧ ﻥﺍﺭﺪﺟ ﺀﺎﻨﺑ ﺀﺎﺟﺮﻟﺍ
+.ﺓﺀﺎﺿﻹﺎﺑ ﺰﻴﻤﻤﻟﺍ</BuildRoomWalls.rejectInputMessage>
+  
+  <BuildRoomWalls.text>.ﺔﻓﺮﻏ ﺀﺎﻨﺒﺑ ﻡﻮﻘﻨﺳ ﻥﻵﺍﻭ !ﺶﻫﺪﻣ
+."ﻊﻳﺭﺎﺸﻤﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺮﺘﺧﺍ .1
+."ﺀﺎﻨﺒﻟﺍ" ﻢﺴﻗ ﺔﻘﺜﺒﻨﻤﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ ﻲﻓ ﺮﺘﺧﺍ .2
+."ﺭﺍﺪﺠﻟﺍ" ﺓﺍﺩﺃ ﻰﻠﻋ ﺮﻘﻧﺍ .3
+.ﺓﺩﺎﻤﻛ ﺐﺸﺨﻟﺍ ﺩﺪﺣ .4
+.ﺓﺩﺪﺤﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻥﺍﺭﺪﺟ ﺔﻌﺑﺭﺃ ﻊﺿ .5</BuildRoomWalls.text>
+  
+  
+  <BuildSandbags.onMapInstruction>ﺎﻨﻫ ﺔﻴﻠﻣﺭ ﺱﺎﻴﻛﺃ ﺊﺸﻧﺍ</BuildSandbags.onMapInstruction>
+  
+  <BuildSandbags.rejectInputMessage>.ﺓﺩﺪﺤﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻞﻣﺮﻟﺍ ﺱﺎﻴﻛﺃ ﺀﺎﻨﺑ ﻰﺟﺮﻳ</BuildSandbags.rejectInputMessage>
+  
+  <BuildSandbags.text>ﻦﻣ ﻡﻮﻳ ﻲﻓ !ﻊﺋﺍﺭ ﺭﻮﻄﺘﺑ ﻚﺘﻨﻃﻮﺘﺴﻣ ﻰﻈﺤﺗ
+.ﻉﺎﻓﺪﻠﻟ ﺪﻌﺘﺴﻨﻠﻓ .ﺀﺍﺪﻋﻷﺍ ﻡﻮﺠﻬﻟ ﺽﺮﻌﺘﺘﺳ ،ﻡﺎﻳﻷﺍ
+
+ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺎﻬﻌﺿﻭ "ﻞﻣﺮﻟﺍ ﺱﺎﻴﻛﺃ" ﺓﺍﺩﺃ ﺮﺘﺧﺍ
+.ﺎﻬﻴﻟﺇ ﺭﺎﺸﻤﻟﺍ</BuildSandbags.text>
+  
+  
+  <BuildSimpleResearchBench.onMapInstruction>ﺔﻓﺮﻐﻟﺍ ﻩﺬﻫ ﻞﺧﺍﺩ ﺚﺤﺒﻠﻟ ﺔﻄﻴﺴﺑ ﺔﻟﻭﺎﻃ ﻦﺑﺍ</BuildSimpleResearchBench.onMapInstruction>
+  
+  <BuildSimpleResearchBench.rejectInputMessage>ﺚﺤﺒﻠﻟ ﺔﻄﻴﺴﺑ ﺔﻴﺒﺸﺧ ﺔﻟﻭﺎﻃ ﻊﺿﻮﺑ ﻢﻗ ،ﺀﺎﺟﺭ
+.ﺎﻘﺑﺎﺳ ﺎﻬﺋﺎﻨﺒﺑ ﺖﻤﻗ ﻲﺘﻟﺍ ﺓﺄﺸﻨﻤﻟﺍ ﻞﺧﺍﺩ</BuildSimpleResearchBench.rejectInputMessage>
+  
+  <BuildSimpleResearchBench.text>.ﻡﺪﻘﺘﻟﺍ ﻮﺤﻧ ﻚﻘﻳﺮﻃ ﻲﻓ ﺓﺪﻳﺪﺠﻟﺍ ﺕﺎﻴﻨﻘﺘﻟﺍ ﻒﺸﻜﺘﺳﺍ
+.ﻰﻨﺒﻤﻟﺍ ﻞﺧﺍﺩ ﺙﺎﺤﺑﻸﻟ ﺔﻄﻴﺴﺑ ﺔﻟﻭﺎﻃ ﺀﺎﻨﺒﺑ ﻢﻗ</BuildSimpleResearchBench.text>
+  
+  
+  <BuildTorchLamp.onMapInstruction>ﻰﻨﺒﻤﻟﺍ ﻞﺧﺍﺩ ﺔﻠﻌﺸﻟﺍ ﻊﺿ</BuildTorchLamp.onMapInstruction>
+  
+  <BuildTorchLamp.rejectInputMessage>.ﺔﻓﺮﻐﻟﺍ ﻩﺬﻫ ﻞﺧﺍﺩ ﺔﻠﻌﺸﻟﺍ ﻊﺿﻭ ﺀﺎﺟﺮﻟﺍ</BuildTorchLamp.rejectInputMessage>
+  
+  <BuildTorchLamp.text>ﻊﺿn\n\.ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﺮﺗﻮﺘﺘﺳ ﻻﺇﻭ ،ﺔﻴﻠﺧﺍﺩ ﺓﺀﺎﺿﺇ ﻰﻟﺇ ﺝﺎﺘﺤﺘﺳ
+.ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﺡﺎﺒﺼﻣ</BuildTorchLamp.text>
+  
+  
+  <ChangeWorkSettings.rejectInputMessage>ﻱﺃ ﻞﻳﺪﻌﺗﻭ "ﻞﻤﻌﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓ ﻰﺟﺮﻳ
+.ﺕﺍﺩﺍﺪﻋﺇ</ChangeWorkSettings.rejectInputMessage>
+  
+  <ChangeWorkSettings.text>ﺪﻳﺪﺤﺗ ﻝﻼﺧ ﻦﻣ ﻦﻃﻮﺘﺴﻣ ﻞﻜﻟ ﻝﺎﻤﻋﺃ ﺩﺪﺣ
+ﻡﺎﻬﻤﻟﺎﺑ ﻥﻮﻣﻮﻘﻳ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ .ﺔﺒﺳﺎﻨﻤﻟﺍ ﺕﺎﻧﺎﺨﻟﺍ ﻲﻓ ﺕﺎﻣﻼﻌﻟﺍ
+.ﻦﻴﻤﻴﻟﺍ ﻰﻟﺇ ﺭﺎﺴﻴﻟﺍ ﻦﻣ ،ﺐﻴﺗﺮﺘﻟﺎﺑ
+.ﺕﺍﺩﺍﺪﻋﻹﺍ ﺾﻌﺑ ﺮﻴﻴﻐﺗ ﺏﺮﺟ
+ﻰﺘﺣ ،ﻞﻤﻌﻟﺍ ﺕﺎﻳﻮﻟﻭﺄﺑ ﻥﻮﻣﺰﺘﻠﻳ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ :ﺍﺭﺬﺣ ﻦﻛ
+ﻡﺎﻬﻤﻟﺍ ﻂﻴﻄﺨﺗ !ﺀﺎﻄﺧﺃ ﻲﻓ ﻚﻟﺫ ﺐﺒﺴﺗ ﺍﺫﺇ
+RimWorld ﺔﺒﻌﻠﻟ ﺔﻤﻬﻣ ﺓﺭﺎﻬﻣ ﻮﻫ ﺪﻴﺟ ﻞﻜﺸﺑ
+ﻰﺴﻨﺗ ﻻﻭ ﺔﻳﺎﻨﻌﺑ ﺕﺎﻳﻮﻟﻭﻷﺍ ﻂﺒﻀﺑ ﻢﻗ .ﺔﺤﺟﺎﻨﻟﺍ
+.ﺎﻘﺣﻻ ﺎﻬﻨﻣ ﻖﻘﺤﺘﻟﺍ</ChangeWorkSettings.text>
+  
+  
+  <ChooseLandingSite.rejectInputMessage>ﻥﻭﺪﺑ ﺔﻟﺪﺘﻌﻤﻟﺍ ﺕﺎﺑﺎﻐﻟﺍ ﻲﻓ ﻊﻗﻮﻣ ﺭﺎﻴﺘﺧﺍ ﻰﺟﺮﻳ
+ﻊﻘﺑ ﻥﻭﺪﺑ ﺢﺗﺎﻓ ﺮﻀﺧﺃ ﻥﻮﻟ) ﻝﺎﺒﺟﻭ ﺲﻳﺭﺎﻀﺗ
+(ﺔﻴﻨﺑ</ChooseLandingSite.rejectInputMessage>
+  
+  <ChooseLandingSite.text>.ﻰﻟﻭﻷﺍ ﺔﻨﻃﻮﺘﺴﻤﻠﻟ ﺎﻧﺎﻜﻣ ﺮﺘﺧﺍ
+ﺍﺬﻫ .ﺔﻴﻠﺒﺟ ﺲﻳﺭﺎﻀﺗ ﻥﻭﺪﺑ ﺔﻟﺪﺘﻌﻣ ﺕﺎﺑﺎﻏ ﺮﺘﺧﺍ
+ﻥﻭﺪﺑ ،ﺢﺗﺎﻔﻟﺍ ﺮﻀﺧﻷﺍ ﻥﻮﻠﻟﺎﺑ ﻪﻴﻟﺇ ﺭﺎﺸﻣ ﻉﻮﻨﻟﺍ
+."ﻲﻟﺎﺘﻟﺍ" ﺭﺯ ﻰﻠﻋ ﻂﻐﺿﺍ ،ﺔﻌﺑﺎﺘﻤﻠﻟ .ﺔﻴﻨﺑ ﻊﻘﺑ
+ﻲﻓ ﺪﺟﻮﺗ ﺩﺪﺤﻤﻟﺍ ﻊﻗﻮﻤﻟﺍ ﻦﻋ ﺮﺜﻛﺃ ﻞﻴﺻﺎﻔﺗ
+."ﺔﻴﻌﻴﺒﻄﻟﺍ ﺮﻇﺎﻨﻤﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ</ChooseLandingSite.text>
+  
+  
+  <ChooseStoryteller.rejectInputMessage>.ﺐﻳﺭﺪﺘﻟﺍ ﺀﺎﻬﻧﻹ ﻲﺋﺍﻭﺮﻟﺍ ﺮﺘﺧﺍ</ChooseStoryteller.rejectInputMessage>
+  
+  <ChooseStoryteller.text>!ﺕﺎﺒﻳﺭﺪﺘﻟﺍ ﺖﻬﺘﻧﺍ
+ﻰﻠﻋ ﺀﺎﻘﺒﻠﻟ ﺔﻴﺳﺎﺳﻷﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻢﺗ
+ﺓﺭﺎﺠﺘﻟﺍﻭ ﺪﻴﺼﻟﺍﻭ ﻯﺮﺳﻻﺍ ﻦﻋ ﻢﻠﻌﺘﺘﺳ .ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ
+.ﻚﺴﻔﻨﺑ ﺔﺒﻌﻠﻟﺍ ﻲﻓ ﻯﺮﺧﺃ ﻞﻴﺻﺎﻔﺗﻭ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻳﻭﺮﺗﻭ
+.ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﻝﻼﺧ ﺔﻴﺋﺍﻮﺸﻌﻟﺍ ﺙﺍﺪﺣﻷﺍ ﻞﻴﻄﻌﺗ ﻢﺗ
+:ﺔﻳﺪﺠﺑ ﺐﻌﻠﻟ
+ﺀﺰﺠﻟﺍ ﻲﻓ "ﺔﻤﺋﺎﻘﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ .1
+.ﻦﻤﻳﻷﺍ ﻲﻠﻔﺴﻟﺍ
+."ﺕﺍﺩﺍﺪﻋﻹﺍ" ﻰﻠﻋ ﺮﻘﻧﺍ .2
+."ﺐﻌﻠﻟﺍ" ﺮﺘﺧﺍ .3
+ﻒﺻ ﻲﻓ "ﻞﻳﺪﻌﺗ" ﺭﺯ ﻰﻠﻋ ﺮﻘﻧﺍ .4
+."ﻲﺋﺍﻭﺮﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ"
+.ﻪﻴﻓ ﺏﻮﻏﺮﻤﻟﺍ ﺐﻌﻠﻟﺍ ﻂﻤﻧﻭ ﻲﺋﺍﻭﺮﻟﺍ ﺮﺘﺧﺍ .5
+
+.ﺍﺪﻴﻌﺳ ﺎﻈﺣ</ChooseStoryteller.text>
+  
+  
+  <ChopTrees.rejectInputMessage>ﺓﺪﻋ ﺺﻘﻟ "ﺭﺎﺠﺷﻷﺍ ﻊﻄﻗ" ﺓﺍﺩﺃ ﻡﺍﺪﺨﺘﺳﺍ ﻰﺟﺮﻳ
+.ﺭﺎﺠﺷﺃ</ChopTrees.rejectInputMessage>
+  
+  <ChopTrees.text>ﺕﺎﻣﻼﻋ ﻊﺿﻮﺑ ﻢﻗ ؟ﺐﺸﺨﻟﺍ ﺰﻬﺠﺗ ﻻ ﺍﺫﺎﻤﻟ
+.ﻦﻳﺰﺨﺘﻠﻟ ﺭﺎﺠﺷﻷﺍ ﻰﻠﻋ
+.ﺭﺎﺠﺷﺃ 10 ﺩﺪﺣﻭ "ﻊﻄﻗ" ﺓﺍﺩﺃ ﻡﺪﺨﺘﺳﺍ
+(.ﺔﻋﺮﺴﺑ ﺎﻫﺪﻳﺪﺤﺘﻟ ﺭﺎﺠﺷﻷﺍ ﻝﻮﺣ ﻼﻴﻄﺘﺴﻣ ﻢﺳﺭﺍ :ﺔﺤﻴﺼﻧ)</ChopTrees.text>
+  
+  
+  <CreateWorldParams.rejectInputMessage>.ﺔﺒﻌﻠﻟﺍ ﻢﻟﺎﻋ ﺀﺎﺸﻧﻹ "ﺀﺎﺸﻧﺇ" ﺭﺯ ﻰﻠﻋ ﻂﻐﺿﺍ</CreateWorldParams.rejectInputMessage>
+  
+  <CreateWorldParams.text>!RimWorld ﻢﻟﺎﻋ ﻲﻓ ﻚﺑ ﺎﺒﺣﺮﻣ
+ﺀﺎﺸﻧﺇ ﺕﺍﺩﺍﺪﻋﺇ ﻂﺒﺿ ﻢﺘﻳ ﺔﺤﻔﺼﻟﺍ ﻩﺬﻫ ﻰﻠﻋ
+.ﻢﻟﺎﻌﻟﺍ
+!"ﺀﺎﺸﻧﺇ" ﺭﺯ ﻰﻠﻋ ﻂﻐﺿﺍ</CreateWorldParams.text>
+  
+  
+  <DownRaider.onMapInstruction>.ﻞﻣﺮﻟﺍ ﺱﺎﻴﻛﺃ ﺔﻳﺎﻤﺤﻟ ،ﺎﻨﻫ ﻰﻟﺇ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻞﺳﺭﺃ</DownRaider.onMapInstruction>
+  
+  <DownRaider.rejectInputMessage>!ﻝﺎﺘﻘﻟﺍ ﻰﻠﻋ ﺰﻴﻛﺮﺗ ،ﻚﻠﻀﻓ ﻦﻣ</DownRaider.rejectInputMessage>
+  
+  <DownRaider.text>!ﻡﻮﺠﻬﻠﻟ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﺽﺮﻌﺗ
+!{Key:TogglePause} ﻰﻠﻋ ﻂﻐﻀﻟﺎﺑ ﺔﺒﻌﻠﻟﺍ ﻑﺎﻘﻳﺈﺑ ﻢﻗ .1
+ﻰﻠﻔﺴﻟﺍ ﺔﻳﻭﺍﺰﻟﺍ ﻲﻓ ﺮﻤﺣﻷﺍ ﺺﻨﻟﺍ ﺃﺮﻗﺍ .2
+.ﺔﺷﺎﺸﻟﺍ ﻦﻣ ﻰﻨﻤﻴﻟﺍ
+ﻢﻫﺪﻳﺪﺤﺗ ﻖﻳﺮﻃ ﻦﻋ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻊﻴﻤﺠﺘﺑ ﻢﻗ .3
+."ﺔﻛﺮﻌﻤﻟﺍ ﻰﻟﺇ" ﺭﺯ ﻰﻠﻋ ﺮﻘﻨﻟﺍ ﻢﺛ
+ﻰﻟﺇ ﻢﻬﻟﺎﺳﺭﻹ ﻦﻤﻳﻷﺍ ﺓﺭﺄﻔﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ .4
+.ﺱﺎﻴﻛﻷﺎﺑ ﺔﻃﺎﺤﻣ ﺔﻘﻄﻨﻣ ﻞﺧﺍﺩ ﻊﻗﺍﻮﻣ
+.ﻑﺎﻘﻳﻹﺍ ﻊﺿﻭ ﻦﻋ ﺔﺒﻌﻠﻟﺍ ﻊﻓﺭ .5
+
+ﺐﻌﺼﻟﺍ ﻦﻣ ﻪﻠﻌﺠﻟ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺍﻮﻤﺘﺤﻳ ﻥﺃ ﺐﺠﻳ
+.ﻭﺪﻌﻟﺍ ﺏﺮﺘﻘﻳ ﻰﺘﺣ ﺍﻭﺮﻈﺘﻧﺍﻭ ،ﻢﻬﺘﺑﺎﺻﺇ ﺓﺎﺠﻬﻟﺍ ﻰﻠﻋ
+.ﻢﻬﺴﻔﻧﺄﺑ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺈﺑ ﻥﻮﻣﻮﻘﻴﺳ</DownRaider.text>
+  
+  <DownRaider.textController>!ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻢﺟﺎﻬﺗ
+
+!{Key:TogglePause} ﻰﻠﻋ ﻂﻐﻀﻟﺎﺑ ﺔﺒﻌﻠﻟﺍ ﻒﻗﻭﺃ .1
+ﻰﻠﻔﺴﻟﺍ ﺔﻳﻭﺍﺰﻟﺍ ﻲﻓ ﺮﻤﺣﻷﺍ ﺺﻨﻟﺍ ﺃﺮﻗﺍ .2
+.ﺔﺷﺎﺸﻟﺍ ﻦﻣ ﻰﻨﻤﻴﻟﺍ
+ﻰﻠﻋ ﻂﻐﻀﻟﺍﻭ ﻢﻫﺪﻳﺪﺤﺘﺑ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻊﻴﻤﺠﺘﺑ ﻢﻗ .3
+."ﺔﻛﺮﻌﻤﻟﺍ ﻰﻟﺇ ﺏﺎﻫﺬﻟﺍ" ﺭﺯ
+ﻰﻟﺇ ﻢﻬﻟﺎﺳﺭﻹ ﺮﺴﻳﻷﺍ ﺩﺎﻧﺰﻟﺍ ﻰﻠﻋ ﻂﻐﺿﺍ .4
+.ﺱﺎﻴﻛﻷﺎﺑ ﺔﻃﺎﺤﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻞﺧﺍﺩ ﻊﻗﺍﻮﻣ
+.ﺔﺒﻌﻠﻟﺍ ﻒﻗﻮﺗ ﻎﻟﺃ .5
+
+ﺪﻴﻘﻌﺘﻟ ﻯﻭﺄﻣ ﺍﻭﺪﺠﻳ ﻥﺃ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻰﻠﻋ ﺐﺠﻳ
+ﻥﻮﻣﻮﻘﻴﺳ .ﻭﺪﻌﻟﺍ ﺏﺍﺮﺘﻗﺍ ﺭﺎﻈﺘﻧﺍﻭ ﻢﻬﺘﺑﺎﺻﺇ ﻦﻣ ﻦﻴﻤﺟﺎﻬﻤﻟﺍ
+.ﻢﻬﺴﻔﻧﺄﺑ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺈﺑ</DownRaider.textController>
+  
+  
+  <EndStockpileDesignating.text>ﻊﺿﻭ ﻦﻣ ﺝﻭﺮﺨﻠﻟ ﻦﻤﻳﻷﺍ ﺓﺭﺄﻔﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ
+.ﻢﻴﻤﺼﺘﻟﺍ</EndStockpileDesignating.text>
+  
+  <EndStockpileDesignating.textController>ﻊﺿﻭ ﻦﻣ ﺝﻭﺮﺨﻠﻟ ﺮﺴﻳﻷﺍ ﺭﺰﻟﺍ ﻰﻠﻋ ﻂﻐﺿﺍ
+.ﻢﻴﻤﺼﺘﻟﺍ</EndStockpileDesignating.textController>
+  
+  
+  <EquipWeapons.onMapInstruction>ﺡﻼﺴﻟﺍ ﺍﺬﻫ ﺬﺧ</EquipWeapons.onMapInstruction>
+  
+  <EquipWeapons.rejectInputMessage>.ﺔﺤﻠﺳﻷﺎﺑ ﻚﻴﻨﻃﻮﺘﺴﻣ ﺰﻴﻬﺠﺘﺑ ﻢﻗ ،ﻚﻠﻀﻓ ﻦﻣ</EquipWeapons.rejectInputMessage>
+  
+  <EquipWeapons.text>:ﻚﻟﺬﺑ ﻡﺎﻴﻘﻠﻟ .ﺔﺒﺳﺎﻨﻣ ﺔﺤﻠﺳﺄﺑ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺰﻴﻬﺠﺘﺑ ﻢﻗ
+
+.ﺎﻨﻃﻮﺘﺴﻣ ﺩﺪﺣ .1
+.ﺡﻼﺴﻟﺍ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ .2
+.ﺔﻘﺜﺒﻨﻤﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ ﻦﻣ "ﺡﻼﺴﻟﺍ ﺬﺧﺃ" ﺮﺘﺧﺍ .3
+
+.ﻦﻃﻮﺘﺴﻣ ﻞﻜﻟ ﺔﻴﻠﻤﻌﻟﺍ ﺲﻔﻧ ﺭﺮﻛ</EquipWeapons.text>
+  
+  <EquipWeapons.textController>:ﻚﻟﺬﻟ .ﺔﺒﺳﺎﻨﻤﻟﺍ ﺔﺤﻠﺳﻷﺎﺑ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺩﻭﺯ
+
+.ﻦﻃﻮﺘﺴﻤﻟﺍ ﺮﺘﺧﺍ .1
+ﻰﻠﻋ ﻂﻐﺿﺍﻭ ﺡﻼﺴﻟﺍ ﻰﻠﻋ ﺮﺷﺆﻤﻟﺍ ﻊﺿ .2
+.ﺮﺴﻳﻷﺍ ﺭﺰﻟﺍ
+.ﺔﻟﺪﺴﻨﻤﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ ﻦﻣ "ﺡﻼﺴﻟﺍ ﺬﺧﺃ" ﺮﺘﺧﺍ .3
+
+.ﻦﻃﻮﺘﺴﻣ ﻞﻜﻟ ﺲﻔﻨﻟﺍ ﺭﺮﻛ</EquipWeapons.textController>
+  
+  
+  <ExpandAreaBuildRoof.rejectInputMessage>.ﻒﻘﺴﻟﺍ ﺔﻘﻄﻨﻣ ﻊﻴﺳﻮﺗ ﺔﺳﺭﺎﻤﻣ ﻰﺟﺮﻳ</ExpandAreaBuildRoof.rejectInputMessage>
+  
+  <ExpandAreaBuildRoof.text>ﻦﻳﺃﻭ ﻒﻘﺳﻷﺍ ﺀﺎﻨﺑ ﺐﺠﻳ ﻦﻳﺃ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺩﺪﺣ
+ﺎﻴﺋﺎﻘﻠﺗ ﻒﻘﺳﻷﺍ ﺀﺎﻨﺑ ﻢﺘﻳ .ﻚﻟﺫ ﺐﺠﻳ ﻻ
+ﺮﺘﺧﺍ .ﺓﺪﻳﺪﺠﻟﺍ ﻑﺮﻐﻟﺍ ﺀﺎﻨﺑ ﻦﻣ ﺀﺎﻬﺘﻧﻻﺍ ﺪﻨﻋ
+ﺹﺎﺨﻟﺍ ﺱﺎﺳﻷﺍ ﺩﺪﺣﺍﻭ "ﻒﻘﺴﻟﺍ ﺔﻘﻄﻨﻣ ﻊﻴﺳﻮﺗ" ﺓﺍﺩﺃ
+.ﻰﻨﺒﻤﻟﺎﺑ</ExpandAreaBuildRoof.text>
+  
+  
+  <ExpandAreaHome.rejectInputMessage>ﺽﺍﺮﻏﻷ ﻼﻴﻠﻗ ﺔﻴﻟﺎﺤﻟﺍ ﻝﺰﻨﻤﻟﺍ ﺔﻘﻄﻨﻣ ﻊﻴﺳﻮﺗ ﻰﺟﺮﻳ
+.ﺐﻳﺭﺪﺘﻟﺍ</ExpandAreaHome.rejectInputMessage>
+  
+  <ExpandAreaHome.text>.ﻝﺰﻨﻤﻟﺍ ﺔﻘﻄﻨﻣ ﻊﻴﺳﻮﺗ ﺐﺠﻳ ﻥﺎﻴﺣﻷﺍ ﺾﻌﺑ ﻲﻓ
+ﻂﻘﻓ ﻖﺋﺍﺮﺤﻟﺍ ﺀﺎﻔﻃﺇﻭ ﺕﺎﻴﺿﺭﻷﺍ ﻒﻴﻈﻨﺘﺑ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻡﻮﻘﻳ
+.ﺎﻬﺟﺭﺎﺧ ﺥﺎﺳﻭﻷﺍﻭ ﺭﺎﻨﻟﺍ ﻥﻮﻠﻫﺎﺠﺘﻳﻭ ،ﻢﻬﻟﺯﺎﻨﻣ ﺔﻘﻄﻨﻣ ﻲﻓ
+ﻥﺎﺒﻣ ﺀﺎﻨﺑ ﺪﻨﻋ ﺎﻴﺋﺎﻘﻠﺗ ﻝﺰﻨﻤﻟﺍ ﺔﻘﻄﻨﻣ ﻊﺳﻮﺘﺗ
+ﺖﺒﻏﺭ ﺍﺫﺇ ﺎﻳﻭﺪﻳ ﺎﻬﺘﻓﺎﺿﺇ ﻦﻜﻤﻳ ﻦﻜﻟﻭ ،ﺓﺪﻳﺪﺟ
+.ﺎﻬﺑ
+"ﺔﻴﻟﺰﻨﻣ ﺔﻘﻄﻨﻣ ﺔﻓﺎﺿﺇ" ﺓﺍﺩﺃ ﺩﺪﺣ ،ﻚﻟﺬﺑ ﻡﺎﻴﻘﻠﻟ
+.ﺔﻄﻳﺮﺨﻟﺍ ﻰﻠﻋ ﺔﻘﻄﻨﻤﻟﺍ ﻢﺒﺷﺍﻭ</ExpandAreaHome.text>
+  
+  
+  <FinishSandbags.rejectInputMessage>ﺀﺎﻨﺑ ﻦﻣ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻲﻬﺘﻨﻳ ﻰﺘﺣ ﺭﺎﻈﺘﻧﻻﺍ ﻰﺟﺮﻳ
+.ﻞﻣﺮﻟﺍ ﺱﺎﻴﻛﺃ</FinishSandbags.rejectInputMessage>
+  
+  <FinishSandbags.text>ﻦﻴﻴﻌﺘﺑ ﻢﻗ ، ﺀﺎﻨﺒﻟﺍ ﻞﻤﺘﻜﻳ ﻰﺘﺣ ﺮﻈﺘﻧﺍ
+ﻞﻴﻠﻘﺘﻟ ﺖﻗﻮﻟﺍ ﻉﺮﺳﺍ ﻭﺃ ﻦﻴﺋﺎﻨﺒﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ
+ﻚﺗﺭﺪﻗ ﺺﺤﻔﻟ ﻡﻮﺠﻬﻟ ﺽﺮﻌﺘﺘﺳ ﻢﺛ ، ﺭﺎﻈﺘﻧﻻﺍ
+!ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻰﻠﻋ ﺔﻴﻋﺎﻓﺪﻟﺍ</FinishSandbags.text>
+  
+  
+  <MakeGrowingZone.onMapInstruction>ﺎﻨﻫ ﺕﺎﻋﺍﺭﺰﻟﺍ ﻊﺿﻭ ﻰﺟﺮﻳ
+(ﻊﺿﻮﻠﻟ ﺐﺤﺴﻟﺍﻭ ﻂﻐﻀﻟﺎﺑ ﺮﻤﺘﺳﺍ)</MakeGrowingZone.onMapInstruction>
+  
+  <MakeGrowingZone.rejectInputMessage>.ﺓﺩﺪﺤﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺕﺎﻋﺍﺭﺰﻟﺍ ﻊﺿ</MakeGrowingZone.rejectInputMessage>
+  
+  <MakeGrowingZone.text>!ﻝﺰﻨﻤﻟﺍ ﺀﺎﻨﺑ ﺃﺪﺑ
+ﻡﺪﺨﺘﺳﺍ ﺍﺬﻟ ، ﻡﺎﻌﻄﻟﺍ ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ
+ﻰﻠﻋ ﻪﻴﻟﺇ ﺭﺎﺸﻤﻟﺍ ﻥﺎﻜﻤﻟﺍ ﻲﻓ "ﺔﻋﺍﺭﺰﻟﺍ" ﺓﺍﺩﺃ
+.ﺔﻄﻳﺮﺨﻟﺍ
+.ﺏﻮﺒﺤﻟﺍ ﻞﻴﺻﺎﺤﻤﻟﺍ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻉﺭﺰﻴﺳ ﺎﻨﻫ</MakeGrowingZone.text>
+  
+  
+  <MakeStockpile.onMapInstruction>ﺎﻨﻫ ﻉﺩﻮﺘﺴﻤﻟﺍ ﻊﺿ
+(ﻊﺿﻮﻠﻟ ﺐﺤﺴﻟﺍﻭ ﻂﻐﻀﻟﺍ ﻲﻓ ﺮﻤﺘﺳﺍ)</MakeStockpile.onMapInstruction>
+  
+  <MakeStockpile.rejectInputMessage>.ﺓﺩﺪﺤﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻉﺩﻮﺘﺴﻤﻟﺍ ﻊﺿﻭ ﺀﺎﺟﺮﻟﺍ</MakeStockpile.rejectInputMessage>
+  
+  <MakeStockpile.text>ﻑﺮﻌﻳ ﻰﺘﺣ ﻉﺩﻮﺘﺴﻤﻟﺍ ﻊﺿﻮﺑ ﻢﻗ ﻥﻵﺍ !ﺎﺒﺣﺮﻣ
+.ﺩﺭﺍﻮﻤﻟﺍ ﻥﻮﻧﺰﺨﻳ ﻦﻳﺃ ﻥﺎﻜﺴﻟﺍ
+."ﻊﻳﺭﺎﺸﻤﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺩﺪﺣ .1
+.ﺔﺣﻮﺘﻔﻤﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ ﻲﻓ "ﻖﻃﺎﻨﻤﻟﺍ" ﻢﺴﻗ ﺩﺪﺣ .2
+."ﻉﺩﻮﺘﺴﻤﻟﺍ" ﺓﺍﺩﺃ ﺩﺪﺣ ﻢﺛ .3
+.ﺓﺩﺪﺤﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻪﻌﺿ .4</MakeStockpile.text>
+  
+  
+  <MapCameraDolly.text>!ﺢﻄﺴﻟﺍ ﻰﻠﻋ ﺖﻧﺃ ،ﻼﻫﺃ
+.ﺍﺮﻴﻣﺎﻜﻟﺍ ﻚﻳﺮﺤﺗ ﺏﺮﺟ
+ﺓﺭﺄﻔﻟﺍ ﺭﺰﺑ ﻂﻐﺿﺍ ﻭﺃ {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} ﺭﺍﺭﺯﻷﺍ ﻡﺪﺨﺘﺳﺍ
+.ﺍﺮﻴﻣﺎﻜﻟﺎﺑ ﻙﺮﺤﺗﻭ ﻂﺳﻭﻷﺍ
+!ﺎﻬﺑﺮﺟ</MapCameraDolly.text>
+  
+  <MapCameraDolly.textController>!ﺢﻄﺴﻟﺍ ﻰﻟﺇ ﺖﻠﺻﻭ ﺪﻘﻟ
+.ﻯﺮﺴﻴﻟﺍ ﺎﺼﻌﻟﺍ ﺔﻄﺳﺍﻮﺑ ﺍﺮﻴﻣﺎﻜﻟﺍ ﻙﺮﺤﺗ
+!ﺏﺮﺟ</MapCameraDolly.textController>
+  
+  
+  <MapCameraZoom.text>!ﺯﺎﺘﻤﻣ
+ﺱﻭﺎﻤﻟﺍ ﺔﻠﺠﻋ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻄﻳﺮﺨﻟﺍ ﺮﻴﻐﺼﺗﻭ ﺮﻴﺒﻜﺘﺑ ﻢﻗ
+.{Key:MapZoom_Out} ﻭ {Key:MapZoom_In} ﺢﻴﺗﺎﻔﻣ ﻭﺃ
+!ﻥﻵﺍ ﺏﺮﺟ</MapCameraZoom.text>
+  
+  <MapCameraZoom.textController>!ﺯﺎﺘﻤﻣ
+ﻭ {Key:MapZoom_In} ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻄﻳﺮﺨﻟﺍ ﺮﻴﻐﺼﺗﻭ ﺮﻴﺒﻜﺘﺑ ﻢﻗ
+.{Key:MapZoom_Out}
+!ﺏﺮﺟ</MapCameraZoom.textController>
+  
+  
+  <MineSteel.onMapInstruction>ﻦﻳﺪﻌﺘﻠﻟ ﺎﻬﻴﻠﻋ ﺔﻣﻼﻋ ﻊﺿﻭ</MineSteel.onMapInstruction>
+  
+  <MineSteel.rejectInputMessage>ﻦﻣ ،ﺐﻠﺼﻟﺍ ﺐﺳﺍﻭﺭ ﻰﻠﻋ "ﺮﻔﺣ" ﺓﺍﺩﺃ ﻡﺪﺨﺘﺳﺍ
+.ﻚﻠﻀﻓ</MineSteel.rejectInputMessage>
+  
+  <MineSteel.text>n\ !ﺬﻳﺬﻟ ﺀﻲﺷ ﺮﻴﻀﺤﺘﺑ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻡﻮﻘﻴﺳ ﺎﺒﻳﺮﻗ
+ﺎﻬﺟﺎﺘﺤﺘﺳ :ﺔﻤﻴﻘﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﻰﻟﺇ ﻞﻘﺘﻨﻨﻟ ﻥﻵﺍﻭ \n
+ﺐﻠﺼﻟﺍ ﻦﻣ ﺕﺎﺒﺳﺮﺗ ﺪﺟﻮﺗ .ﻞﺒﻘﺘﺴﻤﻟﺍ ﻲﻓ ﺪﻴﻛﺄﺘﻟﺎﺑ
+ﺓﺍﺩﺃ ﺩﺪﺣ n \n\ .ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻦﻣ ﺏﺮﻘﻟﺎﺑ
+.ﺎﻬﺑ ﺕﺎﺒﺳﺮﺘﻟﺍ ﺪﻳﺪﺤﺘﺑ ﻢﻗﻭ "ﺮﻔﺣ"</MineSteel.text>
+  
+  
+  <OpenMainTabResearch.rejectInputMessage>.ﻚﻠﻀﻓ ﻦﻣ ،"ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ</OpenMainTabResearch.rejectInputMessage>
+  
+  <OpenMainTabResearch.text>."ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ" ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ ﺢﺘﻓﺍn\n\.ﺔﺳﺍﺭﺪﻠﻟ ﺔﻴﻨﻘﺗ ﺮﺘﺧﺍ !ﻊﺋﺍﺭ</OpenMainTabResearch.text>
+  
+  
+  <OpenMainTabWork.rejectInputMessage>."ﻞﻤﻌﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻔﺑ ﻢﻗ ،ﻚﻠﻀﻓ ﻦﻣ</OpenMainTabWork.rejectInputMessage>
+  
+  <OpenMainTabWork.text>ﺢﺘﻓﺍ .ﻦﻃﻮﺘﺴﻣ ﻞﻛ ﻪﻠﻌﻔﻳ ﺎﻣ ﻲﻓ ﻢﻜﺤﺗ
+ﻦﻣ ﻲﻠﻔﺴﻟﺍ ﺀﺰﺠﻟﺍ ﻲﻓ "ﻞﻤﻌﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ
+.ﺔﺷﺎﺸﻟﺍ</OpenMainTabWork.text>
+  
+  
+  <Pause.text>.ﻥﻵﺍ ﺖﻗﻮﻟﺍ ﻒﻗ
+ﺪﻨﻋ ﺖﻗﺆﻣ ﻑﺎﻘﻳﺈﺑ ﻢﻗ .ﺔﻠﺠﻋ ﻼﺑ ﺐﻌﻟﺍ
+.ﻥﺎﻜﺴﻠﻟ ﺔﻣﺯﻼﻟﺍ ﺕﺎﻤﻴﻠﻌﺘﻟﺍ ﺭﺪﺻﺃﻭ ﺔﺟﺎﺤﻟﺍ
+{Key:TogglePause} ﺡﺎﺘﻔﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺎﺘﻗﺆﻣ ﺔﺒﻌﻠﻟﺍ ﻑﺎﻘﻳﺇ ﻝﻭﺎﺣ
+ﺀﺰﺠﻟﺍ ﻲﻓ ﺖﻗﻮﻟﺍ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺭﺍﺭﺯﺃ ﻭﺃ
+.ﺔﺷﺎﺸﻟﺍ ﻦﻣ ﻦﻤﻳﻷﺍ ﻲﻠﻔﺴﻟﺍ</Pause.text>
+  
+  <Pause.textController>.ﻥﻵﺍ ﺖﻗﻮﻟﺍ ﻒﻗﻭﺃ
+ﺀﺎﻨﺛﺃ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺕﺎﻤﻴﻠﻌﺗ ﻂﻋﺍ .ﺔﻠﺠﻋ ﻥﻭﺪﺑ ﺐﻌﻟﺍ
+.ﺔﺒﻌﻠﻟﺍ ﻒﻗﻭ
+ﻭﺃ {Key:TogglePause} ﺭﺯ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﺒﻌﻠﻟﺍ ﻒﻗﻭ ﻝﻭﺎﺣ
+ﺔﺷﺎﺸﻟﺍ ﻞﻔﺳﺃ ﻲﻓ ﺖﻗﻮﻟﺍ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺭﺍﺭﺯﺃ
+.ﻰﻨﻤﻴﻟﺍ</Pause.textController>
+  
+  
+  <RandomizeCharacter.rejectInputMessage>.ﺔﻴﺋﺍﻮﺸﻋ ﺺﺋﺎﺼﺨﺑ ﺔﻴﺼﺨﺷ ﺀﺎﺸﻧﺇ ﺔﻟﻭﺎﺤﻣ ﻰﺟﺮﻳ</RandomizeCharacter.rejectInputMessage>
+  
+  <RandomizeCharacter.text>ﺔﻴﺋﺍﻮﺸﻋ ﺔﻴﺼﺨﺷ ﺭﺎﻴﺘﺧﺍ ﻝﻭﺎﺣn\n\!ﺕﺎﻴﺼﺨﺸﻟﺍ ﺀﺎﺸﻧﺈﺑ ﻡﻮﻘﻨﺳ ﻥﻵﺍ
+."ﻲﺋﺍﻮﺸﻋ" ﺭﺯ ﻡﺍﺪﺨﺘﺳﺎﺑ</RandomizeCharacter.text>
+  
+  
+  <ReorderCharacters.rejectInputMessage>.ﻚﻠﻀﻓ ﻦﻣ ،ﻻﻭﺃ ﺔﻴﺼﺨﺸﻟﺍ ﺪﻳﺪﺤﺗ ﻰﺟﺮﻳ</ReorderCharacters.rejectInputMessage>
+  
+  <ReorderCharacters.text>، ﺔﻴﺼﺨﺸﻟﺍ ﺪﻳﺪﺤﺘﻟ !ﺕﺎﻴﺼﺨﺸﻟﺍ ﺭﺎﻴﺘﺧﺍ ﻥﻵﺍ ﻚﻨﻜﻤﻳ
+ﺔﻴﺼﺨﺸﻟﺍ ﺐﺤﺳﺍ ﻢﺛ .ﺭﺎﺴﻴﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻰﻠﻋ ﺮﻘﻧﺍ
+."ﺎﻫﺭﺎﻴﺘﺧﺍ ﻢﺗ" ﻢﺴﻗ ﻰﻟﺇ ﺎﻬﻴﻓ ﺐﻏﺮﺗ ﻲﺘﻟﺍ</ReorderCharacters.text>
+  
+  
+  <SelectResearchProject.rejectInputMessage>ﺚﺤﺒﻠﻟ ﺔﻴﻨﻘﺗ ﺭﺎﻴﺘﺧﺍ ﻰﺟﺮﻳ</SelectResearchProject.rejectInputMessage>
+  
+  <SelectResearchProject.text>ﻲﻓ ﻪﻴﻓ ﺚﺤﺒﻟﺍ ﻲﻓ ﺐﻏﺮﺗ ﺎﻣ ﺩﺪﺣ
+.ﻝﻭﻷﺍ ﻡﺎﻘﻤﻟﺍ
+.ﺚﺤﺒﻟﺍ ﺔﻟﻭﺎﻃ ﺀﺎﻨﺒﻟ ﺭﺎﻈﺘﻧﻻﺍ ﻚﻴﻠﻋ ﻥﻮﻜﻳ ﺪﻗ
+ﻦﻴﻨﻃﻮﺘﺴﻣ ﺓﺪﻋ ﻦﻴﻴﻌﺘﻟ "ﻞﻤﻌﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻡﺪﺨﺘﺳﺍ
+.ﺀﺎﻨﺒﻟﺍ ﻊﻳﺮﺴﺘﻟ</SelectResearchProject.text>
+  
+  
+  <SetToGrowRice.onMapInstruction>ﺓﺩﺪﺤﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﺔﻋﺍﺭﺰﻟ ﺔﺒﺳﺎﻨﻤﻟﺍ ﺔﻋﺍﺭﺰﻟﺍ ﻉﻮﻧ ﺩﺪﺣ</SetToGrowRice.onMapInstruction>
+  
+  <SetToGrowRice.rejectInputMessage>.ﺔﻋﺍﺭﺰﻠﻟ ﺯﺭﻷﺍ ﻉﻮﻧ ﺭﺎﻴﺘﺧﺍ ﻰﺟﺮﻳ</SetToGrowRice.rejectInputMessage>
+  
+  <SetToGrowRice.text>.ﺓﺩﺪﺤﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻥﻮﻋﺭﺰﻴﺳ ﺎﻣ ﻦﻴﺋﺎﻨﺒﻟﺍ ﺭﺮﻗ
+ﻦﻣ ﺝﻭﺮﺨﻠﻟ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ .1
+.ﻢﻴﻤﺼﺘﻟﺍ ﻊﺿﻭ
+.ﻩﺪﻳﺪﺤﺘﻟ ﻞﻘﺤﻟﺍ ﻰﻠﻋ ﺮﻘﻧﺍ .2
+.ﺕﺎﻓﺎﻘﺜﻟﺍ ﺔﻤﺋﺎﻗ ﻦﻣ ﺯﺭﻷﺍ ﺮﺘﺧﺍ .3</SetToGrowRice.text>
+  
+  <SetToGrowRice.textController>.ﺓﺩﺪﺤﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺱﺎﻨﻟﺍ ﻪﻋﺭﺰﻳ ﺎﻣ ﺩﺪﺣ
+.ﻢﻴﻤﺼﺘﻟﺍ ﻊﺿﻭ ﻦﻣ ﺝﻭﺮﺨﻠﻟ ﺮﺴﻳﻷﺍ ﻥﺎﻤﻜﻟﺍ ﻂﻐﺿﺍ
+.ﻩﺪﻳﺪﺤﺘﻟ ﻞﻘﺤﻟﺍ ﻰﻠﻋ ﺮﻘﻧﺍ
+.ﺔﻤﺋﺎﻘﻟﺍ ﻦﻣ ﺯﺭﻷﺍ ﺮﺘﺧﺍ</SetToGrowRice.textController>
+  
+  
+  <TimeControls.text>.ﺖﻗﻮﻟﺍ ﻊﻳﺮﺴﺗ
+{Key:TimeSpeed_Superfast}ﻭ {Key:TimeSpeed_Normal} , {Key:TimeSpeed_Fast} ﺕﺎﻴﻌﺿﻭ ﺏﺮﺟ
+.ﺔﺷﺎﺸﻟﺍ ﻞﻔﺳﺃ ﻲﻓ ﻭﺃ ﺭﺍﺭﺯﻷﺍ ﺔﻄﺳﺍﻮﺑ</TimeControls.text>
+  
+  <TimeControls.textController>ﻭ {Key:TimeSpeed_Faster} ﺢﻴﺗﺎﻔﻣ ﻡﺪﺨﺘﺳﺍ .ﺖﻗﻮﻟﺍ ﻊﻳﺮﺴﺘﺑ ﻢﻗ
+ﻞﻔﺳﺃ ﻲﻓ ﺖﻗﻮﻟﺎﺑ ﻢﻜﺤﺘﻟﺍ ﺭﺍﺭﺯﺃ ﻭﺃ {Key:TimeSpeed_Slower}
+.ﺔﺷﺎﺸﻟﺍ</TimeControls.textController>
+  
+  
+  <UndraftAll.rejectInputMessage>.ﻥﻮﻠﺣﺮﻳ ﻢﻫﻮﻛﺮﺗﺍﻭ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﻝﺎﺠﻤﻟﺍ ﺍﻮﺤﺴﻓﺃ ﻚﻠﻀﻓ ﻦﻣ</UndraftAll.rejectInputMessage>
+  
+  <UndraftAll.text>ﻡﺍﺪﺨﺘﺳﺎﺑ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻚﻴﻜﻔﺘﺑ ﻢﻗ ﻥﻵﺍ !ﺀﺎﻬﺘﻧﻻﺍ ﻢﺗ
+ﻢﻬﺘﻄﺸﻧﻷ ﺓﺩﻮﻌﻟﺎﺑ ﻢﻬﻟ ﺢﻤﺴﻴﺳ ﺍﺬﻫ .ﺭﺰﻟﺍ ﺲﻔﻧ
+.ﺔﻘﺑﺎﺴﻟﺍ</UndraftAll.text>
+  
+  
+  <UnforbidStartingResources.onMapInstruction>ﺮﻈﺤﻟﺍ ﻝﺯﺃ</UnforbidStartingResources.onMapInstruction>
+  
+  <UnforbidStartingResources.rejectInputMessage>.ﺓﺮﺛﺎﻨﺘﻤﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﻊﻤﺠﺑ ﻲﻟ ﺢﻤﺳﺍ ،ﻚﻠﻀﻓ ﻦﻣ</UnforbidStartingResources.rejectInputMessage>
+  
+  <UnforbidStartingResources.text>ﻊﻴﻄﺘﺴﻳ ﻰﺘﺣ ﺓﺮﺜﻌﺒﻤﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﻦﻋ ﺮﻈﺤﻟﺍ ﺍﻮﻠﻳﺯﺃ
+.ﻉﺩﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﺎﻬﻠﻘﻧ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ
+.ﺓﺩﺪﺤﻤﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﻦﻣ ﺓﺪﺣﺍﻭ ﺍﻭﺭﺎﺘﺧﺍ .1
+ﺮﻈﺤﻟﺍ ﺔﻟﺍﺯﻹ "ﺡﺎﻤﺴﻟﺍ" ﺡﺎﺘﻔﻤﻟﺍ ﻰﻠﻋ ﺍﻭﺮﻘﻧﺍ .2
+.ﺩﺭﻮﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻋ
+
+ﺪﻳﺪﺤﺘﻟ ﺓﺩﺎﻤﻟﺍ ﻰﻠﻋ ﺝﻭﺩﺰﻤﻟﺍ ﺮﻘﻨﻟﺍ ﺍﻮﻣﺪﺨﺘﺳﺍ :ﺔﺤﻴﺼﻧ)
+(.ﺔﺷﺎﺸﻟﺍ ﻰﻠﻋ ﺔﻴﺋﺮﻤﻟﺍ ﻉﻮﻨﻟﺍ ﺲﻔﻧ ﻦﻣ ﺩﺍﻮﻤﻟﺍ
+
+:ﻯﺮﺧﻷﺍ ﺔﻘﻳﺮﻄﻟﺍ
+."ﻊﻳﺭﺎﺸﻤﻟﺍ" ﺔﻤﺋﺎﻗ ﺍﻮﺤﺘﻓﺍ .1
+."ﺮﻣﺍﻭﻷﺍ" ﺍﻭﺭﺎﺘﺧﺍ .2
+."ﺡﺎﻤﺴﻟﺍ" ﻰﻠﻋ ﺍﻮﻄﻐﺿﺍ .3
+ﻊﺿﻭ ﻢﺗ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻊﻴﻤﺟ ﺍﻭﺩﺪﺣ .4
+.ﺎﻬﻴﻠﻋ ﺮﻈﺣ</UnforbidStartingResources.text>
+  
+</LanguageData>

@@ -1,0 +1,745 @@
+<LanguageData>
+
+  
+  
+  <CommandForbid>ﻞﻴﻄﻌﺗ</CommandForbid>
+  
+  <CommandAllow>ﺡﺎﻤﺴﻟﺍ</CommandAllow>
+  
+  <CommandForbiddenDesc>.ﺡﺎﻤﺴﻠﻟ ﺮﻘﻧﺍ .ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﺎﻬﻣﺪﺨﺘﺴﻳ ﻦﻟ :ﻉﻮﻨﻤﻣ</CommandForbiddenDesc>
+  
+  <CommandNotForbiddenDesc>.ﻞﻴﻄﻌﺘﻠﻟ ﻂﻐﺿﺍ .ﻚﻟﺫ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﻦﻜﻤﻳ :ﺡﻮﻤﺴﻣ</CommandNotForbiddenDesc>
+
+  
+  
+  <CommandTogglePowerLabel>ﻑﺎﻘﻳﺇ/ﻞﻴﻐﺸﺗ</CommandTogglePowerLabel>
+  
+  <CommandTogglePowerDesc>.ﺀﺎﺑﺮﻬﻜﻟﺍ ﻞﻴﻐﺸﺗ ﻑﺎﻘﻳﺇ ﻭﺃ ﻞﻴﻐﺸﺗ</CommandTogglePowerDesc>
+  
+  
+  <CommandDesignateTogglePowerLabel>ﻑﺎﻘﻳﺇ/ﻞﻴﻐﺸﺗ</CommandDesignateTogglePowerLabel>
+  
+  <CommandDesignateTogglePowerDesc>.ﺔﻗﺎﻄﻟﺍ ﻞﻴﻐﺸﺗ ﻑﺎﻘﻳﺇ ﻭﺃ ﻞﻴﻐﺸﺗ ﺮﻣﺃ ﻂﻋﺃ
+.ﺡﺎﺘﻔﻤﻟﺍ ﻝﻮﺤﻴﺳﻭ ﻦﻃﻮﺘﺴﻤﻟﺍ ﻲﺗﺄﻴﺳ ﺎﺒﻳﺮﻗ</CommandDesignateTogglePowerDesc>
+  
+  
+  <CommandTryReconnectLabel>ﻝﺎﺼﺗﻻﺍ ﺓﺩﺎﻋﺈﺑ ﻢﻗ</CommandTryReconnectLabel>
+  
+  <CommandTryReconnectDesc>ﻲﻓ ﺮﺧﺁ ﺔﻗﺎﻃ ﺭﺪﺼﻤﺑ ﺯﺎﻬﺠﻟﺍ ﻞﻴﺻﻮﺘﺑ ﻢﻗ
+ﺔﻗﺎﻄﻟﺍ ﻦﻋ ﻪﻠﺼﻓ ﻞﻬﺴﻴﺳ ﺍﺬﻫ .ﻝﺎﺼﺗﻻﺍ ﻕﺎﻄﻧ
+.ﺔﻗﺎﻄﺑ ﺔﺒﻳﺮﻗ ﺔﻜﺒﺷ ﻙﺎﻨﻫ ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋ</CommandTryReconnectDesc>
+
+  
+  <CommandGatherSpotToggleLabel>ﻊﻤﺠﺘﻟﺍ ﻥﺎﻜﻣ</CommandGatherSpotToggleLabel>
+  
+  <CommandGatherSpotToggleDescActive>.ﺓﺭﻭﺎﺠﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻁﺎﺸﻨﺑ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻊﻤﺠﺘﻳ</CommandGatherSpotToggleDescActive>
+  
+  <CommandGatherSpotToggleDescInactive>ﺏﺮﻘﻟﺍ ﻲﻓ ﻥﻮﺣﺯﺎﻨﻟﺍ ﻊﻤﺠﺘﻳ ﻦﻟ :ﺔﻄﺸﻧ ﺮﻴﻏ
+.ﺾﻌﺒﻟﺍ ﻢﻬﻀﻌﺑ ﻦﻣ</CommandGatherSpotToggleDescInactive>
+  
+  
+  
+  <CommandDraftLabel>!ﺔﻛﺮﻌﻤﻟﺍ ﻰﻟﺇ</CommandDraftLabel>
+  
+  <CommandUndraftLabel>ﻕﺍﺮﻓ</CommandUndraftLabel>
+  
+  <CommandToggleDraftDesc>.ﺔﻛﺮﻌﻤﻟﺍ ﻊﺿﻭ ﻰﻟﺇ ﺮﻴﻴﻐﺗ
+.ﻥﻮﺑﺭﺎﺤﻳﻭ ﺮﻣﺍﻭﺃ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻰﻘﻠﺘﻳ ،ﻊﺿﻮﻟﺍ ﺍﺬﻫ ﻲﻓ
+ﻭﺃ ﻡﺎﻌﻄﻟﺍ ﻝﻭﺎﻨﺗ ﻭﺃ ﻞﻤﻌﻟﺎﺑ ﺍﻮﻣﻮﻘﻳ ﻦﻟ
+.ﺔﺣﺍﺮﺘﺳﻻﺍ</CommandToggleDraftDesc>
+  
+  <IsIncapped>{1_labelShort} ﻲﺸﻤﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ.</IsIncapped>
+  
+  <ParticipatingInRitual>{0_label} 1} ﻲﻓ ﻙﺭﺎﺸﻳ}.</ParticipatingInRitual>
+
+  
+  <CommandFireAtWillLabel>ﻙﺮﻳﺪﻘﺗ ﺐﺴﺣ ﺭﺎﻨﻟﺍ ﻖﻠﻃﺍ</CommandFireAtWillLabel>
+  
+  <CommandFireAtWillDesc>ﻰﻠﻋ ﺀﺎﻨﺑ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻊﻨﻣ ﻭﺃ ﺡﺎﻤﺴﻟﺍ
+.ﺔﻴﺼﺨﺸﻟﺍ ﺕﺍﺭﺍﺮﻗ
+ﺺﺨﺸﻟﺍ ﻖﻠﻄﻳ ﻦﻠﻓ ،ﻕﻼﻃﻹﺍ ﻊﻨﻣ ﻢﺗ ﺍﺫﺇ
+ﻻ .ﺮﻣﺃ ﻥﻭﺪﺑ ﺓﺪﻴﻌﺑ ﻑﺍﺪﻫﺃ ﻰﻠﻋ ﺭﺎﻨﻟﺍ
+.ﺔﺒﻳﺮﻘﻟﺍ ﻙﺭﺎﻌﻤﻟﺍ ﻰﻠﻋ ﺮﺛﺆﻳ</CommandFireAtWillDesc>
+  
+  
+  <CommandClearPrioritizedWork>ﺓﺩﺪﺤﻤﻟﺍ ﺕﺍﺀﺍﺮﺟﻹﺍ ﺢﺴﻣ</CommandClearPrioritizedWork>
+  
+  <CommandClearPrioritizedWorkDesc>ﺪﻓﺍﻮﻟﺍ ﺮﻤﺘﺴﻴﺳ .ﺎﻬﺑ ﺖﻤﻗ ﺕﺍﺀﺍﺮﺟﺇ ﻱﺃ ﻎﻟﺃ
+.ﻪﺗﺎﻳﻮﻟﻭﻷ ﺎﻘﻓﻭ ﻞﻤﻌﻟﺍ ﻲﻓ</CommandClearPrioritizedWorkDesc>
+  
+  
+  <CommandCancelConstructionLabel>ﺀﺎﻐﻟﺇ</CommandCancelConstructionLabel>
+  
+  <CommandCancelConstructionDesc>.ﺀﺎﻨﺒﻟﺍ ﺀﺎﻐﻟﺇ</CommandCancelConstructionDesc>
+
+  
+  <CommandGetOutOfBedLabel>ﺮﻳﺮﺴﻟﺍ ﺮﻳﺮﺤﺗ</CommandGetOutOfBedLabel>
+  
+  <CommandGetOutOfBedDesc>.ﻝﻮﻐﺸﻤﻟﺍ ﺮﻳﺮﺴﻟﺍ ﺮﻳﺮﺤﺗ</CommandGetOutOfBedDesc>
+
+  
+  <CommandThingSetOwnerLabel>ﺪﺋﺎﻘﻟﺍ ﻦﻴﻴﻌﺗ</CommandThingSetOwnerLabel>
+  
+  <CommandBedSetOwnerDesc>;ﺔﻟﺎﺤﻟﺍ ;{lookup: {0} ـﻟ ﺩﺪﺤﻣ ﺮﻳﺮﺳ ﻦﻴﻴﻌﺗ
+.{2</CommandBedSetOwnerDesc>
+  
+  <CommandThroneSetOwnerDesc>.ﺵﺮﻌﻟﺍ ﻰﻠﻋ ﺩﺪﺤﻣ ﻦﻃﻮﺘﺴﻣ ﻦﻴﻴﻌﺗ</CommandThroneSetOwnerDesc>
+  
+  <CommandMeditationSpotSetOwnerDesc>ﻦﻴﻌﻣ ﻯﻮﺘﺴﻤﻟ ﻞﻣﺄﺗ ﺔﻄﻘﻨﻛ ﻊﻗﻮﻤﻟﺍ ﺍﺬﻫ ﻦﻴﻴﻌﺗ
+.ﻦﻃﻮﺘﺴﻤﻠﻟ</CommandMeditationSpotSetOwnerDesc>
+  
+  <CommandGraveAssignColonistLabel>ﻦﻃﻮﺘﺴﻤﻠﻟ ﻦﻴﻴﻌﺗ</CommandGraveAssignColonistLabel>
+  
+  <CommandGraveAssignColonistDesc>.ﻦﻴﻌﻣ ﻦﻛﺎﺴﻟ ﻦﻓﺪﻠﻟ ﺺﺼﺨﻤﻟﺍ ﻊﻗﻮﻤﻟﺍ ﺍﺬﻫ ﻦﻴﻴﻌﺗ</CommandGraveAssignColonistDesc>
+  
+  <BuildingAssign>ﻦﻴﻴﻌﺗ</BuildingAssign>
+  
+  <BuildingReassign>ﻦﻴﻴﻌﺘﻟﺍ ﺓﺩﺎﻋﺇ</BuildingReassign>
+  
+  <BuildingUnassign>ﻦﻴﻴﻌﺘﻟﺍ ﺔﻟﺍﺯﺇ</BuildingUnassign>
+  
+  <CommandBedSetForPrisonersLabel>ﻯﺮﺳﻸﻟ</CommandBedSetForPrisonersLabel>
+  
+  <CommandBedSetForPrisonersDesc>ﻩﺬﻫ ﻲﻓ ﺮﻳﺮﺴﻟﺍ ﻡﺪﺨﺘﺴﺗ ﻥﺃ ﺐﺠﻳ ﻞﻫ
+؟ﻻ ﻡﺃ ﻯﺮﺳﻷﺍ ﻞﺒﻗ ﻦﻣ ﺔﻓﺮﻐﻟﺍ</CommandBedSetForPrisonersDesc>
+  
+  <CommandBedSetForPrisonersFailOutdoors>.ﺔﻘﻠﻐﻤﻟﺍ ﻑﺮﻐﻟﺍ ﻲﻓ ﺮﺋﺍﺮﺳ ﻂﻘﻓ ﺀﺎﻨﺠﺴﻠﻟ</CommandBedSetForPrisonersFailOutdoors>
+  
+  <CommandBedSetAsMedicalLabel>ﻲﺒﻄﻟﺍ ﺮﻳﺮﺴﻟﺍ</CommandBedSetAsMedicalLabel>
+  
+  <CommandBedSetAsMedicalDesc>ﺔﻴﺒﻃ ﺽﺍﺮﻏﻷ ﺮﻳﺮﺴﻟﺍ ﺍﺬﻫ ﻡﺍﺪﺨﺘﺳﺍ ﺐﺠﻳ ﻞﻫ
+؟ﻻ ﻡﺃ</CommandBedSetAsMedicalDesc>
+  
+  <TurningOnPrisonerBedWarning>ﺎﻬﻠﻤﻛﺄﺑ ﺔﻓﺮﻐﻟﺍ ﻰﻠﻋ ﺮﺛﺆﻴﺳ ﻯﺮﺳﻷﺍ ﻊﺿﻭ ﻦﻴﻜﻤﺗ
+ﺲﻔﻧ ﻲﻓ ﻡﻮﻨﻟﺍ ﻢﻬﻨﻜﻤﻳ ﻻ ﻯﺮﺳﻷﺍﻭ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ)
+.ﻢﻬﻟ ﺔﻨﻴﻌﻤﻟﺍ ﺓﺮﺳﻷﺍ ﻥﻭﺪﻘﻔﻳ ﻑﻮﺳ ﻥﻮﻴﻟﺎﺘﻟﺍ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍn\n\.(ﺔﻓﺮﻐﻟﺍ</TurningOnPrisonerBedWarning>
+  
+  <TurningOffPrisonerBedWarning>ﺎﻬﻠﻤﻛﺄﺑ ﺔﻓﺮﻐﻟﺍ ﻰﻠﻋ ﺮﺛﺆﻴﺳ ﻯﺮﺳﻷﺍ ﻊﺿﻭ ﻑﺎﻘﻳﺇ
+ﺲﻔﻧ ﻲﻓ ﻡﻮﻨﻟﺍ ﻥﻮﻌﻴﻄﺘﺴﻳ ﻻ ﻯﺮﺳﻷﺍﻭ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ)
+:ﺔﻨﻴﻌﻤﻟﺍ ﻢﻬﺗﺮﺳﺃ ﻦﻴﻴﻟﺎﺘﻟﺍ ﻯﺮﺳﻷﺍ ﺪﻘﻔﻴﺳ .(ﺔﻓﺮﻐﻟﺍ</TurningOffPrisonerBedWarning>
+  
+  <AreYouSure>.ﺪﻛﺄﺘﻣ ،ﻢﻌﻧ</AreYouSure>
+  
+  <ChangingOwnerTypeBedWarning>ﺔﻓﺮﻐﻟﺍ ﻉﻮﻧ ﻰﻠﻋ ﺮﺛﺆﻳ ﺮﻳﺮﺴﻟﺍ ﻊﺿﻭ ﺮﻴﻴﻐﺗ
+ﺪﻴﺒﻌﻟﺍﻭ ﻯﺮﺳﻷﺍﻭ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﻦﻜﻤﻳ ﻻ ﺚﻴﺣ) ﺎﻬﻠﻤﻛﺄﺑ
+ﺓﺮﺳﻷﺍ ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ ﺪﻘﻔﻴﺳn\n\.(ﺔﻓﺮﻐﻟﺍ ﺲﻔﻧ ﻲﻓ ﻡﻮﻨﻟﺍ
+:ﻢﻬﻟ ﺔﻨﻴﻌﻤﻟﺍ</ChangingOwnerTypeBedWarning>
+
+
+  
+  <CommandDetonateLabel>ﺮﻴﺠﻔﺘﻟﺍ</CommandDetonateLabel>
+  
+  <CommandDetonateDesc>.ﻲﻟﺯﺎﻨﺘﻟﺍ ﺪﻌﻟﺍ ﺀﺪﺑ</CommandDetonateDesc>
+
+  
+  <CommandRenameZoneLabel>.ﻢﺳﻻﺍ ﺮﻴﻏ</CommandRenameZoneLabel>
+  
+  <CommandRenameZoneDesc>.ﺔﻘﻄﻨﻤﻟﺍ ﻢﺳﺍ ﺮﻴﻴﻐﺗ</CommandRenameZoneDesc>
+
+  
+  <CommandHideZoneLabel>.ﺀﺎﻔﺧﺇ</CommandHideZoneLabel>
+  
+  <CommandUnhideZoneLabel>ﻲﻧﺭﺃ</CommandUnhideZoneLabel>
+  
+  <CommandHideZoneDesc>.ﺔﻘﻄﻨﻤﻟﺍ ﺀﺎﻔﺧﺇ/ﺭﺎﻬﻇﺇ</CommandHideZoneDesc>
+
+  
+  <CommandDeleteZoneLabel>Remove</CommandDeleteZoneLabel>
+  
+  <CommandDeleteZoneDesc>.ﺔﻘﻄﻨﻤﻟﺍ ﻑﺬﺣﺍ</CommandDeleteZoneDesc>
+
+  
+  <CommandCopyZoneSettingsLabel>ﺕﺍﺩﺍﺪﻋﻹﺍ ﺦﺴﻧ</CommandCopyZoneSettingsLabel>
+  
+  <CommandCopyZoneSettingsDesc>ﻰﻠﻋ ﺎﻬﻘﻴﺒﻄﺘﺑ ﻡﺎﻴﻘﻠﻟ ﻦﻳﺰﺨﺘﻟﺍ ﺍﺬﻫ ﺕﺍﺩﺍﺪﻋﺇ ﺦﺴﻧ
+.ﻖﺣﻻ ﺖﻗﻭ ﻲﻓ ﻯﺮﺧﻷﺍ ﺕﺎﻨﻳﺰﺨﺘﻟﺍ</CommandCopyZoneSettingsDesc>
+
+  
+  <CommandPasteZoneSettingsLabel>ﺕﺍﺩﺍﺪﻋﻹﺍ ﻦﻴﻴﻌﺗ</CommandPasteZoneSettingsLabel>
+  
+  <CommandPasteZoneSettingsDesc>.ﻦﻳﺰﺨﺘﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﺎﻘﺒﺴﻣ ﺔﺧﻮﺴﻨﻤﻟﺍ ﺕﺍﺩﺍﺪﻋﻹﺍ ﻡﺪﺨﺘﺳﺍ</CommandPasteZoneSettingsDesc>
+
+  
+  <CommandAllowSow>ﺔﻋﺍﺭﺰﻟﺎﺑ ﺡﺎﻤﺴﻟﺍ</CommandAllowSow>
+  
+  <CommandAllowSowDesc>ﻦﻣ ﺔﺳﺍﺮﺤﻟﺍ ﻊﻨﻤﺘﺳ ،ﺭﺎﻴﺨﻟﺍ ﺍﺬﻫ ﻞﻴﻄﻌﺗ ﺪﻨﻋ
+ﺩﺎﺼﺣ ﻲﻓ ﻥﻭﺮﻤﺘﺴﻴﺳ ﻢﻬﻨﻜﻟ ،ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﺔﻋﺍﺭﺯ
+.ﻞﻴﺻﺎﺤﻤﻟﺍ</CommandAllowSowDesc>
+
+  
+  <CommandAllowCut>ﻊﻴﻄﻘﺘﻟﺎﺑ ﺢﻤﺳﺍ</CommandAllowCut>
+  
+  <CommandAllowCutDesc>ﻊﻄﻗ ﻦﻣ ﻥﺎﻜﺴﻟﺍ ﻊﻨﻤﺘﺳ ،ﺭﺎﻴﺨﻟﺍ ﺍﺬﻫ ﻑﺎﻘﻳﺈﺑ
+ﻲﻓ ﻥﻭﺮﻤﺘﺴﻴﺳ ﻢﻬﻨﻜﻟﻭ ،ﺔﻘﻄﻨﻤﻟﺍ ﺍﺬﻫ ﻲﻓ ﺕﺎﺗﺎﺒﻨﻟﺍ
+ﺔﻠﺘﺤﻣ ﺮﻴﻐﻟﺍ ﺎﻳﻼﺨﻟﺍ ﻲﻓ ﺓﺪﻳﺪﺟ ﺕﺎﺗﺎﺒﻧ ﺔﻋﺍﺭﺯ
+.ﻝﻮﺼﺤﻤﻟﺍ ﻲﻨﺟﻭ</CommandAllowCutDesc>
+  
+  
+  <CommandSelectStoredThing>{lookup: {0_label}; Case; 3} ﺮﺘﺧﺍ</CommandSelectStoredThing>
+  
+  <CommandSelectStoredThingDesc>.ﺎﻨﻫ ﻥﺰﺨﻤﻟﺍ ﺮﺼﻨﻌﻟﺍ ﺮﺘﺧﺍ</CommandSelectStoredThingDesc>
+
+  
+  
+  <CommandSetForceAttackTarget>ﻒﺼﻘﻟﺍ ﻑﺪﻫ ﺭﺎﻴﺘﺧﺍ</CommandSetForceAttackTarget>
+  
+  <CommandSetForceAttackTargetDesc>ﻞﻜﺸﺑ ﻪﻤﺟﺎﻬﻴﺳ ﻱﺬﻟﺍ ﻊﻓﺪﻤﻟﺍ ﺍﺬﻬﻟ ﻑﺪﻫ ﺪﻳﺪﺤﺗ
+.ﻚﻟﺫ ﻦﻜﻤﻣ ﻪﻧﺃ ﺎﻤﻟﺎﻃ ﺮﻤﺘﺴﻣ</CommandSetForceAttackTargetDesc>
+  
+  <CommandStopForceAttack>ﻒﺼﻘﻟﺍ ﺀﺎﻐﻟﺇ</CommandStopForceAttack>
+  
+  <CommandStopForceAttackDesc>ﻲﻟﻵﺍ ﻊﻓﺪﻤﻟﺍ ﻞﻳﻮﺤﺗﻭ ﺩﺪﺤﻤﻟﺍ ﻑﺪﻬﻟﺍ ﻒﺼﻗ ﻑﺎﻘﻳﺇ
+.ﻲﺗﺍﺬﻟﺍ ﻊﺒﺘﺘﻟﺍ ﺔﻴﻌﺿﻭ ﻰﻟﺇ</CommandStopForceAttackDesc>
+  
+  <CommandStopAttackFailNotForceAttacking>.ﻒﺼﻘﻟﺍ ﻑﺎﻘﻳﺇ ﻥﻵﺍ ﻦﻜﻤﻳ ﻻ</CommandStopAttackFailNotForceAttacking>
+  
+  <CommandExtractShell>ﺔﻔﻳﺬﻘﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ</CommandExtractShell>
+  
+  <CommandExtractShellDesc>.ﺓﺮﻴﺧﺬﻟﺍ ﻉﻮﻧ ﺮﻴﻴﻐﺗ ﻦﻣ ﻦﻜﻤﺘﺘﻟ ﺡﻼﺴﻟﺍ ﻍﺍﺮﻓﺇ</CommandExtractShellDesc>
+  
+  <MessageTargetBeyondMaximumRange>.ﺍﺪﺟ ﺪﻴﻌﺑ</MessageTargetBeyondMaximumRange>
+  
+  <MessageTargetBelowMinimumRange>.ﺍﺪﺟ ﺐﻳﺮﻗ</MessageTargetBelowMinimumRange>
+  
+  <MessageTurretWontFireBecauseHoldFire>ﻊﺿﻭ ﺀﺎﻐﻟﺈﺑ ﻢﻗ .ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻊﻨﻤﻳ :ﻪﻴﺒﻨﺗ
+.ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻑﺎﻨﺌﺘﺳﻻ "ﺭﺎﻨﻟﺍ ﻑﺎﻘﻳﺇ"</MessageTurretWontFireBecauseHoldFire>
+  
+  
+  
+  <CommandShipLaunch>ﺔﻨﻴﻔﺴﻟﺍ ﻞﻴﻐﺸﺗ</CommandShipLaunch>
+  
+  <CommandShipLaunchDesc>.ﻲﻟﺎﺤﻟﺍ ﻦﻳﻮﻜﺘﻟﺍ ﻲﻓ ﺔﻨﻴﻔﺴﻟﺍ ﻖﻠﻃﺃ</CommandShipLaunchDesc>
+  
+  <CommandShipLaunchReport>ﺔﻳﺍﺪﺒﻟﺍ ﺮﻳﺮﻘﺗ ﺭﺎﻬﻇﺇ</CommandShipLaunchReport>
+  
+  <CommandShipLaunchReportDesc>.ﻕﻼﻃﻺﻟ ﺔﻨﻴﻔﺴﻟﺍ ﺔﻳﺰﻫﺎﺟ ﺮﻳﺮﻘﺗ ﺽﺮﻋ</CommandShipLaunchReportDesc>
+  
+  <CommandShipStartup>ﺔﻨﻴﻔﺴﻟﺍ ﻂﻴﺸﻨﺗ</CommandShipStartup>
+  
+  <CommandShipStartupDesc>.ﺔﻨﻴﻔﺴﻟﺍ ﺕﺎﻧﻮﻜﻣ ﻂﻴﺸﻨﺗ</CommandShipStartupDesc>
+
+  
+  
+  <CommandPodEject>ﻢﺋﺎﻨﻟﺍ ﺺﺨﺸﻟﺍ ﺀﺎﻋﺪﺘﺳﺍ</CommandPodEject>
+  
+  <CommandPodEjectDesc>.ﻪﺟﺮﺧﺃﻭ ﻑﺍﺮﻏﻮﺗﻮﻳﺮﻜﻟﺍ ﻲﻓ ﻡﺎﻨﻳ ﻱﺬﻟﺍ ﺺﺨﺸﻟﺍ ﻆﻘﻳﺃ</CommandPodEjectDesc>
+  
+  <CommandPodEjectFailEmpty>.ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﺪﺣﺃ ﺪﺟﻮﻳ ﻻ</CommandPodEjectFailEmpty>
+
+  
+  
+  <CommandToggleDoorForbid>ﻞﻔﻘﻟﺍ ﻞﻳﺪﺒﺗ</CommandToggleDoorForbid>
+  
+  <CommandToggleDoorForbidDesc>ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﻦﻜﻤﻳ ﻻ .ﺏﺎﺒﻟﺍ ﺢﺘﻓ ﻭﺃ ﻞﻔﻗ
+ﻦﻜﻟﻭ ،ﺏﺎﺒﻟﺍ ﺍﺬﻫ ﻝﻼﺧ ﻦﻣ ﺭﻮﺒﻌﻟﺍ ﺀﺎﻔﻠﺤﻟﺍﻭ
+ﺀﺍﺪﻋﻷﺍ ﻙﻮﻠﺳ ﻰﻠﻋ ﺮﺛﺆﻳ ﻻ ﺮﻣﻷﺍ ﺍﺬﻫ
+.ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ</CommandToggleDoorForbidDesc>
+  
+  <CommandToggleDoorHoldOpen>ﺏﺎﺒﻟﺍ ﺢﺘﻓﺍ</CommandToggleDoorHoldOpen>
+  
+  <CommandToggleDoorHoldOpenDesc>ﻖﻠﻐﻳ ﻦﻟ ،ﺎﻄﺸﻧ ﺮﻣﻷﺍ ﻩﺬﻫ ﺖﻧﺎﻛ ﺍﺫﺇ
+,ﻂﻴﺸﻨﺘﻟﺍ ﻡﺪﻋ ﺔﻟﺎﺣ ﻲﻓ .ﻢﻬﻔﻠﺧ ﺏﺎﺒﻟﺍ ﺀﻻﺰﻨﻟﺍ
+.ﻪﻧﻮﻘﻠﻐﻳ ﻑﻮﺳ</CommandToggleDoorHoldOpenDesc>
+
+  
+  
+  <CommandResetTemp>ﺓﺩﺎﻌﺘﺳﺍ</CommandResetTemp>
+  
+  <CommandResetTempDesc>ﺔﺟﺭﺩ ﻰﻟﺇ ﺔﻓﺪﻬﺘﺴﻤﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻂﺒﺿ ﺓﺩﺎﻋﺇ
+.ﺔﻓﺮﻐﻟﺍ ﺓﺭﺍﺮﺣ</CommandResetTempDesc>
+  
+  <CommandRaiseTempDesc>.ﺔﻓﺪﻬﺘﺴﻤﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﺓﺩﺎﻳﺯ</CommandRaiseTempDesc>
+  
+  <CommandLowerTempDesc>.ﺔﻓﺪﻬﺘﺴﻤﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﺾﻴﻔﺨﺗ</CommandLowerTempDesc>
+
+  
+  
+  <CommandInstall>ﺖﻴﺒﺜﺗ</CommandInstall>
+  
+  <CommandInstallDesc>ﻡﺪﺨﺘﺳﺍ .ﻞﻘﻨﻟﺍﻭ ﻦﻳﺰﺨﺘﻠﻟ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﻒﻴﻠﻐﺗ ﻢﺗ
+ﺔﻳﺅﺮﻠﻟ ﻼﺑﺎﻗ ﻥﻮﻜﻴﻟ ﺮﺼﻨﻌﻟﺍ ﺖﻴﺒﺜﺘﻟ ﺮﻣﻷﺍ ﺍﺬﻫ
+.ﻡﺍﺪﺨﺘﺳﻻﺍﻭ</CommandInstallDesc>
+  
+  <CommandReinstall>ﻞﻘﻧ</CommandReinstall>
+  
+  <CommandReinstallDesc>ﻥﺎﻜﻣ ﻲﻓ ﻪﺘﻴﺒﺜﺗﻭ ﻚﻴﻜﻔﺘﻠﻟ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﺪﻳﺪﺤﺗ
+.ﺮﺧﺁ</CommandReinstallDesc>
+  
+  <CommandReplant>ﻉﺭﺯ</CommandReplant>
+  
+  <CommandReplantDesc>ﺍﺬﻫ ﻡﺪﺨﺘﺳﺍ .ﻞﻘﻨﻟﺍﻭ ﻦﻳﺰﺨﺘﻠﻟ ﺓﺄﺒﻌﻣ ﺓﺮﺠﺸﻟﺍ ﻩﺬﻫ
+.ﺪﻳﺪﺟ ﻥﺎﻜﻣ ﻲﻓ ﺎﻬﺘﻋﺍﺭﺰﻟ ﺮﻣﻷﺍ</CommandReplantDesc>
+  
+  
+  
+  <CommandMakeBeaconStockpileDesc>ﻕﺎﻄﻧ ﻊﻣ ﺐﺳﺎﻨﺘﻳ ﺓﺭﺎﻨﻤﻟﺍ ﻝﻮﺣ ﻉﺩﻮﺘﺴﻣ ﺀﺎﺸﻧﺇ
+.ﺎﻬﻠﻤﻋ</CommandMakeBeaconStockpileDesc>
+  
+  <CommandMakeBeaconStockpileLabel>ﻉﺩﻮﺘﺴﻣ ﺀﺎﺸﻧﺇ</CommandMakeBeaconStockpileLabel>
+
+  
+  
+  <CommandSunLampMakeGrowingZoneDesc>ﺲﻔﻨﺑ ﺲﻤﺸﻟﺍ ﺡﺎﺒﺼﻣ ﻝﻮﺣ ﺔﻋﺍﺭﺯ ﺔﻘﻄﻨﻣ ﺀﺎﺸﻧﺇ
+.ﺎﻫﺮﻴﺛﺄﺗ ﻕﺎﻄﻧ</CommandSunLampMakeGrowingZoneDesc>
+  
+  <CommandSunLampMakeGrowingZoneLabel>.ﺔﻋﺍﺭﺰﻟﺍ ﺔﻘﻄﻨﻣ ﺀﺎﺸﻧﺇ</CommandSunLampMakeGrowingZoneLabel>
+
+  
+  
+  <CommandAutoRearm>ﻲﺋﺎﻘﻠﺘﻟﺍ ﻞﻳﺪﺒﺘﻟﺍ</CommandAutoRearm>
+  
+  <CommandAutoRearmDesc>ﻪﻨﻴﻴﻌﺗ ﻢﺘﻴﺳ ﺦﻔﻟﺍ ﻥﺈﻓ ،ﺎﻬﻠﻴﻌﻔﺗ ﻢﺗ ﺍﺫﺇ
+.ﻪﻠﻤﻋ ﺀﺎﻬﺘﻧﺇ ﺪﻌﺑ ﻝﺍﺪﺒﺘﺳﻺﻟ ﺎﻴﺋﺎﻘﻠﺗ</CommandAutoRearmDesc>
+  
+  
+  
+  <CommandReleaseAnimalsLabel>ﺀﺎﻋﺪﺘﺳﺇ</CommandReleaseAnimalsLabel>
+  
+  <CommandReleaseAnimalsDesc>ﻢﺘﻳ ﻢﻟ ﺍﺫﺇ .ﻡﻮﺠﻬﻠﻟ ﺔﺿﻭﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻝﺎﺳﺭﺇ
+.ﻪﻴﻤﺤﺗﻭ ﻢﻛﺎﺤﻟﺍ ﺏﺮﻗ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻰﻘﺒﺗ ، ﺎﻬﻨﻴﻜﻤﺗ</CommandReleaseAnimalsDesc>
+  
+  <CommandReleaseAnimalsFail_NoAnimals>.ﺔﺒﺳﺎﻨﻣ ﺕﺎﻧﺍﻮﻴﺣ ﺪﺟﻮﺗ ﻻ</CommandReleaseAnimalsFail_NoAnimals>
+  
+  
+  
+  <CommandSquadAttack>ﻡﻮﺠﻫ</CommandSquadAttack>
+  
+  <CommandSquadAttackDesc>ﺩﺪﺤﻤﻟﺍ ﻑﺪﻬﻟﺍ ﻰﻠﻋ ﻡﻮﺠﻬﻟﺎﺑ ﻦﻳﺩﺪﺤﻤﻟﺍ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺮﻣﺃ
+.ﺎﻌﻣ</CommandSquadAttackDesc>
+  
+  
+  
+  <CommandMeleeAttack>ﻯﺪﻤﻟﺍ ﺐﻳﺮﻗ ﻡﻮﺠﻫ</CommandMeleeAttack>
+  
+  <CommandMeleeAttackDesc>ﻡﺍﺪﺨﺘﺳﺎﺑ ﺩﺪﺤﻤﻟﺍ ﻑﺪﻬﻟﺍ ﺔﻤﺟﺎﻬﻤﺑ ﻦﻳﺩﺪﺤﻤﻟﺍ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺮﻣﺃ
+.ﻂﻘﻓ ﺔﺒﻳﺮﻘﻟﺍ ﺔﺤﻠﺳﻷﺍﻭ ﺕﺎﻤﻜﻠﻟﺍ</CommandMeleeAttackDesc>
+
+  
+  
+  <CommandHoldFire>ﺭﺎﻨﻟﺍ ﻒﻗ</CommandHoldFire>
+  
+  <CommandHoldFireDesc>.ﺔﻴﻟﺎﺤﻟﺍ ﺕﺎﻤﺠﻬﻟﺍ ﻊﻴﻤﺟ ﻦﻋ ﻒﻗﻮﺗ</CommandHoldFireDesc>
+  
+  
+  
+  <CommandReload_NoCharges>&lt;CHARGENOUN_plural&gt; ﺖﻬﺘﻧﺍ</CommandReload_NoCharges>
+  
+  <CommandReload_Cooldown>{COOLDOWNGERUND} {TIME}.</CommandReload_Cooldown>
+  
+  <CommandReload_NoAmmo>ﻦﻣ ﺓﺪﺣﻭ {COUNT} ﻰﻟﺇ ﺝﺎﺘﺤﻧ ،ﻞﻴﻤﺤﺘﻟﺍ ﺓﺩﺎﻋﻹ
+.{lookup: {AMMO_label}; Case; 1}</CommandReload_NoAmmo> 
+  
+  
+  
+  <CommandSelectPlantToGrowMulti>.ﺔﻋﺍﺭﺰﻠﻟ ﺕﺎﺒﻨﻟﺍ ﺮﺘﺧﺍ</CommandSelectPlantToGrowMulti>
+  
+  <CommandSelectPlantToGrow>{0} :ﺕﺎﺒﻨﻟﺍ</CommandSelectPlantToGrow>
+  
+  <CommandSelectPlantToGrowDesc>.ﺎﻨﻫ ﻪﺘﻋﺍﺭﺯ ﺐﺠﻳ ﻱﺬﻟﺍ ﺕﺎﺒﻨﻟﺍ ﺩﺪﺣ</CommandSelectPlantToGrowDesc>
+  
+  
+  
+  <CommandSelectMineralToScanFor>ﺏﻮﻠﻄﻣ</CommandSelectMineralToScanFor>
+
+  
+  
+  <CommandBuildCopy>ﺔﺨﺴﻧ ﺀﺎﻨﺑ</CommandBuildCopy>
+  
+  <CommandBuildCopyDesc>.ﺀﺎﻨﺒﻟﺍ ﺍﺬﻫ ﻦﻣ ﺔﺨﺴﻧ ﺀﺎﺸﻧﺇ</CommandBuildCopyDesc>
+
+  
+  
+  <CommandFormCaravan>ﺔﻠﻓﺎﻘﻟﺍ ﺰﻴﻬﺠﺗ</CommandFormCaravan>
+  
+  <CommandFormCaravanDesc>ﻊﻤﺠﺑ ﻥﻮﻣﻮﻘﻴﺳ .ﺔﻠﺣﺭ ﻲﻓ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺔﻋﻮﻤﺠﻣ ﻞﺳﺭﺃ
+ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻥﻭﺬﺧﺄﻴﺳﻭ ﺮﻔﺴﻠﻟ ﺪﻌﺘﺴﻣ ﻮﻫ ﺎﻣ ﻞﻛ
+.ﻚﺗﺎﻤﻴﻠﻌﺗ ﻥﻭﺮﻈﺘﻨﻴﺳﻭ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻥﻮﻛﺮﺘﻴﺳ ﻢﺛ ،ﻢﻬﻌﻣ</CommandFormCaravanDesc>
+  
+  <CommandFormCaravanDescAtSpot>ﻢﺘﻴﺳ .ﺔﻠﻓﺎﻘﻟﺍ ﻊﻤﺠﺗ ﻥﺎﻜﻣ ﻥﻮﻜﻴﺳ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ
+ﻞﺒﻗ ﺎﻨﻫ ﻰﻟﺇ ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﺀﺎﻴﺷﻷﺍ ﻊﻴﻤﺟ ﻚﻳﺮﺤﺗ
+.ﻕﻼﻄﻧﻻﺍ</CommandFormCaravanDescAtSpot>
+  
+  
+  
+  <CommandReformCaravan>ﻖﻳﺮﻄﻟﺍ ﻲﻓ ﺮﻤﺘﺳﺍ</CommandReformCaravan>
+  
+  <CommandReformCaravanDesc>ﻥﻭﺪﺟﺍﻮﺘﻳ ﻱﺬﻟﺍ ﻥﺎﻜﻤﻟﺍ ﻥﻭﺮﻓﺎﺴﻤﻟﺍ ﻙﺮﺘﻴﺳ .ﺔﻠﺣﺮﻟﺍ ﻞﻤﻜﺘﺳﺍ
+.ﺕﺎﻬﻴﺟﻮﺘﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻥﻭﺮﻈﺘﻨﻴﺳﻭ ﻪﻴﻓ</CommandReformCaravanDesc>
+  
+  <CommandReformCaravanFailHostilePawns>.ﻦﻴﺒﻳﺮﻗ ﺀﺍﺪﻋﺃ ﻙﺎﻨﻫ ﻝﺍﺰﻳ ﻻ ،ﺎﻘﺣﻻ</CommandReformCaravanFailHostilePawns>
+  
+  
+  
+  <CommandSplitCaravan>ﻝﺎﺼﻔﻧﻻﺍ</CommandSplitCaravan>
+  
+  <CommandSplitCaravanDesc>ﻞﻓﺍﻮﻘﻟﺍ ﺞﻣﺩ ﻦﻜﻤﻳ .ﻦﻴﺘﻋﻮﻤﺠﻣ ﻰﻟﺇ ﺔﻠﻓﺎﻘﻟﺍ ﻢﻴﺴﻘﺗ
+ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺍﻮﻧﺎﻛ ﺍﺫﺇ ﻯﺮﺧﺃ ﺓﺮﻣ ﺔﻠﺼﻔﻨﻤﻟﺍ
+.ﺾﻌﺒﻟﺍ ﻢﻬﻀﻌﺑ</CommandSplitCaravanDesc>
+  
+  
+  
+  <CommandMergeCaravans>ﻒﻟﺎﺤﺘﻟﺍ</CommandMergeCaravans>
+  
+  <CommandMergeCaravansDesc>.ﺓﺪﺣﺍﻭ ﺔﻠﻓﺎﻗ ﻲﻓ ﺓﺩﺪﺤﻤﻟﺍ ﻞﻓﺍﻮﻘﻟﺍ ﺞﻣﺩ</CommandMergeCaravansDesc>
+  
+  <CommandMergeCaravansFailCaravansNotSelected>ﺐﺠﻳ .ﺎﻬﺠﻣﺩ ﻲﻓ ﺐﻏﺮﺗ ﻲﺘﻟﺍ ﻞﻓﺍﻮﻘﻟﺍ ﺮﺘﺧﺍ
+.ﺾﻌﺒﻟﺍ ﺎﻬﻀﻌﺑ ﻦﻣ ﺍﺪﺟ ﺔﺒﻳﺮﻗ ﻥﻮﻜﺗ ﻥﺃ</CommandMergeCaravansFailCaravansNotSelected>
+  
+  <CommandJoinCaravan>ﻡﺎﻤﻀﻧﻻﺍ</CommandJoinCaravan>
+  
+  
+  
+  <CommandSettle>ﻊﻤﺠﺗ ﺲﻴﺳﺄﺗ</CommandSettle>
+  
+  <CommandSettleDesc>ﻚﺑ ﻥﻮﺻﺎﺨﻟﺍ ﻥﻮﻔﺸﻜﺘﺴﻤﻟﺍ ﻦﻜﻤﺘﻴﺳ .ﺎﻨﻫ ﺔﻨﻃﻮﺘﺴﻣ ﺲﻴﺳﺄﺗ
+.ﺎﻨﻫ ﺪﻳﺪﺠﻟﺍ ﻢﻬﻨﻜﺴﻣ ﺀﺎﻨﺑ ﻲﻓ ﺀﺪﺒﻟﺍ ﻦﻣ</CommandSettleDesc>
+  
+  <CommandSettleFailAlreadyHaveBase>ﺪﺣﺍﻭ ﻦﻜﺳ ﺓﺪﺣﺍﻮﻟﺍ ﻚﻘﻳﺮﻔﻟ ﻥﻮﻜﺗ ﻥﺃ ﻦﻜﻤﻳ
+.ﻂﻘﻓ</CommandSettleFailAlreadyHaveBase>
+  
+  <CommandSettleFailReachedMaximumNumberOfBases>ﻚﻨﻜﻤﻳ .ﺕﺎﻨﻃﻮﺘﺴﻤﻠﻟ ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻢﺗ
+.ﺔﺒﻌﻠﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﻲﻓ ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ ﺮﻴﻴﻐﺗ</CommandSettleFailReachedMaximumNumberOfBases>
+  
+  <CommandSettleFailNoColonists>.ﺔﻨﻃﻮﺘﺴﻣ ﺲﻴﺳﺄﺘﻟ ﺎﻨﻫ ﺪﺣﺃ ﺪﺟﻮﻳ ﻻ</CommandSettleFailNoColonists>
+  
+  <CommandSettleFailEnemies>.ﺀﺍﺪﻋﻷﺍ ﺎﺒﻳﺮﻗ</CommandSettleFailEnemies>
+  
+  
+  
+  <CommandAbandonHome>ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﺀﺎﻬﻧﺇ</CommandAbandonHome>
+  
+  <CommandAbandonHomeDesc>ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﺍﺬﻫ ﻥﻮﻜﻳ ﻦﻟ .ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻙﺮﺗﺍ
+ﺓﺩﻮﻌﻟﺍ ﻦﻣ ﻦﻜﻤﺘﺗ ﻦﻟﻭ ،ﻥﻵﺍ ﺪﻌﺑ ﺎﺣﺎﺘﻣ
+ﻚﻨﻜﻤﻳ ،ﻚﻟﺰﻨﻣ ﻙﺮﺗ ﺪﻌﺑ .ﻯﺮﺧﺃ ﺓﺮﻣ ﺎﻨﻫ
+.ﺮﺧﺁ ﻥﺎﻜﻣ ﻲﻓ ﺔﻨﻃﻮﺘﺴﻣ ﺲﻴﺳﺄﺗ</CommandAbandonHomeDesc>
+  
+  <CommandAbandonHomeFailAllColonistsThere>ﻥﻮﻜﻳ ﻰﺘﺣ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﺓﺭﺩﺎﻐﻣ ﻦﻜﻤﻳ ﻻ
+.ﺎﻨﻫ ﻦﻴﻴﻧﺎﺘﺴﺒﻟﺍ ﻊﻴﻤﺟ</CommandAbandonHomeFailAllColonistsThere>
+  
+  
+  
+  <CommandCancelFormingCaravan>.ﺔﻠﻓﺎﻘﻟﺍ ﻝﺎﺳﺭﺇ ﺀﺎﻐﻟﺇ</CommandCancelFormingCaravan>
+  
+  <CommandCancelFormingCaravanDesc>.ﺓﺭﺩﺎﻐﻤﻠﻟ ﺔﻠﻓﺎﻘﻟﺍ ﺩﺍﺪﻌﺘﺳﺍ ﻒﻗﻭﺃ</CommandCancelFormingCaravanDesc>
+
+  
+  
+  <CommandRemoveFromCaravan>ﺔﻠﻓﺎﻘﻟﺍ ﻦﻣ ﻩﺩﺎﻌﺒﺘﺳﺍ</CommandRemoveFromCaravan>
+  
+  <CommandRemoveFromCaravanDesc>.ﺔﻠﻓﺎﻘﻟﺍ ﻦﻣ ﻥﺍﻮﻴﺤﻟﺍ ﻭﺃ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﺪﻌﺒﺘﺳﺍ</CommandRemoveFromCaravanDesc>
+  
+  
+  
+  <CommandAddToCaravan>ﺔﻠﻓﺎﻘﻠﻟ ﻪﻔﺿﺃ</CommandAddToCaravan>
+  
+  <CommandAddToCaravanDesc>ﺔﻠﻓﺎﻘﻟﺍ ﻰﻟﺇ ﻥﺍﻮﻴﺤﻟﺍ ﻭﺃ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﻒﺿﺃ
+.ﺓﺰﻬﺠﻤﻟﺍ</CommandAddToCaravanDesc>
+  
+  
+  
+  <CommandShowMap>ﺔﺒﺴﻨﻟﺍ ﺓﺩﺎﻳﺯ</CommandShowMap>
+  
+  <CommandShowMapDesc>.ﺔﻄﻳﺮﺨﻟﺍ ﻰﻠﻋ ﺔﻄﻘﻨﻟﺍ ﻩﺬﻫ ﻲﻓ ﻕﺎﻄﻨﻟﺍ ﺮﻴﺒﻜﺗ</CommandShowMapDesc>
+  
+  
+  
+  <CommandTrade>ﺓﺭﺎﺠﺘﻟﺍ</CommandTrade>
+  
+  <CommandTradeDesc>.ﺔﺒﻴﺘﻜﻟﺍ ﻩﺬﻫ ﻊﻣ ﺓﺭﺎﺠﺗ</CommandTradeDesc>
+  
+  <CommandTradeFailNoNegotiator>ﺕﺎﺿﻭﺎﻔﻣ ﺀﺍﺮﺟﺇ ﻰﻠﻋ ﺭﺩﺎﻗ ﺪﺣﺃ ﺪﺟﻮﻳ ﻻ
+.ﺔﻳﺪﺴﺟ ﻭﺃ ﺔﻴﺴﻔﻧ ﺕﺎﺑﺎﺻﺇ ﻥﻭﺪﺑ ﺓﺭﺎﺠﺘﻟﺍﻭ</CommandTradeFailNoNegotiator>
+  
+  <CommandTradeFailNeedPermit>:ﺏﻮﻠﻄﻤﻟﺍ ﺯﺎﻴﺘﻣﻻﺍ ﻪﻳﺪﻟ ﻙﺩﺍﺮﻓﺃ ﻦﻣ ﺪﺣﺃ ﻻ
+{0}</CommandTradeFailNeedPermit>
+
+  
+  
+  <CommandOfferGifts>ﺔﻳﺪﻫ ﺡﺍﺮﺘﻗﺍ</CommandOfferGifts>
+  
+  <CommandOfferGiftsDesc>.ﻞﺋﺎﺼﻔﻟﺍ ﻰﻟﺇ ﺔﻳﺪﻫ ﻡﺪﻗ</CommandOfferGiftsDesc>
+
+  
+  
+  <CommandFulfillTradeOffer>ﺔﻘﻔﺻ ﻡﺍﺮﺑﺈﺑ ﻢﻗ</CommandFulfillTradeOffer>
+  
+  <CommandFulfillTradeOfferDesc>ﺔﻌﻓﺪﻟﺎﺑ ﺔﺒﻟﺎﻄﻤﻟﺍﻭ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺔﻌﻠﺴﻟﺍ ﻢﻴﻠﺴﺗ
+ﺎﻬﻴﻠﻋ ﻖﻔﺘﻤﻟﺍ</CommandFulfillTradeOfferDesc>
+  
+  <CommandFulfillTradeOfferFailInsufficient>ﻡﺎﻤﺗﻹ {0} ﻚﺘﻠﻓﺎﻗ ﻯﺪﻟ ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ
+.ﺔﻘﻔﺼﻟﺍ</CommandFulfillTradeOfferFailInsufficient>
+  
+  <CommandFulfillTradeOfferConfirm>؟{0} ﻚﻴﻄﻋﺃ ﻥﺃ ﺪﻳﺮﺗ ﻞﻫ</CommandFulfillTradeOfferConfirm>
+  
+  
+  
+  <CommandTakeOff>ﻉﻼﻗﻹﺍ</CommandTakeOff>
+  
+  <CommandTakeOffDesc>.ﺐﻛﻮﻜﻟﺍ ﻙﺮﺗﺍﻭ ﺔﻨﻴﻔﺴﻟﺍ ﻦﺘﻣ ﻰﻠﻋ ﺪﻌﺻﺍ</CommandTakeOffDesc>
+  
+  <CommandTakeOffConfirmation>ﻞﻴﻐﺸﺗ ﻲﻓ ﻚﺘﺒﻏﺭ ﻦﻣ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ
+؟ﺔﻨﻴﻔﺴﻟﺍ
+ﻑﻮﺳ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻲﻓ ﻮﻫ ﻦﻣ ﻞﻛ
+.ﻥﻮﻘﺒﻳ ﻑﻮﺳ ﺔﻴﻘﺒﻟﺍﻭ ﺐﻛﻮﻜﻟﺍ ﺭﺩﺎﻐﻳ</CommandTakeOffConfirmation>
+
+  
+  
+  <CommandSetTargetFuelLevel>ﺩﻮﻗﻮﻟﺍ ﻯﻮﺘﺴﻣ ﻦﻴﻴﻌﺗ</CommandSetTargetFuelLevel>
+  
+  <CommandSetTargetFuelLevelDesc>ﺪﺤﻟﺍ ﻰﺘﺣ ﺓﺪﺣﻮﻟﺍ ﻩﺬﻫ ﺔﺌﺒﻌﺘﺑ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻡﻮﻘﻴﺳ
+.ﻂﻘﻓ ﺩﺪﺤﻤﻟﺍ</CommandSetTargetFuelLevelDesc>
+
+  
+  
+  <CommandToggleAllowAutoRefuel>ﺔﻴﺋﺎﻘﻠﺗ ﺔﺌﺒﻌﺗ</CommandToggleAllowAutoRefuel>
+  
+  <CommandToggleAllowAutoRefuelDesc>ﻡﺃ ﻲﺗﺍﺫ ﻞﻜﺸﺑ ﺩﻮﻗﻮﻟﺎﺑ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺪﻳﻭﺰﺘﺑ ﺡﺎﻤﺴﻟﺍ
+.ﻚﻟﺫ ﻦﻣ ﻢﻬﻌﻨﻣ</CommandToggleAllowAutoRefuelDesc>
+  
+  
+  
+  <CommandCancelLoad>.ﻞﻴﻤﺤﺘﻟﺍ ﺀﺎﻐﻟﺇ</CommandCancelLoad>
+  
+  <CommandCancelLoadDesc>ﺎﻣ ﻎﻳﺮﻔﺗﻭ ﺏﺎﻛﺮﻟﺍ ﺩﻮﻌﺻﻭ ﺀﺎﻴﺷﻷﺍ ﻞﻴﻤﺤﺗ ﺀﺎﻐﻟﺇ
+.ﻞﻌﻔﻟﺎﺑ ﻪﻠﻴﻤﺤﺗ ﻢﺗ</CommandCancelLoadDesc>
+  
+  
+  
+  <CommandLaunchGroup>ﻞﻴﻐﺸﺗ</CommandLaunchGroup>
+  
+  <CommandLaunchGroupDesc>.ﻥﺍﺮﻴﻄﻠﻟ ﺓﺩﺪﺤﻤﻟﺍ ﺔﻄﻘﻨﻟﺍ ﻰﻟﺇ ﻕﻼﻄﻧﻻﺍ</CommandLaunchGroupDesc>
+  
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>ﺬﻔﻨﻤﺑ ﺔﻠﺼﺘﻣ ﺮﻴﻏ ﺓﺪﺣﺍﻭ ﺔﻟﻮﺴﺒﻛ ﻞﻗﻷﺍ ﻰﻠﻋ
+.ﺩﻮﻗﻮﻟﺍ</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  
+  <CommandLaunchGroupFailNoFuel>.ﺩﻮﻗﻭ ﻥﻭﺪﺑ ﺓﺪﺣﺍﻭ ﺔﻟﻮﺴﺒﻛ ﻞﻗﻷﺍ ﻰﻠﻋ</CommandLaunchGroupFailNoFuel>
+  
+  <CommandLaunchGroupFailUnderRoof>.ﻒﻘﺳ ﺖﺤﺗ ﺓﺪﺣﺍﻭ ﺔﻟﻮﺴﺒﻛ ﻞﻗﻷﺍ ﻰﻠﻋ</CommandLaunchGroupFailUnderRoof>
+  
+  
+  
+  <CommandLoadTransporter>{0} ﻦﻣ ﺔﻋﻮﻤﺠﻣ ﻲﻓ ﻞﻴﻤﺤﺘﻟﺍ ﺀﺪﺑ</CommandLoadTransporter>
+  
+  <CommandLoadTransporterDesc>،ﻕﻼﻃﻹﺍ ﺔﻋﻮﻤﺠﻣ ﻲﻓ ﺓﺩﺪﺤﻤﻟﺍ ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻛ ﺞﻣﺩ
+ﻦﺘﻣ ﻰﻠﻋ ﻞﻤﺤﻳ ﺎﻣ ﺭﺎﻴﺘﺧﺍﻭ ﺏﺎﻛﺮﻟﺍ ﻦﻴﻴﻌﺗ
+.ﺔﻨﻴﻔﺴﻟﺍ</CommandLoadTransporterDesc>
+  
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>.ﺩﻮﻗﻮﻟﺍ ﺬﻔﻨﻤﺑ ﺔﻟﻮﺻﻮﻣ ﺮﻴﻏ ﻞﻘﻨﻟﺍ ﺔﻟﻮﺴﺒﻜﻟﺍ</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  
+  <CommandLoadTransporterFailNoFuel>.ﺩﻮﻗﻮﻟﺎﺑ ﺓﺩﻭﺰﻣ ﺮﻴﻏ ﻞﻘﻨﻟﺍ ﺔﻟﻮﺴﺒﻜﻟﺍ</CommandLoadTransporterFailNoFuel>
+  
+  
+  
+  <CommandLoadTransporterSingle>ﻞﻴﻤﺤﺗ</CommandLoadTransporterSingle>
+  
+  <CommandLoadTransporterSingleDesc>ﻰﻠﻋ ﻪﻠﻴﻤﺤﺗ ﺐﺠﻳ ﺎﻣ ﺭﺎﻴﺘﺧﺍﻭ ﺏﺎﻛﺮﻟﺍ ﻦﻴﻴﻌﺗ
+.ﺔﻨﻴﻔﺴﻟﺍ ﻦﺘﻣ</CommandLoadTransporterSingleDesc>
+  
+  
+  
+  <CommandSetToLoadTransporter>ﻞﻴﻤﺤﺘﻠﻟ ﻦﻴﻴﻌﺗ</CommandSetToLoadTransporter>
+  
+  <CommandSetToLoadTransporterDesc>ﻪﻠﻴﻤﺤﺗ ﻲﻓ ﺐﻏﺮﺗ ﺎﻣ ﺭﺎﻴﺘﺧﺍﻭ ﺏﺎﻛﺮﻟﺍ ﻦﻴﻴﻌﺗ
+.ﺔﻨﻴﻔﺴﻟﺍ ﻰﻠﻋ</CommandSetToLoadTransporterDesc>
+  
+  
+  
+  <CommandAutoloadTransporters>ﻲﺋﺎﻘﻠﺗ ﻞﻴﻤﺤﺗ</CommandAutoloadTransporters>
+  
+  <CommandAutoloadTransportersDesc>ﻊﺋﺎﻀﺒﻟﺍ ﻞﻴﻤﺤﺗ ﻦﻣ ﻦﻴﺋﺎﻨﺒﻟﺍ ﻊﻨﻣ ﻭﺃ ﺡﺎﻤﺴﻟﺍ
+.ﺔﺻﺮﻔﻟﺍ ﺮﻓﻮﺗ ﺭﻮﻓ ﻢﻫﺩﺮﻔﻤﺑ</CommandAutoloadTransportersDesc>
+  
+  
+  
+  <CommandSelectPreviousTransporter>ﺔﻴﻟﺎﺘﻟﺍ ﺔﻟﻮﺴﺒﻜﻟﺍ</CommandSelectPreviousTransporter>
+  
+  <CommandSelectPreviousTransporterDesc>.ﺔﻘﻠﻄﻤﻟﺍ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻩﺬﻫ ﻲﻓ ﺔﻴﻟﺎﺘﻟﺍ ﺔﻟﻮﺴﺒﻜﻟﺍ ﺪﻳﺪﺤﺗ</CommandSelectPreviousTransporterDesc>
+  
+  
+  
+  <CommandSelectAllTransporters>ﺎﻬﻠﻤﻛﺄﺑ ﺔﻋﻮﻤﺠﻤﻟﺍ</CommandSelectAllTransporters>
+  
+  <CommandSelectAllTransportersDesc>ﺔﻠﺑﺎﻗ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻩﺬﻫ ﻲﻓ ﺕﻻﻮﺴﺒﻜﻟﺍ ﻞﻛ ﺪﻳﺪﺤﺗ
+.ﻕﻼﻃﻺﻟ</CommandSelectAllTransportersDesc>
+  
+  
+  
+  <CommandSelectNextTransporter>.ﺔﻘﺑﺎﺴﻟﺍ ﺔﻟﻮﺴﺒﻜﻟﺍ</CommandSelectNextTransporter>
+  
+  <CommandSelectNextTransporterDesc>.ﺔﻘﻠﻄﻤﻟﺍ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻩﺬﻫ ﻲﻓ ﺔﻘﺑﺎﺴﻟﺍ ﺔﻟﻮﺴﺒﻜﻟﺍ ﺪﻳﺪﺤﺗ</CommandSelectNextTransporterDesc>
+  
+  
+  
+  <CommandDesignateOpenCloseVentLabel>.ﻖﻠﻏﺃ/ﺢﺘﻓﺍ</CommandDesignateOpenCloseVentLabel>
+  
+  <CommandDesignateOpenCloseVentDesc>ﻲﺗﺄﻴﺳ .ﺔﻳﻮﻬﺘﻟﺍ ﻕﻼﻏﺇ ﻭﺃ ﺢﺘﻔﻟ ﺍﺮﻣﺃ ﻂﻋﺃ
+.ﺀﺍﻮﻬﻟﺍ ﻝﻭﺍﺪﺗ ﻊﺿﻭ ﺮﻴﻐﻳﻭ ﺎﺒﻳﺮﻗ ﺪﻓﺍﻮﻟﺍ</CommandDesignateOpenCloseVentDesc>
+  
+  
+  
+  <CommandRemoveWaypointLabel>ﻑﺬﺣ</CommandRemoveWaypointLabel>
+  
+  <CommandRemoveWaypointDesc>.ﺭﺎﺴﻤﻟﺍ ﺔﻄﻘﻧ ﻑﺬﺣ</CommandRemoveWaypointDesc>
+
+  
+  
+  <CommandPauseCaravan>ﺮﻴﺼﻗ ﻒﻗﻮﺗ</CommandPauseCaravan>
+  
+  <CommandToggleCaravanPauseDesc>ﺎﻳﺍﺰﻤﻟﺍ ﻰﻟﺇ ﻚﻟﺫ ﻱﺩﺆﻴﺳ .ﺔﻠﻓﺎﻘﻟﺍ ﺔﻛﺮﺣ ﻒﻗﻭﺃ
+:ﺔﻴﻟﺎﺘﻟﺍ
+ﻢﻬﻀﻌﺑ ﻊﻣ ﻞﺻﺍﻮﺘﻟﺍ ﻦﻣ ﻥﻮﻨﻜﻤﺘﻴﺳ ﺩﺍﺮﻓﻷﺍ -
+ﺾﻌﺒﻟﺍ
+numCase_0} ﻝﺪﻌﻤﺑ ﻡﺎﻌﻄﻟﺍ ﻊﻤﺟ ﺔﻋﺮﺳ ﺪﻳﺰﺘﺳ -
+{ﺕﺍﺮﻣ : ﺓﺮﻣ ?
+.ﺩﺎﺘﻌﻤﻟﺍ ﻦﻣ {1} ﺔﻳﺅﺮﻟﺍ ﻯﻮﺘﺴﻣ ﺢﺒﺼﻴﺳ -</CommandToggleCaravanPauseDesc>
+  
+  
+  
+  <CommandShowSellableItems>.ﻊﻴﺒﻠﻟ ﺔﺣﺎﺘﻤﻟﺍ ﺔﻋﺎﻀﺒﻟﺍ ﺮﻬﻇﺃ</CommandShowSellableItems>
+  
+  <CommandShowSellableItemsDesc>.ﺮﺟﺎﺘﻟﺍ ﺎﻬﺑ ﻢﺘﻬﻤﻟﺍ ﻊﻠﺴﻟﺍ ﺽﺮﻋ</CommandShowSellableItemsDesc>
+
+  
+  
+  <CommandAttackSettlement>ﻡﻮﺠﻫ</CommandAttackSettlement>
+  
+  <CommandAttackSettlementDesc>.ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻩﺬﻫ ﺔﻤﺟﺎﻬﻣ</CommandAttackSettlementDesc>
+
+  
+  
+  <CommandSendShuttle>Send</CommandSendShuttle>
+  
+  <CommandSendShuttleDesc>ﺔﻬﺟﻮﻟﺍ ﻰﻟﺇ ﺎﻬﻟﺎﺳﺭﺇﻭ ﺔﺒﻛﺮﻤﻟﺍ ﻉﻼﻗﺍ ﺀﺍﺮﺟﺇ ﺀﺪﺑ
+.ﺓﺩﺪﺤﻤﻟﺍ</CommandSendShuttleDesc>
+  
+  <CommandSendShuttleFailUnderRoof>ﻒﻘﺴﻟﺍ ﺖﺤﺗ ﻁﻮﺒﻬﻟﺍ ﺔﺒﻛﺮﻣ</CommandSendShuttleFailUnderRoof>
+  
+  <CommandSendShuttleFailMissingRequiredThing>.ﺔﺑﻮﻠﻄﻣ ﺔﻨﺤﺷ ﻭﺃ ﺏﺎﻛﺭ ﺪﺟﻮﻳ ﻻ</CommandSendShuttleFailMissingRequiredThing>
+  
+  
+  
+  <CommandShuttleDismiss>ﻊﺟﺍﺮﺗ</CommandShuttleDismiss>
+  
+  <CommandShuttleDismissDesc>ﺔﻴﻛﻮﻜﻤﻟﺍ ﺔﺒﻛﺮﻤﻟﺍ ﻝﺎﺳﺭﺇﻭ ﺏﺎﻛﺮﻟﺍ ﻝﺍﺰﻧﺇ ،ﺮﺻﺎﻨﻌﻟﺍ ﻍﺍﺮﻓﺇ
+.ﻯﺮﺧﺃ ﺓﺮﻣ</CommandShuttleDismissDesc>
+
+  
+  
+  <CommandPlaceBlueprints>ﻉﻭﺮﺸﻤﻟﺍ ﻊﺿ</CommandPlaceBlueprints>
+  
+  <CommandPlaceBlueprintsDesc>ﻦﻜﻤﻤﻟﺍ ﻥﺎﻜﻤﻟﺍ ﻲﻓ ﻉﻭﺮﺸﻤﻟﺍ ﻊﺿﻭ</CommandPlaceBlueprintsDesc>
+  
+  <CommandPlaceBlueprintsSpecific>"{0}" ﻉﻭﺮﺸﻤﻟﺍ ﺮﺸﻧ ﻢﺗ</CommandPlaceBlueprintsSpecific>
+  
+  <CommandPlaceBlueprintsSpecificDesc>ﺍﺫﺇ ﺐﺳﺎﻨﻤﻟﺍ ﻥﺎﻜﻤﻟﺍ ﻲﻓ "{0}" ﻉﻭﺮﺸﻣ ﻊﺿﻭ
+.ﺎﻨﻜﻤﻣ ﻚﻟﺫ ﻥﺎﻛ</CommandPlaceBlueprintsSpecificDesc>
+
+  
+  
+  <CommandCancelMonumentMarker>ﺀﺎﻐﻟﺇ</CommandCancelMonumentMarker>
+  
+  <CommandCancelMonumentMarkerDesc>.ﺪﺑﻷﺍ ﻰﻟﺇ ﺭﺎﻛﺬﺘﻟﺍ ﺔﻣﻼﻋ ﺎﻣﺎﻤﺗ ﺔﻟﺍﺯﺇ</CommandCancelMonumentMarkerDesc>
+
+  
+  
+  <CommandViewQuest>{0} :ﺔﻤﻬﻤﻟﺍ ﺢﺘﻓ</CommandViewQuest>
+  
+  <CommandViewQuestDesc>.ﻡﺎﻬﻤﻟﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ ﻲﻓ ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﺢﺘﻓﺍ</CommandViewQuestDesc>
+  
+  <CommandOpenLinkedQuest>ﺔﻄﺒﺗﺮﻤﻟﺍ ﺔﻤﻬﻤﻟﺍ ﺢﺘﻓ</CommandOpenLinkedQuest>
+  
+  <CommandOpenLinkedQuestDesc>.ﻡﺎﻬﻤﻟﺍ ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻲﻓ ﺔﻄﺒﺗﺮﻤﻟﺍ ﺔﻤﻬﻤﻟﺍ ﺢﺘﻓ</CommandOpenLinkedQuestDesc>
+
+  
+  
+  <CommandDropPawn>{nameDef_0} ﻙﺮﺗ</CommandDropPawn>
+  
+  <CommandDropPawnDesc>.ﺺﺨﺸﻟﺍ ﺀﺎﻘﻟﺇ ﺔﻤﻬﻣ</CommandDropPawnDesc>
+  
+  <CommandSelectCarriedPawn>{nameDef_0} ﺭﺎﻴﺘﺧﺍ</CommandSelectCarriedPawn>
+  
+  <CommandSelectCarriedPawnDesc>.ﻼﻘﻨﺘﻣ ﺎﻨﺋﺎﻛ ﺮﺘﺧﺍ</CommandSelectCarriedPawnDesc>
+  
+  <CommandSelectCarriedThing>{lookup: {0_label}; Case; 3} ﺮﺘﺧﺍ</CommandSelectCarriedThing>
+  
+  <CommandSelectCarriedThingDesc>.ﻞﻘﻨﺘﻤﻟﺍ ﺮﺼﻨﻌﻟﺍ ﺮﺘﺧﺍ</CommandSelectCarriedThingDesc>
+  
+  <CommandSelectContainerThing>{3 ;ﺔﻟﺎﺣ ;{lookup: {0_label} ﺮﺘﺧﺍ</CommandSelectContainerThing>
+  
+  <CommandSelectContainerThingDesc>.ﺔﻳﻭﺎﺤﻟﺍ ﺮﺘﺧﺍ</CommandSelectContainerThingDesc>
+  
+  <CommandSelectCarryingPawn>{nameDef_0} ﺮﺘﺧﺍ</CommandSelectCarryingPawn>
+  
+  <CommandSelectCarryingPawnDesc>.ﻝﺎﻘﻧ ﻦﺋﺎﻛ ﺭﺎﻴﺘﺧﺍ</CommandSelectCarryingPawnDesc>
+  
+  <CommandSelectContainedPawn>{nameDef_0} ﺮﺘﺧﺍ</CommandSelectContainedPawn>
+  
+  <CommandSelectContainedPawnDesc>.ﺰﺠﺘﺤﻤﻟﺍ ﻕﻮﻠﺨﻤﻟﺍ ﺮﺘﺧﺍ</CommandSelectContainedPawnDesc>
+  
+  <CommandSelectContainedThing>{label_0} ﺮﺘﺧﺍ</CommandSelectContainedThing>
+  
+  <CommandSelectContainedThingDesc>ﻥﺰﺨﻤﻟﺍ ﺮﺼﻨﻌﻟﺍ ﺮﺘﺧﺍ</CommandSelectContainedThingDesc>
+
+  
+  
+  <TakeDrug>...ﺕﺍﺭﺪﺨﻤﻟﺍ ﻲﻃﺎﻌﺗ ﻝﻮﺒﻗ</TakeDrug>
+  
+  <TakeDrugDesc>ﺺﺨﺸﻟﺍ ﺎﻬﻠﻤﺤﻳ ﻲﺘﻟﺍ ﻚﻠﺗ ﻦﻣ ﺭﺪﺨﻤﻟﺍ ﺮﺘﺧﺍ
+.ﺍﺭﻮﻓ ﺎﻬﻟﻭﺎﻨﺗﻭ</TakeDrugDesc>
+
+  
+  
+  <BuildThing>&lt;{0}&gt; ﺀﺎﻨﺑ</BuildThing>
+
+  
+  
+  <CommandLeaveRitual>{RITUAL_label} ﺓﺭﺩﺎﻐﻣ</CommandLeaveRitual>
+  
+  <CommandLeaveRitualDesc>ﺍﺬﻫ ﺮﻤﺘﺴﻴﺳ .{RITUAL_labelDef} ﻲﻓ ﺔﻛﺭﺎﺸﻤﻟﺍ ﻦﻋ ﻒﻗﻮﺘﻟﺍ
+ﺪﺣﺍﻭ ﺺﺨﺷ ﻪﻴﻓ ﻙﺭﺎﺸﺗ ﺖﻣﺩ ﺎﻣ ﺲﻘﻄﻟﺍ
+.ﻞﻗﻷﺍ ﻰﻠﻋ</CommandLeaveRitualDesc>
+  
+  <CommandLeaveLastParticipant>.{RITUAL_labelDef} ﻲﻓ ﺮﻴﺧﻷﺍ ﻙﺭﺎﺸﻤﻟﺍ ﻮﻫ ﺍﺬﻫ</CommandLeaveLastParticipant>
+
+  
+  <CommandCancelRitual>&lt;RITUAL_label&gt; ﺀﺎﻐﻟﺇ</CommandCancelRitual>
+  
+  <CommandCancelRitualDesc>ﺱﻮﻘﻄﻟﺍ ﺀﺍﺮﺟﺇ ﻰﻟﺇ ﺔﺟﺎﺤﻟﺍ .ﺍﺭﻮﻓ {RITUAL_labelDef} ﻒﻗﻭﺃ
+.ﺪﻳﺪﺟ ﻦﻣ ﻩﺀﺪﺑ ﻦﻣ ﺎﻘﺣﻻ ﻦﻜﻤﺘﺘﺳ .ﻰﻘﺒﺘﺳ</CommandCancelRitualDesc>
+  
+  <CommandCancelRitualConfirm>ﺀﺎﻐﻟﺇ ﻲﻓ ﻚﺘﺒﻏﺭ ﻦﻣ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ
+؟{RITUAL_labelDef}</CommandCancelRitualConfirm>
+
+  
+  
+  <LinkStorageSettings>ﺕﺎﻋﺩﻮﺘﺴﻤﻟﺍ ﻊﻴﻤﺠﺗ</LinkStorageSettings>
+  
+  <LinkStorageSettingsDesc>.ﺓﺩﺪﺤﻤﻟﺍ ﺕﺎﻋﺩﻮﺘﺴﻤﻠﻟ ﻦﻳﺰﺨﺘﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﻂﺑﺭ
+
+ﺕﺍﺩﺍﺪﻋﺈﻛ ﺩﺪﺤﻤﻟﺍ ﻝﻭﻷﺍ ﻉﺩﻮﺘﺴﻤﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﺭﺎﺒﺘﻋﺍ ﻢﺘﻴﺳ
+.ﺔﻋﻮﻤﺠﻤﻟﺍ ﻩﺬﻬﻟ ﺔﻴﺿﺍﺮﺘﻓﺍ</LinkStorageSettingsDesc>
+  
+  <LinkStorageDisabledSelectTwo>ﻦﻣ ﺮﺜﻛﺃ ﻭﺃ 2 ﺭﺎﻴﺘﺧﺍ ﻚﻴﻠﻋ ﺐﺠﻳ
+.ﺎﻬﻌﻴﻤﺠﺘﻟ ﻥﺯﺎﺨﻤﻟﺍ</LinkStorageDisabledSelectTwo>
+  
+  <AlreadyLinked>ﻞﻌﻔﻟﺎﺑ ﻊﻤﺠﻣ</AlreadyLinked>
+  
+  <UnlinkStorageSettings>ﻊﻴﻤﺠﺘﻟﺍ ﺀﺎﻐﻟﺇ</UnlinkStorageSettings>
+  
+  <UnlinkStorageSettingsDesc>ﺍﺬﻬﻟ ﺔﻠﻘﺘﺴﻣ ﺕﺍﺩﺍﺪﻋﺇ ﻦﻴﻴﻌﺘﺑ ﺢﻤﺴﻳ ﻊﻴﻤﺠﺘﻟﺍ ﺀﺎﻐﻟﺇ
+.ﻦﻳﺰﺨﺘﻟﺍ</UnlinkStorageSettingsDesc>
+  
+  <LinkedStorageSettings>ﻊﻴﻤﺠﺗ</LinkedStorageSettings>
+  
+  <NumBuildings>{0_numCase ? ﺕﺎﻋﺩﻮﺘﺴﻤﻟﺍ : ﻉﺩﻮﺘﺴﻤﻟﺍ}</NumBuildings>
+  
+  <StoresThings>ﻦﻳﺰﺨﺘﺑ ﻢﻗ</StoresThings>
+  
+  <SelectAllLinked>ﺔﻋﻮﻤﺠﻤﻟﺍ ﺭﺎﻴﺘﺧﺍ</SelectAllLinked>
+  
+  <SelectAllLinkedDesc>.ﺔﻋﻮﻤﺠﻤﻟﺍ ﻩﺬﻫ ﺕﺎﻋﺩﻮﺘﺴﻣ ﻞﻛ ﺮﺘﺧﺍ</SelectAllLinkedDesc>
+
+  
+  <CommandDisabledUnconscious>{0_labelShort} ﻲﻋﻭ ﻥﻭﺪﺑ.</CommandDisabledUnconscious>
+  
+</LanguageData>

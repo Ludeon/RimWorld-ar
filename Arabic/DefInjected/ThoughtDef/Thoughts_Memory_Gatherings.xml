@@ -1,0 +1,66 @@
+<LanguageData>
+  
+  
+  
+  <AttendedConcert.stages.attended_concert.label>{PAWN_gender ? ﺔﻠﻔﺣ ﻲﻓ {ﺖﻧﺎﻛ : ﻥﺎﻛ</AttendedConcert.stages.attended_concert.label>
+  
+  <AttendedConcert.stages.attended_concert.description>ﻱﺭﻮﻀﺤﺑ {ﺓﺪﻴﻌﺳ : ﺍﺪﻴﻌﺳ ? PAWN_gender} ﺖﻨﻛ
+.ﻞﻔﺤﻟﺍ ﻚﻟﺬﻟ</AttendedConcert.stages.attended_concert.description>
+  
+  
+  
+  <AttendedParty.stages.attended_party.label>ﺔﻠﻔﺣ {ﻲﻓ : ﻲﻓ ? PAWN_gender} ﻥﺎﻛ</AttendedParty.stages.attended_party.label>
+  
+  <AttendedParty.stages.attended_party.description>ﻲﻓ {ﺍﺮﻴﺜﻛ : ﺍﺮﻴﺜﻛ ? PAWN_gender} ﺖﻌﺘﻤﺘﺳﺍ
+.ﺔﻠﻔﺤﻟﺍ ﻚﻠﺗ</AttendedParty.stages.attended_party.description>
+  
+  
+  
+  <AttendedWedding.stages.attended_wedding.label>{PAWN_gender ? ﻑﺎﻓﺰﻟﺍ ﻲﻓ {ﺖﻧﺎﻛ : ﻥﺎﻛ</AttendedWedding.stages.attended_wedding.label>
+  
+  <AttendedWedding.stages.attended_wedding.description>ﺔﻄﺳﺍﻮﺑ ﺍﺪﺤﺗﺍ ﺪﻗ ﻦﻴﺼﺨﺷ ﺔﻳﺅﺭ ﻊﺋﺍﺮﻟﺍ ﻦﻣ
+.ﺎﻌﻣ ﻕﺮﺸﻣ ﻞﺒﻘﺘﺴﻣ ﺀﺎﻨﺒﻟ ﺔﺳﺪﻘﻣ ﺔﻄﺑﺍﺭ</AttendedWedding.stages.attended_wedding.description>
+  
+  
+  
+  <EncouragingSpeech.stages.encouraging_speech.label>ﻊﺠﺸﻣ ﺏﺎﻄﺧ</EncouragingSpeech.stages.encouraging_speech.label>
+  
+  <EncouragingSpeech.stages.encouraging_speech.description>ﻲﻓ ﻡﺪﻘﺘﻧ ﺎﻨﻧﺃ ﺮﻌﺷﺃ ،ﺏﺎﻄﺨﻟﺍ ﺍﺬﻫ ﺪﻌﺑ
+.ﺢﻴﺤﺼﻟﺍ ﻖﻳﺮﻄﻟﺍ</EncouragingSpeech.stages.encouraging_speech.description>
+  
+  
+  
+  <GotMarried.stages.got_married_to.label>{0} ﻦﻣ ﺝﺍﻭﺯ</GotMarried.stages.got_married_to.label>
+  
+  <GotMarried.stages.got_married_to.description>!{OTHERPAWN} {ﻦﻣ : ﻦﻣ ? PAWN_gender} ﺖﺟﻭﺰﺗ
+!ﺎﻌﻣ ﺓﺪﻳﺪﺟ ﺓﺎﻴﺣ ﺃﺪﺒﻧ ﻥﺃ ﻊﺋﺍﺮﻟﺍ ﻦﻣ</GotMarried.stages.got_married_to.description>
+  
+  
+  
+  <HeldConcert.stages.held_concert.label>{ﻼﻔﺣ : ﻼﻔﺣ ? PAWN_gender} ﻡﺎﻗﺃ</HeldConcert.stages.held_concert.label>
+  
+  <HeldConcert.stages.held_concert.description>!ﻊﺋﺍﺭ ﻞﻜﺸﺑ ﻲﻠﻔﺣ ﺢﺠﻧ !ﻢﻬﺒﺠﻋﺃ</HeldConcert.stages.held_concert.description>
+  
+  
+  
+  <InspirationalSpeech.stages.inspirational_speech.label>ﻢﻬﻠﻣ ﺏﺎﻄﺧ</InspirationalSpeech.stages.inspirational_speech.label>
+  
+  <InspirationalSpeech.stages.inspirational_speech.description>ﺪﻘﻟ .ﻱﺮﻜﻓﻭ ﻱﺮﻋﺎﺸﻣ ﻲﻓ ﺕﺮﺛﺃ ﺔﻤﻠﻜﻟﺍ ﻩﺬﻫ
+!ﻰﻨﻌﻤﻟﺎﺑ ﻲﺗﺎﻴﺣ ﺕﻸﻣ</InspirationalSpeech.stages.inspirational_speech.description>
+  
+  
+  
+  <TerribleSpeech.stages.terrible_speech.label>ﻊﻴﻈﻓ ﺏﺎﻄﺧ</TerribleSpeech.stages.terrible_speech.label>
+  
+  <TerribleSpeech.stages.terrible_speech.description>ﺎﻧﺃ ﻥﻵﺍ .ﺎﻴﻘﻴﻘﺣ ﺎﺳﻮﺑﺎﻛ ﺔﺒﻄﺨﻟﺍ ﻩﺬﻫ ﺖﻧﺎﻛ
+...ﺍﺪﺟ ﻞﻴﻠﻗ ﺎﻨﻳﺪﻟ ﻞﻣﻷﺍ ﻥﺃ ﻙﺭﺩﺃ</TerribleSpeech.stages.terrible_speech.description>
+  
+  
+  
+  <UninspiringSpeech.stages.uninspiring_speech.label>ﻞﻤﻣ ﻡﻼﻛ</UninspiringSpeech.stages.uninspiring_speech.label>
+  
+  <UninspiringSpeech.stages.uninspiring_speech.description>ﻥﺃ ﻦﻣ ﺓﻭﺎﺒﻏ ﺮﺜﻛﺃ ﺏﺎﻄﺨﻟﺍ ﺍﺬﻫ ﻥﺎﻛ
+ﺎﻧﺃ ،ﺎﻨﺘﻳﺎﻋﺮﺑ ﻥﺎﻛ ﻪﻧﺃ ﺎﻤﺑ .ﻢﻬﻠﻣ ﻥﻮﻜﻳ
+.ﻼﻴﻠﻗ ﻖﻠﻗ</UninspiringSpeech.stages.uninspiring_speech.description>
+  
+</LanguageData>

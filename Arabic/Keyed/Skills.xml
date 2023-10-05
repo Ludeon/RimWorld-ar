@@ -1,0 +1,83 @@
+<LanguageData>
+
+  
+  <Level>.ﻯﻮﺘﺴﻤﻟﺍ</Level>
+  
+  <SkillLevel>ﺓﺭﺎﻬﻤﻟﺍ ﻯﻮﺘﺴﻣ</SkillLevel>
+  
+  <ProgressToNextLevel>ﻲﻟﺎﺘﻟﺍ ﻢﻠﻌﺘﻟﺍ ﻯﻮﺘﺴﻣ ﻮﺤﻧ ﻡﺪﻘﺘﻟﺍ</ProgressToNextLevel>
+  
+  <Experience>ﺔﺑﺮﺠﺘﻟﺍ</Experience>
+  
+  <Passion>.ﻡﺎﻤﺘﻫﻼﻟ ﺮﻴﺜﻣ</Passion>
+  
+  <PassionNone>ﻡﺎﻤﺘﻫﺍ ﺪﺟﻮﻳ ﻻ</PassionNone>
+  
+  <PassionMinor>ﻂﺳﻮﺘﻤﻟﺍ ﻡﺎﻤﺘﻫﻻﺍ</PassionMinor>
+  
+  <PassionMajor>ﺪﻳﺪﺸﻟﺍ ﻡﺎﻤﺘﻫﻻﺍ</PassionMajor>
+  
+  <LearningSpeed>ﺐﻳﺭﺪﺘﻟﺍ ﺔﻋﺮﺳ</LearningSpeed>
+  
+  <LearnedMaxToday>ﺔﻋﺮﺳ ،{1}/{0}) ﻲﻣﻮﻴﻟﺍ ﺪﺤﻟﺍ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻢﺗ
+.({2} - ﺔﻴﻠﺒﻘﺘﺴﻤﻟﺍ ﻢﻠﻌﺘﻟﺍ</LearnedMaxToday>
+  
+  <ChildrenLearn>ﻞﻤﻋ ﺔﺒﻗﺍﺮﻣ ﻝﻼﺧ ﻦﻣ ﺕﺍﺭﺎﻬﻤﻟﺍ ﻥﻮﻤﻠﻌﺘﻳ ﻝﺎﻔﻃﻷﺍ
+.ﺔﺳﺭﺪﻤﻟﺍ ﻲﻓ ﺱﻭﺭﺪﻟﺍ ﺭﻮﻀﺣﻭ ﻦﻴﻐﻟﺎﺒﻟﺍ</ChildrenLearn>
+  
+  <EffectsAtLevel>{0} ﻯﻮﺘﺴﻣ ﻰﻠﻋ ﺕﺎﻤﻠﻌﻤﻟﺍ</EffectsAtLevel>
+  
+  <SkillMax>ﻰﺼﻗﺃ ﺪﺤﻛ</SkillMax>
+  
+  <LearnedLevel>.ﺔﺒﺴﺘﻜﻤﻟﺍ ﺓﺭﺎﻬﻤﻟﺍ ﻯﻮﺘﺴﻣ</LearnedLevel>
+  
+  <NegativeLevelAdjustedToZero>.ﺮﻔﺼﻟﺍ ﻰﻟﺇ ﻲﺒﻠﺴﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ ﻞﻳﺪﻌﺗ ﻢﺗ</NegativeLevelAdjustedToZero>
+  
+  <LevelCappedAtMax>.{0} ﺩﻭﺪﺤﻣ ﻯﻮﺘﺴﻣ</LevelCappedAtMax>
+  
+  <GeneLabelWithDesc>{GENE_label} ﻦﻴﺠﻟﺍ</GeneLabelWithDesc>
+
+  
+  <Skill0>ﺔﻓﺮﻌﻤﻟﺍ ﺩﻮﺟﻭ ﻡﺪﻋ</Skill0>
+  
+  <Skill1>ﺓﺀﺎﻔﻜﻟﺍ ﻡﺪﻋ</Skill1>
+  
+  <Skill2>ﻖﻠﻄﻣ ﺉﺪﺘﺒﻣ</Skill2>
+  
+  <Skill3>ﻂﺳﻮﺘﻣ ﺉﺪﺘﺒﻣ</Skill3>
+  
+  <Skill4>ﺮﻫﺎﻣ ﺉﺪﺘﺒﻣ</Skill4>
+  
+  <Skill5>ﺔﺒﻌﻠﻟ ﻖﺷﺎﻋ</Skill5>
+  
+  <Skill6>ﺮﻫﺎﻣ ﻖﺷﺎﻋ</Skill6>
+  
+  <Skill7>ﻒﻴﻌﺿ ﻑﺮﺘﺤﻣ</Skill7>
+  
+  <Skill8>ﻑﺮﺘﺤﻤﻟﺍ</Skill8>
+  
+  <Skill9>ﻖﺛﺍﻭ ﻑﺮﺘﺤﻣ</Skill9>
+  
+  <Skill10>ﺓﺮﺒﺧ ﻭﺫ ﻑﺮﺘﺤﻣ</Skill10>
+  
+  <Skill11>ﻲﻓﺍﺮﺘﺣﻻﺍ ﻒﻴﻀﻤﻟﺍ</Skill11>
+  
+  <Skill12>ﺮﻴﺒﺧ</Skill12>
+  
+  <Skill13>ﻲﺴﻴﺋﺮﻟﺍ ﺮﻴﺒﺨﻟﺍ</Skill13>
+  
+  <Skill14>ﺲﻴﺋﺮﻟﺍ ﺪﻴﺴﻟﺍ</Skill14>
+  
+  <Skill15>ﻖﺤﺘﺴﻤﻟﺍ ﺮﻴﺘﺴﺟﺎﻤﻟﺍ</Skill15>
+  
+  <Skill16>ﻕﺎﻄﻨﻟﺍ ﻲﻤﻟﺎﻋ ﺪﻴﺳ</Skill16>
+  
+  <Skill17>ﺪﺋﺍﺮﻟﺍ ﻱﺭﺎﻘﻟﺍ ﺮﻴﺘﺴﺟﺎﻤﻟﺍ</Skill17>
+  
+  <Skill18>ﺐﻛﺍﻮﻜﻟﺍ ﻯﻮﺘﺴﻣ ﻰﻠﻋ ﺓﺩﺎﻴﺳ ﺔﻄﺧ</Skill18>
+  
+  <Skill19>ﻲﺴﻴﺋﺮﻟﺍ ﻲﺒﻛﻮﻜﻟﺍ ﺭﺎﺸﺘﺴﻤﻟﺍ</Skill19>
+  
+  <Skill20>ﻱﺭﻮﻄﺳﻷﺍ ﺮﻴﺘﺴﺟﺎﻤﻟﺍ</Skill20>
+  
+</LanguageData>

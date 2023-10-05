@@ -1,0 +1,365 @@
+<LanguageData>
+  
+  
+  <Alerts.label>ﺕﺍﺭﺎﻌﺷﻹﺍ</Alerts.label>
+  
+  <Alerts.helpText>ﻦﻣ ﻰﻨﻤﻴﻟﺍ ﺔﻴﻠﻔﺴﻟﺍ ﺔﻳﻭﺍﺰﻟﺍ ﻲﻓ ﺕﺎﻬﻴﺒﻨﺘﻟﺍ ﺮﻬﻈﺗ
+.ﻚﻣﺎﻤﺘﻫﺍ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ﻲﺘﻟﺍ ﺕﻼﻜﺸﻤﻟﺎﺑ ﻚﻏﻼﺑﻹ ﺔﺷﺎﺸﻟﺍ
+!ﺎﻬﻠﻫﺎﺠﺘﺗ ﻻ</Alerts.helpText>
+  
+  
+  <AllowedAreas.label>ﺔﺣﺎﺘﻤﻟﺍ ﻖﻃﺎﻨﻤﻟﺍ</AllowedAreas.label>
+  
+  <AllowedAreas.helpText>ﻖﻃﺎﻨﻤﻟﺎﺑ ﺔﻔﻴﻟﻷﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺔﻛﺮﺣ ﺪﻳﺪﺤﺗ ﻦﻜﻤﻳ
+.ﺔﺣﺎﺘﻤﻟﺍ
+
+ﻰﻟﺇ ﺝﻭﺮﺨﻟﺍ ﻦﻣ ،ﻼﺜﻣ ،ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻊﻨﻤﻟ ﺎﻬﻣﺪﺨﺘﺳﺍ
+.ﺔﻨﻣﻵﺍ ﻖﻃﺎﻨﻤﻟﺍ ﺝﺭﺎﺧ ﻭﺃ ﻉﺭﺎﺸﻟﺍ
+
+ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﺕﺎﻋﻮﻤﺠﻤﻟ ﻖﻃﺎﻨﻣ ﺓﺪﻋ ﺊﺸﻧﺃ
+.ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ
+
+ﺔﻣﻼﻋ ﻲﻓ ﻖﻃﺎﻨﻤﻟﺍ ﻩﺬﻫ ﻦﻴﻌﺗﻭ ﻑﺬﺤﺗﻭ ﺄﺸﻨﺗ
+."ﺩﻮﻴﻘﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ
+
+ﺕﺍﻭﺩﺃ ﻡﺪﺨﺘﺳﺍ ،ﺎﻬﺑ ﺡﻮﻤﺴﻣ ﺓﺪﻳﺪﺟ ﺔﻘﻄﻨﻣ ﺰﻴﻴﻤﺘﻟ
+"ﺔﺣﺎﺘﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻞﻴﻠﻘﺗ" ﻭ "ﺔﺣﺎﺘﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻊﻴﺳﻮﺗ"
+."ﻖﻃﺎﻨﻤﻟﺍ" ﺔﺌﻓ ﺖﺤﺗ "ﻊﻳﺭﺎﺸﻤﻟﺍ" ﺔﻤﺋﺎﻗ ﻲﻓ</AllowedAreas.helpText>
+  
+  
+  <AnimalTaming.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻳﻭﺮﺗ</AnimalTaming.label>
+  
+  <AnimalTaming.helpText>.ﺔﻳﺮﺒﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻰﻠﻋ "ﺾﻳﻭﺮﺗ" ﺮﻣﻷﺍ ﻡﺪﺨﺘﺳﺍ
+
+.ﺾﻳﻭﺮﺘﻟﺍ ﻥﻮﻟﻭﺎﺤﻳﻭ ﻡﺎﻌﻄﻟﺍ ﺀﻻﺰﻨﻟﺍ ﻡﺪﻘﻴﺳ
+
+ﺔﻴﻧﺍﻭﺪﻌﺑ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ ﺩﺮﺗ ﺪﻗ :ﺍﺭﺬﺣ ﻦﻛ
+.ﺔﺤﺟﺎﻧ ﺮﻴﻐﻟﺍ ﺾﻳﻭﺮﺘﻟﺍ ﺕﻻﻭﺎﺤﻣ ﻰﻠﻋ</AnimalTaming.helpText>
+  
+  
+  <AnimalTraining.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺐﻳﺭﺪﺗ</AnimalTraining.label>
+  
+  <AnimalTraining.helpText>ﺐﻳﺭﺪﺗ ﻦﻴﻴﻌﺗ ﻦﻜﻤﻳ ،"ﺐﻳﺭﺪﺘﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻲﻓ
+ﺮﻤﻳ ﻥﺃ ﺐﺠﻳ .ﺔﺿﻭﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺓﺩﺪﺤﻣ ﺕﺍﺭﺎﻬﻣ
+.ﺐﻳﺭﺪﺘﻟﺍ ﺕﻻﻭﺎﺤﻣ ﻦﻴﺑ ﺖﻗﻭ</AnimalTraining.helpText>
+  
+  
+  <CameraDolly.label>ﺍﺮﻴﻣﺎﻜﻟﺍ ﻚﻳﺮﺤﺗ</CameraDolly.label>
+  
+  <CameraDolly.helpText>ﻑﺍﻮﺣ ﻮﺤﻧ ﺮﺷﺆﻤﻟﺍ ﻚﻳﺮﺤﺗ ﺔﻄﺳﺍﻮﺑ ﺍﺮﻴﻣﺎﻜﻟﺍ ﻙﺮﺣ
+.{Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} ﻰﻠﻋ ﻂﻐﻀﻟﺎﺑ ﻭﺃ ،ﺔﺷﺎﺸﻟﺍ</CameraDolly.helpText>
+  
+  <CameraDolly.helpTextController>.ﻊﻃﺎﻘﺘﻤﻟﺍ ﺡﺎﺘﻔﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺍﺮﻴﻣﺎﻜﻟﺍ ﻙﺮﺣ</CameraDolly.helpTextController>
+  
+  
+  <CameraZoom.label>ﺍﺮﻴﻣﺎﻜﻟﺍ ﻦﻣ ﺏﺍﺮﺘﻗﻻﺍ</CameraZoom.label>
+  
+  <CameraZoom.helpText>ﻭﺃ ﺱﻭﺎﻤﻟﺍ ﺔﻠﺠﻋ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻕﺎﻄﻨﻟﺍ ﻞﻴﻠﻘﺗﻭ ﺓﺩﺎﻳﺯ
+.{Key:MapZoom_Out} ﻭ {Key:MapZoom_In} ﺭﺍﺭﺯﻷﺍ</CameraZoom.helpText>
+  
+  <CameraZoom.helpTextController>ﻭ {Key:MapZoom_In} ﻡﺍﺪﺨﺘﺳﺎﺑ ﺱﺎﻴﻘﻤﻟﺍ ﺮﻴﻐﺼﺗﻭ ﺮﻴﺒﻜﺘﺑ ﻢﻗ
+.{Key:MapZoom_Out}</CameraZoom.helpTextController>
+  
+  
+  <ClickingMessages.label>ﺕﺍﺭﺎﻌﺷﻹﺍ</ClickingMessages.label>
+  
+  <ClickingMessages.helpText>ﺮﺴﻳﻷﺍ ﻱﻮﻠﻌﻟﺍ ﺀﺰﺠﻟﺍ ﻲﻓ ﺕﺍﺭﺎﻌﺷﻹﺍ ﻰﻠﻋ ﻂﻐﺿﺍ
+ﺙﺪﺤﻟﺍ ﻰﻟﺇ ﺍﺭﻮﻓ ﺍﺮﻴﻣﺎﻜﻟﺍ ﻞﻘﻨﻟ ﺔﺷﺎﺸﻟﺍ ﻦﻣ
+.ﺰﻔﺤﻤﻟﺍ</ClickingMessages.helpText>
+  
+  
+  <CoverAndShooting.label>ﺔﻳﺎﻣﺮﻟﺍﻭ ﻯﻭﺄﻤﻟﺍ</CoverAndShooting.label>
+  
+  <CoverAndShooting.helpText>ﻮﻫ ﺪﻌﺑ ﻦﻋ ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺀﻲﺷ ﻢﻫﺃ
+.ﻯﻭﺄﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ
+
+،ﻩﺭﺍﻮﺠﺑ ﻦﻃﻮﺘﺴﻤﻟﺍ ﻥﺎﻛ ﺍﺫﺇ ﻂﻘﻓ ﻯﻭﺄﻤﻟﺍ ﻞﻤﻌﻳ
+.ﻢﺼﺨﻟﺍﻭ ﻦﻃﻮﺘﺴﻤﻟﺍ ﻦﻴﺑ ﻯﻭﺄﻤﻟﺍﻭ
+
+ﻕﻼﻃﻹﺎﺑ ﻥﻮﻣﻮﻘﻴﺳ ،ﻲﻧﺎﺒﻤﻟﺍ ﺎﻳﺍﻭﺯ ﻒﻠﺧ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻊﺿ
+.ﻙﺎﻨﻫ ﻦﻣ
+
+ﺎﻬﻀﻌﺑ ﻦﻜﻟ ،ﻯﻭﺄﻤﻛ ﺀﺎﻴﺷﻷﺍ ﻢﻈﻌﻣ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ
+ﺓﺮﺠﺷ ﻒﻠﺧ ﺀﺎﺒﺘﺧﻻﺍ .ﺎﻫﺮﻴﻏ ﻦﻣ ﺔﻴﻟﺎﻌﻓ ﺮﺜﻛﺃ
+ﻒﻠﺧ ﺀﺎﺒﺘﺧﻻﺍ ﻦﻜﻟ ،ﺀﺍﺮﻌﻟﺎﺑ ﻑﻮﻗﻮﻟﺍ ﻦﻣ ﻞﻀﻓﺃ
+.ﺓﺮﺠﺷ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻣ ﻞﻀﻓﺃ ﻞﻣﺮﻟﺍ ﺱﺎﻴﻛﺃ</CoverAndShooting.helpText>
+  
+  
+  <Deterioration.label>ﺀﺎﻴﺷﻷﺍ ﺭﻮﻫﺪﺗ</Deterioration.label>
+  
+  <Deterioration.helpText>n\n\ .ﺀﻂﺒﺑ ﺭﻮﻫﺪﺘﺘﺳ ﺔﻓﻮﺸﻜﻤﻟﺍ ﺀﺎﻤﺴﻟﺍ ﺖﺤﺗ ﺀﺎﻴﺷﻷﺍ
+ﻥﺎﻜﻣ ﻰﻟﺇ ﺀﺎﻴﺷﻷﺍ ﻞﻘﻧﺍ ،ﺎﻬﺘﻣﻼﺳ ﻰﻠﻋ ﻅﺎﻔﺤﻠﻟ
+.ﻖﻠﻐﻣ</Deterioration.helpText>
+  
+  
+  <EquippingWeapons.label>ﺔﺤﻠﺳﻷﺍ ﺰﻴﻬﺠﺗ</EquippingWeapons.label>
+  
+  <EquippingWeapons.helpText>.ﺔﺤﻠﺳﻷﺍ ﺾﻌﺑ ﻊﻣ ﻚﺑ ﻦﻴﺻﺎﺨﻟﺍ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻞﺻﻭ
+!ﻢﻫﺰﻴﻬﺠﺗ
+
+ﺓﺭﺄﻔﻟﺍ ﺭﺯ ﻰﻠﻋ ﻂﻐﺿﺍﻭ ﻦﻃﻮﺘﺴﻣ ﻞﻛ ﺩﺪﺣ
+.ﻩﻮﻣﺪﺨﺘﺴﻳ ﻥﺃ ﺐﺠﻳ ﻱﺬﻟﺍ ﺡﻼﺴﻟﺍ ﻰﻠﻋ ﻦﻤﻳﻷﺍ</EquippingWeapons.helpText>
+  
+  <EquippingWeapons.helpTextController>ﻢﻗ .ﺔﺤﻠﺳﻷﺍ ﺾﻌﺑ ﻊﻣ ﻚﻴﻨﻃﻮﺘﺴﻣ ﻞﺻﻭ ﺪﻘﻟ
+!ﻢﻫﺰﻴﻬﺠﺘﺑ
+
+ﺮﺴﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﻂﻐﺿﺍﻭ ﻦﻃﻮﺘﺴﻣ ﻞﻛ ﺩﺪﺣ
+.ﻪﻣﺍﺪﺨﺘﺳﺍ ﻲﻐﺒﻨﻳ ﻱﺬﻟﺍ ﺡﻼﺴﻟﺍ ﻰﻠﻋ</EquippingWeapons.helpTextController>
+  
+  
+  <FirePreparation.label>ﻖﺋﺍﺮﺤﻟﺍ ﻦﻣ ﺔﻣﻼﺴﻟﺍ</FirePreparation.label>
+  
+  <FirePreparation.helpText>.ﺔﻟﻮﻬﺴﺑ ﻞﻣﺎﻜﻟﺎﺑ ﺔﻨﻃﻮﺘﺴﻣ ﺮﻣﺪﺗ ﻥﺃ ﻦﻜﻤﻳ ﻖﺋﺍﺮﺤﻟﺍ
+:ﺎﻬﻌﻣ ﻞﻣﺎﻌﺘﻠﻟ ﻞﻀﻓﻷﺍ ﻮﻫ ﺎﻘﺒﺴﻣ ﺩﺍﺪﻌﺘﺳﻻﺍ
+
+ﻥﺎﺒﻣ ،ﺮﻴﺒﻛ ﻝﺰﻨﻣ ﻦﻣ ﻻﺪﺑ ﻦﺑﺍ .1
+.ﺾﻌﺒﻟﺍ ﺎﻬﻀﻌﺑ ﻦﻣ ﺪﻌﺑ ﻰﻠﻋ ﺔﻠﺼﻔﻨﻣ
+
+ﻲﻧﺎﺒﻤﻟﺍ .ﻝﺎﻌﺘﺷﻼﻟ ﺔﻴﻠﺑﺎﻗ ﻞﻗﺃ ﺍﺩﺍﻮﻣ ﻡﺪﺨﺘﺳﺍ .2
+ﻞﻌﺘﺸﺗ ﺎﻬﻨﻜﻟ ،ﺀﺎﻨﺒﻟﺍ ﻲﻓ ﺔﻌﻳﺮﺳﻭ ﺔﺼﻴﺧﺭ ﺔﻴﺒﺸﺨﻟﺍ
+.ﺔﻟﻮﻬﺴﺑ
+
+ﺔﺒﻳﺮﻘﻟﺍ ﺔﻴﺑﺎﻐﻟﺍ ﻖﺋﺍﺮﺤﻟﺍ ﻑﺎﻘﻳﻹ ﺕﺎﺤﺴﻓ ﻦﺑﺍ .3
+3 ﺽﺮﻌﺑ ﻥﻮﺘﻴﺒﻟﺍ ﻦﻣ ﻂﻳﺮﺷ .ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻦﻣ
+ﻡﺪﻘﺗ ﻒﻗﻮﻳ ﺎﻣ ﺓﺩﺎﻋ ﺕﺎﻧﺎﺧ 4 ﻭﺃ
+.ﺭﺎﻨﻟﺍ</FirePreparation.helpText>
+  
+  
+  <Forbidding.label>ﺡﺎﻤﺴﻟﺍﻭ ﺮﻈﺤﻟﺍ</Forbidding.label>
+  
+  <Forbidding.helpText>ـﺑ ﺔﺳﺭﺎﻤﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻊﻣ ﺍﻮﻠﻋﺎﻔﺘﻳ ﻦﻟ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ
+ﺮﺼﻨﻌﻟﺍ ﺮﺘﺧﺍ .ﺮﻤﺣﺃ ﺐﻴﻠﺼﺑ ﺔﻤﻠﻌﻣ ﺔﻋﻮﻨﻤﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍn\n\."ﻉﻮﻨﻤﻣ"
+ﻂﻐﻀﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﻪﻣﺍﺪﺨﺘﺳﺍ ﺏ ﺢﻤﺳﺍﻭ ﺭﻮﻈﺤﻤﻟﺍ
+.ﺔﺷﺎﺸﻟﺍ ﻞﻔﺳﺃ ﻲﻓ ﺐﺳﺎﻨﻤﻟﺍ ﺭﺰﻟﺍ ﻰﻠﻋ</Forbidding.helpText>
+  
+  
+  <ForbiddingDoors.label>ﺏﺍﻮﺑﻷﺍ ﻡﺍﺪﺨﺘﺳﺍ ﺮﻈﺣ</ForbiddingDoors.label>
+  
+  <ForbiddingDoors.helpText>ﺀﻻﺰﻨﻟﺍ ﻦﻜﻤﺘﻳ ﻻ ﻰﺘﺣ ﺏﺍﻮﺑﻷﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻊﻨﻣﺍ
+ﺍﺬﻫ :ﻆﺣﻻ .ﺎﻫﺮﺒﻋ ﺭﻭﺮﻤﻟﺍ ﻦﻣ ﺔﺿﻭﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ
+ﺀﺍﺪﻋﻷﺍﻭ ﻲﺿﺍﺮﺘﻓﺍ ﻞﻜﺸﺑ ﺔﻘﻠﻐﻣ ﺏﺍﻮﺑﻷﺍ .ﺎﻬﻠﻔﻘﻳ ﻦﻟ
+ﺮﻴﻈﺤﺘﻟﺍ .ﺏﺎﺒﻟﺍ ﺮﺴﻛ ﻥﻭﺩ ﻝﻮﺧﺪﻟﺍ ﻥﻮﻌﻴﻄﺘﺴﻳ ﻻ
+ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ .ﺏﺎﺒﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻡﺪﻌﻟ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﻂﻘﻓ ﺮﻴﺸﻳ
+.ﺕﺍﺮﻳﺬﺤﺘﻟﺍ ﻩﺬﻫ ﻥﻮﻠﻫﺎﺠﺘﻴﺳ ﺔﻳﺮﻴﺘﺴﻫ ﺔﻟﺎﺣ ﻲﻓ</ForbiddingDoors.helpText>
+  
+  
+  <FormCaravan.label>ﻞﻓﺍﻮﻘﻟﺍ ﻝﺎﺳﺭﺇ</FormCaravan.label>
+  
+  <FormCaravan.helpText>ﺹﺎﺨﺷﻷﺍ ﻦﻣ ﺕﺎﻋﻮﻤﺠﻣ ﻝﺎﺳﺭﻹ ﻞﻓﺍﻮﻘﻟﺍ ﺰﻴﻬﺠﺗ ﻚﻨﻜﻤﻳ
+.ﺐﻛﻮﻜﻟﺍ ﻝﻮﺣ ﺮﻔﺴﻠﻟ
+
+ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻲﻓ ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﺮﺘﺧﺍ
+."ﺔﻠﻓﺎﻘﻟﺍ ﺰﻴﻬﺠﺗ" ﻰﻠﻋ ﻂﻐﺿﺍﻭ "ﻢﻟﺎﻌﻟﺍ"</FormCaravan.helpText>
+  
+  
+  <FriendlyFireSafety.label>ﺀﺎﻔﻠﺤﻟﺍ ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ</FriendlyFireSafety.label>
+  
+  <FriendlyFireSafety.helpText>ﻪﺒﻧﺎﺠﺑ ﻥﺎﻛ ﺍﺫﺇ ﻪﻔﻴﻠﺣ ﺐﻴﺼﻳ ﻦﻟ ﻲﻣﺍﺮﻟﺍ
+.ﺭﺎﻨﻟﺍ ﻂﺧ ﻲﻓ ﻰﺘﺣ ،ﺓﺮﺷﺎﺒﻣ
+
+ﻡﺎﻣﺃ ﻒﻴﺴﻟﺎﺑ ﺀﻻﺰﻨﻟﺍ ﺪﺣﺃ ﻊﺿﻭ ﻚﻨﻜﻤﻳ ،ﻼﺜﻣ
+ﻒﻠﺧ ﻦﻣ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺈﺑ ﻡﻮﻘﻴﺳ ﻲﻣﺍﺮﻟﺍ .ﻲﻣﺍﺮﻟﺍ
+.ﻪﻠﻴﻣﺯ
+
+ﺎﺒﻳﺮﻗ ﻦﻴﻠﺗﺎﻘﻤﻟﺍ ﻦﻴﺑ ﻊﻤﺠﻠﻟ ﺓﺪﻴﺟ ﺔﻘﻳﺮﻃ ﻩﺬﻫ
+.ﺍﺪﻴﻌﺑﻭ</FriendlyFireSafety.helpText>
+  
+  
+  <GettingMoreTraders.label>ﺔﻳﺭﺎﺠﺘﻟﺍ ﻞﻓﺍﻮﻘﻟﺍ</GettingMoreTraders.label>
+  
+  <GettingMoreTraders.helpText>ﺩﺪﻋ ﻦﻣ ﺪﻳﺰﻳ ﻯﺮﺧﻷﺍ ﻞﺋﺎﺼﻔﻟﺍ ﻊﻣ ﻒﻟﺎﺤﺘﻟﺍ
+.ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﻲﺗﺄﺗ ﻲﺘﻟﺍ ﺔﻳﺭﺎﺠﺘﻟﺍ ﻞﻓﺍﻮﻘﻟﺍ
+
+ﻥﻮﻜﻳ ﻦﻠﻓ ،ﺕﺎﻔﻟﺎﺤﺗ ﻚﻳﺪﻟ ﻦﻜﻳ ﻢﻟ ﺍﺫﺇ
+!ﻞﻓﺍﻮﻗ ﻙﺎﻨﻫ
+
+ﺔﻠﻓﺎﻗ ﺐﻠﻃ ﻚﻨﻜﻤﻳ ،ﻦﻴﻌﻣ ﻎﻠﺒﻣ ﻞﺑﺎﻘﻣ ،ﺎﻀﻳﺃ
+ﻝﻼﺧ ﻦﻣ ،ﺔﻳﺩﺎﻌﻟﺍ ﺔﻴﻨﻣﺰﻟﺍ ﺓﺭﻭﺪﻟﺍ ﺝﺭﺎﺧ ﺔﻳﺭﺎﺠﺗ
+.ﻝﺎﺼﺗﻻﺍ ﺔﺣﻮﻟ ﺮﺒﻋ ﻚﻟ ﺔﻘﻳﺪﺻ ﺔﻨﻃﻮﺘﺴﻤﺑ ﻝﺎﺼﺗﻻﺍ</GettingMoreTraders.helpText>
+  
+  
+  <GrowingFood.label>ﺔﻋﺍﺭﺰﻟﺍ ﻖﻃﺎﻨﻣ</GrowingFood.label>
+  
+  <GrowingFood.helpText>ﻦﻣ ﺎﻬﺘﻋﺍﺭﺰﻟ ﺔﻘﻄﻨﻤﻟﺍ ﺩﺪﺣ ،ﺔﻋﻭﺭﺰﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺔﻋﺍﺭﺰﻟ
+."ﻊﻳﺭﺎﺸﻤﻟﺍ" ﺔﻤﺋﺎﻘﻟﺍ ﻝﻼﺧ
+
+ﺽﺭﻷﺍ ﻰﻠﻋ ﻂﻘﻓ ﺔﻋﺍﺭﺰﻟﺍ ﺔﻘﻄﻨﻣ ﻊﺿﻭ ﻦﻜﻤﻳ
+.ﺔﺒﺼﺨﻟﺍ</GrowingFood.helpText>
+  
+  
+  <HistoryTab.label>"ﺔﺼﻘﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ</HistoryTab.label>
+  
+  <HistoryTab.helpText>ﻚﺘﻨﻃﻮﺘﺴﻣ ﺎﻬﺘﻬﺟﺍﻭ ﻲﺘﻟﺍ ﺙﺍﺪﺣﻷﺍ ﻰﻠﻋ ﻑﺮﻌﺘﻟﺍ ﻚﻨﻜﻤﻳ
+ﻲﻠﻔﺴﻟﺍ ﺀﺰﺠﻟﺍ ﻲﻓ "ﺦﻳﺭﺎﺘﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻲﻓ
+.ﺔﺷﺎﺸﻟﺍ ﻦﻣ</HistoryTab.helpText>
+  
+  
+  <HomeArea.label>ﺔﻴﻟﺰﻨﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ</HomeArea.label>
+  
+  <HomeArea.helpText>ﻱﺬﻟﺍ ﻥﺎﻜﻤﻟﺍ ﻰﻟﺇ ﻚﻴﻨﻃﻮﺘﺴﻣ ﻪﺟﻮﺘﺳ ﺔﻴﻟﺰﻨﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ
+ﻢﻗn\n\.ﻖﺋﺍﺮﺤﻟﺍ ﺩﺎﻤﺧﺇﻭ ﻒﻴﻈﻨﺘﻟﺎﺑ ﻪﻴﻓ ﺍﻮﻣﻮﻘﻳ ﻥﺃ ﺐﺠﻳ
+ﻦﻣ ﺔﺒﺳﺎﻨﻤﻟﺍ ﺓﺍﺩﻷﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻴﻟﺰﻨﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﺰﻴﻴﻤﺘﺑ
+."ﻊﻳﺭﺎﺸﻤﻟﺍ" ﺔﻤﺋﺎﻗ ﻲﻓ "ﻖﻃﺎﻨﻤﻟﺍ" ﺔﺌﻓ</HomeArea.helpText>
+  
+  
+  <HostilityResponse.label>ﺪﻳﺪﻬﺘﻟﺍ ﻰﻠﻋ ﻞﻌﻓ ﺩﺭ</HostilityResponse.label>
+  
+  <HostilityResponse.helpText>ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ ﻦﻴﺣﺯﺎﻨﻟﺍ ﻰﻠﻋ ﺐﺠﻳ ﻒﻴﻛ ﺩﺪﺣ
+.ﻢﻬﺘﺤﺻﻭ ﻢﻬﺗﺎﻴﺤﻟ ﺓﺮﺷﺎﺒﻤﻟﺍ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ
+
+،"ﺭﺍﺮﻔﻟﺍ" ﻉﺎﺿﻭﻷﺍ ﻦﻴﻴﻌﺗ ﻝﻼﺧ ﻦﻣ ﻚﻟﺬﺑ ﻢﻗ
+."ﺕﺎﻨﻴﻴﻌﺘﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻲﻓ "ﻞﻫﺎﺠﺘﻟﺍ" ﻭﺃ "ﻡﻮﺠﻬﻟﺍ"</HostilityResponse.helpText>
+  
+  
+  <InfoCard.label>ﺕﺎﻣﻮﻠﻌﻤﻟﺍ" ﺓﺬﻓﺎﻧ"</InfoCard.label>
+  
+  <InfoCard.helpText>ﺮﺼﻨﻋ ﻱﺃ ﻦﻋ ﻞﻴﺻﺎﻔﺘﻟﺍ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﺓﺬﻓﺎﻧ ﺮﻬﻈﺗ
+ﻭﺃ ﺔﻴﺼﺨﺸﻟﺍ ﺩﺪﺣ .ﻞﻜﻴﻫ ﻭﺃ ﺔﻴﺼﺨﺷ ﻭﺃ
+."i" ﺭﺰﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﺓﺬﻓﺎﻧ ﺢﺘﻓﺍﻭ ﺮﺼﻨﻌﻟﺍ</InfoCard.helpText>
+  
+  
+  <ManualWorkPriorities.label>ﻞﻤﻌﻟﺍ ﺕﺎﻳﻮﻟﻭﺃ</ManualWorkPriorities.label>
+  
+  <ManualWorkPriorities.helpText>ﺔﻴﻠﻤﻋ ﻦﻴﺴﺤﺗ ﻮﻫ RimWorld ﺮﺻﺎﻨﻋ ﻢﻫﺃ ﺪﺣﺃ
+.ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﻞﻤﻌﻟﺍ
+
+ﺔﻤﻬﻤﻟﺍ ﻝﺎﻤﻋﻷﺍ ﻙﺮﺗ ﻰﻟﺇ ﻦﻴﺴﺤﺘﻟﺍ ﻡﺪﻋ ﻱﺩﺆﻴﺳ
+ﻲﻓ ﻢﻬﺘﻗﻭ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻲﻀﻘﻳ ﺎﻤﻨﻴﺑ ﺔﻠﻤﺘﻜﻣ ﺮﻴﻏ
+.ﺔﻳﻮﻟﻭﻷﺍ ﺮﻴﻏ ﻡﺎﻬﻤﻟﺍ
+
+ﺭﺎﻴﺨﻟﺍ ﻡﺪﺨﺘﺳﺍ ،ﻞﻀﻓﺃ ﻞﻜﺸﺑ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻞﻤﻋ ﺓﺭﺍﺩﻹ
+."ﻞﻤﻌﻟﺍ" ﺔﻤﺋﺎﻘﻟﺍ ﻲﻓ "ﻖﻴﻗﺪﻟﺍ ﻢﻜﺤﺘﻟﺍ"
+
+ﺬﻴﻔﻨﺗ ﺔﻳﻮﻟﻭﺃ ﻂﺒﺿ ﻢﺘﻳ ،ﻊﺿﻮﻟﺍ ﺍﺬﻫ ﻲﻓ
+ﻡﻮﻘﻴﺳ .ﻦﻃﻮﺘﺴﻣ ﻞﻜﻟ ﻡﺎﻬﻤﻟﺍ ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﻉﺍﻮﻧﺃ
+ﻢﺛ ،1 ﺔﻳﻮﻟﻭﺄﺑ ﻞﻤﻌﻟﺍ ﺀﺍﺩﺄﺑ ﻻﻭﺃ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ
+ﻝﺎﻤﻋﺃ ﺭﺎﻴﺘﺧﺍ ﻢﺘﻳ .ﺍﺬﻜﻫﻭ ،2 ﺔﻳﻮﻟﻭﺄﺑ ﻞﻤﻌﻟﺍ
+ﻰﻟﺇ ﺭﺎﺴﻴﻟﺍ ﻦﻣ ﺕﺎﻳﻮﻟﻭﻷﺍ ﻦﻣ ﻯﻮﺘﺴﻣ ﻞﻛ
+.ﻦﻴﻤﻴﻟﺍ
+
+ﻲﻓ ﺍﺪﻴﻔﻣ ﻥﻮﻜﻴﺳ ﺕﺍﺩﺍﺪﻋﻹﺍ ﻩﺬﻬﻟ ﻲﻧﻼﻘﻌﻟﺍ ﻡﺍﺪﺨﺘﺳﻻﺍ
+.ﺪﻴﺟ ﻞﻜﺸﺑ ﺔﺘﻤﺗﺆﻤﻟﺍ ﺓﺮﻴﺒﻜﻟﺍ ﺕﺎﻨﻃﻮﺘﺴﻤﻟﺍ</ManualWorkPriorities.helpText>
+  
+  
+  <MedicalOperations.label>ﺔﻴﺒﻄﻟﺍ ﺕﺍﺀﺍﺮﺟﻹﺍ</MedicalOperations.label>
+  
+  <MedicalOperations.helpText>ﻭﺃ ﺀﺎﻀﻋﻷﺍ ﻝﺎﺼﺌﺘﺳﺍ ﻞﺜﻣ) ﻲﺒﻃ ﺀﺍﺮﺟﺇ ﻦﻴﻴﻌﺘﻟ
+ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ ،ﻞﻳﺰﻨﻟﺍ ﺮﺘﺧﺍ ،(ﺕﺍﺰﻴﺗﻭﺮﺒﻟﺍ ﺐﻴﻛﺮﺗ
+."ﺕﺎﻴﻠﻤﻌﻟﺍ" ﻢﺴﻗ ﻰﻟﺇ ﻞﻘﺘﻧﺍﻭ "ﺔﺤﺼﻟﺍ"</MedicalOperations.helpText>
+  
+  
+  <Mining.label>ﺔﻨﻴﻤﺜﻟﺍ ﻥﺩﺎﻌﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ</Mining.label>
+  
+  <Mining.helpText>ﻦﻣ ﺮﻔﺤﻟﺍ ﻚﻴﻨﻃﻮﺘﺴﻣ ﻰﻠﻋ ﺐﺠﻳ ﻦﻳﺃ ﺩﺪﺣ
+ﺾﻌﺑ ."ﻊﻳﺭﺎﺸﻤﻟﺍ" ﺔﻤﺋﺎﻗ ﻲﻓ "ﺮﻣﺍﻭﻷﺍ" ﻢﺴﻗ ﻝﻼﺧ
+,ﺐﻫﺫ ,ﺫﻻﻮﻓ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﺮﻔﺤﻠﻟ ﺔﻠﺑﺎﻗ ﻞﺘﻜﻟﺍ
+.ﺓﺪﻴﻔﻣ ﻯﺮﺧﺃ ﺩﺍﻮﻣﻭ</Mining.helpText>
+  
+  
+  <Outfits.label>ﺲﺑﻼﻤﻟﺍ</Outfits.label>
+  
+  <Outfits.helpText>ﺮﺜﻛﻷﺍﻭ ﺙﺪﺣﻷﺍ ﺲﺑﻼﻤﻟﺍ ﺀﺍﺪﺗﺭﺍﻭ ﺚﺤﺒﻟﺎﺑ ﺀﻻﺰﻨﻟﺍ ﻡﻮﻘﻴﺳ
+.ﻢﻫﺩﺮﻔﻤﺑ ﺓﺩﻮﺟ
+
+ﻦﻣ ﺔﻌﻄﻗ ﻞﻛ ﻦﻴﻴﻌﺘﻟ ﺔﺟﺎﺣ ﻙﺎﻨﻫ ﺲﻴﻟ
+.ﺎﻳﻭﺪﻳ ﺀﻻﺰﻨﻠﻟ ﺲﺑﻼﻤﻟﺍ
+
+،"ﺲﺑﻼﻤﻟﺍ ﺓﺭﺍﺩﺇ" ﻢﺛ "ﺕﺎﻨﻴﻴﻌﺘﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﺢﺘﻓﺍ
+.ﺀﻻﺰﻨﻠﻟ ﺎﻬﻨﻴﻋﻭ ﺓﺪﻳﺪﺟ ﺔﻋﻮﻤﺠﻣ ﺊﺸﻧﺃ</Outfits.helpText>
+  
+  
+  <Pause.label>ﺎﺘﻗﺆﻣ ﺔﺒﻌﻠﻟﺍ ﻑﺎﻘﻳﺇ</Pause.label>
+  
+  <Pause.helpText>ﻂﻋﺃn\n\ .ﺎﻬﻓﺎﻨﺌﺘﺳﺍ ﻭﺃ ﺔﺒﻌﻠﻟﺍ ﻑﺎﻘﻳﻹ {Key:TogglePause} ﻂﻐﺿﺍ
+ﻞﻛ ﻥﺎﻛ ﺍﺫﺇ :ﺮﻛﺬﺗn\n\ .ﻑﺎﻘﻳﻹﺍ ﺀﺎﻨﺛﺃ ﺮﻣﺍﻭﻷﺍ
+!{Key:TogglePause} ﻂﻐﺿﺍ ﻂﻘﻓ ، ﺓﺮﻄﻴﺴﻟﺍ ﺝﺭﺎﺧ ﺀﻲﺷ</Pause.helpText>
+  
+  
+  <ShotAccuracyTooltip.label>ﺔﻳﺎﻣﺮﻟﺍ ﺔﻗﺩ</ShotAccuracyTooltip.label>
+  
+  <ShotAccuracyTooltip.helpText>ﺩﺪﺣ .ﺔﻘﻠﻃ ﻱﺃ ﺔﻗﺩ ﺕﺎﺑﺎﺴﺣ ﻚﻟ ﺮﻓﻮﺘﺗ
+.ﻑﺪﻬﻟﺍ ﻰﻠﻋ ﺮﺷﺆﻤﻟﺍ ﻊﺿ ﻢﺛ ، ﻲﻣﺍﺮﻟﺍ
+ﻞﻣﺍﻮﻌﻟﺍ ﻊﻴﻤﺟﻭ ﺔﺑﺎﺻﻹﺍ ﺔﻴﻟﺎﻤﺘﺣﺍ ﺔﻤﺋﺎﻌﻟﺍ ﺕﺎﺤﻴﻤﻠﺘﻟﺍ ﺮﻬﻈﺘﺳ
+.ﺎﻬﻴﻓ ﺓﺮﺛﺆﻤﻟﺍ</ShotAccuracyTooltip.helpText>
+  
+  
+  <SpoilageAndFreezers.label>ﺕﺎﺟﻼﺜﻟﺍﻭ ﺔﻳﺬﻏﻷﺍ ﻒﻠﺗ</SpoilageAndFreezers.label>
+  
+  <SpoilageAndFreezers.helpText>.ﺎﻴﺒﺴﻧ ﺓﺮﻴﺼﻗ ﺓﺮﺘﻓ ﺪﻌﺑ ﺔﻤﻌﻃﻷﺍ ﻢﻈﻌﻣ ﻒﻠﺘﺘﺳ
+ﻢﻗ .ﺪﻳﺮﺒﺗ ﺔﻓﺮﻏ ﺀﺎﻨﺑ ﻚﻨﻜﻤﻳ ،ﻚﻟﺫ ﻊﻨﻤﻟ
+ﻒﻴﻜﻣ ﻊﺿ ﻢﺛ ،ﺔﻘﻠﻐﻣ ﺔﻓﺮﻏ ﺀﺎﻨﺒﺑ ﻻﻭﺃ
+ﺕﺎﻌﺑﺮﻣ ﻊﻣ) ﺭﺍﺪﺠﻟﺍ ﻲﻓ ﻦﻴﻨﺛﺍ ﻭﺃ ﺪﺣﺍﻭ
+.ﺔﻓﺪﻬﺘﺴﻤﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺾﻔﺧﺍ .(ﺔﻴﺟﺭﺎﺧ ﺀﺍﺮﻤﺣﻭ ،ﺔﻴﻠﺧﺍﺩ ﺀﺎﻗﺭﺯ
+ﺔﻳﻮﺌﻣ ﺔﺟﺭﺩ 0 ﻦﻣ ﻰﻧﺩﺃ ﺓﺪﻤﺠﻤﻟﺍ ﺔﻳﺬﻏﻷﺍ
+.ﺍﺪﺑﺃ ﺪﺴﻔﺗ ﻦﻟ</SpoilageAndFreezers.helpText>
+  
+  
+  <Stockpiles.label>ﺕﺎﻋﺩﻮﺘﺴﻤﻟﺍ</Stockpiles.label>
+  
+  <Stockpiles.helpText>ﺩﺪﺣ .ﺀﺎﻴﺷﻷﺍ ﻦﻳﺰﺨﺘﻟ ﻥﺎﻜﻣ ﻰﻟﺇ ﻥﻮﺟﺎﺘﺤﻳ ﻚﻴﻨﻃﻮﺘﺴﻣ
+"ﻖﻃﺎﻨﻤﻟﺍ" ﻰﻟﺇ ﺐﻫﺫﺍ ،ﻉﺩﻮﺘﺴﻣ ﻊﺿﻮﻟ .ﻢﻬﻟ ﻉﺩﻮﺘﺴﻣ
+.ﺔﺷﺎﺸﻟﺍ ﻦﻣ ﻯﺮﺴﻴﻟﺍ ﺔﻴﻠﻔﺴﻟﺍ ﺔﻳﻭﺍﺰﻟﺎﺑ "ﻊﻳﺭﺎﺸﻤﻟﺍ" ﻲﻓ</Stockpiles.helpText>
+  
+  
+  <StorageTab.label>"ﻉﺩﻮﺘﺴﻤﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ</StorageTab.label>
+  
+  <StorageTab.helpText>ﺢﺘﻓﻭ ﺎﻫﺪﻳﺪﺤﺗ ﻖﻳﺮﻃ ﻦﻋ ﻥﺯﺎﺨﻤﻟﺍ ﻦﻴﻴﻌﺘﺑ ﻢﻗ
+ﺮﺴﻳﻷﺍ ﻲﻠﻔﺴﻟﺍ ﻦﻛﺮﻟﺍ ﻲﻓ "ﻥﺰﺨﻤﻟﺍ" ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ
+ﺩﺪﺣn \ n \ .ﺔﻣﺎﻌﻟﺍ ﺓﺮﻈﻨﻟﺍ ﺔﺣﻮﻠﻟ
+ﻥﺰﺨﻤﻟﺍ ﻲﻓ ﺎﻬﻨﻳﺰﺨﺗ ﺐﺠﻳ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺕﺎﺌﻓ
+ﺀﺎﻤﺳﺃ ﻦﻣ ﻯﺮﺴﻴﻟﺍ ﺕﺎﺜﻠﺜﻤﻟﺍ ﻰﻠﻋ ﺮﻘﻧﺍ .ﺩﺪﺤﻤﻟﺍ
+ﺔﻳﻮﻟﻭﺃ ﺮﻴﻴﻐﺗ ﻚﻨﻜﻤﻳn \ n \ .ﺕﺎﺌﻔﻟﺍ
+ﺕﺍﺫ ﻥﺯﺎﺨﻤﻟﺍ ﺀﻞﻤﺑ ﻻﻭﺃ ﺀﻻﺰﻨﻟﺍ ﻡﻮﻘﻴﺳ .ﻥﺰﺨﻤﻟﺍ
+ﻦﻣ ﺮﺻﺎﻨﻌﻟﺍ ﻞﻘﻧ ﻚﻟﺬﻛﻭ ، ﺔﻴﻟﺎﻌﻟﺍ ﺔﻳﻮﻟﻭﻷﺍ
+ﺕﺍﺫ ﻥﺯﺎﺨﻤﻟﺍ ﻰﻟﺇ ﺔﻀﻔﺨﻨﻤﻟﺍ ﺔﻳﻮﻟﻭﻷﺍ ﺕﺍﺫ ﻥﺯﺎﺨﻤﻟﺍ
+.ﺔﻴﻟﺎﻌﻟﺍ ﺔﻳﻮﻟﻭﻷﺍ</StorageTab.helpText>
+  
+  
+  <TileInspector.label>ﺔﻘﻄﻨﻤﻟﺍ ﺔﺳﺍﺭﺩ</TileInspector.label>
+  
+  <TileInspector.helpText>ﺍﺬﻫ .{Key:ShowCellInspector} ﻰﻠﻋ ﻂﻐﻀﻟﺎﺑ ﺔﻘﻄﻨﻤﻟﺍ ﻑﺎﺸﻜﺘﺳﺍ ﻚﻨﻜﻤﻳ
+ﺮﺻﺎﻨﻌﻟﺍ ﻦﻋ ﺕﺎﻣﻮﻠﻌﻣ ﺔﻳﺅﺮﺑ ﻚﻟ ﺢﻤﺴﻳ ﻑﻮﺳ
+.ﺎﻫﺮﻴﻏﻭ ﺔﺌﻴﺒﻟﺍ ﻝﺎﻤﺟﻭ ،ﺔﻓﺮﻐﻟﺍ ﻞﻴﺻﺎﻔﺗﻭ ،ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ</TileInspector.helpText>
+  
+  
+  <TimeAssignments.label>ﻲﻨﻣﺰﻟﺍ ﻝﻭﺪﺠﻟﺍ</TimeAssignments.label>
+  
+  <TimeAssignments.helpText>ﺔﻣﻼﻋ ﻲﻓ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﻡﻮﻴﻟﺍ ﻊﺿﻭ ﻦﻴﻴﻌﺘﺑ ﻢﻗ
+."ﺩﻮﻴﻘﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ</TimeAssignments.helpText>
+  
+  
+  <TimeControls.label>ﺖﻗﻮﻟﺍ ﺓﺭﺍﺩﺇ</TimeControls.label>
+  
+  <TimeControls.helpText>.ﺔﺒﻌﻠﻟﺍ ﻲﻓ ﻦﻣﺰﻟﺍ ﺭﻭﺮﻣ ﻊﻳﺮﺴﺗ ﻚﻨﻜﻤﻳ
+
+Key:TimeSpeed_Normal}،} ﺢﻴﺗﺎﻔﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻪﺘﻋﺮﺳ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺏﺮﺟ
+.{Key:TimeSpeed_Superfast} ﻭ {{Key:TimeSpeed_Fast
+
+ﺀﺎﻄﺑﺇ ﻭﺃ ﻊﻳﺮﺴﺗ ﻚﻨﻜﻤﻳ ،ﻚﻟﺫ ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑ
+ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺢﻴﺗﺎﻔﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻦﻣﺰﻟﺍ ﻑﺎﻘﻳﺇ ﻭﺃ
+.ﻦﻤﻳﻷﺍ ﻲﻠﻔﺴﻟﺍ ﻦﻛﺮﻟﺍ</TimeControls.helpText>
+  
+  <TimeControls.helpTextController>.ﺔﺒﻌﻠﻟﺍ ﻲﻓ ﺖﻗﻮﻟﺍ ﻊﻳﺮﺴﺗ ﻚﻨﻜﻤﻳ
+
+{Key:TimeSpeed_Faster} ﺭﺍﺭﺯﻷﺍ амﺪﺨﺘﺳﺎﺑ ﻪﺘﻋﺮﺳ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺏﺮﺟ
+.{Key:TimeSpeed_Slower} ﻭ
+
+ﻭﺃ ﺖﻗﻮﻟﺍ ﻊﻳﺮﺴﺗ ﻦﻜﻤﻳ ،ﻚﻟﺫ ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑ
+ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﺭﺍﺭﺯﺃ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻪﻓﺎﻘﻳﺇ ﻭﺃ ﻩﺆﻃﺎﺒﺗ
+.ﻰﻨﻤﻴﻟﺍ ﺔﻴﻠﻔﺴﻟﺍ ﺔﻳﻭﺍﺰﻟﺍ</TimeControls.helpTextController>
+  
+  
+  <WorkTab.label>ﻡﺎﻬﻤﻟﺍ ﺕﺎﻳﻮﻟﻭﺃ</WorkTab.label>
+  
+  <WorkTab.helpText>ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻲﻓ ﻞﻤﻌﻟﺍ ﺕﺎﻳﻮﻟﻭﺃ ﻦﻴﻴﻌﺘﺑ ﻢﻗ
+.ﺔﺷﺎﺸﻠﻟ ﻯﺮﺴﻴﻟﺍ ﺔﻴﻠﻔﺴﻟﺍ ﺔﻳﻭﺍﺰﻟﺍ ﻲﻓ "ﻞﻤﻌﻟﺍ"
+
+ﺔﻳﻮﻟﻭﻷﺍ ﺕﺍﺫ ﻡﺎﻬﻤﻟﺍ ﺬﻴﻔﻨﺘﺑ ﺎﻤﺋﺍﺩ ﻥﻮﺣﺯﺎﻨﻟﺍ ﻡﻮﻘﻴﺳ
+.ﺎﻴﻠﻌﻟﺍ
+
+ﻦﻣ ﻦﻴﻌﻣ ﻉﻮﻧ ﻦﻴﻴﻌﺗ ﻢﺘﻳ ﻢﻟ ﺍﺫﺇ
+ﻥﻮﺣﺯﺎﻨﻟﺍ ﻥﺎﻛ ﻭﺃ ، ﺺﺨﺷ ﻱﻷ ﻝﺎﻤﻋﻷﺍ
+ﺬﻔﻨﺗ ﻦﻠﻓ ، ﺔﻳﻮﻟﻭﺃ ﺮﺜﻛﺃ ﻡﺎﻬﻤﺑ ﻦﻴﻟﻮﻐﺸﻣ
+.ﺍﺪﺑﺃ ﻡﺎﻬﻤﻟﺍ ﻩﺬﻫ</WorkTab.helpText>
+  
+</LanguageData>

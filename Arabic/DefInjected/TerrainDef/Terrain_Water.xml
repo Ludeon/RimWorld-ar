@@ -1,0 +1,40 @@
+<LanguageData>
+  
+  
+  <Marsh.label>ﻊﻘﻨﺘﺴﻤﻟﺍ</Marsh.label>
+  
+  <Marsh.tools.water.label>ﺀﺎﻣ</Marsh.tools.water.label>
+  
+  <Marsh.tools.mud.label>ﺦﺳﻮﻟﺍ</Marsh.tools.mud.label>
+  
+  
+  <WaterDeep.label>ﻖﻴﻤﻌﻟﺍ ﺀﺎﻤﻟﺍ</WaterDeep.label>
+  
+  <WaterDeep.tools.water.label>ﺀﺎﻣ</WaterDeep.tools.water.label>
+  
+  
+  <WaterMovingChestDeep.label>ﺭﺪﺼﻟﺍ ﻰﻠﻋ ﻖﻓﺪﺗ</WaterMovingChestDeep.label>
+  
+  <WaterMovingChestDeep.tools.water.label>ﺀﺎﻣ</WaterMovingChestDeep.tools.water.label>
+  
+  
+  <WaterMovingShallow.label>ﻞﺤﺿ ﺭﺎﻴﺗ</WaterMovingShallow.label>
+  
+  <WaterMovingShallow.tools.water.label>ﺀﺎﻣ</WaterMovingShallow.tools.water.label>
+  
+  
+  <WaterOceanDeep.label>ﻂﻴﺤﻤﻟﺍ ﻖﻤﻋ</WaterOceanDeep.label>
+  
+  <WaterOceanDeep.tools.water.label>ﺀﺎﻤﻟﺍ</WaterOceanDeep.tools.water.label>
+  
+  
+  <WaterOceanShallow.label>ﺔﻴﻄﻴﺤﻤﻟﺍ ﺔﻠﺤﻀﻟﺍ ﻩﺎﻴﻤﻟﺍ</WaterOceanShallow.label>
+  
+  <WaterOceanShallow.tools.water.label>ﺀﺎﻣ</WaterOceanShallow.tools.water.label>
+  
+  
+  <WaterShallow.label>ﺔﻠﺤﺿ ﻩﺎﻴﻣ</WaterShallow.label>
+  
+  <WaterShallow.tools.water.label>ﺀﺎﻣ</WaterShallow.tools.water.label>
+  
+</LanguageData>

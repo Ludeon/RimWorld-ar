@@ -1,0 +1,47 @@
+<LanguageData>
+  
+  
+  <Ship_Beam.label>ﺢﺑﺎﺴﻟﺍ ﺺﺨﺸﻟﺍ</Ship_Beam.label>
+  
+  <Ship_Beam.description>ﺀﺎﻨﺑ ﻢﺘﻳ ﻥﺃ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺀﺎﻨﺒﻟﺍ ﺔﺿﺭﺎﻋ
+ﺐﻴﺑﺎﻧﻷﺍﻭ ﺕﻼﺑﺎﻜﻟﺍ ﻊﻴﻤﺠﺑ ﺎﻫﺰﻴﻬﺠﺗ ﻢﺗ .ﺎﻬﻟﻮﺣ ﺔﻨﻴﻔﺴﻟﺍ
+.ﺩﻮﻗﻮﻟﺍﻭ ﺔﻗﺎﻄﻟﺍ ﻞﻘﻨﻟ ﺔﻣﺯﻼﻟﺍ</Ship_Beam.description>
+  
+  
+  <Ship_ComputerCore.label>ﻲﺋﺎﻀﻔﻟﺍ ﺮﺗﻮﻴﺒﻤﻜﻟﺍ</Ship_ComputerCore.label>
+  
+  <Ship_ComputerCore.description>ﺀﺎﻛﺫ ﺔﻴﺼﺨﺷ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﻲﺘﻟﺍ ﺔﻴﺑﻮﺳﺎﺤﻟﺍ ﺓﺍﻮﻨﻟﺍ
+ﺮﻃﺎﺨﻤﻟﺍ ﻊﻴﻤﺟ ﺮﺒﻋ ﺔﻨﻴﻔﺴﻟﺍ ﺓﺩﺎﻴﻗ ﻊﻴﻄﺘﺴﺗ ﻲﻋﺎﻨﻄﺻﺍ
+.ﺪﻣﻷﺍ ﺔﻠﻳﻮﻃ ﺔﻴﺋﺎﻀﻓ ﺔﻠﺣﺭ ﻲﻓ</Ship_ComputerCore.description>
+  
+  
+  <Ship_CryptosleepCasket.label>ﺖﻴﻤﻟﺍ ﻚﻴﻨﺤﺘﻠﻟ ﻲﻏﺍﺮﻔﻟﺍ ﺕﻮﺑﺎﺘﻟﺍ</Ship_CryptosleepCasket.label>
+  
+  <Ship_CryptosleepCasket.description>ﺭﺎﻄﺧﺃ ﻦﻣ ﻲﻤﺤﻣ ،ﺔﻳﺎﻐﻠﻟ ﻱﻮﻗ ﺢﻔﺼﻣ ﺝﺎﻓﻮﻛﺮﺳ
+ﻲﻓ ﻥﺎﺴﻧﻹﺍ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ،ﺀﺎﻀﻔﻟﺍ
+ﻝﻮﺧﺩ ﺪﻨﻋ ﺎﻤﻴﻠﺳ ﺀﺎﻘﺒﻟﺍﻭ ﺩﻮﻘﻌﻟ ﺕﺎﺒﺳ ﺔﻟﺎﺣ
+.ﻱﻮﺠﻟﺍ ﻑﻼﻐﻟﺍ</Ship_CryptosleepCasket.description>
+  
+  
+  <Ship_Engine.label>ﺔﻨﻴﻔﺴﻟﺍ ﻙﺮﺤﻣ</Ship_Engine.label>
+  
+  <Ship_Engine.description>ﻡﺍﺪﺨﺘﺳﺎﺑ ﻞﻣﺎﻋ ﻞﻜﻴﻫ ﻥﻭﺪﺑ ﻞﻤﻌﻳ .ﺎﻛﺎﻧﺎﺗ-ﻥﻮﺴﻧﻮﺟ ﻙﺮﺤﻣ
+ﻲﻓ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺎﺒﺳﺎﻨﻣ ﻪﻠﻌﺠﻳ ﺎﻤﻣ ،ﺎﻳﺮﻴﺗﺎﻤﻴﺘﻧﻷﺍ ﺔﻗﺎﻃ
+.ﺓﺪﻴﻌﺒﻟﺍ ﺀﺎﻀﻔﻟﺍ ﺕﻼﺣﺭﻭ ﺭﺎﻤﻗﻷﺍ ﻕﻼﻃﺇ</Ship_Engine.description>
+  
+  
+  <Ship_Reactor.label>ﺔﻨﻴﻔﺴﻟﺍ ﻞﻋﺎﻔﻣ</Ship_Reactor.label>
+  
+  <Ship_Reactor.description>ﻲﻓ ﺎﻬﺘﻠﺣﺭ ﻝﺍﻮﻃ ﺎﻬﺴﻔﻧ ﺔﻳﺬﻐﺘﺑ ﺔﻨﻴﻔﺴﻟﺍ ﻡﻮﻘﻳ
+ﺎﺘﻗﻭ ﻕﺮﻐﺘﺴﻳ ﺔﻨﻴﻔﺴﻟﺍ ﻉﻼﻗﻹ ﻞﻋﺎﻔﻤﻟﺍ ﺩﺍﺪﻋﺇ .ﺀﺎﻀﻔﻟﺍ
+ﻒﺸﻛ ﻲﻓ ﻪﻨﻋ ﺔﻤﺟﺎﻨﻟﺍ ﺕﺍﺭﺎﺠﻔﻧﻻﺍ ﺐﺒﺴﺘﺗﻭ ،ﻼﻳﻮﻃ
+.ﺔﻨﻴﻔﺴﻟﺍ ﻥﺎﻜﻣ</Ship_Reactor.description>
+  
+  
+  <Ship_SensorCluster.label>ﺔﺳﺎﺴﺣ ﺔﻋﻮﻤﺠﻣ</Ship_SensorCluster.label>
+  
+  <Ship_SensorCluster.description>ﻦﻣ ﻦﻜﻤﺗ ﺾﻳﺮﻋ ﻕﺎﻄﻧ ﺕﺍﺫ ﺭﺎﻌﺸﺘﺳﻻﺍ ﺓﺰﻬﺟﺃ
+ﻑﺎﺸﺘﻛﻻ ﺔﻳﺭﻭﺮﺿ .ﻲﺟﺭﺎﺨﻟﺍ ﺀﺎﻀﻔﻟﺍ ﺺﺤﻓﻭ ﺕﺍﺭﺎﺷﺇ ﻝﺎﺳﺭﺇ
+.ﻯﺮﺧﺃ ﺽﺍﺮﻏﺃﻭ ﻢﺘﻜﺘﻟﺍﻭ ﻪﻳﻮﻤﺘﻟﺍ ﻡﺍﺪﺨﺘﺳﺍﻭ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ</Ship_SensorCluster.description>
+  
+</LanguageData>

@@ -1,0 +1,220 @@
+<LanguageData>
+  
+  
+  <AnimalsSlaughtered.label>.ﺎﻬﺤﺑﺫ ﻢﺗ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</AnimalsSlaughtered.label>
+  
+  <AnimalsSlaughtered.description>.ﺎﻬﻠﺘﻘﺑ ﺖﻤﻗ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺩﺪﻋ</AnimalsSlaughtered.description>
+  
+  
+  <AnimalsTamed.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻳﻭﺮﺗ ﻢﺗ</AnimalsTamed.label>
+  
+  <AnimalsTamed.description>.ﻲﻠﺒﻗ ﻦﻣ ﺎﻬﻀﻳﻭﺮﺗ ﻢﺗ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺩﺪﻋ</AnimalsTamed.description>
+  
+  
+  <ArtifactsActivated.label>ﺭﺎﺛﻵﺍ ﻂﻴﺸﻨﺗ ﻢﺗ</ArtifactsActivated.label>
+  
+  <ArtifactsActivated.description>.ﺎﻬﻄﻴﺸﻨﺘﺑ ﺖﻤﻗ ﻲﺘﻟﺍ ﺔﻳﺮﺛﻷﺍ ﻊﻄﻘﻟﺍ ﺩﺪﻋ</ArtifactsActivated.description>
+  
+  
+  <BodiesStripped.label>ﻱﺭﺎﻋ</BodiesStripped.label>
+  
+  <BodiesStripped.description>.ﺎﻬﺘﻋﺍﺪﺑ ﻦﻋ ﺖﺤﺼﻓﺃ ﻲﺘﻟﺍ ﺚﺜﺠﻟﺍ ﺩﺪﻋ</BodiesStripped.description>
+  
+  
+  <CellsMined.label>ﺎﻫﺮﻔﺣ ﻢﺗ</CellsMined.label>
+  
+  <CellsMined.description>.ﺎﻬﺗﺮﻔﺣ ﻲﺘﻟﺍ ﺎﻳﻼﺨﻟﺍ ﺩﺪﻋ</CellsMined.description>
+  
+  
+  <ContainersOpened.label>.ﺕﺎﻳﻭﺎﺤﻟﺍ ﺢﺘﻓ ﻢﺗ</ContainersOpened.label>
+  
+  <ContainersOpened.description>.ﻲﻠﺒﻗ ﻦﻣ ﺔﺣﻮﺘﻔﻤﻟﺍ ﺕﺎﻳﻭﺎﺤﻟﺍ ﺩﺪﻋ</ContainersOpened.description>
+  
+  
+  <CorpsesBuried.label>ﻦﻓﺩ</CorpsesBuried.label>
+  
+  <CorpsesBuried.description>.ﺎﻬﺘﻨﻓﺩ ﻲﺘﻟﺍ ﺚﺜﺠﻟﺍ ﺩﺪﻋ</CorpsesBuried.description>
+  
+  
+  <DamageDealt.label>.ﺭﺮﻀﻟﺍ ﺐﻴﺒﺴﺗ ﻢﺗ</DamageDealt.label>
+  
+  <DamageDealt.description>.ﻪﺘﻴﻘﻠﺗ ﻱﺬﻟﺍ ﺭﺮﻀﻟﺍ ﻉﻮﻤﺠﻣ</DamageDealt.description>
+  
+  
+  <DamageTaken.label>ﺭﺍﺮﺿﻷ ﺖﺿﺮﻌﺗ</DamageTaken.label>
+  
+  <DamageTaken.description>ﺎﻬﺘﻴﻘﻠﺗ ﻲﺘﻟﺍ ﺭﺍﺮﺿﻷﺍ ﺔﻴﻤﻛ</DamageTaken.description>
+  
+  
+  <FiresExtinguished.label>.ﻖﺋﺍﺮﺤﻟﺍ ﺀﺎﻔﻃﺇ ﻢﺗ</FiresExtinguished.label>
+  
+  <FiresExtinguished.description>.ﺎﻬﺗﺪﻤﺧﺃ ﻲﺘﻟﺍ ﻖﺋﺍﺮﺤﻟﺍ ﺩﺪﻋ</FiresExtinguished.description>
+  
+  
+  <Headshots.label>ﺱﺃﺮﻟﺍ ﻲﻓ ﺕﺎﺻﺎﺻﺮﻟﺍ</Headshots.label>
+  
+  <Headshots.description>.ﻭﺪﻌﻟﺍ ﺱﺃﺭ ﻲﻓ ﻲﺗﺎﺑﺮﺿ ﺩﺪﻋ</Headshots.description>
+  
+  
+  <Kills.label>ﻞﺘﻘﻟﺍ ﻢﺗ</Kills.label>
+  
+  <Kills.description>ﺎﻬﺘﻠﺘﻗ ﻲﺘﻟﺍ ﺕﺎﻗﻮﻠﺨﻤﻟﺍ ﺩﺪﻋ</Kills.description>
+  
+  
+  <KillsAnimals.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻞﺘﻗ</KillsAnimals.label>
+  
+  <KillsAnimals.description>ﺎﻬﺘﻠﺘﻗ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺩﺪﻋ</KillsAnimals.description>
+  
+  
+  <KillsHumanlikes.label>ﺺﺨﺷ ﻞﺘﻗ ﻢﺗ</KillsHumanlikes.label>
+  
+  <KillsHumanlikes.description>ﻢﻬﺘﻠﺘﻗ ﻦﻳﺬﻟﺍ ﺹﺎﺨﺷﻷﺍ ﺩﺪﻋ</KillsHumanlikes.description>
+  
+  
+  <KillsMechanoids.label>ﺕﻮﺑﻭﺮﻟﺍ ﺕﻻﺁ ﻞﺘﻗ ﻢﺗ</KillsMechanoids.label>
+  
+  <KillsMechanoids.description>.ﻢﻬﺘﻠﺘﻗ ﻱﺬﻟﺍ ﻦﻴﻴﻟﺁ ﻱﺩﺍﺪﻋﺃ ﺩﺪﻋ</KillsMechanoids.description>
+  
+  
+  <MealsCooked.label>ﻡﺎﻌﻄﻟﺍ ﺩﺍﺪﻋﺇ ﻢﺗ</MealsCooked.label>
+  
+  <MealsCooked.description>ﺎﻬﺗﺩﺪﻋﺃ ﻲﺘﻟﺍ ﺕﺎﺒﺟﻮﻟﺍ ﺩﺪﻋ</MealsCooked.description>
+  
+  
+  <MessesCleaned.label>.ﺔﻣﺎﻤﻘﻟﺍ ﻒﻴﻈﻨﺗ ﻢﺗ</MessesCleaned.label>
+  
+  <MessesCleaned.description>.ﺎﻬﻔﻴﻈﻨﺘﺑ ﺖﻤﻗ ﻲﺘﻟﺍ ﺥﺎﺳﻭﻷﺍ ﺩﺪﻋ</MessesCleaned.description>
+  
+  
+  <NutritionEaten.label>ﻪﻟﻭﺎﻨﺗ ﻢﺗ</NutritionEaten.label>
+  
+  <NutritionEaten.description>.ﻪﺘﻟﻭﺎﻨﺗ ﻱﺬﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺩﺪﻋ</NutritionEaten.description>
+  
+  
+  <OperationsPerformed.label>ﺔﻴﺒﻄﻟﺍ ﺕﺍﺀﺍﺮﺟﻹﺍ ﺀﺍﺮﺟﺇ ﻯﺮﺟ</OperationsPerformed.label>
+  
+  <OperationsPerformed.description>.ﺎﻬﺘﻳﺮﺟﺃ ﻲﺘﻟﺍ ﺔﻴﺒﻄﻟﺍ ﺕﺍﺀﺍﺮﺟﻹﺍ ﺩﺪﻋ</OperationsPerformed.description>
+  
+  
+  <OperationsReceived.label>ﻲﺒﻄﻟﺍ ﺀﺍﺮﺟﻻﺍ ﻞﻴﺟﺄﺗ ﻢﺗ</OperationsReceived.label>
+  
+  <OperationsReceived.description>.ﻲﻟ ﺎﻬﺘﻳﺮﺟﺃ ﻲﺘﻟﺍ ﺔﻴﺒﻄﻟﺍ ﺕﺍﺀﺍﺮﺟﻹﺍ ﺩﺪﻋ</OperationsReceived.description>
+  
+  
+  <PawnsDowned.label>ﻥﻮﺑﺭﺎﺤﻣ</PawnsDowned.label>
+  
+  <PawnsDowned.description>.ﺎﻬﻠﺘﻘﺑ ﺖﻤﻗ ﻲﺘﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﺩﺪﻋ</PawnsDowned.description>
+  
+  
+  <PawnsDownedAnimals.label>.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻞﺘﻗ ﻢﺗ</PawnsDownedAnimals.label>
+  
+  <PawnsDownedAnimals.description>.ﺎﻬﻠﺘﻘﺑ ﺖﻤﻗ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺩﺪﻋ</PawnsDownedAnimals.description>
+  
+  
+  <PawnsDownedHumanlikes.label>ﺺﺨﺷ ﻝﺎﺘﻗ ﻢﺗ</PawnsDownedHumanlikes.label>
+  
+  <PawnsDownedHumanlikes.description>ﻢﻬﺘﻠﺗﺎﻗ ﺹﺎﺨﺷﺃ ﺩﺪﻋ</PawnsDownedHumanlikes.description>
+  
+  
+  <PawnsDownedMechanoids.label>ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺔﻤﻳﺰﻫ ﻢﺗ</PawnsDownedMechanoids.label>
+  
+  <PawnsDownedMechanoids.description>.ﻢﻬﻠﺘﻘﺑ ﺖﻤﻗ ﻦﻳﺬﻟﺍ ﺕﺎﺗﻮﺑﻭﺮﻟﺍ ﺩﺪﻋ</PawnsDownedMechanoids.description>
+  
+  
+  <PeopleCaptured.label>.ﺮﺸﺒﻟﺍ ﻰﻠﻋ ﺀﻼﻴﺘﺳﻻﺍ ﻢﺗ</PeopleCaptured.label>
+  
+  <PeopleCaptured.description>ﻢﻬﺗﺮﺳﺃ ﻦﻳﺬﻟﺍ ﺹﺎﺨﺷﻷﺍ ﺩﺪﻋ</PeopleCaptured.description>
+  
+  
+  <PlantsHarvested.label>ﺔﻌﻤﺠﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺩﺪﻋ</PlantsHarvested.label>
+  
+  <PlantsHarvested.description>ﺎﻬﺘﻌﻤﺟ ﻲﺘﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺩﺪﻋ</PlantsHarvested.description>
+  
+  
+  <PlantsSown.label>.ﺕﺎﺗﺎﺒﻨﻟﺍ ﺔﻋﺍﺭﺯ ﻢﺗ</PlantsSown.label>
+  
+  <PlantsSown.description>.ﺎﻬﺘﻋﺭﺯ ﻲﺘﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺩﺪﻋ</PlantsSown.description>
+  
+  
+  <PrisonersChatted.label>ﻯﺮﺳﻷﺍ ﻊﻣ ﺕﺎﺛﺩﺎﺤﻣ</PrisonersChatted.label>
+  
+  <PrisonersChatted.description>.ﺮﻴﺳﻷﺍ ﻊﻣ ﻲﺗﺎﺛﺩﺎﺤﻣ ﺩﺪﻋ</PrisonersChatted.description>
+  
+  
+  <PrisonersRecruited.label>.ﻯﺮﺳﻷﺍ ﺪﻴﻨﺠﺗ ﻢﺗ</PrisonersRecruited.label>
+  
+  <PrisonersRecruited.description>.ﻢﻬﺗﺪﻨﺟ ﻦﻳﺬﻟﺍ ﻯﺮﺳﻷﺍ ﺩﺪﻋ</PrisonersRecruited.description>
+  
+  
+  <ResearchPointsResearched.label>ﺚﺤﺒﻟﺍ ﻁﺎﻘﻧ</ResearchPointsResearched.label>
+  
+  <ResearchPointsResearched.description>ﺎﻬﻴﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻢﺗ ﻲﺘﻟﺍ ﺚﺤﺒﻟﺍ ﻁﺎﻘﻧ ﺩﺪﻋ
+.ﻲﺗﺪﻋﺎﺴﻤﺑ</ResearchPointsResearched.description>
+  
+  
+  <ShotsFired.label>ﺕﺎﻗﻼﻃﺇ</ShotsFired.label>
+  
+  <ShotsFired.description>.ﺎﻬﻗﻼﻃﺈﺑ ﺖﻤﻗ ﻲﺘﻟﺍ ﺕﺎﻘﻠﻄﻟﺍ ﺩﺪﻋ</ShotsFired.description>
+  
+  
+  <SwitchesFlicked.label>ﺔﻗﺎﻓﻷﺍ ﻞﻳﺪﺒﺗ ﻢﺗ</SwitchesFlicked.label>
+  
+  <SwitchesFlicked.description>.ﺎﻬﻠﻳﻮﺤﺘﺑ ﺖﻤﻗ ﻲﺘﻟﺍ ﺢﻴﺗﺎﻔﻤﻟﺍ ﺩﺪﻋ</SwitchesFlicked.description>
+  
+  
+  <ThingsConstructed.label>ﺀﺎﻨﺒﻟﺍ ﻢﺗ</ThingsConstructed.label>
+  
+  <ThingsConstructed.description>.ﺎﻬﺋﺎﻨﺒﺑ ﺖﻤﻗ ﻲﺘﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ ﺩﺪﻋ</ThingsConstructed.description>
+  
+  
+  <ThingsCrafted.label>ﺮﺻﺎﻨﻌﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻊﻨﺻ ﻢﺗ</ThingsCrafted.label>
+  
+  <ThingsCrafted.description>.ﺎﻬﺘﻌﻨﺻ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺩﺪﻋ</ThingsCrafted.description>
+  
+  
+  <ThingsDeconstructed.label>ﺮﺻﺎﻨﻌﻟﺍ ﻚﻴﻜﻔﺗ ﻢﺗ</ThingsDeconstructed.label>
+  
+  <ThingsDeconstructed.description>.ﺔﻜﻜﻔﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺩﺪﻋ</ThingsDeconstructed.description>
+  
+  
+  <ThingsHauled.label>.ﺖﻠﻘﻧ ﺽﺍﺮﻏﺃ</ThingsHauled.label>
+  
+  <ThingsHauled.description>.ﺎﻬﺘﻠﻘﻧ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺩﺪﻋ</ThingsHauled.description>
+  
+  
+  <ThingsInstalled.label>ﺔﺘﺒﺜﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺩﺪﻋ</ThingsInstalled.label>
+  
+  <ThingsInstalled.description>.ﺎﻬﺘﻌﺿﻭ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺩﺪﻋ</ThingsInstalled.description>
+  
+  
+  <ThingsRepaired.label>ﺕﺎﺣﻼﺻﻹﺍ ﺀﺍﺮﺟﺇ ﻢﺗ</ThingsRepaired.label>
+  
+  <ThingsRepaired.description>.ﺎﻬﺣﻼﺻﺈﺑ ﺖﻤﻗ ﻲﺘﻟﺍ ﺕﺎﻴﻟﻵﺍ ﺩﺪﻋ</ThingsRepaired.description>
+  
+  
+  <ThingsUninstalled.label>ﺎﻬﻌﻴﻤﺠﺗ ﻚﻓ ﻢﺗ ﺮﺻﺎﻨﻌﻟﺍ</ThingsUninstalled.label>
+  
+  <ThingsUninstalled.description>.ﺎﻬﺒﻴﻛﺮﺗ ﻚﻔﺑ ﺖﻤﻗ ﻲﺘﻟﺍ ﺀﺎﻴﺷﻷﺍ ﺩﺪﻋ</ThingsUninstalled.description>
+  
+  
+  <TimesInMentalState.label>ﺏﺎﺼﻋﻷﺍ ﺕﺎﺑﻮﻧ ﻞﻤﺤﺗ ﻢﺗ</TimesInMentalState.label>
+  
+  <TimesInMentalState.description>.ﺎﻬﻟ ﺖﺿﺮﻌﺗ ﻲﺘﻟﺍ ﻲﺒﺼﻌﻟﺍ ﺭﺎﻴﻬﻧﻻﺍ ﺕﺎﺑﻮﻧ ﺩﺪﻋ</TimesInMentalState.description>
+  
+  
+  <TimesOnFire.label>ﺎﻬﺘﺠﻟﺎﻌﻣ ﺖﻤﺗ ﻖﺋﺍﺮﺤﻟﺍ</TimesOnFire.label>
+  
+  <TimesOnFire.description>.ﺭﺎﻨﻟﺍ ﻲﻓ ﺖﺸﻴﻌﺗ ﺓﺮﻣ ﻢﻛ</TimesOnFire.description>
+  
+  
+  <TimesTendedOther.label>.ﺔﻴﺒﻄﻟﺍ ﺓﺪﻋﺎﺴﻤﻟﺍ ﺮﻴﻓﻮﺗ ﻢﺗ</TimesTendedOther.label>
+  
+  <TimesTendedOther.description>ﺔﻴﺒﻄﻟﺍ ﺓﺪﻋﺎﺴﻤﻟﺍ ﻢﻳﺪﻘﺗ ﻲﻓ ﺖﻨﻴﻌﺗ ﺓﺮﻣ ﻢﻛ
+.ﺎﻣ ﺺﺨﺸﻟ</TimesTendedOther.description>
+  
+  
+  <TimesTendedTo.label>ﺔﻴﺒﻄﻟﺍ ﺔﻳﺎﻨﻌﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻢﺗ</TimesTendedTo.label>
+  
+  <TimesTendedTo.description>.ﻲﻟ ﺔﻴﺒﻄﻟﺍ ﺔﻳﺎﻋﺮﻟﺍ ﻢﻳﺪﻘﺗ ﻢﺗ ﺓﺮﻣ ﻢﻛ</TimesTendedTo.description>
+  
+</LanguageData>

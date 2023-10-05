@@ -1,0 +1,100 @@
+<LanguageData>
+  
+  
+  <Alphabeavers.label>ﺱﺮﺒﻴﺑﺎﻛﺎﻔﻟﻷﺍ</Alphabeavers.label>
+  
+  
+  <AmbrosiaSprout.label>ﺓﺭﺎﻀﻟﺍ ﺏﺎﺸﻋﻷﺍ</AmbrosiaSprout.label>
+  
+  <AmbrosiaSprout.letterLabel>ﺔﻠﻠﺴﺘﻤﻟﺍ ﺎﻳﺯﻭﺮﺒﻣﻷﺍ ﺕﺎﺗﺎﺒﻧ</AmbrosiaSprout.letterLabel>
+  
+  <AmbrosiaSprout.letterText>!ﻚﺑﺮﻗ ﺮﻬﻇ ﺎﻳﺯﻭﺮﺒﻣﻷﺎﺑ ﻑﻭﺮﻌﻤﻟﺍ ﺾﻣﺎﻐﻟﺍ ﻲﺋﺍﻮﺸﻌﻟﺍ ﺕﺎﺒﻧ
+ﻩﺭﺎﻤﺛ ﻊﻤﺟ ﻚﻨﻜﻤﻳ ﺞﻀﻨﻳ ﻰﺘﺣ ﺕﺮﺒﺻ ﺍﺫﺇ
+.ﺔﻔﻴﻔﺧ ﺓﺭﺪﺨﻣ ﺺﺋﺎﺼﺧ ﻚﻠﺘﻤﺗ ﻲﺘﻟﺍ ﺔﻳﺮﻐﻤﻟﺍﻭ ﺓﺬﻳﺬﻠﻟﺍ</AmbrosiaSprout.letterText>
+  
+  
+  <ColdSnap.label>ﺖﻗﻮﻟﺍ ﺕﺍﺪﻴﻤﺠﺗ</ColdSnap.label>
+  
+  <ColdSnap.letterLabel>ﺪﻴﻤﺠﺘﻟﺍ</ColdSnap.letterLabel>
+  
+  
+  <CropBlight.label>.ﺕﺎﺗﺎﺒﻨﻟﺍ ﺽﺮﻣ</CropBlight.label>
+  
+  
+  <FarmAnimalsWanderIn.label>ﺖﻤﻀﻧﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</FarmAnimalsWanderIn.label>
+  
+  
+  <Flashstorm.label>ﺔﻳﺪﻋﺭ ﺔﻔﺻﺎﻋ</Flashstorm.label>
+  
+  <Flashstorm.letterLabel>.ﺔﻳﺪﻋﺭ ﺔﻔﺻﺎﻋ</Flashstorm.letterLabel>
+  
+  
+  <HeatWave.label>ﺓﺭﺍﺮﺣ</HeatWave.label>
+  
+  <HeatWave.letterLabel>ﺓﺭﺍﺮﺤﻟﺍ</HeatWave.letterLabel>
+  
+  
+  <HerdMigration.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺓﺮﺠﻫ</HerdMigration.label>
+  
+  <HerdMigration.letterLabel>ﻥﻭﺮﺟﺎﻬﻳ {0}</HerdMigration.letterLabel> 
+  
+  <HerdMigration.letterText>ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺮﺟﺎﻬﺗ {0} ﻦﻣ ﺓﺮﻴﺒﻛ ﺔﻋﻮﻤﺠﻣ
+.ﻢﻬﺒﻀﻏ ﺮﻴﺜﺗ ﻢﻟ ﺎﻣ ﻙﻮﻤﺟﺎﻬﻳ ﻦﻟn\n\.ﺔﻨﻃﻮﺘﺴﻤﻟﺍ</HerdMigration.letterText>
+  
+  
+  <MeteoriteImpact.label>ﺏﺎﻬﺸﻟﺍ</MeteoriteImpact.label>
+  
+  <MeteoriteImpact.letterLabel>ﺏﺎﻬﺸﻟﺍ</MeteoriteImpact.letterLabel>
+  
+  <MeteoriteImpact.letterText>ﺭﻮﺜﻌﻟﺍ ﻦﻜﻤﻳ .ﻁﻮﺒﻬﻟﺍ ﺏﺮﻗ ﺮﻴﺒﻛ ﻙﺰﻴﻧ ﻂﻘﺳ
+ﻊﻗﻮﻣ ﻲﻓ {lookup: {0}; Case; 3} ﻰﻠﻋ
+.ﻁﻮﺒﻬﻟﺍ</MeteoriteImpact.letterText>
+  
+  
+  <PsychicDrone.label>ﺔﻤﻐﻤﻏ</PsychicDrone.label>
+  
+  
+  <PsychicSoothe.label>ﺀﻭﺪﻬﻟﺍ</PsychicSoothe.label>
+  
+  
+  <RansomDemand.label>ﺔﻳﺪﻔﻟﺍ ﺐﻠﻄﻣ</RansomDemand.label>
+  
+  <RansomDemand.letterLabel>ﺔﻳﺪﻓ ﺐﻠﻄﻣ</RansomDemand.letterLabel>
+  
+  
+  <RefugeePodCrash.label>ﺔﻟﻮﺴﺒﻜﻟﺍ ﻢﻄﺤﺗ</RefugeePodCrash.label>
+  
+  
+  <ResourcePodCrash.label>ﻦﺤﺸﻟﺍ ﺕﺎﻳﻭﺎﺣ</ResourcePodCrash.label>
+  
+  
+  <SelfTame.label>ﻥﺍﻮﻴﺤﻟﺍ ﻦﻴﺟﺪﺗ ﻢﺗ</SelfTame.label>
+  
+  
+  <ShortCircuit.label>ﺓﺮﺋﺍﺪﻟﺍ ﺓﺮﻴﺼﻗ</ShortCircuit.label>
+  
+  
+  <ThrumboPasses.label>ﻮﺒﻣﻭﺮﺗ</ThrumboPasses.label>
+  
+  
+  <ToxicFallout.label>ﻡﺎﺴﻟﺍ ﻝﻮﻄﻬﻟﺍ</ToxicFallout.label>
+  
+  <ToxicFallout.letterLabel>ﻡﺎﺳ ﻂﻗﺎﺴﺗ</ToxicFallout.letterLabel>
+  
+  
+  <VolcanicWinter.label>ﻲﻧﺎﻛﺮﺒﻟﺍ ﺀﺎﺘﺸﻟﺍ</VolcanicWinter.label>
+  
+  <VolcanicWinter.letterLabel>ﻲﻧﺎﻛﺮﺒﻟﺍ ﺀﺎﺘﺸﻟﺍ</VolcanicWinter.letterLabel>
+  
+  
+  <WandererJoin.label>ﺪﻳﺪﺠﺘﻟﺍ</WandererJoin.label>
+  
+  
+  <WildManWandersIn.label>ﺔﻳﺮﺒﻟﺍ</WildManWandersIn.label>
+  
+  <WildManWandersIn.letterLabel>{0}</WildManWandersIn.letterLabel>
+  
+  <WildManWandersIn.letterText>ﻰﻟﺇ ﺩﺎﻋ ﺺﺨﺷ ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﻰﻟﺇ ﻞﺧﺩ
+.ﻪﻀﻳﻭﺮﺗ ﺔﻟﻭﺎﺤﻣ ﻚﻨﻜﻤﻳ .'{0}' ﻪﻤﺳﺍ .ﺔﻳﺮﺒﻟﺍ ﺓﺎﻴﺤﻟﺍ</WildManWandersIn.letterText>
+  
+</LanguageData>

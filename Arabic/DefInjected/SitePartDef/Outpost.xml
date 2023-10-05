@@ -1,0 +1,14 @@
+<LanguageData>
+  
+  
+  <Outpost.label>ﺮﻜﺴﻌﻣ</Outpost.label>
+  
+  <Outpost.description>.ﺮﻴﻐﺻ ﺔﺳﺍﺮﺣ ﺮﻜﺴﻌﻣ</Outpost.description>
+  
+  <Outpost.approachingReportString>{lookup: {0}; Case; 3} ﻢﺟﺎﻬﻳ</Outpost.approachingReportString>
+  
+  <Outpost.approachOrderString>{lookup: {0}; Case; 3} ﻰﻠﻋ ﻡﻮﺠﻫ</Outpost.approachOrderString>
+  
+  <Outpost.arrivedLetter>.ﻭﺪﻌﻟﺍ ﺮﻜﺴﻌﻣ ﻊﻘﻳ ﺎﻨﻫ</Outpost.arrivedLetter>
+  
+</LanguageData>

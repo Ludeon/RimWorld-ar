@@ -1,0 +1,29 @@
+<LanguageData>
+  
+  
+  <Bullet_ChargeLance.label>ﺔﻗﺎﻃ ﺎﺼﻋ</Bullet_ChargeLance.label>
+  
+  
+  <Bullet_ChargeRifle.label>ﻞﻄﺳ</Bullet_ChargeRifle.label>
+  
+  
+  <Gun_ChargeLance.label>ﻱﻮﻗﺎﻄﻟﺍ ﺢﻣﺮﻟﺍ</Gun_ChargeLance.label>
+  
+  <Gun_ChargeLance.description>ﺔﻴﻗﺪﻨﺒﻟﺍ</Gun_ChargeLance.description>
+  
+  <Gun_ChargeLance.tools.barrel.label>ﺔﻗﺎﻄﻟﺍ ﺎﺼﻋ</Gun_ChargeLance.tools.barrel.label>
+  
+  <Gun_ChargeLance.verbs.Verb_Shoot.label>ﺔﻗﺎﻄﻟﺍ ﻢﻬﺳ</Gun_ChargeLance.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_ChargeRifle.label>ﺔﻗﺎﻃ ﻕﻼﻃﺇ</Gun_ChargeRifle.label>
+  
+  <Gun_ChargeRifle.description>ﺔﻗﺎﻃ ﺔﻴﻗﺪﻨﺑ</Gun_ChargeRifle.description>
+  
+  <Gun_ChargeRifle.tools.stock.label>.ﺔﻗﺎﻃ ﺕﺎﻨﺤﺸﺑ ﻞﻤﻌﺗ ﺔﻴﻗﺪﻨﺑ</Gun_ChargeRifle.tools.stock.label>
+  
+  <Gun_ChargeRifle.tools.barrel.label>ﺔﺤﺳﺎﻤﻟﺍ</Gun_ChargeRifle.tools.barrel.label>
+  
+  <Gun_ChargeRifle.verbs.Verb_Shoot.label>ﺔﻗﺎﻃ ﺔﻓﺫﺎﻗ</Gun_ChargeRifle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

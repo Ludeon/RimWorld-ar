@@ -1,0 +1,32 @@
+<LanguageData>
+  
+  
+  <BurnApparel.label>ﺲﺑﻼﻤﻟﺍ ﻕﺮﺣ</BurnApparel.label>
+  
+  <BurnApparel.description>ﺎﻴﺋﺎﻬﻧ ﺎﻬﻨﻣ ﺺﻠﺨﺘﻠﻟ ﺲﺑﻼﻤﻟﺍ ﻕﺮﺣﺍ</BurnApparel.description>
+  
+  <BurnApparel.jobString>ﺲﺑﻼﻤﻟﺍ ﻕﺮﺤﻳ</BurnApparel.jobString>
+  
+  
+  <BurnDrugs.label>ﺕﺍﺭﺪﺨﻤﻟﺍ ﻕﺮﺣﺍ</BurnDrugs.label>
+  
+  <BurnDrugs.description>.ﺎﻴﺋﺎﻬﻧ ﺎﻬﻨﻣ ﺺﻠﺨﺘﻠﻟ ﺕﺍﺭﺪﺨﻤﻟﺍ ﻕﺮﺣ</BurnDrugs.description>
+  
+  <BurnDrugs.jobString>ﺕﺍﺭﺪﺨﻤﻟﺍ ﻕﺮﺤﻳ</BurnDrugs.jobString>
+  
+  
+  <BurnWeapon.label>ﺡﻼﺴﻟﺍ ﻕﺮﺣ</BurnWeapon.label>
+  
+  <BurnWeapon.description>ﺎﻬﻨﻣ ﺺﻠﺨﺘﻠﻟ ﺎﻬﻴﻓ ﺏﻮﻏﺮﻤﻟﺍ ﺮﻴﻏ ﺔﺤﻠﺳﻷﺍ ﻕﺮﺣ
+.ﺎﻴﺋﺎﻬﻧ</BurnWeapon.description>
+  
+  <BurnWeapon.jobString>ﺔﺤﻠﺳﻷﺍ ﻕﺮﺤﻳ</BurnWeapon.jobString>
+  
+  
+  <CremateCorpse.label>ﺔﺜﺠﻟﺍ ﻕﺮﺣ</CremateCorpse.label>
+  
+  <CremateCorpse.description>.ﺎﻴﺋﺎﻬﻧ ﺎﻬﻨﻣ ﺺﻠﺨﺘﻠﻟ ﺔﺜﺠﻟﺍ ﻕﺮﺣ</CremateCorpse.description>
+  
+  <CremateCorpse.jobString>ﺔﺜﺠﻟﺍ ﻕﺮﺤﻳ</CremateCorpse.jobString>
+  
+</LanguageData>

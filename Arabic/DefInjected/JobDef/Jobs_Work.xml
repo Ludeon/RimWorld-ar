@@ -1,0 +1,199 @@
+<LanguageData>
+  
+  
+  <Arrest.reportString>TargetA ﻰﻠﻋ ﺾﺒﻘﻳ</Arrest.reportString>
+  
+  
+  <BuildRoof.reportString>ﻒﻘﺳ ﺀﺎﻨﺒﺑ ﻡﻮﻘﻳ</BuildRoof.reportString>
+  
+  
+  <Capture.reportString>TargetA ﻱﻮﻬﺘﺴﻳ</Capture.reportString>
+  
+  
+  <CarryDownedPawnDrafted.reportString>TargetA ﻒﻄﺨﻳ</CarryDownedPawnDrafted.reportString>
+  
+  
+  <CarryDownedPawnToExit.reportString>ﻪﻗﺮﺴﻳﻭ TargetA ﻢﺟﺎﻬﻳ</CarryDownedPawnToExit.reportString>
+  
+  
+  <CarryToCryptosleepCasket.reportString>ﻲﻓ ﻲﻠﺧﺍﺪﻟﺍ ﺐﻴﻘﻨﻟﺍ ﺕﻮﺑﺎﺗ ﻲﻓ TargetA ﻞﻤﺤﻳ
+.ﺝﺎﻓﻮﻛﺭﺎﺴﻟﺍ</CarryToCryptosleepCasket.reportString>
+  
+  
+  <CarryToCryptosleepCasketDrafted.reportString>.ﺔﻨﺳﻮﺘﺒﻳﺮﻛ ﺕﻮﺑﺎﺗ ﻲﻓ TargetA ﻞﻤﺤﻳ</CarryToCryptosleepCasketDrafted.reportString>
+  
+  
+  <CarryToPrisonerBedDrafted.reportString>TargetA ﻰﻠﻋ ﺾﺒﻘﻳ</CarryToPrisonerBedDrafted.reportString>
+  
+  
+  <Clean.reportString>TargetA ﺔﻟﺍﺯﺈﺑ ﻡﻮﻘﻳ</Clean.reportString>
+  
+  
+  <CutPlant.reportString>TargetA ﻊﻄﻘﻳ</CutPlant.reportString>
+  
+  
+  <CutPlantDesignated.reportString>TargetA ﻢﺟﺎﻬﻳ</CutPlantDesignated.reportString>
+  
+  
+  <Deconstruct.reportString>TargetA ﻚﻜﻔﻳ</Deconstruct.reportString>
+  
+  
+  <DeliverFood.reportString>TargetB ﻰﻟﺇ TargetA ﻞﻤﺤﻳ</DeliverFood.reportString>
+  
+  
+  <DoBill.reportString>.TargetA ـﻟ ﻡﺰﻠﻳ ﺎﻤﺑ ﻡﻮﻘﻳ</DoBill.reportString>
+  
+  
+  <EscortPrisonerToBed.reportString>TargetA ﺮﻴﺳﻷﺍ ﻖﻓﺍﺮﻳ</EscortPrisonerToBed.reportString>
+  
+  
+  <ExtractTree.reportString>TargetA ﺝﺮﺨﺘﺴﻳ</ExtractTree.reportString>
+  
+  
+  <FeedPatient.reportString>TargetA TargetB ﻢﻌﻄﻳ</FeedPatient.reportString>
+  
+  
+  <FinishFrame.reportString>TargetA ﻲﻨﺒﻳ</FinishFrame.reportString>
+  
+  
+  <FixBrokenDownBuilding.reportString>TargetA ﻲﻓ ﺔﻔﻟﺎﺘﻟﺍ ﺀﺍﺰﺟﻷﺍ ﻞﻳﺪﺒﺘﺑ ﻡﻮﻘﻳ</FixBrokenDownBuilding.reportString>
+  
+  
+  <GuiltyColonistExecution.reportString>TargetA ﻡﺍﺪﻋﺇ</GuiltyColonistExecution.reportString>
+  
+  
+  <Harvest.reportString>TargetA ﻊﻤﺠﺑ ﻡﻮﻘﻳ</Harvest.reportString>
+  
+  
+  <HarvestDesignated.reportString>TargetA ﻊﻤﺟ</HarvestDesignated.reportString>
+  
+  
+  <HaulToCell.reportString>TargetA ﻞﻤﺤﻳ</HaulToCell.reportString>
+  
+  
+  <HaulToContainer.reportString>TargetA ﻞﻤﺤﻳ</HaulToContainer.reportString>
+  
+  
+  <Hunt.reportString>TargetA ـﻟ ﺪﻴﺼﻟﺎﺑ ﻡﻮﻘﻳ</Hunt.reportString>
+  
+  
+  <Kidnap.reportString>TargetA ﻒﻄﺘﺨﻳ</Kidnap.reportString>
+  
+  
+  <Milk.reportString>TargetA ﻦﻣ ﺐﻠﺤﻟﺎﺑ ﻢﻗ</Milk.reportString>
+  
+  
+  <Mine.reportString>.TargetA ﺮﻔﺤﻳ</Mine.reportString>
+  
+  
+  <OperateDeepDrill.reportString>TargetA ﻡﺍﺪﺨﺘﺳﺎﺑ ﺮﻔﺤﻟﺎﺑ ﻡﻮﻘﻳ</OperateDeepDrill.reportString>
+  
+  
+  <OperateScanner.reportString>TargetA ﻡﺍﺪﺨﺘﺳﺈﺑ ﻲﺋﻮﻀﻟﺍ ﺢﺴﻤﻟﺎﺑ ﻡﻮﻘﻳ</OperateScanner.reportString>
+  
+  
+  <PaintBuilding.reportString>TargetA ﻢﺳﺮﻳ</PaintBuilding.reportString>
+  
+  
+  <PaintFloor.reportString>TargetA ﻢﺳﺮﻳ</PaintFloor.reportString>
+  
+  
+  <PlaceNoCostFrame.reportString>TargetA ﻲﻨﺒﻳ</PlaceNoCostFrame.reportString>
+  
+  
+  <PlantSeed.reportString>TargetA ﻉﺭﺰﻳ</PlantSeed.reportString>
+  
+  
+  <PrisonerAttemptRecruit.reportString>TargetA ﺪﻴﻨﺠﺗ ﻝﻭﺎﺤﻳ</PrisonerAttemptRecruit.reportString>
+  
+  
+  <PrisonerExecution.reportString>TargetA ﻡﺍﺪﻋﻹﺍ</PrisonerExecution.reportString>
+  
+  
+  <ReleaseAnimalToWild.reportString>TargetA ﺡﺍﺮﺳ ﻖﻠﻄﻳ</ReleaseAnimalToWild.reportString>
+  
+  
+  <ReleasePrisoner.reportString>TargetA ﺡﺍﺮﺳ ﻖﻠﻄﻳ</ReleasePrisoner.reportString>
+  
+  
+  <RemoveFloor.reportString>ﺀﺎﻄﻐﻟﺍ ﻞﻳﺰﻳ</RemoveFloor.reportString>
+  
+  
+  <RemovePaintBuilding.reportString>TargetA ﻦﻣ ﺀﻼﻄﻟﺍ ﻞﻳﺰﻳ</RemovePaintBuilding.reportString>
+  
+  
+  <RemovePaintFloor.reportString>.TargetA ﻦﻣ ﻥﺎﻫﺪﻟﺍ ﻞﻳﺰﻳ</RemovePaintFloor.reportString>
+  
+  
+  <RemoveRoof.reportString>ﻒﻘﺴﻟﺍ ﻢﻄﺤﺘﻳ</RemoveRoof.reportString>
+  
+  
+  <Repair.reportString>TargetA ﺢﻠﺼﻳ</Repair.reportString>
+  
+  
+  <Replant.reportString>TargetA ﻉﺭﺰﻳ</Replant.reportString>
+  
+  
+  <Rescue.reportString>TargetA ﻑﺪﻬﻟﺍ ﺬﻘﻨﻳ</Rescue.reportString>
+  
+  
+  <Research.reportString>ﻲﻓ ﺚﺤﺒﻳ</Research.reportString>
+  
+  
+  <RopeRoamerToHitchingPost.reportString>.ﻦﻴﻴﻌﺘﻟﺍ ﻊﻗﻮﻣ ﻰﻟﺇ TargetA ﺩﻮﻘﺗ</RopeRoamerToHitchingPost.reportString>
+  
+  
+  <RopeRoamerToUnenclosedPen.reportString>TargetC ﻰﻟﺇ TargetA ﺩﻮﻘﻳ</RopeRoamerToUnenclosedPen.reportString>
+  
+  
+  <RopeToPen.reportString>TargetC ﻰﻟﺇ TargetA ﺩﻮﻘﻳ</RopeToPen.reportString>
+  
+  
+  <Shear.reportString>TargetA ﺐﺗﺮﻳ</Shear.reportString>
+  
+  
+  <Slaughter.reportString>TargetA ﺏﺮﻀﻳ</Slaughter.reportString>
+  
+  
+  <SmoothFloor.reportString>ﻑﺮﻐﻟﺍ ﺔﻴﺿﺭﺃ ﻱﻮﺘﺴﻣ</SmoothFloor.reportString>
+  
+  
+  <SmoothWall.reportString>ﻥﺍﺭﺪﺠﻟﺍ ﻱﺫﺎﺤﻳ</SmoothWall.reportString>
+  
+  
+  <Sow.reportString>TargetA ﻉﺭﺰﻳ</Sow.reportString>
+  
+  
+  <Steal.reportString>TargetA ﻕﺮﺴﻳ</Steal.reportString>
+  
+  
+  <StudyBuilding.reportString>TargetA ﺱﺭﺪﻳ</StudyBuilding.reportString>
+  
+  
+  <TakeDownedPawnToBedDrafted.reportString>.ﺮﻳﺮﺴﻟﺍ ﻰﻠﻋ ﻪﻌﺿﻮﺑ TargetA ﻡﻮﻘﻳ</TakeDownedPawnToBedDrafted.reportString>
+  
+  
+  <TakeToBedToOperate.reportString>ﺮﻳﺮﺴﻟﺍ ﻰﻠﻋ TargetA ﻞﻴﻤﺤﺘﺑ ﻡﻮﻘﻳ</TakeToBedToOperate.reportString>
+  
+  
+  <TakeWoundedPrisonerToBed.reportString>ﺔﻳﺎﻨﻌﺑ TargetA ﺏﺎﺼﻤﻟﺍ ﺮﻴﺳﻷﺍ ﻞﻣﺎﻌﻳ</TakeWoundedPrisonerToBed.reportString>
+  
+  
+  <Tame.reportString>TargetA ﺽﻭﺮﻳ</Tame.reportString>
+  
+  
+  <TendPatient.reportString>TargetA ﺞﻟﺎﻌﻳ</TendPatient.reportString>
+  
+  
+  <Train.reportString>.ﺐﻳﺭﺪﺘﻟﺍ ﻲﻓ TargetA ﻲﻘﺘﻠﻳ</Train.reportString>
+  
+  
+  <Uninstall.reportString>TargetA ﻚﻜﻔﻳ</Uninstall.reportString>
+  
+  
+  <Unrope.reportString>TargetA ﺮﻳﺮﺤﺘﺑ ﻡﻮﻘﻳ</Unrope.reportString>
+  
+  
+  <UseCommsConsole.reportString>ﻞﺻﺍﻮﺘﻟﺍ ﺓﺪﺣﻭ ﻡﺪﺨﺘﺴﻳ</UseCommsConsole.reportString>
+  
+</LanguageData>

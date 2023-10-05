@@ -1,0 +1,111 @@
+<LanguageData>
+  
+  
+  <Beauty.label>ﻝﺎﻤﺟ</Beauty.label>
+  
+  <Beauty.scoreStages.hideous.label>ﺔﻌﺸﺑ</Beauty.scoreStages.hideous.label>
+  
+  <Beauty.scoreStages.ugly.label>ﻊﻴﻈﻓ</Beauty.scoreStages.ugly.label>
+  
+  <Beauty.scoreStages.neutral.label>ﺪﻴﺟ</Beauty.scoreStages.neutral.label>
+  
+  <Beauty.scoreStages.pretty.label>ﺍﺪﺟ ﻞﻴﻤﺟ</Beauty.scoreStages.pretty.label>
+  
+  <Beauty.scoreStages.beautiful.label>ﻞﻴﻤﺟ</Beauty.scoreStages.beautiful.label>
+  
+  <Beauty.scoreStages.very_beautiful.label>ﺍﺪﺟ ﻞﻴﻤﺟ</Beauty.scoreStages.very_beautiful.label>
+  
+  <Beauty.scoreStages.extremely_beautiful.label>ﺯﺎﺘﻤﻣ</Beauty.scoreStages.extremely_beautiful.label>
+  
+  <Beauty.scoreStages.unbelievably_beautiful.label>ﺶﻫﺪﻣ</Beauty.scoreStages.unbelievably_beautiful.label>
+  
+  
+  <Cleanliness.label>ﺔﻓﺎﻈﻨﻟﺍ</Cleanliness.label>
+  
+  <Cleanliness.scoreStages.very_dirty.label>.ﺍﺪﺟ ﺦﺴﺘﻣ</Cleanliness.scoreStages.very_dirty.label>
+  
+  <Cleanliness.scoreStages.dirty.label>ﺭﺬﻗ</Cleanliness.scoreStages.dirty.label>
+  
+  <Cleanliness.scoreStages.slightly_dirty.label>ﻼﻴﻠﻗ ﺔﺨﺴﺘﻣ</Cleanliness.scoreStages.slightly_dirty.label>
+  
+  <Cleanliness.scoreStages.clean.label>ﻒﻴﻈﻧ</Cleanliness.scoreStages.clean.label>
+  
+  <Cleanliness.scoreStages.sterile.label>ﺔﻤﻘﻌﻣﻭ ﺔﻔﻴﻈﻧ</Cleanliness.scoreStages.sterile.label>
+  
+  
+  <FoodPoisonChance.label>.ﻡﺎﻌﻄﻟﺍ ﻢﻤﺴﺗ ﺔﺻﺮﻓ</FoodPoisonChance.label>
+  
+  
+  <GraveVisitingJoyGainFactor.label>ﺭﻮﺒﻘﻟﺍ ﺓﺭﺎﻳﺯ ﻦﻣ ﻉﺎﺒﺷﻹﺍ ﻞﻳﺪﻌﺗ</GraveVisitingJoyGainFactor.label>
+  
+  
+  <Impressiveness.label>ﻉﺎﺒﻄﻧﻻﺍ</Impressiveness.label>
+  
+  <Impressiveness.scoreStages.awful.label>ﺯﺍﺰﺌﻤﺷﻼﻟ ﺮﻴﺜﻣ</Impressiveness.scoreStages.awful.label>
+  
+  <Impressiveness.scoreStages.dull.label>ﺔﺒﻋﺮﻣ</Impressiveness.scoreStages.dull.label>
+  
+  <Impressiveness.scoreStages.mediocre.label>ﻯﻮﺘﺴﻤﻟﺍ ﻂﺳﻮﺘﻣ</Impressiveness.scoreStages.mediocre.label>
+  
+  <Impressiveness.scoreStages.decent.label>ﻊﺋﺍﺭ</Impressiveness.scoreStages.decent.label>
+  
+  <Impressiveness.scoreStages.slightly_impressive.label>ﺪﻴﺟ</Impressiveness.scoreStages.slightly_impressive.label>
+  
+  <Impressiveness.scoreStages.somewhat_impressive.label>ﺯﺎﺘﻤﻣ</Impressiveness.scoreStages.somewhat_impressive.label>
+  
+  <Impressiveness.scoreStages.very_impressive.label>ﺯﺎﺘﻤﻣ</Impressiveness.scoreStages.very_impressive.label>
+  
+  <Impressiveness.scoreStages.extremely_impressive.label>ﻊﺋﺍﺭ</Impressiveness.scoreStages.extremely_impressive.label>
+  
+  <Impressiveness.scoreStages.unbelievably_impressive.label>ﻊﺋﺍﺭ</Impressiveness.scoreStages.unbelievably_impressive.label>
+  
+  <Impressiveness.scoreStages.wondrously_impressive.label>ﻊﺋﺍﺭ</Impressiveness.scoreStages.wondrously_impressive.label>
+  
+  
+  <InfectionChanceFactor.label>ﻯﻭﺪﻌﻟﺍ ﺙﻭﺪﺣ ﺔﺻﺮﻓ</InfectionChanceFactor.label>
+  
+  
+  <ResearchSpeedFactor.label>ﺮﻳﻮﻄﺘﻟﺍﻭ ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ</ResearchSpeedFactor.label>
+  
+  
+  <Space.label>ﺀﺎﻀﻔﻟﺍ</Space.label>
+  
+  <Space.scoreStages.cramped.label>ﻖﻴﺿ</Space.scoreStages.cramped.label>
+  
+  <Space.scoreStages.rather_tight.label>ﺮﻴﺒﻛ ﻡﺎﺣﺩﺯﺍ ﺪﺟﻮﻳ</Space.scoreStages.rather_tight.label>
+  
+  <Space.scoreStages.averagesized.label>ﺔﻄﺳﻮﺘﻣ</Space.scoreStages.averagesized.label>
+  
+  <Space.scoreStages.somewhat_spacious.label>ﻲﻔﻜﻳ ﺎﻤﺑ ﻊﺳﺍﻭ</Space.scoreStages.somewhat_spacious.label>
+  
+  <Space.scoreStages.quite_spacious.label>ﺔﻌﺳﺍﻭ</Space.scoreStages.quite_spacious.label>
+  
+  <Space.scoreStages.very_spacious.label>ﺀﺎﻀﻔﻟﺍ ﻦﻣ ﺮﻴﺜﻛ</Space.scoreStages.very_spacious.label>
+  
+  <Space.scoreStages.extremely_spacious.label>ﺍﺪﺟ ﺔﻌﺳﺍﻭ ﺔﺣﺎﺴﻣ</Space.scoreStages.extremely_spacious.label>
+  
+  
+  <SurgerySuccessChanceCleanlinessFactor.label>ﺔﻴﻠﻤﻌﻟﺎﺑ ﺔﺻﺎﺨﻟﺍ ﺔﻓﺎﻈﻨﻟﺍ ﻑﻭﺮﻇ ﻰﻠﻋ ﺕﻼﻳﺪﻌﺗ</SurgerySuccessChanceCleanlinessFactor.label>
+  
+  
+  <Wealth.label>ﺓﻭﺮﺜﻟﺍ</Wealth.label>
+  
+  <Wealth.scoreStages.impoverished.label>.ﺮﻴﻘﻓ</Wealth.scoreStages.impoverished.label>
+  
+  <Wealth.scoreStages.somewhat_poor.label>ﻯﻮﺘﺤﻤﻟﺍ ﻞﻴﻠﻗ</Wealth.scoreStages.somewhat_poor.label>
+  
+  <Wealth.scoreStages.mediocre.label>ﺓﺩﻮﺠﻟﺍ ﻂﺳﻮﺘﻣ</Wealth.scoreStages.mediocre.label>
+  
+  <Wealth.scoreStages.somewhat_rich.label>ﻱﺮﺛ ﺎﺒﻳﺮﻘﺗ</Wealth.scoreStages.somewhat_rich.label>
+  
+  <Wealth.scoreStages.rich.label>ﻲﻨﻏ</Wealth.scoreStages.rich.label>
+  
+  <Wealth.scoreStages.luxurious.label>ﺮﺧﺎﻓ</Wealth.scoreStages.luxurious.label>
+  
+  <Wealth.scoreStages.very_luxurious.label>ﻢﺨﻓ ﺍﺪﺟ</Wealth.scoreStages.very_luxurious.label>
+  
+  <Wealth.scoreStages.extremely_luxurious.label>ﻕﺪﺼﻳ ﻻ ﻞﻜﺸﺑ ﻊﺋﺍﺭ</Wealth.scoreStages.extremely_luxurious.label>
+  
+  <Wealth.scoreStages.unbelievably_luxurious.label>.ﻕﻮﺒﺴﻣ ﺮﻴﻏ ﺀﺍﺮﺜﺑ ﺎﻫﺭﻮﺼﺗ ﻦﻜﻤﻳ ﻻ</Wealth.scoreStages.unbelievably_luxurious.label>
+  
+</LanguageData>

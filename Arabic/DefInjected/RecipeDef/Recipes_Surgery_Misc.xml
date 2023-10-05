@@ -1,0 +1,24 @@
+<LanguageData>
+  
+  
+  <Anesthetize.label>ﺮﻳﺪﺨﺘﻟﺍ</Anesthetize.label>
+  
+  <Anesthetize.description>.ﺓﺮﻓﻮﺘﻤﻟﺍ ﺔﻴﺒﻄﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺮﻳﺪﺨﺗ ﻲﻓ ﻪﻠﺧﺩﺃ</Anesthetize.description>
+  
+  <Anesthetize.jobString>ﺮﻳﺪﺨﺘﻟﺍ ﻲﻓ ﻪﻠﺧﺪﻳ</Anesthetize.jobString>
+  
+  
+  <Euthanize.label>ﻢﻴﺣﺮﻟﺍ ﺭﺎﺤﺘﻧﻹﺍ</Euthanize.label>
+  
+  <Euthanize.description>.ﺎﻳﺯﺎﻧﺎﺜﻳﻹﺍ ﺀﺍﺮﺟﺇ</Euthanize.description>
+  
+  <Euthanize.jobString>ﺎﻳﺯﺎﻧﺎﺜﻳﻹﺍ ﺀﺍﺮﺟﺈﺑ ﻡﻮﻘﻳ</Euthanize.jobString>
+  
+  
+  <RemoveBodyPart.label>ﻢﺴﺠﻟﺍ ﻦﻣ ﺀﺰﺟ ﺔﻟﺍﺯﺇ</RemoveBodyPart.label>
+  
+  <RemoveBodyPart.description>.ﻢﺴﺠﻟﺍ ﻦﻣ ﺀﺰﺠﻟﺍ ﻝﺯﺃ</RemoveBodyPart.description>
+  
+  <RemoveBodyPart.jobString>ﻢﺴﺠﻟﺍ ﻦﻣ ﺍﺀﺰﺟ ﻞﻳﺰﻳ</RemoveBodyPart.jobString>
+  
+</LanguageData>

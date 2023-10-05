@@ -1,0 +1,93 @@
+<LanguageData>
+  
+  
+  <Mech_CentipedeBlaster.label>ﺮﺘﺳﻼﺑ ﺪﻴﺒﻴﺘﻨﺳ</Mech_CentipedeBlaster.label>
+  
+  <Mech_CentipedeBlaster.description>ﻉﻭﺭﺪﻟﺍ .ﺓﺮﻴﻐﺻ ﻞﺟﺭﺃ ﻊﻣ ﺔﻠﻴﻘﺜﻟﺍ ﺔﻴﻟﺎﺘﻘﻟﺍ ﻦﻴﻴﻟﻵﺍ
+ﺪﺿ ﺍﺪﺟ ﺔﻟﺎﻌﻓ ﺎﻬﻠﻌﺠﺗ ﺔﻳﺭﺎﻨﻟﺍ ﺓﻮﻘﻟﺍﻭ ﺔﻠﻴﻘﺜﻟﺍ
+ﻲﻬﻓ ، ﻚﻟﺫ ﻊﻣﻭ .ﺔﺘﺑﺎﺜﻟﺍ ﻉﺎﻓﺪﻟﺍ ﺕﺎﻋﻮﻤﺠﻣ
+."ﺏﺮﻫﻭ ﺏﺮﺿ" ﻚﻴﺘﻜﺘﺑ ﺔﻠﻘﻨﺘﻤﻟﺍ ﺕﺍﺪﺣﻮﻟﺍ ﻡﺎﻣﺃ ﺔﻔﻴﻌﺿ</Mech_CentipedeBlaster.description>
+  
+  <Mech_CentipedeBlaster.tools.head.label>ﺱﺃﺮﻟﺍ</Mech_CentipedeBlaster.tools.head.label>
+  
+  
+  <Mech_CentipedeBurner.label>ﺐﻬﻟ ﻊﻓﺪﻤﺑ ﺪﻴﺒﻴﺘﻨﺳ</Mech_CentipedeBurner.label>
+  
+  <Mech_CentipedeBurner.description>ﻙﺮﺤﺘﺗ ﺓﺮﻴﻐﺼﻟﺍ ﻞﺟﺭﻷﺍ ﺕﺍﺫ ﺔﻠﻴﻘﺜﻟﺍ ﺔﻴﻟﺎﺘﻘﻟﺍ ﺕﻻﻵﺍ
+ﺔﻟﺎﻌﻓ ﺎﻬﻠﻌﺠﺗ ﺔﻳﺭﺎﻨﻟﺍ ﺓﻮﻘﻟﺍﻭ ﺔﻠﻴﻘﺜﻟﺍ ﻉﻭﺭﺪﻟﺍ .ﻞﻘﺜﺑ
+،ﻚﻟﺫ ﻊﻣﻭ .ﺔﺘﺑﺎﺜﻟﺍ ﻉﺎﻓﺪﻟﺍ ﻊﻴﻣﺎﺠﻣ ﺪﺿ ﺍﺪﺟ
+ﺔﻴﺠﻴﺗﺍﺮﺘﺳﻻﺍ ﺕﺍﺫ ﺔﻛﺮﺤﺘﻤﻟﺍ ﻕﺮﻔﻟﺍ ﻡﺎﻣﺃ ﺔﻔﻴﻌﺿ ﻲﻬﻓ
+."ﺏﻭﺮﻫﻭ ﺏﺮﺿ"</Mech_CentipedeBurner.description>
+  
+  <Mech_CentipedeBurner.tools.head.label>ﺱﺃﺮﻟﺍ</Mech_CentipedeBurner.tools.head.label>
+  
+  
+  <Mech_CentipedeGunner.label>ﺭﺰﻨﺠﻣ ﻲﻜﻴﺗﺎﻣﻮﺗﺃ ﻊﻓﺪﻣ</Mech_CentipedeGunner.label>
+  
+  <Mech_CentipedeGunner.description>ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﺔﻄﺳﺍﻮﺑ ﻙﺮﺤﺘﺗ ،ﺔﻠﻴﻘﺜﻟﺍ ﺔﻴﻟﺎﺘﻘﻟﺍ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ
+ﺎﻬﻠﻌﺠﺗ ﺔﻳﺭﺎﻨﻟﺍ ﺎﻬﺗﻮﻗﻭ ﺔﻠﻴﻘﺜﻟﺍ ﺎﻬﻋﻭﺭﺩ .ﺓﺮﻴﻐﺼﻟﺍ ﻞﺟﺭﻷﺍ
+ﻊﻣﻭ .ﻦﻴﺘﺑﺎﺜﻟﺍ ﻦﻴﻌﻓﺍﺪﻤﻟﺍ ﺕﺎﻋﻮﻤﺠﻣ ﺪﺿ ﺍﺪﺟ ﺔﻟﺎﻌﻓ
+ﻚﻴﺘﻜﺘﺑ ﺔﻠﻘﻨﺘﻤﻟﺍ ﺕﺍﺪﺣﻮﻟﺍ ﻡﺎﻣﺃ ﺔﻔﻴﻌﺿ ﻲﻬﻓ ،ﻚﻟﺫ
+."ﺏﺮﻫﻭ ﺏﺮﺿ"</Mech_CentipedeGunner.description>
+  
+  <Mech_CentipedeGunner.tools.head.label>ﺱﺃﺭ</Mech_CentipedeGunner.tools.head.label>
+  
+  
+  <Mech_Lancer.label>ﻥﻻﻭﺃ</Mech_Lancer.label>
+  
+  <Mech_Lancer.description>ﺕﺎﺳﺎﺴﺤﺑ ﺓﺰﻬﺠﻣ ،ﻥﺎﺴﻧﻹﺍ ﻢﺠﺤﺑ ﺔﻴﺑﺮﺤﻟﺍ ﻦﻴﻴﻟﻵﺍ ﺕﺍﻮﻗ
+ﻒﻌﺿ .ﺪﻌﺑ ﻦﻋ ﻝﺎﺘﻘﻠﻟ ﺔﻴﻟﺎﺜﻣ ﺔﻤﺨﺿ ﺔﻳﺮﺼﺑ
+ﻭﻭﺫ ﻥﻮﺑﺭﺎﺤﻤﻟﺍ ﻑﺮﻌﻳ .ﺔﺒﻳﺮﻘﻟﺍ ﻙﺭﺎﻌﻤﻟﺍ ﻲﻓ ﻢﻬﺘﻴﻟﺎﻌﻓ
+ﺔﻴﺠﻴﺗﺍﺮﺘﺳﺍ ﺮﺜﻛﺃ ﻥﺃ ﻦﻴﻴﻟﻵﺍ ﺏﻭﺮﺣ ﻲﻓ ﺓﺮﺒﺨﻟﺍ
+.ﻲﻬﺟﺍﻮﻟﺍ ﻡﻮﺠﻬﻟﺍ ﻲﻫ ﺎﺒﻟﺎﻏ ﺔﻴﻨﻣﺃ</Mech_Lancer.description>
+  
+  <Mech_Lancer.tools.left_fist.label>ﻯﺮﺴﻴﻟﺍ ﺔﻀﺒﻘﻟﺍ</Mech_Lancer.tools.left_fist.label>
+  
+  <Mech_Lancer.tools.right_fist.label>ﻰﻨﻤﻴﻟﺍ ﺔﻀﺒﻘﻟﺍ</Mech_Lancer.tools.right_fist.label>
+  
+  <Mech_Lancer.tools.head.label>ﺱﺃﺮﻟﺍ</Mech_Lancer.tools.head.label>
+  
+  
+  <Mech_Pikeman.label>ﻥﻮﺟﺍﺭﺩ</Mech_Pikeman.label>
+  
+  <Mech_Pikeman.description>ﺕﺍﺫ ﺔﺠﻋﺰﻣﻭ ﺔﻔﻠﻜﻣ ﺔﻴﻟﺎﺘﻗ ﺓﺪﺣﻭ :ﻥﻮﺟﺍﺭﺩ ﻥﻭﺮﻳﺃ
+ﺕﺎﻓﺎﺴﻣ ﻰﻠﻋ ﺔﺤﻠﺳﻸﻟ ﺔﺼﻨﻤﻛ ﻡﺪﺨﺘﺴﺗ ،ﻞﺟﺭﺃ ﺓﺪﻋ
+ﺎﻬﻨﻜﻟ ،ﺓﺪﻴﻌﺑ ﺕﺎﻓﺎﺴﻣ ﻰﻠﻋ ﺍﺪﺟ ﺔﻟﺎﻌﻓ .ﺓﺪﻴﻌﺑ
+.ﺔﺒﻳﺮﻘﻟﺍ ﻙﺭﺎﻌﻤﻟﺍ ﻲﻓﻭ ﺔﺒﻳﺮﻘﻟﺍ ﺕﺎﻓﺎﺴﻤﻟﺍ ﻰﻠﻋ ﺔﻔﻴﻌﺿ
+ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺍﻮﺑﺭﺎﺣ ﻦﻳﺬﻟﺍ ﺀﺎﺑﻵﺍ ﻦﻴﻠﺗﺎﻘﻤﻟﺍ ﺔﺿﺎﺤﺘﺳﺍ ﻢﺘﻴﻓ
+ﻲﻫ ﻢﻬﻌﻣ ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺔﻨﻣﻵﺍ ﺔﻓﺎﺴﻤﻟﺍ ﻥﺄﺑ
+.ﺓﺪﺘﻤﻤﻟﺍ ﻉﺍﺭﺬﻟﺍ ﻝﻮﻃ</Mech_Pikeman.description>
+  
+  <Mech_Pikeman.tools.front_left_leg.label>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</Mech_Pikeman.tools.front_left_leg.label>
+  
+  <Mech_Pikeman.tools.front_right_leg.label>.ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</Mech_Pikeman.tools.front_right_leg.label>
+  
+  <Mech_Pikeman.tools.head.label>ﺱﺃﺭ</Mech_Pikeman.tools.head.label>
+  
+  
+  <Mech_Scyther.label>ﺔﻠﺘﻘﻤﻟﺍ</Mech_Scyther.label>
+  
+  <Mech_Scyther.description>ﻢﻬﻜﻴﺘﻜﺗ .ﻥﺎﺴﻧﻹﺍ ﺎﻬﻤﺠﺣ ﺔﻐﻟﺎﺒﻠﻟ ﺔﻬﺑﺎﺸﻣ ﺔﻴﻟﺎﺘﻗ ﺕﺎﻴﻟﺁ
+.ﻭﺪﻌﻟﺍ ﻊﻣ ﺐﻳﺮﻘﻟﺍ ﻝﺎﺘﻘﻟﺍﻭ ﺔﻋﺮﺴﺑ ﺏﺍﺮﺘﻗﻻﺍ ﻮﻫ
+ﺓﺩﺎﺣ ﺡﺍﻮﻟﺄﺑ ﺓﺩﻭﺰﻣ ﻢﻬﻋﺭﺫﺃﻭ ﻙﻮﺸﻟﺎﺑ ﺓﺎﻄﻐﻣ ﻢﻬﻣﺎﺴﺟﺃ
+.ﻥﻮﻄﺒﻟﺍ ﺮﻴﻘﺸﺗﻭ ﻑﺍﺮﻃﻷﺍ ﻊﻄﻘﻟ ﺔﻠﺗﺎﻗ</Mech_Scyther.description>
+  
+  <Mech_Scyther.tools.left_blade.label>ﺮﺴﻳﻷﺍ ﻒﻴﺴﻟﺍ</Mech_Scyther.tools.left_blade.label>
+  
+  <Mech_Scyther.tools.right_blade.label>ﻰﻨﻤﻴﻟﺍ ﺓﺮﻔﺸﻟﺍ</Mech_Scyther.tools.right_blade.label>
+  
+  <Mech_Scyther.tools.head.label>ﺱﺃﺮﻟﺍ</Mech_Scyther.tools.head.label>
+  
+  
+  <Mech_Termite.label>ﺖﻴﻣﺮﺗ</Mech_Termite.label>
+  
+  <Mech_Termite.description>ﻕﺩﺎﻨﺨﻟﺍ ﺮﻔﺣ ﻲﻓ ﺺﺼﺨﺘﻣ ﻢﺠﺤﻟﺍ ﻂﺳﻮﺘﻣ ﺕﻮﺑﻭﺭ
+ﺐﺠﻳ .ﻭﺪﻌﻟﺍ ﺕﺎﻋﺎﻓﺪﻟﺍ ﺮﻴﺴﻜﺗ ﻭ ﻕﺎﻔﻨﻟﺍ ﻭ
+ﺺﻠﺨﺘﻟﺍ ﺔﻟﻭﺎﺤﻣ :ﺎﻘﺒﺴﻣ ﺍﻭﺭﺮﻘﻳ ﻥﺃ ﻦﻴﻴﻋﺎﻓﺪﻟﺍ ﻰﻠﻋ
+ﺮﻔﺣ ﻲﻓ ﺃﺪﺒﻳ ﻥﺃ ﻞﺒﻗ ﺕﻮﺑﻭﺮﻟﺍ ﻦﻣ
+ﻰﻟﺇ ﻪﻘﻳﺮﻃ ﺢﺘﻔﻳ ﻥﺃ ﺪﻌﺑ ﻭﺃ ﻖﻔﻨﻟﺍ
+.ﺔﻨﻃﻮﺘﺴﻤﻟﺍ</Mech_Termite.description>
+  
+  <Mech_Termite.tools.head.label>ﺱﺃﺮﻟﺍ</Mech_Termite.tools.head.label>
+  
+</LanguageData>

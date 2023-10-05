@@ -1,0 +1,62 @@
+<LanguageData>
+  
+  
+  <BerserkMechanoid.label>ﺔﻴﻧﺍﻭﺪﻌﻟﺍ ﻢﻴﻴﻘﺗ ﻙﺎﻬﺘﻧﺍ</BerserkMechanoid.label>
+  
+  <BerserkMechanoid.baseInspectLine>.ﺔﻴﻧﺍﻭﺪﻌﻟﺍ ﺔﻤﻴﻗ ﺐﻳﺮﺨﺗ ﻢﺗ</BerserkMechanoid.baseInspectLine>
+  
+  
+  <Manhunter.label>ﺔﻴﻧﺍﻭﺪﻌﻟﺍ</Manhunter.label>
+  
+  <Manhunter.baseInspectLine>ﺔﻴﻧﺍﻭﺪﻌﻟﺍ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</Manhunter.baseInspectLine>
+  
+  <Manhunter.beginLetter>!ﺓﺪﻳﺪﺷ ﺔﻴﻧﺍﻭﺪﻌﺑ ﻑﺮﺼﺘﻳ {0}</Manhunter.beginLetter>
+  <Manhunter.beginLetterLabel>ﺔﻴﻧﺍﻭﺪﻌﻟﺍ</Manhunter.beginLetterLabel>
+  
+  <Manhunter.recoveryMessage>.ﻥﺍﻭﺪﻌﻟﺍ ﺮﻤﻳ ،{0} ﺃﺪﻬﺘﻳ</Manhunter.recoveryMessage>
+  
+  
+  <ManhunterPermanent.label>ﻥﺍﻭﺪﻌﻟﺍ</ManhunterPermanent.label>
+  
+  <ManhunterPermanent.baseInspectLine>ﺔﻴﻧﺍﻭﺪﻌﻟﺍ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</ManhunterPermanent.baseInspectLine>
+  
+  <ManhunterPermanent.beginLetter>!ﺍﺪﺟ ﻲﻧﺍﻭﺪﻋ ﻞﻜﺸﺑ ﻑﺮﺼﺘﻳ {0}</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.beginLetterLabel>ﺔﻴﻧﺍﻭﺪﻌﻟﺍ</ManhunterPermanent.beginLetterLabel>
+  
+  <ManhunterPermanent.recoveryMessage>.ﻝﻭﺰﻳ ﻦﻟ ﻥﺍﻭﺪﻌﻟﺍ ،ﺍﺪﺑﺃ ﺃﺪﻬﻳ ﻦﻟ {0}</ManhunterPermanent.recoveryMessage>
+  
+  
+  <PanicFlee.label>ﺏﻭﺮﻬﻟﺍ</PanicFlee.label>
+  
+  <PanicFlee.baseInspectLine>.ﺏﻭﺮﻬﻟﺍ ﻝﻼﺧ ﻦﻣ ﺫﺎﻘﻧﻹﺍ ﻢﺘﻳ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</PanicFlee.baseInspectLine>
+  
+  <PanicFlee.beginLetter>.ﺮﻋﺬﺑ ﺏﺮﻬﻳ {0}</PanicFlee.beginLetter>
+  
+  <PanicFlee.beginLetterLabel>ﺏﻭﺮﻬﻟﺍ</PanicFlee.beginLetterLabel>
+  
+  <PanicFlee.recoveryMessage>.ﻥﻵﺍ ﺪﻌﺑ ﺮﻋﺬﻟﺍ ﻦﻣ ﻲﻧﺎﻌﻳ ﻻ {0}</PanicFlee.recoveryMessage>
+  
+  
+  <Roaming.label>ﺡﻭﺮﺠﻟﺍ ﻦﻴﺼﺤﺗ</Roaming.label>
+  
+  <Roaming.baseInspectLine>ﻦﺴﺤﺘﻳ :ﺔﻴﺴﻔﻨﻟﺍ ﺔﻟﺎﺤﻟﺍ</Roaming.baseInspectLine>
+  
+  
+  <SocialFighting.label>ﻉﺍﺰﻨﻟﺍ</SocialFighting.label>
+  
+  <SocialFighting.baseInspectLine>ﻞﺗﺎﻘﺘﻣ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</SocialFighting.baseInspectLine>
+  
+  
+  <WanderConfused.label>ﻙﺎﺒﺗﺭﻻﺍ</WanderConfused.label>
+  
+  <WanderConfused.baseInspectLine>ﻼﺑ ﻙﺎﻨﻫﻭ ﺎﻨﻫ ﻝﻮﺠﺘﻳ ﻪﺋﺎﺗ :ﺔﻴﻠﻘﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ
+.ﻑﺪﻫ</WanderConfused.baseInspectLine>
+  
+  <WanderConfused.beginLetter>ﺔﻟﺎﺤﺑ ﻝﻮﺠﻳﻭ ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﻦﻣ ﻲﻧﺎﻌﻳ {0}
+.ﻙﺎﺒﺗﺭﻻﺍ ﻦﻣ</WanderConfused.beginLetter>
+  
+  <WanderConfused.beginLetterLabel>ﻙﺎﺒﺗﺭﻻﺍ</WanderConfused.beginLetterLabel>
+  
+  <WanderConfused.recoveryMessage>.ﺩﻮﻌﻳﻭ ﻰﻓﺎﻌﺘﻳ {0}</WanderConfused.recoveryMessage>
+  
+</LanguageData>

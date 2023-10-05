@@ -1,0 +1,354 @@
+<LanguageData>
+
+  
+  
+  <Dark>ﻢﻠﻈﻣ</Dark>
+  
+  <Lit>ﺭﻮﻨﻟﺍ</Lit>
+  
+  <LitBrightly>ﺍﺪﺟ ﻕﺮﺸﻣ</LitBrightly>
+
+  
+  
+  <PriceTypeVeryCheap>ﺍﺪﺟ ﺔﺼﻴﺧﺭ</PriceTypeVeryCheap>
+  
+  <PriceTypeCheap>ﺔﺼﻴﺧﺭ</PriceTypeCheap>
+  
+  <PriceTypeNormal>ﺓﺪﻴﺟ</PriceTypeNormal>
+  
+  <PriceTypeExpensive>ﺔﻌﻔﺗﺮﻣ</PriceTypeExpensive>
+  
+  <PriceTypeExorbitant>ﺔﻃﺮﻔﻣ</PriceTypeExorbitant>
+
+  
+  
+  <StoragePriorityUnstored>ﻡﺪﺨﺘﺴﺗ ﻻ</StoragePriorityUnstored>
+  
+  <StoragePriorityLow>ﺾﻔﺨﻨﻣ</StoragePriorityLow>
+  
+  <StoragePriorityNormal>ﻱﺩﺎﻋ</StoragePriorityNormal>
+  
+  <StoragePriorityPreferred>ﻊﻔﺗﺮﻣ</StoragePriorityPreferred>
+  
+  <StoragePriorityImportant>ﻊﻔﺗﺮﻣ</StoragePriorityImportant>
+  
+  <StoragePriorityCritical>ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ</StoragePriorityCritical>
+
+  
+  
+  <FoodTypeFlags_VegetableOrFruit>ﻪﻛﺍﻮﻔﻟﺍ/ﺕﺍﻭﺮﻀﺨﻟﺍ</FoodTypeFlags_VegetableOrFruit>
+  
+  <FoodTypeFlags_Meat>ﻡﺎﺨﻟﺍ ﻢﺤﻠﻟﺍ</FoodTypeFlags_Meat>
+  
+  <FoodTypeFlags_Corpse>ﺚﺜﺠﻟﺍ</FoodTypeFlags_Corpse>
+  
+  <FoodTypeFlags_Seed>ﺭﻭﺬﺒﻟﺍ</FoodTypeFlags_Seed>
+  
+  <FoodTypeFlags_AnimalProduct>ﺔﻴﻧﺍﻮﻴﺣ ﺕﺎﺠﺘﻨﻣ</FoodTypeFlags_AnimalProduct>
+  
+  <FoodTypeFlags_Plant>ﺔﻴﺤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ</FoodTypeFlags_Plant>
+  
+  <FoodTypeFlags_Tree>ﺔﻴﺤﻟﺍ ﺭﺎﺠﺷﻷﺍ</FoodTypeFlags_Tree>
+  
+  <FoodTypeFlags_Meal>ﻕﺎﺒﻃﻷﺍ</FoodTypeFlags_Meal>
+  
+  <FoodTypeFlags_Processed>ﺔﺠﻟﺎﻌﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ</FoodTypeFlags_Processed>
+  
+  <FoodTypeFlags_Liquor>ﻝﻮﺤﻜﻟﺍ</FoodTypeFlags_Liquor>
+  
+  <FoodTypeFlags_Kibble>ﺔﺒﻛﺮﻤﻟﺍ ﻑﻼﻋﻷﺍ</FoodTypeFlags_Kibble>
+
+  
+  
+  <QualityCategory_Awful>ﻊﻴﻈﻓ</QualityCategory_Awful>
+  
+  <QualityCategory_Poor>ﺔﺌﻴﺳ</QualityCategory_Poor>
+  
+  <QualityCategory_Normal>ﺪﻴﺟ</QualityCategory_Normal>
+  
+  <QualityCategory_Good>ﺪﻴﺟ</QualityCategory_Good>
+  
+  <QualityCategory_Excellent>ﺯﺎﺘﻤﻣ</QualityCategory_Excellent>
+  
+  <QualityCategory_Masterwork>ﺔﻴﻨﻓ ﺔﻔﺤﺗ</QualityCategory_Masterwork>
+  
+  <QualityCategory_Legendary>ﺓﺭﻮﻄﺳﻷﺍ</QualityCategory_Legendary>
+  
+  <QualityCategoryShort_Awful>ﺔﺒﻴﻫﺭ</QualityCategoryShort_Awful>
+  
+  <QualityCategoryShort_Poor>ﺀﻲﺳ</QualityCategoryShort_Poor>
+  
+  <QualityCategoryShort_Normal>ﻖﻓﺍﻮﻣ</QualityCategoryShort_Normal>
+  
+  <QualityCategoryShort_Good>ﺎﺒﻟﺎﻏ</QualityCategoryShort_Good>
+  
+  <QualityCategoryShort_Excellent>ﺯﺎﺘﻤﻣ</QualityCategoryShort_Excellent>
+  
+  <QualityCategoryShort_Masterwork>ﺔﻴﻨﻓ ﺔﻔﺤﺗ</QualityCategoryShort_Masterwork>
+  
+  <QualityCategoryShort_Legendary>ﺓﺭﻮﻄﺳﻷﺍ</QualityCategoryShort_Legendary>
+  
+  
+  
+  <HungerLevel_Starving>.ﻊﺋﺎﺟ ﻮﻫ</HungerLevel_Starving>
+  
+  <HungerLevel_UrgentlyHungry>ﻞﻣﺎﻛ ﻞﻜﺸﺑ ﻞﻛﺄﻳ ﻻ</HungerLevel_UrgentlyHungry>
+  
+  <HungerLevel_Hungry>ﻞﻛﻷﺍ ﻲﻓ ﺐﻏﺮﻳ</HungerLevel_Hungry>
+  
+  <HungerLevel_Fed>(ﺓ) ﻊﺒﺸﻣ</HungerLevel_Fed>
+
+  
+  
+  <HungerLevel_Exhausted>(ﺓ)ﻒﻴﻌﺿ ﺎﻬﻧﺇ/ﻪﻧﺇ</HungerLevel_Exhausted>
+  
+  <HungerLevel_VeryTired>.ﺍﺪﺟ ﻖﻫﺮﻣ ﺎﻧﺃ</HungerLevel_VeryTired>
+  
+  <HungerLevel_Tired>ﺖﺒﻌﺗ</HungerLevel_Tired>
+  
+  <HungerLevel_Rested>ﺔﺣﺍﺮﺘﺳﺍ</HungerLevel_Rested>
+
+  
+  
+  <Hilliness_Flat>ﻝﻮﻬﺴﻟﺍ</Hilliness_Flat>
+  
+  <Hilliness_SmallHills>ﺔﻴﻟﺎﻌﻟﺍ ﻝﻼﺘﻟﺍ</Hilliness_SmallHills>
+  
+  <Hilliness_LargeHills>ﺓﺮﻴﺒﻜﻟﺍ ﻝﻼﺘﻟﺍ</Hilliness_LargeHills>
+  
+  <Hilliness_Mountainous>ﻝﺎﺒﺠﻟﺍ</Hilliness_Mountainous>
+  
+  <Hilliness_Impassable>ﺭﻮﺒﻌﻠﻟ ﺔﻠﺑﺎﻗ ﺮﻴﻏ ﻝﺎﺒﺠﻟﺍ</Hilliness_Impassable>
+  
+  
+  
+  <WorkshopInteractStage_CreatingItem>ﺀﺎﺸﻧﺇ</WorkshopInteractStage_CreatingItem>
+  
+  <WorkshopInteractStage_SubmittingItem>ﻝﺎﺳﺭﺇ</WorkshopInteractStage_SubmittingItem>
+  
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>ﺡﺎﺘﻣ ﺮﻴﻏ</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>ﻦﻳﻮﻜﺘﻟﺍ ﺩﺍﺪﻋﺇ</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>ﻯﻮﺘﺤﻤﻟﺍ ﺕﺎﻔﻠﻤﻟ ﺮﻴﻀﺤﺘﻟﺍ</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>ﻯﻮﺘﺤﻤﻟﺍ ﻞﻴﻤﺤﺗ ﻱﺭﺎﺟ</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>ﺔﻘﺒﺴﻤﻟﺍ ﺔﻨﻳﺎﻌﻤﻟﺍ ﻒﻠﻣ ﻞﻴﻤﺤﺗ</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>ﺕﺍﺮﻴﻴﻐﺘﻟﺍ ﺖﻴﺒﺜﺗ</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+
+  
+  
+  <ContentSource_OfficialModsFolder>ﻲﻤﺳﺮﻟﺍ ﻯﻮﺘﺤﻤﻟﺍ</ContentSource_OfficialModsFolder>
+  
+  <ContentSource_ModsFolder>ﻲﻠﺤﻤﻟﺍ ﺪﻠﺠﻤﻟﺍ</ContentSource_ModsFolder>
+  
+  <ContentSource_SteamWorkshop>ﻢﻴﺘﺳ ﻞﻤﻋ ﺔﺷﺭﻭ</ContentSource_SteamWorkshop>
+  
+  
+  
+  <MedicalCareCategory_NoCare>ﺔﻴﺒﻃ ﺔﻳﺎﻋﺭ ﻥﻭﺪﺑ</MedicalCareCategory_NoCare>
+  
+  <MedicalCareCategory_NoMeds>ﺔﻳﻭﺩﺃ ﻥﻭﺪﺑ ﺔﻴﺒﻄﻟﺍ ﺔﻳﺎﻨﻌﻟﺍ</MedicalCareCategory_NoMeds>
+  
+  <MedicalCareCategory_HerbalOrWorse>ﺔﻴﺒﻄﻟﺍ ﺏﺎﺸﻋﻷﺎﺑ ﺝﻼﻋ</MedicalCareCategory_HerbalOrWorse>
+  
+  <MedicalCareCategory_NormalOrWorse>ﺔﻋﺎﻨﺼﻟﺍ ﺮﺼﻋ ﻲﻓ ﺔﻳﻭﺩﻷﺍ ﺔﻄﺳﺍﻮﺑ ﺝﻼﻌﻟﺍ</MedicalCareCategory_NormalOrWorse>
+  
+  <MedicalCareCategory_Best>ﺔﻣﺪﻘﺘﻤﻟﺍ ﺔﻳﻭﺩﻷﺍ ﺔﻄﺳﺍﻮﺑ ﺝﻼﻌﻟﺍ</MedicalCareCategory_Best>
+
+  
+  
+  <HostilityResponseMode_Ignore>ﻞﻫﺎﺠﺗ</HostilityResponseMode_Ignore>
+  
+  <HostilityResponseMode_Attack>ﻢﺟﺎﻫ</HostilityResponseMode_Attack>
+  
+  <HostilityResponseMode_Flee>ﺏﻭﺮﻬﻟﺍ</HostilityResponseMode_Flee>
+  
+  
+  
+  <HediffGrowthMode_Growing>ﻮﻤﻨﻳ</HediffGrowthMode_Growing>
+  
+  <HediffGrowthMode_Stable>ﺓﺮﻘﺘﺴﻣ</HediffGrowthMode_Stable>
+  
+  <HediffGrowthMode_Remission>ﺔﻧﺪﻬﻟﺍ</HediffGrowthMode_Remission>
+
+  
+  
+  <TechLevel_Animal>ﻥﺍﻮﻴﺤﻟﺍ</TechLevel_Animal>
+  
+  <TechLevel_Neolithic>ﺚﻳﺪﺤﻟﺍ ﻱﺮﺠﺤﻟﺍ ﺮﺼﻌﻟﺍ</TechLevel_Neolithic>
+  
+  <TechLevel_Medieval>ﻰﻄﺳﻮﻟﺍ ﻥﻭﺮﻘﻟﺍ</TechLevel_Medieval>
+  
+  <TechLevel_Industrial>ﻲﻋﺎﻨﺻ</TechLevel_Industrial>
+  
+  <TechLevel_Spacer>ﺀﺎﻀﻔﻟﺍ</TechLevel_Spacer>
+  
+  <TechLevel_Ultra>ﺔﻳﺎﻐﻠﻟ ﺔﻴﻨﻘﺗ</TechLevel_Ultra>
+  
+  <TechLevel_Archotech>ﻡﺪﻘﺘﻣ ﻲﻨﻘﺗ</TechLevel_Archotech>
+
+  
+  
+  <PlayerPawnsArriveMethod_Standing>ﺔﻤﺋﺎﻗ</PlayerPawnsArriveMethod_Standing>
+  
+  <PlayerPawnsArriveMethod_DropPods>ﺕﻻﻮﺴﺒﻜﻟﺍ ﻲﻓ</PlayerPawnsArriveMethod_DropPods>
+
+  
+  
+  <PawnGenerationContext_All>ﺕﺎﻴﺼﺨﺸﻟﺍ ﻊﻴﻤﺟ</PawnGenerationContext_All>
+  
+  <PawnGenerationContext_PlayerStarter>ﺐﻋﻼﻟﺍ ﺕﺎﻴﺼﺨﺷ</PawnGenerationContext_PlayerStarter>
+  
+  <PawnGenerationContext_NonPlayer>ﻦﻴﺒﻋﻻ ﺮﻴﻏ ﺕﺎﻴﺼﺨﺷ</PawnGenerationContext_NonPlayer>
+
+  
+  
+  <ScreenShakeIntensity>ﺍﺮﻴﻣﺎﻜﻟﺍ ﺔﺟﺭ</ScreenShakeIntensity>
+  
+  
+  
+  <ShowAnimalNames>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺀﺎﻤﺳﺃ</ShowAnimalNames>
+  
+  <AnimalNameDisplayMode_TameNamed>(ﺀﺎﻤﺳﻷﺍ ﻂﻘﻓ) ﺔﺿﻭﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</AnimalNameDisplayMode_TameNamed>
+  
+  <AnimalNameDisplayMode_TameAll>(ﻞﻜﻟﺍ) ﺔﺿﻭﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</AnimalNameDisplayMode_TameAll>
+  
+  
+  
+  <ShowMechNames>ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺪﻳﻮﻧﺎﻜﻴﻣ ﺀﺎﻤﺳﺃ</ShowMechNames>
+  
+  <MechNameDisplayMode_WhileDrafted>ﺀﺎﻋﺪﺘﺳﻻﺍ ﻊﺿﻭ ﻲﻓ</MechNameDisplayMode_WhileDrafted>
+  
+  <MechNameDisplayMode_Always>ﺎﻤﺋﺍﺩ</MechNameDisplayMode_Always>
+
+  
+  
+  <ShowWeaponsUnderPortrait>ﺮﻴﻐﺼﺘﻠﻟ ﻞﺑﺎﻗ ﺡﻼﺴﻟﺍ</ShowWeaponsUnderPortrait>
+  
+  <ShowWeaponsUnderPortraitTooltip>ﻲﻓ ﺓﺮﻴﻐﺼﻟﺍ ﻢﻫﺭﻮﺻ ﺖﺤﺗ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺔﺤﻠﺳﺃ ﺭﺎﻬﻇﺇ
+.ﺔﺷﺎﺸﻟﺍ ﻦﻣ ﻱﻮﻠﻌﻟﺍ ﺀﺰﺠﻟﺍ</ShowWeaponsUnderPortraitTooltip>
+  
+  <ShowWeapons_Always>ﺎﻤﺋﺍﺩ</ShowWeapons_Always>
+  
+  <ShowWeapons_WhileDrafted>ﺀﺎﻋﺪﺘﺳﻻﺍ ﻊﺿﻭ ﻲﻓ</ShowWeapons_WhileDrafted>
+
+  
+  
+  <Celsius>ﺐﻛﻮﻜﻟﺍ ﺔﻴﺸﺣﻮﺑ</Celsius>
+  
+  <Fahrenheit>ﺖﻳﺎﻬﻧﺮﻬﻓ ﻮﺑ</Fahrenheit>
+  
+  <Kelvin>ﻦﻔﻠﻴﻛ ﺔﻄﺳﺍﻮﺑ</Kelvin>
+  
+  
+  
+  <Direction8Way_North_Short>С</Direction8Way_North_Short>
+  
+  <Direction8Way_NorthEast_Short>СВ</Direction8Way_NorthEast_Short>
+  
+  <Direction8Way_East_Short>В</Direction8Way_East_Short>
+  
+  <Direction8Way_SouthEast_Short>ЮВ</Direction8Way_SouthEast_Short>
+  
+  <Direction8Way_South_Short>Ю</Direction8Way_South_Short>
+  
+  <Direction8Way_SouthWest_Short>ЮЗ</Direction8Way_SouthWest_Short>
+  
+  <Direction8Way_West_Short>З</Direction8Way_West_Short>
+  
+  <Direction8Way_NorthWest_Short>СЗ</Direction8Way_NorthWest_Short>
+  
+  
+  
+  <DietCategory_NeverEats>ﻡﺎﻌﻄﻟﺍ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﻻ</DietCategory_NeverEats>
+  
+  <DietCategory_Herbivorous>ﻲﺗﺎﺒﻧ</DietCategory_Herbivorous>
+  
+  <DietCategory_Dendrovorous>ﺭﺎﺠﺷﻷﺍ ﻞﻛﺁ</DietCategory_Dendrovorous>
+  
+  <DietCategory_Ovivorous>ﺾﻴﺒﻟﺍ ﻞﻛﺁ</DietCategory_Ovivorous>
+  
+  <DietCategory_Omnivorous>ﻡﺎﻌﻟﺍ ﻚﻠﻬﺘﺴﻤﻟﺍ</DietCategory_Omnivorous>
+  
+  <DietCategory_Carnivorous>ﺔﺳﺮﺘﻔﻣ</DietCategory_Carnivorous>
+  
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
+  
+  <DietCategory_Herbivorous_Short>Т</DietCategory_Herbivorous_Short>
+  
+  <DietCategory_Dendrovorous_Short>Д</DietCategory_Dendrovorous_Short>
+  
+  <DietCategory_Ovivorous_Short>Я</DietCategory_Ovivorous_Short>
+  
+  <DietCategory_Omnivorous_Short>В</DietCategory_Omnivorous_Short>
+  
+  <DietCategory_Carnivorous_Short>Х</DietCategory_Carnivorous_Short>
+
+  
+  
+  <FoodPoisonCause_IncompetentCook>ﺮﻫﺎﻣ ﺮﻴﻏ ﺥﺎﺒﻃ</FoodPoisonCause_IncompetentCook>
+  
+  <FoodPoisonCause_FilthyKitchen>ﺦﺒﻄﻤﻟﺍ ﻰﻠﻋ ﺦﺳﻮﻟﺍ</FoodPoisonCause_FilthyKitchen>
+  
+  <FoodPoisonCause_Rotten>ﻒﻟﺎﺗ ﻡﺎﻌﻄﻟﺍ</FoodPoisonCause_Rotten>
+  
+  <FoodPoisonCause_DangerousFoodType>ﺓﺮﻄﺨﻟﺍ ﻡﺎﻌﻄﻟﺍ</FoodPoisonCause_DangerousFoodType>
+
+  
+  
+  <PsychicDroneLevel_None>ﻻ</PsychicDroneLevel_None>
+  
+  <PsychicDroneLevel_GoodMedium>ﻂﺳﻮﺘﻣ</PsychicDroneLevel_GoodMedium>
+  
+  <PsychicDroneLevel_BadLow>ﻒﻴﻌﺿ</PsychicDroneLevel_BadLow>
+  
+  <PsychicDroneLevel_BadMedium>ﻂﺳﻮﺘﻣ</PsychicDroneLevel_BadMedium>
+  
+  <PsychicDroneLevel_BadHigh>ﻱﻮﻗ</PsychicDroneLevel_BadHigh>
+  
+  <PsychicDroneLevel_BadExtreme>ﻑﺮﻄﺘﻣ</PsychicDroneLevel_BadExtreme>
+  
+  
+  
+  <AutomaticPauseMode_Never>ﺍﺪﺑﺃ</AutomaticPauseMode_Never>
+  
+  <AutomaticPauseMode_MajorThreat>ﺓﺮﻴﻄﺧ ﺕﺍﺪﻳﺪﻬﺗ</AutomaticPauseMode_MajorThreat>
+  
+  <AutomaticPauseMode_AnyThreat>ﺔﻠﻤﺘﺤﻣ ﺕﺍﺪﻳﺪﻬﺗ ﻱﺃ</AutomaticPauseMode_AnyThreat>
+  
+  <AutomaticPauseMode_AnyLetter>ﺙﺍﺪﺣﺃ ﻱﺃ</AutomaticPauseMode_AnyLetter>
+
+  
+  
+  <PainCategory_LowPain>ﺐﻛﺮﻳ</PainCategory_LowPain>
+  
+  <PainCategory_MediumPain>.ﻢﻟﻷﺎﺑ ﺮﻌﺷﺃ</PainCategory_MediumPain>
+  
+  <PainCategory_HighPain>ﺪﻳﺪﺷ ﻢﻟﺃ ﺪﺟﻮﻳ</PainCategory_HighPain>
+  
+  
+  
+  <ExtraFactionType_HomeFaction>ﻲﻠﺤﻤﻟﺍ ﻞﻴﺼﻔﻟﺍ</ExtraFactionType_HomeFaction>
+  
+  <ExtraFactionType_HostFaction>ﺔﻔﻴﻀﻤﻟﺍ ﺔﻗﺮﻔﻟﺍ</ExtraFactionType_HostFaction>
+  
+  <ExtraFactionType_MiniFaction>ﺔﻋﻮﻤﺠﻣ</ExtraFactionType_MiniFaction>
+
+  
+  
+  <DrugCategory>ﺀﺍﻭﺪﻟﺍ ﺔﺌﻓ</DrugCategory>
+  
+  <DrugCategory_None>ﻻ</DrugCategory_None>
+  
+  <DrugCategory_Medical>ﻲﺒﻄﻟﺍ ﺀﺍﻭﺪﻟﺍ</DrugCategory_Medical>
+  
+  <DrugCategory_Social>ﻲﻬﻴﻓﺮﺗ</DrugCategory_Social>
+  
+  <DrugCategory_Hard>ﻱﻮﻘﻟﺍ ﺭﺪﺨﻤﻟﺍ</DrugCategory_Hard>
+  
+  <DrugCategory_Any>؟ﺐﻠﻃ ﻱﺃ</DrugCategory_Any>
+  
+</LanguageData>

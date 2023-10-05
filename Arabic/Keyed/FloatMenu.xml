@@ -1,0 +1,605 @@
+<LanguageData>
+
+  
+  <CallOnRadio>{0} ـﺑ ﻝﺎﺼﺗﻻﺍ</CallOnRadio>
+  
+  <CannotUseReason>{lookup: {0}; Case; 3} ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻣ ﺮﻴﻏ</CannotUseReason>
+  
+  <CannotUseSolarFlare>(EMI) ﺬﻔﻨﻤﻟﺍ ﻲﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻜﻟﺍ ﺾﺒﻨﻟﺍ :ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ</CannotUseSolarFlare>
+  
+  <CannotUseNoPower>ﺔﻗﺎﻃ ﺪﺟﻮﺗ ﻻ :ﻡﺍﺪﺨﺘﺳﻻﺍ ﻦﻜﻤﻳ ﻻ</CannotUseNoPower>
+  
+  <CannotUseNoPath>ﺭﻮﺒﻌﻟﺍ ﻦﻜﻤﻳ ﻻ :ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ</CannotUseNoPath>
+  
+  <CannotUseReserved>ﻝﻮﻐﺸﻣ :ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ</CannotUseReserved>
+  
+  <CannotUseFull>ﺔﻠﻤﺘﻜﻣ :ﻡﺍﺪﺨﺘﺳﻻﺍ ﻦﻜﻤﻣ ﺮﻴﻏ</CannotUseFull>
+  
+  <LeaderUnavailable>.ﺡﺎﺘﻣ ﺮﻴﻏ ،{labelShort_1} ،ﻢﻴﻋﺰﻟﺍ</LeaderUnavailable>
+  
+  <LeaderUnavailableNoLeader>ﺡﺎﺘﻣ ﺮﻴﻏ ﺪﺋﺎﻘﻟﺍ</LeaderUnavailableNoLeader>
+  
+  <NotAllowed>ﻉﻮﻨﻤﻣ</NotAllowed>
+  
+  
+  <FireAt>{3 ;ﺔﻟﺎﺣ ;{lookup: {1_label} ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ</FireAt>
+
+  
+  <OutOfRange>ﺮﻴﺛﺄﺘﻟﺍ ﻕﺎﻄﻧ ﺝﺭﺎﺧ</OutOfRange>
+  
+  <TooClose>.ﺍﺪﺟ ﺔﺒﻳﺮﻗ ﺎﻬﻧﺃ</TooClose>
+  
+  <CannotHitTarget>ﻑﺪﻬﻟﺍ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻣ ﺮﻴﻏ</CannotHitTarget>
+  
+  <IsIncapableOfViolenceLower>{1_labelShort} ﻒﻨﻌﻟﺍ ﺱﺭﺎﻤﻳ ﻥﺃ ﻊﻴﻄﺘﺴﻳ ﻻ.</IsIncapableOfViolenceLower>
+  
+  <IncapableOfViolenceLower>.ﻒﻨﻌﻟﺍ ﻪﻴﺟﻮﺗ ﻪﻨﻜﻤﻳ ﻻ</IncapableOfViolenceLower>
+  
+  <IsIncapableOfShootingLower>ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ {labelShort_0} ـﻟ ﻦﻜﻤﻳ ﻻ</IsIncapableOfShootingLower>
+  
+  <IsNotDraftedLower>{1_labelShort} ﺀﺎﻋﺪﺘﺳﻹﺍ ﻊﺿﻭ ﻲﻓ ﺮﻴﻏ</IsNotDraftedLower>
+  
+  <CannotOrderNonControlledLower>ﺲﻴﻟ ﻲﺘﻟﺍ ﺕﺎﻴﺼﺨﺸﻠﻟ ﺕﺎﻤﻴﻠﻌﺗ ﺭﺍﺪﺻﺇ ﻦﻜﻤﻳ ﻻ
+.ﺎﻬﻴﻠﻋ ﺓﺮﻄﻴﺴﻟﺍ ﺎﻬﻳﺪﻟ</CannotOrderNonControlledLower>
+  
+  <CannotAttackSelf>ﻚﺴﻔﻧ ﻢﺟﺎﻬﺗ ﻥﺃ ﻦﻜﻤﻳ ﻻ</CannotAttackSelf>
+  
+  <CannotAttackSameFactionMember>.ﺔﻘﻳﺪﺻ ﺔﻋﺎﻤﺟ ﻲﻓ ﻮﻀﻋ ﺔﻤﺟﺎﻬﻣ ﻚﻨﻜﻤﻳ ﻻ</CannotAttackSameFactionMember>
+  
+  <IncapableOfFirefighting>ﻖﺋﺍﺮﺤﻟﺍ ﺀﺎﻔﻃﺇ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ﻻ</IncapableOfFirefighting>
+
+  
+  <OrderManThing>{lookup: {1_labelShort}; Case; 3} ﺬﺧ</OrderManThing>
+  
+  
+  <MeleeAttack>{lookup: {1_label}; Case; 4} ﻊﻣ ﺐﻳﺮﻘﻟﺍ ﻝﺎﺘﻘﻟﺍ</MeleeAttack>
+  
+  <MeleeAttackToDeath>.ﻱﻭﺪﻴﻟﺍ ﻝﺎﺘﻘﻟﺎﺑ {label_1} ﻞﺘﻗ</MeleeAttackToDeath>
+  
+  <NoPath>ﺕﺍﺮﻤﻣ ﺪﺟﻮﺗ ﻻ</NoPath>
+  
+  <Burying>ﻦﻓﺩ</Burying>
+  
+  <DesignatedFor>{0} ـﻟ ﺔﻨﻴﻌﻤﻟﺍ</DesignatedFor>
+
+  
+  <ForbiddenLower>ﻉﻮﻨﻤﻣ</ForbiddenLower>
+  
+  <ForbiddenOutsideAllowedAreaLower>ﻪﺑ ﺡﻮﻤﺴﻤﻟﺍ ﻕﺎﻄﻨﻟﺍ ﺝﺭﺎﺧ</ForbiddenOutsideAllowedAreaLower>
+  
+  <NotInHomeArea>ﺔﻴﻟﺰﻨﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﺝﺭﺎﺧ</NotInHomeArea>
+  
+  <BurningLower>ﻞﻌﺘﺸﻳ</BurningLower>
+  
+  <NoEmptyPlaceLower>.ﺍﺬﻫ ﻦﻳﺰﺨﺘﻟ ﺓﺄﻴﻬﻣ ﺓﺮﻏﺎﺷ ﺔﺣﺎﺴﻣ ﺪﺟﻮﻳ ﻻ</NoEmptyPlaceLower>
+  
+  <NoMergeTarget>ﺞﻣﺪﻠﻟ ﺀﻲﺷ ﺪﺟﻮﻳ ﻻ</NoMergeTarget>
+  
+  <AlreadyFilledLower>ﻞﻌﻔﻟﺎﺑ ﺊﻠﺘﻤﻣ</AlreadyFilledLower>
+  
+  <MissingMaterials>{0} ﺏﻮﻠﻄﻣ</MissingMaterials>
+  
+  <NoMedicineMatchingCategory>ﻲﻓ "CATEGORY" ﺔﺌﻔﻟ ﺔﺣﺎﺘﻣ ﺔﻳﻭﺩﺃ ﺪﺟﻮﻳ ﻻ
+.ﺔﻴﺒﻄﻟﺍ ﺔﻳﺎﻋﺮﻟﺍ ﺔﺳﺎﻴﺳ</NoMedicineMatchingCategory>
+  
+  <UnderRequiredSkill>.{0} ﺏﻮﻠﻄﻤﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ ﻦﻣ ﻞﻗﺃ ﺓﺭﺎﻬﻤﻟﺍ</UnderRequiredSkill>
+  
+  <UnderAllowedSkill>ﻪﺑ ﺡﻮﻤﺴﻤﻟﺍ ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ ﻦﻣ ﻞﻗﺃ ﺓﺭﺎﻬﻤﻟﺍ
+{0}</UnderAllowedSkill>
+  
+  <AboveAllowedSkill>ﻪﺑ ﺡﻮﻤﺴﻤﻟﺍ ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ ﻦﻣ ﻰﻠﻋﺃ ﺓﺭﺎﻬﻤﻟﺍ
+.{0}</AboveAllowedSkill>
+  
+  <NoReachableOutsideCell>.ﻢﻟﺎﻌﻟﺍ ﺔﻄﻳﺮﺧ ﻲﻓ ﺔﺣﺎﺘﻣ ﺎﻳﻼﺧ ﺪﺟﻮﺗ ﻻ</NoReachableOutsideCell>
+  
+  <MissingRequiredSkillLevel>ﺏﻮﻠﻄﻣ ﺓﺭﺎﻬﻣ ﻯﻮﺘﺴﻣ ﺪﺟﻮﻳ ﻻ</MissingRequiredSkillLevel>
+  
+  <AnimalInteractedTooRecently>.ﻮﺘﻠﻟ ﻥﺍﻮﻴﺤﻟﺍ ﺖﺑﺭﺪﺗ</AnimalInteractedTooRecently>
+  
+  <PrisonerInteractedTooRecently>.ﺍﺪﺟ ﺓﺮﻴﺼﻗ ﺓﺮﺘﻓ ﺬﻨﻣ ﻥﺎﻛ ﻝﺎﺼﺗﻻﺍ</PrisonerInteractedTooRecently>
+  
+  <NoUsableFood>.ﺐﺳﺎﻨﻣ ﻡﺎﻌﻃ ﺪﺟﻮﻳ ﻻ</NoUsableFood>
+  
+  <NoFood>.ﻡﺎﻌﻃ ﺪﺟﻮﻳ ﻻ</NoFood>
+  
+  <NoFoodMatchingRestrictions>.ﺏﻮﻠﻄﻤﻟﺍ ﻲﺋﺍﺬﻐﻟﺍ ﻡﺎﻈﻨﻠﻟ ﺐﺳﺎﻨﻣ ﻡﺎﻌﻃ ﺪﺟﻮﻳ ﻻ</NoFoodMatchingRestrictions>
+  
+  <NoIngredient>{label_0} ﺪﺟﻮﺗ ﻻ</NoIngredient>
+  
+  <FoodBelowTitleRequirements>{1 ;ﺔﻟﺎﺤﻟﺍ ;{lookup: {0} ﺕﺎﺒﻠﻄﺘﻤﻟﺎﺑ ﻲﻔﺗ ﻻ</FoodBelowTitleRequirements>
+  
+  <AnimalsSkillTooLow>{0} ﺔﺑﻮﻠﻄﻣ ،ﺔﻔﻴﻌﺿ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﻴﺑﺮﺗ ﺓﺭﺎﻬﻣ</AnimalsSkillTooLow>
+  
+  <CantInteractAnimalDowned>.ﻥﺍﻮﻴﺤﻟﺍ ﺔﻤﻳﺰﻫ ﻢﺗ</CantInteractAnimalDowned>
+  
+  <CantInteractAnimalAsleep>ﻢﺋﺎﻧ ﻥﺍﻮﻴﺤﻟﺍ</CantInteractAnimalAsleep>
+  
+  <CantInteractAnimalBusy>ﻝﻮﻐﺸﻣ ﻥﺍﻮﻴﺤﻟﺍ</CantInteractAnimalBusy>
+  
+  <CantRopeAnimalNoUsableReachablePens>.ﺔﺣﺎﺘﻤﻟﺍ ﺎﻬﺑ ﺡﺮﺼﻣ ﺹﺎﻔﻗﺃ ﺪﺟﻮﺗ ﻻ</CantRopeAnimalNoUsableReachablePens>
+  
+  <CantRopeAnimalNoEnclosedPens>.ﺔﻃﺎﺤﻣ ﺹﺎﻔﻗﺃ ﺪﺟﻮﻳ ﻻ</CantRopeAnimalNoEnclosedPens>
+  
+  <CantRopeAnimalNoAllowedPens>.ﺎﻬﺑ ﺡﻮﻤﺴﻣ ﺹﺎﻔﻗﺃ ﺪﺟﻮﺗ ﻻ</CantRopeAnimalNoAllowedPens>
+  
+  <CantRopeAnimalNoReachablePens>.ﺔﺣﺎﺘﻣ ﺹﺎﻔﻗﺃ ﺪﺟﻮﻳ ﻻ</CantRopeAnimalNoReachablePens>
+  
+  <CantRopeAnimalCantTouch>ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻣ ﺮﻴﻏ</CantRopeAnimalCantTouch>
+  
+  <CantRopeAnimalNoSpace>ﺓﺮﻴﻈﺤﻟﺍ ﻲﻓ ﺔﺣﺎﺴﻣ ﺪﺟﻮﻳ ﻻ</CantRopeAnimalNoSpace>
+  
+  <CantRopeAnimalMentalState>{0_labelShort} 1} :ﻲﻓ ﺪﺟﺍﻮﺘﻣ}</CantRopeAnimalMentalState>
+  
+  <CantRopeAnimalAlreadyInBestPen>ﺓﺮﻴﻈﺣ ﻞﻀﻓﺃ ﻲﻓ ﻞﻌﻔﻟﺎﺑ</CantRopeAnimalAlreadyInBestPen>
+  
+  <SkillTooLowForConstruction>.ﺔﻀﻔﺨﻨﻣ {0} ﺓﺭﺎﻬﻣ</SkillTooLowForConstruction>
+  
+  <NoComponentsToRepair>ﺕﺎﻧﻮﻜﻣ ﻰﻟﺇ ﺝﺎﺘﺣﺃ</NoComponentsToRepair>
+  
+  <NoFuelToRefuel>{0} ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﺐﺠﻳ</NoFuelToRefuel>
+  
+  <NoWort>.ﻝﻮﻠﺤﻤﻟﺍ ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﺎﻧﺃ</NoWort>
+  
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>ﺔﻳﻮﻟﻭﺃ ﻭﺫ ﻉﺩﻮﺘﺴﻤﻟﺍ ﻲﻓ - ﺮﻓﻮﺘﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ
+.ﻰﻠﻋﺃ</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  
+  <NoFoodToFillHopper>.ﺐﺳﺎﻨﻣ ﻡﺎﻌﻃ ﺪﺟﻮﻳ ﻻ</NoFoodToFillHopper>
+  
+  <SelfTendDisabled>ﺡﺎﺘﻣ ﺮﻴﻏ ﻲﺗﺍﺬﻟﺍ ﺝﻼﻌﻟﺍ</SelfTendDisabled>
+  
+  <ReservedForPrisoners>ﻯﺮﺳﻸﻟ ﺺﺼﺨﻣ</ReservedForPrisoners>
+  
+  <CannotReach>.ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ﻻ</CannotReach>
+  
+  <NotSurgeryReady>.ﺔﻴﻠﻤﻌﻠﻟ ﺰﻫﺎﺟ ﺮﻴﻏ ﺾﻳﺮﻤﻟﺍ</NotSurgeryReady>
+  
+  <SkillDisabled>ﺓﺮﻓﻮﺘﻣ ﺮﻴﻏ ﺓﺭﺎﻬﻤﻟﺍ</SkillDisabled>
+  
+  <CantSowCavePlantBecauseOfLight>ﻯﻮﺘﺴﻤﻟﺍ ﻦﻣ ﺔﻟﻮﺒﻘﻣ ﺶﻣ</CantSowCavePlantBecauseOfLight>
+  
+  <CantSowCavePlantBecauseUnroofed>.ﻒﻘﺴﻟﺍ ﺖﺤﺗ ﻻ</CantSowCavePlantBecauseUnroofed>
+  
+  <IncapableOfDeconstruction>ﻚﻴﻜﻔﺘﻟﺍ ﻦﻜﻤﻳ ﻻ</IncapableOfDeconstruction>
+  
+  <IncapableOfMining>.ﺝﺍﺮﺨﺘﺳﻻﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ</IncapableOfMining>
+  
+  <AngersFaction>ﻞﻴﺼﻔﻟﺍ ﺐﻀﻏ ﺮﻴﺜﻳ</AngersFaction>
+  
+  <InstallImplantNoBodyPart>.ﻢﺴﺠﻟﺍ ﻦﻣ ﺀﺰﺟ ﺪﺟﻮﻳ ﻻ</InstallImplantNoBodyPart>
+  
+  <InstallImplantNotAllowedForNonColonists>.ﺎﻨﻃﻮﺘﺴﻣ ﺲﻴﻟ</InstallImplantNotAllowedForNonColonists>
+  
+  <InstallImplantAlreadyInstalled>.ﻞﻌﻔﻟﺎﺑ ﺖﻴﺒﺜﺘﻟﺍ ﻢﺗ</InstallImplantAlreadyInstalled>
+  
+  <InstallImplantHediffRequired>{0} ﺏﻮﻠﻄﻣ</InstallImplantHediffRequired>
+  
+  <InstallImplantAlreadyMaxLevel>ﻞﻌﻔﻟﺎﺑ ﻰﺼﻗﻷﺍ ﻯﻮﺘﺴﻤﻟﺍ</InstallImplantAlreadyMaxLevel>
+  
+  <InstallImplantMinLevel>ﻞﻗﻷﺍ ﻰﻠﻋ {0} ﻯﻮﺘﺴﻣ ﺏﻮﻠﻄﻣ</InstallImplantMinLevel>
+  
+  <InstallImplantPsychicallyDeaf>ﻲﻠﻘﻋ ﻰﻤﻋ</InstallImplantPsychicallyDeaf>
+  
+  <UpgradeImplant>{1} ﻯﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ {0} ﺔﻴﻗﺮﺗ</UpgradeImplant>
+  
+  <SurgeryViolationFellowFactionMember>ﺔﻘﻳﺪﺻ ﺔﻋﺎﻤﺟ ﻲﻓ ﻮﻀﻌﻟ ﺔﻧﺎﻫﺍ</SurgeryViolationFellowFactionMember>
+  
+  <BeingCarriedBy>{labelShort_0} ﻱﺪﻳ ﻲﻓ</BeingCarriedBy>
+  
+  <ContainerFull>ﻥﺎﻜﻣ ﺪﺟﻮﻳ ﻻ</ContainerFull>
+  
+  <AlreadyAssigned>ﻞﻌﻔﻟﺎﺑ ﻦﻴﻴﻌﺘﻟﺍ ﻢﺗ</AlreadyAssigned>
+  
+  
+  <ConsumeThing>{3 ;ﺔﻟﺎﺣ ;{lookup: {1_labelShort} ﻝﻭﺎﻨﺗ</ConsumeThing>
+  
+  
+  <CannotGoNoPath>ﺮﻤﻣ ﺪﺟﻮﻳ ﻻ :ﺎﻨﻫ ﺭﻭﺮﻤﻟﺍ ﻦﻜﻤﻣ ﺮﻴﻏ</CannotGoNoPath>
+  
+  <GoHere>ﺎﻨﻫ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻻﺍ</GoHere>
+  
+  
+  <Arrest>{lookup: {0}; Case; 3} ﻞﻘﺘﻋﺍ</Arrest>
+  
+  <TryToArrest>ﺔﻴﻟﺎﻤﺘﺣﺍ) {lookup: {1_label}; Case; 3} ﻝﺎﻘﺘﻋﺍ ﺔﻟﻭﺎﺤﻣ
+({2}</TryToArrest>
+  
+  <CannotArrest>ﻪﻴﻠﻋ ﺾﺒﻘﻟﺍ ﻦﻜﻤﻣ ﺮﻴﻏ</CannotArrest>
+  
+  <ArrestChance>{0} - ﻝﺎﻘﺘﻋﻻﺍ ﻝﺎﻤﺘﺣﺍ</ArrestChance>
+
+  
+  <Capture>{3 ;ﺔﻟﺎﺤﻟﺍ ;{lookup: {1_label} ﻰﻠﻋ ﺀﻼﻴﺘﺳﻻﺍ</Capture>
+  
+  <CannotCapture>ﻪﻴﻠﻋ ﺀﻼﻴﺘﺳﻻﺍ ﻞﻴﺤﺘﺴﻤﻟﺍ ﻦﻣ</CannotCapture>
+  
+  <Unrecruitable>ﻩﺪﻴﻨﺠﺗ ﻦﻜﻤﻣ ﺮﻴﻏ</Unrecruitable>
+
+  
+  <Rescue>&lt;label_1&gt; ﺫﺎﻘﻧﺇ</Rescue>
+  
+  <PutSomewhereSafe>ﻦﻣﺁ ﻥﺎﻜﻣ ﻰﻟﺇ {label_1} ﻞﻘﻧ</PutSomewhereSafe>
+  
+  <TakingToBed>.ﺮﻳﺮﺴﻟﺍ ﻰﻟﺇ {labelShort_0} ﻞﻤﺤﻳ</TakingToBed>
+  
+  <CannotRescue>ﺫﺎﻘﻧﻺﻟ ﻞﺑﺎﻗ ﺮﻴﻏ</CannotRescue>
+
+  
+  <CarryToCryptosleepCasket>ﺶﻌﻧ ﻰﻟﺇ {lookup: {1_label}; Case; 3} ﻞﻘﻧ
+.ﻱﺪﻴﻠﺠﻟﺍ ﺮﺒﻘﻟﺍ</CarryToCryptosleepCasket>
+  
+  <CannotCarryToCryptosleepCasket>ﻍﺎﻓﻮﻛﺮﺴﻟﺍ ﻰﻟﺇ ﺪﻤﺠﺘﻤﻟﺍ ﻥﺎﻤﺜﺠﻟﺍ ﻞﻘﻧ ﻦﻜﻤﻳ ﻻ</CannotCarryToCryptosleepCasket>
+
+  
+  <CarryToShuttle>ﺔﻴﺋﺎﻀﻔﻟﺍ ﺔﺒﻛﺮﻤﻟﺍ ﻰﻟﺇ {label_0} ﻞﻘﻧ</CarryToShuttle>
+
+  
+  <NoCryptosleepCasket>.ﺔﺣﺎﺘﻣ ﺔﻨﺳﻮﺘﺒﻳﺮﻛ ﺖﻴﺑﺍﻮﺗ ﺪﺟﻮﺗ ﻻ</NoCryptosleepCasket>
+  
+  <CryptosleepCasketGuestsNotAllowed>.ﺔﺘﻗﺆﻤﻟﺍ ﻕﺮﻔﻟﺍ ﺀﺎﻀﻋﻷ ﻉﻮﻨﻤﻣ</CryptosleepCasketGuestsNotAllowed>
+  
+  <CryptosleepCasketGuestPrisonersNotAllowed>.ﻯﺮﺳﻸﻟ ﻉﻮﻨﻤﻣ</CryptosleepCasketGuestPrisonersNotAllowed>
+  
+  <CryptosleepCasketOccupied>ﻞﻌﻔﻟﺎﺑ ﻝﻮﻐﺸﻣ</CryptosleepCasketOccupied>
+  
+  <NoPrisonerBed>ﻲﻓ ﻯﺮﺳﻸﻟ ﺔﺣﺎﺘﻣ ﺓﺮﻏﺎﺷ ﺓﺮﺳﺃ ﺪﺟﻮﺗ ﻻ
+.ﺔﻨﻣﺁ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﺕﺍﺫ ﺔﻘﻠﻐﻤﻟﺍ ﺔﻓﺮﻐﻟﺍ</NoPrisonerBed>
+  
+  <NoNonPrisonerBed>ﻖﻃﺎﻨﻤﻟﺍ ﻲﻓ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺔﺣﺎﺘﻣ ﺓﺮﺳﺃ ﺪﺟﻮﺗ ﻻ
+.ﺔﻨﻣﺁ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﺕﺍﺫ</NoNonPrisonerBed>
+  
+  <NoAnimalBed>ﻦﻛﺎﻣﻷﺍ ﻲﻓ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺔﺣﺎﺘﻣ ﺓﺮﺳﺃ ﺪﺟﻮﺗ ﻻ
+.ﺔﻨﻣﺁ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﺕﺍﺫ</NoAnimalBed>
+  
+  <Reserved>.ﺮﺧﺁ ﺺﺨﺷ ﻞﺒﻗ ﻦﻣ ﺯﻮﺠﺤﻣ</Reserved>
+  
+  <ReservedBy>{labelShort_1} :ﻝﻮﻐﺸﻣ</ReservedBy>
+  
+  <IsReservedBy>.{lookup: {1}; Case; 3} ﻞﻌﻔﻟﺎﺑ ﻡﺪﺨﺘﺴﻳ {0}</IsReservedBy>
+  
+  <TooHeavy>ﺍﺪﺟ ﻖﻫﺮﻣ</TooHeavy>
+  
+  <SameFaction>{0_labelShort} ﺔﻗﺮﻔﻟﺍ ﺲﻔﻧ ﻲﻓ.</SameFaction>
+
+  
+  <Incapable>ﺭﺩﺎﻗ ﺮﻴﻏ</Incapable>
+  
+  <IncapableOfCapacity>{0} ﺭﺩﺎﻗ ﺮﻴﻏ</IncapableOfCapacity>
+  
+  <MustHaveHediff>{label_0} ﺏﻮﻠﻄﻣ</MustHaveHediff>
+
+  
+  <MinSkill>ﻰﻧﺩﻷﺍ ﺓﺭﺎﻬﻤﻟﺍ ﻯﻮﺘﺴﻣ</MinSkill>
+  
+  
+  <Equip>{lookup: {0}; Case; 4} ـﺑ ﻚﺴﻔﻧ ﺢﻴﻠﺴﺗ</Equip>
+  
+  <EquipWarningBrawler>(ﺎﺒﺿﺎﻏ ﻥﻮﻜﻴﺳ ﻢﻛﻼﻤﻟﺍ)</EquipWarningBrawler>
+  
+  <CannotEquip>.{lookup: {0}; Case; 4} ﺢﻴﻠﺴﺗ ﻦﻜﻤﻣ ﺮﻴﻏ</CannotEquip>
+  
+  <CannotManThing>ﻲﻟﺇ ﺔﻴﻌﺿﻮﻟﺍ ﺏﺬﺑﺬﺗ ؛{labelShort_1} ﻝﻼﺘﺣﺍ ﻦﻜﻤﻣ ﺮﻴﻏ
+Impossible to occupy {1_labelShort}; Position fluctuates) .3
+(.to 3</CannotManThing>
+  
+  
+  <ForceWear>{labelShort_1} ﺪﺗﺭﺍ</ForceWear>
+  
+  <CannotWear>;ﺔﻟﺎﺤﻟﺍ ;{lookup: {1_labelShort} ﺀﺍﺪﺗﺭﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ
+{3</CannotWear>
+  
+  <ForceEquipApparel>.ﺓﺮﻴﺧﺫ ;ﺡﻼﺳ ;ﺔﺒﻴﻘﺣ ;ﻉﺭﺩ {labelShort_1} ـﺑ ﺢﻠﺴﺗ</ForceEquipApparel>
+  
+  <CannotEquipApparel>label; Case;_1} ـﺑ ﻚﺴﻔﻧ ﺢﻴﻠﺴﺗ ﻦﻜﻤﻣ ﺮﻴﻏ
+{4</CannotEquipApparel>
+  
+  <CannotWearBecauseOfMissingBodyParts>ﻢﺴﺠﻠﻟ ﺀﺍﺰﺟﺃ ﺪﺟﻮﻳ ﻻ</CannotWearBecauseOfMissingBodyParts>
+  
+  
+  <Reload>lookup: {GEAR_labelShort}; Case; 3} {lookup: {AMMO_label};} ﺔﺌﺒﻌﺗ
+{Case; 4</Reload> 
+  
+  <ReloadFull>ﻞﻣﺎﻜﻟﺎﺑ ﻥﻮﺤﺸﻣ</ReloadFull>
+  
+  <ReloadNotEnough>ﻦﺤﺸﻟﺍ ﺓﺩﺎﻋﻹ ﻑﺎﻛ ﺮﻴﻏ</ReloadNotEnough>
+  
+  <ReloadCannotCarryEnough>&lt;AMMO_label&gt; ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﻞﻘﻧ ﻦﻜﻤﻣ ﺮﻴﻏ
+.ﺓﺪﺣﺍﻭ ﺔﻨﺤﺷ ﺓﺩﺎﻌﺘﺳﻻ</ReloadCannotCarryEnough>  
+  
+  
+  <CannotPickUp>{lookup: {1_labelShort}; Case; 3} ﺬﺧﺃ ﻦﻜﻤﻣ ﺮﻴﻏ</CannotPickUp>
+  
+  <CannotPickUpAll>{lookup: {1_label}; Case; 3} ﺬﺧﺃ ﻦﻜﻤﻣ ﺮﻴﻏ
+.(ﻞﻜﻟﺍ)</CannotPickUpAll>
+  
+  <PickUpOne>labelShort} x1_1} ﺬﺧﺃ</PickUpOne>
+  
+  <PickUpAll>(ﻞﻜﻟﺍ) {3 ;ﺔﻟﺎﺣ ;{lookup: {1_label} ﺬﺧﺃ</PickUpAll>
+  
+  <PickUpSome>...{3 ;ﺔﻟﺎﺣ ;{lookup: {1_labelShort} ﺬﺧﺃ</PickUpSome>
+  
+  <PickUpCount>(ﺔﻌﻄﻗ {{labelShort}}) ({{0_1}}){{0}} ﺬﺧ (*</PickUpCount>
+  
+  <CannotPickUpSome>;ﺔﺒﻴﻘﺣ ;{lookup: {1_labelShort} ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻣ ﺮﻴﻏ
+{3</CannotPickUpSome>
+  
+  <MaxPickUpAllowed>{0} ﻦﻋ ﺪﻳﺰﻳ ﻻ ﺎﻣ ﺬﺧﺃ ﻚﻨﻜﻤﻳ
+{plural_1}</MaxPickUpAllowed> 
+  
+  
+  <CannotGiveToPackAnimal>{lookup: {1_label}; Case; 3} ﻊﺿﻭ ﻦﻜﻤﻳ ﻻ
+ﻙﻮﻴﻔﻟﺍ ﻲﻓ</CannotGiveToPackAnimal>
+  
+  <CannotGiveToPackAnimalAll>{lookup: {1_label}; Case; 3} ﻊﺿﻭ ﻦﻜﻤﻣ ﺮﻴﻏ
+.(ﻞﻜﻟﺍ) 'ﻙﻮﻴﻓ' ﻲﻓ</CannotGiveToPackAnimalAll>
+  
+  <GiveToPackAnimal>ﺽﺮﻌﻟﺍ ﻲﻓ {lookup: {1_label}; Case; 3} ﻊﺿ</GiveToPackAnimal>
+  
+  <GiveToPackAnimalAll>ﻲﻓ (ﻞﻜﻟﺍ) {3 ;ﺔﻟﺎﺤﻟﺍ ;{lookup: {1_label} ﻊﺿ
+.ﻙﻮﻴﻔﻟﺍ</GiveToPackAnimalAll>
+  
+  <GiveToPackAnimalSome>ﻕﻭﺪﻨﺻ ﻲﻓ {3 ;ﺔﻟﺎﺤﻟﺍ ;{lookup: {1_labelShort} ﻊﺿ
+...ﺽﺮﻌﻟﺍ</GiveToPackAnimalSome>
+  
+  <GiveToPackAnimalCount>{3 ;ﻰﻟﺇ ;{lookup: {1_labelShort} ﻦﻣ {{0}} ﻊﺿ
+ﺔﺑﺮﻌﻟﺍ ﻲﻓ</GiveToPackAnimalCount>
+  
+  
+  <CannotLoadIntoCaravan>{lookup: {1_label}; Case; 3} ﺬﺧﺃ ﻦﻜﻤﻣ ﺮﻴﻏ
+ﻖﻳﺮﻄﻟﺍ ﻲﻓ</CannotLoadIntoCaravan>
+  
+  <CannotLoadIntoCaravanAll>{lookup: {1_label}; Case; 3} ﺬﺧﺃ ﻦﻜﻤﻳ ﻻ
+.ﻖﻳﺮﻄﻟﺍ ﻲﻓ (ﻞﻜﻟﺍ)</CannotLoadIntoCaravanAll>
+  
+  <LoadIntoCaravan>ﻲﻓ ﻚﻌﻣ {lookup: {1_label}; Case; 3} ﺬﺧﺃ
+ﺔﻠﺣﺮﻟﺍ</LoadIntoCaravan>
+  
+  <LoadIntoCaravanAll>.ﻖﻳﺮﻄﻟﺍ ﻲﻓ ﻖﻠﻄﻧﺍﻭ (ﻞﻜﻟﺍ) [label_1] ﺬﺧ</LoadIntoCaravanAll>
+  
+  <LoadIntoCaravanSome>...ﻕﻼﻄﻧﻻﺍﻭ {3 ;ﺔﺒﻴﻘﺣ ;{lookup: {1_label} ﺬﺧﺃ</LoadIntoCaravanSome>
+  
+  <LoadIntoCaravanCount>ﺐﻫﺫﺍﻭ (ﺔﻌﻄﻗ {{label; Case; 3} ({{0_1} ﺬﺧ
+ﻖﻳﺮﻄﻟﺍ ﻲﻓ</LoadIntoCaravanCount>
+  
+  <OverweightLower>.ﺍﺪﺟ ﺐﻌﺻ</OverweightLower>
+
+  
+  <CannotCarryToExit>&lt;label_1&gt; ﻞﻤﺣ ﻥﻭﺪﺑ ﺓﺭﺩﺎﻐﻤﻟﺍ ﻦﻜﻤﻣ ﺮﻴﻏ</CannotCarryToExit>
+  
+  <CarryToExit>ﻞﺣﺭﺍ ﻭ {label_1} ﺬﺧ</CarryToExit>
+  
+  <CarryToExitAndCapture>{3 ;ﺔﻟﺎﺤﻟﺍ ﺖﻓﺍ ;{lookup: {1_label} ﻰﻠﻋ ﻲﻟﻮﺘﺳﺍ
+ﺐﺤﺴﻧﺍﻭ</CarryToExitAndCapture>
+  
+  
+  <Strip>{label_1} ﻊﻠﺨﺑ ﻢﻗ</Strip>
+  
+  <CannotStrip>;{1 ﺮﺼﻨﻌﻟﺍ} :lookup} ﺲﺑﻼﻣ ﻊﻠﺧ ﻦﻜﻤﻣ ﺮﻴﻏ
+{3 ;ﺔﺒﻠﻋ</CannotStrip>
+  
+  <CannotDrop>{lookup: {1_label}; Case; 3} ﺀﺎﻘﻟﺇ ﻦﻜﻤﻣ ﺮﻴﻏ</CannotDrop>
+  
+  <Carry>{lookup: {0_label}; Case; 3} ﺭﺎﻴﺘﺧﻻﺍ</Carry>
+  
+  <CannotCarry>{lookup: {0_label}; Case; 3} ﺬﺧﺃ ﻦﻜﻤﻣ ﺮﻴﻏ</CannotCarry>
+  
+  <QuestRelated>ﻞﻴﺼﻔﻟﺍ ﻲﻓ ﺖﻗﺆﻣ ﻮﻀﻋ</QuestRelated>
+  
+  <QuestRelated_Outfit>ﺖﻗﺆﻤﻟﺍ ﻖﻳﺮﻔﻟﺍ ﺀﺎﻀﻋﻷ ﺲﺑﻼﻤﻟﺍ ﺮﻴﻴﻐﺗ ﻦﻜﻤﻣ ﺮﻴﻏ
+.ﺔﻠﻴﺼﻔﻟﺍ ﻲﻓ</QuestRelated_Outfit>
+  
+  <WouldReplaceLockedApparel>.ﺲﺑﻼﻤﻟﺍ ﻝﺍﺪﺒﺘﺳﺍ ﻦﻜﻤﻳ ﻻ</WouldReplaceLockedApparel>
+
+  
+  <CannotPlaceIn>{lookup: {0_label}; Case; 3} ﻊﺿﻭ ﻦﻜﻤﻳ ﻻ
+.{lookup: {1_label}; Case; 3} ﻲﻓ</CannotPlaceIn>
+  
+  <PlaceIn>lookup:} ﻲﻓ {lookup: {0_label}; Case; 3} ﻊﺿﻭ
+{{1_label}; Case; 3</PlaceIn>
+
+  
+  <SelfDestructHere>ﺎﻨﻫ ﺲﻔﻨﻟﺍ ﺮﻴﻣﺪﺗ</SelfDestructHere>
+  
+  
+  <Drop>&lt;label_1&gt; ﺀﺎﻘﻟﺇ</Drop>
+
+  
+  <UseMedicalBed>ﺀﺎﻔﺸﻟﺍ ﻰﺘﺣ ﺔﺣﺍﺮﻟﺍ</UseMedicalBed>
+  
+  <NotInjured>ﺎﺑﺎﺼﻣ ﺲﻴﻟ</NotInjured>
+  
+  <NoDoctor>ﺐﻴﺒﻃ ﺪﺟﻮﻳ ﻻ</NoDoctor>
+  
+  <NotForSlaves>.ﺪﻴﺒﻌﻠﻟ ﺺﺼﺨﻣ ﺮﻴﻏ ﻲﺒﻄﻟﺍ ﺮﻳﺮﺴﻟﺍ</NotForSlaves>
+  
+  <SomeoneElseSleeping>.ﻞﻌﻔﻟﺎﺑ ﺎﻨﻫ ﻡﺎﻨﻳ {0}</SomeoneElseSleeping>
+  
+  
+  <TradeWith>{lookup: {0}; Case; 4} ﻊﻣ ﺓﺭﺎﺠﺗ</TradeWith>
+  
+  <CannotTrade>ﺓﺭﺎﺠﺘﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ</CannotTrade>
+
+  
+  <Open>{lookup: {0_label}; Case; 3} ﺢﺘﻓ</Open>
+  
+  <CannotOpen>lookup: {0_label}; Case;} ﺢﺘﻓ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ
+{3</CannotOpen>
+  
+  
+  <EnterMap>{lookup: {0}; Case; 3} ﺓﺭﺎﻳﺯ</EnterMap>
+  
+  <VisitSettlement>{lookup: {0}; Case; 3} ﺓﺭﺎﻳﺯ</VisitSettlement>
+  
+  <VisitPeaceTalks>{lookup: {0}; Case; 3} ﺓﺭﺎﻳﺯ</VisitPeaceTalks>
+  
+  <VisitEscapeShip>{lookup: {0}; Case; 3} ﺓﺭﺎﻳﺯ</VisitEscapeShip>
+  
+  <AttackSettlement>{lookup: {0}; Case; 3} ﺔﻤﺟﺎﻬﻣ</AttackSettlement>
+  
+  <ApproachSite>{lookup: {0}; Case; 2} ﻦﻣ ﺏﺍﺮﺘﻗﻻﺍ</ApproachSite>
+  
+  <ApproachingSite>{2 ;ﺔﻟﺎﺣ ;{lookup: {0} ﻰﻟﺇ ﺐﻫﺬﻳ</ApproachingSite>
+  
+  <OfferGifts>ﺔﻳﺪﻫ ﻢﻳﺪﻘﺗ</OfferGifts>
+  
+  <TradeWithSettlement>{0} ﻊﻣ ﺓﺭﺎﺠﺗ</TradeWithSettlement>
+
+  
+  
+  <EnterCryptosleepCasket>ﻖﻴﻤﻌﻟﺍ ﻡﻮﻨﻟﺍ ﺕﻮﺑﺎﺘﻟﺍ ﻲﻓ ﺀﺎﻘﻠﺘﺳﻻﺍ</EnterCryptosleepCasket>
+  
+  <OpenCryptosleepCasket>ﻱﺮﺛﻷﺍ ﺕﻮﺑﺎﺘﻟﺍ ﺢﺘﻓ</OpenCryptosleepCasket>
+  
+  <EnterShuttle>ﻕﺭﻭﺰﻟﺍ ﻲﻓ ﺱﻮﻠﺟ</EnterShuttle>
+
+  
+  
+  <CannotGenericWork>{3 ;ﺔﻟﺎﺣ ;{lookup: {1} {0} ﻦﻜﻤﻣ ﺮﻴﻏ</CannotGenericWork>
+  
+  <CannotGenericWorkCustom>{0} ﻦﻜﻤﻣ ﺮﻴﻏ</CannotGenericWorkCustom>
+
+  
+  <CannotMissingHealthActivities>ﻦﻃﻮﺘﺴﻤﻟﺍ ﻊﻴﻄﺘﺴﻳ ﻻ :ﻚﻟﺫ ﺬﻴﻔﻨﺗ ﻦﻜﻤﻳ ﻻ
+.ﺔﻴﺤﺻ ﻞﻛﺎﺸﻣ ﺐﺒﺴﺑ {0}</CannotMissingHealthActivities>
+
+  
+  
+  <CannotGenericAlreadyAm>lookup: {2_labelShort}; Case;} {0} ﻞﻌﻔﻟﺎﺑ ﺃﺪﺑ ﻦﻃﻮﺘﺴﻤﻟﺍ
+{3</CannotGenericAlreadyAm>
+  
+  <CannotGenericAlreadyAmCustom>{0} ﻞﻌﻔﻟﺎﺑ ﺃﺪﺑ ﻦﻃﻮﺘﺴﻤﻟﺍ</CannotGenericAlreadyAmCustom>
+
+  
+  <CannotPrioritizeWorkTypeDisabled>ﻯﺪﻟ ﺍﺪﺑﺃ ﻢﺘﻳ ﻦﻟ :ﺬﻴﻔﻨﺘﻟﺍ ﻦﻜﻤﻳ ﻻ
+{0} ﻑﺮﺼﺗ ﻦﻃﻮﺘﺴﻤﻟﺍ</CannotPrioritizeWorkTypeDisabled>
+  
+  <MissingTitleAbility>.ﺏﻮﻠﻄﻤﻟﺍ ﺐﻘﻟ ﺪﺟﻮﻳ ﻻ</MissingTitleAbility>
+
+  
+  <CannotPrioritizeWorkGiverDisabled>{0} ﻥﻮﻜﻳ ﻦﻟ ﺡﺯﺎﻨﻟﺍ :ﻩﺬﻴﻔﻨﺗ ﻦﻜﻤﻳ ﻻ
+.ﺍﺪﺑﺃ</CannotPrioritizeWorkGiverDisabled>
+  
+  <WillNever>.{0} ﺍﺪﺑﺃ ﺙﺪﺤﻳ ﻦﻟ</WillNever>
+
+  
+  <CannotPrioritizeNotAssignedToWorkType>{0} ﻦﻴﻌﻣ ﺮﻴﻏ ﻦﻃﻮﺘﺴﻤﻟﺍ :ﺬﻴﻔﻨﺘﻠﻟ ﻞﺑﺎﻗ ﺮﻴﻏ</CannotPrioritizeNotAssignedToWorkType>
+  
+  <NotAssigned>ﻦﻴﻌﻣ ﺮﻴﻏ</NotAssigned>
+  
+  <NotAssignedToWorkType>{0} ﻦﻴﻌﻣ ﺮﻴﻏ</NotAssignedToWorkType>
+
+  
+  <CannotPrioritizeResearch>.ﻡﺎﻬﻤﻟﺍ ﺔﻳﻮﻟﻭﺃ ﺩﺪﺤﻳ ﺎﻣ ﻲﻫ ﺚﺤﺒﻟﺍ ﺔﻳﻮﻟﻭﺃ</CannotPrioritizeResearch>
+
+  
+  <CannotPrioritizeForbidden>ﻪﺑ ﺡﻮﻤﺴﻣ ﺮﻴﻏ {label_1} :ﺬﻴﻔﻨﺗ ﻦﻜﻤﻳ ﻻ</CannotPrioritizeForbidden>
+  
+  <CannotPrioritizeCellForbidden>ﺭﻮﻈﺤﻣ :ﻚﻟﺫ ﺬﻴﻔﻨﺗ ﻦﻜﻤﻳ ﻻ</CannotPrioritizeCellForbidden>
+  
+  <CannotPrioritizeForbiddenOutsideAllowedArea>ﺎﻬﺑ ﺡﻮﻤﺴﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﺝﺭﺎﺧ</CannotPrioritizeForbiddenOutsideAllowedArea>
+  
+  <CannotPrioritizeBurying>.ﺕﺍﺯﺎﻨﺠﻠﻟ ﺔﻳﻮﻟﻭﻷﺍ ﺀﺎﻄﻋﺇ ﻦﻜﻤﻳ ﻻ</CannotPrioritizeBurying>
+
+  
+  
+  <PrioritizeGeneric>{0} {lookup: {1}; 3 ;ﺔﻟﺎﺣ}</PrioritizeGeneric>
+  
+  
+  <DropAtEdge>ﺔﻓﺎﺤﻟﺍ ﻦﻣ ﺔﻟﺍﺯﺇ</DropAtEdge>
+  
+  <DropInCenter>ﻂﺳﻮﻟﺍ ﻲﻓ ﺀﺎﻘﻟﺇ</DropInCenter>
+  
+  <AttackShuttle>{lookup: {0}; Case; 3} ﺔﻤﺟﺎﻬﻣ</AttackShuttle>
+  
+  <AttackAndDropAtEdge>ﻁﻮﺒﻬﻟﺍﻭ ﺔﻓﺎﺤﻟﺍ ﻖﻠﺴﺗ :{0} ﺔﻤﺟﺎﻬﻣ</AttackAndDropAtEdge>
+  
+  <AttackAndDropInCenter>ﻝﺍﺰﻧﻻﺍ :{lookup: {0}; Case; 3} ﻰﻠﻋ ﻡﻮﺠﻬﻟﺍ
+ﻂﺳﻮﻟﺍ ﻲﻓ</AttackAndDropInCenter>
+  
+  
+  <VomitingLower>ﺄﻴﻘﺘﻳ</VomitingLower>
+  
+  <NotInterruptibleLower>.ﻉﺎﻄﻘﻧﻻﺍ ﻦﻜﻤﻳ ﻻ</NotInterruptibleLower>
+  
+  
+  <AddWaypoint>ﺭﺎﺴﻤﻟﺍ ﻲﻓ ﺔﻄﻘﻧ ﺔﻓﺎﺿﺇ</AddWaypoint>
+  
+  <RemoveWaypoint>ﺭﺎﺴﻤﻟﺍ ﺔﻄﻘﻧ ﻑﺬﺣ</RemoveWaypoint>
+
+  
+  <RemoveAllDesignations>ﺕﺎﻨﻴﻴﻌﺘﻟﺍ ﻊﻴﻤﺟ ﺀﺎﻐﻟﺇ</RemoveAllDesignations>
+  
+  <DesignateAll>ﻞﻜﻟﺍ ﻦﻴﻴﻌﺗ</DesignateAll>
+  
+  <CountToDesignate>ﺎﻫﺪﻳﺪﺤﺗ ﻢﺗ {0}</CountToDesignate>
+  
+  <ForbidAllItems>ﻞﻜﻟﺍ ﻊﻨﻣ</ForbidAllItems>
+  
+  <UnforbidAllItems>ﺀﻲﺷ ﻞﻜﺑ ﺡﺎﻤﺴﻟﺍ</UnforbidAllItems>
+
+  
+  
+  <LandInExistingMap>.ﻁﻮﺒﻬﻟﺍ ﻊﻗﻮﻣ ﺪﻳﺪﺤﺗﻭ ﺮﻴﺒﻜﺘﻟﺍ ﺓﺩﺎﻳﺯ</LandInExistingMap>
+  
+  <TransportPodsContentsWillBeLost>ﻲﺋﺎﻬﻧ ﻞﻜﺸﺑ ﺔﻨﺤﺸﻟﺍ ﻥﺍﺪﻘﻓ ﻢﺘﻴﺳ</TransportPodsContentsWillBeLost>
+  
+  <FormCaravanHere>.ﺎﻨﻫ ﺔﻠﻓﺎﻘﻠﻟ ﻢﻫﺰﻬﺟﺍﻭ ﻢﻫﺪﻋﺃ</FormCaravanHere>
+  
+  <GiveToCaravan>{lookup: {0}; Case; 3} ﺔﻠﻓﺎﻘﻟﺍ ﻎﻠﺑﺃ</GiveToCaravan>
+  
+  <GiveGiftViaTransportPods>({1}) {0} ﻦﺸﻛﺍﺮﻓ ﺐﺴﻜﻟ ﺔﻳﺪﻫ ﻢﻳﺪﻘﺗ</GiveGiftViaTransportPods>
+  
+  <NotPartOfLaunchGroup>.ﺔﻴﻠﻴﻐﺸﺘﻟﺍ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻲﻓ ﺝﺭﺪﻣ ﺮﻴﻏ</NotPartOfLaunchGroup>
+
+  
+  
+  <FreePrisoner>ﺮﻴﺳﻷﺍ ﺮﻳﺮﺤﺗ</FreePrisoner>
+  
+  <OfferHelp>ﺓﺪﻋﺎﺴﻤﻟﺍ ﻢﻳﺪﻘﺗ</OfferHelp>
+
+  
+  <ApplyTechprint>{0} ﻡﺪﺨﺘﺳﺍ</ApplyTechprint>
+
+  
+  <EnterCooldownBlocksEntering>ﺍﺪﺟ ﺮﻄﺨﻟﺍ ﻦﻣ</EnterCooldownBlocksEntering>
+
+  
+  
+  <NoCommsTarget>ﻞﺻﺍﻮﺘﻠﻟ ﺪﺣﺃ ﺪﺟﻮﻳ ﻻ</NoCommsTarget>
+
+  
+  <Invoke>{0} ﻊﻣ ﻞﺻﺍﻮﺘﻟﺍ</Invoke>
+  
+  <CannotInvoke>{0} ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻣ ﺮﻴﻏ</CannotInvoke>
+  
+  <Power>ﺓﻮﻗ</Power>
+  
+  <AlreadyInvoked>.ﻞﻌﻔﻟﺎﺑ ﺕﺃﺪﺑ ﺪﻗ ﺔﻴﻠﻤﻌﻟﺍ</AlreadyInvoked>
+
+  
+  <Tend>{3 ;ﺔﻟﺎﺣ ;{lookup: {0} ﺝﻼﻋ</Tend>
+  
+  <CannotTend>{lookup: {0}; Case; 3} ﺝﻼﻌﻠﻟ ﺔﻠﺑﺎﻗ ﺮﻴﻏ</CannotTend>
+  
+  <TendingNotRequired>.ﺝﻼﻋ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﻻ {0}</TendingNotRequired>
+  
+  <WithoutMedicine>ﺔﻳﻭﺩﺃ ﻥﻭﺪﺑ</WithoutMedicine>
+
+  
+  <RepairThing>{lookup: {0}; Case; 3} ﺡﻼﺻﺇ</RepairThing>
+  
+  <CannotRepair>.ﻊﺿﻮﻟﺍ ﺍﺬﻫ ﻲﻓ {0} ﺡﻼﺻﺇ ﻦﻜﻤﻳ ﻻ</CannotRepair>
+
+  
+  <CannotEnter>ﻝﻮﺧﺪﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ</CannotEnter>
+
+  
+  
+  <CannotRomance>{0} ﻰﻠﻋ ﻞﻳﺎﺤﺘﻟﺍ ﻦﻜﻤﻳ ﻻ</CannotRomance>
+  
+  <CanRomance>{0} ﻊﻣ ﻝﺯﺎﻐﺘﻟﺍ</CanRomance>
+
+  
+  
+  <WarningFoodDisliked>ﻩﻭﺮﻜﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ</WarningFoodDisliked>
+
+</LanguageData>

@@ -1,0 +1,108 @@
+<LanguageData>
+  
+  
+  <Beauty.label>ﺔﻴﺑﺫﺎﺠﻟﺍ</Beauty.label>
+  
+  <Beauty.description>ﺏﺮﻘﻟﺎﺑ ﺩﻮﺟﻮﻟﺍﻭ ﻦﺋﺎﻜﻟﺍ ﻰﻟﺇ ﺮﻈﻨﻟﺍ ﻒﻄﻟ ﻯﺪﻣ
+ﻲﻓ ﻦﻴﺒﻋﻼﻟﺍ ﺕﺎﻴﺼﺨﺷ ﺝﺎﻴﺘﺣﺍ ﻲﺒﻠﺗ ﺔﻠﻴﻤﺠﻟﺍ ﺔﺌﻴﺒﻟﺍn\n\.ﻪﻨﻣ
+.ﻝﺎﻤﺠﻟﺍ</Beauty.description>
+  
+  
+  <BeautyOutdoors.label>ﻉﺭﺎﺸﻟﺍ ﻲﻓ ﺔﻴﺑﺫﺎﺠﻟﺍ</BeautyOutdoors.label>
+  
+  <BeautyOutdoors.description>ﻲﻓ ﻩﺪﺟﺍﻮﺗ ﺪﻨﻋ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﺔﻴﺑﺫﺎﺟ ﻯﺪﻣ
+.ﻝﺎﻤﺠﻟﺍ ﻲﻓ ﺱﺎﻨﻟﺍ ﺕﺎﺟﺎﻴﺘﺣﺍ ﻲﺒﻠﺗ ﺔﺑﺫﺎﺠﻟﺍ ﺮﺻﺎﻨﻌﻟﺍn\n\.ﻉﺭﺎﺸﻟﺍ</BeautyOutdoors.description>
+  
+  
+  <Cleanliness.label>ﺔﻓﺎﻈﻧ</Cleanliness.label>
+  
+  <Cleanliness.description>ﺔﻓﺮﻐﻟﺍ ﺔﻓﺎﻈﻧ ﻰﻠﻋ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﺮﻴﺛﺄﺗ ﺎﻣ
+؟ﺔﻣﺎﻌﻟﺍ</Cleanliness.description>
+  
+  
+  <Comfort.label>ﺔﺣﺍﺮﻟﺍ</Comfort.label>
+  
+  <Comfort.description>ﻰﻠﻋ ﺀﺎﻘﻠﺘﺳﻻﺍ ﻭﺃ ﺱﻮﻠﺠﻟﺍ ﺪﻨﻋ ﺔﺣﺍﺮﻟﺍ ﻯﺪﻣ
+ﺮﺒﻛﺃ ﺔﺣﺍﺭ ﺔﺤﻳﺮﻤﻟﺍ ﺓﺮﺳﻷﺍﻭ ﻲﺳﺍﺮﻜﻟﺍ ﺮﻓﻮﻳn\n\.ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ
+.ﺔﺣﺍﺮﻟﺍ ﻦﻣ ﻢﻬﺗﺎﺟﺎﻴﺘﺣﺍ ﻲﺒﻠﺗﻭ ﺐﻋﻼﻟﺍ ﺕﺎﻴﺼﺨﺸﻟ</Comfort.description>
+  
+  
+  <DeteriorationRate.label>ﻒﻠﺘﻟﺍ ﺔﻋﺮﺳ</DeteriorationRate.label>
+  
+  <DeteriorationRate.description>ﻲﻓ ﻪﻛﺮﺗ ﺪﻨﻋ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﺭﻮﻫﺪﺗ ﺔﻋﺮﺳ
+ﺽﺮﻌﺘﻟﺍﻭ ﻒﻘﺴﻟﺍﻭ ﺲﻘﻄﻟﺍ ﻞﺜﻣ ﻞﻣﺍﻮﻌﻟﺎﺑ ﺮﺛﺄﺘﺗ ﺝﺭﺎﺨﻟﺍ
+.ﻂﻴﺤﻤﻟﺍ ﺙﻮﻠﺘﻟﺍ ﻯﻮﺘﺴﻣﻭ ﺔﻣﺎﺴﻟﺍ ﺩﺍﻮﻤﻟﺍﻭ ﺀﺎﻤﻠﻟ</DeteriorationRate.description>
+  
+  <DeteriorationRate.formatString>{0} / A</DeteriorationRate.formatString>
+  
+  
+  <Flammability.label>ﻝﺎﻌﺘﺷﻻﺍ</Flammability.label>
+  
+  <Flammability.description>.ﺓﺮﻴﺒﻛ ﺔﻋﺮﺴﺑ ﻕﺮﺘﺤﻳﻭ ﺔﻟﻮﻬﺴﺑ ﻦﺋﺎﻜﻟﺍ ﻞﻌﺘﺸﻳ</Flammability.description>
+  
+  
+  <FoodPoisonChanceFixedHuman.label>ﻲﺋﺍﺬﻐﻟﺍ ﻢﻤﺴﺘﻟﺍ ﺔﺻﺮﻓ</FoodPoisonChanceFixedHuman.label>
+  
+  <FoodPoisonChanceFixedHuman.description>ﺍﺬﻫ ﻝﻭﺎﻨﺗ ﺪﻨﻋ ﻲﺋﺍﺬﻏ ﻢﻤﺴﺗ ﺙﻭﺪﺣ ﺔﻴﻟﺎﻤﺘﺣﺍ
+.ﻡﺎﻌﻄﻟﺍ</FoodPoisonChanceFixedHuman.description>
+  
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>(ﻡﺎﻌﻄﻟﺍ ﺮﺷﺆﻣ) ﻲﺋﺍﺬﻐﻟﺍ ﻢﻤﺴﺘﻟﺍ ﺔﺻﺮﻓ</FoodPoisonChanceFixedHuman.labelForFullStatList>
+  
+  
+  <MarketValue.label>ﻕﻮﺴﻟﺍ ﺔﻤﻴﻗ</MarketValue.label>
+  
+  <MarketValue.description>ﺮﻴﻴﻐﺗ ﻢﺘﻳ .ﻕﻮﺴﻟﺍ ﻲﻓ ﺮﺼﻨﻌﻠﻟ ﻲﺳﺎﺳﻷﺍ ﺮﻌﺴﻟﺍ
+ﻚﺘﻗﻼﻋ ﻰﻠﻋ ﺀﺎﻨﺑ ﺓﺭﺎﺠﺘﻟﺍ ﺀﺎﻨﺛﺃ ﺔﻴﻠﻌﻔﻟﺍ ﺔﻤﻴﻘﻟﺍ
+.ﺓﺭﺎﺠﺘﻟﺍ ﻲﻓ ﻚﺗﺍﺭﺎﻬﻣﻭ</MarketValue.description>
+  
+  
+  <MarketValueIgnoreHp.label>ﺔﻟﺎﺤﻟﺍ ﺏﺎﺴﺘﺣﺍ ﻥﻭﺪﺑ ﺔﻴﻗﻮﺴﻟﺍ ﺔﻤﻴﻘﻟﺍ</MarketValueIgnoreHp.label>
+  
+  
+  <Mass.label>ﺔﻠﺘﻛ</Mass.label>
+  
+  <Mass.description>.ﻦﺋﺎﻜﻠﻟ ﺔﻴﺋﺎﻳﺰﻴﻔﻟﺍ ﺔﻠﺘﻜﻟﺍ</Mass.description>
+  
+  <Mass.formatString>ﻢﺠﻛ {0}</Mass.formatString>
+  
+  
+  <MaxHitPoints.label>ﺔﻧﺎﺘﻣ ﻰﺼﻗﺃ</MaxHitPoints.label>
+  
+  <MaxHitPoints.description>ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺭﺮﻀﻟﺍ ﺔﻴﻤﻛ ﺮﻬﻈﻳn\n\.ﻦﺋﺎﻜﻠﻟ ﺓﻮﻗ ﻰﺼﻗﺃ
+.ﺮﻴﻣﺪﺘﻟﺍ ﻞﺒﻗ ﺎﻬﻠﻤﺤﺗ ﻦﺋﺎﻜﻠﻟ</MaxHitPoints.description>
+  
+  
+  <Nutrition.label>ﺀﺍﺬﻐﻟﺍ</Nutrition.label>
+  
+  <Nutrition.description>ﻡﺎﻌﻄﻟﺍ ﺍﺬﻫ ﺓﺪﺋﺎﻓ ﻯﺪﻣ</Nutrition.description>
+  
+  
+  <RoyalFavorValue.label>ﺮﺼﻘﻟﺍ ﻲﻓ ﻢﻜﺑ ﺎﺒﺣﺮﻣ</RoyalFavorValue.label>
+  
+  <RoyalFavorValue.description>ﻪﻴﻠﻋ ﻞﺼﺤﻴﺳ ﻱﺬﻟﺍ ﺵﺮﻌﻟﺍ ﺝﺎﺗ ﺔﻤﺣﺭ ﺭﺍﺪﻘﻣ
+.ﺐﺋﺍﺮﻀﻟﺍ ﻊﻣﺎﺠﻟ ﻪﻤﻴﻠﺴﺗ ﺪﻨﻋ ﻙﺮﺟﺎﺗ</RoyalFavorValue.description>
+  
+  
+  <SellPriceFactor.label>ﻊﻴﺒﻟﺍ ﺮﻌﺳ ﻞﻣﺎﻌﻣ</SellPriceFactor.label>
+  
+  <SellPriceFactor.description>ﻊﻴﺒﺗ ﻥﺃ ﻚﻨﻜﻤﻳ ﻱﺬﻟﺍ ﺮﻌﺴﻟﺍ ﺏﺮﺿ ﻞﻣﺎﻌﻣ
+.ﺮﺻﺎﻨﻌﻟﺍ ﻪﺑ</SellPriceFactor.description>
+  
+  
+  <ShootingAccuracyTurret.label>ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﺔﻗﺩ</ShootingAccuracyTurret.label>
+  
+  <ShootingAccuracyTurret.description>ﻦﻣ ﺔﻧﺎﺧ ﻞﻛ ﻲﻓ ﺏﺮﻀﻠﻟ ﻲﺳﺎﺳﻷﺍ ﻝﺎﻤﺘﺣﻻﺍ
+ﻞﻣﺍﻮﻌﻟﺍ ﻰﻠﻋ ﺪﻤﺘﻌﻳ ﺏﺮﻀﻠﻟ ﻲﻠﻌﻔﻟﺍ ﺡﺎﺠﻨﻟﺍ .ﻯﺪﻤﻟﺍ
+ﻦﻣ ﺪﻳﺰﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻳ .ﺓﺪﻳﺪﻌﻟﺍ ﻯﺮﺧﻷﺍ
+ﺪﻳﺪﺤﺗ ﻖﻳﺮﻃ ﻦﻋ ﺓﺩﺪﺤﻣ ﺔﻟﺎﺣ ﻞﻜﻟ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ
+.ﻑﺪﻬﻟﺍ ﻮﺤﻧ ﺮﺷﺆﻤﻟﺍ ﻪﻴﺟﻮﺗﻭ ﺯﻮﻣﺮﻟﺍ</ShootingAccuracyTurret.description>
+  
+  <ShootingAccuracyTurret.labelForFullStatList>(ﻊﻓﺍﺪﻤﻟﺍ) ﺐﻳﻮﺼﺘﻟﺍ ﺔﻗﺩ</ShootingAccuracyTurret.labelForFullStatList>
+  
+  
+  <WorkToMake.label>ﻞﻤﻌﻟﺍ ﻢﺠﺣ</WorkToMake.label>
+  
+  <WorkToMake.description>ﺪﻌﺑ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﻊﻨﺼﻟ ﺏﻮﻠﻄﻤﻟﺍ ﻞﻤﻌﻟﺍ ﻢﺠﺣ
+.ﺕﺍﻭﺩﻷﺍﻭ ﺩﺍﻮﻤﻟﺍ ﻞﻛ ﻊﻤﺟ</WorkToMake.description>
+  
+</LanguageData>

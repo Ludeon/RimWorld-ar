@@ -1,0 +1,72 @@
+<LanguageData>
+  
+  
+  <AIPersonaCore.label>ﻲﻋﺎﻨﻄﺻﻻﺍ ﺀﺎﻛﺬﻟﺍ ﺓﺍﻮﻧ</AIPersonaCore.label>
+  
+  <AIPersonaCore.description>ﻲﻋﺎﻨﻄﺻﺍ ﺀﺎﻛﺫ ﺔﻴﺼﺨﺷ ﻊﻣ ﺔﻣﺪﻘﺘﻣ ﺔﻴﺑﻮﺳﺎﺣ ﺓﺍﻮﻧ
+ﻲﻓ ﺓﺍﻮﻨﻟﺍ ﻥﻮﻜﺗ ،ﻝﺰﻌﻟﺍ ﺔﻟﺎﺣ ﻲﻓ .ﺔﺠﻣﺪﻣ
+ﻞﻜﻴﻫ ﻲﻓ ﺖﺒﺜﺗ ﺎﻣﺪﻨﻋ ﻦﻜﻟﻭ ،ﻥﻮﻜﺴﻟﺍ ﻊﺿﻭ
+.ﻱﻮﻗ ﻲﻋﺎﻨﻄﺻﺍ ﺀﺎﻛﺬﻛ ﻞﻤﻌﻟﺍ ﺎﻬﻨﻜﻤﻳ ،ﺐﺳﺎﻨﻣ</AIPersonaCore.description>
+  
+  
+  <ElephantTusk.label>ﺝﺎﻌﻟﺍ ﺏﺎﺠﻨﺳ</ElephantTusk.label>
+  
+  <ElephantTusk.description>ﺕﺍﻭﺩﺃ ﺮﺜﻛﺃ ﺲﻴﻟ .ﻦﻴﻤﺛﻭ ﻱﻮﻗ ،ﻞﻴﻔﻟﺍ ﺝﺎﻋ
+.ﺮﻴﻄﺧ ﻪﻨﻜﻟ ،ﺔﺣﺍﺭ ﻝﺎﺘﻘﻟﺍ</ElephantTusk.description>
+  
+  <ElephantTusk.tools.point.label>ﺩﺎﺣ</ElephantTusk.tools.point.label>
+  
+  <ElephantTusk.tools.base.label>ﺲﻴﺳﺄﺘﻟﺍ</ElephantTusk.tools.base.label>
+  
+  
+  <MechSerumHealer.label>ﺀﺎﻔﺸﻟﺍ ﻡﺮﻴﺳ</MechSerumHealer.label>
+  
+  <MechSerumHealer.description>ﻞﺤﻟ ﺔﺠﻣﺮﺒﻤﻟﺍ ﺲﺘﻴﻧﺎﻜﻴﻤﻟﺍ ﻦﻣ ﺔﻘﺋﺎﻓ ﺔﻋﺮﺠﺑ ﻡﻭﺮﻴﺳ
+ﺽﺍﺮﻣﻷﺍﻭ ﺡﻭﺮﺠﻟﺍ ﺞﻟﺎﻌﻳﻭ ﺲﺘﻴﻧﺎﻜﻴﻤﻟﺍ ﻒﺸﺘﻜﻴﺳ .ﺔﺤﺼﻟﺍ ﻞﻛﺎﺸﻣ
+ﻚﻟﺫ ﻲﻓ ﺎﻤﺑ ، ﺾﻳﺮﻤﻠﻟ ﺓﺭﻮﻄﺧ ﺮﺜﻛﻷﺍ
+.ﻯﺮﺧﺃ ﻞﺋﺎﺳﻮﺑ ﺎﻬﺟﻼﻋ ﻦﻜﻤﻳ ﻻ ﻲﺘﻟﺍ ﺽﺍﺮﻣﻷﺍ
+ﻝﻮﺤﺘﻟﺍ ﺲﺘﻴﻧﺎﻜﻴﻤﻠﻟ ﻦﻜﻤﻳ ، ﺮﻣﻷﺍ ﻡﺰﻟ ﺍﺫﺇ
+ﺀﺎﻀﻋﺃﻭ ﻑﺍﺮﻃﺃ ﻞﻴﻜﺸﺗﻭ ، ﺔﻳﻮﻀﻋ ﺓﺩﺎﻣ ﻰﻟﺇ
+.ﺔﻔﻟﺎﺘﻟﺍ ﻦﻣ ﻻﺪﺑ ﺓﺪﻳﺪﺟ</MechSerumHealer.description>
+  
+  <MechSerumHealer.comps.CompUsable.useLabel>{lookup: {0_label}; Case; 3} ﻡﺪﺨﺘﺳﺍ</MechSerumHealer.comps.CompUsable.useLabel>
+  
+  
+  <MechSerumResurrector.label>ﺀﺎﻴﺣﻹﺍ ﻡﻭﺮﻴﺳ</MechSerumResurrector.label>
+  
+  <MechSerumResurrector.description>.ﻰﺗﻮﻤﻟﺍ ﺀﺎﻴﺣﻹ ﺔﺠﻣﺮﺒﻣ ﺕﺎﻴﻟﻵﺍ ﻦﻣ ﺓﺩﻭﺪﺴﻣ ﺔﻋﺮﺟ
+ﻰﻟﺇ ﺪﺴﺠﻟﺍ ﺪﻴﻌﺗﻭ ﺔﻔﻟﺎﺘﻟﺍ ﺔﺠﺴﻧﻷﺍ ﺪﻴﻌﺗ ﺕﺎﻴﻟﻵﺍ
+ﺪﻗ ﻦﻴﻴﺤﻤﻟﺍ :ﺎﻧﻮﻤﻀﻣ ﺲﻴﻟ ﻞﻣﺎﻜﻟﺍ ﺡﺎﺠﻨﻟﺍ .ﺓﺎﻴﺤﻟﺍ
+ﻰﻤﻌﻟﺍ ﻭﺃ ﻍﺎﻣﺪﻟﺍ ﻲﻓ ﺭﺮﺿ ﻦﻣ ﻥﻮﻧﺎﻌﻳ
+ﺎﻤﻠﻛ ﻞﻀﻓﺃ ﻥﻮﻜﺗ ﺔﺠﻴﺘﻨﻟﺍ .ﻲﺠﻳﺭﺪﺘﻟﺍ ﻥﺎﻫﺬﻟﺍ ﻭﺃ
+ﻢﺗ ﺍﺫﺇ .ﺔﺛﺍﺪﺣ ﺮﺜﻛﺃ ﺾﻳﺮﻤﻟﺍ ﺪﺴﺟ ﻥﺎﻛ
+ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻴﻓ ،ﺔﺤﻴﺤﺻ ﻑﻭﺮﻇ ﻲﻓ ﺪﺴﺠﻟﺍ ﻦﻳﺰﺨﺗ
+.ﺕﻮﻤﻟﺍ ﻦﻣ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻓ ﺪﻌﺑ ﻰﺘﺣ ﻞﺼﻤﻟﺍ
+
+ﻲﺋﺰﺟ ﻥﺍﺪﻘﻓ ﻦﻣ ﺎﻀﻳﺃ ﻥﻮﻧﺎﻌﻳ ﻑﻮﺳ ﻦﻴﻴﺤﻤﻟﺍ
+.ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺕﻼﻋﺎﻔﺘﻟﺍﻭ ﺓﺮﻴﺧﻷﺍ ﺙﺍﺪﺣﻷﺍ ﻥﺎﻴﺴﻧ ،ﺓﺮﻛﺍﺬﻠﻟ</MechSerumResurrector.description>
+  
+  <MechSerumResurrector.comps.CompUsable.useLabel>{lookup: {0_label}; Case; 3} ﻡﺪﺨﺘﺳﺍ</MechSerumResurrector.comps.CompUsable.useLabel>
+  
+  
+  <TechprofSubpersonaCore.label>ﻒﻟﺍﻮﺴﻟﺍ ﻢﻠﻌﻣ</TechprofSubpersonaCore.label>
+  
+  <TechprofSubpersonaCore.description>ﺔﻴﻋﺮﻓ ﺔﻴﺼﺨﺷ ﻊﻣ ﻲﻋﺎﻨﻄﺻﻻﺍ ﺀﺎﻛﺬﻠﻟ ﺓﺮﻴﻐﺻ ﺓﺍﻮﻧ
+ﺕﺎﻣﻮﻠﻌﻣ ﻡﺪﺨﺘﺴﻤﻠﻟ ﺮﻓﻮﺗ .ﻢﻠﻌﺘﻟﺍ ﺕﺎﻴﻨﻘﺗ ﻲﻓ ﺔﺼﺼﺨﺘﻣ
+.ﺎﻧﺎﺠﻣﻭ ﺍﺭﻮﻓ ﺚﺤﺒﻠﻟ ﺓﺭﺎﺘﺨﻤﻟﺍ ﺔﻴﻨﻘﺘﻟﺍ ﻝﻮﺣ ﺔﻠﻣﺎﺷ
+.ﻂﻘﻓ ﺓﺪﺣﺍﻭ ﺓﺮﻣ ﻡﺍﺪﺨﺘﺳﻻﺍ</TechprofSubpersonaCore.description>
+  
+  <TechprofSubpersonaCore.comps.CompUsable.useLabel>{lookup: {0_label}; Case; 3} ﻖﻴﺒﻄﺗ</TechprofSubpersonaCore.comps.CompUsable.useLabel>
+  
+  
+  <ThrumboHorn.label>ﻕﻮﺒﻟﺍ ﺔﻧﺭ</ThrumboHorn.label>
+  
+  <ThrumboHorn.description>ﺍﺪﺟ ﻱﻮﻗ ،ﻰﺳﻮﻤﻟﺎﻛ ﺩﺎﺣ - ﻮﺒﻣﻭﺮﺗ ﻥﺮﻗ
+ﺐﻳﺮﻗ ﺡﻼﺴﻛ ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ .ﺓﺰﺋﺎﺠﻛ ﺔﻳﺎﻐﻠﻟ ﺭﺩﺎﻧﻭ
+.ﻯﺪﻤﻟﺍ</ThrumboHorn.description>
+  
+  <ThrumboHorn.tools.point.label>ﺩﺎﺣ</ThrumboHorn.tools.point.label>
+  
+  <ThrumboHorn.tools.base.label>ﺔﻨﻃﻮﺘﺴﻤﻟﺍ</ThrumboHorn.tools.base.label>
+  
+</LanguageData>

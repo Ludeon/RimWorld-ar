@@ -1,0 +1,38 @@
+<LanguageData>
+  
+  
+  <MeleeWeapon_Gladius.label>ﺔﺒﻌﻠﻟﺍ ﻑﻼﻏ</MeleeWeapon_Gladius.label>
+  
+  <MeleeWeapon_Gladius.description>ﻲﻓ ﺖﻣﺪﺨﺘﺳﺍ ﻲﺘﻟﺍ ﻚﻠﺘﻟ ﻪﺑﺎﺸﻣ ﺮﻴﺼﻗ ﻒﻴﺳ
+ﺔﻟﻮﻬﺳ .ﺔﻌﻃﺎﻘﻟﺍﻭ ﺓﺩﺎﺤﻟﺍ ﺕﺎﺑﺮﻀﻠﻟ ﺐﺳﺎﻨﻣ .ﺔﻤﻳﺪﻘﻟﺍ ﺭﻮﺼﻌﻟﺍ
+ﻢﺼﺨﻟﺍ ﻰﻠﻋ ﻕﻮﻔﺘﻟﺍ ﺎﺒﻟﺎﻏ ﺎﻬﻨﻜﻤﻳ ﻒﻴﺴﻟﺍ ﺔﻧﻭﺮﻣﻭ
+.ﻯﻮﻗﺃﻭ ﻞﻘﺛﺃ ﺡﻼﺳ ﻊﻣ</MeleeWeapon_Gladius.description>
+  
+  <MeleeWeapon_Gladius.tools.handle.label>ﺾﺒﻘﻤﻟﺍ</MeleeWeapon_Gladius.tools.handle.label>
+  
+  <MeleeWeapon_Gladius.tools.point.label>ﺓﺩﺎﺣ</MeleeWeapon_Gladius.tools.point.label>
+  
+  <MeleeWeapon_Gladius.tools.edge.label>ﺓﺮﻔﺸﻟﺍ</MeleeWeapon_Gladius.tools.edge.label>
+  
+  
+  <MeleeWeapon_LongSword.label>ﻞﻳﻮﻄﻟﺍ ﻒﻴﺴﻟﺍ</MeleeWeapon_LongSword.label>
+  
+  <MeleeWeapon_LongSword.description>ﻞﺗﺎﻗ ،ﻙﻮﻠﻤﻠﻟ ﻢﻳﺪﻗ ﺡﻼﺳ - ﻞﻳﻮﻄﻟﺍ ﻒﻴﺴﻟﺍ
+.ﻊﻄﻘﻟﺍﻭ ﻦﻌﻄﻟﺍ ﺕﺎﺑﺮﻀﻠﻟ ﺐﺳﺎﻨﻣ .ﺓﺮﻫﺎﻤﻟﺍ ﻱﺪﻳﻷﺍ ﻲﻓ</MeleeWeapon_LongSword.description>
+  
+  <MeleeWeapon_LongSword.tools.handle.label>ﺾﺒﻘﻤﻟﺍ</MeleeWeapon_LongSword.tools.handle.label>
+  
+  <MeleeWeapon_LongSword.tools.point.label>ﺩﺎﺣ</MeleeWeapon_LongSword.tools.point.label>
+  
+  <MeleeWeapon_LongSword.tools.edge.label>ﺓﺩﺎﺤﻟﺍ ﺓﺮﻔﺸﻟﺍ</MeleeWeapon_LongSword.tools.edge.label>
+  
+  
+  <MeleeWeapon_Mace.label>ﺓﻭﺍﺮﻬﻟﺍ</MeleeWeapon_Mace.label>
+  
+  <MeleeWeapon_Mace.description>.ﺔﺘﻴﻤﻤﻟﺍ ﺔﺑﺮﻀﻟﺍﻭ ﺔﻟﺎﻌﻔﻟﺍ ﺔﺑﺮﻀﻠﻟ ﺔﺒﺳﺎﻨﻣ ﺔﻘﻴﻧﺃ ﺎﺼﻋ</MeleeWeapon_Mace.description>
+  
+  <MeleeWeapon_Mace.tools.handle.label>ﻂﺑﺍﻭﺭ</MeleeWeapon_Mace.tools.handle.label>
+  
+  <MeleeWeapon_Mace.tools.head.label>ﺱﺃﺮﻟﺍ</MeleeWeapon_Mace.tools.head.label>
+  
+</LanguageData>

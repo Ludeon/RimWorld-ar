@@ -1,0 +1,447 @@
+<LanguageData>
+  
+  
+  <Monkey.label>ﺩﺮﻘﻟﺍ</Monkey.label>
+  
+  <Monkey.corePart.parts.left_clavicle.customLabel>.ﻯﺮﺴﻴﻟﺍ ﺓﻮﻗﺮﺘﻟﺍ</Monkey.corePart.parts.left_clavicle.customLabel>
+  
+  <Monkey.corePart.parts.right_clavicle.customLabel>ﻦﻤﻳﻷﺍ ﻒﺘﻜﻟﺍ</Monkey.corePart.parts.right_clavicle.customLabel>
+  
+  <Monkey.corePart.parts.left_lung.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﺋﺮﻟﺍ</Monkey.corePart.parts.left_lung.customLabel>
+  
+  <Monkey.corePart.parts.right_lung.customLabel>ﻦﻤﻳﻷﺍ ﻱﻮﺋﺮﻟﺍ ﻥﺎﻳﺮﺸﻟﺍ</Monkey.corePart.parts.right_lung.customLabel>
+  
+  <Monkey.corePart.parts.left_kidney.customLabel>ﻯﺮﺴﻴﻟﺍ ﻰﻠﻜﻟﺍ</Monkey.corePart.parts.left_kidney.customLabel>
+  
+  <Monkey.corePart.parts.right_kidney.customLabel>ﻰﻨﻤﻴﻟﺍ ﻰﻠﻜﻟﺍ</Monkey.corePart.parts.right_kidney.customLabel>
+  
+  <Monkey.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ﻯﺮﺴﻴﻟﺍ ﻦﻴﻌﻟﺍ</Monkey.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  
+  <Monkey.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ﻰﻨﻤﻴﻟﺍ ﻦﻴﻌﻟﺍ</Monkey.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  
+  <Monkey.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ﻯﺮﺴﻴﻟﺍ ﻥﺫﻷﺍ</Monkey.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  
+  <Monkey.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ﻰﻨﻤﻴﻟﺍ ﻥﺫﻷﺍ</Monkey.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  
+  <Monkey.corePart.parts.left_shoulder.customLabel>ﺮﺴﻳﻷﺍ ﻒﺘﻜﻟﺍ</Monkey.corePart.parts.left_shoulder.customLabel>
+  
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ</Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>ﺮﺴﻳﻷﺍ ﻲﻔﺘﻜﻟﺍ ﻢﻈﻌﻟﺍ</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>ﺮﺴﻳﻷﺍ ﻉﺍﺭﺬﻟﺍ</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ ﻲﻓ ﺮﺼﻨﺒﻟﺍ ﻊﺒﺻﺇ</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ ﻊﺒﺻﺇ ﻕﻭﺪﻨﺻ ﻦﻄﺑ</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻠﻟ ﻰﻄﺳﻮﻟﺍ ﻊﺒﺻﻹﺍ</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﺑﺎﺒﺴﻟﺍ ﻊﺒﺻﺇ</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>ﺮﺴﻳﻷﺍ ﻡﺎﻬﺑﻹﺍ</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  
+  <Monkey.corePart.parts.right_shoulder.customLabel>ﻦﻤﻳﻷﺍ ﻒﺘﻜﻟﺍ</Monkey.corePart.parts.right_shoulder.customLabel>
+  
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ</Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﺘﻜﻟﺍ ﺔﻤﻈﻌﻟﺍ</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>ﻦﻤﻳﻷﺍ ﺪﻋﺎﺴﻟﺍ</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>ﻦﻤﻳﻷﺍ ﻒﻜﻟﺍ</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>ﻦﻤﻳﻷﺍ ﻡﺎﻬﺑﻹﺍ</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ ﻲﻓ ﻰﻤﺴﻣ ﺮﻴﻏ ﻊﺒﺻﺇ</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻠﻟ ﻰﻄﺳﻮﻟﺍ ﻊﺒﺻﻹﺍ</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>ﻦﻤﻳﻷﺍ ﻡﺎﻬﺑﻹﺍ</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ ﻲﻓ ﺮﻴﺒﻜﻟﺍ ﻡﺎﻬﺑﻹﺍ</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  
+  <Monkey.corePart.parts.left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</Monkey.corePart.parts.left_leg.customLabel>
+  
+  <Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>ﺮﺴﻳﻷﺍ ﺬﺨﻔﻟﺍ</Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>
+  
+  <Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>.ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ</Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  
+  <Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>
+  
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ ﻲﻓ ﺮﻴﻐﺼﻟﺍ ﻊﺒﺻﻹﺍ</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ ﻲﻓ ﻰﻤﺴﻣ ﺮﻴﻏ ﻊﺒﺻﺇ</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻠﻟ ﻰﻄﺳﻮﻟﺍ ﻊﺒﺻﺇ</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻠﻟ ﺓﺭﺎﺷﻹﺍ ﺔﺑﺎﺒﺴﻟﺍ</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>ﺮﻴﺒﻜﻟﺍ ﺭﺎﺴﻴﻟﺍ ﻡﺪﻗ ﻡﺎﻬﺑﺇ</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  
+  <Monkey.corePart.parts.right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﻞﺟﺮﻟﺍ</Monkey.corePart.parts.right_leg.customLabel>
+  
+  <Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>ﻦﻤﻳﻷﺍ ﺬﺨﻔﻟﺍ</Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>
+  
+  <Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>ﻰﻨﻤﻴﻟﺍ ﻕﺎﺴﻟﺍ</Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  
+  <Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ</Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻠﻟ ﺮﻴﻐﺼﻟﺍ ﻊﺒﺻﻹﺍ</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>.ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ ﻲﻓ ﻰﻤﺴﻣ ﺮﻴﻏ ﻊﺒﺻﺇ</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ ﻂﺳﻭ ﻊﺒﺻﺇ</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>ﻡﺪﻘﻠﻟ ﻦﻤﻳﻷﺍ ﺔﺑﺎﺒﺴﻟﺍ</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻠﻟ ﺮﻴﺒﻜﻟﺍ ﻡﺎﻬﺑﻹﺍ</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.label>ﻢﻓﻭ ﻞﻳﺫﻭ ﺐﻟﺎﺨﻤﺑ ﻞﺟﺭﻷﺍ ﻲﻋﺎﺑﺭ ﻕﻮﻠﺨﻣ</QuadrupedAnimalWithClawsTailAndJowl.label>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﺋﺮﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_lung.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﺋﺮﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_lung.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_kidney.customLabel>.ﻯﺮﺴﻴﻟﺍ ﻰﻠﻜﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_kidney.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_kidney.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻠﻜﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_kidney.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ﻯﺮﺴﻴﻟﺍ ﻦﻴﻌﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ﻰﻨﻤﻴﻟﺍ ﻦﻴﻌﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ﻯﺮﺴﻴﻟﺍ ﻥﺫﻷﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ﻰﻨﻤﻴﻟﺍ ﻥﺫﻷﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>.ﺮﺴﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﻒﻜﻟﺍ ﻦﻣ ﺐﻠﺨﻣ ﻝﻭﺃ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻡﺪﻘﻟﺍ ﻲﻓ ﻲﻧﺎﺜﻟﺍ ﺐﻠﺨﻤﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻡﺪﻘﻠﻟ ﺚﻟﺎﺜﻟﺍ ﺐﻠﺨﻤﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>ﻲﻣﺎﻣﻷﺍ ﺮﺴﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﺐﻠﺨﻤﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻡﺪﻘﻠﻟ ﺲﻣﺎﺨﻟﺍ ﺐﻠﺨﻤﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>ﻦﻤﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﻒﻜﻟﺍ ﻲﻓ ﺐﻠﺨﻣ ﻝﻭﺃ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻡﺪﻘﻠﻟ ﻲﻧﺎﺜﻟﺍ ﺐﻠﺨﻤﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻡﺪﻘﻠﻟ ﺚﻟﺎﺜﻟﺍ ﺐﻠﺨﻤﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻡﺪﻘﻠﻟ ﻊﺑﺍﺮﻟﺍ ﺐﻠﺨﻤﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>.ﻦﻤﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﻒﻜﻟﺍ ﻲﻓ ﺲﻣﺎﺨﻟﺍ ﺐﻠﺨﻤﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>.ﻯﺮﺴﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻡﺪﻘﻟﺍ ﻲﻓ ﺐﻠﺨﻣ ﻝﻭﺃ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻡﺪﻘﻠﻟ ﻲﻧﺎﺜﻟﺍ ﺐﻠﺨﻤﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>ﻡﺪﻘﻟﺍ ﻦﻣ ﻲﻔﻠﺨﻟﺍ ﺀﺰﺠﻟﺍ ﻲﻓ ﺚﻟﺎﺜﻟﺍ ﺐﻠﺨﻤﻟﺍ
+ﻯﺮﺴﻴﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻡﺪﻘﻠﻟ ﻊﺑﺍﺮﻟﺍ ﺐﻠﺨﻤﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>.ﻯﺮﺴﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻡﺪﻘﻠﻟ ﺲﻣﺎﺨﻟﺍ ﺐﻠﺨﻤﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>.ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻡﺪﻘﻟﺍ ﻲﻓ ﺐﻠﺨﻣ ﻝﻭﺃ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻡﺪﻘﻠﻟ ﻲﻧﺎﺜﻟﺍ ﺐﻠﺨﻤﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻡﺪﻘﻟﺍ ﻦﻣ ﺚﻟﺎﺜﻟﺍ ﺐﻠﺨﻤﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>ﻲﻔﻠﺨﻟﺍ ﻦﻤﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ ﺐﻠﺨﻤﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>
+  
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>.ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻡﺪﻘﻟﺍ ﻦﻣ ﺲﻣﺎﺨﻟﺍ ﺐﻠﺨﻤﻟﺍ</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>
+  
+  
+  <QuadrupedAnimalWithHooves.label>ﺮﻓﺍﻮﺣ ﻦﻣ ﺔﻧﻮﻜﻣ ﻞﺟﺭﺃ ﺔﻌﺑﺭﺃ ﻭﺫ ﻥﺍﻮﻴﺣ</QuadrupedAnimalWithHooves.label>
+  
+  <QuadrupedAnimalWithHooves.corePart.parts.left_lung.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﺋﺮﻟﺍ</QuadrupedAnimalWithHooves.corePart.parts.left_lung.customLabel>
+  
+  <QuadrupedAnimalWithHooves.corePart.parts.right_lung.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﺋﺮﻟﺍ</QuadrupedAnimalWithHooves.corePart.parts.right_lung.customLabel>
+  
+  <QuadrupedAnimalWithHooves.corePart.parts.left_kidney.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻠﻜﻟﺍ</QuadrupedAnimalWithHooves.corePart.parts.left_kidney.customLabel>
+  
+  <QuadrupedAnimalWithHooves.corePart.parts.right_kidney.customLabel>ﻰﻨﻤﻴﻟﺍ ﻰﻠﻜﻟﺍ</QuadrupedAnimalWithHooves.corePart.parts.right_kidney.customLabel>
+  
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ﻯﺮﺴﻴﻟﺍ ﻦﻴﻌﻟﺍ</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ﻰﻨﻤﻴﻟﺍ ﻦﻴﻌﻟﺍ</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ﻯﺮﺴﻴﻟﺍ ﻥﺫﻷﺍ</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ﻰﻨﻤﻴﻟﺍ ﻥﺫﻷﺍ</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  
+  <QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.customLabel>
+  
+  <QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>ﺮﺴﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﺮﻓﺎﺤﻟﺍ</QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  
+  <QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻞﺟﺮﻟﺍ</QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.customLabel>
+  
+  <QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﺓﺮﻓﺎﺤﻟﺍ</QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.customLabel>
+  
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>ﺮﺴﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ ﺹﺮﻘﻟﺍ</QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>
+  
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>ﻦﻤﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ ﺀﺎﺼﻓﺮﻘﻟﺍ</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  
+  <QuadrupedAnimalWithHoovesAndHorn.label>.ﻥﻭﺮﻘﺑ ﻞﺟﺭﻷﺍ ﻲﻌﺑﺭﻷﺍ ﻦﺋﺎﻜﻟﺍ</QuadrupedAnimalWithHoovesAndHorn.label>
+  
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﺋﺮﻟﺍ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_lung.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﺋﺮﻟﺍ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_lung.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_kidney.customLabel>ﻯﺮﺴﻴﻟﺍ ﻰﻠﻜﻟﺍ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_kidney.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_kidney.customLabel>ﻰﻨﻤﻴﻟﺍ ﻰﻠﻜﻟﺍ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_kidney.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ﻯﺮﺴﻴﻟﺍ ﻦﻴﻌﻟﺍ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ﻰﻨﻤﻴﻟﺍ ﻦﻴﻌﻟﺍ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ﻯﺮﺴﻴﻟﺍ ﻥﺫﻷﺍ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ﻰﻨﻤﻴﻟﺍ ﻥﺫﻷﺍ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>ﺮﺴﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﺮﻓﺎﺤﻟﺍ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.customLabel>.ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻞﺟﺮﻟﺍ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>ﻦﻤﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﺮﻓﺎﺤﻟﺍ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.customLabel>ﺔﻴﻔﻠﺨﻟﺍ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>ﺮﺴﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ ﺐﻌﻜﻟﺍ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>ﻦﻤﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ ﺏﻮﻜﻟﺍ</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  
+  <QuadrupedAnimalWithHoovesAndHump.label>ﻦﻣ ﺝﺮﺨﻳ ﺚﺣ ﻭﺫ ﻞﺟﺭﻷﺍ ﻲﻋﺎﺑﺭ ﻥﺍﻮﻴﺣ
+.ﻩﺮﻬﻇ</QuadrupedAnimalWithHoovesAndHump.label>
+  
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﺋﺮﻟﺍ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_lung.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﺋﺮﻟﺍ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_lung.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_kidney.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻠﻜﻟﺍ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_kidney.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_kidney.customLabel>.ﻰﻨﻤﻴﻟﺍ ﺔﻴﻠﻜﻟﺍ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_kidney.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ﻯﺮﺴﻴﻟﺍ ﻦﻴﻌﻟﺍ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ﻰﻨﻤﻴﻟﺍ ﻦﻴﻌﻟﺍ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ﻯﺮﺴﻴﻟﺍ ﻥﺫﻷﺍ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ﻰﻨﻤﻴﻟﺍ ﻥﺫﻷﺍ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻞﺟﺮﻟﺍ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>.ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﺔﻣﺮﻘﻟﺍ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﺔﻓﺎﺤﻟﺍ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻞﺟﺮﻟﺍ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>ﺮﺴﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ ﺮﻓﺎﺤﻟﺍ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>ﻦﻤﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ ﺏﻮﻜﻟﺍ</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  
+  <QuadrupedAnimalWithHoovesAndTusks.label>ﻥﻭﺮﻗ ﻭﺫ ﻞﺟﺭﻷﺍ ﻲﻋﺎﺑﺭ ﻥﺍﻮﻴﺣ</QuadrupedAnimalWithHoovesAndTusks.label>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﺋﺮﻟﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_lung.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﺋﺮﻟﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_lung.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_kidney.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻠﻜﻟﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_kidney.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_kidney.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻠﻜﻟﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_kidney.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ﻯﺮﺴﻴﻟﺍ ﻦﻴﻌﻟﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ﻰﻨﻤﻴﻟﺍ ﻦﻴﻌﻟﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ﻯﺮﺴﻴﻟﺍ ﻥﺫﻷﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ﻰﻨﻤﻴﻟﺍ ﻥﺫﻷﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>ﺮﺴﻳﻷﺍ ﻥﺮﻘﻟﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>ﻦﻤﻳﻷﺍ ﻥﺮﻘﻟﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>ﺮﺴﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﺮﻓﺎﺤﻟﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>ﻦﻤﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﻒﻜﻟﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻡﺪﻘﻟﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>ﺮﺴﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ ﺐﻌﻜﻟﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻞﺟﺮﻟﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>
+  
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>ﻦﻤﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ ﻒﻜﻟﺍ</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>.ﻡﻮﻃﺮﺨﻟﺍﻭ ﻥﻭﺮﻘﻟﺍ ﻞﻤﺤﻳ ﻞﺟﺭﻷﺍ ﻲﻋﺎﺑﺭ ﻕﻮﻠﺨﻣ</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﺋﺮﻟﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_lung.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﺋﺮﻟﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_lung.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_kidney.customLabel>ﻯﺮﺴﻴﻟﺍ ﻰﻠﻜﻟﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_kidney.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_kidney.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻠﻜﻟﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_kidney.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ﻯﺮﺴﻴﻟﺍ ﻦﻴﻌﻟﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ﻰﻨﻤﻴﻟﺍ ﻦﻴﻌﻟﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ﻯﺮﺴﻴﻟﺍ ﻥﺫﻷﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ﻰﻨﻤﻴﻟﺍ ﻥﺫﻷﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>ﺭﺎﺴﻴﻟﺍ ﻥﺮﻗ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>ﻦﻤﻳﻷﺍ ﻥﺮﻘﻟﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻡﺪﻘﻟﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>ﺮﺴﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﺮﻓﺎﺤﻟﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻞﺟﺮﻟﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>ﻦﻤﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﺰﻣﺮﻘﻟﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>ﻲﻔﻠﺨﻟﺍ ﺮﺴﻳﻷﺍ ﻒﻜﻟﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>
+  
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>ﻦﻤﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ ﺐﻌﻜﻟﺍ</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  
+  <QuadrupedAnimalWithPaws.label>ﻞﺟﺭﻷﺍ ﻲﻋﺎﺑﺮﻟﺍ ﻕﻮﻠﺨﻤﻟﺍ</QuadrupedAnimalWithPaws.label>
+  
+  <QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﺋﺮﻟﺍ</QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>
+  
+  <QuadrupedAnimalWithPaws.corePart.parts.right_lung.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﺋﺮﻟﺍ</QuadrupedAnimalWithPaws.corePart.parts.right_lung.customLabel>
+  
+  <QuadrupedAnimalWithPaws.corePart.parts.left_kidney.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻠﻜﻟﺍ</QuadrupedAnimalWithPaws.corePart.parts.left_kidney.customLabel>
+  
+  <QuadrupedAnimalWithPaws.corePart.parts.right_kidney.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻠﻜﻟﺍ</QuadrupedAnimalWithPaws.corePart.parts.right_kidney.customLabel>
+  
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ﻯﺮﺴﻴﻟﺍ ﻦﻴﻌﻟﺍ</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ﻰﻨﻤﻴﻟﺍ ﻦﻴﻌﻟﺍ</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ﻯﺮﺴﻴﻟﺍ ﻥﺫﻷﺍ</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ﻰﻨﻤﻴﻟﺍ ﻥﺫﻷﺍ</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  
+  <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>
+  
+  <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻡﺪﻘﻟﺍ</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  
+  <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>.ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>
+  
+  <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻡﺪﻘﻟﺍ</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻞﺟﺮﻟﺍ</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>
+  
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>ﺮﺴﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ ﺥﺮﻔﻜﻟﺍ</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>
+  
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻡﺪﻘﻟﺍ</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  
+  
+  <QuadrupedAnimalWithPawsAndTail.label>ﻞﻳﺬﻟﺍ ﻭﺫ ﻞﺟﺭﻷﺍ ﻲﻋﺎﺑﺮﻟﺍ ﻦﺋﺎﻜﻟﺍ</QuadrupedAnimalWithPawsAndTail.label>
+  
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﺋﺮﻟﺍ</QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>
+  
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.right_lung.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﺋﺮﻟﺍ</QuadrupedAnimalWithPawsAndTail.corePart.parts.right_lung.customLabel>
+  
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.left_kidney.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻠﻜﻟﺍ</QuadrupedAnimalWithPawsAndTail.corePart.parts.left_kidney.customLabel>
+  
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.right_kidney.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻠﻜﻟﺍ</QuadrupedAnimalWithPawsAndTail.corePart.parts.right_kidney.customLabel>
+  
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ﻯﺮﺴﻴﻟﺍ ﻦﻴﻌﻟﺍ</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ﻰﻨﻤﻴﻟﺍ ﻦﻴﻌﻟﺍ</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>ﻯﺮﺴﻴﻟﺍ ﻥﺫﻷﺍ</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>ﻰﻨﻤﻴﻟﺍ ﻥﺫﻷﺍ</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.customLabel>
+  
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>ﺮﺴﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﻒﻜﻟﺍ</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻞﺟﺮﻟﺍ</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.customLabel>
+  
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>ﻦﻤﻳﻷﺍ ﻲﻣﺎﻣﻷﺍ ﺮﻔﻜﻟﺍ</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.customLabel>ﺔﻴﻔﻠﺨﻟﺍ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.customLabel>
+  
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻡﺪﻘﻟﺍ</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻞﺟﺮﻟﺍ</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>
+  
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻡﺪﻘﻟﺍ</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  
+  
+  <TurtleLike.label>ﺓﺎﻔﺤﻠﺳ</TurtleLike.label>
+  
+  <TurtleLike.corePart.parts.left_lung.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﺋﺮﻟﺍ</TurtleLike.corePart.parts.left_lung.customLabel>
+  
+  <TurtleLike.corePart.parts.right_lung.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﺋﺮﻟﺍ</TurtleLike.corePart.parts.right_lung.customLabel>
+  
+  <TurtleLike.corePart.parts.left_kidney.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻠﻜﻟﺍ</TurtleLike.corePart.parts.left_kidney.customLabel>
+  
+  <TurtleLike.corePart.parts.right_kidney.customLabel>ﻰﻨﻤﻴﻟﺍ ﻰﻠﻜﻟﺍ</TurtleLike.corePart.parts.right_kidney.customLabel>
+  
+  <TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>ﻯﺮﺴﻴﻟﺍ ﻦﻴﻌﻟﺍ</TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>
+  
+  <TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>ﻰﻨﻤﻴﻟﺍ ﻦﻴﻌﻟﺍ</TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>
+  
+  <TurtleLike.corePart.parts.front_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</TurtleLike.corePart.parts.front_left_leg.customLabel>
+  
+  <TurtleLike.corePart.parts.front_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</TurtleLike.corePart.parts.front_right_leg.customLabel>
+  
+  <TurtleLike.corePart.parts.rear_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻕﺎﺴﻟﺍ</TurtleLike.corePart.parts.rear_left_leg.customLabel>
+  
+  <TurtleLike.corePart.parts.rear_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻕﺎﺴﻟﺍ</TurtleLike.corePart.parts.rear_right_leg.customLabel>
+  
+</LanguageData>

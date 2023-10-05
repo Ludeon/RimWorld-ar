@@ -1,0 +1,35 @@
+<LanguageData>
+  
+  
+  <Apparel_PsychicInsanityLance.label>ﻥﻮﻨﺠﻟﺍ ﺢﻣﺭ</Apparel_PsychicInsanityLance.label>
+  
+  <Apparel_PsychicInsanityLance.description>ﺕﺎﺳﻮﻠﻫ ﻑﺪﻬﻠﻟ ﺐﺒﺴﻳ .ﺩﻭﺪﺤﻣ ﻡﺍﺪﺨﺘﺳﺍ ﻭﺫ ﺯﺎﻬﺟ
+ﺔﺑﻮﻧ ﺮﻴﺜﻳ ﺎﻤﻣ ،ﻙﺍﺭﺩﻹﺍ ﻲﻓ ﺕﺎﺑﺍﺮﻄﺿﺍﻭ ﺔﺒﻋﺮﻣ
+ﻦﻜﻤﻳ .ﺦﻤﻟﺍ ﻒﻠﺘﻟ ﺔﻴﻟﺎﻋ ﺔﻴﻟﺎﻤﺘﺣﺍ ﻙﺎﻨﻫ .ﺐﻀﻏ
+.ﺓﺮﺷﺎﺒﻣ ﺔﻳﺅﺭ ﻯﺪﻣ ﻲﻓ ﻥﻮﻜﻳ ﻥﺃ ﻑﺪﻬﻠﻟ</Apparel_PsychicInsanityLance.description>
+  
+  <Apparel_PsychicInsanityLance.comps.CompReloadable.chargeNoun>ﺔﻨﺤﺷ</Apparel_PsychicInsanityLance.comps.CompReloadable.chargeNoun>
+  
+  <Apparel_PsychicInsanityLance.comps.CompReloadable.cooldownGerund>ﻞﻴﻤﺤﺘﻟﺍ ﺓﺩﺎﻋﺇ ﻢﺘﻳ</Apparel_PsychicInsanityLance.comps.CompReloadable.cooldownGerund>
+  
+  <Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.label>ﻥﻮﻨﺠﻟﺍ ﺢﻣﺭ</Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.label>
+  
+  <Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.invalidTargetPawn>ﻥﻮﻨﺠﻟﺍ ﺪﺿ ﺔﻧﺎﺼﺣ</Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.invalidTargetPawn>
+  
+  
+  <Apparel_PsychicShockLance.label>ﺔﻣﺪﺼﻟﺍ ﺢﻣﺭ</Apparel_PsychicShockLance.label>
+  
+  <Apparel_PsychicShockLance.description>ﻩﻮﺸﻳﻭ ﺔﻴﺋﺍﻮﺸﻋ ﺕﺎﺳﻮﻠﻫ ﺐﺒﺴﻳ ﻡﺍﺪﺨﺘﺳﻻﺍ ﺩﻭﺪﺤﻣ ﺯﺎﻬﺟ
+ﺭﺮﺿ .ﺔﻴﺴﻔﻧ ﺔﻣﺪﺻ ﺔﻟﺎﺣ ﻲﻓ ﺎﻬﻠﻌﺠﻳﻭ ﻙﺍﺭﺩﻹﺍ
+ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ ﻑﺪﻬﻟﺍ .ﻞﻤﺘﺤﻣ ﻍﺎﻣﺪﻠﻟ ﻝﺎﻋ
+.ﺓﺮﺷﺎﺒﻤﻟﺍ ﺔﻳﺅﺮﻟﺍ ﻯﺪﻣ ﻲﻓ</Apparel_PsychicShockLance.description>
+  
+  <Apparel_PsychicShockLance.comps.CompReloadable.chargeNoun>ﺔﻤﻬﺗ</Apparel_PsychicShockLance.comps.CompReloadable.chargeNoun>
+  
+  <Apparel_PsychicShockLance.comps.CompReloadable.cooldownGerund>ﻦﺤﺷ ﺪﻴﻌﻳ</Apparel_PsychicShockLance.comps.CompReloadable.cooldownGerund>
+  
+  <Apparel_PsychicShockLance.verbs.psychic_shock_lance.label>ﻑﺎﺠﺗﺭﻻﺍ ﺢﻣﺭ</Apparel_PsychicShockLance.verbs.psychic_shock_lance.label>
+  
+  <Apparel_PsychicShockLance.verbs.psychic_shock_lance.invalidTargetPawn>ﺕﺎﻣﺪﺼﻟﺍ ﺪﺿ ﺔﻧﺎﺼﺣ</Apparel_PsychicShockLance.verbs.psychic_shock_lance.invalidTargetPawn>
+  
+</LanguageData>

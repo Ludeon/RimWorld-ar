@@ -1,0 +1,22 @@
+<LanguageData>
+  
+  
+  <Town_Councilman.label>ﻱﺮﻀﺤﻟﺍ ﺭﺎﺸﺘﺴﻤﻟﺍ</Town_Councilman.label>
+  
+  <Town_Councilman.labelPlural>ﻥﻮﻳﺮﻀﺤﻟﺍ ﻥﻭﺭﺎﺸﺘﺴﻤﻟﺍ</Town_Councilman.labelPlural>
+  
+  
+  <Town_Guard.label>ﺔﻨﻳﺪﻤﻟﺍ ﺱﺭﺎﺣ</Town_Guard.label>
+  <Town_Guard.labelPlural>ﺔﻨﻳﺪﻤﻟﺍ ﺱﺍﺮﺣ</Town_Guard.labelPlural>
+  
+  
+  <Town_Trader.label>ﺔﻨﻳﺪﻤﻟﺍ ﺮﺟﺎﺗ</Town_Trader.label>
+  <Town_Trader.labelPlural>ﺔﻨﻳﺪﻤﻟﺍ ﺭﺎﺠﺗ</Town_Trader.labelPlural>
+  
+  
+  <Villager.label>ﻢﻴﻘﻤﻟﺍ</Villager.label>
+  <Villager.labelFemale>ﺔﻨﻛﺎﺳ</Villager.labelFemale>
+  <Villager.labelMale>ﻦﻛﺎﺴﻟﺍ</Villager.labelMale>
+  <Villager.labelPlural>ﻥﺎﻜﺴﻟﺍ</Villager.labelPlural>
+  
+</LanguageData>

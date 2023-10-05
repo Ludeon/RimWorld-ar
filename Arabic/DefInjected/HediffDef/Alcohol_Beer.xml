@@ -1,0 +1,61 @@
+<LanguageData>
+  
+  
+  <AlcoholAddiction.label>ﻝﻮﺤﻜﻟﺍ ﻰﻠﻋ ﻥﺎﻣﺩﻹﺍ</AlcoholAddiction.label>
+  
+  <AlcoholAddiction.description>ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﻝﻮﺤﻜﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ .ﻝﻮﺤﻜﻟﺍ ﻰﻠﻋ ﻥﺎﻣﺩﻹﺍ
+ﺎﻤﻣ ،ﺎﻳﻼﺨﻟﺍ ﻯﻮﺘﺴﻣ ﻰﻠﻋ ﺔﻴﺒﺼﻋ ﺕﺍﺮﻴﻐﺗ ﺐﺒﺴﻳ
+ﻞﻜﺸﺑ ﻞﻤﻌﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ ﻍﺎﻣﺪﻟﺍ ﻞﻌﺠﻳ
+.ﻪﻧﻭﺪﺑ ﻲﻌﻴﺒﻃ
+ﺏﺎﺤﺴﻧﺍ ﺐﺒﺴﺘﺳ ﻝﻮﺤﻜﻟﺍ ﻝﻭﺎﻨﺗ ﻦﻋ ﻒﻗﻮﺗ ﺓﺮﺘﻓ
+ﻍﺎﻣﺪﻟﺍ ﺪﻋﺎﺴﻴﺳ ﺮﻤﺘﺴﻤﻟﺍ ﻉﺎﻨﺘﻣﻻﺍ .ﺪﻳﺪﺸﻟﺍ ﺭﺎﻴﻬﻧﻻﺍ -
+.ﻥﺎﻣﺩﻻﺍ ﻦﻣ ﺺﻠﺨﺘﻟﺍﻭ ﺔﻴﻌﻴﺒﻄﻟﺍ ﻪﺘﻟﺎﺤﻟ ﺓﺩﻮﻌﻟﺍ ﻰﻠﻋ</AlcoholAddiction.description>
+  
+  <AlcoholAddiction.stages.withdrawal.label>ﻝﻮﺤﻜﻟﺍ ﺔﻋﺰﻧ</AlcoholAddiction.stages.withdrawal.label>
+  
+  
+  <AlcoholHigh.label>ﻝﻮﺤﻜﻟﺍ</AlcoholHigh.label>
+  
+  <AlcoholHigh.description>ﺓﺮﻜﺴﻟﺎﺑ ﺎﻌﺘﻤﻣ ﺍﺭﻮﻌﺷ ﻲﻄﻌﻳ ﻡﺪﻟﺍ ﻲﻓ ﻝﻮﺤﻜﻟﺍ
+.ﻞﻤﻌﻟﺍ ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ ﻦﻣ ﻞﻠﻘﻳ ﻪﻨﻜﻟ ،</AlcoholHigh.description>
+  
+  <AlcoholHigh.labelNoun>ﺮﻜﺴﻟﺍ</AlcoholHigh.labelNoun>
+  
+  <AlcoholHigh.stages.warm.label>ﺲﻤﺤﺘﻣ</AlcoholHigh.stages.warm.label>
+  
+  <AlcoholHigh.stages.tipsy.label>ﺮﻜﺴﻟﺍ ﺔﻟﺎﺣ ﻲﻓ</AlcoholHigh.stages.tipsy.label>
+  
+  <AlcoholHigh.stages.drunk.label>ﺮﻴﺛﺄﺘﻟﺍ ﺖﺤﺗ</AlcoholHigh.stages.drunk.label>
+  
+  <AlcoholHigh.stages.hammered.label>ﺕﺎﻴﻧﺎﻜﻣﻹﺍ ﻦﻣ ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ ﻰﻟﺇ</AlcoholHigh.stages.hammered.label>
+  
+  <AlcoholHigh.stages.blackout.label>ﺭﺎﻴﺘﻟﺍ ﻉﺎﻄﻘﻧﺍ ﺔﻟﺎﺣ ﻲﻓ</AlcoholHigh.stages.blackout.label>
+  
+  
+  <AlcoholTolerance.label>ﻝﻮﺤﻜﻟﺍ ﻩﺎﺠﺗ ﺢﻣﺎﺴﺘﻟﺍ</AlcoholTolerance.label>
+  
+  <AlcoholTolerance.description>ﺮﺜﻛﺃ ﺖﻧﺎﻛ ﺎﻤﻠﻛ .ﻝﻮﺤﻜﻟﺍ ﻩﺎﺠﺗ ﺢﻣﺎﺴﺘﻟﺍ ﺕﺭﻮﻄﺗ
+ﻦﻣ ﺮﺒﻛﺃ ﺕﺎﻴﻤﻛ ﺖﺒﻠﻄﺗ ﺎﻤﻠﻛ ، ﺓﺭﻮﻄﺧ
+.ﻪﻴﻓ ﺏﻮﻏﺮﻤﻟﺍ ﺮﻴﺛﺄﺘﻟﺍ ﻖﻴﻘﺤﺘﻟ ﻝﻮﺤﻜﻟﺍ</AlcoholTolerance.description>
+  
+  <AlcoholTolerance.stages.small.label>ﺓﺮﻴﻐﺻ</AlcoholTolerance.stages.small.label>
+  
+  <AlcoholTolerance.stages.large.label>ﻢﺠﺤﻟﺍ ﻂﺳﻮﺘﻣ</AlcoholTolerance.stages.large.label>
+  
+  <AlcoholTolerance.stages.massive.label>ﺔﻳﻮﻗ</AlcoholTolerance.stages.massive.label>
+  
+  
+  <Hangover.label>ﻝﻮﺤﻜﻟﺍ ﻉﺍﺪﺻ</Hangover.label>
+  
+  <Hangover.description>ﺎﻬﻨﻜﻟﻭ ﺔﻳﺭﻮﻓ ﺖﺴﻴﻟ :ﻲﻟﻮﺤﻜﻟﺍ ﻢﻤﺴﺘﻠﻟ ﺔﻴﺒﻠﺴﻟﺍ ﺭﺎﺛﻵﺍ
+.ﺔﻳﺎﻐﻠﻟ ﺔﺤﻳﺮﻣ ﺮﻴﻏ</Hangover.description>
+  
+  <Hangover.labelNoun>ﺔﻴﻟﻮﺤﻛ</Hangover.labelNoun>
+  
+  <Hangover.stages.slight.label>ﻞﻬﺳ</Hangover.stages.slight.label>
+  
+  <Hangover.stages.strong.label>ﻱﻮﻗ</Hangover.stages.strong.label>
+  
+  <Hangover.stages.pounding.label>ﻞﺗﺎﻗ</Hangover.stages.pounding.label>
+  
+</LanguageData>

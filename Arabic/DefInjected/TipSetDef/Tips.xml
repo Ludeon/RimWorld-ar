@@ -1,0 +1,271 @@
+<LanguageData>
+  
+  
+  <GameplayTips.DismissLetters>ﺎﻬﻴﻠﻋ ﺮﻘﻨﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﻞﺋﺎﺳﺮﻟﺍ ﺾﻓﺭ ﻚﻨﻜﻤﻳ
+.ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ</GameplayTips.DismissLetters>
+  
+  <GameplayTips.QueueOrders>ﻡﺎﻬﻤﻟﺍ ﻂﻴﻄﺨﺘﻟ Shift ﺡﺎﺘﻔﻣ ﻰﻠﻋ ﻂﻐﻀﻟﺍ ﻚﻨﻜﻤﻳ
+.ﻚﺑ ﻦﻴﺻﺎﺨﻟﺍ ﻦﻴﺜﺣﺎﺒﻠﻟ</GameplayTips.QueueOrders>
+  
+  <GameplayTips.ReorderColonistbar>ﻦﻋ ﺔﺣﻮﻠﻟﺍ ﻰﻠﻋ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺐﻴﺗﺮﺗ ﺮﻴﻴﻐﺗ ﻚﻨﻜﻤﻳ
+.ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺯ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻢﻬﺒﺤﺳ ﻖﻳﺮﻃ</GameplayTips.ReorderColonistbar>
+  
+  <GameplayTips.SelectPrevNextColonist>ﻡﺍﺪﺨﺘﺳﺎﺑ ﻲﻟﺎﺘﻟﺍ ﻭﺃ ﻖﺑﺎﺴﻟﺍ ﻦﻃﻮﺘﺴﻤﻟﺍ ﺭﺎﻴﺘﺧﺍ ﻚﻨﻜﻤﻳ
+.ﻲﻟﺍﻮﺘﻟﺍ ﻰﻠﻋ "&lt;" ﻭ "&gt;" ﺢﻴﺗﺎﻔﻣ</GameplayTips.SelectPrevNextColonist>
+  
+  <GameplayTips.SettingPainting>ﻑﻮﻔﺻ ﺓﺪﻋ ﺮﻴﻴﻐﺘﺑ ﺢﻤﺴﺗ ﻢﺋﺍﻮﻘﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ
+.ﺓﺭﺄﻔﻠﻟ ﺮﺴﻳﻷﺍ ﺭﺰﻟﺎﺑ ﺐﺤﺴﻟﺍ ﺔﻄﺳﺍﻮﺑ ﺓﺪﺣﺍﻭ ﺔﻌﻓﺩ
+.ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﻮﻴﻘﻟﺍﻭ ﺲﺑﻼﻤﻠﻟ ﺎﻀﻳﺃ ﻞﻤﻌﻳ ﺍﺬﻫ</GameplayTips.SettingPainting>
+  
+  <GameplayTips.ManualPriorities>ﻦﻴﻴﻌﺗ ﺪﻨﻋ ، "ﻞﻤﻌﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻲﻓ
+ﻚﻠﺘﻤﻳ ﻪﻧﺈﻓ ، ﻖﻴﻗﺪﻟﺍ ﺩﺍﺪﻋﻹﺍ ﻩﺭﺎﺒﺘﻋﺎﺑ "1"
+."4" ﻦﻣ ﻰﻠﻋﺃ ﺔﻳﻮﻟﻭﺃ</GameplayTips.ManualPriorities>
+  
+  <GameplayTips.ColonistMood>ﺔﺣﻮﻟ ﺔﻴﻔﻠﺧ ﻥﻮﻟ ﻲﻓ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺝﺍﺰﻣ ﺮﻬﻈﺗ
+.ﺔﺷﺎﺸﻟﺍ ﻦﻣ ﻱﻮﻠﻌﻟﺍ ﺀﺰﺠﻟﺍ ﻲﻓ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ</GameplayTips.ColonistMood>
+  
+  <GameplayTips.WorkTabChangeAllColonists>ﻂﻐﺿﺍﻭ Shift ﻂﻐﺿﺍ ،"ﻞﻤﻌﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻲﻓ
+ﻊﻴﻤﺟ ﻰﻠﻋ ﺔﺳﺎﻴﺴﻟﺍ ﻖﻴﺒﻄﺘﻟ ﻞﻤﻌﻟﺍ ﻉﻮﻧ ﻰﻠﻋ
+.ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ</GameplayTips.WorkTabChangeAllColonists>
+  
+  <GameplayTips.WorkTabDecreasePriority>ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻲﻓ ﻖﻴﻗﺪﻟﺍ ﺩﺍﺪﻋﻹﺍ ﻡﺍﺪﺨﺘﺳﺍ ﺪﻨﻋ
+ﺔﻳﻮﻟﻭﻷﺍ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺓﺭﺄﻔﻟﺍ ﺭﺰﺑ ﺮﻘﻨﻟﺍ ،"ﻞﻤﻌﻟﺍ"
+.ﺎﻬﺗﺩﺎﻳﺯ ﻦﻣ ﻻﺪﺑ ﺎﻬﻨﻣ ﻞﻠﻘﻴﺳ</GameplayTips.WorkTabDecreasePriority>
+  
+  <GameplayTips.CellInspector>ﺔﻴﻠﻴﺼﻔﺗ ﺕﺎﻣﻮﻠﻌﻣ ﺽﺮﻌﻟ Alt ﺭﺯ ﻰﻠﻋ ﻂﻐﺿﺍ
+.ﺔﻴﻠﺨﻟﺍ ﻝﻮﺣ</GameplayTips.CellInspector>
+  
+  <GameplayTips.GunfightCover>ﻲﻓ ﻙﺩﻮﻨﺠﻟ ﻊﻗﻮﻣ ﺩﺪﺣ !ﻦﻣﺄﻤﻟﺍ ﻲﻓ ﺍﻮﻠﺑﺎﻗ
+.ﺓﺭﺄﻔﻠﻟ ﻦﻤﻳﻷﺍ ﺭﺰﻟﺍ ﻰﻠﻋ ﻂﻐﻀﻟﺎﺑ ﻢﻴﻘﺘﺴﻣ ﻂﺧ</GameplayTips.GunfightCover>
+  
+  <GameplayTips.GunfightSpread>ﺓﺭﺄﻔﻠﻟ ﻦﻤﻳﻷﺍ ﺭﺰﻟﺍ ﻰﻠﻋ ﻂﻐﺿ ،ﻚﻴﻠﺗﺎﻘﻣ ﺩﺪﺣ
+ﻑﺍﺪﻫﻷﺍ ﻥﻮﻜﺘﺳ .ﻂﺧ ﻲﻓ ﻢﻬﺒﻴﺗﺮﺘﺑ ﻢﻗ ﻢﺛ
+.ﺎﻬﻴﻟﺇ ﻝﻮﺻﻮﻠﻟ ﻞﻬﺳﺃ ﺔﺒﻳﺮﻘﻟﺍ</GameplayTips.GunfightSpread>
+  
+  <GameplayTips.ShootingAccuracySmoke>،ﺔﻴﺋﺎﻘﻠﺘﻟﺍ ﻊﻓﺍﺪﻤﻟﺍ ﻦﻋ ﺎﻣﺎﻤﺗ ﻑﺍﺪﻫﻷﺍ ﻲﻔﺨﻳ ﻥﺎﺧﺪﻟﺍ
+.ﺔﻀﻔﺨﻣ ﺔﻗﺪﺑ ﺭﺎﻨﻟﺍ ﻕﻼﻃﻻﺍ ﻥﻮﻌﻴﻄﺘﺴﻳ ﺱﺎﻨﻟﺍ ﻦﻜﻟ</GameplayTips.ShootingAccuracySmoke>
+  
+  <GameplayTips.DesignDefenses>ﺀﺍﺪﻋﻷﺍ ﻥﺃ ﻦﻣ ﺭﺬﺣﺍ ،ﻉﺎﻓﺪﻟﺍ ﻢﻴﻤﺼﺗ ﺪﻨﻋ
+ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻛ ﺮﺒﻋ ﻞﺧﺍﺪﻟﺍ ﻦﻣ ﻥﻮﻗﺮﺘﺨﻳ ﺪﻗ
+ﺀﺎﻨﺒﺑ ﻢﻗ .ﺭﺍﺪﺠﻟﺍ ﻦﻣ ﺀﺰﺟ ﺮﻴﺠﻔﺗ ﻭﺃ
+.ﺔﻴﻠﺧﺍﺪﻟﺍ ﻉﺎﻓﺪﻟﺍ ﻊﻗﺍﻮﻣ</GameplayTips.DesignDefenses>
+  
+  <GameplayTips.ShootingAccuracyFogRain>ﻙﺭﺎﻌﻤﻟﺍ ﻲﻓ ﺔﺤﻠﺳﻷﺍ ﺔﻗﺩ ﻥﻼﻠﻘﻳ ﺮﻄﻤﻟﺍﻭ ﺏﺎﺒﻀﻟﺍ
+.ﺓﺪﻴﻌﺑ ﺕﺎﻓﺎﺴﻣ ﻰﻠﻋ</GameplayTips.ShootingAccuracyFogRain>
+  
+  <GameplayTips.ShootingTooltip>ﺪﻳﺪﺤﺗ ﻖﻳﺮﻃ ﻦﻋ ﺔﺑﺎﺻﻹﺍ ﺔﻴﻟﺎﻤﺘﺣﺍ ﺮﻳﺪﻘﺗ ﻚﻨﻜﻤﻳ
+.ﻑﺪﻬﻟﺍ ﻮﺤﻧ ﺮﺷﺆﻤﻟﺍ ﻪﻴﺟﻮﺗ ﻢﺛ ﺱﻮﻘﻟﺍ</GameplayTips.ShootingTooltip>
+  
+  <GameplayTips.TurretsExplode>ﻻ .ﺓﺮﻴﺒﻛ ﺍﺭﺍﺮﺿﺃ ﺎﻬﻴﻘﻠﺗ ﺪﻨﻋ ﺮﺠﻔﻨﺗ ﺔﻧﺎﺳﺮﺘﻟﺍ
+ﻊﻀﺗ ﻻﻭ ﺾﻌﺒﻟﺍ ﺎﻬﻀﻌﺑ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺎﻬﻌﻀﺗ
+.ﺎﻬﻨﻣ ﺏﺮﻘﻟﺎﺑ ﻚﺻﺎﺨﺷﺃ</GameplayTips.TurretsExplode>
+  
+  <GameplayTips.AnimalDeathExplosion>ﺕﻻﻮﺴﺒﻜﻟﺍ ﺔﻄﺳﺍﻮﺑ .ﺕﻮﻤﻟﺍ ﺪﻌﺑ ﺮﺠﻔﻨﺗ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ
+ﻲﻓ ﺍﻭﺮﻜﻓ .ﺀﺍﺪﻋﻷﺍ ﻰﻠﻋ ﺎﻫﺅﺎﻘﻟﺇ ﻦﻜﻤﻳ ﻞﻘﻨﻟﺍ
+!ﻚﻟﺫ</GameplayTips.AnimalDeathExplosion>
+  
+  <GameplayTips.CallAllies>,ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺓﺪﻋﺎﺴﻣ ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﺖﻨﻛ ﺍﺫﺇ
+.ﻝﺎﺼﺗﻻﺍ ﺔﻬﺟﺍﻭ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻚﺋﺎﻔﻠﺣ ﺀﺎﻋﺪﺘﺳﺎﺑ ﻢﻗ</GameplayTips.CallAllies>
+  
+  <GameplayTips.MaddenedAnimals>ﻲﻓ ﺎﻤﺑ ،ﺺﺨﺷ ﻱﺃ ﻢﺟﺎﻬﺗ ﺔﻧﻮﻨﺠﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ
+.ﻚﻟﺫ ﻦﻣ ﺓﺩﺎﻔﺘﺳﻻﺍ ﻚﻨﻜﻤﻳ .ﻚﺋﺍﺪﻋﺃ ﻚﻟﺫ</GameplayTips.MaddenedAnimals>
+  
+  <GameplayTips.EMPDisablesTurretsShields>ﺰﺟﺍﻮﺣﻭ ﺕﺎﺘﻳﺭﻮﺗ ﺖﻗﺆﻣ ﻞﻜﺸﺑ ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻜﻟﺍ ﺕﺍﺭﺎﺠﻔﻧﻻﺍ ﻞﻴﻄﻌﺗ
+.ﻉﻭﺭﺪﻟﺍ</GameplayTips.EMPDisablesTurretsShields>
+  
+  <GameplayTips.EMPDisablesPersonalShields>ﻉﻮﻗﻭ ﺔﻟﺎﺣ ﻲﻓ ﺔﻴﻗﺍﻮﻟﺍ ﻡﺍﺰﺤﻟ ﻱﺭﻮﻓ ﻞﻴﻄﻌﺗ
+.ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﺔﻴﻀﺒﻧ ﺕﺍﺭﺎﺠﻔﻧﺍ</GameplayTips.EMPDisablesPersonalShields>
+  
+  <GameplayTips.HunterStealth>.ﺩﺎﻴﺼﻟﺍ ﺔﻴﻔﺧ ﺔﻄﺳﺍﻮﺑ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻡﻮﺠﻫ ﺔﻴﻟﺎﻤﺘﺣﺍ ﺾﻴﻔﺨﺗ
+ﻲﻓ ﻪﺗﺭﺎﻬﻣﻭ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ ﺓﺭﺎﻬﻤﺑ ﺮﺛﺄﺘﻳ
+.ﺔﻳﺎﻣﺮﻟﺍ</GameplayTips.HunterStealth>
+  
+  <GameplayTips.AnimalsAttackCloseRange>ﻦﻣ ﻡﻮﺠﻬﻟ ﺎﻬﺿﺮﻌﺗ ﺪﻨﻋ ﺎﺒﻟﺎﻏ ﻢﺟﺎﻬﺗ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ
+ﺕﺍﺫ ﺔﺤﻠﺳﻷﺍﻭ ﺪﻌﺑ ﻦﻋ ﺔﺤﻠﺳﻷﺍ .ﺔﺒﻳﺮﻗ ﺔﻓﺎﺴﻣ
+.ﺪﻴﺼﻠﻟ ﻲﻟﺎﺜﻤﻟﺍ ﺭﺎﻴﺨﻟﺍ ﻲﻫ ﺔﺌﻴﻄﺒﻟﺍ ﻥﺍﺮﻴﻨﻟﺍ</GameplayTips.AnimalsAttackCloseRange>
+  
+  <GameplayTips.AnimalsMayAttack>ﻑﻮﺴﻓ ،ﺔﻋﻮﻤﺠﻣ ﻦﻣ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺪﺣﺃ ﺖﻤﺟﺎﻫ ﺍﺫﺇ
+ﺮﺘﺧﺍ ﻭﺃ ﺍﺬﻬﻟ ﺪﻌﺘﺳﺍ .ﻪﻠﻤﻛﺄﺑ ﻊﻴﻄﻘﻟﺍ ﻚﻤﺟﺎﻬﻳ
+.ﻒﻌﺿﺃ ﺎﻓﺍﺪﻫﺃ</GameplayTips.AnimalsMayAttack>
+  
+  <GameplayTips.AnimalDeathExplosionRain>ﺀﺎﻨﺛﺃ ﺏﻮﻟﺎﻣﻮﺒﻟﺍﻭ ﺓﺮﺠﻔﻤﻟﺍ ﺕﺎﺘﻓﻼﻟﺍ ﺩﺎﻄﺼﺗ ﺖﻨﻛ ﺍﺫﺇ
+.ﺕﺎﺑﺎﻏ ﻖﺋﺍﺮﺣ ﺐﺒﺴﺗ ﻦﻟ ﻢﻬﺗﺎﻓﻮﻓ ، ﺮﻄﻤﻟﺍ</GameplayTips.AnimalDeathExplosionRain>
+  
+  <GameplayTips.GreaterSlaughterYield>ﺪﻨﻋ ﺩﻮﻠﺠﻟﺍﻭ ﻡﻮﺤﻠﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻰﻠﻋ ﻞﺼﺤﺘﺳ
+ﺔﺋﺰﺠﺗ ﻦﻣ ﻻﺪﺑ ، ﺔﺣﻮﺑﺬﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﺋﺰﺠﺗ
+.ﺪﻴﺼﻟﺍ ﻲﻓ ﺔﻟﻮﺘﻘﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</GameplayTips.GreaterSlaughterYield>
+  
+  <GameplayTips.CaravanHitchingSpot>ﻱﺬﻟﺍ ﻥﺎﻜﻤﻟﺍ ﻲﻓ ﺔﻠﻓﺎﻘﻠﻟ ﻂﺑﺮﻟﺍ ﻊﻗﻮﻣ ﺩﺪﺣ
+ﻥﻮﻜﻳ ﺎﻣ ﺓﺩﺎﻋ .ﻚﻠﻓﺍﻮﻗ ﺰﻴﻬﺠﺗ ﻲﻓ ﺐﻏﺮﺗ
+.ﺽﺮﻐﻟﺍ ﺍﺬﻬﻟ ﻞﻀﻓﻷﺍ ﻉﺩﻮﺘﺴﻤﻟﺍ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻥﺎﻜﻤﻟﺍ</GameplayTips.CaravanHitchingSpot>
+  
+  <GameplayTips.CaravanHitchingSpotRoamers>ﺀﺎﻨﺛﺃ ﻚﺗﺎﻧﺍﻮﻴﺣ ﺪﻳﺪﺒﺗ ﻲﻓ ﺐﻏﺮﺗ ﻻ ﺍﺫﺇ
+.ﺔﻠﻓﺎﻘﻟﺍ ﻂﺑﺭ ﻥﺎﻜﻣ ﺩﺪﺣ ،ﺔﻠﻓﺎﻘﻟﺍ ﻒﻗﻮﺗ</GameplayTips.CaravanHitchingSpotRoamers>
+  
+  <GameplayTips.CaravanRideableAnimals>ﻱﻮﺘﺤﺗ ﺖﻧﺎﻛ ﺍﺫﺇ ﻉﺮﺳﺃ ﻞﻜﺸﺑ ﻙﺮﺤﺘﺗ ﻞﻓﺍﻮﻘﻟﺍ
+.ﻝﻮﻴﺨﻟﺍﻭ ﻝﺎﻤﺠﻟﺍﻭ ﺮﻴﻤﺤﻟﺍ ﻞﺜﻣ ﺏﻮﻛﺭ ﺕﺎﻧﺍﻮﻴﺣ ﻰﻠﻋ</GameplayTips.CaravanRideableAnimals>
+  
+  <GameplayTips.CaravanSmallerLessVisible>ﻞﻓﺍﻮﻘﻟﺍ ﻰﻠﻋ ﻞﻗﺃ ﺕﺎﻤﺠﻬﻟ ﺔﻨﺻﺍﺮﻘﻟﺍ ﺽﺮﻌﺘﻳ ﻑﻮﺳ
+.ﺔﺤﺿﺍﻭ ﻞﻗﺃ ﺎﻬﻧﻷ ﺓﺮﻴﻐﺼﻟﺍ</GameplayTips.CaravanSmallerLessVisible>
+  
+  <GameplayTips.CaravanStockpileNearPackingSpot>ﺐﻏﺮﺗ ﻲﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻊﻤﺟﺍ ،ﺔﻠﻓﺎﻘﻟﺍ ﻞﻴﻜﺸﺗ ﻞﺒﻗ
+ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻉﺩﻮﺘﺴﻤﻟﺍ ﻲﻓ ﺎﻬﻌﻣ ﺎﻬﻟﺎﺳﺭﺇ ﻲﻓ
+ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﻚﻟﺫ ﻉﺮﺴﻴﺳ .ﺔﻠﻓﺎﻘﻟﺍ ﻂﺑﺭ ﻥﺎﻜﻣ
+.ﺔﻴﻠﻤﻌﻟﺍ ﻦﻣ</GameplayTips.CaravanStockpileNearPackingSpot>
+  
+  <GameplayTips.CaravanUntrainedAnimals>ﻲﻓ ﺔﺑﺭﺪﻣ ﺮﻴﻏ ﺕﺎﻧﺍﻮﻴﺣ ﻚﻳﺪﻟ ﺖﻧﺎﻛ ﺍﺫﺇ
+ﺔﻠﺼﻔﻨﻣ ﺔﻠﻓﺎﻗ ﻲﻓ ﺎﻫﺪﻳﺪﺤﺗ ﻚﻨﻜﻤﻳ ، ﺔﻠﻓﺎﻘﻟﺍ
+ﺍﺪﻴﻌﺑ ﻢﻬﺋﺎﻘﺑﺇ ﻦﻣ ﻚﻨﻜﻤﺘﺳ .ﻭﺪﻌﻟﺍ ﺔﻤﺟﺎﻬﻣ ﻞﺒﻗ
+.ﺔﻛﺮﻌﻤﻟﺍ ﻦﻋ</GameplayTips.CaravanUntrainedAnimals>
+  
+  <GameplayTips.CaravanDontForgetMedicine>.ﺔﻳﻭﺩﻷﺎﺑ ﻞﻓﺍﻮﻘﻟﺍ ﺰﻴﻬﺠﺗ ﻰﺴﻨﺗ ﻻ</GameplayTips.CaravanDontForgetMedicine>
+  
+  <GameplayTips.StoryGenerator>ﺭﺎﺒﺘﺧﺍ ﺲﻴﻟ ،ﺺﺼﻗ ﺊﺸﻨﻣ - ﺪﻟﺭﻭﻭ ﻢﻳﺭ
+.ﻼﺸﻓ ﺖﺴﻴﻟ ﺔﺛﺭﺎﻛ - ﺓﺮﻣﺪﻤﻟﺍ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ،ﺕﺍﺭﺎﻬﻣ</GameplayTips.StoryGenerator>
+  
+  <GameplayTips.BadAllies>ﻥﻮﺌﻴﺴﻟﺍ ﺀﺎﻔﻠﺤﻟﺍ .ﺎﻣﺎﻤﺗ ﻦﻳﺪﻴﻔﻣ ﺮﻴﻏ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺾﻌﺑ
+.ﺔﻳﺪﺟ ﺔﻠﻜﺸﻣ ﻢﻫ</GameplayTips.BadAllies>
+  
+  <GameplayTips.MakeCaravanRunBeforeDefeat>ﻚﺴﻔﻧ ﻦﻋ ﻉﺎﻓﺪﻟﺍ ﻦﻣ ﻦﻜﻤﺘﺗ ﻢﻟ ﺍﺫﺇ
+ﺪﻘﻔﺘﺳ .ﺪﻌﺘﺑﺍﻭ ﺔﻠﻓﺎﻗ ﻞﻴﻜﺸﺘﺑ ﻢﻗ ،ﺪﻳﺪﻬﺘﻟﺍ ﻦﻣ
+.ﻚﺘﺼﻗ ﺮﻤﺘﺴﺘﺳ ﻦﻜﻟﻭ ،ﻚﻟﺰﻨﻣ</GameplayTips.MakeCaravanRunBeforeDefeat>
+  
+  <GameplayTips.FixedWealthMode>ﺓﻮﻗ ﺕﺩﺍﺯ ، ﺀﺍﺮﺛ ﺮﺜﻛﺃ ﺖﻨﻛ ﺎﻤﻠﻛ
+ﻥﺃ ﺪﻳﺮﺗ ﺖﻨﻛ ﺍﺫﺇ .ﻚﻧﻮﻤﺟﺎﻬﻳ ﻦﻳﺬﻟﺍ ﺀﺍﺪﻋﻷﺍ
+ﺓﻭﺮﺜﻟﺍ ﻰﻠﻋ ﺩﺎﻤﺘﻋﻻﺍ ﻦﻋ ﺕﺎﻤﺠﻬﻟﺍ ﺓﻮﻗ ﻒﻗﻮﺘﻳ
+ﻊﺿﻭ ﻞﻴﻌﻔﺘﺑ ﻢﻗ ، ﺖﻗﻮﻟﺍ ﻰﻠﻋ ﺪﻤﺘﻌﺗﻭ
+.ﺩﺮﺴﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﻲﻓ "ﺓﻭﺮﺜﻟﺎﺑ ﺔﺑﻮﻌﺼﻟﺍ ﺮﺛﺄﺗ ﻡﺪﻋ"</GameplayTips.FixedWealthMode>
+  
+  <GameplayTips.StoneDoors>ﺀﻂﺒﺑ ﺢﺘﻔﺗ ﻲﻬﻓ .ﺮﺠﺤﻟﺍ ﺏﺍﻮﺑﺃ ﻡﺍﺪﺨﺘﺳﺍ ﺐﻨﺠﺗ
+.ﻚﺑ ﺹﺎﺨﻟﺍ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺖﻗﻭ ﻕﺮﺴﻳ ﺪﻳﺪﺷ</GameplayTips.StoneDoors>
+  
+  <GameplayTips.ChairsWorkbench>ﻝﺎﻤﻌﻟﺍ ﻦﻜﻤﺘﻳ ﻰﺘﺣ ﺓﺪﻀﻨﻤﻟﺍ ﻡﺎﻣﺃ ﻲﺳﺍﺮﻜﻟﺍ ﻊﺿ
+.ﻞﻤﻌﻟﺍ ﺀﺎﻨﺛﺃ ﺢﻳﺮﻣ ﻞﻜﺸﺑ ﺱﻮﻠﺠﻟﺍ ﻦﻣ</GameplayTips.ChairsWorkbench>
+  
+  <GameplayTips.MechanicalBreakdown>.ﺀﺍﺰﺟﻷﺍ ﻝﺍﺪﺒﺘﺳﺍ ﻰﻟﺇ ﺝﺎﺘﺤﺗﻭ ﺔﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﻞﻛﺎﻴﻬﻟﺍ ﻢﻄﺤﺘﺗ
+.ﻪﺟﺎﺘﺤﺗ ﻻ ﺎﻣ ﻲﻨﺒﺗ ﻻ</GameplayTips.MechanicalBreakdown>
+  
+  <GameplayTips.CarefulConstructionOnBridges>ﻢﻄﺤﺘﺗ ﻲﻬﻓ .ﺭﻮﺴﺠﻟﺍ ﺀﺎﻨﺑ ﺪﻨﻋ ﺍﺭﺬﺣ ﻦﻛ
+.ﺎﻤﻫ ﻚﺗﺂﺸﻨﻣ ﻞﻫﺎﺠﺘﻴﺳﻭ ﺭﺎﺠﻔﻧﻻﺍ ﺔﻟﺎﺣ ﻲﻓ ﺔﻟﻮﻬﺴﺑ</GameplayTips.CarefulConstructionOnBridges>
+  
+  <GameplayTips.CleanRooms>ﻦﺴﺤﺗ ،ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ ﻦﻣ ﺪﻳﺰﺗ ﺔﻔﻴﻈﻨﻟﺍ ﻑﺮﻐﻟﺍ
+.ﻲﺋﺍﺬﻐﻟﺍ ﻢﻤﺴﺘﻟﺍ ﺙﻭﺪﺣ ﻦﻣ ﻞﻠﻘﺗﻭ ،ﺝﻼﻌﻟﺍ ﺞﺋﺎﺘﻧ
+.ﻢﻴﺛﺍﺮﺠﻟﺍ ﻦﻣ ﺔﻴﻟﺎﺧ ﺔﻓﺮﻐﻟﺍ ﻞﻌﺠﻳ ﻒﻴﻈﻨﻟﺍ ﻁﻼﺒﻟﺍ</GameplayTips.CleanRooms>
+  
+  <GameplayTips.ColonyOneStructure>ﻦﻜﻟ ،ﺩﺭﺍﻮﻤﻟﺍ ﺮﻓﻮﻴﺳ ﺍﺪﺣﺍﻭ ﺀﺎﻨﺑ ﻊﻤﺠﺗ ﺀﺎﻨﺑ
+.ﻖﺋﺍﺮﺤﻟﺍ ﺀﺎﻔﻃﺇ ﺐﻌﺼﻟﺍ ﻦﻣ ﻥﻮﻜﻴﺳ</GameplayTips.ColonyOneStructure>
+  
+  <GameplayTips.TerrainMovementSpeed>ﺕﺎﻴﺿﺭﻷﺍ ﻊﺿ .ﻞﻘﻨﺘﻟﺍ ﺔﻋﺮﺳ ﻰﻠﻋ ﺲﻳﺭﺎﻀﺘﻟﺍ ﺮﻴﺛﺄﺗ
+.ﺔﻋﺮﺴﺑ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻙﺮﺤﺘﻳ ﻲﻜﻟ</GameplayTips.TerrainMovementSpeed>
+  
+  <GameplayTips.TerrainCleanliness>ﻁﻼﺒﻟﺍ ،ﻥﺎﻜﻤﻟﺍ ﺔﻓﺎﻈﻧ ﻰﻠﻋ ﺮﺛﺆﻳ ﺔﻴﺿﺭﻷﺍ ﻉﻮﻧ
+.ﺭﺬﻗ ﺏﺍﺮﺘﻟﺍﻭ ،ﻪﺘﻌﻴﺒﻄﺑ ﻒﻴﻈﻧ</GameplayTips.TerrainCleanliness>
+  
+  <GameplayTips.TerrainCleanSpeed>ﻦﻣ ﺮﺒﻛﺃ ﺔﻋﺮﺴﺑ ﻒﻈﻨﺗ ﺔﻴﻄﻐﺘﻟﺍ ﻉﺍﻮﻧﺃ ﺾﻌﺑ
+ﻦﻣ ﻝﻮﻃﺃ ﺎﺘﻗﻭ ﻕﺮﻐﺘﺴﻳ ﺩﺎﺠﺴﻟﺍ ﻒﻴﻈﻨﺗ .ﺎﻫﺮﻴﻏ
+.ﻲﻧﺪﻌﻤﻟﺍ ﻁﻼﺒﻟﺍ ﻒﻴﻈﻨﺗ</GameplayTips.TerrainCleanSpeed>
+  
+  <GameplayTips.PrisonersAsGifts>ﺮﻴﺳﻷﺍ ﺓﺩﻮﻋ ﺭﺪﻘﻴﺳ .ﺎﻳﺍﺪﻬﻛ ﻯﺮﺳﻷﺍ ﺀﺎﻄﻋﺇ ﻚﻨﻜﻤﻳ
+.ﺓﺪﺸﺑ ﻪﺘﻋﺎﻤﺟ ﻰﻟﺇ</GameplayTips.PrisonersAsGifts>
+  
+  <GameplayTips.RequestTradeCaravans>ﺔﻳﺭﺎﺠﺘﻟﺍ ﻞﻓﺍﻮﻘﻟﺍ ﻦﻣ ﺓﺩﺪﺤﻣ ﻉﺍﻮﻧﺃ ﺐﻠﻃ ﻚﻨﻜﻤﻳ
+.ﻝﻮﺴﻧﻮﻜﻟﺍ ﻊﺿﻭ ﻲﻓ ﺕﻻﺎﺼﺗﻻﺍ ﺔﻬﺟﺍﻭ ﻡﺍﺪﺨﺘﺳﺎﺑ</GameplayTips.RequestTradeCaravans>
+  
+  <GameplayTips.TransportPodsSendGift>ﻰﻟﺇ ﺎﻳﺍﺪﻬﻟﺍ ﻝﺎﺳﺭﻹ ﻞﻘﻨﻟﺍ ﺕﻻﻮﺴﺒﻜﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻚﻨﻜﻤﻳ
+ﺯﺰﻌﻳ .ﻚﺋﺍﺪﻋﻷ ﻰﺘﺣ - ﻯﺮﺧﻷﺍ ﻞﺋﺎﺼﻔﻟﺍ ﺪﻋﺍﻮﻗ
+.ﻞﺋﺎﺼﻔﻟﺍ ﻦﻴﺑ ﻥﻭﺎﻌﺘﻟﺍ ﻚﻟﺫ</GameplayTips.TransportPodsSendGift>
+  
+  <GameplayTips.KeepingPrisonersTogether>.ﻯﺮﺳﻸﻟ ﻙﺮﺘﺸﻤﻟﺍ ﺯﺎﺠﺘﺣﻻﺍ ﻖﻳﺮﻃ ﻦﻋ ﺔﺣﺎﺴﻤﻟﺍ ﺮﻴﻓﻮﺗ
+ﺏﻭﺮﻬﻟﺍ ﺎﻌﻣ ﻥﻭﺰﺠﺘﺤﻤﻟﺍ ﻯﺮﺳﻷﺍ ﻝﻭﺎﺤﻴﺳ ،ﻚﻟﺫ ﻊﻣﻭ
+.ﺎﻳﻮﺳ</GameplayTips.KeepingPrisonersTogether>
+  
+  <GameplayTips.EnemyFactionBaseDefenses>.ﺍﺪﺟ ﺪﻴﺟ ﻞﻜﺸﺑ ﺔﻴﻤﺤﻣ ﺓﻭﺪﻌﻟﺍ ﻞﺋﺎﺼﻔﻟﺍ ﺪﻋﺍﻮﻗ
+ﺪﻌﺘﺳﺎﻓ ،ﻚﻟﺫ ﺕﺭﺮﻗ ﺍﺫﺇﻭ ,ﺎﻬﺘﻤﺟﺎﻬﻤﻟ ﺔﺟﺎﺤﺑ ﺖﺴﻟ
+.ﺪﻴﺟ ﻞﻜﺸﺑ</GameplayTips.EnemyFactionBaseDefenses>
+  
+  <GameplayTips.AnimalNuzzle>ﻦﺴﺤﺘﺳﻭ ،ﻚﻧﺎﻜﺳ ﺔﻨﺟﺪﻤﻟﺍ ﺔﻔﻴﻄﻠﻟﺍ ﺔﻔﻴﻟﻷﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺐﻋﺍﺪﻴﺳ
+.ﻢﻬﺟﺍﺰﻣ</GameplayTips.AnimalNuzzle>
+  
+  <GameplayTips.AnimalHerbivorousGrassArea>ﺕﺍﺫ ﻖﻃﺎﻨﻤﻟﺍ ﻲﻓ ﻝﻮﺠﺘﻟﺎﺑ ﺔﻴﺗﺎﺒﻨﻟﺍ ﻚﺗﺎﻧﺍﻮﻴﺤﻟ ﺢﻤﺳﺍ
+ﻰﻠﻋ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻩﺬﻫ ﻯﺬﻐﺘﺘﺳ .ﺐﺸﻌﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ
+.ﻢﻬﻣﺎﻌﻃﺇ ﺀﺎﻨﻋ ﻚﻟ ﺮﻓﻮﻳ ﺎﻤﻣ ،ﺕﺎﺗﺎﺒﻨﻟﺍ</GameplayTips.AnimalHerbivorousGrassArea>
+  
+  <GameplayTips.RemoveLimbInfection>,ﻑﺮﻄﻟﺍ ﻲﻓ ﺓﺮﻴﻄﺧ ﻯﻭﺪﻋ ﻙﺎﻨﻫ ﺖﻧﺎﻛ ﺍﺫﺇ
+.ﻪﺗﺎﻴﺣ ﺫﺎﻘﻧﻹ ﻑﺮﻄﻟﺍ ﺔﻟﺍﺯﺇ ﻚﻨﻜﻤﻳ</GameplayTips.RemoveLimbInfection>
+  
+  <GameplayTips.SloshingWater>ﺀﺎﻨﺒﺑ ﻢﻗ .ﺱﺎﻨﻟﺍ ﺝﺍﺰﻣ ﺀﺎﻤﻟﺍ ﺭﻮﺒﻋ ﺮﻜﻌﺗ
+.ﻦﻜﻤﻣ ﺖﻗﻭ ﺏﺮﻗﺃ ﻲﻓ ﺮﺴﺟ</GameplayTips.SloshingWater>
+  
+  <GameplayTips.Luciferium>ﻰﺘﺣ ،ﺕﺎﺑﺪﻨﻟﺍ ﺞﻟﺎﻌﻳ ﻥﺃ "Luciferium" ـﻟ ﻦﻜﻤﻳ
+.ﻍﺎﻣﺪﻟﺍ ﻭﺃ ﻦﻴﻌﻟﺍ ﻰﻠﻋ ﺮﻬﻈﺗ ﻲﺘﻟﺍ ﻚﻠﺗ
+.ﺍﺪﻳﺪﺷ ﺎﻧﺎﻣﺩﺇ "Luciferium" ﻲﻃﺎﻌﺗ ﺐﺒﺴﻳ ،ﻚﻟﺫ ﻊﻣﻭ</GameplayTips.Luciferium>
+  
+  <GameplayTips.WorkMovementSpeedLighting>ﻲﻓ .ﻞﻘﻨﺘﻟﺍﻭ ﻞﻤﻌﻟﺍ ﺔﻋﺮﺳ ﻰﻠﻋ ﺮﺛﺆﺗ ﺓﺀﺎﺿﻹﺍ
+.ﺀﻲﺷ ﻞﻛ ﺄﻃﺎﺒﺘﻳ ﻡﻼﻈﻟﺍ</GameplayTips.WorkMovementSpeedLighting>
+  
+  <GameplayTips.DeepCavesTemperature>ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﺎﻬﻳﺪﻟ ﺽﺭﻷﺍ ﺖﺤﺗ ﺔﻘﻴﻤﻌﻟﺍ ﻑﻮﻬﻜﻟﺍ
+ﺝﺭﺎﺨﻟﺎﺑ ﺓﺭﺍﺮﺤﻟﺍ ﺖﻧﺎﻛ ﻥﺇ ﻰﺘﺣ ،ﺔﻴﻌﻴﺒﻃ ﺔﺘﺑﺎﺛ
+.ﺍﺪﺟ ﺔﻀﻔﺨﻨﻣ ﻭﺃ ﺔﻌﻔﺗﺮﻣ</GameplayTips.DeepCavesTemperature>
+  
+  <GameplayTips.MountainBases>ﻥﺃ ﻮﻫ ﺎﻬﺒﻴﻋ .ﻝﺎﺒﺠﻟﺍ ﺪﻋﺍﻮﻗ ﺔﻳﺎﻤﺣ ﻞﻬﺳ
+ﺖﺤﺗ ﻞﻳﻮﻃ ﺖﻗﻭ ﺀﺎﻀﻗ ﺐﺒﺴﺑ ﻥﻮﻨﺠﻳ ﺱﺎﻨﻟﺍ
+ﺶﻴﻌﺗ ﺔﻤﺨﺿ ﺕﺍﺮﺸﺣ ﺎﻀﻳﺃ ﻙﺎﻨﻫﻭ ،ﻩﻭﺃ .ﺽﺭﻷﺍ
+.ﻙﺎﻨﻫ</GameplayTips.MountainBases>
+  
+  <GameplayTips.PrisonersGoodMood>ﻉﺮﺳﺃ ﻞﻜﺸﺑ ﻚﻴﻟﺇ ﻥﻮﻤﻀﻨﻳ ﻑﻮﺳ ﻯﺮﺳﻷﺍ ﻥﺇ
+ﻲﻓ ﺍﻮﻧﺎﻛ ﺍﺫﺇ ﺍﺭﺩﺎﻧ ﺏﻭﺮﻬﻟﺍ ﻥﻮﻟﻭﺎﺤﻳ ﻑﻮﺳﻭ
+.ﺪﻴﺟ ﺝﺍﺰﻣ</GameplayTips.PrisonersGoodMood>
+  
+  <GameplayTips.MultipleResearchers>ﻥﻮﻠﻤﻌﻳ ﻦﻴﺜﺣﺎﺑ ﺓﺪﻋ ﻚﻳﺪﻟ ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ
+.ﺔﻴﺜﺤﺑ ﺕﻻﻭﺎﻃ ﺓﺪﻋ ﻰﻠﻋ ﺖﻗﻮﻟﺍ ﺲﻔﻧ ﻲﻓ</GameplayTips.MultipleResearchers>
+  
+  <GameplayTips.GeysersHeatRooms>ﻥﺃ ﻦﻜﻤﻳ .ﺔﻘﻠﻐﻤﻟﺍ ﺕﺎﺣﺎﺴﻤﻟﺍ ﻦﺨﺴﺗ ﺔﻨﺧﺎﺴﻟﺍ ﻊﻴﺑﺎﻨﻴﻟﺍ
+.ﺍﺮﻄﺧ ﻞﻜﺸﺗ ﻭﺃ ﺓﺪﻴﻔﻣ ﻥﻮﻜﺗ</GameplayTips.GeysersHeatRooms>
+  
+  <GameplayTips.ExtinguishFireArtillery>ﻢﻟ ﺍﺫﺇ .ﺮﻴﺠﻔﺘﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻖﺋﺍﺮﺤﻟﺍ ﺩﺎﻤﺧﺇ ﻦﻜﻤﻳ
+ﻒﺋﺍﺬﻗ ﻥﻮﻜﻴﺴﻓ ، ﺮﺧﺁ ﺭﺎﻴﺧ ﻙﺎﻨﻫ ﻦﻜﻳ
+.ﻥﺍﺮﻴﻨﻟﺍ ﻑﺎﻘﻳﻹ ﺓﺪﻴﻔﻣ ﺔﻴﻌﻓﺪﻤﻟﺍ</GameplayTips.ExtinguishFireArtillery>
+  
+  <GameplayTips.BestStoriesFromDarkestSituations>.ﺔﺒﻌﻠﻟﺍ ﺔﻳﺎﻬﻧ ﻲﻨﻌﺗ ﻻ ﺓﺮﻴﺒﻜﻟﺍ ﺕﺎﻗﺎﻔﺧﻹﺍ ﻰﺘﺣ
+ﺎﺒﻟﺎﻏ - ﺔﻛﺮﻌﻤﻟﺍ ﺓﺭﺎﺴﺧ ﺪﻌﺑ ﺔﻌﺑﺎﺘﻤﻟﺍ ﻝﻭﺎﺣ
+ﺐﻌﺻﺃ ﻦﻣ ﺺﺼﻘﻟﺍ ﻞﻀﻓﺃ ﺀﺎﺸﻧﺇ ﻢﺘﻳ ﺎﻣ
+.ﺕﻻﺎﺤﻟﺍ</GameplayTips.BestStoriesFromDarkestSituations>
+  
+  <GameplayTips.KeepWeaponsAwayFromPrisoners>ﺏﻭﺮﻬﻟﺍ .ﻥﻮﺠﺴﻟﺍ ﻦﻋ ﺍﺪﻴﻌﺑ ﻚﺘﺤﻠﺳﺃ ﻥﻭﺰﺨﻤﺑ ﻆﻔﺘﺣﺍ
+ﺔﺤﻠﺳﺃ ﺀﺎﻨﺠﺴﻟﺍ ﻯﺪﻟ ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋ ﺓﺭﻮﻄﺧ ﺮﺜﻛﺃ
+.ﺕﺍﺮﺠﻔﺘﻣﻭ</GameplayTips.KeepWeaponsAwayFromPrisoners>
+  
+  <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>ﺔﻴﻓﺎﻛ ﺔﻴﻤﻜﺑ ﺐﺳﺎﻨﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺩﻮﺟﻭ ﻦﻣ ﺪﻛﺄﺗ
+.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻳﻭﺮﺗ ﺪﻨﻋ</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
+  
+  <GameplayTips.DroppingChunksWillForceDoorsOpen>ﺢﺘﻔﺗ ﺖﻣﺩ ﺎﻣ ﺏﺎﺒﻟﺍ ﻕﻼﻏﺇ ﻦﻜﻤﻳ ﻻ
+ﺍﺬﻫﻭ ،ﺔﻴﻧﺪﻌﻤﻟﺍ ﺓﺩﺮﺨﻟﺍ ﻭﺃ ﺭﻮﺨﺼﻟﺍ ﻦﻣ ﺔﺣﻮﻟ
+ﻚﺘﻨﻃﻮﺘﺴﻣ ﻝﻮﺧﺪﺑ ﻦﻴﻤﺟﺎﻬﻤﻟﺍﻭ ﺔﻳﺮﺒﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺢﻤﺴﻳ ﺪﻗ
+.ﺔﻟﻮﻬﺴﺑ</GameplayTips.DroppingChunksWillForceDoorsOpen>
+  
+  <GameplayTips.CleanLabs>ﻦﻣ ﺪﻳﺰﻳ ﻒﻴﻈﻨﻟﺍ ﻁﻼﺒﻟﺍ ﻊﻣ ﺔﻔﻴﻈﻨﻟﺍ ﺕﺍﺮﺒﺘﺨﻤﻟﺍ
+.ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ</GameplayTips.CleanLabs>
+  
+  <GameplayTips.ChangeStoryteller>ﻱﺃ ﻲﻓ ﻱﺪﺤﺘﻟﺍ ﻯﻮﺘﺴﻣﻭ ﺩﺮﺴﻟﺍ ﺮﻴﻴﻐﺗ ﻦﻜﻤﻳ
+.ﺕﺍﺩﺍﺪﻋﻹﺍ ﺔﻤﺋﺎﻗ ﻝﻼﺧ ﻦﻣ ﺖﻗﻭ</GameplayTips.ChangeStoryteller>
+  
+  <GameplayTips.MoreAlliesMoreTraders>ﺩﺪﻋ ﺩﺍﺯ ،ﻚﻳﺪﻟ ﺔﻔﻴﻠﺤﻟﺍ ﻞﺋﺎﺼﻔﻟﺍ ﺕﺩﺍﺯ ﺎﻤﻠﻛ
+.ﺔﻳﺮﻜﺴﻌﻟﺍ ﻚﺗﺪﻋﺎﺴﻣ ﺩﺩﺮﺗ ﺪﻳﺰﺗﻭ ﻚﻧﻭﺭﻭﺰﻳ ﻦﻳﺬﻟﺍ ﺭﺎﺠﺘﻟﺍ</GameplayTips.MoreAlliesMoreTraders>
+  
+  <GameplayTips.CombatDrugsFromInventory>ﻙﺩﻮﻨﺠﻟ ﺡﺎﻤﺴﻠﻟ ﺔﻳﻭﺩﻷﺍ ﻦﻴﻴﻌﺗ ﺔﺳﺎﻴﺳ ﻡﺍﺪﺨﺘﺳﺍ ﻚﻨﻜﻤﻳ
+ﻝﻭﺎﻨﺗ .Go ﺮﻴﺼﻋ ﻞﺜﻣ ﺔﻴﻟﺎﺘﻘﻟﺍ ﺕﺍﺭﺪﺨﻤﻟﺍ ﻞﻤﺤﺑ
+ﺮﻴﺼﻣ ﻢﺴﺤﻳ ﻥﺃ ﻦﻜﻤﻳ ﺔﻛﺮﻌﻤﻟﺍ ﻞﺒﻗ ﺔﻳﻭﺩﻷﺍ
+.ﻝﺎﺘﻘﻟﺍ</GameplayTips.CombatDrugsFromInventory>
+  
+  <GameplayTips.SchedulesSetLong>ﺺﻴﺼﺨﺘﺑ ﻢﻗ ،ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻝﺎﻤﻋﺃ ﻝﻭﺪﺟ ﻂﻴﻄﺨﺗ ﺪﻨﻋ
+.ﻝﺎﻘﺘﻧﻻﺍ ﺖﻗﻭ ﻞﻴﻠﻘﺘﻟ ﻁﺎﺸﻧ ﻞﻜﻟ ﺮﺜﻛﺃ ﺖﻗﻭ</GameplayTips.SchedulesSetLong>
+  
+  <GameplayTips.StrawMatting>.ﻞﺒﻄﺳﻻﺍ ﻲﻓ ﺎﻬﻌﺿ ،ﺦﺴﺘﺗ ﻻ ﺔﻴﺸﻘﻟﺍ ﺔﻴﻄﻐﺘﻟﺍ</GameplayTips.StrawMatting>
+  
+  <GameplayTips.AnimalFilth>ﺀﺎﻘﺑﺇ .ﺦﺳﻮﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻊﻨﺼﺗ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ
+.ﺓﺪﻴﺟ ﺓﺮﻜﻓ ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﺔﻨﻬﺠﺘﻤﻟﺍ ﺔﻴﺷﺎﻤﻟﺍﻭ ﻝﺎﻴﻓﻷﺍ</GameplayTips.AnimalFilth>
+  
+  <GameplayTips.PredatorsAndFences>ﻥﻮﻜﺗ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﺳﺮﺘﻔﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺩﺎﻄﺼﻳ ﻦﻟ
+.ﺰﺟﺍﻮﺤﻟﺍ ﻭﺃ ﺝﺎﻴﺴﻟﺍ ﻒﻠﺧ</GameplayTips.PredatorsAndFences>
+  
+</LanguageData>

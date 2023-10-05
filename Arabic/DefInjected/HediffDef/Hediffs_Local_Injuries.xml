@@ -1,0 +1,301 @@
+<LanguageData>
+  
+  
+  <Bite.label>ﺔﻀﻋ</Bite.label>
+  
+  <Bite.description>.ﺔﻏﺪﻟ ﺪﻌﺑ ﺡﺮﺟ</Bite.description>
+  
+  <Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>ﺔﺠﻟﺎﻌﻤﻟﺍ ﺖﻤﺗ</Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  
+  <Bite.comps.HediffComp_TendDuration.labelTendedWell>ﺡﺮﺠﻟﺍ ﺪﻴﻤﻀﺗ ﻢﺗ</Bite.comps.HediffComp_TendDuration.labelTendedWell>
+  
+  <Bite.comps.HediffComp_TendDuration.labelTendedWellInner>ﺖﻗﺆﻣ ﺝﻭﺍﺯ</Bite.comps.HediffComp_TendDuration.labelTendedWellInner>
+  
+  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>ﺔﻏﺪﻟ ﻦﻣ ﺔﺑﺪﻧ</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
+  
+  <Bite.injuryProps.destroyedLabel>ﺎﻬﻤﻀﻗ ﻢﺗ</Bite.injuryProps.destroyedLabel>
+  
+  <Bite.injuryProps.destroyedOutLabel>ﺎﻬﻤﻀﻗ ﻢﺗ</Bite.injuryProps.destroyedOutLabel>
+  
+  <Bite.labelNoun>ﺔﻀﻋ</Bite.labelNoun>
+  
+  <Bite.labelNounPretty>{0} {1}</Bite.labelNounPretty> 
+  
+  
+  <Bruise.label>ﺡﺮﺟ</Bruise.label>
+  
+  <Bruise.description>ﺩﻮﺟﻭ ﻊﻣ ﺢﻄﺴﻟﺍ ﻰﻠﻋ ﺓﺯﺭﺎﺑ ﺡﻭﺮﺟﻭ ﺭﺮﺿ
+ﺕﺎﻣﺪﻛ</Bruise.description>
+  
+  <Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>ﺔﺠﻟﺎﻌﻤﻟﺍ ﺖﻤﺗ</Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  
+  <Bruise.comps.HediffComp_TendDuration.labelTendedWell>ﺔﻄﺒﺗﺮﻣ</Bruise.comps.HediffComp_TendDuration.labelTendedWell>
+  
+  <Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>ﺔﺠﻟﺎﻌﻣ</Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>
+  
+  <Bruise.injuryProps.destroyedLabel>ﺎﻫﺪﺻ ﻢﺗ</Bruise.injuryProps.destroyedLabel>
+  
+  <Bruise.labelNoun>ﺡﺮﺟ</Bruise.labelNoun>
+  
+  <Bruise.labelNounPretty>{1} ﻰﻠﻋ {0}</Bruise.labelNounPretty> 
+  
+  
+  <Burn.label>ﻕﻭﺮﺣ</Burn.label>
+  
+  <Burn.description>.ﻕﻭﺮﺣ</Burn.description>
+  
+  <Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>ﺔﺠﻟﺎﻌﻤﻟﺍ ﻢﺗ</Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  
+  <Burn.comps.HediffComp_TendDuration.labelTendedWell>ﺡﺮﺠﻟﺍ ﺪﻴﻤﻀﺗ ﻢﺗ</Burn.comps.HediffComp_TendDuration.labelTendedWell>
+  
+  <Burn.comps.HediffComp_TendDuration.labelTendedWellInner>ﺔﺠﻟﺎﻌﻤﻟﺍ ﺖﻤﺗ</Burn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  
+  <Burn.comps.HediffComp_GetsPermanent.permanentLabel>ﺔﻴﻗﻭﺮﺣ ﺏﻭﺪﻧ</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
+  
+  <Burn.injuryProps.destroyedLabel>ﺖﻗﺮﺘﺣﺍ</Burn.injuryProps.destroyedLabel>
+  
+  <Burn.injuryProps.destroyedOutLabel>ﺖﻗﺮﺘﺣﺍ</Burn.injuryProps.destroyedOutLabel>
+  
+  <Burn.labelNoun>ﻕﻭﺮﺣ ﺔﺑﺎﺻﺇ</Burn.labelNoun>
+  
+  <Burn.labelNounPretty>{1} ﻰﻠﻋ {0}</Burn.labelNounPretty> 
+  
+  
+  <ChemicalBurn.label>ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﻕﻭﺮﺤﻟﺍ</ChemicalBurn.label>
+  
+  <ChemicalBurn.description>.ﺔﻴﺋﺎﻴﻤﻴﻛ ﻕﻭﺮﺣ</ChemicalBurn.description>
+  
+  <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>ﺔﻴﺋﺎﻴﻤﻴﻛ ﻕﻭﺮﺣ ﻦﻣ ﺔﺑﺪﻧ</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  
+  <ChemicalBurn.injuryProps.destroyedLabel>ﻪﻗﺮﺣ ﻢﺗ</ChemicalBurn.injuryProps.destroyedLabel>
+  
+  <ChemicalBurn.injuryProps.destroyedOutLabel>ﺖﻗﺮﺘﺣﺍ</ChemicalBurn.injuryProps.destroyedOutLabel>
+  
+  <ChemicalBurn.labelNoun>ﺔﻴﺋﺎﻴﻤﻴﻛ ﻕﻭﺮﺣ</ChemicalBurn.labelNoun>
+  
+  <ChemicalBurn.labelNounPretty>{0} {1}</ChemicalBurn.labelNounPretty> 
+  
+  
+  <Crack.label>ﻖﺸﻟﺍ</Crack.label>
+  
+  <Crack.description>.ﻢﻈﻌﻟﺍ ﻲﻓ ﺮﺴﻛ ﻭﺃ ﺔﻤﻈﻌﻟﺍ ﻲﻓ ﺮﺴﻛ</Crack.description>
+  
+  <Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>ﺡﺎﺠﻨﺑ ﺖﻤﺗ ﺔﺠﻟﺎﻌﻣ</Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  
+  <Crack.comps.HediffComp_TendDuration.labelTendedWell>ﺀﺎﻔﺸﻟﺍ ﻢﺗ</Crack.comps.HediffComp_TendDuration.labelTendedWell>
+  
+  <Crack.comps.HediffComp_TendDuration.labelTendedWellInner>ﺀﺎﻔﺸﻟﺍ ﻢﺗ</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
+  
+  <Crack.comps.HediffComp_GetsPermanent.permanentLabel>ﺀﺎﻔﺸﻠﻟ ﻞﺑﺎﻗ ﺮﻴﻏ ﻖﺷ</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
+  
+  <Crack.injuryProps.destroyedLabel>ﻪﻤﻴﻄﺤﺗ ﻢﺗ</Crack.injuryProps.destroyedLabel>
+  
+  <Crack.labelNoun>ﻖﺷ</Crack.labelNoun>
+  
+  <Crack.labelNounPretty>{1} ﻰﻠﻋ {0}</Crack.labelNounPretty> 
+  
+  
+  <Crush.label>ﻢﺸﻬﻣ ﺡﺮﺟ</Crush.label>
+  
+  <Crush.description>.ﻢﺸﻬﻣ ﺡﺮﺟ</Crush.description>
+  
+  <Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>ﺔﺠﻟﺎﻌﻤﻟﺍ ﺖﻤﺗ</Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  
+  <Crush.comps.HediffComp_TendDuration.labelTendedWell>ﺔﻄﺒﺗﺮﻣ</Crush.comps.HediffComp_TendDuration.labelTendedWell>
+  
+  <Crush.comps.HediffComp_TendDuration.labelTendedWellInner>ﻲﻤﺤﻣ</Crush.comps.HediffComp_TendDuration.labelTendedWellInner>
+  
+  <Crush.comps.HediffComp_GetsPermanent.permanentLabel>ﺔﺑﺪﻧ</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
+  
+  <Crush.injuryProps.destroyedLabel>ﺔﻗﻮﺤﺴﻣ</Crush.injuryProps.destroyedLabel>
+  
+  <Crush.labelNoun>ﻕﻮﺤﺴﻣ ﺡﺮﺟ</Crush.labelNoun>
+  
+  <Crush.labelNounPretty>{1} ﻰﻠﻋ {0}</Crush.labelNounPretty> 
+  
+  
+  <Cut.label>ﺡﺮﺟ</Cut.label>
+  
+  <Cut.description>.ﺡﺮﺟ</Cut.description>
+  
+  <Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>ﺔﺠﻟﺎﻌﻤﻟﺍ ﺖﻤﺗ</Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  
+  <Cut.comps.HediffComp_TendDuration.labelTendedWell>ﺔﻄﺒﺗﺮﻣ</Cut.comps.HediffComp_TendDuration.labelTendedWell>
+  
+  <Cut.comps.HediffComp_TendDuration.labelTendedWellInner>ﻙﺮﺘﺸﻤﻟﺍ ﻉﺎﻓﺪﻟﺍ ﻡﺎﻈﻧ</Cut.comps.HediffComp_TendDuration.labelTendedWellInner>
+  
+  <Cut.comps.HediffComp_GetsPermanent.permanentLabel>ﻖﻴﻤﻋ ﺡﺮﺟ ﻦﻣ ﺔﺑﺪﻧ</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
+  
+  <Cut.injuryProps.destroyedLabel>ﺎﻬﻌﻄﻗ ﻢﺗ</Cut.injuryProps.destroyedLabel>
+  
+  <Cut.injuryProps.destroyedOutLabel>ﺔﻟﺍﺯﻹﺍ ﺖﻤﺗ</Cut.injuryProps.destroyedOutLabel>
+  
+  <Cut.labelNoun>ﺡﺮﺟ</Cut.labelNoun>
+  
+  <Cut.labelNounPretty>{1} ﻰﻠﻋ {0}</Cut.labelNounPretty> 
+  
+  
+  <ExecutionCut.label>ﺔﻌﻄﻗ</ExecutionCut.label>
+  
+  <ExecutionCut.description>.ﻡﺍﺪﻋﺇ ﺔﻴﻠﻤﻋ ﻝﻼﺧ ﻪﺒﺒﺴﺗ ﻢﺗ ﺡﺮﺟ</ExecutionCut.description>
+  
+  <ExecutionCut.injuryProps.destroyedLabel>ﻪﻌﻄﻗ ﻢﺗ</ExecutionCut.injuryProps.destroyedLabel>
+  
+  <ExecutionCut.injuryProps.destroyedOutLabel>ﻪﻓﺬﺣ ﻢﺗ</ExecutionCut.injuryProps.destroyedOutLabel>
+  
+  <ExecutionCut.labelNoun>.ﺔﺤﺘﻓ</ExecutionCut.labelNoun>
+  
+  <ExecutionCut.labelNounPretty>{1} ﻰﻠﻋ {0}</ExecutionCut.labelNounPretty> 
+  
+  
+  <Frostbite.label>ﺪﻤﺠﺗ</Frostbite.label>
+  
+  <Frostbite.description>ﺲﺑﻼﻤﻟﺍ ﻥﻭﺩ ﺩﺮﺒﻠﻟ ﺽﺮﻌﺘﻟﺍ ﻦﻋ ﺔﺠﺗﺎﻧ ﺔﺑﺎﺻﺇ
+ﺀﺍﺰﺟﻷﺍ .ﺍﺪﺟ ﺔﻤﻟﺆﻣ - ﺪﻤﺠﺘﻟﺎﺑ ﺔﺑﺎﺻﺇ .ﺔﺒﺳﺎﻨﻤﻟﺍ
+.ﺎﻫﺫﺎﻘﻧﺇ ﻦﻜﻤﻳ ﻻ ﺎﺒﻟﺎﻏ ﺪﻳﺪﺷ ﻞﻜﺸﺑ ﺓﺪﻤﺠﺘﻤﻟﺍ</Frostbite.description>
+  
+  <Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>ﺔﺌﻓﺪﻣ</Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  
+  <Frostbite.comps.HediffComp_TendDuration.labelTendedWell>ﻦﺨﺴﻣ</Frostbite.comps.HediffComp_TendDuration.labelTendedWell>
+  
+  <Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>ﺎﻬﺘﺠﻟﺎﻌﻣ ﻢﺗ</Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>
+  
+  <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>ﺪﻤﺠﺘﻟﺍ ﻦﻣ ﺔﺑﺪﻨﻟﺍ</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
+  
+  <Frostbite.injuryProps.destroyedLabel>ﺓﺪﻤﺠﺘﻣ</Frostbite.injuryProps.destroyedLabel>
+  
+  <Frostbite.labelNounPretty>{0} {1}</Frostbite.labelNounPretty> 
+  
+  
+  <Gunshot.label>ﺹﺎﺻﺮﻟﺎﺑ ﺡﻭﺮﺟ</Gunshot.label>
+  
+  <Gunshot.description>.ﻱﺭﺎﻨﻟﺍ ﺡﻼﺴﻟﺎﺑ ﺔﺑﺎﺻﺇ</Gunshot.description>
+  
+  <Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>ﺎﻬﺘﺠﻟﺎﻌﻣ ﻢﺗ</Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  
+  <Gunshot.comps.HediffComp_TendDuration.labelTendedWell>ﺡﺮﺠﻟﺍ ﺪﻴﻤﻀﺗ ﻢﺗ</Gunshot.comps.HediffComp_TendDuration.labelTendedWell>
+  
+  <Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>ﺔﻔﺋﺍﺯ</Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>
+  
+  <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>ﺹﺎﺻﺮﻟﺎﺑ ﺔﺑﺎﺻﺇ</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  
+  <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>ﺹﺎﺻﺮﻟﺍ ﺔﺑﺪﻧ</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
+  
+  <Gunshot.injuryProps.destroyedLabel>ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻢﺗ</Gunshot.injuryProps.destroyedLabel>
+  
+  <Gunshot.injuryProps.destroyedOutLabel>ﻪﻗﺍﺮﺘﺧﺍ ﻢﺗ</Gunshot.injuryProps.destroyedOutLabel>
+  
+  <Gunshot.labelNoun>ﺹﺎﺻﺮﻟﺎﺑ ﺔﺑﺎﺻﺇ</Gunshot.labelNoun>
+  
+  <Gunshot.labelNounPretty>{0} {1}</Gunshot.labelNounPretty> 
+  
+  
+  <Misc.label>ﻉﻮﻨﺘﻣ</Misc.label>
+  
+  <Misc.description>.ﺔﻔﻠﺘﺨﻤﻟﺍ ﺡﻭﺮﺠﻟﺍﻭ ﺕﺎﺑﺎﺻﻹﺍ</Misc.description>
+  
+  <Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>ﺔﺠﻟﺎﻌﻣ</Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  
+  <Misc.comps.HediffComp_TendDuration.labelTendedWell>ﺡﺮﺠﻟﺍ ﻂﺒﺗﺮﻣ</Misc.comps.HediffComp_TendDuration.labelTendedWell>
+  
+  <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>ﻲﻤﺤﻣ</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
+  
+  <Misc.comps.HediffComp_GetsPermanent.permanentLabel>ﺔﺑﺪﻧ</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
+  
+  <Misc.injuryProps.destroyedLabel>.ﺎﻫﺮﻴﻣﺪﺗ ﻢﺗ</Misc.injuryProps.destroyedLabel>
+  
+  <Misc.labelNoun>ﺡﺮﺠﻟﺍ</Misc.labelNoun>
+  
+  <Misc.labelNounPretty>{0} {1}</Misc.labelNounPretty> 
+  
+  
+  <MissingBodyPart.label>ﻢﺴﺠﻟﺍ ﻦﻣ ﺩﻮﻘﻔﻤﻟﺍ ﺀﺰﺠﻟﺍ</MissingBodyPart.label>
+  
+  <MissingBodyPart.description>.ﺎﻣﺎﻤﺗ ﺩﻮﻘﻔﻣ ﻢﺴﺠﻟﺍ ﻦﻣ ﺀﺰﺟ</MissingBodyPart.description>
+  
+  <MissingBodyPart.labelNoun>ﻢﺴﺠﻟﺍ ﻦﻣ ﺩﻮﻘﻔﻤﻟﺍ ﺀﺰﺠﻟﺍ</MissingBodyPart.labelNoun>
+  
+  <MissingBodyPart.labelNounPretty>{0} ﺐﺋﺎﻏ</MissingBodyPart.labelNounPretty> 
+  
+  
+  <Scratch.label>ﻕﺰﻤﻣ ﺡﺮﺟ</Scratch.label>
+  
+  <Scratch.description>.ﻕﺰﻤﻣﻭ ﻖﻴﻤﻋ ﺡﺮﺟ ﻭﺃ ﻒﻴﻔﺧ ﺡﺮﺟ</Scratch.description>
+  
+  <Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>.ﺎﻬﺘﺠﻟﺎﻌﻣ ﺖﻤﺗ</Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  
+  <Scratch.comps.HediffComp_TendDuration.labelTendedWell>ﻂﺒﺗﺮﻣ</Scratch.comps.HediffComp_TendDuration.labelTendedWell>
+  
+  <Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>.ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ﻻ</Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>
+  
+  <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>ﺔﻘﻴﻤﻋ ﺔﺣﺍﺮﺟ ﻦﻣ ﺔﺑﺪﻧ</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
+  
+  <Scratch.injuryProps.destroyedLabel>ﺔﻗﺰﻤﻣ</Scratch.injuryProps.destroyedLabel>
+  
+  <Scratch.injuryProps.destroyedOutLabel>ﺔﻗﺰﻤﻣ</Scratch.injuryProps.destroyedOutLabel>
+  
+  <Scratch.labelNoun>ﻕﺰﻤﻣ ﺡﺮﺟ</Scratch.labelNoun>
+  
+  <Scratch.labelNounPretty>{1} ﻰﻠﻋ {0}</Scratch.labelNounPretty> 
+  
+  
+  <Shredded.label>.ﺔﻌﺠﻔﻣ ﺔﺑﺎﺻﺇ</Shredded.label>
+  
+  <Shredded.description>ﺡﻭﺮﺠﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ .ﺭﺎﺠﻔﻧﺍ ﺀﺍﺮﺟ ﺓﺮﻴﻄﺧ ﺔﺑﺎﺻﺇ
+.ﻢﺴﺠﻟﺍ ﻦﻣ ﺍﺀﺰﺟ ﻲﻄﻐﺗ ﺔﻘﻴﻤﻌﻟﺍ</Shredded.description>
+  
+  <Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>ﺔﺠﻟﺎﻌﻣ</Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  
+  <Shredded.comps.HediffComp_TendDuration.labelTendedWell>ﺡﺮﺠﻟﺍ ﺪﻴﻤﻀﺗ ﻢﺗ</Shredded.comps.HediffComp_TendDuration.labelTendedWell>
+  
+  <Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>ﻲﻤﺤﻣ</Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>
+  
+  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>ﺔﺑﺪﻧ</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
+  
+  <Shredded.injuryProps.destroyedLabel>ﺔﻠﺼﻔﻨﻣ</Shredded.injuryProps.destroyedLabel>
+  
+  <Shredded.injuryProps.destroyedOutLabel>ﺎﻬﻘﻳﺰﻤﺗ ﻢﺗ</Shredded.injuryProps.destroyedOutLabel>
+  
+  <Shredded.labelNoun>ﺔﻳﺭﺎﺠﻔﻧﺍ ﺔﺑﺎﺻﺇ</Shredded.labelNoun>
+  
+  <Shredded.labelNounPretty>{0} {1}</Shredded.labelNounPretty> 
+  
+  
+  <Stab.label>ﻲﻈﺸﺘﻣ ﺡﺮﺟ</Stab.label>
+  
+  <Stab.description>.ﻕﺰﻤﻣ ﺡﺮﺟ</Stab.description>
+  
+  <Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>ﺎﻬﺘﺠﻟﺎﻌﻣ ﻢﺗ</Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  
+  <Stab.comps.HediffComp_TendDuration.labelTendedWell>ﺡﺮﺠﻟﺍ ﺪﻴﻤﻀﺗ ﺖﻤﺗ</Stab.comps.HediffComp_TendDuration.labelTendedWell>
+  
+  <Stab.comps.HediffComp_TendDuration.labelTendedWellInner>ﺔﻴﻗﺍﻭ ﺀﺎﻄﻏ</Stab.comps.HediffComp_TendDuration.labelTendedWellInner>
+  
+  <Stab.comps.HediffComp_GetsPermanent.permanentLabel>ﻥﻮﻌﻄﻣ ﺡﺮﺟ ﻦﻣ ﺔﺑﺪﻧ</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
+  
+  <Stab.injuryProps.destroyedLabel>ﺔﺣﺎﺘﻣ ﺮﻴﻏ</Stab.injuryProps.destroyedLabel>
+  
+  <Stab.injuryProps.destroyedOutLabel>ﺺﻘﻟﺍ ﻢﺗ</Stab.injuryProps.destroyedOutLabel>
+  
+  <Stab.labelNoun>ﺖﺘﻔﺘﻣ ﺡﺮﺟ</Stab.labelNoun>
+  
+  <Stab.labelNounPretty>{0} {1}</Stab.labelNounPretty> 
+  
+  
+  <SurgicalCut.label>ﻲﺣﺍﺮﺟ ﻕﺰﻤﺗ</SurgicalCut.label>
+  
+  <SurgicalCut.description>.ﺔﻴﻠﻤﻌﻟﺍ ﺀﺎﻨﺛﺃ ﻩﺀﺍﺮﺟﺇ ﻢﺗ ﻱﺬﻟﺍ ﻖﺸﻟﺍ</SurgicalCut.description>
+  
+  <SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>ﺔﺠﻟﺎﻌﻤﻟﺍ ﺖﻤﺗ</SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  
+  <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>ﺓﺩﺎﻤﻀﻟﺍ ﺔﺒﺗﺮﻣ</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>
+  
+  <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>ﻲﻤﺤﻣ</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>
+  
+  <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>ﺡﺮﺟ ﺔﺑﺪﻧ</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
+  
+  <SurgicalCut.labelNoun>ﺔﻴﺣﺍﺮﺠﻟﺍ ﺔﺣﺍﺮﺠﻟﺍ</SurgicalCut.labelNoun>
+  
+  <SurgicalCut.labelNounPretty>{1} ﻰﻠﻋ {0}</SurgicalCut.labelNounPretty> 
+  
+</LanguageData>

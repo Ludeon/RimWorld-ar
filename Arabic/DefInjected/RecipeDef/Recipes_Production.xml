@@ -1,0 +1,96 @@
+<LanguageData>
+  
+  
+  <DestroyApparel.label>.ﺲﺑﻼﻤﻟﺍ ﺮﻴﻣﺪﺗ</DestroyApparel.label>
+  
+  <DestroyApparel.description>ﺓﺭﺍﺮﺣ ﺕﺎﺟﺭﺩ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻳﺭﻭﺮﻀﻟﺍ ﺮﻴﻏ ﺲﺑﻼﻤﻟﺍ ﺮﻴﻣﺪﺗ
+ﻰﻠﻋ ﻞﻤﻌﻳﻭ ﺮﻬﺼﻟﺍ ﻦﻣ ﻉﺮﺳﺃ ﻕﺮﺤﻟﺍ .ﺔﻴﻟﺎﻋ
+ﻻ ﻪﻨﻜﻟ ، ﺮﻬﺼﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺮﻴﻏ ﺲﺑﻼﻤﻟﺍ
+.ﺩﺭﺍﻮﻣ ﻱﺃ ﻲﻄﻌﻳ</DestroyApparel.description>
+  
+  <DestroyApparel.jobString>ﺲﺑﻼﻤﻟﺍ ﺮﻣﺪﻳ</DestroyApparel.jobString>
+  
+  
+  <DestroyWeapon.label>.ﺡﻼﺴﻟﺍ ﺮﻴﻣﺪﺗ</DestroyWeapon.label>
+  
+  <DestroyWeapon.description>ﺓﺭﺍﺮﺣ ﺕﺎﺟﺭﺩ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻳﺭﻭﺮﻀﻟﺍ ﺮﻴﻏ ﺔﺤﻠﺳﻷﺍ ﺮﻴﻣﺪﺗ
+ﻰﻠﻋ ﻞﻤﻌﻳﻭ ﺮﻬﺼﻟﺍ ﻦﻣ ﻉﺮﺳﺃ ﻕﺮﺤﻟﺍ .ﺔﻴﻟﺎﻋ
+ﺮﻓﻮﻳ ﻻ ﻪﻨﻜﻟ ،ﻥﺎﺑﻭﺬﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺮﻴﻏ ﺔﺤﻠﺳﻷﺍ
+.ﺩﺭﺍﻮﻣ ﻱﺃ</DestroyWeapon.description>
+  
+  <DestroyWeapon.jobString>ﺔﺤﻠﺳﻷﺍ ﺮﻣﺪﻳ</DestroyWeapon.jobString>
+  
+  
+  <ExtractMetalFromSlag.label>ﻥﺪﻌﻤﻟﺍ ﻊﻄﻗ ﺮﻬﺻ</ExtractMetalFromSlag.label>
+  
+  <ExtractMetalFromSlag.description>ﺔﺟﺭﺩ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻴﻧﺪﻌﻤﻟﺍ ﺓﺩﺮﺨﻟﺍ ﻦﻣ ﻥﺪﻌﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ
+.ﺔﻳﻮﻗ ﺕﺎﺴﻴﻃﺎﻨﻐﻣﻭ ﺔﻴﻟﺎﻋ ﺓﺭﺍﺮﺣ</ExtractMetalFromSlag.description>
+  
+  <ExtractMetalFromSlag.jobString>ﺔﻴﻧﺪﻌﻤﻟﺍ ﺓﺩﺮﺨﻟﺍ ﺐﺳﺮﻳ</ExtractMetalFromSlag.jobString>
+  
+  
+  <Make_ChemfuelFromOrganics.label>.ﺔﻳﻮﻀﻌﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻭ ﻰﻠﻋ ﻞﺼﺣﺍ</Make_ChemfuelFromOrganics.label>
+  
+  <Make_ChemfuelFromOrganics.description>ﻦﻣ ﻲﺋﺎﻴﻤﻴﻜﻟﺍ ﺩﻮﻗﻮﻟﺍ ﻦﻣ ﺔﻌﻓﺩ ﻰﻠﻋ ﻞﺼﺣﺍ
+.ﺔﻳﻮﻀﻌﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﺔﻳﻮﻴﺤﻟﺍ ﺕﺎﺒﻛﺮﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ ﻝﻼﺧ</Make_ChemfuelFromOrganics.description>
+  
+  <Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>ﺔﻴﺳﺎﺳﻷﺍ ﻡﺎﺨﻟﺍ ﺩﺍﻮﻤﻟﺍ</Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>
+  
+  <Make_ChemfuelFromOrganics.jobString>.ﺔﻳﻮﻀﻌﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻭ ﺝﺎﺘﻧﺈﺑ ﻡﻮﻘﻳ</Make_ChemfuelFromOrganics.jobString>
+  
+  
+  <Make_ChemfuelFromWood.label>ﺐﺸﺨﻟﺍ ﻦﻣ ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻭ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ</Make_ChemfuelFromWood.label>
+  
+  <Make_ChemfuelFromWood.description>ﻦﻣ ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻭ ﻦﻣ ﺔﻌﻓﺩ ﻰﻠﻋ ﻞﺼﺣﺍ
+.ﺯﺎﻏ ﻰﻟﺇ ﺐﺸﺨﻟﺍ ﻞﻳﻮﺤﺗ ﻝﻼﺧ</Make_ChemfuelFromWood.description>
+  
+  <Make_ChemfuelFromWood.jobString>.ﺐﺸﺨﻟﺍ ﻦﻣ ﺎﻴﺋﺎﻴﻤﻴﻛ ﺍﺩﻮﻗﻭ ﺞﺘﻨﻳ</Make_ChemfuelFromWood.jobString>
+  
+  
+  <Make_ComponentIndustrial.label>ﻥﻮﻜﻤﻟﺍ ﻊﻴﻨﺼﺗ</Make_ComponentIndustrial.label>
+  
+  <Make_ComponentIndustrial.description>.ﻥﻮﻜﻤﻟﺍ ﻊﻴﻨﺼﺗ</Make_ComponentIndustrial.description>
+  
+  <Make_ComponentIndustrial.jobString>ﻥﻮﻜﻤﻟﺍ ﻊﻨﺼﻳ</Make_ComponentIndustrial.jobString>
+  
+  
+  <Make_ComponentSpacer.label>ﻡﺪﻘﺘﻣ ﻥﻮﻜﻣ ﻊﻨﺻ</Make_ComponentSpacer.label>
+  
+  <Make_ComponentSpacer.description>.ﻡﺪﻘﺘﻣ ﻥﻮﻜﻣ ﺝﺎﺘﻧﺇ</Make_ComponentSpacer.description>
+  
+  <Make_ComponentSpacer.jobString>ﺎﻣﺪﻘﺘﻣ ﺎﻧﻮﻜﻣ ﻊﻨﺼﻳ</Make_ComponentSpacer.jobString>
+  
+  
+  <Make_Patchleather.label>.ﺔﻌﻗﺮﻟﺍ ﺪﻠﺟ ﻊﻴﻨﺼﺘﺑ ﻢﻗ</Make_Patchleather.label>
+  
+  <Make_Patchleather.description>ﺵﺎﻤﻗ ﻞﻴﻜﺸﺘﻟ ﺎﻌﻣ ﺔﻔﻠﺘﺨﻤﻟﺍ ﺪﻠﺠﻟﺍ ﻊﻄﻗ ﺞﻣﺩ
+.ﺪﺣﺍﻭ ﻱﺪﻠﺟ</Make_Patchleather.description>
+  
+  <Make_Patchleather.jobString>ﺪﻌﺠﻤﻟﺍ ﺪﻠﺠﻟﺍ ﻊﻨﺼﻳ</Make_Patchleather.jobString>
+  
+  
+  <Make_StoneBlocksAny.label>ﺔﻳﺮﺠﺣ ﻞﺘﻛ ﻱﺃ ﺝﺎﺘﻧﺇ</Make_StoneBlocksAny.label>
+  
+  <Make_StoneBlocksAny.description>ﺔﺤﻟﺎﺻ ﻞﺘﻛ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﻡﺎﻛﺮﻟﺍ ﺭﺎﺠﺣﺃ ﺔﺠﻟﺎﻌﻣ
+.ﺀﺎﻨﺒﻠﻟ</Make_StoneBlocksAny.description>
+  
+  <Make_StoneBlocksAny.jobString>.ﺔﻳﺮﺠﺣ ﻞﺘﻛ ﻊﻨﺼﻳ</Make_StoneBlocksAny.jobString>
+  
+  
+  <SmeltApparel.label>.ﻉﻭﺭﺪﻟﺍ ﺮﻬﺻ</SmeltApparel.label>
+  
+  <SmeltApparel.description>ﻱﻮﺘﺤﺗ ﻲﺘﻟﺍ ﺲﺑﻼﻤﻟﺍ ﻦﻣ ﺔﻤﻴﻘﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ
+ﺕﺎﺟﺭﺩ ﻡﺍﺪﺨﺘﺳﺎﺑ ،ﻉﻭﺭﺪﻟﺍ ﻞﺜﻣ ،ﺔﻴﻧﺪﻌﻣ ﺀﺍﺰﺟﺃ ﻰﻠﻋ
+.ﺔﻳﻮﻗ ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭ ﺔﻴﻟﺎﻋ ﺓﺭﺍﺮﺣ</SmeltApparel.description>
+  
+  <SmeltApparel.jobString>ﺲﺑﻼﻤﻟﺍ ﺮﻬﺼﻳ</SmeltApparel.jobString>
+  
+  
+  <SmeltWeapon.label>.ﻥﺪﻌﻣ ﻰﻟﺇ ﺔﺤﻠﺳﻷﺍ ﺮﻬﺻ</SmeltWeapon.label>
+  
+  <SmeltWeapon.description>ﺕﺎﺟﺭﺩ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﺤﻠﺳﻷﺍ ﻦﻣ ﺔﻤﻴﻘﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ
+.ﺔﻳﻮﻗ ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﺕﻻﺎﺠﻣﻭ ﺔﻴﻟﺎﻋ ﺓﺭﺍﺮﺣ</SmeltWeapon.description>
+  
+  <SmeltWeapon.jobString>ﺔﺤﻠﺳﻷﺍ ﺮﻬﺼﻳ</SmeltWeapon.jobString>
+  
+</LanguageData>

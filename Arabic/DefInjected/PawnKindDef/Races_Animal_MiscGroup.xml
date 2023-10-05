@@ -1,0 +1,32 @@
+<LanguageData>
+  
+  
+  <Alphabeaver.label>ﻲﺣﺎﻔﺘﻟﺍ ﺮﺑﻮﺒﻟﺍ</Alphabeaver.label>
+  <Alphabeaver.labelFemale>ﺔﻛﺮﺑﻮﺑﺎﻔﻟﺍ</Alphabeaver.labelFemale>
+  <Alphabeaver.labelPlural>ﺓﺭﻮﺟﺄﻤﻟﺍ ﺓﺮﻘﺒﻟﺍ</Alphabeaver.labelPlural>
+  <Alphabeaver.lifeStages.0.label>ﺎﻔﻟﻷﺍ ﺭﺄﻔﻟﺍ</Alphabeaver.lifeStages.0.label>
+  <Alphabeaver.lifeStages.1.label>ﺮﻴﻐﺼﻟﺍ ﺎﻔﻟﻷﺍ ﺕﻮﻤﻳﺮﻟﺍ</Alphabeaver.lifeStages.1.label>
+  <Alphabeaver.lifeStages.1.labelFemale>ﺎﻜﻳﺍﺮﺑﺎﻔﻟﺃ ﺔﺑﺎﺷ</Alphabeaver.lifeStages.1.labelFemale>
+  
+  
+  <Cobra.label>ﺍﺮﺑﻮﻛ</Cobra.label>
+  <Cobra.labelPlural>ﺍﺮﺑﻮﻜﻟﺍ</Cobra.labelPlural>
+  <Cobra.lifeStages.0.label>ﻰﻌﻓﻷﺍ ﺮﻴﻐﺻ</Cobra.lifeStages.0.label>
+  <Cobra.lifeStages.1.label>ﺓﺮﻴﻐﺼﻟﺍ ﻰﻌﻓﻷﺍ</Cobra.lifeStages.1.label>
+  
+  
+  <Thrumbo.label>ﻮﺒﻣﻭﺮﺗ</Thrumbo.label>
+  <Thrumbo.labelPlural>ﻮﺒﻣﻭﺮﺗ</Thrumbo.labelPlural>
+  
+  <Thrumbo.lifeStages.thrumbo_calf.label>ﻼﺠﻋ ﻮﺒﻣﺮﺗ</Thrumbo.lifeStages.thrumbo_calf.label>
+  
+  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>ﺔﺒﻋﺮﻤﻟﺍ ﻝﻮﺠﻌﻟﺍ</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
+  <Thrumbo.lifeStages.1.label>ﻮﺒﻣﻭﺮﺗ ﺏﺎﺷ</Thrumbo.lifeStages.1.label>
+  
+  
+  <Tortoise.label>ﺓﺎﻔﺤﻠﺳ</Tortoise.label>
+  <Tortoise.labelPlural>.ﻒﺣﻼﺳ</Tortoise.labelPlural>
+  <Tortoise.lifeStages.0.label>ﺔﻔﺣﻼﺳ</Tortoise.lifeStages.0.label>
+  <Tortoise.lifeStages.1.label>ﺓﺮﻴﻐﺻ ﺓﺎﻔﺤﻠﺳ</Tortoise.lifeStages.1.label>
+  
+</LanguageData>

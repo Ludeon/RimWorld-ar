@@ -1,0 +1,79 @@
+<LanguageData>
+
+  
+  <FactionGreetingHostile>.ﻝﺎﺼﺗﻻﺍ ﻞﻄﻌﻳﻭ ﺕﺎﻤﻠﻜﻟﺍ ﺾﻌﺒﺑ ﺥﺮﺼﻳ {0}</FactionGreetingHostile>
+  
+  <FactionGreetingHostileAppreciative>ﻞﺜﻣ ،"ﺔﻨﺴﺣ ﺔﺘﻔﻟ" ﺭﺎﻬﻇﺇ ﻚﻨﻣ ﺐﻠﻄﻳ {0}
+ﻦﻋ ﺝﺍﺮﻓﻹﺍ ﻭﺃ ﺕﺎﻨﻃﻮﺘﺴﻤﻟﺍ ﺪﺣﻷ ﺔﻳﺪﻫ ﻢﻳﺪﻘﺗ
+ﻚﻟﺫ ﻰﺘﺣ .ﻪﺘﻋﺎﻤﺟ ﻦﻣ ﺭﺮﺿ ﻼﺑ ﺮﻴﺳﺃ
+ﻲﻓn\n\.ﻚﻌﻣ ﺙﺪﺤﺘﻟﺍ ﻲﻓ ﺐﻏﺮﻳ ﻦﻟ ﻮﻫ ،ﻦﻴﺤﻟﺍ
+.ﻝﺎﺼﺗﻻﺍ ﻊﻄﻘﻨﻳﻭ ﻚﻴﻠﻋ ﺮﻣﺬﺘﻳ {0} ،ﺔﻳﺎﻬﻨﻟﺍ</FactionGreetingHostileAppreciative>
+  
+  <FactionGreetingWary>.ﺮﻣﻷﺍ ﻦﻋ ﻪﻟﺄﺴﻳﻭ {NEGOTIATOR_labelShort} ـﺑ ﺐﺣﺮﻳ {0}</FactionGreetingWary>
+  
+  <FactionGreetingWarm>ﻒﻴﻛ ﻦﻋ ﻝﺄﺴﻳﻭ {NEGOTIATOR_labelShort} ـﺑ ﺐﺣﺮﻳ {0}
+.{LEADER_pronoun} ﺓﺪﻋﺎﺴﻣ ﻪﻨﻜﻤﻳ</FactionGreetingWarm>
+
+  
+  <WorkTypeDisablesOption>ﺓﺮﻓﻮﺘﻣ ﺮﻴﻏ {0}</WorkTypeDisablesOption>
+  
+  <Disconnect>ﻞﻴﻐﺸﺘﻟﺍ ﻞﻄﻋ</Disconnect>
+
+  
+  
+  <OfferGift>ﺔﻳﺪﻫ ﺡﺮﺘﻗﺍ</OfferGift>
+  
+  <MustBeAlly>ﺀﺎﻔﻠﺣ ﺮﻴﻏ</MustBeAlly>
+  
+  <NeedGoodwill>ﺔﻌﻤﺳ {0} ﺏﻮﻠﻄﻣ</NeedGoodwill>
+  
+  <NeedSilverLaunchable>ﺓﺭﺎﺠﺘﻟﺍ ﺝﺮﺑ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ₡{0} ﺏﻮﻠﻄﻣ</NeedSilverLaunchable>
+  
+  <NotEnoughSilver>ﺔﻀﻔﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﺪﺟﻮﻳ ﻻ</NotEnoughSilver>
+  
+  <SilverForGoodwill>ﺔﻌﻤﺳ {1} ﻞﺑﺎﻘﻣ ₡{0}</SilverForGoodwill>
+  
+  <SilverGiftSent>({1} ﺭﺍﺪﻘﻤﺑ ﻚﺘﻌﻤﺳ ﺖﻨﺴﺤﺗ)n\n\.ﻙﺮﻜﺸﻳ {0}</SilverGiftSent>
+
+  
+  
+  <RequestTrader>(ﺔﻌﻤﺳ ﺔﻄﻘﻧ {0} ﺮﻌﺴﺑ) ﺔﻳﺭﺎﺠﺗ ﺔﻠﻓﺎﻗ ﺐﻠﻃﺍ</RequestTrader>
+  
+  <ChooseTraderKind>.ﺎﻬﻴﻟﺇ ﺝﺎﺘﺤﺗ ﺔﻠﻓﺎﻗ ﻱﺃ {0} ﻝﺄﺴﻳ</ChooseTraderKind>
+  
+  <TraderSent>.ﻢﻜﻴﻟﺇ ﺔﻳﺭﺎﺠﺗ ﺔﻠﻓﺎﻗ ﻝﺎﺳﺭﺇ ﻰﻠﻋ ﻖﻓﺍﻮﻳ {0}
+.ﺔﻠﻴﻠﻗ ﻡﺎﻳﺃ ﻥﻮﻀﻏ ﻲﻓ ﻞﺼﺘﺳ</TraderSent>
+  
+  <WaitTime>{0} ﺮﻈﺘﻧﺍ</WaitTime>
+  
+  
+  
+  <RequestAICoreInformation>(₡{1} :ﺮﻌﺴﻟﺍ) {0} ﻊﻗﻮﻣ ﻦﻋ ﻝﺄﺳﺍ</RequestAICoreInformation>
+  
+  <RequestAICoreInformationResult>ﻚﻟ ﻰﻨﻤﺘﻳﻭ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻚﻟ ﻞﺳﺮﻳ {0}
+.ﻖﻴﻓﻮﺘﻟﺍ</RequestAICoreInformationResult>
+  
+  <NoKnownAICore>ﺔﻓﻭﺮﻌﻤﻟﺍ ﻦﻛﺎﻣﻷﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﺪﺟﻮﺗ ﻻ</NoKnownAICore>  
+  
+  
+  
+  <RequestMilitaryAid>.(ﺔﻌﻤﺳ {0} ﺔﻔﻠﻜﺘﺑ) ﺔﻳﺭﻮﻓ ﺔﻳﺮﻜﺴﻋ ﺓﺪﻋﺎﺴﻣ ﺐﻠﻃ</RequestMilitaryAid>
+  
+  <MilitaryAidConfirmMutualEnemy>ﻲﻓ ﺓﺪﻋﺎﺴﻤﻟﺍ ﻚﻟ ﻡﺪﻘﺗ ﻦﻟ {0} ﺔﺒﻴﺘﻜﻟﺍ
+ﻦﻴﺑ .ﻢﻬﺋﺍﺪﻋﺃ ﺍﻮﺴﻴﻟ ﻦﻳﺬﻟﺍ ﻚﺌﻟﻭﺃ ﺪﺿ ﺏﺮﺤﻟﺍ
+ﻻ ﺐﻏﺮﺗ ﻞﻫ .{1} ﻢﻫ ﺐﺋﺎﺘﻜﻟﺍ ﻚﻠﺗ
+؟ﺓﺪﻋﺎﺴﻤﻟﺍ ﺐﻠﻃ ﻲﻓ ﻝﺍﺰﺗ</MilitaryAidConfirmMutualEnemy>
+  
+  <CallConfirm>.ﺔﻟﺎﺣ ﻱﺃ ﻲﻓ ﻢﻬﺋﺎﻋﺪﺘﺳﺎﺑ ﻢﻗ ،ﻢﻌﻧ</CallConfirm>
+  
+  <CallCancel>.ﻖﺤﺘﺴﻳ ﻻ ،ﻻ</CallCancel>
+  
+  <MilitaryAidSent>.ﺓﺪﻋﺎﺴﻤﻠﻟ ﻦﻴﻠﺗﺎﻘﻤﻟﺍ ﻝﺎﺳﺭﺇ ﻰﻠﻋ ﻖﻓﺍﻮﻳ {0}</MilitaryAidSent>
+  
+  <CantSendMilitaryAidInTime>ﻦﻣ ﺍﻮﻨﻜﻤﺘﻳ ﻦﻟ ﻢﻬﻧﺃ ﻝﻮﻘﻳﻭ ﺭﺬﺘﻌﻳ {0}
+ﻢﻫﺭﻮﻄﺗ ﻯﻮﺘﺴﻣ) .ﺩﺪﺤﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻓ ﻚﺗﺪﻋﺎﺴﻤﻟ ﻝﻮﺻﻮﻟﺍ
+(ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﺀﺎﻨﺒﺑ ﻢﻬﻟ ﺢﻤﺴﻳ ﻻ ﻲﺟﻮﻟﻮﻨﻜﺘﻟﺍ</CantSendMilitaryAidInTime>
+  
+  <HostileVisitorsPresent>ﺔﻳﺩﺎﻌﻣ ﺔﻋﺎﻤﺟ ﻦﻣ ﺀﺎﻀﻋﺃ ﺪﺟﻮﻳ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻲﻓ</HostileVisitorsPresent>
+
+</LanguageData>

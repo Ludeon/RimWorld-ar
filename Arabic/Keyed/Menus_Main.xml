@@ -1,0 +1,611 @@
+﻿<LanguageData>
+
+  
+  <Tutorial>ﺔﻴﺤﻴﺿﻮﺘﻟﺍ ﺕﺎﻤﻴﻠﻌﺘﻟﺍ</Tutorial>
+  <NewColony>ﺓﺪﻳﺪﺟ ﺓﺮﻤﻌﺘﺴﻣ</NewColony>
+  <BackToGame>ﺔﺒﻌﻠﻟﺍ ﻰﻟﺇ ﺓﺩﻮﻌﻟﺍ</BackToGame>
+  <ReviewScenario>ﻮﻳﺭﺎﻨﻴﺴﻟﺍ ﺔﻌﺟﺍﺮﻣ</ReviewScenario>
+  <Save>ﻆﻔﺣﺍ</Save>
+  <LoadGame>ﺔﺒﻌﻠﻟﺍ ﻞﻴﻤﺤﺗ</LoadGame>
+  <Options>ﺕﺍﺭﺎﻴﺧ</Options>
+  <Mod>ﻞﻳﺪﻌﺗ</Mod>
+  <Mods>ﺕﺎﻓﺎﺿﻹﺍ</Mods>
+  <SaveTranslationReport>ﻪﻈﻔﺣ ﻢﺗ ﺔﻤﺟﺮﺘﻟﺍ ﺮﻳﺮﻘﺗ</SaveTranslationReport>
+  <GeneratingTranslationReport>ﺔﻤﺟﺮﺘﻟﺍ ﺪﻴﻟﻮﺗ ﺮﻳﺮﻘﺗ</GeneratingTranslationReport>
+  <CleanupTranslationFiles>ﺔﻤﺟﺮﺘﻟﺍ ﺕﺎﻔﻠﻣ ﻒﻴﻈﻨﺗ</CleanupTranslationFiles>
+  <TranslationFilesTKeyUpdate>(TKey's) ﺔﻤﺟﺮﺘﻟﺍ ﺕﺎﻔﻠﻣ ﺚﻳﺪﺤﺗ</TranslationFilesTKeyUpdate>
+  <CleaningTranslationFiles>ﺔﻤﺟﺮﺘﻟﺍ ﺕﺎﻔﻠﻣ ﻒﻴﻈﻨﺗ</CleaningTranslationFiles>
+  <DevQuickTest>ﺭﻮﻄﻤﻠﻟ ﻊﻳﺮﺳ ﺭﺎﺒﺘﺧﺍ</DevQuickTest>
+  <Credits>ﺕﺍﺩﺎﻤﺘﻋﻻﺍ</Credits>
+  <QuitToMainMenu>ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻗ ﻰﻟﺇ ﺝﻭﺮﺨﻟﺍ</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>ﺔﻤﺋﺎﻘﻟﺍ ﻰﻟﺇ ﺝﺮﺧﺍﻭ ﻆﻔﺣﺍ</SaveAndQuitToMainMenu>
+  <QuitToOS>ﻞﻴﻐﺸﺘﻟﺍ ﻡﺎﻈﻧ ﻰﻟﺇ ﺝﻭﺮﺨﻟﺍ</QuitToOS>
+  <SaveAndQuitToOS>ﻡﺎﻈﻨﻟﺍ ﻰﻟﺇ ﺝﺮﺧﺍﻭ ﻆﻔﺣﺍ</SaveAndQuitToOS>
+  <FictionPrimer>ﻝﺎﻴﺨﻟﺍ ﻞﻴﻟﺩ</FictionPrimer>
+  <LudeonBlog>ﻥﻮﻳﺩﻮﻟ ﺔﻧﻭﺪﻣ</LudeonBlog>
+  <Forums>ﺕﺎﻳﺪﺘﻨﻤﻟﺍ</Forums>
+  <OfficialWiki>ﻲﻤﺳﺮﻟﺍ ﻲﻜﻳﻮﻟﺍ</OfficialWiki>
+  <TynansTwitter>ﻥﺎﻨﻳﺎﺗ ﺮﺘﻳﻮﺗ</TynansTwitter>
+  <TynansDesignBook>ﻥﺎﻨﻴﺗ ﻢﻴﻤﺼﺗ ﺏﺎﺘﻛ</TynansDesignBook>
+  <HelpTranslate>RimWorld ﺔﻤﺟﺮﺗ ﻲﻓ ﺓﺪﻋﺎﺴﻣ</HelpTranslate>
+  <BuySoundtrack>ﺔﻳﺮﻳﻮﺼﺘﻟﺍ ﻰﻘﻴﺳﻮﻤﻟﺍ ﻱﺮﺘﺷﺍ</BuySoundtrack>
+  <CreateWorld>ﻢﻟﺎﻋ ﺀﺎﺸﻧﺇ</CreateWorld>
+
+  
+  <TranslationThanks>.ﻦﻴﺒﺠﻌﻤﻟﺍ ﻊﻨﺻ ﻦﻣ ﻲﻫ RimWorld ﺕﺎﻤﺟﺮﺗ ﻊﻴﻤﺟ
+ﻦﻳﺯﺎﺘﻤﻤﻟﺍ ﻦﻴﻋﻮﻄﺘﻤﻟﺍ ﺔﻄﺳﺍﻮﺑ ﺔﻤﺟﺮﺘﻟﺍ ﻩﺬﻫ ﺀﺎﺸﻧﺇ ﻢﺗ
+{n\n{0\ :ﻦﻴﻴﻟﺎﺘﻟﺍ</TranslationThanks>
+  <TranslationHowToContribute>ﺪﻳﺰﻤﻟﺍ ﺔﻓﺮﻌﻤﻟ ﻩﺎﻧﺩﺃ ﺮﻘﻧﺍ .ﺎﻀﻳﺃ ﺔﻤﻫﺎﺴﻤﻟﺍ ﻚﻨﻜﻤﻳ
+.(ﺢﻔﺼﺘﻤﻟﺍ ﺢﺘﻔﻳ)</TranslationHowToContribute>
+  <LearnMore>ﺪﻳﺰﻤﻟﺍ ﻰﻠﻋ ﻑﺮﻌﺗ</LearnMore>
+
+  
+  <DevBuildWarning>.ﺮﻘﺘﺴﻣ ﺮﻴﻏ ﺮﻳﻮﻄﺗ ﺭﺍﺪﺻﺇ ﻮﻫ ﺍﺬﻫ :ﺮﻳﺬﺤﺗ
+ﺔﻴﻤﻨﺗﻭ ﺔﻴﻤﻴﻤﺼﺗ ﺏﺭﺎﺠﺘﺑ ﻡﻮﻘﻧ ﺎﻨﻧﺃ ﻲﻨﻌﻳ ﺍﺬﻫ
+.ﺔﻴﻨﻘﺗ
+
+ﺎﺘﻗﺆﻣ ﺔﻧﺯﺍﻮﺘﻤﻟﺍ ﺮﻴﻏ ﺀﺎﻴﺷﻷﺍ ﺾﻌﺑ ﻙﺎﻨﻫ ﻥﻮﻜﻴﺳ
+ﺔﻴﻜﻴﺳﻼﻜﻟﺍ ﺏﺎﻌﻟﻷﺍ ﻢﻴﻤﺼﺗ ﺔﻘﻳﺮﻃ ﻩﺬﻫ .ﺪﻤﻋ ﻦﻋ
+ﻢﻬﻔﻟ ﻥﺯﺍﻮﺘﻟﺍ ﻰﻠﻋ ﻞﻤﻌﻟﺎﺑ ﺍﺪﻴﻌﺑ ﺐﻫﺬﻧ ﺚﻴﺣ
+ﺎﻨﻨﻜﻤﻳ ﻚﻟﺫ ﺪﻌﺑ .ﻞﻀﻓﺃ ﻞﻜﺸﺑ ﻥﺯﺍﻮﺘﻟﺍ ﺩﻭﺪﺣ
+.ﺔﻴﺋﺎﻬﻨﻟﺍ ﻥﺯﺍﻮﺘﻟﺍ ﻁﺎﻘﻧ ﺪﻳﺪﺤﺘﻟ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻚﻠﺗ ﻡﺍﺪﺨﺘﺳﺍ
+
+ﻚﻟﺫ ﻲﻓ ﺎﻤﺑ ،ﺀﺎﻄﺧﺃ ﺎﻀﻳﺃ ﻙﺎﻨﻫ ﻥﻮﻜﻴﺳ
+ﺪﻗ .ﺔﺒﻌﻠﻟﺍ ﻞﻴﻄﻌﺗ ﻰﻟﺇ ﻱﺩﺆﺗ ﻲﺘﻟﺍ ﺀﺎﻄﺧﻷﺍ
+ﻱﺃ ﻲﻓ ﺔﺒﻌﻠﻟﺍ ﻆﻔﺣ ﻊﻣ ﻖﻓﺍﻮﺘﻟﺍ ﻊﻄﻘﻨﻳ
+.ﺖﻗﻭ
+
+ﺍﺮﻜﺷ ،ﺍﺬﻫ ﻞﻛ ﻰﻠﻋ ﺎﻘﻓﺍﻮﻣ ﺖﻨﻛ ﺍﺫﺇ
+ﻲﻓ ﺐﻏﺮﺗ ﻢﻟ ﺍﺫﺇ !ﺔﺑﺮﺠﺘﻟﺍ ﻰﻠﻋ ﻚﻟ
+ﺭﺍﺪﺻﻹﺍ ﺐﻌﻟ ﻰﺟﺮﻳ ،ﺎﻨﺑﺭﺎﺠﺗ ﺖﺤﺗ ﻥﻮﻜﺗ ﻥﺃ
+.ﺙﺪﺣﻷﺍ ﺖﺑﺎﺜﻟﺍ</DevBuildWarning>
+
+  
+  <ReviewWorld>ﻢﻟﺎﻌﻟﺍ ﺔﻌﺟﺍﺮﻣ</ReviewWorld>
+  <WorldGenerate>ﺪﻴﻟﻮﺗ</WorldGenerate>
+  <WorldSaveAndFinish>ﺀﺎﻬﻧﺇﻭ ﻆﻔﺣ</WorldSaveAndFinish>
+  <ResetFactions>ﻞﺋﺎﺼﻔﻟﺍ ﻂﺒﺿ ﺓﺩﺎﻋﺇ</ResetFactions>
+  <PlanetCoverage>ﺔﻴﻤﻟﺎﻋ ﺔﻴﻄﻐﺗ</PlanetCoverage>
+  <PlanetRainfall>ﺔﻣﺎﻌﻟﺍ ﺭﺎﻄﻣﻷﺍ ﺔﻴﻤﻛ</PlanetRainfall>
+  <PlanetTemperature>ﺔﻣﺎﻌﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ</PlanetTemperature>
+  <PlanetPopulation>ﻥﺎﻜﺴﻟﺍ</PlanetPopulation>
+  <PlanetRainfall_Low>ﺔﻀﻔﺨﻨﻣ</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>ﻱﺩﺎﻋ</PlanetRainfall_Normal>
+  <PlanetRainfall_High>ﻲﻟﺎﻋ</PlanetRainfall_High>
+  <PlanetTemperature_Low>ﺔﻀﻔﺨﻨﻣ</PlanetTemperature_Low>
+  <PlanetTemperature_Normal>ﻱﺩﺎﻋ</PlanetTemperature_Normal>
+  <PlanetTemperature_High>ﻲﻟﺎﻋ</PlanetTemperature_High>
+  <PlanetPopulation_Low>ﺭﺩﺎﻧ</PlanetPopulation_Low>
+  <PlanetPopulation_Normal>ﻱﺩﺎﻋ</PlanetPopulation_Normal>
+  <PlanetPopulation_High>ﺔﻤﺣﺩﺰﻣ</PlanetPopulation_High>
+  <WorldSeed>ﺭﺬﺑ</WorldSeed>
+  <RandomizeSeed>ﺓﺭﺬﺒﻟﺍ ﻲﺋﺍﻮﺸﻋ</RandomizeSeed>
+  <PlanetCoverageTip>ﺮﺒﻛﺃ ﻪﻨﻜﻟﻭ ،ﺎﻤﺋﺍﺩ ﺮﻄﻘﻟﺍ ﺲﻔﻧ ﻪﻟ ﺐﻛﻮﻜﻟﺍ
+ﻡﻮﻘﻧ ﻻ ﻚﻟﺬﻟ ،ﺔﺒﻌﻠﻟ ﻡﺯﻼﻟﺍ ﻦﻣ ﺮﻴﺜﻜﺑ
+ﺎﺘﻗﻭ ﻕﺮﻐﺘﺴﻳ ﺪﻗ ﻪﻧﻷ ﻪﻠﻤﻛﺄﺑ ﺢﻄﺴﻟﺍ ﺪﻴﻟﻮﺘﺑ
+ﺢﻄﺴﻠﻟ ﺔﻳﻮﺌﻤﻟﺍ ﺔﺒﺴﻨﻟﺍ ﻲﻫ ﻩﺬﻫ .ﺍﺪﺟ ﻼﻳﻮﻃ
+.ﻩﺪﻴﻟﻮﺗ ﻲﻓ ﺐﻏﺮﺗ ﻱﺬﻟﺍ</PlanetCoverageTip>
+  <WorldFactionsTab>ﻞﺋﺎﺼﻔﻟﺍ</WorldFactionsTab>
+
+  
+  <SelectWorld>ﺔﺒﻌﻠﻟﺍ ﻢﻟﺎﻋ ﺮﺘﺧﺍ</SelectWorld>
+  <WorldChooseButton>ﺮﺘﺧﺍ</WorldChooseButton>
+  <NoWorldsFilesFound>ﻢﻗ .ﻢﻟﺎﻌﻠﻟ ﺕﺎﻔﻠﻣ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻢﺘﻳ ﻢﻟ
+.ﻻﻭﺃ ﻢﻟﺎﻋ ﺀﺎﺸﻧﺈﺑ</NoWorldsFilesFound>
+  
+  
+  <BuildNowAvailable>ﻊﻗﻮﻣ ﻦﻣ ﻖﻘﺤﺗ .ﻥﻵﺍ ﺮﻓﻮﺘﻣ {0} ﺭﺍﺪﺻﻹﺍ
+.ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟ ludeon.com</BuildNowAvailable>
+  <BuildUpToDate>.ﺔﺨﺴﻨﻟﺍ ﺙﺪﺣﺃ ﻲﻫ ﻩﺬﻫ</BuildUpToDate>
+  <ErrorGettingVersionInfo>:ﺭﺍﺪﺻﻹﺍ ﺕﺎﻣﻮﻠﻌﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻲﻓ ﺄﻄﺧ ﺙﺪﺣ
+{0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>...ﺭﺍﺪﺻﻹﺍ ﺕﺎﻣﻮﻠﻌﻣ ﻞﻴﻤﺤﺗ ﻱﺭﺎﺟ</LoadingVersionInfo>
+
+  
+  <GenerateWorld>ﺪﻳﺪﺟ ﻢﻟﺎﻋ ﺪﻴﻟﻮﺗ</GenerateWorld>
+
+  
+  <OpenSteamWorkshop>ﻢﻴﺘﺳ ﻲﻓ ﻞﻤﻌﻟﺍ ﺔﺷﺭﻭ ﺢﺘﻓﺍ</OpenSteamWorkshop>
+  <GetModsFromForum>ﻯﺪﺘﻨﻤﻟﺍ ﻦﻣ ﺕﺍﺩﻮﻤﻟﺍ ﻰﻠﻋ ﻞﺼﺣﺍ</GetModsFromForum>
+  <OpenModsDataFolder>ﺕﺎﻓﺎﺿﻹﺍ ﺕﺎﻧﺎﻴﺑ ﺪﻠﺠﻣ ﺢﺘﻓﺍ</OpenModsDataFolder>
+  <ShowModsDataLocation>ﺕﻼﻳﺪﻌﺘﻟﺍ ﺕﺎﻧﺎﻴﺑ ﻊﻗﻮﻣ ﺽﺮﻋ</ShowModsDataLocation>
+  <ConfirmDisableCoreMod>ﻞﻴﻄﻌﺗ ﻲﻓ ﻚﺘﺒﻏﺭ ﻦﻣ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ
+ﻢﻟ ﺎﻣ ﻞﻤﻌﺗ ﻦﻟ ﺔﺒﻌﻠﻟﺍ ؟ﺔﻴﺳﺎﺳﻷﺍ ﺔﻓﺎﺿﻹﺍ
+ﺎﻬﻔﺋﺎﻇﻭ ﻥﺎﻜﻣ ﻞﺤﺗ ﻯﺮﺧﺃ ﺔﻓﺎﺿﺇ ﻚﻳﺪﻟ ﻦﻜﻳ
+.ﺔﻴﺳﺎﺳﻷﺍ
+ﺕﺎﻔﻳﺮﻌﺘﻟﺍ ﻝﺪﺒﺘﺴﺗ ﺪﻗ ﻯﺮﺧﺃ ﺕﺎﻓﺎﺿﺇ ﻥﺃ ﺮﻛﺬﺗ
+.defName ﺲﻔﻧ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻴﺳﺎﺳﻷﺍ ﺔﻓﺎﺿﻹﺍ ﻲﻓ</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>ﻑﺬﺣ ﻲﻓ ﻚﺘﺒﻏﺭ ﻦﻣ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ
+؟{0} ـﻟ ﻯﻮﺘﺤﻤﻟﺍ ﻞﻛ</ConfirmDeleteMod>
+  <ResolveModOrder>ﺎﻴﺋﺎﻘﻠﺗ ﺕﻼﻳﺪﻌﺘﻟﺍ ﺯﺮﻓ</ResolveModOrder>
+  <SaveModChanges>ﺕﺍﺮﻴﻴﻐﺘﻟﺍ ﻖﻴﺒﻄﺗﻭ ﻆﻔﺣ</SaveModChanges>
+  <DiscardModChanges>ﻞﻫ .ﺎﻬﻈﻔﺣ ﻢﺘﺗ ﻢﻟ ﺕﻼﻳﺪﻌﺘﻟﺍ ﻲﻓ ﺕﺍﺮﻴﻴﻐﺘﻟﺍ
+؟ﺔﻌﺑﺎﺘﻤﻟﺍ ﻲﻓ ﺐﻏﺮﺗ ﻚﻧﺃ ﺪﻛﺄﺘﻣ ﺖﻧﺃ</DiscardModChanges>
+  <ModReorderConflict_MustLoadAfter>ﺪﻌﺑ ﻪﻠﻴﻤﺤﺗ ﺐﺠﻳ :{0} ﻞﻘﻧ ﻦﻜﻤﻳ ﻻ
+.{1}</ModReorderConflict_MustLoadAfter>
+  <ModReorderConflict_MustLoadBefore>ﻪﻠﻴﻤﺤﺗ ﺐﺠﻳ :{0} ﻙﺮﺤﺘﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ
+.{1} ﻞﺒﻗ</ModReorderConflict_MustLoadBefore>
+  <Unsubscribe>ﻙﺍﺮﺘﺷﻻﺍ ﺀﺎﻐﻟﺇ</Unsubscribe>
+  <ConfirmUnsubscribe>؟ﻙﺍﺮﺘﺷﻻﺍ ﺀﺎﻐﻟﺇ ﺪﻳﺮﺗ ﻚﻧﺃ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ</ConfirmUnsubscribe>
+  <ConfirmUnsubscribeFrom>ﻙﺍﺮﺘﺷﻻﺍ ﺀﺎﻐﻟﺇ ﺪﻳﺮﺗ ﻚﻧﺃ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ
+؟{0} ﻲﻓ</ConfirmUnsubscribeFrom>
+  <ConfirmUnsubscribeFromMultiple>ﺀﺎﻐﻟﺇ ﻲﻓ ﺐﻏﺮﺗ ﻚﻧﺃ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ
+{n\n{0\ :ﻦﻣ ﻙﺍﺮﺘﺷﻻﺍ</ConfirmUnsubscribeFromMultiple>
+  <Author>ﻒﻟﺆﻣ</Author>
+  <Enabled>ﻞﻴﻌﻔﺘﻟﺍ ﻢﺗ</Enabled>
+  <Disabled>ﻞﻄﻌﻣ</Disabled>
+  <Enable>ﻦﻴﻜﻤﺗ</Enable>
+  <Disable>ﻞﻴﻄﻌﺗ</Disable>
+  <GetMods>...ﻦﻣ ﺕﺍﺩﻮﻤﻟﺍ ﻰﻠﻋ ﻞﺼﺣﺍ</GetMods>
+  <UnsubscribeMultiple>...ﻦﻣ ﻙﺍﺮﺘﺷﻻﺍ ﺀﺎﻐﻟﺇ</UnsubscribeMultiple>
+  <SaveLoadList>...ﺔﻤﺋﺎﻘﻟﺍ ﻞﻴﻤﺤﺗ / ﻆﻔﺣ</SaveLoadList>
+  <SaveModList>ﺔﻴﻠﻳﺪﻌﺘﻟﺍ ﺕﺎﻓﺎﺿﻹﺍ ﺔﻤﺋﺎﻗ ﻆﻔﺣ</SaveModList>
+  <LoadModList>ﺕﺎﻓﺎﺿﻹﺍ ﺔﻤﺋﺎﻗ ﻞﻴﻤﺤﺗ</LoadModList>
+  <AddedModsList>ﺔﺘﺒﺜﻤﻟﺍ ﺕﻼﻳﺪﻌﺘﻟﺍ ﺔﻓﺎﺿﺇ ﺖﻤﺗ</AddedModsList>
+  <MissingModsList>ﺓﺩﻮﻘﻔﻤﻟﺍ ﺕﺎﻓﺎﺿﻹﺍ</MissingModsList>
+  <SharedModsList>ﺔﻛﺮﺘﺸﻤﻟﺍ ﺕﻼﻳﺪﻌﺘﻟﺍ</SharedModsList>
+  <ModWebsite>ﻲﻧﻭﺮﺘﻜﻟﻹﺍ ﻊﻗﻮﻤﻟﺍ</ModWebsite>
+  <ModFolder>ﺪﻠﺠﻤﻟﺍ ﺢﺘﻓﺍ</ModFolder>
+  <ModOptions>ﺕﺎﻓﺎﺿﻹﺍ ﺕﺍﺭﺎﻴﺧ</ModOptions>
+  <FromWorkshop>ﻞﻤﻌﻟﺍ ﺔﺷﺭﻭ</FromWorkshop>
+  <FromForum>ﻯﺪﺘﻨﻣ</FromForum>
+  <MoreActions>...ﻡﺪﻘﺘﻣ</MoreActions>
+  <AllSelectedMods>ﺓﺩﺪﺤﻤﻟﺍ ﺕﺎﻓﺎﺿﻹﺍ ﻊﻴﻤﺟ</AllSelectedMods>
+  <AllDisabledMods>ﺔﻠﻄﻌﻤﻟﺍ ﺕﺎﻓﺎﺿﻹﺍ ﻊﻴﻤﺟ</AllDisabledMods>
+  <AllIncompatibleMods>ﺔﻘﻓﺍﻮﺘﻤﻟﺍ ﺮﻴﻏ ﺕﺎﻓﺎﺿﻹﺍ ﻞﻛ</AllIncompatibleMods>
+  <WorkshopPage>ﻞﻤﻌﻟﺍ ﺔﺷﺭﻭ ﺔﺤﻔﺻ</WorkshopPage>
+  <UploadToSteamWorkshop>Steam ـﺑ ﺔﺻﺎﺨﻟﺍ ﻞﻤﻌﻟﺍ ﺔﺷﺭﻭ ﻰﻠﻋ ﻞﻴﻤﺤﺗ</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Steam ﻞﻤﻋ ﺔﺷﺭﻭ ﻰﻠﻋ ﺚﻳﺪﺤﺗ</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>.ﻡﺪﻘﺘﻟﺍ ﺪﻴﻗ ﻊﻓﺮﻟﺍ</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>{0} :ﺐﺒﺴﻟﺍn\n\.ﺔﺷﺭﻮﻟﺍ ﻝﺎﺳﺭﺇ ﻞﺸﻓ</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>.ﺡﺎﺠﻨﺑ {0} ﻊﻓﺭ ﻢﺗ</WorkshopUploadSucceeded>
+  <Downloading>ﻞﻴﻤﺤﺘﻟﺍ ﻱﺭﺎﺟ</Downloading>
+  <WorkshopId>ﻞﻤﻌﻟﺍ ﺔﺷﺭﻭ ﻑﺮﻌﻣ</WorkshopId>
+  <ModDisplayFulfilledRequirements>ﺓﺎﻓﻮﺘﺴﻤﻟﺍ ﻁﻭﺮﺸﻟﺍ ﺽﺮﻋ</ModDisplayFulfilledRequirements>
+  <ModClickToSelect>.ﺪﻳﺪﺤﺘﻠﻟ ﺮﻘﻧﺍ</ModClickToSelect>
+  <ModClickToGoToWebsite>.ﻲﻧﻭﺮﺘﻜﻟﻹﺍ ﻊﻗﻮﻤﻟﺍ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻼﻟ ﺮﻘﻧﺍ</ModClickToGoToWebsite>
+  <Source>ﺭﺪﺼﻤﻟﺍ</Source>
+  <ModTargetVersion>ﺔﺒﻌﻠﻟﺍ ﺕﺍﺭﺍﺪﺻﺇ</ModTargetVersion>
+  <ModVersion>ﺔﻓﺎﺿﻹﺍ ﺭﺍﺪﺻﺇ</ModVersion>
+  <ModPackageId>ﻑﺮﻌﻤﻟﺍ</ModPackageId>
+  <ModMustLoadBefore>.{0} :ﻞﺒﻗ ﺍﺬﻫ ﻞﻴﻤﺤﺗ ﺐﺠﻳ</ModMustLoadBefore>
+  <ModMustLoadAfter>.{0} :ﺪﻌﺑ ﺍﺬﻫ ﻞﻴﻤﺤﺗ ﺐﺠﻳ</ModMustLoadAfter>
+  <ModDependsOn>{0} :ﻰﻠﻋ ﺪﻤﺘﻌﻳ</ModDependsOn>
+  <ModIncompatibleWith>{0} :ﻊﻣ ﻖﻓﺍﻮﺘﻣ ﺮﻴﻏ</ModIncompatibleWith>
+  <ModIncompatibleWithTip>.{0} :ﻊﻣ ﻖﻓﺍﻮﺘﻣ ﺮﻴﻏ ﻞﻳﺪﻌﺘﻟﺍ ﺍﺬﻫ</ModIncompatibleWithTip>
+  <ModOrderingWarning>ﺔﺒﺴﻨﻟﺎﺑ ﺢﻴﺤﺻ ﺮﻴﻏ ﺐﻴﺗﺮﺘﺑ ﻞﻤﺤﺘﺗ ﺔﻓﺎﺿﻹﺍ ﻩﺬﻫ
+ﻭﺃ 'ﻲﺋﺎﻘﻠﺘﻟﺍ ﺐﻴﺗﺮﺘﻟﺍ' ﺭﺯ ﻡﺪﺨﺘﺳﺍ .ﻯﺮﺧﺃ ﺔﻓﺎﺿﻹ
+.ﺎﻳﻭﺪﻳ ﺕﺎﻓﺎﺿﻹﺍ ﺐﻴﺗﺮﺗ ﺪﻋﺃ</ModOrderingWarning>
+  <ModWithSameIdAlreadyActive>:ﺔﻳﻮﻬﻟﺍ ﺲﻔﻧ ﻡﺪﺨﺘﺴﻳ ﺮﺧﺁ ﻝﺎﻌﻓ ﻊﺿﻭ ﻙﺎﻨﻫ
+.{0}</ModWithSameIdAlreadyActive>
+  <ModCyclicDependency>.{0} ـﺑ ﺃﺪﺒﻳ ﻱﺭﻭﺪﻟﺍ ﻢﻴﺘﻌﺘﻠﻟ ﻝﺩﺎﺒﺗ ﻙﺎﻨﻫ</ModCyclicDependency>
+  <ModUnsatisfiedDependency>:ﻞﻤﻌﻟﺍ ﻦﻣ ﻦﻜﻤﺘﻴﻟ ﺔﻴﻟﺎﺘﻟﺍ ﺕﻼﻳﺪﻌﺘﻟﺍ ﻰﻟﺇ ﺝﺎﺘﺤﺗ
+.{0}</ModUnsatisfiedDependency>
+  <ModNotMadeForThisVersion>ﺭﺍﺪﺻﻹﺍ ﺍﺬﻬﻟ ﻞﻳﺪﻌﺘﻟﺍ ﺍﺬﻫ ﻢﻴﻤﺼﺗ ﻢﺘﻳ ﻢﻟ
+ﻦﻟ ﻪﻧﺃ ﻞﻤﺘﺤﻤﻟﺍ ﻦﻣﻭ ،ﺪﻟﺭﻭﻭ ﻢﻳﺭ ﻦﻣ
+.ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﻞﻤﻌﻳ</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersionShort>RimWorld ﺓﺭﺍﺪﺻﺇ ﻊﻣ ﻖﻓﺍﻮﺘﻣ ﺮﻴﻏ ﻞﻳﺪﻌﺘﻟﺍ ﺍﺬﻫ
+.ﺔﻴﻟﺎﺤﻟﺍ</ModNotMadeForThisVersionShort>
+  <ModNotMadeForThisVersion_Newer>ﻦﻣ ﺙﺪﺣﺃ ﺭﺍﺪﺻﻹ ﻞﻳﺪﻌﺘﻟﺍ ﺍﺬﻫ ﺀﺎﺸﻧﺇ ﻢﺗ
+ﻪﻧﺃ ﻞﻤﺘﺤﻤﻟﺍ ﻦﻣﻭ ،ﺍﺬﻫ ﻦﻣ RimWorld ﺔﺒﻌﻟ
+.ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﻞﻤﻌﻳ ﻦﻟ</ModNotMadeForThisVersion_Newer>
+  <MessageModNeedsWellFormattedTargetVersion>ﻖﻴﺴﻨﺗ ﻢﺘﻴﻟ About.xml ﻒﻠﻣ ﻰﻠﻋ ﺕﻼﻳﺪﻌﺘﻟﺍ ﺝﺎﺘﺤﺗ
+supportedVersions&gt;&lt;li&gt;{0}&lt;/li&gt;&lt;/supportedVersions&gt;"&gt;" :ﻞﺜﻣ .ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﻢﻋﺪﻟﺍ ﺔﺨﺴﻧ ﺕﺎﻣﻮﻠﻌﻣ
+ﻖﻘﺤﺘﻟﺍ ﺀﺎﺟﺮﻟﺍ .ﺎﻬﻨﻋ ﺀﺎﻨﻐﺘﺳﻻﺍ ﻢﺗ "&lt;- "&lt;targetVersion
+.ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻠﻟ ﻞﺠﺴﻟﺍ ﻦﻣ</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedPackageId>ﻞﻜﺸﺑ ﺔﻘﺴﻨﻣﻭ ﺓﺪﻳﺮﻓ packageId ﻰﻟﺇ ﻊﺿﻮﻟﺍ ﺝﺎﺘﺤﻳ
+ﺕﺎﺒﻠﻄﺘﻤﻟﺍ ﻲﻓﻮﺘﺴﺗ ﻥﺃ ﺐﺠﻳ .About.xml ﻲﻓ ﺢﻴﺤﺻ
+:ﺔﻴﻟﺎﺘﻟﺍ
+
+.ﻂﻘﻓ ﺔﻄﻘﻧﻭ ﺔﻴﻤﻗﺭ ﺔﻳﺪﺠﺑﺃ ﻑﻭﺮﺣ -
+.ﺕﺎﺣﺎﺴﻣ ﻥﻭﺪﺑ -
+.ﻞﻗﻷﺍ ﻰﻠﻋ ﺓﺪﺣﺍﻭ ﺔﻄﻘﻧ -
+ﻒﺻ ﻲﻓ ﺓﺭﺮﻜﺘﻣ ﻁﺎﻘﻧ ﺪﺟﻮﺗ ﻻ -
+.ﺔﻄﻘﻨﺑ ﻲﻬﺘﻨﺗ ﻭﺃ ﺃﺪﺒﺗ ﻭﺃ ،ﺪﺣﺍﻭ
+.ﻞﻗﺃ ﻭﺃ ﺎﻓﺮﺣ 60 -
+ﺔﻤﻠﻛ ﻰﻠﻋ ﻱﻮﺘﺤﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ -
+."Ludeon"
+
+:ﻝﺎﺜﻤﻟﺍ ﻞﻴﺒﺳ ﻰﻠﻋ
+&lt;packageId&gt; AuthorName.ModName&lt;/packageId&gt;
+&lt;packageId&gt; AuthorName.ModName.Specific&lt;/packageId&gt;</MessageModNeedsWellFormattedPackageId>
+  <ModHadLoadFolderIssues>LoadFolders.xml ﻒﻠﻣ ﻲﻓ ﻞﻛﺎﺸﻣ ﻪﺟﺍﻮﻳ ﻞﻳﺪﻌﺘﻟﺍ ﺍﺬﻫ
+ﻪﻌﻓﺭ ﻞﺒﻗ ﺎﻬﻠﺣ ﻚﻴﻠﻋ ﺐﺠﻳ</ModHadLoadFolderIssues>
+  <ModLoadFolderDoesntExist>.ﺩﻮﺟﻮﻣ ﺮﻴﻏ {1} ﺓﺭﺍﺪﺻﻺﻟ ﺩﺪﺤﻤﻟﺍ {0} ﺪﻠﺠﻤﻟﺍ</ModLoadFolderDoesntExist>
+  <ModLoadFolderMalformedVersion>ﻲﻫ ﺔﺤﻴﺤﺼﻟﺍ ﺔﻐﻴﺼﻟﺍ .'{0}' ﺔﺤﻟﺎﺻ ﺮﻴﻏ ﺔﺨﺴﻧ
+(1.1 ﻞﺜﻣ) ﺔﻴﻋﺮﻔﻟﺍ.ﺔﻴﺴﻴﺋﺮﻟﺍ</ModLoadFolderMalformedVersion>
+  <ModLoadFolderListEmpty>.ﺔﻏﺭﺎﻓ {0} ﺭﺍﺪﺻﻺﻟ ﻞﻴﻤﺤﺘﻟﺍ ﺕﺍﺪﻠﺠﻣ ﺔﻤﺋﺎﻗ</ModLoadFolderListEmpty>
+  <ModLoadFolderRepeatingFolder>ﺮﺜﻛﺃ ﺪﻠﺠﻤﻟﺍ ﺲﻔﻧ ﻞﻴﺠﺴﺘﺑ ﻡﻮﻘﻳ {0} ﺭﺍﺪﺻﻹﺍ
+.{1} :ﺓﺮﻣ ﻦﻣ</ModLoadFolderRepeatingFolder>
+  <ModLoadFolderOutOfOrder>ﻲﺗﺄﻳ ﻥﺃ ﺐﺠﻳ :ﺢﻟﺎﺻ ﺮﻴﻏ ﺭﺍﺪﺻﻹﺍ ﺐﻴﺗﺮﺗ
+.{1} ﻞﺒﻗ {0}</ModLoadFolderOutOfOrder>
+  <ModLoadFolderOutOfOrderDefault>'default' ﺪﻳﺪﺤﺗ ﺐﺠﻳ :ﺢﻟﺎﺻ ﺮﻴﻏ ﺭﺍﺪﺻﻹﺍ ﺐﻴﺗﺮﺗ
+.ﻻﻭﺃ</ModLoadFolderOutOfOrderDefault>
+  <ModLoadFolderDefaultDeprecated>.ﻡﺪﺨﺘﺴﻣ ﺮﻴﻏ ﻞﻴﻤﺤﺘﻟﺍ ﺕﺍﺪﻠﺠﻣ ﻲﻓ 'default' ﻡﺍﺪﺨﺘﺳﺍ
+ﺕﺎﻣﻼﻋ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺭﺍﺪﺻﺇ ﻞﻜﻟ ﺕﺍﺪﻠﺠﻣ ﺪﻳﺪﺤﺗ ﻰﺟﺮﻳ
+. &lt;...v&gt;</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefinesUnsupportedGameVersion>ﻪﻨﻜﻟ ،ﻞﻴﻤﺤﺘﻟﺍ ﺕﺍﺪﻠﺠﻣ ﻲﻓ ﻑﺮﻌﻣ {0} ﺭﺍﺪﺻﻹﺍ
+.Mod's About.xml ﻲﻓ 'supportedVersions' ﻲﻓ ﺍﺭﻮﻛﺬﻣ ﺲﻴﻟ</ModLoadFolderDefinesUnsupportedGameVersion>
+  <DragToReorder>ﺐﻴﺗﺮﺘﻟﺍ ﺓﺩﺎﻋﻹ ﺐﺤﺳﺍ</DragToReorder>
+
+  
+  <ChooseScenario>ﻮﻳﺭﺎﻨﻴﺴﻟﺍ ﺮﺘﺧﺍ</ChooseScenario>
+  <ScenariosCustom>ﺺﺼﺨﻣ</ScenariosCustom>
+  <ScenariosSteamWorkshop>ﻢﻴﺘﺳ ﻞﻤﻋ ﺔﺷﺭﻭ</ScenariosSteamWorkshop>
+  <ScenarioEditor>ﻮﻳﺭﺎﻨﻴﺴﻟﺍ ﺭﺮﺤﻣ</ScenarioEditor>
+  <Delete>ﻑﺬﺣ</Delete>
+  
+  
+  <Seed>ﺓﺭﺬﺒﻟﺍ</Seed>
+  <Load>ﻞﻴﻤﺤﺗ</Load>
+  <EditMode>ﺮﻳﺮﺤﺘﻟﺍ ﻊﺿﻭ</EditMode>
+  <Summary>ﺺﺨﻠﻣ</Summary>
+  <AddPart>ﺀﺰﺟ ﻒﺿﺃ</AddPart>
+  <TextFieldsMustBeFilled>.ﺺﻨﻟﺍ ﻝﻮﻘﺣ ﻊﻴﻤﺟ ﺀﻞﻣ ﺐﺠﻳ</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>ﻞﻴﻤﺤﺗ ﻲﻓ ﻚﺘﺒﻏﺭ ﻦﻣ ﺪﻛﺄﺘﻣ ﺖﻧﺃ ﻞﻫ
+ﻥﺃ ﺐﺠﻳ ؟Steam ﻞﻤﻋ ﺔﺷﺭﻭ ﻰﻟﺇ ﺍﺬﻫ
+.Steam ﺏﺎﻌﻟﺃ ﺔﺷﺭﻭ ﺔﻣﺪﺧﻭ ﻁﻭﺮﺷ ﻰﻠﻋ ﻖﻓﺍﻮﺗ
+http://steamcommunity.com/sharedfiles/workshoplegalagreement :ﺎﻨﻫ ﺓﺮﻓﻮﺘﻣ ﺔﻠﺼﻔﻤﻟﺍ ﻁﻭﺮﺸﻟﺍ</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>ﻯﻮﺘﺤﻣ ﻞﻴﻤﺤﺗ ﻚﻴﻠﻋ ﺐﺠﻳ ﻪﻧﺃ ﺢﺿﺍﻮﻟﺍ ﻦﻣ
+ﺍﺬﻫ ﺀﺎﺸﻧﺈﺑ ﺖﻤﻗ ﻞﻫ .ﻚﺴﻔﻨﺑ ﻪﺋﺎﺸﻧﺈﺑ ﺖﻤﻗ
+؟ﻚﺴﻔﻨﺑ ﻯﻮﺘﺤﻤﻟﺍ</ConfirmContentAuthor>
+  <Incompatible>ﻖﻓﺍﻮﺘﻣ ﺮﻴﻏ</Incompatible>
+  <TagAsTranslation>ﺔﻤﺟﺮﺘﻛ ﺔﻣﻼﻋ</TagAsTranslation>
+  <TooMany>:({0} ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ) ﺍﺪﺟ ﺮﻴﺜﻛ</TooMany>
+  <CanBeUpdatedOnWorkshop>.ﻒﻟﺆﻤﻟﺍ ﻚﻧﺃ ﺎﻤﺑ ،Workshop ﻰﻠﻋ ﺎﻬﺜﻳﺪﺤﺗ ﻦﻜﻤﻳ</CanBeUpdatedOnWorkshop>
+  <ScenarioChangedSavePrompt>ﻲﻓ ﺐﻏﺮﺗ ﻞﻫ .ﻮﻳﺭﺎﻨﻴﺴﻟﺍ ﺍﺬﻫ ﻞﻳﺪﻌﺗ ﻢﺗ
+؟ﺔﻌﺑﺎﺘﻤﻟﺍ ﻞﺒﻗ ﻪﻈﻔﺣ</ScenarioChangedSavePrompt>
+  
+  
+  <ChooseAIStoryteller>ﻲﻋﺎﻨﺼﻟﺍ ﺀﺎﻛﺬﻟﺍ ﻱﻭﺍﺭ ﺮﺘﺧﺍ</ChooseAIStoryteller>
+  <HowStorytellersWork>ﺔﻨﺻﺍﺮﻘﻟﺍ ﺕﺎﻤﺠﻬﻟﺍ ﻞﺜﻣ ﺙﺍﺪﺣﺃ ﻖﻠﺨﻳ ﻲﻋﺎﻨﺼﻟﺍ ﺀﺎﻛﺬﻟﺍ
+ﺮﺛﺆﺘﺳ .ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺕﺎﻤﺠﻫ ﻭﺃ ﺩﺭﺍﻮﻤﻟﺍ ﻁﻮﺒﻫ ﻭﺃ
+ﻩﺬﻫ ﺮﻴﻴﻐﺗ ﻚﻨﻜﻤﻳ .ﻚﺘﻨﻃﻮﺘﺴﻣ ﺔﺼﻗ ﻰﻠﻋ ﻢﻬﺗﺍﺭﺎﻴﺧ
+.ﺖﻗﻭ ﻱﺃ ﻲﻓ ﺕﺍﺩﺍﺪﻋﻹﺍ</HowStorytellersWork>
+  <MustChooseDifficulty>.ﺔﺑﻮﻌﺼﻟﺍ ﻯﻮﺘﺴﻣ ﺭﺎﻴﺘﺧﺍ ﺀﺎﺟﺮﻟﺍ</MustChooseDifficulty>
+  <Difficulty>ﺔﺑﻮﻌﺻ</Difficulty>
+  <CommitmentMode>ﻡﺍﺰﺘﻟﻻﺍ ﻂﻤﻧ</CommitmentMode>
+  <ReloadAnytimeMode>ﺖﻗﻭ ﻱﺃ ﻲﻓ ﻞﻴﻤﺤﺘﻟﺍ ﺓﺩﺎﻋﺇ ﻊﺿﻭ</ReloadAnytimeMode>
+  <MustChoosePermadeath>ﺓﺩﺎﻋﺇ ﻊﺿﻭ ﻭﺃ ﻡﺍﺰﺘﻟﻻﺍ ﻊﺿﻭ ﺮﺘﺧﺍ ﺀﺎﺟﺭ
+.ﺖﻗﻭ ﻱﺃ ﻲﻓ ﻞﻴﻤﺤﺘﻟﺍ</MustChoosePermadeath>
+  <ReloadAnytimeModeInfo>.ﺖﻗﻭ ﻱﺃ ﻲﻓ ﺔﺒﻌﻠﻟﺍ ﻞﻴﻤﺤﺗﻭ ﻆﻔﺣ ﻚﻨﻜﻤﻳ
+ﻝﺍﺰﺗ ﻻ ﺖﻨﻛ ﺍﺫﺇ ﺪﻴﺟ ﺭﺎﻴﺧ ﺍﺬﻫ
+ﺏﻮﻠﺳﺃ ﺐﺳﺎﻨﻳ ﻥﺎﻛ ﺍﺫﺇ ﻭﺃ ﺔﺒﻌﻠﻟﺍ ﻢﻠﻌﺘﺗ
+.ﻲﺼﺨﺸﻟﺍ ﻚﺒﻌﻟ</ReloadAnytimeModeInfo>
+  <PermadeathModeInfo>.ﺔﺒﻌﻠﻟﺍ ﺀﺎﻬﻧﺇ ﺪﻨﻋ ﻂﻘﻓ ﻆﻔﺤﻟﺍ ﻚﻨﻜﻤﻳ
+ﻥﺈﻓ ،ﺺﺼﻘﻠﻟ ﺪﻟﻮﻣ ﻲﻫ RimWorld ﻥﺃ ﺎﻤﺑ
+ﺔﻳﺎﻬﻧ ﺲﻴﻟ ﺓﺪﺣﺍﻭ ﺀﺎﻨﺜﺘﺳﺎﺑ ﺕﺎﻴﺼﺨﺸﻟﺍ ﻞﻛ ﻥﺍﺪﻘﻓ
+ﻢﻴﻤﺼﺗ ﻢﺗ .ﺔﺼﻘﻟﺍ ﻦﻣ ﺀﺰﺟ ﻞﺑ ،ﺔﺒﻌﻠﻟﺍ
+.ﺮﺋﺎﺴﺨﻟﺍ ﺪﻌﺑ ﻲﻓﺎﻌﺘﻟﺎﺑ ﺡﺎﻤﺴﻠﻟ ﺔﺒﻌﻠﻟﺍ
+ﻖﻠﺧ ﻲﻓ ﺍﺭﻭﺩ ﺔﻋﻭﺮﻤﻟﺍ ﺕﻻﺎﺤﻟﺍ ﻩﺬﻫ ﺐﻌﻠﺗ
+ﺔﻘﻳﺮﻄﻟﺍ ﺎﻬﻧﺇ .ﺭﺎﺼﺘﻧﺍﻭ ﺓﺎﺳﺄﻣ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﺔﺼﻗ
+.ﺎﻬﺑ ﺐﻌﻠﻟ RimWorld ﻢﻴﻤﺼﺗ ﻢﺗ ﻲﺘﻟﺍ
+ﻙﻮﻟ ﻒﻗﻮﺘﻳ ﻢﻟ ﺍﺫﺎﻤﻟ ﻪﻴﺟﻭ ﺐﺒﺳ ﻙﺎﻨﻫ
+ﺪﻨﻋ ﻞﻴﻤﺤﺘﻟﺍ ﺓﺩﺎﻋﺇﻭ ﺐﻌﻠﻟﺍ ﻦﻋ ﺮﻛﻭﻭ ﻱﺎﻜﺳ
+ﺔﻬﻜﻨﻟﺍ ﻥﺎﻴﻄﻌﻳ ﻲﻓﺎﻌﺘﻟﺍﻭ ﺓﺭﺎﺴﺨﻟﺎﻓ - ﻪﺘﻠﺋﺎﻋ ﻞﺘﻗ
+.ﺓﺮﻴﺜﻤﻟﺍ</PermadeathModeInfo>
+  <CanChangeStorytellerSettingsDuringPlay>ﻱﺃ ﻲﻓ ﺐﻌﻠﻟﺍ ﺏﻮﻠﺳﺃﻭ ﻱﻭﺍﺮﻟﺍ ﺮﻴﻴﻐﺗ ﻦﻜﻤﻳ
+.ﺖﻗﻭ</CanChangeStorytellerSettingsDuringPlay>
+
+  
+  <DifficultyCustomSectionLabel>ﺔﺼﺼﺨﻤﻟﺍ ﺐﻌﻠﻟﺍ ﺏﻮﻠﺳﺃ ﺕﺍﺩﺍﺪﻋﺇ</DifficultyCustomSectionLabel>
+  <DifficultyReset>...ﻲﺳﺎﻴﻘﻟﺍ ﺐﻌﻠﻟﺍ ﻂﻤﻨﻟ ﺩﺍﺪﻋﻹﺍ ﻢﺗ</DifficultyReset>
+  
+  <DifficultyThreatSection>ﺕﺍﺪﻳﺪﻬﺘﻟﺍ</DifficultyThreatSection>
+  <Difficulty_ThreatScale_Label>ﺪﻳﺪﻬﺘﻟﺍ ﺱﺎﻴﻘﻣ</Difficulty_ThreatScale_Label>
+  <Difficulty_ThreatScale_Info>ﺔﺑﻮﻌﺻﻭ ﺕﺍﺫﺍﻮﺤﺘﺳﻻﺍﻭ ﺕﺎﻤﺠﻬﻟﺍ ﻞﺜﻣ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﻢﺠﺣ ﻂﺒﺿ
+.ﻡﺎﻬﻤﻟﺍ</Difficulty_ThreatScale_Info>
+  <Difficulty_AllowBigThreats_Label>ﺔﻴﺴﻴﺋﺮﻟﺍ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ</Difficulty_AllowBigThreats_Label>
+  <Difficulty_AllowBigThreats_Info>ﻥﺎﻌﻄﻘﻟﺍ ،ﺕﺎﺑﺎﺻﻹﺍ ،ﺕﺍﺭﺎﻐﻟﺍ ﻞﺜﻣ ﺓﺮﻴﺒﻜﻟﺍ ﺕﺍﺪﻳﺪﻬﺘﻟﺎﺑ ﺢﻤﺳﺍ
+.ﺮﺜﻛﺃﻭ ﺔﻤﻄﺤﺘﻤﻟﺍ ﺔﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﻦﻔﺴﻟﺍ ،ﺔﻠﺗﺎﻘﻟﺍ</Difficulty_AllowBigThreats_Info>
+  <Difficulty_AllowViolentQuests_Label>ﻡﺎﻬﻤﻟﺍ ﺕﺍﺪﻳﺪﻬﺗ</Difficulty_AllowViolentQuests_Label>
+  <Difficulty_AllowViolentQuests_Info>.ﺔﻔﻴﻨﻋ ﺕﺎﻳﺪﺤﺗﻭ ﺕﺍﺪﻳﺪﻬﺗ ﻦﻤﻀﺘﺗ ﻥﺃ ﻡﺎﻬﻤﻠﻟ ﺡﺎﻤﺴﻟﺍ
+ﻡﺎﻬﻤﻟﺍ ﻞﻳﺪﻌﺗ ﻢﺘﺘﺳ ،ﻚﻟﺫ ﻞﻴﻄﻌﺗ ﻢﺗ ﺍﺫﺇ
+.ﺔﻔﻴﻨﻋ ﺮﻴﻏ ﻥﻮﻜﺘﻟ</Difficulty_AllowViolentQuests_Info>
+  <Difficulty_AllowIntroThreats_Label>ﺔﻳﺍﺪﺒﻟﺍ ﺕﺍﺪﻳﺪﻬﺗ</Difficulty_AllowIntroThreats_Label>
+  <Difficulty_AllowIntroThreats_Info>.ﺔﺒﻌﻠﻟﺍ ﺔﻳﺍﺪﺑ ﻲﻓ ﺓﺩﻮﺟﻮﻤﻟﺍ ﺓﺩﺪﺤﻤﻟﺍ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﻦﻴﻜﻤﺗ</Difficulty_AllowIntroThreats_Info>
+  <Difficulty_PredatorsHuntHumanlikes_Label>ﺮﺸﺒﻟﺍ ﺩﺎﻄﺼﺗ ﺕﺎﺳﺮﺘﻔﻤﻟﺍ</Difficulty_PredatorsHuntHumanlikes_Label>
+  <Difficulty_PredatorsHuntHumanlikes_Info>.ﺮﺸﺒﻟﺍ ﺪﻴﺼﺑ ﺔﻳﺮﺒﻟﺍ ﺔﺳﺮﺘﻔﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺡﺎﻤﺴﻟﺍ</Difficulty_PredatorsHuntHumanlikes_Info>
+  <Difficulty_AllowExtremeWeatherIncidents_Label>ﻑﺮﻄﺘﻣ ﺲﻘﻃ</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <Difficulty_AllowExtremeWeatherIncidents_Info>،ﻡﺎﺴﻟﺍ ﻝﻮﻄﻬﻟﺍ ﻞﺜﻣ ﻯﻮﺼﻘﻟﺍ ﺲﻘﻄﻟﺍ ﺙﺩﺍﻮﺤﺑ ﺡﺎﻤﺴﻟﺍ
+.ﺔﻴﺋﺎﺠﻔﻟﺍ ﻒﺻﺍﻮﻌﻟﺍﻭ ،ﻲﻧﺎﻛﺮﺒﻟﺍ ﺀﺎﺘﺸﻟﺍﻭ</Difficulty_AllowExtremeWeatherIncidents_Info>
+
+  <DifficultyEconomySection>ﺩﺎﺼﺘﻗﻻﺍ</DifficultyEconomySection>
+  <Difficulty_TradePriceFactorLoss_Label>ﺓﺭﺎﺠﺘﻟﺍ ﺮﻌﺳ ﺏﻮﻴﻋ</Difficulty_TradePriceFactorLoss_Label>
+  <Difficulty_TradePriceFactorLoss_Info>ﺭﺍﺪﻘﻤﻟﺍ ﺍﺬﻬﺑ ﺀﺍﺮﺸﻟﺍ ﺭﺎﻌﺳﺃ ﺩﺍﺩﺰﺗ ،ﻝﻭﺍﺪﺘﻟﺍ ﺪﻨﻋ
+.ﺭﺍﺪﻘﻤﻟﺍ ﺍﺬﻬﺑ ﻊﻴﺒﻟﺍ ﺭﺎﻌﺳﺃ ﻞﻘﺗ ﺎﻤﻨﻴﺑ</Difficulty_TradePriceFactorLoss_Info>
+  <Difficulty_CropYieldFactor_Label>ﺩﺎﺼﺤﻟﺍ ﻝﻮﺼﺤﻣ</Difficulty_CropYieldFactor_Label>
+  <Difficulty_CropYieldFactor_Info>ﺕﺎﺗﺎﺒﻨﻟﺍ ﺩﺎﺼﺣ ﺪﻨﻋ ﺔﺠﺘﻨﻤﻟﺍ ﺩﺍﻮﻤﻟﺍ ﺔﻴﻤﻛ ﻂﺒﺿ
+.ﺭﺎﺠﺷﻷﺍ ﻊﻄﻗﻭ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺩﺎﺼﺣ ﻞﻤﺸﻳ ﺍﺬﻫﻭ .ﻞﻴﺻﺎﺤﻤﻟﺍﻭ</Difficulty_CropYieldFactor_Info>
+  <Difficulty_MineYieldFactor_Label>ﻦﻳﺪﻌﺘﻟﺍ ﺪﺋﺎﻋ</Difficulty_MineYieldFactor_Label>
+  <Difficulty_MineYieldFactor_Info>.ﻦﻳﺪﻌﺘﻟﺍ ﺪﻨﻋ ﺔﺠﺘﻨﻤﻟﺍ ﺩﺍﻮﻤﻟﺍ ﺔﻴﻤﻛ ﻂﺒﺿ</Difficulty_MineYieldFactor_Info>
+  <Difficulty_ButcherYieldFactor_Label>ﺢﺑﺬﻟﺍ ﻝﻮﺼﺤﻣ</Difficulty_ButcherYieldFactor_Label>
+  <Difficulty_ButcherYieldFactor_Info>ﺍﺬﻫﻭ .ﺢﺑﺬﻟﺍ ﺪﻨﻋ ﺔﺠﺘﻨﻤﻟﺍ ﺩﺍﻮﻤﻟﺍ ﺔﻴﻤﻛ ﻂﺒﺿ
+ﺕﺎﻴﻟﺁ ﻦﻋ ﺞﺗﺎﻨﻟﺍ ﺪﺋﺎﻌﻟﺍﻭ ﺩﻮﻠﺠﻟﺍﻭ ﻡﻮﺤﻠﻟﺍ ﻞﻤﺸﻳ
+.ﻊﻴﻄﻘﺘﻟﺍ</Difficulty_ButcherYieldFactor_Info>
+  <Difficulty_ResearchSpeedFactor_Label>ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ</Difficulty_ResearchSpeedFactor_Label>
+  <Difficulty_ResearchSpeedFactor_Info>.ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ ﻂﺒﺿ</Difficulty_ResearchSpeedFactor_Info>
+  <Difficulty_QuestRewardValueFactor_Label>ﻡﺎﻬﻤﻟﺍ ﺕﺂﻓﺎﻜﻣ</Difficulty_QuestRewardValueFactor_Label>
+  <Difficulty_QuestRewardValueFactor_Info>.ﺔﺑﻮﻠﻄﻤﻟﺍ ﻡﺎﻬﻤﻠﻟ ﺔﺣﻮﻨﻤﻤﻟﺍ ﺕﺂﻓﺎﻜﻤﻟﺍ ﺔﻤﻴﻗ ﻂﺒﺿ
+
+ﺎﻀﻳﺃ ﺎﻬﻄﺒﺿ ﻢﺘﺗ ﺔﻤﻬﻤﻟﺍ ﺓﺄﻓﺎﻜﻣ ﺔﻤﻴﻗ :ﺔﻈﺣﻼﻣ
+ﺖﻤﻗ ﺍﺫﺇ .ﺪﻳﺪﻬﺘﻟﺍ ﻯﻮﺘﺴﻣ ﻦﻋ ﺾﻳﻮﻌﺘﻠﻟ ﺎﻴﺋﺎﻘﻠﺗ
+ﺏﺮﺿ ﻞﻣﺎﻋ ﺔﻓﺎﺿﺈﺑ ﻡﻮﻘﺘﺳ ،ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ ﻂﺒﻀﺑ
+.ﻲﻓﺎﺿﺇ</Difficulty_QuestRewardValueFactor_Info>
+  <Difficulty_RaidLootPointsFactor_Label>ﻡﻮﺠﻬﻟﺍ ﻢﺋﺎﻨﻏ</Difficulty_RaidLootPointsFactor_Label>
+  <Difficulty_RaidLootPointsFactor_Info>ﺔﻤﻴﻗ :ﺔﻈﺣﻼﻣn\n\.ﻥﻮﻤﺟﺎﻬﻤﻟﺍ ﺎﻬﻠﻤﺤﻳ ﻲﺘﻟﺍ ﻢﺋﺎﻨﻐﻟﺍ ﺔﻤﻴﻗ ﻂﺒﺿ
+ﺾﻳﻮﻌﺘﻟ ﺎﻀﻳﺃ ﺎﻴﺋﺎﻘﻠﺗ ﺎﻬﻄﺒﺿ ﻢﺘﺗ ﻦﻴﻤﺟﺎﻬﻤﻟﺍ ﻢﺋﺎﻨﻏ
+،ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ ﻞﻳﺪﻌﺘﺑ ﺖﻤﻗ ﺍﺫﺇ .ﺪﻳﺪﻬﺘﻟﺍ ﻥﺯﺍﻮﺗ
+.ﻲﻓﺎﺿﺇ ﻒﻋﺎﻀﻣ ﺔﻓﺎﺿﺈﺑ ﻡﻮﻘﺘﺳ</Difficulty_RaidLootPointsFactor_Info>
+  <Difficulty_MaintenanceCostFactor_Label>ﺔﻴﻌﻓﺪﻤﻟﺍ ﺰﻴﻬﺠﺗ ﺓﺩﺎﻋﺇ ﺔﻔﻠﻜﺗ</Difficulty_MaintenanceCostFactor_Label>
+  <Difficulty_MaintenanceCostFactor_Info>.ﻊﻓﺍﺪﻤﻟﺍ ﺢﻴﻠﺴﺗ ﺓﺩﺎﻋﺇ ﺔﻔﻠﻜﺗ ﻂﺒﺿ</Difficulty_MaintenanceCostFactor_Info>
+  <Difficulty_ScariaRotChance_Label>ﺎﻳﺭﺎﻜﺳ ﻦﻔﻌﺗ ﺔﺻﺮﻓ</Difficulty_ScariaRotChance_Label>
+  <Difficulty_ScariaRotChance_Info>ﺖﻧﺎﻛ ﺍﺫﺇ ﺎﻬﺗﺎﻓﻭ ﺭﻮﻓ ﺔﺜﺟ ﻦﻔﻌﺗ ﻝﺎﻤﺘﺣﺍ
+.ﺎﻳﺭﺎﻜﺴﻟﺍ ﺽﺮﻣ ﻦﻣ ﻲﻧﺎﻌﺗ ﺔﻗﻮﻠﺨﻤﻟﺍ
+ﻥﺯﺍﻮﺗ ﻖﻴﻘﺤﺘﻟ ﺔﻴﺿﺍﺮﺘﻓﻻﺍ ﺕﺍﺩﺍﺪﻋﻹﺍ ﻢﻴﻤﺼﺗ ﻢﺗ :ﺔﻈﺣﻼﻣ
+ﺕﺎﺑﻮﻌﺻ ﻲﻓ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺩﺪﻋ ﺓﺩﺎﻳﺯ ﻲﻓ ﻡﺎﺗ
+ﺲﻔﻧ ﻰﻠﻋ ﻦﻴﺒﻋﻼﻟﺍ ﻊﻴﻤﺟ ﻞﺼﺤﻳ ﻰﺘﺣ ،ﻰﻠﻋﺃ
+.ﺔﻴﻤﺤﻠﻟﺍ ﺕﺂﻓﺎﻜﻤﻟﺍ</Difficulty_ScariaRotChance_Info>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>ﺡﻭﺮﺠﺑ ﺔﺑﺎﺻﻹﺍ ﺪﻨﻋ ﻭﺪﻌﻟﺍ ﺕﻮﻣ</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>ﺓﺮﺷﺎﺒﻣ ﻭﺪﻌﻟﺍ ﺕﻮﻤﻟ ﺔﻴﻓﺎﺿﻹﺍ ﺔﺻﺮﻔﻟﺍ ﻞﻳﺪﻌﺘﺑ ﻢﻗ
+ﺯﺎﺠﺘﺣﺍ ﺹﺮﻓ ﻰﻠﻋ ﺮﺛﺆﻳ ﺍﺬﻫ .ﻪﻃﺎﻘﺳﺇ ﺪﻨﻋ
+ﻲﻓ ﺱﺎﻨﻟﺍ ﺩﺪﻋ ﻮﻤﻧ ﺕﻻﺪﻌﻣ ﻲﻟﺎﺘﻟﺎﺑﻭ ،ﻯﺮﺳﻷﺍ
+.ﺓﺮﻤﻌﺘﺴﻤﻟﺍ</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+
+  <DifficultyGeneralSection>ﻝﺍﺮﻨﺟ</DifficultyGeneralSection>
+  <Difficulty_ColonistMoodOffset_Label>ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺝﺍﺰﻣ</Difficulty_ColonistMoodOffset_Label>
+  <Difficulty_ColonistMoodOffset_Info>.ﺀﺎﻨﺠﺴﻟﺍﻭ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻞﻛ ﺝﺍﺰﻣ ﻰﻠﻋ ﻢﺋﺍﺩ ﺮﻴﺛﺄﺗ
+.٪50 ﺔﺒﺴﻨﺑ ﻲﺳﺎﺳﺃ ﺝﺍﺰﻣ ﻢﻬﻳﺪﻟ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ</Difficulty_ColonistMoodOffset_Info>
+  <Difficulty_FoodPoisonChanceFactor_Label>ﻲﺋﺍﺬﻐﻟﺍ ﻢﻤﺴﺘﻟﺍ ﺔﺻﺮﻓ</Difficulty_FoodPoisonChanceFactor_Label>
+  <Difficulty_FoodPoisonChanceFactor_Info>ﻝﻭﺎﻨﺗ ﺪﻨﻋ ﻲﺋﺍﺬﻏ ﻢﻤﺴﺗ ﺙﻭﺪﺣ ﺔﺻﺮﻓ ﻂﺒﺿ
+.ﺔﻤﻤﺴﻣ ﻥﻮﻜﺗ ﻥﺃ ﺔﻠﻤﺘﺤﻣ ﺔﺒﺟﻭ</Difficulty_FoodPoisonChanceFactor_Info>
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻡﺎﻘﺘﻧﺍ ﺔﺻﺮﻓ</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>ﻱﺮﺑ ﻥﺍﻮﻴﺣ ﺔﺑﺎﺻﺇ ﺐﺒﺴﺘﻳ ﻥﺃ ﺔﺻﺮﻓ ﻂﺒﺿ
+.ﻪﻣﻮﺠﻫ ﻲﻓ</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <Difficulty_FriendlyFireChanceFactor_Label>ﺔﻘﻳﺪﺻ ﻥﺍﺮﻴﻧ</Difficulty_FriendlyFireChanceFactor_Label>
+  <Difficulty_FriendlyFireChanceFactor_Info>.ﺄﻄﺨﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﺀﺎﻗﺪﺻﻷﺍ ﺔﺑﺎﺻﺇ ﺔﺻﺮﻓ ﻂﺒﺿ
+ﺕﺎﻘﻠﻄﻟﺍ ﻰﻠﻋ ﻂﻘﻓ ﺮﺛﺆﻳ ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ :ﺔﻈﺣﻼﻣ
+ﻊﻨﻤﻳ ﻻ .ﺎﻬﻓﺪﻫ ﺐﻴﺼﺘﺳ ﺖﻧﺎﻛ ﻲﺘﻟﺍ ﺓﺮﺷﺎﺒﻤﻟﺍ
+ﻲﺘﻟﺍ ﺕﺎﻘﻠﻄﻟﺍ ﻭﺃ ﺕﺍﺭﺎﺠﻔﻧﻻﺍ ﻦﻋ ﺞﺗﺎﻨﻟﺍ ﺭﺮﻀﻟﺍ
+.ﺎﻬﻓﺪﻫ ﺊﻄﺨﺘﺳ ﺖﻧﺎﻛ</Difficulty_FriendlyFireChanceFactor_Info>
+  <Difficulty_AllowInstantKillChance_Label>ﻱﺭﻮﻓ ﻞﻜﺸﺑ ﻞﺘﻘﻳ ﻦﻃﻮﺘﺴﻣ</Difficulty_AllowInstantKillChance_Label>
+  <Difficulty_AllowInstantKillChance_Info>ﺕﻮﻤﻳ ﻥﺃ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺔﺻﺮﻔﻟﺍ ﻞﻳﺪﻌﺘﺑ ﻢﻗ
+ﻞﻳﺪﻌﺗ ﻢﺘﻳ .ﻡﻮﺠﻫ ﺐﺒﺴﺑ ﺍﺭﻮﻓ ﻦﻃﻮﺘﺴﻤﻟﺍ ﺎﻬﻴﻓ
+ﻦﻣ ﻻﺪﺑ ﻦﻃﻮﺘﺴﻤﻟﺍ ﻂﻘﺴﻳ ﻰﺘﺣ ﺩﺭﺍﻮﻟﺍ ﺭﺮﻀﻟﺍ
+.ﻚﻟﺫ
+
+ﻱﺭﻮﻔﻟﺍ ﻞﺘﻘﻟﺍ ﻉﺍﻮﻧﺃ ﺾﻌﺑ ﻂﻘﻓ ﻊﻨﻤﻳ ﺍﺬﻫ
+ﻢﻬﻔﻳﺰﻧﻭ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻁﺎﻘﺳﺇ ﻢﺘﻳ ﻥﺃ ﻦﻜﻤﻳ -
+،ﻖﻳﺮﺤﻟﺍ ﻦﻣ ﺕﻮﻤﻟﺍ ﻭﺃ ، ﺕﻮﻤﻟﺍ ﻰﺘﺣ
+.ﻚﻟﺫ ﻰﻟﺇ ﺎﻣﻭ ، ﺽﺍﺮﻣﻷﺍ ،ﺕﺍﺭﺎﺠﻔﻧﻻﺍ</Difficulty_AllowInstantKillChance_Info>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>ﻯﻭﺪﻌﻟﺎﺑ ﺔﺑﺎﺻﻹﺍ ﺔﺻﺮﻓ</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>.ﻯﻭﺪﻌﻟﺎﺑ ﺡﻭﺮﺠﻟﺍ ﺏﺎﺼﺗ ﻥﺃ ﺔﻴﻟﺎﻤﺘﺣﺍ ﻂﺒﺿ</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>ﺽﺮﻤﻟﺍ ﺭﺍﺮﻜﺗ</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>.ﺔﻴﺋﺍﻮﺸﻌﻟﺍ ﺽﺍﺮﻣﻷﺍ ﺙﻭﺪﺣ ﺭﺍﺮﻜﺗ ﻂﺒﺿ</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <Difficulty_EnemyReproductionRateFactor_Label>ﺕﺍﺮﺸﺤﻟﺍ ﺭﻮﻬﻇ ﻝﺪﻌﻣ</Difficulty_EnemyReproductionRateFactor_Label>
+  <Difficulty_EnemyReproductionRateFactor_Info>ﺶﻋ ﻦﻣ ﺓﺪﻳﺪﺠﻟﺍ ﺕﺍﺮﺸﺤﻟﺍ ﺭﻮﻬﻇ ﻝﺪﻌﻣ ﻝﺪﻋ
+ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻲﻨﻌﺗ ﻞﻗﻷﺍ ﻢﻴﻘﻟﺍ .ﺔﻴﻟﺎﺤﻟﺍ ﺕﺍﺮﺸﺤﻟﺍ
+ﺕﺍﺮﺸﺤﻟﺍ ﺭﻮﻬﻇ ﺙﻭﺪﺣ ﻦﻴﺑ ﺖﻗﻮﻟﺍ</Difficulty_EnemyReproductionRateFactor_Info>
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>ﻖﻴﻤﻌﻟﺍ ﺮﻔﺤﻟﺍ ﺕﺎﺑﺎﺻﺇ</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>ﻲﻓ ﺐﺒﺴﺘﺗ ﺪﻗ ﻲﺘﻟﺍ ﺔﻴﻟﺎﻤﺘﺣﻻﺍ ﻞﻳﺪﻌﺘﺑ ﻢﻗ
+.ﻖﻴﻤﻌﻟﺍ ﺮﻔﺤﻟﺍ ﺪﻨﻋ ﺕﺎﻓﻵﺍ ﺭﻮﻬﻇ</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <Difficulty_PeacefulTemples_Inverted_Label>ﺔﻤﻳﺪﻘﻟﺍ ﺕﺍﺪﻳﺪﻬﺘﻠﻟ ﺔﻄﻳﺮﺨﻟﺍ ﺪﻴﻟﻮﺗ</Difficulty_PeacefulTemples_Inverted_Label>
+  <Difficulty_PeacefulTemples_Inverted_Info>.ﺓﺮﻴﻄﺧ ﺕﺍﺪﻳﺪﻬﺗ ﻰﻠﻋ ﺔﻤﻳﺪﻘﻟﺍ ﻞﻛﺎﻴﻬﻟﺍ ﻱﻮﺘﺤﺗ ﺪﻗ</Difficulty_PeacefulTemples_Inverted_Info>
+  <Difficulty_AllowCaveHives_Label>ﺔﻴﻌﻴﺒﻄﻟﺍ ﻞﺤﻨﻟﺍ ﺎﻳﻼﺨﻟ ﺔﻄﻳﺮﺨﻟﺍ ﺪﻴﻟﻮﺗ</Difficulty_AllowCaveHives_Label>
+  <Difficulty_AllowCaveHives_Info>ﻲﻓ ﺔﻨﻛﺎﺴﻟﺍ ﺕﺍﺮﺸﺤﻟﺍ ﺵﺎﺸﻋﺃ ﺄﺸﻨﺗ ﻥﺃ ﻦﻜﻤﻳ
+.ﺔﻴﻌﻴﺒﻄﻟﺍ ﻑﻮﻬﻜﻟﺍ
+ﺔﻄﻳﺮﺨﻟﺍ ﺪﻴﻟﻮﺗ ﻰﻠﻋ ﻂﻘﻓ ﻖﺒﻄﻨﻳ ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ
+ﺪﻗ ﻲﺘﻟﺍ ﺔﻄﺸﻨﻟﺍ ﺕﺍﺮﺸﺤﻟﺍ ﻰﻠﻋ ﺮﺛﺆﻳ ﻻﻭ
+.ﺔﺒﻌﻠﻟﺍ ﻲﻓ ﻕﺩﺎﻨﺧ ﺮﻔﺤﺗ</Difficulty_AllowCaveHives_Info>
+  <Difficulty_UnwaveringPrisoners_Label>ﻥﻮﺘﺑﺎﺛ ﻯﺮﺳﺃ ﺔﻓﺎﺿﺇ</Difficulty_UnwaveringPrisoners_Label>
+  <Difficulty_UnwaveringPrisoners_Info>ﻦﻜﻟﻭ ﺮﺳﻸﻟ ﻦﻴﻠﺑﺎﻗ ﻯﺮﺳﺃ ﻒﻴﻀﻳ ﺭﺎﻴﺨﻟﺍ ﺍﺬﻫ
+.ﺖﺑﺎﺜﻟﺍ ﻢﻬﺋﻻﻭ ﺐﺒﺴﺑ ﻢﻫﺪﻴﻨﺠﺗ ﻦﻜﻤﻳ ﻻ
+,ﻦﻴﻳﺩﺎﻌﻟﺍ ﺀﺎﻨﺠﺴﻟﺍ ﻕﻮﻓ ﻦﻴﺘﺑﺎﺜﻟﺍ ﺀﺎﻨﺠﺴﻟﺍ ﺔﻓﺎﺿﺇ ﻢﺘﻳ
+ﺪﻳﺰﻤﻟﺍ ﻲﻄﻌﻳ ﻦﻟ ﺭﺎﻴﺨﻟﺍ ﺍﺬﻫ ﻑﺎﻘﻳﺇ ﺍﺬﻟ
+ﻡﻮﻘﻴﺳ ﺔﻃﺎﺴﺒﺑ - ﺪﻴﻨﺠﺘﻠﻟ ﻦﻴﻠﺑﺎﻘﻟﺍ ﺀﺎﻨﺠﺴﻟﺍ ﻦﻣ
+.ﻦﻴﺘﺑﺎﺜﻟﺍ ﺀﺎﻨﺠﺴﻟﺍ ﺔﻟﺍﺯﺈﺑ
+ﻢﻬﻗﻼﻃﺍ ﻢﺘﻳ ﻥﺃ ﻢﻬﻟﺍﺯﺎﻣ ﻦﻴﺘﺑﺎﺜﻟﺍ ﺀﺎﻨﺠﺴﻠﻟ ﻦﻜﻤﻳ
+,ﻢﻬﻌﻴﺑ ﻢﺘﻳ ﻭﺃ ,ﺔﻴﺳﺎﻣﻮﻠﺑﺪﻟﺍ ﺐﺳﺎﻜﻤﻟﺍ ﻞﺟﺃ ﻦﻣ
+ﻭﺃ ,ﺀﺎﻀﻋﻷﺍ ﺝﺍﺮﺨﺘﺳﻻ ﻢﻬﻣﺍﺪﺨﺘﺳﺍ ﻭﺃ ,ﻢﻫﺩﺎﺒﻌﺘﺳﺍ ﻭﺃ
+ﻥﻮﻣﺪﻘﻳ ,ﻡﺎﻋ ﻞﻜﺸﺑ .ﻯﺮﺧﺃ ﺔﻘﻳﺮﻃ ﻱﺃ ﻲﻓ
+ﺮﺜﻛﺃ ﺔﺒﻌﻠﻟﺍ ﻥﻮﻠﻌﺠﻳﻭ ﺩﺭﺍﻮﻤﻟﺍﻭ ﺕﺍﺭﺎﻴﺨﻟﺍ ﻦﻣ ﺍﺪﻳﺰﻣ
+.ﻞﻬﺳﺃﻭ ﺀﺍﺮﺛ</Difficulty_UnwaveringPrisoners_Info>
+
+  <DifficultyPlayerToolsSection>ﺐﻋﻼﻟﺍ ﺕﺍﻭﺩﺃ</DifficultyPlayerToolsSection>
+  <Difficulty_AllowTraps_Label>ﺥﺎﺨﻔﻟﺍ ﺀﺎﻨﺑ ﺐﻋﻼﻟ ﻦﻜﻤﻳ</Difficulty_AllowTraps_Label>
+  <Difficulty_AllowTraps_Info>ﻙﻮﺸﻟﺍ ﺥﺎﺨﻓﺃ ﻞﺜﻣ ﺥﺎﺨﻓﺃ ﺀﺎﻨﺑ ﺐﻋﻼﻠﻟ ﻦﻜﻤﻳ
+.ﺓﻮﺸﺤﻤﻟﺍ ﺕﺍﺮﺠﻔﺘﻤﻟﺍ ﺥﺎﺨﻓﺃﻭ</Difficulty_AllowTraps_Info>
+  <Difficulty_AllowTurrets_Label>ﻉﺎﻓﺪﻟﺍ ﺝﺍﺮﺑﺃ ﺀﺎﻨﺑ ﻪﻨﻜﻤﻳ ﺐﻋﻼﻟﺍ</Difficulty_AllowTurrets_Label>
+  <Difficulty_AllowTurrets_Info>ﺝﺍﺮﺑﺃ ﻞﺜﻣ ﺔﺘﺑﺎﺛ ﺝﺍﺮﺑﺃ ﺀﺎﻨﺑ ﺐﻋﻼﻟﺍ ﻊﻴﻄﺘﺴﻳ
+.ﻡﻮﻴﻧﺍﺭﻮﻴﻟﺍ ﺝﺍﺮﺑﺃﻭ ﺔﻴﻟﻵﺍ ﻊﻓﺍﺪﻤﻟﺍ ﺝﺍﺮﺑﺃﻭ ﺓﺮﻴﻐﺼﻟﺍ ﺦﻳﺭﺍﻮﺼﻟﺍ
+ﻰﺘﺣ ﺓﺭﻮﺳﺄﻤﻟﺍ ﺝﺍﺮﺑﻷﺍ ﻡﺍﺪﺨﺘﺳﺍ ﺖﻟﺯ ﺎﻣ ﻚﻨﻜﻤﻳ
+.ﺍﺬﻫ ﻞﻴﻄﻌﺗ ﻢﺗ ﺍﺫﺇ</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowMortars_Label>ﻥﻭﺎﻫ ﻊﻓﺍﺪﻣ ﺀﺎﻨﺑ ﺐﻋﻼﻟﺍ ﻊﻴﻄﺘﺴﻳ</Difficulty_AllowMortars_Label>
+  <Difficulty_AllowMortars_Info>ﻡﺍﺪﺨﺘﺳﺍ ﻚﻧﺎﻜﻣﺈﺑ ﻝﺍﺰﻳ ﻻn\n\.ﻊﻓﺍﺪﻤﻟﺍ ﺀﺎﻨﺑ ﺐﻋﻼﻟ ﻦﻜﻤﻳ
+.ﺍﺬﻫ ﻞﻴﻄﻌﺗ ﻢﺗ ﺍﺫﺇ ﻰﺘﺣ ﺓﺭﻮﺳﺄﻤﻟﺍ ﻊﻓﺍﺪﻤﻟﺍ</Difficulty_AllowMortars_Info>
+  <Difficulty_ClassicMortars_Label>ﺔﻳﺪﻴﻠﻘﺘﻟﺍ ﺕﺎﻧﻭﺎﻬﻟﺍ</Difficulty_ClassicMortars_Label>
+  <Difficulty_ClassicMortars_Info>ﺀﺎﻨﺒﻠﻟ ﺓﺯﺰﻌﻣ ﻞﻴﻣﺍﺮﺑ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ﻦﻟ ﻊﻓﺍﺪﻤﻟﺍ
+ﻝﻮﺻﻮﻟﺍ ﺔﻟﻮﻬﺴﻟ ﺔﻧﺯﺍﻮﺘﻣ ﻲﻫﻭ ،ﻞﻴﻤﺤﺘﻟﺍ ﺓﺩﺎﻋﺇ ﻭﺃ
+.ﺎﻬﻴﻟﺇ</Difficulty_ClassicMortars_Info>
+  
+  <DifficultyAdaptationSection>ﻒﻴﻜﺘﻟﺍ</DifficultyAdaptationSection>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>ﻒﻴﻜﺘﻟﺍ ﻮﻤﻧ ﻝﺪﻌﻣ</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>ﺮﺜﻛﺃ ﺔﺒﻌﻠﻟﺍ ﻞﻌﺠﻳ ﻱﻭﺍﺮﻟﺍ ﻥﺃ ﻲﻨﻌﻳ ﻒﻴﻴﻜﺘﻟﺍ
+ﺭﻭﺮﻣ ﻊﻣ ﺩﺍﺩﺰﻳ ﻒﻴﻴﻜﺘﻟﺍ .ﺢﺠﻨﺗ ﺎﻣﺪﻨﻋ ﺎﻳﺪﺤﺗ
+ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫ .ﺭﺮﻀﻠﻟ ﻚﺿﺮﻌﺗ ﺪﻨﻋ ﺾﻔﺨﻨﻳﻭ ﺖﻗﻮﻟﺍ
+ﺭﻭﺮﻣ ﻊﻣ ﻒﻴﻴﻜﺘﻟﺍ ﻮﻤﻧ ﺔﻋﺮﺳ ﻯﺪﻣ ﻝﺪﻌﻳ
+.ﺖﻗﻮﻟﺍ</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <Difficulty_AdaptationEffectFactor_Label>ﻒﻴﻜﺘﻟﺍ ﺮﻴﺛﺄﺗ</Difficulty_AdaptationEffectFactor_Label>
+  <Difficulty_AdaptationEffectFactor_Info>ﺮﺜﻛﺃ ﺔﺒﻌﻠﻟﺍ ﻞﻌﺠﻳ ﺩﺮﺴﻟﺍ ﻥﺃ ﻲﻨﻌﻳ ﻒﻴﻜﺘﻟﺍ
+ﺔﺟﺭﺩ ﺩﺍﺩﺰﻳ .ﺪﻴﺟ ﺀﺍﺩﺄﺑ ﻡﻮﻘﺗ ﺎﻣﺪﻨﻋ ﺎﻳﺪﺤﺗ
+ﺪﻨﻋ ﺎﻬﻀﻔﺧ ﻢﺘﻳﻭ ﺖﻗﻮﻟﺍ ﺭﻭﺮﻣ ﻊﻣ ﻒﻴﻜﺘﻟﺍ
+ﺔﺟﺭﺩ ﺮﻴﺛﺄﺗ ﻯﺪﻣ ﻝﺪﻌﻳ ﺩﺍﺪﻋﻹﺍ ﺍﺬﻫn\n\.ﺭﺮﻀﻠﻟ ﻚﺿﺮﻌﺗ
+.ﺔﺑﻮﻌﺼﻟﺍ ﻰﻠﻋ ﻒﻴﻜﺘﻟﺍ</Difficulty_AdaptationEffectFactor_Info>
+  <Difficulty_FixedWealthMode_Label>ﺓﻭﺮﺜﻟﺎﺑ ﻂﺒﺗﺮﻤﻟﺍ ﺮﻴﻏ ﻡﺪﻘﺘﻟﺍ ﻊﺿﻭ</Difficulty_FixedWealthMode_Label>
+  <Difficulty_FixedWealthMode_Info>.ﺓﻭﺮﺜﻟﺎﺑ ﻂﺒﺗﺮﻣ ﺮﻴﻏ ﻡﺪﻘﺗ ﻊﺿﻭ ﻲﻓ ﺐﻌﻟﺍ
+ﻲﺼﺼﻘﻟﺍ ﺝﻭﺮﻤﻟﺍ ﻡﻮﻘﻳ ، ﻱﺩﺎﻌﻟﺍ ﻊﺿﻮﻟﺍ ﻲﻓ
+، ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺩﺪﻌﻟ ﺎﻘﻓﻭ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﻯﻮﺘﺴﻣ ﺮﻴﻴﻐﺘﺑ
+.ﻯﺮﺧﺃ ﻞﻣﺍﻮﻋ ﻦﻣ ﺔﻋﻮﻤﺠﻣﻭ ، ﺔﺒﻋﻼﻟﺍ ﺓﻭﺮﺜﻟﺍ
+ﻞﻣﺎﻋ ﺔﻟﺍﺯﺈﺑ ﺓﻭﺮﺜﻟﺎﺑ ﻂﺒﺗﺮﻣ ﺮﻴﻏ ﻊﺿﻭ ﻡﻮﻘﻳ
+ﺍﺩﺎﻨﺘﺳﺍ ﺖﺑﺎﺛ ﻡﺪﻘﺗ ﻰﻨﺤﻨﻣ ﻪﻠﺤﻣ ﻞﺤﻳﻭ ﺓﻭﺮﺜﻟﺍ
+ﺲﻴﺳﺄﺗ ﻦﻣ ﺀﺍﺪﺘﺑﺍ ﺐﺴﺤﻳ ﺖﻗﻮﻟﺍ .ﺖﻗﻮﻟﺍ ﻰﻟﺇ
+.ﺔﻨﻃﻮﺘﺴﻣ ﻞﻛ
+ﻥﻮﺜﺤﺒﻳ ﻦﻳﺬﻟﺍ ﻚﺌﻟﻭﻷ ﻂﻘﻓ ﻪﺑ ﻰﺻﻮﻣ ﺍﺬﻫ
+ﺮﻴﻏ ﻊﺿﻭ ﻲﻓ .ﻡﺭﺎﺻ ﻱﺭﺎﻬﻣ ﻱﺪﺤﺗ ﻦﻋ
+ﺐﻌﺼﻟﺍ ﻦﻣ ﻥﻮﻜﻳ ﺪﻗ ، ﺓﻭﺮﺜﻟﺎﺑ ﻂﺒﺗﺮﻣ
+ﺲﺳﺆﺗ ﻢﻟ ﺎﻣ ﺓﺩﺎﺠﻟﺍ ﺮﺋﺎﺴﺨﻟﺍ ﺓﺩﺎﻌﺘﺳﺍ ﺎﺒﻳﺮﻘﺗ
+ﻥﺃ ﻦﻜﻤﻤﻟﺍ ﻦﻣ ﻪﻧﺃ ﺎﻤﻛ .ﺓﺪﻳﺪﺟ ﺔﻨﻃﻮﺘﺴﻣ
+ﺔﻠﻬﺳ ﺔﺒﻌﻠﻟﺍ ﺪﺠﺗﻭ ﻡﺪﻘﺘﻟﺍ ﻰﻠﻋ ﺍﺮﻴﺜﻛ ﻕﻮﻔﺘﺗ
+.ﺍﺪﺟ</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthTimeFactor_Label>ﻰﺼﻗﻷﺍ ﺪﻳﺪﻬﺘﻟﺍ ﻍﻮﻠﺑ ﻰﺘﺣ ﺕﺍﻮﻨﺴﻟﺍ</Difficulty_FixedWealthTimeFactor_Label>
+  <Difficulty_FixedWealthTimeFactor_Info>ﻡﺪﻋ ﻊﺿﻭ ﻞﺼﻳ ﻰﺘﺣ ﺔﺒﻌﻠﻟﺍ ﺕﺍﻮﻨﺳ ﺩﺪﻋ
+.ﺪﻳﺪﻬﺗ ﻯﻮﺘﺴﻣ ﻰﻠﻋﺃ ﻰﻟﺇ ﺓﻭﺮﺜﻟﺍ ﻰﻠﻋ ﺩﺎﻤﺘﻋﻻﺍ
+
+ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﻢﻴﻘﻳ ﻝﺍﺰﻳ ﻻ ﻲﺋﺍﻭﺮﻟﺍ ﻥﺃ ﻆﺣﻻ
+ﻞﻣﺍﻮﻌﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺘﻣ ﺔﻋﻮﻤﺠﻣﻭ ﻦﻳﺪﻓﺍﻮﻟﺍ ﺩﺪﻌﻟ ﺎﻘﻓﻭ
+.ﻯﺮﺧﻷﺍ</Difficulty_FixedWealthTimeFactor_Info>
+
+  <DifficultyIdeologySection>ﺐﻫﺬﻤﻟﺍ</DifficultyIdeologySection>
+  <Difficulty_LowPopConversionBoost_Label>ﺔﻀﻔﺨﻨﻤﻟﺍ ﻥﺎﻜﺴﻟﺍ ﻞﻳﻮﺤﺗ ﺓﺩﺎﻳﺯ</Difficulty_LowPopConversionBoost_Label>
+  <Difficulty_LowPopConversionBoost_Info>ﻒﻋﺎﻀﺗ ﻢﺘﻳ ،ﻲﻠﺻﻷﺍ ﺐﻋﻻﺍ ﺕﺍﺪﻘﺘﻌﻣ ﻯﻮﺘﺴﻣ ﻊﻣ
+،ﻢﻬﻠﻳﻮﺤﺗ ﺔﻟﻭﺎﺤﻣ ﺪﻨﻋ .ﻪﺗﺍﺪﻘﺘﻌﻣ ﻰﻟﺇ ﻞﻳﻮﺤﺘﻟﺍ ﺔﺻﺮﻓ
+.ﺩﺪﻌﻟﺍ ﺍﺬﻬﺑ ﺎﻫﺮﻴﺛﺄﺗ ﻢﻴﺴﻘﺗ ﻢﺘﻳ
+
+ﺲﻔﻧ ﻦﻣ ﻦﻴﻨﺛﺍ ﻦﻴﺒﻋﻻ ﻚﻳﺪﻟ ﻥﺎﻛ ﺍﺫﺇ
+.ﻒﺼﻨﻟﺍ ﻰﻟﺇ ﺮﻴﺛﺄﺘﻟﺍ ﻢﻴﺴﻘﺗ ﻢﺘﻳ ،ﺕﺍﺪﻘﺘﻌﻤﻟﺍ
+
+ﺮﺜﻛﺃ ﻭﺃ ﻦﻴﺒﻋﻻ ﺔﺛﻼﺛ ﻚﻳﺪﻟ ﻥﺎﻛ ﺍﺫﺇ
+.ﺮﺛﺆﻳ ﻻ ﺍﺬﻬﻓ ،ﺕﺍﺪﻘﺘﻌﻤﻟﺍ ﺲﻔﻧ ﻦﻣ</Difficulty_LowPopConversionBoost_Info>
+
+  
+  <SelectStartingSite>ﺀﺪﺒﻟﺍ ﻊﻗﻮﻣ ﺮﺘﺧﺍ</SelectStartingSite>
+  <SelectRandomSite>ﻲﺋﺍﻮﺸﻋ ﻊﻗﻮﻣ ﺮﺘﺧﺍ</SelectRandomSite>
+  <SelectSite>ﻊﻗﻮﻤﻟﺍ ﺩﺪﺣ</SelectSite>
+  <MustSelectStartingSite>.ﻊﻗﻮﻣ ﺪﻳﺪﺤﺗ ﻰﺟﺮﻳ</MustSelectStartingSite>
+  <CannotLandBiome>:ﻲﺌﻴﺒﻟﺍ ﻉﻮﻨﻟﺍ ﺍﺬﻫ ﻲﻓ ﻁﻮﺒﻬﻟﺍ ﻚﻨﻜﻤﻳ ﻻ
+{0}</CannotLandBiome>
+  <BiomeNotImplemented>ﻖﺒﻄﻣ ﺮﻴﻏ ﻲﺌﻴﺒﻟﺍ ﻡﺎﻈﻨﻟﺍ</BiomeNotImplemented>
+  <CannotLandImpassableMountains>ﺔﻠﺑﺎﻗ ﺮﻴﻐﻟﺍ ﻝﺎﺒﺠﻟﺍ ﻰﻠﻋ ﻁﻮﺒﻬﻟﺍ ﻚﻨﻜﻤﻳ ﻻ
+.ﺭﻮﺒﻌﻠﻟ</CannotLandImpassableMountains>
+  <BaseAlreadyThere>.ﻞﻌﻔﻟﺎﺑ ﻙﺎﻨﻫ ﺓﺪﻋﺎﻗ ﻢﻬﻳﺪﻟ {0}</BaseAlreadyThere>
+  <YourBaseAlreadyThere>.ﻙﺎﻨﻫ ﺓﺪﻋﺎﻗ ﻞﻌﻔﻟﺎﺑ ﻚﻳﺪﻟ</YourBaseAlreadyThere>
+  <TileOccupied>.ﺔﻟﻮﻐﺸﻣ ﺔﻧﺎﺨﻟﺍ ﻩﺬﻫ</TileOccupied>
+  <FactionBaseAdjacent>ﺓﺮﺷﺎﺒﻣ ﺓﺭﻭﺎﺠﺘﻣ ﺕﺎﻨﻃﻮﺘﺴﻤﻟﺍ ﻥﻮﻜﺗ ﻥﺃ ﻦﻜﻤﻳ ﻻ
+.ﺾﻌﺒﻟﺍ ﺎﻬﻀﻌﺒﻟ</FactionBaseAdjacent>
+  <Biome>ﺔﻄﻴﺤﻤﻟﺍ ﺔﺌﻴﺒﻟﺍ</Biome>
+  <Terrain>ﺲﻳﺭﺎﻀﺘﻟﺍ</Terrain>
+  <Road>ﻖﻳﺮﻃ</Road>
+  <River>ﺮﻬﻧ</River>
+  <Elevation>ﻉﺎﻔﺗﺭﺍ</Elevation>
+  <Fertility>ﺔﺑﻮﺼﺨﻟﺍ</Fertility>
+  <FertilityLower>ﺔﺑﻮﺼﺨﻟﺍ</FertilityLower>
+  <AvgTemp>ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻂﺳﻮﺘﻣ</AvgTemp>
+  <Rainfall>ﺮﻄﻤﻟﺍ ﻝﻮﻄﻫ</Rainfall>
+  <SpecialFeatures>ﺔﺻﺎﺧ ﺕﺍﺰﻴﻤﻣ</SpecialFeatures>
+  <HasCoast0>ﻲﻟﺎﻤﺸﻟﺍ ﻞﺣﺎﺴﻟﺍ</HasCoast0>
+  <HasCoast1>ﻲﻗﺮﺸﻟﺍ ﻞﺣﺎﺴﻟﺍ</HasCoast1>
+  <HasCoast2>ﻲﺑﻮﻨﺠﻟﺍ ﻞﺣﺎﺴﻟﺍ</HasCoast2>
+  <HasCoast3>ﻲﺑﺮﻐﻟﺍ ﻞﺣﺎﺴﻟﺍ</HasCoast3>
+  <HasCaves>ﻑﻮﻬﻜﻟﺍ</HasCaves>
+  <FactionBase>ﻞﻴﺼﻔﻟﺍ ﺓﺪﻋﺎﻗ</FactionBase>
+  <StoneTypesHere>ﺮﺠﺤﻟﺍ ﻉﺍﻮﻧﺃ</StoneTypesHere>
+  <TimeZone>ﺔﻴﻨﻣﺰﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ</TimeZone>
+  <MovementDifficulty>ﻙﺮﺤﺘﻟﺍ ﺔﺑﻮﻌﺻ</MovementDifficulty>
+  <AnimalsCanGrazeNow>.ﻰﻋﺮﺗ ﻥﺃ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻦﻜﻤﻳ ﻥﻵﺍ</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>ﺽﺍﺮﻣﻷﺍ ﺭﺍﺮﻜﺗ ﻂﺳﻮﺘﻣ</AverageDiseaseFrequency>
+  <PerYear>ﺔﻨﺴﻟﺍ ﻲﻓ</PerYear>
+  <Forageability>ﻡﺎﻌﻄﻟﺍ ﻦﻋ ﺚﺤﺒﻟﺍ ﺓﺭﺪﻗ</Forageability>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>ﻡﺎﻴﻘﻟﺍ ﻦﻳﺩﺪﺤﻤﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻦﻣ ﻱﻷ ﻦﻜﻤﻳ ﻻ
+ﺐﻌﺻﺃ ﺔﺒﻌﻠﻟﺍ ﻞﻌﺠﻳ ﺪﻗ {0} :ﺔﻴﻟﺎﺘﻟﺍ ﻝﺎﻤﻋﻷﺎﺑ
+؟ﺔﻌﺑﺎﺘﻤﻟﺍ ﺪﻳﺮﺗ ﻞﻫ .ﺩﺎﺘﻌﻤﻟﺍ ﻦﻣ</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <TemperatureLower>ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ</TemperatureLower>
+  <LightLower>ﺀﻮﺿ</LightLower>
+
+  
+  <CreateCharacters>ﺕﺎﻴﺼﺨﺸﻟﺍ ﺀﺎﺸﻧﺇ</CreateCharacters>
+  <FirstNameDesc>.ﺔﻴﺼﺨﺸﻠﻟ ﻝﻭﻷﺍ ﻢﺳﻻﺍ
+.ﺔﻨﻴﻌﻣ ﻢﺋﺍﻮﻗ ﻲﻓ ﻂﻘﻓ ﻪﺿﺮﻋ ﻢﺘﻳ</FirstNameDesc>
+  <ShortIdentifierDesc>.ﺔﻴﺼﺨﺸﻠﻟ ﺮﻴﺼﻘﻟﺍ ﻑﺮﻌﻤﻟﺍ
+ﻢﺳﻻﺍ ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ .ﺮﻤﺘﺴﻣ ﻞﻜﺸﺑ ﺽﻭﺮﻌﻣ
+ﻞﺼﻔﻨﻣ ﺭﺎﻌﺘﺴﻣ ﻢﺳﺍ ﻭﺃ ﺮﻴﺧﻷﺍ ﻭﺃ ﻝﻭﻷﺍ
+.ﺎﻣﺎﻤﺗ</ShortIdentifierDesc>
+  <LastNameDesc>ﺾﻌﺑ ﻲﻓ ﻂﻘﻓ ﺮﻬﻈﻳ ﺍﺬﻫn\n\.ﺔﻴﺼﺨﺸﻠﻟ ﺔﻠﺋﺎﻌﻟﺍ ﻢﺳﺍ
+.ﻢﺋﺍﻮﻘﻟﺍ</LastNameDesc>
+  <Randomize>ﻲﺋﺍﻮﺸﻋ</Randomize>
+  <AgeIndicator>{0} ﺮﻤﻌﻟﺍ</AgeIndicator>
+  <PawnSummary>{PAWN_race}, ﺮﻤﻋ {PAWN_ageFull}</PawnSummary>
+  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race}، ﺮﻤﻋ {PAWN_ageFull}.</PawnSummaryWithGender>
+  <Backstory>ﺔﻴﺼﺨﺸﻟﺍ ﺓﺮﻴﺴﻟﺍ</Backstory>
+  <IncapableOf>ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ</IncapableOf>
+  <Abilities>ﺕﺍﺭﺪﻘﻟﺍ</Abilities>
+  <IncapableOfTooltipHediff>ﻦﻋ ﺞﺗﺎﻧ</IncapableOfTooltipHediff>
+  <IncapableOfTooltipWorkTypes>:ﺔﻠﻄﻌﻤﻟﺍ ﻝﺎﻤﻋﻷﺍ ﻉﺍﻮﻧﺃ</IncapableOfTooltipWorkTypes>
+  <IncapableOfTooltipBackstory>ﺔﻴﻔﻠﺨﻟﺍ ﺔﺼﻘﻟﺍ ﻦﻋ ﻢﺟﺎﻧ</IncapableOfTooltipBackstory>
+  <IncapableOfTooltipTitle>.ﻚﻟﺫ ﻲﻓ ﻥﺍﻮﻨﻌﻟﺍ ﺖﺒﺒﺴﺗ</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTrait>ﺔﻔﺼﻟﺍ ﺐﺒﺴﺑ</IncapableOfTooltipTrait>
+  <IncapableOfTooltipQuest>ﺔﻤﻬﻤﻟﺍ ﺔﻟﺎﺣ ﺎﻬﺒﺒﺴﺗ</IncapableOfTooltipQuest>
+  <IncapableOfTooltipRole>ﺭﻭﺪﻟﺍ ﺐﺒﺴﺑ</IncapableOfTooltipRole>
+  <IncapableOfTooltipGene>ﻪﻴﻓ ﺕﺎﻨﻴﺠﻟﺍ ﺖﺒﺒﺴﺗ</IncapableOfTooltipGene>
+  <Traits>ﺕﺎﻔﺻ</Traits>
+  <PermanentMoodEffect>ﻢﺋﺍﺩ ﺝﺍﺰﻣ ﺮﻴﺛﺄﺗ</PermanentMoodEffect>
+  <Skills>ﺕﺍﺭﺎﻬﻣ</Skills>
+  <NoneLower>ﺀﻲﺷ ﻻ</NoneLower>
+  <Adulthood>ﻍﻮﻠﺒﻟﺍ</Adulthood>
+  <Childhood>ﺔﻟﻮﻔﻄﻟﺍ</Childhood>
+  <Male>ﺮﻛﺫ</Male>
+  <Female>ﻰﺜﻧﺃ</Female>
+  <MaleAndFemale>ﻰﺜﻧﺃﻭ ﺮﻛﺫ</MaleAndFemale>
+  <MaleAnimal>ﺮﻛﺫ</MaleAnimal>
+  <FemaleAnimal>ﻰﺜﻧﺃ</FemaleAnimal>
+  <Pain>ﻢﻟﻷﺍ</Pain>
+  <Health>ﺔﺤﺼﻟﺍ</Health>
+  <Relations>ﺕﺎﻗﻼﻌﻟﺍ</Relations>
+  <Possessions>ﺕﺎﻜﻠﺘﻤﻤﻟﺍ</Possessions>
+  <TeamSkills>ﻖﻳﺮﻔﻟﺍ ﺕﺍﺭﺎﻬﻣ</TeamSkills>
+  <StartingPawnsSelected>ﻩﺪﻳﺪﺤﺗ ﻢﺗ</StartingPawnsSelected>
+  <StartingPawnsLeftBehind>ﻢﻫﺀﺍﺭﻭ ﻙﺮﺗ</StartingPawnsLeftBehind>
+  <GuiltyDesc>ﻭﺃ ﻪﻴﻔﻧ ﻚﻨﻜﻤﻳ .ﺎﺒﻧﺬﻣ ﻦﻃﻮﺘﺴﻤﻟﺍ ﺍﺬﻫ ﺮﺒﺘﻌﻳ
+ﻲﻬﺘﻨﺗn\n\.ﻥﻭﺮﺧﻵﺍ ﺞﻋﺰﻳ ﻦﻟﻭ ،ﺔﻳﺮﺤﺑ ﻪﻟﺎﻘﺘﻋﺍ ﻭﺃ ﻪﻣﺍﺪﻋﺇ
+ﻲﻓ ﺐﻧﺬﻟﺍ</GuiltyDesc>
+  
+  
+  <Start>ﺃﺪﺑﺍ</Start>
+  <Advanced>ﺔﻣﺪﻘﺘﻣ</Advanced>
+  <Next>ﻲﻟﺎﺘﻟﺍ</Next>
+  <Back>ﻉﻮﺟﺭ</Back>
+  <ShowMaterials>...ﺓﺩﺎﻤﻟﺍ ﺮﻴﻴﻐﺗ</ShowMaterials>
+  <Gameplay>ﺔﺒﻌﻠﻟﺍ</Gameplay>
+  <ConfirmQuit>ﻱﺬﻟﺍ ﻡﺪﻘﺘﻟﺍ ﺪﻘﻔﺘﺳ ؟ﻼﻌﻓ ﺝﻭﺮﺨﻟﺍ ﺪﻳﺮﺗ ﻞﻫ
+.ﻪﻈﻔﺣ ﻢﺘﻳ ﻢﻟ</ConfirmQuit>
+  <EveryoneNeedsValidName>.ﺢﻴﺤﺻ ﻢﺳﺍ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﺺﺨﺷ ﻞﻛ</EveryoneNeedsValidName>
+  <RequiredWorkTypeDisabledForEveryone>ﻡﺎﻴﻘﻟﺍ ﻦﻳﺩﺪﺤﻤﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻦﻣ ﻱﺃ ﻊﻴﻄﺘﺴﻳ ﻻ
+.ﺔﻴﻟﺎﺘﻟﺍ ﻒﺋﺎﻇﻮﻟﺎﺑ</RequiredWorkTypeDisabledForEveryone>
+  <Quit>ﺀﺎﻬﻧﺇ</Quit>
+  <Ignore>ﻞﻫﺎﺠﺗ</Ignore>
+  
+  
+  <GeneratingWorld>ﻢﻟﺎﻌﻟﺍ ﺀﺎﺸﻧﺇ</GeneratingWorld>
+  <GeneratingPlanet>ﺐﻛﻮﻛ ﺀﺎﺸﻧﺇ</GeneratingPlanet>
+  <GeneratingMap>ﺔﻄﻳﺮﺨﻟﺍ ﺀﺎﺸﻧﺇ</GeneratingMap>
+  <GeneratingMapForNewEncounter>ﺪﻳﺪﺟ ﺀﺎﻘﻠﻟ ﺔﻄﻳﺮﺧ ﺀﺎﺸﻧﺇ</GeneratingMapForNewEncounter>
+
+  <ClickForMoreInfo>.ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟ ﺮﻘﻧﺍ</ClickForMoreInfo>
+  <NoMoreInfoAvailable>.ﺔﺣﺎﺘﻤﻟﺍ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻦﻣ ﺪﻳﺰﻣ ﺪﺟﻮﺗ ﻻ</NoMoreInfoAvailable>
+
+  
+  <Factions>ﻞﺋﺎﺼﻔﻟﺍ</Factions>
+  <TotalFactionsAllowed>ﻮﻫ ﺎﻬﺑ ﺡﻮﻤﺴﻤﻟﺍ ﺔﻴﺳﺎﺳﻷﺍ ﻞﺋﺎﺼﻔﻠﻟ ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ
+{0}</TotalFactionsAllowed>
+  <MaxFactionsForType>{0} ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ</MaxFactionsForType>
+  <FactionSelectionDesc>ﺎﻣ ﺭﺎﻴﺘﺧﺍ ﻚﻨﻜﻤﻳ .ﻢﻟﺎﻌﻟﺍ ﻲﻓ ﺕﺎﻧﺎﻴﻜﻟﺍ ﺮﺘﺧﺍ
+.ﻉﻮﻤﺠﻤﻟﺎﺑ ﺕﺎﻧﺎﻴﻛ {0} ﻰﻟﺇ ﻞﺼﻳ</FactionSelectionDesc>
+  <FactionDisabledContentWarning>ﻡﺎﻬﻤﻟﺍ ﻲﻓ ﻉﻮﻨﺘﻟﺍ ﻞﻴﻠﻘﺗ ﻲﻨﻌﻳ {0} ﻞﻴﻄﻌﺗ
+.ﺮﺧﻵﺍ ﻯﻮﺘﺤﻤﻟﺍ ﻞﻴﻠﻘﺗﻭ</FactionDisabledContentWarning>
+  <InsectsDisabledContentWarning>ﺕﺍﺪﻳﺪﻬﺘﻟﺍ ﻲﻓ ﻉﻮﻨﺗ ﻞﻗﺃ ﻲﻨﻌﻳ {0} ﻞﻴﻄﻌﺗ
+.ﺔﻳﻮﻔﻌﻟﺍ</InsectsDisabledContentWarning>
+  <MechanoidsDisabledContentWarning>ﻭ ﺔﻤﻬﻤﻟﺍ ﻉﻮﻨﺗ ﻞﻴﻠﻘﺗ ﻲﻨﻌﻳ {0} ﻞﻴﻄﻌﺗ
+.ﺔﻳﻮﻔﻌﻟﺍ ﺕﺍﺪﻳﺪﻬﺘﻟﺍ</MechanoidsDisabledContentWarning>
+  <FactionsDisabledWarning>،ﺓﺭﺎﺠﺘﻟﺍ ،ﺕﺍﺭﺎﻐﻟﺍ ﺙﺪﺤﺗ ﻦﻟ ،ﻯﺮﺧﻷﺍ ﻞﺋﺎﺼﻔﻟﺍ ﻥﻭﺪﺑ
+.ﺩﺎﺘﻌﻤﻟﺎﻛ ﺕﺎﻤﻬﻤﻟﺍﻭ</FactionsDisabledWarning>
+
+</LanguageData>

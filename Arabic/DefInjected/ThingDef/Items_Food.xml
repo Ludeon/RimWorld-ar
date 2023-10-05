@@ -1,0 +1,69 @@
+<LanguageData>
+  
+  
+  <Kibble.label>ﻡﺎﻌﻄﻟﺍ ﺕﻻﻮﺴﺒﻛ</Kibble.label>
+  
+  <Kibble.description>ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ ﻰﻠﻋ ﻱﻮﺘﺤﻳ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻥﺯﺍﻮﺘﻣ ﻡﺎﻌﻃ
+ﻪﻨﻜﻟﻭ ،ﻥﺎﺴﻧﻹﺍ ﻞﺒﻗ ﻦﻣ ﻪﻠﻛﺃ ﻦﻜﻤﻳ .ﺔﻴﻧﺍﻮﻴﺣﻭ
+.ﺪﻴﻛﺄﺘﻟﺎﺑ ﻪﺒﺠﻌﻳ ﻦﻟ</Kibble.description>
+  
+  
+  <MealFine.label>ﺬﻳﺬﻟ ﻖﺒﻃ</MealFine.label>
+  
+  <MealFine.description>.ﺔﻴﻧﺍﻮﻴﺣﻭ ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺔﻧﺯﺍﻮﺘﻣ ﺔﺒﻛﺮﻣ ﺔﺒﺟﻭ</MealFine.description>
+  
+  
+  <MealFine_Meat.label>ﻢﺤﻠﻟﺍ ﻦﻣ ﺓﺬﻳﺬﻟ ﺔﺒﺟﻭ</MealFine_Meat.label>
+  
+  <MealFine_Meat.description>ﻞﺻﺃ ﻦﻣ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺔﻧﻮﻜﻣ ﺔﺒﻛﺮﻣ ﺔﺒﺟﻭ
+.ﻲﻧﺍﻮﻴﺣ</MealFine_Meat.description>
+  
+  
+  <MealFine_Veg.label>ﺬﻳﺬﻟ ﻲﺗﺎﺒﻧ ﻖﺒﻃ</MealFine_Veg.label>
+  
+  <MealFine_Veg.description>.ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﻉﻮﻨﺼﻣ ﻊﻤﺠﻣ ﻖﺒﻃ</MealFine_Veg.description>
+  
+  
+  <MealLavish.label>ﻊﺋﺍﺭ ﻖﺒﻃ</MealLavish.label>
+  
+  <MealLavish.description>ﺪﺴﺠﻟﺍ ﻱﺬﻐﻳ ﻡﺎﻌﻄﻟﺍ ﺍﺬﻫ .ﻲﻬﻄﻟﺍ ﻦﻓ ﺔﻔﺤﺗ
+.ﺡﻭﺮﻟﺍﻭ ﻞﻘﻌﻟﺍﻭ</MealLavish.description>
+  
+  
+  <MealLavish_Meat.label>ﺓﺬﻳﺬﻟ ﻢﺤﻟ ﻕﺎﺒﻃﺃ</MealLavish_Meat.label>
+  
+  <MealLavish_Meat.description>ﺪﺴﺠﻟﺍ ﻱﺬﻐﻳ ﻡﺎﻌﻄﻟﺍ ﺍﺬﻫ .ﻮﻬﻄﻟﺍ ﻦﻓ ﺔﻔﺤﺗ
+.ﺡﻭﺮﻟﺍﻭ ﻞﻘﻌﻟﺍﻭ</MealLavish_Meat.description>
+  
+  
+  <MealLavish_Veg.label>ﻊﺋﺍﺭ ﻲﺗﺎﺒﻧ ﻖﺒﻃ</MealLavish_Veg.label>
+  
+  <MealLavish_Veg.description>ﺪﺴﺠﻟﺍ ﻱﺬﻐﻳ ﻡﺎﻌﻄﻟﺍ ﺍﺬﻫ .ﻮﻬﻄﻟﺍ ﻦﻓ ﺔﻔﺤﺗ
+.ﺡﻭﺮﻟﺍﻭ ﻞﻘﻌﻟﺍﻭ</MealLavish_Veg.description>
+  
+  
+  <MealNutrientPaste.label>ﺔﻴﺋﺍﺬﻐﻟﺍ ﺔﻨﻴﺠﻌﻟﺍ</MealNutrientPaste.label>
+  
+  <MealNutrientPaste.description>ﺽﺎﻤﺣﻷﺍﻭ ﺕﺎﻨﻴﻣﺎﺘﻴﻔﻟﺍﻭ ﺕﺍﺭﺪﻴﻫﻮﺑﺮﻜﻟﺍﻭ ﻦﻴﺗﻭﺮﺒﻟﺍ ﻦﻣ ﻲﻋﺎﻨﻄﺻﺍ ﺞﻳﺰﻣ
+ﻪﺟﺎﺘﺤﻳ ﺎﻣ ﻞﻛ ﻰﻠﻋ ﻱﻮﺘﺤﻳ .ﻥﺩﺎﻌﻤﻟﺍﻭ ﺔﻴﻨﻴﻣﻷﺍ
+.ﺯﺍﺰﺌﻤﺷﻼﻟ ﺮﻴﺜﻣ ﻢﻌﻃ ﻭﺫ ﻪﻨﻜﻟﻭ ﻢﺴﺠﻟﺍ</MealNutrientPaste.description>
+  
+  
+  <MealSimple.label>ﺔﻄﻴﺴﺑ ﺔﺒﺟﻭ</MealSimple.label>
+  
+  <MealSimple.description>.ﺪﻴﻟﺍ ﻲﻓ ﺓﺮﻓﻮﺘﻤﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺪﻌﻣ ﻖﺒﻃ</MealSimple.description>
+  
+  
+  <MealSurvivalPack.label>ﻱﺩﺎﻣﺭ ﻕﺎﺳ</MealSurvivalPack.label>
+  
+  <MealSurvivalPack.description>ﺮﻔﺴﻠﻟ ﺔﻴﻟﺎﺜﻣ ،ﺔﻴﻤﺤﻣﻭ ﺓﺩﻮﺠﻟﺍ ﺔﻴﻟﺎﻋ ﺉﺭﺍﻮﻃ ﺕﺍﺩﺍﺪﻣﺇ
+.ﺔﻳﻮﻘﻟﺍ ﺲﻤﺸﻟﺍ ﺔﻌﺷﺃ ﺖﺤﺗ ﻒﻠﺘﺗ ﻻﻭ</MealSurvivalPack.description>
+  
+  
+  <Pemmican.label>ﻥﺎﻜﻴﻤﻴﺒﻟﺍ</Pemmican.label>
+  
+  <Pemmican.description>.ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣﻭ ﻥﻮﻫﺩﻭ ﻢﺤﻟ ﻦﻣ ﺐﻠﻌﻣ ﺞﻳﺰﻣ
+ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﻆﻔﺤﻳ .ﺎﻬﻳﺮﻛ ﺲﻴﻟﻭ ﺝﺯﺎﻃ ﻪﻤﻌﻃ
+.ﺮﻔﺴﻠﻟ ﻲﻟﺎﺜﻣ ،ﺪﻳﺮﺒﺗ ﻥﻭﺩ</Pemmican.description>
+  
+</LanguageData>

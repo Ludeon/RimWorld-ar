@@ -1,0 +1,268 @@
+<LanguageData>
+  
+  
+  <Administer_SmokeleafJoint.label>.ﺔﻴﻧﺎﺧﺪﻟﺍ ﻲﻨﻄﻋﺃ</Administer_SmokeleafJoint.label>
+  
+  <Administer_SmokeleafJoint.jobString>ﺄﻄﺧ ﺐﺒﺴﻳ</Administer_SmokeleafJoint.jobString>
+  
+  
+  <Make_Apparel_AdvancedHelmet.label>ﺔﻋﺭﺪﻣ ﺓﺫﻮﺧ ﻊﻨﺻ</Make_Apparel_AdvancedHelmet.label>
+  
+  <Make_Apparel_AdvancedHelmet.description>.ﺔﻋﺭﺪﻣ ﺓﺫﻮﺧ ﻊﻨﺻ</Make_Apparel_AdvancedHelmet.description>
+  
+  <Make_Apparel_AdvancedHelmet.jobString>ﺔﻴﻗﺍﻭ ﺓﺫﻮﺧ ﻊﻨﺼﻳ</Make_Apparel_AdvancedHelmet.jobString>
+  
+  
+  <Make_Apparel_BasicShirt.label>ﺺﻴﻤﻗ ﻂﻴﺧﺍ</Make_Apparel_BasicShirt.label>
+  
+  <Make_Apparel_BasicShirt.description>.ﺺﻴﻤﻗ ﺔﻃﺎﻴﺧ</Make_Apparel_BasicShirt.description>
+  
+  <Make_Apparel_BasicShirt.jobString>ﺔﺿﺎﻳﺮﻟﺍ ﺺﻴﻤﻗ ﻂﻴﺨﻳ</Make_Apparel_BasicShirt.jobString>
+  
+  
+  <Make_Apparel_BowlerHat.label>ﺦﺒﻃ ﺔﻌﺒﻗ ﻂﻴﺧﺃ</Make_Apparel_BowlerHat.label>
+  
+  <Make_Apparel_BowlerHat.description>.ﺦﺒﻃ ﺔﻌﺒﻗ ﻞﺼﻔﺗ</Make_Apparel_BowlerHat.description>
+  
+  <Make_Apparel_BowlerHat.jobString>ﺓﺮﺠﻨﻃ ﺔﻌﺒﻗ ﻂﻴﺨﻳ</Make_Apparel_BowlerHat.jobString>
+  
+  
+  <Make_Apparel_CollarShirt.label>ﺺﻴﻤﻘﻟﺍ ﺔﻃﺎﻴﺨﺑ ﻢﻗ</Make_Apparel_CollarShirt.label>
+  
+  <Make_Apparel_CollarShirt.description>.ﺺﻴﻤﻘﻟﺍ ﺔﻃﺎﻴﺨﺑ ﻢﻗ</Make_Apparel_CollarShirt.description>
+  
+  <Make_Apparel_CollarShirt.jobString>ﺎﺼﻴﻤﻗ ﻂﻴﺨﻳ</Make_Apparel_CollarShirt.jobString>
+  
+  
+  <Make_Apparel_CowboyHat.label>ﻱﻮﺑﻭﺎﻛ ﺔﻌﺒﻗ ﻊﻨﺻﺍ</Make_Apparel_CowboyHat.label>
+  
+  <Make_Apparel_CowboyHat.description>.ﻱﻮﺑﻭﺎﻛ ﺔﻌﺒﻗ ﺔﻃﺎﻴﺨﺑ ﻢﻗ</Make_Apparel_CowboyHat.description>
+  
+  <Make_Apparel_CowboyHat.jobString>ﻱﻮﺑﻭﺎﻛ ﺔﻌﺒﻗ ﻂﻴﺨﻳ</Make_Apparel_CowboyHat.jobString>
+  
+  
+  <Make_Apparel_Duster.label>ﺓﺀﺎﺒﻌﻟﺍ ﺔﻃﺎﻴﺧ</Make_Apparel_Duster.label>
+  
+  <Make_Apparel_Duster.description>ﻒﻄﻌﻣ ﻊﻨﺻ</Make_Apparel_Duster.description>
+  
+  <Make_Apparel_Duster.jobString>ﺎﻔﻄﻌﻣ ﻂﻴﺨﻳ</Make_Apparel_Duster.jobString>
+  
+  
+  <Make_Apparel_FlakJacket.label>ﺔﻴﻗﺍﻭ ﺓﺮﺘﺳ ﺔﻃﺎﻴﺧ</Make_Apparel_FlakJacket.label>
+  
+  <Make_Apparel_FlakJacket.description>.ﺔﻴﻗﺍﻭ ﺓﺮﺘﺳ ﻊﻴﻨﺼﺗ</Make_Apparel_FlakJacket.description>
+  
+  <Make_Apparel_FlakJacket.jobString>ﺓﺮﺋﺎﻃ ﻉﺭﺩ ﺕﺍﺫ ﺓﺮﺘﺳ ﻂﻴﺨﻳ</Make_Apparel_FlakJacket.jobString>
+  
+  
+  <Make_Apparel_FlakPants.label>ﻉﻭﺭﺪﻟﺍ ﺔﻃﺎﻴﺨﺑ ﻢﻗ</Make_Apparel_FlakPants.label>
+  
+  <Make_Apparel_FlakPants.description>.ﺔﻴﻗﺍﻮﻟﺍ ﻉﻭﺭﺪﻟﺍ ﺔﻃﺎﻴﺨﺑ ﻢﻗ</Make_Apparel_FlakPants.description>
+  
+  <Make_Apparel_FlakPants.jobString>ﻥﺪﺒﻟﺍ ﻉﻭﺭﺩ ﻂﻴﺨﻳ</Make_Apparel_FlakPants.jobString>
+  
+  
+  <Make_Apparel_FlakVest.label>ﺔﻴﻋﺎﻓﺩ ﺓﺮﺘﺳ ﺔﻃﺎﻴﺧ</Make_Apparel_FlakVest.label>
+  
+  <Make_Apparel_FlakVest.description>.ﺔﻴﻗﺍﻭ ﺓﺮﺘﺳ ﻊﻴﻨﺼﺘﺑ ﻢﻗ</Make_Apparel_FlakVest.description>
+  
+  <Make_Apparel_FlakVest.jobString>ﺔﻴﻗﺍﻭ ﺓﺮﺘﺳ ﻂﻴﺨﻳ</Make_Apparel_FlakVest.jobString>
+  
+  
+  <Make_Apparel_Jacket.label>.ﺓﺮﺘﺳ ﺔﻃﺎﻴﺨﺑ ﻢﻗ</Make_Apparel_Jacket.label>
+  
+  <Make_Apparel_Jacket.description>.ﺓﺮﺘﺴﻟﺍ ﻞﻴﺼﻔﺗ</Make_Apparel_Jacket.description>
+  
+  <Make_Apparel_Jacket.jobString>ﺓﺮﺘﺴﻟﺍ ﻂﻴﺨﻳ</Make_Apparel_Jacket.jobString>
+  
+  
+  <Make_Apparel_Pants.label>.ﻝﺍﻭﺮﺴﻟﺍ ﺔﻃﺎﻴﺨﺑ ﻢﻗ</Make_Apparel_Pants.label>
+  
+  <Make_Apparel_Pants.description>.ﻝﺍﻭﺮﺴﻟﺍ ﺔﻃﺎﻴﺨﺑ ﻢﻗ</Make_Apparel_Pants.description>
+  
+  <Make_Apparel_Pants.jobString>ﻻﺍﻭﺮﺳ ﻂﻴﺨﻳ</Make_Apparel_Pants.jobString>
+  
+  
+  <Make_Apparel_Parka.label>ﺔﻨﻄﺒﻣ ﺓﺮﺘﺳ ﺔﻃﺎﻴﺨﺑ ﻢﻗ</Make_Apparel_Parka.label>
+  
+  <Make_Apparel_Parka.description>.ﺔﻨﻄﺒﻤﻟﺍ ﺓﺮﺘﺴﻟﺍ ﺔﻃﺎﻴﺨﺑ ﻢﻗ</Make_Apparel_Parka.description>
+  
+  <Make_Apparel_Parka.jobString>ﺔﻨﻄﺒﻣ ﺓﺮﺘﺳ ﻂﻴﺨﻳ</Make_Apparel_Parka.jobString>
+  
+  
+  <Make_Apparel_PlateArmor.label>ﻊﻗﺮﻣ ﻉﺭﺩ ﻊﻴﻨﺼﺗ</Make_Apparel_PlateArmor.label>
+  
+  <Make_Apparel_PlateArmor.description>.ﻲﺣﻮﻟ ﻉﺭﺩ ﻊﻨﺻ</Make_Apparel_PlateArmor.description>
+  
+  <Make_Apparel_PlateArmor.jobString>ﻲﻧﺪﻌﻣ ﻉﺭﺩ ﻞﻴﻜﺸﺘﺑ ﻡﻮﻘﻳ</Make_Apparel_PlateArmor.jobString>
+  
+  
+  <Make_Apparel_TribalA.label>ﺎﺼﻴﻤﻗ ﻂﻴﺧﺃ</Make_Apparel_TribalA.label>
+  
+  <Make_Apparel_TribalA.description>.ﺺﻴﻤﻗ ﺔﻃﺎﻴﺧ</Make_Apparel_TribalA.description>
+  
+  <Make_Apparel_TribalA.jobString>.ﺎﺼﻴﻤﻗ ﻂﻴﺨﻳ</Make_Apparel_TribalA.jobString>
+  
+  
+  <Make_Apparel_TribalHeaddress.label>ﻥﺍﻮﻴﺣ ﺔﻌﺒﻗ ﻞﺼﻔﺗ</Make_Apparel_TribalHeaddress.label>
+  
+  <Make_Apparel_TribalHeaddress.description>.ﻥﺭﻮﻜﻴﻠﻴﺒﻟﺍ ﻥﺍﻮﻴﺣ ﺔﻌﺒﻗ ﺔﻃﺎﻴﺧ</Make_Apparel_TribalHeaddress.description>
+  
+  <Make_Apparel_TribalHeaddress.jobString>ﻥﺍﻮﻴﺣ ﺔﻌﺒﻗ ﻂﻴﺨﻳ</Make_Apparel_TribalHeaddress.jobString>
+  
+  
+  <Make_Apparel_Tuque.label>ﺔﻌﺒﻘﻟﺍ ﻂﺑﺭ</Make_Apparel_Tuque.label>
+  
+  <Make_Apparel_Tuque.description>.ﺔﻌﺒﻘﻟﺍ ﻂﺑﺮﺑ ﻢﻗ</Make_Apparel_Tuque.description>
+  
+  <Make_Apparel_Tuque.jobString>ﺔﻌﺒﻗ ﺖﻜﺒﺤﻳ</Make_Apparel_Tuque.jobString>
+  
+  
+  <Make_Apparel_WarMask.label>ﺏﺮﺤﻟﺍ ﻉﺎﻨﻗ ﺏﺪﺣ</Make_Apparel_WarMask.label>
+  
+  <Make_Apparel_WarMask.description>.ﺏﺮﺤﻟﺍ ﻉﺎﻨﻗ ﻊﻨﺼﺑ ﻢﻗ</Make_Apparel_WarMask.description>
+  
+  <Make_Apparel_WarMask.jobString>ﺏﺮﺤﻟﺍ ﻉﺎﻨﻗ ﺩﺪﺤﻳ</Make_Apparel_WarMask.jobString>
+  
+  
+  <Make_Apparel_WarVeil.label>ﺓﺭﺎﺘﺴﻟﺍ ﺔﻃﺎﻴﺨﺑ ﻢﻗ</Make_Apparel_WarVeil.label>
+  
+  <Make_Apparel_WarVeil.description>.ﺀﺎﻄﻏ ﺔﻃﺎﻴﺧ</Make_Apparel_WarVeil.description>
+  
+  <Make_Apparel_WarVeil.jobString>ﺀﺎﻄﻏ ﻱﺪﺗﺮﻳ</Make_Apparel_WarVeil.jobString>
+  
+  
+  <Make_Flake.label>ﻥﻮﻨﺠﻟﺍ ﺕﺎﺒﻴﺒﺣ ﻰﻠﻋ ﻞﺼﺣﺍ</Make_Flake.label>
+  
+  <Make_Flake.description>.ﺔﻴﺴﻔﻨﻟﺍ ﻍﺎﻣﺪﻟﺍ ﻖﺋﺎﻗﺭ ﻰﻠﻋ ﻞﺼﺣﺍ</Make_Flake.description>
+  
+  <Make_Flake.jobString>ﺔﻴﻠﻘﻌﻟﺍ ﺔﺤﺼﻠﻟ ﺏﻮﺒﺣ ﻰﻠﻋ ﻞﺼﺤﻳ</Make_Flake.jobString>
+  
+  
+  <Make_GoJuice.label>Go ﺮﻴﺼﻋ ﻊﻨﺻﺍ</Make_GoJuice.label>
+  
+  <Make_GoJuice.description>.Go ﺮﻴﺼﻋ ﻖﻴﻠﺨﺗ</Make_GoJuice.description>
+  
+  <Make_GoJuice.jobString>Go ﺮﻴﺼﻋ ﺮﻴﻤﺨﺘﺑ ﻡﻮﻘﻳ</Make_GoJuice.jobString>
+  
+  
+  <Make_MedicineIndustrial.label>ﺔﻳﻭﺩﻷﺍ ﺩﺍﺪﻋﺇ</Make_MedicineIndustrial.label>
+  
+  <Make_MedicineIndustrial.description>.ﺔﻳﻭﺩﻷﺍ ﻊﻨﺻ</Make_MedicineIndustrial.description>
+  
+  <Make_MedicineIndustrial.jobString>ﺔﻳﻭﺩﻷﺍ ﻊﻨﺼﻳ</Make_MedicineIndustrial.jobString>
+  
+  
+  <Make_MeleeWeapon_Club.label>ﺎﺼﻌﻟﺍ ﻊﻠﺘﻗﺍ</Make_MeleeWeapon_Club.label>
+  
+  <Make_MeleeWeapon_Club.description>.ﺐﺸﺨﻟﺍ ﺎﺼﻋ ﻊﻄﻗﺍ</Make_MeleeWeapon_Club.description>
+  
+  <Make_MeleeWeapon_Club.jobString>ﺎﺼﻌﻟﺍ ﺝﺮﺨﺘﺴﻳ</Make_MeleeWeapon_Club.jobString>
+  
+  
+  <Make_MeleeWeapon_Gladius.label>ﻒﻴﺳ ﻊﻨﺻ</Make_MeleeWeapon_Gladius.label>
+  
+  <Make_MeleeWeapon_Gladius.description>.ﺱﻮﻳﺩﻼﻏ ﻒﻴﺳ ﻊﻨﺻ</Make_MeleeWeapon_Gladius.description>
+  
+  <Make_MeleeWeapon_Gladius.jobString>ﺱﻮﻳﺩﻼﻏ ﻒﻴﺳ ﻊﻨﺼﻳ</Make_MeleeWeapon_Gladius.jobString>
+  
+  
+  <Make_MeleeWeapon_Ikwa.label>ﺩﺎﺣ ﺡﻼﺳ ﻊﻨﺻ</Make_MeleeWeapon_Ikwa.label>
+  
+  <Make_MeleeWeapon_Ikwa.description>.ﺎﺣﻼﺳ ﻍﺎﺻ</Make_MeleeWeapon_Ikwa.description>
+  
+  <Make_MeleeWeapon_Ikwa.jobString>ﻡﺪﻋ ﺐﺒﺴﺑ ﺺﻨﻟﺍ ﺍﺬﻫ ﺔﻤﺟﺮﺗ ﻦﻜﻤﻳ ﻻ
+.ﺮﺧﺁ ﺺﻧ ﻢﻳﺪﻘﺗ ﻰﺟﺮﻳ .ﺢﺿﺍﻭ ﻰﻨﻌﻣ ﺩﻮﺟﻭ</Make_MeleeWeapon_Ikwa.jobString>
+  
+  
+  <Make_MeleeWeapon_Knife.label>ﻦﻴﻜﺳ ﻊﻨﺻ</Make_MeleeWeapon_Knife.label>
+  
+  <Make_MeleeWeapon_Knife.description>.ﻦﻴﻜﺳ ﺔﻏﺎﻴﺻ</Make_MeleeWeapon_Knife.description>
+  
+  <Make_MeleeWeapon_Knife.jobString>ﺎﻨﻴﻜﺳ ﻊﻨﺼﻳ</Make_MeleeWeapon_Knife.jobString>
+  
+  
+  <Make_MeleeWeapon_LongSword.label>ﻞﻳﻮﻃ ﻒﻴﺳ ﻊﻨﺻ</Make_MeleeWeapon_LongSword.label>
+  
+  <Make_MeleeWeapon_LongSword.description>.ﻞﻳﻮﻃ ﻒﻴﺳ ﻊﻨﺻ</Make_MeleeWeapon_LongSword.description>
+  
+  <Make_MeleeWeapon_LongSword.jobString>ﻼﻳﻮﻃ ﺎﻔﻴﺳ ﻊﻨﺼﻳ</Make_MeleeWeapon_LongSword.jobString>
+  
+  
+  <Make_MeleeWeapon_Mace.label>ﺡﻼﺴﻟﺍ ﺐﻴﻀﻗ ﻞﻴﻜﺸﺗ</Make_MeleeWeapon_Mace.label>
+  
+  <Make_MeleeWeapon_Mace.description>.ﺔﻗﺮﻄﻤﻟﺍ ﺐﻴﻀﻗ ﻊﻨﺻ</Make_MeleeWeapon_Mace.description>
+  
+  <Make_MeleeWeapon_Mace.jobString>ﺎﺒﻴﻀﻗ ﻊﻨﺼﻳ</Make_MeleeWeapon_Mace.jobString>
+  
+  
+  <Make_MeleeWeapon_Spear.label>ﺢﻣﺭ ﻊﻨﺻ</Make_MeleeWeapon_Spear.label>
+  
+  <Make_MeleeWeapon_Spear.description>.ﺢﻣﺭ ﻊﻨﺻ</Make_MeleeWeapon_Spear.description>
+  
+  <Make_MeleeWeapon_Spear.jobString>ﺢﻣﺮﻟﺍ ﻊﻨﺼﻳ</Make_MeleeWeapon_Spear.jobString>
+  
+  
+  <Make_Penoxycyline.label>ﻦﻴﻠﻴﺴﻴﺴﻛﻮﻨﻴﺒﻟﺍ ﺐﻴﻛﺮﺗ</Make_Penoxycyline.label>
+  
+  <Make_Penoxycyline.description>.ﻦﻴﻠﺴﻨﺑ ﻖﻴﻠﺨﺗ</Make_Penoxycyline.description>
+  
+  <Make_Penoxycyline.jobString>ﻦﻴﻠﺴﻨﺒﻟﺍ ﻊﻴﻨﺼﺘﺑ ﻡﻮﻘﻳ</Make_Penoxycyline.jobString>
+  
+  
+  <Make_Pila.label>ﺢﻣﺭ ﻊﻨﺻ</Make_Pila.label>
+  
+  <Make_Pila.description>.ﻡﻮﻠﺒﻟﺍ ﺢﻣﺭ ﻊﻨﺻ</Make_Pila.description>
+  
+  <Make_Pila.jobString>ﺢﻣﺭ ﻊﻨﺼﻳ</Make_Pila.jobString>
+  
+  
+  <Make_PsychiteTea.label>ﺔﺋﺪﻬﻤﻟﺍ ﺏﺎﺸﻋﻷﺍ ﻱﺎﺷ ﺩﺍﺪﻋﺇ</Make_PsychiteTea.label>
+  
+  <Make_PsychiteTea.description>.ﺔﺋﺪﻬﻤﻟﺍ ﺔﻴﺗﺎﺒﻨﻟﺍ ﻱﺎﺷ ﺮﻴﻀﺤﺘﺑ ﻢﻗ</Make_PsychiteTea.description>
+  
+  <Make_PsychiteTea.jobString>.ﺔﺋﺪﻬﻤﻟﺍ ﺱﻮﻔﻨﻟﺍ ﻱﺎﺷ ﺮﻀﺤﻳ</Make_PsychiteTea.jobString>
+  
+  
+  <Make_SculptureGrand.label>ﻢﺨﺿ ﻝﺎﺜﻤﺗ ﺶﻘﻧ</Make_SculptureGrand.label>
+  
+  <Make_SculptureGrand.description>.ﻢﺨﺿ ﻝﺎﺜﻤﺗ ﺖﺤﻧ</Make_SculptureGrand.description>
+  
+  <Make_SculptureGrand.jobString>ﻻﺎﺜﻤﺗ ﺖﺤﻨﻳ</Make_SculptureGrand.jobString>
+  
+  
+  <Make_SculptureLarge.label>ﺮﻴﺒﻛ ﻝﺎﺜﻤﺗ ﺖﺤﻧ</Make_SculptureLarge.label>
+  
+  <Make_SculptureLarge.description>.ﺮﻴﺒﻛ ﻝﺎﺜﻤﺗ ﺖﺤﻧ</Make_SculptureLarge.description>
+  
+  <Make_SculptureLarge.jobString>ﻝﺎﺜﻤﺗ ﺖﺤﻨﺑ ﻡﻮﻘﻳ</Make_SculptureLarge.jobString>
+  
+  
+  <Make_SculptureSmall.label>ﺮﻴﻐﺻ ﻝﺎﺜﻤﺗ ﺖﺤﻧ</Make_SculptureSmall.label>
+  
+  <Make_SculptureSmall.description>.ﺮﻴﻐﺻ ﻝﺎﺜﻤﺗ ﺖﺤﻧ</Make_SculptureSmall.description>
+  
+  <Make_SculptureSmall.jobString>ﻻﺎﺜﻤﺗ ﺖﺤﻨﻳ</Make_SculptureSmall.jobString>
+  
+  
+  <Make_SmokeleafJoint.label>ﺄﻄﺨﻟﺍ ﺡﻼﺻﺈﺑ ﻢﻗ</Make_SmokeleafJoint.label>
+  
+  <Make_SmokeleafJoint.description>.ﺄﻄﺨﻟﺍ ﺞﻟﺎﻋ</Make_SmokeleafJoint.description>
+  
+  <Make_SmokeleafJoint.jobString>ﻞﻄﻋ ﺙﺪﺣ</Make_SmokeleafJoint.jobString>
+  
+  
+  <Make_WakeUp.label>ﺰﻔﺤﻣ ﺏﻭﺮﺸﻣ ﻖﻴﻠﺨﺗ</Make_WakeUp.label>
+  
+  <Make_WakeUp.description>.ﺵﺎﻌﺘﻧﻻﺍ ﺓﺭﺩﻮﺑ ﻖﻴﻠﺨﺗ</Make_WakeUp.description>
+  
+  <Make_WakeUp.jobString>ﺔﻄﺸﻨﻣ ﺏﻮﺒﺣ ﻖﻴﻠﺨﺘﺑ ﻡﻮﻘﻳ</Make_WakeUp.jobString>
+  
+  
+  <Make_Yayo.label>.ﻲﺴﻔﻨﻟﺍ ﻞﻘﻌﻟﺍ ﻕﻮﺤﺴﻣ ﻰﻠﻋ ﻞﺼﺣﺍ</Make_Yayo.label>
+  
+  <Make_Yayo.description>ﻞﻘﻌﻟﺍ ﻕﻮﺤﺴﻣ ﻰﻠﻋ ﻞﺼﺣﺍ</Make_Yayo.description>
+  
+  <Make_Yayo.jobString>ﺔﻴﻠﻘﻌﻟﺍ ﻕﻮﺤﺴﻣ ﻰﻠﻋ ﻞﺼﺤﻳ</Make_Yayo.jobString>
+  
+</LanguageData>

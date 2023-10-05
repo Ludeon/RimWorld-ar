@@ -1,0 +1,51 @@
+<LanguageData>
+  
+  
+  <Floors.label>ﺔﻴﻄﻐﺘﻟﺍ</Floors.label>
+  <Floors.description>.ﺕﺎﻴﺿﺭﻷﺍ</Floors.description>
+  
+  
+  <Furniture.label>ﺙﺎﺛﻷﺍ</Furniture.label>
+  <Furniture.description>.ﺔﻣﺎﻌﻟﺍ ﻲﻧﺎﺒﻤﻟﺍﻭ ﻦﻛﺎﺴﻤﻠﻟ ﺭﻮﻜﻳﺪﻟﺍ ﺽﺍﺮﻏﺃ</Furniture.description>
+  
+  
+  <Joy.label>ﻪﻴﻓﺮﺘﻟﺍ</Joy.label>
+  <Joy.description>.ﺀﻻﺰﻨﻟﺍ ﻪﻴﻓﺮﺘﻟ ﺔﻌﺘﻤﻣ ﻭﺃ ﺔﻴﻠﺴﻣ ﺀﺎﻴﺷﺃ</Joy.description>
+  
+  
+  <Misc.label>ﻉﻮﻨﺘﻣ</Misc.label>
+  <Misc.description>.ﺽﺍﺮﻏﻷﺍ ﺓﺩﺪﻌﺘﻣ ﻞﻛﺎﻴﻫ</Misc.description>
+  
+  
+  <Orders.label>ﺮﻣﺍﻭﺃ</Orders.label>
+  <Orders.description>.ﺓﺩﺪﺤﻤﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﻊﻣ ﻝﺎﻌﻓﻷﺍ ﻦﻴﻴﻌﺗ</Orders.description>
+  
+  
+  <Power.label>ﺔﻗﺎﻄﻟﺍ</Power.label>
+  <Power.description>.ﺀﺎﺑﺮﻬﻜﻟﺍ ﺓﺭﺍﺩﺇﻭ ﻞﻘﻧ ،ﺝﺎﺘﻧﺇ</Power.description>
+  
+  
+  <Production.label>ﺝﺎﺘﻧﻹﺍ</Production.label>
+  <Production.description>.ﺝﺎﺘﻧﻺﻟ ﻯﺮﺧﻷﺍ ﺕﺍﺪﻌﻤﻟﺍﻭ ﻦﻛﺎﻤﻟﺍ ،ﻞﻤﻌﻟﺍ ﺕﺍﻭﺩﺃ</Production.description>
+  
+  
+  <Security.label>ﺔﻳﺎﻤﺤﻟﺍ</Security.label>
+  <Security.description>.ﺔﻴﻟﺎﺘﻘﻟﺍﻭ ﺔﻴﻋﺎﻓﺪﻟﺍ ﺕﻼﻴﻜﺸﺘﻟﺍ</Security.description>
+  
+  
+  <Ship.label>ﺔﻨﻴﻔﺴﻟﺍ</Ship.label>
+  <Ship.description>.ﺔﻴﺗﺎﺠﻨﻟﺍ ﻚﺘﻨﻴﻔﺳ ﺕﺎﻧﻮﻜﻣ</Ship.description>
+  
+  
+  <Structure.label>ﺀﺎﻨﺒﻟﺍ</Structure.label>
+  <Structure.description>.ﺏﺍﻮﺑﻷﺍ ﺐﻴﻛﺮﺗﻭ ﻥﺍﺭﺪﺠﻟﺍ ﺀﺎﻨﺑ</Structure.description>
+  
+  
+  <Temperature.label>ﺓﺭﺍﺮﺤﻟﺍ</Temperature.label>
+  <Temperature.description>.ﺓﺭﺍﺮﺤﻟﺍ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﻞﺋﺎﺳﻭ</Temperature.description>
+  
+  
+  <Zone.label>ﻖﻃﺎﻨﻤﻟﺍ</Zone.label>
+  <Zone.description>.ﻝﺎﻤﻋﻷﺍ ﻦﻣ ﺔﻨﻴﻌﻣ ﻉﺍﻮﻧﻷ ﻖﻃﺎﻨﻤﻟﺍ ﺩﺪﺣ</Zone.description>
+  
+</LanguageData>

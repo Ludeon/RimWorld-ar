@@ -1,0 +1,80 @@
+<LanguageData>
+  
+  
+  <CreateIncident.label>ﺔﺛﺩﺎﺣ ﺀﺎﺸﻧﺇ</CreateIncident.label>
+  
+  
+  <DisableIncident.label>ﺙﺩﺍﻮﺤﻟﺍ ﻞﻴﻄﻌﺗ</DisableIncident.label>
+  
+  
+  <ForcedHediff.label>ﺔﺤﺼﻟﺍ ﺔﻟﺎﺣ</ForcedHediff.label>
+  
+  
+  <ForcedTrait.label>ﺔﻳﺮﺴﻗ ﺕﺎﻔﺻ</ForcedTrait.label>
+  
+  
+  <GameCondition_Planetkiller.label>ﻡﺩﺎﻗ ﻲﺒﻛﻮﻜﻟﺍ ﻙﻼﻬﻟﺍ</GameCondition_Planetkiller.label>
+  
+  
+  <GameStartDialog.label>ﻲﻟﻭﻷﺍ ﺭﺍﻮﺤﻟﺍ</GameStartDialog.label>
+  
+  
+  <Naked.label>.ﺲﺑﻼﻣ ﻼﺑ</Naked.label>
+  
+  
+  <NoPossessions.label>ﺕﺎﻜﻠﺘﻤﻣ ﻥﻭﺪﺑ</NoPossessions.label>
+  
+  
+  <OnPawnDeathExplode.label>ﺕﻮﻤﻟﺍ ﺪﻨﻋ ﺕﺎﻴﺼﺨﺸﻟﺍ ﺮﺠﻔﻨﺘﻳ</OnPawnDeathExplode.label>
+  
+  
+  <PawnFilter_Age.label>ﺐﺳﺎﻨﻤﻟﺍ ﺮﻤﻌﻟﺍ</PawnFilter_Age.label>
+  
+  
+  <PermanentGameCondition.label>ﺔﻤﺋﺍﺪﻟﺍ ﻑﻭﺮﻈﻟﺍ</PermanentGameCondition.label>
+  
+  
+  <Rule_DisallowBuilding.label>ﺀﺎﻨﺒﻟﺍ ﻊﻨﻣ</Rule_DisallowBuilding.label>
+  
+  
+  <Rule_DisallowDesignator_Hunt.label>.ﺪﻴﺼﻟﺍ ﻦﻜﻤﻳ ﻻ</Rule_DisallowDesignator_Hunt.label>
+  
+  <Rule_DisallowDesignator_Hunt.description>.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺪﻴﺻ ﻦﻜﻤﻳ ﻻ</Rule_DisallowDesignator_Hunt.description>
+  
+  
+  <Rule_DisallowDesignator_Mine.label>.ﺝﺍﺮﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ</Rule_DisallowDesignator_Mine.label>
+  
+  <Rule_DisallowDesignator_Mine.description>.ﻪﻴﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻳ ﻻ</Rule_DisallowDesignator_Mine.description>
+  
+  
+  <Rule_DisallowDesignator_Tame.label>ﻪﻀﻳﻭﺮﺗ ﻦﻜﻤﻳ ﻻ</Rule_DisallowDesignator_Tame.label>
+  
+  <Rule_DisallowDesignator_Tame.description>.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺱﺎﻨﺌﺘﺳﺍ ﻦﻜﻤﻳ ﻻ</Rule_DisallowDesignator_Tame.description>
+  
+  
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>ﺎﻬﺘﻋﺍﺭﺯ ﻦﻜﻤﻳ ﻻ</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>.ﺽﺭﻷﺍ ﻰﻠﻋ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺔﻋﺍﺭﺯ ﻦﻜﻤﻳ ﻻ</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  
+  
+  <ScatterThingsAnywhere.label>ﺓﺭﻭﺎﺠﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻩﺮﺸﻧ</ScatterThingsAnywhere.label>
+  
+  
+  <ScatterThingsNearPlayerStart.label>ﺭﺍﻮﺠﺑ ﺀﺪﺒﻟﺍ</ScatterThingsNearPlayerStart.label>
+  
+  
+  <SetNeedLevel.label>ﺕﺎﺟﺎﻴﺘﺣﻻﺍ ﻯﻮﺘﺴﻣ ﻦﻴﻴﻌﺗ</SetNeedLevel.label>
+  
+  
+  <StartingAnimal.label>.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻣ ﺔﻳﺍﺪﺑ</StartingAnimal.label>
+  
+  
+  <StartingResearch.label>ﺔﻴﻨﻘﺘﺑ ﺃﺪﺑﺍ</StartingResearch.label>
+  
+  
+  <StartingThing_Defined.label>ﻊﻣ ﺃﺪﺑﺍ</StartingThing_Defined.label>
+  
+  
+  <StatFactor.label>.ﺕﺎﻤﺴﻠﻟ ﻒﻋﺎﻀﻣ ﻞﻣﺎﻋ</StatFactor.label>
+  
+</LanguageData>

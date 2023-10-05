@@ -1,0 +1,17 @@
+<LanguageData>
+  
+  
+  <Penoxycyline.label>ﻦﻴﻠﻴﺴﻴﺴﻛﻮﻨﻴﺑ</Penoxycyline.label>
+  
+  <Penoxycyline.description>.ﻯﻭﺪﻌﻟﺍ ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﻉﺍﻮﻧﺄﺑ ﺔﺑﺎﺻﻹﺍ ﻊﻨﻤﻟ ﺀﺍﻭﺪﻟﺍ
+ﻪﻟﻭﺎﻨﺗ ﺐﺠﻳ .ﻥﻮﻋﺎﻄﻟﺍﻭ ﻡﻮﻨﻟﺍﻭ ﺎﻳﺭﻼﻤﻟﺍ ﺪﺿ ﻡﺪﺨﺘﺴﻳ
+.ﻡﺎﻳﺃ ﺔﺴﻤﺧ ﻞﻛ
+
+ﺔﻤﺋﺎﻘﻟﺍ ﻯﻭﺪﻌﻟﺍ ﺪﺿ ﺪﻋﺎﺴﻳ ﻦﻟ ﺝﻼﻌﻟﺍ ﺍﺬﻫ
+.ﺓﺪﻳﺪﺟ ﻯﻭﺪﻋ ﺭﻮﻬﻇ ﻊﻨﻤﻴﺳ ﻪﻨﻜﻟﻭ ، ﻞﻌﻔﻟﺎﺑ</Penoxycyline.description>
+  
+  <Penoxycyline.ingestible.ingestCommandString>{lookup: {0}; Case; 3} ﻝﻮﺒﻗ</Penoxycyline.ingestible.ingestCommandString>
+  
+  <Penoxycyline.ingestible.ingestReportString>{lookup: {0}; Case; 3} ﻞﺒﻘﻳ</Penoxycyline.ingestible.ingestReportString>
+  
+</LanguageData>

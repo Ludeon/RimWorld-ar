@@ -1,0 +1,42 @@
+<LanguageData>
+  
+  
+  <ImmediateAttack.arrivalTextEnemy>.ﺍﺭﻮﻓ ﻢﺟﺎﻬﻳ ﻭﺪﻌﻟﺍ</ImmediateAttack.arrivalTextEnemy>
+  
+  <ImmediateAttack.arrivalTextFriendly>.ﻚﺗﺪﻋﺎﺴﻤﻟ ﻥﻮﻠﺠﻌﺘﺴﻳ</ImmediateAttack.arrivalTextFriendly>
+  
+  <ImmediateAttack.letterLabelEnemy>ﺓﺭﺎﻐﻟﺍ</ImmediateAttack.letterLabelEnemy>
+  
+  <ImmediateAttack.letterLabelFriendly>ﺀﺎﻔﻠﺤﻟﺍ</ImmediateAttack.letterLabelFriendly>
+  
+  
+  <ImmediateAttackFriendly.arrivalTextEnemy>.ﺍﺭﻮﻓ ﻢﺟﺎﻬﻳ ﻭﺪﻌﻟﺍ</ImmediateAttackFriendly.arrivalTextEnemy>
+  
+  <ImmediateAttackFriendly.arrivalTextFriendly>.ﻚﺗﺪﻋﺎﺴﻤﻟ ﻥﻮﻋﺮﺴﻳ ﻢﻫ</ImmediateAttackFriendly.arrivalTextFriendly>
+  
+  <ImmediateAttackFriendly.letterLabelEnemy>ﻡﻮﺠﻫ</ImmediateAttackFriendly.letterLabelEnemy>
+  
+  <ImmediateAttackFriendly.letterLabelFriendly>ﺀﺎﻔﻠﺤﻟﺍ</ImmediateAttackFriendly.letterLabelFriendly>
+  
+  
+  <ImmediateAttackSmart.arrivalTextEnemy>ﻥﻮﻣﺪﺨﺘﺴﻳ ﻢﻬﻧﺃ ﻭﺪﺒﻳ ،ﺱﺮﺘﺣﺍ .ﺍﺭﻮﻓ ﻢﺟﺎﻬﻳ ﻭﺪﻌﻟﺍ
+ﻚﺟﺍﺮﺑﺃ ﻥﻮﺒﻨﺠﺘﻴﺳ .ﺩﺎﺘﻌﻤﻟﺍ ﻦﻣ ﺍﺮﺑﺪﺗ ﺮﺜﻛﺃ ﺎﻜﻴﺘﻜﺗ
+.ﺥﺎﺨﻓﻷﺍ ﺾﻌﺑ ﻥﻮﻈﺣﻼﻴﺳﻭ</ImmediateAttackSmart.arrivalTextEnemy>
+  
+  <ImmediateAttackSmart.arrivalTextFriendly>.ﻚﺗﺪﻋﺎﺴﻤﻟ ﻥﻮﻠﺠﻌﻳ ﻢﻬﻧﺇ</ImmediateAttackSmart.arrivalTextFriendly>
+  
+  <ImmediateAttackSmart.letterLabelEnemy>ﺓﺭﺎﻐﻟﺍ</ImmediateAttackSmart.letterLabelEnemy>
+  
+  <ImmediateAttackSmart.letterLabelFriendly>ﺀﺎﻔﻠﺤﻟﺍ</ImmediateAttackSmart.letterLabelFriendly>
+  
+  
+  <StageThenAttack.arrivalTextEnemy>ﻞﺒﻗ ﺮﻴﻀﺤﺘﻠﻟ ﻭﺪﻌﻟﺍ ﻯﺪﻟ ﺖﻗﻮﻟﺍ ﺾﻌﺑ ﻕﺮﻐﺘﺴﻴﺳ
+.ﺔﻴﻗﺎﺒﺘﺳﺍ ﺔﺑﺮﻀﺑ ﻖﻠﻄﻧﺍ ﻭﺃ ﻉﺎﻓﺪﻠﻟ ﺪﻌﺘﺳﺍ .ﻡﻮﺠﻬﻟﺍ</StageThenAttack.arrivalTextEnemy>
+  
+  <StageThenAttack.arrivalTextFriendly>.ﻙﻭﺪﻋﺎﺴﻳ ﻥﺃ ﻞﺒﻗ ﺮﻴﻀﺤﺘﻠﻟ ﺖﻗﻮﻟﺍ ﺾﻌﺑ ﻢﻬﻳﺪﻟ</StageThenAttack.arrivalTextFriendly>
+  
+  <StageThenAttack.letterLabelEnemy>ﻡﻮﺠﻫ</StageThenAttack.letterLabelEnemy>
+  
+  <StageThenAttack.letterLabelFriendly>ﺀﺎﻔﻠﺤﻟﺍ ﺓﺪﻋﺎﺴﻣ</StageThenAttack.letterLabelFriendly>
+  
+</LanguageData>

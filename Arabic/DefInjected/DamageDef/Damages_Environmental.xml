@@ -1,0 +1,25 @@
+<LanguageData>
+  
+  
+  <Burn.label>ﻕﻭﺮﺣ</Burn.label>
+  
+  <Burn.deathMessage>{0} {0_gender ? ﺎﻴﺣ {ﺖﻗﺮﺘﺣﺃ : ﻕﺮﺘﺣﺃ.</Burn.deathMessage>
+  
+  
+  <Flame.label>ﺭﺎﻨﻟﺍ</Flame.label>
+  
+  <Flame.deathMessage>{0} {0_gender ? ﺎﻴﺣ {ﺖﻗﺮﺘﺣﺍ : ﻕﺮﺘﺣﺍ.</Flame.deathMessage>
+  
+  
+  <Frostbite.label>ﺪﻤﺠﺗ</Frostbite.label>
+  
+  <Frostbite.deathMessage>{0} {0_gender ? ﺐﺒﺴﺑ {ﺖﻴﻓﻮﺗ : ﻲﻓﻮﺗ
+ﺪﻤﺠﺘﻟﺍ.</Frostbite.deathMessage>
+  
+  
+  <TornadoScratch.label>ﺭﺎﺠﻔﻧﺍ</TornadoScratch.label>
+  
+  <TornadoScratch.deathMessage>{ : ? gender_0} {0} ﻞﺘﻗ ﻢﺗ
+.ﺭﺎﺼﻋﺇ ﺔﻄﺳﺍﻮﺑ</TornadoScratch.deathMessage>
+  
+</LanguageData>

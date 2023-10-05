@@ -1,0 +1,47 @@
+<LanguageData>
+  
+  
+  <Cassowary.label>ﺭﺍﻭﺯﺎﻜﻟﺍ</Cassowary.label>
+  
+  <Cassowary.description>ﺶﻳﺮﺑ ﻥﺍﺮﻴﻄﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ ﺮﻴﺒﻛ ﺮﺋﺎﻃ
+ﺏﺮﻀﻳ ﻪﻨﻜﻟﻭ ﻼﻴﻤﺟ ﻭﺪﺒﻳ ، ﻞﻴﻤﺟ ﻥﻮﻠﻣ
+ﺩﺎﻴﺼﻟ ﺀﺍﻮﺳ ﻪﺑﺎﻀﻏﺇ ﺍﺪﺟ ﻞﻬﺴﻟﺍ ﻦﻣ .ﺓﻮﻘﺑ
+.ﺮﻫﺎﻣ ﺮﻴﻏ ﺕﺎﻧﺍﻮﻴﺣ ﻲﺑﺮﻣ ﻭﺃ ﺮﻫﺎﻣ ﺮﻴﻏ</Cassowary.description>
+  
+  <Cassowary.race.meatLabel>ﺭﻮﻴﻄﻟﺍ ﻢﺤﻟ</Cassowary.race.meatLabel>
+  
+  <Cassowary.tools.claws.label>ﺐﻟﺎﺨﻣ</Cassowary.tools.claws.label>
+  
+  <Cassowary.tools.beak.label>ﺭﺎﻘﻨﻤﻟﺍ</Cassowary.tools.beak.label>
+  
+  <Cassowary.tools.head.label>ﺱﺃﺮﻟﺍ</Cassowary.tools.head.label>
+  
+  
+  <Emu.label>ﻢﻳﺪﻘﺗ ﻰﺟﺮﻳ .ﺔﻤﺟﺮﺘﻠﻟ ﻞﺑﺎﻗ ﺮﻴﻏ ﺺﻨﻟﺍ ﺍﺬﻫ
+.ﺔﻤﺟﺮﺘﻠﻟ ﺔﻳﺰﻴﻠﺠﻧﻹﺍ ﺔﻐﻠﻟﺎﺑ ﺺﻧ</Emu.label>
+  
+  <Emu.description>ﻥﻮﻴﻋ ﻭﺫ ، ﺮﺋﺎﻃ ﺮﻴﻏ ﺮﻴﺒﻛ ﺮﺋﺎﻃ
+، ﺔﺌﻴﺴﻟﺍ ﺎﻬﺘﻌﻴﺒﻃ ﻊﻣ .ﺞﻋﺰﻣ ﺮﻬﻈﻣﻭ ﺔﺨﻔﺘﻨﻣ
+ﺎﻬﺴﻤﻠﺗ ﻻ .ﺍﺪﺟ ﺐﻳﺮﻏ ﻲﻌﻴﺒﻃ ﻖﻠﺧ ﺎﻬﻧﺈﻓ
+.ﻚﺴﻤﻠﺗ ﻦﻟﻭ -</Emu.description>
+  
+  <Emu.tools.claws.label>ﺐﻟﺎﺨﻤﻟﺍ</Emu.tools.claws.label>
+  
+  <Emu.tools.beak.label>ﺭﺎﻘﻨﻣ</Emu.tools.beak.label>
+  
+  <Emu.tools.head.label>ﺱﺃﺮﻟﺍ</Emu.tools.head.label>
+  
+  
+  <Ostrich.label>ﺔﺒﻴﺗﺮﻟﺍ</Ostrich.label>
+  
+  <Ostrich.description>ﺎﻬﻳﺮﺟ ﺔﻋﺮﺴﺑ ﺔﻓﻭﺮﻌﻣ .ﺔﻟﺪﻌﻤﻟﺍ ﺮﻴﻏ ﺭﻮﻴﻄﻟﺍ ﺮﺒﻛﺃ
+ﺮﺒﻛﺃ - ﺔﻣﺎﻌﻨﻟﺍ ﺾﻴﺑ .ﺎﻬﻠﺟﺭﺄﺑ ﺔﻳﻮﻘﻟﺍ ﺕﺎﻤﻜﻟﻭ
+.ﺭﻮﻴﻄﻟﺍ ﻲﻓ ﺾﻴﺑ</Ostrich.description>
+  
+  <Ostrich.tools.claws.label>ﺐﻟﺎﺨﻤﻟﺍ</Ostrich.tools.claws.label>
+  
+  <Ostrich.tools.beak.label>ﺓﺮﺸﺒﻛ</Ostrich.tools.beak.label>
+  
+  <Ostrich.tools.head.label>ﺱﺃﺭ</Ostrich.tools.head.label>
+  
+</LanguageData>

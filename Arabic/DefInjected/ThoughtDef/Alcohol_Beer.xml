@@ -1,0 +1,45 @@
+<LanguageData>
+  
+  
+  
+  
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.label>ﻲﻟﻮﺤﻜﻟﺍ ﺭﺎﻴﻬﻧﻻﺍ</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
+  
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.description>ﺝﺎﺘﺣﺃ .ﺎﻘﻴﺿ ﻲﻧﺮﻴﺜﻳ ﺀﻲﺷ ﻞﻛ .ﻑﺎﺠﺗﺭﺎﺑ ﺮﻌﺷﺃ
+.ﺀﻲﺷ ﺏﺮﺸﻟ</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
+  
+  
+  <Hungover.stages.mild_hangover.label>ﻝﺪﺘﻌﻣ ﻉﺍﺪﺻ</Hungover.stages.mild_hangover.label>
+  
+  <Hungover.stages.mild_hangover.description>.ﺍﺮﻴﺜﻛ ﻲﻨﻤﻟﺆﻳ ﻻ ﻲﺳﺃﺭ</Hungover.stages.mild_hangover.description>
+  
+  <Hungover.stages.serious_hangover.label>ﺍﺪﺟ ﻢﻟﺆﻣ ﺱﺃﺭ</Hungover.stages.serious_hangover.label>
+  
+  <Hungover.stages.serious_hangover.description>ﻦﻣ ﺔﻃﺮﻔﻤﻟﺍ ﺔﻴﻤﻜﻟﺍ ﻚﻠﺗ ﻦﻣ ﻲﺳﺃﺭ ﻖﺸﻨﺗ
+.ﺏﺍﺮﺸﻟﺍ</Hungover.stages.serious_hangover.description>
+  
+  <Hungover.stages.pounding_hangover.label>ﻞﺗﺎﻘﻟﺍ reshang ﻝﺍ</Hungover.stages.pounding_hangover.label>
+  
+  <Hungover.stages.pounding_hangover.description>ﺯﻭﻷﺍ ﻦﻣ ﺎﻌﻴﻄﻗ ﻥﺃ ﻮﻟ ﺎﻤﻛ ﺭﻮﻌﺸﻟﺍ
+.ﻲﺘﻤﺠﻤﺟ ﻲﻓ ﻲﻨﻤﻀﻘﻳ</Hungover.stages.pounding_hangover.description>
+  
+  
+  <Inebriated.stages.alcohol_warmth.label>؟ﻡﻮﻴﻟﺍ ﻚﺗﺪﻋﺎﺴﻣ ﻲﻨﻨﻜﻤﻳ ﻒﻴﻛ !ﺎﺒﺣﺮﻣ</Inebriated.stages.alcohol_warmth.label>
+  
+  <Inebriated.stages.alcohol_warmth.description>ﺍﺬﻫ .ﺱﺄﻜﻟﺍ ﻩﺬﻫ ﺪﻌﺑ ﻒﻴﻔﻃ ﻦﺴﺤﺘﺑ ﺮﻌﺷﺃ
+.ﺪﻴﺟ</Inebriated.stages.alcohol_warmth.description>
+  
+  <Inebriated.stages.quite_inebriated.label>ﺩﺍﺪﻣﻹﺍ ﺔﻟﺎﺣ ﻲﻓ</Inebriated.stages.quite_inebriated.label>
+  
+  <Inebriated.stages.quite_inebriated.description>.ﺎﻘﺣ ﻒﻴﻄﻟ ﺮﻣﺃ ﺍﺬﻫﻭ !ﺭﺍﻭﺪﻟﺍ ﺾﻌﺒﺑ ﺮﻌﺷﺃ</Inebriated.stages.quite_inebriated.description>
+  
+  <Inebriated.stages.drunk.label>&lt;؟ﻝﻮﺤﻜﻠﻟ ﺏﺮﺸﺗ ﻰﺘﻣ&gt; :ﺔﻧﻮﺑ &lt;؟ﻝﻮﺤﻜﻠﻟ ﺏﺮﺸﺗ ﻰﺘﻣ&gt; :ﻥﻮﺑ</Inebriated.stages.drunk.label>
+  
+  <Inebriated.stages.drunk.description>ﻻﻭ ﺀﻲﺷ ﻱﺃ ﻦﻣ ﻞﺠﺧﺃ ﻻ ﺎﻧﺃ
+!ﺍﺪﺟ ﻊﺋﺍﺭ !ﺀﻲﺷ ﻦﻣ ﻑﺎﺧﺃ</Inebriated.stages.drunk.description>
+  
+  <Inebriated.stages.hammered.label>ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ ﻰﻟﺇ ﺏﻭﺮﺸﻣ</Inebriated.stages.hammered.label>
+  
+  <Inebriated.stages.hammered.description>؟ﺙﺪﺤﻳ ﻱﺬﻟﺍ ﺎﻣ !ﺎﺒﺣﺮﻣ</Inebriated.stages.hammered.description>
+  
+</LanguageData>

@@ -1,0 +1,189 @@
+<LanguageData>
+  
+  
+  <Beauty.degreeDatas.beautiful.label>ﻕﺪﺼﻳ ﻻ ﻝﺎﻤﺟ</Beauty.degreeDatas.beautiful.label>
+  
+  <Beauty.degreeDatas.beautiful.description>{PAWN_nameDef} ﻪﺟﻭ .ﻲﺋﺎﻨﺜﺘﺳﺍ ﻝﺎﻤﺟ ﻪﻳﺪﻟ {PAWN_possessive} ﻪﻳﺪﻟ
+ﻪﺗﺮﻈﻧﻭ ،ﺔﻳﺎﻐﻠﻟ ﺔﺑﺍﺬﺟ ﺎﻬﻨﻜﻟﻭ ﺔﺒﻳﺮﻐﻟﺍ ﺕﺎﻔﺼﻟﺍ ﺾﻌﺑ
+ﻖﺤﺘﺴﻳ .ﺎﻴﻓﺮﺣ ﺱﺎﻨﻟﺍ ﺮﺤﺴﺗ {PAWN_nameDef} ﺱﺎﻨﻟﺍ ﻡﺍﺮﺘﺣﺍ
+ﻢﻬﺑ ﺙﺪﺤﺘﻳ ﻥﺃ ﻞﺒﻗ ﻰﺘﺣ.</Beauty.degreeDatas.beautiful.description>
+  
+  <Beauty.degreeDatas.pretty.label>ﻝﺎﻤﺟ</Beauty.degreeDatas.pretty.label>
+  
+  <Beauty.degreeDatas.pretty.description>.ﺱﺎﻨﻟﺍ ﻒﻃﺎﻌﺗ ﺮﻴﺜﻳ ﺎﺑﺍﺬﺟ ﺎﻬﺟﻭ {PAWN_nameDef} ﻚﻠﺘﻤﻳ</Beauty.degreeDatas.pretty.description>
+  
+  <Beauty.degreeDatas.ugly.label>ﺔﻫﻮﺸﻣ</Beauty.degreeDatas.ugly.label>
+  
+  <Beauty.degreeDatas.ugly.description>.ﺽﻮﻓﺮﻣﻭ ﺏﺍﺬﺟ ﺮﻴﻏ ﺍﺮﻬﻈﻣ ﻪﻳﺪﻟ</Beauty.degreeDatas.ugly.description>
+  
+  <Beauty.degreeDatas.staggeringly_ugly.label>ﻝﻮﻘﻌﻤﻟﺍ ﺮﻴﻏ ﺢﺒﻘﻟﺍ</Beauty.degreeDatas.staggeringly_ugly.label>
+  
+  <Beauty.degreeDatas.staggeringly_ugly.description>{PAWN_nameDef} ﻪﺟﻭ .ﻖﺤﺑ ﺎﺤﻴﺒﻗ ﺍﺮﻬﻈﻣ ﻚﻠﺘﻤﻳ {PAWN_possessive}
+ﻞﻜﺸﻟﺍ ﻊﺋﺎﺿﻭ ،ﺔﺒﻫﻮﻣ ﻥﻭﺪﺑ ﻞﻔﻃ ﺔﻤﺳﺭ ﻪﺒﺸﻳ
+.ﺮﺻﺎﻌﻣ ﻲﻨﻓ ﻞﻤﻋ ﻭ ،ﺓﺮﺟ ﻲﻓ ﻅﻮﻔﺤﻤﻟﺍ
+ﻰﻟﺍ ﺍﻭﺮﻈﻨﻴﻟ ﺍﺪﻬﺟ ﺍﻮﻟﺬﺒﻳ ﻥﺃ ﺐﺠﻳ ﺱﺎﻨﻟﺍ
+ﻪﺟﻭ {PAWN_objective} ﺚﻳﺪﺤﻟﺍ ﺀﺎﻨﺛﺃ.</Beauty.degreeDatas.staggeringly_ugly.description>
+  
+  
+  <DrugDesire.degreeDatas.chemical_fascination.label>ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﺏﺭﺎﺠﺘﻟﺍ ﻒﻐﺷ</DrugDesire.degreeDatas.chemical_fascination.label>
+  
+  <DrugDesire.degreeDatas.chemical_fascination.description>{PAWN_nameDef} ﻲﻃﺎﻌﺗ .ﺔﻌﺘﻤﻠﻟ ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﺭﺩﺎﺼﻤﻟﺍ ﺓﺪﺸﺑ ﻞﻀﻔﻳ
+ـﺑ ﺹﺎﺨﻟﺍ ﺝﺍﺰﻤﻟﺍ ﻊﻓﺮﻳ ﺔﻔﻴﻔﺨﻟﺍ ﺕﺍﺭﺪﺨﻤﻟﺍ {PAWN_objective}،
+ﻰﻟﺇ ﻱﺩﺆﻳﻭ ﻥﺰﺤﻟﺍ ﻦﻣ ﺪﻳﺰﻳ ﻉﺎﻨﺘﻣﻻﺍ ﺎﻤﻨﻴﺑ
+ﻞﺘﺨﻤﻟﺍ ﺲﻔﻧ. {PAWN_pronoun} ﺮﻈﺣ ﻰﻟﺇ ﺖﻔﺘﻠﻳ ﻻ
+ﻦﻳﺮﺧﻵﺍ ﻦﻣ ﺮﺒﻛﺃ ﻞﻜﺸﺑ ﺎﻬﻟﻭﺎﻨﺘﻳﻭ ﺔﻔﻴﻔﺨﻟﺍ ﺕﺍﺭﺪﺨﻤﻟﺍ.</DrugDesire.degreeDatas.chemical_fascination.description>
+  
+  <DrugDesire.degreeDatas.chemical_interest.label>"ﺀﺎﻴﻤﻴﻜﻟﺍ" ـﺑ ﻡﺎﻤﺘﻫﺍ</DrugDesire.degreeDatas.chemical_interest.label>
+  
+  <DrugDesire.degreeDatas.chemical_interest.description>{PAWN_nameDef} ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﺩﺍﻮﻤﻠﻟ ﻒﻌﺿ ﻪﻟﻭ ﺏﺮﺸﻟﺍ ﺐﺤﻳ
+ﺝﺍﺰﻣ ﻊﻓﺮﻳ ﺔﻔﻴﻔﺨﻟﺍ ﺓﺭﺪﺨﻤﻟﺍ ﺩﺍﻮﻤﻟﺍ ﺹﺎﺼﺘﻣﺍ .ﻯﺮﺧﻷﺍ
+{PAWN_objective} ، ﺔﺑﺂﻜﻟﺍ ﻰﻟﺇ ﻉﺎﻨﺘﻣﻻﺍ ﻱﺩﺆﻳ ﺎﻤﻨﻴﺑ.
+{PAWN_pronoun} ﺎﻬﻤﻬﺘﻠﻳﻭ ﺔﻔﻴﻔﺨﻟﺍ ﺕﺍﺭﺪﺨﻤﻟﺍ ﺮﻈﺤﻟ ﺙﺮﺘﻜﻳ ﻻ
+ﻦﻳﺮﺧﻵﺍ ﻦﻣ ﺮﺜﻛﺃ.</DrugDesire.degreeDatas.chemical_interest.description>
+  
+  <DrugDesire.degreeDatas.teetotaler.label>ﻊﻨﺘﻤﻣ</DrugDesire.degreeDatas.teetotaler.label>
+  
+  <DrugDesire.degreeDatas.teetotaler.description>{PAWN_nameDef} ـﺑ ﻉﺎﺘﻤﺘﺳﺍ ﺓﺮﻜﻓ ﻰﻠﻋ ﻖﻓﺍﻮﻳ ﻻ
+ﺕﺍﺭﺪﺨﻤﻟﺍﻭ ﻝﻮﺤﻜﻟﺍ ﻦﻋ ﺪﻌﺘﺒﻳﻭ "ﺀﺎﻴﻤﻴﻛ".</DrugDesire.degreeDatas.teetotaler.description>
+  
+  
+  <Immunity.degreeDatas.superimmune.label>ﺔﻳﻮﻗ ﺔﻋﺎﻨﻣ</Immunity.degreeDatas.superimmune.label>
+  
+  <Immunity.degreeDatas.superimmune.description>{PAWN_nameDef} .ﻲﻌﻴﺒﻃ ﻞﻜﺸﺑ ﻱﻮﻗ ﺔﻋﺎﻨﻣ ﻡﺎﻈﻧ ﻚﻠﺘﻤﻳ
+ﺮﻴﺜﻜﺑ ﻰﻠﻋﺃ ﻪﻳﺪﻟ ﺓﺩﺎﻀﻤﻟﺍ ﻡﺎﺴﺟﻷﺍ ﻦﻳﻮﻜﺗ ﺔﻋﺮﺳ
+ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﻪﻴﻠﻋ ﻮﻫ ﺎﻤﻣ. {PAWN_pronoun} ﺭﺩﺎﻗ
+ﻞﺘﻘﺗ ﺪﻗ ﻲﺘﻟﺍ ﺽﺍﺮﻣﻷﺍ ﻰﻠﻋ ﺐﻠﻐﺘﻟﺍ ﻰﻠﻋ
+ﻱﺩﺎﻌﻟﺍ ﻥﺎﺴﻧﻹﺍ.</Immunity.degreeDatas.superimmune.description>
+  
+  <Immunity.degreeDatas.sickly.label>ﻲﻋﺎﻨﻤﻟﺍ ﺯﺎﻬﺠﻟﺍ ﻲﻓ ﻒﻌﺿ</Immunity.degreeDatas.sickly.label>
+  
+  <Immunity.degreeDatas.sickly.description>.ﻪﺑ ﺹﺎﺨﻟﺍ ﺔﻋﺎﻨﻤﻟﺍ ﻡﺎﻈﻧ ﻰﻠﻋ {PAWN_nameDef} ﻱﻮﺘﺤﻳ
+{PAWN_possessive} ﻥﺃ ﺪﻛﺆﻤﻟﺍ ﻦﻣ .ﺍﺪﺟ ﻊﺋﺍﺭ {PAWN_pronon}
+ﻱﺃ ﻊﻣ ﻞﺧﺍﺪﺘﺗ ﻻ ﻲﺘﻟﺍ ﺀﺎﻴﺷﻷﺎﺑ ﺮﻛﺬﻳ
+.ﺮﺧﺁ ﺀﻲﺷ</Immunity.degreeDatas.sickly.description>
+  
+  
+  <Industriousness.degreeDatas.industrious.label>ﺩﺎﻬﺘﺟﺍ</Industriousness.degreeDatas.industrious.label>
+  
+  <Industriousness.degreeDatas.industrious.description>{PAWN_nameDef} ﺔﻋﺮﺴﺑ ﻡﺎﻬﻤﻟﺍ ﺰﺠﻨﻳﻭ ﻞﻬﺳ ﺍﺰﻴﻛﺮﺗ ﻚﻠﺘﻤﻳ
+ﻦﻴﻳﺩﺎﻌﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻦﻣ ﻉﺮﺳﺃ.</Industriousness.degreeDatas.industrious.description>
+  
+  <Industriousness.degreeDatas.hard_worker.label>ﺩﺎﻬﺘﺟﻻﺍﻭ ﺪﺠﻟﺍ</Industriousness.degreeDatas.hard_worker.label>
+  
+  <Industriousness.degreeDatas.hard_worker.description>ﻞﻜﺸﺑ ﻪﻠﻤﻌﺑ {PAWN_nameDef} ﻡﻮﻘﻳ ،ﺔﻴﻌﻴﺒﻄﻟﺍ ﻪﺘﻳﺪﺟ ﻞﻀﻔﺑ
+.ﻦﻳﺮﺧﻵﺍ ﻦﻣ ﻉﺮﺳﺃ</Industriousness.degreeDatas.hard_worker.description>
+  
+  <Industriousness.degreeDatas.lazy.label>ﻞﺴﻜﻟﺍ</Industriousness.degreeDatas.lazy.label>
+  
+  <Industriousness.degreeDatas.lazy.description>{PAWN_nameDef} ﺎﻧﺎﻴﺣﺃ ﻞﺳﺎﻜﺘﻳ.</Industriousness.degreeDatas.lazy.description>
+  
+  <Industriousness.degreeDatas.slothful.label>ﻞﺴﻜﻟﺍ</Industriousness.degreeDatas.slothful.label>
+  
+  <Industriousness.degreeDatas.slothful.description>{PAWN_nameDef} ﻞﻤﻌﻟﺍ ﻩﺮﻜﻳﻭ ﻝﻮﻤﺨﻟﺍ ﺐﺤﻳ. {PAWN_pronoun} ﻙﺮﺤﺘﻳ
+ﺔﻤﻬﻤﻟﺍ ﻰﻠﻋ ﺰﻛﺮﻳ ﺎﻣ ﺍﺭﺩﺎﻧﻭ ﺀﻂﺒﺑ.</Industriousness.degreeDatas.slothful.description>
+  
+  
+  <NaturalMood.degreeDatas.sanguine.label>ﺓﺎﻴﺤﻟﺍ ﺐﺣ</NaturalMood.degreeDatas.sanguine.label>
+  
+  <NaturalMood.degreeDatas.sanguine.description>{PAWN_nameDef} ﺙﺪﺣ ﺎﻤﻬﻣ ﻊﻔﺗﺮﻣ ﺝﺍﺰﻣ ﻲﻓ ﺎﻤﺋﺍﺩ
+ﻪﻟﻮﺣ.</NaturalMood.degreeDatas.sanguine.description>
+  
+  <NaturalMood.degreeDatas.optimist.label>ﻞﺋﺎﻔﺘﻣ</NaturalMood.degreeDatas.optimist.label>
+  
+  <NaturalMood.degreeDatas.optimist.description>{PAWN_nameDef} ﺮﻴﻣﺪﺗ ﺐﻌﺼﻟﺍ ﻦﻣ .ﺔﻌﻴﺒﻄﻟﺍ ﻦﻣ ﻞﺋﺎﻔﺘﻣ
+ﻪﺟﺍﺰﻣ {PAWN_objective}.</NaturalMood.degreeDatas.optimist.description>
+  
+  <NaturalMood.degreeDatas.pessimist.label>ﻢﺋﺎﺸﺘﻣ</NaturalMood.degreeDatas.pessimist.label>
+  
+  <NaturalMood.degreeDatas.pessimist.description>{PAWN_nameDef} ﺔﻴﺗﺎﻴﺤﻟﺍ ﻒﻗﺍﻮﻤﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻰﻟﺇ ﺮﻈﻨﻳ
+ﻂﻘﻓ ﻲﺒﻠﺴﻟﺍ ﺐﻧﺎﺠﻟﺍ ﻦﻣ.</NaturalMood.degreeDatas.pessimist.description>
+  
+  <NaturalMood.degreeDatas.depressive.label>ﻲﺴﻔﻨﻟﺍ ﻖﻴﻀﻟﺍ</NaturalMood.degreeDatas.depressive.label>
+  
+  <NaturalMood.degreeDatas.depressive.description>{PAWN_nameDef} ﺎﻣ ﺍﺭﺩﺎﻧﻭ .ﺀﻲﺳ ﺝﺍﺰﻣ ﻲﻓ ﺎﻤﺋﺍﺩ
+ﺓﺪﻴﺟ ﺭﻮﻣﻷﺍ ﻥﻮﻜﺗ ﺎﻣﺪﻨﻋ ﻰﺘﺣ ﻦﺴﺤﺘﻳ.</NaturalMood.degreeDatas.depressive.description>
+  
+  
+  <Nerves.degreeDatas.ironwilled.label>ﺔﻳﺪﻳﺪﺤﻟﺍ ﺏﺎﺼﻋﻷﺍ</Nerves.degreeDatas.ironwilled.label>
+  
+  <Nerves.degreeDatas.ironwilled.description>{PAWN_nameDef} ﻱﺪﻳﺪﺤﻟﺍ ﻉﺭﺪﻟﺎﻛ ﺔﻳﻮﻗ ﺓﺩﺍﺭﺈﺑ ﻊﺘﻤﺘﻳ. {PAWN_pronoun}
+ﻲﺘﻟﺍ ﻑﻭﺮﻈﻟﺍ ﻲﻓ ﻰﺘﺣ ﻪﺘﻘﺛ ﺪﻘﻔﻳ ﻻ
+ﻥﻭﺮﺧﻵﺍ ﺎﻬﻴﻓ ﻢﻠﺴﺘﺴﻳ.</Nerves.degreeDatas.ironwilled.description>
+  
+  <Nerves.degreeDatas.steadfast.label>стрессоустойчивость</Nerves.degreeDatas.steadfast.label>
+  
+  <Nerves.degreeDatas.steadfast.description>{PAWN_nameDef} ﻱﺬﻟﺍ ﺮﺗﻮﺘﻟﺍ ﻞﻤﺤﺘﻳ ﻲﺴﻔﻧ ﺕﺎﺒﺜﺑ ﻊﺘﻤﺘﻳ
+ﺹﺎﺨﺷﻷﺍ ﻢﻈﻌﻣ ﻪﻠﻤﺤﺘﻳ ﻻ.</Nerves.degreeDatas.steadfast.description>
+  
+  <Nerves.degreeDatas.nervous.label>ﻖﻠﻘﻟﺍ</Nerves.degreeDatas.nervous.label>
+  
+  <Nerves.degreeDatas.nervous.description>ﺮﺗﻮﺗ ﺔﻟﺎﺣ ﻲﻓ ﻪﺗﺮﻄﻴﺳ {PAWN_nameDef} ﺪﻘﻔﻳ ﺪﻗ
+.ﺪﻳﺪﺷ ﻲﻔﻃﺎﻋ</Nerves.degreeDatas.nervous.description>
+  
+  <Nerves.degreeDatas.volatile.label>ﻲﻔﻃﺎﻋ ﺭﺍﺮﻘﺘﺳﺍ ﻡﺪﻋ</Nerves.degreeDatas.volatile.label>
+  
+  <Nerves.degreeDatas.volatile.description>{PAWN_nameDef} ﻲﻔﻃﺎﻋ ﺮﺗﻮﺗ ﻰﻧﺩﺃ .ﻪﺑﺎﺼﻋﺃ ﻰﻠﻋ ﺎﻤﺋﺍﺩ
+ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺎﺑ ﻲﻬﺘﻨﻳ ﺪﻗ.</Nerves.degreeDatas.volatile.description>
+  
+  
+  <Neurotic.degreeDatas.neurotic.label>ﻒﻴﻔﺨﻟﺍ ﻲﺒﺼﻌﻟﺍ ﻖﻠﻘﻟﺍ</Neurotic.degreeDatas.neurotic.label>
+  
+  <Neurotic.degreeDatas.neurotic.description>،ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﺀﻲﺷ ﻞﻜﺑ ﻡﺎﻴﻘﻟﺍ {PAWN_nameDef} ﺐﺤﻳ
+.ﻦﻳﺮﺧﻵﺍ ﻦﻣ ﺮﺜﻛﺃ ﺪﺠﺑ ﻞﻤﻌﻳ ﻪﻠﻌﺠﻳ ﺎﻤﻣ
+.ﺔﻴﺒﺼﻋ ﺕﺍﺭﺎﻴﻬﻧﺍ ﻰﻟﺇ ﻱﺩﺆﻳ ﺎﻧﺎﻴﺣﺃ ﺮﺗﻮﺘﻟﺍ ﺍﺬﻫ</Neurotic.degreeDatas.neurotic.description>
+  
+  <Neurotic.degreeDatas.very_neurotic.label>ﺪﻳﺪﺷ ﺮﺗﻮﺗ</Neurotic.degreeDatas.very_neurotic.label>
+  
+  <Neurotic.degreeDatas.very_neurotic.description>{PAWN_nameDef} ﻞﻛ ﻥﺄﺸﺑ ﺮﻤﺘﺴﻣ ﻞﻜﺸﺑ ﻖﻠﻘﻟﺎﺑ ﺮﻌﺸﻳ
+ﻪﺑ ﻡﻮﻘﻳ ﺀﻲﺷ. {PAWN_pronoun} ﻰﻠﻋ ﻪﺴﻔﻧ ﺮﺒﺠﻳ
+ﺏﺎﺼﻋﺄﺑ ﺮﻀﻳ ﺎﻤﻣ ﺓﺪﻳﺪﺷ ﺔﻳﺪﺠﺑ ﻞﻤﻌﻟﺍ {PAWN_possessive}.</Neurotic.degreeDatas.very_neurotic.description>
+  
+  
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>ﺓﺪﺋﺍﺰﻟﺍ ﺔﻴﺳﺎﺴﺤﻟﺍ</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
+  
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>ﺕﺍﺫ ﺔﻴﻘﻴﺳﻮﻤﻟﺍ ﺓﺍﺩﻷﺍ ﻞﺜﻣ ﺱﺎﺴﺣ {PAWN_nameDef} ﻞﻘﻋ
+.ﺔﻴﺴﻔﻨﻟﺍ ﺕﺍﺮﻴﺛﺄﺘﻠﻟ ﺔﻳﺎﻐﻠﻟ ﺱﺎﺴﺣ {PAWN_pronoun} .ﻲﻟﺎﻌﻟﺍ ﺮﺗﻮﺘﻟﺍ</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+  
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>ﺔﻴﺳﺎﺴﺤﻟﺍ</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
+  
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>.ﺔﻴﺴﻔﻨﻟﺍ ﺕﺍﺮﻴﺛﺄﺘﻠﻟ ﺱﺎﺴﺣ (PAWN_nameDef) ﺐﻋﻼﻟﺍ ﻞﻘﻋ</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+  
+  <PsychicSensitivity.degreeDatas.psychically_dull.label>ﻲﻠﻘﻌﻟﺍ ﺭﺍﺮﻘﺘﺳﻻﺍ</PsychicSensitivity.degreeDatas.psychically_dull.label>
+  
+  <PsychicSensitivity.degreeDatas.psychically_dull.description>{PAWN_nameDef} — ﻞﻴﻠﻗ ,ﻲﺴﻔﻧ ﺭﺍﺮﻘﺘﺳﺍ ﺕﺍﺫ ﺔﻴﺼﺨﺷ
+ﺀﻲﺷ ﻱﺃ ﺎﻬﺠﻋﺰﻳ ﻥﺃ ﻊﻴﻄﺘﺴﻳ ﺎﻣ.</PsychicSensitivity.degreeDatas.psychically_dull.description>
+  
+  <PsychicSensitivity.degreeDatas.psychically_deaf.label>ﻲﺴﻔﻨﻟﺍ ﻢﻤﺼﻟﺍ</PsychicSensitivity.degreeDatas.psychically_deaf.label>
+  
+  <PsychicSensitivity.degreeDatas.psychically_deaf.description>.ﺔﻴﻘﺒﻟﺍ ﻦﻋ ﻒﻠﺘﺨﻣ ﺩﺩﺮﺘﺑ ﻞﻤﻌﻳ {PAWN_nameDef} ﻞﻘﻋ
+.ﺔﻴﺴﻔﻨﻟﺍ ﺕﺍﺮﻴﺛﺄﺘﻟﺎﺑ ﺮﺛﺄﺘﻣ ﺮﻴﻏ {PAWN_pronoun}</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+  
+  
+  <ShootingAccuracy.degreeDatas.careful_shooter.label>ﻖﻴﻗﺪﻟﺍ ﺯﺭﺎﺒﻤﻟﺍ</ShootingAccuracy.degreeDatas.careful_shooter.label>
+  
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>،ﻩﺮﻴﻏ ﻦﻣ ﺮﺜﻛﺃ ﻞﻜﺸﺑ ﻑﺪﻬﻟﺍ {PAWN_nameDef} ﺐﻴﺼﻳ
+.ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﺐﻳﻮﺼﺘﻠﻟ ﺖﻗﻮﻟﺍ ﺝﺎﺘﺤﻳ {PAWN_objective} ﻦﻜﻟ</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  
+  <ShootingAccuracy.degreeDatas.triggerhappy.label>ﻲﻟﺎﺒﻣ ﻼﻟﺍ ﻖﻠﻄﻤﻟﺍ</ShootingAccuracy.degreeDatas.triggerhappy.label>
+  
+  <ShootingAccuracy.degreeDatas.triggerhappy.description>ﺔﻗﺪﻟﺍ .ﺩﺎﻧﺰﻟﺍ ﻰﻠﻋ ﻂﻐﻀﻟﺍ ﺐﺤﻳ {PAWN_nameDef} !ﻮﻴﺑ-ﻮﻴﺑ-ﻮﻴﺑ
+ﻕﺩﺎﻨﺒﻟﺍ ﻥﻷ ،ﻢﺘﻬﻳ ﻻ {PAWN_possessive} ﻦﻜﻟ ،ﺮﺛﺄﺘﺗ
+!ﺔﻌﺋﺍﺭ</ShootingAccuracy.degreeDatas.triggerhappy.description>
+  
+  
+  <SpeedOffset.degreeDatas.slowpoke.label>ﺀﻂﺒﻟﺍ</SpeedOffset.degreeDatas.slowpoke.label>
+  
+  <SpeedOffset.degreeDatas.slowpoke.description>{PAWN_nameDef} ﺖﺒﻫﺫ ﺎﻤﻨﻳﺃ ،ﺔﻋﻮﻤﺠﻤﻟﺍ ﻊﺒﺘﺗﻭ ﺓﺮﺧﺄﺘﻣ ﺎﻤﺋﺍﺩ
+ﺖﺒﻫﺫ ﺎﻤﻨﻳﺃﻭ.</SpeedOffset.degreeDatas.slowpoke.description>
+  
+  <SpeedOffset.degreeDatas.fast_walker.label>ﺔﻛﺮﺤﻟﺍ ﻊﻳﺮﺳ</SpeedOffset.degreeDatas.fast_walker.label>
+  
+  <SpeedOffset.degreeDatas.fast_walker.description>{PAWN_nameDef} ﻲﺸﻤﻟﺍ ﺐﺤﻳ. {PAWN_pronoun} ﻦﻣ ﻉﺮﺳﺃ ﻲﺸﻤﻳ
+ﺱﺎﻨﻟﺍ ﻢﻈﻌﻣ.</SpeedOffset.degreeDatas.fast_walker.description>
+  
+  <SpeedOffset.degreeDatas.jogger.label>ﺾﻛﺍﺮﻟﺍ</SpeedOffset.degreeDatas.jogger.label>
+  
+  <SpeedOffset.degreeDatas.jogger.description>{PAWN_nameDef} ﻲﻓ .ﻩﺮﻣﺃ ﻦﻣ ﺔﻠﺠﻋ ﻲﻓ ﺎﻤﺋﺍﺩ
+ﻪﺘﺒﻛﺍﻮﻣ ﻥﻮﻌﻴﻄﺘﺴﻳ ﻻ ﻥﻭﺮﺧﻵﺍ ،ﺔﻘﻴﻘﺤﻟﺍ.</SpeedOffset.degreeDatas.jogger.description>
+  
+</LanguageData>

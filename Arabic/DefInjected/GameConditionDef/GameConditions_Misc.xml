@@ -1,0 +1,175 @@
+<LanguageData>
+  
+  
+  <Aurora.label>ﻲﺒﻄﻘﻟﺍ ﻖﻔﺸﻟﺍ</Aurora.label>
+  
+  <Aurora.description>ﻪﻧﺇ .ﺀﺎﻤﺴﻟﺍ ﺕﺀﺎﺿﺃ ﻲﺒﻄﻘﻟﺍ ﻖﻔﺸﻠﻟ ﺔﻌﻃﺎﺴﻟﺍ ﺭﺍﻮﻧﻷﺍ
+ﻥﻮﻈﺤﻳ ﻦﻳﺬﻟﺍ ﻚﺌﻟﻭﺃ ﺓﺮﻈﻧ ﺮﺳﺄﻳ ﻊﺋﺍﺭ ﺮﻈﻨﻣ
+.ﺔﻈﺤﻠﻟﺍ ﻩﺬﻫ ﻲﻓ ﻉﺭﺎﺸﻟﺍ ﻲﻓ ﻢﻫﺪﺟﺍﻮﺗ ﺔﺻﺮﻔﺑ</Aurora.description>
+  
+  <Aurora.endMessage>.ﻲﺒﻄﻘﻟﺍ ﻖﻔﺸﻟﺍ ﺖﻬﺘﻧﺍ</Aurora.endMessage>
+  
+  <Aurora.letterText>.ﺀﺎﻤﺴﻟﺍ ﺮﻴﻨﺗ ﻲﺒﻄﻘﻟﺍ ﻖﻔﺸﻠﻟ ﺔﻌﺸﻤﻟﺍ ﺀﺍﻮﺿﻷﺍ
+ﺔﻠﻫﺬﻤﻟﺍ ﺔﻧﻮﻠﻤﻟﺍ ﺕﺎﺟﻮﻤﻟﺍ ﺀﻮﻀﺑ ﺔﻴﻠﻴﻠﻟﺍ ﺀﺎﻤﺴﻟﺍ ﻸﻤﺗ
+ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﺪﺟﺍﻮﺘﻟﺍ ﺔﺻﺮﻔﺑ ﻥﻮﻈﺤﻳ ﻦﻣ ﺪﻌﺴﺗﻭ
+.ﺔﻈﺤﻠﻟﺍ ﻩﺬﻫ ﻲﻓ</Aurora.letterText>
+  
+  
+  <ClimateCycle.label>ﺔﻴﺧﺎﻨﻤﻟﺍ ﺓﺭﻭﺪﻟﺍ</ClimateCycle.label>
+  
+  <ClimateCycle.description>ﺕﺍﺮﻴﻐﺗ ﺐﺒﺴﺑ ﺥﺎﻨﻤﻟﺍ ﻲﻓ ﺪﻣﻷﺍ ﺔﻠﻳﻮﻃ ﺕﺎﺑﺬﺑﺬﺗ
+.ﺔﻳﺭﺍﺪﻤﻟﺍ ﺔﻳﻭﺎﻀﻴﺒﻟﺍ ﻲﻓ</ClimateCycle.description>
+  
+  
+  <ColdSnap.label>ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻲﻓ ﺩﺎﺣ ﺽﺎﻔﺨﻧﺍ</ColdSnap.label>
+  
+  <ColdSnap.description>ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ ﻲﻓ ﻱﺩﺎﻋ ﺮﻴﻏ ﺩﺎﺣ ﺽﺎﻔﺨﻧﺍ
+.ﺔﻘﻄﻨﻤﻟﺍ ﺡﺎﺘﺠﻳ</ColdSnap.description>
+  
+  <ColdSnap.descriptionFuture>ﻰﻠﻋ ﺓﺭﻭﺎﺠﻤﻟﺍ ﻖﻃﺎﻨﻤﻟﺍﻭ [map_definite] ﺩﺮﺒﺘﺳ ﺓﺩﺭﺎﺒﻟﺍ ﺔﻬﺒﺠﻟﺍ
+ﺔﺿﺮﻌﻣ .ﺕﺎﻋﺍﺭﺰﻟﺎﺑ ﺭﺮﻀﻟﺍ ﻖﺤﻠﺗﻭ ، [gameConditionDuration_duration] ﺭﺍﺪﻣ
+ﺐﺳﺎﻨﻣ ﺮﻴﻏ ﻞﻜﺸﺑ ﻦﻳﺪﺗﺮﻤﻟﺍ ﺹﺎﺨﺷﻷﺍ ﺓﺎﻴﺣ ﺮﻄﺨﻠﻟ
+.ﺓﺄﻓﺪﻤﻟﺍ ﻦﻛﺎﻣﻷﺍ ﺝﺭﺎﺧ ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ</ColdSnap.descriptionFuture>
+  
+  <ColdSnap.endMessage>.ﺪﻴﻤﺠﺘﻟﺍ ﺓﺮﺘﻓ ﺖﻬﺘﻧﺍ</ColdSnap.endMessage>
+  
+  <ColdSnap.letterText>.ﻱﺩﺎﻋ ﺮﻴﻏ ﻊﻴﻘﺼﻟﺍ ﺖﺤﺒﺻﺃ
+ﻦﻴﻨﻃﺍﻮﻠﻟ ﻢﺴﺠﻟﺍ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﺽﺎﻔﺨﻧﺍ ﻦﻣ ﺭﺬﺣﺍ
+،ﺄﻓﺪﻣ ﻦﻜﺴﻣ ﺩﻮﺟﻭ ﻦﻣ ﺪﻛﺄﺗ .ﻞﻴﺻﺎﺤﻤﻟﺍ ﺪﻤﺠﺗﻭ
+ﻞﺒﻗ ﻝﻮﺼﺤﻤﻟﺍ ﻊﻤﺟ ﻝﻭﺎﺣﻭ ،ﺔﺒﺳﺎﻨﻤﻟﺍ ﺲﺑﻼﻤﻟﺍ ﺪﺗﺭﺍﻭ
+.ﺕﺎﺗﺎﺒﻨﻟﺍ ﺪﻤﺠﺘﻳ ﻥﺃ</ColdSnap.letterText>
+  
+  
+  <Eclipse.label>ﻑﻮﺴﻜﻟﺍ</Eclipse.label>
+  
+  <Eclipse.description>ﻡﻼﻈﻟﺍ ﻥﻮﻜﻴﺳ .ﺐﻛﻮﻜﻟﺍ ﺢﻄﺳ ﻰﻄﻏ ﺪﻗ ﻑﻮﺴﻜﻟﺍ
+.ﺭﺎﻬﻨﻟﺍ ﻲﻓ ﻰﺘﺣ</Eclipse.description>
+  
+  <Eclipse.endMessage>.ﻑﻮﺴﻜﻟﺍ ﺖﻬﺘﻧﺍ</Eclipse.endMessage>
+  
+  <Eclipse.letterText>ﺭﺎﻤﻗﻷﺍ ﻯﺪﺣﺇ ﺖﻌﻗﻭ ﺎﻣﺪﻨﻋ ﻲﺴﻤﺷ ﻑﻮﺴﻛ ﺖﺛﺪﺣ
+.ﺲﻤﺸﻟﺍﻭ ﺐﻛﻮﻜﻟﺍ ﻦﻴﺑ ﺔﻄﻘﻨﻟﺍ ﻲﻓ</Eclipse.letterText>
+  
+  
+  <Flashstorm.label>ﺔﻳﺪﻋﺭ ﺔﻔﺻﺎﻋ</Flashstorm.label>
+  
+  <Flashstorm.description>ﺔﻘﻄﻨﻣ ﺏﺮﻀﺗ ﻖﻋﺍﻮﺼﻟﺍ ﻦﻣ ﺔﻳﺩﺎﻋ ﺮﻴﻏ ﺔﻴﻤﻛ
+.ﺓﺮﻴﻐﺻ</Flashstorm.description>
+  
+  <Flashstorm.endMessage>.ﺔﻳﺪﻋﺮﻟﺍ ﺔﻔﺻﺎﻌﻟﺍ ﺮﻣ</Flashstorm.endMessage>
+  
+  <Flashstorm.letterText>،ﺓﺮﻴﻐﺻ ﺔﻘﻄﻨﻣ ﺏﺮﻀﺗ ﻕﺮﺒﻟﺍ ﻦﻣ ﺔﻠﺋﺎﻫ ﺔﻴﻤﻛ
+.ﺍﺮﻴﺒﻛ ﺎﻘﻳﺮﺣ ﻚﻟﺫ ﺐﺒﺴﻳ ﺪﻗ</Flashstorm.letterText>
+  
+  
+  <HeatWave.label>ﺓﺭﺍﺮﺣ</HeatWave.label>
+  
+  <HeatWave.description>.ﺔﻄﻴﺤﻤﻟﺍ ﻖﻃﺎﻨﻤﻟﺍ ﻒﻔﺠﺗ ﺓﺪﻳﺪﺷ ﺓﺭﺍﺮﺣ</HeatWave.description>
+  
+  <HeatWave.descriptionFuture>ﺔﻄﻴﺤﻤﻟﺍ ﻖﻃﺎﻨﻤﻟﺍﻭ [map_definite] ﻑﺎﻔﺟ ﻰﻟﺇ ﻱﺩﺆﺘﺳ ﺓﺭﺍﺮﺤﻟﺍ
+ﺪﻗ .ﻞﻴﺻﺎﺤﻤﻠﻟ ﺍﺭﺮﺿ ﺐﺒﺴﺗﻭ ،[gameConditionDuration_duration] ﺓﺪﻤﻟ ﺎﻬﺑ
+ﻲﻧﺎﺒﻤﻟﺍ ﺝﺭﺎﺧ ﻥﻮﻧﻮﻜﻳ ﻦﻳﺬﻟﺍ ﺮﺸﺒﻟﺍﻭ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺕﻮﻤﻳ
+.ﺓﺩﺮﺒﻤﻟﺍ</HeatWave.descriptionFuture>
+  
+  <HeatWave.endMessage>.ﺓﺭﺍﺮﺤﻟﺍ ﺖﻬﺘﻧﺍ</HeatWave.endMessage>
+  
+  <HeatWave.letterText>.ﺔﻳﺎﻐﻠﻟ ﺓﺪﻳﺪﺷ ﺮﺣ ﺔﺟﻮﻣ ﺕﺃﺪﺑ
+ﺾﻔﺧﺍ .ﺔﻠﺗﺎﻗ ﺎﻬﻧﺇ :ﺓﺭﺍﺮﺤﻟﺍ ﺕﺎﺑﺮﺿ ﻦﻣ ﺮﻳﺬﺤﺗ
+ﺭﺎﺨﺒﻟﺍ ﺩﺮﺒﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻑﺮﻐﻟﺍ ﻲﻓ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ
+ﻕﺎﻤﻋﻷﺍ ﻲﻓ ﺊﺒﺘﺧﺍ ﻭﺃ ،ﻲﺋﺍﻮﻬﻟﺍ ﻒﻴﻜﻤﻟﺍ ﻭﺃ
+.ﺔﻴﻌﻴﺒﻄﻟﺍ ﺓﺩﻭﺮﺒﻟﺎﺑ ﺔﻴﻠﺒﺠﻟﺍ ﺭﻮﺨﺼﻟﺍ ﻆﻔﺘﺤﺗ ﺚﻴﺣ</HeatWave.letterText>
+  
+  
+  <Planetkiller.label>.ﺐﻛﻮﻜﻟﺍ ﺮﻴﻣﺪﺗ</Planetkiller.label>
+  
+  <Planetkiller.description>ﻰﻟﺇ ﺎﻫﺮﻣﺪﻴﺳ .ﺐﻛﻮﻜﻟﺍ ﺍﺬﻬﻟ ﻡﺩﺎﻗ ﻲﺋﺎﻀﻔﻟﺍ ﺡﻼﺴﻟﺍ
+ﻞﻛ ﻚﻠﻬﻣ ،ﺝﺎﺟﺪﻟﺍ ﺔﻀﻴﺑ ﻢﻄﺤﺗ ﺔﺻﺎﺻﺮﻟﺎﻛ ﺀﺍﺰﺟﻷﺍ
+.ﻲﺣ ﺀﻲﺷ</Planetkiller.description>
+  
+  
+  <PsychicDrone.label>ﺮﻴﺋﺰﻟﺍ</PsychicDrone.label>
+  
+  <PsychicDrone.description>ﻞﺼﺗ ﺓﺮﺛﺆﻣ ﺔﻴﺴﻔﻧ ﺕﺍﺭﺎﺷﺇ ﺪﻴﻌﺑ ﻞﻴﺒﺧﺭﺃ ﺚﻌﺒﻨﻳ
+.ﺱﺎﻨﻟﺍ ﻦﻨﺠﺗﻭ ﻱﺮﻤﻘﻟﺍ ﺮﺒﻜﻣ ﺮﺒﻋ ﺐﻛﻮﻜﻟﺍ ﻰﻟﺇ</PsychicDrone.description>
+  
+  <PsychicDrone.descriptionFuture>[map_definite] ﻕﻮﻓ [psychicDroneLevel] ﻲﺴﻔﻧ ﻦﻴﻧﺯ ﺭﺍﺪﺻﺇ ﻢﺘﻴﺳ
+.[psychicDroneGender] ﺱﺎﻨﻟﺍ ﻦﻨﺠﻳ ،[gameConditionDuration_duration] ﺓﺪﻤﻟ</PsychicDrone.descriptionFuture>
+  
+  <PsychicDrone.endMessage>.ﺮﻴﺋﺰﻟﺍ ﻒﻗﻮﺗ</PsychicDrone.endMessage>
+  
+  <PsychicDrone.letterText>ﻖﻠﻘﻟﺍ ﻦﻣ ﺪﻳﺪﺟ ﺭﺎﻴﺘﺑ ﻥﻭﺮﻌﺸﻳ {0} ﻊﻴﻤﺟ
+.ﺐﻀﻐﻟﺍﻭ
+ﺔﺧﻭﺪﻟﺍ ﻦﻣ ﺕﺎﺟﻮﻣ ﺭﺪﺼﻳ ﺔﻴﻫﺍﺮﻜﻠﻟ ﺪﻴﻌﺒﻟﺍ ﺪﻟﻮﻤﻟﺍ
+ﻝﻼﺧ ﻦﻣ ﺢﻄﺴﻟﺍ ﻰﻟﺇ ﺓﺭﺎﺷﻹﺍ ﻞﺼﻳ .ﺔﻴﺴﻔﻨﻟﺍ
+ﺮﻴﺛﺄﺘﻠﻟ ﻪﻄﺒﺿ ﻢﺘﻳ ﻱﺬﻟﺍ ﺔﻴﻋﺎﻨﺼﻟﺍ ﺭﺎﻤﻗﻷﺍ ﺮﺒﻜﻣ
+ﺔﻠﻴﻠﻘﻟﺍ ﻡﺎﻳﻷﺍ ﻝﻼﺧ .{"ﺀﺎﺴﻨﻟﺍ"-"ﻰﺜﻧﻷﺍ";"ﻝﺎﺟﺮﻟﺍ"-"ﻝﺎﺟﺭ";{replace: {0} ﻰﻠﻋ ﻂﻘﻓ
+.ﻼﻴﻠﻗ ﻢﻬﺟﺍﺰﻣ ﺭﻮﻫﺪﺘﺘﺳ
+.{1} ﻮﻫ ﺔﺧﻭﺪﻟﺍ ﻯﻮﺘﺴﻣ</PsychicDrone.letterText>
+  
+  
+  <PsychicSoothe.label>ﻉﺎﺿﻭﻷﺍ ﺔﺋﺪﻬﺗ</PsychicSoothe.label>
+  
+  <PsychicSoothe.description>.ﺔﻄﺸﻧ ﺔﻴﺴﻔﻧ ﺕﺍﺭﺎﺷﺇ ﺚﻌﺒﻨﻳ ﺪﻴﻌﺒﻟﺍ ﻲﻧﺎﻛﺭﻷﺍ ﻞﻜﻴﻬﻟﺍ
+ﻲﺋﺎﻀﻓ ﻢﺨﻀﻣ ﻖﻳﺮﻃ ﻦﻋ ﺐﻛﻮﻜﻟﺍ ﻰﻟﺇ ﻞﺼﺗ
+.ﺔﻴﻔﻃﺎﻌﻟﺍ ﻢﻬﺘﻟﺎﺣ ﺮﻘﺘﺴﺗﻭ ﺮﺸﺒﻟﺍ ﺉﺪﻬﺗ ،</PsychicSoothe.description>
+  
+  <PsychicSoothe.endMessage>.ﺀﻭﺪﻬﻟﺍ ﺖﻬﺘﻧﺍ</PsychicSoothe.endMessage>
+  
+  <PsychicSoothe.letterText>ﻞﺳﺮﻳ ﺪﻴﻌﺒﻟﺍ ﺓﺩﺎﻌﺴﻟﺍ ﺪﻟﻮﻣ !ﺔﻣﺎﺴﺘﺑﻻﺍ ﺎﻫﺀﻲﻀﻳ ﻢﻜﻫﻮﺟﻭ
+ﺢﻄﺴﻟﺍ ﻰﻟﺇ ﻞﺼﻳ ﺮﺛﺆﻤﻟﺍ ﻲﺴﻔﻨﻟﺍ ﻦﻴﻧﺰﻟﺍ .ﻪﺗﺍﺭﺎﺷﺇ
+ﻂﻘﻓ ﻩﺮﻴﺛﺄﺘﻟ ﺎﻔﻴﻜﻣ ،ﻲﺋﺎﻀﻔﻟﺍ ﻢﺨﻀﻤﻟﺍ ﻖﻳﺮﻃ ﻦﻋ
+.ﻡﺎﻳﺃ ﺔﻌﻀﺒﻟ ﻢﻬﺟﺍﺰﻣ ﻊﻔﺗﺮﻴﺳ .ﺀﺎﺴﻨﻟﺍ/ﻝﺎﺟﺮﻟﺍ ﻰﻠﻋ</PsychicSoothe.letterText>
+  
+  
+  <SolarFlare.label>ﻲﺴﻤﺸﻟﺍ ﺞﻫﻮﺘﻟﺍ</SolarFlare.label>
+  
+  <SolarFlare.description>ﻲﺴﻤﺷ ﺭﺎﺠﻔﻧﺍ ﻦﻣ ﺔﻧﻮﺤﺸﻤﻟﺍ ﺕﺎﻤﻴﺴﺠﻟﺍ ﻖﻓﺪﺗ ﻞﺼﻳ
+ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺓﺰﻬﺟﻷﺍ ﻢﻈﻌﻣ ﻞﻄﻌﺘﺘﺳ .ﺐﻛﻮﻜﻟﺍ ﻰﻟﺇ ﻱﻮﻗ
+.ﺊﺷﺎﻨﻟﺍ ﻲﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻜﻟﺍ ﺏﺍﺮﻄﺿﻻﺍ ﺐﺒﺴﺑ</SolarFlare.description>
+  
+  <SolarFlare.endMessage>.ﻲﺴﻤﺸﻟﺍ ﺭﺎﺠﻔﻧﻻﺍ ﺖﻬﺘﻧﺍ</SolarFlare.endMessage>
+  
+  <SolarFlare.letterText>ﻢﻈﻌﻣ ﻞﻄﻌﺘﺘﺳ ،ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻜﻟﺍ ﺕﺎﺸﻳﻮﺸﺘﻟﺍ ﺐﺒﺴﺑn\.ﻲﺴﻤﺷ ﺭﺎﺠﻔﻧﺍ ﺙﺪﺣ
+.ﺪﺣﺍﻭ ﻡﻮﻳ ﻲﻟﺍﻮﺣ ﺓﺪﻤﻟ ﺭﺎﺠﻔﻧﻻﺍ ﺮﻤﺘﺴﻴﺳn\.ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺓﺰﻬﺟﻷﺍ</SolarFlare.letterText>
+  
+  
+  <ToxicFallout.label>ﻡﺎﺴﻟﺍ ﻝﻮﻄﻬﻟﺍ</ToxicFallout.label>
+  
+  <ToxicFallout.description>ﻕﻮﻓ ﺀﻂﺒﺑ ﺓﺪﻴﻌﺒﻟﺍ ﺕﺎﻳﻭﺎﻤﻴﻜﻟﺍ ﺕﺎﺛﺎﻌﺒﻧﺍ ﻞﻳﺫ ﺪﺘﻤﺗ
+ﻖﻃﺎﻨﻤﻟﺍ ﻲﻓ ﻲﺣ ﻦﺋﺎﻛ ﻱﺃ .ﺎﻬﻠﻤﻛﺄﺑ ﺔﻘﻄﻨﻤﻟﺍ
+ﺭﺎﺒﻐﻟﺍ ﺐﺒﺴﺑ ﻕﻭﺮﺣ ﻦﻣ ﻲﻧﺎﻌﻳ ﻑﻮﺳ ﺔﻓﻮﺸﻜﻤﻟﺍ
+.ﻞﻛﺂﺘﻠﻟ ﺽﺮﻌﺘﺘﺳ ﺀﺎﻴﺷﻷﺍﻭ ،ﻮﺠﻟﺍ ﻲﻓ ﻡﺎﺴﻟﺍ</ToxicFallout.description>
+  
+  <ToxicFallout.descriptionFuture>ﺔﻄﻴﺤﻤﻟﺍ ﻖﻃﺎﻨﻤﻟﺍﻭ [map_definite] ﻲﻄﻐﺘﺳ ﺔﻴﺋﺎﻴﻤﻴﻛ ﺕﺎﺛﺎﻌﺒﻧﺍ ﺔﺑﺎﺤﺳ
+ﻲﻓ ﺕﺎﺗﺎﺒﻨﻟﺍﻭ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻞﺘﻘﺗﻭ ،[gameConditionDuration_duration] ﺓﺪﻤﻟ ﺎﻬﺑ
+.ﺔﻓﻮﺸﻜﻤﻟﺍ ﻖﻃﺎﻨﻤﻟﺍ</ToxicFallout.descriptionFuture>
+  
+  <ToxicFallout.endMessage>.ﻡﺎﺴﻟﺍ ﻝﻮﻄﻬﻟﺍ ﻂﻗﺎﺴﺗ ﻒﻗﻮﺗ</ToxicFallout.endMessage>
+  
+  <ToxicFallout.letterText>.ﺎﻬﻠﻤﻛﺄﺑ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻄﻐﻳ ﺪﻴﻌﺑ ﻲﺋﺎﻴﻤﻴﻛ ﺙﺎﻌﺒﻧﺍ ﺮﻴﺛﺄﺗ
+ﻞﺼﺤﻴﺳ ﺔﻓﻮﺸﻜﻤﻟﺍ ﻖﻃﺎﻨﻤﻟﺍ ﻲﻓ ﻲﺣ ﻦﺋﺎﻛ ﻱﺃ
+،ﻮﺠﻟﺍ ﻲﻓ ﻡﺎﺴﻟﺍ ﺭﺎﺒﻐﻟﺍ ﺐﺒﺴﺑ ﻕﻭﺮﺣ ﻰﻠﻋ
+ﻲﻓ ﻒﻗﻮﺘﺗ ﺪﻗ ﺭﺎﻄﻣﻷﺍ .ﺔﻋﺮﺴﺑ ﺭﻮﻫﺪﺘﺘﺳ ﺀﺎﻴﺷﻷﺍﻭ
+.ﺔﻠﻳﻮﻃ ﺓﺮﺘﻓ ﺪﻌﺑ ﻭﺃ ﺔﻠﻴﻠﻗ ﻡﺎﻳﺃ ﻥﻮﻀﻏ</ToxicFallout.letterText>
+  
+  
+  <VolcanicWinter.label>ﻲﻧﺎﻛﺮﺒﻟﺍ ﺀﺎﺘﺸﻟﺍ</VolcanicWinter.label>
+  
+  <VolcanicWinter.description>ﺽﺎﻔﺨﻧﺍ ﻲﻓ ﺐﺒﺴﺗ ،ﺪﻴﻌﺑ ﻥﺎﻛﺮﺑ ﻥﺍﺭﻮﺛ ﺙﺪﺣ
+ﻮﻤﻧ ﺆﻃﺎﺒﺗﻭ ﺢﻄﺴﻟﺍ ﻰﻟﺇ ﺔﻠﺻﺍﻮﻟﺍ ﺀﻮﻀﻟﺍ ﺔﻴﻤﻛ
+.ﺕﺎﺗﺎﺒﻨﻟﺍ</VolcanicWinter.description>
+  
+  <VolcanicWinter.descriptionFuture>ﻲﻓ ﻲﻧﺎﻛﺮﺒﻟﺍ ﺩﺎﻣﺮﻟﺍ ﻦﻣ ﺓﺮﻴﺒﻛ ﺕﺎﻴﻤﻛ ﻢﻛﺍﺮﺘﻴﺳ
+ﻡﻼﻈﻟﺍ ﻲﻓ [map_definite] ﺲﻤﻐﻨﻴﺳﻭ ،ﺎﻴﻠﻌﻟﺍ ﻮﺠﻟﺍ ﺕﺎﻘﺒﻃ
+ﺭﺍﺮﺿﻷ ﺔﻴﻠﺤﻤﻟﺍ ﺔﺌﻴﺒﻟﺍ ﺽﺮﻌﺘﺘﺳ .[gameConditionDuration_duration] ﺓﺪﻤﻟ ﻲﺋﺰﺠﻟﺍ
+.ﺔﻤﻴﺴﺟ</VolcanicWinter.descriptionFuture>
+  
+  <VolcanicWinter.endMessage>.ﻞﻔﺳﻷﺍ ﻰﻟﺇ ﻞﻘﺘﻧﺍ ﻲﻧﺎﻛﺮﺒﻟﺍ ﺩﺎﻣﺮﻟﺍ ﻢﻈﻌﻣ</VolcanicWinter.endMessage>
+  
+  <VolcanicWinter.letterText>،ﺕﺎﺑﺎﻏ ﻖﺋﺍﺮﺣ ﻭﺃ ﺪﻴﻌﺑ ﻥﺎﻛﺮﺑ ﻥﺍﺭﻮﺛ ﺐﺒﺴﺑ
+ﻑﻼﻐﻟﺍ ﺖﻠﺧﺩ ﺩﺎﻣﺮﻟﺍ ﻦﻣ ﺔﺒﻌﻜﻤﻟﺍ ﺭﺎﺘﻣﻷﺍ ﻦﻴﻳﻼﻣ
+ﺀﻮﻀﻟﺍ ﺺﻘﻧﻭ ﺓﺩﻭﺮﺑ ﻊﻗﻮﺘﻳ .ﺲﻤﺸﻟﺍ ﺔﺒﺠﺤﻣ ﻱﻮﺠﻟﺍ
+ﻲﻓ ﻲﻬﺘﻨﻳ ﺪﻗ ﻲﻧﺎﻛﺮﺒﻟﺍ ﺀﺎﺘﺸﻟﺍ .ﺕﺎﺗﺎﺒﻨﻠﻟ ﻲﺴﻤﺸﻟﺍ
+.ﺮﻬﺷﺃ ﺓﺪﻌﻟ ﺪﺘﻤﻳ ﻭﺃ ﻊﻴﺑﺎﺳﺃ ﺔﻌﻀﺑ ﻥﻮﻀﻏ</VolcanicWinter.letterText>
+  
+</LanguageData>

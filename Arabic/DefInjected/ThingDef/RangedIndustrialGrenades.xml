@@ -1,0 +1,36 @@
+<LanguageData>
+  
+  
+  <Proj_GrenadeEMP.label>ﻑﻮﺗﻮﻟﻮﻣ ﻞﻴﺘﻛﻮﻛ</Proj_GrenadeEMP.label>
+  
+  
+  <Proj_GrenadeFrag.label>ﺔﻴﻔﺋﺍﺬﻗ ﺔﻠﺒﻨﻗ ﻲﻘﻠﻣ</Proj_GrenadeFrag.label>
+  
+  
+  <Proj_GrenadeMolotov.label>ﻑﻮﺗﻮﻟﻮﻣ ﺔﻠﺒﻨﻗ ﺀﺎﻘﻟﺇ</Proj_GrenadeMolotov.label>
+  
+  
+  <Weapon_GrenadeEMP.label>ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻜﻟﺍ ﻞﺑﺎﻨﻘﻟﺍ</Weapon_GrenadeEMP.label>
+  
+  <Weapon_GrenadeEMP.description>ﺔﻴﻈﺸﻟﺍ ﻞﺑﺎﻨﻘﻟﺍ</Weapon_GrenadeEMP.description>
+  
+  <Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>ﻑﻮﺗﻮﻟﻮﻣ ﺕﻼﻴﺘﻛﻮﻛ</Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>
+  
+  
+  <Weapon_GrenadeFrag.label>ﺎﻳﺎﻈﺷ ﺔﻠﺒﻨﻗ</Weapon_GrenadeFrag.label>
+  
+  <Weapon_GrenadeFrag.description>(ﻱﺇ-ﻡﺇ-ﻡﺇ) ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﺘﻜﻟﻹﺍ ﺔﻠﺒﻨﻘﻟﺍ</Weapon_GrenadeFrag.description>
+  
+  <Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>.ﺔﻤﻳﺪﻘﻟﺍ ﺓﺪﻴﺟ ﺎﻳﺎﻈﺷ ﺔﻠﺒﻨﻗ</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
+  
+  
+  <Weapon_GrenadeMolotov.label>ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﺘﻜﻟﻹﺍ ﻞﻴﻄﻌﺗ ﺔﻠﺒﻨﻗ ﺀﺎﻘﻟﺇ</Weapon_GrenadeMolotov.label>
+  
+  <Weapon_GrenadeMolotov.description>.ﺔﻴﻧﻭﺮﺘﻜﻟﻹﺍ ﺓﺰﻬﺟﻸﻟ ﺭﺮﺿ ﻲﻓ ﺐﺒﺴﺘﺗ ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻛ ﻞﺑﺎﻨﻗ</Weapon_GrenadeMolotov.description>
+  
+  <Weapon_GrenadeMolotov.verbs.throw_molotov.label>ﻝﺎﻌﺘﺷﻼﻟ ﻞﺑﺎﻗ ﻞﺋﺎﺳ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﺔﻴﺟﺎﺟﺯ ﺔﺟﺎﺟﺯ
+.ﻖﻨﻌﻟﺍ ﻲﻓ ﺵﺎﻤﻗ ﺔﻌﻄﻗﻭ
+
+.ﻢﻬﻨﻣ ﺱﻭﺆﻴﻤﻟﺍ ﻦﻴﻠﺗﺎﻘﻤﻟﺍﻭ ﺔﺠﻄﻠﺒﻠﻟ ﻞﻀﻔﻣ ﺡﻼﺳ</Weapon_GrenadeMolotov.verbs.throw_molotov.label>
+  
+</LanguageData>

@@ -1,0 +1,34 @@
+<LanguageData>
+  
+  
+  <Make_Kibble.label>ﺐﻛﺮﻤﻟﺍ ﻒﻠﻌﻟﺍ ﺩﺍﺪﻋﺇ</Make_Kibble.label>
+  
+  <Make_Kibble.description>ﻡﺎﺨﻟﺍ ﻢﺤﻠﻟﺍ ﻦﻣ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺔﺒﻛﺮﻣ ﻑﻼﻋﺃ ﺩﺍﺪﻋﺇ
+.ﺕﺎﺗﺎﺒﻨﻟﺍﻭ</Make_Kibble.description>
+  
+  <Make_Kibble.ingredients.0.filter.customSummary>ﻦﻴﺗﻭﺮﺒﻟﺍ</Make_Kibble.ingredients.0.filter.customSummary>
+  
+  <Make_Kibble.ingredients.1.filter.customSummary>ﺕﺍﻭﺍﺮﻀﺨﻟﺍ</Make_Kibble.ingredients.1.filter.customSummary>
+  
+  <Make_Kibble.jobString>ﺔﻄﻠﺘﺨﻣ ﻑﻼﻋﺃ ﺮﻴﻀﺤﺗ</Make_Kibble.jobString>
+  
+  
+  <Make_Pemmican.label>ﻥﺎﻜﻴﻤﻴﺑ ﺩﺍﺪﻋﺇ</Make_Pemmican.label>
+  
+  <Make_Pemmican.description>.ﺔﻴﺗﺎﺒﻨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍﻭ ﻥﻮﻫﺪﻟﺍ ﻊﻣ ﻪﺟﺰﻣﻭ ﻢﺤﻠﻟﺍ ﻒﻴﻔﺠﺗ
+ﺔﻠﺑﺎﻗ ﺎﻬﻨﻜﻟ ،ﺔﻛﻮﻜﺸﻣ ﻥﻮﻜﺗ ﺪﻗ ﺔﻴﺋﺍﺬﻐﻟﺍ ﺔﻤﻴﻘﻟﺍ
+.ﺓﺭﺍﺮﺤﻟﺍ ﻲﻓ ﻰﺘﺣ ﻡﺎﻋ ﺓﺪﻤﻟ ﻦﻳﺰﺨﺘﻠﻟ</Make_Pemmican.description>
+  
+  <Make_Pemmican.jobString>ﻥﺎﻜﻴﻤﻴﺑ ﺮﻀﺤﻳ</Make_Pemmican.jobString>
+  
+  
+  <Make_PemmicanBulk.label>.ﺕﺍﺪﺣﻭ 4 ﺭﺍﺪﻘﻤﺑ ﻥﺎﻜﻴﻤﻴﺑ ﺮﻴﻀﺤﺗ</Make_PemmicanBulk.label>
+  
+  <Make_PemmicanBulk.description>.ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣﻭ ﻥﻮﻫﺪﻟﺍ ﻊﻣ ﻪﻄﻠﺧﺍﻭ ﻢﺤﻠﻟﺍ ﻒﻔﺟ
+ﻦﻜﻤﻳ ﻪﻨﻜﻟ ،ﻪﻴﻓ ﺎﻛﻮﻜﺸﻣ ﻥﻮﻜﻳ ﺪﻗ ﻢﻌﻄﻟﺍ
+ﻲﻓ ﻰﺘﺣ ﺔﻠﻣﺎﻛ ﺔﻨﺳ ﺓﺪﻤﻟ ﻆﻔﺤﻳ ﻥﺃ
+.ﺓﺭﺍﺮﺤﻟﺍ</Make_PemmicanBulk.description>
+  
+  <Make_PemmicanBulk.jobString>.ﻥﺎﻜﻤﻴﺑ ﺔﺒﺟﻭ ﺮﻀﺤﻳ</Make_PemmicanBulk.jobString>
+  
+</LanguageData>

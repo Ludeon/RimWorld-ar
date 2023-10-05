@@ -1,0 +1,163 @@
+<LanguageData>
+  
+  
+  
+  <Affair.stages.affair.label>ﺓﺮﻣﺍﺆﻤﻟﺍ</Affair.stages.affair.label>
+  <Affair.stages.affair.labelSocial>ﻰﻟﺇ ﺮﺧﻵﺍ ﺲﻨﺠﻟﺍ ﺮﻴﻐﺗ</Affair.stages.affair.labelSocial>
+  
+  
+  
+  <AnnoyingVoice.stages.annoying_voice.label>ﺞﻋﺰﻣ ﺕﻮﺻ</AnnoyingVoice.stages.annoying_voice.label>
+  
+  
+  
+  <AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>ﻝﺎﺒﻴﻧﺎﻛ</AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>
+  <AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.labelSocial>{OTHERPAWN_gender ?ﺮﺸﺒﻟﺍ ﻢﺤﻟ ﻞﻛﺄﻳ {ﻲﻫ : ﻮﻫ
+ﺀﻲﻨﻟﺍ.</AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.labelSocial>
+  
+  
+  
+  <BodyPuristDisgust.stages.body_purist_disgust-0.label>ﺔﻳﻮﻴﺤﻟﺍ ﺔﺌﻴﺒﻟﺍ ﻲﻣﺎﺣ ﻦﻣ ﺯﺍﺰﺌﻤﺷﻻﺍ</BodyPuristDisgust.stages.body_purist_disgust-0.label>
+  
+  <BodyPuristDisgust.stages.body_purist_disgust-1.label>ﻆﻓﺎﺤﻤﻟﺍ ﻲﺟﻮﻟﻮﻴﺑ ﺾﻐﺑ</BodyPuristDisgust.stages.body_purist_disgust-1.label>
+  
+  <BodyPuristDisgust.stages.body_purist_disgust-2.label>ﺓﺎﻴﺤﻠﻟ ﻆﻓﺎﺤﻟﺍ ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﻯﺪﻟ ﺯﺍﺰﺌﻤﺷﻻﺍ</BodyPuristDisgust.stages.body_purist_disgust-2.label>
+  
+  <BodyPuristDisgust.stages.body_purist_disgust-3.label>ﻱﻮﻴﺤﻟﺍ ﻢﻟﺎﻌﻟﺍ ﺔﻴﻫﺍﺮﻛ</BodyPuristDisgust.stages.body_purist_disgust-3.label>
+  
+  <BodyPuristDisgust.stages.body_purist_disgust-4.label>ﻅﺎﻔﺤﻟﺍ ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﻦﻣ ﺯﺍﺰﺌﻤﺷﻻﺍ</BodyPuristDisgust.stages.body_purist_disgust-4.label>
+  
+  
+  
+  <BondedAnimalMaster.stages.s_master.label>{PAWN_gender ? ﺔﺒﺣﺎﺻ : ﺐﺣﺎﺻ} {REASON}</BondedAnimalMaster.stages.s_master.label>
+  
+  <BondedAnimalMaster.stages.s_master.description>.ﻲﺒﻧﺎﺠﺑ ﻞﻀﻔﻤﻟﺍ ﻒﻴﻟﻷﺍ ﻲﻧﺍﻮﻴﺣ ﺩﻮﺟﻮﺑ ﺪﻴﻌﺳ</BondedAnimalMaster.stages.s_master.description>
+  
+  <BondedAnimalMaster.stages.master_of.label>{PAWN_gender ? ﺓﺪﻴﺴﻟﺍ : ﺪﻴﺴﻟﺍ} {REASON}</BondedAnimalMaster.stages.master_of.label>
+  
+  <BondedAnimalMaster.stages.master_of.description>ﺔﻠﻀﻔﻤﻟﺍ ﺔﻔﻴﻟﻷﺍ ﻲﺗﺎﻧﺍﻮﻴﺣ ﻥﻮﻜﻳ ﻥﺃ ﻞﻴﻤﺠﻟﺍ ﻦﻣ
+.ﻲﺒﻧﺎﺠﺑ</BondedAnimalMaster.stages.master_of.description>
+  
+  
+  
+  <ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>ﺔﻨﻔﻌﺘﻣ / ﻦﻔﻌﺘﻣ</ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>
+  <ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.labelSocial>{OTHERPAWN_gender ? ﺔﻤﺋﺎﺻ : ﻢﺋﺎﺻ}</ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.labelSocial>
+  
+  
+  
+  <CreepyBreathing.stages.creepy_breathing.label>ﺐﻋﺮﻣ ﻞﻜﺸﺑ ﺲﻔﻨﺘﻳ</CreepyBreathing.stages.creepy_breathing.label>
+  
+  
+  
+  <Disfigured.stages.disfigured.label>(ﺓ)ﻩﻮﺸﻣ</Disfigured.stages.disfigured.label>
+  <Disfigured.stages.disfigured.labelSocial>OTHERPAWN_gender ? asexual} ﻮﻫ ﺮﺧﻵﺍ ﺺﺨﺸﻟﺍ ﺪﻬﺸﻣ
+.{ﻩﻮﺸﻣ :</Disfigured.stages.disfigured.labelSocial>
+  
+  
+  
+  <Drunk.stages.drunk.label>ﺓ/ﻥﺍﺮﻜﺳ</Drunk.stages.drunk.label>
+  <Drunk.stages.drunk.labelSocial>{OTHERPAWN_gender ? ﺓﺭﻮﻤﺨﻣ : ﺭﻮﻤﺨﻣ}</Drunk.stages.drunk.labelSocial>
+  
+  
+  
+  <ExecutedPrisoner.stages.executed_prisoner.label>.ﺮﻴﺳﻷﺍ ﻡﺍﺪﻋﺈﺑ ﺖﻤﻗ</ExecutedPrisoner.stages.executed_prisoner.label>
+  <ExecutedPrisoner.stages.executed_prisoner.labelSocial>{OTHERPAWN_gender ? ﺖﻣﺎﻗ : ﺮﻴﺳﻷﺍ ﻡﺍﺪﻋﺈﺑ ﻡﺎﻗ
+ﺮﻴﺳﻷﺍ ﻡﺍﺪﻋﺈﺑ}</ExecutedPrisoner.stages.executed_prisoner.labelSocial>
+  
+  
+  
+  <HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>(ﺓ)ﻝﻮﺴﻜﻟﺍ</HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>
+  <HardWorkerVsLazy.stages.hard_worker_vs_lazy.labelSocial>{OTHERPAWN_gender ? ﺔﻟﻮﺴﻛ : ﻝﻮﺴﻛ}</HardWorkerVsLazy.stages.hard_worker_vs_lazy.labelSocial>
+  
+  
+  
+  <HoldingMePrisoner.stages.holding_me_prisoner.label>ﺮﻴﺳﺄﻛ ﻲﻧﺰﺠﺘﺤﻳ</HoldingMePrisoner.stages.holding_me_prisoner.label>
+  
+  
+  
+  <Incestuous.stages.incestuous.label>(ﺓ)ﻱﻮﻣﺪﻟﺍ (ﺓ)ﻂﻠﺨﻤﻟﺍ</Incestuous.stages.incestuous.label>
+  <Incestuous.stages.incestuous.labelSocial>{OTHERPAWN_gender ? ﺎﻜﻴﻨﻠﻴﺘﻴﺴﻴﻤﺳﻮﻓﻭﺮﻛ : ﻞﻴﺘﻴﺴﻴﻤﺳﻮﻓﻭﺮﻛ}</Incestuous.stages.incestuous.labelSocial>
+  
+  
+  
+  <KilledColonist.stages.killed_colonist.label>ﺔﻨﻃﻮﺘﺴﻣ ﺖﻠﺘﻗ / ﺎﻨﻃﻮﺘﺴﻣ ﺖﻠﺘﻗ</KilledColonist.stages.killed_colonist.label>
+  <KilledColonist.stages.killed_colonist.labelSocial>.ﻦﻃﻮﺘﺴﻣ {ﺖﻠﺘﻘﺑ : ﻞﺘﻘﺑ ? OTHERPAWN_gender} ﻡﺎﻗ</KilledColonist.stages.killed_colonist.labelSocial>
+  
+  
+  
+  <KilledColonyAnimal.stages.killed_colony_animal.label>ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻥﺍﻮﻴﺣ ﻞﺘﻘﺑ ﻡﺎﻗ</KilledColonyAnimal.stages.killed_colony_animal.label>
+  <KilledColonyAnimal.stages.killed_colony_animal.labelSocial>ﻥﺍﻮﻴﺣ {ﺖﻠﺘﻘﺑ : ﻞﺘﻘﺑ ? OTHERPAWN_gender} ﻡﺎﻗ
+.ﺔﻨﻃﻮﺘﺴﻤﻟﺍ</KilledColonyAnimal.stages.killed_colony_animal.labelSocial>
+  
+  
+  
+  <Man.stages.man.label>ﻞﺟﺭ</Man.stages.man.label>
+  
+  
+  
+  <NotBondedAnimalMaster.stages.not_s_master.label>{REASON} {ﺓﺪﻴﺳ : ﺪﻴﺳ ? gender_1} ﻻ</NotBondedAnimalMaster.stages.not_s_master.label>
+  
+  <NotBondedAnimalMaster.stages.not_s_master.description>.ﻞﻀﻔﻤﻟﺍ ﻒﻴﻟﻷﺍ ﻲﻧﺍﻮﻴﺣ ﻊﻣ ﻥﻮﻛﺃ ﻥﺃ ﺩﻭﺃ</NotBondedAnimalMaster.stages.not_s_master.description>
+  
+  <NotBondedAnimalMaster.stages.not_master_of.label>{REASON} {ﺓﺪﻴﺴﻟﺍ : ﺪﻴﺴﻟﺍ ? gender_1} ﺲﻴﻟ</NotBondedAnimalMaster.stages.not_master_of.label>
+  
+  <NotBondedAnimalMaster.stages.not_master_of.description>.ﺔﻠﻀﻔﻤﻟﺍ ﻲﺘﻔﻴﻟﺃ ﺕﺎﻧﺍﻮﻴﺣ ﻊﻣ ﻥﻮﻛﺃ ﻥﺃ ﺪﻳﺭﺃ</NotBondedAnimalMaster.stages.not_master_of.description>
+  
+  
+  
+  <OpinionOfMyLover.stages.opinion_of_my.label>({0}) {1} ﻲﻓ ﻲﻳﺃﺭ</OpinionOfMyLover.stages.opinion_of_my.label>
+  
+  <OpinionOfMyLover.stages.opinion_of_my.description>.ﺮﺧﻵﺍ ﻲﻔﺼﻧ ﺐﻧﺎﺠﺑ ﺮﻌﺷﺃ ﻒﻴﻛ ﻂﺒﻀﻟﺎﺑ ﺍﺬﻫ</OpinionOfMyLover.stages.opinion_of_my.description>
+  
+  
+  
+  <Pretty.stages.physically_appealing.label>ﻞﻴﻤﺟ</Pretty.stages.physically_appealing.label>
+  <Pretty.stages.physically_appealing.labelSocial>{OTHERPAWN_gender ? ﺔﻠﻴﻤﺟ : ﻞﻴﻤﺟ}</Pretty.stages.physically_appealing.labelSocial>
+  
+  <Pretty.stages.physically_stunning.label>ﺍﺪﺟ (ﺓ)ﻞﻴﻤﺟ ﺔﻠﻫﺬﻣ</Pretty.stages.physically_stunning.label>
+  <Pretty.stages.physically_stunning.labelSocial>{ﺎﻔﻴﺳﺍﺮﻛ : ﻒﻴﺳﺍﺮﻛ ? OTHERPAWN_gender} ﻕﺪﺼﻳ ﻻ</Pretty.stages.physically_stunning.labelSocial>
+  
+  
+  
+  <SoldPrisoner.stages.sold_prisoner_to_slavery.label>ﺮﻴﺳﻷﺍ ﻉﺎﺑ</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
+  <SoldPrisoner.stages.sold_prisoner_to_slavery.labelSocial>{OTHERPAWN_gender ? ﻦﻴﺠﺴﻟﺍ {ﺖﻋﺎﺑ : ﻉﺎﺑ</SoldPrisoner.stages.sold_prisoner_to_slavery.labelSocial>
+  
+  
+  
+  <TeetotalerVsAddict.stages.teetotaler_vs_addict.label>"ﺀﺎﻴﻤﻴﻜﻟﺍ" ﻰﻠﻋ ﺪﻤﺘﻌﻳ</TeetotalerVsAddict.stages.teetotaler_vs_addict.label>
+  
+  
+  
+  <TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>"ﺀﺎﻴﻤﻴﻜﻟﺍ" ـﺑ ﻢﺘﻬﻳ</TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>
+  
+  
+  
+  <TranshumanistAppreciation.stages.body_modder_appreciation-0.label>ﺔﻳﺮﺸﺒﻟﺍ ﺔﻟﻮﺤﺘﻤﻟﺍ ﻡﺍﺮﺘﺣﺍ</TranshumanistAppreciation.stages.body_modder_appreciation-0.label>
+  
+  <TranshumanistAppreciation.stages.body_modder_appreciation-1.label>ﻱﺮﺸﺒﻟﺍ ﺯﻭﺎﺠﺘﻤﻟﺍ ﻡﺍﺮﺘﺣﺍ</TranshumanistAppreciation.stages.body_modder_appreciation-1.label>
+  
+  <TranshumanistAppreciation.stages.body_modder_appreciation-2.label>ﻱﺮﺸﺒﻟﺍ ﻝﻮﺤﺘﻤﻟﺍ ﻰﻟﺍ ﺔﻴﺤﺗ</TranshumanistAppreciation.stages.body_modder_appreciation-2.label>
+  
+  <TranshumanistAppreciation.stages.body_modder_appreciation-3.label>ﺎﻴﻨﻴﺟ ﻦﻴﻟﻮﺤﺘﻤﻟﺍ ﻡﺍﺮﺘﺣﺍ</TranshumanistAppreciation.stages.body_modder_appreciation-3.label>
+  
+  <TranshumanistAppreciation.stages.body_modder_appreciation-4.label>ﻱﺮﺸﺑﺮﻴﻐﻟﺍ ﻡﺍﺮﺘﺣﺍ</TranshumanistAppreciation.stages.body_modder_appreciation-4.label>
+  
+  
+  
+  <Ugly.stages.physically_unsightly.label>(ﺓ)ﺢﻴﺒﻗ</Ugly.stages.physically_unsightly.label>
+  <Ugly.stages.physically_unsightly.labelSocial>{OTHERPAWN_gender ? ﺔﺤﻴﺒﻗ : ﺢﻴﺒﻗ}</Ugly.stages.physically_unsightly.labelSocial>
+  
+  <Ugly.stages.physically_hideous.label>ﻕﺪﺼﻳ ﻻ ﻞﻜﺸﺑ ﺯﺰﻘﻣ</Ugly.stages.physically_hideous.label>
+  <Ugly.stages.physically_hideous.labelSocial>{ﺔﺤﻴﺒﻗ : ﺢﻴﺒﻗ ? OTHERPAWN_gender} ﻞﻫﺬﻣ</Ugly.stages.physically_hideous.labelSocial>
+  
+  
+  
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>ﻲﻧﺎﺜﻟﺍ ﻒﺼﻨﻟﺍ ﻥﻭﺪﺑ ﻡﺎﻨﻳ</WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>
+  
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>.ﻪﺒﺣﺃ ﺺﺨﺷ ﻊﻣ ﺵﺍﺮﻔﻟﺍ ﺔﻛﺭﺎﺸﻣ ﻲﻓ ﺐﻏﺭﺃ</WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>
+  
+  
+  
+  <Woman.stages.woman.label>ﺓﺃﺮﻣﺍ</Woman.stages.woman.label>
+  
+</LanguageData>

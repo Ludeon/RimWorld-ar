@@ -1,0 +1,29 @@
+<LanguageData>
+  
+  
+  <Ambush.label>ﻦﻴﻤﻛ</Ambush.label>
+  
+  <Ambush.letterLabel>ﻦﻴﻤﻜﻟ ﺔﻠﻓﺎﻘﻟﺍ ﺖﺿﺮﻌﺗ</Ambush.letterLabel>
+  
+  <Ambush.letterText>ﻦﻣ {1} ﻦﻣ ﻦﻴﻤﻛ ﻲﻓ {0} ﻥﺎﻛ
+!{2} ﺔﻋﺎﻤﺟ</Ambush.letterText>
+  
+  
+  <CaravanDemand.label>ﻡﻮﺳﺭ ﻊﻓﺩ ﺐﻠﻄﺘﻣ</CaravanDemand.label>
+  <CaravanDemand.letterLabel>ﻦﻴﻤﻜﻟ ﺔﻠﻓﺎﻘﻟﺍ ﺖﺿﺮﻌﺗ</CaravanDemand.letterLabel>
+  <CaravanDemand.letterText>lookup: {1};} ﻦﻣ ﻦﻴﻤﻛ ﻲﻓ ﻊﻗﻭ {0}
+ﻞﺑﺎﻘﻤﺑ ﻥﻮﺒﻟﺎﻄﻳ !{2} ﺔﻠﻴﺼﻓ ﻦﻣ {Case; 1
+.ﺭﻭﺮﻤﻠﻟ</CaravanDemand.letterText>
+  
+  
+  <CaravanMeeting.label>ﻞﻓﺍﻮﻘﻟﺍ ﺀﺎﻘﻟ</CaravanMeeting.label>
+  
+  
+  <ManhunterAmbush.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻡﻮﺠﻫ</ManhunterAmbush.label>
+  
+  <ManhunterAmbush.letterLabel>.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﻡﻮﺠﻬﻟ ﺔﻠﻓﺎﻘﻟﺍ ﺖﺿﺮﻌﺗ</ManhunterAmbush.letterLabel>
+  
+  <ManhunterAmbush.letterText>ﻦﻴﺑﺎﺼﻤﻟﺍ ﻦﻴﻴﺋﺍﺪﻌﻟﺍ {1} ﻦﻣ ﻡﻮﺠﻬﻟ {0} ﺽﺮﻌﺗ
+!ﺯﻮﻳﺮﺟﻷﺎﺑ</ManhunterAmbush.letterText>
+  
+</LanguageData>

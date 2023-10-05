@@ -1,0 +1,48 @@
+<LanguageData>
+  
+  
+  <BurnedTree.label>ﺔﻗﺮﺘﺤﻣ ﺐﺸﺧ ﺔﻌﻄﻗ</BurnedTree.label>
+  
+  <BurnedTree.description>ﻱﻮﺘﺤﻳﻭ ﻞﻜﺸﻟﺍ ﺊﻴﺳ ﻭﺪﺒﻳ .ﺔﻗﺮﺘﺤﻣ ﺓﺮﺠﺷ ﻉﺬﺟ
+.ﻢﺋﻼﻤﻟﺍ ﺐﺸﺨﻟﺍ ﻦﻣ ﺍﺪﺟ ﻞﻴﻠﻘﻟﺍ ﻰﻠﻋ</BurnedTree.description>
+  
+  
+  <ChoppedStump.label>ﻉﺬﺟ</ChoppedStump.label>
+  
+  <ChoppedStump.description>ﻱﻮﺘﺤﺗ ﺎﻬﻨﻜﻟ ،ﺎﻬﻌﻠﻗ ﻚﻨﻜﻤﻳ .ﺔﻋﻮﻄﻘﻣ ﺓﺮﺠﺷ ﻉﺬﺟ
+ﺍﺫﺇ .ﺐﺳﺎﻨﻤﻟﺍ ﺐﺸﺨﻟﺍ ﻦﻣ ﺍﺪﺟ ﻞﻴﻠﻗ ﻰﻠﻋ
+ﻝﻮﺤﺘﻴﺳ ﻪﻧﺈﻓ ،ﻖﻠﻄﻟﺍ ﺀﺍﻮﻬﻟﺍ ﻲﻓ ﻉﺬﺠﻟﺍ ﺖﻛﺮﺗ
+.ﺔﻨﻴﻌﻣ ﺓﺮﺘﻓ ﺪﻌﺑ ﺪﻴﺴﻓ ﻰﻟﺇ</ChoppedStump.description>
+  
+  
+  <Dye.label>ﺔﻐﺒﺼﻟﺍ</Dye.label>
+  
+  <Dye.description>ﻦﻜﻤﻳ .ﺓﺪﻳﺪﺠﻟﺍ ﻮﻐﻳﺪﻧﻹﺍ ﺕﺎﺒﻧ ﻦﻣ ﺔﺼﻠﺨﺘﺴﻣ ﺔﻐﺒﺻ
+.ﺔﻔﻠﺘﺨﻣ ﻥﺍﻮﻟﺃ ﻊﻨﺼﻟ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ</Dye.description>
+  
+  
+  <Plant_Ambrosia.label>.ﺎﻳﺯﻭﺮﺒﻣﻷﺍ ﻦﻣ ﺔﻣﻮﻛ</Plant_Ambrosia.label>
+  
+  <Plant_Ambrosia.description>ﻩﺬﻫ ،ﺎﻳﺯﻭﺮﺒﻣﻷﺍ ﺭﺎﻤﺛ ﺎﻬﻴﻠﻋ ﻮﻤﻨﺗ ﺓﺭﺩﺎﻧ ﺓﺮﻴﺠﺷ
+ﺕﺍﺮﻴﺛﺄﺗ ﺐﺒﺴﺗﻭ ﺍﺪﺟ ﺬﻳﺬﻟ ﻢﻌﻃ ﺎﻬﻟ ﺔﻬﻛﺎﻔﻟﺍ
+ﻲﻓ ﻂﻘﻓ ﺎﻳﺯﻭﺮﺒﻣﻷﺍ ﺪﺟﻮﺗ .ﺝﺍﺰﻤﻟﺍ ﻦﺴﺤﺗ ﺓﺭﺪﺨﻣ
+ﺎﻬﺗﺭﺪﻨﻟ ﺍﺮﻈﻧ .ﺎﻌﻔﺗﺮﻣ ﺎﻫﺮﻌﺳ ﻞﻌﺠﻳ ﺎﻤﻣ ،ﺔﻳﺮﺒﻟﺍ
+ﻡﺎﻌﻄﺑ ﺎﻨﻤﻴﺗ ﺔﻬﻛﺎﻔﻟﺍ ﻩﺬﻫ ﺖﻴﻤﺳ ،ﺎﻬﺘﻴﺑﺫﺎﺟﻭ ﺎﻬﻟﺎﻤﺟﻭ
+.ﺀﺎﻣﺪﻘﻟﺍ ﻖﻳﺮﻏﻹﺍ ﺔﻬﻟﺁ</Plant_Ambrosia.description>
+  
+  
+  <Plant_Tinctoria.label>ﺍﺮﻴﻓﻮﺠﻳﺪﻧﺇ ﻮﻴﻧ</Plant_Tinctoria.label>
+  
+  <Plant_Tinctoria.description>ﻡﺪﺨﺘﺴﻳ .ﺔﻴﻤﻟﺎﻋ ﺔﻐﺒﺻ ﺯﺮﻔﻳ ﺎﻴﺛﺍﺭﻭ ﻝﺪﻌﻣ ﺕﺎﺒﻧ
+.ﺔﻔﻠﺘﺨﻣ ﻥﺍﻮﻟﺄﺑ ﺲﺑﻼﻤﻟﺍ ﺔﻏﺎﺒﺼﻟ</Plant_Tinctoria.description>
+  
+  
+  <SmashedStump.label>ﺭﻮﺴﻜﻣ ﻉﺬﺟ</SmashedStump.label>
+  
+  <SmashedStump.description>ﻦﻜﻤﻳ .ﺔﻠﻴﻤﺟ ﺮﻴﻏ ﻭﺪﺒﺗ .ﺓﺮﻣﺪﻣ ﺓﺮﺠﺷ ﺎﻳﺎﻘﺑ
+ﺔﻴﻤﻛ ﻪﺑ ﻦﻜﻟﻭ ﻉﺬﺠﻟﺍ ﻉﻼﺘﻗﺍ ﻢﺘﻳ ﻥﺃ
+ﻙﺮﺗ ﺍﺫﺇ .ﺢﻟﺎﺼﻟﺍ ﺐﺸﺨﻟﺍ ﻦﻣ ﺍﺪﺟ ﺔﻠﻴﻠﻗ
+ﻦﻔﻋ ﻰﻟﺇ ﻝﻮﺤﺘﻴﺳ ،ﻖﻠﻄﻟﺍ ﺀﺍﻮﻬﻟﺍ ﻲﻓ ﻉﺬﺠﻟﺍ
+.ﺔﻨﻴﻌﻣ ﺓﺮﺘﻓ ﻝﻼﺧ</SmashedStump.description>
+  
+</LanguageData>

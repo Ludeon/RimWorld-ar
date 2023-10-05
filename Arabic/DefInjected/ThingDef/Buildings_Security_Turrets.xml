@@ -1,0 +1,168 @@
+<LanguageData>
+  
+  
+  <Artillery_Mortar.label>ﻞﺑﺎﻨﻘﻟﺍ ﺔﻓﺫﺎﻗ</Artillery_Mortar.label>
+  
+  <Artillery_Mortar.description>.ﻖﺋﺍﻮﻌﻟﺍ ﺮﺒﻋ ﻒﺋﺍﺬﻘﻟﺍ ﻝﺎﺳﺭﺇ ﻪﻨﻜﻤﻳ .ﻥﻭﺎﻬﻟﺍ ﺡﻼﺳ
+.ﻲﻟﺎﻋ ﻯﺪﻣ ﻦﻜﻟﻭ ﺍﺪﺟ ﺔﻀﻔﺨﻨﻣ ﺔﻗﺩ</Artillery_Mortar.description>
+  
+  <Artillery_Mortar.verbs.Verb_Shoot.label>ﻥﻭﺎﻬﻟﺍ ﻊﻓﺪﻣ</Artillery_Mortar.verbs.Verb_Shoot.label>
+  
+  
+  <Bullet_AutocannonTurret.label>ﺔﻠﻴﻘﺜﻟﺍ ﺔﻴﻌﻓﺪﻤﻟﺍ ﻦﻣ ﺔﻘﻠﻃ</Bullet_AutocannonTurret.label>
+  
+  
+  <Bullet_MiniTurret.label>ﺓﺮﻴﻐﺼﻟﺍ ﺔﻴﻌﻓﺪﻤﻟﺍ ﻦﻣ ﺔﺻﺎﺻﺭ</Bullet_MiniTurret.label>
+  
+  
+  <Bullet_TurretSniper.label>ﻡﻮﻴﻧﺍﺭﻮﻴﻟﺍ ﺔﻔﻳﺬﻗ</Bullet_TurretSniper.label>
+  
+  
+  <Gun_AutocannonTurret.label>ﻞﻴﻘﺛ ﺪﻴﺑﺭﻮﺗ ﻊﻓﺪﻣ</Gun_AutocannonTurret.label>
+  
+  <Gun_AutocannonTurret.description>،ﻲﺋﺎﻘﻠﺘﻟﺍ ﻞﻴﻐﺸﺘﻠﻟ ﺔﻠﺑﺎﻗ ﺮﻴﺒﻛ ﺭﺎﻴﻋ ﺕﺍﺫ ﺔﻴﻗﺪﻨﺑ
+.ﻞﻳﺭﻮﺘﻟﺍ ﻡﺎﻈﻧ ﻰﻠﻋ ﺎﻬﺘﻴﺒﺜﺘﻟ ﺔﻤﻤﺼﻣ</Gun_AutocannonTurret.description>
+  
+  <Gun_AutocannonTurret.verbs.Verb_Shoot.label>ﺔﻠﻴﻘﺛ ﺔﻴﻌﻓﺪﻣ ﺔﻴﻗﺪﻨﺑ</Gun_AutocannonTurret.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_MiniTurret.label>ﺮﻐﺼﻣ ﻲﻨﻴﺑﺭﻮﺗ ﻊﻓﺪﻣ</Gun_MiniTurret.label>
+  
+  <Gun_MiniTurret.description>ﺔﺼﻨﻣ ﻰﻠﻋ ﻪﺘﻴﺒﺜﺘﻟ ﻢﻤﺼﻣ ﻒﻴﻔﺧ ﻲﻟﺁ ﻊﻓﺪﻣ
+.ﻞﻳﺭﻮﺗ</Gun_MiniTurret.description>
+  
+  <Gun_MiniTurret.verbs.Verb_Shoot.label>ﺮﻴﻐﺻ ﻼﻳﺭﻮﺗ ﻊﻓﺪﻣ</Gun_MiniTurret.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_RocketswarmLauncher.label>ﺔﻴﺋﺍﻮﺸﻌﻟﺍ ﺔﻠﺘﻜﻟﺍ</Gun_RocketswarmLauncher.label>
+  
+  <Gun_RocketswarmLauncher.description>ﺦﻳﺭﺍﻮﺻ ﻊﻓﺍﺪﻣ ﻰﻠﻋ ﺮﺑﺎﻌﻟﺍ ﻙﻮﻠﺒﻟﺍ ﺐﻴﻛﺮﺗ ﻢﺘﻳ
+.ﺪﻌﺑ ﻦﻋ</Gun_RocketswarmLauncher.description>
+  
+  <Gun_RocketswarmLauncher.verbs.Verb_Shoot.label>ﻲﻋﺎﻤﺟ ﻒﺣﺯ</Gun_RocketswarmLauncher.verbs.Verb_Shoot.label>
+  
+  
+  <Gun_TurretFoam.label>ﺓﻮﻏﺭ ﺵﺎﺷﺭ</Gun_TurretFoam.label>
+  
+  <Gun_TurretFoam.description>ﺖﺒﺜﻳ ،ﻲﻟﺎﻋ ﻂﻐﺿ ﺀﺎﻔﻃﺇ ﺓﻮﻏﺭ ﺥﺎﺨﺑ ﺯﺎﻬﺟ
+.ﻲﻋﺎﻓﺪﻟﺍ ﺝﺮﺒﻟﺍ ﻰﻠﻋ</Gun_TurretFoam.description>
+  
+  <Gun_TurretFoam.verbs.Verb_ArcSprayProjectile.label>ﺓﻮﻏﺮﻟﺍ ﺵﺎﺷﺭ</Gun_TurretFoam.verbs.Verb_ArcSprayProjectile.label>
+  
+  
+  <Gun_TurretSniper.label>ﻲﻣﻮﺠﻬﻟﺍ ﻊﻓﺪﻤﻟﺍ ﻊﻓﺪﻣ</Gun_TurretSniper.label>
+  
+  <Gun_TurretSniper.description>ﻰﻠﻋ ﺖﻴﺒﺜﺘﻠﻟ ﺔﻤﻤﺼﻣ ،ﺔﻴﺋﺎﻘﻠﺗ ﻒﺼﻧ ﺺﻨﻗ ﺔﻴﻗﺪﻨﺑ
+.ﻲﺋﺎﻘﻠﺘﻟﺍ ﺔﻧﺎﺳﺮﺘﻟﺍ ﺯﺎﻬﺟ</Gun_TurretSniper.description>
+  
+  <Gun_TurretSniper.verbs.Verb_Shoot.label>ﺺﻨﻗ ﺡﻼﺳ</Gun_TurretSniper.verbs.Verb_Shoot.label>
+  
+  
+  <Proj_Foam.label>ﺔﻌﻘﺑ</Proj_Foam.label>
+  
+  
+  <Proj_Rocket.label>ﺥﻭﺭﺎﺻ</Proj_Rocket.label>
+  
+  
+  <Turret_Autocannon.label>ﺔﻠﻴﻘﺛ ﺪﻴﺑﺭﻮﺗ</Turret_Autocannon.label>
+  
+  <Turret_Autocannon.description>ﺮﻴﺒﻜﻟﺍ ﺭﺎﻴﻌﻟﺍ .ﺔﻠﻴﻘﺛ ﺪﻌﺑ ﻦﻋ ﺔﺷﺎﺷﺭ ﻼﻳﺭﻮﺗ
+،ﺓﺪﻴﻌﺑ ﺕﺎﻓﺎﺴﻣ ﻰﻠﻋ ﻑﺍﺪﻫﻸﻟ ﺔﻗﻮﺛﻮﻤﻟﺍ ﺔﺑﺎﺻﻹﺎﺑ ﺢﻤﺴﻳ
+ﻻ .ﻊﻓﺪﻤﻠﻟ ﻊﻳﺮﺳ ﻞﻛﺂﺗ ﻰﻟﺇ ﻱﺩﺆﻳ ﻪﻨﻜﻟﻭ
+ﺪﻨﻋ ﺮﺠﻔﻨﺗ ﺪﻗ .ﺏﺮﻗ ﻦﻋ ﺭﺎﻨﻟﺍ ﻖﻠﻄﺗ
+.ﺭﺮﻀﺘﻟﺍ</Turret_Autocannon.description>
+  
+  <Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>ﺔﻴﻗﺪﻨﺒﻟﺍ ﺔﻧﺎﺘﻣ</Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>
+  
+  <Turret_Autocannon.comps.CompRefuelable.fuelLabel>ﺔﻴﻗﺪﻨﺒﻟﺍ ﻝﺍﺪﺒﺘﺳﺍ ﻞﺒﻗ ﺕﺎﻘﻠﻄﻟﺍ ﺩﺪﻋ</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
+  
+  <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>ﺔﻴﻗﺪﻨﺒﻟﺍ ﻝﺍﺪﺒﺘﺳﺍ ﺏﻮﻠﻄﻣ</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
+  
+  
+  <Turret_FoamTurret.label>ﻖﺋﺍﺮﺤﻟﺍ ﻦﻣ ﺔﻴﻋﺎﻓﺪﻟﺍ ﺔﻴﻌﻓﺪﻤﻟﺍ</Turret_FoamTurret.label>
+  
+  <Turret_FoamTurret.description>ﺎﻳﻭﺪﻳ ﻞﻌﻔﺗ .ﻖﺋﺍﺮﺤﻟﺍ ﺔﺤﻓﺎﻜﻤﻟ ﻞﻴﻌﻔﺘﻠﻟ ﺔﻠﺑﺎﻗ ﺔﻴﻌﻓﺪﻣ
+ﻦﻣ ﺔﻠﺋﺎﻫ ﺔﻴﻤﻛ ﺵﺮﺑ ﺎﻴﺋﺎﻘﻠﺗ ﻡﻮﻘﺗ ﻢﺛ
+ﻲﻓ ﻥﺍﺮﻴﻨﻠﻟ ﺭﺪﺼﻣ ﻱﺃ ﻰﻠﻋ ﺔﻴﺋﺎﻔﻃﺇ ﺓﻮﻏﺭ
+.ﺎﻬﻗﺎﻄﻧ</Turret_FoamTurret.description>
+  
+  <Turret_FoamTurret.comps.CompRefuelable.fuelGizmoLabel>ﺓﻮﻏﺭ</Turret_FoamTurret.comps.CompRefuelable.fuelGizmoLabel>
+  
+  <Turret_FoamTurret.comps.CompRefuelable.fuelLabel>ﺓﻮﻏﺭ</Turret_FoamTurret.comps.CompRefuelable.fuelLabel>
+  
+  <Turret_FoamTurret.comps.CompRefuelable.outOfFuelMessage>ﺓﻮﻏﺮﻟﺍ ﺖﻬﺘﻧﺍ</Turret_FoamTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <Turret_FoamTurret.comps.CompActivable_FoamTurret.jobString>ﻞﻴﻌﻔﺗ</Turret_FoamTurret.comps.CompActivable_FoamTurret.jobString>
+  
+  <Turret_FoamTurret.comps.CompActivable_FoamTurret.onCooldownString>ﻂﻐﻀﻟﺍ ﺩﺍﺩﺰﻳ</Turret_FoamTurret.comps.CompActivable_FoamTurret.onCooldownString>
+  
+  
+  <Turret_MiniTurret.label>ﺓﺮﻴﻐﺻ ﺔﻴﻌﻓﺪﻣ</Turret_MiniTurret.label>
+  
+  <Turret_MiniTurret.description>ﻊﻓﺪﻤﻟﺍ ﺡﻼﺻﺇ ﺝﺎﺘﺤﻳ .ﺮﻴﻐﺻ ﻝﻮﻤﺤﻣ ﻲﻟﺁ ﻊﻓﺪﻣ
+.ﻒﻠﺘﻟﺍ ﺪﻨﻋ ﺮﻴﺠﻔﺘﻠﻟ ﻞﺑﺎﻗ .ﺐﻠﺼﻟﺍ ﻰﻟﺇ ﻞﻛﺂﺘﻤﻟﺍ
+ﻢﻋﺪﻳ ﻻﻭ ﺍﺭﻮﻄﺘﻣ ﺲﻴﻟ ﻊﻓﺪﻤﻠﻟ ﻲﻋﺎﻨﻄﺻﻻﺍ ﺀﺎﻛﺬﻟﺍ
+.ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﻥﺍﺮﻴﻨﻟﺍ ﺭﺬﺣﺎﻓ ،ﺮﺷﺎﺒﻤﻟﺍ ﻢﻜﺤﺘﻟﺍ</Turret_MiniTurret.description>
+  
+  <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>ﺓﺭﻮﺳﺎﻤﻟﺍ ﺓﻮﻗ</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
+  
+  <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>ﻡﻭﺭﺎﺒﻟﺍ ﻝﺍﺪﺒﺘﺳﺍ ﻞﺒﻗ ﺕﺎﻘﻠﻄﻟﺍ ﺩﺪﻋ</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
+  
+  <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>ﺓﺭﻮﺳﺎﻤﻟﺍ ﻝﺍﺪﺒﺘﺳﺍ ﺏﻮﻠﻄﻣ</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  
+  <Turret_Mortar.label>ﺦﻳﺭﺍﻮﺻ ﻊﻓﺪﻣ</Turret_Mortar.label>
+  
+  <Turret_Mortar.description>.ﻉﺍﻮﻧﻷﺍ ﻊﻴﻤﺟ ﻦﻣ ﻒﺋﺍﺬﻗ ﻖﻠﻄﻳ ﻥﻭﺎﻫ ﻊﻓﺪﻣ
+ﺔﻀﻔﺨﻨﻤﻟﺍ ﺔﻗﺪﻟﺍ ﺐﺒﺴﺑ .ﻕﻼﻃﻺﻟ ﺮﺑﺪﻣ ﻰﻟﺇ ﺝﺎﺘﺤﻳ
+، ﺔﺤﻠﺳﻷﺍ ﻩﺬﻫ ﻞﺜﻣ ﺎﻬﺑ ﺰﻴﻤﺘﺗ ﻲﺘﻟﺍ
+ﺓﺮﻴﺒﻜﻟﺍ ﺔﻨﺼﺤﻤﻟﺍ ﺪﻋﺍﻮﻘﻟﺍ ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻥﻮﻜﻴﺳ
+ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻦﻣ ﺮﻴﺜﻜﺑ ﺔﻴﻟﺎﻌﻓ ﺮﺜﻛﺃ
+.ﺡﻮﺘﻔﻤﻟﺍ ﻥﺍﺪﻴﻤﻟﺍ ﻲﻓ ﺔﻴﺤﻟﺍ ﺕﺍﻮﻘﻟﺍ ﺕﺎﻌﻤﺠﺗ</Turret_Mortar.description>
+  
+  <Turret_Mortar.comps.CompRefuelable.fuelGizmoLabel>ﺔﻴﻗﺪﻨﺒﻟﺍ ﺔﻧﺎﺘﻣ</Turret_Mortar.comps.CompRefuelable.fuelGizmoLabel>
+  
+  <Turret_Mortar.comps.CompRefuelable.fuelLabel>.ﺔﻴﺴﻔﻨﻟﺍ ﻝﺍﺪﺒﺘﺳﺍ ﻞﺒﻗ ﺕﺎﻘﻠﻄﻟﺍ ﺩﺪﻋ</Turret_Mortar.comps.CompRefuelable.fuelLabel>
+  
+  <Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>.ﺓﺯﺰﻌﻤﻟﺍ ﺓﺭﻮﺳﺎﻤﻟﺍ ﻝﺍﺪﺒﺘﺳﺍ ﺏﻮﻠﻄﻣ</Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>
+  
+  
+  <Turret_RocketswarmLauncher.label>ﺽﺍﺮﻏﻷﺍ ﺩﺪﻌﺘﻤﻟﺍ ﺥﻭﺭﺎﺼﻟﺍ</Turret_RocketswarmLauncher.label>
+  
+  <Turret_RocketswarmLauncher.description>ﻦﻣ ﺓﺪﺣﺍﻭ ﺔﺑﺮﺿ ﻖﻠﻄﻳ ﺉﺭﺎﻃ ﻉﺎﻓﺩ ﺖﻴﺒﺜﺗ
+ﻞﻐﺸﺗ ﺖﻳﺭﻮﺘﻟﺍ .ﺓﺮﻴﺒﻛ ﺔﺣﺎﺴﻣ ﻲﻄﻐﺗ ﺦﻳﺭﺍﻮﺻ ﺓﺪﻋ
+ﻦﻣ ﺓﺮﻴﺒﻛ ﺕﺎﻋﻮﻤﺠﻣ ﺪﺿ ﺍﺪﺟ ﺔﻟﺎﻌﻓﻭ ﺎﻳﻭﺪﻳ
+ﺪﺿ ﺔﻴﻟﺎﻌﻓ ﻞﻗﺃﻭ ﺔﻔﻴﻌﻀﻟﺍ ﻉﻭﺭﺪﻟﺍ ﻱﻭﺫ ﺀﺍﺪﻋﻷﺍ
+ﻊﻀﺑ ﻕﺮﻐﺘﺴﻳ .ﺔﻋﺭﺪﻤﻟﺍ ﻑﺍﺪﻫﻷﺍ ﻦﻣ ﺓﺮﻴﻐﺻ ﺕﺎﻋﻮﻤﺠﻣ
+،ﺔﺌﺒﻌﺘﻟﺍ ﺓﺩﺎﻋﺇ ﺪﻌﺑﻭ ﺕﺎﺑﺮﻀﻟﺍ ﻦﻴﺑ ﺪﻳﺮﺒﺘﻠﻟ ﺕﺎﻋﺎﺳ
+.ﻯﺮﺧﺃ ﺓﺮﻣ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺓﺰﻫﺎﺟ ﺖﻳﺭﻮﺘﻟﺍ ﻥﻮﻜﺗ</Turret_RocketswarmLauncher.description>
+  
+  <Turret_RocketswarmLauncher.comps.CompRefuelable.fuelGizmoLabel>ﺦﻳﺭﺍﻮﺼﻟﺍ</Turret_RocketswarmLauncher.comps.CompRefuelable.fuelGizmoLabel>
+  
+  <Turret_RocketswarmLauncher.comps.CompRefuelable.fuelLabel>ﺦﻳﺭﺍﻮﺼﻟﺍ</Turret_RocketswarmLauncher.comps.CompRefuelable.fuelLabel>
+  
+  <Turret_RocketswarmLauncher.comps.CompRefuelable.outOfFuelMessage>.ﺦﻳﺭﺍﻮﺻ ﺪﺟﻮﻳ ﻻ</Turret_RocketswarmLauncher.comps.CompRefuelable.outOfFuelMessage>
+  
+  <Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.jobString>ﻂﻴﺸﻨﺗ</Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.jobString>
+  
+  <Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.onCooldownString>ﺩﺮﺒﻳ</Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.onCooldownString>
+  
+  
+  <Turret_Sniper.label>ﺔﺻﺎﻨﻘﻟﺍ ﺔﻴﻌﻓﺪﻤﻟﺍ</Turret_Sniper.label>
+  
+  <Turret_Sniper.description>-
+ﻒﺋﺍﺬﻘﻟﺍ .ﺪﻌﺑ ﻦﻋ ﺎﻴﺋﺎﻘﻠﺗ ﺺﻨﻘﻠﻟ ﺺﻨﻗ ﺔﺟﺭﺎﺑ
+ﺔﻠﻴﻘﺜﻟﺍ ﻉﻭﺭﺪﻟﺍ ﻕﺍﺮﺘﺧﺍ ﻰﻠﻋ ﺓﺭﺩﺎﻗ ﺔﻔﻴﺜﻜﻟﺍ ﺔﻴﻧﺍﺭﻭﻷﺍ
+.ﺓﺪﻴﻌﺑ ﺔﻓﺎﺴﻣ ﻦﻣ
+ﻕﻼﻃﺇ ﺔﻗﺩ ﻞﻘﺗ .ﺎﻳﻭﺪﻳ ﺓﺮﻴﺧﺬﻟﺍ ﺔﺌﺒﻌﺗ ﻡﺰﻠﻳ
+ﻚﻠﺗ ﻊﻴﻄﺘﺴﺗ ﻻﻭ ،ﻯﺪﻤﻟﺍ ﺺﻠﻘﺗ ﻊﻣ ﺭﺎﻨﻟﺍ
+.ﻕﻼﻃﻹﺍ ﻰﻠﻋ ﺔﺒﻳﺮﻘﻟﺍ ﻑﺍﺪﻫﻷﺍ ﺏﺮﺿ ﺔﺟﺭﺎﺒﻟﺍ
+.ﻒﻠﺘﻟﺍ ﺪﻨﻋ ﺮﺠﻔﻨﺗ ﺪﻗ</Turret_Sniper.description>
+  
+  <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>ﻡﻮﻴﻧﺍﺭﻮﻴﻟﺍ ﻒﺋﺍﺬﻗ</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
+  
+  <Turret_Sniper.comps.CompRefuelable.fuelLabel>ﺔﺌﺒﻌﺘﻟﺍ ﺓﺩﺎﻋﺇ ﻞﺒﻗ ﺕﺎﻘﻠﻄﻟﺍ ﺩﺪﻋ</Turret_Sniper.comps.CompRefuelable.fuelLabel>
+  
+  <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>ﺕﺎﻘﻠﻃ ﺪﺟﻮﻳ ﻻ</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

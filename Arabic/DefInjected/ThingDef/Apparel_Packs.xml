@@ -1,0 +1,29 @@
+<LanguageData>
+  
+  
+  <Apparel_FirefoampopPack.label>ﻖﻳﺮﺤﻟﺍ ﺓﺄﻔﻄﻣ ﺓﻮﻏﺭ ﻊﻣ ﺔﻳﺭﺎﻨﻟﺍ ﺏﺎﻌﻟﻷﺍ</Apparel_FirefoampopPack.label>
+  
+  <Apparel_FirefoampopPack.description>ﺵﺮﻳ ، ﻂﻴﺸﻨﺘﻟﺍ ﺪﻨﻋ .ﺀﺎﻔﻃﻹﺍ ﻝﺎﺟﺮﻟ ﺓﺍﺩﺃ
+ﻝﻮﺣ ﺔﻌﺳﺍﻭ ﺔﺣﺎﺴﻣ ﻲﻄﻐﺗ ﻖﻳﺮﺤﻠﻟ ﺔﻣﻭﺎﻘﻣ ﺓﻮﻏﺭ
+.ﻞﻣﺎﺤﻟﺍ</Apparel_FirefoampopPack.description>
+  
+  <Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>ﻖﻳﺮﺤﻟﺍ ﺓﻮﻏﺭ ﻊﻣ ﺔﻌﻗﺮﻔﻤﻟﺍ</Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>
+  
+  <Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>ﻪﺴﻔﻧ ﻦﺤﺷ ﺪﻴﻌﻳ</Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>
+  
+  <Apparel_FirefoampopPack.verbs.pop_firefoam.label>ﺀﺎﻔﻃﻹﺍ ﺓﻮﻏﺭ ﻕﻼﻃﺇ</Apparel_FirefoampopPack.verbs.pop_firefoam.label>
+  
+  
+  <Apparel_SmokepopBelt.label>.ﺔﻨﺧﺪﻤﻟﺍ ﺔﻳﺭﺎﻨﻟﺍ ﺏﺎﻌﻟﻷﺍ</Apparel_SmokepopBelt.label>
+  
+  <Apparel_SmokepopBelt.description>ﺪﻨﻋ .ﻥﺎﺧﺩ ﺰﺟﺎﺣ ﺀﺎﺸﻧﻹ ﺔﻳﺭﺎﻨﻟﺍ ﺏﺎﻌﻟﻷﺍ ﺓﺰﻬﺟﺃ
+ﻦﻣ ﺔﻔﻴﺜﻛ ﺔﺑﺎﺤﺳ ﺭﺍﺪﺻﺇ ﻢﺘﻳ ، ﻞﻴﻌﻔﺘﻟﺍ
+.ﻊﻓﺍﺪﻤﻟﺍ ﻪﻴﺟﻮﺗ ﻞﻗﺮﻌﺗﻭ ﻞﻐﺸﻤﻟﺍ ﻲﻔﺨﺗ ﻥﺎﺧﺪﻟﺍ</Apparel_SmokepopBelt.description>
+  
+  <Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>ﺔﻳﺍﺪﺑ</Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>
+  
+  <Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>ﻞﻴﻤﺤﺘﻟﺍ ﺓﺩﺎﻋﺇ ﻦﻴﻌﺘﻳ</Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>
+  
+  <Apparel_SmokepopBelt.verbs.pop_smoke.label>ﻥﺎﺧﺪﻟﺍ ﻕﻼﻃﺇ</Apparel_SmokepopBelt.verbs.pop_smoke.label>
+  
+</LanguageData>

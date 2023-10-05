@@ -1,0 +1,58 @@
+<LanguageData>
+  
+  
+  <Concrete.label>ﻥﻮﺘﻴﺑ</Concrete.label>
+  
+  <Concrete.description>.ﺮﻬﻈﻤﻟﺍ ﺔﺤﻴﺒﻗ .ﻑﺎﻔﺠﻟﺍ ﺔﻌﻳﺮﺳ ﺔﻧﺎﺳﺮﺧ</Concrete.description>
+  
+  
+  <GoldTile.label>ﺔﻴﺒﻫﺫ ﺔﻃﻼﺑ</GoldTile.label>
+  
+  <GoldTile.description>ﻲﺒﻫﺬﻟﺍ ﻁﻼﺒﻟﺎﺑ ﻪﺘﻧﺭﺎﻘﻣ ﻦﻜﻤﻳ ﺀﻲﺷ ﺪﺟﻮﻳ ﻻ
+ﺔﻓﺮﺧﺰﻤﻟﺍ ﺔﺣﺎﺴﻤﻟﺍ ﻲﻓ ﺶﻴﻌﻠﻟ .ﺔﻴﺿﺭﻸﻟ ﻢﺨﻔﻟﺍﻭ ﺮﺧﺎﻔﻟﺍ
+، ﻲﺋﺎﻨﺜﺘﺳﺍ ﻞﻜﺸﺑ ﻞﻴﻤﺠﻟﺍﻭ ﻒﻠﻜﻤﻟﺍ ﻁﻼﺒﻟﺍ ﺍﺬﻬﺑ
+ﻞﻜﺸﺑ ﺓﺮﺒﻜﺘﻣ ﺲﻔﻧ ﻭﺫ ﻥﻮﻜﺗ ﻥﺃ ﺐﺠﻳ
+.ﻲﺋﺎﻨﺜﺘﺳﺍ</GoldTile.description>
+  
+  
+  <MetalTile.label>ﻱﺫﻻﻮﻔﻟﺍ ﻁﻼﺒﻟﺍ</MetalTile.label>
+  
+  <MetalTile.description>ﺔﻨﻴﻔﺳ ﻰﻠﻋ ﺖﻨﻛ ﻮﻟ ﺎﻤﻛ ،ﻱﺫﻻﻮﻔﻟﺍ ﻁﻼﺒﻟﺍ
+ﺔﺌﻓﺎﻜﻣ ﺝﻼﻌﻟﺍ ﻥﺎﻜﻣ ﻲﻄﻌﻳﻭ ﻒﻴﻈﻨﺘﻟﺍ ﻞﻬﺳ .ﺔﻴﺋﺎﻀﻓ
+.ﺔﻓﺎﻈﻨﻠﻟ</MetalTile.description>
+  
+  
+  <PavedTile.label>ﻲﻧﺎﺳﺮﺨﻟﺍ ﻁﻼﺒﻟﺍ</PavedTile.label>
+  
+  <PavedTile.description>، ﺮﻬﻈﻤﻟﺍ ﺓﺪﻳﺎﺤﻣﻭ ﺔﺼﻴﺧﺭ .ﺔﺤﻳﺮﻤﻟﺍ ﺔﻧﺎﺳﺮﺨﻟﺍ ﻁﻼﺑ
+.ﺖﻗﻮﻟﺍ ﺾﻌﺑ ﻕﺮﻐﺘﺴﻳ ﺎﻬﺒﻴﻛﺮﺗ ﻦﻜﻟﻭ</PavedTile.description>
+  
+  
+  <SilverTile.label>ﺔﻴﻀﻔﻟﺍ ﺔﻃﻼﺒﻟﺍ</SilverTile.label>
+  
+  <SilverTile.description>ﺔﻴﻠﺒﻘﺘﺴﻣ ﺪﺣﺍﻭ ﻥﺁ ﻲﻓ ﻭﺪﺒﺗ ﺔﻴﻀﻓ ﺔﻃﻼﺑ
+ﺔﻤﺨﻔﻟﺍ ﻑﺮﻐﻟﺍ ﻦﻴﻳﺰﺘﻟ ﺔﺒﺳﺎﻨﻣ .ﻲﻜﻠﻣ ﻊﺑﺎﻄﺑ ﺔﻠﻴﻤﺟﻭ
+.ﻒﻴﻈﻨﺘﻟﺍ ﺔﻋﺮﺳﻭ ﻥﺎﻜﻤﻟﺍ ﺔﻓﺎﻈﻨﻟ ﺓﺄﻓﺎﻜﻣ ﺮﻓﻮﺗﻭ</SilverTile.description>
+  
+  
+  <SterileTile.label>ﻢﻴﻘﻌﺘﻟﺍ ﻁﻼﺒﻟﺍ</SterileTile.label>
+  
+  <SterileTile.description>ﺕﺎﻴﺿﺭﻷﺍ ﻰﻠﻋ ﻅﺎﻔﺤﻟﺍ ﻲﻓ ﺪﻋﺎﺴﻳ ﻞﻳﺮﺘﺳﻻﺍ ﻁﻼﺒﻟﺍ
+ﻞﻣﺎﻌﻤﻟﺍﻭ ﺕﺎﻴﻔﺸﺘﺴﻤﻟﺍ ﻲﻓ ﺔﺻﺎﺧ ﺪﻴﻔﻣ ﺍﺬﻫﻭ ،ﺔﻔﻴﻈﻧ
+،ﺮﻴﺒﻛ ﺪﻬﺟ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﻁﻼﺒﻟﺍ ﺐﻴﻛﺮﺗ .ﺔﻴﺜﺤﺒﻟﺍ
+.ﻒﻴﻈﻨﺘﻟﺍ ﻞﻬﺳ ﻪﻨﻜﻟ</SterileTile.description>
+  
+  
+  <StrawMatting.label>ﺔﻴﺸﻘﻟﺍ ﺔﻴﻄﻐﺘﻟﺍ</StrawMatting.label>
+  
+  <StrawMatting.description>.ﺵﺍﻮﺣﻷﺍ ﻲﻓ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺶﻘﻟﺍ ﻦﻣ ﺔﻳﻮﻗ ﺔﻴﻄﻐﺗ
+.ﺎﺒﻳﺮﻘﺗ ﺦﻄﻠﺘﺗ ﻻﻭ ﺍﺪﺟ ﺔﺼﻴﺧﺭ</StrawMatting.description>
+  
+  
+  <WoodPlankFloor.label>ﺔﻴﺒﺸﺨﻟﺍ ﺔﻴﺿﺭﻷﺍ</WoodPlankFloor.label>
+  
+  <WoodPlankFloor.description>ﺍﻮﺟ ﻲﻄﻌﺗ ﺔﻴﺒﺸﺧ ﺕﺎﺣﻮﻟ ﻦﻣ ﺔﻋﻮﻨﺼﻤﻟﺍ ﺔﻴﺿﺭﻷﺍ
+ﺎﻬﻨﻜﻟﻭ ﺐﻴﻛﺮﺘﻟﺍ ﺔﻌﻳﺮﺳ .ﻝﺰﻨﻤﻟﺍ ﻲﻓ ﺎﺤﻳﺮﻣﻭ ﺎﺌﻓﺍﺩ
+.ﺔﻟﻮﻬﺴﺑ ﻝﺎﻌﺘﺷﻼﻟ ﺔﻠﺑﺎﻗ</WoodPlankFloor.description>
+  
+</LanguageData>

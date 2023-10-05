@@ -1,0 +1,80 @@
+<LanguageData>
+  
+  
+  <AnimalInsanityMass.label>ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻲﻋﺎﻤﺠﻟﺍ ﻥﺍﻭﺪﻌﻟﺍ</AnimalInsanityMass.label>
+  
+  
+  <AnimalInsanitySingle.label>ﻲﻧﺍﻭﺪﻌﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ</AnimalInsanitySingle.label>
+  
+  
+  <DeepDrillInfestation.label>ﺽﺭﻷﺍ ﻕﺎﻤﻋﺃ ﻦﻣ ﺕﺍﺮﺸﺤﻟﺍ</DeepDrillInfestation.label>
+  
+  <DeepDrillInfestation.letterLabel>!ﺕﺍﺮﺸﺤﻟﺍ :ﺔﻘﻴﻤﻋ ﺓﺎﻧﺎﻌﻣ</DeepDrillInfestation.letterLabel>
+  
+  <DeepDrillInfestation.letterText>ﺕﺭﺎﺛﺃﻭ ﺖﻈﻘﻳﺃ ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺮﻔﺤﻟﺍ ﺔﻟﺁ ﺕﺍﺯﺍﺰﺘﻫﺍ
+.ﺽﺭﻷﺍ ﺖﺤﺗ ﺶﻴﻌﺗ ﻲﺘﻟﺍ ﺔﻗﻼﻤﻌﻟﺍ ﺕﺍﺮﺸﺤﻟﺍ ﺐﻀﻏ
+!ﻰﻠﻋﻷﺍ ﻦﻣ ﻚﻨﻣ ﻥﻮﺑﺮﺘﻘﻳ ﻥﻵﺍ
+.ﺎﻬﻠﻤﻛﺄﺑ ﻚﺗﺪﻋﺎﻗ ﺮﻴﻣﺪﺗ ﻥﻮﻟﻭﺎﺤﻴﺳ :ﺍﺭﺬﺣ ﻦﻛ</DeepDrillInfestation.letterText>
+  
+  
+  <DefoliatorShipPartCrash.label>ﺭﻮﺗﻻﻮﻔﻳﺩ ﺔﻨﻴﻔﺳ</DefoliatorShipPartCrash.label>
+  
+  <DefoliatorShipPartCrash.letterLabel>ﻞﻘﻨﻟﺍ ﺔﻨﻴﻔﺳ</DefoliatorShipPartCrash.letterLabel>
+  
+  <DefoliatorShipPartCrash.letterText>.ﻚﺑﺮﻗ ﻂﻘﺳ ﺔﻤﻳﺪﻗ ﺔﻨﻴﻔﺳ ﻦﻣ ﺮﻴﺒﻛ ﺀﺰﺟ
+ﻮﻤﻧ ﻕﺎﻄﻧ ﻲﻓ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻴﻤﺟ ﻥﺃ ﻆﺣﻻ
+.ﺔﻀﻣﺎﻏ ﺔﻘﻳﺮﻄﺑ ﺕﻮﻤﻟﺍ ﻲﻓ ﺃﺪﺒﺗ ﺔﻨﻴﻔﺴﻟﺍ ﻝﻮﺣ
+ﻦﻛ ﻦﻜﻟﻭ ،ﻦﻜﻤﻳ ﺎﻣ ﻉﺮﺳﺄﺑ ﺎﻬﻴﻠﻋ ﺾﻗﺍ
+.ﺔﻨﻴﻔﺴﻟﺍ ﺔﻳﺎﻤﺤﺑ ﻥﻮﻣﻮﻘﻴﺳ :ﺍﺭﺬﺣ</DefoliatorShipPartCrash.letterText>
+  
+  
+  <Infestation.label>ﺕﺍﺮﺸﺤﻟﺍ</Infestation.label>
+  
+  <Infestation.letterLabel>!ﺕﺍﺮﺸﺤﻟﺍ</Infestation.letterLabel>
+  
+  <Infestation.letterText>ﻢﻫﺎﻳﻼﺧ ﺭﺍﻮﺠﺑ ﻥﻮﻧﻮﻜﻴﺳ !ﺔﻗﻼﻤﻌﻟﺍ ﺕﺍﺮﺸﺤﻟﺍ ﻚﻴﻟﺇ ﺏﺮﺘﻘﺗ
+ﺎﻳﻼﺧﻭ ﺓﺪﻳﺪﺟ ﺕﺍﺮﺸﺣ ﺎﻳﻼﺨﻟﺍ ﺞﺘﻨﺗn\n\.ﺓﺩﻭﺪﻌﻣ ﻥﺍﻮﺛ ﻲﻓ
+ﻞﻛ ﻥﻮﻜﻳ ﻥﺃ ﺪﻳﺮﺗ ﻻ ﺖﻨﻛ ﺍﺫﺇn\n\.ﺓﺪﻳﺪﺟ
+ﺐﺠﻴﻓ ،ﻞﺒﻘﺘﺴﻤﻟﺍ ﻲﻓ ﺕﺍﺮﺸﺤﻟﺎﺑ ﺎﺌﻴﻠﻣ ﻚﻟﻮﺣ ﺀﻲﺷ
+.ﺕﺎﻴﻠﻴﻔﻄﻟﺍ ﺀﻻﺆﻫ ﻦﻣ ﺺﻠﺨﺘﺗﻭ ﻙﺍﻮﻗ ﻊﻤﺠﺗ ﻥﺃ
+.ﺎﻬﻨﻃﻮﻣ ﻦﻋ ﺕﺍﺮﺸﺤﻟﺍ ﻊﻓﺍﺪﺘﺳ :ﺍﺭﺬﺣ ﻦﻛ ﻦﻜﻟ</Infestation.letterText>
+  
+  
+  <ManhunterPack.label>ﺔﻴﻧﺍﻭﺪﻌﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</ManhunterPack.label>
+  
+  
+  <MechCluster.label>ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻦﻣ ﺩﻮﻘﻨﻋ</MechCluster.label>
+  
+  <MechCluster.letterLabel>ﺪﻳﻮﻧﺎﻜﻴﻣ ﺕﻻﺁ ﺔﻋﻮﻤﺠﻣ</MechCluster.letterLabel>
+  
+  <MechCluster.letterText>ﻲﻓ .ﻚﺑﺮﻗ ﺔﻴﻟﺎﺘﻗ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ ﺔﻋﻮﻤﺠﻣ ﻁﻮﺒﻫ ﺖﻤﺗ
+ﻚﻳﺪﻟ ﺍﺬﻟ ،ﻥﻮﻜﺳ ﺔﻟﺎﺣ ﻲﻓ ﻥﻮﻜﺘﺳ ﺔﻳﺍﺪﺒﻟﺍ
+.ﻡﻮﺠﻬﻠﻟ ﻂﻴﻄﺨﺘﻠﻟ ﺖﻗﻭ
+
+ﻥﻮﻜﺳ ﺔﻟﺎﺣ ﻲﻓ ﻞﻈﺗ ﻥﺃ ﺔﻋﻮﻤﺠﻤﻠﻟ ﻦﻜﻤﻳ
+ﻭﺃ ﺖﻗﺆﻤﻟﺍ ﻲﻬﺘﻨﻳ ﻭﺃ ﺝﺎﻋﺯﻺﻟ ﺽﺮﻌﺘﺗ ﻰﺘﺣ
+.ﺮﻌﺸﺘﺴﻤﻟﺍ ﻙﺮﺤﺘﻳ
+
+ﻥﺈﻓ ،ﻥﻮﻜﺳ ﺔﻟﺎﺣ ﻲﻓ ﺖﻧﺎﻛ ﻥﺇﻭ ﻰﺘﺣ
+ﺮﺧﻵﺍﻭ ﻦﻴﺤﻟﺍ ﻦﻴﺑ ﺎﻬﻨﻜﻤﻳ .ﺍﺪﻳﺪﻬﺗ ﻞﻜﺸﺗ ﺔﻋﻮﻤﺠﻤﻟﺍ
+ﺍﺭﺮﺿ ﻚﻟ ﺐﺒﺴﺗ ﻭﺃ ﺔﻴﻣﻮﺠﻫ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻣ ﻊﻤﺟ
+ﻉﺮﺳﺃ ﻲﻓ ﺎﻬﻴﻠﻋ ﺾﻗﺍ .ﻯﺮﺧﺃ ﻞﺋﺎﺳﻮﺑ ﺮﺒﻛﺃ
+.ﻦﻜﻤﻣ ﺖﻗﻭ</MechCluster.letterText>
+  
+  
+  <PsychicEmanatorShipPartCrash.label>ﺔﻴﺴﻔﻧ ﺔﻨﻴﻔﺳ</PsychicEmanatorShipPartCrash.label>
+  
+  <PsychicEmanatorShipPartCrash.letterLabel>ﺔﻴﺴﻔﻨﻟﺍ ﺔﻴﻘﻔﻨﻟﺍ ﺔﻨﻴﻔﺴﻟﺍ</PsychicEmanatorShipPartCrash.letterLabel>
+  
+  <PsychicEmanatorShipPartCrash.letterText>.ﻢﻜﺑﺮﻗ ﺔﻤﻳﺪﻗ ﺔﻨﻴﻔﺳ ﻦﻣ ﺓﺮﻴﺒﻛ ﺔﻌﻄﻗ ﺖﻤﻄﺤﺗ
+ﻝ ﻢﻬﻌﻓﺪﻳ ﺎﺌﻴﺷ ﻙﺎﻨﻫ ﻥﺄﺑ ﻢﻜﻧﺎﻜﺳ ﻥﻭﺮﻌﺸﻳ
+ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ .ﺔﻟﻮﻘﻌﻣ ﺮﻴﻏ ﺀﺎﻴﺷﺃ cometer
+ﺔﻴﺴﻔﻧ ﺓﻮﻘﺑ ﻝﺎﻌﻓ ﻲﻋﺎﻨﻄﺻﺍ ﺀﺎﻛﺫ ﻡﺎﻈﻧ ﻙﺎﻨﻫ
+ﺢﺿﺍﻮﻟﺍ ﻦﻣﻭ ﺔﻨﻴﻔﺴﻟﺍ ﻦﺘﻣ ﻰﻠﻋ ﻕﺪﺼﻳ ﻻ
+ﺏﺮﻗﺃ ﻲﻓ ﻪﻴﻠﻋ ﺾﻗﺍ .ﻱﺩﻭ ﺮﻴﻏ ﻪﻧﺃ
+.ﺔﻨﻴﻔﺴﻟﺍ ﻲﻤﺤﺘﺳ :ﺍﺭﺬﺣ ﻦﻛ ﻦﻜﻟﻭ .ﻦﻜﻤﻣ ﺖﻗﻭ</PsychicEmanatorShipPartCrash.letterText>
+  
+  
+  <RaidEnemy.label>ﺓﺭﺎﻏ</RaidEnemy.label>
+  
+</LanguageData>

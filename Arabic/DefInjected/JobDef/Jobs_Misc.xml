@@ -1,0 +1,242 @@
+<LanguageData>
+  
+  
+  <ActivateThing.reportString>{lookup: {TargetA}; Case; 3} ﻂﺸﻨﻳ</ActivateThing.reportString>
+  
+  
+  <ApplyTechprint.reportString>{lookup: {TargetB}; Case; 3} ﻡﺪﺨﺘﺴﻳ</ApplyTechprint.reportString>
+  
+  
+  <AttackMelee.reportString>{lookup: {TargetA}; Case; 3} ﺏﺮﻀﻳ</AttackMelee.reportString>
+  
+  
+  <AttackStatic.reportString>{3 ;ﺔﻟﺎﺣ ;{lookup: {TargetA} ﻢﺟﺎﻬﻳ</AttackStatic.reportString>
+  
+  
+  <BeatFire.reportString>ﺭﺎﻨﻟﺍ ﺀﺎﻔﻃﺈﺑ ﻡﻮﻘﻳ</BeatFire.reportString>
+  
+  
+  <Carried.reportString>ﺀﻲﺸﺑ ﻡﻮﻘﻳ</Carried.reportString>
+  
+  
+  <CastAbilityOnThing.reportString>ﺎﻣ ﺀﻲﺸﺑ ﻡﻮﻘﻳ</CastAbilityOnThing.reportString>
+  
+  
+  <CastAbilityOnThingMelee.reportString>ﺀﻲﺸﺑ ﻡﻮﻘﻳ</CastAbilityOnThingMelee.reportString>
+  
+  
+  <CastAbilityOnThingUninterruptible.reportString>ﺀﻲﺸﺑ ﻡﻮﻘﻳ</CastAbilityOnThingUninterruptible.reportString>
+  
+  
+  <CastAbilityOnWorldTile.reportString>ﺀﻲﺸﺑ ﻡﻮﻘﻳ</CastAbilityOnWorldTile.reportString>
+  
+  
+  <CastAbilityTouch.reportString>ﺀﻲﺸﺑ ﻡﻮﻘﻳ</CastAbilityTouch.reportString>
+  
+  
+  <CastJump.reportString>ﺎﺌﻴﺷ ﻞﻌﻔﻳ</CastJump.reportString>
+  
+  
+  <ClearSnow.reportString>ﺞﻠﺜﻟﺍ ﻒﻈﻨﻳ</ClearSnow.reportString>
+  
+  
+  <DeliverToBed.reportString>Aﻑﺪﻬﻟﺍ ﻢﻴﻠﺴﺘﺑ ﻡﻮﻘﻳ</DeliverToBed.reportString>
+  
+  
+  <DeliverToCell.reportString>TargetA ﻞﻴﺻﻮﺘﺑ ﻡﻮﻘﻳ</DeliverToCell.reportString>
+  
+  
+  <DropEquipment.reportString>{lookup: {TargetA}; Case; 3} ﻲﻘﻠﻳ</DropEquipment.reportString>
+  
+  
+  <EmptyThingContainer.reportString>{lookup: {TargetA}; Case; 3} ﻍﺮﻔﻳ</EmptyThingContainer.reportString>
+  
+  
+  <EnterCryptosleepCasket.reportString>.ﻰﻔﺸﻤﻟﺍ ﻡﻮﻨﻟﺍ ﺕﻮﺑﺎﺗ ﻲﻓ ﻲﻘﻠﺘﺴﻳ</EnterCryptosleepCasket.reportString>
+  
+  
+  <EnterTransporter.reportString>{lookup: {TargetA}; Case; 3} ﻲﻓ ﺲﻠﺠﻳ</EnterTransporter.reportString>
+  
+  
+  <Equip.reportString>{lookup: {TargetA}; Case; 4} ﺢﻠﺴﻳ</Equip.reportString>
+  
+  
+  <ExtinguishSelf.reportString>ﻪﺴﻔﻧ ﺀﺎﻔﻃﺈﺑ ﻡﻮﻘﻳ</ExtinguishSelf.reportString>
+  
+  
+  <FillFermentingBarrel.reportString>{lookup: {TargetA}; Case; 3} ﻸﻤﻳ</FillFermentingBarrel.reportString>
+  
+  
+  <Flee.reportString>ﺏﻭﺮﻬﻟﺎﺑ ﻮﺠﻨﻳ</Flee.reportString>
+  
+  
+  <FleeAndCower.reportString>ﺊﺒﺘﺨﻳﻭ ﺏﺮﻬﻳ</FleeAndCower.reportString>
+  
+  
+  <Flick.reportString>ﻞﻳﺪﺒﺘﻟﺍ ﻞﻳﺪﺒﺘﺑ ﻡﻮﻘﻳ</Flick.reportString>
+  
+  
+  <Follow.reportString>{lookup: {TargetA}; Case; 4} ﻊﺒﺘﺗ</Follow.reportString>
+  
+  
+  <FollowClose.reportString>{lookup: {TargetA}; Case; 4} ﻊﺒﺘﻳ</FollowClose.reportString>
+  
+  
+  <FollowRoper.reportString>TargetA ﻊﺒﺘﻳ</FollowRoper.reportString>
+  
+  
+  <GiveToPackAnimal.reportString>{lookup: {TargetA}; Case; 3} ﺬﺧﺄﻳ</GiveToPackAnimal.reportString>
+  
+  
+  <Goto.reportString>ﻞﻴﻐﺸﺘﻟﺍ ﻱﺭﺎﺟ</Goto.reportString>
+  
+  
+  <GotoMindControlled.reportString>ﺙﺪﺤﻳ</GotoMindControlled.reportString>
+  
+  
+  <GotoSafeTemperature.reportString>ﺔﺤﻳﺮﻣ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﻦﻋ ﺚﺤﺒﻳ</GotoSafeTemperature.reportString>
+  
+  
+  <GotoWander.reportString>ﻝﻮﺠﺘﻳ</GotoWander.reportString>
+  
+  
+  <HaulCorpseToPublicPlace.reportString>{3 ;ﺔﻟﺎﺤﻟﺍ ;{lookup: {TargetA} ﺮﺠﻳ</HaulCorpseToPublicPlace.reportString>
+  
+  
+  <HaulToTransporter.reportString>{3 ;ﺔﻟﺎﺤﻟﺍ ;{lookup: {TargetA} ﺮﺠﻳ</HaulToTransporter.reportString>
+  
+  
+  <IdleWhileDespawned.reportString>ﻞﻤﻌﻟﺍ ﻒﻗﻮﺘﻳ</IdleWhileDespawned.reportString>
+  
+  
+  <Ignite.reportString>{lookup: {TargetA}; Case; 3} ﻞﻌﺸﻳ</Ignite.reportString>
+  
+  
+  <InducePrisonerToEscape.reportString>.ﺏﻭﺮﻬﻟﺍ ﻮﺤﻧ {TargetA} ﻊﻓﺪﺑ ﻡﻮﻘﻳ</InducePrisonerToEscape.reportString>
+  
+  
+  <Ingest.reportString>{3 ;ﺔﺤﻴﺼﻧ ;{lookup: {TargetA} ﻞﻛﺃ</Ingest.reportString>
+  
+  
+  <Insult.reportString>{TargetA} ﻦﻴﻬﻳ</Insult.reportString>
+  
+  
+  <LayDown.reportString>ﻲﻘﻠﺘﺴﻳ</LayDown.reportString>
+  
+  
+  <LayDownAwake.reportString>ﻲﻘﻠﺘﺴﻳ</LayDownAwake.reportString>
+  
+  
+  <LayDownResting.reportString>ﻲﻘﻠﺘﺴﻳ</LayDownResting.reportString>
+  
+  
+  <Lovin.reportString>ﺐﺤﻟﺎﺑ ﻞﻐﺸﻳ</Lovin.reportString>
+  
+  
+  <ManTurret.reportString>ﺓﺍﺩﺄﺑ ﻞﻤﻌﻳ</ManTurret.reportString>
+  
+  
+  <OfferHelp.reportString>{TargetA} ﺪﻋﺎﺴﻳ</OfferHelp.reportString>
+  
+  
+  <Open.reportString>{lookup: {TargetA}; Case; 3} ﺢﺘﻔﻳ</Open.reportString>
+  
+  
+  <PickupToHold.reportString>{lookup: {TargetA}; Case; 3} ﻊﻤﺠﻳ</PickupToHold.reportString>
+  
+  
+  <RearmTurret.reportString>{lookup: {TargetA}; Case; 3} ﻦﺤﺷ ﺪﻴﻌﻳ</RearmTurret.reportString>
+  
+  
+  <RearmTurretAtomic.reportString>{lookup: {TargetA}; Case; 3} ﻰﻟﺍ ﻰﻗﺮﻳ ﻍﻭﺍﺮﻳ</RearmTurretAtomic.reportString>
+  
+  
+  <Refuel.reportString>lookup: {TargetA}; Case;} ـﻟ ﺩﻮﻗﻮﻟﺍ ﻚﻧﺎﺗ ﻸﻤﻳ
+{3</Refuel.reportString>
+  
+  
+  <RefuelAtomic.reportString>{lookup: {TargetA}; Case; 3} ﺩﻮﻗﻭ ﺔﺌﺒﻌﺘﺑ ﻡﻮﻘﻳ</RefuelAtomic.reportString>
+  
+  
+  <Reload.reportString>{lookup: {TargetA}; Case; 3} ﻦﺤﺷ ﺪﻴﻌﻳ</Reload.reportString>
+  
+  
+  <RemoveApparel.reportString>{lookup: {TargetA}; Case; 3} ﻊﻠﺨﻳ</RemoveApparel.reportString>
+  
+  
+  <Resurrect.reportString>{lookup: {TargetA}; Case; 3} ﺀﺎﻴﺣﺇ ﺪﻴﻌﻳ</Resurrect.reportString>
+  
+  
+  <SocialFight.reportString>{TargetA} ﻊﻣ ﺮﺟﺎﺸﺘﻳ</SocialFight.reportString>
+  
+  
+  <Strip.reportString>{TargetA} ﺔﻳﺮﻌﺘﺑ ﻡﻮﻘﻳ</Strip.reportString>
+  
+  
+  <TakeBeerOutOfFermentingBarrel.reportString>{lookup: {TargetA}; Case; 1} ﻦﻣ ﺓﺮﻴﺒﻟﺍ ﻍﺮﻔﻳ</TakeBeerOutOfFermentingBarrel.reportString>
+  
+  
+  <TakeCountToInventory.reportString>{lookup: {TargetA}; Case; 3} ﺺﻨﺘﻘﻳ</TakeCountToInventory.reportString>
+  
+  
+  <TakeFromOtherInventory.reportString>lookup:} ﻦﻣ {lookup: {TargetA}; Case; 3} ﺬﺧﺄﻳ
+{{TargetB}; Case; 1</TakeFromOtherInventory.reportString>
+  
+  
+  <TakeInventory.reportString>{lookup: {TargetA}; Case; 3} ﺭﺎﺘﺨﻳ</TakeInventory.reportString>
+  
+  
+  <TradeWithPawn.reportString>{TargetA} ﻊﻣ ﺏﺭﺎﺠﺘﻳ</TradeWithPawn.reportString>
+  
+  
+  <TriggerObject.reportString>{lookup: {TargetA}; Case; 3} ﻂﺸﻨﻳ</TriggerObject.reportString>
+  
+  
+  <UnloadInventory.reportString>{lookup: {TargetA}; Case; 3} ﻎﻳﺮﻔﺘﺑ ﻡﻮﻘﺗ</UnloadInventory.reportString>
+  
+  
+  <UnloadYourInventory.reportString>ﺀﺎﻴﺷﻷﺍ ﻍﺮﻔﻳ</UnloadYourInventory.reportString>
+  
+  
+  <UseArtifact.reportString>ﺮﺛﻷﺍ ﻞﻐﺸﻳ</UseArtifact.reportString>
+  
+  
+  <UseItem.reportString>{lookup: {TargetA}; Case; 3} ﻡﺪﺨﺘﺴﻳ</UseItem.reportString>
+  
+  
+  <UseNeurotrainer.reportString>ﻲﺒﺼﻌﻟﺍ ﺏﺭﺪﻤﻟﺍ ﻡﺪﺨﺘﺴﻳ</UseNeurotrainer.reportString>
+  
+  
+  <UseVerbOnThing.reportString>ﺀﻲﺸﺑ ﻝﻮﻐﺸﻣ</UseVerbOnThing.reportString>
+  
+  
+  <UseVerbOnThingStatic.reportString>ﺎﻣ ﺀﻲﺸﺑ ﻝﻮﻐﺸﻣ</UseVerbOnThingStatic.reportString>
+  
+  
+  <Vomit.reportString>ﺄﻴﻘﺘﻳ</Vomit.reportString>
+  
+  
+  <Wait.reportString>.ﺀﺍﺮﺸﻟﺍ ﻖﺤﺘﺴﻳ</Wait.reportString>
+  
+  
+  <Wait_Asleep.reportString>ﻡﺎﻨﻳ</Wait_Asleep.reportString>
+  
+  
+  <Wait_Combat.reportString>.ﻑﺪﻫ ﻦﻋ ﺚﺤﺒﻳ</Wait_Combat.reportString>
+  
+  
+  <Wait_Downed.reportString>ﻪﺘﻤﻳﺰﻫ ﻢﺗ</Wait_Downed.reportString>
+  
+  
+  <Wait_MaintainPosture.reportString>ﻰﻠﻋ ﻢﺋﺎﻗ</Wait_MaintainPosture.reportString>
+  
+  
+  <Wait_SafeTemperature.reportString>ﺔﺤﻳﺮﻣ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﻲﻓ ﺮﻈﺘﻨﻳ</Wait_SafeTemperature.reportString>
+  
+  
+  <Wait_Wander.reportString>ﺎﻴﻘﻧ ﺀﺍﻮﻫ ﺲﻔﻨﺘﺗ</Wait_Wander.reportString>
+  
+  
+  <Wear.reportString>{lookup: {TargetA}; Case; 3} ﻊﻀﻳ</Wear.reportString>
+  
+</LanguageData>

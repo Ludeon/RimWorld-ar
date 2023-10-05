@@ -1,0 +1,182 @@
+<LanguageData>
+  
+  
+  <AnimalBed.label>ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺮﻳﺮﺳ</AnimalBed.label>
+  
+  <AnimalBed.description>.ﻊﻴﻤﺠﻟﺍ ﺐﺳﺎﻨﻳ ،ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻢﻋﺎﻧ ﺮﻳﺮﺳ</AnimalBed.description>
+  
+  
+  <AnimalSleepingBox.label>ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻡﻮﻧ ﻕﻭﺪﻨﺻ</AnimalSleepingBox.label>
+  
+  <AnimalSleepingBox.description>ﺝﺎﺟﺪﻟﺍ ﻞﺜﻣ ﺓﺮﻴﻐﺼﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﺣﺍﺮﻟ ﺮﻴﻐﺻ ﻕﻭﺪﻨﺻ
+.ﺓﺮﻴﻐﺼﻟﺍ ﺏﻼﻜﻟﺍﻭ ﻂﻄﻘﻟﺍﻭ</AnimalSleepingBox.description>
+  
+  
+  <AnimalSleepingSpot.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻡﻮﻧ ﻥﺎﻜﻣ</AnimalSleepingSpot.label>
+  
+  <AnimalSleepingSpot.description>.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻡﻮﻧ ﻥﺎﻜﻣ ﻲﻨﻌﻳ</AnimalSleepingSpot.description>
+  
+  
+  <Armchair.label>ﻲﺳﺮﻜﻟﺍ</Armchair.label>
+  
+  <Armchair.description>ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﺪﻋﺎﺴﻳ .ﺢﻳﺮﻣﻭ ﻢﻋﺎﻧﻭ ﺮﻴﺒﻛ ﺪﻌﻘﻣ
+ﺕﺎﻄﺤﻣﻭ ﺕﻻﻭﺎﻄﻟﺍ ﺐﻧﺎﺠﺑ ﻪﻌﺿﻭ ﻦﻜﻤﻳ .ﺀﺎﺧﺮﺘﺳﻻﺍ ﻰﻠﻋ
+.ﻯﺮﺧﺃ ﻦﻛﺎﻣﺃ ﻱﺃ ﻲﻓﻭ ﻞﻤﻌﻟﺍ</Armchair.description>
+  
+  
+  <Bed.label>ﺮﻳﺮﺴﻟﺍ</Bed.label>
+  
+  <Bed.description>ﺔﺣﺍﺮﻠﻟ ،ﻱﻮﻗ ﺭﺎﻃﺇ ﻰﻠﻋ ﺕﺎﻳﻼﻣﻭ ﺔﺤﻳﺮﻣ ﺓﺩﺎﺳﻭ
+.ﺔﺤﻳﺮﻤﻟﺍ</Bed.description>
+  
+  
+  <Bedroll.label>ﻡﻮﻨﻟﺍ ﺔﺒﻴﻘﺣ</Bedroll.label>
+  
+  <Bedroll.description>ﻭﺃ ﺵﺎﻤﻘﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺼﻣ ﺔﻟﻮﻤﺤﻣ ﺔﻴﺿﺭﺃ ﺓﺮﻴﺼﺣ
+ﻰﻠﻋ ﺓﺮﺷﺎﺒﻣ ﻊﺿﻮﺗ .ﺀﺎﺧﺮﺘﺳﻻﺍﻭ ﻡﻮﻨﻠﻟ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺩﻮﻠﺟ
+ﺔﻟﻮﻬﺴﻟ ﺎﻬﻴﻃ ﻦﻜﻤﻳﻭ ﻒﻴﻔﺧ ﻥﺯﻭ ﺎﻬﻟﻭ ﺽﺭﻷﺍ
+.ﻱﺩﺎﻌﻟﺍ ﺮﻳﺮﺴﻟﺍ ﻦﻣ ﻞﻗﺃ ﺔﺣﺍﺭ ﺮﻓﻮﺗ .ﻞﻘﻨﻟﺍ
+.ﺔﻠﻳﻮﻄﻟﺍ ﺕﻼﺣﺮﻟﺍ ﻲﻓ ﺓﺪﻴﻔﻣ ﻡﻮﻨﻟﺍ ﺱﺎﻴﻛﺃ ﻥﻮﻜﺘﺳ</Bedroll.description>
+  
+  
+  <BedrollDouble.label>.ﺔﺟﻭﺩﺰﻣ ﻡﻮﻧ ﺔﺒﻴﻘﺣ</BedrollDouble.label>
+  
+  <BedrollDouble.description>ﺵﺎﻤﻘﻟﺍ ﻦﻣ ﻉﻮﻨﺼﻣ ،ﻦﻴﺼﺨﺸﻟ ﺀﺎﺧﺮﺘﺳﻻﺍﻭ ﻡﻮﻨﻠﻟ ﺯﺎﻬﺟ
+ﺽﺭﻷﺍ ﻰﻠﻋ ﺓﺮﺷﺎﺒﻣ ﻊﺿﻮﻳ .ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺩﻮﻠﺟ ﻭﺃ
+ﺔﻟﻮﻬﺴﻟ ﻪﻴﻃ ﻦﻜﻤﻳﻭ ﻥﺯﻮﻟﺍ ﻒﻴﻔﺧ .ﺔﻴﺿﺭﻷﺍ ﻭﺃ
+ﻥﻮﻜﺘﺳ .ﻱﺩﺎﻌﻟﺍ ﺮﻳﺮﺴﻟﺍ ﻦﻣ ﺔﺣﺍﺭ ﻞﻗﺃ .ﻞﻘﻨﻟﺍ
+.ﺔﻠﻳﻮﻄﻟﺍ ﺕﻼﺣﺮﻟﺍ ﻲﻓ ﺓﺪﻴﻔﻣ ﻡﻮﻨﻟﺍ ﺱﺎﻴﻛﺃ</BedrollDouble.description>
+  
+  
+  <DiningChair.label>ﻲﺳﺮﻛ</DiningChair.label>
+  
+  <DiningChair.description>ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻪﻌﺿﻭ ﻦﻜﻤﻳ .ﻞﻴﻤﺟﻭ ﺢﻳﺮﻣ ﻲﺳﺮﻛ
+.ﺮﺧﺁ ﻥﺎﻜﻣ ﻱﺃ ﻲﻓﻭ ﻞﻤﻌﻟﺍ ﺕﺎﻄﺤﻣﻭ ﺕﻻﻭﺎﻄﻟﺍ</DiningChair.description>
+  
+  
+  <DoubleBed.label>ﺝﻭﺩﺰﻣ ﺮﻳﺮﺳ</DoubleBed.label>
+  
+  <DoubleBed.description>.ﻦﻴﺼﺨﺸﻟ ﻊﺴﺘﻳ ﻂﻴﺴﺑﻭ ﻊﺳﺍﻭ ﺮﻳﺮﺳ</DoubleBed.description>
+  
+  
+  <DoubleSleepingSpot.label>ﺝﻭﺩﺰﻣ ﺮﻳﺮﺳ</DoubleSleepingSpot.label>
+  
+  <DoubleSleepingSpot.description>ﻱﺃ ﻥﻭﺪﺑ ﺽﺭﻷﺍ ﻰﻠﻋ ﻦﻴﺼﺨﺸﻟ ﻡﻮﻨﻠﻟ ﻥﺎﻜﻣ
+.ﺔﺣﺍﺭ ﻞﺋﺎﺳﻭ</DoubleSleepingSpot.description>
+  
+  
+  <Dresser.label>ﺔﻧﺍﺰﺨﻟﺍ</Dresser.label>
+  
+  <Dresser.description>ﻦﻣ ﺮﺜﻛﺃ ﻊﺿﻭ .ﺔﺣﺍﺮﻟﺎﺑ ﺓﺭﻭﺎﺠﻤﻟﺍ ﺓﺮﺳﻷﺍ ﺩﻭﺰﻳ
+ﻥﻮﻜﻳ ﻦﻟ ﺪﺣﺍﻭ ﺮﻳﺮﺳ ﺭﺍﻮﺠﺑ ﺓﺪﺣﺍﻭ ﺔﻧﺍﺰﺧ
+.ﻲﺑﺎﺠﻳﺇ ﺮﻴﺛﺄﺗ ﻪﻟ</Dresser.description>
+  
+  
+  <EndTable.label>ﺔﻴﺒﻧﺎﺠﻟﺍ ﺔﻟﻭﺎﻄﻟﺍ</EndTable.label>
+  
+  <EndTable.description>ﺔﺣﺍﺭ ﻞﺋﺎﺳﻭ ﻒﻴﻀﺗ .ﺮﻳﺮﺴﻟﺍ ﺐﻧﺎﺠﺑ ﺓﺮﻴﻐﺻ ﺔﻟﻭﺎﻃ
+.ﺱﺃﺮﻟﺍ ﺭﺍﻮﺠﺑ ﺓﺮﺷﺎﺒﻣ ﺔﻌﺿﻮﻤﺘﻣ ﺖﻧﺎﻛ ﺍﺫﺇ ﺓﺮﺳﻸﻟ
+.ﺔﻴﻧﺎﺜﻟﺍ ﺔﻟﻭﺎﻄﻠﻟ ﻲﺑﺎﺠﻳﺇ ﺮﻴﺛﺄﺗ ﺪﺟﻮﻳ ﻻ</EndTable.description>
+  
+  
+  <HospitalBed.label>ﻲﺒﻄﻟﺍ ﺮﻳﺮﺴﻟﺍ</HospitalBed.label>
+  
+  <HospitalBed.description>ﻞﺑﺎﻗ .ﺕﺎﻴﻔﺸﺘﺴﻤﻟﺍ ﻦﻛﺎﻣﺃ ﻲﻓ ﻡﺍﺪﺨﺘﺳﻼﻟ ﻢﻤﺼﻣ ﺮﻳﺮﺳ
+ﺐﺳﺎﻨﻳ .ﺔﻴﺒﻄﻟﺍ ﺕﺍﺪﻌﻤﻟﺍ ﺾﻌﺒﺑ ﺰﻬﺠﻣﻭ ﺾﻳﺮﻤﻟ ﻞﻳﺪﻌﺘﻠﻟ
+ﺮﻳﺮﺴﻟﺍ ﻦﻣ ﻞﻀﻓﺃ ﻞﻜﺸﺑ ﻦﻴﺑﺎﺼﻤﻟﺍﻭ ﻰﺿﺮﻤﻟﺍ ﺝﻼﻋ
+.ﻱﺩﺎﻌﻟﺍ</HospitalBed.description>
+  
+  
+  <PlantPot.label>ﺭﻮﻫﺯ ﺭﺪﻗ</PlantPot.label>
+  
+  <PlantPot.description>ﺹﺎﺨﺷﻷﺍ ﺝﺍﺰﻣ ﻦﻴﺴﺤﺘﻟ ﺎﻨﻫ ﺔﻴﻓﺮﺧﺰﻟﺍ ﺭﻮﻫﺰﻟﺍ ﻉﺭﺯ
+.ﻚﻟﻮﺣ</PlantPot.description>
+  
+  
+  <RoyalBed.label>ﺮﺧﺎﻓ ﺮﻳﺮﺳ</RoyalBed.label>
+  
+  <RoyalBed.description>ﺔﻓﺎﺿﺇ .ﺔﻠﻴﺒﻨﻟﺍ ﺔﻘﺒﻄﻠﻟ ﺐﻫﺬﻟﺎﺑ ﻲﻠﻄﻣ ﺮﺧﺎﻓ ﺮﻳﺮﺳ
+.ﻡﻮﻨﻠﻟ ﺢﻳﺮﻣ ﺎﻀﻳﺃ ﻮﻬﻓ ،ﻞﻴﻤﺠﻟﺍ ﻲﻨﻔﻟﺍ ﻩﺮﻬﻈﻤﻟ
+.ﻲﺟﻭﺯ ﺮﻳﺮﺳ</RoyalBed.description>
+  
+  
+  <Shelf.label>ﻑﺭ</Shelf.label>
+  
+  <Shelf.description>ﻑﺎﻌﺿﺃ ﺔﺛﻼﺛ ﻦﻳﺰﺨﺗ ﻪﻨﻜﻤﻳ ﻒﻓﺭﺃ ﺔﺛﻼﺜﺑ ﻑﺭ
+ﺔﻧﺰﺨﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ .ﻲﺿﺭﻷﺍ ﻁﻼﺒﻟﺎﺑ ﺔﻧﺭﺎﻘﻣ ﺮﺻﺎﻨﻌﻟﺍ ﺩﺪﻋ
+.ﺭﻮﻫﺪﺘﺗ ﻻﻭ ﺔﺌﻴﺒﻟﺍ ﻝﺎﻤﺟ ﻰﻠﻋ ﺮﺛﺆﺗ ﻻ
+ﻥﺈﻓ ، ﻦﻳﺰﺨﺘﻟﺍ ﺔﻌﺳ ﻲﻓ ﺩﻭﺪﺤﻠﻟ ﺍﺮﻈﻧ
+ﺎﻬﻨﻳﺰﺨﺗ ﻦﻜﻤﻳ ﻻ ﺓﺮﻴﺒﻜﻟﺍ ﺚﺜﺠﻟﺍﻭ ﻞﻛﺎﻴﻬﻟﺍﻭ ﺽﺎﻘﻧﻷﺍ
+.ﻪﻴﻓ</Shelf.description>
+  
+  
+  <ShelfSmall.label>ﺮﻴﻐﺻ ﻑﺭ</ShelfSmall.label>
+  
+  <ShelfSmall.description>ﻆﻔﺘﺤﻳ ﻥﺃ ﻪﻨﻜﻤﻳ ،ﻑﻮﻓﺭ ﺔﺛﻼﺜﺑ ﺮﻴﻐﺻ ﻑﺭ
+.ﺽﺭﻷﺍ ﺔﻧﺎﺧ ﻲﻓ ﺀﺎﻴﺷﻷﺍ ﺩﺪﻋ ﻑﺎﻌﺿﺃ ﺔﺛﻼﺜﺑ
+ﻂﻴﺤﻤﻟﺍ ﻝﺎﻤﺟ ﻰﻠﻋ ﺮﺛﺆﺗ ﻦﻟ ﺔﻧﺰﺨﻤﻟﺍ ﺀﺎﻴﺷﻷﺍ
+ﻻ ،ﻑﺮﻟﺍ ﺔﻌﺳ ﺔﻠﻘﻟ ﺍﺮﻈﻧﻭ .ﺭﻮﻫﺪﺘﺗ ﻦﻟﻭ
+.ﻪﻴﻓ ﺓﺮﻴﺒﻜﻟﺍ ﺚﺜﺠﻟﺍﻭ ﻲﻧﺎﺒﻤﻟﺍﻭ ﺽﺎﻘﻧﻷﺍ ﻦﻳﺰﺨﺗ ﻦﻜﻤﻳ</ShelfSmall.description>
+  
+  
+  <SleepingSpot.label>ﻡﻮﻨﻠﻟ ﻥﺎﻜﻣ</SleepingSpot.label>
+  
+  <SleepingSpot.description>ﻰﻠﻋ ﺐﺠﻳ ﺚﻴﺣ ﺽﺭﻷﺍ ﻲﻓ ﻥﺎﻜﻤﻟﺍ ﺰﻴﻴﻤﺗ
+.ﺔﺣﺍﺭ ﻞﺋﺎﺳﻭ ﻥﻭﺪﺑ .ﺍﻮﻣﺎﻨﻳ ﻥﺃ ﺱﺎﻨﻟﺍ</SleepingSpot.description>
+  
+  
+  <StandingLamp.label>torch</StandingLamp.label>
+  
+  <StandingLamp.description>ﻞﻘﻨﺘﻟﺍﻭ ﻞﻤﻌﻠﻟ ﻱﺭﻭﺮﺿ ﺀﻮﻀﻟﺍ .ﻲﺿﺭﺃ ﻲﺋﺎﺑﺮﻬﻛ ﺡﺎﺒﺼﻣ
+.ﺢﻳﺮﻤﻟﺍ</StandingLamp.description>
+  
+  
+  <Stool.label>.ﺮﻴﻐﺻ ﻲﺳﺮﻛ ﻲﻫ ﻚﻠﺗ</Stool.label>
+  
+  <Stool.description>ﺔﺤﻳﺮﻣ ﺮﻴﻏ .ﻞﺟﺭﺃ ﺔﻌﺑﺭﺃ ﻰﻠﻋ ﺐﻠﺻ ﻲﺳﺮﻛ
+ﻦﻜﻤﻳ .ﺀﻲﺷ ﻻ ﻦﻣ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟﻭ ،ﺍﺪﺟ
+ﻥﺎﻜﻣ ﻱﺃﻭ ﻞﻤﻌﻟﺍ ﺕﺎﻄﺤﻣﻭ ﺕﻻﻭﺎﻄﻟﺍ ﺭﺍﻮﺠﺑ ﺎﻬﻌﺿﻭ
+.ﺮﺧﺁ</Stool.description>
+  
+  
+  <SunLamp.label>ﻲﺴﻤﺷ ﺡﺎﺒﺼﻣ</SunLamp.label>
+  
+  <SunLamp.description>ﻑﺎﻛ ﻞﻜﺸﺑ ﺔﻘﻄﻨﻤﻟﺍ ﺀﻲﻀﻳ .ﻱﻮﻗ ﺝﺎﺘﻧﺇ ﺡﺎﺒﺼﻣ
+ﺔﻠﺋﺎﻫ ﺔﻴﻤﻛ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﻪﻨﻜﻟﻭ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺔﻋﺍﺭﺰﻟ
+.ﻲﻟﺎﻴﻠﻟﺍ ﻲﻓ ﺎﻴﺋﺎﻘﻠﺗ ﻞﻄﻌﻳ .ﺔﻗﺎﻄﻟﺍ ﻦﻣ</SunLamp.description>
+  
+  <SunLamp.comps.CompSchedule.offMessage>.ﺕﺎﺗﺎﺒﻨﻟﺍ ﻡﻮﻧ ﺀﺎﻨﺛﺃ ﺔﻠﻄﻌﻣ</SunLamp.comps.CompSchedule.offMessage>
+  
+  
+  <Table1x2c.label>(1x2) ﺔﻟﻭﺎﻃ</Table1x2c.label>
+  
+  <Table1x2c.description>ﻲﺳﺍﺮﻜﻟﺍ ﺖﻌﺿﻭ ﺍﺫﺇ ﺔﻟﻭﺎﻄﻟﺍ ﻰﻠﻋ ﺱﺎﻨﻟﺍ ﻞﻛﺄﻴﺳ
+.ﺔﻟﻭﺎﻄﻟﺍ ﻰﻟﺇ ﺱﻮﻠﺠﻟﺍ ﻢﻬﻨﻜﻤﻳ ﺚﻴﺤﺑ ﺎﻬﺒﻧﺎﺠﺑ</Table1x2c.description>
+  
+  
+  <Table2x2c.label>(2x2) ﺓﺪﺋﺎﻤﻟﺍ</Table2x2c.label>
+  
+  <Table2x2c.description>ﻲﺳﺍﺮﻜﻟﺍ ﺖﻌﺿﻭ ﺍﺫﺇ ﺔﻟﻭﺎﻄﻟﺍ ﻝﻮﺣ ﺱﺎﻨﻟﺍ ﺲﻠﺠﻴﺳ
+ﻰﻟﺇ ﻝﻮﺻﻮﻠﻟ ﺎﻬﻴﻠﻋ ﺱﻮﻠﺠﻟﺍ ﻦﻜﻤﻳ ﺪﻋﺎﻘﻤﻛ ﺎﻫﺭﺍﻮﺠﺑ
+.ﺔﻟﻭﺎﻄﻟﺍ</Table2x2c.description>
+  
+  
+  <Table2x4c.label>(2x4) ﺔﻟﻭﺎﻃ</Table2x4c.label>
+  
+  <Table2x4c.description>ﺪﻋﺎﻘﻤﻟﺍ ﺖﻌﺿﻭ ﺍﺫﺇ ﺔﻟﻭﺎﻄﻟﺍ ﻰﻠﻋ ﺱﺎﻨﻟﺍ ﻞﻛﺄﻴﺳ
+.ﺔﻟﻭﺎﻄﻟﺍ ﻩﺎﺠﺗﺎﺑ ﺎﻫﺭﺍﻮﺠﺑ</Table2x4c.description>
+  
+  
+  <Table3x3c.label>(3x3) ﺔﻟﻭﺎﻃ</Table3x3c.label>
+  
+  <Table3x3c.description>ﻢﺗ ﺍﺫﺇ ﺔﻟﻭﺎﻄﻟﺍ ﻰﻠﻋ ﻡﺎﻌﻄﻟﺍ ﺱﺎﻨﻟﺍ ﻝﻭﺎﻨﺘﻴﺳ
+.ﺓﺪﺋﺎﻤﻟﺍ ﻰﻠﻋ ﻥﻮﺴﻠﺠﻳ ﻞﻜﺸﺑ ﺎﻫﺭﺍﻮﺠﺑ ﻲﺳﺍﺮﻜﻟﺍ ﻊﺿﻭ</Table3x3c.description>
+  
+  
+  <TorchLamp.label>ﻞﻌﺘﺸﻣ ﺡﺎﺒﺼﻣ</TorchLamp.label>
+  
+  <TorchLamp.description>ﻱﺭﻭﺮﺿ ﺀﻮﻀﻟﺍ .ﺔﺒﻳﺮﻘﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﺓﺭﺎﻧﻹ ﻲﺒﺸﺧ ﻞﻌﺸﻣ
+ﻅﺎﻔﺤﻠﻟ ﺐﻄﺣ ﻰﻟﺇ ﺝﺎﺘﺤﻳ .ﻞﻘﻨﺘﻟﺍ ﺔﻟﻮﻬﺳﻭ ﻞﻤﻌﻠﻟ
+.ﺓﺭﺍﺮﺤﻟﺍ ﻦﻣ ﺓﺮﻴﻐﺻ ﺔﻴﻤﻛ ﺞﺘﻨﻳ .ﺭﺎﻨﻟﺍ ﻰﻠﻋ</TorchLamp.description>
+  
+</LanguageData>

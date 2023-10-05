@@ -1,0 +1,210 @@
+<LanguageData>
+  
+  
+  <AnimalProductRaw.label>ﻲﻧﺍﻮﻴﺣ ﻞﺻﺃ ﻦﻣ</AnimalProductRaw.label>
+  
+  
+  <Animals.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</Animals.label>
+  
+  
+  <Apparel.label>ﺲﺑﻼﻤﻟﺍ</Apparel.label>
+  
+  
+  <ApparelArmor.label>ﻉﻭﺭﺪﻟﺍ</ApparelArmor.label>
+  
+  
+  <ApparelMisc.label>ﺩﺪﺤﻣ ﺮﻴﻏ</ApparelMisc.label>
+  
+  
+  <ApparelNoble.label>ﺔﻠﻴﺒﻨﻟﺍ ﺲﺑﻼﻤﻟﺍ</ApparelNoble.label>
+  
+  
+  <ApparelUtility.label>ﺔﻴﻓﺎﺿﺇ ﺕﺍﺪﻌﻣ</ApparelUtility.label>
+  
+  
+  <ArmorHeadgear.label>ﺱﺃﺮﻟﺍ ﺔﻴﻄﻏﻷﺍ</ArmorHeadgear.label>
+  
+  
+  <Artifacts.label>ﺔﺒﻳﺮﻐﻟﺍ ﻡﺎﺴﺟﻷﺍ</Artifacts.label>
+  
+  
+  <BodyParts.label>ﻢﺴﺠﻟﺍ ﻊﻄﻗ</BodyParts.label>
+  
+  
+  <BodyPartsArchotech.label>ﺔﻳﺭﺎﻤﻌﻤﻟﺍ ﺔﺳﺪﻨﻬﻟﺍ ﺕﺎﻴﻨﻘﺗ</BodyPartsArchotech.label>
+  
+  
+  <BodyPartsBionic.label>ﺔﻴﺟﻮﻟﻮﻴﺒﻟﺍ ﺓﺰﻬﺟﻷﺍ</BodyPartsBionic.label>
+  
+  
+  <BodyPartsMechtech.label>ﺔﻴﺤﺼﻟﺍ ﺔﻳﺎﻋﺮﻟﺍ ﺎﻴﺟﻮﻟﻮﻨﻜﺗ</BodyPartsMechtech.label>
+  
+  
+  <BodyPartsNatural.label>ﺔﻴﻌﻴﺒﻃ</BodyPartsNatural.label>
+  
+  
+  <BodyPartsProsthetic.label>ﺔﻴﻋﺎﻨﻄﺻﻻﺍ ﻑﺍﺮﻃﻷﺍ</BodyPartsProsthetic.label>
+  
+  
+  <BodyPartsSimple.label>ﺔﻄﻴﺴﺒﻟﺍ ﺀﺍﺰﺟﻷﺍ</BodyPartsSimple.label>
+  
+  
+  <BodyPartsUltra.label>ﺔﻣﺪﻘﺘﻤﻟﺍ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ</BodyPartsUltra.label>
+  
+  
+  <Buildings.label>ﻞﻛﺎﻴﻬﻟﺍ</Buildings.label>
+  
+  
+  <BuildingsArt.label>ﻦﻔﻟﺍ</BuildingsArt.label>
+  
+  
+  <BuildingsFurniture.label>ﺙﺎﺛﻷﺍ</BuildingsFurniture.label>
+  
+  
+  <BuildingsJoy.label>ﻪﻴﻓﺮﺗﻭ ﺔﻴﻠﺴﺗ</BuildingsJoy.label>
+  
+  
+  <BuildingsMisc.label>ﻉﻮﻨﺘﻣ</BuildingsMisc.label>
+  
+  
+  <BuildingsPower.label>ﺔﻗﺎﻄﻟﺍ</BuildingsPower.label>
+  
+  
+  <BuildingsProduction.label>ﺝﺎﺘﻧﺇ</BuildingsProduction.label>
+  
+  
+  <BuildingsSecurity.label>ﻉﺎﻓﺪﻟﺍ</BuildingsSecurity.label>
+  
+  
+  <BuildingsSpecial.label>ﺓﺰﻴﻤﻣ</BuildingsSpecial.label>
+  
+  
+  <BuildingsTemperature.label>ﺓﺭﺍﺮﺤﻟﺍ</BuildingsTemperature.label>
+  
+  
+  <Chunks.label>ﻝﻼﻃﻷﺍ</Chunks.label>
+  
+  
+  <Corpses.label>ﺚﺜﺟ</Corpses.label>
+  
+  
+  <CorpsesAnimal.label>ﺕﺎﻧﺍﻮﻴﺣ ﺀﺎﻔﻃﺇ</CorpsesAnimal.label>
+  
+  
+  <CorpsesHumanlike.label>ﺔﻳﺮﺸﺒﻟﺍ ﺚﺜﺠﻟﺍ</CorpsesHumanlike.label>
+  
+  
+  <CorpsesInsect.label>ﻞﺤﻨﻟﺍ</CorpsesInsect.label>
+  
+  
+  <CorpsesMechanoid.label>ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺎﻳﺎﻘﺑ</CorpsesMechanoid.label>
+  
+  
+  <Drugs.label>ﺕﺍﺭﺪﺨﻤﻟﺍ</Drugs.label>
+  
+  
+  <EggsFertilized.label>(ﺐﺼﺨﻣ) ﺾﻴﺑ</EggsFertilized.label>
+  
+  
+  <EggsUnfertilized.label>(ﺩﺪﺤﻣ ﺮﻴﻏ) ﺾﻴﺑ</EggsUnfertilized.label>
+  
+  
+  <FoodMeals.label>ﻕﺎﺒﻃﻷﺍ</FoodMeals.label>
+  
+  
+  <FoodRaw.label>ﺔﻴﺋﺍﺬﻐﻟﺍ ﺕﺎﺠﺘﻨﻤﻟﺍ</FoodRaw.label>
+  
+  
+  <Foods.label>ﻲﺋﺍﺬﻏ ﻦﻳﻮﻤﺗ</Foods.label>
+  
+  
+  <Grenades.label>ﻞﺑﺎﻨﻘﻟﺍ</Grenades.label>
+  
+  
+  <Headgear.label>ﺔﻌﻨﻗﻷﺍ</Headgear.label>
+  
+  
+  <HeadgearNoble.label>ﺱﺃﺮﻟﺍ ﺔﻴﻄﻏﻷﺍ</HeadgearNoble.label>
+  
+  
+  <InertRelics.label>ﺔﻄﺸﻨﻟﺍ ﺮﻴﻏ ﺔﻳﺮﺛﻷﺍ ﻊﻄﻘﻟﺍ</InertRelics.label>
+  
+  
+  <Items.label>ﺮﺻﺎﻨﻌﻟﺍ</Items.label>
+  
+  
+  <ItemsMisc.label>ﺪﻳﺪﺟ</ItemsMisc.label>
+  
+  
+  <Leathers.label>ﺪﻠﺠﻟﺍ</Leathers.label>
+  
+  
+  <Manufactured.label>ﺕﺎﺠﺘﻨﻤﻟﺍ</Manufactured.label>
+  
+  
+  <MeatRaw.label>ﻢﺤﻟ</MeatRaw.label>
+  
+  
+  <Medicine.label>ﺔﻴﺒﻄﻟﺍ ﺔﻳﻭﺩﻷﺍ</Medicine.label>
+  
+  
+  <MortarShells.label>ﺔﻴﻧﻭﺎﻬﻟﺍ ﻒﺋﺍﺬﻘﻟﺍ</MortarShells.label>
+  
+  
+  <Neurotrainers.label>ﺏﺎﺼﻋﻷﺍ ﻮﺑﺭﺪﻣ</Neurotrainers.label>
+  
+  
+  <NeurotrainersPsycast.label>ﺔﻴﺴﻔﻨﻟﺍ ﻯﻮﻘﻟﺍ ﻮﺑﺭﺪﻣ</NeurotrainersPsycast.label>
+  
+  
+  <NeurotrainersSkill.label>ﺕﺍﺭﺎﻬﻤﻠﻟ ﻥﻮﻴﺒﺼﻋ ﻥﻮﺑﺭﺪﻣ</NeurotrainersSkill.label>
+  
+  
+  <PlantFoodRaw.label>ﺄﺸﻨﻤﻟﺍ ﻲﺗﺎﺒﻧ</PlantFoodRaw.label>
+  
+  
+  <PlantMatter.label>ﺔﻴﺗﺎﺒﻧ ﻡﺎﺧ ﺩﺍﻮﻣ</PlantMatter.label>
+  
+  
+  <Plants.label>ﺕﺎﺗﺎﺒﻨﻟﺍ</Plants.label>
+  
+  
+  <ResourcesRaw.label>ﺩﺍﻮﻤﻟﺍ</ResourcesRaw.label>
+  
+  
+  <Root.label>ﺭﺬﺠﻟﺍ</Root.label>
+  
+  
+  <StoneBlocks.label>ﺔﻳﺮﺠﺣ ﻞﺘﻛ</StoneBlocks.label>
+  
+  
+  <StoneChunks.label>ﻱﺮﺨﺻ ﻡﺎﻄﺣ</StoneChunks.label>
+  
+  
+  <Stumps.label>.ﺞﻋﺰﻧﺍ</Stumps.label>
+  
+  
+  <Techprints.label>ﺕﺎﻄﻄﺨﻤﻟﺍ</Techprints.label>
+  
+  
+  <Textiles.label>ﺞﻴﺴﻨﻟﺍ</Textiles.label>
+  
+  
+  <Unfinished.label>ﺔﻠﻤﺘﻜﻣ ﺮﻴﻏ</Unfinished.label>
+  
+  
+  <Weapons.label>ﺡﻼﺴﻟﺍ</Weapons.label>
+  
+  
+  <WeaponsMelee.label>ﺔﺒﻳﺮﻘﻟﺍ ﺔﺤﻠﺳﻷﺍ</WeaponsMelee.label>
+  
+  
+  <WeaponsMeleeBladelink.label>ﺰﻴﻤﺘﻤﻟﺍ ﺡﻼﺴﻟﺍ</WeaponsMeleeBladelink.label>
+  
+  
+  <WeaponsRanged.label>ﺪﻌﺑ ﻦﻋ ﺔﺤﻠﺳﺃ</WeaponsRanged.label>
+  
+  
+  <Wools.label>ﻑﻮﺻ</Wools.label>
+  
+</LanguageData>

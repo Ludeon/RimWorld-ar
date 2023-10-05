@@ -1,0 +1,45 @@
+<LanguageData>
+  
+  
+  <AnimalAdult.label>ﻎﻟﺎﺑ</AnimalAdult.label>
+  
+  
+  <AnimalBaby.label>ﺭﺎﻐﺼﻟﺍ</AnimalBaby.label>
+  
+  
+  <AnimalBabyTiny.label>ﺪﻳﺪﺠﻟﺍ ﺩﻮﻟﻮﻤﻟﺍ</AnimalBabyTiny.label>
+  
+  
+  <AnimalJuvenile.label>ﺏﺎﺷ</AnimalJuvenile.label>
+  
+  
+  <EusocialInsectAdult.label>ﻎﻟﺎﺑ</EusocialInsectAdult.label>
+  
+  
+  <EusocialInsectJuvenile.label>ﺞﺿﺎﻧ ﺮﻴﻏ</EusocialInsectJuvenile.label>
+  
+  
+  <EusocialInsectLarva.label>ﺔﻗﺮﻴﻟﺍ</EusocialInsectLarva.label>
+  
+  
+  <HumanlikeAdult.label>.ﻎﻟﺎﺑ</HumanlikeAdult.label>
+  
+  
+  <HumanlikeBaby.label>ﺓﺩﻻﻮﻟﺍ ﺚﻳﺪﺣ ﻞﻔﻃ</HumanlikeBaby.label>
+  
+  <HumanlikeBaby.customMoodTipString>ﺪﻴﻌﺳ ﺺﺨﺷ ﻯﺪﻣ ﻱﺃ ﻰﻟﺇ ﺮﻬﻈﻳ ﺝﺍﺰﻤﻟﺍ
+ﺀﻲﺳ ﺝﺍﺰﻣ ﻲﻓ ﻊﺿﺮﻟﺍ ﻝﺎﻔﻃﻷﺍ .ﻖﻳﺎﻀﺘﻣ ﻭﺃ
+.ﺡﺮﻔﻟﺍ ﻥﻭﺮﻬﻈﻴﺳ ﺪﻴﺟ ﺝﺍﺰﻣ ﻲﻓﻭ ،ﺓﺮﺜﻜﺑ ﻥﻮﻜﺒﻴﺳ</HumanlikeBaby.customMoodTipString>
+  
+  
+  <HumanlikeChild.label>ﻞﻔﻃ</HumanlikeChild.label>
+  
+  
+  <HumanlikeTeenager.label>ﻖﻫﺍﺮﻣ</HumanlikeTeenager.label>
+  
+  <HumanlikeTeenager.adjective>ﻖﻫﺍﺮﻣ</HumanlikeTeenager.adjective>
+  
+  
+  <MechanoidFullyFormed.label>ﻞﻣﺎﻛ ﻞﻜﺸﺑ ﻞﻤﺘﻜﻣ</MechanoidFullyFormed.label>
+  
+</LanguageData>

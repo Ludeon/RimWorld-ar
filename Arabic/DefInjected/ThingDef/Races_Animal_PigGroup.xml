@@ -1,0 +1,86 @@
+<LanguageData>
+  
+  
+  <Chinchilla.label>ﻼﻴﺸﻨﺷ</Chinchilla.label>
+  
+  <Chinchilla.description>ﻥﺃ ﺐﻌﺼﻟﺍ ﻦﻣ .ﻂﻴﺸﻧﻭ ﺮﻴﻐﺻ ﺽﺭﺍﻮﻗ ﻥﺍﻮﻴﺣ
+ﻢﻬﺗﻭﺮﻓ ﻦﻣ ﻢﻌﻧﺃ ﺀﻲﺷ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻦﻜﻤﻳ
+.ﻥﻮﻜﻟﺍ ﻲﻓ</Chinchilla.description>
+  
+  <Chinchilla.tools.left_claw.label>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</Chinchilla.tools.left_claw.label>
+  
+  <Chinchilla.tools.right_claw.label>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ</Chinchilla.tools.right_claw.label>
+  
+  <Chinchilla.tools.head.label>голова</Chinchilla.tools.head.label>
+  
+  
+  <Deer.label>ﻝﺍﺰﻐﻟﺍ</Deer.label>
+  
+  <Deer.description>ﺶﻴﻌﻳ .ﻂﺳﻮﺘﻣ ﻢﺠﺤﺑ ﻲﺗﺎﺒﻨﻟﺍ ﻞﻛﻸﻟ ﻢﻗﺎﻃ ﻥﺍﻮﻴﺣ
+.ﺍﺪﺟ ﺔﻌﻳﺮﺳ ﻥﻻﺰﻐﻟﺍ .ﻝﻮﻬﺴﻟﺍﻭ ﺔﻄﻠﺘﺨﻤﻟﺍ ﺕﺎﺑﺎﻐﻟﺍ ﻲﻓ
+ﺖﺿﺮﻌﺗ ﻮﻟ ﻰﺘﺣ ﻢﺟﺎﻬﺗ ﻦﻟﻭ ﺎﻬﺘﻌﻴﺒﻄﺑ ﺔﺋﺩﺎﻫ
+.ﺀﺍﺬﻳﻺﻟ</Deer.description>
+  
+  <Deer.race.meatLabel>ﺀﺎﺒﻈﻟﺍ</Deer.race.meatLabel>
+  
+  <Deer.tools.left_hoof.label>ﺮﺴﻳﻷﺍ ﺮﻓﺎﺤﻟﺍ</Deer.tools.left_hoof.label>
+  
+  <Deer.tools.right_hoof.label>.ﻰﻨﻤﻴﻟﺍ ﺔﻴﺑﻮﻜﻟﺍ</Deer.tools.right_hoof.label>
+  
+  <Deer.tools.teeth.label>ﻥﺎﻨﺳﻷﺍ</Deer.tools.teeth.label>
+  
+  <Deer.tools.head.label>ﺱﺃﺮﻟﺍ</Deer.tools.head.label>
+  
+  
+  <Gazelle.label>ﻝﺍﺰﻏ</Gazelle.label>
+  
+  <Gazelle.description>ﻰﻠﻋ ﺎﻬﺗﺭﺪﻘﺑ ﺔﻓﻭﺮﻌﻣ ﺍﺪﺟ ﺔﻌﻳﺮﺳﻭ ﺓﺮﻴﻐﺻ ﺏﻮﻠﺘﻧﺃ
+.ﺍﺪﻴﻌﺑ ﺶﻫﺪﻣ ﻞﻜﺸﺑ ﺰﻔﻘﻟﺍ</Gazelle.description>
+  
+  <Gazelle.tools.left_hoof.label>ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ</Gazelle.tools.left_hoof.label>
+  
+  <Gazelle.tools.right_hoof.label>ﻦﻤﻳﻷﺍ ﻒﻜﻟﺍ</Gazelle.tools.right_hoof.label>
+  
+  <Gazelle.tools.head.label>ﺱﺃﺮﻟﺍ</Gazelle.tools.head.label>
+  
+  
+  <Ibex.label>ﻲﻠﺒﺠﻟﺍ ﺰﻋﺎﻤﻟﺍ</Ibex.label>
+  
+  <Ibex.description>ﻲﻓ ﺶﻴﻌﻳ .ﺔﺴﻧﺄﺘﺴﻤﻟﺍ ﺰﻋﺎﻤﻠﻟ ﻱﻮﻗ ﻱﺮﺑ ﻒﻠﺳ
+.ﺎﻬﻴﻓ ﺀﺎﻘﺒﻟﺍ ﺀﺎﺒﻈﻟﺍ ﻢﻈﻌﻤﻟ ﻦﻜﻤﻳ ﻻ ﻦﻛﺎﻣﺃ
+ﻑﻭﺮﻌﻣ .ﺓﺭﺩﺎﻨﻟﺍ ﺔﻴﻠﺒﺠﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍﻭ ﺐﻟﺎﺤﻄﻟﺍ ﻰﻠﻋ ﻯﺬﻐﺘﻳ
+ﻚﻟﺬﻛﻭ .ﺭﻮﺨﺼﻟﺍ ﻰﻠﻋ ﺰﻔﻘﻟﺍ ﻰﻠﻋ ﺔﺒﻴﻫﺮﻟﺍ ﻪﺗﺭﺪﻘﺑ
+.ﻪﻧﻭﺮﻗ ﺔﺑﺮﻀﺑ ﻭﺪﻌﻟﺍ ﺔﺑﺎﺻﺇ ﻰﻠﻋ ﻪﺗﺭﺪﻘﺑ</Ibex.description>
+  
+  <Ibex.tools.left_hoof.label>ﻯﺮﺴﻴﻟﺍ ﺔﻓﺎﺤﻟﺍ</Ibex.tools.left_hoof.label>
+  
+  <Ibex.tools.right_hoof.label>ﻦﻤﻳﻷﺍ ﻥﺮﻘﻟﺍ</Ibex.tools.right_hoof.label>
+  
+  <Ibex.tools.head.label>ﺱﺃﺮﻟﺍ</Ibex.tools.head.label>
+  
+  
+  <Pig.label>ﺮﻳﺰﻨﺧ</Pig.label>
+  
+  <Pig.description>ﻢﺗ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻞﺋﺍﻭﺃ ﺪﺣﺃ ﻥﺎﻛ ﺮﻳﺰﻨﺨﻟﺍ
+ﻞﻜﺸﺑ ﺎﻬﺘﻴﺑﺮﺗ ﻢﺘﻳ .ﻥﺎﺴﻧﻹﺍ ﻞﺒﻗ ﻦﻣ ﺎﻬﻀﻳﻭﺮﺗ
+ﺔﻠﻛﺁ ﺮﻳﺯﺎﻨﺨﻟﺍ .ﺪﻠﺠﻟﺍﻭ ﻢﺤﻠﻟﺍ ﻞﺟﺃ ﻦﻣ ﻲﺳﺎﺳﺃ
+.ﺎﻬﻣﺎﻌﻃﺇ ﻞﻬﺴﻟﺍ ﻦﻣ ﻚﻟﺬﻟ ، ﺀﻲﺷ ﻞﻛ</Pig.description>
+  
+  <Pig.race.meatLabel>ﺮﻳﺰﻨﺨﻟﺍ ﻢﺤﻟ</Pig.race.meatLabel>
+  
+  <Pig.tools.head.label>ﺱﺃﺮﻟﺍ</Pig.tools.head.label>
+  
+  
+  <WildBoar.label>ﻱﺮﺒﻟﺍ ﺮﻳﺰﻨﺨﻟﺍ</WildBoar.label>
+  
+  <WildBoar.description>ﻊﻣ ﺔﻔﻴﻜﺘﻤﻟﺍ ﺔﻴﻟﺰﻨﻤﻟﺍ ﺮﻳﺯﺎﻨﺨﻟﺍ ﺓﺭﻮﻛﺎﺑ ﻱﺮﻌﺷ ﻦﻴﻨﺟ
+.ﺔﻳﺮﺒﻟﺍ ﺓﺎﻴﺤﻟﺍ
+ﻦﻣ ﺔﻳﺪﺟ ﺮﺜﻛﺃ ﺎﻘﻧﺎﻌﻣ ﺮﻳﺰﻨﺨﻟﺍ ﺵﺎﺒﻜﻟﺍ ﻞﻌﺠﻳ
+ﺐﻳﺭﺪﺗ ﻦﻜﻤﻳ ﻻ ، ﻒﺳﻸﻟ .ﺲﻧﺄﺘﺴﻤﻟﺍ ﻩﺮﻴﻈﻧ
+.ﺐﻌﺻ ﺀﻲﺷ ﻱﺃ ﻰﻠﻋ ﺮﻳﺯﺎﻨﺨﻟﺍ</WildBoar.description>
+  
+  <WildBoar.tools.tusk.label>ﺕﺎﺑﺎﻨﻟﺍ</WildBoar.tools.tusk.label>
+  
+  <WildBoar.tools.head.label>ﺱﺃﺭ</WildBoar.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,55 @@
+<LanguageData>
+  
+  
+  <Chicken.label>ﺔﺟﺎﺟﺪﻟﺍ</Chicken.label>
+  
+  <Chicken.description>ﺾﻴﺒﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﻰﺑﺮﻳ ﻱﺪﻴﻠﻘﺗ ﻲﻟﺰﻨﻣ ﺮﺋﺎﻃ
+.ﺭﺮﻜﺘﻣ ﻞﻜﺸﺑ ﺾﻴﺒﻟﺍ ﺞﺘﻨﻳﻭ ﺔﻋﺮﺴﺑ ﻮﻤﻨﻳ :ﻢﺤﻠﻟﺍﻭ</Chicken.description>
+  
+  <Chicken.tools.claws.label>ﺐﻟﺎﺨﻤﻟﺍ</Chicken.tools.claws.label>
+  
+  <Chicken.tools.beak.label>ﺔﻔﻠﻛ</Chicken.tools.beak.label>
+  
+  <Chicken.tools.head.label>ﺱﺃﺭ</Chicken.tools.head.label>
+  
+  
+  <Duck.label>ﺔﻄﺒﻟﺍ</Duck.label>
+  
+  <Duck.description>ﺎﻀﻳﺃ ﺪﺟﻮﻳﻭ ﺔﻋﺍﺭﺰﻟﺍ ﻲﻓ ﻡﺪﺨﺘﺴﻳ ﻊﺋﺎﺷ ﺮﺋﺎﻃ
+ﺎﻬﻤﺤﻟ ﻂﺒﻟﺍ ﺔﻴﺑﺮﺗ ﻢﺘﻳ .ﺔﻳﺮﺒﻟﺍ ﺔﻌﻴﺒﻄﻟﺍ ﻲﻓ
+ﻢﻬﻨﻜﻟﻭ ﺔﻋﺮﺴﺑ ﻥﻭﺮﺒﻜﻳ .ﺔﻴﺋﺍﺬﻐﻟﺍ ﺮﺻﺎﻨﻌﻟﺎﺑ ﻲﻨﻐﻟﺍﻭ ﺬﻳﺬﻠﻟﺍ
+.ﺍﺭﺩﺎﻧ ﺾﻴﺒﻟﺍ ﻥﻮﻀﻴﺒﻳ</Duck.description>
+  
+  <Duck.tools.claws.label>ﺐﻟﺎﺨﻤﻟﺍ</Duck.tools.claws.label>
+  
+  <Duck.tools.beak.label>ﺭﺎﻘﻨﻤﻟﺍ</Duck.tools.beak.label>
+  
+  <Duck.tools.head.label>ﺱﺃﺮﻟﺍ</Duck.tools.head.label>
+  
+  
+  <Goose.label>ﺲﻴﻏ</Goose.label>
+  
+  <Goose.description>.ﻢﺤﻠﻟﺍﻭ ﺾﻴﺒﻟﺍ ﺽﺍﺮﻏﻷ ﻥﺎﺴﻧﻹﺍ ﺔﻄﺳﺍﻮﺑ ﺲﻧﺄﺘﺴﻣ ﺮﺋﺎﻃ
+ﺓﺮﺘﻓ ﻦﻜﻟﻭ ،ﺍﺪﺟ ﺭﺮﻜﺘﻣ ﻞﻜﺸﺑ ﺾﻴﺒﻟﺍ ﻊﻀﻳ
+.ﺍﺪﺟ ﺔﻠﻳﻮﻃ ﻢﻬﺘﻧﺎﻀﺣ</Goose.description>
+  
+  <Goose.tools.claws.label>ﻝﺎﻣﺎﻛ</Goose.tools.claws.label>
+  
+  <Goose.tools.beak.label>ﺭﺎﻘﻨﻤﻛ</Goose.tools.beak.label>
+  
+  <Goose.tools.head.label>ﺱﺃﺭ</Goose.tools.head.label>
+  
+  
+  <Turkey.label>ﻲﻣﻭﺮﻟﺍ ﻚﻳﺪﻟﺍ</Turkey.label>
+  
+  <Turkey.description>ﻪﺗﻮﺼﺑ ﻑﻭﺮﻌﻣ ،ﻦﻴﻤﺳﻭ ﺮﻴﻐﺻ ﺮﺋﺎﻃ ﺮﻴﻏ ﺮﺋﺎﻃ
+ﻪﻨﻜﻟﻭ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻓ ﺬﻨﻣ ﻪﻀﻳﻭﺮﺗ ﻢﺗ .ﻚﺤﻀﻤﻟﺍ
+.ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﻝﺍﺰﻳ ﻻ</Turkey.description>
+  
+  <Turkey.tools.claws.label>ﺐﻟﺎﺨﻣ</Turkey.tools.claws.label>
+  
+  <Turkey.tools.beak.label>ﺭﺎﻘﻨﻤﻟﺍ</Turkey.tools.beak.label>
+  
+  <Turkey.tools.head.label>ﺱﺃﺭ</Turkey.tools.head.label>
+  
+</LanguageData>

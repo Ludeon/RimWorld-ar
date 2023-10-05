@@ -1,0 +1,167 @@
+<LanguageData>
+  
+  
+  <AirConditioning.label>ﺔﻴﺋﺍﻮﻬﻟﺍ ﺕﺎﻔﻴﻜﻤﻟﺍ</AirConditioning.label>
+  
+  <AirConditioning.description>.ﺕﺎﺟﻼﺜﻟﺍ ﺰﻴﻬﺠﺗﻭ ﺮﺤﻟﺍ ﻲﻓ ﻑﺮﻐﻟﺍ ﺪﻳﺮﺒﺘﻟ ﺔﻤﻤﺼﻣ</AirConditioning.description>
+  
+  
+  <Autodoors.label>ﺔﻴﻜﻴﺗﺎﻣﻮﺗﻭﻷﺍ ﺏﺍﻮﺑﻷﺍ</Autodoors.label>
+  
+  <Autodoors.description>ﺔﻴﻟﺁﻭ ﺭﺎﻌﺸﺘﺳﺍ ﺓﺰﻬﺟﺄﺑ ﺓﺩﻭﺰﻣ ﺏﺍﻮﺑﺃ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺢﻴﺘﻴﺳ
+.ﺎﻬﺤﺘﻓ ﻲﻓ ﻢﻬﺘﻗﻭ ﺭﺍﺪﻫﺇ ﻡﺪﻋ ﺔﻴﺋﺎﺑﺮﻬﻛ</Autodoors.description>
+  
+  
+  <Batteries.label>ﺕﺎﻳﺭﺎﻄﺒﻟﺍ</Batteries.label>
+  
+  <Batteries.description>.ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺔﻗﺎﻄﻟﺍ ﻦﻳﺰﺨﺘﻟ ﺕﺎﻳﺭﺎﻄﺑ ﻊﻨﺻ</Batteries.description>
+  
+  
+  <BiofuelRefining.label>ﺔﻳﻮﻴﺤﻟﺍ ﻡﺎﺨﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻞﻘﻧ</BiofuelRefining.label>
+  
+  <BiofuelRefining.description>ﻦﻣ ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻭ ﺹﻼﺨﺘﺳﻻ ﺮﻴﻄﻘﺗ ﺕﺍﺪﺣﻭ ﻢﻴﻤﺼﺗ
+.ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻭﺃ ﺐﺸﺨﻟﺍ ﻞﺜﻣ ﺔﻳﻮﻀﻋ ﺩﺍﻮﻣ</BiofuelRefining.description>
+  
+  
+  <BlowbackOperation.label>ﺩﺍﺪﺗﺭﻻﺍ ﺔﻗﺎﻃ</BlowbackOperation.label>
+  
+  <BlowbackOperation.description>،ﺔﻴﺋﺎﻘﻠﺗ ﻒﺼﻧﻭ ﺔﻴﺋﺎﻘﻠﺗ ﺔﻳﺭﺎﻧ ﺔﺤﻠﺳﺃ ﺀﺎﻨﺒﺑ ﺢﻤﺴﻳ
+.ﺔﻴﻟﻵﺍ ﺕﺎﺳﺪﺴﻤﻟﺍﻭ ﺔﻴﺋﺎﻘﻠﺗ ﻒﺼﻨﻟﺍ ﻕﺩﺎﻨﺒﻟﺍ ﻞﺜﻣ</BlowbackOperation.description>
+  
+  
+  <ColoredLights.label>ﺔﻣﺪﻘﺘﻤﻟﺍ ﺓﺀﺎﺿﻹﺍ</ColoredLights.label>
+  
+  <ColoredLights.description>ﺔﻳﺩﺎﻌﻟﺍ ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺢﻴﺑﺎﺼﻤﻟﺍ ﻥﻮﻟ ﺮﻴﻴﻐﺗ ﻦﻜﻤﻳ ﻻ
+ﻞﻤﺸﻳ ﻻﻭ ،ﻒﺼﻨﻟﺍ ﻰﻟﺇ ﺔﻗﺎﻄﻟﺍ ﻙﻼﻬﺘﺳﺍ ﻞﻴﻠﻘﺗﻭ
+.ﺔﻴﺴﻤﺸﻟﺍ ﺢﻴﺑﺎﺼﻤﻟﺍ</ColoredLights.description>
+  
+  
+  <Electricity.label>ﺀﺎﺑﺮﻬﻜﻟﺍ</Electricity.label>
+  
+  <Electricity.description>ﻡﺎﻬﻤﻟﺍ ﺕﺎﺌﻣ ﺀﺍﺩﻷ ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺔﻗﺎﻄﻟﺍ ﻡﺍﺪﺨﺘﺳﺍﻭ ﺝﺎﺘﻧﺇ
+.ﺔﻔﻠﺘﺨﻤﻟﺍ</Electricity.description>
+  
+  <Electricity.discoveredLetterText>ﻚﻨﻜﻤﻳ ﻪﺘﻄﺳﺍﻮﺑ "ﺀﺎﺑﺮﻬﻜﻟﺍ" ﻪﻧﻮﻤﺴﻳ ﺮﺼﻨﻋ ﺖﻔﻧﺄﺘﺳﺍ ﻚﺘﻨﻃﻮﺘﺴﻣ
+.ﺎﻳﺭﺬﺟ ﻚﻌﻤﺘﺠﻣ ﺓﺎﻴﺣ ﻞﻳﻮﺤﺗ
+ﺔﻤﺋﺎﻗ ﻲﻓ "ﺔﻗﺎﻄﻟﺍ" ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ ﻚﻳﺪﻟ ﻥﻵﺍ
+ﺔﻴﺋﺎﺑﺮﻬﻛ ﺓﺰﻬﺟﺃﻭ ﺕﻼﺑﺎﻛﻭ ﺕﺍﺪﻟﻮﻣ ﺎﻬﻴﻓ ﺪﺠﺘﺳ .ﺀﺎﻨﺒﻟﺍ
+ﺔﻜﺒﺸﻟﺍ ﺎﻀﻳﺃ ﺽﺮﻌﺗ "ﺔﻗﺎﻄﻟﺍ" ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ .ﻯﺮﺧﺃ
+.ﻯﺮﺧﻷﺍ ﺀﺎﺑﺮﻬﻜﻟﺍﻭ ﺎﻬﺑ ﺔﻠﺼﺘﻤﻟﺍ ﺕﺍﺪﻟﻮﻤﻟﺍﻭ ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ</Electricity.discoveredLetterText>
+  
+  <Electricity.discoveredLetterTitle>ﺀﺎﺑﺮﻬﻜﻟﺍ :ﻞﻴﺻﺎﻔﺗ</Electricity.discoveredLetterTitle>
+  
+  
+  <Firefoam.label>ﻖﻳﺮﺤﻟﺍ ﺓﻮﻏﺭ</Firefoam.label>
+  
+  <Firefoam.description>،ﺔﻴﻟﺎﻌﻔﺑ ﻖﺋﺍﺮﺤﻟﺍ ﺪﻤﺨﺗ ﻖﺋﺍﺮﺤﻠﻟ ﺓﺩﺎﻀﻤﻟﺍ ﺔﻳﺭﺎﻨﻟﺍ ﺓﻮﻏﺮﻟﺍ
+.ﺎﻬﺑ ﻖﺋﺍﺮﺤﻠﻟ ﺔﺤﻓﺎﻜﻤﻟﺍ ﺓﺰﻬﺟﻷﺍ ﺊﻠﻣ ﻦﻜﻤﻳﻭ</Firefoam.description>
+  
+  
+  <FlakArmor.label>ﺔﻴﻋﺭﺪﻟﺍ ﺔﻳﺎﻤﺤﻟﺍ</FlakArmor.label>
+  
+  <FlakArmor.description>ﺪﺿ ﺔﻳﺎﻤﺣ ﺮﻓﻮﺗ ﺔﺠﻣﺪﻤﻟﺍ ﺔﻴﻧﺪﻌﻤﻟﺍ ﺕﺎﺣﻮﻠﻟﺎﺑ ﺲﺑﻼﻤﻟﺍ
+ﺔﻛﺮﺤﻟﺍ ﻕﻮﻌﻳ ﻞﻴﻘﺜﻟﺍ ﺎﻬﻧﺯﻭ ﻦﻜﻟﻭ ،ﺎﻳﺎﻈﺸﻟﺍﻭ ﺔﻨﻌﻄﻟﺍ
+.ﻼﻴﻠﻗ</FlakArmor.description>
+  
+  
+  <FoamTurret.label>ﺔﻤﻳﺪﻘﻟﺍ ﻊﻓﺍﺪﻤﻟﺍ</FoamTurret.label>
+  
+  <FoamTurret.description>ﺪﻨﻋ ﺀﺎﻔﻃﺇ ﺓﻮﻏﺭ ﺮﺜﻨﺗ ﺝﺍﺮﺑﺃ ﺀﺎﻨﺒﺑ ﺢﻤﺴﺗ
+.ﻂﻴﺸﻨﺘﻟﺍ</FoamTurret.description>
+  
+  
+  <GasOperation.label>ﺩﻭﺭﺎﺒﻟﺍ ﺕﺍﺯﺎﻏ ﻉﺰﻧ</GasOperation.label>
+  
+  <GasOperation.description>ﺔﻴﻟﺁ ﻪﺒﺷﻭ ﺔﻴﻟﺁ ﺔﻳﺭﺎﻧ ﺔﺤﻠﺳﺃ ﺀﺎﻨﺒﺑ ﺢﻤﺴﻳ
+.ﺔﻳﻭﺪﻳ ﺕﺎﺷﺎﺷﺭﻭ ﺔﺷﺎﺷﺭ ﻕﺩﺎﻨﺑ ،ﺔﻴﻟﺁ ﻕﺩﺎﻨﺑ :ﺔﻣﺪﻘﺘﻣ</GasOperation.description>
+  
+  
+  <GeothermalPower.label>ﺔﻳﺭﺍﺮﺣﻮﻴﺠﻟﺍ ﺔﻗﺎﻄﻟﺍ</GeothermalPower.label>
+  
+  <GeothermalPower.description>ﻊﻴﺑﺎﻨﻳ ﻰﻠﻋ ﺔﻳﺭﺍﺮﺣﻮﻴﺠﻟﺍ ﺀﺎﺑﺮﻬﻜﻟﺍ ﺪﻴﻟﻮﺗ ﺕﺎﻄﺤﻣ ﺀﺎﻨﺑ
+.ﺓﺮﻤﺘﺴﻤﻟﺍ ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺔﻗﺎﻄﻟﺍ ﺪﻴﻟﻮﺘﻟ ﺔﻳﺭﺎﺨﺑ</GeothermalPower.description>
+  
+  
+  <Gunsmithing.label>ﺔﻳﺭﺎﻧ ﺔﺤﻠﺳﺃ</Gunsmithing.label>
+  
+  <Gunsmithing.description>ﻕﺩﺎﻨﺑﻭ ﺓﺭﺍﻭﺪﻟﺍ ﻕﺩﺎﻨﺒﻟﺍ ﺔﻄﻴﺴﺒﻟﺍ ﺔﻳﺭﺎﻨﻟﺍ ﺔﺤﻠﺳﻷﺍ ﻞﻤﺸﺗ
+ﺎﻀﻳﺃﻭ ﻲﻟﻮﻄﻟﺍ ﻢﺘﺨﻟﺍ ﺕﺍﺫ ﺔﻴﻗﺪﻨﺒﻟﺍ ﻕﺩﺎﻨﺒﻟﺍﻭ ﺓﺮﻜﺒﻟﺍ
+.ﺔﻴﺒﻬﻠﻟﺍ ﺕﺎﺤﻔﺼﻤﻟﺍ</Gunsmithing.description>
+  
+  
+  <GunTurrets.label>ﺵﺎﺷﺭ ﺝﺍﺮﺑﺃ</GunTurrets.label>
+  
+  <GunTurrets.description>.ﻞﻴﻐﺸﺘﻟﺍ ﺔﻴﺗﺍﺫ ﺔﻄﻴﺴﺑ ﺵﺎﺷﺭ ﺝﺍﺮﺑﺃ ﺝﺎﺘﻧﺇ</GunTurrets.description>
+  
+  
+  <Hydroponics.label>ﺎﻜﻴﻧﻮﺑﻭﺭﺪﻴﻬﻟﺍ</Hydroponics.label>
+  
+  <Hydroponics.description>ﻲﻓ ﺕﺎﺗﺎﺒﻨﻠﻟ ﺔﻌﻳﺮﺳ ﺔﻋﺍﺭﺰﻟ ﻚﻴﻧﻮﺑﻭﺭﺪﻴﻫ ﺕﺎﻧﺍﺰﺧ ﺀﺎﺸﻧﺇ
+.ﻲﺟﺭﺎﺨﻟﺍ ﺲﻘﻄﻟﺍﻭ ﺔﺑﺮﺘﻟﺍ ﻦﻋ ﺮﻈﻨﻟﺍ ﺾﻐﺑ ﻞﺧﺍﺪﻟﺍ</Hydroponics.description>
+  
+  
+  <IEDs.label>ﻡﺎﻐﻟﻷﺍ</IEDs.label>
+  
+  <IEDs.description>ﻒﺋﺍﺬﻗ ﻦﻣ ﻂﻐﻀﻟﺎﺑ ﻞﻤﻌﺗ ﻡﺎﻐﻟﺃ ﺐﻴﻛﺮﺗﻭ ﻊﻴﻨﺼﺗ
+.ﺔﻴﻌﻓﺪﻤﻟﺍ</IEDs.description>
+  
+  
+  <Machining.label>ﺎﻜﻴﻧﺎﻜﻴﻤﻟﺍ</Machining.label>
+  
+  <Machining.description>ﻞﻳﻮﺤﺗﻭ ﺕﺍﺪﻌﻤﻟﺍﻭ ﺔﺤﻠﺳﻷﺍ ﻊﻴﻤﺠﺘﻟ ﻁﺭﺎﺨﻣ ﺀﺎﺸﻧﺈﺑ ﺢﻤﺴﻳ
+.ﺖﻴﻤﻟﺍ ﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ</Machining.description>
+  
+  
+  <Mortars.label>ﻥﻭﺎﻬﻟﺍ ﻊﻓﺍﺪﻣ</Mortars.label>
+  
+  <Mortars.description>ﺓﺪﻴﻌﺑ ﺕﺎﻓﺎﺴﻣ ﺮﺒﻋ ﻒﺋﺍﺬﻗ ﻕﻼﻃﺈﺑ ﺢﻤﺴﺗ ﺕﺎﻧﻭﺎﻬﻟﺍ
+.ﻖﺋﺍﻮﻌﻟﺍ ﻕﻮﻓ</Mortars.description>
+  
+  
+  <NutrientPaste.label>ﻲﺋﺍﺬﻐﻟﺍ ﻥﻮﺠﻌﻤﻟﺍ</NutrientPaste.label>
+  
+  <NutrientPaste.description>ﻲﺋﺍﺬﻏ ﻥﻮﺠﻌﻣ ﺝﺎﺘﻧﺈﺑ ﺢﻤﺴﺗ ﺔﺻﺎﺨﻟﺍ ﺐﺼﻟﺍ ﺓﺰﻬﺟﺃ
+.ﻡﺎﺨﻟﺍ ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﻲﻟﺁﻭ ﻝﺎﻌﻓ ﻞﻜﺸﺑ</NutrientPaste.description>
+  
+  
+  <PackagedSurvivalMeal.label>ﺔﻔﻔﺠﻣ ﺔﻳﺬﻏﺃ</PackagedSurvivalMeal.label>
+  
+  <PackagedSurvivalMeal.description>ﻲﻟﺎﺜﻣﻭ ﺪﺴﻔﻳ ﻻ ،ﻡﺎﻜﺣﺈﺑ ﺄﺒﻌﻣﻭ ﻅﻮﻔﺤﻣ ﻡﺎﻌﻃ
+.ﺮﻔﺴﻠﻟ</PackagedSurvivalMeal.description>
+  
+  
+  <Prosthetics.label>ﺔﻴﺒﻄﻟﺍ ﺕﺎﺒﻴﻛﺮﺘﻟﺍ</Prosthetics.label>
+  
+  <Prosthetics.description>.ﺓﺩﻮﻘﻔﻤﻟﺍ ﻑﺍﺮﻃﻷﺍ ﻝﺍﺪﺒﺘﺳﻻ ﺔﻄﻴﺴﺑ ﺔﻴﻋﺎﻨﺻ ﻑﺍﺮﻃﺃ ﻢﻴﻤﺼﺗ
+.ﺐﻴﻛﺮﺘﻠﻟ ﺮﻫﺎﻣ ﺐﻴﺒﻃ ﻰﻟﺇ ﺝﺎﺘﺤﺗ</Prosthetics.description>
+  
+  
+  <SmokepopBelt.label>ﻥﺎﺧﺪﻟﺍ ﺪﻋﺎﺼﺗ ﺏﺎﻌﻟﺍ</SmokepopBelt.label>
+  
+  <SmokepopBelt.description>.ﻥﺎﺧﺪﻟﺍ ﻦﻣ ﺰﺟﺎﺣ ﺀﺎﺸﻧﻹ ﻥﺎﺧﺪﻟﺍ ﻞﺑﺎﻨﻗ ﻡﺪﺨﺘﺴﺗ</SmokepopBelt.description>
+  
+  
+  <SolarPanels.label>ﺔﻴﺴﻤﺸﻟﺍ ﺎﻳﻼﺨﻟﺍ</SolarPanels.label>
+  
+  <SolarPanels.description>ﺔﻗﺎﻃ ﻰﻟﺇ ﺲﻤﺸﻟﺍ ﺔﻌﺷﺃ ﻝﻮﺤﺗ ﺔﻴﺴﻤﺸﻟﺍ ﺕﺎﺣﻮﻠﻟﺍ
+.ﺔﻴﺋﺎﺑﺮﻬﻛ</SolarPanels.description>
+  
+  
+  <SterileMaterials.label>ﺔﻔﻴﻈﻨﻟﺍ ﺩﺍﻮﻤﻟﺍ</SterileMaterials.label>
+  
+  <SterileMaterials.description>ﺝﻼﻌﻟ ﺔﻔﻴﻈﻧ ﺕﺎﺣﺎﺴﻣ ﺀﺎﺸﻧﻹ ﻒﻴﻈﻨﻟﺍ ﻁﻼﺒﻟﺍ ﺐﻴﻛﺮﺗ
+.ﻡﺎﻌﻄﻟﺍ ﺩﺍﺪﻋﺇﻭ ﺚﺤﺒﻠﻟﻭ ﺔﻴﻟﺎﻌﻓﻭ ﺎﻧﺎﻣﺃ ﺮﺜﻛﺃ</SterileMaterials.description>
+  
+  
+  <TubeTelevision.label>ﻱﺩ ﻲﺳ ﻝﺇ ﺕﺎﻧﻮﻳﺰﻔﻠﺗ</TubeTelevision.label>
+  
+  <TubeTelevision.description>ﺓﺪﻫﺎﺸﻣ .ﻲﻧﻭﺮﺘﻜﻟﻹﺍ ﻉﺎﻌﺸﻟﺍ ﺐﻴﺑﺎﻧﺃ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺕﺎﻧﻮﻳﺰﻔﻠﺘﻟﺍ ﻊﻴﻨﺼﺗ
+.ﻪﻴﻓﺮﺘﻟﺍ ﻉﺍﻮﻧﺃ ﻦﻣ ﺓﺪﺣﺍﻭ ﻲﻫ ﺔﻴﻧﻮﻳﺰﻔﻠﺘﻟﺍ ﺞﻣﺍﺮﺒﻟﺍ</TubeTelevision.description>
+  
+  
+  <WatermillGenerator.label>ﺀﺎﻤﻟﺍ ﺕﺍﺪﻟﻮﻣ</WatermillGenerator.label>
+  
+  <WatermillGenerator.description>ﺭﺪﺼﻣ ﻰﻟﺇ ﻩﺎﻴﻤﻟﺍ ﻖﻓﺪﺗ ﻝﻮﺤﺗ ﻩﺎﻴﻤﻟﺍ ﺕﺍﺪﻟﻮﻣ
+.ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺔﻗﺎﻄﻠﻟ ﺮﻘﺘﺴﻣ</WatermillGenerator.description>
+  
+</LanguageData>

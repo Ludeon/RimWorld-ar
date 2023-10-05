@@ -1,0 +1,96 @@
+<LanguageData>
+  
+  
+  <AllowBiocodedApparel.label>ﻱﻮﻴﺤﻟﺍ ﺮﻴﻔﺸﺘﻟﺍ</AllowBiocodedApparel.label>
+  
+  
+  <AllowBiocodedWeapons.label>ﻱﻮﻴﺤﻟﺍ ﺰﻣﺮﻟﺍ</AllowBiocodedWeapons.label>
+  
+  
+  <AllowBurnableApparel.label>ﺔﻠﻌﺘﺸﻣ</AllowBurnableApparel.label>
+  
+  
+  <AllowBurnableWeapons.label>ﻞﻌﺘﺸﻣ</AllowBurnableWeapons.label>
+  
+  
+  <AllowCorpsesColonist.label>ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ</AllowCorpsesColonist.label>
+  
+  <AllowCorpsesColonist.description>.ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺚﺜﺟ ﻦﻣ ﺺﻠﺨﺘﻟﺎﺑ ﺡﺎﻤﺴﻟﺍ</AllowCorpsesColonist.description>
+  
+  
+  <AllowCorpsesStranger.label>ﺀﺎﺑﺮﻐﻟﺍ</AllowCorpsesStranger.label>
+  
+  <AllowCorpsesStranger.description>.ﺀﺍﺪﻋﻷﺍﻭ ﺀﺎﺑﺮﻐﻟﺍ ﺚﺜﺠﺑ ﺡﺎﻤﺴﻟﺍ</AllowCorpsesStranger.description>
+  
+  
+  <AllowDeadmansApparel.label>ﺚﺜﺠﻟﺍ ﻦﻣ ﺲﺑﻼﻤﻟﺍ</AllowDeadmansApparel.label>
+  
+  <AllowDeadmansApparel.description>ﺱﺎﻨﻟﺍ ،ﻰﺗﻮﻤﻟﺍ ﻦﻣ ﺔﻌﻠﺨﻤﻟﺍ ﺲﺑﻼﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺡﺎﻤﺴﻟﺍ
+.ﺎﻬﺋﺍﺮﺷ ﻥﻮﻀﻓﺮﻳ ﺭﺎﺠﺘﻟﺍﻭ "ﺓﺭﺬﻗ ﺲﺑﻼﻣ" ﺎﻬﻧﻭﺮﺒﺘﻌﻳ</AllowDeadmansApparel.description>
+  
+  
+  <AllowFemaleGender.label>ﺀﺎﺴﻨﻟﺍ</AllowFemaleGender.label>
+  
+  <AllowFemaleGender.description>ﺀﺎﺴﻨﻠﻟ ﺡﺎﻤﺴﻟﺍ</AllowFemaleGender.description>
+  
+  
+  <AllowFresh.label>ﺓﺪﻳﺪﺠﻟﺍ ﺕﺎﺜﻳﺪﺤﺘﻟﺎﺑ ﺡﺎﻤﺴﻟﺍ</AllowFresh.label>
+  
+  <AllowFresh.description>ﻲﻓ ﺃﺪﺒﺗ ﻢﻟ ﻲﺘﻟﺍ ﺔﻳﻮﻀﻌﻟﺍ ﺩﺍﻮﻤﻟﺎﺑ ﺡﺎﻤﺴﻟﺍ
+.ﺪﻌﺑ ﻦﻔﻌﺘﻟﺍ</AllowFresh.description>
+  
+  
+  <AllowLargeCorpses.label>ﺓﺮﻴﺒﻛ ﺚﺜﺟ ﺩﻮﺟﻮﺑ ﺢﻤﺳﺍ</AllowLargeCorpses.label>
+  
+  <AllowLargeCorpses.description>.ﺓﺮﻴﺒﻜﻟﺍ ﺚﺜﺠﻟﺎﺑ ﺡﺎﻤﺴﻟﺍ</AllowLargeCorpses.description>
+  
+  
+  <AllowMaleGender.label>ﻝﺎﺟﺮﻟﺍ</AllowMaleGender.label>
+  
+  <AllowMaleGender.description>ﻝﺎﺟﺮﻠﻟ ﺡﺎﻤﺴﻟﺍ</AllowMaleGender.description>
+  
+  
+  <AllowNonBiocodedApparel.label>ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﺩﻮﻜﻟﺎﺑ ﺓﺮﻔﺸﻣ ﺮﻴﻏ</AllowNonBiocodedApparel.label>
+  
+  
+  <AllowNonBiocodedWeapons.label>ﻱﻮﻴﺤﻟﺍ ﻱﻭﻮﻨﻟﺍ ﺾﻤﺤﻟﺎﺑ ﺍﺮﻔﺸﻣ ﺲﻴﻟ</AllowNonBiocodedWeapons.label>
+  
+  
+  <AllowNonBurnableApparel.label>ﺎﻬﻟﺎﻌﺘﺷﺍ ﻦﻜﻤﻳ ﻻ</AllowNonBurnableApparel.label>
+  
+  
+  <AllowNonBurnableWeapons.label>ﻝﺎﻌﺘﺷﻼﻟ ﻞﺑﺎﻗ ﺮﻴﻏ</AllowNonBurnableWeapons.label>
+  
+  
+  <AllowNonDeadmansApparel.label>ﺚﺜﺠﻟﺍ ﻦﻣ ﺲﺑﻼﻤﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻳ ﻻ</AllowNonDeadmansApparel.label>
+  
+  <AllowNonDeadmansApparel.description>ﻦﻣ ﺎﻬﻌﻠﺧ ﻢﺘﻳ ﻢﻟ ﻲﺘﻟﺍ ﺲﺑﻼﻤﻟﺎﺑ ﺡﺎﻤﺴﻟﺍ
+ﻢﺗ ﻲﺘﻟﺍ ﺲﺑﻼﻤﻟﺍ ﺱﺎﻨﻟﺍ ﻢﻈﻌﻣ ﺮﺒﺘﻌﻳ .ﻰﻠﺘﻘﻟﺍ
+.ﺎﻬﺋﺍﺮﺷ ﻥﻮﻀﻓﺮﻳ ﺭﺎﺠﺘﻟﺍ ."ﺔﺨﺴﺘﻣ" ﺔﺜﺟ ﻦﻣ ﺎﻬﻌﻠﺧ</AllowNonDeadmansApparel.description>
+  
+  
+  <AllowNonSmeltableApparel.label>ﺮﻬﺼﻠﻟ ﺔﺤﻟﺎﺻ ﺮﻴﻏ</AllowNonSmeltableApparel.label>
+  
+  
+  <AllowNonSmeltableWeapons.label>ﻪﻧﺎﺑﻭﺫ ﻦﻜﻤﻳ ﻼﻟﺍ ﻉﻮﻧ</AllowNonSmeltableWeapons.label>
+  <AllowNonSmeltableWeapons.description>.ﺓﺮﻬﺼﻨﻤﻟﺍ ﺮﻴﻏ ﺔﺤﻠﺳﻸﻟ ﺡﺎﻤﺴﻟﺍ</AllowNonSmeltableWeapons.description>
+  
+  
+  <AllowPlantFood.label>ﻑﻼﻋﻷﺍ</AllowPlantFood.label>
+  
+  <AllowPlantFood.description>ﻢﻟ ﻲﺘﻟﺍ ﺕﺎﺗﺎﺒﻨﻠﻟ ﻝﺩﺎﻌﻤﻟﺍ ﻲﺗﺎﺒﻨﻟﺍ ﻡﺎﻌﻄﻟﺎﺑ ﺢﻤﺳﺍ
+.ﻦﺒﺘﻟﺍ ﻞﺜﻣ ، ﺎﻬﻌﻤﺟ ﻢﺘﻳ</AllowPlantFood.description>
+  
+  
+  <AllowRotten.label>ﻦﻔﻌﺘﻟﺎﺑ ﺢﻤﺳ</AllowRotten.label>
+  
+  <AllowRotten.description>.ﻦﻔﻌﺘﺗ ﺕﺃﺪﺑ ﻲﺘﻟﺍ ﺕﺎﻳﻮﻀﻌﻠﻟ ﺡﺎﻤﺴﻟﺍ</AllowRotten.description>
+  
+  
+  <AllowSmeltable.label>ﺭﻮﻬﺼﻣ</AllowSmeltable.label>
+  <AllowSmeltable.description>.ﺮﻬﺼﻠﻟ ﻞﺑﺎﻗ ﺡﻼﺳ ﻦﻴﻜﻤﺗ</AllowSmeltable.description>
+  
+  
+  <AllowSmeltableApparel.label>ﺔﺑﺍﺬﻣ</AllowSmeltableApparel.label>
+  
+</LanguageData>

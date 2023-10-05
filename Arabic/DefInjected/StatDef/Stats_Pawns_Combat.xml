@@ -1,0 +1,87 @@
+<LanguageData>
+  
+  
+  <AimingDelayFactor.label>ﻑﺍﺪﻬﺘﺳﻻﺍ ﺖﻗﻭ</AimingDelayFactor.label>
+  
+  <AimingDelayFactor.description>.ﺔﻴﺼﺨﺸﻠﻟ ﺏﻮﻠﻄﻤﻟﺍ ﻑﺍﺪﻬﺘﺳﻻﺍ ﺖﻗﻭ</AimingDelayFactor.description>
+  
+  
+  <IncomingDamageFactor.label>ﻰﻘﻠﺘﻤﻟﺍ ﺭﺮﻀﻟﺍ ﻞﻣﺎﻌﻣ</IncomingDamageFactor.label>
+  
+  <IncomingDamageFactor.description>.ﻩﺎﻘﻠﺘﻳ ﻱﺬﻟﺍ ﺭﺮﻀﻟﺍ ﻞﻛ ﻰﻠﻋ ﻖﺒﻄﻳ ﻒﻋﺎﻀﻣ</IncomingDamageFactor.description>
+  
+  
+  <MeleeArmorPenetration.label>ﺪﻳ ﺔﺴﻤﻠﺑ ﻉﻭﺭﺪﻟﺍ ﺭﻮﺒﻋ</MeleeArmorPenetration.label>
+  
+  <MeleeArmorPenetration.description>ﺡﻼﺴﻟﺎﺑ ﺔﺒﻳﺮﻘﻟﺍ ﺕﺎﻤﺠﻬﻟﺍ ﻲﻓ ﻉﻭﺭﺪﻟﺍ ﻕﺍﺮﺘﺧﺍ ﻂﺳﻮﺘﻣ
+.ﻲﻟﺎﺤﻟﺍ</MeleeArmorPenetration.description>
+  
+  
+  <MeleeDodgeChance.label>ﺐﻳﺮﻘﻟﺍ ﻝﺎﺘﻘﻟﺎﺑ ﺐﻨﺠﺘﻟﺍ ﺔﺻﺮﻓ</MeleeDodgeChance.label>
+  
+  <MeleeDodgeChance.description>ﻊﻴﻄﺘﺴﻳ ﻻn\n\.ﺐﻳﺮﻘﻟﺍ ﻝﺎﺘﻘﻟﺍ ﻲﻓ ﺔﺑﺮﻀﻟﺍ ﺐﻨﺠﺗ ﺔﺻﺮﻓ
+ﻕﻼﻃﺇ ﻭﺃ ﺐﻳﻮﺼﺘﻟﺍ ﺀﺎﻨﺛﺃ ﺔﺑﺮﻀﻟﺍ ﺐﻨﺠﺗ ﺔﻴﺼﺨﺸﻟﺍ
+.ﺭﺎﻨﻟﺍ</MeleeDodgeChance.description>
+  
+  
+  <MeleeDPS.label>ﺐﻳﺮﻘﻟﺍ ﻝﺎﺘﻘﻟﺍ ﻲﻓ ﺔﻴﻧﺎﺛ/ﺭﺮﻀﻟﺍ</MeleeDPS.label>
+  
+  <MeleeDPS.description>ﻝﺎﺘﻘﻟﺍ ﻲﻓ ﻩﺮﻴﺒﻜﺗ ﻢﺘﻳ ﻱﺬﻟﺍ ﻂﺳﻮﺘﻤﻟﺍ ﺭﺮﻀﻟﺍ
+ﻉﻭﺭﺪﻟﺍ ﺏﺎﺴﺘﺣﺍ ﻢﺘﻳ ﻻ .ﺔﻴﻧﺎﺜﻟﺍ ﻲﻓ ﺐﻳﺮﻘﻟﺍ
+.ﺐﻨﺠﺘﻟﺍ ﻰﻠﻋ ﻑﺪﻬﻟﺍ ﺓﺭﺪﻗ ﻭﺃ</MeleeDPS.description>
+  
+  
+  <MeleeHitChance.label>ﺐﻳﺮﻘﻟﺍ ﻝﺎﺘﻘﻟﺎﺑ ﺏﺮﻀﻟﺍ ﺔﺻﺮﻓ</MeleeHitChance.label>
+  
+  <MeleeHitChance.description>ﻦﻜﻤﻳ .ﻑﺪﻬﻟﺍ ﻲﻓ ﺐﻳﺮﻘﻟﺍ ﺏﺮﻀﻠﻟ ﺔﻴﺳﺎﺳﺃ ﺔﺻﺮﻓ
+.ﺡﺎﺠﻨﻟﺍ ﺔﻟﺎﺣ ﻲﻓ ﻰﺘﺣ ﺔﺑﺮﻀﻟﺍ ﺐﻨﺠﺗ ﻑﺪﻬﻠﻟ</MeleeHitChance.description>
+  
+  
+  <MortarMissRadiusFactor.label>ﺖﺘﺸﺘﻟﺍ ﺮﻄﻗ ﻒﺼﻨﻟ ﻒﻋﺎﻀﻣ</MortarMissRadiusFactor.label>
+  
+  <MortarMissRadiusFactor.description>ﻢﻜﺤﺘﻳ ﻲﺘﻟﺍ ﺓﺮﻴﻨﻤﻟﺍ ﺔﻴﻌﻓﺪﻤﻟﺍ ﺔﻔﻳﺬﻗ ﺖﻴﺘﺸﺗ ﻞﻣﺎﻌﻣ
+ﺔﻤﻴﻘﻟﺍ ﺍﺬﻫ ﻞﻗ ﺎﻤﻠﻛ .ﺔﻴﺼﺨﺸﻟﺍ ﺍﺬﻫ ﺎﻬﺑ
+.ﻥﺍﺮﻴﻨﻟﺍ ﺔﻗﺩ ﺕﺩﺍﺯ ،</MortarMissRadiusFactor.description>
+  
+  <MortarMissRadiusFactor.labelForFullStatList>ﺖﺘﺸﺘﻟﺍ ﺮﻄﻗ ﻒﺼﻨﻟ ﻒﻋﺎﻀﻣ</MortarMissRadiusFactor.labelForFullStatList>
+  
+  
+  <PawnTrapSpringChance.label>ﺥﺎﺨﻓﻷﺍ ﻞﻴﻌﻔﺗ ﺔﺻﺮﻓ</PawnTrapSpringChance.label>
+  
+  <PawnTrapSpringChance.description>ﻢﻟ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﻱﺬﻟﺍ ،ﺦﻔﻟﺍ ﻞﻴﻌﻔﺗ ﺔﺻﺮﻓ
+.ﻪﻨﻋ ﻢﻠﻌﻳ ﻦﻜﻳ</PawnTrapSpringChance.description>
+  
+  
+  <ShootingAccuracyFactor_Long.label>(ﺪﻴﻌﺑ ﻦﻣ) ﺔﻗﺪﻟﺍ</ShootingAccuracyFactor_Long.label>
+  
+  <ShootingAccuracyFactor_Long.description>ﺔﻓﺎﺴﻣ ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﺪﻨﻋ ﺔﻗﺪﻟﺍ ﻞﻣﺎﻌﻣ
+.ﻥﺍﻮﻨﻋ ﺮﺜﻛﺃﻭ 40</ShootingAccuracyFactor_Long.description>
+  
+  
+  <ShootingAccuracyFactor_Medium.label>(ﺔﻄﺳﻮﺘﻣ) ﺔﻗﺪﻟﺍ</ShootingAccuracyFactor_Medium.label>
+  
+  <ShootingAccuracyFactor_Medium.description>.ﺔﻴﻠﺧ 25 ﺪﻌﺑ ﻰﻠﻋ ﺔﻳﺎﻣﺮﻟﺍ ﺔﻗﺩ ﻒﻋﺎﻀﻣ</ShootingAccuracyFactor_Medium.description>
+  
+  
+  <ShootingAccuracyFactor_Short.label>(ﺏﺮﻘﻟﺍ ﺪﻨﻋ) ﺔﻗﺪﻟﺍ</ShootingAccuracyFactor_Short.label>
+  
+  <ShootingAccuracyFactor_Short.description>.ﺔﻧﺎﺧ 12 ﺪﻌﺑ ﻦﻋ ﻕﻼﻃﻹﺍ ﺔﻗﺩ ﻞﻣﺎﻌﻣ</ShootingAccuracyFactor_Short.description>
+  
+  
+  <ShootingAccuracyFactor_Touch.label>(ﺏﺮﻗ) ﺔﻗﺪﻟﺍ</ShootingAccuracyFactor_Touch.label>
+  
+  <ShootingAccuracyFactor_Touch.description>3 ﺔﻓﺎﺴﻣ ﺪﻨﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﺔﻗﺩ ﻒﻋﺎﻀﻣ
+.ﻞﻗﺃ ﻭﺃ ﺕﺎﻧﺎﺧ</ShootingAccuracyFactor_Touch.description>
+  
+  
+  <ShootingAccuracyPawn.label>ﻕﻼﻃﻻﺍ ﺔﻗﺩ</ShootingAccuracyPawn.label>
+  
+  <ShootingAccuracyPawn.description>،ﻯﺪﻤﻟﺍ ﻲﻓ ﺔﻴﻠﺧ ﻞﻛ ﺏﺮﻀﻟ ﺔﻴﺳﺎﺳﻷﺍ ﺔﻴﻟﺎﻤﺘﺣﻻﺍ
+ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻰﻠﻋ ﺪﻤﺘﻌﻳ ﺔﺑﺎﺻﻺﻟ ﻲﻠﻌﻔﻟﺍ ﺡﺎﺠﻨﻟﺍﻭ
+ﻦﻣ ﺪﻳﺰﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻳ .ﻯﺮﺧﻷﺍ ﻞﻣﺍﻮﻌﻟﺍ
+ﻖﻳﺮﻃ ﻦﻋ ﺔﻨﻴﻌﻣ ﺔﻟﺎﺣ ﻞﻜﻟ ﺔﻠﺼﻔﻤﻟﺍ ﺕﺎﻣﻮﻠﻌﻤﻟﺍ
+.ﻑﺪﻬﻟﺍ ﻕﻮﻓ ﺮﺷﺆﻤﻟﺍ ﻚﻳﺮﺤﺗﻭ ﻢﻬﺴﻟﺍ ﺪﻳﺪﺤﺗ</ShootingAccuracyPawn.description>
+  
+  <ShootingAccuracyPawn.labelForFullStatList>(ﺮﺸﺒﻟﺍ) ﺔﻳﺎﻣﺮﻟﺍ ﺔﻗﺩ</ShootingAccuracyPawn.labelForFullStatList>
+  
+</LanguageData>

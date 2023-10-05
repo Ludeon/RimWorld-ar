@@ -1,0 +1,156 @@
+<LanguageData>
+  
+  
+  <Leather_Bear.label>ﺏﺩ ﻒﻄﻌﻣ</Leather_Bear.label>
+  
+  <Leather_Bear.description>ﻯﻮﻗﺃ .ﻞﻳﻮﻃ ﻭﺮﻓ ﻊﻣ ﻱﻮﻗ ﺏﺩ ﺪﻠﺟ
+ﺔﻧﺭﺎﻘﻣ ﻞﻀﻓﺃ ﻞﻜﺸﺑ ﺥﺎﻨﻣ ﻱﺃ ﺐﺳﺎﻨﻳﻭ ﻼﻴﻠﻗ
+.ﻯﺮﺧﻷﺍ ﺩﻮﻠﺠﻟﺍ ﻉﺍﻮﻧﺄﺑ</Leather_Bear.description>
+  <Leather_Bear.stuffProps.stuffAdjective>ﺏﺩ ﺓﺮﺸﺑ</Leather_Bear.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Bird.label>ﺮﺋﺎﻄﻟﺍ ﺪﻠﺟ</Leather_Bird.label>
+  
+  <Leather_Bird.description>ﺮﻓﻮﻳ .ﺔﻳﺎﻐﻠﻟ ﺶﻫ .ﺞﻟﺎﻌﻣﻭ ﻒﻔﺠﻣ ﺮﺋﺎﻃ ﺪﻠﺟ
+.ﺶﻳﺭ ﻥﻭﺪﺑ ﺓﺭﺍﺮﺤﻟﺍﻭ ﺩﺮﺒﻟﺍ ﻦﻣ ﺔﻔﻴﻌﺿ ﺔﻳﺎﻤﺣ</Leather_Bird.description>
+  <Leather_Bird.stuffProps.stuffAdjective>ﺭﻮﻴﻄﻟﺍ ﺪﻠﺟ</Leather_Bird.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Bluefur.label>ﻕﺭﺯﻷﺍ ﻭﺮﻔﻟﺍ</Leather_Bluefur.label>
+  
+  <Leather_Bluefur.description>.ﺢﺗﺎﻔﻟﺍ ﻕﺭﺯﻷﺍ ﻥﻮﻠﻟﺎﺑ ﺰﻴﻴﻤﺘﻟﺍ ﻞﻬﺳ .ﻮﻠﻔﻤﻟﺍ ﺪﻠﺟ
+.ﺓﺩﺭﺎﺒﻟﺍ ﻖﻃﺎﻨﻤﻠﻟ ﻲﻟﺎﺜﻣ</Leather_Bluefur.description>
+  <Leather_Bluefur.stuffProps.stuffAdjective>ﻕﺭﺯﻷﺍ ﺀﺍﺮﻔﻟﺍ</Leather_Bluefur.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Camel.label>ﻞﺑﻹﺍ ﺪﻠﺟ</Leather_Camel.label>
+  
+  <Leather_Camel.description>.ﺓﺭﺎﺤﻟﺍ ﺀﺍﻮﺟﻸﻟ ﺐﺳﺎﻨﻣ ،ﻥﻮﺤﺸﻣﻭ ﻒﻔﺠﻣ ﻞﻤﺟ ﺪﻠﺟ</Leather_Camel.description>
+  <Leather_Camel.stuffProps.stuffAdjective>ﻞﻤﺠﻟﺍ ﺮﻌﺷ</Leather_Camel.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Chinchilla.label>ﻱﺮﺒﻨﺸﻟﺍ ﻭﺮﻓ ﻒﻄﻌﻣ</Leather_Chinchilla.label>
+  
+  <Leather_Chinchilla.description>ﻪﻳﺪﻟ ،ﻪﺘﻴﻘﻨﺗ ﻢﺗﻭ ﻒﻔﺠﻣﻭ ﻢﻘﻌﻣ ﻼﻴﺸﻨﺸﺗ ﺪﻠﺟ
+ﺓﺪﻴﺠﻟﺍ ﻪﺘﻳﺎﻤﺣﻭ ﻒﻴﺜﻜﻟﺍ ﻩﻭﺮﻓ ﺐﺒﺴﺑ ﻊﻔﺗﺮﻣ ﺮﻌﺳ
+.ﺓﺭﺍﺮﺤﻟﺍﻭ ﺩﺮﺒﻟﺍ ﻦﻣ</Leather_Chinchilla.description>
+  <Leather_Chinchilla.stuffProps.stuffAdjective>меха шиншиллы</Leather_Chinchilla.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Dog.label>ﺐﻠﻜﻟﺍ ﺓﺮﻔﺳ</Leather_Dog.label>
+  
+  <Leather_Dog.description>ﻊﻨﺼﻟ ﺓﺪﻴﺟ ﺓﺩﺎﻣ .ﺞﻟﺎﻌﻣﻭ ﻒﻔﺠﻣ ،ﻰﻔﺼﻣ ﺪﻠﺟ
+.ﺐﺋﺎﻘﺤﻟﺍﻭ ﺲﺑﻼﻤﻟﺍ</Leather_Dog.description>
+  <Leather_Dog.stuffProps.stuffAdjective>ﺏﻼﻜﻟﺍ ﺩﻮﻠﺟ</Leather_Dog.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Elephant.label>ﻞﻴﻔﻟﺍ ﺪﻠﺟ</Leather_Elephant.label>
+  
+  <Leather_Elephant.description>ﻢﻏﺮﻟﺍ ﻰﻠﻋ .ﻰﻘﻨﻤﻟﺍﻭ ﻒﻔﺠﻤﻟﺍﻭ ﻒﻠﻐﻤﻟﺍ ﻞﻴﻔﻟﺍ ﺪﻠﺟ
+ﻻ ﻪﻧﺃ ﻻﺇ ، ﺎﻳﻮﻗ ﻪﻧﻮﻛ ﻦﻣ
+.ﺔﻴﻟﺎﻋ ﻱﺭﺍﺮﺣ ﻝﺰﻋ ﺺﺋﺎﺼﺨﺑ ﻊﺘﻤﺘﻳ</Leather_Elephant.description>
+  <Leather_Elephant.stuffProps.stuffAdjective>ﻞﻴﻔﻟﺍ ﺔﻠﻔﺳ</Leather_Elephant.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Fox.label>ﺐﻠﻌﺜﻟﺍ ﺪﻠﺟ ﻥﻮﻟ</Leather_Fox.label>
+  
+  <Leather_Fox.description>ﺍﺪﻴﺟ ﻲﻤﺤﻳ ﻒﻴﺜﻛ ﺀﺍﺮﻓ .ﻢﻋﺎﻨﻟﺍ ﺐﻠﻌﺜﻟﺍ ﺪﻠﺟ
+ﻰﻠﻋ ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﺮﺛﺆﻳ ﺎﻤﻣ ،ﺩﺮﺒﻟﺍ ﻦﻣ
+.ﺮﻌﺴﻟﺍ</Leather_Fox.description>
+  <Leather_Fox.stuffProps.stuffAdjective>ﺐﻟﺎﻌﺜﻟﺍ ﺩﻮﻠﺟ</Leather_Fox.stuffProps.stuffAdjective>
+  
+  
+  <Leather_GuineaPig.label>ﻱﺮﺤﺒﻟﺍ ﺮﻳﺰﻨﺨﻟﺍ ﺏﺭﺎﻗ ﺓﺰﻔﻗ</Leather_GuineaPig.label>
+  
+  <Leather_GuineaPig.description>ﺕﺎﺠﺘﻨﻤﻟﺍ ﻦﻜﻟﻭ ،ﺔﻳﺎﻐﻠﻟ ﺶﻫ .ﺮﺤﺒﻟﺍ ﺮﻳﺰﻨﺧ ﺪﻠﺟ
+.ﺓﺮﺧﺎﻓ ﻭﺪﺒﺗ ﻪﻨﻣ ﺔﻋﻮﻨﺼﻤﻟﺍ</Leather_GuineaPig.description>
+  <Leather_GuineaPig.stuffProps.stuffAdjective>ﻱﺮﺤﺒﻟﺍ ﺮﻳﺰﻨﺨﻟﺍ ﺎﻜﻴﻣ</Leather_GuineaPig.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Heavy.label>ﺔﻤﺨﺿ ﺐﻌﺷ</Leather_Heavy.label>
+  
+  <Leather_Heavy.description>ﻦﻣ ﺓﺫﻮﺧﺄﻣ .ﻞﻳﻮﻃﻭ ﻦﺸﺧ ﺮﻌﺸﺑ ﺓﺎﻄﻐﻣ ،ﺔﻜﻴﻤﺳ
+ﺮﻓﻮﺗ .ﺩﺭﺎﺒﻟﺍ ﺥﺎﻨﻤﻟﺍ ﻰﻠﻋ ﺩﺎﺘﻌﻣ ﺮﻴﺒﻛ ﻥﺍﻮﻴﺣ
+.ﻻﺰﻋﻭ ﺍﺪﺟ ﺓﺪﻴﺟ ﺔﻳﺎﻤﺣ</Leather_Heavy.description>
+  <Leather_Heavy.stuffProps.stuffAdjective>ﺔﻜﻴﻤﺴﻟﺍ ﺩﻮﻠﺠﻟﺍ</Leather_Heavy.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Human.label>ﻥﺎﺴﻧﻹﺍ ﺪﻠﺟ</Leather_Human.label>
+  
+  <Leather_Human.description>ﺍﺬﻫ ﺮﻴﺜﻳ .ﺮﻬﻄﻣﻭ ﻑﺎﺟﻭ ﻍﻮﺑﺪﻣ ﻱﺮﺸﺑ ﺪﻠﺟ
+ﺱﺎﻨﻟﺍ ﻦﻣﻭ .ﺱﺎﻨﻟﺍ ﻢﻈﻌﻣ ﻲﻓ ﺔﺒﻫﺮﻟﺍ ﺩﺍﻮﻤﻟﺍ
+ﺰﻴﻤﺘﻳ ﻻ ، ﻚﻟﺫ ﻊﻣﻭ .ﻢﻬﺒﺠﻌﻳ ﻦﻳﺬﻟﺍ
+ﺔﻟﻭﺰﻌﻣ ﻭﺃ ﺔﻴﻗﺍﻭ ﺺﺋﺎﺼﺧ ﻱﺄﺑ ﺩﺍﻮﻤﻟﺍ ﺍﺬﻫ
+.ﺎﻳﺭﺍﺮﺣ</Leather_Human.description>
+  <Leather_Human.stuffProps.stuffAdjective>ﻱﺮﺸﺑ ﺪﻠﺟ</Leather_Human.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Light.label>ﺔﻤﻋﺎﻧ ﺓﺮﺸﺑ</Leather_Light.label>
+  
+  <Leather_Light.description>.ﺮﻴﻐﺻ ﻥﺍﻮﻴﺣ ﻦﻣ ﺫﻮﺧﺄﻣ ﻖﻴﻗﺭﻭ ﻒﻴﻔﺧ ﺪﻠﺟ
+ﺮﺜﻛﻷﺍ ﺩﻮﻠﺠﻟﺍ ﻞﺜﻣ ﺓﺪﻴﺠﻟﺍ ﺔﻳﺎﻤﺤﻟﺍ ﺮﻓﻮﻳ ﻻ
+.ﺎﻜﻤﺳ</Leather_Light.description>
+  <Leather_Light.stuffProps.stuffAdjective>ﺔﺤﺗﺎﻓ ﺓﺮﺸﺑ</Leather_Light.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Lizard.label>ﻒﺣﺍﻭﺰﻟﺍ ﺪﻠﺟ</Leather_Lizard.label>
+  
+  <Leather_Lizard.description>ﻲﻓ ﻒﻴﻌﺿ ﻪﻨﻜﻟ ﻱﻮﻗ .ﺪﻤﺠﻣ ﺡﺎﺴﻤﺗ ﺪﻠﺟ
+.ﺓﺭﺍﺮﺤﻟﺍ ﻭﺃ ﺩﺮﺒﻟﺍ ﺔﻳﺎﻤﺣ</Leather_Lizard.description>
+  <Leather_Lizard.stuffProps.stuffAdjective>ﻒﺣﺍﻭﺰﻟﺍ ﺪﻠﺟ</Leather_Lizard.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Panthera.label>ﺮﻤﻨﻟﺍ ﺪﻠﺟ</Leather_Panthera.label>
+  
+  <Leather_Panthera.description>ﻦﻣ ﺮﻴﺼﻗ ﻭﺮﻓ ﺕﺍﺫ ﺔﻤﻋﺎﻧ ﺓﺪﻠﺟ ﺮﺒﺘﻌﺗ
+ﺔﻳﺎﻤﺣ ﺮﻓﻮﺗ .ﺮﻴﺒﻛ ﻢﺠﺤﺑ ﻂﻗ ﻥﺍﻮﻴﺣ ﺔﺜﺟ
+.ﺔﻳﻮﻘﻟﺍ ﺕﺎﺑﺮﻀﻟﺍﻭ ﺓﺭﺍﺮﺤﻟﺍ ﻦﻣ ﺓﺪﻴﺟ</Leather_Panthera.description>
+  <Leather_Panthera.stuffProps.stuffAdjective>ﺭﻮﻤﻨﻟﺍ ﺩﻮﻠﺟ</Leather_Panthera.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Patch.label>ﺮﺛﺎﻨﺘﻣ ﺪﻠﺟ</Leather_Patch.label>
+  
+  <Leather_Patch.description>.ﺔﻔﻠﺘﺨﻣ ﺪﻠﺟ ﺕﺎﺻﺎﺼﻗ ﻦﻣ ﺔﻋﻮﻨﺼﻣ ﺔﻔﻴﻌﺿ ﺓﺩﺎﻣ
+ﻞﺜﻣ ﺲﻘﻄﻟﺍ ﻦﻣ ﻲﻤﺤﺗ ﻻﻭ ﺔﻨﻴﺘﻣ ﺮﻴﻏ
+.ﻞﻣﺎﻜﻟﺍ ﺪﻠﺠﻟﺍ</Leather_Patch.description>
+  <Leather_Patch.stuffProps.stuffAdjective>ﺃﺰﺠﻣ ﺪﻠﺟ</Leather_Patch.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Pig.label>ﺓﺮﺸﺒﻟﺍ ﺕﺎﻣﻼﺳ</Leather_Pig.label>
+  
+  <Leather_Pig.description>ﻊﺘﻤﺘﻳ ﻻ ،ﻒﻈﻨﻣﻭ ﻒﻔﺠﻣﻭ ﺞﻟﺎﻌﻣ ﺮﻳﺰﻨﺧ ﺪﻠﺟ
+.ﺎﻳﺭﺍﺮﺣ ﺔﻟﻭﺰﻌﻣ ﻭﺃ ﺔﻴﻗﺍﻭ ﺺﺋﺎﺼﺧ ﻱﺄﺑ</Leather_Pig.description>
+  <Leather_Pig.stuffProps.stuffAdjective>ﺮﻳﺰﻨﺧ ﺪﻠﺟ</Leather_Pig.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Plain.label>ﺪﻠﺟ</Leather_Plain.label>
+  
+  <Leather_Plain.description>ﻊﻨﺼﻟ ﺓﺪﻴﺟ ﺓﺩﺎﻣ .ﻰﻘﻨﻣﻭ ،ﻑﺎﺟ ،ﺝﻭﺩﺰﻣ ﺪﻠﺟ
+.ﺐﺋﺎﻘﺤﻟﺍﻭ ﺲﺑﻼﻤﻟﺍ</Leather_Plain.description>
+  <Leather_Plain.stuffProps.stuffAdjective>ﺩﻮﻠﺠﻟﺍ</Leather_Plain.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Rhinoceros.label>ﺪﻴﺣﻮﻟﺍ ﺪﻠﺟ</Leather_Rhinoceros.label>
+  
+  <Leather_Rhinoceros.description>ﺔﻴﺋﺎﻨﺜﺘﺳﺍ ﺔﻳﺎﻤﺣ ﺮﻓﻮﻳ .ﻊﻗﺪﻤﻟﺍﻭ ﻒﻔﺠﻤﻟﺍ ﺪﻴﺣﻮﻟﺍ ﺪﻠﺟ
+ﻑﻭﺮﻈﻟﺍ ﺔﻳﺎﻤﺣ ﻲﻓ ﻒﻴﻌﺿ ﻪﻨﻜﻟﻭ ﺕﺎﺑﺮﻀﻟﺍ ﺪﺿ
+.ﺔﺌﻴﺴﻟﺍ ﺔﻳﻮﺠﻟﺍ</Leather_Rhinoceros.description>
+  <Leather_Rhinoceros.stuffProps.stuffAdjective>ﺪﻴﺣﻮﻟﺍ ﺪﻠﺟ</Leather_Rhinoceros.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Thrumbo.label>ﻲﻜﻴﻧﺎﻜﻴﻣ ﺲﺒﻜﻣ</Leather_Thrumbo.label>
+  
+  <Leather_Thrumbo.description>ﻞﻜﺸﺑ ﻱﻮﻗ .ﻞﻳﻮﻃ ﻭﺮﻓ ﻭﺫ ﻮﺒﻣﻭﺮﺗ ﺪﻠﺟ
+ﺔﻴﻟﺎﻋ ﺕﺎﺠﺘﻨﻣ ﻲﻓ ﻡﺪﺨﺘﺴﻳ .ﺍﺮﺧﺎﻓ ﻭﺪﺒﻳﻭ ﻞﻫﺬﻣ
+.ﺔﻳﺭﺍﺮﺤﻟﺍﻭ ﺔﻴﻗﺍﻮﻟﺍ ﻪﺼﺋﺎﺼﺧ ﺐﺒﺴﺑ ﺓﺩﻮﺠﻟﺍ</Leather_Thrumbo.description>
+  <Leather_Thrumbo.stuffProps.stuffAdjective>ﻮﺒﻣﻭﺮﺗ ﺎﻜﻴﻣ</Leather_Thrumbo.stuffProps.stuffAdjective>
+  
+  
+  <Leather_Wolf.label>ﺐﺋﺬﻟﺍ ﺪﻠﺟ</Leather_Wolf.label>
+  
+  <Leather_Wolf.description>ﻪﻋﺍﺰﺘﻧﺍ ﻢﺘﻳ ،ﻞﻳﻮﻃ ﻭﺮﻓ ﻭﺫ ﻢﻋﺎﻧ ﺪﻠﺟ
+ﺮﻓﻮﻳ .ﺮﺧﺁ ﻪﺑﺎﺸﻣ ﻥﺍﻮﻴﺣ ﻭﺃ ﺐﺋﺬﻟﺍ ﻦﻣ
+.ﺔﻳﻮﻘﻟﺍ ﺕﺎﺑﺮﻀﻟﺍﻭ ﺩﺮﺒﻟﺍ ﻦﻣ ﺓﺪﻴﺟ ﺔﻳﺎﻤﺣ</Leather_Wolf.description>
+  <Leather_Wolf.stuffProps.stuffAdjective>ﺐﺋﺬﻟﺍ ﺩﻮﻠﺟ</Leather_Wolf.stuffProps.stuffAdjective>
+  
+</LanguageData>

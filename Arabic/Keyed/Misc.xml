@@ -1,0 +1,151 @@
+<LanguageData>
+
+  <Autosaving>ﻲﺋﺎﻘﻠﺘﻟﺍ ﻆﻔﺤﻟﺍ</Autosaving>
+  <GameStartDialog>ﺔﻘﻴﻤﻌﻟﺍ ﻡﻮﻨﻟﺍ ﺖﻴﺑﺍﻮﺗ ﻲﻓ ﻥﻮﻈﻘﻴﺘﺴﻳ ﻢﻜﻨﻣ ﺔﺛﻼﺜﻟﺍ
+ﺭﺎﻴﻬﻧﺍﻭ ﺉﺭﺍﻮﻄﻟﺍ ﺕﺍﺭﺍﺬﻧﺇ ﺕﻮﺻ ﻊﻣ ﻢﻜﺑ ﺔﺻﺎﺨﻟﺍ
+ﻲﻓ ﺔﺑﻮﻌﺼﺑ ﻥﻮﺤﺠﻨﺗ .ﺔﻨﻴﻔﺴﻟﺍ ﻕﺰﻤﻳ ﻱﺬﻟﺍ ﻥﺪﻌﻤﻟﺍ
+ﻢﺘﻳ ﻥﺃ ﻞﺒﻗ ﺓﺎﺠﻨﻟﺍ ﻦﺋﺎﺒﻜﻟﺍ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ
+ﻰﻠﻋ ﻥﻮﻄﺒﻬﺗ ،ﺎﻘﺣﻻ ﺖﻗﻮﻟﺍ ﺾﻌﺑ .ﺔﻨﻴﻔﺴﻟﺍ ﻖﻳﺰﻤﺗ
+ﺀﺍﺰﺟﺃ ﺮﺛﺎﻨﺗ ﻂﺳﻭ .ﻂﻴﺤﻤﻟﺍ ﺾﻣﺎﻐﻟﺍ ﻢﻟﺎﻌﻟﺍ ﺍﺬﻫ
+ﻂﻄﺧ ﻊﺿﻭ ﻲﻓ ﻥﻭﺃﺪﺒﺗ ،ﻢﻜﻟﻮﺣ ﺔﻗﺰﻤﻤﻟﺍ ﺔﻨﻴﻔﺴﻟﺍ
+.ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻠﻟ</GameStartDialog>
+  <Colony>ﺔﻨﻃﻮﺘﺴﻣ</Colony>
+  <ChangeLanguageFromMainMenu>ﺕﺍﺭﺎﻴﺨﻟﺍ ﺔﺷﺎﺷ ﻦﻣ ﺔﻐﻠﻟﺍ ﺮﻴﻴﻐﺗ ﻂﻘﻓ ﻚﻨﻜﻤﻳ
+.ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ ﻲﻓ</ChangeLanguageFromMainMenu>
+  <AndLower>ﻭ</AndLower>
+  <DisabledLower>ﻞﻄﻌﻣ</DisabledLower>
+
+  <VersionIndicator>{0} ﺭﺍﺪﺻﻹﺍ</VersionIndicator>
+  <GameVersionIndicator>ﺔﺒﻌﻠﻟﺍ ﺔﺨﺴﻧ</GameVersionIndicator>
+  <DevelopmentBuildLower>ﺮﻳﻮﻄﺘﻟﺍ ﺔﺨﺴﻧ</DevelopmentBuildLower>
+  <CompiledOn>{0} ﻊﻴﻤﺠﺗ ﻢﺗ</CompiledOn>
+  <LoggedIntoSteamAs>{0} ﺔﻄﺳﺍﻮﺑ Steam ﻰﻟﺇ ﻝﻮﺧﺪﻟﺍ ﻢﺗ</LoggedIntoSteamAs>
+  
+  
+  <ToCommaListAnd>{1} ﻭ {0}</ToCommaListAnd>
+  <ToCommaListOr>{1} ﻭﺃ {0}</ToCommaListOr>
+  
+  
+  <Yes>ﻢﻌﻧ</Yes>
+  <No>ﻻ</No>
+  <NoSubject>{0} ﻻ</NoSubject>
+  <New>ﺪﻳﺪﺟ</New>
+  <Gender>ﺲﻨﺠﻟﺍ</Gender>
+  <Sex>ﺲﻨﺠﻟﺍ</Sex>
+  <min>ﺔﻘﻴﻗﺩ</min>
+  <max>ﺲﻛﺎﻣ</max>
+  <chance>ﺔﺻﺮﻓ</chance>
+  <context>ﻕﺎﻴﺳ</context>
+  <multiplier>ﻒﻋﺎﻀﻣ</multiplier>
+  <damage>ﺭﺮﺿ</damage>
+  <radius>ﺮﻄﻘﻟﺍ ﻒﺼﻧ</radius>
+  <expired>ﺖﻗﻮﻟﺍ ﻰﻬﺘﻧﺍ</expired>
+  <durationDays>(ﻡﺎﻳﺃ) ﺓﺪﻤﻟﺍ</durationDays>
+  <intervalDays>(ﻡﺎﻳﻷﺎﺑ) ﺔﻴﻨﻣﺰﻟﺍ ﺓﺮﺘﻔﻟﺍ</intervalDays>
+  <repeat>ﺭﺮﻛ</repeat>
+  <default>ﻲﺿﺍﺮﺘﻓﻻﺍ</default>
+  <distance>ﺔﻓﺎﺴﻤﻟﺍ</distance>
+  <YesUppercase>ﻢﻌﻧ</YesUppercase>
+  <NoUppercase>ﻻ</NoUppercase>
+  <kg>kg</kg>
+  <Day>ﻡﻮﻳ</Day>
+  <day>ﻡﻮﻳ</day>
+  <Default>ﻲﺿﺍﺮﺘﻓﺍ</Default>
+  <Average>ﻂﺳﻮﺘﻣ</Average>
+  <Cause>ﺐﺒﺳ</Cause>
+  <Etc>ﺦﻟﺍ</Etc>
+  <MoneyFormat>${0}</MoneyFormat>
+  <Factors>ﻞﻣﺍﻮﻋ</Factors>
+  <Uses>ﻡﺪﺨﺘﺴﻳ</Uses>
+  <Translation>ﺔﻤﺟﺮﺗ</Translation>
+
+  
+  
+  <MeatLabel>{0} ﻢﺤﻟ</MeatLabel>
+  <MeatDesc>،ﺕﺎﺒﺟﻭ ﻲﻓ ﻪﻴﻬﻃ ﻦﻜﻤﻳ .ﺊﻴﻧ ﻊﻄﻘﻣ ﻢﺤﻟ
+.ﺊﻴﻧ ﻪﻟﻭﺎﻨﺗ ﻭﺃ</MeatDesc>
+  <MeatInsectDesc>ﺕﺎﺒﺟﻭ ﻰﻟﺇ ﻪﻴﻬﻃ ﻦﻜﻤﻳ .ﺀﻲﻧ ﺭﺰﺠﻣ ﻢﺤﻟ
+ﺮﻴﻏ .ﺀﻲﻧ ﻪﻠﻛﺃ ﻰﺘﺣ ﻭﺃ ،ﺓﺭﻭﺮﻀﻟﺍ ﺪﻨﻋ
+.ﺔﻳﺎﻐﻠﻟ ﻲﻬﺷ</MeatInsectDesc>
+  <MeatHumanDesc>ﻪﻟﻭﺎﻨﺗ ﻭﺃ ﻪﻴﻬﻃ ﻦﻜﻤﻳ .ﺊﻴﻧ ﺡﻮﺑﺬﻣ ﻢﺤﻟ
+ﺮﺸﺒﻟﺍ ﻢﻈﻌﻣ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ،ﺎﺌﻴﻧ
+.ﺓﺮﻜﻔﻟﺍ ﻥﻮﻫﺮﻜﻳ</MeatHumanDesc>
+
+  <TechprintLabel>({PROJECT_label}) ﺔﻋﺎﺒﻄﻟﺍ ﺔﻴﻨﻘﺗ</TechprintLabel>
+  <TechprintDesc>.'{PROJECT_label}' ﺚﺤﺒﻟﺍ ﻉﻭﺮﺸﻤﻟ ﺔﻴﻨﻘﺗ ﺔﻄﻳﺮﺧ ﻩﺬﻫ
+\n ﻂﺋﺍﺮﺨﻠﻟ ﺔﻳﺩﺎﻤﻟﺍ ﻝﺎﻜﺷﻷﺍ ﺡﻭﺍﺮﺘﺗ ﻥﺃ ﻦﻜﻤﻳ
+ﺕﺎﻣﻮﺳﺮﺑ ﻕﺭﻮﻟﺍ ﻦﻣ ﺓﺮﻴﻐﺻ ﻊﻄﻗ ﻦﻣ ﺔﻴﻨﻘﺘﻟﺍ
+ﺔﻴﺗﺍﺫ ﺔﻣﺪﻘﺘﻣ ﺔﻴﻤﻴﻠﻌﺗ ﺕﻻﺁ ﻰﻟﺇ ، ﺔﻴﻧﺎﻴﺑ
+ﺲﻔﻧ ﻢﻬﻳﺪﻟ ،ﻞﻜﺸﻟﺍ ﻦﻋ ﺮﻈﻨﻟﺍ ﺾﻐﺑ .ﺔﻳﻭﺎﺤﻟﺍ
+ﺓﺮﻜﻔﻟﺍ ﻥﺄﺑ ﺔﻘﺜﻟﺍ ﻦﻴﺜﺣﺎﺒﻟﺍ ﻲﻄﻌﺗ ﻲﻬﻓ .ﺭﻭﺪﻟﺍ
+ﻲﻓ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺕﺎﻤﻴﻤﺼﺘﻟﺍ ﻦﻋ ﺔﻨﺸﺧ ﺓﺮﻜﻓﻭ ،ﺔﻨﻜﻤﻣ
+ﺔﻣﺎﻗﺇ ﺮﺜﻛﻷﺍ ﺕﺎﻌﻤﺘﺠﻤﻟﺍ.
+\n ﺔﻴﺳﺎﺳﻷﺍ ﺔﻓﺮﻌﻤﻟﺍ ﻰﻟﺇ ﻚﻳﺪﻟ ﻥﻮﺜﺣﺎﺒﻟﺍ ﺝﺎﺘﺤﻳ
+ﻦﻳﺃ ﻦﻣ ﺔﻓﺮﻌﻤﻟ ﺔﻴﻨﻘﺘﻟﺍ ﻂﺋﺍﺮﺨﻟﺍ ﺎﻬﻣﺪﻘﺗ ﻲﺘﻟﺍ
+ﻖﻴﺒﻄﺗ ﺪﻌﺑ ﻂﻘﻓ .ﺔﻨﻴﻌﻤﻟﺍ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻲﻓ ﺃﺪﺒﺗ
+ﻦﻴﺜﺣﺎﺒﻠﻟ ﻦﻜﻤﻳ ﺔﻴﻨﻘﺘﻟﺍ ﻂﺋﺍﺮﺨﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ
+ﻡﺍﺪﺨﺘﺳﺍ ﺔﻴﻔﻴﻜﻟ ﺔﻘﻴﻗﺪﻟﺍ ﻞﻴﺻﺎﻔﺘﻟﺍ ﻰﻠﻋ ﺍﻮﻠﻤﻌﻳ ﻥﺃ
+ﻚﻟ ﻦﻴﻌﻤﻟﺍ ﻒﻗﻮﻤﻟﺍ ﻲﻓ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ.
+\n ﺪﺴﻳ ﻲﺿﺍﺮﻟﺍ ﻲﻋﻭﺮﺸﻤﻟ ﺔﻴﻨﻘﺘﻟﺍ ﻂﺋﺍﺮﺨﻟﺍ ﻖﻴﺒﻄﺗ
+ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑ .ﺚﺤﺒﻟﺍ ﻲﻓ ﻲﻘﺒﺘﻤﻟﺍ ﻡﺪﻘﺘﻟﺍ ﻒﺼﻧ
+ﻲﻓ ﺰﻳﺰﻌﺗ ﻰﻠﻋ ﻥﻮﻠﺼﺤﻳ ﺎﻤﺋﺍﺩ ﻥﻮﺜﺣﺎﺒﻟﺍ ،ﻚﻟﺫ
+ﻰﺘﺣ ،ﺔﻴﻨﻘﺘﻟﺍ ﻂﺋﺍﺮﺨﻟﺍ ﻖﻴﺒﻄﺗ ﺪﻨﻋ ﺔﻳﺮﻜﻔﻟﺍ ﻢﻬﺗﺍﺭﺎﻬﻣ
+ﻞﻌﻔﻟﺎﺑ ﺔﻠﻤﺘﻜﻤﻟﺍ ﺕﺎﻴﻨﻘﺘﻟﺍ ﻰﻠﻋ.</TechprintDesc>
+  <Unlocks>ﺢﺘﻔﻳ</Unlocks>
+
+  <CorpseLabel>{0} ﺔﺜﺟ</CorpseLabel>
+  <CorpseDesc>.{0} ﺔﺜﺟ</CorpseDesc>
+  <DeadLabel>{1_label} (ﺖﻴﻣ)</DeadLabel>
+
+  <RoughStoneTerrainLabel>{0} ﻦﺸﺧ</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>.ﺔﻨﺸﺧ ﺔﻴﻌﻴﺒﻃ {0} ﺔﻴﺿﺭﺃ</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>ﻊﻄﻘﻟﺍ ﻡﺎﺧ {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>.ﻦﺸﺧ ﻞﻜﺸﺑ ﺔﻋﻮﻄﻘﻣ ﺔﻴﻌﻴﺒﻃ {0} ﺔﻴﺿﺭﺃ</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>{0} ﺔﻤﻌﻧ</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>.ﺀﺎﺴﻠﻣ ﺔﻴﻌﻴﺒﻃ {0} ﺔﻴﺿﺭﺃ</SmoothStoneTerrainDesc>
+
+  <BlueprintLabelExtra>(ﻂﻄﺨﻣ)</BlueprintLabelExtra>
+  <FrameLabelExtra>(ﺀﺎﻨﺑ)</FrameLabelExtra>
+
+  <FactionUnaffiliated>ﻂﺒﺗﺮﻣ ﺮﻴﻏ</FactionUnaffiliated>
+
+  <StillWishContinue>؟ﺭﺍﺮﻤﺘﺳﻻﺍ ﻲﻓ ﺐﻏﺮﺗ ﻞﻫ</StillWishContinue>
+  
+  <BabyTalk>ﻩﺎﻣ،ﺎﻣ،ﻩﻭﻭ،ﻩﺍﻭ،ﻭﻭ،ﻮﻧ،ﻩﺎﻧ،ﺎﻧ،ﻩﺎﻴﻧ،ﻮﺟ،ﻩﺎﺟ،ﺎﺟ،ﻩﻮﺑ،ﻮﺑ،ﻩﺎﺑ،ﺎﺑ</BabyTalk>
+
+  
+  
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <SomeonesRoom>{PAWN_labelShort} {1}</SomeonesRoom>
+  <CouplesRoom>{PAWN1_labelShort} ﻭ {PAWN2_labelShort}'s {2}</CouplesRoom>
+  
+  <StatRelatesToCurrentRoom>.ﻑﺮﻐﻟﺍ ﻦﻣ ﻉﻮﻨﻟﺍ ﺍﺬﻬﻟ ﻢﻬﻣ</StatRelatesToCurrentRoom>
+  
+  <DeepResourceRemaining>{COUNT} {RESOURCE_label} ﺎﻨﻫ ﺽﺭﻷﺍ ﺖﺤﺗ.</DeepResourceRemaining>
+  
+  <VariousLabel>(ﻉﻮﻨﺘﻣ)</VariousLabel>
+
+  
+  <ColonistDied>ﻦﻃﻮﺘﺴﻤﻟﺍ ﻲﻓﻮﺗ</ColonistDied>
+  
+  
+  <North>ﻝﺎﻤﺸﻟﺍ</North>
+  <South>ﺏﻮﻨﺟ</South>
+  <West>ﺏﺮﻐﻟﺍ</West>
+  <East>ﻕﺮﺸﻟﺍ</East>
+
+  <ApplyingTechprint>({0}) ﺔﻴﻨﻘﺘﻟﺍ ﺝﺫﻮﻤﻧ ﻖﻴﺒﻄﺗ</ApplyingTechprint>
+
+  
+  <VariantOf>ﻦﻣ ﺔﺨﺴﻧ</VariantOf>
+  
+  
+  <BornOfParents>{0} ـﻟ ﺩﻮﻟﻮﻣ</BornOfParents>
+  <ParentsUnknown>ﻦﻴﻟﻮﻬﺠﻣ ﻦﻳﻮﺑﺃ</ParentsUnknown>
+  
+  
+  <Colonist>ﻦﻃﻮﺘﺴﻣ</Colonist>
+  
+  
+</LanguageData>

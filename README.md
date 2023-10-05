@@ -1,38 +1,26 @@
 RimWorld Arabic Translation
 ===========
 
-This is the Arabic localization project for [RimWorld](https://rimworldgame.com/).
-If you wish to help with translating, please read [this page](http://ludeon.com/forums/index.php?topic=2933.0) first.
+بسم الله الرحمن الرحيم
 
-الصفحة الرسمية للترجمة للعبة ريمورلد من انجليزي لعربي
-لو عايز تساعد بأي طريقة ممكن, تشوف الأول 
-http://ludeon.com/forums/index.php?topic=2933.0
+السلام عليكم ورحمة الله وبركاته
+أتمنى أن تكونوا جميعًا بأفضل حال
 
-# Rules
+أود الـيوم ان ا وضع في ايديكم تعريب لعبة RimWorld،واحدة من أفضل ألعاب الستراتيجية التكتيكية.
 
-* Please do not commit or pull-request to the `master` branch directly! This is to keep a clean, working copy of the project. There will be a branch for every major release, and other branches can be used as necessary.
+RimWorld هي لعبة فيديو تكتيكية تستند إلى القصص والناجين من كوكب بعيد. تم تطويرها بواسطة Ludeon Studios.
 
-* Read [this post](http://ludeon.com/forums/index.php?topic=2933.0) before you start work on this project. You can also check out the [German localization repo](https://github.com/Ludeon/RimWorld-de) to see an example of a good project.
+في RimWorld، الهدف الرئيسي للعبة هو البقاء على قيد الحياة وبناء مستعمرة ناجحة. ستكون مهمتك هي إدارة مجموعة من الناجين الذين هبطوا على كوكب بري واجهوا الجوع، المرض,الهجمات والكوارث الطبيعية.
 
-# Translators
+واحدة من أفضل خصائص اللعبة هي نظام توليد الأحداث العشوائية. فالأحداث تتغير في كل مرة تلعب فيها اللعبة، وهذا يضيف عمقاً غير محدود للعبة والكثير من التحدي.
 
-## Current 2023
-Abdulhadi Mohammed "Nickname = Mr Ant"
 
-## Previous
+RimWorld تتميز ببيئاتها الرائعة والتفاصيل المذهلة والاستكشاف الحر في العالم المفتوح، بالإضافة إلى قصتها المثيرة والجو المليء بالغموض والإثارة.
 
-* IHERO97
-* msabsabee
-* mjkubba
-* Blitzilla
-* mtimoustafa
-* CGUltimateno
+لقد قدمت نظرة عامة سريعة عن اللعبة، وأتمنى أن أكون قد أثرت اهتمامكم بتجربتها.
 
-If you wish to be added to the list, please contact one of the official translators.
 
-# Forums
+يرجى ذكر المصدر عند نقل هذا المحتوى أو مشاركته.
+by zxsoszx
 
-[Official RimWorld translation forums](https://ludeon.com/forums/index.php?board=17.0)
-
-[Arabic translation forum](https://ludeon.com/forums/index.php?topic=49509.0)
-
+https://twitter.com/FLTAH_7/

@@ -1,0 +1,12 @@
+<LanguageData>
+  
+  
+  <ExciseCarcinoma.label>ﻥﺎﻃﺮﺳ ﻑﺬﺣ</ExciseCarcinoma.label>
+  
+  <ExciseCarcinoma.description>.ﻥﺎﻃﺮﺴﻟﺍ ﻞﺘﻗ</ExciseCarcinoma.description>
+  
+  <ExciseCarcinoma.jobString>ﻥﺎﻃﺮﺴﻟﺍ ﻞﻳﺰﻳ</ExciseCarcinoma.jobString>
+  
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>.{1} ﻦﻣ ﻥﺎﻃﺮﺴﻟﺍ ﺡﺎﺠﻨﺑ ﻞﻳﺰﻳ {0}</ExciseCarcinoma.successfullyRemovedHediffMessage> 
+  
+</LanguageData>

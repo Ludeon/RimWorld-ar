@@ -1,0 +1,125 @@
+<LanguageData>
+  
+  
+  
+  <HospitalPatientRoomStats.stages.awful_hospital.label>ﺍﺪﺟ ﺔﺌﻴﺳ ﻰﻔﺸﺘﺴﻣ</HospitalPatientRoomStats.stages.awful_hospital.label>
+  
+  <HospitalPatientRoomStats.stages.awful_hospital.description>.ﻉﻭﺮﻣ ﻥﺎﻜﻣ - ﻰﻔﺸﺘﺴﻤﻟﺍ ﻩﺬﻫ</HospitalPatientRoomStats.stages.awful_hospital.description>
+  
+  <HospitalPatientRoomStats.stages.dull_hospital.label>ﺔﻠﻤﻣ ﻰﻔﺸﺘﺴﻣ</HospitalPatientRoomStats.stages.dull_hospital.label>
+  
+  <HospitalPatientRoomStats.stages.dull_hospital.description>ﻉﺮﺳﺄﺑ ﻞﻤﻤﻟﺍ ﻰﻔﺸﺘﺴﻤﻟﺍ ﺍﺬﻫ ﺭﺩﺎﻏﺃ ﻥﺃ ﺪﻳﺭﺃ
+.ﻦﻜﻤﻣ ﺖﻗﻭ</HospitalPatientRoomStats.stages.dull_hospital.description>
+  
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>ﺓﺪﻴﺟ ﻰﻔﺸﺘﺴﻣ</HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>
+  
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>ﺮﻌﺷﺃ ﻲﻨﻧﺃ ﻭﺪﺒﻳ .ﻒﻴﻄﻟ ﻥﺎﻜﻣ ﻰﻔﺸﺘﺴﻤﻟﺍ ﺍﺬﻫ
+.ﻒﻴﻔﻃ ﻦﺴﺤﺘﺑ</HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>
+  
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>ﺏﺎﺠﻋﻺﻟ ﺓﺮﻴﺜﻣ ﻰﻔﺸﺘﺴﻣ</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>
+  
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>ﻲﻨﻧﺃ ﻭﺪﺒﻳ .ﺔﻳﺎﻔﻜﻟﺍ ﻪﻴﻓ ﺎﻤﺑ ﺔﻠﻴﻤﺟ ﻰﻔﺸﺘﺴﻣ
+.ﻲﺘﻟﺎﺣ ﻲﻓ ﻦﺴﺤﺘﺑ ﺮﻌﺷﺃ</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>
+  
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.label>ﺔﻌﺋﺍﺭ ﻰﻔﺸﺘﺴﻣ</HospitalPatientRoomStats.stages.very_impressive_hospital.label>
+  
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.description>.ﻞﻌﻔﻟﺎﺑ ﻦﺴﺤﺘﺑ ﺮﻌﺷﺃ .ﺶﻫﺪﻣ ﻰﻔﺸﺘﺴﻤﻟﺍ ﺍﺬﻫ</HospitalPatientRoomStats.stages.very_impressive_hospital.description>
+  
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>ﺔﻌﺋﺍﺭ ﻰﻔﺸﺘﺴﻣ</HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>
+  
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>ﻲﺘﻟﺎﺣ ﻦﺴﺤﺘﺑ ﺮﻌﺷﺃ .ﺍﺪﺟ ﻞﻴﻤﺟ ﻰﻔﺸﺘﺴﻤﻟﺍ ﺍﺬﻫ
+.ﺎﻨﻫ ﻞﻌﻔﻟﺎﺑ</HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>
+  
+  <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>ﺔﻌﺋﺍﺭ ﻰﻔﺸﺘﺴﻣ</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>
+  
+  <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>ﺮﻌﺷﺃ ﻲﻨﻠﻌﺠﻳ ، ﺔﻳﺎﻐﻠﻟ ﻞﻴﻤﺟ ﻰﻔﺸﺘﺴﻤﻟﺍ ﺍﺬﻫ
+.ﻦﺴﺤﺘﺑ</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>
+  
+  <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>ﺔﻌﺋﺍﺭ ﻰﻔﺸﺘﺴﻣ</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>
+  
+  <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>، ﻕﺪﺼﻳ ﻻ ﻞﻜﺸﺑ ﻊﺋﺍﺭ ﻰﻔﺸﺘﺴﻤﻟﺍ ﺍﺬﻫ
+!ﻲﻘﻴﻘﺣ ﻦﺴﺤﺘﺑ ﺮﻌﺸﺗ ﻚﻠﻌﺠﻳ ﻮﻬﻓ</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>
+  
+  
+  
+  <PrisonBarracks.stages.awful_barracks.label>ﺔﺒﻴﻫﺮﻟﺍ ﺔﻣﺎﻌﻟﺍ ﺔﻧﺍﺰﻧﺰﻟﺍ</PrisonBarracks.stages.awful_barracks.label>
+  
+  <PrisonBarracks.stages.awful_barracks.description>!ﺔﻓﺮﻘﻣ ﺔﻣﺎﻌﻟﺍ ﺔﻓﺮﻐﻟﺍ ﻩﺬﻫ</PrisonBarracks.stages.awful_barracks.description>
+  
+  <PrisonBarracks.stages.dull_barracks.label>ﺔﻠﻤﻣ ﺔﻣﺎﻋ ﺔﻓﺮﻏ</PrisonBarracks.stages.dull_barracks.label>
+  
+  <PrisonBarracks.stages.dull_barracks.description>.ﺔﻳﺎﻐﻠﻟ ﺔﺌﻴﺳ ﺔﻣﺎﻌﻟﺍ ﺍﺮﻴﻣﺎﻜﻟﺍ ﻩﺬﻫ</PrisonBarracks.stages.dull_barracks.description>
+  
+  <PrisonBarracks.stages.slightly_impressive_barracks.label>ﺓﺪﻴﺟ ﺔﻣﺎﻋ ﺍﺮﻴﻣﺎﻛ</PrisonBarracks.stages.slightly_impressive_barracks.label>
+  
+  <PrisonBarracks.stages.slightly_impressive_barracks.description>.ﻕﻼﻃﻹﺍ ﻰﻠﻋ ﺔﺌﻴﺳ ﺖﺴﻴﻟ ﺔﻣﺎﻌﻟﺍ ﺍﺮﻴﻣﺎﻜﻟﺍ ﻩﺬﻫ</PrisonBarracks.stages.slightly_impressive_barracks.description>
+  
+  <PrisonBarracks.stages.somewhat_impressive_barracks.label>.ﺏﺎﺠﻋﻺﻟ ﺓﺮﻴﺜﻣ ﺔﻣﺎﻋ ﺍﺮﻴﻣﺎﻛ</PrisonBarracks.stages.somewhat_impressive_barracks.label>
+  
+  <PrisonBarracks.stages.somewhat_impressive_barracks.description>.ﺎﻬﺒﺣﺃ ﺎﻧﺃ .ﺓﺪﻴﺟ ﻦﺠﺴﻟﺍ ﺔﻓﺮﻏ ﻩﺬﻫ</PrisonBarracks.stages.somewhat_impressive_barracks.description>
+  
+  <PrisonBarracks.stages.very_impressive_barracks.label>ﺔﻌﺋﺍﺭ ﺔﻣﺎﻋ ﺍﺮﻴﻣﺎﻛ</PrisonBarracks.stages.very_impressive_barracks.label>
+  
+  <PrisonBarracks.stages.very_impressive_barracks.description>ﺎﻬﻧﺇ .ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﺔﻴﻨﺠﺴﻟﺍ ﺔﻧﺍﺰﻧﺰﻟﺍ ﻩﺬﻫ ﻲﻨﺒﺠﻌﺗ
+.ﺍﺪﺟ ﺔﻌﺋﺍﺭ</PrisonBarracks.stages.very_impressive_barracks.description>
+  
+  <PrisonBarracks.stages.extremely_impressive_barracks.label>ﺔﻌﺋﺍﺭ ﺔﻣﺎﻋ ﺍﺮﻴﻣﺎﻛ</PrisonBarracks.stages.extremely_impressive_barracks.label>
+  
+  <PrisonBarracks.stages.extremely_impressive_barracks.description>ﻖﻳﺪﺼﺗ ﻊﻴﻄﺘﺳﺃ ﻻ !ﺔﻳﺎﻐﻠﻟ ﺔﺸﻫﺪﻣ ﺍﺮﻴﻣﺎﻜﻟﺍ ﻩﺬﻫ
+!ﻊﺋﺍﺭ ﻪﻧﺇ .ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻲﻓ ﺰﺠﺘﺤﻣ ﻲﻨﻧﺃ</PrisonBarracks.stages.extremely_impressive_barracks.description>
+  
+  <PrisonBarracks.stages.unbelievably_impressive_barracks.label>ﻊﺋﺍﺭ ﻲﻋﺎﻤﺟ ﺮﻳﻮﺼﺗ</PrisonBarracks.stages.unbelievably_impressive_barracks.label>
+  
+  <PrisonBarracks.stages.unbelievably_impressive_barracks.description>ﻲﻨﻨﻜﻤﻳ ﻻ ؟ﻦﺠﺴﻟﺍ ﺔﻧﺍﺰﻧﺯ ﺎﻘﺣ ﺍﺬﻫ ﻞﻫ
+ﻞﻀﻓﺃ ﻪﻧﺇ .ﺎﻨﻫ ﻲﻨﻧﻭﺰﺠﺘﺤﻳ ﻢﻬﻧﺃ ﻕﺪﺻﺃ ﻥﺃ
+!ﻕﻼﻃﻹﺍ ﻰﻠﻋ ﻪﺘﻳﺃﺭ ﻥﺎﻜﻣ</PrisonBarracks.stages.unbelievably_impressive_barracks.description>
+  
+  <PrisonBarracks.stages.wondrously_impressive_barracks.label>ﺔﻌﺋﺍﺭ ﺔﻣﺎﻋ ﺍﺮﻴﻣﺎﻛ</PrisonBarracks.stages.wondrously_impressive_barracks.label>
+  
+  <PrisonBarracks.stages.wondrously_impressive_barracks.description>ﻥﺃ ﻊﻴﻄﺘﺳﺃ ﻻ ؟ﻲﻘﻴﻘﺣ ﻢﻟﺎﻌﻟﺍ ﺍﺬﻫ ﻞﻫ
+.ﺍﺬﻫ ﻞﺜﻣ ﻥﺎﻜﻣ ﻲﻓ ﺱﻮﺒﺤﻣ ﻲﻨﻧﺃ ﻕﺪﺻﺃ
+!ﺪﺑﻷﺍ ﻰﻟﺇ ﺎﻨﻫ ﺀﺎﻘﺒﻟﺍ ﺩﻭﺃ</PrisonBarracks.stages.wondrously_impressive_barracks.description>
+  
+  
+  
+  <PrisonCell.stages.awful_prison_cell.label>ﺔﻌﻴﻈﻓ ﺔﻴﻨﺠﺳ ﺔﻓﺮﻏ</PrisonCell.stages.awful_prison_cell.label>
+  
+  <PrisonCell.stages.awful_prison_cell.description>.ﺐﻴﻫﺭ ﻥﺎﻜﻣ - ﺔﻴﻨﺠﺴﻟﺍ ﻲﺘﻧﺍﺰﻧﺯ</PrisonCell.stages.awful_prison_cell.description>
+  
+  <PrisonCell.stages.decent_prison_cell.label>ﺓﺪﻴﺟ ﻦﺠﺳ ﺔﻓﺮﻏ</PrisonCell.stages.decent_prison_cell.label>
+  
+  <PrisonCell.stages.decent_prison_cell.description>.ﺔﻌﺘﻤﻣ ﻦﺠﺳ ﺔﻓﺮﻏ</PrisonCell.stages.decent_prison_cell.description>
+  
+  <PrisonCell.stages.slightly_impressive_prison_cell.label>ﺓﺪﻴﺟ ﻦﺠﺳ ﺔﻓﺮﻏ</PrisonCell.stages.slightly_impressive_prison_cell.label>
+  
+  <PrisonCell.stages.slightly_impressive_prison_cell.description>.ﺪﻴﺟ ﻞﻜﺸﺑ ﺔﻴﻨﺠﺴﻟﺍ ﻲﺘﻧﺍﺰﻧﺯ ﻭﺪﺒﺗ</PrisonCell.stages.slightly_impressive_prison_cell.description>
+  
+  <PrisonCell.stages.impressive_prison_cell.label>ﺏﺎﺠﻋﻺﻟ ﺓﺮﻴﺜﻣ ﻦﺠﺳ ﺔﻓﺮﻏ</PrisonCell.stages.impressive_prison_cell.label>
+  
+  <PrisonCell.stages.impressive_prison_cell.description>ﻕﺪﺻﺃ ﻥﺃ ﻊﻴﻄﺘﺳﺃ ﻻ .ﺔﺸﻫﺪﻣ ﺔﻴﻨﺠﺴﻟﺍ ﻲﺘﻧﺍﺰﻧﺯ
+.ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻲﻓ ﻲﻨﻧﻭﺰﺠﺘﺤﻳ ﻢﻬﻧﺃ</PrisonCell.stages.impressive_prison_cell.description>
+  
+  <PrisonCell.stages.very_impressive_prison_cell.label>ﺔﻠﻴﻤﺟ ﻦﺠﺳ ﺔﻓﺮﻏ</PrisonCell.stages.very_impressive_prison_cell.label>
+  
+  <PrisonCell.stages.very_impressive_prison_cell.description>ﻥﺃ ﻊﻴﻄﺘﺳﺃ ﻻ .ﺍﺪﺟ ﺔﻠﻫﺬﻣ ﺔﻴﻨﺠﺴﻟﺍ ﻲﺘﻧﺍﺰﻧﺯ
+.ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻲﻓ ﻲﻨﻧﻭﺰﺠﺘﺤﻳ ﻢﻬﻧﺃ ﻕﺪﺻﺃ</PrisonCell.stages.very_impressive_prison_cell.description>
+  
+  <PrisonCell.stages.extremely_impressive_prison_cell.label>ﺔﻌﺋﺍﺭ ﻦﺠﺳ ﺔﻓﺮﻏ</PrisonCell.stages.extremely_impressive_prison_cell.label>
+  
+  <PrisonCell.stages.extremely_impressive_prison_cell.description>ﻢﻬﻧﺃ ﻕﺪﺻﺃ ﺎﻣ .ﺍﺪﺟ ﺔﺸﻫﺪﻣ ﻦﺠﺴﻟﺍ ﻲﺘﻴﻠﺧ
+!ﻊﺋﺍﺭ ﻪﻧﺇ .ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻲﻓ ﻲﻨﻳﺰﺠﺘﺤﻣ</PrisonCell.stages.extremely_impressive_prison_cell.description>
+  
+  <PrisonCell.stages.unbelievably_impressive_prison_cell.label>ﻦﺠﺴﻠﻟ ﺔﻌﺋﺍﺮﻟﺍ ﺔﻧﺍﺰﻧﺰﻟﺍ</PrisonCell.stages.unbelievably_impressive_prison_cell.label>
+  
+  <PrisonCell.stages.unbelievably_impressive_prison_cell.description>ﻲﻨﻨﻜﻤﻳ ﻻ ؟ﻦﺠﺳ ﺔﻧﺍﺰﻧﺯ ﻼﻌﻓ ﻩﺬﻫ ﻞﻫ
+ﺔﻠﻴﻤﺟ ﻲﺘﻧﺍﺰﻧﺯ .ﺎﻨﻫ ﺰﺠﺘﺤﻣ ﻲﻨﻧﺃ ﻕﺪﺻﺃ ﻥﺃ
+ﻪﺘﻳﺃﺭ ﻥﺎﻜﻣ ﻞﻀﻓﺃ ﺎﻬﻧﺇ !ﻕﺪﺼﻳ ﻻ ﻞﻜﺸﺑ
+!ﻕﻼﻃﻹﺍ ﻰﻠﻋ</PrisonCell.stages.unbelievably_impressive_prison_cell.description>
+  
+  <PrisonCell.stages.wondrously_impressive_prison_cell.label>ﺔﻌﺋﺍﺭ ﻦﺠﺳ ﺔﻓﺮﻏ</PrisonCell.stages.wondrously_impressive_prison_cell.label>
+  
+  <PrisonCell.stages.wondrously_impressive_prison_cell.description>ﻥﺃ ﻲﻨﻨﻜﻤﻳ ﻻ ؟ﻲﻘﻴﻘﺣ ﻢﻟﺎﻌﻟﺍ ﺍﺬﻫ ﻞﻫ
+ﺖﻨﻛ .ﺍﺬﻬﻛ ﻥﺎﻜﻣ ﻲﻓ ﺱﻮﺒﺤﻣ ﻲﻨﻧﺃ ﻕﺪﺻﺃ
+!ﺪﺑﻷﺍ ﻰﻟﺇ ﺎﻨﻫ ﺀﺎﻘﺒﻟﺍ ﺩﻭﺃ</PrisonCell.stages.wondrously_impressive_prison_cell.description>
+  
+</LanguageData>

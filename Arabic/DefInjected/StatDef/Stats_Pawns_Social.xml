@@ -1,0 +1,65 @@
+<LanguageData>
+  
+  
+  <ArrestSuccessChance.label>ﺾﺒﻘﻠﻟ ﺔﺤﺟﺎﻧ ﺔﺻﺮﻓ</ArrestSuccessChance.label>
+  
+  <ArrestSuccessChance.description>ﺍﺬﻫn\n\؟ﺹﺎﺨﺷﻷﺍ ﻝﺎﻘﺘﻋﺍ ﻲﻓ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﺔﻴﻟﺎﻌﻓ ﺔﻴﻔﻴﻛ
+ﻥﻭﺪﺑ ﺺﺨﺷ ﻝﺎﻘﺘﻋﺍ ﺔﻴﻟﺎﻤﺘﺣﺍ ﻰﻠﻋ ﺮﺛﺆﻳ ﺮﺷﺆﻤﻟﺍ
+.ﻞﻘﺘﻌﻤﻟﺍ ﺐﻧﺎﺟ ﻦﻣ ﺔﻣﻭﺎﻘﻣ</ArrestSuccessChance.description>
+  
+  
+  <BondAnimalChanceFactor.label>ﺔﻠﻤﺘﺤﻤﻟﺍ ﺀﻻﻮﻟﺍ ﺔﺻﺮﻓ</BondAnimalChanceFactor.label>
+  
+  <BondAnimalChanceFactor.description>ﻞﻋﺎﻔﺘﻟﺍ ﺪﻨﻋ ﻥﺍﻮﻴﺤﻠﻟ ﺀﺎﻤﺘﻧﻻﺍ ﺔﻴﻟﺎﻤﺘﺣﺍ ﻲﻫ ﺎﻣ
+؟ﻪﻌﻣ</BondAnimalChanceFactor.description>
+  
+  
+  <DrugSellPriceImprovement.label>ﺕﺍﺭﺪﺨﻤﻟﺍ ﻊﻴﺑ ﺭﺎﻌﺳﺃ ﻦﻴﺴﺤﺗ</DrugSellPriceImprovement.label>
+  
+  <DrugSellPriceImprovement.description>ﺭﺎﻌﺳﻷﺍ ﻦﺴﺤﺘﻳ ، ﺕﺍﺭﺪﺨﻤﻟﺍ ﺔﻴﺼﺨﺸﻟﺍ ﻊﻴﺒﻳ ﺎﻣﺪﻨﻋ
+.ﺔﻨﻴﻌﻣ ﺔﺒﺴﻨﺑ</DrugSellPriceImprovement.description>
+  
+  
+  <NegotiationAbility.label>ﺽﻭﺎﻔﺘﻟﺍ ﻰﻠﻋ ﺓﺭﺪﻗ</NegotiationAbility.label>
+  
+  <NegotiationAbility.description>ﺮﺛﺆﺗ ؟ﺽﻭﺎﻔﻤﻛ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﺓﺭﺪﻗ ﺭﺪﻘﺗ ﻒﻴﻛ
+ﺡﺎﺠﻧﻭ ،ﻯﺮﺳﻷﺍ ﺪﻴﻨﺠﺗ ﺔﻴﻠﻋﺎﻓ ﻰﻠﻋ ﺓﺰﻴﻤﻟﺍ ﻩﺬﻫ
+.ﺔﻴﻤﻠﺴﻟﺍ ﺕﺎﺿﻭﺎﻔﻤﻟﺍ ﺞﺋﺎﺘﻧﻭ ،ﻯﺮﺧﻷﺍ ﺕﺎﻋﺎﻤﺠﻠﻟ ﺔﻴﺳﺎﻣﻮﻠﺑﺪﻟﺍ ﺎﻳﺍﺪﻬﻟﺍ</NegotiationAbility.description>
+  
+  
+  <PawnBeauty.label>ﻝﺎﻤﺟ</PawnBeauty.label>
+  
+  <PawnBeauty.description>ﺪﻤﺘﻌﻳ ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺕﻼﻋﺎﻔﺘﻟﺍ ﺔﺠﻴﺘﻧ ﻰﻠﻋ ﻝﺎﻤﺠﻟﺍ ﺮﻴﺛﺄﺗ
+ﻦﻣ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﺺﺨﺷ ﺔﻴﺑﺫﺎﺟ ﻯﺪﻣ ﻰﻠﻋ
+.ﺔﻴﺟﺭﺎﺨﻟﺍ ﺔﻴﺣﺎﻨﻟﺍ</PawnBeauty.description>
+  
+  
+  <SocialImpact.label>ﻲﻋﺎﻤﺘﺟﺍ ﺮﻴﺛﺄﺗ</SocialImpact.label>
+  
+  <SocialImpact.description>.ﻞﺻﺍﻮﺘﻟﺍ ﺀﺎﻨﺛﺃ ﻦﻳﺮﺧﻵﺍ ﻰﻠﻋ ﺔﻴﺼﺨﺸﻟ ﻲﻋﺎﻤﺘﺟﺍ ﺮﻴﺛﺄﺗ</SocialImpact.description>
+  
+  
+  <TameAnimalChance.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻳﻭﺮﺗ ﺔﺻﺮﻓ</TameAnimalChance.label>
+  
+  <TameAnimalChance.description>.ﺶﺣﻮﺘﻤﻟﺍ ﻥﺍﻮﻴﺤﻠﻟ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﺾﻳﻭﺮﺘﻟ ﺔﻴﺳﺎﺳﺃ ﺔﺻﺮﻓ
+ﺔﻴﺸﺣﻭ ﻯﺪﻣ ﻰﻠﻋ ﺎﻀﻳﺃ ﺪﻤﺘﻌﻳ ﻲﻠﻌﻔﻟﺍ ﺡﺎﺠﻨﻟﺍﻭ
+.ﻥﺍﻮﻴﺤﻟﺍ
+ﻡﻮﺠﻫ ﻰﻟﺇ ﺾﻳﻭﺮﺘﻠﻟ ﺔﻠﺷﺎﻔﻟﺍ ﺕﻻﻭﺎﺤﻤﻟﺍ ﻱﺩﺆﺗ ﺪﻗ
+ﺔﻴﻧﺍﻭﺪﻋ ﻰﻠﻋ ﺪﻤﺘﻌﺗ ﺔﺻﺮﻔﻟﺍ ﻩﺬﻫﻭ ، ﻥﺍﻮﻴﺤﻟﺍ
+.ﺔﻣﺎﻌﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ</TameAnimalChance.description>
+  
+  
+  <TradePriceImprovement.label>ﺓﺭﺎﺠﺘﻟﺍ ﺮﻌﺳ ﻦﻴﺴﺤﺗ</TradePriceImprovement.label>
+  
+  <TradePriceImprovement.description>ﺀﺍﺮﺸﻟﺍ ﺭﺎﻌﺳﺃ ﻥﺈﻓ ،ﺮﺟﺎﺘﺗ ﺔﻴﺼﺨﺸﻟﺍ ﻥﺎﻛ ﺍﺫﺇ
+.ﺔﻨﻴﻌﻣ ﺔﺒﺴﻨﺑ ﻦﺴﺤﺘﺗ ﻊﻴﺒﻟﺍﻭ</TradePriceImprovement.description>
+  
+  
+  <TrainAnimalChance.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺐﻳﺭﺪﺗ ﺔﺻﺮﻓ</TrainAnimalChance.label>
+  
+  <TrainAnimalChance.description>ﺐﻳﺭﺪﺗ ﻲﻓ ﺔﻴﺼﺨﺸﻟﺍ ﻩﺬﻫ ﻡﺪﻘﺘﻟ ﺔﻴﺳﺎﺳﻷﺍ ﺔﻴﻟﺎﻤﺘﺣﻻﺍ
+.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ
+ﺩﻮﺟﻭﻭ ،ﻥﺍﻮﻴﺤﻟﺍ ﺔﻳﺮﺑ ﻰﻠﻋ ﺔﻴﺋﺎﻬﻨﻟﺍ ﺔﻴﻟﺎﻤﺘﺣﻻﺍ ﺪﻤﺘﻌﺗ
+.ﻯﺮﺧﺃ ﻞﻣﺍﻮﻋﻭ ،ﺔﻴﺼﺨﺸﻟﺍ ﻊﻣ ﻁﺎﺒﺗﺭﺍ</TrainAnimalChance.description>
+  
+</LanguageData>

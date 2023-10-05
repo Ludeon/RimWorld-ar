@@ -1,0 +1,77 @@
+<LanguageData>
+  
+  
+  <Boomrat.label>ﺭﺄﻔﻟﺍ ﻡﻮﺑ</Boomrat.label>
+  
+  <Boomrat.description>ﺎﻣﺇ ﺽﺭﺍﻮﻘﻠﻟ ﺔﻬﺑﺎﺸﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻩﺬﻫ ﻥﺃ ﻭﺪﺒﻳ
+، ﺔﻴﻟﺎﺘﻗ ﺓﺍﺩﺄﻛ ﺍﺪﻤﻋ ﺎﻴﺛﺍﺭﻭ ﺎﻬﻠﻳﺪﻌﺗ ﻢﺗ
+ﺔﻳﺩﺎﻋ ﺮﻴﻏ ﻉﺎﻓﺩ ﺔﻴﻟﺁ ﺎﻬﻳﺪﻟ ﺖﻌﺿﻭ ﻭﺃ
+.ﺎﻘﻳﺮﺣ ﺔﺒﺒﺴﻣ ﺕﻮﻤﻟﺍ ﺪﻨﻋ ﺭﺎﺠﻔﻧﺍ -</Boomrat.description>
+  
+  <Boomrat.tools.left_claw.label>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</Boomrat.tools.left_claw.label>
+  
+  <Boomrat.tools.right_claw.label>ﻦﻤﻳﻷﺍ ﻒﻜﻟﺍ</Boomrat.tools.right_claw.label>
+  
+  <Boomrat.tools.head.label>ﺱﺃﺮﻟﺍ</Boomrat.tools.head.label>
+  
+  
+  <Iguana.label>ﺎﻧﺍﻮﺠﻳﺇ</Iguana.label>
+  
+  <Iguana.description>ﻰﻠﻋ ﻯﺬﻐﺘﺗ ﺎﻣ ﺓﺩﺎﻋ ﺓﺮﻴﺒﻜﻟﺍ ﻲﻟﺎﺤﺴﻟﺍ ﻩﺬﻫ
+ﻞﻀﻔﺑ ،ﺐﻀﻐﻟﺍ ﺔﻟﺎﺣ ﻲﻓ ،ﻚﻟﺫ ﻊﻣﻭ .ﺕﺎﺗﺎﺒﻨﻟﺍ
+ﻲﻓ ﺐﺒﺴﺘﺗ ﺪﻗ ،ﺓﺩﺎﺤﻟﺍ ﺎﻬﺒﻟﺎﺨﻣﻭ ﻱﻮﻘﻟﺍ ﺎﻫﺪﻠﺟ
+ﺔﺣﺍﺮﻟﺍ ﺎﻧﺍﻮﺟﻹﺍ ﻆﻔﺘﺤﺗ .ﻭﺪﻌﻟﺎﺑ ﺮﻴﺒﻛ ﻯﺫﺃ ﻕﺎﺤﻟﺇ
+.ﺎﻔﻳﺮﻃ "ﺍﺭﻮﺨﻓ" ﺍﺮﻬﻈﻣ ﺎﻬﺤﻨﻤﻳ ﺎﻤﻣ ،ﺎﻌﻔﺗﺮﻣ ﺎﻬﺳﺃﺮﺑ
+ﻰﻠﻋ ﺓﺭﻮﺨﻓ ﺖﺴﻴﻟ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻩﺬﻫ ،ﻚﻟﺫ ﻊﻣﻭ
+ﺔﻳﺅﺭ ﻲﻓ ﺐﻏﺮﺗ ﻂﻘﻓ ﺎﻬﻧﺇ - ﻕﻼﻃﻹﺍ
+.ﺎﻬﻠﻛﺃ ﻡﺪﻌﻟ ﺐﺳﺎﻨﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻲﻓ ﻊﺋﺎﺠﻟﺍ</Iguana.description>
+  
+  <Iguana.tools.left_claw.label>ﺮﺴﻳﻷﺍ ﻒﻜﻟﺍ</Iguana.tools.left_claw.label>
+  
+  <Iguana.tools.right_claw.label>ﻦﻤﻳﻷﺍ ﻒﻜﻟﺍ</Iguana.tools.right_claw.label>
+  
+  <Iguana.tools.head.label>ﺱﺃﺮﻟﺍ</Iguana.tools.head.label>
+  
+  
+  <Raccoon.label>ﻊﺒﺿ</Raccoon.label>
+  
+  <Raccoon.description>.ﺭﺎﺠﺷﻷﺍﻭ ﺕﺎﺑﺎﻐﻟﺍ ﻲﻓ ﺶﻴﻌﻳ ﻱﻮﻗ ﺮﻴﻐﺻ ﻥﺍﻮﻴﺣ
+ﺀﻲﺷ ﻱﺃ ﻲﻓ ﻡﺎﻌﻃ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻪﻨﻜﻤﻳ
+ﻞﻛ ﻞﻛﺄﻳ :ﻚﺨﺒﻄﻣ ﻰﻟﺇ ﺕﻼﻤﻬﻤﻟﺍ ﺔﻠﺳ ﻦﻣ
+.ﺎﺒﻳﺮﻘﺗ ﺀﻲﺷ</Raccoon.description>
+  
+  <Raccoon.tools.left_claw.label>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</Raccoon.tools.left_claw.label>
+  
+  <Raccoon.tools.right_claw.label>ﻦﻤﻳﻷﺍ ﻒﻜﻟﺍ</Raccoon.tools.right_claw.label>
+  
+  <Raccoon.tools.head.label>ﺱﺃﺭ</Raccoon.tools.head.label>
+  
+  
+  <Rat.label>ﺭﺄﻓ</Rat.label>
+  
+  <Rat.description>ﻞﻤﺤﺗﻭ ﺦﺒﻄﻣ ﻱﺃ ﺩﺪﻬﺗ ﺎﻬﻧﺄﺑ ﺔﻓﻭﺮﻌﻣ ،ﺽﺭﺍﻮﻗ
+،ﺀﻲﺷ ﻱﺃ ﻰﻠﻋ ﻯﺬﻐﺘﺗ .ﺽﺍﺮﻣﻷﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ
+ﻊﺒﺘﺗ ﺓﺩﺎﻋ ﺎﻬﻳﺪﻟﻭ ،ﻥﺎﻜﻣ ﻞﻛ ﻲﻓ ﺶﻴﻌﺗﻭ
+.ﻥﺎﻜﻣ ﻞﻛ ﻲﻓ ﻥﺎﺴﻧﻹﺍ</Rat.description>
+  
+  <Rat.tools.left_claw.label>ﺮﺴﻳﻷﺍ ﻒﻜﻟﺍ</Rat.tools.left_claw.label>
+  
+  <Rat.tools.right_claw.label>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ</Rat.tools.right_claw.label>
+  
+  <Rat.tools.head.label>ﺱﺃﺭ</Rat.tools.head.label>
+  
+  
+  <Squirrel.label>.ﺏﺎﺠﻨﺳ ﺔﻀﻴﺑ</Squirrel.label>
+  
+  <Squirrel.description>،ﺔﻠﻤﺤﺘﻤﻟﺍ ﺽﺭﺍﻮﻘﻟﺍ ﻑﺎﻨﺻﺃ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻦﻣ ﺓﺪﺣﺍﻭ
+.ﺎﻬﻨﻃﻮﺘﺴﻳ ﻲﺘﻟﺍ ﻢﻟﺍﻮﻌﻟﺍ ﺖﻧﺎﻛ ﺎﻳﺃ ﻥﺎﺴﻧﻹﺍ ﻊﺒﺘﺗ
+ﻱﺬﻟﺍ ﻢﻋﺎﻨﻟﺍ ﺎﻬﻠﻳﺫ ﻞﻀﻔﺑ ﺔﻟﻮﻬﺴﺑ ﺰﻴﻴﻤﺘﻟﺍ ﻦﻜﻤﻳ
+.ﺊﻴﺴﻟﺍ ﺲﻘﻄﻟﺍ ﻲﻓ ﺔﻠﻈﻤﻛ ﻪﻧﻮﻣﺪﺨﺘﺴﻳ</Squirrel.description>
+  
+  <Squirrel.tools.left_claw.label>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</Squirrel.tools.left_claw.label>
+  
+  <Squirrel.tools.right_claw.label>ﻦﻤﻳﻷﺍ ﻒﻜﻟﺍ</Squirrel.tools.right_claw.label>
+  
+  <Squirrel.tools.head.label>ﺱﺃﺮﻟﺍ</Squirrel.tools.head.label>
+  
+</LanguageData>

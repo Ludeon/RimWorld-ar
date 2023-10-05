@@ -1,0 +1,28 @@
+<LanguageData>
+
+  
+  <ClockTime>ﺖﻗﻮﻟﺍ</ClockTime>
+  
+  <ClockDate>ﺦﻳﺭﺎﺗ</ClockDate>
+  
+  <ClockYear>ﺔﻨﺴﻟﺍ</ClockYear>
+  
+  <DateReadoutTip>ﻦﻴﻣﻮﻳ : ﻡﻮﻳ ? numCase_0} ﺮﻣ ﺪﻘﻟ
+ﻢﺳﻮﻤﻟﺍn\{4} ﻮﻫ ﻲﻟﺎﺤﻟﺍ ﻊﺑﺮﻟﺍn\ﻚﻟﻮﺻﻭ ﺬﻨﻣ {ﻡﺎﻳﺃ :
+,ﻉﺎﺑﺭﺃ 4 ﻦﻣ ﺔﻧﻮﻜﻣ ﺔﻨﺴﻟﺍn\n\{2} ﻮﻫ ﻲﻟﺎﺤﻟﺍ
+ﻲﻫ ﻉﺎﺑﺭﻷﺍ .ﻡﺎﻳﺃ {3} ﻪﺑ ﻊﺑﺭ ﻞﻛ
+ﻲﻬﻓ ﻢﺳﺍﻮﻤﻟﺍ ﺎﻣﺃ ,ﻥﺎﻜﻣ ﻞﻛ ﻲﻓ ﺎﻬﺴﻔﻧ
+{n{5\:ﻥﺎﻜﻤﻟﺍ ﺍﺬﻬﻟ ﻉﺎﺑﺭﻷﺍ ﻰﻠﻋ ﻢﺳﺍﻮﻤﻟﺍ ﻊﻳﺯﻮﺗn\n\.ﺔﻔﻠﺘﺨﻣ</DateReadoutTip>
+
+  
+  <FullDate>{0} {lookup: {1}; Case; 1} {2} г</FullDate>
+  
+  <ShortDate>{0} {lookup: {1}; Case; 1} {2}</ShortDate>
+  
+  <DateReadout>{0} {lookup: {1}; Case; 1} {2} г</DateReadout>
+  
+  <SeasonFullDate>{0} {lookup: {1}; Case; 1}</SeasonFullDate>
+  
+  <WholeYear>ﻡﺎﻌﻟﺍ ﻝﺍﻮﻃ</WholeYear>
+  
+</LanguageData>

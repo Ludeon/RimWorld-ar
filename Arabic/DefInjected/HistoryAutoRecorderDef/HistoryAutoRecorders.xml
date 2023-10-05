@@ -1,0 +1,49 @@
+<LanguageData>
+  
+  
+  <Adaptation.label>ﻞﻴﻫﺄﺘﻟﺍ ﺓﺩﺎﻋﺇ</Adaptation.label>
+  
+  <Adaptation.valueFormat>ﻡﺎﻳﺃ {0}</Adaptation.valueFormat>
+  
+  
+  <ColonistMood.label>ﺝﺍﺰﻤﻟﺍ</ColonistMood.label>
+  <ColonistMood.graphLabelY>ﺝﺍﺰﻣ٪</ColonistMood.graphLabelY>
+  
+  
+  <FreeColonists.label>ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ</FreeColonists.label>
+  <FreeColonists.graphLabelY>ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ</FreeColonists.graphLabelY>
+  
+  
+  <PopAdaptation.label>ﻥﺎﻜﺴﻟﺍ ﺓﺩﺎﻌﺘﺳﺍ</PopAdaptation.label>
+  
+  <PopAdaptation.valueFormat>.ﻡﺎﻳﺃ {0}</PopAdaptation.valueFormat>
+  
+  
+  <PopIntent.label>x10 ﻥﺎﻜﺴﻟﺍ ﻦﻴﺑ ﺮﺗﻮﺘﻟﺍ ﺪﻋﺎﺼﺗ</PopIntent.label>
+  
+  <PopIntent.valueFormat>ﻡﺎﻳﺃ {0}</PopIntent.valueFormat>
+  
+  
+  <Prisoners.label>ﻯﺮﺳﻷﺍ</Prisoners.label>
+  <Prisoners.graphLabelY>ﻯﺮﺳﻷﺍ</Prisoners.graphLabelY>
+  
+  
+  <ThreatPoints.label>10/ ﺡﺮﻤﻟﺍ ﻁﺎﻘﻧ</ThreatPoints.label>
+  <ThreatPoints.graphLabelY>ﻁﺎﻘﻧ</ThreatPoints.graphLabelY>
+  
+  <ThreatPoints.valueFormat>ﺔﻄﻘﻧ {0}</ThreatPoints.valueFormat>
+  
+  
+  <Wealth_Buildings.label>ﺀﺎﻨﺒﻟﺍ</Wealth_Buildings.label>
+  <Wealth_Buildings.graphLabelY>ﻰﻨﻌﻤﻟﺍ</Wealth_Buildings.graphLabelY>
+  
+  
+  <Wealth_Items.label>ﺮﺻﺎﻨﻌﻟﺍ</Wealth_Items.label>
+  
+  
+  <Wealth_Pawns.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﺮﺸﺒﻟﺍ</Wealth_Pawns.label>
+  
+  
+  <Wealth_Total.label>(ﻞﻜﻟﺍ) ﺓﻭﺮﺜﻟﺍ</Wealth_Total.label>
+  
+</LanguageData>

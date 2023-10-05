@@ -1,0 +1,79 @@
+<LanguageData>
+  
+  
+  <BilliardsTable.label>ﻭﺩﺭﺎﻴﻠﺒﻟﺍ ﺔﻟﻭﺎﻃ</BilliardsTable.label>
+  
+  <BilliardsTable.description>ﺔﻤﻤﺼﻣ ، ﻢﻋﺎﻨﻟﺍ ﻭﺮﻔﻟﺍ ﺵﺎﻤﻘﺑ ﺓﺎﻄﻐﻣ ﺔﻟﻭﺎﻃ
+.ﺔﺑﺎﺻﻹﺍ ﺔﻗﺩ ﺯﺰﻌﺗ .ﻭﺩﺭﺎﻴﻠﺒﻟﺍ ﻉﺍﻮﻧﺃ ﻒﻠﺘﺨﻣ ﺐﻌﻠﻟ</BilliardsTable.description>
+  
+  
+  <ChessTable.label>ﺔﻴﺠﻧﺮﻄﺸﻟﺍ ﺔﻟﻭﺎﻄﻟﺍ</ChessTable.label>
+  
+  <ChessTable.description>ﻊﻄﻘﻟﺎﺑ ﻙﺮﺤﺘﻟﺎﺑ ﻥﻮﺒﻋﻼﻟﺍ ﻡﻮﻘﻳ .ﺔﻤﻳﺪﻘﻟﺍ ﺞﻧﺮﻄﺸﻟﺍ ﺔﺒﻌﻟ
+ﺏﺭﺪﺘﺗ .ﺓﺩﺪﺤﻤﻟﺍ ﺪﻋﺍﻮﻘﻠﻟ ﺎﻘﻓﻭ ،ﺏﻭﺎﻨﺘﺑ ﺀﺎﻀﻴﺒﻟﺍﻭ ﺀﺍﺩﻮﺴﻟﺍ
+.ﻙﺩﺮﻔﻤﺑ ﺎﻬﺘﺳﺭﺎﻤﻣ ﻦﻜﻤﻳ .ﺎﻴﻠﻘﻋ
+
+&lt;Игра ходовая для одного или двух игроков. Для игры требуется шахматная доска и фигуры.&gt;</ChessTable.description>
+  
+  
+  <FlatscreenTelevision.label>ﺎﻣﺯﻼﺒﻟﺍ ﻥﻮﻳﺰﻔﻠﺘﻟﺍ</FlatscreenTelevision.label>
+  
+  <FlatscreenTelevision.description>ﻥﺍﻮﻟﺃﻭ ﺔﺤﺿﺍﻭ ﺓﺭﻮﺼﺑ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻖﺋﺎﻓ ﻲﻤﻗﺭ ﻥﻮﻳﺰﻔﻠﺗ
+ﺔﻤﻳﺪﻘﻟﺍ ﺔﻴﻋﺎﻨﺼﻟﺍ ﺭﺎﻤﻗﻷﺍ ﻦﻣ ﺓﺭﺎﺷﺇ ﻞﺒﻘﺘﺴﻳ .ﺔﻴﻨﻏ
+.ﺔﻌﺋﺎﺸﻟﺍ ﺓﺮﻛﺍﺬﻟﺍ ﺕﺎﻗﺎﻄﺑ ﺕﺎﻘﻴﺴﻨﺗ ﻢﻋﺪﻳﻭ</FlatscreenTelevision.description>
+  
+  
+  <GameOfUrBoard.label>ﻢﻳﺭﻭﺃ ﺔﺒﻌﻠﻟ ﻞﻘﺤﻟﺍ</GameOfUrBoard.label>
+  
+  <GameOfUrBoard.description>ﺔﻴﺣﻮﻠﻟﺍ ﺏﺎﻌﻟﻸﻟ ﺔﻨﻣﺪﻤﻟﺍﻭ ﺓﺮﻴﺜﻤﻟﺍ ﺔﺒﻌﻠﻟﺍ ﻩﺬﻫ ﺮﺒﺘﻌﺗ
+ﻦﻜﻤﻳ .ﺩﻼﻴﻤﻟﺍ ﻞﺒﻗ 2500 ﻡﺎﻋ ﺬﻨﻣ ﺔﻓﻭﺮﻌﻣ
+.ﺀﺎﻛﺬﻟﺍ ﺏﺭﺪﺗ .ﻦﻴﺼﺨﺸﻟ ﻭﺃ ﻱﺩﺮﻓ ﻞﻜﺸﺑ ﺎﻬﺒﻌﻟ</GameOfUrBoard.description>
+  
+  
+  <HoopstoneRing.label>ﺓﺭﺎﺠﺤﻟﺍ ﻲﻣﺮﻟ ﺔﻘﻠﺣ</HoopstoneRing.label>
+  
+  <HoopstoneRing.description>ﻰﻠﻋ ﺓﺮﻴﺒﻛ ﺔﻘﻠﺣ ﺪﺟﻮﻳ .ﺔﻄﻴﺴﺑ ﺔﻤﻳﺪﻗ ﺔﺒﻌﻟ
+ﺔﻓﺎﺴﻣ ﻦﻣ ﺓﺭﺎﺠﺤﻟﺍ ﻲﻣﺮﺑ ﻥﻮﺒﻋﻼﻟﺍ ﻡﻮﻘﻳ .ﺽﺭﻷﺍ
+.ﺔﻗﺪﻟﺍ ﺐﻳﺭﺪﺗﻭ ﺔﺋﺪﻬﺗ .ﺔﻘﻠﺤﻟﺍ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﺔﻟﻭﺎﺤﻤﻟ</HoopstoneRing.description>
+  
+  
+  <HorseshoesPin.label>.ﺓﺀﺍﺪﺤﻟﺍ ﻲﻣﺮﻟ ﺓﺮﻄﺴﻤﻟﺍ</HorseshoesPin.label>
+  
+  <HorseshoesPin.description>ﺏﻮﻌﻜﻟﺍ ﺪﺣﺃ ﻦﺳ ﻦﻤﻀﺘﺗ ﺔﻳﺪﻴﻠﻘﺗﻭ ﺔﻄﻴﺴﺑ ﺔﺒﻌﻟ
+ﻲﻣﺮﺑ ﻥﻮﺒﻋﻼﻟﺍ ﻡﻮﻘﻳ ﺚﻴﺣ ، ﺽﺭﻷﺍ ﻲﻓ
+ﺐﻌﻜﻟﺍ ﻰﻠﻋ ﺎﻬﻴﻣﺭ ﺔﻟﻭﺎﺤﻣﻭ ﺪﻴﻌﺑ ﻦﻣ ﺕﺍﻭﺪﺤﻟﺍ
+ﺏﺭﺪﺗﻭ ﺀﺎﺧﺮﺘﺳﻻﺍ ﻲﻓ ﻢﻫﺎﺴﺗ .ﻪﻗﻮﻓ ﺎﻬﻌﺿﻭ ﻭﺃ
+.ﺔﻗﺪﻟﺍﻭ ﻖﻴﺴﻨﺘﻟﺍ ﻰﻠﻋ</HorseshoesPin.description>
+  
+  
+  <MegascreenTelevision.label>ﺔﻋﺮﺴﻟﺍ ﻖﺋﺎﻓ ﻥﻮﻳﺰﻔﻠﺗ ﺯﺎﻬﺟ</MegascreenTelevision.label>
+  
+  <MegascreenTelevision.description>ﺔﻴﺤﻟﺍ ﺭﻮﺼﻟﺍ .ﺔﻤﺨﺿ ﺔﺷﺎﺸﺑ ﺔﻴﻨﻘﺘﻟﺍ ﻲﻟﺎﻋ ﻥﻮﻳﺰﻔﻠﺗ
+.ﺔﻳﺎﻐﻠﻟ ﺮﻴﺜﻣ .ﺔﺷﺎﺸﻟﺍ ﻦﻣ ﺎﻴﻓﺮﺣ ﺰﻔﻘﺗ ﺔﻗﻼﻤﻌﻟﺍ
+ﺢﻴﺘﻳﻭ ﺔﻤﻳﺪﻘﻟﺍ ﺔﻴﻋﺎﻨﺼﻟﺍ ﺭﺎﻤﻗﻷﺍ ﻦﻣ ﺓﺭﺎﺷﺇ ﻞﺒﻘﺘﺴﻳ
+.ﺓﺮﻛﺍﺬﻟﺍ ﺕﺎﻗﺎﻄﺒﻟ ﺔﻌﺋﺎﺷ ﺕﺎﻘﻴﺴﻨﺗ ﺓﺀﺍﺮﻗ</MegascreenTelevision.description>
+  
+  
+  <PokerTable.label>ﺮﻛﻮﺒﻟﺍ ﺔﻟﻭﺎﻃ</PokerTable.label>
+  
+  <PokerTable.description>ﺔﻘﻳﺮﻃ .ﺮﻛﻮﺒﻟﺍ ﻞﺜﻣ ﺔﻳﺭﺎﻤﻘﻟﺍ ﻕﺭﻮﻟﺍ ﺏﺎﻌﻟﻷ ﺔﻟﻭﺎﻃ
+ﻰﻟﺇ ﺝﺎﺘﺤﺗ .ﻚﻈﺣﻭ ﻲﺠﻴﺗﺍﺮﺘﺳﻻﺍ ﺮﻜﻔﻟﺍ ﺭﺎﺒﺘﺧﻻ ﺔﻌﺋﺍﺭ
+.ﻡﺍﺪﺨﺘﺳﻼﻟ ﺎﻫﺭﺍﻮﺠﺑ ﺕﺎﻬﻳﺭﻮﺑﺎﺗ ﻭﺃ ﻲﺳﺍﺮﻛ</PokerTable.description>
+  
+  
+  <Telescope.label>ﺏﻮﻜﺴﻠﺗ</Telescope.label>
+  
+  <Telescope.description>ﺍﺬﻬﺑ ﺹﺎﺨﺷﻷﺍ ﺾﻌﺑ ﻊﺘﻤﺘﻳ .ﻚﻠﻔﻟﺍ ﺓﺍﻮﻬﻟ ﺏﻮﻜﺴﻠﺗ
+ﻲﻓ ﻂﻘﻓ ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ .ﺔﺻﺎﺧ ﺔﻌﺘﻤﺑ ﺔﻳﺍﻮﻬﻟﺍ
+.ﻖﻠﻄﻟﺍ ﺀﺍﻮﻬﻟﺍ</Telescope.description>
+  
+  
+  <TubeTelevision.label>ﻱﺩ ﻲﺳ ﻝﺇ ﻥﻮﻳﺰﻔﻠﺗ</TubeTelevision.label>
+  
+  <TubeTelevision.description>ﺔﺷﺎﺷﻭ ﺔﻴﻧﻭﺮﺘﻜﻟﺇ ﺔﻴﻋﺎﻌﺷ ﺔﺑﻮﺒﻧﺃ ﻰﻠﻋ ﻱﻮﺘﺤﻳ ﺯﺎﻬﺟ
+ﻮﻳﺪﻴﻓ ﻰﻟﺇ ﺎﻬﻟﻮﺤﻳﻭ ﺔﻴﻧﻮﻳﺰﻔﻠﺗ ﺓﺭﺎﺷﺇ ﻞﺒﻘﺘﺴﻳ ،
+، ﺔﻴﺋﺎﻨﻟﺍ ﻢﻟﺍﻮﻌﻟﺍ ﻲﻓ ﻰﺘﺣ .ﺕﻮﺻ ﻊﻣ
+ﻢﻳﺪﻗ ﺚﺑ ﺯﺎﻬﺟ ﻙﺎﻨﻫ ﻥﻮﻜﻳ ﺎﻣ ﺎﺒﻟﺎﻏ
+.ﻞﻗﻷﺍ ﻰﻠﻋ ﺍﺮﻴﺜﻣ ﺎﺌﻴﺷ ﺚﺒﻳ</TubeTelevision.description>
+  
+</LanguageData>

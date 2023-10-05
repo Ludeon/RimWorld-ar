@@ -1,0 +1,22 @@
+<LanguageData>
+  
+  
+  <Yayo.label>ﻦﻴﻜﻳﺎﺳ ﺓﺭﺩﻮﺑ</Yayo.label>
+  
+  <Yayo.description>ﻪﻗﺎﺸﻨﺘﺳﺍ ﺪﻨﻋ .ﻦﻴﺨﺴﺒﻟﺍ ﻦﻣ ﺭﺮﻜﻣﻭ ﻢﻋﺎﻧ ﺀﺍﻭﺩ
+ﻦﻣ ﻞﻠﻘﻳ ،ﺔﻳﻮﻘﻟﺍ ﺓﻮﺸﻨﻟﺍ ﻦﻣ ﺔﻟﺎﺣ ﺐﺒﺴﻳ
+ﻊﻴﻤﺟ ﻞﺜﻣ .ﻢﻟﻷﺍ ﺖﺒﻜﻳﻭ ﺔﺣﺍﺮﻟﺍ ﻰﻟﺇ ﺔﺟﺎﺤﻟﺍ
+ﺲﻴﻟ ﻦﻜﻟ ،ﻥﺎﻣﺩﻻﺍ ﺐﺒﺴﻳ ،ﻯﺮﺧﻷﺍ ﻦﻴﺨﺴﺒﻟﺍ ﻝﺎﻜﺷﺃ
+.ﺓﺭﺮﻜﻤﻟﺍ ﺮﻴﻏ ﺏﻮﺒﺤﻟﺍ ﺓﻮﻘﺑ
+
+ﺍﺬﻬﻟ ﻞﻴﺒﻨﻟﺍ ﻲﻘﻨﻟﺍ ﺮﻬﻈﻤﻟﺍﻭ ﺔﻴﻟﺎﻌﻟﺍ ﺔﻔﻠﻜﺘﻟﺍ ﺐﺒﺴﺑ
+ﺀﺍﺮﺜﻠﻟ ﺍﺰﻣﺭ ﺕﺎﻓﺎﻘﺜﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻩﺮﺒﺘﻌﻳ ،ﺭﺪﺨﻤﻟﺍ
+،ﺕﺎﻋﺎﻤﺘﺟﻻﺍ ﺕﺎﻋﺎﻗﻭ ﺵﺮﻌﻟﺍ ﺕﺎﻋﺎﻘﻟﺍ ﻲﻓ .ﻲﻗﻼﺧﻷﺍ ﻁﻮﻘﺴﻟﺍﻭ
+ﺔﻴﺳﺎﻴﺴﻟﺍ ﺕﺍﺮﻣﺍﺆﻤﻠﻟ ﺓﺮﻤﺘﺴﻣ ﺓﺮﻫﺎﻇ ﺖﻧﺎﻛ ﺓﺭﺪﺨﻤﻟﺍ ﺩﺎﻴﻋﻷﺍ
+.ﺔﻧﻮﻨﺠﻤﻟﺍ</Yayo.description>
+  
+  <Yayo.ingestible.ingestCommandString>{lookup: {0}; Case; 3} ﻢﺷ</Yayo.ingestible.ingestCommandString>
+  
+  <Yayo.ingestible.ingestReportString>{lookup: {0}; Case; 3} ﺢﺷﺮﻳ</Yayo.ingestible.ingestReportString>
+  
+</LanguageData>

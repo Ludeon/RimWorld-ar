@@ -1,0 +1,79 @@
+<LanguageData>
+  
+  
+  <Child.label>.ﻦﺑﺍ</Child.label>
+  
+  <Child.labelFemale>ﺔﻨﺑﺍ</Child.labelFemale>
+  
+  
+  <Cousin.label>ﻱﻮﻧﺎﺜﻟﺍ ﺥﻷﺍ</Cousin.label>
+  <Cousin.labelFemale>ﺓﺪﻴﻌﺒﻟﺍ ﺖﺧﻷﺍ</Cousin.labelFemale>
+  
+  
+  <CousinOnceRemoved.label>ﻢﻌﻟﺍ ﻦﺑﺍ</CousinOnceRemoved.label>
+  <CousinOnceRemoved.labelFemale>ﺔﻳﻮﻧﺎﺜﻟﺍ ﺖﺧﻷﺍ ﺔﻨﺑﺍ</CousinOnceRemoved.labelFemale>
+  
+  
+  <Grandchild.label>ﺪﻴﻔﺤﻟﺍ</Grandchild.label>
+  
+  <Grandchild.labelFemale>ﺓﺪﻴﻔﺤﻟﺍ</Grandchild.labelFemale>
+  
+  
+  <GrandnephewOrGrandniece.label>ﺔﻳﺔﻠﻴﺒﻘﻟﺍ</GrandnephewOrGrandniece.label>
+  
+  <GrandnephewOrGrandniece.labelFemale>ﺔﺑﺭﺎﺤﻤﻟﺍ</GrandnephewOrGrandniece.labelFemale>
+  
+  
+  <Grandparent.label>ﺪﺠﻟﺍ</Grandparent.label>
+  
+  <Grandparent.labelFemale>ﺓﺪﺠﻟﺍ</Grandparent.labelFemale>
+  
+  
+  <GranduncleOrGrandaunt.label>ﺪﺠﻟﺍ</GranduncleOrGrandaunt.label>
+  
+  <GranduncleOrGrandaunt.labelFemale>ﺀﻭﺪﻬﺑ ﻲﻘﺗﺎﻓ</GranduncleOrGrandaunt.labelFemale>
+  
+  
+  <GreatGrandchild.label>ﻊﺑﺍﺮﻟﺍ ﺪﻴﻔﺤﻟﺍ</GreatGrandchild.label>
+  
+  <GreatGrandchild.labelFemale>ﻲﻨﺒﺘﻟﺍ</GreatGrandchild.labelFemale>
+  
+  
+  <GreatGrandparent.label>ﺮﺒﻛﻷﺍ ﺪﺠﻟﺍ</GreatGrandparent.label>
+  
+  <GreatGrandparent.labelFemale>ﺯﻮﺠﻌﻟﺍ ﺓﺪﺠﻟﺍ</GreatGrandparent.labelFemale>
+  
+  
+  <HalfSibling.label>ﺔﺑﺍﺮﻘﻟﺍ ﺥﻷﺍ ﻭﺃ ﺝﻭﺰﻟﺍ ﺥﻷﺍ</HalfSibling.label>
+  
+  <HalfSibling.labelFemale>ﺔﺟﻭﺰﻟﺍ ﺖﺧﻷﺍ</HalfSibling.labelFemale>
+  
+  
+  <Kin.label>ﻡﺪﻟﺍ ﺐﻳﺮﻗ</Kin.label>
+  <Kin.labelFemale>ﺔﺒﻳﺮﻗ</Kin.labelFemale>
+  
+  
+  <NephewOrNiece.label>ﺥﻷﺍ ﻦﺑﺍ</NephewOrNiece.label>
+  
+  <NephewOrNiece.labelFemale>ﺖﺧﻷﺍ ﺔﻨﺑﺍ</NephewOrNiece.labelFemale>
+  
+  
+  <Parent.label>ﺏﻷﺍ</Parent.label>
+  
+  <Parent.labelFemale>ﻡﻷﺍ</Parent.labelFemale>
+  
+  
+  <SecondCousin.label>ﺔﻠﺋﺎﻌﻟﺍ ﻦﻣ ﺚﻟﺎﺜﻟﺍ ﺥﻷﺍ</SecondCousin.label>
+  <SecondCousin.labelFemale>ﺓﺪﻴﻌﺒﻟﺍ ﺖﺧﻷﺍ</SecondCousin.labelFemale>
+  
+  
+  <Sibling.label>ﻲﺧﺃ</Sibling.label>
+  
+  <Sibling.labelFemale>ﺖﺧﻷﺍ</Sibling.labelFemale>
+  
+  
+  <UncleOrAunt.label>ﻮﻤﻋ</UncleOrAunt.label>
+  
+  <UncleOrAunt.labelFemale>ﺔﻤﻌﻟﺍ</UncleOrAunt.labelFemale>
+  
+</LanguageData>

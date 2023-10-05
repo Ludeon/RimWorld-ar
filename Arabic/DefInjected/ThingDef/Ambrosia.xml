@@ -1,0 +1,13 @@
+<LanguageData>
+  
+  
+  <Ambrosia.label>ﺎﻳﺯﻭﺮﺒﻣﻷﺍ</Ambrosia.label>
+  
+  <Ambrosia.description>ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑ ﺎﻳﺯﻭﺮﺒﻣﻷﺍ ﺭﺎﻤﺛ ﻱﻮﺘﺤﺗ .ﺔﻤﻋﺎﻧ ﺓﺮﻤﺛ
+ﻂﻴﺴﺑ ﺭﺪﺨﻣ ﺮﻴﺛﺄﺗ ﻰﻠﻋ ،ﻦﻴﺘﻌﺋﺍﺮﻟﺍ ﺎﻬﺘﺤﺋﺍﺭﻭ ﺎﻬﻤﻌﻃ
+ﺪﻗ ،ﺓﺮﺜﻜﺑ ﺖﻠﻛﺃ ﺍﺫﺇ ﻦﻜﻟﻭ .ﺝﺍﺰﻤﻟﺍ ﻊﻓﺮﻳ
+.ﻥﺎﻣﺩﻹﺍ ﺙﺪﺤﻳ</Ambrosia.description>
+  <Ambrosia.ingestible.ingestCommandString>{lookup: {0}; Case; 3} ـﻟﺍ ﻝﻭﺎﻨﺗ</Ambrosia.ingestible.ingestCommandString>
+  <Ambrosia.ingestible.ingestReportString>{lookup: {0}; Case; 3} ﻝﻭﺎﻨﺗ</Ambrosia.ingestible.ingestReportString>
+  
+</LanguageData>

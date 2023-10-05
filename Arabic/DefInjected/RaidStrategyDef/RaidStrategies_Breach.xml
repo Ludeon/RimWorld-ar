@@ -1,0 +1,28 @@
+<LanguageData>
+  
+  
+  <ImmediateAttackBreaching.arrivalTextEnemy>ﻥﻮﻟﻭﺎﺤﻴﺳ .ﻚﻧﺍﺭﺪﺟ ﻕﺍﺮﺘﺧﻻ ﻥﻭﺪﻌﺘﺴﻳ ﻥﻮﺑﺎﻬﻨﻟﺍn\n\.ﺍﺭﻮﻓ ﻢﺟﺎﻬﻳ ﻭﺪﻌﻟﺍ
+ﻲﻓ ﺀﻲﺷ ﻞﻛ ﻥﻭﺮﻣﺪﻴﺳﻭ ﻚﺘﻨﻃﻮﺘﺴﻣ ﻰﻟﺇ ﻞﻠﺴﺘﻟﺍ
+.ﻢﻬﻘﻳﺮﻃ</ImmediateAttackBreaching.arrivalTextEnemy>
+  
+  <ImmediateAttackBreaching.arrivalTextFriendly>ﻚﺗﺪﻋﺎﺴﻤﻟ ﻥﻮﻠﺠﻌﺘﺴﻳ</ImmediateAttackBreaching.arrivalTextFriendly>
+  
+  <ImmediateAttackBreaching.letterLabelEnemy>ﺓﺭﺎﻐﻟﺍ</ImmediateAttackBreaching.letterLabelEnemy>
+  
+  <ImmediateAttackBreaching.letterLabelFriendly>ﺀﺎﻔﻠﺤﻟﺍ</ImmediateAttackBreaching.letterLabelFriendly>
+  
+  
+  <ImmediateAttackBreachingSmart.arrivalTextEnemy>.ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﻢﺟﺎﻬﻳ ﻭﺪﻌﻟﺍ
+ﻰﻟﺇ ﻞﻠﺴﺘﻟﺍ ﻥﻮﻟﻭﺎﺤﻴﺳ .ﻚﻄﺋﺍﻮﺣ ﻕﺍﺮﺘﺧﺍ ﻥﻭﻮﻨﻳ ﻥﻮﻨﺻﺮﻘﻤﻟﺍ
+.ﻢﻬﻘﻳﺮﻃ ﻲﻓ ﺀﻲﺷ ﻞﻛ ﺮﻴﻣﺪﺗﻭ ﻚﺘﻨﻃﻮﺘﺴﻣ
+ﺎﻜﻴﺘﻜﺗ ﻥﻮﻣﺪﺨﺘﺴﻳ ﻢﻬﻧﺃ ﻭﺪﺒﻳ ، ﺍﺭﺬﺣ ﻦﻛ
+ﺔﺻﺎﺨﻟﺍ ﺝﺍﺮﺑﻷﺍ ﻥﻭﺯﻭﺎﺠﺘﻴﺳ .ﺩﺎﺘﻌﻤﻟﺍ ﻦﻣ ﺍﺭﻮﺤﻤﺗ ﺮﺜﻛﺃ
+.ﺥﺎﺨﻔﻟﺍ ﺾﻌﺑ ﻥﻮﻈﺣﻼﻴﺳﻭ ﻚﺑ</ImmediateAttackBreachingSmart.arrivalTextEnemy>
+  
+  <ImmediateAttackBreachingSmart.arrivalTextFriendly>.ﻚﺗﺪﻋﺎﺴﻤﻟ ﻥﻮﻠﺠﻌﺘﺴﻳ</ImmediateAttackBreachingSmart.arrivalTextFriendly>
+  
+  <ImmediateAttackBreachingSmart.letterLabelEnemy>ﺓﺭﺎﻏ</ImmediateAttackBreachingSmart.letterLabelEnemy>
+  
+  <ImmediateAttackBreachingSmart.letterLabelFriendly>ﺀﺎﻔﻠﺤﻟﺍ</ImmediateAttackBreachingSmart.letterLabelFriendly>
+  
+</LanguageData>

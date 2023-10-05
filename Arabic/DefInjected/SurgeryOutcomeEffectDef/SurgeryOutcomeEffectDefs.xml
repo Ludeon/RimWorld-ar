@@ -1,0 +1,38 @@
+<LanguageData>
+  
+  
+  <SurgeryOutcomeBase.outcomes.1.letterLabel>{PATIENT_labelShort} ﺔﻴﻠﻤﻋ ﺖﻠﺸﻓ</SurgeryOutcomeBase.outcomes.1.letterLabel>
+  
+  <SurgeryOutcomeBase.outcomes.1.letterText>ﺀﺍﺮﺟﺇ ﺀﺎﻨﺛﺃ ﻞﺗﺎﻗ ﺄﻄﺨﺑ {SURGEON_labelShort} ﺡﺍﺮﺠﻟﺍ ﻡﺎﻗ
+ﺔﺻﺎﺧ ﺔﺑﻮﻌﺻ ﺐﺒﺴﺑ {PATIENT_labelShort} ـﻟ ﺔﻴﺣﺍﺮﺟ ﺔﻴﻠﻤﻋ
+.{RECIPE_label} :ﺔﻴﻠﻤﻌﻟﺍ ﻲﻓ</SurgeryOutcomeBase.outcomes.1.letterText>
+  
+  <SurgeryOutcomeBase.outcomes.2.letterLabel>{PATIENT_labelShort} ﺔﻴﻠﻤﻋ ﺖﻠﺸﻓ</SurgeryOutcomeBase.outcomes.2.letterLabel>
+  
+  <SurgeryOutcomeBase.outcomes.2.letterText>({RECIPE_label}) ﺔﻴﻠﻤﻋ ﻝﻼﺧ ﺮﻴﻄﺧ ﺄﻄﺨﺑ ﺡﺍﺮﺠﻟﺍ ﻡﺎﻗ
+.{PATIENT_labelShort} ﻰﻠﻋ</SurgeryOutcomeBase.outcomes.2.letterText>
+  
+  <SurgeryOutcomeBase.outcomes.3.letterLabel>.{PATIENT_labelShort} ﺔﻴﻠﻤﻋ ﺖﻠﺸﻓ</SurgeryOutcomeBase.outcomes.3.letterLabel>
+  
+  <SurgeryOutcomeBase.outcomes.3.letterText>ﺔﻴﻠﻤﻋ ﺀﺍﺮﺟﺇ ﺀﺎﻨﺛﺃ ﺐﻳﺮﻏ ﺄﻄﺧ ﺐﻜﺗﺭﺍ ﺡﺍﺮﺠﻟﺍ
+.({PATIENT_labelShort}) ﺾﻳﺮﻤﻠﻟ ({RECIPE_label})</SurgeryOutcomeBase.outcomes.3.letterText>
+  
+  <SurgeryOutcomeBase.outcomes.4.letterLabel>ﻪﻤﻴﻘﻌﺗ ﻢﺗ ﺪﻗ {PATIENT_labelShort} :ﺔﻴﻠﻤﻌﻟﺍ ﺖﻠﺸﻓ</SurgeryOutcomeBase.outcomes.4.letterLabel>
+  
+  <SurgeryOutcomeBase.outcomes.4.letterText>{SURGEON_labelShort} ﺐﻜﺗﺭﺍ {SURGEON_gender ? {ﺄﻄﺧ : ﺄﻄﺧ
+ﺔﻴﻠﻤﻋ ﺀﺎﻨﺛﺃ ({RECIPE_label}) ﻰﻠﻋ {PATIENT_labelShort}، ﺎﻬﻟ ﺔﺠﻴﺘﻧ
+ﺪﻘﻓ {PATIENT_pronoun} ﺮﺛﺎﻜﺘﻟﺍ ﻒﺋﺎﻇﻭ.</SurgeryOutcomeBase.outcomes.4.letterText>
+  
+  <SurgeryOutcomeBase.outcomes.5.letterLabel>ﺩﺍﺮﻴﺘﺳﻹﺍ ? PATIENT_gender} ﺖﻤﺗ {PATIENT_labelShort} :ﺔﻴﻠﻤﻌﻟﺍ ﺖﻠﺸﻓ
+{ﺓﺩﺍﺮﻴﺘﺳﻹﺍ :</SurgeryOutcomeBase.outcomes.5.letterLabel>
+  
+  <SurgeryOutcomeBase.outcomes.5.letterText>({RECIPE_label}) ﺔﻴﻠﻤﻌﻟﺍ ﺀﺍﺮﺟﺇ ﺀﺎﻨﺛﺃ ﺄﻄﺧ ﺡﺍﺮﺠﻟﺍ ﺐﻜﺗﺭﺍ
+ﻒﺋﺎﻇﻭ ﻥﺍﺪﻘﻓ ﻲﻓ ﺐﺒﺴﺗ ﺎﻤﻣ {PATIENT_labelShort} ﻰﻠﻋ
+.ﻪﻳﺪﻟ ﺮﺛﺎﻜﺘﻟﺍ</SurgeryOutcomeBase.outcomes.5.letterText>
+  
+  <SurgeryOutcomeBase.outcomes.6.letterLabel>{PATIENT_labelShort} ﺔﻴﻠﻤﻋ ﺖﻠﺸﻓ</SurgeryOutcomeBase.outcomes.6.letterLabel>
+  
+  <SurgeryOutcomeBase.outcomes.6.letterText>ﻰﻠﻋ ({RECIPE_label}) ﺔﻴﻠﻤﻌﻟﺍ ﺀﺎﻨﺛﺃ ﺄﻄﺨﺑ ﺡﺍﺮﺠﻟﺍ ﻡﺎﻗ
+.{PATIENT_labelShort}</SurgeryOutcomeBase.outcomes.6.letterText>
+  
+</LanguageData>

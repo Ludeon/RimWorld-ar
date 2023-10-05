@@ -1,0 +1,52 @@
+<LanguageData>
+  
+  
+  <MeleeWeapon_Club.label>ﺎﺼﻌﻟﺍ</MeleeWeapon_Club.label>
+  
+  <MeleeWeapon_Club.description>ﻦﻣ ﺔﻨﻤﺴﻣﻭ ﺔﻠﻴﻘﺛ ﺎﺼﻋ -ﺔﻳﺮﺸﺒﻠﻟ ﺡﻼﺳ ﻡﺪﻗﺃ
+ﻥﻮﻴﺟﻮﻟﻮﻴﺒﻟﺍ .ﺕﻮﻤﻟﺍ ﻰﺘﺣ ﺀﺍﺪﻋﻷﺍ ﺏﺮﻀﻟ ﺪﺣﺍﻭ ﻑﺮﻃ
+ﺮﻳﻭﺪﺗ ﻰﻠﻋ ﺭﺩﺎﻗ ﻥﺎﺴﻧﻹﺍ ﻥﺃ ﻥﻮﻟﻮﻘﻳ ﻥﻮﻳﺭﻮﻄﺘﻟﺍ
+ﺲﻴﻟﻭ) ﺐﻧﺎﺟ ﻰﻟﺇ ﺐﻧﺎﺟ ﻦﻣ ﻩﺪﻳ ﻢﺼﻌﻣ
+ﻲﻓ ﺎﻨﻓﻼﺳﺃ ﺓﺪﻋﺎﺴﻣ ﻞﻀﻔﺑ (ﻞﻔﺳﺃ -ﻰﻠﻋﺃ ﻂﻘﻓ
+.ﺎﺼﻌﻟﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ</MeleeWeapon_Club.description>
+  
+  <MeleeWeapon_Club.tools.handle.label>ﺖﻴﻛﻭﺭ</MeleeWeapon_Club.tools.handle.label>
+  
+  <MeleeWeapon_Club.tools.head.label>ﺱﺃﺮﻟﺍ</MeleeWeapon_Club.tools.head.label>
+  
+  
+  <MeleeWeapon_Ikwa.label>ﺦﻟﺇ</MeleeWeapon_Ikwa.label>
+  
+  <MeleeWeapon_Ikwa.description>ﺔﻳﻮﻴﺣ ﺀﺎﻀﻋﺃ ﺏﺮﻀﺘﻟ ،ﻞﻳﻮﻃ ﺱﺃﺮﺑ ﺓﺮﻴﺼﻗ ﺎﺼﻋ
+.ﺔﻌﻳﺮﺳ ﺓﺪﺣﺍﻭ ﺔﺴﻤﻠﺑ</MeleeWeapon_Ikwa.description>
+  
+  <MeleeWeapon_Ikwa.tools.handle.label>ﺡﻼﺴﻟﺍ ﺾﺒﻘﻣ</MeleeWeapon_Ikwa.tools.handle.label>
+  
+  <MeleeWeapon_Ikwa.tools.head.label>ﺱﺃﺮﻟﺍ ﻢﺴﺟ</MeleeWeapon_Ikwa.tools.head.label>
+  
+  <MeleeWeapon_Ikwa.tools.edge.label>ﺓﺮﻔﺸﻟﺍ</MeleeWeapon_Ikwa.tools.edge.label>
+  
+  
+  <MeleeWeapon_Knife.label>ﻦﻴﻜﺳ</MeleeWeapon_Knife.label>
+  
+  <MeleeWeapon_Knife.description>.ﺔﻳﺮﺸﺒﻟﺍ ﺕﺍﻭﺩﺃ ﻡﺪﻗﺃ ﻦﻣ ﺓﺍﺩﺃ - ﻦﻴﻜﺴﻟﺍ
+ﻦﻴﻛﺎﻜﺴﻠﻟ ﺔﻔﻠﺘﺨﻤﻟﺍ ﻉﺍﻮﻧﻷﺍﻭ ﻝﺎﻜﺷﻷﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻙﺎﻨﻫ
+ﺓﺮﻔﺸﻟﺍﻭ ﺾﺒﻘﻤﻟﺍ :ﺮﻴﻐﺘﻳ ﻻ ﺱﺎﺳﻷﺍ ﻦﻜﻟﻭ ،
+.ﺓﺩﺎﺤﻟﺍ</MeleeWeapon_Knife.description>
+  
+  <MeleeWeapon_Knife.tools.handle.label>ﺾﺒﻘﻤﻟﺍ</MeleeWeapon_Knife.tools.handle.label>
+  
+  <MeleeWeapon_Knife.tools.blade.label>ﺓﺮﻔﺸﻟﺍ</MeleeWeapon_Knife.tools.blade.label>
+  
+  <MeleeWeapon_Knife.tools.point.label>ﺓﺩﺎﺣ</MeleeWeapon_Knife.tools.point.label>
+  
+  
+  <MeleeWeapon_Spear.label>ﺢﻣﺮﻟﺍ</MeleeWeapon_Spear.label>
+  
+  <MeleeWeapon_Spear.description>.ﺓﺬﻓﺎﻨﻟﺍ ﺕﺎﺑﺮﻀﻟﺍ ﻪﻴﺟﻮﺘﻟ ﺓﺩﺎﺣ ﺔﻳﺎﻬﻨﺑ ﺓﺩﻭﺰﻣ ﺎﺼﻋ</MeleeWeapon_Spear.description>
+  
+  <MeleeWeapon_Spear.tools.shaft.label>ﺔﺑﺮﻀﻟﺍ ﺔﻄﻘﻧ</MeleeWeapon_Spear.tools.shaft.label>
+  
+  <MeleeWeapon_Spear.tools.point.label>ﺩﺎﺣ</MeleeWeapon_Spear.tools.point.label>
+  
+</LanguageData>

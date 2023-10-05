@@ -1,0 +1,139 @@
+<LanguageData>
+  
+  
+  
+  <ApparelDamaged.stages.ratty_apparel.label>ﺔﻔﻟﺎﺗ ﺲﺑﻼﻤﻟﺍ</ApparelDamaged.stages.ratty_apparel.label>
+  
+  <ApparelDamaged.stages.ratty_apparel.description>ﻞﻫ .ﺞﻋﺰﻣ ﻞﻜﺸﺑ ﺓﺮﻴﺒﻛ ﻲﺴﺑﻼﻣ ﻲﻓ ﺏﻮﻘﺜﻟﺍ
+؟ﺪﻴﻛﺄﺘﻟﺎﺑ ﺙﺪﺣﺃ ﺀﻲﺷ ﺎﻨﻳﺪﻟ</ApparelDamaged.stages.ratty_apparel.description>
+  
+  <ApparelDamaged.stages.tattered_apparel.label>ﺔﻜﻟﺎﻬﺘﻤﻟﺍ ﺏﺎﻴﺜﻟﺍ ﻲﻓ</ApparelDamaged.stages.tattered_apparel.label>
+  
+  <ApparelDamaged.stages.tattered_apparel.description>ﺎﻨﻳﺪﻟ ﻞﻫ .ﺎﺒﻳﺮﻗ ﻚﻜﻔﺘﺘﺳ ﻲﺴﺑﻼﻣ ﻥﺃ ﻭﺪﺒﻳ
+؟ﺔﻗﺰﻤﻤﻟﺍ ﺔﻣﺎﻤﻘﻟﺍ ﻩﺬﻫ ﻦﻣ ﺎﻘﺋﻻ ﺮﺜﻛﺃ ﺀﻲﺷ</ApparelDamaged.stages.tattered_apparel.description>
+  
+  
+  
+  <DeadMansApparel.stages.tainted.label>{REASON} ﺔﺜﺠﻟﺍ ﻦﻣ</DeadMansApparel.stages.tainted.label>
+  
+  <DeadMansApparel.stages.tainted.description>ﻲﻟ ﺐﺒﺴﻳ .ﺺﺨﺷ ﻲﻓﻮﺗ ﻪﻴﻓ ﺎﺌﻴﺷ ﻱﺪﺗﺭﺃ
+.ﺔﺸﻋﺮﻟﺎﺑ ﺍﺭﻮﻌﺷ</DeadMansApparel.stages.tainted.description>
+  
+  <DeadMansApparel.stages.tainted_1.label>(1+) ﺔﺜﺠﻟﺍ ﻦﻣ ﻢﻠﻌﺘﻟﺍ ﺯﺰﻌﻳ {ﺐﺒﺴﻟﺍ}</DeadMansApparel.stages.tainted_1.label>
+  
+  <DeadMansApparel.stages.tainted_1.description>ﺮﻌﺷﺃ .ﺺﺨﺷ ﺓﺎﻓﻭ ﺎﻤﻬﻴﻓ ﺖﺛﺪﺣ ﻦﻴﺌﻴﺷ ﻱﺪﻨﻋ
+.ﻚﻟﺫ ﺐﺒﺴﺑ ﺔﺸﻋﺮﻟﺎﺑ</DeadMansApparel.stages.tainted_1.description>
+  
+  <DeadMansApparel.stages.tainted_2.label>{REASON} 2+) ﺔﺜﺠﻟﺍ ﻦﻣ)</DeadMansApparel.stages.tainted_2.label>
+  
+  <DeadMansApparel.stages.tainted_2.description>.ﺎﻣ ﺺﺨﺷ ﺕﺎﻣ ﺎﻬﻴﻓ ﺀﺎﻴﺷﺃ ﺔﺛﻼﺛ ﻱﺪﻟ
+.ﺓﺮﻳﺮﻌﺸﻘﻟﺎﺑ ﺮﻌﺷﺃ ﻲﻨﻠﻌﺠﻳ ﺍﺬﻫ</DeadMansApparel.stages.tainted_2.description>
+  
+  <DeadMansApparel.stages.tainted_etc.label>(X+) ﺔﺜﺠﻟﺍ ﻦﻣ {ﺐﺒﺴﻟﺍ}</DeadMansApparel.stages.tainted_etc.label>
+  
+  <DeadMansApparel.stages.tainted_etc.description>ﺕﺎﻣ ﺎﻬﻴﻓ ﺮﺜﻛﺃ ﻭﺃ ﺀﺎﻴﺷﺃ ﺔﻌﺑﺭﺃ ﻱﺪﻨﻋ
+.ﺲﻔﻨﻟﺍ ﻖﻴﺿ ﻲﻟ ﺐﺒﺴﺘﻳ .ﺎﻣ ﺺﺨﺷ</DeadMansApparel.stages.tainted_etc.description>
+  
+  
+  
+  <EnvironmentCold.stages.chilly.label>ﺩﺭﺎﺑ</EnvironmentCold.stages.chilly.label>
+  
+  <EnvironmentCold.stages.chilly.description>.ﺎﻴﺒﺴﻧ ﺩﺭﺎﺑ ﺎﻨﻫ</EnvironmentCold.stages.chilly.description>
+  
+  <EnvironmentCold.stages.cold.label>ﺍﺪﺟ ﺩﺭﺎﺑ</EnvironmentCold.stages.cold.label>
+  
+  <EnvironmentCold.stages.cold.description>ﻥﻮﻛﺃ ﺖﻳﺭﺎﻳ .ﺔﺸﻋﺮﻟﺎﺑ ﺮﻌﺷﺃ ،ﺍﺪﺟ ﺩﺭﺎﺑ ﺎﻨﻫ
+.ﺊﻓﺍﺩ ﻥﺎﻜﻣ ﻲﻓ</EnvironmentCold.stages.cold.description>
+  
+  <EnvironmentCold.stages.numbing_cold.label>ﺍﺪﺟ ﺩﺭﺎﺑ</EnvironmentCold.stages.numbing_cold.label>
+  
+  <EnvironmentCold.stages.numbing_cold.description>ﺝﺎﺘﺣﺃ .ﻉﺮﻘﺗ ﻥﺎﻨﺳﻷﺍ .ﺩﺮﺒﻟﺍ ﻦﻣ ﻒﺠﺗﺭﺃ ﺎﻧﺃ
+.ﺔﺌﻓﺪﺘﻟﺍ ﻰﻟﺇ</EnvironmentCold.stages.numbing_cold.description>
+  
+  <EnvironmentCold.stages.absolutely_freezing.label>ﺪﻳﺪﺷ ﺩﺮﺑ</EnvironmentCold.stages.absolutely_freezing.label>
+  
+  <EnvironmentCold.stages.absolutely_freezing.description>ﻊﻴﻄﺘﺳﺃ ﺩﺎﻜﻟﺎﺑ ﻲﻨﻧﺃ ﻰﺘﺣ ﺓﻮﻘﺑ ﻕﺮﻄﺗ ﻥﺎﻨﺳﻷﺍ
+ﻰﻟﺇ ﺝﺎﺘﺣﺃ .ﺓﺭﺪﺧ ﺖﺤﺒﺻﺃ ﻲﻣﺪﻗ ﻊﺑﺎﺻﺃ .ﺙﺪﺤﺘﻟﺍ
+!ﻞﺟﺎﻋ ﻞﻜﺸﺑ ﺀﻑﺪﻟﺍ</EnvironmentCold.stages.absolutely_freezing.description>
+  
+  
+  
+  <EnvironmentDark.stages.darkness.label>ﻢﻠﻈﻣ</EnvironmentDark.stages.darkness.label>
+  
+  <EnvironmentDark.stages.darkness.description>.ﻲﻨﺒﺠﻌﻳ ﻻ ﺍﺬﻫ .ﻢﻠﻈﻣ ﻡﻼﻇ ﻲﻓ ﺎﻧﺃ</EnvironmentDark.stages.darkness.description>
+  
+  
+  
+  <EnvironmentHot.stages.sweaty.label>ﺭﺎﺣ</EnvironmentHot.stages.sweaty.label>
+  
+  <EnvironmentHot.stages.sweaty.description>.ﻕﺮﻌﺘﻟﺎﺑ ﺮﻌﺷﺃ ﺎﻤﺋﺍﺩ .ﺎﻨﻫ ﺓﺭﺎﺣ</EnvironmentHot.stages.sweaty.description>
+  
+  <EnvironmentHot.stages.hot.label>ﺍﺪﺟ ﺮﺣ</EnvironmentHot.stages.hot.label>
+  
+  <EnvironmentHot.stages.hot.description>ﺎﻧﺎﻜﻣ ﺪﺠﻧ ﻥﺃ ﺐﺠﻳ !ﺍﺪﺟ ﺭﺎﺣ ﺎﻨﻫ
+.ﺩﺮﺑﺃ</EnvironmentHot.stages.hot.description>
+  
+  <EnvironmentHot.stages.sweltering_hot.label>ﺍﺪﺟ ﺭﺎﺣ</EnvironmentHot.stages.sweltering_hot.label>
+  
+  <EnvironmentHot.stages.sweltering_hot.description>ﻢﻛ ﻑﺮﻋﺃ ﻻ !ﻥﺮﻓ ﻞﺧﺍﺩ ﻲﻨﻧﺄﻛﻭ ﺮﻌﺷﺃ
+ﻪﻠﻤﺤﺗ ﻊﻴﻄﺘﺳﺄﺳ</EnvironmentHot.stages.sweltering_hot.description>
+  
+  <EnvironmentHot.stages.blistering_hot.label>ﺍﺪﺟ ﻦﺧﺎﺳ</EnvironmentHot.stages.blistering_hot.label>
+  
+  <EnvironmentHot.stages.blistering_hot.description>ﻥﺃ ﻦﻜﻤﻳ !ﺱﺎﻗ ﻢﻴﺤﺟ ﺎﻨﻫ ، ﻢﻌﻧ
+!ﺎﻨﻫ ﺕﻮﻤﺗ</EnvironmentHot.stages.blistering_hot.description>
+  
+  
+  
+  <HumanLeatherApparelHappy.stages.human_leather.label>{REASON} ﻱﺮﺸﺑ ﺪﻠﺟ ﻦﻣ</HumanLeatherApparelHappy.stages.human_leather.label>
+  
+  <HumanLeatherApparelHappy.stages.human_leather.description>.ﻦﻳﺮﺧﻵﺍ ﺓﺎﻧﺎﻌﻣ ﻦﻣ ﺔﻋﻮﻨﺼﻤﻟﺍ ﺲﺑﻼﻤﻟﺍ ﺀﺍﺪﺗﺭﺍ ﺐﺣﺃ</HumanLeatherApparelHappy.stages.human_leather.description>
+  
+  <HumanLeatherApparelHappy.stages.human_leather_1.label>{REASON} 1+) ﻱﺮﺸﺑ ﺪﻠﺟ ﻦﻣ)</HumanLeatherApparelHappy.stages.human_leather_1.label>
+  
+  <HumanLeatherApparelHappy.stages.human_leather_1.description>ﻊﻴﻤﺠﻟﺍ !ﻲﺗﻮﻗ ﻰﻠﻋ ﻞﻴﻟﺩ - ﺲﺑﻼﻤﻟﺍ ﺍﺬﻫ
+!ﻲﻨﻣ ﻥﻮﻓﺎﺨﻴﺳ</HumanLeatherApparelHappy.stages.human_leather_1.description>
+  
+  <HumanLeatherApparelHappy.stages.human_leather_2.label>{REASON} 2+) ﻱﺮﺸﺑ ﺪﻠﺟ ﻦﻣ)</HumanLeatherApparelHappy.stages.human_leather_2.label>
+  
+  <HumanLeatherApparelHappy.stages.human_leather_2.description>ﻊﻨﺻ ﻲﻓ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻢﺗ ﻦﻳﺬﻟﺍ ﺹﺎﺨﺷﺃ ﻩﻮﺟﻭ
+.ﻢﺴﺒﺘﻟﺍ ﻰﻠﻋ ﻲﻧﺮﺒﺠﺗ ﺎﻬﻨﻜﻟ ،ﻢﺴﺘﺒﺗ ﻻ ﻲﺴﺑﻼﻣ</HumanLeatherApparelHappy.stages.human_leather_2.description>
+  
+  <HumanLeatherApparelHappy.stages.human_leather_etc.label>(X+) ﻱﺮﺸﺒﻟﺍ ﺪﻠﺠﻟﺍ ﻦﻣ {ﺐﺒﺳ}</HumanLeatherApparelHappy.stages.human_leather_etc.label>
+  
+  <HumanLeatherApparelHappy.stages.human_leather_etc.description>!ﺏﺬﻜﻳ ﻻ ﺪﺴﺠﻟﺍﻭ !ﻱﺪﺴﺟ ﻲﻫ ﻲﺴﺑﻼﻣ</HumanLeatherApparelHappy.stages.human_leather_etc.description>
+  
+  
+  
+  <HumanLeatherApparelSad.stages.human_leather.label>{REASON} ﻱﺮﺸﺑ ﺪﻠﺟ ﻦﻣ</HumanLeatherApparelSad.stages.human_leather.label>
+  
+  <HumanLeatherApparelSad.stages.human_leather.description>.ﺯﺰﻘﻣ ﺍﺬﻬﻓ ؟ﻱﺮﺸﺑ ﺪﻠﺟ ﺀﺍﺪﺗﺭﺍ ﻦﻜﻤﻳ ﻒﻴﻛ</HumanLeatherApparelSad.stages.human_leather.description>
+  
+  <HumanLeatherApparelSad.stages.human_leather_1.label>{REASON} 1+) ﻱﺮﺸﺑ ﺪﻠﺟ ﻦﻣ)</HumanLeatherApparelSad.stages.human_leather_1.label>
+  
+  <HumanLeatherApparelSad.stages.human_leather_1.description>.ﻲﺋﺎﻨﺟ ﺬﻔﻨﻤﻛ ﺱﻮﺒﻠﻣ ﺎﻧﺃ</HumanLeatherApparelSad.stages.human_leather_1.description>
+  
+  <HumanLeatherApparelSad.stages.human_leather_2.label>{REASON} 2+) ﻱﺮﺸﺑ ﺪﻠﺟ ﻦﻣ)</HumanLeatherApparelSad.stages.human_leather_2.label>
+  
+  <HumanLeatherApparelSad.stages.human_leather_2.description>.ﻲﺴﺑﻼﻣ ﻰﻠﻋ ﻪﺟﻭ ﻙﺎﻨﻫ ﻥﻮﻜﻳ ﻥﺃ ﻰﺸﺧﺃ
+!ﻪﺟﻮﻟﺍ ﻲﻫ ﻲﺴﺑﻼﻣ ،ﻻ</HumanLeatherApparelSad.stages.human_leather_2.description>
+  
+  <HumanLeatherApparelSad.stages.human_leather_etc.label>{REASON} ﻱﺮﺸﺒﻟﺍ ﺪﻠﺠﻟﺍ ﻦﻣ (+X)</HumanLeatherApparelSad.stages.human_leather_etc.label>
+  
+  <HumanLeatherApparelSad.stages.human_leather_etc.description>،ﺐﻋﺭ ﻢﻠﻴﻓ ﻦﻣ ﺶﺣﻭ ﻲﻨﻧﺄﻛﻭ ﻭﺪﺑﺃ ﺎﻧﺃ
+.ﺔﻴﻌﺒﺘﻟﺎﺑ ﻚﻟﺬﺑ ﺮﻌﺷﺃﻭ</HumanLeatherApparelSad.stages.human_leather_etc.description>
+  
+  
+  
+  <Sick.stages.sick.label>ﺱﺎﻌﻧ</Sick.stages.sick.label>
+  
+  <Sick.stages.sick.description>.ﺽﺮﻣ ﻪﻧﺃ ﻭﺪﺒﻳ .ﺓﺪﻴﺟ ﺔﻟﺎﺤﺑ ﺖﺴﻟ ﺎﻧﺃ</Sick.stages.sick.description>
+  
+  
+  
+  <WrongApparelGender.stages.wearing_apparel.label>{replace: {0}; "ﺲﺑﻼﻣ {"ﻰﺜﻧﺃ"-"ﺓﺃﺮﻣﺍ" ;"ﺮﻛﺫ"-"ﻞﺟﺭ</WrongApparelGender.stages.wearing_apparel.label>
+  
+  <WrongApparelGender.stages.wearing_apparel.description>;"ﻝﺎﺟﺮﻟﺍ"-"ﻞﺟﺮﻟﺍ" ;{replace: {0} ﻂﻘﻓ ﺎﻬﻳﺪﺗﺮﻳ ﺲﺑﻼﻣ ﻱﺪﺗﺭﺃ
+!ﺭﺎﻌﻟﺍ ﺍﺬﻫ ﺎﻣ .{"ﺀﺎﺴﻨﻟﺍ"-"ﺓﺃﺮﻤﻟﺍ"</WrongApparelGender.stages.wearing_apparel.description>
+  
+</LanguageData>

@@ -1,0 +1,26 @@
+<LanguageData>
+  
+  
+  <ButcherCorpseFlesh.label>ﺔﺜﺠﻟﺍ ﻊﻴﻄﻘﺗ</ButcherCorpseFlesh.label>
+  
+  <ButcherCorpseFlesh.description>ﺎﻫﺮﻴﻏﻭ ﺩﻮﻠﺠﻟﺍﻭ ﻢﺤﻠﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﻕﻮﻠﺨﻤﻟﺍ ﺀﻱﺰﺠﺗ
+.ﺩﺭﺍﻮﻤﻟﺍ ﻦﻣ</ButcherCorpseFlesh.description>
+  
+  <ButcherCorpseFlesh.jobString>ﺕﺎﻨﺋﺎﻜﻟﺍ ﻊﻄﻘﺗ</ButcherCorpseFlesh.jobString>
+  
+  
+  <ButcherCorpseMechanoid.label>ﺔﻟﻵﺍ ﺰﻴﻬﺠﺗ</ButcherCorpseMechanoid.label>
+  
+  <ButcherCorpseMechanoid.description>ﺹﻼﺨﺘﺳﻻ ﺔﻟﻭﺎﺤﻣ ﻲﻓ ﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺮﻳﻭﺪﺗ ﺓﺩﺎﻋﺈﺑ ﻢﻗ
+.ﺓﺪﻴﻔﻣ ﺩﺍﻮﻣ</ButcherCorpseMechanoid.description>
+  
+  <ButcherCorpseMechanoid.jobString>ﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻞﻳﻮﺤﺘﺑ ﻡﻮﻘﺗ</ButcherCorpseMechanoid.jobString>
+  
+  
+  <SmashCorpseMechanoid.label>ﻲﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﺕﻮﺑﻭﺮﻟﺍ ﺮﻴﻣﺪﺗ</SmashCorpseMechanoid.label>
+  
+  <SmashCorpseMechanoid.description>.ﺓﺪﻴﻔﻤﻟﺍ ﺩﺍﻮﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﻻ ﺕﻮﺑﻭﺮﻟﺍ ﺪﻳﻮﻧﺎﻜﻴﻣ ﺮﻴﻣﺪﺗ</SmashCorpseMechanoid.description>
+  
+  <SmashCorpseMechanoid.jobString>ﺕﻮﺑﻭﺮﻟﺍ ﻢﻄﺤﺘﻳ</SmashCorpseMechanoid.jobString>
+  
+</LanguageData>

@@ -1,0 +1,40 @@
+<LanguageData>
+  
+  
+  <WakeUpAddiction.label>ﻱﺩﺎﻌﺴﻟﺍ ﻥﺎﻣﺩﻹﺍ</WakeUpAddiction.label>
+  
+  <WakeUpAddiction.description>ﺔﻴﺒﺼﻋ ﺕﺍﺮﻴﻴﻐﺗ ﺐﺒﺴﻳ ﺮﻤﺘﺴﻤﻟﺍ ﻪﻟﻭﺎﻨﺗ .ﻦﻳﺭﺩﻮﺒﻟﺍ ﻥﺎﻣﺩﺇ
+ﺮﻴﻏ ﻍﺎﻣﺪﻟﺍ ﻞﻌﺠﻳ ﺎﻣ ،ﺎﻳﻼﺨﻟﺍ ﻯﻮﺘﺴﻣ ﻰﻠﻋ
+.ﺓﺩﺎﻤﻟﺍ ﻥﻭﺪﺑ ﻲﻌﻴﺒﻃ ﻞﻜﺸﺑ ﻞﻤﻌﻟﺍ ﻰﻠﻋ ﺭﺩﺎﻗ
+
+ﻰﻟﺇ ﻱﺩﺆﻴﺳ ﻦﻳﺭﺩﻮﺒﻟﺍ ﻝﻭﺎﻨﺗ ﻦﻋ ﺖﻗﺆﻤﻟﺍ ﻉﺎﻨﺘﻣﻻﺍ
+ﺪﻋﺎﺴﻴﺳ ﻞﻳﻮﻄﻟﺍ ﻉﺎﻨﺘﻣﻻﺍ .ﺭﺎﻴﻬﻧﻻﺍ - ﺏﺎﺤﺴﻧﻻﺍ ﺏﺍﺮﻄﺿﺍ
+ﺺﻠﺨﺘﻟﺍﻭ ﺔﻴﻌﻴﺒﻄﻟﺍ ﻪﺘﻟﺎﺣ ﻰﻟﺇ ﺓﺩﻮﻌﻟﺍ ﻰﻠﻋ ﻍﺎﻣﺪﻟﺍ
+.ﻥﺎﻣﺩﻹﺍ ﻦﻣ</WakeUpAddiction.description>
+  
+  <WakeUpAddiction.stages.withdrawal.label>ﻞﻄﻌﺗ</WakeUpAddiction.stages.withdrawal.label>
+  
+  
+  <WakeUpHigh.label>ﺔﻳﻮﻴﺤﻟﺍ ﺮﻴﺛﺄﺗ ﺖﺤﺗ</WakeUpHigh.label>
+  
+  <WakeUpHigh.description>ﻞﻠﻘﻳﻭ ﻍﺎﻣﺪﻟﺍ ﺰﻔﺤﻳ ،ﻡﺪﻟﺍ ﻞﺧﺪﻳ ﺎﻣﺪﻨﻋ ،ﻦﻳﺭﺩﻮﺑ
+،ﺰﻴﻛﺮﺘﻟﺍ ﻦﻣ ﺪﻳﺰﻳﻭ ﺔﺣﺍﺮﻟﺍ ﻰﻟﺇ ﺔﺟﺎﺤﻟﺍ ﻦﻣ
+ﻦﻳﺭﺩﻮﺑ ﻊﻓﺮﻳ .ﺔﻋﺮﺴﺑ ﻞﻤﻌﻟﺍ ﻡﺎﻤﺗﺈﺑ ﺢﻤﺴﻳ ﺎﻤﻣ
+.ﻞﻣﺄﺘﻟﺍ ﺀﺎﻨﺛﺃ ﺐﺴﺘﻜﻤﻟﺍ ﻲﺴﻔﻨﻟﺍ ﺰﻴﻛﺮﺘﻟﺍ ﺎﻀﻳﺃ</WakeUpHigh.description>
+  
+  <WakeUpHigh.labelNoun>ﻦﻳﺭﺩﻮﺑ ﺀﺍﺮﺟﺇ</WakeUpHigh.labelNoun>
+  
+  
+  <WakeUpTolerance.label>ﻥﺭﺩﻮﺒﻟﺍ ﻩﺎﺠﺗ ﺢﻣﺎﺴﺘﻟﺍ</WakeUpTolerance.label>
+  
+  <WakeUpTolerance.description>ﺔﻳﺪﺟ ﺮﺜﻛﺃ ﺖﻧﺎﻛ ﺎﻤﻠﻛ .ﻦﻳﺭﺩﻮﺒﻟﺍ ﻩﺎﺠﺗ ﺢﻣﺎﺴﺘﻟﺍ
+ﻦﻳﺭﺩﻮﺒﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻰﻟﺇ ﺖﺠﺘﺣﺍ ﺎﻤﻠﻛ ،
+.ﻲﺋﺪﺒﻤﻟﺍ ﺮﻴﺛﺄﺘﻟﺍ ﻖﻴﻘﺤﺘﻟ</WakeUpTolerance.description>
+  
+  <WakeUpTolerance.stages.small.label>ﺓﺮﻴﻐﺻ</WakeUpTolerance.stages.small.label>
+  
+  <WakeUpTolerance.stages.large.label>ﺔﻄﺳﻮﺘﻣ</WakeUpTolerance.stages.large.label>
+  
+  <WakeUpTolerance.stages.massive.label>ﺔﻳﻮﻗ</WakeUpTolerance.stages.massive.label>
+  
+</LanguageData>

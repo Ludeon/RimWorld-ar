@@ -1,0 +1,799 @@
+<LanguageData>
+
+  
+  
+  <JumpToLocation>ﻊﻗﻮﻤﻟﺍ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻻﺍ</JumpToLocation>
+  
+  <PostponeLetter>ﻞﻴﺟﺄﺗ</PostponeLetter>
+  
+  <RejectLetter>ﺾﻓﺭ</RejectLetter>
+  
+  <ReadMore>ﺪﻳﺰﻤﻟﺍ ﺔﻓﺮﻌﻣ</ReadMore>
+  
+  <MoreLetters>{0} :ﺓﺀﻭﺮﻘﻤﻟﺍ ﺮﻴﻏ ﻞﺋﺎﺳﺮﻟﺍ ﺩﺪﻋ</MoreLetters>
+
+  
+  <LetterLabelFirstSummerWarning>ﻒﻴﺼﻟﺍ</LetterLabelFirstSummerWarning>
+  
+  <FirstSummerWarning>ﻮﻤﻨﻳ ﻦﻟ :ﺮﻛﺬﺗn\n\.ﺏﺮﻗﺃ ﺀﺎﺘﺸﻟﺍ ﻦﻜﻟﻭ !ﻒﻴﺼﻟﺍ ﺕﺃﺪﺑ
+ﺩﻮﺟﻭ ﻦﻣ ﺪﻛﺄﺗ ﺍﺬﻟ ،ﺩﺮﺒﻟﺍ ﻲﻓ ﻞﻴﺻﺎﺤﻤﻟﺍ
+ﺀﺎﻨﺑ ﻚﻨﻜﻤﻳ .ﻪﻠﻤﻛﺄﺑ ﺀﺎﺘﺸﻠﻟ ﻲﻔﻜﻳ ﻲﺋﺍﺬﻏ ﻲﻃﺎﻴﺘﺣﺍ
+ﻝﻭﺎﺣﻭn\n\.ﻒﻠﺘﻟﺍ ﻦﻣ ﻡﺎﻌﻄﻟﺍ ﻰﻠﻋ ﻅﺎﻔﺤﻠﻟ ﺪﻳﺮﺒﺘﺑ ﺔﻓﺮﻏ
+ﺕﺍﺮﺘﺴﻟﺍ ﺾﻌﺑ ﻊﻨﺻ ﻭﺃ ﺔﻗﺮﺳ ﻭﺃ ﺀﺍﺮﺷ
+ﻰﺘﺣ ،ﺀﺎﺘﺸﻟﺍ ﻞﺤﻳ ﺎﻣﺪﻨﻋ ﺪﻤﺠﺘﺘﺳ ﻻﺇﻭ ،ﺔﻴﻓﻮﺼﻟﺍ
+.ﺝﺭﺎﺨﻟﺍ ﻰﻟﺇ ﺖﺟﺮﺧ ﺍﺫﺇ</FirstSummerWarning>
+
+  
+  <LetterRelationsChange_Hostile>ﺍﻮﺤﺒﺻﺃ .{0} ﻞﻴﺼﻔﻟﺍ ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﻊﻄﻗ ﻢﺗ
+.ﻚﻟ ﺀﺍﺪﻋﺃ ﻥﻵﺍ</LetterRelationsChange_Hostile>  
+  
+  <LetterRelationsChange_HostileGoodwillDescription>.ﻢﻜﻠﻓﺍﻮﻗﻭ ﻢﻜﺗﺎﻨﻃﻮﺘﺴﻣ ﻥﻮﻤﺟﺎﻬﻴﺳ ﺎﻧﺎﻴﺣﺃﻭ .ﻢﻜﻌﻣ ﺍﻭﺮﺟﺎﺘﻳ ﻦﻟ
+ﺔﻠﻓﺎﻗ ﺮﺒﻋ ﺔﻳﺪﻫ ﻝﺎﺳﺭﺇ ﻢﻜﻨﻜﻤﻳ ،ﺕﺎﻗﻼﻌﻟﺍ ﻦﻴﺴﺤﺘﻟ
+ﺔﺒﺴﻨﻟﺎﺑ ﺀﻲﺴﻟﺍ ﻢﻜﺗﺩﻮﺟ ﺪﺣ .ﻞﻘﻧ ﺔﻟﻮﺴﺒﻛ ﻭﺃ
+ﺕﺎﻗﻼﻌﻟﺍ ﻦﻴﺴﺤﺘﻟ .ﻞﻗﺃ ﻭﺃ {0} ﻱﻭﺎﺴﻳ ﻢﻬﻴﻟﺇ
+ﻰﻟﺇ ﻢﻜﺑ ﺔﺻﺎﺨﻟﺍ ﺔﻌﻤﺴﻟﺍ ﻞﺼﺗ ﻥﺃ ﺐﺠﻳ
+.ﻞﻗﻷﺍ ﻰﻠﻋ {2}</LetterRelationsChange_HostileGoodwillDescription>  
+
+  
+  <LetterRelationsChange_NeutralFromHostile>ﺍﻭﺪﻌﻳ ﻢﻟ .{0} ﺔﺒﺴﻜﻟﺍ ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﺖﻨﺴﺤﺗ
+.ﻚﻫﺎﺠﺗ ﺀﺍﺪﻋ</LetterRelationsChange_NeutralFromHostile>
+  
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>{2} ﻰﻟﺇ ﺖﻌﻔﺗﺭﺍ ﻚﺘﻌﻤﺳ ﻥﻷ ﻚﻟﺫ ﺙﺪﺣ
+ﺍﺫﺇ .{1} ﻲﻫ ﻥﻵﺍ .ﺮﺜﻛﺃ ﻭﺃ ﺔﻄﻘﻧ
+ﺢﺒﺼﻴﺳ {0} ﻥﺎﻴﻜﻟﺍ ﻥﺈﻓ ،{3} ﻰﻟﺇ ﺖﻀﻔﺨﻧﺍ
+ﺔﻄﻘﻧ {4} ﺔﻌﻤﺳ ﺖﺒﺴﻛ ﺍﺫﺇ .ﻙﻭﺪﻋ ﺍﺩﺪﺠﻣ
+ﻰﻟﺇ ﻥﻮﻠﺗﺎﻘﻴﺳﻭ ﻚﻟ ﺀﺎﻔﻠﺣ ﻥﻮﺤﺒﺼﻴﺳ ،ﺮﺜﻛﺃ ﻭﺃ
+.ﻚﺒﻧﺎﺟ</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  
+  
+  <LetterRelationsChange_NeutralFromAlly>ﻥﻭﺮﻈﻨﻳ ﻥﻵﺍ .{0} ﻞﻴﺼﻔﻟﺍ ﻊﻣ ﻚﺘﻗﻼﻋ ﺕﺮﺗﻮﺗ
+.ﺪﻳﺎﺤﻣ ﻞﻜﺸﺑ ﻚﻴﻟﺇ</LetterRelationsChange_NeutralFromAlly>
+  
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>ﻲﻓ ﺓﺪﻋﺎﺴﻤﻟﺍ ﺍﻮﻣﺪﻘﻳ ﻦﻟ ﻢﻬﻨﻜﻟﻭ ،ﻚﻧﻮﻤﺟﺎﻬﻳ ﻻ
+ﺽﺎﻔﺨﻧﺍ ﺐﺒﺴﺑ ﻚﻟﺫ ﺙﺪﺣ .ﺮﻄﺧ ﺩﻮﺟﻭ ﺔﻟﺎﺣ
+.ﻞﻗﺃ ﻭﺃ {2} ﻰﻟﺇ ﻢﻬﺗﺮﻈﻧ ﻲﻓ ﻚﺘﻌﻤﺳ
+،{3} ﻰﻟﺇ ﺖﻀﻔﺨﻧﺍ ﺍﺫﺇ .{1} ﻲﻫ ﻥﻵﺍ
+ﺖﻨﻜﻤﺗ ﺍﺫﺇ .ﻚﻫﺎﺠﺗ ﺔﻳﺩﺎﻌﻣ {0} ﺔﻋﺎﻤﺠﻟﺍ ﺢﺒﺼﺘﺳ
+،{4} ﻰﺘﺣ ﻞﻗﻷﺍ ﻰﻠﻋ ﺔﻌﻤﺳ ﺐﺴﻛ ﻦﻣ
+.ﻚﻳﺪﻟ ﺎﻔﻴﻠﺣ ﺍﺩﺪﺠﻣ ﺢﺒﺼﺘﺳ</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+  
+  
+  <LetterRelationsChange_Ally>.ﺮﻴﺒﻛ ﻞﻜﺸﺑ {0} ﺔﻗﺮﻔﻟﺍ ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﺖﻨﺴﺤﺗ
+.ﻢﻬﻔﻴﻠﺣ ﻚﻧﻭﺮﺒﺘﻌﻳ ﻥﻵﺍ</LetterRelationsChange_Ally>
+  
+  <LetterRelationsChange_AllyGoodwillDescription>ﺎﻧﺎﻴﺣﺃ ﻥﻮﻣﻮﻘﻴﺴﻓ ،ﺀﺍﺪﻋﻷﺍ ﻦﻣ ﻡﻮﺠﻬﻟ ﺖﺿﺮﻌﺗ ﺍﺫﺇ
+ﻚﺴﻔﻨﺑ ﻢﻬﺋﺎﻋﺪﺘﺳﺍ ﺎﻀﻳﺃ ﻚﻨﻜﻤﻳ .ﻚﻟ ﺕﺍﺰﻳﺰﻌﺗ ﻝﺎﺳﺭﺈﺑ
+.ﺔﻌﻤﺴﻟﺍ ﺏﺎﺴﺣ ﻰﻠﻋ ﻦﻜﻟﻭ
+ﺐﺴﻛ ﻦﻣ ﺖﻨﻜﻤﺗ ﻢﻜﺘﻠﻴﺼﻓ ﻥﻷ ،ﺀﺎﻔﻠﺣ ﻢﺘﺤﺒﺻﺃ
+ﻱﻭﺎﺴﺗ ﻲﻫ ﺎﻴﻟﺎﺣ .ﻰﻠﻋﺃ ﻭﺃ {1} ﺔﻌﻤﺳ
+ﺩﻮﻌﺘﺳ ،{2} ﻰﻟﺇ ﺔﻌﻤﺴﻟﺍ ﺖﻀﻔﺨﻧﺍ ﺍﺫﺇ .{0}
+.ﺪﻳﺎﺤﻣ ﻞﻜﺸﺑ ﻞﻣﺎﻌﺘﻟﺍ ﻰﻟﺇ ﺕﺎﻗﻼﻌﻟﺍ</LetterRelationsChange_AllyGoodwillDescription>
+
+  
+  <goodwill>ﺔﻌﻤﺳ</goodwill>
+  
+  <Neutral>ﻦﻳﺪﻳﺎﺤﻤﻟﺍ</Neutral>
+  
+  <NeutralLower>ﻦﻳﺪﻳﺎﺤﻤﻟﺍ</NeutralLower>
+  
+  <Death>ﺕﻮﻤﻟﺍ</Death>
+
+  
+  <ShortCircuitRain>[label; Case; 5_1] ﻲﻓ ﻱﻮﺠﻟﺍ ﻂﻗﺎﺴﺘﻟﺍ ﺐﺒﺴﺑ
+.ﻖﻳﺮﺣ ﺄﺸﻨﻳﻭ ﺮﻴﺼﻗ ﻲﺋﺎﺑﺮﻬﻛ ﺭﺎﻴﺗ ﻉﺎﻄﻘﻧﺍ ﺙﺪﺤﻳ</ShortCircuitRain>
+
+  
+  <LetterLabelAreaRevealed>ﺔﺣﻮﺘﻔﻣ ﺔﻘﻄﻨﻣ</LetterLabelAreaRevealed>
+  
+  <AreaRevealed>.ﺓﺪﻳﺪﺟ ﺔﻘﻄﻨﻣ ﺢﺘﻓ ﻢﺗ</AreaRevealed>
+  
+  <AreaRevealedWithMechanoids>ﺀﺍﺪﻋﺃ ﻦﻴﻴﻟﺁ ﻰﻠﻋ ﻱﻮﺘﺤﺗ .ﺕﺮﻬﻇ ﺓﺪﻳﺪﺟ ﺔﻘﻄﻨﻣ
+.ﺀﺎﻣﺪﻗ</AreaRevealedWithMechanoids>
+
+  
+  <RoofCollapsed>.ﻢﻋﺩ ﺓﺪﻤﻋﺃ ﺩﻮﺟﻭ ﻡﺪﻋ ﺐﺒﺴﺑ ﻒﻘﺴﻟﺍ ﺭﺎﻬﻧﺍ</RoofCollapsed>
+  
+  <TheseThingsCrushed>:ﺽﺎﻘﻧﻷﺍ ﺖﺤﺗ</TheseThingsCrushed>
+  
+  <NothingCrushed>.ﺎﺠﻧ ﺀﻲﺷ ﻞﻛ ،ﻆﺤﻟﺍ ﻦﺴﺤﻟ</NothingCrushed>
+  
+  <LetterLabelRoofCollapsed>ﻒﻘﺴﻟﺍ ﺭﺎﻴﻬﻧﺍ</LetterLabelRoofCollapsed>
+
+  
+  <RecruitSuccess>- ﺡﺎﺠﻨﻟﺍ ﻝﺎﻤﺘﺣﺍ) ﺡﺎﺠﻨﺑ {1} ﺪﻨﺠﻳ {0}
+.({2}</RecruitSuccess>
+  
+  <RecruitFail>:ﺡﺎﺠﻨﻟﺍ ﻝﺎﻤﺘﺣﺍ) {1} ﺪﻴﻨﺠﺗ {0} ﻊﻴﻄﺘﺴﻳ ﻻ
+.({2}</RecruitFail>
+
+  
+  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} - {1} {RELATIVE_labelShort}. ﺕﺎﻣ ﺍﺫﺇ {PAWN_nameDef},
+ﻥﺈﻓ {RELATIVE_labelShort} ﻦﻜﻟﻭ .ﺓﺪﺸﺑ ﻥﺰﺤﻳﻭ ﻼﻳﻮﻃ ﻲﻧﺎﻌﻴﺳ
+ﻦﻜﻤﺗ ﺍﺫﺇ {PAWN_possessive} ﻥﻮﻜﻴﺳ ،ﻩﺫﺎﻘﻧﺇ ﻦﻣ {RELATIVE_labelShort}
+ﻚﻟﺬﺑ ﺍﺪﺟ ﺍﺪﻴﻌﺳ.</RelatedPawnInvolvedInQuest>
+
+  
+  <LetterLabelBirthday>ﺩﻼﻴﻣ ﺪﻴﻋ</LetterLabelBirthday>
+  
+  <BirthdayChronological>ﻩﺮﻤﻋ !ﻡﻮﻴﻟﺍ {0} ـﻟ ﻲﻣﻮﻳ ﺩﻼﻴﻣ ﺪﻴﻋ
+ﺐﺒﺴﺑn\n\.{2} ﻮﻫ ﻲﻨﻣﺰﻟﺍ ﺮﻤﻌﻟﺍn\n\.{3} ﻮﻫ {0} ﻲﺟﻮﻟﻮﻴﺒﻟﺍ
+ﺱﺎﻨﻟﺍ ﻡﺪﻘﺘﻳ ﻻ ﺚﻴﺣ ﻲﻧﻮﺑﻮﻳﺮﻜﻟﺍ ﻥﻮﻜﺴﻟﺍ ﺔﻟﺎﺣ
+ﻦﻋ ﻒﻠﺘﺨﻳ ﻲﻨﻣﺰﻟﺍ ﻢﻫﺮﻤﻋ ﻥﺈﻓ ,ﺮﻤﻌﻟﺍ ﻲﻓ
+.ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﺮﻤﻌﻟﺍ</BirthdayChronological>
+  
+  <LetterBirthdayBiological>ﻮﻫ? nameFull} {0_gender_0}ـﻟ ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﺮﻤﻌﻟﺍ ﻎﻠﺑ ﺪﻘﻟ
+.ﺎﻣﺎﻋ {1} {ﻲﻫ :</LetterBirthdayBiological>
+  
+  <BirthdayBiologicalAgeInjuries>ﻖﻠﻌﺘﺗ ﺽﺍﺮﻣﺃ ﺓﺪﻋ ﺮﻣﻷﺍ ﻪﻴﻓ ﺎﻨﻈﺣﻻ ،ﺍﺭﺬﻋ
+.ﻦﺴﻟﺍ ﻲﻓ ﻡﺪﻘﺘﻟﺎﺑ</BirthdayBiologicalAgeInjuries>
+
+  
+  <LetterLabelNewDisease>ﻯﻭﺪﻌﻟﺍ</LetterLabelNewDisease>
+  
+  <NewDisease>ﻲﺒﻃ ﺮﻳﺮﺳ ﺩﻮﺟﻭ ﻦﻣ ﺪﻛﺄﺗPAWN} {1}.\n\n} ـﻟ
+ﻲﻓ ﺔﺣﺍﺮﻟﺍﻭ ﺐﺳﺎﻨﻤﻟﺍ ﺝﻼﻌﻠﻟ ﺔﺟﺎﺤﺑ {PAWN_definite} .ﺐﻴﺒﻃﻭ
+.ﺮﻳﺮﺴﻟﺍ</NewDisease>
+  
+  <NewPartDisease>ﻑﺎﺸﺘﻛﺍ ﻢﺗ ﻱﺬﻟﺍ ﻥﺎﻜﻤﻟﺍ .{PAWN} {3} ﺪﻨﻋ
+ﻦﻣ ﺪﻛﺄﺗ .{PAWN_possessive} {1} - ﻪﺑ ﻯﻭﺪﻌﻟﺍ
+ﺝﻼﻌﻠﻟ ﺔﺟﺎﺤﺑ {PAWN_definite} ،ﺐﻴﺒﻃﻭ ﻲﺒﻃ ﺮﻳﺮﺳ ﻚﻛﻼﺘﻣﺍ
+.ﺵﺍﺮﻔﻟﺍ ﻲﻓ ﺔﺣﺍﺮﻟﺍﻭ ﻢﻴﻠﺴﻟﺍ</NewPartDisease>
+  
+  <NewDiseaseAnimal>.({PAWN_labelShort}) {1} ﻯﺪﻟ</NewDiseaseAnimal>
+  
+  <NewPartDiseaseAnimal>PAWN_possessive}} ﻲﻓ ﻯﻭﺪﻌﻟﺍ ﻥﺎﻜﻣ .{PAWN_labelShort} {3} ﺪﻨﻋ
+{{1</NewPartDiseaseAnimal>
+
+  
+  <PawnWasFormerlyColonist>{0} - {0_gender ? {ﻚﺘﻘﺑﺎﺳ : ﻚﻘﺑﺎﺳ
+0}ﻦﻃﻮﺘﺴﻤﻟﺍ_gender ? ﺔﻘﺑﺎﺴﻟﺍ : ﻖﺑﺎﺴﻟﺍ}.</PawnWasFormerlyColonist>
+  
+  <PawnWasFormerlyLodger>.ﺎﻘﺑﺎﺳ ﻚﻔﻴﺿ ﻥﺎﻛ {0}</PawnWasFormerlyLodger>
+  
+  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} ﺔﺻﺎﺨﻟﺍ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻊﻣ ﺔﻴﻟﺎﺘﻟﺍ ﺕﺎﻗﻼﻌﻟﺍ ﻪﻳﺪﻟ
+ﻚﺑ:</PawnHasTheseRelationshipsWithColonists>
+
+  
+  <LetterLabelAncientShrineWarning>ﻢﻳﺪﻘﻟﺍ ﺮﻄﺨﻟﺍ</LetterLabelAncientShrineWarning>
+  
+  <AncientShrineWarning>ﺮﻌﺸﻳ ،ﻢﻳﺪﻘﻟﺍ ﺭﺍﺪﺠﻟﺍ ﺐﻧﺎﺠﺑ {PAWN_nameDef} ﺮﻤﻳ ﺎﻣﺪﻨﻋ
+ﻪﻨﻜﻟﻭ ،ﻒﻴﻛ ﺎﺤﺿﺍﻭ ﺲﻴﻟ .ﻪﺣﺎﺘﺠﻳ ﺀﻲﺳ ﺭﻮﻌﺸﺑ
+ﻰﻨﺒﻤﻟﺍ ﺍﺬﻫ ﻞﺧﺍﺩ ﻦﻤﻜﻳ ﺮﻴﺒﻛ ﺮﻄﺨﺑ ﺮﻌﺸﻳ
+.ﺭﺎﺒﻐﻟﺎﺑ ﻰﻄﻐﻤﻟﺍ</AncientShrineWarning>
+
+  
+  <StruckMineable>!{lookup: {0}; Case; 3} ﺎﻨﻔﺸﺘﻛﺍ ﺪﻘﻟ</StruckMineable>
+
+  
+  <LetterLabelAnimalManhunterRevenge>ﻢﻘﺘﻨﻳ {0}</LetterLabelAnimalManhunterRevenge>
+  
+  <AnimalManhunterFromDamage>ﻞﺧﺪﻳ {PAWN_indefinite} ،ﻪﺑ ﺖﺒﺒﺴﺗ ﻱﺬﻟﺍ ﺡﺮﺠﻟﺍ ﺐﺒﺴﺑ
+!ﺐﻀﻏ ﻲﻓ
+ﺃﺪﻬﻴﺳﻭ ﻪﻠﺑﺎﻘﻳ ﺺﺨﺷ ﻱﺃ ﻢﺟﺎﻬﻴﺳ ﻥﺍﻮﻴﺤﻟﺍ ﺍﺬﻫ
+.ﻡﺎﻨﻳ ﺎﻣﺪﻨﻋ ﻂﻘﻓ</AnimalManhunterFromDamage>
+  
+  <AnimalManhunterFromTaming>!ﻪﻀﻳﻭﺮﺗ ﺔﻟﻭﺎﺤﻣ ﻞﺸﻓ ﺪﻌﺑ {PAWN_indefinite} ﻢﺟﺎﻬﻳ</AnimalManhunterFromTaming>
+  
+  <AnimalManhunterOthers>!ﺍﻮﺒﻀﻏ ﺎﻀﻳﺃ ﻦﻳﺮﺧﻵﺍ kindBasePlural_1ـﻟﺍ</AnimalManhunterOthers>
+
+  
+  <LetterFriendlyTrapSprungLabel>.ﺓﺪﻴﺼﻣ ﺦﻓ ﻲﻓ {labelShort_1} ﻊﻘﻳ</LetterFriendlyTrapSprungLabel>
+  
+  <LetterFriendlyTrapSprung>{1_labelShort} ﺪﻌﺑ ﺩﻮﺼﻘﻣ ﺮﻴﻏ ﻞﻜﺸﺑ ﺡﺮﺠﺑ ﺏﺎﺼﻳ
+ﺦﻓ ﻲﻓ ﻊﻗﻭ ﻥﺃ.</LetterFriendlyTrapSprung>
+
+  
+  <LetterHealthComplications>n\n\:ﻚﻟﺫ ﺀﺍﺭﻭ ﺐﺒﺴﻟﺍPAWN_labelShort}.\n\n} ـﻟﺍ ﻯﺪﻟ {1} ﺭﻮﻄﺘﻳ
+{{2</LetterHealthComplications>
+  
+  <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
+  
+  
+  <LetterHediffFromRandomHediffGiver>.{PAWN_labelShort} ﻯﺪﻟ {1} ﺭﻮﻄﺗ</LetterHediffFromRandomHediffGiver>
+  
+  <LetterHediffFromRandomHediffGiverLabel>{labelShort}: {1_ﺔﻴﺼﺨﺸﻟﺍ_ﻦﻴﺑ}</LetterHediffFromRandomHediffGiverLabel>
+
+  
+  <LetterLeadersDeathLabel>ﺕﺎﻣ {0} ﻞﻴﺼﻔﻟﺍ ﻦﻣ {1}</LetterLeadersDeathLabel>
+  
+  <LetterLeadersDeath>ﻮﻫﻭ ،{OLDLEADER_nameFull} ،{0} ﺔﻋﺎﻤﺠﻟﺍ ﻢﻴﻋﺯ ﻲﻓﻮﺗ ﺪﻘﻟ
+.{1} ﻮﻀﻋ</LetterLeadersDeath>
+
+  
+  <LetterLeaderChangedLabel>{0} ﻦﻣ {1} ﺪﻳﺪﺟ ﻞﻴﺼﻓ</LetterLeaderChangedLabel>
+  
+  <LetterLeaderChanged>{OLDLEADER_nameFull} ﻲﻓ ﻥﻵﺍ {1} ﻦﻣ ﺍﺀﺰﺟ ﺲﻴﻟ
+0}}.</LetterLeaderChanged>
+
+  
+  <LetterNewLeader>{NEWLEADER_nameFull} ﻥﻵﺍ ﺪﻳﺪﺠﻟﺍ ﺪﺋﺎﻘﻟﺍ ﻮﻫ.</LetterNewLeader>
+
+  
+  <FinalStraw>.{0} :ﺓﺮﻴﺧﻷﺍ ﺓﺮﻄﻘﻟﺍ ﻥﺎﻛ</FinalStraw>
+  
+  <MentalStateReason_Mood>.ﺊﻴﺴﻟﺍ ﺝﺍﺰﻤﻟﺍ ﺐﺒﺴﺑ ﻚﻟﺫ ﺙﺪﺤﺗ</MentalStateReason_Mood>
+  
+  <MentalStateReason_Trait>.{0} :ﺔﻤﺴﻟﺍ ﺐﺒﺴﺑ ﻚﻟﺫ ﺙﺪﺣ</MentalStateReason_Trait>
+  
+  <MentalStateReason_Hediff>.{0} :ﺐﺒﺴﺑ ﻚﻟﺫ ﺙﺪﺣ</MentalStateReason_Hediff>
+  
+  <MentalStateReason_BondedHumanDeath>.{definite_0} ﺓﺎﻓﻭ ﺐﺒﺴﺑ ﻚﻟﺫ ﺙﺪﺣ</MentalStateReason_BondedHumanDeath>
+  
+  <LastFactionRelationsEvent>ﻮﻫ ﺙﺪﺣ ﺮﺧﺁ ﻥﺎﻛ</LastFactionRelationsEvent>
+
+  
+  <ViewRelatedQuest>ﺔﻄﺒﺗﺮﻤﻟﺍ ﺔﻤﻬﻤﻟﺍ ﺢﺘﻓ</ViewRelatedQuest>
+  
+  <ViewQuest>ﺔﻤﻬﻤﻟﺍ ﺢﺘﻓ</ViewQuest>
+  
+  <LastEventsInLife>.ﺓﺮﻴﺧﻷﺍ {PAWN_definite} ﺓﺎﻴﺣ ﺙﺍﺪﺣﺃ</LastEventsInLife>
+
+  
+  <LetterInspirationBeginThanksToHighMoodPart>!ﺔﺳﺎﻤﺤﻟﺎﺑ [PAWN_nameIndef] ﺮﻌﺸﻳ ,ﺪﻴﺟ ﺝﺍﺰﻣ ﻞﻀﻔﺑ</LetterInspirationBeginThanksToHighMoodPart>
+
+  
+  
+  <LetterLabelNoticedRelatedPawns>ﻥﻮﻓﻭﺮﻌﻤﻟﺍ</LetterLabelNoticedRelatedPawns>
+  
+  <LetterRelatedPawnsRaidEnemy>ﻦﻳﺬﻟﺍ &lt;1&gt; ﺪﺟﻮﻳ ﺔﻣﺩﺎﻘﻟﺍ ﺔﻳﺩﺎﻌﻤﻟﺍ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻲﻓ
+ﺔﺻﺎﺨﻟﺍ ﺀﺎﻨﺠﺴﻟﺍ ﻭﺃ ﻚﺑ ﺔﺻﺎﺨﻟﺍ &lt;0&gt; ﻥﻮﻓﺮﻌﻳ
+.ﻚﺑ
+
+ﺕﺎﻗﻼﻌﻟﺍ ﺐﺒﺴﺑ ﺾﻌﺒﻟﺍ ﻢﻬﻀﻌﺑ ﻥﻮﻤﺟﺎﻬﻴﺳ ﻢﻬﻧﺃ ﺮﻛﺬﺗ
+.ﻢﻬﺗﺎﻋﺎﻤﺟ ﻦﻴﺑ ﺔﺌﻴﺴﻟﺍ
+
+:ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ</LetterRelatedPawnsRaidEnemy>
+  
+  <LetterRelatedPawnsRaidFriendly>ﻦﻳﺬﻟﺍ {1} ﻙﺎﻨﻫ ،ﺔﻠﺒﻘﻤﻟﺍ ﺔﻘﻳﺪﺼﻟﺍ ﺔﻋﻮﻤﺠﻤﻟﺍ ﻲﻓ
+.ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﻯﺮﺳﻷﺍ ﻭﺃ {0} ﻥﻮﻓﺮﻌﻳ</LetterRelatedPawnsRaidFriendly>
+  
+  <LetterRelatedPawnsNeutralGroup>ـﻟ ﻦﻴﻓﻭﺮﻌﻣ ﺹﺎﺨﺷﺃ ﻰﻠﻋ ﻱﻮﺘﺤﻳ ﻡﺩﺎﻘﻟﺍ ﻖﻳﺮﻔﻟﺍ
+:ﻯﺮﺳﻷﺍ ﻭﺃ ﻚﺑ ﺔﺻﺎﺨﻟﺍ {0}</LetterRelatedPawnsNeutralGroup>
+  
+  <LetterRelatedPawnsTradeShip>ﻭﺃ ﻚﺑﺎﺤﺻﺃ ﻢﻬﻓﺮﻌﻳ ،ﺹﺎﺨﺷﺃ ﻊﻴﺒﻳ ﻲﺋﺎﻀﻔﻟﺍ ﺮﺟﺎﺘﻟﺍ
+.ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﻯﺮﺳﻷﺍ</LetterRelatedPawnsTradeShip>
+  
+  <LetterRelatedPawnsTradingWithSettlement>ﻭﺃ ﻙﺅﺎﻗﺪﺻﺃ ﻢﻬﻓﺮﻌﻳ ﻦﻳﺬﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻊﻴﺒﺗ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ
+:ﻦﻴﻴﺑﺮﺤﻟﺍ ﻯﺮﺳﻷﺍ</LetterRelatedPawnsTradingWithSettlement>
+  
+  <LetterRelatedPawnsTradingWithOtherCaravan>ﻢﻬﻓﺮﻌﻳ ﻦﻳﺬﻟﺍ ﺹﺎﺨﺷﻷﺍ ﻊﻴﺒﺑ ﺔﻠﻓﺎﻘﻟﺍ ﺍﺬﻫ ﻡﻮﻘﻳ
+.ﻚﺑ ﺹﺎﺨﻟﺍ ﻯﺮﺳﻷﺍ ﻭﺃ {0}</LetterRelatedPawnsTradingWithOtherCaravan>
+  
+  <LetterRelatedPawnsGroupGeneric>{0} ﻥﻮﻓﺮﻌﻳ ﺔﻗﺮﻔﻟﺍ ﻩﺬﻫ ﻲﻓ ﺹﺎﺨﺷﺃ ﺪﺟﻮﻳ
+.ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﻯﺮﺳﻷﺍ ﻭﺃ</LetterRelatedPawnsGroupGeneric>
+  
+  <LetterRelatedPawnsInMapWherePlayerLanded>ﻲﻓ ﻯﺮﺳﻻﺍ ﻭﺃ ﻚﺘﻴﺼﺨﺷ ﻥﻮﻓﺮﻌﻳ ﻦﻳﺬﻟﺍ ﺹﺎﺨﺷﻷﺍ
+ﻪﻴﻓ ﺖﻄﺒﻫ ﻱﺬﻟﺍ ﻊﻗﻮﻤﻟﺍ</LetterRelatedPawnsInMapWherePlayerLanded>
+  
+  <LetterRelatedPawnsSettlement>ﺹﺎﺨﺷﺃ ﻢﻫ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﺍﺬﻫ ﻲﻓ ﻦﻳﺩﻮﺟﻮﻤﻟﺍ ﺱﺎﻨﻟﺍ
+.ﺏﺮﺤﻟﺍ ﻯﺮﺳﺃ ﻭﺃ ﻚﺋﺎﻗﺪﺻﺃ ﻢﻬﻓﺮﻌﻳ</LetterRelatedPawnsSettlement>
+  
+  <LetterRelatedPawnsSite>{0} ﻥﻮﻓﺮﻌﻳ ﺹﺎﺨﺷﺃ ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻲﻓ ﺪﺟﻮﻳ
+:ﻯﺮﺳﻷﺍ ﻭﺃ ﻚﺑ ﺹﺎﺨﻟﺍ</LetterRelatedPawnsSite>
+
+  
+  <RelationshipAppendedLetterSuffix>ﻥﻮﻓﻭﺮﻌﻤﻟﺍ</RelationshipAppendedLetterSuffix>
+  
+  <RelationshipAppendedLetterTextColonist>PAWN_pronoun}} .ﻚﺑ ﺹﺎﺨﻟﺍ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺪﺣﺃ {PAWN_nameDef} ﻑﺮﻌﻳ
+.{- {1} {RELATIVE_labelShort</RelationshipAppendedLetterTextColonist>
+  
+  <RelationshipAppendedLetterTextPrisoner>.{RELATIVE_labelShort} {1} ﻮﻫ .ﻙﺍﺮﺳﺃ ﺪﺣﺃ {PAWN_nameDef} ﻑﺮﻌﻳ</RelationshipAppendedLetterTextPrisoner>
+
+  
+  
+  <LetterLabelAffair>ﺓﺮﻣﺍﺆﻤﻟﺍ</LetterLabelAffair>
+  
+  <LetterAffair>ﻢﻏﺮﻟﺎﺑ {PAWN2_labelShort} ﻊﻣ ﺔﻴﻣﺍﺮﻏ ﺔﻗﻼﻋ {PAWN1_labelShort} ﻢﻴﻘﻳ
+.{SPOUSE_labelShort} ﻦﻣ ﺝﻭﺰﺘﻣ ﻪﻧﻮﻛ ﻦﻣ</LetterAffair>
+  
+  <LetterLabelNewLovers>ﺪﻳﺪﺟ ﺝﻭﺯ</LetterLabelNewLovers>
+  
+  <LetterNewLovers>{PAWN1_labelShort} ﻭ {PAWN2_labelShort} ﻡﻮﻨﻟﺍ ﻲﻓ ﻥﻵﺍ ﻥﺎﺒﻏﺮﻳ
+ﻢﻬﻟ ﺝﻭﺩﺰﻣ ﺮﻳﺮﺳ ﺮﻴﻓﻮﺗ ﻲﻓ ﺮﻜﻓ .ﺎﻌﻣ.</LetterNewLovers>
+  
+  <LetterNoLongerLovers>{PAWN1_labelShort} ﻭ {PAWN2_labelShort} ﺔﻗﻼﻋ ﺎﻤﻬﻳﺪﻟ ﺪﻌﻳ ﻢﻟ.</LetterNoLongerLovers>
+  
+  <LetterNoLongerLovers_BackToBirthName>{PAWN_label} ﺔﻤﻳﺪﻘﻟﺍ ﻪﺘﻠﺋﺎﻋ ﻢﺳﺍ ﺪﻴﻌﻴﺳ.</LetterNoLongerLovers_BackToBirthName>
+  
+  <LetterLabelBreakup>ﺭﺎﺠﻔﻧﺍ</LetterLabelBreakup>
+  
+  <LetterLabelAcceptedProposal>!ﻑﺎﻓﺯ ﻞﻔﺣ ﺎﺒﻳﺮﻗ</LetterLabelAcceptedProposal>
+  
+  <LetterLabelRejectedProposal>ﺽﺮﻌﻟﺍ ﺾﻓﺭ ﻢﺗ</LetterLabelRejectedProposal>
+  
+  <LetterAcceptedProposal>ﻥﻮﻤﻴﻘﻳ ﻑﻮﺳ ﻝﻮﺼﻓ ﻭﺃ ﻡﺎﻳﺃ ﺓﺪﻋ ﺪﻌﺑ
+ﺍﺫﺇ .ﻩﺭﻮﻀﺤﻟ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻊﻴﻤﺟ ﻥﻮﻋﺪﻳﻭ ﻑﺎﻓﺯ ﻞﻔﺣ
+ﺕﻻﺎﻔﺘﺣﻻ ﺹﺎﺧ ﻥﺎﻜﻣ ﻦﻴﻴﻌﺗ ﻚﻨﻜﻤﻳ ،ﺐﻏﺮﺗ ﺖﻨﻛ
+.ﺝﺍﻭﺰﻟﺍ</LetterAcceptedProposal>
+  
+  <LetterAcceptedProposal_NameChange>{PAWN_label} 1} ﻰﻟﺇ ﻲﻠﺋﺎﻌﻟﺍ ﻪﻤﺳﺍ ﺮﻴﻐﻳ ﻑﻮﺳ}.</LetterAcceptedProposal_NameChange>
+  
+  <LetterRejectedProposal>{INITIATOR_nameFull}ﺪﻴﻛﺄﺘﻟﺎﺑ ﺍﺬﻬﺑ ﺍﺪﻴﻌﺳ ﻥﻮﻜﻳ ﻦﻟ.</LetterRejectedProposal>
+
+  
+  
+  <LetterLabelRelationsChange_Hostile>{0} :ﺀﺍﺪﻋﻷﺍ</LetterLabelRelationsChange_Hostile>
+  
+  <LetterLabelRelationsChange_Ally>{0} :ﺀﺎﻔﻠﺤﻟﺍ</LetterLabelRelationsChange_Ally>
+  
+  <LetterLabelRelationsChange_NeutralFromHostile>{0} :ﻦﻳﺪﻳﺎﺤﻣ ﺀﺍﺪﻋﻷﺍ ﺢﺒﺻﺃ</LetterLabelRelationsChange_NeutralFromHostile>
+  
+  <LetterLabelRelationsChange_NeutralFromAlly>{0} :ﻦﻳﺪﻳﺎﺤﻣ ﺀﺎﻔﻠﺤﻟﺍ ﺢﺒﺻﺃ</LetterLabelRelationsChange_NeutralFromAlly>
+  
+  <LetterLabelShortCircuit>...ﺕﺯﺯﺰﺑ</LetterLabelShortCircuit>
+
+  
+  
+  <LetterLabelSuffixBondedAnimalDied>ﻒﻴﻟﻷﺍ ﻥﺍﻮﻴﺤﻟﺍ</LetterLabelSuffixBondedAnimalDied>
+  
+  <LetterPartBondedAnimalDied>ﺮﻌﺸﻴﺳ {HUMAN_labelShort} .ﺕﻮﻤﻳ ،{HUMAN_labelShort}، {ANIMAL_definite} ﻒﻴﻟﺃ ﻥﺍﻮﻴﺣ
+.ﺐﺒﺴﻟﺍ ﺍﺬﻬﻟ ﻥﺰﺤﻟﺎﺑ</LetterPartBondedAnimalDied>
+  
+  <LetterPartBondedAnimalDiedMulti>{n\n{0\:ﻦﻴﻴﻟﺎﺘﻟﺍ ﺹﺎﺨﺷﻷﺍ ﺝﺍﺰﻣ ﻰﻠﻋ ﺍﺬﻫ ﺮﺛﺆﻴﺳ</LetterPartBondedAnimalDiedMulti>
+
+  
+  
+  <LetterLabelPrisonBreak>ﺏﻭﺮﻬﻟﺍ</LetterLabelPrisonBreak>
+  
+  <LetterPrisonBreak>ﺎﻣ ﺔﻘﻳﺮﻄﺑ ﺍﻮﻨﻜﻤﺗ !ﺎﺑﻭﺮﻫ ﺍﻮﻤﻈﻧ ﺪﻗ ﺀﺎﻨﺠﺴﻟﺍ
+ﺪﻗ .ﺝﺭﺎﺨﻟﺍ ﻰﻟﺇ ﺝﻭﺮﺨﻟﺍﻭ ﻞﻔﻘﻟﺍ ﺮﺴﻛ ﻦﻣ
+،ﺓﺮﺟﺎﺸﻣ ﺀﺪﺑ ﻭﺃ ،ﺔﺤﻠﺳﺃ ﻦﻋ ﺚﺤﺒﻟﺎﺑ ﻥﻭﺃﺪﺒﻳ
+It means .{0} :ﻥﻮﺑﺭﺎﻬﻟﺍ .ﺏﻭﺮﻬﻟﺍ ﺔﻟﻭﺎﺤﻣ ﻭﺃ
+"The prisoners have organized an escape! Somehow
+they broke the lock and got outside.
+They may start looking for weapons, start
+a fight, or try to escape. Fugitives:
+.{{0</LetterPrisonBreak>
+
+  
+  
+  <LetterLabelNewlyAddicted>{lookup: {0}; Case; 1} ﻰﻠﻋ ﻥﺎﻣﺩﻹﺍ</LetterLabelNewlyAddicted>
+  
+  <LetterNewlyAddicted>lookup: {1};} ﻰﻠﻋ ﻥﺎﻣﺩﺇ {PAWN_labelShort} ﻯﺪﻟ ﺕﺭﻮﻄﺗ
+ﺮﻬﻈﺗ Case; 1}. \ n \ n
+ﻑﻮﺳ .ﺐﻠﻄﻤﻟﺍ ﻲﻓ ﺓﺩﺎﻤﻟﺍ ﺍﺬﻬﻟ {PAWN_possessive} ﺔﺟﺎﺣ
+ﺍﺫﺇ .ﻪﺘﺟﺎﺣ ﻊﺒﺸﻴﻟ ﻩﺩﺮﻔﻤﺑ ﺀﺍﻭﺪﻟﺍ {PAWN_labelShort} ﻝﻭﺎﻨﺘﻳ
+lookup:} ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻣ {PAWN_pronoun} ﻦﻜﻤﺘﻳ ﻢﻟ
+.ﺏﺎﺤﺴﻧﻻﺍ ﺽﺍﺮﻋﺃ ﻦﻣ ﻲﻧﺎﻌﻴﺳ ،{{1}; Case; 3</LetterNewlyAddicted>
+
+  
+  
+  <LetterLabelDrugBinge>{4 ;ﺔﻟﺎﺣ ;{lookup: {0} ﻡﺍﺪﺨﺘﺳﺍ ﺀﻮﺳ</LetterLabelDrugBinge>
+  
+  <LetterDrugBinge>{2_label} ﻡﺍﺪﺨﺘﺳﺍ ﺀﻮﺴﻳ {lookup: {1}; Case; 4}.</LetterDrugBinge>
+
+  
+  
+  <LetterLabelAllCaravanColonistsDied>ﺔﻠﻓﺎﻘﻟﺍ ﺮﻴﻣﺪﺗ ﻢﺗ</LetterLabelAllCaravanColonistsDied>
+  
+  <LetterAllCaravanColonistsDied>.ﺍﻮﻠﺘﻗ ﻪﺋﺎﻀﻋﺃ ﻊﻴﻤﺟ .{0} ﺮﻴﻣﺪﺗ ﻢﺗ</LetterAllCaravanColonistsDied>
+
+  
+  
+  <LetterLabelCaravanEnteredMap>{lookup: {0_label}; Case; 2} ﻰﻟﺇ ﺔﻠﻓﺎﻘﻟﺍ ﺖﻠﺻﻭ</LetterLabelCaravanEnteredMap>
+  
+  <LetterCaravanEnteredMap>.{lookup: {1_definite}; Case; 2} ﻰﻟﺇ {0} ﻞﺻﻭ</LetterCaravanEnteredMap>
+
+  
+  
+  <LetterLabelCaravanEnteredEnemyBase>ﻡﻮﺠﻬﻟﺍ ﺃﺪﺑ</LetterLabelCaravanEnteredEnemyBase>
+  
+  <LetterCaravanEnteredEnemyBase>{lookup: {1}; Case; 2} ﻰﻟﺇ ﻞﺻﻭ {0}
+.ﻡﻮﺠﻬﻠﻟ ﺪﻌﺘﺴﻣﻭ</LetterCaravanEnteredEnemyBase>
+
+  
+  
+  <LetterLabelTransportPodsLandedInEnemyBase>ﻡﻮﺠﻬﻟﺍ ﺃﺪﺑ</LetterLabelTransportPodsLandedInEnemyBase>
+  
+  <LetterTransportPodsLandedInEnemyBase>، {lookup: {0} ﻰﻟﺇ ﻚﻠﻘﻧ ﺕﻻﻮﺴﺒﻛ ﺖﻠﺻﻭ
+.{3 ؛ ﺔﻟﺎﺣ</LetterTransportPodsLandedInEnemyBase>
+  
+  <LetterShuttleLandedInEnemyBase>.{0} ﻰﻟﺇ ﺔﻴﺋﺎﻀﻔﻟﺍ ﺔﺒﻛﺮﻤﻟﺍ ﺖﻠﺻﻭ</LetterShuttleLandedInEnemyBase>
+
+  
+  
+  <LetterLabelFactionBaseDefeated>.ﺖﻤﻄﺤﺗ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ</LetterLabelFactionBaseDefeated>
+  
+  <LetterFactionBaseDefeated>ﻊﻤﺠﻟ {1} ﻚﻳﺪﻟ ،ﻭﺪﻌﻟﺍ ﺔﻨﻃﻮﺘﺴﻣ ﺮﻴﻣﺪﺗ ﻢﺗ
+ﺪﻌﺑ ﻭﺪﻌﻟﺍ ﻡﻮﺠﻬﻟ ﻚﺘﻠﻓﺎﻗ ﺽﺮﻌﺘﻴﺳ ، ﺩﺭﺍﻮﻤﻟﺍ
+ﻞﻤﻜﺘﺴﺗ ﻥﺃ ﻰﻟﺇ ﻭﺪﻌﻟﺍ ﺕﺍﺰﻳﺰﻌﺗ ﻞﺼﺘﺳ .ﻚﻟﺫ
+ﻖﻳﺮﻃ ﻦﻋ ﻥﻵﺍ ﻚﻟﺫ ﻞﻌﻓ ﻚﻨﻜﻤﻳ .ﺔﻠﺣﺮﻟﺍ
+ﺓﺮﻣﺪﻤﻟﺍ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﺪﻳﺪﺤﺗﻭ ﺔﻴﻤﻟﺎﻌﻟﺍ ﺔﻄﻳﺮﺨﻟﺍ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻻﺍ
+."ﺔﻠﺣﺮﻟﺍ ﺔﻌﺑﺎﺘﻣ" ﺭﺯ ﻰﻠﻋ ﺮﻘﻨﻟﺍﻭ</LetterFactionBaseDefeated>
+  
+  <LetterFactionBaseDefeated_FactionDestroyed>ﺔﻗﺮﻔﻟﺍ ﺓﺪﻋﺎﻗ ﺖﻧﺎﻛ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﺍﺬﻫ ﻥﻷ ﺍﺮﻈﻧ
+.ﺩﻮﺟﻮﻟﺍ ﻦﻋ ﻒﻗﻮﺘﺗ ﺎﻬﻧﺈﻓ ،{0} ﺔﻴﺋﺎﻬﻨﻟﺍ</LetterFactionBaseDefeated_FactionDestroyed>
+
+  
+  
+  <LetterLabelDefeatAllEnemiesQuestCompleted>ﺔﻤﻬﻤﻟﺍ ﻝﺎﻤﻛﺇ ﻢﺗ</LetterLabelDefeatAllEnemiesQuestCompleted>
+  
+  <LetterDefeatAllEnemiesQuestCompleted>ﻦﻣ ﺓﺄﻓﺎﻜﻣ ﻰﻠﻋ ﻞﺼﺤﺘﺳn\n\!ﻭﺪﻌﻟﺍ ﻢﻴﺨﻣ ﺔﻤﻳﺰﻫ ﻢﺗ
+.{1} ﺔﺒﺴﻨﺑ ﻢﻬﻌﻣ ﻚﺘﻗﻼﻋ ﻦﺴﺤﺘﺗﻭ {0} ﺔﺒﻴﺘﻜﻟﺍ</LetterDefeatAllEnemiesQuestCompleted>
+
+  
+  
+  <LetterLabelFoundPreciousLump>ﺓﺪﻴﻌﺑ ﺕﺎﺒﺳﺮﺗ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻢﺗ</LetterLabelFoundPreciousLump>
+  
+  <LetterFoundPreciousLump>WORKER_labelShort} {WORKER_gender} ،ﺪﻌﺑ ﻦﻋ ﻲﺋﻮﻀﻟﺍ ﺢﺳﺎﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ
+lookup: {0}; Case;} {ﺖﻔﺸﺘﻛﺍ : ﻒﺸﺘﻛﺍ ?
+ﺩﺭﻮﻤﻟﺍ ﺍﺬﻫ ﺝﺍﺮﺨﺘﺳﺍ ﻢﺘﻴﺳ ، ﻒﺳﻸﻟ .{3
+ﻡﻮﻳ ? numCase_1} ﻥﻮﻀﻏ ﻲﻓ :ﺎﺒﻳﺮﻗ ﻢﻴﻘﻟﺍ
+.ﻦﻳﺮﺧﺁ ﻦﻣ ﺎﻫﺫﺎﻘﺘﻧﺍ ﺪﻴﻛﺃ ﻢﺘﻴﺳ {ﻡﺎﻳﺃ :
+{2}</LetterFoundPreciousLump>
+
+  
+  
+  <LetterLabelDeepScannerFoundLump>ﺽﺭﻷﺍ ﺖﺤﺗ ﺕﺎﻌﻤﺠﺗ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻢﺗ</LetterLabelDeepScannerFoundLump>
+  
+  <LetterDeepScannerFoundLump>{FINDER_nameDef} ﺖﺤﺗ ﺕﺪﺟﻭ ،ﻖﻴﻤﻌﻟﺍ ﺢﺳﺎﻤﻟﺍ ﻖﻳﺮﻃ ﻦﻋ
+0} ﺽﺭﻷﺍ}!</LetterDeepScannerFoundLump>
+
+  
+  
+  <LetterLabelAmbushInExistingMap>ﻦﻴﻤﻜﻟﺍ</LetterLabelAmbushInExistingMap>
+  
+  <LetterAmbushInExistingMap>!ﻦﻴﻤﻜﻟ {0} ﺖﺿﺮﻌﺗ</LetterAmbushInExistingMap>
+
+  
+  
+  <LetterLabelPeaceTalks_Disaster>ﺕﺎﺛﺩﺎﺤﻤﻟﺍ ﺖﻠﺸﻓ</LetterLabelPeaceTalks_Disaster>
+  
+  <LetterPeaceTalks_Disaster>ﺀﺎﻬﺘﻧﺍ ﺭﻮﻓ !ﻲﺛﺭﺎﻛ ﻞﺸﻔﺑ ﺔﻴﻤﻠﺴﻟﺍ ﺕﺎﺛﺩﺎﺤﻤﻟﺍ ﺖﻬﺘﻧﺍ
+ﻰﻟﺇ ﺕﺎﺷﺎﻘﻨﻟﺍ ﺕﺭﻮﻄﺗ ،ﺔﻴﻤﺳﺮﻟﺍ ﺔﻴﺤﺘﻟﺍ ﻦﻣ ﻦﻴﺑﻭﺪﻨﻤﻟﺍ
+.ﺔﻟﺩﺎﺒﺘﻣ ﺏﺎﺒﺳﻭ ﺕﺎﻣﺎﻬﺗﺍ
+
+ﻦﻣ {0} ﻦﻜﻟﻭ ،ﺍﺮﻜﺒﻣ ﺓﺭﺩﺎﻐﻤﻠﻟ ﺍﺮﻄﻀﻣ ﺖﻨﻛ
+!ﻙﻮﻤﺟﺎﻫﻭ ﻙﻮﻌﺑﺎﺗ {1} ﻞﻴﺼﻔﻟﺍ
+
+.{2} :{1} ﻞﻴﺼﻔﻟﺍ ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ</LetterPeaceTalks_Disaster>
+  
+  <LetterLabelPeaceTalks_Backfire>.ﺕﺎﺿﻭﺎﻔﻤﻟﺍ ﺖﻠﺸﻓ</LetterLabelPeaceTalks_Backfire>
+  
+  <LetterPeaceTalks_Backfire>ﻝﺩﺎﺒﺗ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ .ﺔﻴﻤﻠﺴﻟﺍ ﺕﺎﺛﺩﺎﺤﻤﻟﺍ ﺖﻠﺸﻓ
+ﻱﺃ ﻰﻟﺇ ﻥﻮﺑﻭﺪﻨﻤﻟﺍ ﻞﺻﻮﺘﻳ ﻢﻟ ,ﻲﻟﻭﻷﺍ ﺕﺎﻳﺩﻮﻟﺍ
+ﺕﺎﺤﻳﺮﺼﺘﻟﺍ ﻦﻣ ﺮﻴﺜﻛ ﺀﺎﻔﻴﺘﺳﺍ ﻢﺗﻭ ،ﻲﻘﻴﻘﺣ ﻕﺎﻔﺗﺍ
+.{1} :{0} ﻞﻴﺼﻔﻟﺍ ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍn\n\.ﺕﺎﻧﺎﻫﺇ ﺎﻬﻧﺃ ﻰﻠﻋ</LetterPeaceTalks_Backfire>
+  
+  <LetterLabelPeaceTalks_TalksFlounder>ﺩﻭﺪﺴﻣ ﻖﻳﺮﻃ ﻲﻓ ﺕﺎﺿﻭﺎﻔﻤﻟﺍ</LetterLabelPeaceTalks_TalksFlounder>
+  
+  <LetterPeaceTalks_TalksFlounder>ﻥﻮﺑﻭﺪﻨﻤﻟﺍ ﺏﺮﻋﺃ .ﺔﺠﻴﺘﻧ ﻥﻭﺪﺑ ﺔﻴﻤﻠﺴﻟﺍ ﺕﺎﺿﻭﺎﻔﻤﻟﺍ ﺖﻬﺘﻧﺍ
+ﻢﻟ ﻚﻟﺫ ﻊﻣﻭ ،ﻢﻬﻔﻗﺍﻮﻣ ﻦﻋ ﻡﺎﺗ ﻡﺍﺮﺘﺣﺎﺑ
+ﻞﺋﺎﺴﻤﻟﺍ ﻥﺄﺸﺑ ﻢﻫﺎﻔﺗ ﻱﺃ ﻰﻟﺇ ﻞﺻﻮﺘﻟﺍ ﻢﺘﻳ
+.{0} ﻞﻴﺼﻔﻟﺍ ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﻲﻓ ﺮﻴﻐﺗ ﻻn\n\.ﺔﻣﺎﻬﻟﺍ</LetterPeaceTalks_TalksFlounder>
+  
+  <LetterLabelPeaceTalks_Success>.ﺡﺎﺠﻨﺑ ﺖﻤﺗ ﺕﺎﺛﺩﺎﺤﻤﻟﺍ</LetterLabelPeaceTalks_Success>
+  
+  <LetterPeaceTalks_Success>ﻰﻟﺇ ﻞﺻﻮﺘﻟﺍ ﻢﺗ .ﺡﺎﺠﻨﺑ ﺔﻴﻤﻠﺴﻟﺍ ﺕﺎﺿﻭﺎﻔﻤﻟﺍ ﺖﻬﺘﻧﺍ
+ﺾﻌﺑ ﻝﻮﺣ ﻝﺩﺎﺒﺘﻤﻟﺍ ﻢﻫﺎﻔﺘﻟﺍ ﻦﻣ ﻑﺎﻛ ﻯﻮﺘﺴﻣ
+.ﺔﻣﺎﻬﻟﺍ ﺎﻳﺎﻀﻘﻟﺍ
+
+.{1} ﺔﺒﺴﻨﺑ {0} ﻞﻴﺼﻔﻟﺍ ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﺖﻨﺴﺤﺗ</LetterPeaceTalks_Success>
+  
+  <LetterLabelPeaceTalks_Triumph>ﺭﺎﺼﺘﻧﺎﺑ ﺕﺎﺿﻭﺎﻔﻤﻟﺍ ﺖﻬﺘﻧﺍ</LetterLabelPeaceTalks_Triumph>
+  
+  <LetterPeaceTalks_Triumph>ﻦﻣ ﻥﻮﺑﻭﺪﻨﻤﻟﺍ ﻦﻜﻤﺗ !ﻲﻘﻴﻘﺣ ﺭﺎﺼﺘﻧﺍ ﻩﺬﻫ ﺖﻧﺎﻛ
+ﺔﺸﻗﺎﻨﻣ ﺖﻤﺗ .ﺔﻋﺮﺴﺑ ﺔﻛﺮﺘﺸﻣ ﺔﻐﻟ ﻰﻟﺇ ﻞﺻﻮﺘﻟﺍ
+ﻰﺘﺣ .ﺔﻔﻠﺘﺨﻣ ﺮﻈﻧ ﺕﺎﻬﺟﻭ ﻦﻣ ﺓﺩﻮﺟﻮﻤﻟﺍ ﻞﻛﺎﺸﻤﻟﺍ
+ﻢﺗ ،ﻝﺎﻤﻋﻷﺍ ﻝﻭﺪﺟ ﻰﻠﻋ ﺎﻳﺎﻀﻘﻟﺍ ﺐﻌﺻﺃ ﻲﻓ
+.ﻦﻴﻓﺮﻄﻟﺍ ﻲﺿﺮﻳ ﻞﺣ ﺩﺎﺠﻳﺇ
+ﺔﺒﺴﻨﺑ {0} ﻞﻴﺼﻔﻟﺍ ﻊﻣ ﺕﺎﻗﻼﻌﻟﺍ ﻦﻴﺴﺤﺗ ﻢﺗ
+.{1}
+ﻞﺜﻤﻣ ﻡﺪﻗ ،ﺮﻔﺴﻠﻟ ﺪﻌﺘﺴﺗ ﻚﺘﻠﻓﺎﻗ ﻥﺎﻛ ﺎﻣﺪﻨﻋ
+:ﻚﻟ ﺔﻳﺪﻫ {0} ﻞﻴﺼﻔﻟﺍ
+{2}</LetterPeaceTalks_Triumph>
+  
+  <PeaceTalksSocialXPGain>{PAWN_labelShort}، ﻚﺿﻭﺎﻔﻣ، {PAWN_gender ? {ﺕﺩﺍﺯ : ﺩﺍﺯ
+1} ﺭﺍﺪﻘﻤﺑ ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﻪﺗﺮﺒﺧ}.</PeaceTalksSocialXPGain>
+
+  
+  
+  <LetterRunWildMentalBreak>ﻦﻴﺑ ﻪﺗﺎﻴﺣ ﻲﻀﻤﻳ ﻦﻟ ﻪﻧﺇ {PAWN} ﻝﻮﻘﻳ
+!ﺔﻳﺮﺤﻟﺍ ﺪﻳﺮﻳ ﻪﻧﺇ .ﺓﺭﺎﻀﺤﻟﺍ
+ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻴﺑ ﺶﻴﻌﻟﺍﻭ ﻚﺘﻋﺎﻤﺟ ﺓﺭﺩﺎﻐﻣ {PAWN} ﺭﺮﻘﻳ
+.ﺔﻌﻴﺒﻄﻟﺍ ﻥﺎﻀﺣﺃ ﻲﻓ ﺔﻳﺮﺒﻟﺍ
+ﻰﻟﺇ ﻪﺗﺩﺎﻋﻹ ﻪﻟﺎﻘﺘﻋﺍ ﻭﺃ ﻪﻀﻳﻭﺮﺗ ﺔﻟﻭﺎﺤﻣ ﻚﻨﻜﻤﻳ
+.ﺔﻴﻌﻴﺒﻄﻟﺍ ﺓﺎﻴﺤﻟﺍ</LetterRunWildMentalBreak>
+
+  
+  
+  <LetterCatatonicMentalBreak>ﺢﺒﺼﻳﻭ ﺓﺪﻳﺪﺷ ﺔﻴﺒﺼﻋ ﺔﺑﻮﻧ ﻦﻣ {PAWN} ﻲﻧﺎﻌﻳ
+ﻪﺘﻌﻴﺒﻃ ﻰﻟﺇ ﺩﻮﻌﻳ ﻦﻟ .ﻝﻮﻫﺫ ﺔﻟﺎﺣ ﻲﻓ
+.ﻡﺎﻳﺃ ﺓﺪﻋ ﺪﻌﺑ ﻻﺇ</LetterCatatonicMentalBreak>
+
+  
+  <LetterLabelAICoreOffer>.ﻲﻋﺎﻨﻄﺻﻻﺍ ﺀﺎﻛﺬﻟﺍ ﺓﺍﻮﻧ ﺕﺎﻴﺛﺍﺪﺣﺇ</LetterLabelAICoreOffer>
+  
+  <LetterAICoreOffer>ﻢﻬﻧﺃ ﻙﺮﺒﺨﻳﻭ {1} ﺔﻗﺮﻓ ﻚﺑ ﻞﺼﺘﻳ ﻲﻋﺎﺴﻟﺍ
+ﺎﻬﺟﺎﺘﺤﺘﺳ ﻲﺘﻟﺍ ﻲﻋﺎﻨﻄﺻﻻﺍ ﺀﺎﻛﺬﻟﺍ ﺓﺍﻮﻧ ﻊﻗﻮﻣ ﻥﻮﻓﺮﻌﻳ
+ﺎﺒﻟﺎﻏﻭ ﺍﺪﺟ ﺭﺩﺎﻧ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ .ﺔﻨﻴﻔﺴﻟﺍ ﺀﺎﻨﺒﻟ
+ﻞﺒﻗ ﻦﻣ ﻱﻮﻗ ﻞﻜﺸﺑ ﻪﺘﻳﺎﻤﺣ ﻢﺘﻳ ﺎﻣ
+.ﻪﺑﺎﺤﺻﺃ
+ﻞﺼﺗﺍ ، ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﻚﻠﺘﺑ ﺎﻤﺘﻬﻣ ﺖﻨﻛ ﺍﺫﺇ
+.ﻢﻜﺤﺘﻟﺍ ﺓﺪﺣﻮﻟﺍ ﺮﺒﻋ {1} ﺔﻗﺮﻔﺑ</LetterAICoreOffer>
+
+  
+  
+  <LetterCraftedLegendaryLabel>ﻱﺭﻮﻄﺳﻷﺍ ﻉﺍﺪﺑﻹﺍ</LetterCraftedLegendaryLabel>
+  
+  <LetterCraftedLegendaryMessage>{WORKER_labelShort} {WORKER_gender ? ﺕﺮﻜﺘﺑﺇ : ﺮﻜﺘﺑﺇ} {lookup:
+{CRAFTED_labelShort}; Case; 3}.\n\nﺕﺍﺫ ﺓﺍﺩﻷﺍ ﻩﺬﻫ ﻦﻋ ﺭﺎﺒﺧﻷﺍ
+ﻢﻟﺎﻌﻟﺍ ﺀﺎﺤﻧﺃ ﻊﻴﻤﺟ ﻲﻓ ﺮﺸﺘﻨﺘﺳ ﺔﻤﻴﻈﻌﻟﺍ ﺔﻤﻴﻘﻟﺍ
+ﺎﺒﻳﺮﻗ.</LetterCraftedLegendaryMessage>
+  
+  <LetterCraftedLegendaryMessageArt>ﺮﺸﺘﻨﻴﺳlookup: {CRAFTED_labelShort}; Case; 3}.\n\n{0}\n\n} ﻊﻨﺼﺑ {WORKER_labelShort} ﻡﺎﻗ
+ﺀﺎﺤﻧﺃ ﻊﻴﻤﺟ ﻲﻓ ﺔﻨﻴﻤﺜﻟﺍ ﺔﻌﻄﻘﻟﺍ ﺍﺬﻫ ﺮﺒﺧ
+.ﺎﺒﻳﺮﻗ ﻢﻟﺎﻌﻟﺍ</LetterCraftedLegendaryMessageArt>
+
+  
+  <LetterCraftedMasterworkLabel>ﺔﻴﻨﻓ ﺔﻔﺤﺗ</LetterCraftedMasterworkLabel>
+  
+  <LetterCraftedMasterworkMessage>{WORKER_labelShort} {WORKER_gender? ﺖﺠﺘﻧﺃ :ﺞﺘﻧﺃ} {lookup: {CRAFTED_labelShort}; Case;
+3}.</LetterCraftedMasterworkMessage>
+  
+  <LetterCraftedMasterworkMessageArt>{WORKER_labelShort} {WORKER_gender ? ﺖﻌﻨﺻ : ﻊﻨﺻ} {lookup:
+{CRAFTED_labelShort}; Case; 3}.\n\n{0}</LetterCraftedMasterworkMessageArt>
+
+  
+  
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>.ﺕﺪﻘﻓ ﺔﻠﻓﺎﻘﻟﺍ</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  
+  <LetterPawnsLostBecauseMapClosed_Caravan>ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ .ﺎﻌﺋﺎﺿ ﺮﺒﺘﻌﻳ ﻝﻮﺠﺘﻤﻟﺍ ﻚﻘﻳﺮﻓ
+.ﻪﻌﻣ ﺍﻭﺪﻘﻓ</LetterPawnsLostBecauseMapClosed_Caravan>
+  
+  <LetterLabelPawnsLostBecauseMapClosed_Home>ﻢﻬﻨﻋ ﻲﻠﺨﺘﻟﺍ ﻢﺗ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ</LetterLabelPawnsLostBecauseMapClosed_Home>
+  
+  <LetterPawnsLostBecauseMapClosed_Home>ﺔﻘﻳﺮﻃ ﻲﻓ ﻢﻫﺭﺪﻘﻟ ﺍﻮﻛﺮﺗ ﺕﺎﻧﺍﻮﻴﺤﻟﺍﻭ ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ
+.ﺶﻴﻌﻟﺍ</LetterPawnsLostBecauseMapClosed_Home>
+
+  
+  
+  <LetterLabelHibernateComplete>ﻞﻋﺎﻔﻤﻟﺍ ﻞﻴﻐﺸﺗ ﻢﺗ</LetterLabelHibernateComplete>
+  
+  <LetterHibernateComplete>،ﻞﻋﺎﻔﻤﻟﺍ ﻞﻴﻐﺸﺗ ﺔﻴﻠﻤﻋ ﻰﻬﻧﺃ ﺪﻗ ﻥﻮﺘﺴﺘﻳﺍﻭ ﻥﻮﻟﺭﺎﺷ
+.ﺔﻨﻴﻔﺴﻟﺍ ﻕﻼﻄﻧﺍ ﻦﻴﻣﺄﺗ ﻰﻠﻋ ﺍﺭﺩﺎﻗ ﻥﻮﻜﻴﺳ ﻥﻵﺍﻭ</LetterHibernateComplete>
+  
+  <LetterHibernateCompleteStandalone>ﻥﺎﻤﺿ ﻪﻨﻜﻤﻳ ﻥﻵﺍ .ﻞﻋﺎﻔﻤﻟﺍ ﻞﻴﻐﺸﺗ ﺕﺍﺀﺍﺮﺟﺇ ﺖﻠﻤﺘﻛﺍ
+.ﺔﻨﻴﻔﺴﻟﺍ ﻉﻼﻗﺇ</LetterHibernateCompleteStandalone>
+
+  
+  
+  <LetterLabelVisitorsGaveGift>{0} ﺔﺒﻴﺘﻛ ﻦﻣ ﺔﻳﺪﻫ</LetterLabelVisitorsGaveGift>
+  
+  <LetterVisitorsGaveGift>{n\n{1\:ﺔﻳﺪﻫ ﺎﻨﻟ {PAWN_factionName} ﺔﻗﺮﻔﻟﺍ ﻦﻣ {0} ﻙﺮﺗ</LetterVisitorsGaveGift>
+
+  
+  
+  <LetterLabelFactionBaseProximity>ﺔﻴﺒﻨﺟﻷﺍ ﺕﺎﻨﻃﻮﺘﺴﻤﻟﺍ ﻦﻣ ﺏﺮﻘﻟﺍ</LetterLabelFactionBaseProximity>
+  
+  <LetterFactionBaseProximity>.ﻯﺮﺧﻷﺍ ﻞﺋﺎﺼﻔﻟﺍ ﺕﺎﻨﻃﻮﺘﺴﻣ ﻦﻣ ﺍﺪﺟ ﺐﻳﺮﻗ ﺖﻧﺃ
+.ﻢﻬﻴﺿﺍﺭﺃ ﻰﻠﻋ ﺀﺍﺪﺘﻋﺍ ﻚﻟﺫ ﻥﻭﺮﺒﺘﻌﻳ ﻢﻬﻧﺇ
+
+ﻊﺑﺮﻟﺍ ﻝﻼﺧ ﻢﻬﻌﻣ ﻚﺗﺎﻗﻼﻋ ﺕﺭﻮﻫﺪﺗ ,ﻚﻟﺫ ﺐﺒﺴﺑ
+.ﺮﻴﺧﻷﺍ</LetterFactionBaseProximity>
+
+  
+  
+  <LetterLabelCaravansBattlefieldVictory>!ﺮﺼﻨﻟﺍ</LetterLabelCaravansBattlefieldVictory>
+  
+  <LetterCaravansBattlefieldVictory>ﻦﻋ ﺔﻠﺣﺮﻟﺍ ﻲﻓ ﺭﺍﺮﻤﺘﺳﻻﺍ ﻚﻨﻜﻤﻳ .ﻚﺘﻠﻓﺎﻗ ﺕﺯﺎﻓ
+ﻊﻗﻮﻣ ﺭﺎﻴﺘﺧﺍﻭ ،ﺔﻴﻤﻟﺎﻌﻟﺍ ﺔﻄﻳﺮﺨﻟﺍ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻻﺍ ﻖﻳﺮﻃ
+ﻙﺎﻨﻫ ﺲﻴﻟ ."ﺔﻠﺣﺮﻟﺍ ﻑﺎﻨﺌﺘﺳﺍ" ﻕﻮﻓ ﺮﻘﻨﻟﺍﻭ ،ﺔﻛﺮﻌﻤﻟﺍ
+ﻚﻟﺬﺑ ﻡﺎﻴﻘﻟﺍ ﻦﻜﻤﻳ :ﺎﻳﻭﺪﻳ ﺩﺭﺍﻮﻤﻟﺍ ﻊﻤﺠﻟ ﺔﺟﺎﺣ
+ﻚﺘﻠﻓﺎﻗ ﺽﺮﻌﺘﺘﺳ ﻚﻟﺎﺘﻗ ﺪﻌﺑ .ﺔﻠﻓﺎﻘﻟﺍ ﻝﺎﺳﺭﺇ ﺭﻮﻓ
+ﺕﺎﻤﺠﻬﻟﺍ ﺮﻤﺘﺴﺘﺳ ، {0} ﻥﻮﻀﻏ ﻲﻓ ﻡﻮﺠﻬﻟ
+.ﻥﺎﻜﻤﻟﺍ ﺍﺬﻬﻟ ﻚﺗﺭﺩﺎﻐﻣ ﻰﺘﺣ</LetterCaravansBattlefieldVictory>
+
+  
+  
+  <LetterLabelRescueQuestFinished>ﻲﺟﺎﻨﻟﺍ ﻢﻀﻨﻳ</LetterLabelRescueQuestFinished>
+  
+  <LetterRescueQuestFinished>.ﻚﺘﻋﻮﻤﺠﻣ ﻰﻟﺇ ﻡﺎﻤﻀﻧﻻﺍ {PAWN_pronoun} ﺭﺮﻗﻭ {PAWN_nameDef} ﺕﺬﻘﻧﺃ
+،ﺔﻴﻤﻟﺎﻌﻟﺍ ﺔﻄﻳﺮﺨﻟﺍ ﻰﻟﺇ ﻞﻘﺘﻧﺍ ،ﻚﻌﻣ {PAWN_possessive} ﺬﺧﻷ
+."ﺮﻤﺘﺳﺍ" ﻂﻐﺿﺍ ﻢﺛ ﻲﻟﺎﺤﻟﺍ ﻚﻌﻗﻮﻣ ﺩﺪﺣ</LetterRescueQuestFinished>
+
+  
+  
+  <LetterLabelPredatorHuntingColonist>ﺔﺴﻳﺮﻔﻟﺍ ﺩﺎﻄﺼﻳ ﺱﺮﺘﻔﻤﻟﺍ</LetterLabelPredatorHuntingColonist>
+  
+  <LetterPredatorHuntingColonist>!{PREY_definite} ﺩﺎﻄﺼﻳ {ﺱﺮﺘﻔﻤﻟﺍ}</LetterPredatorHuntingColonist>
+
+  
+  
+  <LetterDisease_Blocked>;{lookup: {1} ﻢﻬﻴﻠﻋ ﺭﺬﻌﺘﻳ {0} ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ
+{3 ;ﺔﻟﺎﺣ</LetterDisease_Blocked>
+  
+  <LetterLabelTraitDisease>{0} :ﺽﺮﻤﻟﺍ</LetterLabelTraitDisease>
+  
+  <LetterTraitDisease>ﺮﻳﺮﺳ ﺩﻮﺟﻭ ﻦﻣ ﺪﻛﺄﺗ ،({PAWN_label}) {1} ﺪﻨﻋ
+ﺔﺣﺍﺭﻭ ﺐﺳﺎﻨﻣ ﺝﻼﻌﻟ ﺔﺟﺎﺤﺑ {PAWN_labelShort} .ﺐﻴﺒﻃﻭ ﻲﺒﻃ
+.ﺮﻳﺮﺴﻟﺍ</LetterTraitDisease>
+
+  
+  
+  <LetterQuestBecameAvailable>"{0}" :ﺔﺣﺎﺘﻣ ﺓﺪﻳﺪﺟ ﺔﻤﻬﻣ</LetterQuestBecameAvailable>
+  
+  <LetterQuestRequiresAcceptance>،{0} ﻥﻮﻀﻏ ﻲﻓ ﺔﻤﻬﻤﻟﺍ ﻞﺒﻘﺗ ﻢﻟ ﺍﺫﺇ
+.ﺔﺣﺎﺘﻣ ﺮﻴﻏ ﺢﺒﺼﺘﺴﻓ</LetterQuestRequiresAcceptance>
+  
+  <LetterQuestBecameActive>"{0}" :ﻁﺎﺸﻨﺑ ﺓﺪﻳﺪﺟ ﺔﻤﻬﻣ</LetterQuestBecameActive>
+  
+  <LetterQuestAutomaticallyAcceptedTitle>"{0}" :ﺔﻄﺸﻧ ﺔﻤﻬﻣ</LetterQuestAutomaticallyAcceptedTitle>
+  
+  <LetterQuestActiveNowTime>.{0} ﻝﻼﺧ ﺖﻗﻮﻟﺍ ﻲﻬﺘﻨﻳ</LetterQuestActiveNowTime>
+
+  
+  
+  <LetterLabelQuestDropPodsArrived>.ﺕﻻﻮﺴﺒﻜﻟﺍ ﺖﻠﺻﻭ</LetterLabelQuestDropPodsArrived>
+  
+  <LetterQuestDropPodsArrived>{n\n{0\:ﻲﻟﺎﺘﻟﺎﻛ ﺎﻬﺗﺎﻳﻮﺘﺤﻣ ﻞﻘﻧ ﺕﻻﻮﺴﺒﻛ ﺖﻠﺻﻭ</LetterQuestDropPodsArrived>
+
+  
+  
+  <LetterLabelQuestItemsAddedToCaravanInventory>{CARAVAN_label} ﺀﺎﻴﺷﻷﺍ ﻢﻠﺘﺳﺍ.</LetterLabelQuestItemsAddedToCaravanInventory>
+  
+  <LetterQuestItemsAddedToCaravanInventory>{n\n{THINGS\:ﺔﻴﻟﺎﺘﻟﺍ ﺀﺎﻴﺷﻷﺍ {CARAVAN_label} ﺖﻘﻠﺗ</LetterQuestItemsAddedToCaravanInventory>
+
+  
+  
+  <LetterLabelRefugeeJoins>{PAWN_nameDef} ﻢﻀﻨﻳ</LetterLabelRefugeeJoins>
+  
+  <LetterRefugeeJoins>? PAWN_nameDef} {PAWN_gender} ﻢﺳﺈﺑ {PAWN_title} ﺔﻓﺎﺿﻹﺍ ﺖﻤﺗ
+.ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ {ﺔﻣﺎﻤﻀﻧﻼﻟ : ﻡﺎﻤﻀﻧﻼﻟ</LetterRefugeeJoins>
+  
+  
+  
+  <LetterLabelRescueeJoins>{PAWN_nameDef} ﻢﻀﻨﻳ</LetterLabelRescueeJoins>
+  
+  <LetterRescueeJoins>{PAWN_nameDef} ﺀﺎﻘﺒﻟﺍ ﺭﺮﻘﻳ .ﻪﺗﺎﻴﺣ ﺫﺎﻘﻧﺇ ﻰﻠﻋ ﻙﺮﻜﺸﻳ
+ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﻡﺎﻤﻀﻧﻻﺍﻭ ﻢﻜﻌﻣ.</LetterRescueeJoins>
+
+  
+  
+  <LetterLabelPawnsArriveAndJoin>ﻥﻮﻤﻀﻨﻳ ﺱﺎﻨﻟﺍ</LetterLabelPawnsArriveAndJoin>
+  
+  <LetterPawnsArriveAndJoin>{n\n{0\:ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﺍﻮﻤﻀﻧﺍﻭ ﺍﻮﻠﺻﻭ ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ</LetterPawnsArriveAndJoin>
+
+  
+  
+  <LetterLabelPawnsArrive>ﺱﺎﻨﻟﺍ ﻞﺻﻭ</LetterLabelPawnsArrive>
+  
+  <LetterPawnsArrive>{n\n{0\:ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﺍﻮﻠﺻﻭ ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ</LetterPawnsArrive>
+
+  
+  
+  <LetterLabelPawnLeaving>.ﺭﺩﺎﻐﻳ {0}</LetterLabelPawnLeaving>
+  
+  <LetterPawnLeaving>.ﻞﺣﺮﻳ {0}</LetterPawnLeaving>
+
+  
+  
+  <LetterLabelPawnsLeaving>.ﻥﻭﺭﺩﺎﻐﻳ {0}</LetterLabelPawnsLeaving>
+  
+  <LetterPawnsLeaving>.ﻥﻭﺭﺩﺎﻐﻳ {0}</LetterPawnsLeaving>
+  
+  
+  
+  <LetterLabelPawnsKidnapped>{PAWN_nameDef} {PAWN_gender ? ﺔﻔﻄﺘﺨﻣ : ﻑﻮﻄﺨﻣ}.</LetterLabelPawnsKidnapped>
+  
+  <LetterPawnsKidnapped>{PAWN_nameDef} ﺔﻋﺎﻤﺟ ﻞﺒﻗ ﻦﻣ ﻪﻓﺎﻄﺘﺧﺍ ﻢﺗ {FACTION_name}!
+{PAWN_possessive} ﺕﺪﻘﻓ ﻚﻧﺃ ﻲﻨﻌﻳ ﻻ ﺍﺬﻫ ﻦﻜﻟﻭ
+ﻡﺎﻳﻷﺍ ﻲﻓ ﻚﻟ ﺡﺎﺘﻳ ﺪﻗ .ﻲﺋﺎﻬﻧ ﻞﻜﺸﺑ
+.{PAWN_possessive} ﺫﺎﻘﻧﻹ ﺔﺻﺮﻓ ﺔﻣﺩﺎﻘﻟﺍ ﺕﺍﻮﻨﺴﻟﺍ ﻭﺃ</LetterPawnsKidnapped>
+  
+  
+  
+  <LetterTechprintAppliedLabel>{PROJECT_label} :ﻲﺤﻴﺿﻮﺘﻟﺍ ﻢﺳﺮﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻢﺗ</LetterTechprintAppliedLabel>
+  
+  <LetterTechprintAppliedPartIntro>."{PROJECT_label}" ﺔﻴﻨﻘﺗ ﻰﻠﻋ ﻢﻴﻤﺼﺘﻟﺍ ﻖﻴﺒﻄﺗ ﻢﺗ</LetterTechprintAppliedPartIntro>
+  
+  <LetterTechprintAppliedPartJustUnlocked>ﻩﺬﻬﻟ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺕﺎﻄﻄﺨﻤﻟﺍ ﻊﻴﻤﺟ ﻊﻤﺠﺑ ﺖﻤﻗ ﺪﻘﻟ
+ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﺕﻻﺎﺠﻣ ﺔﺳﺍﺭﺩ ﻚﻴﺜﺣﺎﺒﻟ ﻦﻜﻤﻳ ﻥﻵﺍ !ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ
+.ﺚﺤﺒﻟﺍ ﺕﻻﻭﺎﻃ ﻰﻠﻋ</LetterTechprintAppliedPartJustUnlocked>
+  
+  <LetterTechprintAppliedPartNotUnlockedYet>ﻩﺬﻬﻟ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺕﺎﻣﻮﺳﺮﻟﺍ ﻊﻴﻤﺟ ﻊﻤﺠﺑ ﻢﻘﺗ ﻢﻟ
+:ﻢﺳﺭ ?numCase_0} ﻡﺍﺪﺨﺘﺳﺍ ﻢﺗ ﺪﻗ ﺎﻴﻟﺎﺣ .ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ
+.ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﺚﺤﺒﻟ {1} ﻰﻟﺇ ﺝﺎﺘﺤﺗ .{ﺕﺎﻣﻮﺳﺭ</LetterTechprintAppliedPartNotUnlockedYet>
+  
+  <LetterTechprintAppliedPartAlreadyUnlocked>ﺔﻴﻨﻘﺘﻟ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺕﺎﻄﻄﺨﻤﻟﺍ ﻊﻴﻤﺟ ﻞﻌﻔﻟﺎﺑ ﺖﻌﻤﺟ ﺪﻘﻟ
+ﻡﺪﻘﺘﻟﺍ ﻰﻠﻋ ﻙﺪﻋﺎﺴﻳ ﻲﻓﺎﺿﻹﺍ ﻂﻄﺨﻤﻟﺍ .ﻉﻭﺮﺸﻤﻟﺍ ﺍﺬﻫ
+ﻒﺼﻧ ﺯﺎﺠﻧﺇ ﻢﺗ ."PROJECT_label" ﺔﻴﻨﻘﺗ ﺙﻮﺤﺑ ﻲﻓ
+ﺔﻄﻘﻧ : ﺔﻄﻘﻧ ? numCase_0}ﻭ ،ﻲﻘﺒﺘﻤﻟﺍ ﻞﻤﻌﻟﺍ
+.ﺚﺤﺒﻟﺍ {ﻁﺎﻘﻧ :</LetterTechprintAppliedPartAlreadyUnlocked>
+  
+  <LetterTechprintAppliedPartAlreadyResearched>ﻚﻨﻜﻤﻳ ﻻ .ﻞﻣﺎﻜﻟﺎﺑ ﻞﻌﻔﻟﺎﺑ ﺔﻴﻨﻘﺘﻟﺍ ﻑﺎﺸﻜﺘﺳﺍ ﻢﺗ
+.ﺪﻳﺪﺠﻟﺍ ﻂﻄﺨﻤﻟﺍ ﻦﻣ ﺪﻳﺪﺟ ﺀﻲﺷ ﻱﺃ ﺔﻓﺮﻌﻣ</LetterTechprintAppliedPartAlreadyResearched>
+  
+  <LetterTechprintAppliedPartExpAwarded>{0} ﻰﻠﻋ {PAWN_labelShort} ﻞﺼﺤﻳ ،ﻢﺳﺮﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﺪﻌﺑ
+.{1} ﺓﺭﺎﻬﻤﻟﺍ ﻲﻓ ﺓﺮﺒﺧ ﺓﺪﺣﻭ</LetterTechprintAppliedPartExpAwarded>
+  
+  
+  
+  <LetterQuestCompletedLabel>ﺔﻤﻬﻤﻟﺍ ﻝﺎﻤﻛﺇ ﻢﺗ</LetterQuestCompletedLabel>
+  
+  <LetterQuestFailedLabel>ﺔﻤﻬﻤﻟﺍ ﺖﻠﺸﻓ</LetterQuestFailedLabel>
+  
+  <LetterQuestConcludedLabel>.ﺖﻠﻤﺘﻛﺍ ﺔﻤﻬﻤﻟﺍ</LetterQuestConcludedLabel>
+  
+  <LetterQuestCompletedSuccess>!"{0}" ﺔﻤﻬﻤﻟﺍ ﺡﺎﺠﻨﺑ ﺖﻠﻤﻛﺃ ﺪﻘﻟ</LetterQuestCompletedSuccess>
+  
+  <LetterQuestCompletedFail>."{0}" ﺔﻤﻬﻤﻟﺍ ﻲﻓ ﺖﻠﺸﻓ</LetterQuestCompletedFail>
+  
+  <LetterQuestCompletedConcluded>."{0}" ﺔﻤﻬﻤﻟﺍ ﻝﺎﻤﻛﺇ ﻦﻣ ﺖﻴﻬﺘﻧﺍ ﺪﻘﻟ</LetterQuestCompletedConcluded>
+
+  
+  
+  <LetterBladelinkWeaponBondedLabel>{PAWN_labelShort} ﻊﻣ ﻝﺎﺼﺗﺍ ﺲﻴﺳﺄﺗ ﻢﺗ</LetterBladelinkWeaponBondedLabel>
+  
+  <LetterBladelinkWeaponBonded>ـﻟ ﻲﻋﺎﻨﻄﺻﻻﺍ ﺀﺎﻛﺬﻟﺍ ﺔﻴﺼﺨﺸﺑ {PAWN_labelShort} ﻦﻣﺍﺰﺗ ﻢﺗ
+ﻊﻣ ﻞﻤﻌﻟﺍ {WEAPON_labelShort} ﺾﻓﺮﺘﺳ ،ﺍﺪﻋﺎﺼﻓ ﻥﻵﺍ ﻦﻣWEAPON_labelShort}\n}
+.ﺮﺧﺁ ﺺﺨﺷ ﻱﺃ</LetterBladelinkWeaponBonded>
+  
+  
+  
+  <LetterLabelMechClusterArrived>ﺕﺎﺗﻮﺑﻭﺮﻟﺍ ﺖﻠﺻﻭ</LetterLabelMechClusterArrived>
+  
+  <LetterMechClusterArrived>.ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺖﻠﺻﻭ</LetterMechClusterArrived>
+
+  
+  <LetterLabelSiteCountdownStarted>ﺔﻠﻓﺎﻗ ﺪﺻﺭ ﻢﺗ</LetterLabelSiteCountdownStarted>
+  
+  <LetterTextSiteCountdownStarted>ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻰﻟﺇ ﻞﺼﻴﺳ .ﻚﺘﻠﻓﺎﻗ ﺪﺻﺭ ﻢﺗ
+ﺐﻨﺠﺘﻟ .{2} ﺔﻗﺮﻔﻟﺍ ﻦﻣ {1} {0} ﻝﻼﺧ
+ﻲﻘﺒﺘﻤﻟﺍ ﺖﻗﻮﻟﺍ .ﺔﻌﺑﺎﺘﻤﻟﺎﺑ ﺔﻠﻓﺎﻘﻟﺍ ﺮﻣﺍ ،ﻢﻬﻌﻣ ﻡﺩﺎﺼﺘﻟﺍ
+.ﺖﻗﺆﻤﻟﺍ ﻰﻠﻋ ﺢﺿﻮﻣ</LetterTextSiteCountdownStarted>
+
+  
+  <LetterLabelUnrecruitablePawnCaptured>ﺮﻴﺳﺃ ﻩﺪﻴﻨﺠﺗ ﻦﻜﻤﻣ ﺮﻴﻏ</LetterLabelUnrecruitablePawnCaptured>
+  
+  <LetterTextUnrecruitablePawnCaptured>{PAWN_nameDef} ﻱﻮﻘﻟﺍ ﻪﺋﻻﻭ ﺐﺒﺴﺑ ﺪﻴﻨﺠﺘﻠﻟ ﻞﺑﺎﻗ ﺮﻴﻏ
+ﻡﺎﻤﻀﻧﻻﺍ ﻲﻓ ﻪﺘﺒﻏﺭ ﺔﻓﺮﻌﻤﻟ ﻩﺪﻳﺪﺤﺗ ﻰﺟﺮﻳ .ﻪﺘﻗﺮﻔﻟ.</LetterTextUnrecruitablePawnCaptured>
+  
+  <OptionalEnslaveDesc>{PAWN_possessive} ﻩﺭﺎﺼﺘﻧﺍ</OptionalEnslaveDesc>
+
+  
+  
+  <LetterTextLungRot>ﺎﻬﺿﺮﻌﺗ ﺐﺒﺴﺑ ﺕﺭﻮﻄﺗ !{PAWN} - {1} ﺪﻨﻋ
+ﺪﻛﺄﺗn\n\.(ﺔﻨﻔﻌﺘﻤﻟﺍ ﺚﺜﺠﻟﺍ ﻦﻣ ﺔﺜﻌﺒﻨﻤﻟﺍ) ﺕﺍﻮﻣﻷﺍ ﺚﺜﺟ ﺯﺎﻐﻟ
+ﺾﻳﺮﻤﻟﺍ ﺝﺎﺘﺤﻳ .ﺐﻴﺒﻃﻭ ﻲﺒﻃ ﺮﻳﺮﺳ ﺩﻮﺟﻭ ﻦﻣ
+.ﺐﺳﺎﻨﻣ ﺝﻼﻋ ﻰﻟﺇ</LetterTextLungRot>
+
+  
+  
+  <LetterJoinOfferLabel>{PAWN_nameDef} ﻢﻀﻨﻳ.</LetterJoinOfferLabel>
+  
+  <LetterJoinOfferTitle>{Name} ﻚﺘﻋﺎﻤﺟ ﻰﻟﺇ ﻡﺎﻤﻀﻧﻻﺍ ﻲﻓ ﺐﻏﺮﻳ.</LetterJoinOfferTitle>
+  
+  <LetterJoinOfferText>{nameDef} ﻲﻓ ﺀﺎﻘﺒﻟﺎﺑ ﺍﺪﺟ ﺪﻴﻌﺳ {MAP_definite} ﺐﻏﺮﻳﻭ
+ﺪﺑﻷﺍ ﻰﻟﺇ ﻚﻌﻣ ﺀﺎﻘﺒﻟﺍ ﻲﻓ.</LetterJoinOfferText>
+  
+  <LetterJoinOfferAccept>ﻝﻮﺒﻗ</LetterJoinOfferAccept>
+
+  
+  
+  <LetterFinishedSpeech>{ORGANIZER_labelShort} ﻲﺷﺮﻌﻟﺍ ﻪﺑﺎﻄﺧ ﻰﻬﻧﺃ.</LetterFinishedSpeech>
+  
+  <LetterTerribleSpeech>ﺕﺎﻜﻨﻟﺎﺑ ﺔﺌﻴﻠﻣ ،ﺔﻄﺑﺍﺮﺘﻣ ﺮﻴﻏ :ﺍﺪﺟ ﺔﺌﻴﺳ ﺖﻧﺎﻛ
+.ﺔﻠﻤﻣ ﺺﺼﻗﻭ ﺔﻴﺒﻐﻟﺍ</LetterTerribleSpeech>
+  
+  <LetterUninspiringSpeech>ﻦﻣ ﺔﻴﻟﺎﺧﻭ ﺔﻠﻤﻣ ،ﺔﻴﻠﺻﺃ ﺮﻴﻏ :ﺔﻠﻤﻣ ﺖﺤﺒﺻﺃ
+.ﺔﻗﺮﺸﻤﻟﺍ ﺕﺎﻈﺤﻠﻟﺍ</LetterUninspiringSpeech>
+  
+  <LetterEncouragingSpeech>.ﺏﻮﻠﻄﻤﻟﺍ ﻞﻜﺸﻟﺎﺑ ﺕﺮﺛﺃﻭ ﺪﻴﺟ ﻞﻜﺸﺑ ﺎﻬﻤﻳﺪﻘﺗ ﻢﺗ</LetterEncouragingSpeech>
+  
+  <LetterInspirationalSpeech>.ﺓﺮﺛﺆﻣﻭ ﺎﻴﻔﻃﺎﻋ ﺔﻗﺮﺸﻣ ،ﻲﺋﺎﻨﺜﺘﺳﺍ ﻞﻜﺸﺑ ﺔﻤﻬﻠﻣ ﺖﻧﺎﻛ</LetterInspirationalSpeech>
+  
+  <LetterSpeechInspiredListeners>ﻥﻭﺮﻌﺸﻳﻭ ﺔﻤﻠﻜﻟﺎﺑ ﺓﺪﺸﺑ ﻦﻳﺮﺛﺄﺘﻣ ﺍﻮﻧﺎﻛ ﺹﺎﺨﺷﻷﺍ ﺀﻻﺆﻫ
+.ﺔﺳﺎﻤﺤﻟﺎﺑ ﻥﻵﺍ</LetterSpeechInspiredListeners>
+  
+  <LetterSpeechInspiration>!ﻡﺎﻬﻟﻹﺎﺑ &lt;SPEAKER_nameIndef&gt; ﺮﻌﺸﻳ ،ﻕﺮﺸﻤﻟﺍ ﻪﺑﺎﻄﺧ ﻞﻀﻔﺑ</LetterSpeechInspiration>
+  
+  <LetterSpeechInterrupted>ﻖﻘﺤﺗ ﻢﻟ ،{0} ﻲﻓ ﺚﻳﺪﺤﻟﺍ ﻉﺎﻄﻘﻧﺍ ﺐﺒﺴﺑ
+.ﺓﻮﺟﺮﻤﻟﺍ ﺞﺋﺎﺘﻨﻟﺍ</LetterSpeechInterrupted>
+  
+  <LetterSpeechCancelled>ﻞﺼﻳ ﻥﺃ ﻞﺒﻗ ﺏﺎﻄﺨﻟﺍ ﻊﻄﻗ ﻢﺗ ﺪﻘﻟ
+.ﺮﻴﺛﺄﺗ ﻱﺃ ﻪﻟ ﻦﻜﻳ ﻢﻟﻭ ﻪﻔﺼﺘﻨﻣ ﻰﻟﺇ</LetterSpeechCancelled>
+  
+  <LetterLabelSpeechCancelled>ﻰﻐﻠﻣ ﺏﺎﻄﺨﻟﺍ</LetterLabelSpeechCancelled>
+
+</LanguageData>

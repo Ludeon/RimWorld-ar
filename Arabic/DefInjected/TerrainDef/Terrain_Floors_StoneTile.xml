@@ -1,0 +1,73 @@
+<LanguageData>
+  
+  
+  <FlagstoneGranite.label>ﺔﻨﺸﺨﻟﺍ ﺖﻴﻧﺍﺮﻐﻟﺍ ﺮﺠﺣ ﺔﻳﺩﺮﺑ</FlagstoneGranite.label>
+  
+  <FlagstoneGranite.description>ﺎﻬﻨﻜﻟﻭ ﺔﻠﻴﻤﺟ ﺮﻴﻏ ﺓﺭﻮﺼﺑ ﺔﻌﻄﻘﻣ ﺔﻳﺮﺠﺣ ﺡﺍﻮﻟﺃ
+ﻻ ﺡﺍﻮﻟﻷﺍ ﻚﻴﻜﻔﺗ .ﺕﺍﺮﻤﻤﻟﺍﻭ ﻕﺮﻄﻟﺍ ﺔﻴﻄﻐﺘﻟ ﺔﻴﻟﺎﺜﻣ
+.ﺩﺭﺍﻮﻣ ﻲﻄﻌﻳ</FlagstoneGranite.description>
+  
+  
+  <FlagstoneLimestone.label>ﻲﺴﻠﻜﻟﺍ ﺮﺠﺤﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺼﻣ ﺔﻨﺸﺧ ﺔﻃﻼﺑ</FlagstoneLimestone.label>
+  
+  <FlagstoneLimestone.description>ﺔﻴﻄﻐﺘﻟ ﺔﻴﻟﺎﺜﻣ ﺎﻬﻨﻜﻟﻭ ﺔﻠﻴﻤﺟ ﺮﻴﻏ ﺔﻳﺮﺠﺣ ﺕﺎﻃﻼﺑ
+ﺔﻠﺑﺎﻗ ﺩﺍﻮﻣ ﺮﻓﻮﺗ ﻻ .ﺓﺎﺸﻤﻠﻟ ﺕﺍﺮﻤﻤﻟﺍﻭ ﻕﺮﻄﻟﺍ
+.ﻞﻠﺤﺘﻠﻟ</FlagstoneLimestone.description>
+  
+  
+  <FlagstoneMarble.label>ﺔﻨﺸﺧ ﻡﺎﺧﺭ ﺔﻃﻼﺑ</FlagstoneMarble.label>
+  
+  <FlagstoneMarble.description>ﺮﻴﻏ .ﻖﻴﻗﺩ ﺮﻴﻏ ﻞﻜﺸﺑ ﺔﻋﻮﻄﻘﻣ ﺔﻳﺮﺠﺣ ﻊﻄﻗ
+.ﺔﻠﺟﺍﺮﻟﺍ ﺕﺍﺮﻤﻤﻟﺍﻭ ﻕﺮﻄﻟﺍ ﺔﻴﻄﻐﺘﻟ ﺔﺒﺳﺎﻨﻣ ﺎﻬﻨﻜﻟﻭ ﺔﻠﻴﻤﺟ
+.ﺩﺭﺍﻮﻣ ﻲﻄﻌﻳ ﻻ ﻁﻼﺒﻟﺍ ﻚﻴﻜﻔﺗ</FlagstoneMarble.description>
+  
+  
+  <FlagstoneSandstone.label>ﺔﻨﺸﺧ ﺔﻴﺑﺍﺮﺗ ﺓﺪﻴﻣﺮﻗ</FlagstoneSandstone.label>
+  
+  <FlagstoneSandstone.description>ﺖﺴﻴﻟ .ﻖﻴﻗﺩ ﺮﻴﻏ ﻞﻜﺸﺑ ﺔﻋﻮﻄﻘﻣ ﺔﻳﺮﺠﺣ ﺕﺎﻃﻼﺑ
+ﺕﺍﺮﻤﻤﻟﺍﻭ ﻕﺮﻄﻟﺍ ﻂﻴﻠﺒﺘﻟ ﺎﻣﺎﻤﺗ ﺔﺒﺳﺎﻨﻣ ﺎﻬﻨﻜﻟﻭ ،ﺔﻠﻴﻤﺟ
+.ﺩﺭﺍﻮﻣ ﻲﻄﻌﻳ ﻻ ﺎﻬﻜﻴﻜﻔﺗ .ﺔﻠﺟﺍﺮﻟﺍ</FlagstoneSandstone.description>
+  
+  
+  <FlagstoneSlate.label>ﺖﺴﻴﺸﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺼﻣ ﺔﻨﺸﺧ ﺔﻃﻼﺑ</FlagstoneSlate.label>
+  
+  <FlagstoneSlate.description>ﺲﻴﻟ .ﻖﻴﻗﺩ ﺮﻴﻏ ﻞﻜﺸﺑ ﻉﻮﻄﻘﻣ ﻱﺮﺠﺣ ﻁﻼﺑ
+ﻕﺮﻄﻟﺍ ﺔﻴﻄﻐﺘﻟ ﺎﻣﺎﻤﺗ ﺐﺳﺎﻨﻣ ﻪﻨﻜﻟﻭ ،ﺍﺪﺟ ﻼﻴﻤﺟ
+.ﺩﺭﺍﻮﻣ ﺮﻓﻮﻳ ﻻ ﻁﻼﺒﻟﺍ ﻚﻴﻜﻔﺗ .ﺔﻠﺟﺍﺮﻟﺍ ﺕﺍﺮﻤﻤﻟﺍﻭ</FlagstoneSlate.description>
+  
+  
+  <TileGranite.label>ﻲﺘﻴﻧﺍﺮﺠﻟﺍ ﻁﻼﺒﻟﺍ</TileGranite.label>
+  
+  <TileGranite.description>ﺎﻤﻠﺜﻣ ،ﺎﻣﺎﻤﺗ ﺐﺳﺎﻨﻣﻭ ﺔﻳﺎﻨﻌﺑ ﻉﻮﻄﻘﻣ ﺮﺠﺣ ﻁﻼﺑ
+ﻦﻜﻟﻭ ،ﺮﻈﻨﻠﻟ ﺔﻠﻴﻤﺟ .ﺔﻳﺮﺼﻌﻟﺍ ﺔﻌﻠﻘﻟﺍ ﻲﻓ ﻮﻫ
+.ﺖﻗﻭ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﺐﻴﻛﺮﺘﻟﺍ</TileGranite.description>
+  
+  
+  <TileLimestone.label>ﻱﺮﻴﺠﻟﺍ ﺮﺠﺤﻟﺍ ﺔﻃﻼﺑ</TileLimestone.label>
+  
+  <TileLimestone.description>ﻲﻓ ﺎﻬﻧﺄﻛ ﺔﺴﻧﺎﺠﺘﻣﻭ ﺔﻳﺎﻨﻌﺑ ﺓﺬﻔﻨﻤﻟﺍ ﺮﺠﺤﻟﺍ ﻊﻄﻗ
+ﺎﻬﺒﻴﻛﺮﺗ ﻦﻜﻟﻭ ﺔﻠﻴﻤﺟ ﻭﺪﺒﺗ .ﻰﻄﺳﻮﻟﺍ ﺭﻮﺼﻌﻟﺍ ﺔﻌﻠﻗ
+.ﺎﺘﻗﻭ ﻕﺮﻐﺘﺴﻳ</TileLimestone.description>
+  
+  
+  <TileMarble.label>ﻒﻘﺳ ﺮﻣﺮﻣ</TileMarble.label>
+  
+  <TileMarble.description>،ﻞﻴﻤﺟ ﻞﻜﺸﺑ ﻢﻤﺼﻣﻭ ﺔﻳﺎﻨﻌﺑ ﻉﻮﻄﻘﻣ ﺮﺠﺣ ﻁﻼﺑ
+،ﺓﺮﻈﻨﻠﻟ ﻞﻴﻤﺟ .ﻰﻄﺳﻮﻟﺍ ﺭﻮﺼﻌﻟﺍ ﻲﻓ ﻉﻼﻘﻟﺍ ﻞﺜﻣ
+.ﺎﺘﻗﻭ ﺐﻠﻄﺘﻳ ﺐﻴﻛﺮﺘﻟﺍ ﻦﻜﻟ</TileMarble.description>
+  
+  
+  <TileSandstone.label>ﻲﻠﻣﺭ ﻁﻼﺑ</TileSandstone.label>
+  
+  <TileSandstone.description>،ﺐﺳﺎﻨﻣ ﻞﻜﺸﺑ ﻍﺎﺼﻣﻭ ﺔﻳﺎﻨﻌﺑ ﻊﻄﻘﻤﻟﺍ ﺮﺠﺤﻟﺍ ﻁﻼﺑ
+ﺔﻠﻴﻤﺟ .ﻰﻄﺳﻮﻟﺍ ﻉﻼﻘﻟﺍ ﻲﻓ ﺩﻮﺟﻮﻣ ﻮﻫ ﺎﻤﻠﺜﻣ
+ﻡﺎﻴﻘﻠﻟ ﺖﻗﻭ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ﻦﻜﻟﻭ ،ﺎﻬﻴﻟﺇ ﺮﻈﻨﻠﻟ
+.ﺐﻴﻛﺮﺘﻟﺎﺑ</TileSandstone.description>
+  
+  
+  <TileSlate.label>ﺖﺴﻴﺸﻟﺍ ﻦﻣ ﺔﻃﻼﺑ</TileSlate.label>
+  
+  <TileSlate.description>.ﻰﻄﺳﻮﻟﺍ ﺭﻮﺼﻌﻟﺍ ﻉﻼﻗ ﻪﺒﺸﻳ ﺐﺳﺎﻨﻣﻭ ﻞﻴﻤﺟ ﻂﻴﻠﺒﺗ
+.ﻦﻴﻌﻠﻟ ﺏﺍﺬﺟ ﻪﻨﻜﻟﻭ ﺐﻴﺗﺮﺘﻠﻟ ﺖﻗﻭ ﻰﻟﺇ ﺝﺎﺘﺤﻳ</TileSlate.description>
+  
+</LanguageData>

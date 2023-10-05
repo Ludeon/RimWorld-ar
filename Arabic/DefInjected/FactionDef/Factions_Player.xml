@@ -1,0 +1,25 @@
+<LanguageData>
+  
+  
+  <PlayerColony.label>ﺔﻨﻃﻮﺘﺴﻤﻟﺍ</PlayerColony.label>
+  
+  <PlayerColony.description>.ﻚﺘﻨﻃﻮﺘﺴﻣ</PlayerColony.description>
+  
+  <PlayerColony.leaderTitle>ﺪﺋﺎﻘﻟﺍ</PlayerColony.leaderTitle>
+  
+  <PlayerColony.pawnSingular>ﻦﻃﻮﺘﺴﻤﻟﺍ</PlayerColony.pawnSingular>
+  
+  <PlayerColony.pawnsPlural>ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ</PlayerColony.pawnsPlural>
+  
+  
+  <PlayerTribe.label>ﺔﻠﻴﺒﻘﻟﺍ</PlayerTribe.label>
+  
+  <PlayerTribe.description>.ﻚﺘﻠﻴﺒﻗ</PlayerTribe.description>
+  
+  <PlayerTribe.leaderTitle>ﺪﺋﺎﻘﻟﺍ</PlayerTribe.leaderTitle>
+  
+  <PlayerTribe.pawnSingular>ﻞﻴﺻﺃ</PlayerTribe.pawnSingular>
+  
+  <PlayerTribe.pawnsPlural>ﻦﻴﻴﻠﺻﻷﺍ ﻥﺎﻜﺴﻟﺍ</PlayerTribe.pawnsPlural>
+  
+</LanguageData>

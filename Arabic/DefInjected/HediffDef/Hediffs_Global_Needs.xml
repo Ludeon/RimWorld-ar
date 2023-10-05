@@ -1,0 +1,26 @@
+<LanguageData>
+  
+  
+  <Malnutrition.label>ﺔﻳﺬﻐﺘﻟﺍ ﺭﺮﻀﺗ</Malnutrition.label>
+  
+  <Malnutrition.description>ﺎﻣ ﺓﺩﺎﻋ ،ﻲﻌﻴﺒﻃ ﺮﻴﻏ ﻞﻜﺸﺑ ﺾﻔﺨﻨﻣ ﻥﺯﻭ
+ﺀﻲﺷ ﺪﺟﻮﻳ ﻻ .ﺔﻳﺬﻐﺘﻟﺍ ﺔﻠﻗ ﺔﺠﻴﺘﻧ ﻥﻮﻜﻳ
+ﻥﻮﻜﺗ ﺔﻳﺍﺪﺒﻟﺍ ﻲﻓ ﻦﻜﻟ ،ﻝﻮﺤﻨﻟﺍ ﻲﻓ ﻊﺘﻤﻣ
+ﺩﺍﺯ ،ﻢﺴﺠﻟﺍ ﺭﻮﻫﺪﺗ ﺩﺍﺯ ﺎﻤﻠﻛ .ﺔﻔﻴﻔﻃ ﻪﺗﺍﺮﻴﺛﺄﺗ
+ﺪﻌﺑn\n\.ﻝﻮﺤﻨﻟﺍ ﺕﻮﻤﻟﺍ ﻊﺒﺘﻳ .ﺕﻼﻀﻌﻟﺍ ﺔﻠﺘﻛ ﻥﺍﺪﻘﻓﻭ ﻪﻔﻌﺿ
+ﻝﻮﺤﻨﻟﺍ ﻝﻭﺰﻳ ،ﻡﺎﻈﺘﻧﺎﺑ ﻡﺎﻌﻄﻟﺍ ﻝﻭﺎﻨﺗ ﻰﻟﺇ ﺓﺩﻮﻌﻟﺍ
+ﻕﻮﻠﺨﻤﻟﺍ ﻯﺪﻟ ﺔﻴﻬﺸﻟﺍ ،ﺖﻗﻮﻟﺍ ﺍﺬﻫ ﻲﻓ .ﺎﻴﺠﻳﺭﺪﺗ
+ﻯﻮﻗﺃ ﺔﻴﻓﺎﻛ ﺔﻴﻤﻜﺑ ﺎﻣﺎﻌﻃ ﻝﻭﺎﻨﺘﻳ ﻢﻟ ﻱﺬﻟﺍ
+.ﺮﻴﺒﻛ ﻞﻜﺸﺑ</Malnutrition.description>
+  
+  <Malnutrition.stages.trivial.label>ﺔﻤﻬﻣ ﺮﻴﻏ</Malnutrition.stages.trivial.label>
+  
+  <Malnutrition.stages.minor.label>ﺔﻠﻬﺳ</Malnutrition.stages.minor.label>
+  
+  <Malnutrition.stages.moderate.label>ﻂﺳﻮﺘﻣ</Malnutrition.stages.moderate.label>
+  
+  <Malnutrition.stages.severe.label>ﺓﺩﺎﺣ</Malnutrition.stages.severe.label>
+  
+  <Malnutrition.stages.extreme.label>ﻯﻮﻗﺃ</Malnutrition.stages.extreme.label>
+  
+</LanguageData>

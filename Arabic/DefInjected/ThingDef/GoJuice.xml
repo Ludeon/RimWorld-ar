@@ -1,0 +1,20 @@
+<LanguageData>
+  
+  
+  <GoJuice.label>Go-сок</GoJuice.label>
+  
+  <GoJuice.description>ﻲﻓ ﻦﻴﻴﺋﺎﻀﻔﻟﺍ ﺩﻮﻨﺠﻠﻟ ﻢﻤﺻ ﻲﻋﺎﻨﺻ ﻲﻟﺎﺘﻗ ﺰﻔﺤﻣ
+ﻂﺑﺍﺮﺘﻤﻟﺍ ﺮﻴﺼﻌﻟﺍ ﻖﻠﻐﻳ .ﺓﺮﻜﺒﻤﻟﺍ ﺔﻴﺒﻛﻮﻜﻟﺍ ﺏﻭﺮﺤﻟﺍ ﺓﺮﺘﻓ
+،ﺓﺪﻴﻌﺒﻟﺍﻭ ﺔﺒﻳﺮﻘﻟﺍ ﺔﻛﺮﻌﻤﻟﺍ ﻰﻠﻋ ﺕﺍﺭﺪﻘﻟﺍ ﻦﺴﺤﻳﻭ ﻢﻟﻷﺍ
+ﻦﻣ ﺀﺍﻭﺪﻟﺍ ﺍﺬﻫ ﺪﻳﺰﻳ .ﻊﻳﺮﺴﻟﺍ ﻙﺮﺤﺘﻟﺍ ﺢﻴﺘﻳﻭ
+ﻥﻭﺪﺑ ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﺕﺎﻴﺗﻮﺼﻠﻟ ﻲﺴﻔﻨﻟﺍ ﺰﻴﻛﺮﺘﻟﺍ ﻯﻮﺘﺴﻣ
+ﺀﺍﻭﺪﻟﺍ ﺍﺬﻫ ﺍﻮﻌﻨﺻ ﻦﻳﺬﻟﺍ ﻦﻴﻳﺮﻜﺴﻌﻟﺍ ﻦﻴﻴﺋﺎﻴﻤﻴﻜﻟﺍn\n\ .ﻞﻣﺄﺗ
+ﻦﻣﺪﻤﻟﺍ ﺮﻴﺛﺄﺘﻟﺍ ﻦﻣ ﺺﻠﺨﺘﻟﺍ ﻦﻣ ﺍﻮﻨﻜﻤﺘﻳ ﻢﻟ
+ﻯﺮﻳ ،ﺎﺒﻴﻋ ﺾﻌﺒﻟﺍ ﻩﺮﺒﺘﻌﻳ ﺎﻤﻨﻴﺑ .ﻪﺑ ﻂﺒﺗﺮﻤﻟﺍ
+.ﺓﺪﺋﺎﻓ ﻪﻴﻓ ﺮﺧﻵﺍ ﺾﻌﺒﻟﺍ</GoJuice.description>
+  
+  <GoJuice.ingestible.ingestCommandString>{lookup: {0}; Case; 3} ﻞﺧﺩﺃ</GoJuice.ingestible.ingestCommandString>
+  
+  <GoJuice.ingestible.ingestReportString>{lookup: {0}; Case; 3} ﻞﺧﺩﺃ</GoJuice.ingestible.ingestReportString>
+  
+</LanguageData>

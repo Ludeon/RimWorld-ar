@@ -1,0 +1,70 @@
+<LanguageData>
+  
+  
+  <ButcheryFleshEfficiency.label>ﺔﺋﺰﺠﺘﻟﺍ ﺓﺀﺎﻔﻛ</ButcheryFleshEfficiency.label>
+  
+  <ButcheryFleshEfficiency.description>ﺔﺋﺰﺠﺗ ﺪﻨﻋ ﺎﻬﻴﻠﻋ ﻞﺼﺤﺘﻤﻟﺍ ﻡﻮﺤﻠﻟﺍ ﺏﺮﺿ ﻞﻣﺎﻌﻣ
+ﻢﺠﺣ ﻰﻠﻋ ﺎﻀﻳﺃ ﺪﻤﺘﻌﺗ ﻢﺤﻠﻟ ﺔﻴﻠﻌﻔﻟﺍ ﺔﻴﻤﻜﻟﺍn\n\.ﺕﺎﻨﺋﺎﻜﻟﺍ
+.ﻦﺋﺎﻜﻟﺍ</ButcheryFleshEfficiency.description>
+  
+  
+  <ButcheryFleshSpeed.label>ﺔﺋﺰﺠﺘﻟﺍ ﺔﻋﺮﺳ</ButcheryFleshSpeed.label>
+  
+  <ButcheryFleshSpeed.description>.ﻯﺮﺧﻷﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﺩﺎﺴﺠﻟ ﺔﻴﺼﺨﺸﻟﺍ ﺀﻱﺰﺠﺗ ﺔﻋﺮﺳ</ButcheryFleshSpeed.description>
+  
+  
+  <ButcheryMechanoidEfficiency.label>ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺰﻴﻬﺠﺗ ﺓﺩﺎﻋﺇ ﺮﻴﺛﺄﺗ</ButcheryMechanoidEfficiency.label>
+  
+  <ButcheryMechanoidEfficiency.description>ﻞﺒﻗ ﻦﻣ ﺔﻠﺼﺤﻤﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﺔﻴﻤﻜﻟﺍ ﻒﻋﺎﻀﻣ
+.ﺖﻴﻤﻟﺍ ﺕﻮﺑﻭﺮﻟﺍ ﺔﻟﻵﺍ ﻞﻳﻮﺤﺗ ﺪﻨﻋ ﺔﻴﺼﺨﺸﻟﺍ
+.ﺕﻮﺑﻭﺮﻟﺍ ﻢﺠﺣ ﻰﻠﻋ ﺎﻀﻳﺃ ﺔﺠﻴﺘﻨﻟﺍ ﺪﻤﺘﻌﺗﻭ</ButcheryMechanoidEfficiency.description>
+  
+  
+  <ButcheryMechanoidSpeed.label>ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﺕﺎﻴﻟﺁ ﻞﻳﻮﺤﺗ ﺔﻋﺮﺳ</ButcheryMechanoidSpeed.label>
+  
+  <ButcheryMechanoidSpeed.description>ﺩﺍﻮﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺕﺎﻴﻟﻼﻟ ﺔﻴﺼﺨﺸﻟﺍ ﻞﻳﻮﺤﺗ ﺔﻋﺮﺳ
+.ﺔﻤﻴﻗ</ButcheryMechanoidSpeed.description>
+  
+  
+  <CookSpeed.label>ﻡﺎﻌﻄﻟﺍ ﺩﺍﺪﻋﺇ ﺔﻋﺮﺳ</CookSpeed.label>
+  
+  <CookSpeed.description>.ﺕﺎﺒﺟﻮﻠﻟ ﺔﻴﺼﺨﺸﻟﺍ ﺩﺍﺪﻋﺇ ﺔﻋﺮﺳ</CookSpeed.description>
+  
+  
+  <DrugCookingSpeed.label>ﺕﺍﺭﺪﺨﻤﻟﺍ ﻊﻨﺻ ﺔﻋﺮﺳ</DrugCookingSpeed.label>
+  
+  <DrugCookingSpeed.description>ﺐﻨﻘﻟﺍ ﻞﺜﻣ ﺔﻴﺸﻴﺸﺤﻟﺍ ﺕﺍﺮﻀﺤﺘﺴﻤﻟﺍ ﻊﻨﺻﻭ ﺮﻴﻤﺨﺘﻟﺍ ﺔﻋﺮﺳ
+.ﺔﻴﻟﻮﺤﻜﻟﺍ ﺕﺎﺑﻭﺮﺸﻤﻟﺍ ﺮﻴﻀﺤﺗﻭ ﻦﺧﺪﻤﻟﺍ</DrugCookingSpeed.description>
+  
+  
+  <DrugSynthesisSpeed.label>ﺕﺍﺮﻀﺤﺘﺴﻤﻟﺍ ﻖﻴﻠﺨﺗ ﺔﻋﺮﺳ</DrugSynthesisSpeed.label>
+  
+  <DrugSynthesisSpeed.description>.ﺓﺪﻘﻌﻤﻟﺍ ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﺕﺎﺒﻛﺮﻤﻠﻟ ﺔﻴﺼﺨﺸﻟﺍ ﻖﻴﻠﺨﺗ ﻝﺪﻌﻣ</DrugSynthesisSpeed.description>
+  
+  
+  <FoodPoisonChance.label>ﻲﺋﺍﺬﻏ ﻢﻤﺴﺘﺑ ﺔﺑﺎﺻﻺﻟ ﺔﺻﺮﻓ</FoodPoisonChance.label>
+  
+  <FoodPoisonChance.description>ﺄﻄﺨﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﺺﺨﺸﻟﺍ ﺐﺒﺴﺘﻳ ﻥﺃ ﺔﻴﻟﺎﻤﺘﺣﺍ
+ﺺﺨﺸﻟﺍ ﺮﻌﺸﻴﺳn\n\.ﻩﺰﻴﻬﺠﺘﺑ ﻡﻮﻘﻳ ﻱﺬﻟﺍ ﻡﺎﻌﻄﻟﺍ ﻢﻤﺴﺗ ﻲﻓ
+.ﻥﺎﻴﺜﻐﻟﺍﻭ ﻒﻌﻀﻟﺍﻭ ﻢﻟﻷﺎﺑ ﻖﺒﻄﻟﺍ ﺍﺬﻫ ﻞﻛﺄﻳ ﻱﺬﻟﺍ</FoodPoisonChance.description>
+  
+  <FoodPoisonChance.labelForFullStatList>(ﻡﺎﻌﻄﻟﺍ ﻢﻴﻤﺴﺗ ﺔﺻﺮﻓ) ﻲﺋﺍﺬﻐﻟﺍ ﻢﻤﺴﺘﻟﺍ ﺔﺻﺮﻓ</FoodPoisonChance.labelForFullStatList>
+  
+  
+  <GeneralLaborSpeed.label>ﺔﻣﺎﻌﻟﺍ ﻞﻤﻌﻟﺍ ﺔﻋﺮﺳ</GeneralLaborSpeed.label>
+  
+  <GeneralLaborSpeed.description>ﺮﻴﺴﻜﺗ ﻞﺜﻣ ﺔﻣﺎﻌﻟﺍ ﻝﺎﻤﻋﻸﻟ ﺔﻴﺼﺨﺸﻟﺍ ﺀﺍﺩﺃ ﺔﻋﺮﺳ
+ﻊﻨﺻ ،ﺔﻃﺎﻴﺨﻟﺍ ،ﻕﺮﺤﻟﺍ ،ﺮﺴﻧﺪﻧﻮﻜﻟﺍ ﻰﻠﻋ ﻞﻤﻌﻟﺍ ،ﺭﻮﺨﺼﻟﺍ
+ﺔﻄﺸﻧﻸﻟ ﻞﻣﺎﻌﻟﺍ ﺍﺬﻫ ﻡﺪﺨﺘﺴﻳ .ﺮﻬﺼﻟﺍﻭ ﻞﻴﻜﺸﺘﻟﺍ ،ﻥﻮﻨﻔﻟﺍ
+ﺓﺭﺎﻬﻤﻟﺍ ﺮﺛﺆﺗﻭ ﺔﺻﺎﺧ ﺕﺍﺭﺎﻬﻣ ﺐﻠﻄﺘﺗ ﻻ ﻲﺘﻟﺍ
+ﺔﻋﺮﺳ ﻦﻣ ﻻﺪﺑ ﻲﺋﺎﻬﻨﻟﺍ ﺞﺘﻨﻤﻟﺍ ﺓﺩﻮﺟ ﻲﻓ
+.ﻞﻤﻌﻟﺍ</GeneralLaborSpeed.description>
+  
+  
+  <SmeltingSpeed.label>ﺮﻬﺼﻟﺍ ﺔﻋﺮﺳ</SmeltingSpeed.label>
+  
+  <SmeltingSpeed.description>ﺔﻴﻠﻤﻌﻟﺍ ﻩﺬﻫ ﻥﻷ ﺍﺮﻈﻧn\n\.ﺔﻴﺼﺨﺸﻟﺍ ﺎﻬﻟﻭﺎﻨﺘﻳ ،ﺮﻴﻬﺼﺘﻟﺍ ﺔﻋﺮﺳ
+ﻻ ﺎﻬﻨﻣ ﺀﺎﻬﺘﻧﻻﺍ ﺔﻋﺮﺳ ﻥﺈﻓ ،ﺔﺘﺤﺑ ﺔﻴﻜﻴﻧﺎﻜﻴﻣ
+.ﺔﺻﺎﺧ ﺕﺍﺭﺎﻬﻣ ﻱﺃ ﻰﻠﻋ ﺪﻤﺘﻌﺗ</SmeltingSpeed.description>
+  
+</LanguageData>

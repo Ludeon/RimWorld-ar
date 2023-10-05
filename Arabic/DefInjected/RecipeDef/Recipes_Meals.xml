@@ -1,0 +1,168 @@
+<LanguageData>
+  
+  
+  <CookMealFine.label>ﺔﻴﻬﺷ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ</CookMealFine.label>
+  
+  <CookMealFine.description>ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻧﺯﺍﻮﺘﻣﻭ ﺓﺬﻳﺬﻟ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ
+.ﺔﻴﻧﺍﻮﻴﺣﻭ</CookMealFine.description>
+  
+  <CookMealFine.ingredients.0.filter.customSummary>ﺕﺎﻨﻴﺗﻭﺮﺑ</CookMealFine.ingredients.0.filter.customSummary>
+  
+  <CookMealFine.jobString>.ﺓﺬﻳﺬﻟ ﺔﺒﺟﻭ ﻲﻬﻄﻳ</CookMealFine.jobString>
+  
+  
+  <CookMealFine_Meat.label>ﻢﺤﻠﻟﺍ ﻦﻣ ﺓﺬﻳﺬﻟ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ</CookMealFine_Meat.label>
+  
+  <CookMealFine_Meat.description>ﺭﺪﺼﻤﻟﺍ ﺕﺍﺫ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺓﺬﻳﺬﻟ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ
+ﻰﻟﺇ ﻱﺩﺆﻳ ﻂﻘﻓ ﺔﻴﻧﺍﻮﻴﺤﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ .ﻲﻧﺍﻮﻴﺤﻟﺍ
+.ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻙﻼﻬﺘﺳﺍ ﺓﺩﺎﻳﺯ</CookMealFine_Meat.description>
+  
+  <CookMealFine_Meat.jobString>.ﻢﺤﻠﻟﺍ ﻦﻣ ﺓﺬﻳﺬﻟ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺈﺑ ﻡﻮﻘﻳ</CookMealFine_Meat.jobString>
+  
+  
+  <CookMealFine_Veg.label>ﺔﻴﻬﺷ ﺔﻴﺗﺎﺒﻧ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ</CookMealFine_Veg.label>
+  
+  <CookMealFine_Veg.description>ﻡﺍﺪﺨﺘﺳﺍ .ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺓﺬﻳﺬﻟ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ
+ﻲﻓ ﺓﺩﺎﻳﺯ ﻰﻟﺇ ﻱﺩﺆﻴﺳ ﻂﻘﻓ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ
+.ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻙﻼﻬﺘﺳﺍ</CookMealFine_Veg.description>
+  
+  <CookMealFine_Veg.ingredients.0.filter.customSummary>ﺔﻴﺗﺎﺒﻨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ</CookMealFine_Veg.ingredients.0.filter.customSummary>
+  
+  <CookMealFine_Veg.jobString>ﺓﺬﻳﺬﻟ ﺔﻴﺗﺎﺒﻧ ﺔﺒﺟﻭ ﺮﻀﺤﻳ</CookMealFine_Veg.jobString>
+  
+  
+  <CookMealFineBulk.label>4 × ﺓﺬﻳﺬﻟ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ</CookMealFineBulk.label>
+  
+  <CookMealFineBulk.description>ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺓﺬﻳﺬﻟ ﻕﺎﺒﻃﺃ 4 ﺩﺍﺪﻋﺇ
+.ﺔﻴﻧﺍﻮﻴﺣﻭ</CookMealFineBulk.description>
+  
+  <CookMealFineBulk.ingredients.0.filter.customSummary>ﻦﻴﺗﻭﺮﺑ ﻰﻠﻋ ﻱﻮﺘﺤﻳ</CookMealFineBulk.ingredients.0.filter.customSummary>
+  
+  <CookMealFineBulk.jobString>ﺓﺬﻳﺬﻟ ﺕﺎﺒﺟﻭ 4 ﺩﺍﺪﻋﺈﺑ ﻡﻮﻘﻳ</CookMealFineBulk.jobString>
+  
+  
+  <CookMealFineBulk_Meat.label>x4 ﻢﺤﻠﻟﺍ ﻦﻣ ﺓﺬﻳﺬﻟ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ</CookMealFineBulk_Meat.label>
+  
+  <CookMealFineBulk_Meat.description>.ﺔﻴﻧﺍﻮﻴﺣ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺓﺬﻳﺬﻟ ﺕﺎﺒﺟﻭ 4 ﺩﺍﺪﻋﺇ
+ﻙﻼﻬﺘﺳﺍ ﻦﻣ ﺪﻳﺰﻳ ﻂﻘﻓ ﺔﻴﻧﺍﻮﻴﺣ ﺕﺎﻧﻮﻜﻣ ﻡﺍﺪﺨﺘﺳﺍ
+.ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ</CookMealFineBulk_Meat.description>
+  
+  <CookMealFineBulk_Meat.jobString>ﻡﻮﺤﻠﻟﺍ ﻦﻣ ﺓﺬﻳﺬﻟ ﻕﺎﺒﻃﺃ 4 ﺮﻴﻀﺤﺘﺑ ﻡﻮﻘﻳ</CookMealFineBulk_Meat.jobString>
+  
+  
+  <CookMealFineBulk_Veg.label>4× ﺓﺬﻳﺬﻟ ﺔﻴﺗﺎﺒﻧ ﺔﺒﺟﻭ ﺪﻋﺍ</CookMealFineBulk_Veg.label>
+  
+  <CookMealFineBulk_Veg.description>.ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺔﻴﻬﺷ ﻕﺎﺒﻃﺃ ٤ ﺪﻋﺍ
+ﺓﺩﺎﻳﺯ ﻰﻟﺇ ﻱﺩﺆﻴﺳ ﻂﻘﻓ ﺔﻴﺗﺎﺒﻨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ
+.ﺩﺍﻮﻤﻟﺍ ﻙﻼﻬﺘﺳﺇ ﻲﻓ</CookMealFineBulk_Veg.description>
+  
+  <CookMealFineBulk_Veg.ingredients.0.filter.customSummary>ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ</CookMealFineBulk_Veg.ingredients.0.filter.customSummary>
+  
+  <CookMealFineBulk_Veg.jobString>ﺓﺬﻳﺬﻟ ﺔﻴﺗﺎﺒﻧ ﻕﺎﺒﻃﺃ 4 ﺮﻴﻀﺤﺘﺑ ﻡﻮﻘﻳ</CookMealFineBulk_Veg.jobString>
+  
+  
+  <CookMealLavish.label>ﺔﻌﺋﺍﺭ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ</CookMealLavish.label>
+  
+  <CookMealLavish.description>ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺓﺭﻮﻄﺘﻣﻭ ﺓﺪﻘﻌﻣ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ
+ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺓﺮﻴﺒﻛ ﺔﻴﻤﻛ ﺭﺍﺪﻫﺇ ﻢﺘﻴﺳ .ﺔﻴﻧﺍﻮﻴﺣﻭ
+.ﺓﺪﻳﺮﻓ ﺕﺎﻬﻜﻧ ﺔﻋﻮﻤﺠﻣ ﺀﺎﺸﻧﻹ</CookMealLavish.description>
+  
+  <CookMealLavish.ingredients.0.filter.customSummary>ﺕﺎﻨﻴﺗﻭﺮﺑ ﻰﻠﻋ ﻱﻮﺘﺤﻳ</CookMealLavish.ingredients.0.filter.customSummary>
+  
+  <CookMealLavish.jobString>ﺎﻌﺋﺍﺭ ﺎﻘﺒﻃ ﻡﺪﻘﻳ</CookMealLavish.jobString>
+  
+  
+  <CookMealLavish_Meat.label>ﻊﺋﺍﺭ ﻢﺤﻟ ﻖﺒﻃ ﺩﺍﺪﻋﺇ</CookMealLavish_Meat.label>
+  
+  <CookMealLavish_Meat.description>ﻦﻣ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺔﻓﺮﺘﻣﻭ ﺓﺭﻮﻄﺘﻣ ﺔﺒﺟﻭ ﺪﻋﺃ
+ﻦﻣ ﺮﻴﺒﻛ ﻢﺴﻗ ﻊﻴﻴﻀﺗ ﻢﺘﻴﺳ .ﻲﻧﺍﻮﻴﺣ ﻞﺻﺃ
+ﻡﺪﺨﺘﺳﺍ .ﻪﻟ ﻞﻴﺜﻣ ﻻ ﻕﺍﺬﻣ ﻦﻳﻮﻜﺘﻟ ﺕﺎﻧﻮﻜﻤﻟﺍ
+ﻲﻓﺎﺿﺇ ﻙﻼﻬﺘﺳﺍ ﻰﻟﺇ ﻱﺩﺆﺘﺳ ﻂﻘﻓ ﺔﻴﻧﺍﻮﻴﺣ ﺕﺎﻧﻮﻜﻣ
+.ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻠﻟ</CookMealLavish_Meat.description>
+  
+  <CookMealLavish_Meat.jobString>.ﺔﻌﺋﺍﺭ ﻢﺤﻟ ﺔﺒﺟﻭ ﻩﺪﻌﻳ</CookMealLavish_Meat.jobString>
+  
+  
+  <CookMealLavish_Veg.label>.ﺔﻌﺋﺍﺭ ﺔﻴﺗﺎﺒﻧ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺈﺑ ﻢﻗ</CookMealLavish_Veg.label>
+  
+  <CookMealLavish_Veg.description>.ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺓﺮﺧﺎﻓﻭ ﺓﺪﻘﻌﻣ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ
+ﺀﺎﺸﻧﻹ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺮﻴﺒﻛ ﺀﺰﺟ ﺔﻋﺎﺿﺇ ﻢﺘﻴﺳ
+ﺔﻴﺗﺎﺒﻨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ .ﺕﺎﻬﻜﻨﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺘﻣ ﺔﻋﻮﻤﺠﻣ
+.ﺕﺎﺠﺘﻨﻤﻟﺍ ﻙﻼﻬﺘﺳﺍ ﺓﺩﺎﻳﺯ ﻰﻟﺇ ﻱﺩﺆﻴﺳ ﻂﻘﻓ</CookMealLavish_Veg.description>
+  
+  <CookMealLavish_Veg.ingredients.0.filter.customSummary>ﺔﻴﺗﺎﺒﻨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ</CookMealLavish_Veg.ingredients.0.filter.customSummary>
+  
+  <CookMealLavish_Veg.jobString>ﻊﺋﺍﺭ ﻲﺗﺎﺒﻧ ﻖﺒﻃ ﻡﺪﻘﻳ</CookMealLavish_Veg.jobString>
+  
+  
+  <CookMealLavishBulk.label>x4 ﺓﺮﺧﺎﻓ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ</CookMealLavishBulk.label>
+  
+  <CookMealLavishBulk.description>ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺓﺭﻮﻄﺘﻣﻭ ﺔﺒﻛﺮﻣ ﺕﺎﺒﺟﻭ 4 ﺩﺍﺪﻋﺇ
+ﺍﺭﺪﻫ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﺐﻫﺬﻴﺳ .ﺔﻴﻧﺍﻮﻴﺣﻭ ﺔﻴﺗﺎﺒﻧ
+.ﺓﺪﻳﺮﻓ ﻡﺎﻌﻃ ﺔﺣﻮﻟ ﻖﻠﺨﻟ</CookMealLavishBulk.description>
+  
+  <CookMealLavishBulk.ingredients.0.filter.customSummary>ﻦﻴﺗﻭﺮﺑ ﻰﻠﻋ ﻱﻮﺘﺤﻳ</CookMealLavishBulk.ingredients.0.filter.customSummary>
+  
+  <CookMealLavishBulk.jobString>ﺔﻌﺋﺍﺭ ﻕﺎﺒﻃﺃ 4 ﺮﻴﻀﺤﺘﺑ ﻡﻮﻘﻳ</CookMealLavishBulk.jobString>
+  
+  
+  <CookMealLavishBulk_Meat.label>4× ﺔﻌﺋﺍﺭ ﻢﺤﻟ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ</CookMealLavishBulk_Meat.label>
+  
+  <CookMealLavishBulk_Meat.description>ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺓﺮﺧﺎﻓ ﺓﺪﻘﻌﻣ ﻕﺎﺒﻃﺃ ٤ ﺪﻋﺃ
+ﺭﺎﻜﺘﺑﻹ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﺔﻋﺎﺿﺇ ﻢﺘﻴﺳ .ﺔﻴﻧﺍﻮﻴﺣ
+ﺔﻴﻧﺍﻮﻴﺣ ﺕﺎﻧﻮﻜﻣ ﻡﺍﺪﺨﺘﺳﺍ .ﺕﺎﻬﻜﻨﻟﺍ ﻦﻣ ﺓﺪﻳﺮﻓ ﺔﻠﻴﻜﺸﺗ
+.ﻡﺎﻌﻄﻟﺍ ﻙﻼﻬﺘﺳﺍ ﺓﺩﺎﻳﺯ ﻰﻟﺇ ﻱﺩﺆﻴﺳ ﻂﻘﻓ</CookMealLavishBulk_Meat.description>
+  
+  <CookMealLavishBulk_Meat.jobString>.ﺔﻌﺋﺍﺭ ﻡﻮﺤﻟ ﻕﺎﺒﻃﺃ ﺔﻌﺑﺭﺃ ﺩﺍﺪﻋﺈﺑ ﻡﻮﻘﻳ</CookMealLavishBulk_Meat.jobString>
+  
+  
+  <CookMealLavishBulk_Veg.label>x4 ﺔﻌﺋﺍﺭ ﺔﻴﺗﺎﺒﻧ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ</CookMealLavishBulk_Veg.label>
+  
+  <CookMealLavishBulk_Veg.description>ﻦﻣ ﺓﺮﺧﺎﻓﻭ ﺓﺪﻘﻌﻣ ﺕﺎﺒﺟﻭ 4 ﺩﺍﺪﻋﺈﺑ ﻢﻗ
+ﻑﻮﺳ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺮﻴﺒﻛ ﺀﺰﺟ .ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ
+ﻡﺍﺪﺨﺘﺳﺍ .ﺓﺪﻳﺮﻓ ﻢﻌﻃ ﺔﻠﻴﻜﺸﺗ ﻦﻳﻮﻜﺘﻟ ﻪﺘﻋﺎﺿﺇ ﻢﺘﻳ
+.ﺕﺎﺠﺘﻨﻤﻟﺍ ﻙﻼﻬﺘﺳﺍ ﻦﻣ ﺪﻳﺰﻴﺳ ﻂﻘﻓ ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ</CookMealLavishBulk_Veg.description>
+  
+  <CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>ﺔﻴﺗﺎﺒﻨﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ</CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>
+  
+  <CookMealLavishBulk_Veg.jobString>ﺔﻌﺋﺍﺭ ﺔﻴﺗﺎﺒﻧ ﻕﺎﺒﻃﺃ 4 ﺩﺍﺪﻋﺈﺑ ﻡﻮﻘﻳ</CookMealLavishBulk_Veg.jobString>
+  
+  
+  <CookMealSimple.label>ﺔﻄﻴﺴﺑ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ</CookMealSimple.label>
+  
+  <CookMealSimple.description>ﻭﺃ ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻄﻴﺴﺑ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ
+.ﺔﻴﻧﺍﻮﻴﺣ</CookMealSimple.description>
+  
+  <CookMealSimple.jobString>ﺎﻄﻴﺴﺑ ﺎﻘﺒﻃ ﺮﻀﺤﻳ</CookMealSimple.jobString>
+  
+  
+  <CookMealSimpleBulk.label>x4 ﺔﻄﻴﺴﺑ ﺔﺒﺟﻭ ﺮﻴﻀﺤﺗ</CookMealSimpleBulk.label>
+  
+  <CookMealSimpleBulk.description>ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺔﻠﻬﺳ ﺕﺎﺒﺟﻭ 4 ﺪﻋﺍ
+.ﺔﻴﻧﺍﻮﻴﺣ ﻭﺃ</CookMealSimpleBulk.description>
+  
+  <CookMealSimpleBulk.jobString>ﺔﻄﻴﺴﺑ ﺕﺎﺒﺟﻭ 4 ﺮﻀﺤﻳ</CookMealSimpleBulk.jobString>
+  
+  
+  <CookMealSurvival.label>ﺔﻓﺎﺠﻟﺍ ﺔﺒﺟﻮﻟﺍ ﺮﻴﻀﺤﺗ ﺪﻋﺍ</CookMealSurvival.label>
+  
+  <CookMealSurvival.description>ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ ﻦﻣ ﺔﻣﻮﺘﺨﻣ ﺔﻓﺎﺟ ﺔﺒﺟﻭ ﺩﺍﺪﻋﺇ
+ﺀﺎﻨﺛﺃ ﺍﺭﺪﻫ ﺐﻫﺬﻴﺳ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﺀﺰﺟ .ﺔﻴﻧﺍﻮﻴﺣﻭ
+.ﺔﺌﺒﻌﺘﻟﺍ</CookMealSurvival.description>
+  
+  <CookMealSurvival.ingredients.0.filter.customSummary>ﻦﻴﺗﻭﺮﺑ ﻰﻠﻋ ﻱﻮﺘﺤﻳ</CookMealSurvival.ingredients.0.filter.customSummary>
+  
+  <CookMealSurvival.jobString>ﻕﺎﻴﺒﺨﺳ ﺮﻀﺤﻳ</CookMealSurvival.jobString>
+  
+  
+  <CookMealSurvivalBulk.label>.ﺔﻓﺎﺠﻟﺍ ﻚﻴﻳﺎﺑﻮﺴﻟﺍ ﻦﻣ ﺺﺼﺣ 4 ﺩﺍﺪﻋﺇ</CookMealSurvivalBulk.label>
+  
+  <CookMealSurvivalBulk.description>ﺔﻣﻮﺘﺨﻤﻟﺍ ﺔﻓﺎﺠﻟﺍ ﺮﺋﺎﻄﻓ ﻦﻣ ﺺﺼﺣ 4 ﺩﺍﺪﻋﺇ
+ﺀﺰﺟ ﺭﺍﺪﻫﺇ ﻢﺘﻳ .ﺔﻴﻧﺍﻮﻴﺣﻭ ﺔﻴﺗﺎﺒﻧ ﺕﺎﻧﻮﻜﻣ ﻦﻣ
+.ﺐﻴﻠﻌﺘﻟﺍ ﺀﺎﻨﺛﺃ ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ</CookMealSurvivalBulk.description>
+  
+  <CookMealSurvivalBulk.ingredients.0.filter.customSummary>ﻦﻴﺗﻭﺮﺑ ﻰﻠﻋ ﻱﻮﺘﺤﻳ</CookMealSurvivalBulk.ingredients.0.filter.customSummary>
+  
+  <CookMealSurvivalBulk.jobString>.ﻑﺎﺠﻟﺍ ﻚﻌﻜﻟﺍ ﻦﻣ ﻊﻄﻗ 4 ﺮﻴﻀﺤﺘﺑ ﻡﻮﻘﻳ</CookMealSurvivalBulk.jobString>
+  
+</LanguageData>

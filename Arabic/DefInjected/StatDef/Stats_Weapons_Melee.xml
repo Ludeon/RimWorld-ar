@@ -1,0 +1,38 @@
+<LanguageData>
+  
+  
+  <BluntDamageMultiplier.label>ﻱﻮﻗ ﺭﺮﺿ</BluntDamageMultiplier.label>
+  
+  <BluntDamageMultiplier.description>ﺎﻬﺑ ﺐﺒﺴﺘﻴﺳ ﻲﺘﻟﺍ ﺔﻳﺮﻴﺴﻜﺘﻟﺍ ﺕﺎﺑﺮﻀﻠﻟ ﺭﺮﻀﻟﺍ ﻞﻣﺎﻌﻣ
+.ﺓﺩﺎﻤﻟﺍ ﺍﺬﻫ ﻦﻣ ﻉﻮﻨﺼﻤﻟﺍ ﺮﺼﻨﻌﻟﺍ</BluntDamageMultiplier.description>
+  
+  
+  <MeleeWeapon_AverageArmorPenetration.label>ﺓﺮﺷﺎﺒﻤﻟﺍ ﺔﺑﺮﻀﻟﺍ ﺓﻮﻗ ﺕﺯﺰﻋ</MeleeWeapon_AverageArmorPenetration.label>
+  
+  <MeleeWeapon_AverageArmorPenetration.description>ﺔﺒﻳﺮﻘﻟﺍ ﻙﺭﺎﻌﻤﻟﺍ ﻲﻓ ﻉﻭﺭﺪﻟﺍ ﻕﺍﺮﺘﺧﺍ ﺓﻮﻗ ﻂﺳﻮﺘﻣ</MeleeWeapon_AverageArmorPenetration.description>
+  
+  
+  <MeleeWeapon_AverageDPS.label>ﺔﻴﻧﺎﺜﻟﺍ ﻲﻓ ﻱﺪﺴﺠﻟﺍ ﺭﺮﻀﻟﺍ</MeleeWeapon_AverageDPS.label>
+  
+  <MeleeWeapon_AverageDPS.description>،ﺔﺒﻳﺮﻘﻟﺍ ﻙﺭﺎﻌﻤﻟﺍ ﻲﻓ ﺔﻴﻧﺎﺜﻟﺍ ﻲﻓ ﻂﺳﻮﺘﻤﻟﺍ ﺭﺮﻀﻟﺍ
+.ﺕﺎﺑﺮﻀﻟﺍ ﻞﻛ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻢﺘﻳ ﻥﺃ ﻁﺮﺷ</MeleeWeapon_AverageDPS.description>
+  
+  
+  <MeleeWeapon_CooldownMultiplier.label>ﺕﺎﺑﺮﻀﻟﺍ ﻦﻴﺑ ﻲﻨﻣﺰﻟﺍ ﻞﺻﺎﻔﻟﺍ</MeleeWeapon_CooldownMultiplier.label>
+  
+  <MeleeWeapon_CooldownMultiplier.description>ﺔﺒﻳﺮﻗ ﻝﺎﺘﻗ ﺔﺑﺮﺿ ﻪﻴﺟﻮﺘﻟ ﺏﻮﻠﻄﻤﻟﺍ ﺖﻗﻮﻠﻟ ﻒﻋﺎﻀﻣ
+.ﺔﻴﻟﺎﺘﻟﺍ</MeleeWeapon_CooldownMultiplier.description>
+  
+  
+  <MeleeWeapon_DamageMultiplier.label>ﻯﺪﻤﻟﺍ ﺐﻳﺮﻗ ﺭﺮﺿ</MeleeWeapon_DamageMultiplier.label>
+  
+  <MeleeWeapon_DamageMultiplier.description>ﺔﻬﺟﺍﻮﻤﻟﺍ ﻲﻓ ﺡﻼﺴﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﺪﻨﻋ ﺭﺮﻀﻟﺍ ﻒﻋﺎﻀﻣ
+.ﺓﺮﺷﺎﺒﻤﻟﺍ</MeleeWeapon_DamageMultiplier.description>
+  
+  
+  <SharpDamageMultiplier.label>ﺡﺭﺎﺠﻟﺍ ﺭﺮﻀﻟﺍ</SharpDamageMultiplier.label>
+  
+  <SharpDamageMultiplier.description>ﺐﺒﺴﺘﺘﺳ ﻲﺘﻟﺍ ﺔﻴﺴﻴﻃﺎﻨﻐﻤﻟﺍﻭ ﺔﻌﻃﺎﻘﻟﺍ ﺕﺎﻤﺠﻬﻠﻟ ﺭﺮﻀﻟﺍ ﻒﻋﺎﻀﻣ
+.ﺓﺩﺎﻤﻟﺍ ﻩﺬﻫ ﻦﻣ ﻉﻮﻨﺼﻤﻟﺍ ﺮﺼﻨﻌﻟﺍ ﺎﻬﺑ</SharpDamageMultiplier.description>
+  
+</LanguageData>

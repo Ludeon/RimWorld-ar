@@ -1,0 +1,33 @@
+<LanguageData>
+  
+  
+  <AttemptRecruit.label>ﺪﻴﻨﺠﺗ</AttemptRecruit.label>
+  
+  <AttemptRecruit.description>ﺮﻴﺳﻷﺍ ﻡﻭﺎﻗ ﺍﺫﺇ .ﺮﻴﺳﻷﺍ ﺏﺎﻄﻘﺘﺳﺍ ﻥﻮﻓﺮﺸﻤﻟﺍ ﻝﻭﺎﺤﻴﺳ
+ﻝﻼﺧ ﻦﻣ ﻩﺍﻮﺘﺴﻣ ﺾﻴﻔﺨﺘﺑ ﻥﻮﻓﺮﺸﻤﻟﺍ ﻡﻮﻘﻴﺳ ،ﺎﻴﺴﻔﻧ
+.ﻪﺘﺛﺩﺎﺤﻣ</AttemptRecruit.description>
+  
+  
+  <Execution.label>ﻡﺍﺪﻋﺇ</Execution.label>
+  
+  <Execution.description>ﺮﺛﺆﻳ ﺪﻗ .ﻪﺗﺮﺠﻨﺣ ﻊﻄﻘﺑ ﺮﻴﺳﻷﺍ ﻞﺘﻘﻳ ﺮﻇﺎﻨﻟﺍ
+.ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍﻭ ﻦﻳﺮﺧﻵﺍ ﻯﺮﺳﻷﺍ ﺝﺍﺰﻣ ﻰﻠﻋ ﺍﺬﻫ</Execution.description>
+  
+  
+  <NoInteraction.label>ﻞﺻﺍﻮﺘﻟﺍ ﻡﺪﻋ</NoInteraction.label>
+  
+  <NoInteraction.description>.ﺮﻴﺳﻷﺍ ﻊﻣ ﺍﻮﻠﻋﺎﻔﺘﻳ ﻦﻟ ﻥﻮﺒﻗﺍﺮﻤﻟﺍ</NoInteraction.description>
+  
+  
+  <ReduceResistance.label>ﺔﻣﻭﺎﻘﻤﻟﺍ ﻒﻌﺿ</ReduceResistance.label>
+  
+  <ReduceResistance.description>،ﺍﺪﺟ ﺎﻌﻔﺗﺮﻣ ﺮﻴﺳﻷﺍ ﺔﻣﻭﺎﻘﻣ ﻯﻮﺘﺴﻣ ﻥﺎﻛ ﺍﺫﺇ
+،ﻪﻀﻴﻔﺨﺘﻟ ﺚﻳﺪﺤﻟﺍ ﻰﻟﺇ ﻥﻭﺆﺠﻠﻴﺳﻭ ﻚﻟﺫ ﺱﺍﺮﺤﻟﺍ ﺐﻗﺍﺮﻴﺳ
+.ﻪﺑﺎﻄﻘﺘﺳﺍ ﺔﻟﻭﺎﺤﻣ ﻥﻭﺩ</ReduceResistance.description>
+  
+  
+  <Release.label>ﻕﻼﻃﺇ</Release.label>
+  
+  <Release.description>.ﻦﻴﺠﺴﻟﺍ ﺡﺍﺮﺳ ﻖﻠﻄﻴﺳ ﻑﺮﺸﻤﻟﺍ</Release.description>
+  
+</LanguageData>

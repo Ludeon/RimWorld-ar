@@ -1,0 +1,44 @@
+<LanguageData>
+  
+  
+  <AcceptedDeserter.label>ﺏﺭﺎﻬﻟﺍ ﻝﻮﺒﻗ ﻢﺗ</AcceptedDeserter.label>
+  
+  
+  <FailedToKeepLodgersHappy.label>ﻦﻴﺒﺿﺎﻏ ﺍﻮﻧﺎﻛ ﻑﻮﻴﻀﻟﺍ</FailedToKeepLodgersHappy.label>
+  
+  
+  <MemberMissedShuttle.label>ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻣ ﺔﻗﺮﻔﻟﺍ ﻮﻀﻋ ﻦﻜﻤﺘﻳ ﻢﻟ
+ﺔﻴﺋﺎﻀﻔﻟﺍ ﺔﺒﻛﺮﻤﻟﺍ</MemberMissedShuttle.label>
+  
+  
+  <MonumentConstructionExpired.label>ﻱﺭﺎﻛﺬﺘﻟﺍ ﺐﺼﻨﻟﺍ ﺀﺎﻨﺑ ﺓﺪﻣ ﺖﻬﺘﻧﺍ</MonumentConstructionExpired.label>
+  
+  
+  <MonumentConstructionMapRemoved.label>.ﻢﻠﻌﻤﻟﺍ ﺀﺎﻨﺑ ﺀﺎﻐﻟﺇ ﻢﺗ</MonumentConstructionMapRemoved.label>
+  
+  
+  <MonumentDestroyed.label>ﺐﺼﻨﻟﺍ ﺮﻴﻣﺪﺗ ﻢﺗ</MonumentDestroyed.label>
+  
+  
+  <QuestGoodwillReward.label>ﺔﻤﻬﻤﻟﺍ ﺯﺎﺠﻧﺇ ﻢﺗ</QuestGoodwillReward.label>
+  
+  
+  <QuestPawnArrested.label>.ﺮﺳﻷﺍ ﻲﻓ ﺮﺳﺃ ﺔﻗﺮﻔﻟﺍ ﻮﻀﻋ</QuestPawnArrested.label>
+  
+  
+  <QuestPawnLost.label>ﺭﺎﺒﺧﺃ ﻱﺃ ﻥﻭﺪﺑ ﻞﻴﺼﻔﻟﺍ ﻮﻀﻋ ﻰﻔﺘﺧﺍ</QuestPawnLost.label>
+  
+  
+  <QuestPrisonerEnslaved.label>ﺔﻳﺩﻮﺒﻋ ﻰﻟﺇ ﻝﻮﺤﺗ ﺮﻴﺳﺃ</QuestPrisonerEnslaved.label>
+  
+  
+  <QuestPrisonerRecruited.label>ﺪﻨﺠﺗ ﺮﻴﺳﺃ</QuestPrisonerRecruited.label>
+  
+  
+  <ShuttleCommanderMissedShuttle.label>ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻣ ﻢﻗﺎﻄﻟﺍ ﺪﺋﺎﻗ ﻦﻜﻤﺘﻳ ﻢﻟ
+.ﺔﻴﺋﺎﻀﻔﻟﺍ ﺔﺒﻛﺮﻤﻟﺍ</ShuttleCommanderMissedShuttle.label>
+  
+  
+  <ShuttleGuardsMissedShuttle.label>.ﻕﺭﻭﺰﻟﺎﺑ ﻞﺼﻳ ﻢﻟ ﺔﺳﺍﺮﺤﻟﺍ ﻖﻳﺮﻓ</ShuttleGuardsMissedShuttle.label>
+  
+</LanguageData>

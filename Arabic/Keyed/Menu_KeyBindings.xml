@@ -1,0 +1,24 @@
+<LanguageData>
+
+  
+  <SaveButton>ﻆﻔﺣ</SaveButton>
+  
+  <ClearBinding>ﺮﻴﻬﻄﺗ</ClearBinding>
+  
+  <ResetBinding>ﻞﺻﻷﺍ ﻦﻣ ﻮﻫ ﺎﻤﻛ</ResetBinding>
+  
+  <BindingButtonToolTip>ﻰﻠﻋ ﻂﻐﺿﺍ ﻢﺛ ﺓﺭﺄﻔﻠﻟ ﺮﺴﻳﻷﺍ ﺭﺰﻟﺍ ﻂﻐﺿﺍ
+ﺀﺍﺮﺟﻹﺍ ﺍﺬﻫ ﻦﻴﻴﻌﺗ ﻲﻓ ﺐﻏﺮﺗ ﻱﺬﻟﺍ ﺡﺎﺘﻔﻤﻟﺍ
+.ﻦﻤﻳﻷﺍ ﺓﺭﺄﻔﻟﺍ ﺭﺰﺑ ﻂﻐﺿﺍ ،ﺕﺍﺭﺎﻴﺨﻟﺍ ﺪﻳﺪﺤﺘﻟ .ﻪﻟ</BindingButtonToolTip>
+  
+  <BindingButtonToolTipController>ﻂﻐﺿﺍ .ﺀﺍﺮﺟﻹﺍ ﺍﺬﻫ ﻦﻴﻴﻌﺘﻟ ﺭﺰﻟﺍ ﻰﻠﻋ ﻂﻐﺿﺍ
+.ﺕﺍﺭﺎﻴﺨﻟﺍ ﺪﻳﺪﺤﺘﻟ ﺮﺴﻳﻷﺍ ﺩﺎﻧﺰﻟﺍ ﻰﻠﻋ</BindingButtonToolTipController>
+  
+  <PressAnyKeyOrEsc>ﻰﻠﻋ ﻂﻐﺿﺍ ﻭﺃ ﺡﺎﺘﻔﻣ ﻱﺃ ﻰﻠﻋ ﻂﻐﺿﺍ
+...ﺀﺎﻐﻟﻺﻟ ESC</PressAnyKeyOrEsc>
+  
+  <PressAnyKeyOrEscController>...ﺮﻣﻷﺍ ﺀﺎﻐﻟﻹ {ﺀﺎﻐﻟﺇ:Key} ﻭﺃ ﺭﺯ ﻱﺃ ﻂﻐﺿﺍ</PressAnyKeyOrEscController>
+  
+  <KeyBindingOverwritten>{0} :ﺀﺍﺮﺟﻹﺎﺑ ﻂﺒﺗﺮﻤﻟﺍ ﺡﺎﺘﻔﻤﻟﺍ ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ ﺖﻤﺗ</KeyBindingOverwritten>
+  
+</LanguageData>

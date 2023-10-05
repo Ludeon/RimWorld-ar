@@ -1,0 +1,164 @@
+<LanguageData>
+  
+  
+  <BiofuelRefinery.label>ﻞﻘﻧ ﺯﺎﻬﺟ</BiofuelRefinery.label>
+  
+  <BiofuelRefinery.description>ﻭﺃ ﺏﺎﺸﺧﻷﺍ ﻦﻣ ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻭ ﺹﻼﺨﺘﺳﻻ ﻡﺪﺨﺘﺴﻳ
+.ﺔﻴﺗﺎﺒﻨﻟﺍ ﺩﺍﻮﻤﻟﺍ</BiofuelRefinery.description>
+  
+  
+  <Brewery.label>ﺔﻌﺠﻟﺍ ﻊﻨﺼﻣ</Brewery.label>
+  
+  <Brewery.description>ﺮﻴﻀﺤﺘﻟ ﻡﺰﻠﻳ ﺎﻣ ﻞﻜﺑ ﺰﻬﺠﻣ ﻞﻤﻋ ﺢﻄﺳ
+ﺮﻴﻤﺨﺗ ﺐﺠﻳ ، ﺓﺮﻴﺒﻟﺍ ﺝﺎﺘﻧﻹ .ﺓﺮﻴﺒﻟﺍ ﻂﻴﻠﺧ
+.ﺔﺻﺎﺧ ﻞﻴﻣﺍﺮﺑ ﻲﻓ ﻂﻴﻠﺨﻟﺍ</Brewery.description>
+  
+  
+  <ButcherSpot.label>ﺚﺜﺠﻟﺍ ﺔﺋﺰﺠﺗ ﻥﺎﻜﻣ</ButcherSpot.label>
+  
+  <ButcherSpot.description>ﻂﻘﻓ ﺢﻤﺴﻳ .ﻢﺤﻠﻟﺍ ﺔﺋﺰﺠﺘﻟ ﺰﻬﺠﻣ ﺮﻴﻏ ﻥﺎﻜﻣ
+ﺪﻠﺠﻟﺍﻭ ﻢﺤﻠﻟﺍ ﻦﻣ ﻂﻘﻓ ٪70 ﻰﻠﻋ ﻝﻮﺼﺤﻟﺎﺑ
+.ﺃﺰﺠﻤﻟﺍ ﻕﻮﻠﺨﻤﻟﺍ ﻦﻣ</ButcherSpot.description>
+  
+  
+  <CraftingSpot.label>ﻞﻤﻌﻟﺍ ﻥﺎﻜﻣ</CraftingSpot.label>
+  
+  <CraftingSpot.description>.ﺱﺍﻮﻗﻷﺍﻭ ﻦﻴﻛﺎﻜﺴﻟﺍ ﻞﺜﻣ ﺔﻄﻴﺴﺒﻟﺍ ﺀﺎﻴﺷﻷﺍ ﻊﻨﺼﻟ ﻥﺎﻜﻣ
+ﻞﻤﻌﻟﺍ ﺔﻴﺟﺎﺘﻧﺇ ﻥﺈﻓ ، ﺕﺍﻭﺩﻷﺍ ﺺﻘﻧ ﺐﺒﺴﺑ
+.ﺔﻀﻔﺨﻨﻣ ﻖﻃﺎﻨﻤﻟﺍ ﻩﺬﻫ ﻲﻓ</CraftingSpot.description>
+  
+  
+  <DeepDrill.label>ﺔﻴﻓﺎﺸﻜﺘﺳﻻﺍ ﺮﻔﺤﻟﺍ</DeepDrill.label>
+  
+  <DeepDrill.description>ﺔﻨﻴﻤﺜﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﻻ ﻡﺪﺨﺘﺴﻳ ،ﺮﻔﺣ ﺕﺍﺪﻌﻣ ﻊﻤﺠﻣ
+ﻡﺍﺪﺨﺘﺳﺍ ﺐﺠﻳ ،ﺐﺳﺍﻭﺮﻟﺍ ﻑﺎﺸﺘﻛﻻ .ﺽﺭﻷﺍ ﻦﻃﺎﺑ ﻦﻣ
+ﺩﺭﺍﻮﻣ ﺩﻮﺟﻭ ﻡﺪﻋ ﺔﻟﺎﺣ ﻲﻓ .ﻖﻴﻤﻋ ﺢﺳﺎﻣ
+ﻦﻣ ﺎﻬﻠﻘﻧ ﻦﻜﻤﻳ .ﺭﻮﺨﺼﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ ﻢﺘﻳ ،ﺔﻨﻴﻤﺛ
+.ﺮﺧﺁ ﻰﻟﺇ ﻊﻗﻮﻣ</DeepDrill.description>
+  
+  
+  <DrugLab.label>ﻲﺋﺎﻴﻤﻴﻛ ﺮﺒﺘﺨﻣ</DrugLab.label>
+  
+  <DrugLab.description>ﺕﺎﻨﺨﺴﻤﻟﺍﻭ ﺕﺎﻳﻭﺎﺤﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺘﻣ ﺔﻋﻮﻤﺠﻤﺑ ﻞﻤﻋ ﺔﻟﻭﺎﻃ
+.ﺕﺍﺭﺪﺨﻤﻟﺍﻭ ﺕﺍﺮﻀﺤﺘﺴﻤﻟﺍ ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﻉﺍﻮﻧﺃ ﺩﺍﺪﻋﻹ ﺲﻴﻳﺎﻘﻤﻟﺍﻭ</DrugLab.description>
+  
+  
+  <ElectricCrematorium.label>ﻲﺋﺎﺑﺮﻬﻜﻟﺍ ﻕﺮﺤﻟﺍ</ElectricCrematorium.label>
+  
+  <ElectricCrematorium.description>ﺮﻴﻐﻟﺍ ﺀﺎﻴﺷﻷﺍﻭ ﺚﺜﺠﻟﺍ ﻕﺮﺤﻟ ﺔﻳﺮﺠﺣ ﺔﻴﺋﺎﺑﺮﻬﻛ ﺔﻗﺮﺤﻣ
+.ﺎﻬﻴﻓ ﺏﻮﻏﺮﻣ</ElectricCrematorium.description>
+  
+  
+  <ElectricSmelter.label>ﻲﺋﺎﺑﺮﻬﻛ ﺮﻬﺼﻣ</ElectricSmelter.label>
+  
+  <ElectricSmelter.description>ﺀﺎﻴﺷﻷﺍﻭ ﺔﻴﻧﺪﻌﻤﻟﺍ ﺓﺩﺮﺨﻟﺍ ﻊﻄﻗ ﻦﻣ ﻥﺪﻌﻤﻟﺍ ﺝﺮﺨﺘﺴﻳ
+ﻚﻠﻬﺘﺴﻳ .ﻥﺪﻌﻣ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﺪﻗ ﻲﺘﻟﺍ ﻯﺮﺧﻷﺍ
+.ﺔﻗﺎﻄﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ</ElectricSmelter.description>
+  
+  
+  <ElectricSmithy.label>ﻲﺋﺎﺑﺮﻬﻜﻟﺍ ﺮﻬﺼﻤﻟﺍ</ElectricSmithy.label>
+  
+  <ElectricSmithy.description>ﺔﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﺮﻴﻏ ﺔﺤﻠﺳﻷﺍ ﻊﻴﻨﺼﺘﻟ ﺀﺎﺑﺮﻬﻜﻟﺎﺑ ﺓﺩﻭﺰﻣ ﻥﺍﺮﻓﺃ
+.ﺕﺍﻭﺩﻷﺍﻭ</ElectricSmithy.description>
+  
+  
+  <ElectricStove.label>ﻲﺋﺎﺑﺮﻬﻜﻟﺍ ﺪﻗﻮﻤﻟﺍ</ElectricStove.label>
+  
+  <ElectricStove.description>.ﺀﺎﺑﺮﻬﻜﻟﺎﺑ ﻞﻤﻌﻳ ﺪﻗﻮﻣ ﻊﻣ ﻡﺎﻌﻄﻟﺍ ﺩﺍﺪﻋﻹ ﺔﻟﻭﺎﻃ</ElectricStove.description>
+  
+  
+  <ElectricTailoringBench.label>ﺔﻃﺎﻴﺧ ﺔﻟﺍ</ElectricTailoringBench.label>
+  
+  <ElectricTailoringBench.description>ﻞﻜﺸﺑ ﺲﺑﻼﻤﻟﺍ ﺔﻃﺎﻴﺨﻟ ﺔﻨﻴﻛﺎﻤﺑ ﺓﺰﻬﺠﻣ ﺔﻃﺎﻴﺧ ﺔﻄﺤﻣ
+٪50 ﺓﺀﺎﻔﻜﺑ ﺀﺎﺑﺮﻬﻛ ﻥﻭﺪﺑ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ .ﻊﻳﺮﺳ
+.ﺔﻳﺩﺎﻌﻟﺍ ﻦﻣ</ElectricTailoringBench.description>
+  
+  
+  <FabricationBench.label>ﺔﻗﺪﻟﺍ ﺔﻴﻟﺎﻋ ﺔﻘﻴﻗﺪﻟﺍ ﺔﻨﻴﻛﺎﻤﻟﺍ</FabricationBench.label>
+  
+  <FabricationBench.description>ﺔﻋﻮﻨﺘﻣ ﺔﻋﻮﻤﺠﻣ ﻊﻴﻤﺠﺘﻟ ﺔﻣﺪﻘﺘﻣ ﺕﺍﻭﺩﺄﺑ ﺓﺰﻬﺠﻣ ﺔﻟﺁ
+.ﻂﺴﺑﺃ ﺩﺍﻮﻣ ﻦﻣ "ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﺐﺋﺎﺠﻋ" ﻦﻣ</FabricationBench.description>
+  
+  
+  <FermentingBarrel.label>ﺮﻴﻤﺨﺘﻟﺍ ﻞﻴﻣﺮﺑ</FermentingBarrel.label>
+  
+  <FermentingBarrel.description>ﻖﻳﺮﻃ ﻦﻋ ﺮﻴﻌﺸﻟﺍ ﻦﻣ ﺓﺮﻴﺒﻟﺍ ﺝﺎﺘﻧﻹ ﻞﻴﻣﺮﺑ
+.ﺮﻴﻤﺨﺘﻟﺍ</FermentingBarrel.description>
+  
+  
+  <FueledSmithy.label>ﻱﺩﻮﻗﻮﻟﺍ ﺮﻬﺼﻤﻟﺍ</FueledSmithy.label>
+  
+  <FueledSmithy.description>.ﺔﻴﻜﻴﻧﺎﻜﻴﻣ ﺮﻴﻏ ﺕﺍﻭﺩﺃﻭ ﺔﺤﻠﺳﺃ ﻊﻨﺼﻟ ﻞﻤﻋ ﺔﺷﺭﻭ
+.ﺩﻮﻗﻮﻛ ﺐﺸﺧ ﻰﻟﺇ ﺔﺟﺎﺤﺑ</FueledSmithy.description>
+  
+  
+  <FueledStove.label>ﺐﻠﺼﻟﺍ ﺩﻮﻗﻮﻟﺍ ﺪﻗﻮﻣ</FueledStove.label>
+  
+  <FueledStove.description>ﺐﻄﺣ ﺪﻗﻮﻤﺑ ﺓﺰﻬﺠﻣ ﻡﺎﻌﻄﻟﺍ ﺩﺍﺪﻋﻹ ﺔﻟﻭﺎﻃ</FueledStove.description>
+  
+  
+  <HandTailoringBench.label>ﻁﺎﻴﺧ ﺔﻟﻭﺎﻃ</HandTailoringBench.label>
+  
+  <HandTailoringBench.description>٪50 ﺓﺀﺎﻔﻜﺑ ﻞﻤﻌﺗ .ﺔﻳﻭﺪﻴﻟﺍ ﺲﺑﻼﻤﻟﺍ ﺔﻃﺎﻴﺨﻟ ﺔﻟﻭﺎﻃ
+.ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺎﺑ ﺔﻧﺭﺎﻘﻣ</HandTailoringBench.description>
+  
+  
+  <HiTechResearchBench.label>ﺙﻮﺤﺒﻠﻟ ﺓﺭﻮﻄﺘﻤﻟﺍ ﺔﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﺔﻟﻭﺎﻄﻟﺍ</HiTechResearchBench.label>
+  
+  <HiTechResearchBench.description>ﺕﺍﻭﺩﺃﻭ ﺮﺗﻮﻴﺒﻤﻜﻟﺍ ﺓﺰﻬﺟﺄﺑ ﺓﺰﻬﺠﻣ ،ﺔﻴﻤﻠﻌﻟﺍ ﺙﺎﺤﺑﻸﻟ ﺔﻟﻭﺎﻃ
+ﻞﻜﺸﺑ ﺙﺎﺤﺑﻷﺍ ﺀﺍﺮﺟﺇ ﻦﻣ ﻦﻜﻤﺗ .ﺔﻴﻧﻭﺮﺘﻜﻟﻹﺍ ﺱﺎﻴﻘﻟﺍ
+.ﺀﺎﺑﺮﻬﻜﻟﺍ ﺐﻠﻄﺘﻳ .ﻉﺮﺳﺃ</HiTechResearchBench.description>
+  
+  
+  <Hopper.label>ﺔﻴﻠﻴﻤﺤﺘﻟﺍ ﺓﺪﻋﺎﻘﻟﺍ</Hopper.label>
+  
+  <Hopper.description>.ﺔﻔﻠﺘﺨﻤﻟﺍ ﺕﺍﻭﺩﻷﺍ ﻲﻓ ﺎﻬﻠﻴﻤﺤﺘﻟ ﺩﺭﺍﻮﻤﻟﺍ ﻊﻴﻤﺠﺘﺑ ﺢﻤﺴﻳ
+.ﺔﻨﻴﺠﻌﻟﺍ ﻉﺯﻮﻣ ﻲﻓ ، ﻝﺎﺜﻤﻟﺍ ﻞﻴﺒﺳ ﻰﻠﻋ</Hopper.description>
+  
+  
+  <HydroponicsBasin.label>ﺔﻴﺋﺎﻤﻟﺍ ﺔﻋﺭﺰﻤﻟﺍ</HydroponicsBasin.label>
+  
+  <HydroponicsBasin.description>ﺔﻴﺋﺍﺬﻏ ﺔﺌﻴﺑ ﻲﻓ ﺔﻋﺮﺴﺑ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺔﻋﺍﺭﺰﺑ ﺢﻤﺴﺗ
+ﺕﻮﻤﺘﺳ ﺕﺎﺗﺎﺒﻨﻟﺍ ؛ﺔﻴﺋﺎﺑﺮﻬﻛ ﺔﻗﺎﻃ ﻰﻟﺇ ﺝﺎﺘﺤﺗ .ﺔﻴﻋﺎﻨﻄﺻﺍ
+.ﺮﻓﻮﺘﺗ ﻢﻟ ﻥﺇ</HydroponicsBasin.description>
+  
+  
+  <NutrientPasteDispenser.label>ﻎﻤﺼﻟﺍ ﻉﺯﻮﻣ</NutrientPasteDispenser.label>
+  
+  <NutrientPasteDispenser.description>ﺔﻳﻮﻀﻌﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﻲﺋﺍﺬﻏ ﻥﻮﺠﻌﻣ ﺮﻴﻤﺨﺘﻟ ﺔﻟﺁ
+ﺖﻗﻭﻭ ﺕﺎﻧﻮﻜﻣ ﺐﻠﻄﺘﻳ .ﺓﺭﻭﺎﺠﻤﻟﺍ ﺐﻟﺍﻮﻘﻟﺍ ﻲﻓ ﺔﻋﻮﺿﻮﻤﻟﺍ
+ﻻ ﻦﻜﻟﻭ ، ﻡﺎﻌﻄﻟﺍ ﻲﻬﻃ ﻦﻣ ﻞﻗﺃ
+ﻑﺎﻴﻟﻷﺍ ﻊﻣ ﻞﻤﻌﻳ ﻻ .ﻥﻮﺠﻌﻤﻟﺍ ﺐﺤﻳ ﺪﺣﺃ
+.ﺶﻘﻟﺍ ﻞﺜﻣ ﺔﻨﺸﺨﻟﺍ ﺔﻴﺗﺎﺒﻨﻟﺍ</NutrientPasteDispenser.description>
+  
+  
+  <SimpleResearchBench.label>ﺚﺤﺒﻠﻟ ﺔﻄﻴﺴﺑ ﺔﻟﻭﺎﻃ</SimpleResearchBench.label>
+  
+  <SimpleResearchBench.description>ﻥﻮﺜﺣﺎﺒﻟﺍ ﻞﻤﻌﻳ ،ﺔﻄﻴﺴﺑ ﺕﺍﻭﺩﺄﺑ ﺔﻴﻤﻠﻌﻟﺍ ﺙﻮﺤﺒﻠﻟ ﺔﻟﻭﺎﻃ
+.ﺓﺪﻳﺪﺠﻟﺍ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻑﺎﺸﻜﺘﺳﺍ ﻰﻠﻋ ﺎﻬﻔﻠﺧ</SimpleResearchBench.description>
+  
+  
+  <TableButcher.label>ﻢﺤﻠﻟﺍ ﻊﻴﻄﻘﺗ ﺔﻟﻭﺎﻃ</TableButcher.label>
+  
+  <TableButcher.description>ﻊﻄﻗ ﻰﻟﺇ ﺔﺘﻴﻤﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﻢﻴﺴﻘﺘﻟ ﺔﻠﻴﻘﺛ ﺔﻟﻭﺎﻃ
+ﺔﻠﻬﺠﻤﻟﺍﻭ ﺔﺋﺎﻄﻌﻟﺍ ﺭﻮﺴﺠﻟﺍ .ﺪﻠﺠﻟﺍﻭ ﻡﺎﺨﻟﺍ ﻢﺤﻠﻟﺍ ﻦﻣ
+.ﺦﻴﺴﻔﺘﻠﻟ ﺔﺤﻟﺎﺻ ﺮﻴﻏ</TableButcher.description>
+  
+  
+  <TableMachining.label>ﻞﻤﻌﻟﺍ ﺓﺪﻀﻨﻣ</TableMachining.label>
+  
+  <TableMachining.description>ﺚﺜﺟ ﻚﻴﻜﻔﺗﻭ ﺔﻴﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﺓﺰﻬﺟﻷﺍ ﻊﻴﻤﺠﺘﻟ ﺕﺍﻭﺩﺃ ﺔﻟﻭﺎﻃ
+.ﻦﻴﻴﻟﻵﺍ</TableMachining.description>
+  
+  
+  <TableSculpting.label>ﻢﺳﺮﻟﺍ ﻲﻨﻓ ﺔﺷﺭﻭ</TableSculpting.label>
+  
+  <TableSculpting.description>.ﺔﻴﻨﻓ ﻝﺎﻤﻋﺃ ﺝﺎﺘﻧﻹ ﺓﺰﻬﺠﻣ ﺔﻟﻭﺎﻃ</TableSculpting.description>
+  
+  
+  <TableStonecutter.label>ﺮﺠﺤﻟﺍ ﻊﻄﻘﻟ ﺔﻟﻭﺎﻃ</TableStonecutter.label>
+  
+  <TableStonecutter.description>ﻰﻟﺇ ﺭﻮﺨﺼﻟﺍ ﺀﺍﺰﺟﺃ ﻊﻄﻘﻟ ﺰﻬﺠﻣ ﻞﻤﻋ ﺢﻄﺳ
+.ﺔﻳﺮﺠﺣ ﻞﺘﻛ</TableStonecutter.description>
+  
+</LanguageData>

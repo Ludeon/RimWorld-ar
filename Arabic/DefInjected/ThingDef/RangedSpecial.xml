@@ -1,0 +1,43 @@
+<LanguageData>
+  
+  
+  <OrbitalTargeterBombardment.label>ﻦﺤﺸﻟﺍ</OrbitalTargeterBombardment.label>
+  
+  <OrbitalTargeterBombardment.description>ﺔﻨﺤﺸﻟﺍ</OrbitalTargeterBombardment.description>
+  
+  <OrbitalTargeterBombardment.comps.CompReloadable.chargeNoun>ﺔﻨﺤﺷ</OrbitalTargeterBombardment.comps.CompReloadable.chargeNoun>
+  
+  <OrbitalTargeterBombardment.comps.CompReloadable.cooldownGerund>ﻪﻨﺤﺷ ﺪﻴﻌﻳ</OrbitalTargeterBombardment.comps.CompReloadable.cooldownGerund>
+  
+  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>ﺔﻗﺎﻄﻟﺍ ﻉﺎﻌﺸﻟ ﻪﻴﺟﻮﺗ ﺔﻣﻼﻋ</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
+  
+  
+  <OrbitalTargeterPowerBeam.label>ﻪﻠﻴﻤﺤﺗ ﺓﺩﺎﻋﺇ ﻢﺘﻳ</OrbitalTargeterPowerBeam.label>
+  
+  <OrbitalTargeterPowerBeam.description>ﺔﻣﺍﻭﺪﻟﺍ ﺮﺷﺆﻣ ﺽﺮﻋ</OrbitalTargeterPowerBeam.description>
+  
+  <OrbitalTargeterPowerBeam.comps.CompReloadable.chargeNoun>ﻱﻮﻘﻟﺍ ﻉﺎﻌﺸﻠﻟ ﻑﺪﻬﻟﺍ ﺮﺷﺆﻤﻟﺍ</OrbitalTargeterPowerBeam.comps.CompReloadable.chargeNoun>
+  
+  <OrbitalTargeterPowerBeam.comps.CompReloadable.cooldownGerund>ﻪﻨﺤﺷ ﺪﻴﻌﻳ</OrbitalTargeterPowerBeam.comps.CompReloadable.cooldownGerund>
+  
+  <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>ﻒﺼﻘﻠﻟ ﻑﺪﻬﻟﺍ ﺮﺷﺆﻣ</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
+  
+  
+  <TornadoGenerator.label>ﻒﺼﻘﻠﻟ ﻑﺪﻬﻟﺍ ﺮﺷﺆﻤﻟﺍ</TornadoGenerator.label>
+  
+  <TornadoGenerator.description>ﻢﻜﺤﺘﻠﻟ ﺔﻴﻋﺎﻨﺼﻟﺍ ﺭﺎﻤﻗﻷﺍ ﺔﻜﺒﺷ ﻂﺒﻀﻟ ﺔﻤﻳﺪﻘﻟﺍ ﺔﻠﺘﻜﻟﺍ
+ﺍﺬﻫ ﻲﻓ ﺔﻣﻼﺴﻟﺍ ﺔﻴﻟﺁ ﻕﺍﺮﺘﺧﺍ ﻢﺗ .ﺲﻘﻄﻟﺎﺑ
+ﻲﻓ ﺔﻴﺋﺍﻮﻫ ﺔﻔﺻﺎﻋ ﺙﺍﺪﺣﺇ ﻦﻜﻤﻳ ﻪﻣﺍﺪﺨﺘﺳﺎﺑﻭ ،ﺯﺎﻬﺠﻟﺍ
+.ﺮﻴﻄﺧ ﺭﺎﺼﻋﺇ ﻥﻮﻜﺗ ﻰﻟﺇ ﻱﺩﺆﺗ ﺓﺩﺪﺤﻣ ﺔﻘﻄﻨﻣ
+ﺔﻟﻭﺎﺤﻣ ﻰﻠﻋ ﺔﻳﺮﻤﻘﻟﺍ ﺔﻜﺒﺸﻟﺍ ﻑﺮﻌﺘﺗ ،ﻡﺍﺪﺨﺘﺳﻻﺍ ﺪﻨﻋ
+ﻦﻟ ،ﻚﻟﺫ ﻊﻣﻭ .ﺯﺎﻬﺠﻟﺍ ﺮﻈﺤﺑ ﻡﻮﻘﺗﻭ ﻞﺧﺪﺘﻟﺍ
+ﺔﻘﻳﺮﻄﺑ ﻪﺘﻗﺎﻃ ﺪﻔﻨﺗ ﻰﺘﺣ ﺞﺗﺎﻨﻟﺍ ﺭﺎﺼﻋﻹﺍ ﻲﻔﺘﺨﻳ
+.ﺔﻴﻌﻴﺒﻃ</TornadoGenerator.description>
+  
+  <TornadoGenerator.comps.CompReloadable.chargeNoun>ﺔﻨﺤﺸﻟﺍ</TornadoGenerator.comps.CompReloadable.chargeNoun>
+  
+  <TornadoGenerator.comps.CompReloadable.cooldownGerund>ﻪﺴﻔﻧ ﻦﺤﺷ ﺪﻴﻌﻳ</TornadoGenerator.comps.CompReloadable.cooldownGerund>
+  
+  <TornadoGenerator.verbs.Verb_Spawn.label>ﺭﺎﺼﻋﻹﺍ ﺮﺷﺆﻣ</TornadoGenerator.verbs.Verb_Spawn.label>
+  
+</LanguageData>

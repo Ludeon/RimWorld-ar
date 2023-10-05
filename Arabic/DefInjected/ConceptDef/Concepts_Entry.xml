@@ -1,0 +1,15 @@
+<LanguageData>
+  
+  
+  <WorldCameraMovement.label>ﺔﻌﺟﺍﺮﻤﻟﺍﻭ ﻞﻘﻨﺘﻟﺍ</WorldCameraMovement.label>
+  
+  <WorldCameraMovement.helpText>ﺱﻭﺎﻤﻟﺍ ﺔﻠﺠﻋ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻄﻳﺮﺨﻟﺍ ﻢﺠﺣ ﺮﻴﻴﻐﺘﺑ ﻢﻗ
+ﺮﺒﻋ ﻙﺮﺤﺗ Key:MapZoom_Out}.\n\n} ﻭ {Key:MapZoom_In} ﺭﺍﺭﺯﻷﺍ ﻭﺃ
+ﺱﻭﺎﻤﻟﺍ ﻚﻳﺮﺤﺘﺑ ﻭﺃ {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} ﺭﺍﺭﺯﻷﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻄﻳﺮﺨﻟﺍ
+.ﺎﻃﻮﻐﻀﻣ ﻂﺳﻭﻷﺍ ﺭﺰﻟﺎﺑ</WorldCameraMovement.helpText>
+  
+  <WorldCameraMovement.helpTextController>{Key:MapZoom_In} ﺭﺍﺭﺯﻷﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻄﻳﺮﺨﻟﺍ ﺱﺎﻴﻘﻣ ﺮﻴﻴﻐﺘﺑ ﻢﻗ
+ﺔﻄﻳﺮﺨﻟﺍ ﺮﺒﻋ ﻞﻘﻨﺘﻟﺍ Key:MapZoom_Out}. \n \n} ﻭ
+.ﺲﻤﻠﻟﺎﺑ ﻞﻤﻌﺗ ﻲﺘﻟﺍ ﺔﺷﺎﺸﻟﺍ ﻭﺃ ﺐﻴﻠﺼﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ</WorldCameraMovement.helpTextController>
+  
+</LanguageData>

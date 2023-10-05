@@ -1,0 +1,150 @@
+<LanguageData>
+  
+  
+  <Lancer.label>ﻥﻻﻭﺃ</Lancer.label>
+  
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>ﺮﺴﻳﻷﺍ ﻱﺮﺼﺒﻟﺍ ﺮﻌﺸﺘﺴﻤﻟﺍ</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>ﻦﻤﻳﻷﺍ ﻲﺋﻮﻀﻟﺍ ﺮﻌﺸﺘﺴﻤﻟﺍ</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>ﺮﺴﻳﻷﺍ ﺕﻮﺼﻟﺍ ﺭﺎﻌﺸﺘﺳﺍ ﺯﺎﻬﺟ</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>ﻦﻤﻳﻷﺍ ﻲﺗﻮﺼﻟﺍ ﺮﻌﺸﺘﺴﻤﻟﺍ</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  
+  <Lancer.corePart.parts.left_mechanical_shoulder.customLabel>ﺮﺴﻳﻷﺍ ﻲﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﻒﺘﻜﻟﺍ</Lancer.corePart.parts.left_mechanical_shoulder.customLabel>
+  
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>
+  
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>.ﻯﺮﺴﻴﻟﺍ ﺪﻴﻠﻟ ﺮﺼﻨﺒﻟﺍ</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻠﻟ ﻰﻄﺳﻮﻟﺍ ﻊﺒﺻﻹﺍ</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﺑﺎﺒﺴﻟﺍ ﻊﺒﺻﻹﺍ</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>.ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ ﻡﺎﻬﺑﺇ</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  
+  <Lancer.corePart.parts.right_mechanical_shoulder.customLabel>ﻦﻤﻳﻷﺍ ﻲﻜﻴﻧﺎﻜﻴﻤﻟﺍ ﻒﺘﻜﻟﺍ</Lancer.corePart.parts.right_mechanical_shoulder.customLabel>
+  
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>ﻦﻤﻳﻷﺍ ﻒﻜﻟﺍ</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>.ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ ﻲﻓ ﺮﺼﻨﺒﻟﺍ ﻊﺒﺻﺇ</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻠﻟ ﻂﺳﻭﻷﺍ ﻊﺒﺻﻹﺍ</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ ﻲﻓ ﻢﻬﺴﻟﺍ ﻊﺒﺻﺇ</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻠﻟ ﺮﻴﺒﻜﻟﺍ ﻡﺎﻬﺑﻹﺍ</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  
+  <Lancer.corePart.parts.left_leg.customLabel>.ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</Lancer.corePart.parts.left_leg.customLabel>
+  
+  <Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>
+  
+  <Lancer.corePart.parts.right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﻞﺟﺮﻟﺍ</Lancer.corePart.parts.right_leg.customLabel>
+  
+  <Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ</Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
+  
+  <MechanicalCentipede.label>ﺍﺪﻴﺒﻴﺘﻨﺳ</MechanicalCentipede.label>
+  
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>ﺮﺴﻳﻷﺍ ﻲﺋﻮﻀﻟﺍ ﺮﻌﺸﺘﺴﻤﻟﺍ</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>ﻦﻤﻳﻷﺍ ﻲﺋﻮﻀﻟﺍ ﺮﻌﺸﺘﺴﻤﻟﺍ</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>ﺮﺴﻳﻷﺍ ﺕﻮﺼﻟﺍ ﺭﺎﻌﺸﺘﺳﺍ ﺯﺎﻬﺟ</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>ﻦﻤﻳﻷﺍ ﻲﺗﻮﺼﻟﺍ ﺮﻌﺸﺘﺴﻤﻟﺍ</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  
+  
+  <MechanicalTermite.label>ﺾﻴﺑﻷﺍ ﻞﻤﻨﻟﺍ</MechanicalTermite.label>
+  
+  <MechanicalTermite.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>ﺮﺴﻳﻷﺍ ﻱﺮﺼﺒﻟﺍ ﺮﻌﺸﺘﺴﻤﻟﺍ</MechanicalTermite.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  
+  <MechanicalTermite.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>ﻦﻤﻳﻷﺍ ﻱﺮﺼﺒﻟﺍ ﺮﻌﺸﺘﺴﻤﻟﺍ</MechanicalTermite.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  
+  <MechanicalTermite.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>ﺮﺴﻳﻷﺍ ﺕﻮﺼﻟﺍ ﺮﻌﺸﺘﺴﻣ</MechanicalTermite.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  
+  <MechanicalTermite.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>ﻦﻤﻳﻷﺍ ﻲﺗﻮﺼﻟﺍ ﺭﺎﻌﺸﺘﺳﻻﺍ</MechanicalTermite.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  
+  
+  <Pikeman.label>ﻥﻮﺟﺍﺭﺪﻟﺍ</Pikeman.label>
+  
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>.ﺮﺴﻳﻷﺍ ﻱﺮﺼﺒﻟﺍ ﺮﻌﺸﺘﺴﻤﻟﺍ</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>ﻦﻤﻳﻷﺍ ﻲﺋﻮﻀﻟﺍ ﺮﻌﺸﺘﺴﻤﻟﺍ</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>ﺮﺴﻳﻷﺍ ﻲﺗﻮﺼﻟﺍ ﺮﻌﺸﺘﺴﻤﻟﺍ</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>ﻦﻤﻳﻷﺍ ﻲﺗﻮﺼﻟﺍ ﺮﻌﺸﺘﺴﻤﻟﺍ</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  
+  <Pikeman.corePart.parts.front_left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻞﺟﺮﻟﺍ</Pikeman.corePart.parts.front_left_leg.customLabel>
+  
+  <Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻡﺪﻘﻟﺍ</Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+  
+  <Pikeman.corePart.parts.front_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</Pikeman.corePart.parts.front_right_leg.customLabel>
+  
+  <Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻡﺪﻘﻟﺍ</Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
+  
+  <Pikeman.corePart.parts.rear_left_leg.customLabel>ﺔﻴﻔﻠﺨﻟﺍ ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ</Pikeman.corePart.parts.rear_left_leg.customLabel>
+  
+  <Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>ﻲﻔﻠﺨﻟﺍ ﺮﺴﻳﻷﺍ ﺐﻌﻜﻟﺍ</Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
+  
+  <Pikeman.corePart.parts.rear_right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻔﻠﺨﻟﺍ ﻕﺎﺴﻟﺍ</Pikeman.corePart.parts.rear_right_leg.customLabel>
+  
+  <Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>ﻦﻤﻳﻷﺍ ﻲﻔﻠﺨﻟﺍ ﺭﺎﻃﻹﺍ</Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
+  
+  
+  <Scyther.label>ﺪﺼﺤﻤﻟﺍ</Scyther.label>
+  
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>ﺮﺴﻳﻷﺍ ﻲﺋﻮﻀﻟﺍ ﺮﻌﺸﺘﺴﻤﻟﺍ</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>ﻦﻤﻳﻷﺍ ﻱﺮﺼﺒﻟﺍ ﺮﻌﺸﺘﺴﻤﻟﺍ</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>ﺮﺴﻳﻷﺍ ﻲﺗﻮﺼﻟﺍ ﺮﻌﺸﺘﺴﻤﻟﺍ</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>ﻦﻤﻳﻷﺍ ﻲﺗﻮﺼﻟﺍ ﺮﻌﺸﺘﺴﻤﻟﺍ</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  
+  <Scyther.corePart.parts.left_shoulder.customLabel>ﺮﺴﻳﻷﺍ ﻒﺘﻜﻟﺍ</Scyther.corePart.parts.left_shoulder.customLabel>
+  
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ</Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>ﻯﺮﺴﻴﻟﺍ ﺓﺮﻔﺸﻟﺍ</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>
+  
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>.ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ ﻦﻣ ﺮﻴﻐﺼﻟﺍ ﻊﺒﺻﻹﺍ</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻠﻟ ﻰﻄﺳﻮﻟﺍ ﻊﺒﺻﻹﺍ</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>ﻯﺮﺴﻴﻟﺍ ﺓﺭﺎﺷﻹﺍ ﻊﺒﺻﺇ</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>ﻯﺮﺴﻴﻟﺍ ﺪﻴﻟﺍ ﻡﺎﻬﺑﺇ</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  
+  <Scyther.corePart.parts.right_shoulder.customLabel>ﻦﻤﻳﻷﺍ ﻒﺘﻜﻟﺍ</Scyther.corePart.parts.right_shoulder.customLabel>
+  
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ</Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>ﻰﻨﻤﻴﻟﺍ ﺓﺮﻔﺸﻟﺍ</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
+  
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻟﺍ ﻲﻓ ﺮﺼﻨﺒﻟﺍ ﻊﺒﺻﺇ</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻠﻟ ﻂﺳﻭﻷﺍ ﻊﺒﺻﻹﺍ</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>ﻰﻨﻤﻴﻟﺍ ﺪﻴﻠﻟ ﻢﻬﺴﻟﺍ ﻊﺒﺻﺇ</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>ﺮﻴﺒﻜﻟﺍ ﻦﻴﻤﻴﻟﺍ ﺪﻳ ﻡﺎﻬﺑﺇ</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  
+  <Scyther.corePart.parts.left_leg.customLabel>ﻯﺮﺴﻴﻟﺍ ﻕﺎﺴﻟﺍ</Scyther.corePart.parts.left_leg.customLabel>
+  
+  <Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>ﻯﺮﺴﻴﻟﺍ ﻡﺪﻘﻟﺍ</Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>
+  
+  <Scyther.corePart.parts.right_leg.customLabel>ﻰﻨﻤﻴﻟﺍ ﻕﺎﺴﻟﺍ</Scyther.corePart.parts.right_leg.customLabel>
+  
+  <Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>ﻰﻨﻤﻴﻟﺍ ﻡﺪﻘﻟﺍ</Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
+</LanguageData>

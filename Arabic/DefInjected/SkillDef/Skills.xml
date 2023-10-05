@@ -1,0 +1,93 @@
+<LanguageData>
+  
+  
+  <Animals.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﻴﺑﺮﺗ</Animals.label>
+  
+  <Animals.description>.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﺒﻗﺍﺮﻣﻭ ﺔﻳﺎﻋﺭﻭ ﺐﻳﺭﺪﺗﻭ ﺾﻳﻭﺮﺗ</Animals.description>
+  
+  <Animals.skillLabel>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﻴﺑﺮﺗ</Animals.skillLabel>
+  
+  
+  <Artistic.label>ﻦﻔﻟﺍ</Artistic.label>
+  
+  <Artistic.description>.ﺔﻴﻨﻓ ﻝﺎﻤﻋﺃ ﺀﺎﺸﻧﺇ</Artistic.description>
+  
+  <Artistic.skillLabel>ﻦﻔﻟﺍ</Artistic.skillLabel>
+  
+  
+  <Construction.label>ﺀﺎﻨﺑ</Construction.label>
+  
+  <Construction.description>.ﻚﻴﻜﻔﺗ ،ﺙﺎﺛﻷﺍ ﻊﻴﻨﺼﺗ ،ﺀﺎﻨﺑ</Construction.description>
+  
+  <Construction.skillLabel>ﺀﺎﻨﺒﻟﺍ</Construction.skillLabel>
+  
+  
+  <Cooking.label>ﻮﻬﻄﻟﺍ</Cooking.label>
+  
+  <Cooking.description>ﺕﺎﻧﻮﻜﻤﻟﺍ ﻦﻣ ﻞﻛﻸﻟ ﺔﻠﺑﺎﻘﻟﺍ ﻕﺎﺒﻃﻸﻟ ﻝﺎﻌﻓ ﺩﺍﺪﻋﺇ
+.ﻡﺎﺨﻟﺍ</Cooking.description>
+  
+  <Cooking.skillLabel>ﻮﻬﻄﻟﺍ</Cooking.skillLabel>
+  
+  
+  <Crafting.label>ﺔﻓﺮﺤﻟﺍ</Crafting.label>
+  
+  <Crafting.description>ﺎﻫﺮﻴﻏﻭ ﺀﺎﻨﺑ ﺩﺍﻮﻣ ،ﺕﺎﻧﻮﻜﻣ ،ﺔﺤﻠﺳﺃ ،ﺕﺍﻭﺩﺃ ﺝﺎﺘﻧﺇ
+.ﺮﺻﺎﻨﻌﻟﺍ ﻦﻣ</Crafting.description>
+  
+  <Crafting.skillLabel>ﺔﻓﺮﺣ</Crafting.skillLabel>
+  
+  
+  <Intellectual.label>ﻲﻨﻫﺬﻟﺍ ﻞﻤﻌﻟﺍ</Intellectual.label>
+  
+  <Intellectual.description>ﺕﺍﺮﻀﺤﺘﺴﻤﻟﺍﻭ ﺮﻴﻗﺎﻘﻌﻟﺍ ﻒﻠﺘﺨﻣ ﻒﻴﻟﻮﺗﻭ ﻖﻴﻘﺤﺘﻟﺍ</Intellectual.description>
+  
+  <Intellectual.skillLabel>ﻲﻨﻫﺬﻟﺍ ﻞﻤﻌﻟﺍ</Intellectual.skillLabel>
+  
+  
+  <Medicine.label>ﺐﻄﻟﺍ</Medicine.label>
+  
+  <Medicine.description>ﺔﻴﺣﺍﺮﺠﻟﺍ ﺕﺎﻴﻠﻤﻌﻟﺍ ﺀﺍﺮﺟﺇﻭ ﺽﺍﺮﻣﻷﺍﻭ ﺡﻭﺮﺠﻟﺍ ﺝﻼﻋ</Medicine.description>
+  
+  <Medicine.skillLabel>ﺐﻄﻟﺍ</Medicine.skillLabel>
+  
+  
+  <Melee.label>ﺐﻳﺮﻘﻟﺍ ﻝﺎﺘﻘﻟﺍ</Melee.label>
+  
+  <Melee.description>ﺔﻬﺟﺍﻮﻤﻟﺍ ﺎﻀﻳﺃﻭ ،ﺔﺒﻳﺮﻘﻟﺍ ﺔﺤﻠﺳﻷﺍ ﻉﺍﻮﻧﺃ ﻊﻴﻤﺟ ﻡﺍﺪﺨﺘﺳﺍ
+.ﺔﺤﻠﺳﺃ ﻥﻭﺪﺑ</Melee.description>
+  
+  <Melee.skillLabel>ﻯﺪﻤﻟﺍ ﺐﻳﺮﻗ ﻝﺎﺘﻘﻟﺍ</Melee.skillLabel>
+  
+  
+  <Mining.label>ﻝﺎﺒﺠﻟﺍ ﻲﻓ ﻦﻳﺪﻌﺘﻟﺍ</Mining.label>
+  
+  <Mining.description>.ﻕﺎﻔﻧﻷﺍ ﺮﻔﺣﻭ ﺔﻤﻴﻘﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ</Mining.description>
+  
+  <Mining.skillLabel>ﻦﻳﺪﻌﺘﻟﺍ</Mining.skillLabel>
+  
+  
+  <Plants.label>ﺕﺎﺗﺎﺒﻨﻟﺍ ﺔﻋﺍﺭﺯ</Plants.label>
+  
+  <Plants.description>ﺍﺪﻴﻌﺑ ﻡﺎﻌﻄﻟﺍ ﻊﻤﺟﻭ ﺕﺎﺗﺎﺒﻨﻟﺎﺑ ﺔﻳﺎﻨﻌﻟﺍﻭ ﺔﻋﺍﺭﺰﻟﺍﻭ ﺔﻋﺍﺭﺰﻟﺍ
+.ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻦﻋ</Plants.description>
+  
+  <Plants.skillLabel>ﺔﻋﺍﺭﺰﻟﺍ</Plants.skillLabel>
+  
+  
+  <Shooting.label>ﺪﻌﺑ ﻦﻋ ﻝﺎﺘﻘﻟﺍ</Shooting.label>
+  
+  <Shooting.description>ﺔﻓﺎﺴﻣ ﻰﻠﻋ ﻝﺎﺘﻘﻠﻟ ﺔﺤﻠﺳﻷﺍ ﻉﺍﻮﻧﺃ ﻊﻴﻤﺟ ﻡﺍﺪﺨﺘﺳﺍ
+.ﺓﺪﻴﻌﺑ</Shooting.description>
+  
+  <Shooting.skillLabel>ﺪﻌﺑ ﻦﻋ ﻝﺎﺘﻘﻟﺍ</Shooting.skillLabel>
+  
+  
+  <Social.label>ﺭﺍﻮﺣ</Social.label>
+  
+  <Social.description>ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍﻭ ،ﺓﺩﺎﻴﻘﻟﺍ ،ﺐﻋﻼﺘﻟﺍ ،ﻉﺎﻨﻗﻹﺍ ،ﺕﺎﺿﻭﺎﻔﻤﻟﺍ ﺓﺭﺍﺩﺇ
+.ﻦﻳﺮﺧﻵﺍ ﻊﻴﺠﺸﺗ</Social.description>
+  
+  <Social.skillLabel>ﻞﺻﺍﻮﺗ</Social.skillLabel>
+  
+</LanguageData>

@@ -1,0 +1,135 @@
+<LanguageData>
+  
+  
+  
+  <Aurora.stages.beautiful_aurora.label>ﻲﺒﻄﻘﻟﺍ ﺞﻫﻮﺘﻟﺍ</Aurora.stages.beautiful_aurora.label>
+  
+  <Aurora.stages.beautiful_aurora.description>!ﻕﺪﺼﻳ ﻻ ﺔﻠﻴﻤﺟ ﺎﻬﻧﺇ</Aurora.stages.beautiful_aurora.description>
+  
+  
+  
+  <ColonistLeftUnburied.stages.colonist_left_unburied.label>ﻪﻨﻓﺩ ﻢﺘﻳ ﻢﻟ ﻦﻃﻮﺘﺴﻤﻟﺍ</ColonistLeftUnburied.stages.colonist_left_unburied.label>
+  
+  <ColonistLeftUnburied.stages.colonist_left_unburied.description>.ﻖﻠﻄﻟﺍ ﺀﺍﻮﻬﻟﺍ ﻲﻓ ﻪﻴﻣﺮﺑ ﺎﻨﻤﻗﻭ ﻲﻓﻮﺗ ﻢﻫﺪﺣﺃ
+.ﺔﻘﺋﻻ ﺓﺯﺎﻨﺟ ﻥﻮﻘﺤﺘﺴﻳ ﺱﺎﻨﻟﺍ .ﻝﻮﺒﻘﻣ ﺮﻴﻏ ﺍﺬﻫ</ColonistLeftUnburied.stages.colonist_left_unburied.description>
+  
+  
+  
+  <DoingPassionateWork.stages.minor_passion_for_my_work.label>ﺭﺎﻨﻟﺍ ﻊﻣ ﻞﻤﻌﻟﺍ</DoingPassionateWork.stages.minor_passion_for_my_work.label>
+  
+  <DoingPassionateWork.stages.minor_passion_for_my_work.description>.ﻪﺑ ﻡﻮﻗﺃ ﺎﻣ ﺐﺣﺃ ﺎﻧﺃ</DoingPassionateWork.stages.minor_passion_for_my_work.description>
+  
+  <DoingPassionateWork.stages.burning_passion_for_my_work.label>ﺔﺳﺎﻤﺣ</DoingPassionateWork.stages.burning_passion_for_my_work.label>
+  
+  <DoingPassionateWork.stages.burning_passion_for_my_work.description>ﺮﻤﺘﺳﺃ ﻥﺃ ﻲﻨﻨﻜﻤﻳ !ﻪﺑ ﻡﻮﻗﺃ ﺎﻣ ﻖﺸﻋﺃ
+.ﺀﺎﺸﺗ ﺎﻤﻛ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﻚﻟﺬﺑ ﻡﺎﻴﻘﻟﺍ ﻲﻓ</DoingPassionateWork.stages.burning_passion_for_my_work.description>
+  
+  
+  
+  <Joywire.stages.joywire.label>ﺓﺩﺎﻌﺴﻟﺍ ﺔﻗﺎﻗﺭ</Joywire.stages.joywire.label>
+  
+  <Joywire.stages.joywire.description>.ﻲﺗﻻﺎﺣ ﻞﻀﻓﺃ ﻲﻓ ﻲﻨﻧﺄﺑ ﺮﻌﺷﺃ</Joywire.stages.joywire.description>
+  
+  
+  
+  <MissingTongue.stages.missing_tongue.label>.ﺔﻐﻟ ﺪﺟﻮﻳ ﻻ</MissingTongue.stages.missing_tongue.label>
+  
+  <MissingTongue.stages.missing_tongue.description>.ﻲﺘﻐﻠﺑ ﺙﺪﺤﺘﻟﺍ ﻰﻠﻋ ﻲﺗﺭﺪﻗ ﻡﺪﻌﻟ ﻁﺎﺒﺣﻹﺎﺑ ﺮﻌﺷﺃ</MissingTongue.stages.missing_tongue.description>
+  
+  
+  
+  <Naked.stages.naked.label>{PAWN_gender ? ﺔﻳﺭﺎﻋ : ﻱﺭﺎﻋ}</Naked.stages.naked.label>
+  
+  <Naked.stages.naked.description>.ﺔﻨﻴﻬﻣ ﺎﻬﻧﺇ .ﺲﺑﻼﻣ ﻱﺪﻟ ﺪﺟﻮﻳ ﻻ</Naked.stages.naked.description>
+  
+  
+  
+  <Pain.stages.minor_pain.label>ﻒﻴﻔﺧ ﻢﻟﺃ</Pain.stages.minor_pain.label>
+  
+  <Pain.stages.minor_pain.description>.ﻢﻟﺆﻳ ﺍﺬﻫ ...ﻩﺁ</Pain.stages.minor_pain.description>
+  
+  <Pain.stages.serious_pain.label>ﻂﺳﻮﺘﻤﻟﺍ ﻢﻟﻷﺍ</Pain.stages.serious_pain.label>
+  
+  <Pain.stages.serious_pain.description>؟ﻩﺬﻫ ﻞﻛ ﻲﻬﺘﻨﺘﺳ ﻰﺘﻣ ...ﻡﻻﻵﺍ ﻩﺬﻫ ...ﻩﻭﺃ</Pain.stages.serious_pain.description>
+  
+  <Pain.stages.intense_pain.label>ﺪﻳﺪﺷ ﻢﻟﺃ</Pain.stages.intense_pain.label>
+  
+  <Pain.stages.intense_pain.description>،ﻩﻭﺃ ...ﺔﻄﻘﻟﺍ ﺪﻨﻋ ﻢﻟﺃ ...ﺐﻠﻜﻟﺍ ﺪﻨﻋ ﻢﻟﺃ
+!ﺔﻋﺮﺴﺑ ﻲﻨﻣ ﻂﺒﻫﺃ</Pain.stages.intense_pain.description>
+  
+  <Pain.stages.mindshattering_pain.label>ﺪﻳﺪﺸﻟﺍ ﻢﻟﻷﺍ</Pain.stages.mindshattering_pain.label>
+  
+  <Pain.stages.mindshattering_pain.description>!ﺃ-ﺃ-ﺃ-ﺃ-ﺃ-ﺃ-ﺃ</Pain.stages.mindshattering_pain.description>
+  
+  
+  
+  <PsychicDrone.stages.psychic_soothe.label>ﺔﺋﺪﻬﺗ</PsychicDrone.stages.psychic_soothe.label>
+  
+  <PsychicDrone.stages.psychic_soothe.description>ﻲﻋﻭﻼﻟﺍ ﻲﻓ ﺢﻳﺮﻤﻟﺍﻭ ﺉﺩﺎﻬﻟﺍ ﺕﻮﺼﻟﺍ ﻥﺃ ﻭﺪﺒﻳ
+.ﻲﺑ ﺹﺎﺨﻟﺍ ﺏﺎﺼﻋﻷﺍ ﺯﺎﻬﺟ ﻢﻈﻨﻳﻭ ﻲﻨﺋﺪﻬﻳ</PsychicDrone.stages.psychic_soothe.description>
+  
+  <PsychicDrone.stages.low_psychic_drone.label>ﻒﻴﻌﺿ ﺞﻴﺠﺿ</PsychicDrone.stages.low_psychic_drone.label>
+  
+  <PsychicDrone.stages.low_psychic_drone.description>.ﻲﻋﻮﻟﺍ ﻕﺎﻤﻋﺃ ﻲﻓ ﻚﺤﻳ ﺎﻣ ﺎﺼﺨﺷ ﻥﺄﻛ
+ﺕﺎﻤﻠﻛ ﺔﻌﻀﺑ ﻢﻬﻓ ﻊﻴﻄﺘﺳﺃ .ﺎﺌﻴﺷ ﺲﻤﻬﻳ ﺕﻮﺻ
+.ﻲﻨﻧﻮﺒﺠﻌﻳ ﻻ ﻢﻫﻭ ﻂﻘﻓ</PsychicDrone.stages.low_psychic_drone.description>
+  
+  <PsychicDrone.stages.moderate_psychic_drone.label>ﻂﺳﻮﺘﻣ ﺕﻮﺻ</PsychicDrone.stages.moderate_psychic_drone.label>
+  
+  <PsychicDrone.stages.moderate_psychic_drone.description>ﺕﺍﻮﺻﺃ .ﻲﻌﻣ ﻲﺋﺮﻣ ﺮﻴﻏ ﺺﺨﺷ ﺎﻤﺋﺍﺩ ﺙﺪﺤﺘﻳ
+ﺀﺍﺬﻳﺈﺑ ﻥﻭﺮﻣﺄﻳ .ﺎﻬﺴﻔﻧ ﻲﻫ ﺕﺎﻤﻠﻜﻟﺍ ﻦﻜﻟﻭ ﺔﻔﻠﺘﺨﻣ
+!ﻥﻮﺘﻤﺼﻳ ﻢﻬﺘﻴﻟ .ﺱﺎﻨﻟﺍ</PsychicDrone.stages.moderate_psychic_drone.description>
+  
+  <PsychicDrone.stages.high_psychic_drone.label>ﻱﻮﻗ ﺕﻮﺻ</PsychicDrone.stages.high_psychic_drone.label>
+  
+  <PsychicDrone.stages.high_psychic_drone.description>ﻆﺣﻻﺃ .ﺰﻴﻛﺮﺘﻟﺍ ﺐﻌﺼﻟﺍ ﻦﻣ .ﺍﺪﺟ ﻝﺎﻋ ﺕﻮﺻ
+ﺮﻤﺘﺴﻣ ﻪﻨﻜﻟ .ﻪﻴﻠﻋ ﺥﺮﺻﺃﻭ ﻪﻌﻣ ﺙﺪﺤﺗﺃ ﻲﻨﻧﺃ
+!ﺮﻣﺍﻭﻷﺍ ﻲﻓ</PsychicDrone.stages.high_psychic_drone.description>
+  
+  <PsychicDrone.stages.extreme_psychic_drone.label>ﻖﻴﻤﻌﻟﺍ ﻦﻴﻧﺮﻟﺍ</PsychicDrone.stages.extreme_psychic_drone.label>
+  
+  <PsychicDrone.stages.extreme_psychic_drone.description>ﻞﻛ .ﻞﻴﺴﻟﺎﻛ ﻞﻴﺴﻳ ﻕﺮﻌﻟﺍ ،ﻥﻮﻨﺠﺑ ﻲﺒﻠﻗ ﺾﺒﻨﺗ
+ﺓﺎﻧﺎﻌﻤﻟﺍﻭ ﻢﻟﻷﺍ ﻮﻫ ﻲﻨﻫﺫ ﻲﻓ ﺭﻭﺪﻳ ﺎﻣ
+،ﻲﺳﻮﺑﺎﻛ ،ﻲﺳﻮﺑﺎﻛ ﻢﻬﻧﺇ !ﻲﻟﻮﺣ ﻦﻣ ﺀﺍﺪﻋﻷﺍ ،ﺀﺍﺪﻋﻷﺍﻭ
+...ﺱﻮﺑﺎﻛ</PsychicDrone.stages.extreme_psychic_drone.description>
+  
+  
+  
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>ﺔﻴﺴﻔﻨﻟﺍ ﺕﺎﻋﺎﻌﺷﺇ ﺯﺎﻬﺟ ﻦﻣ ﻡﻼﺴﻟﺍ</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
+  
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>ﺎﺒﻳﺮﻏ ﺍﺭﻮﻌﺷ ﻲﻄﻌﻳ ﻊﺸﻤﻟﺍ ﻦﻣ ﺉﺪﻬﻣ ﺕﻮﺻ
+.ﺖﻗﻮﻟﺍ ﺲﻔﻧ ﻲﻓ ﺎﺤﻳﺮﻣﻭ</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
+  
+  
+  <RotStink.stages.rot_stink.label>ﺚﺜﺠﻟﺍ ﺔﺤﺋﺍﺭ</RotStink.stages.rot_stink.label>
+  
+  <RotStink.stages.rot_stink.description>.ﺪﻠﺠﻟﺎﺑ ﻖﺼﺘﻠﺗﻭ ﻲﻔﻧﺍ ﻰﻟﺇ ﻞﻠﺴﺘﺗ ﺔﺤﺋﺍﺮﻟﺍ ﺍﺬﻫ
+.ﺔﺤﺋﺍﺮﻟﺍ ﻩﺬﻫ ﻦﻣ ﻥﺎﻴﺜﻐﻟﺎﺑ ﺮﻌﺷﺃ</RotStink.stages.rot_stink.description>
+  
+  <RotStink.stages.awful_rot_stink.label>ﺓﺯﺰﻘﻤﻟﺍ ﺚﺜﺠﻟﺍ ﺔﺤﺋﺍﺭ</RotStink.stages.awful_rot_stink.label>
+  
+  <RotStink.stages.awful_rot_stink.description>ﺢﺒﺳﺃ ﻲﻨﻧﺄﻛ ﻲﻨﻧﺃ ﺔﺟﺭﺪﻟ ﺔﻌﺸﺑ ﺔﺤﺋﺍﺮﻟﺍ ﻩﺬﻫ
+ﺢﺋﺍﻭﺮﻟﺍ ﺍﺬﻫ ﻲﻓ ﺲﻔﻨﺘﻟﺍ ﺩﺎﻜﻟﺎﺑ ﻊﻴﻄﺘﺳﺃ .ﺎﻬﻴﻓ
+!ﺔﻬﻳﺮﻜﻟﺍ</RotStink.stages.awful_rot_stink.description>
+  
+  
+  <RotStinkLingering.stages.rot_stink_lingering.label>ﺓﺩﺭﺎﻄﻤﻟﺍ ﺚﺜﺠﻟﺍ ﺔﺤﺋﺍﺭ</RotStinkLingering.stages.rot_stink_lingering.label>
+  
+  <RotStinkLingering.stages.rot_stink_lingering.description>ﻲﻧﺩﺭﺎﻄﺗ ﻥﻵﺍ - ﺔﻌﻴﻈﻓ ﺖﻧﺎﻛ ﺔﺤﺋﺍﺮﻟﺍ ﻩﺬﻫ
+.ﻥﺎﻜﻣ ﻞﻛ ﻲﻓ</RotStinkLingering.stages.rot_stink_lingering.description>
+  
+  
+  
+  <SharedBed.stages.sharing_bed.label>ﻡﺎﻋ ﺮﻳﺮﺳ</SharedBed.stages.sharing_bed.label>
+  
+  <SharedBed.stages.sharing_bed.description>ﺖﺴﻟ ﺺﺨﺷ ﻊﻣ ﻱﺮﻳﺮﺳ ﻙﺭﺎﺷﺃ ﻥﺃ ﺐﺠﻳ
+.ﻪﻌﻣ ﻡﺍﺮﻳ ﺎﻣ ﻰﻠﻋ</SharedBed.stages.sharing_bed.description>
+  
+  
+  <ToxicFallout.stages.toxic_fallout.label>ﻡﺎﺴﻟﺍ ﺩﺎﻣﺮﻟﺍ</ToxicFallout.stages.toxic_fallout.label>
+  
+  <ToxicFallout.stages.toxic_fallout.description>.ﺞﻠﺜﻟﺎﻛ ﻲﻟﻮﺣ ﺭﻭﺪﺗ ﺔﻣﺎﺴﻟﺍﻭ ﺔﺟﺰﻠﻟﺍ ﺀﺍﺮﻔﺼﻟﺍ ﺔﺤﻳﺮﺸﻟﺍ
+ﻞﻛ ﻲﻓ ﻦﻴﺘﺋﺮﻟﺍﻭ ﺓﺮﺠﻨﺤﻟﺍﻭ ﺪﻠﺠﻟﺍ ﻕﺮﺤﻳ ﺀﺍﻮﻬﻟﺍﻭ
+.ﻪﻴﻟﺇ ﻞﻠﺴﺘﻳ ﻥﺎﻜﻣ</ToxicFallout.stages.toxic_fallout.description>
+  
+</LanguageData>

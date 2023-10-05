@@ -1,0 +1,28 @@
+<LanguageData>
+  
+  
+  <Luciferium.label>ﻡﻮﻳﺮﻴﻔﻴﺳﻮﻟ</Luciferium.label>
+  
+  <Luciferium.description>ﺔﻣﺪﻘﺘﻤﻟﺍ ﻢﻟﺍﻮﻌﻟﺍ ﻦﻣ ﺔﻣﺪﻘﺘﻤﻟﺍ ﺕﺎﻴﻟﻵﺍ ﻦﻣ ﺞﻳﺰﻣ
+ﻢﺴﺠﻟﺍ ﺔﻔﻴﻇﻭ ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﻦﺴﺤﺗ ﻲﺘﻟﺍﻭ ،
+ﻦﻜﻤﻳ ، ﺖﻗﻮﻟﺍ ﺭﻭﺮﻣ ﻊﻣ .ﻲﺣﺍﻮﻨﻟﺍ ﻊﻴﻤﺠﺑ
+ﻲﻓ ﻯﺫﻷﺍﻭ ﺔﻤﻳﺪﻘﻟﺍ ﺏﻭﺪﻨﻟﺍ ﻰﺘﺣ ﻰﻔﺸﻳ ﻥﺃ
+ﻑﺮﻄﻟﺍ ﻥﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ ، ﻍﺎﻣﺪﻟﺍ
+ﻒﺳﻸﻟﻭ .ﻯﺮﺧﺃ ﺓﺮﻣ ﻮﻤﻨﻳ ﻦﻟ ﻊﺒﻄﻟﺎﺑ ﺩﻮﻘﻔﻤﻟﺍ
+ﻲﻓ ﻯﺮﺧﺃ ﺓﺮﻣ ﺔﻋﺮﺠﻟﺍ ﺬﺧﺃ ﻥﻭﺪﺑ ،
+ﺪﻘﻔﻳ ، ﻡﺎﻳﺃ ﺔﺘﺳ ﻭﺃ ﺔﺴﻤﺨﻟﺍ ﻝﻼﺧ
+ﺐﻀﻏ ﺔﻟﺎﺣ ﺐﺒﺴﻳ ﺎﻤﻣ ، ﻢﻏﺎﻨﺘﻟﺍ ﻦﻴﺘﻴﻧﺎﻜﻴﻤﻟﺍ
+.ﺕﻮﻤﻟﺍ ﻰﻟﺇ ﻱﺩﺆﻳ ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓﻭ ﺔﻠﻳﻮﻃ
+
+ﻦﻣ ﻥﻮﻜﻳ ، ﻰﻟﻭﻷﺍ ﺔﻋﺮﺠﻟﺍ ﺬﺧﺃ ﺪﻌﺑ
+.ﻢﺴﺠﻟﺍ ﻦﻣ ﺕﺎﻴﻟﻵﺍ ﺔﻟﺍﺯﺇ ﻦﻜﻤﻤﻟﺍ ﺮﻴﻏ
+
+ﻥﺎﻳﺮﻴﻔﻴﺳﻮﻠﻟﺍ ﻰﻟﺇ ﺭﺎﺸﻳ ، ﺔﻳﺮﻀﺤﻟﺍ ﻢﻟﺍﻮﻌﻟﺍ ﻲﻓ
+ﻢﻬﺋﺎﻗﺪﺻﺃ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻞﺘﻗ ."ﻥﺎﻄﻴﺸﻟﺍ ﺔﻘﻔﺻ" ـﺑ
+.ﺔﻳﺮﻐﻣ ﺀﺍﺮﻤﺣ ﺏﻮﺒﺣ ﻢﻬﻳﺪﻟ ﻖﺒﻳ ﻢﻟ ﺎﻣﺪﻨﻋ</Luciferium.description>
+  
+  <Luciferium.ingestible.ingestCommandString>{lookup: {0}; Case; 3} ﻝﻮﺒﻗ</Luciferium.ingestible.ingestCommandString>
+  
+  <Luciferium.ingestible.ingestReportString>{lookup: {0}; Case; 3} ﻝﻮﺒﻗ ﻢﺘﻳ</Luciferium.ingestible.ingestReportString>
+  
+</LanguageData>

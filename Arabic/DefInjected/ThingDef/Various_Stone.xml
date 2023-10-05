@@ -1,0 +1,133 @@
+<LanguageData>
+  
+  
+  <BlocksGranite.label>ﻡﺎﺧﺮﻟﺍ</BlocksGranite.label>
+  
+  <BlocksGranite.description>ﻱﺮﻴﺠﻟﺍ ﺮﺠﺤﻟﺍ ﻞﺘﻛ</BlocksGranite.description>
+  
+  <BlocksGranite.stuffProps.stuffAdjective>ﻲﻠﻣﺮﻟﺍ ﺮﺠﺤﻟﺍ ﻞﺘﻛ</BlocksGranite.stuffProps.stuffAdjective>
+  
+  
+  <BlocksLimestone.label>ﺖﻴﻧﺍﺮﻐﻟﺍ ﻡﺎﻄﺣ</BlocksLimestone.label>
+  
+  <BlocksLimestone.description>ﺖﻴﻧﺍﺮﺠﻟﺍ ﻞﺘﻛ</BlocksLimestone.description>
+  
+  <BlocksLimestone.stuffProps.stuffAdjective>ﻡﺎﺧﺮﻟﺍ ﻦﻣ ﻞﺘﻛ</BlocksLimestone.stuffProps.stuffAdjective>
+  
+  
+  <BlocksMarble.label>.ﺔﺒﻠﺼﻟﺍ ﻱﺮﻴﺠﻟﺍ ﺮﺠﺤﻟﺍ ﻞﺘﻛ</BlocksMarble.label>
+  
+  <BlocksMarble.description>ﻢﻋﺎﻧ ﺮﺠﺣ ﻮﻫ ﻡﺎﺧﺮﻟﺍ .ﺔﺒﻠﺼﻟﺍ ﻡﺎﺧﺮﻟﺍ ﻞﺘﻛ
+.ﻞﻴﺛﺎﻤﺘﻠﻟ ﺓﺪﻴﺟ ﺓﺩﺎﻣ ،ﻞﻴﻤﺟﻭ</BlocksMarble.description>
+  
+  <BlocksMarble.stuffProps.stuffAdjective>ﻲﻘﺋﺎﻗﺮﻟﺍ ﺮﺨﺼﻟﺍ ﻞﺘﻛ</BlocksMarble.stuffProps.stuffAdjective>
+  
+  
+  <BlocksSandstone.label>ﻲﻠﻣﺮﻟﺍ ﺮﺠﺤﻟﺍ ﻞﺘﻛ</BlocksSandstone.label>
+  
+  <BlocksSandstone.description>ﻱﺮﻴﺠﻟﺍ ﺮﺠﺤﻟﺍ ﻡﺎﻄﺣ</BlocksSandstone.description>
+  
+  <BlocksSandstone.stuffProps.stuffAdjective>ﺔﻴﻠﻣﺭ</BlocksSandstone.stuffProps.stuffAdjective>
+  
+  
+  <BlocksSlate.label>ﻡﺎﺧﺮﻟﺍ ﻦﻣ ﺔﻌﻄﻗ</BlocksSlate.label>
+  
+  <BlocksSlate.description>ﻲﻠﻣﺮﻟﺍ ﺮﺠﺤﻟﺍ ﺮﺴﻛ</BlocksSlate.description>
+  
+  <BlocksSlate.stuffProps.stuffAdjective>ﺔﻴﺘﻳﺰﻟﺍ ﺭﻮﺨﺼﻟﺍ</BlocksSlate.stuffProps.stuffAdjective>
+  
+  
+  <ChunkGranite.label>ﺮﺠﺣ - ﻡﺎﺧﺮﻟﺍ .ﻡﺎﺧﺮﻟﺍ ﻦﻣ ﺓﺯﺎﺘﻤﻣ ﺔﻠﺘﻛ
+.ﻞﻴﺛﺎﻤﺘﻠﻟ ﺓﺪﻴﺟ ﺓﺩﺎﻣ ،ﻞﻴﻤﺟﻭ ﻢﻋﺎﻧ</ChunkGranite.label>
+  
+  <ChunkGranite.description>ﺖﻴﻧﺍﺮﺟ</ChunkGranite.description>
+  
+  
+  <ChunkLimestone.label>ﻱﺮﻴﺠﻟﺍ ﺮﺠﺤﻟﺍ ﻦﻣ ﺔﻌﻄﻗ</ChunkLimestone.label>
+  
+  <ChunkLimestone.description>ﺔﺒﺳﺎﻨﻣ ﻞﺘﻛ ﻰﻟﺇ ﺎﻬﺼﻗ ﻦﻜﻤﻳ .ﺔﻳﺮﺨﺻ ﻲﺷﻼﺘﻣ
+.ﺀﺎﻨﺒﻠﻟ</ChunkLimestone.description>
+  
+  
+  <ChunkMarble.label>ﻝﺎﺼﻠﺼﻟﺍ ﺎﻳﺎﻈﺷ</ChunkMarble.label>
+  
+  <ChunkMarble.description>ﻉﻮﻧ ﻮﻫ ﺖﻴﻧﺍﺮﺠﻟﺍ .ﺔﺒﻠﺼﻟﺍ ﺖﻴﻧﺍﺮﺠﻟﺍ ﻦﻣ ﺔﻠﺘﻛ
+.ﺔﺒﻠﺼﻟﺍ ﺭﺎﺠﺣﻷﺍ ﻦﻣ</ChunkMarble.description>
+  
+  
+  <ChunkSandstone.label>ﻲﻠﻣﺮﻟﺍ ﺮﺠﺤﻟﺍ ﻦﻣ ﺔﻌﻄﻗ</ChunkSandstone.label>
+  
+  <ChunkSandstone.description>ﻱﺮﻴﺠﻟﺍ ﺮﺠﺤﻟﺍ</ChunkSandstone.description>
+  
+  
+  <ChunkSlagSteel.label>ﺔﻴﻧﺪﻌﻣ ﺓﺩﺮﺧ</ChunkSlagSteel.label>
+  
+  <ChunkSlagSteel.description>ﻰﻟﺇ ﻪﻌﻴﻄﻘﺗ ﻦﻜﻤﻳ .ﻱﺮﺨﺻ ﻡﺎﻄﺣ :ﺔﻴﺑﺮﻋ ﺔﺨﺴﻧ
+.ﺀﺎﻨﺒﻠﻟ ﺔﺒﺳﺎﻨﻣ ﻞﺘﻛ</ChunkSlagSteel.description>
+  
+  
+  <ChunkSlate.label>ﺔﻴﻘﺋﺎﻗﺮﻟﺍ ﺭﻮﺨﺼﻟﺍ ﻡﺎﻛﺭ</ChunkSlate.label>
+  
+  <ChunkSlate.description>ﻝﻮﻘﺼﻣ ﺖﻴﻧﺍﺮﺟ</ChunkSlate.description>
+  
+  
+  <Granite.label>ﺔﻤﺋﻼﻣ ﻞﺘﻛ ﻰﻟﺇ ﻪﺼﻗ ﻦﻜﻤﻳ .ﺭﻮﺨﺼﻟﺍ ﻡﺎﻄﺣ
+.ﺀﺎﻨﺒﻠﻟ</Granite.label>
+  
+  <Granite.description>.ﺍﺪﺟ ﺔﺒﻠﺻ ﺔﻴﺗﺎﻤﻐﻣ ﺭﻮﺨﺻ ﻉﻮﻧ</Granite.description>
+  
+  
+  <Limestone.label>ﻲﻠﻣﺮﻟﺍ ﺮﺠﺤﻟﺍ</Limestone.label>
+  
+  <Limestone.description>.ﺔﻤﻋﺎﻨﻟﺍ ﺔﻟﻮﺤﺘﻤﻟﺍ ﺭﻮﺨﺼﻟﺍ ﻦﻣ ﻉﻮﻧ</Limestone.description>
+  
+  
+  <Marble.label>ﺮﻣﺮﻣ</Marble.label>
+  
+  <Marble.description>.ﺔﻤﻋﺎﻨﻟﺍ ﺔﻟﻮﺤﺘﻤﻟﺍ ﺓﺮﺨﺼﻟﺍ</Marble.description>
+  
+  
+  <Sandstone.label>ﻝﻮﻘﺼﻣ ﺮﻣﺮﻣ</Sandstone.label>
+  
+  <Sandstone.description>ﻝﻮﻘﺼﻤﻟﺍ ﺮﻴﺠﻟﺍ ﺮﺠﺣ</Sandstone.description>
+  
+  
+  <Slate.label>ﻝﻮﻘﺼﻤﻟﺍ ﺯﺍﻭﺩﺭﻷﺍ</Slate.label>
+  
+  <Slate.description>ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﺓﺪﻴﻔﻣ ﺖﺴﻴﻟ .ﺓﺩﺮﺨﻟﺍ ﻦﻣ ﺔﻣﻮﻛ
+ﻝﻮﺼﺤﻠﻟ ﺎﻫﺮﻬﺻ ﻦﻜﻤﻳ ﻦﻜﻟ ،ﺔﻴﻟﺎﺤﻟﺍ ﺔﻟﺎﺤﻟﺍ ﻲﻓ
+.ﺫﻻﻮﻔﻟﺍ ﻰﻠﻋ</Slate.description>
+  
+  
+  <SmoothedGranite.label>ﻢﻋﺎﻨﻟﺍ ﻲﻠﻣﺮﻟﺍ ﺮﺠﺤﻟﺍ ﺓﺮﺨﺻ</SmoothedGranite.label>
+  
+  <SmoothedGranite.description>ﻢﻳﺪﻘﺗ ﻰﺟﺮﻳ .ﻱﺰﻴﻠﺠﻧﺇ ﺲﻴﻟﻭ ﻲﺳﻭﺭ ﺺﻨﻟﺍ ﺍﺬﻫ
+.ﺔﻤﺟﺮﺘﻠﻟ ﻱﺰﻴﻠﺠﻧﻹﺍ ﺺﻨﻟﺍ</SmoothedGranite.description>
+  
+  
+  <SmoothedLimestone.label>ﻝﻮﻘﺼﻤﻟﺍ ﻱﺮﻴﺠﻟﺍ ﺮﺠﺤﻟﺍ</SmoothedLimestone.label>
+  
+  <SmoothedLimestone.description>ﺕﺎﺌﻳﺰﺟ ﻦﻣ ﺔﻧﻮﻜﻤﻟﺍ ﺔﻴﺑﻮﺳﺮﻟﺍ ﺭﻮﺨﺼﻟﺍ ﻦﻣ ﻉﻮﻧ
+.ﺎﻌﻣ ﺔﻃﻮﻐﻀﻤﻟﺍ ﻞﻣﺮﻟﺍ</SmoothedLimestone.description>
+  
+  
+  <SmoothedMarble.label>ﻝﻮﻘﺼﻣ ﺮﻣﺮﻣ</SmoothedMarble.label>
+  
+  <SmoothedMarble.description>ﻑﺎﻔﺸﻟﺍ ﻪﺒﺷ ﺮﺠﺤﻟﺍ ﺍﺬﻫ .ﺔﻤﻋﺎﻧ ﺔﻴﻓﺭﻮﻣﺎﺘﻴﻣ ﺓﺮﺨﺻ
+.ﻞﺧﺍﺪﻟﺍ ﻦﻣ ﺀﻮﻀﻟﺍ ﻊﺸﻳ ﻪﻧﺄﻛ ﻭﺪﺒﻳ</SmoothedMarble.description>
+  
+  
+  <SmoothedSandstone.label>ﻢﻋﺎﻨﻟﺍ ﻲﻠﻣﺮﻟﺍ ﺮﺠﺤﻟﺍ</SmoothedSandstone.label>
+  
+  <SmoothedSandstone.description>ﺔﻳﺮﺤﺑ ﻊﻗﺍﻮﻗ ﺎﻳﺎﻘﺑ ﻦﻣ ﻥﻮﻜﺘﺗ ﺔﻴﺒﺳﺮﺗ ﺓﺮﺨﺻ
+ﺾﻴﺑﺃ ﻥﻮﻟ ﻪﻟ ﻝﻮﻘﺼﻤﻟﺍ ﺢﻄﺴﻟﺍ .ﺔﻔﺜﻜﻣ ﺔﻤﻳﺪﻗ
+.ﺐﺋﺍﻮﺸﻟﺍ ﻦﻣ ﺔﻔﻴﻔﺧ ﺵﻮﻘﻧﻭ ﻭﺎﺴﺘﻣ</SmoothedSandstone.description>
+  
+  
+  <SmoothedSlate.label>ﻝﻮﻘﺼﻣ ﻡﺎﺧﺭ</SmoothedSlate.label>
+  
+  <SmoothedSlate.description>ﺕﺎﻤﻴﺴﺟ ﻦﻣ ﻒﻟﺄﺘﻳ ﺔﺒﺳﺮﺘﻤﻟﺍ ﺭﻮﺨﺼﻟﺍ ﻦﻣ ﻉﻮﻧ
+ﻞﻣﺮﻟﺍ ﺕﺎﻘﺒﻃ ﻞﻘﺻ ﻢﺗ .ﺎﻌﻣ ﺔﻃﻮﻐﻀﻤﻟﺍ ﻞﻣﺮﻟﺍ
+.ﺎﻳﻮﺘﺴﻣﻭ ﺎﻤﻋﺎﻧ ﺎﺤﻄﺳ ﺖﺤﺒﺻﺃ ﻰﺘﺣ</SmoothedSlate.description>
+  
+</LanguageData>

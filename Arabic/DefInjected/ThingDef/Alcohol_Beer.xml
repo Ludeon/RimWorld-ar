@@ -1,0 +1,25 @@
+<LanguageData>
+  
+  
+  <Beer.label>ﺓﺮﻴﺑ</Beer.label>
+  
+  <Beer.description>ﺮﺸﺒﻟﺍ ﻞﺒﻗ ﻦﻣ ﻪﻛﻼﻬﺘﺳﺍ ﻢﺘﻳ ﺏﺍﺮﺷ ﻝﻭﺃ
+ﻙﻼﻬﺘﺳﺍ .ﺮﻜﺴﻟﺍ ﺐﺒﺴﺗﻭ ﺓﺬﻳﺬﻟ ﺓﺮﻴﺒﻟﺍ .ﺀﺎﻤﻟﺍ ﺪﻌﺑ
+.ﻥﺎﻣﺩﻹﺍ ﻰﻟﺇ ﻱﺩﺆﻳ ﺪﻗ ﻁﺮﻔﻣ</Beer.description>
+  
+  <Beer.ingestible.ingestCommandString>[0] ﺏﺮﺷﺍ</Beer.ingestible.ingestCommandString>
+  
+  <Beer.ingestible.ingestReportString>[0] ﺏﺮﺸﻳ</Beer.ingestible.ingestReportString>
+  
+  <Beer.tools.bottle.label>ﺔﻠﻄﺑ</Beer.tools.bottle.label>
+  
+  <Beer.tools.neck.label>гﻮﻜﺸﻴﻟﺭﻭ</Beer.tools.neck.label>
+  
+  
+  <Wort.label>ﻮﻠﺳﻮﺳ</Wort.label>
+  
+  <Wort.description>ﻦﻜﻟﻭ ﻞﻌﻔﻟﺎﺑ ﺔﻄﻠﺘﺨﻣ ﺕﺎﻧﻮﻜﻤﻟﺍ .ﺮﻴﻤﺨﺘﻟﺍ ﻞﺒﻗ ﺓﺮﻴﺒﻟﺍ
+ﺹﺎﺧ ﻞﻴﻣﺮﺑ ﻲﻓ ﻂﻴﻠﺨﻟﺍ ﺮﻤﺨﺘﻳ ﻥﺃ ﺐﺠﻳ
+.ﺓﺮﻴﺒﻟﺍ ﺔﻘﻴﻘﺣ ﺢﺒﺼﻳ ﻥﺃ ﻞﺒﻗ</Wort.description>
+  
+</LanguageData>

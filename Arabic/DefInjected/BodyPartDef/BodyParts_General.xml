@@ -1,0 +1,44 @@
+<LanguageData>
+  
+  
+  <Brain.label>ﻍﺎﻣﺪﻟﺍ</Brain.label>
+  
+  
+  <Ear.label>ﻥﺫﺃ</Ear.label>
+  
+  
+  <Eye.label>ﻦﻴﻌﻟﺍ</Eye.label>
+  
+  
+  <Foot.label>ﻡﺪﻗ</Foot.label>
+  
+  
+  <Head.label>ﺱﺃﺮﻟﺍ</Head.label>
+  
+  
+  <Jaw.label>ﻚﻔﻟﺍ</Jaw.label>
+  
+  
+  <Leg.label>ﻕﺎﺴﻟﺍ</Leg.label>
+  
+  
+  <Neck.label>ﺔﺒﻗﺮﻟﺍ</Neck.label>
+  
+  
+  <Nose.label>ﻒﻧﺃ</Nose.label>
+  
+  
+  <Ribcage.label>ﻱﺭﺪﺼﻟﺍ ﺺﻔﻘﻟﺍ</Ribcage.label>
+  
+  
+  <Skull.label>ﺔﻤﺠﻤﺠﻟﺍ</Skull.label>
+  
+  
+  <Spine.label>ﻱﺮﻘﻔﻟﺍ ﺩﻮﻤﻌﻟﺍ</Spine.label>
+  
+  
+  <Tongue.label>ﺔﻐﻟ</Tongue.label>
+  
+  <Tongue.removeRecipeLabelOverride>ﻑﺬﺣ</Tongue.removeRecipeLabelOverride>
+  
+</LanguageData>

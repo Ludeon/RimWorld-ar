@@ -1,0 +1,256 @@
+<LanguageData>
+  
+  <Art.label>ﻡﺎﺳﺭ</Art.label>
+  
+  <Art.description>.ﺔﻠﻴﻤﺟ ﺔﻴﻨﻓ ﻝﺎﻤﻋﺃ ﻥﻮﻋﺪﺒﻳ ﻥﻮﻧﺎﻨﻔﻟﺍ</Art.description>
+  
+  <Art.gerundLabel>ﻦﻔﻟﺍ ﻊﻨﺻ</Art.gerundLabel>
+  
+  <Art.labelShort>ﻥﺎﻨﻓ</Art.labelShort>
+  
+  <Art.pawnLabel>ﻥﺎﻨﻓ</Art.pawnLabel>
+  
+  <Art.verb>ﻦﻔﻟﺍ ﻲﻓ ﻉﺍﺪﺑﻹﺍ</Art.verb>
+  
+  <BasicWorker.label>ﻞﻤﻌﻟﺍ</BasicWorker.label>
+  
+  <BasicWorker.description>،ﻢﻜﺤﺘﻟﺍ ﺓﺰﻬﺟﻷﺍ ﻞﻳﺪﺒﺗﻭ ﻯﺮﺳﻷﺍ ﻕﻼﻃﺇ :ﻂﻴﺴﺑ ﻞﻤﻋ
+.ﺔﺻﺎﺧ ﺕﺍﺭﺎﻬﻣ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﻻ</BasicWorker.description>
+  
+  <BasicWorker.gerundLabel>ﻞﻤﻌﻟﺍ</BasicWorker.gerundLabel>
+  
+  <BasicWorker.labelShort>ﻞﻤﻋ</BasicWorker.labelShort>
+  
+  <BasicWorker.pawnLabel>ﻞﻣﺎﻋ</BasicWorker.pawnLabel>
+  
+  <BasicWorker.verb>ﻞﻤﻌﻟﺍ</BasicWorker.verb>
+  
+  <Cleaning.label>ﻒﻈﻨﻣ</Cleaning.label>
+  
+  <Cleaning.description>ﺐﻴﺗﺮﺗﻭ ﺔﺛﻮﻠﻤﻟﺍ ﺽﺭﻷﺍﻭ ﺝﻮﻠﺜﻟﺍ ﻒﻴﻈﻨﺘﺑ ﻝﺎﻤﻌﻟﺍ ﻡﻮﻘﻳ
+.ﺔﻴﻟﺰﻨﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ</Cleaning.description>
+  
+  <Cleaning.gerundLabel>ﺔﻟﺍﺯﺇ</Cleaning.gerundLabel>
+  
+  <Cleaning.labelShort>ﺔﻓﺎﻈﻨﻟﺍ</Cleaning.labelShort>
+  
+  <Cleaning.pawnLabel>ﻒﻈﻨﻤﻟﺍ</Cleaning.pawnLabel>
+  
+  <Cleaning.verb>ﻒﻴﻈﻨﺗ</Cleaning.verb>
+  
+  <Construction.label>ﻲﻧﺎﺑ</Construction.label>
+  
+  <Construction.description>ﻞﻛﺎﻴﻫ ﻱﺃ ﺓﺩﺎﻋﺇ ﻥﻭﺪﻴﻌﻳﻭ ﺔﻔﻠﺘﺨﻤﻟﺍ ﻦﻴﺋﺎﻨﺒﻟﺍ ﻊﻔﺗﺮﻳ
+ﺔﻔﻟﺎﺗ</Construction.description>
+  
+  <Construction.gerundLabel>ﺀﺎﻨﺑ</Construction.gerundLabel>
+  
+  <Construction.labelShort>ﺀﺎﻨﺑ</Construction.labelShort>
+  
+  <Construction.pawnLabel>ﺱﺪﻨﻬﻣ</Construction.pawnLabel>
+  
+  <Construction.verb>ﺀﺎﻨﺑ</Construction.verb>
+  
+  <Cooking.label>ﺥﺎﺒﻃ</Cooking.label>
+  
+  <Cooking.description>.ﺚﺜﺠﻟﺍ ﺔﺋﺰﺠﺗﻭ ﻡﺎﻌﻄﻟﺍ ﺩﺍﺪﻋﺈﺑ ﺓﺎﻬﻄﻟﺍ ﻡﻮﻘﻳ</Cooking.description>
+  
+  <Cooking.gerundLabel>ﻡﺎﻌﻄﻟﺍ ﺪﻋﺍ</Cooking.gerundLabel>
+  
+  <Cooking.labelShort>ﻲﻫﺎﻄﻟﺍ</Cooking.labelShort>
+  
+  <Cooking.pawnLabel>ﻒﻴﺷ</Cooking.pawnLabel>
+  
+  <Cooking.verb>ﻲﻬﻃ</Cooking.verb>
+  
+  <Crafting.label>ﺔﻓﺮﺤﻟﺍ</Crafting.label>
+  
+  <Crafting.description>ﻲﻓ ﺕﻻﻵﺍ ﻰﻠﻋ ﻞﻤﻌﻟﺍ ﻰﻠﻋ ﻥﻮﻴﻓﺮﺤﻟﺍ ﺰﻛﺮﻳ
+ﺮﺠﺤﻟﺍ ﻊﻄﻗ :ﺔﺻﺎﺧ ﺕﺍﺭﺎﻬﻣ ﺐﻠﻄﺘﺗ ﻻ ﻝﺎﻤﻋﺃ
+.ﻚﻟﺫ ﻦﻣ ﺮﺜﻛﺃﻭ ﻥﺪﻌﻤﻟﺍ ﺮﻬﺻﻭ</Crafting.description>
+  
+  <Crafting.gerundLabel>ﻲﻨﻬﻤﻟﺍ ﺐﻳﺭﺪﺘﻟﺍ</Crafting.gerundLabel>
+  
+  <Crafting.labelShort>ﺔﻓﺮﺤﻟﺍ</Crafting.labelShort>
+  
+  <Crafting.pawnLabel>ﻲﻓﺮﺣ</Crafting.pawnLabel>
+  
+  <Crafting.verb>ﺔﻓﺮﺤﻟﺍ ﻭ ﻊﻴﻨﺼﺘﻟﺍ</Crafting.verb>
+  
+  <Doctor.label>ﺐﻴﺒﻄﻟﺍ</Doctor.label>
+  
+  <Doctor.description>ﻦﻴﺳﻮﺒﺤﻤﻟﺍ ﻰﺿﺮﻤﻟﺍﻭ ﻦﻴﺑﺎﺼﻤﻟﺍ ﻥﻮﺠﻟﺎﻌﻳﻭ ﻡﺎﻌﻄﻟﺍ ﻥﻮﺒﻠﺠﻳ ﺀﺎﺒﻃﻷﺍ
+.ﻯﺮﺳﻷﺍﻭ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺎﺑ ﻥﻮﻤﺘﻬﻳ .ﺮﻳﺮﺴﻟﺍ ﻲﻓ</Doctor.description>
+  
+  <Doctor.gerundLabel>ﺝﻼﻋ</Doctor.gerundLabel>
+  
+  <Doctor.labelShort>ﺐﻴﺒﻃ</Doctor.labelShort>
+  
+  <Doctor.pawnLabel>ﺐﻴﺒﻃ</Doctor.pawnLabel>
+  
+  <Doctor.verb>ﺝﻼﻋ</Doctor.verb>
+  
+  <Firefighter.label>ﻲﺋﺎﻔﻃﻹﺍ</Firefighter.label>
+  
+  <Firefighter.description>.ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻲﻓ ﻖﻳﺮﺤﻟﺍ ﺩﺎﻤﺧﺈﺑ ﺀﺎﻔﻃﻹﺍ ﻝﺎﺟﺭ ﻡﻮﻘﻳ</Firefighter.description>
+  
+  <Firefighter.gerundLabel>ﻖﻳﺮﺤﻟﺍ ﺩﺎﻤﺧﺇ</Firefighter.gerundLabel>
+  
+  <Firefighter.labelShort>ﺀﺎﻔﻃﺇ ﻞﺟﺭ</Firefighter.labelShort>
+  
+  <Firefighter.pawnLabel>ﺰﻴﻔﻄﻣ</Firefighter.pawnLabel>
+  
+  <Firefighter.verb>ﻖﻳﺮﺤﻟﺍ ﺩﺎﻤﺧﺇ</Firefighter.verb>
+  
+  <Growing.label>ﻉﺭﺍﺰﻣ</Growing.label>
+  
+  <Growing.description>ﻥﻭﺪﺼﺤﻳﻭ ،ﺕﻻﻮﺼﺤﻤﻟﺍ ﻮﻤﻨﺘﻟ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺭﻭﺬﺑ ﻥﻮﻋﺭﺰﻳ ﻥﻮﻋﺭﺍﺰﻤﻟﺍ
+.ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻦﻋ ﺍﺪﻴﻌﺑ ﺀﺍﺬﻐﻟﺍ</Growing.description>
+  
+  <Growing.gerundLabel>ﺔﻴﺑﺮﺗ</Growing.gerundLabel>
+  
+  <Growing.labelShort>ﻉﺭﺍﺰﻣ</Growing.labelShort>
+  
+  <Growing.pawnLabel>ﻉﺭﺍﺰﻣ</Growing.pawnLabel>
+  
+  <Growing.verb>ﺔﻋﺍﺭﺯ</Growing.verb>
+  
+  <Handling.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ</Handling.label>
+  
+  <Handling.description>ﻲﺘﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﻥﻮﻌﻤﺠﻳ ،ﺎﻬﺑ ﻥﻮﻨﺘﻌﻳ ،ﺔﻴﺷﺎﻤﻟﺍ ﻥﻮﺑﺮﻳ
+.ﺎﻬﻧﻮﺤﺑﺬﻳﻭ ﺎﻬﺠﺘﻨﺗ</Handling.description>
+  
+  <Handling.gerundLabel>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻣ ﻞﻤﻌﻟﺍ</Handling.gerundLabel>
+  
+  <Handling.labelShort>ﺕﺎﻧﺍﻮﻴﺣ ﻲﺑﺮﻣ</Handling.labelShort>
+  
+  <Handling.pawnLabel>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻲﺑﺮﻣ</Handling.pawnLabel>
+  
+  <Handling.verb>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻣ ﻞﻤﻌﻟﺍ</Handling.verb>
+  
+  <Hauling.label>ﻞﻣﺎﺤﻟﺍ</Hauling.label>
+  
+  <Hauling.description>ﻥﺃ ﺐﺠﻳ ﺚﻴﺣ ﻰﻟﺇ ﺀﺎﻴﺷﻷﺍ ﻥﻮﻠﻘﻨﻳ ﻥﻮﻟﺎﻤﺤﻟﺍ
+.ﻥﻮﻜﺗ</Hauling.description>
+  
+  <Hauling.gerundLabel>ﻞﻘﻧ</Hauling.gerundLabel>
+  
+  <Hauling.labelShort>ﻝﺎﻘﻧ</Hauling.labelShort>
+  
+  <Hauling.pawnLabel>ﺔﻌﺘﻣﻷﺍ ﻞﻣﺎﺣ</Hauling.pawnLabel>
+  
+  <Hauling.verb>ﺐﻋﻼﻟﺍ ﻞﻘﻧ</Hauling.verb>
+  
+  <Hunting.label>ﺩﺎﻴﺻ</Hunting.label>
+  
+  <Hunting.description>.ﺪﻴﺼﻠﻟ ﺔﻤﻠﻌﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻥﻮﻠﺘﻘﻳ ﻥﻭﺩﺎﻴﺼﻟﺍ</Hunting.description>
+  
+  <Hunting.gerundLabel>ﺪﻴﺻ ﻙﺎﻨﻫ</Hunting.gerundLabel>
+  
+  <Hunting.labelShort>ﺩﺎﻴﺻ</Hunting.labelShort>
+  
+  <Hunting.pawnLabel>ﺩﺎﻴﺻ</Hunting.pawnLabel>
+  
+  <Hunting.verb>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺪﻴﺻ</Hunting.verb>
+  
+  <Mining.label>ﻢﺟﺎﻨﻤﻟﺍ ﻞﻣﺎﻋ</Mining.label>
+  
+  <Mining.description>ﻥﺩﺎﻌﻤﻟﺍ ﻥﻮﺟﺮﺨﺘﺴﻳﻭ ﺍﺮﻔﺣ ﻥﻭﺮﺠﻳ ،ﺭﻮﺨﺼﻟﺍ ﻥﻭﺮﻔﺤﻳ ﻝﺎﻤﻌﻟﺍ
+.ﺔﻤﻴﻘﻟﺍ</Mining.description>
+  
+  <Mining.gerundLabel>ﻥﺪﻌﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ</Mining.gerundLabel>
+  
+  <Mining.labelShort>ﻢﺟﺎﻨﻤﻟﺍ ﻲﻓ ﻞﻣﺎﻌﻟﺍ</Mining.labelShort>
+  
+  <Mining.pawnLabel>ﻦﻳﺪﻌﺗ ﻞﻣﺎﻋ</Mining.pawnLabel>
+  
+  <Mining.verb>ﻥﺪﻌﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ</Mining.verb>
+  
+  <Patient.label>ﺾﻳﺮﻤﻟﺍ</Patient.label>
+  
+  <Patient.description>ﺍﺫﺇ ﻲﺒﻄﻟﺍ ﺮﻳﺮﺴﻟﺍ ﻰﻟﺇ ﻰﺿﺮﻤﻟﺍ ﻝﺎﺳﺭﺇ ﻢﺘﻳ
+.ﺓﺮﻴﻄﺧ ﺔﻴﺤﺻ ﻞﻛﺎﺸﻣ ﻢﻬﻳﺪﻟ ﺖﻧﺎﻛ</Patient.description>
+  
+  <Patient.gerundLabel>ﺝﻼﻌﻟﺍ</Patient.gerundLabel>
+  
+  <Patient.labelShort>ﺾﻳﺮﻤﻟﺍ</Patient.labelShort>
+  
+  <Patient.pawnLabel>ﺾﻳﺮﻤﻟﺍ</Patient.pawnLabel>
+  
+  <Patient.verb>ﺡﻭﺮﺠﻟﺍ ﺝﻼﻋ</Patient.verb>
+  
+  <PatientBedRest.label>ﺔﺣﺍﺮﺘﺳﻻﺍ</PatientBedRest.label>
+  
+  <PatientBedRest.description>ﺓﺩﺎﻋﺇﻭ ﻢﻬﺘﻗﺎﻃ ﺩﺪﺠﺘﻟ ﺓﺮﺳﻷﺍ ﻲﻓ ﻥﻭﺀﺎﻨﺒﻟﺍ ﺢﻳﺮﺘﺴﻳ
+.ﺔﻳﻮﻴﺣ ﺮﻴﻐﻟﺍ ﻞﻛﺎﺸﻤﻟﺍ ﻦﻣ ﻢﻬﺘﺤﺻ ﻥﺯﺍﻮﺗ</PatientBedRest.description>
+  
+  <PatientBedRest.gerundLabel>ﺔﺣﺍﺮﺘﺳﻻﺍ</PatientBedRest.gerundLabel>
+  
+  <PatientBedRest.labelShort>ﺔﺣﺍﺮﺘﺳﺍ</PatientBedRest.labelShort>
+  
+  <PatientBedRest.pawnLabel>ﻒﻗﻮﺘﻤﻟﺍ</PatientBedRest.pawnLabel>
+  
+  <PatientBedRest.verb>ﺔﺣﺍﺮﺘﺳﻻﺍ</PatientBedRest.verb>
+  
+  <PlantCutting.label>ﺔﻘﻳﺪﺤﻟﺍ ﻉﺭﺍﺰﻣ</PlantCutting.label>
+  
+  <PlantCutting.description>.ﺕﺎﺗﺎﺒﻨﻟﺍ ﻦﻣ ﻞﻴﺻﺎﺤﻤﻟﺍ ﻥﻮﻌﻤﺠﻳﻭ ﻥﻮﻌﻄﻘﻳ ﻥﻮﻴﻘﺋﺍﺪﺤﻟﺍ</PlantCutting.description>
+  
+  <PlantCutting.gerundLabel>ﻖﺋﺍﺪﺤﻟﺍ ﻲﻓ ﺔﻤﺣﺍﺰﻤﻟﺍ</PlantCutting.gerundLabel>
+  
+  <PlantCutting.labelShort>ﺔﻘﻳﺪﺤﻟﺍ ﻉﺭﺍﺰﻣ</PlantCutting.labelShort>
+  
+  <PlantCutting.pawnLabel>ﻲﻧﺎﺘﺴﺒﻟﺍ</PlantCutting.pawnLabel>
+  
+  <PlantCutting.verb>ﺔﻨﺘﺴﺒﻟﺍ ﺔﺳﺭﺎﻤﻣ</PlantCutting.verb>
+  
+  <Research.label>ﻢﻟﺎﻋ</Research.label>
+  
+  <Research.description>.ﺔﻴﺒﻳﺮﺠﺗ ﺙﺎﺤﺑﺃ ﻲﻓ ﺀﺎﻤﻠﻌﻟﺍ ﻙﺭﺎﺸﻳ</Research.description>
+  
+  <Research.gerundLabel>ﻑﺎﺸﻜﺘﺳﺍ</Research.gerundLabel>
+  
+  <Research.labelShort>ﻢﻟﺎﻋ</Research.labelShort>
+  
+  <Research.pawnLabel>ﻢﻟﺎﻋ</Research.pawnLabel>
+  
+  <Research.verb>ﻑﺎﺸﻜﺘﺳﺍ</Research.verb>
+  
+  <Smithing.label>ﺩﺍﺪﺤﻟﺍ</Smithing.label>
+  
+  <Smithing.description>ﻮﻴﻜﻴﻧﺎﻜﻴﻤﻛﻭ ،ﻢﻬﺷﺭﻭ ﻲﻓ ﺕﺍﺪﻌﻤﻟﺍﻭ ﺔﺤﻠﺳﻷﺍ ﻥﻮﻌﻨﺼﻳ ﻥﻭﺩﺍﺪﺤﻟﺍ
+.ﻦﻴﻴﻟﻵﺍ ﻥﻮﺤﻠﺼﻳ ﻮﻧﺎﻜﻴﻤﻟﺍ</Smithing.description>
+  
+  <Smithing.gerundLabel>ﻊﻨﺻ</Smithing.gerundLabel>
+  
+  <Smithing.labelShort>ﺩﺍﺪﺤﻟﺍ</Smithing.labelShort>
+  
+  <Smithing.pawnLabel>ﺩﺍﺪﺤﻟﺍ</Smithing.pawnLabel>
+  
+  <Smithing.verb>ﻝﺪﺟ</Smithing.verb>
+  
+  <Tailoring.label>ﻁﺎﻴﺧ</Tailoring.label>
+  
+  <Tailoring.description>.ﺲﺑﻼﻤﻟﺍ ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﺎﻋﺍﻮﻧﺃ ﻥﻮﻃﺎﻴﺨﻟﺍ ﻂﻴﺨﻳ</Tailoring.description>
+  
+  <Tailoring.gerundLabel>ﻂﻴﺨﻳ</Tailoring.gerundLabel>
+  
+  <Tailoring.labelShort>ﺲﺑﻼﻤﻟﺍ ﺩﺍﺪﺣ</Tailoring.labelShort>
+  
+  <Tailoring.pawnLabel>ﻁﺎﻴﺨﻟﺍ</Tailoring.pawnLabel>
+  
+  <Tailoring.verb>ﺮﻳﻭﺪﺗ</Tailoring.verb>
+  
+  <Warden.label>ﺔﺒﻗﺍﺮﻣ</Warden.label>
+  
+  <Warden.description>.ﻢﻬﻧﻭﺪﻨﺠﻳﻭ ﻢﻬﻌﻣ ﻥﻮﺛﺪﺤﺘﻳﻭ ﻢﻬﻧﻮﻤﻌﻄﻳ :ﺀﺎﻨﺠﺴﻟﺍ ﻥﻮﺒﻗﺍﺮﻳ ﻥﻮﻓﺮﺸﻤﻟﺍ</Warden.description>
+  
+  <Warden.gerundLabel>ﻑﺮﺸﻣ</Warden.gerundLabel>
+  
+  <Warden.labelShort>ﺔﺒﻗﺍﺮﻤﻟﺍ</Warden.labelShort>
+  
+  <Warden.pawnLabel>ﺱﺭﺎﺤﻟﺍ</Warden.pawnLabel>
+  
+  <Warden.verb>ﺔﺑﺎﻗﺭ</Warden.verb>
+  
+</LanguageData>
