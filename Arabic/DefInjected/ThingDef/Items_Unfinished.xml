@@ -1,0 +1,75 @@
+<LanguageData>
+  
+  
+  <MinifiedThing.label>ﺮﺼﻨﻌﻟﺍ</MinifiedThing.label>
+  
+  
+  <MinifiedTree.label>ﺔﻛﺮﺤﺘﻣ ﺓﺮﺠﺷ</MinifiedTree.label>
+  
+  
+  <UnfinishedApparel.label>ﺔﻠﻤﺘﻜﻤﻟﺍ ﺮﻴﻏ ﺲﺑﻼﻤﻟﺍ</UnfinishedApparel.label>
+  
+  <UnfinishedApparel.description>.ﻊﻨﺼﻟﺍ ﺔﻴﻠﻤﻋ ﻲﻓ ﺲﺑﻼﻤﻟﺍ</UnfinishedApparel.description>
+  
+  
+  <UnfinishedArmor.label>ﻉﻭﺭﺪﻟﺍ ﻦﻣ ﺔﻄﻴﺴﺑ ﺔﻠﻴﻜﺸﺗ</UnfinishedArmor.label>
+  
+  <UnfinishedArmor.description>.ﻊﻴﻨﺼﺘﻟﺍ ﺪﻴﻗ ﻉﻭﺭﺪﻠﻟ ﻂﻴﺴﺑ ﺮﺼﻨﻋ</UnfinishedArmor.description>
+  
+  
+  <UnfinishedBelt.label>ﺲﺑﻼﻤﻟﺍ ﻡﺍﺰﺣ ﺮﻴﻀﺤﺗ</UnfinishedBelt.label>
+  
+  <UnfinishedBelt.description>ﻥﻵﺍ ﻪﻌﻴﻨﺼﺗ ﻢﺘﻳ ﻡﺍﺰﺣ</UnfinishedBelt.description>
+  
+  
+  <UnfinishedComponent.label>ﺰﻫﺎﺟ ﺮﺼﻨﻋ ﻊﻴﻨﺼﺗ</UnfinishedComponent.label>
+  
+  <UnfinishedComponent.description>.ﻊﻨﺼﻟﺍ ﺪﻴﻗ ﺮﺼﻨﻌﻟﺍ</UnfinishedComponent.description>
+  
+  
+  <UnfinishedGun.label>ﻱﺭﺎﻧ ﺡﻼﺳ ﻊﻴﻨﺼﺗ</UnfinishedGun.label>
+  
+  <UnfinishedGun.description>.ﻊﻴﻨﺼﺘﻟﺍ ﺪﻴﻗ ﺔﻳﺭﺎﻨﻟﺍ ﺔﺤﻠﺳﻷﺍ</UnfinishedGun.description>
+  
+  
+  <UnfinishedHealthItemBionic.label>ﺮﻀﺤﻣ ﻚﻴﻧﻮﻴﺑ ﺀﺰﺟ ﻊﻴﻨﺼﺗ</UnfinishedHealthItemBionic.label>
+  
+  <UnfinishedHealthItemBionic.description>.ﻊﻴﻨﺼﺘﻟﺍ ﺪﻴﻗ ﻦﺴﺤﻤﻟﺍ ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﻢﺴﺠﻟﺍ ﺀﺰﺟ</UnfinishedHealthItemBionic.description>
+  
+  
+  <UnfinishedHealthItemProsthetic.label>ﻲﻋﺎﻨﺼﻟﺍ ﻞﻳﺪﺒﻟﺍ ﺮﻴﻀﺤﺗ</UnfinishedHealthItemProsthetic.label>
+  
+  <UnfinishedHealthItemProsthetic.description>ﺎﻤﻛ ﻪﻟﺎﺳﺭﺇ ﺐﺠﻳ .ﺺﻨﻟﺍ ﺔﻤﺟﺮﺗ ﻲﻓ ﻞﺸﻓ
+.ﻮﻫ</UnfinishedHealthItemProsthetic.description>
+  
+  
+  <UnfinishedMask.label>ﻥﺰﺨﻣ ﻉﺎﻨﻗ ﻞﻤﻋ</UnfinishedMask.label>
+  
+  <UnfinishedMask.description>.ﻉﺎﻨﻗ ﻊﻴﻨﺼﺗ</UnfinishedMask.description>
+  
+  
+  <UnfinishedMetallicTechArmor.label>ﻲﻧﺪﻌﻣ ﻉﺭﺩ ﺔﻌﻄﻗ ﻊﻨﺻ</UnfinishedMetallicTechArmor.label>
+  
+  <UnfinishedMetallicTechArmor.description>.ﻊﻴﻨﺼﺘﻟﺍ ﺪﻴﻗ ﺔﻴﻧﺪﻌﻤﻟﺍ ﻉﻭﺭﺪﻟﺍ</UnfinishedMetallicTechArmor.description>
+  
+  
+  <UnfinishedPack.label>ﺕﺍﺪﻌﻣ ﻥﻭﺰﺨﻣ</UnfinishedPack.label>
+  
+  <UnfinishedPack.description>ﻊﻨﺼﻟﺍ ﺪﻴﻗ ﺩﺎﺘﻌﻟﺍ</UnfinishedPack.description>
+  
+  
+  <UnfinishedSculpture.label>ﻡﺎﻤﺗ ﻒﺼﻧ ﺐﺼﻧ</UnfinishedSculpture.label>
+  
+  <UnfinishedSculpture.description>ﻞﻴﻜﺸﺘﻟﺍ ﺔﻴﻠﻤﻋ ﻲﻓ ﺖﺤﻨﻟﺍ</UnfinishedSculpture.description>
+  
+  
+  <UnfinishedTechArmor.label>ﻡﺪﻘﺘﻣ ﻉﺭﺪﻟ ﺕﺍﺰﻴﻬﺠﺗ</UnfinishedTechArmor.label>
+  
+  <UnfinishedTechArmor.description>.ﻊﻴﻨﺼﺘﻟﺍ ﺪﻴﻗ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻖﺋﺎﻓ ﻉﺭﺩ ﺮﺼﻨﻋ</UnfinishedTechArmor.description>
+  
+  
+  <UnfinishedWeapon.label>ﺔﺤﻠﺳﻷﺍ ﺮﻴﻀﺤﺗ</UnfinishedWeapon.label>
+  
+  <UnfinishedWeapon.description>.ﻊﻴﻨﺼﺘﻟﺍ ﺪﻴﻗ ﺡﻼﺴﻟﺍ</UnfinishedWeapon.description>
+  
+</LanguageData>
