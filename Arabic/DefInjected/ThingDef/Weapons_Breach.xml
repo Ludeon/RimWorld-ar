@@ -1,0 +1,16 @@
+<LanguageData>
+  
+  
+  <Bullet_ThumpCannon.label>ﺔﻬﺟﻮﻣ ﺔﻔﻳﺬﻗ</Bullet_ThumpCannon.label>
+  
+  
+  <Gun_ThumpCannon.label>ﺏﺮﻀﻟﺍ ﺡﻼﺳ</Gun_ThumpCannon.label>
+  
+  <Gun_ThumpCannon.description>ﻥﺍﺭﺪﺠﻟﺍ ﻕﺍﺮﺘﺧﻻ ﻡﺪﺨﺘﺴﻤﻟﺍ ،ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻠﻟ ﻲﻔﺻﺎﻌﻟﺍ ﻒﺋﺍﺬﻘﻟﺍ ﻊﻓﺪﻣ
+.ﺔﻴﺤﻟﺍ ﺕﺍﻮﻘﻟﺍ ﺪﺿ ﻝﺎﻌﻓ ﺮﻴﻏ .ﺕﺎﻨﻴﺼﺤﺘﻟﺍﻭ</Gun_ThumpCannon.description>
+  
+  <Gun_ThumpCannon.tools.barrel.label>ﻕﺎﺴﻟﺍ</Gun_ThumpCannon.tools.barrel.label>
+  
+  <Gun_ThumpCannon.verbs.Verb_Shoot.label>ﺏﺮﻀﻟﺍ ﺡﻼﺳ</Gun_ThumpCannon.verbs.Verb_Shoot.label>
+  
+</LanguageData>
