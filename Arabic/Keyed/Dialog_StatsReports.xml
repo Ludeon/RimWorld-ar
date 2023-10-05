@@ -1,0 +1,706 @@
+<LanguageData>
+
+  
+  <Tool>Part</Tool>
+  
+  <DamageLower>ﺭﺮﻀﻟﺍ</DamageLower>
+  
+  <SecondsPerAttackLower>ﻡﻮﺠﻬﻠﻟ ﻲﻧﺍﻮﺛ</SecondsPerAttackLower>
+
+  
+  <StatsReport_BaseValue>ﺔﻴﺳﺎﺳﻷﺍ ﺔﻤﻴﻘﻟﺍ</StatsReport_BaseValue>
+  
+  <StatsReport_RelevantTraits>ﺔﻳﺮﻴﺛﺄﺘﻟﺍ ﺕﺎﻤﺴﻟﺍ</StatsReport_RelevantTraits>
+  
+  <StatsReport_RelevantGear>ﺀﺍﺩﻷﺍ ﻰﻠﻋ ﺮﺛﺆﺗ ﻲﺘﻟﺍ ﺕﺍﺰﻴﻬﺠﺘﻟﺍ</StatsReport_RelevantGear>
+  
+  <StatsReport_RelevantHediffs>ﺓﺮﺛﺆﻤﻟﺍ ﺔﻴﺤﺼﻟﺍ ﺔﻟﺎﺤﻟﺍ</StatsReport_RelevantHediffs>
+  
+  <StatsReport_LifeStage>ﺓﺎﻴﺤﻟﺍ ﺔﻠﺣﺮﻣ</StatsReport_LifeStage>
+  
+  <StatsReport_Material>ﺩﺍﻮﻤﻟﺍ</StatsReport_Material>
+  
+  <StatsReport_CharacterQuality>ﺔﻴﺼﺨﺸﻟﺍ ﺕﺎﻔﺻ</StatsReport_CharacterQuality>
+  
+  <StatsReport_Skills>ﺕﺍﺭﺎﻬﻤﻟﺍ ﻞﻣﺍﻮﻋ</StatsReport_Skills>
+  
+  <StatsReport_OtherStats>ﻯﺮﺧﺃ ﻞﻣﺍﻮﻋ - ﺔﺠﻟﺎﻌﻤﻟﺍ ﺪﻌﺑ ﺎﻣ</StatsReport_OtherStats>
+  
+  <StatsReport_Health>ﺔﺤﺼﻟﺍ ﻞﻣﺍﻮﻋ</StatsReport_Health>
+  
+  <HealthFactorPercentImpact>{0} ﺔﻴﻤﻫﺃ</HealthFactorPercentImpact>
+  
+  <HealthOffsetScale>{0} ﺮﻴﺛﺄﺗ</HealthOffsetScale>
+  
+  <HealthFactorMaxImpact>{0} ﻰﺼﻗﺃ</HealthFactorMaxImpact>
+  
+  <HealthFactorAllowedDefect>{0} ﻦﻣ ﻞﻗﺃ ﻥﺎﻛ ﺍﺫﺇ</HealthFactorAllowedDefect>
+  
+  <StatsReport_PostProcessed>ﺝﺎﺘﻧﻹﺍ ﺪﻌﺑ ﺎﻣ ﺔﺠﻟﺎﻌﻣ</StatsReport_PostProcessed>
+  
+  <StatsReport_ShootingExampleDistances>ﺓﺮﻴﺒﻛ ﺕﺎﻓﺎﺴﻣ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﺔﺻﺮﻓ</StatsReport_ShootingExampleDistances>
+  
+  <StatsReport_FinalValue>ﻻﺎﻤﺟﺇ</StatsReport_FinalValue>
+  
+  <StatsReport_MultiplierFor>{lookup: {0}; Case; 1} ـﻟ ﻒﻋﺎﻀﻣ</StatsReport_MultiplierFor>
+  
+  <StatsReport_MarketValueFromStuffsAndWork>ﻞﻤﻌﻟﺍﻭ ﺩﺍﻮﻤﻟﺍ</StatsReport_MarketValueFromStuffsAndWork>
+  
+  <StatsReport_QualityMultiplier>ﺓﺩﻮﺠﻟﺍ ﻞﻣﺎﻌﻣ</StatsReport_QualityMultiplier>
+  
+  <StatsReport_QualityOffset>ﺓﺩﻮﺠﻟﺍ ﻲﻓ ﺓﺩﺎﻳﺯ</StatsReport_QualityOffset>
+  
+  <StatsReport_MaxGain>ﻰﺼﻗﻷﺍ ﺪﺤﻟﺍ</StatsReport_MaxGain>
+  
+  <StatsReport_AgeMultiplier>{0} ﺮﻤﻌﻟﺍ ﻞﻣﺎﻌﻣ</StatsReport_AgeMultiplier>
+  
+  <StatsReport_AgeOffset>{0} ﺮﻤﻌﻟﺍ ﻲﻓ ﺓﺩﺎﻳﺯ</StatsReport_AgeOffset>
+  
+  <StatsReport_HealthMultiplier>{0} ﺔﻧﺎﺘﻤﻟﺍ ﻞﻣﺎﻌﻣ</StatsReport_HealthMultiplier>
+  
+  <StatsReport_ReloadMarketValue>lookup: {AMMO_label};} ﺓﺪﺣﻭ {COUNT}) ﺔﺌﺒﻌﺘﻟﺍ ﺓﺩﺎﻋﺇ ﺔﻔﻠﻜﺗ
+({Case; 1</StatsReport_ReloadMarketValue> 
+  
+  <StatsReport_ReloadRemainingChargesMultipler>lookup: {CHARGENOUN_plural}; Case; 1}} : ﻲﻘﺒﺘﻤﻠﻟ ﻒﻋﺎﻀﻣ
+({({0</StatsReport_ReloadRemainingChargesMultipler>
+  
+  <StatsReport_MoodMultiplier>{0} ﺝﺍﺰﻤﻟﺍ ﻞﻣﺎﻌﻣ</StatsReport_MoodMultiplier>
+  
+  <StatsReport_LightMultiplier>{0} ﺓﺀﺎﺿﻹﺍ ﻞﻣﺎﻌﻣ</StatsReport_LightMultiplier>
+  
+  <StatsReport_DifficultyMultiplier>{0} ﺔﺑﻮﻌﺼﻟﺍ ﻞﻣﺎﻌﻣ</StatsReport_DifficultyMultiplier>
+  
+  <StatsReport_InBed>ﺮﻳﺮﺴﻟﺍ ﻲﻓ</StatsReport_InBed>
+  
+  <StatsReport_Facilities>ﻲﻧﺎﺒﻤﻟﺍ</StatsReport_Facilities>
+  
+  <StatsReport_BodySize>{0} ﻢﺴﺠﻟﺍ ﻢﺠﺣ ﻞﻣﺎﻌﻣ</StatsReport_BodySize>
+  
+  <StatsReport_HasHediffExplanation>ﺺﺨﺸﻟﺍ ﻭﺃ ﻞﻜﻴﻬﻟﺍ ﻭﺃ ﺯﺎﻬﺠﻟﺍ ﻒﻠﺗ ﻢﺗ</StatsReport_HasHediffExplanation>
+  
+  <StatsReport_MeleeDPSExplanation>* ﺓﺮﻤﻟﺍ ﺭﺮﻀﻟﺍ = ﺔﻴﻧﺎﺜﻟﺍ ﻲﻓ ﺭﺮﻀﻟﺍ
+ﺕﺎﺑﺮﻀﻟﺍ ﻦﻴﺑ ﺖﻗﻮﻟﺍ / ﻝﻮﺻﻮﻟﺍ ﺔﺻﺮﻓ</StatsReport_MeleeDPSExplanation>
+  
+  <StatsReport_MeleeDamage>ﺔﺒﻳﺮﻘﻟﺍ ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺭﺮﻀﻟﺍ</StatsReport_MeleeDamage>
+  
+  <StatsReport_Cooldown>ﻲﻨﻣﺰﻟﺍ ﻲﻓﺎﻌﺘﻟﺍ</StatsReport_Cooldown>
+  
+  <StatsReport_MeleeHitChance>ﻝﻮﺻﻮﻟﺍ ﺔﺻﺮﻓ</StatsReport_MeleeHitChance>
+  
+  <StatsReport_CooldownFormat>.ﺔﻴﻧﺎﺛ {0}</StatsReport_CooldownFormat>
+  
+  <StatsReport_BlockedByFences>ﺭﻮﺴﻟﺍ ﻒﻠﺧ</StatsReport_BlockedByFences>
+  
+  <StatsReport_RoamInterval>ﺕﺎﻤﻴﺨﻤﻟﺍ ﻦﻴﺑ ﺓﺮﺘﻔﻟﺍ</StatsReport_RoamInterval>
+  
+  <StatsReport_CaravanRideableAge>ﻞﻴﺨﻟﺍ ﺏﻮﻛﺮﻟ ﺐﺳﺎﻨﻤﻟﺍ ﺮﻤﻌﻟﺍ</StatsReport_CaravanRideableAge>
+  
+  <StatsReport_LifeExpectancy>ﺓﺎﻴﺤﻟﺍ ﺓﺪﻤﻟ ﻊﻗﻮﺘﻤﻟﺍ</StatsReport_LifeExpectancy>
+  
+  <StatsReport_MissingBodyParts>ﻢﺴﺠﻟﺍ ﺔﻣﻼﺳ ﻞﻣﺎﻌﻣ</StatsReport_MissingBodyParts>
+  
+  <StatsReport_GearAndInventoryMass>ﻞﻘﻨﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺔﻟﻮﻤﺤﻟﺍ</StatsReport_GearAndInventoryMass>
+  
+  <StatsReport_WornByCorpse>ﺚﺜﺠﻟﺍ ﻦﻣ ﺓﺫﻮﺧﺄﻤﻟﺍ ﺀﺎﻴﺷﻸﻟ ﻞﻣﺎﻌﻤﻟﺍ</StatsReport_WornByCorpse>
+  
+  <AverageOfAllAttacks>.ﺕﺎﻤﺠﻬﻟﺍ ﻊﻴﻤﺟ ﻂﺳﻮﺘﻣ</AverageOfAllAttacks>
+  
+  <StatsReport_ScenarioFactor>ﻲﻣﺍﺭﺪﻟﺍ ﺺﻨﻟﺍ</StatsReport_ScenarioFactor>
+  
+  <StatsReport_IngredientsMass>ﺕﺎﻧﻮﻜﻤﻟﺍ</StatsReport_IngredientsMass>
+  
+  <StatsReport_PermanentlyDisabled>.ﻞﻤﻌﻟﺍ ﻦﻣ ﻉﻮﻨﻟﺍ ﺍﺬﻫ ﺬﻴﻔﻨﺗ ﻦﻜﻤﻳ ﻻ</StatsReport_PermanentlyDisabled>
+  
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  
+  <StatsReport_AddedBodyPartsMass>ﻢﺴﺠﻠﻟ ﺔﻓﺎﻀﻤﻟﺍ ﺀﺍﺰﺟﻷﺍ</StatsReport_AddedBodyPartsMass>
+  
+  <StatsReport_StuffEffectMultiplier>ﺓﺩﺎﻤﻟﺍ ﺮﻴﺛﺄﺗ</StatsReport_StuffEffectMultiplier>
+  
+  <StatsReport_Resting>ﺔﺣﺍﺮﺘﺳﻻﺍ ﺀﺎﻨﺛﺃ</StatsReport_Resting>
+  
+  <StatsReport_JoyKind>ﻪﻴﻓﺮﺘﻟﺍ ﻉﻮﻧ</StatsReport_JoyKind>
+  
+  <StatsReport_WorkToUninstall>ﻚﻴﻜﻔﺘﻟﺍ ﺔﺑﻮﻌﺻ</StatsReport_WorkToUninstall>
+  
+  <StatsReport_Fence>ﺝﺎﻴﺳ</StatsReport_Fence>
+  
+  <StatsReport_PlantGrowth>{0} ﺞﻀﻨﻟﺍ ﻞﻣﺎﻌﻣ</StatsReport_PlantGrowth>
+  
+  <StatsReport_PlantGrowth_Wild>ﺔﻳﺮﺒﻟﺍ</StatsReport_PlantGrowth_Wild>
+  
+  <StatsReport_NotFlesh>ﻢﺤﻠﻟﺍ ﻦﻣ ﻻ</StatsReport_NotFlesh>
+  
+  <StatsReport_NotFresh>Decayed</StatsReport_NotFresh>
+  
+  <StatsReport_WildMan>ﺶﺣﻮﺘﻣ</StatsReport_WildMan>
+  
+  <StatsReport_NonToolAttack>ﻡﻮﺠﻬﻟﺍ</StatsReport_NonToolAttack>
+  
+  <StatsReport_Ideoligion>ﺔﻳﺮﻜﻔﻟﺍ ﻭﺃ ﺐﻫﺬﻤﻟﺍ</StatsReport_Ideoligion>
+  
+  <StatsReport_Malnutrition>{0} ﺊﻴﺴﻟﺍ ﻞﻛﻷﺍ ﻞﻣﺎﻌﻣ</StatsReport_Malnutrition>
+
+  
+  <StatReport_PossibleOffsets>ﺔﻨﻜﻤﻤﻟﺍ ﺕﻼﻳﺪﻌﺘﻟﺍ</StatReport_PossibleOffsets>
+  
+  <StatsReport_RoomImpressiveness>ﺔﻓﺮﻐﻟﺍ ﻦﻣ ﻉﺎﺒﻄﻧﺍ</StatsReport_RoomImpressiveness>
+  
+  <StatsReport_Lit>ﺓﺮﻓﺎﺳ</StatsReport_Lit>
+  
+  <StatsReport_GraveFull>{0} ﻰﻠﻋ ﻱﻮﺘﺤﻳ</StatsReport_GraveFull>
+  
+  <StatsReport_GraveFullAbstract>ﻥﺎﺴﻧﺇ ﺔﺜﺟ ﻰﻠﻋ ﻱﻮﺘﺤﻳ</StatsReport_GraveFullAbstract>
+  
+  <StatsReport_GraveCorpseRelatedAbstract>ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﺔﺘﻴﻤﻟﺍ ﺔﺜﺠﻟﺍ ﻑﺮﻌﻳ ﻞﻣﺄﺘﻤﻟﺍ</StatsReport_GraveCorpseRelatedAbstract>
+  
+  <StatsReport_FromQuality>ﺔﺒﻌﻠﻟﺍ ﺓﺩﻮﺟ ﻦﻣ</StatsReport_FromQuality>
+  
+  <StatsReport_NearbyArtificialStructures>ﺔﺒﻳﺮﻘﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ</StatsReport_NearbyArtificialStructures>
+  
+  <StatsReport_SatisfiesTitle>ﻡﺪﺨﺘﺴﻤﻟﺍ ﺐﻘﻟ ﻲﺿﺮﻳ</StatsReport_SatisfiesTitle>
+
+  
+  <Stat_RecreationType_Desc>ﻥﻮﻌﺿﺍﻮﻟﺍ .ﺔﻄﺸﻧﻷﺍ ﺐﺴﺣ ﺔﻔﻠﺘﺨﻣ ﻻﺎﻜﺷﺃ ﺬﺧﺄﻳ ﻪﻴﻓﺮﺘﻟﺍ
+ﺍﺬﻟ ، ﻪﻴﻓﺮﺘﻟﺍ ﻉﺍﻮﻧﺃ ﺲﻔﻧ ﻦﻣ ﻥﻮﻠﻤﻳ
+.ﻉﺎﻄﺘﺴﻤﻟﺍ ﺭﺪﻗ ﻢﻬﻏﺍﺮﻓ ﺖﻗﻭ ﻊﻳﻮﻨﺗ ﻢﻫﻷﺍ ﻦﻣ</Stat_RecreationType_Desc>
+  
+  <Stat_JoyKind_AllTypes>ﻪﻴﻓﺮﺘﻟﺍ ﻞﺋﺎﺳﻭ ﻊﻴﻤﺟ</Stat_JoyKind_AllTypes>
+  
+  <Stat_MineableThing_Name>ﺝﺮﺨﺘﺴﻤﻟﺍ ﺩﺭﻮﻤﻟﺍ</Stat_MineableThing_Name>
+  
+  <Stat_MineableThing_Desc>.ﻦﻳﺪﻌﺘﻟﺍ ﻦﻣ ﺝﺮﺨﺘﺴﻤﻟﺍ ﺩﺭﻮﻤﻟﺍ</Stat_MineableThing_Desc>
+  
+  <Stat_MiningYield_Name>ﺩﺭﺍﻮﻤﻟﺍ ﺔﻴﻤﻛ</Stat_MiningYield_Name>
+  
+  <Stat_MiningYield_Desc>.ﻦﻳﺪﻌﺘﻟﺍ ﺀﺎﻨﺛﺃ ﺔﻟﻮﺼﺤﻤﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﻦﻣ ﺔﻴﻤﻛ ﻰﺼﻗﺃ
+ﻲﻓ ﻞﻣﺎﻌﻟﺍ ﺕﺍﺭﺎﻬﻣ ﻰﻠﻋ ﺪﻤﺘﻌﺘﺳ ﺔﻴﻠﻌﻔﻟﺍ ﺔﻴﻤﻜﻟﺍ
+.ﻢﺟﺎﻨﻤﻟﺍ</Stat_MiningYield_Desc>
+  
+  <Stat_SourceSpecies_Name>ﺩﺭﺍﻮﻤﻟﺍ ﺪﻴﺻ ﻉﺍﻮﻧﺃ</Stat_SourceSpecies_Name>
+  
+  <Stat_SourceSpecies_Desc>ﺍﺬﻫ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﻉﺍﻮﻧﺃ
+.ﺎﻬﻨﻣ ﺩﺭﻮﻤﻟﺍ</Stat_SourceSpecies_Desc>
+  
+  <Stat_Stuff_Name>ﺓﺩﺎﻤﻟﺍ</Stat_Stuff_Name>
+  
+  <Stat_Stuff_Desc>ﻰﻠﻋ ﺮﺛﺆﻳ .ﺮﺼﻨﻌﻟﺍ ﺎﻬﻨﻣ ﻉﻮﻨﺼﻤﻟﺍ ﺓﺩﺎﻤﻟﺍ ﺪﻴﻛﺄﺗ
+ﺔﻳﺎﻤﺣﻭ ﺡﻼﺴﻟﺍ ﺓﻮﻗ ﻞﺜﻣ ﻞﻣﺍﻮﻌﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ
+.ﺮﻌﺴﻟﺍﻭ ﻝﺎﻤﺠﻟﺍﻭ ﺮﺼﻨﻌﻟﺍ ﺔﻧﺎﺘﻣﻭ ﺲﺑﻼﻤﻟﺍ ﻝﺰﻋﻭ ﻉﻭﺭﺪﻟﺍ</Stat_Stuff_Desc>
+  
+  <Stat_Weapon_Name>ﺡﻼﺴﻟﺍ</Stat_Weapon_Name>
+  
+  <Stat_Weapon_Desc>.ﻙﺮﺤﺘﻤﻟﺍ ﻉﺎﻓﺪﻟﺍ ﺍﺬﻫ ﻲﻓ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺡﻼﺴﻟﺍ</Stat_Weapon_Desc>
+  
+  <Stat_HitPoints_Desc>ﻩﺬﻫ ﺪﻤﺼﺗ ﻥﺃ ﻦﻜﻤﻳ ﺭﺮﻀﻟﺍ ﻦﻣ ﻢﻛ
+؟ﻩﺮﻴﻣﺪﺗ ﻞﺒﻗ ﻦﺋﺎﻜﻟﺍ</Stat_HitPoints_Desc>
+  
+  <Stat_Thing_WorkToUninstall_Desc>.ﻦﺋﺎﻜﻟﺍ ﺍﺬﻫ ﻚﻴﻜﻔﺘﻟ ﺝﺎﺘﺤﻳ ﻞﻤﻋ ﻢﻛ</Stat_Thing_WorkToUninstall_Desc>
+  
+  <Stat_Thing_Fence_Desc>ﺝﺎﻴﺴﻟﺍ ؟ﺝﺎﻴﺴﻟﺍ ﻦﻣ ﻉﻮﻧ ﺀﺎﻨﺒﻟﺍ ﺍﺬﻫ ﻞﻫ
+.ﺔﻴﻟﺎﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻝﻮﺻﻭ ﻊﻨﻤﻳ</Stat_Thing_Fence_Desc>
+  
+  <Stat_Thing_CreatedAt_Desc>ﺓﺩﺎﻋﺇ ﻰﺟﺮﻳ .ﻲﺳﻭﺮﻟﺍ ﺺﻨﻟﺍ ﺔﻤﺟﺮﺗ ﻊﻴﻄﺘﺳﺃ ﻻ
+.ﺔﻳﺰﻴﻠﺠﻧﻹﺍ ﺔﻐﻠﻟﺎﺑ ﻝﺍﺆﺴﻟﺍ ﺔﻏﺎﻴﺻ</Stat_Thing_CreatedAt_Desc>
+  
+  <Stat_Thing_Damage_Desc>.ﺡﻼﺴﻟﺍ ﺍﺬﻫ ﻪﺑ ﺐﺒﺴﺘﻳ ﻱﺬﻟﺍ ﺭﺮﻀﻟﺍ ﺭﺍﺪﻘﻣ
+ﻪﺻﺎﺼﺘﻣﺍ ﻭﺃ ﺭﺮﻀﻟﺍ ﺪﺻ ﻢﺘﻳ ﻥﺃ ﻦﻜﻤﻳ
+.ﻑﺪﻬﻟﺍ ﻉﺭﺩ ﺔﻄﺳﺍﻮﺑ ﺎﻴﺋﺰﺟ</Stat_Thing_Damage_Desc>
+  
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>ﺍﺬﻫ ﻡﺍﺪﺨﺘﺳﺍ ﺪﻨﻋ ﺐﻴﺒﻄﻟﺍ ﺔﺑﺮﺠﺗ ﻒﻌﺿ ﻞﻣﺎﻌﻣ
+.ﻰﺿﺮﻤﻟﺍ ﺔﻳﺎﻋﺮﻟ ﺮﺼﻨﻌﻟﺍ</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  
+  <Stat_Thing_Plant_Attributes_Desc>.ﺕﺎﺒﻨﻟﺍ ﺍﺬﻫ ﺕﺎﻤﺳ</Stat_Thing_Plant_Attributes_Desc>
+  
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>(ﻦﻴﻳﺭﺎﻌﻠﻟ) ﺲﺑﻼﻤﻟﺍ</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
+  
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>ﻢﻟ ﺍﺫﺇ ؟ﺎﺴﺑﻼﻣ ﺀﻲﺸﻟﺍ ﺍﺬﻫ ﺓﺍﺮﻌﻟﺍ ﺮﺒﺘﻌﻴﺳ
+.ﻢﻬﺠﻋﺰﻳ ﻦﻟ ﻩﺀﺍﺪﺗﺭﺎﻓ ، ﻚﻟﺬﻛ ﻦﻜﻳ</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
+  
+  <Stat_Thing_Apparel_Covers_Desc>ﻦﻣ ﺔﻌﻄﻘﻟﺍ ﺍﺬﻫ ﺔﻄﺳﺍﻮﺑ ﺓﺎﻄﻐﻤﻟﺍ ﻢﺴﺠﻟﺍ ﺀﺍﺰﺟﺃ
+ﻢﺴﺠﻟﺍ ﺀﺍﺰﺟﺃ ﻉﻭﺭﺪﻟﺍ ﻲﻤﺤﺗ ﻻn\n\.ﺕﺍﺰﻴﻬﺠﺘﻟﺍ ﻭﺃ ﺲﺑﻼﻤﻟﺍ
+.ﺎﻬﻴﻄﻐﺗ ﻻ ﻲﺘﻟﺍ</Stat_Thing_Apparel_Covers_Desc>
+  
+  <Stat_Thing_Apparel_Layer_Desc>؟ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﻲﻤﺘﻨﻳ ﺲﺑﻼﻣ ﺕﺎﻘﺒﻃ ﻱﺃ ﻰﻟﺇ
+ﺔﻌﻄﻘﺑ ﻢﺴﺠﻟﺍ ﻦﻣ ﺀﺰﺟ ﻞﻛ ﺔﻴﻄﻐﺗ ﻦﻜﻤﻳ
+.ﺔﻘﺒﻃ ﻞﻜﻟ ﺲﺑﻼﻤﻟﺍ ﻦﻣ ﺓﺪﺣﺍﻭ</Stat_Thing_Apparel_Layer_Desc>
+  
+  <Stat_Thing_Plant_FertilityRequirement_Desc>.ﺔﺘﺒﻨﻟﺍ ﻩﺬﻫ ﻮﻤﻨﻟ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺔﺑﺮﺘﻠﻟ ﻰﻧﺩﻷﺍ ﺔﺑﻮﺼﺨﻟﺍ</Stat_Thing_Plant_FertilityRequirement_Desc>
+  
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>ﺔﻤﻴﻘﻟﺍ .ﺔﺑﺮﺘﻟﺍ ﺔﺑﻮﺼﺧ ﻰﻟﺇ ﺕﺎﺒﻨﻟﺍ ﺍﺬﻬﻟ ﺔﻴﺳﺎﺴﺤﻟﺍ
+ﺲﻔﻨﺑ ﻮﻤﻨﻴﺳ ﺕﺎﺒﻨﻟﺍ ﻥﺃ ﻰﻟﺇ ﺮﻴﺸﺗ ﺔﻀﻔﺨﻨﻤﻟﺍ
+ﺔﻴﻟﺎﻌﻟﺍ ﺔﻤﻴﻘﻟﺍ .ﺔﺒﺼﺨﻟﺍﻭ ﺓﺮﻴﻘﻔﻟﺍ ﺔﺑﺮﺘﻟﺍ ﻰﻠﻋ ﺔﻋﺮﺴﻟﺍ
+ﻰﻠﻋ ﺀﻂﺒﺑ ﻮﻤﻨﻳ ﺕﺎﺒﻨﻟﺍ ﻥﺃ ﻰﻟﺇ ﺮﻴﺸﺗ
+.ﺔﺒﺼﺨﻟﺍ ﺔﺑﺮﺘﻟﺍ ﻰﻠﻋ ﺔﻋﺮﺴﺑﻭ ﺓﺮﻴﻘﻔﻟﺍ ﺔﺑﺮﺘﻟﺍ</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  
+  <Stat_Thing_Plant_LightRequirement_Desc>.ﺔﺘﺒﻨﻟﺍ ﻩﺬﻫ ﻮﻤﻨﻟ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺀﻮﻀﻟﺍ ﺔﻴﻤﻛ</Stat_Thing_Plant_LightRequirement_Desc>
+  
+  <Stat_Thing_Plant_LifeSpan_Desc>.ﺕﺎﺒﻨﻟﺍ ﺍﺬﻫ ﺓﺎﻴﺣ ﺓﺪﻣ
+
+ﺾﻐﺑ ،ﺩﺪﺤﻣ ﻦﺳ ﺎﻬﻏﻮﻠﺑ ﺪﻨﻋ ﺕﻮﻤﺗ ﺕﺎﺗﺎﺒﻨﻟﺍ
+ﺎﻬﻨﻣ ﻝﻮﺼﺤﻣ ﻲﻨﺟ ﻢﺗ ﺍﺫﺇ ﺎﻤﻋ ﺮﻈﻨﻟﺍ
+.ﻻ ﻡﺃ</Stat_Thing_Plant_LifeSpan_Desc>
+  
+  <Stat_Thing_Plant_HarvestYield_Desc>ﺍﺬﻫ ﻦﻣ ﺎﻫﺩﺎﺼﺣ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺕﻻﻮﺼﺤﻤﻟﺍ ﺩﺪﻋ
+.ﺕﺎﺒﻨﻟﺍ</Stat_Thing_Plant_HarvestYield_Desc>
+  
+  <Stat_Thing_Plant_MinGrowthTemperature_Desc>ﻥﺃ ﺕﺎﺒﻨﻟﺍ ﺍﺬﻬﻟ ﻦﻜﻤﻳ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﻰﻧﺩﺃ
+ﻊﻣ ﺕﺎﺒﻨﻠﻟ ﺍﺭﺮﺿ ﺐﺒﺴﺗ ﻞﻗﻷﺍ ﺕﺍﺭﺍﺮﺤﻟﺍn\n\.ﺎﻬﺑ ﺶﻴﻌﻳ
+.ﺖﻗﻮﻟﺍ ﺭﻭﺮﻣ</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+  
+  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>ﺀﺎﻘﺒﻟﺍ ﺔﺘﺒﻨﻟﺍ ﻩﺬﻬﻟ ﻦﻜﻤﻳ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ ﻰﺼﻗﺃ
+ﺭﻭﺮﻣ ﻊﻣ ﺕﺎﺒﻨﻠﻟ ﺍﺭﺮﺿ ﺐﺒﺴﺗ ﻰﻠﻋﻷﺍ ﺕﺍﺭﺍﺮﺤﻟﺍn\n\.ﺎﻫﺪﻨﻋ
+.ﺖﻗﻮﻟﺍ</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+  
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>ﺍﺬﻫ ﺔﻋﺍﺭﺰﻟ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺡﻼﻔﻟﺍ ﺓﺭﺎﻬﻤﻟ ﻰﻧﺩﻷﺍ ﻯﻮﺘﺴﻤﻟﺍ
+.ﺕﺎﺒﻨﻟﺍ</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  
+  <Stat_Race_Diet_Desc>ﻥﺃ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻬﻟ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﻡﺎﻌﻄﻟﺍ ﻉﺍﻮﻧﺃ
+{0} :ﻞﻛﺄﻳ ﻥﺃ ﻪﻨﻜﻤﻳ .ﺎﻬﻴﻠﻋ ﻯﺬﻐﺘﻳ</Stat_Race_Diet_Desc>
+  
+  <Stat_Race_LeatherType_Desc>ﻦﻣ ﻪﻴﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻳ ﻱﺬﻟﺍ ﺪﻠﺠﻟﺍ ﻉﻮﻧ
+.ﻪﺤﻳﺮﺸﺗ ﺪﻨﻋ ﻦﺋﺎﻜﻟﺍ ﺍﺬﻫ</Stat_Race_LeatherType_Desc>
+  
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>ﻰﻠﻋ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﻞﺒﻗ ﻦﻣ ﻡﻮﺠﻬﻟﺍ ﻝﺎﻤﺘﺣﺍ
+.ﻩﺩﺎﻘﺌﺘﺳﺍ ﺔﻟﻭﺎﺤﻣ ﻞﺸﻓ ﺪﻨﻋ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺽﻭﺮﻣ</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  
+  <Stat_Race_Trainability_Desc>ﺩﺪﺤﻳ ،ﺰﻴﻛﺮﺘﻟﺍ ﻰﻠﻋ ﻪﺗﺭﺪﻗﻭ ﻦﺋﺎﻜﻟﺍ ﺀﺎﻛﺫ ﻉﺎﻤﺟﺇ
+.ﻡﺎﻬﻣ ﻦﻣ ﻩﺯﺎﺠﻧﺇ ﻰﻠﻋ ﻪﺒﻳﺭﺪﺗ ﻦﻜﻤﻳ ﺎﻣ</Stat_Race_Trainability_Desc>
+  
+  <Stat_Race_LifeExpectancy_Desc>.ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﺮﻤﻌﻟ ﻊﻗﻮﺘﻤﻟﺍ ﻂﺳﻮﺘﻣ</Stat_Race_LifeExpectancy_Desc>
+  
+  <Stat_Race_BlockedByFences_Desc>ﺝﺎﻴﺴﻟﺍ ﻦﻣ ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﻞﻫ
+؟ﺰﺟﺍﻮﺤﻟﺍ ﻭﺃ</Stat_Race_BlockedByFences_Desc>
+  
+  <Stat_Race_RoamInterval_Desc>،ﺏﻭﺮﻬﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ ﺔﻟﻭﺎﺤﻤﻟ ﺩﺪﺤﻣ ﺖﻗﻭ ﺪﺟﻮﻳ ﻻ
+ﺮﺷﺎﺒﻣ ﺭﺎﺴﻣ ﺪﺟﻭ ﺍﺫﺇ ﻂﻘﻓ ﺏﺮﻬﻴﺳ ﻪﻨﻜﻟﻭ
+ﺀﺎﺸﻧﺈﺑ ﻢﻗ ،ﻚﻟﺫ ﺐﻨﺠﺘﻟ .ﺔﻄﻳﺮﺨﻟﺍ ﺔﻓﺎﺣ ﻰﻟﺇ
+.ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺏﺍﻮﺑﺃﻭ ﻥﺍﺭﺪﺟ ﻭﺃ ﺰﺟﺍﻮﺣ ﻭﺃ ﺭﺍﻮﺳﺃ
+.ﺓﺮﻴﻈﺤﻟﺍ ﻰﻟﺇ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺓﺩﺎﻋﺇ ﻦﻴﻴﺑﺮﻤﻠﻟ ﻦﻜﻤﻳ</Stat_Race_RoamInterval_Desc>
+  
+  <Stat_Thing_Ingestible_Joy_Desc>ﻙﻼﻬﺘﺳﺍ ﺪﻨﻋ ﻪﻴﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻢﺘﻳ ﻲﻬﻴﻓﺮﺗ ﺮﻴﺛﺄﺗ
+ﻥﺃ ﻰﻟﺇ ﺮﻴﺸﺗ ﻰﻠﻋﻷﺍ ﻢﻴﻘﻟﺍ .ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ
+.ﺮﻴﺒﻛ ﺪﺣ ﻰﻟﺇ ﻪﻴﻓﺮﺘﻟﺍ ﺕﺎﺟﺎﻴﺘﺣﺍ ﻲﺒﻠﻳ ﺮﺼﻨﻌﻟﺍ</Stat_Thing_Ingestible_Joy_Desc>
+  
+  <Stat_Race_BodySize_Desc>ﻢﺴﺟ ﻢﺠﺤﺑ ﺔﻧﺭﺎﻘﻣ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﻢﺴﺟ ﻢﺠﺣ
+.ﻱﺩﺎﻌﻟﺍ ﻥﺎﺴﻧﻹﺍ</Stat_Race_BodySize_Desc>
+  
+  <Stat_Race_Growth_Desc>ﺢﺒﺼﻳ ﻥﺃ ﻦﻣ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﺏﺮﻗ ﻯﺪﻣ
+ﻮﻤﻧ ﺔﻋﺮﺳ ﻥﻮﻜﺘﺳ .ﺓﺪﻴﺟ ﺔﻳﺬﻐﺗ ﻮﻤﻨﻟﺍ ﺐﻠﻄﺘﻳn\n\.ﺎﻐﻟﺎﺑ
+.ﻯﺬﻐﻤﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺄﻄﺑﺃ ﻊﺋﺎﺠﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ</Stat_Race_Growth_Desc>
+  
+  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>ﻡﻮﺠﻬﻟﺍ ﺔﻳﺍﺪﺑ ﻦﻴﺑ ﺖﻗﻮﻟﺍ ﻦﻣ ﻕﺮﻐﺘﺴﻳ ﻢﻛ
+ﻰﺘﺣ ﺔﺒﻳﺮﻘﻟﺍ ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺡﻼﺴﻟﺍ ﺍﺬﻫ ﻡﺍﺪﺨﺘﺳﺎﺑ
+؟ﺔﺑﺮﻀﻟﺍ</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  
+  <Stat_Thing_Weapon_RangedWarmupTime_Desc>؟ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇﻭ ﺐﻳﻮﺼﺘﻟﺍ ﺔﻳﺍﺪﺑ ﻦﻴﺑ ﻲﻨﻣﺰﻟﺍ ﻞﺻﺎﻔﻟﺍ</Stat_Thing_Weapon_RangedWarmupTime_Desc>
+  
+  <Stat_Thing_Weapon_BurstShotCount_Desc>ﺡﻼﺴﻟﺍ ﺍﺬﻬﺑ ﺎﻬﻗﻼﻃﺇ ﻢﺘﻳ ﻲﺘﻟﺍ ﺕﺎﻘﻠﻄﻟﺍ ﺩﺪﻋ
+.ﺓﺪﺣﺍﻭ ﺔﻌﻓﺩ ﻲﻓ</Stat_Thing_Weapon_BurstShotCount_Desc>
+  
+  <Stat_Thing_Weapon_BurstShotFireRate_Desc>ﻞﻛ ﻲﻓ ﺡﻼﺴﻟﺍ ﺍﺬﻬﻟ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﺔﻋﺮﺳ
+.ﺔﻌﻓﺩ</Stat_Thing_Weapon_BurstShotFireRate_Desc>
+  
+  <Stat_Thing_Weapon_Range_Desc>ﺭﺎﻨﻟﺍ ﻕﻼﻃﻹ ﻯﺪﻣ ﻰﺼﻗﺃ</Stat_Thing_Weapon_Range_Desc>
+  
+  <Stat_Thing_Weapon_MissRadius_Desc>ﻥﺃ ﻰﻟﺇ ﺮﺷﺆﻤﻟﺍ ﺍﺬﻬﻟ ﺔﻴﻟﺎﻌﻟﺍ ﻢﻴﻘﻟﺍ ﺮﻴﺸﺗ
+ﻑﺪﻬﻟﺍ ﻦﻋ ﺍﺪﻴﻌﺑ ﻲﺋﺍﻮﺸﻋ ﻞﻜﺸﺑ ﺩﺪﺒﺘﺘﺳ ﺕﺎﻘﻠﻄﻟﺍ
+.ﺩﺪﺤﻤﻟﺍ</Stat_Thing_Weapon_MissRadius_Desc>
+  
+  <Stat_Thing_Weapon_DirectHitChance_Desc>ﺍﺫﺇ ،ﺐﻨﺠﺗ ﻥﻭﺪﺑ ﺓﺮﺷﺎﺒﻣ ﻑﺪﻬﻟﺍ ﺏﺮﺿ ﻝﺎﻤﺘﺣﺍ
+.ﺎﻬﻓﺎﻘﻳﺇ ﻭﺃ ﺔﻔﻳﺬﻘﻟﺍ ﺽﺍﺮﺘﻋﺍ ﻢﺘﻳ ﻢﻟ</Stat_Thing_Weapon_DirectHitChance_Desc>
+  
+  <Stat_Thing_MoodChange_Desc>ﺝﺍﺰﻣ ﻰﻠﻋ ﻢﺴﺠﻟﺍ ﻦﻣ ﺀﺰﺠﻟﺍ ﺍﺬﻫ ﺮﻴﺛﺄﺗ
+.ﻪﻜﻟﺎﻣ</Stat_Thing_MoodChange_Desc>
+  
+  <Stat_Recipe_Skill_Desc>ﺩﺪﺤﺗ .ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﺀﺍﺩﻷ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺔﻴﺳﺎﺳﻷﺍ ﺓﺭﺎﻬﻤﻟﺍ
+.ﻞﻤﻌﻟﺍ ﺀﺎﻨﺛﺃ ﻊﻔﺗﺮﺗﻭ ﺔﺠﻴﺘﻨﻟﺍ ﺓﺩﻮﺟ</Stat_Recipe_Skill_Desc>
+  
+  <Stat_Recipe_Ingredients_Desc>.ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﻝﺎﻤﻛﻹ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺕﺎﻧﻮﻜﻤﻟﺍ</Stat_Recipe_Ingredients_Desc>
+  
+  <Stat_Recipe_SkillRequirements_Desc>.ﻞﻤﻌﻟﺍ ﺍﺬﻫ ﺀﺍﺩﻷ ﺔﺑﻮﻠﻄﻤﻟﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ</Stat_Recipe_SkillRequirements_Desc>
+  
+  <Stat_Recipe_Products_Desc>.ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﻝﺎﻤﻛﺇ ﻝﻼﺧ ﻦﻣ ﺔﻟﻮﺼﺤﻤﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ</Stat_Recipe_Products_Desc>
+  
+  <Stat_Recipe_WorkSpeedStat_Desc>ﻞﻣﺎﻌﻣ ﻰﻠﻋ ﺪﻤﺘﻌﺗ ﻞﻤﻌﻟﺍ ﺍﺬﻫ ﺯﺎﺠﻧﺇ ﺔﻋﺮﺳ
+،ﻞﻣﺎﻌﻤﻟﺍ ﺍﺬﻫ ﺩﺍﺯ ﺎﻤﻠﻛ .ﻚﻟﺬﺑ ﺹﺎﺨﻟﺍ ﺔﻴﺼﺨﺸﻟﺍ
+.ﻞﻤﻌﻟﺍ ﻡﺎﻤﺗﺇ ﺔﻋﺮﺳ ﺕﺩﺍﺯ</Stat_Recipe_WorkSpeedStat_Desc>
+  
+  <Stat_Recipe_EfficiencyStat_Desc>ﺩﺪﺤﻳ ﻮﻫﻭ "ﺓﺭﺎﻬﻤﻟﺍ" ﻰﻤﺴﻳ ﺮﺘﻣﺍﺭﺎﺒﻟﺍ ﺍﺬﻫ ﻥﺇ
+ﻩﺬﻫ ﺕﺩﺍﺯ ﺎﻤﻠﻛ .ﺝﺮﺨﺘﺴﻤﻟﺍ ﺞﺘﻨﻤﻟﺍ ﺔﻴﻤﻛﻭ ﺓﺩﻮﺟ
+ﺔﻴﻤﻜﻟﺍ ﻭﺃ ﺓﺩﻮﺠﻟﺍ ﺕﺩﺍﺯ ،ﺓﺭﺎﻬﻤﻟﺍ</Stat_Recipe_EfficiencyStat_Desc>
+  
+  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>ﺖﻧﺎﻛ ﺎﻤﻠﻛ .ﺔﻴﻠﻤﻌﻟﺍ ﻩﺬﻫ ﺡﺎﺠﻧ ﻝﺎﻤﺘﺣﺍ ﻞﻣﺎﻌﻣ
+ﻞﻣﺎﻌﻤﻟﺍ ﻥﺎﻛ ﺎﻤﻠﻛ ، ﺍﺪﻴﻘﻌﺗ ﺮﺜﻛﺃ ﺔﻴﻠﻤﻌﻟﺍ
+.ﻞﻗﺃ
+ﺐﻴﺒﻄﻟﺍ ﻰﻠﻋ ﺎﻀﻳﺃ ﺪﻤﺘﻌﺗ ﺔﻴﻠﻤﻌﻠﻟ ﺔﻴﻠﻌﻔﻟﺍ ﺔﺠﻴﺘﻨﻟﺍ
+.ﺔﻳﻭﺩﻷﺍﻭ ﺕﺍﺪﻌﻤﻟﺍﻭ ﺔﻓﺮﻐﻟﺍﻭ</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
+  
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>ﻞﻴﺤﺘﺴﻣ ﻞﺸﻔﻟﺍ</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
+  
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>.ﺾﻳﺮﻤﻠﻟ ﻦﻣﺁ ﺀﺍﺮﺟﻹﺍ ﺍﺬﻬﺑ ﻡﺎﻴﻘﻟﺍ</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
+  
+  <Stat_Thing_Surgery_DeathOnFailChance_Desc>ﺔﻴﻠﻤﻌﻟﺍ ﻞﺸﻓ ﺔﻟﺎﺣ ﻲﻓ ﺾﻳﺮﻤﻟﺍ ﺓﺎﻓﻭ ﻝﺎﻤﺘﺣﺇ
+.ﺔﻴﺣﺍﺮﺠﻟﺍ</Stat_Thing_Surgery_DeathOnFailChance_Desc>
+  
+  <Stat_Hediff_TotalBleedFactor_Name>ﻒﻳﺰﻨﻟﺍ ﻞﻣﺎﻌﻣ</Stat_Hediff_TotalBleedFactor_Name>
+  
+  <Stat_Hediff_TotalBleedFactor_Desc>.ﻡﺎﻌﻟﺍ ﻡﺪﻟﺍ ﻥﺍﺪﻘﻓ ﻝﺪﻌﻣ ﻰﻠﻋ ﺔﻘﺒﻄﻤﻟﺍ ﺔﺑﺮﻀﻟﺍ</Stat_Hediff_TotalBleedFactor_Desc>
+  
+  <Stat_Hediff_NaturalHealingFactor_Name>ﺀﺎﻔﺸﻟﺍ ﻒﻋﺎﻀﻣ</Stat_Hediff_NaturalHealingFactor_Name>
+  
+  <Stat_Hediff_NaturalHealingFactor_Desc>.ﺔﻣﺎﻌﻟﺍ ﺡﻭﺮﺠﻟﺍ ﻡﺎﺌﺘﻟﺍ ﺔﻋﺮﺳ ﻰﻠﻋ ﻖﺒﻄﻳ ﻒﻋﺎﻀﻣ</Stat_Hediff_NaturalHealingFactor_Desc>
+  
+  <Stat_Hediff_FoodPoisoningChanceFactor_Name>ﻡﺎﻌﻄﻟﺍ ﻢﻤﺴﺗ ﺔﺻﺮﻓ ﻞﻣﺎﻌﻣ</Stat_Hediff_FoodPoisoningChanceFactor_Name>
+  
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>.ﻲﺋﺍﺬﻏ ﻢﻤﺴﺘﺑ ﺔﺑﺎﺻﻹﺍ ﺔﻴﻟﺎﻤﺘﺣﺍ ﻰﻠﻋ ﻖﺒﻄﻳ ﻞﻣﺎﻌﻣ</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  
+  <Stat_Hediff_BleedingRate_Desc>ﻡﺪﻟﺍ ﻥﺍﺪﻘﻓ ﺔﻋﺮﺳ</Stat_Hediff_BleedingRate_Desc>
+  
+  <Stat_Hediff_Pain_Desc>ﺔﺒﺒﺴﻤﻟﺍ ﻢﻟﻷﺍ ﺔﻴﻤﻛ</Stat_Hediff_Pain_Desc>
+  
+  <Stat_Hediff_PartEfficiency_Desc>.ﺓﺮﺛﺄﺘﻤﻟﺍ ﻢﺴﺠﻟﺍ ﺀﺍﺰﺟﺃ ﺓﺀﺎﻔﻛ ﺽﺎﻔﺨﻧﺍ ﻭﺃ ﺓﺩﺎﻳﺯ</Stat_Hediff_PartEfficiency_Desc>
+  
+  <Stat_Hediff_Affects_Desc>.ﺓﺮﺛﺄﺘﻤﻟﺍ ﺔﻴﻠﻘﻌﻟﺍ ﺕﺍﺭﺪﻘﻟﺍ</Stat_Hediff_Affects_Desc>
+  
+  <Stat_Hediff_HungerRateOffset_Name>ﻉﻮﺠﻟﺍ ﺓﺩﺎﻳﺯ</Stat_Hediff_HungerRateOffset_Name>
+  
+  <Stat_Hediff_HungerRateFactor_Desc>.ﻉﻮﺠﻟﺍ ﺽﺎﻔﺨﻧﺍ ﺔﻋﺮﺳ ﻞﻣﺎﻌﻣ</Stat_Hediff_HungerRateFactor_Desc>
+  
+  <Stat_Hediff_HungerRateOffset_Desc>.ﻉﻮﺠﻟﺍ ﺙﻭﺪﺣ ﺔﻋﺮﺳ ﻲﻓ ﺮﻴﻐﺘﻟﺍ ﺭﺍﺪﻘﻣ</Stat_Hediff_HungerRateOffset_Desc>
+  
+  <Stat_Hediff_TirednessOffset_Name>ﻕﺎﻫﺭﻹﺍ ﺓﺩﺎﻳﺯ</Stat_Hediff_TirednessOffset_Name>
+  
+  <Stat_Hediff_TirednessOffset_Desc>.ﻡﻮﻨﻟﺍ ﺔﺟﺎﺣ ﺭﻮﻬﻇ ﻝﺪﻌﻣ ﺮﻴﻴﻐﺗ</Stat_Hediff_TirednessOffset_Desc>
+  
+  <Stat_Hediff_TirednessFactor_Desc>ﺔﺟﺎﺣ ﺭﻮﻬﻇ ﺔﻋﺮﺳ ﻰﻠﻋ ﻪﻘﻴﺒﻄﺗ ﻢﺘﻳ ﻞﻣﺎﻌﻣ
+.ﻡﻮﻨﻟﺍ</Stat_Hediff_TirednessFactor_Desc>
+  
+  <Stat_Hediff_PreventsInfection_Desc>.ﻯﻭﺪﻌﻟﺍ ﺙﻭﺪﺣ ﻊﻨﻤﺗ</Stat_Hediff_PreventsInfection_Desc>
+  
+  <Stat_Thing_Terrain_Supports_Desc>.ﺢﻄﺴﻟﺍ ﻩﺬﻫ ﻞﻤﺤﺗ ﺎﻬﻨﻜﻤﻳ ﻲﺘﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ</Stat_Thing_Terrain_Supports_Desc>
+  
+  <Stat_Thing_TerrainRequirement_Desc>ﻉﺍﻮﻧﺃ ﻰﻠﻋ ﻂﻘﻓ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﺖﻴﺒﺜﺗ ﻦﻜﻤﻳ
+.ﺔﻴﻟﺎﺘﻟﺍ ﺢﻄﺳﻷﺍ</Stat_Thing_TerrainRequirement_Desc>
+  
+  <Stat_Thing_Terrain_Fine_Name>It is considered</Stat_Thing_Terrain_Fine_Name>
+  
+  <Stat_Thing_Terrain_Fine_Value>ﻊﻴﻓﺭ ﺭﺎﻴﺧ</Stat_Thing_Terrain_Fine_Value>
+  
+  <Stat_Thing_Terrain_Fine_Desc>.ﺀﻼﺒﻨﻠﻟ ﺎﺒﺳﺎﻨﻣﻭ ﺍﺮﺧﺎﻓ ﺮﺒﺘﻌﻳ ﻑﻼﻐﻟﺍ ﺍﺬﻫ</Stat_Thing_Terrain_Fine_Desc>
+  
+  <Stat_Thing_PowerConsumption_Desc>ﻦﻣ ﻰﻨﺒﻤﻟﺍ ﺍﺬﻫ ﻞﺒﻗ ﻦﻣ ﺔﻜﻠﻬﺘﺴﻤﻟﺍ ﺔﻗﺎﻄﻟﺍ
+.ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺔﻜﺒﺸﻟﺍ</Stat_Thing_PowerConsumption_Desc>
+  
+  <Stat_Thing_ReloadChargesRemaining_Name>{CHARGENOUN_plural; Case; 1} ﻲﻘﺒﺘﻣ</Stat_Thing_ReloadChargesRemaining_Name>
+  
+  <Stat_Thing_ReloadChargesRemaining_Desc>ﺪﻨﻋ .ﺮﺼﻨﻌﻟﺍ ﺍﺬﻬﻟ ﺔﻴﻘﺒﺘﻤﻟﺍ &lt;CHARGENOUN_plural&gt; ﻝﺍ ﺩﺪﻋ
+.ﺎﺣﺎﺘﻣ ﻡﺍﺪﺨﺘﺳﻻﺍ ﻥﻮﻜﻳ ﻦﻟ ،ﺎﻫﺩﺎﻔﻧ</Stat_Thing_ReloadChargesRemaining_Desc>
+  
+  <Stat_Thing_ReloadMaxCharges_Name>ﺕﺎﻴﺼﺨﺸﻟﺍ ﺪﻴﻟﻮﺗ</Stat_Thing_ReloadMaxCharges_Name>
+  
+  <Stat_Thing_ReloadMaxCharges_Desc>{lookup: {CHARGENOUN_plural}; Case; 1} ﻦﻣ ﺩﺪﻋ ﻰﺼﻗﺃ
+.ﻦﺋﺎﻜﻟﺍ ﺍﺬﻬﻟ</Stat_Thing_ReloadMaxCharges_Desc>
+  
+  <Stat_Thing_ReloadRefill_Name>lookup: {CHARGENOUN_plural}; Case;} ـﻟﺍ ﻊﻴﻤﺟ ﺓﺩﺎﻌﺘﺳﺍ ﺔﻔﻠﻜﺗ
+{1</Stat_Thing_ReloadRefill_Name>
+  
+  <Stat_Thing_ReloadRefill_Desc>ﻦﻜﻤﻳn\n\.ﻞﻣﺎﻜﻟﺎﺑ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﻦﺤﺷ ﺓﺩﺎﻋﻹ ﺔﻣﺯﻼﻟﺍ ﺔﻴﻤﻜﻟﺍ
+،ﺕﺎﻨﺤﺸﻟﺍ ﺩﺎﻔﻧ ﻞﺒﻗ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﻦﺤﺷ ﺓﺩﺎﻋﺇ
+.ﺕﺎﻨﺤﺸﻟﺍ ﺖﻬﺘﻧﺍ ﻮﻟ ﺎﻤﻛ ﻥﻮﻜﺘﺳ ﺔﻔﻠﻜﺘﻟﺍ ﻦﻜﻟ</Stat_Thing_ReloadRefill_Desc>
+  
+  <Stat_Thing_ReloadPerCharge_Name>{1 ;ﺔﻟﺎﺤﻟﺍ ;{lookup: {CHARGENOUN} 1 ﻝﺍﺪﺒﺘﺳﺍ ﺔﻔﻠﻜﺗ</Stat_Thing_ReloadPerCharge_Name>
+  
+  <Stat_Thing_ReloadPerCharge_Desc>. &lt;CHARGENOUN&gt; 1 ﺔﺌﺒﻌﺗ ﺓﺩﺎﻋﻹ ﺏﻮﻠﻄﻤﻟﺍ ﺩﺪﻌﻟﺍ
+&lt;CHARGENOUN_plural&gt; 1 ﻦﻣ ﺮﺜﻛﺃ ﺔﺌﺒﻌﺗ ﺓﺩﺎﻋﺇ ﻦﻜﻤﻳ
+.ﺖﻗﻮﻟﺍ ﺲﻔﻧ ﻲﻓ</Stat_Thing_ReloadPerCharge_Desc>
+  
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>ﻍﺍﺮﻔﻟﺍ ﺪﻨﻋ ﻲﻔﺘﺨﻳ</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  
+  <Stat_Thing_ReloadDestroyOnEmpty_Desc>.ﺕﺎﻨﺤﺸﻟﺍ ﺩﺎﻔﻧ ﺭﻮﻓ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﻲﻔﺘﺨﻴﺳ</Stat_Thing_ReloadDestroyOnEmpty_Desc>
+  
+  <Stat_Thing_BodyPartEfficiency_Desc>.ﺔﻣﺎﻌﻟﺍ ﻱﺪﺴﺠﻟﺍ ﻮﻀﻌﻟﺍ ﺓﺀﺎﻔﻛ</Stat_Thing_BodyPartEfficiency_Desc>
+  
+  <Stat_Thing_InstallSites>ﻲﻓ ﺖﺒﺜﺗ</Stat_Thing_InstallSites>
+  
+  <Stat_Thing_InstallSites_Desc>.ﺎﻬﻴﻓ ﻪﺘﻴﺒﺜﺗ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﻢﺴﺠﻟﺍ ﺀﺍﺰﺟﺃ</Stat_Thing_InstallSites_Desc>
+  
+  <Stat_Thing_ReplacesParts>ﻝﺪﺒﺘﺴﻳ</Stat_Thing_ReplacesParts>
+  
+  <Stat_Thing_ReplacesParts_Desc>.ﺐﻴﻛﺮﺘﻟﺍ ﺪﻨﻋ ﺎﻬﺑ ﻝﺪﺒﺘﺴﺗ ﻲﺘﻟﺍ ﺀﺎﻀﻋﻷﺍ</Stat_Thing_ReplacesParts_Desc>
+  
+  <Stat_Thing_Biocoded_Name>ﻱﻭﻮﻨﻟﺍ ﺾﻤﺤﻟﺍ ﺔﺠﻣﺮﺑ ﺓﺩﺎﻋﺇ</Stat_Thing_Biocoded_Name>
+  
+  <Stat_Thing_Biocoded_Desc>ﺓﺀﺍﺮﻗ ﺪﻨﻋ ﻂﻘﻓ ﻞﻤﻌﻠﻟ ﺮﻔﺸﻣ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ
+.ﻲﻠﺻﻷﺍ ﻚﻟﺎﻤﻟﺍ ﺕﺎﻧﺎﻴﺑ ﻊﻣ ﺔﻘﺑﺎﻄﺘﻤﻟﺍ ﺔﻳﻮﻴﺤﻟﺍ ﺕﺎﻧﺎﻴﺒﻟﺍ</Stat_Thing_Biocoded_Desc>
+  
+  <Stat_Pawn_RequiredApparel_Name>ﺔﺑﻮﻠﻄﻤﻟﺍ ﺲﺑﻼﻤﻟﺍ</Stat_Pawn_RequiredApparel_Name>
+  
+  <Stat_Thing_Plant_GrowthRate>ﻮﻤﻨﻟﺍ ﺔﻋﺮﺳ</Stat_Thing_Plant_GrowthRate>
+  
+  <Stat_Thing_Plant_GrowthRate_Desc>ﺔﺟﺭﺩﻭ ﺔﺑﺮﺘﻟﺍ ﺔﺑﻮﺼﺨﺑ ﺮﺛﺄﺘﻳ ﺕﺎﺒﻨﻟﺍ ﻮﻤﻧ ﺔﻋﺮﺳ
+.ﻯﺮﺧﺃ ﺔﻴﺌﻴﺑ ﻞﻣﺍﻮﻋﻭ ﺓﺀﺎﺿﻹﺍ ﻯﻮﺘﺴﻣﻭ ﺓﺭﺍﺮﺤﻟﺍ</Stat_Thing_Plant_GrowthRate_Desc>
+  
+  <Stat_Thing_Plant_Age>ﺮﻤﻌﻟﺍ</Stat_Thing_Plant_Age>
+  
+  <Stat_Thing_Plant_AgeDesc>؟ﺔﺘﺒﻨﻟﺍ ﻩﺬﻫ ﺖﺷﺎﻋ ﺓﺮﺘﻓ ﻢﻛ</Stat_Thing_Plant_AgeDesc>
+  
+  <Stat_Thing_Plant_Lifespan>ﺓﺎﻴﺤﻟﺍ ﺓﺪﻣ</Stat_Thing_Plant_Lifespan>
+  
+  <Stat_Building_Paintable>ﺀﻼﻄﻟﺍ ﺎﻨﻨﻜﻤﻳ</Stat_Building_Paintable>
+  
+  <Stat_Building_PaintableDesc>.ﺔﻐﺒﺻ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺀﺎﻨﺒﻟﺍ ﻎﺒﺻ ﻚﻨﻜﻤﻳ ، ﻢﻌﻧ</Stat_Building_PaintableDesc>
+  
+  <Stat_Building_PaintColor>ﻥﺎﻫﺪﻟﺍ ﻥﻮﻟ</Stat_Building_PaintColor>
+  
+  <Stat_Building_PaintColorDesc>.ﻩﺅﻼﻃ ﻢﺗ ﻱﺬﻟﺍ ﺀﺎﻨﺒﻟﺍ ﻥﻮﻟ</Stat_Building_PaintColorDesc>
+
+  
+  
+  <Stat_Thing_Drug_Chemical_Desc>.ﻝﺎﻌﻔﻟﺍ ﻥﻮﻜﻤﻟﺍ
+
+ﺲﻔﻧ ﻱﻮﺘﺤﻳ ﻥﺃ ﻦﻜﻤﻳ ،ﺕﻻﺎﺤﻟﺍ ﺾﻌﺑ ﻲﻓ
+ﺕﺎﺟﺎﻴﺘﺣﺍ ﻲﺒﻠﺘﺳ .ﺔﻔﻠﺘﺨﻣ ﺔﻳﻭﺩﺃ ﻲﻓ ﻝﺎﻌﻔﻟﺍ ﻥﻮﻜﻤﻟﺍ
+.ﺔﻔﻠﺘﺨﻣ ﻕﺮﻄﺑ ﻥﺎﻣﺩﻹﺍ</Stat_Thing_Drug_Chemical_Desc>
+  
+  <Stat_Thing_Drug_Category_Desc>ﺀﺍﻭﺪﻟﺍ ﺍﺬﻫ ﻪﻴﻟﺇ ﻲﻤﺘﻨﻳ ﻱﺬﻟﺍ ﻒﻴﻨﺼﺘﻟﺍ</Stat_Thing_Drug_Category_Desc>
+  
+  <Stat_Thing_Drug_HighGainPerDose_Desc>.ﺀﺍﻭﺪﻟﺍ ﺍﺬﻫ ﻦﻣ ﺓﺪﺣﺍﻭ ﺔﻋﺮﺟ ﺮﻴﺛﺄﺗ ﺓﻮﻗ</Stat_Thing_Drug_HighGainPerDose_Desc>
+  
+  <Stat_Thing_Drug_HighFallPerDay_Desc>؟ﺀﺍﻭﺪﻟﺍ ﺍﺬﻫ ﺔﻴﻠﻋﺎﻓ ﺽﺎﻔﺨﻧﺍ ﺔﻋﺮﺳ ﻢﻛ</Stat_Thing_Drug_HighFallPerDay_Desc>
+  
+  <Stat_Thing_Drug_HighDurationPerDose_Desc>ﺍﺬﻫ ﻦﻣ ﺓﺪﺣﺍﻭ ﺔﻋﺮﺟ ﺮﻴﺛﺄﺗ ﺓﺪﻣ ﺎﻣ
+ﺓﻮﻗ ﻰﻠﻋ ﺀﺎﻨﺑ ﻢﻗﺮﻟﺍ ﺍﺬﻫ ﺏﺎﺴﺣ ﻢﺘﻳn\n\؟ﺀﺍﻭﺪﻟﺍ
+.ﺎﻬﻟﺅﺎﻀﺗ ﺔﻋﺮﺳﻭ ﺔﻋﺮﺠﻟﺍ ﺮﻴﺛﺄﺗ</Stat_Thing_Drug_HighDurationPerDose_Desc>
+  
+  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>ﺪﻌﺑ ﺔﻟﺎﻌﻔﻟﺍ ﺓﺩﺎﻤﻟﺍ ﻩﺎﺠﺗ ﺢﻣﺎﺴﺘﻟﺍ ﺩﺍﺩﺰﺘﺳ ﻢﻛ
+؟ﺀﺍﻭﺪﻟﺍ ﺍﺬﻫ ﻦﻣ ﺔﻋﺮﺟ ﻞﻛ
+
+ﺔﻔﻠﺘﺨﻤﻟﺍ ﺔﻳﻭﺩﻷﺍ ﻦﻴﺑ ﻒﻠﺘﺨﻳ ﺪﻗ ﺮﺷﺆﻤﻟﺍ ﺍﺬﻫ
+.ﺔﻟﺎﻌﻔﻟﺍ ﺓﺩﺎﻤﻟﺍ ﺲﻔﻧ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﻲﺘﻟﺍ</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
+  
+  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>ﻞﻜﺸﺑ ﺎﻴﻣﻮﻳ ﺔﻟﺎﻌﻔﻟﺍ ﺓﺩﺎﻤﻠﻟ ﻞﻤﺤﺘﻟﺍ ﺓﺭﺪﻗ ﻞﻘﺘﺳ
+.ﺮﻴﺒﻛ</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
+  
+  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>ﻰﻠﻋ ﻥﺎﻣﺩﻹﺍ ﻦﻳﻮﻜﺘﻟ ﺏﻮﻠﻄﻤﻟﺍ ﻰﻧﺩﻷﺍ ﺢﻣﺎﺴﺘﻟﺍ ﻯﻮﺘﺴﻣ
+.ﺀﺍﻭﺪﻟﺍ ﺍﺬﻫ
+،ﺩﺪﺤﻤﻟﺍ ﻦﻣ ﻞﻗﺃ ﺢﻣﺎﺴﺘﻟﺍ ﻯﻮﺘﺴﻣ ﻥﺎﻛ ﺍﺫﺇ
+.ﻦﻜﻤﻣ ﺮﻴﻏ ﻥﺎﻣﺩﻹﺍ ﺙﻭﺪﺣ ﻥﺈﻓ</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
+  
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>ﺎﻨﻣﺪﻣ ﺢﺒﺼﻳ ﻥﺃ ﻎﻟﺎﺒﻟﺍ ﺺﺨﺸﻠﻟ ﻦﻜﻤﻳ ﻻ
+ﺮﺜﻛﺃ ﻞﻜﺸﺑ ﺀﺍﻭﺪﻟﺍ ﻝﻭﺎﻨﺗ ﺖﻌﺒﺗﺍ ﺍﺫﺇ ﻻﺇ
+.ﺕﺎﻤﻴﻠﻌﺘﻟﺍ ﻲﻓ ﺩﺭﺍﻮﻟﺍ ﻦﻣ
+ﻯﻮﺘﺴﻣ ﻰﻧﺩﺃ ﻦﻣ ﻞﻣﺎﻌﻟﺍ ﺍﺬﻫ ﺏﺎﺴﺣ ﻢﺘﺗ
+ﺔﻋﺮﺠﻟﺍ ﻦﻣ ﻞﻤﺤﺘﻟﺍ ﺓﺩﺎﻳﺯﻭ ،ﻥﺎﻣﺩﻹﺍ ﻦﻳﻮﻜﺘﻟ ﻞﻤﺤﺘﻠﻟ
+ﺕﺍﺮﺘﻓ ﺎﻬﻳﺪﻟ ﺲﻴﻟ ﺔﻳﻭﺩﻷﺍ ﺾﻌﺑ .ﺎﻬﺿﺎﻔﺨﻧﺍ ﺔﻋﺮﺳﻭ
+ﻰﺘﺣ ﺎﻬﻴﻠﻋ ﻥﺎﻣﺩﻹﺍ ﺙﻭﺪﺣ ﻦﻜﻤﻳ .ﻝﻭﺎﻨﺘﻠﻟ ﺔﻨﻣﺁ
+.ﻰﻟﻭﻷﺍ ﺔﻋﺮﺠﻟﺍ ﺪﻌﺑ
+ﺀﺍﻭﺪﻟﺍ ﻝﻭﺎﻨﺘﻟ ﺔﻨﻣﻵﺍ ﺓﺮﺘﻔﻟﺍ ﻥﺃ ﺔﻈﺣﻼﻣ ﻰﺟﺮﻳ
+.ﺾﻳﺮﻤﻟﺍ ﻢﺴﺟ ﻢﺠﺣ ﻰﻠﻋ ﺪﻤﺘﻌﺗ</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  
+  <Stat_Thing_Drug_RandomODChance_Desc>ﺍﺬﻫ ﻡﺍﺪﺨﺘﺳﺍ ﺪﻨﻋ ﺓﺪﺋﺍﺯ ﺔﻋﺮﺟ ﺙﻭﺪﺣ ﺔﺻﺮﻓ
+ﻱﺃ ﺪﻨﻋ ﺓﺪﺋﺍﺯ ﺔﻋﺮﺟ ﺙﻭﺪﺣ ﻦﻜﻤﻳ .ﺀﺍﻭﺪﻟﺍ
+ﻭﺃ ﺉﺪﺘﺒﻤﻠﻟ ﻰﻟﻭﻷﺍ ﺔﻋﺮﺠﻟﺍ ﺖﻧﺎﻛ ﺀﺍﻮﺳ ،ﺖﻗﻭ
+.ﺱﺮﻤﺘﻤﻟﺍ ﻦﻣﺪﻤﻠﻟ ﺔﻳﻮﺌﻤﻟﺍ ﺔﻋﺮﺠﻟﺍ</Stat_Thing_Drug_RandomODChance_Desc>
+  
+  <Stat_Thing_Drug_Addictiveness_Desc>ﺍﺬﻫ ﻦﻣ ﺔﻋﺮﺟ ﻞﻛ ﻰﻠﻋ ﻥﺎﻣﺩﻹﺍ ﺔﺻﺮﻓ
+.ﺀﺍﻭﺪﻟﺍ
+ﻱﺭﻭﺮﺿ ﻰﻧﺩﺃ ﻞﻤﺤﺗ ﻯﻮﺘﺴﻣ ﻙﺎﻨﻫ ﻥﺎﻛ ﺍﺫﺇ
+ﻥﻮﻜﻳ ﻥﺃ ﺐﺠﻳ ، ﺀﺍﻭﺪﻟﺍ ﻲﻓ ﻥﺎﻣﺩﻺﻟ
+ﻥﻮﻜﻳ ﻲﻜﻟ ﻯﻮﺘﺴﻤﻟﺍ ﺍﺬﻫ ﻦﻣ ﻰﻠﻋﺃ ﻞﻤﺤﺘﻟﺍ
+ﻦﻜﻳ ﻢﻟ ﺍﺫﺇ .ﺔﻠﺻ ﺍﺫ ﺮﺷﺆﻤﻟﺍ ﺍﺬﻫ
+ﻱﺃ ﻥﺈﻓ ، ﻰﻧﺩﺃ ﻞﻤﺤﺗ ﻯﻮﺘﺴﻣ ﻙﺎﻨﻫ
+.ﻥﺎﻣﺩﻹﺍ ﺐﺒﺴﺗ ﺪﻗ ﺀﺍﻭﺪﻟﺍ ﺍﺬﻫ ﻦﻣ ﺔﻋﺮﺟ</Stat_Thing_Drug_Addictiveness_Desc>
+  
+  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>.ﻞﻴﻘﺛ ﺀﺍﻭﺪﻟﺍ ﺍﺬﻫ ﻦﻋ ﺞﺗﺎﻨﻟﺍ ﻲﻟﻭﻷﺍ ﻥﺎﻣﺩﻹﺍ
+
+،ﻥﺎﻣﺩﻹﺍ ﻦﻣ ﺪﻳﺰﻴﺳ ﺀﺍﻭﺪﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ
+.ﻪﻨﻣ ﻞﻠﻘﻴﺳ ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻋ ﻉﺎﻨﺘﻣﻻﺍ ﺎﻤﻨﻴﺑ</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
+  
+  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>ﻥﺎﻣﺩﻻﺍ ﻦﻣ ﺺﻠﺨﺘﻠﻟ ﻕﺮﻐﺘﺴﻳ ﺖﻗﻮﻟﺍ ﻦﻣ ﻢﻛ
+؟ﺀﺍﻭﺪﻟﺍ ﺍﺬﻫ ﻰﻠﻋ
+ﺓﺭﻮﻄﺧ ﺔﺒﺴﻧ ﻦﻣ ﺮﺷﺆﻤﻟﺍ ﺍﺬﻫ ﺏﺎﺴﺣ ﻢﺘﻳ
+.ﻥﺎﻣﺩﻻﺍ ﻦﻣ ﻲﻓﺎﻌﺘﻟﺍ ﺔﻋﺮﺳﻭ ﺔﻴﻟﻭﻷﺍ ﻥﺎﻣﺩﻻﺍ</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
+  
+  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>ﺔﻋﺮﺟ ﻞﻛ ﻰﻠﻋ ﺔﻴﻟﺎﺤﻟﺍ ﺔﻳﺩﺎﻤﺘﻋﻻﺍ ﺪﻳﺍﺰﺗ ﻯﺪﻣ
+ﺔﻳﺩﺎﻤﺘﻋﻻﺍ ﺓﺪﺸﻟ ﻦﻜﻤﻳ ﻻ .ﺔﻟﻭﺎﻨﺘﻤﻟﺍ ﺀﺍﻭﺪﻟﺍ ﻦﻣ
+.%100 ﻕﻮﻓ ﻊﻔﺗﺮﺗ ﻥﺃ</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
+  
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>ﺔﻋﺮﺟ ﻝﻭﺎﻨﺗ ﻦﻣﺪﻤﻟﺍ ﻰﻠﻋ ﺐﺠﻳ ﺓﺮﻣ ﻢﻛ
+؟ﺏﺎﺤﺴﻧﻻﺍ ﺐﻨﺠﺘﻟ ﺀﺍﻭﺪﻟﺍ ﺍﺬﻫ ﻦﻣ ﺓﺪﻳﺪﺟ
+ﺓﺩﺎﻳﺯ ﺔﻋﺮﺳ ﻦﻣ ﺮﺷﺆﻤﻟﺍ ﺍﺬﻫ ﺏﺎﺴﺣ ﻢﺘﻳ
+ﻞﻛ ﻦﻣ ﺔﺟﺎﺤﻟﺍ ﻩﺬﻫ ﻞﻴﻠﻘﺗﻭ ﺓﺩﺎﻤﻠﻟ ﺔﺟﺎﺤﻟﺍ
+.ﺬﺧﺆﺗ ﺔﻋﺮﺟ</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  
+  <Stat_Thing_Drug_AddictionNeedOffset_Desc>ﻦﻋ ﺀﺍﻭﺪﻟﺍ ﺍﺬﻫ ﻦﻣ ﺓﺬﺨﺘﻤﻟﺍ ﺔﻋﺮﺠﻟﺍ ﺎﺿﺭ
+.ﻲﺋﺎﻴﻤﻴﻜﻟﺍ ﺝﺎﻴﺘﺣﻻﺍ</Stat_Thing_Drug_AddictionNeedOffset_Desc>
+  
+  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>ﺓﺪﻳﺪﺟ ﺔﻋﺮﺟ ﻰﻟﺇ ﺔﺟﺎﺤﻠﻟ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ ﻢﻛ
+؟ﺓﺩﺎﻤﻟﺍ ﻦﻣ</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
+  
+  <Stat_Thing_Drug_AddictionCost_Desc>ﺏﻮﻠﻄﻤﻟﺍ ﻊﺿﻮﻟﺍ ﻲﻓ ﺓﺩﺎﻤﻟﺍ ﻙﻼﻬﺘﺳﻻ ﺔﻴﻣﻮﻴﻟﺍ ﺔﻔﻠﻜﺘﻟﺍ
+ﺏﺎﺴﺣ ﻢﺘﻳ .ﻥﺎﻣﺩﻹﺍ ﺮﻄﺧ ﻥﻭﺩ ﺕﺎﺟﺎﻴﺘﺣﻻﺍ ﺔﻴﺒﻠﺘﻟ
+ﺓﺩﺎﻤﻠﻟ ﺔﺟﺎﺤﻟﺍ ﻞﻴﻠﻘﺗ ﻝﻼﺧ ﻦﻣ ﺔﻤﻴﻘﻟﺍ ﺍﺬﻫ
+ﺔﻔﻠﻜﺗﻭ ﺔﺟﺎﺤﻟﺍ ﻩﺬﻫ ﺓﺩﺎﻳﺯ ﺔﻋﺮﺳﻭ ﺔﻋﺮﺠﻟﺍ ﻦﻣ
+ﺪﻗ ﻪﻧﺃ ﺔﻈﺣﻼﻣ ﻰﺟﺮﻳ .ﻕﻮﺴﻟﺍ ﻲﻓ ﺭﺎﻘﻌﻟﺍ
+ﺲﻔﻨﻟ ﺔﺟﺎﺤﻟﺍ ﺔﻴﺒﻠﺘﻟ ﻯﺮﺧﺃ ﻕﺮﻃ ﻙﺎﻨﻫ ﻥﻮﻜﺗ
+.ﺔﻔﻠﺘﺨﻣ ﻒﻴﻟﺎﻜﺘﺑ ﺓﺩﺎﻤﻟﺍ</Stat_Thing_Drug_AddictionCost_Desc>
+
+  
+  <Stat_Thing_StyleLabel>ﻦﻋ ﺓﺭﺎﺒﻋ ﺪﺟﻮﺗ ﻻ ﻪﻧﺃ ﻢﺘﻈﺣﻻ ﺪﻘﻟ
+ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﺢﻴﺿﻮﺘﻟ ﻥﻮﺟﺎﺘﺤﺗ ،ﺔﺒﻌﻠﻟﺍ ﻲﻓ "Стиль"
+.ﺕﺎﻣﻮﻠﻌﻤﻟﺍ</Stat_Thing_StyleLabel>
+  
+  <Stat_Thing_StyleDesc>ﺮﺛﺆﻳ ﻻﻭ ﻲﺟﺭﺎﺨﻟﺍ ﻩﺮﻬﻈﻣ ﺩﺪﺤﻳ ﻦﺋﺎﻜﻟﺍ ﺏﻮﻠﺳﺍ
+ﺪﻳﺪﺤﺗ ﻢﺘﻳ ﺎﻣ ﺓﺩﺎﻋﻭ .ﺔﺒﻌﻠﻟﺍ ﺎﻜﻴﻧﺎﻜﻴﻣ ﻲﻓ
+.ﺔﻔﻠﺘﺨﻤﻟﺍ ﺔﻴﻓﺎﻘﺜﻟﺍ ﺕﺍﺪﻘﺘﻌﻤﻟﺍﻭ ﺀﺎﻨﺒﻟﺍ ﺕﺎﻴﻨﻘﺗ ﺔﻄﺳﺍﻮﺑ ﻁﺎﻤﻧﻷﺍ</Stat_Thing_StyleDesc>
+
+  
+  <Stat_Animal_GestationTime>ﻞﻤﺤﻟﺍ ﺓﺪﻣ</Stat_Animal_GestationTime>
+  
+  <Stat_Animal_GestationTimeDesc>ﻉﻮﻨﻟﺍ ﺍﺬﻫ ﻦﻣ ﺕﺎﻨﺋﺎﻜﻟﺍ ﺀﻻﺆﻬﻟ ﺏﻮﻠﻄﻤﻟﺍ ﺖﻗﻮﻟﺍ
+.ﺽﻮﻴﺒﻟﺍ ﻭﺃ ﻞﺴﻨﻟﺍ ﺦﻳﺮﻔﺘﻟ</Stat_Animal_GestationTimeDesc>
+  
+  <Stat_Animal_LitterSize>ﺝﺍﺮﺧﻹﺍ ﻢﺠﺣ</Stat_Animal_LitterSize>
+  
+  <Stat_Animal_LitterSizeDesc>ﺍﺫﺇ .ﺪﺣﺍﻭ ﺪﻴﻟﻭ ﻦﻋ ﻦﻴﺠﺗﺎﻨﻟﺍ ﺩﺍﺮﻓﻷﺍ ﺩﺪﻋ
+ﺭﺎﻴﺘﺧﺍ ﻢﺘﻴﺴﻓ ، ﻢﻴﻘﻟﺍ ﻕﺎﻄﻧ ﺪﻳﺪﺤﺗ ﻢﺗ
+ﻲﻓ ﻕﺎﻄﻨﻟﺍ ﺍﺬﻫ ﻦﻣ ﺎﻴﺋﺍﻮﺸﻋ ﺩﺍﺮﻓﻷﺍ ﺩﺪﻋ
+.ﺔﻟﺎﺣ ﻞﻛ</Stat_Animal_LitterSizeDesc>
+  
+  <Stat_Animal_AdultMeatAmount>ﻢﺤﻠﻟﺍ ﻊﻄﻗ ﺩﺪﻋ</Stat_Animal_AdultMeatAmount>
+  
+  <Stat_Animal_AdultMeatAmountDesc>ﺩﺮﻓ ﺔﺋﺰﺠﺗ ﺪﻨﻋ ﺔﺟﺮﺨﺘﺴﻤﻟﺍ ﺔﻴﺳﺎﺳﻷﺍ ﻢﺤﻠﻟﺍ ﺔﻴﻤﻛ
+ﺔﻴﻤﻜﻟﺍ ﺪﻳﺪﺤﺗ ﻢﺘﺗ .ﻉﻮﻨﻟﺍ ﺍﺬﻫ ﻦﻣ ﻎﻟﺎﺑ
+ﺩﻮﺟﻭ ﻞﺜﻣ ﻞﻣﺍﻮﻌﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﺔﻄﺳﺍﻮﺑ ﺔﻴﻠﻌﻔﻟﺍ
+.ﺭﺍﺰﺠﻟﺍ ﺓﺭﺎﻬﻣﻭ ﻢﺴﺠﻟﺍ ﻲﻓ ﺭﺍﺮﺿﺃ</Stat_Animal_AdultMeatAmountDesc>
+  
+  <Stat_Animal_GrowthTime>ﻮﻤﻨﻟﺍ ﻦﻣﺯ</Stat_Animal_GrowthTime>
+  
+  <Stat_Animal_GrowthTimeDesc>؟ﺎﻐﻟﺎﺑ ﺢﺒﺼﻴﻟ ﻂﺳﻮﺘﻤﻟﺍ ﻲﻓ ﻦﺋﺎﻜﻟﺍ ﻕﺮﻐﺘﺴﻳ ﻢﻛ
+ﻦﺋﺎﻜﻟﺍ ﻥﺎﻛ ﺍﺫﺇ ﻝﻮﻃﺃ ﺎﺘﻗﻭ ﻮﻤﻨﻟﺍ ﻕﺮﻐﺘﺴﻴﺳ
+.ﺎﻌﺋﺎﺟ</Stat_Animal_GrowthTimeDesc>
+  
+  <Stat_Animal_MeatPerDayDuringGrowth>.ﻮﻤﻨﻟﺍ ﻦﻣ ﺪﺣﺍﻮﻟﺍ ﻡﻮﻴﻟﺍ ﻲﻓ ﻢﺤﻠﻟﺍ ﺓﺩﺎﻳﺯ</Stat_Animal_MeatPerDayDuringGrowth>
+  
+  <Stat_Animal_MeatPerDayDuringGrowthDesc>ﻡﻮﻳ ﻞﻛ ﻲﻓ ﻢﺤﻠﻟﺍ ﻮﻤﻨﻳ ﻦﺋﺎﻜﻟﺍ ﻑﻮﺳ
+.ﻎﻟﺎﺑ ﺢﺒﺼﻳ ﻰﺘﺣ
+ﻦﺋﺎﻜﻟﺍ ﻯﺪﻟ ﻢﺤﻠﻟﺍ ﺔﻴﻤﻛ ﻰﻠﻋ ﻚﻟﺫ ﺪﻤﺘﻌﻳ
+.ﻮﻤﻨﻟﺍ ﺓﺪﻣﻭ ﻎﻟﺎﺒﻟﺍ</Stat_Animal_MeatPerDayDuringGrowthDesc>
+  
+  <Stat_Animal_GrassToMaintain>ﺔﻳﺬﻐﺘﻠﻟ ﺐﺸﻌﻟﺍ</Stat_Animal_GrassToMaintain>
+  
+  <Stat_Animal_GrassToMaintainDesc>ﺍﺬﻫ ﺎﻬﺟﺎﺘﺤﻳ ﻲﺘﻟﺍ ﺔﻴﺒﺸﻌﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺔﻴﻤﻛ ﻂﺳﻮﺘﻣ
+ﺐﺸﻌﻟﺍ ﻰﻟﺇ ﺪﻨﺘﺴﺗ ﺔﻤﻴﻘﻟﺍ ﻩﺬﻫ .ﺔﻳﺬﻐﺘﻠﻟ ﻦﺋﺎﻜﻟﺍ
+ﻲﻓ ﺬﺧﺄﺗ ﻻﻭ ﺔﻳﺩﺎﻋ ﻮﻤﻧ ﺔﻋﺮﺴﺑ ﻱﺩﺎﻌﻟﺍ
+.ﺀﺎﺘﺸﻟﺍ ﺭﺎﺒﺘﻋﻻﺍ</Stat_Animal_GrassToMaintainDesc>
+  
+  <Stat_Animal_EggType>ﺾﻴﺒﻟﺍ ﻉﻮﻧ</Stat_Animal_EggType>
+  
+  <Stat_Animal_EggTypeDesc>ﻞﺒﻗ ﻦﻣ ﻪﻌﺿﻭ ﻢﺘﻳ ﻱﺬﻟﺍ ﺾﻴﺒﻟﺍ ﻉﻮﻧ
+.ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ</Stat_Animal_EggTypeDesc>
+  
+  <Stat_Animal_EggsPerYear>ﺓﺩﺎﻋﺇ ﻰﺟﺮﻳ .ﺺﻨﻟﺍ ﺍﺬﻫ ﺔﻤﺟﺮﺗ ﻦﻜﻤﻳ ﻻ
+.ﺔﻟﻭﺎﺤﻤﻟﺍ ﺓﺩﺎﻋﺇﻭ ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﻪﺘﻏﺎﻴﺻ</Stat_Animal_EggsPerYear>
+  
+  <Stat_Animal_EggsPerYearDesc>ﻲﻓ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﻪﻀﻴﺒﻳ ﻱﺬﻟﺍ ﺾﻴﺒﻟﺍ ﺩﺪﻋ
+ﺾﻴﺒﺗ ﻲﻜﻟ ﺕﺎﻗﻮﻠﺨﻤﻟﺍ ﺾﻌﺑ ﺢﻴﻘﻠﺗ ﺐﺠﻳ .ﺔﻨﺴﻟﺍ
+ﻪﺟﺎﺘﻧﺇ ﻞﻘﻴﺳ ،ﺎﻌﺋﺎﺟ ﻕﻮﻠﺨﻤﻟﺍ ﻥﺎﻛ ﺍﺫﺇ .ﺾﻴﺒﻟﺍ
+.ﺾﻴﺒﻠﻟ</Stat_Animal_EggsPerYearDesc>
+  
+  <Stat_Animal_EggNutrition>ﺾﻴﺒﻟﺍ ﺔﻴﺋﺍﺬﻏ ﺔﻤﻴﻗ</Stat_Animal_EggNutrition>
+  
+  <Stat_Animal_EggNutritionDesc>ﻲﻓ ﺔﻳﻮﺘﺤﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺔﻴﻤﻛ ﺪﻳﺪﺤﺗ ﻦﻜﻤﻳ ﻻ
+.ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﺎﻫﺯﺮﻔﻳ ﻲﺘﻟﺍ ﺓﺪﺣﺍﻭ ﺔﻀﻴﺑ</Stat_Animal_EggNutritionDesc>
+  
+  <Stat_Animal_EggNutritionYearly>ﺎﻳﻮﻨﺳ ﺾﻴﺒﻟﺍ ﻁﺎﺸﻧ</Stat_Animal_EggNutritionYearly>
+  
+  <Stat_Animal_EggNutritionYearlyDesc>ﻊﻴﻤﺟ ﻦﻣ ﺎﻬﻴﻠﻋ ﻞﺼﺤﺗ ﻲﺘﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺔﻴﻤﻛ
+.ﺔﻨﺴﻟﺍ ﻲﻓ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﺎﻬﻌﻀﻳ ﻲﺘﻟﺍ ﺾﻴﺒﻟﺍ
+ﺾﻴﺒﻟﺍ ﺩﺪﻋ ﻦﻣ ﺔﻤﻴﻘﻟﺍ ﻩﺬﻫ ﺏﺎﺴﺣ ﻢﺘﺗ
+.ﺔﻀﻴﺑ ﻞﻜﻟ ﺔﻳﺬﻐﺘﻟﺍ ﺔﻤﻴﻗﻭ ﺔﻨﺴﻟﺍ ﻲﻓ</Stat_Animal_EggNutritionYearlyDesc>
+  
+  <Stat_Animal_EggMarketValue>ﻕﻮﺴﻟﺍ ﻲﻓ ﺾﻴﺒﻟﺍ ﺮﻌﺳ</Stat_Animal_EggMarketValue>
+  
+  <Stat_Animal_EggMarketValueDesc>.ﺔﻗﻮﻠﺨﻤﻟﺍ ﻩﺬﻫ ﺎﻬﺠﺘﻨﺗ ﺓﺪﺣﺍﻭ ﺔﻀﻴﺒﻟ ﺔﻴﻗﻮﺴﻟﺍ ﺔﻤﻴﻘﻟﺍ</Stat_Animal_EggMarketValueDesc>
+  
+  <Stat_Animal_EggMarketValueYearly>ﺾﻴﺒﻠﻟ ﺔﻳﻮﻨﺴﻟﺍ ﺔﻔﻠﻜﺘﻟﺍ</Stat_Animal_EggMarketValueYearly>
+  
+  <Stat_Animal_EggMarketValueYearlyDesc>ﺍﺬﻫ ﺎﻫﺯﺮﻔﻳ ﻲﺘﻟﺍ ﺾﻴﺒﻟﺍ ﻊﻴﻤﺠﻟ ﺔﻴﻟﺎﻤﺟﻹﺍ ﺔﻔﻠﻜﺘﻟﺍ
+ﺔﻤﻴﻘﻟﺍ ﺍﺬﻫ ﺏﺎﺴﺣ ﻢﺘﻳ .ﻡﺎﻌﻟﺍ ﻲﻓ ﻕﻮﻠﺨﻤﻟﺍ
+ﺔﻴﻗﻮﺴﻟﺍ ﺔﻤﻴﻘﻟﺍﻭ ﺔﻨﺴﻟﺍ ﻲﻓ ﺾﻴﺒﻟﺍ ﺩﺪﻋ ﻦﻣ
+.ﺓﺪﺣﺍﻭ ﺔﻀﻴﺒﻟ</Stat_Animal_EggMarketValueYearlyDesc>
+  
+  <Stat_Animal_MilkType>ﺐﻴﻠﺤﻟﺍ ﻉﻮﻧ</Stat_Animal_MilkType>
+  
+  <Stat_Animal_MilkTypeDesc>.ﻦﺋﺎﻜﻟﺍ ﺍﺬﻫ ﻞﺒﻗ ﻦﻣ ﺞﺘﻨﻤﻟﺍ ﺐﻴﻠﺤﻟﺍ ﻉﻮﻧ</Stat_Animal_MilkTypeDesc>
+  
+  <Stat_Animal_MilkAmount>ﺓﺪﺣﺍﻮﻟﺍ ﺓﺮﻤﻟﺍ ﻲﻓ ﺔﻴﺟﺎﺘﻧﻹﺍ ﺓﻭﺭﺫ ﻢﻗﺭ</Stat_Animal_MilkAmount>
+  
+  <Stat_Animal_MilkAmountDesc>ﺪﻨﻋ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﺎﻬﺠﺘﻨﻳ ﻲﺘﻟﺍ ﺐﻴﻠﺤﻟﺍ ﺔﻴﻤﻛ
+.ﺐﻠﺣ ﻞﻛ</Stat_Animal_MilkAmountDesc>
+  
+  <Stat_Animal_MilkGrowthTime>ﺐﻠﺤﻟﺍ ﻦﻴﺑ ﺓﺮﺘﻔﻟﺍ</Stat_Animal_MilkGrowthTime>
+  
+  <Stat_Animal_MilkGrowthTimeDesc>.ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻬﻟ ﻲﻟﺎﺘﺘﻤﻟﺍ ﺐﻠﺤﻟﺍ ﻦﻴﺑ ﺖﻗﻮﻟﺍ ﺓﺮﺘﻓ</Stat_Animal_MilkGrowthTimeDesc>
+  
+  <Stat_Animal_MilkPerYear>ﻱﻮﻨﺴﻟﺍ ﺝﺎﺘﻧﻹﺍ</Stat_Animal_MilkPerYear>
+  
+  <Stat_Animal_MilkPerYearDesc>ﻰﻠﻋ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﺎﻬﺠﺘﻨﻳ ﻲﺘﻟﺍ ﺐﻴﻠﺤﻟﺍ ﺔﻴﻤﻛ
+ﺔﺒﻠﺤﻟﺍ ﻦﻣ ﺔﻤﻴﻘﻟﺍ ﺍﺬﻫ ﺐﺴﺤﻳ .ﻡﺎﻌﻟﺍ ﺭﺍﺪﻣ
+.ﺔﺑﻼﺤﻟﺍ ﻦﻴﺑ ﻲﻨﻣﺰﻟﺍ ﻞﺻﺎﻔﻟﺍﻭ ﺓﺪﺣﺍﻮﻟﺍ</Stat_Animal_MilkPerYearDesc>
+  
+  <Stat_Animal_MilkValue>ﻕﻮﺴﻟﺍ ﻲﻓ ﺐﻴﻠﺤﻟﺍ ﺮﻌﺳ</Stat_Animal_MilkValue>
+  
+  <Stat_Animal_MilkValueDesc>.ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﺐﻴﻠﺣ ﺓﺪﺣﻭ ﺔﻔﻠﻜﺗ</Stat_Animal_MilkValueDesc>
+  
+  <Stat_Animal_MilkValuePerYear>ﺝﺎﺘﻧﻺﻟ ﺔﻳﻮﻨﺴﻟﺍ ﺔﻔﻠﻜﺘﻟﺍ</Stat_Animal_MilkValuePerYear>
+  
+  <Stat_Animal_MilkValuePerYearDesc>ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﻦﻣ ﺞﺘﻨﻤﻟﺍ ﺐﻴﻠﺤﻠﻟ ﺔﻴﻗﻮﺴﻟﺍ ﺔﻤﻴﻘﻟﺍ
+ﺎﻌﺋﺎﺟ ﺲﻴﻟ ﻕﻮﻠﺨﻤﻟﺍ ﻥﺃ ﺽﺮﺘﻔﻳ .ﻡﺎﻌﻟﺍ ﻝﻼﺧ
+.ﺐﻠﺣ ﺓﺮﺘﻓ ﻞﻛ ﺔﻳﺎﻬﻧ ﻲﻓ ﺐﻠﺤﻟﺍ ﻢﺘﻳﻭ
+
+ﺔﻴﻤﻛ ﻰﻠﻋ ﺀﺎﻨﺑ ﺔﻤﻴﻘﻟﺍ ﻩﺬﻫ ﺏﺎﺴﺣ ﻢﺘﻳ
+ﻲﻓ ﺎﻫﺮﻌﺳﻭ ﻡﺎﻌﻟﺍ ﻝﻼﺧ ﺎﻬﺠﺘﻨﺗ ﻲﺘﻟﺍ ﺐﻴﻠﺤﻟﺍ
+.ﻕﻮﺴﻟﺍ</Stat_Animal_MilkValuePerYearDesc>
+  
+  <Stat_Animal_WoolType>ﻑﻮﺼﻟﺍ ﻉﻮﻧ</Stat_Animal_WoolType>
+  
+  <Stat_Animal_WoolTypeDesc>.ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﻞﺒﻗ ﻦﻣ ﺞﺘﻨﻤﻟﺍ ﻑﻮﺼﻟﺍ ﻉﻮﻧ</Stat_Animal_WoolTypeDesc>
+  
+  <Stat_Animal_WoolAmount>ﺮﻌﺸﻟﺍ ﺔﻔﻴﻔﺼﺗ ﻞﺑﺎﻘﻣ ﻑﻮﺻ</Stat_Animal_WoolAmount>
+  
+  <Stat_Animal_WoolAmountDesc>ﻦﻣ ﺎﻬﻴﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻢﺘﻳ ﻲﺘﻟﺍ ﻑﻮﺼﻟﺍ ﺔﻴﻤﻛ
+.ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﺺﻗ ﻝﻼﺧ</Stat_Animal_WoolAmountDesc>
+  
+  <Stat_Animal_WoolGrowthTime>ﻢﻴﻠﻘﺘﻟﺍ ﺓﺪﻣ</Stat_Animal_WoolGrowthTime>
+  
+  <Stat_Animal_WoolGrowthTimeDesc>ﻦﻜﻤﻳ ﻥﺃ ﻞﺒﻗ ﺔﻗﻼﺤﻟﺍ ﺪﻌﺑ ﺔﻣﺯﻼﻟﺍ ﺓﺪﻤﻟﺍ
+.ﻯﺮﺧﺃ ﺓﺮﻣ ﻕﻮﻠﺨﻤﻟﺍ ﺔﻗﻼﺣ</Stat_Animal_WoolGrowthTimeDesc>
+  
+  <Stat_Animal_WoolPerYear>ﺎﻳﻮﻨﺳ ﺞﺘﻨﻤﻟﺍ ﻑﻮﺼﻟﺍ</Stat_Animal_WoolPerYear>
+  
+  <Stat_Animal_WoolPerYearDesc>ﻝﻼﺧ ﻕﻮﻠﺨﻤﻟﺍ ﺍﺬﻫ ﺎﻬﺠﺘﻨﻳ ﻲﺘﻟﺍ ﻑﻮﺼﻟﺍ ﺔﻴﻤﻛ
+ﻰﻠﻋ ﺀﺎﻨﺑ ﺔﻤﻴﻘﻟﺍ ﺍﺬﻫ ﺏﺎﺴﺣ ﻢﺘﻳ .ﻡﺎﻌﻟﺍ
+.ﻑﻮﺼﻟﺍ ﻂﻗﺎﺴﺗ ﺓﺮﺘﻓﻭ ﺔﻗﻼﺤﻟﺍ ﺪﻌﺑ ﻑﻮﺼﻟﺍ ﺔﻴﻤﻛ</Stat_Animal_WoolPerYearDesc>
+  
+  <Stat_Animal_WoolValue>ﻑﻮﺼﻟﺍ ﺮﻌﺳ</Stat_Animal_WoolValue>
+  
+  <Stat_Animal_WoolValueDesc>.ﻦﺋﺎﻜﻟﺍ ﺍﺬﻫ ﻑﻮﺻ ﺓﺪﺣﻮﻟ ﺔﻴﻗﻮﺳ ﺔﻤﻴﻗ</Stat_Animal_WoolValueDesc>
+  
+  <Stat_Animal_WoolValuePerYear>ﻑﻮﺼﻠﻟ ﺔﻳﻮﻨﺴﻟﺍ ﺔﻔﻠﻜﺘﻟﺍ</Stat_Animal_WoolValuePerYear>
+  
+  <Stat_Animal_WoolValuePerYearDesc>،ﻡﺎﻌﻟﺍ ﻝﻼﺧ ﻦﺋﺎﻜﻟﺍ ﺍﺬﻫ ﻑﻮﺼﻟ ﺔﻴﻗﻮﺴﻟﺍ ﺔﻤﻴﻘﻟﺍ
+.ﻩﺮﻌﺳﻭ ﻑﻮﺼﻟﺍ ﺔﻴﻤﻛ ﻰﻠﻋ ﺀﺎﻨﺑ ﺐﺴﺤﺗﻭ</Stat_Animal_WoolValuePerYearDesc>
+
+  
+  <Stat_Studiable_Desc>.ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﻥﺄﺸﺑ ﺪﻴﺠﻟﺍ ﻚﻣﺎﻤﻟﺇ ﻯﺪﻣ</Stat_Studiable_Desc>
+
+  
+  <Stat_Source_Label>ﺭﺪﺼﻤﻟﺍ</Stat_Source_Label>
+  
+  <Stat_Source_OfficialExpansionReport>.ﺔﻴﻤﺳﺭ ﺔﻓﺎﺿﺇ ﻦﻣ ﺫﻮﺧﺄﻣ ﻯﻮﺘﺤﻤﻟﺍ ﺍﺬﻫ</Stat_Source_OfficialExpansionReport>
+  
+  <Stat_Source_ModReport>.(ﺩﻮﻤﻟﺍ) ﺔﻓﺎﺿﻹﺍ ﻦﻣ ﺫﻮﺧﺄﻣ ﻯﻮﺘﺤﻤﻟﺍ ﺍﺬﻫ</Stat_Source_ModReport>
+  
+</LanguageData>
