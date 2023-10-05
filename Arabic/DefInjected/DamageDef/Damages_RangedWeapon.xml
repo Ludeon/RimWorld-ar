@@ -1,0 +1,26 @@
+<LanguageData>
+  
+  
+  <Arrow.label>ﻢﻬﺴﻟﺍ</Arrow.label>
+  
+  <Arrow.deathMessage>{0} {0_gender ? ﻪﻴﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻢﺗ
+ﺱﻮﻘﻟﺎﺑ {ﺎﻬﻴﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻢﺗ :.</Arrow.deathMessage>
+  
+  
+  <ArrowHighVelocity.label>ﻢﻬﺴﻟﺍ</ArrowHighVelocity.label>
+  
+  <ArrowHighVelocity.deathMessage>? gender_0} {0} ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻢﺗ
+.ﺱﻮﻘﻟﺍ ﺔﻄﺳﺍﻮﺑ { :</ArrowHighVelocity.deathMessage>
+  
+  
+  <Bullet.label>ﺔﺻﺎﺻﺮﻟﺍ</Bullet.label>
+  
+  <Bullet.deathMessage>.{gender_0} {0} ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻢﺗ</Bullet.deathMessage>
+  
+  
+  <RangedStab.label>ﺔﻨﻘﺤﻟﺍ</RangedStab.label>
+  
+  <RangedStab.deathMessage>{0} {0_gender ? ﻢﺗ : ﻪﺤﺑﺫ ﻢﺗ
+ﺎﻬﺤﺑﺫ}.</RangedStab.deathMessage>
+  
+</LanguageData>
