@@ -1,0 +1,115 @@
+<LanguageData>
+  
+  
+  <Arms.label>ﻱﺪﻳﻷﺍ</Arms.label>
+  
+  
+  <Beak.label>ﺭﺎﻘﻨﻣ</Beak.label>
+  
+  
+  <Eyes.label>ﻥﻮﻴﻌﻟﺍ</Eyes.label>
+  
+  
+  <Feet.label>ﻡﺍﺪﻗﺃ</Feet.label>
+  
+  
+  <FrontLeftClaws.label>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﺐﻟﺎﺨﻤﻟﺍ</FrontLeftClaws.label>
+  
+  <FrontLeftClaws.labelShort>ﺮﻓﺎﻇﺃ</FrontLeftClaws.labelShort>
+  
+  
+  <FrontLeftLeg.label>ﻯﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻡﺪﻘﻟﺍ</FrontLeftLeg.label>
+  
+  <FrontLeftLeg.labelShort>ﻕﺎﺴﻟﺍ</FrontLeftLeg.labelShort>
+  
+  
+  <FrontLeftPaw.label>ﺀﺍﺮﺴﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻡﺪﻘﻟﺍ</FrontLeftPaw.label>
+  
+  <FrontLeftPaw.labelShort>ﻡﺪﻗ</FrontLeftPaw.labelShort>
+  
+  
+  <FrontRightClaws.label>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﺐﻟﺎﺨﻤﻟﺍ</FrontRightClaws.label>
+  
+  <FrontRightClaws.labelShort>ﺐﻟﺎﺨﻤﻟﺍ</FrontRightClaws.labelShort>
+  
+  
+  <FrontRightLeg.label>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻕﺎﺴﻟﺍ</FrontRightLeg.label>
+  
+  <FrontRightLeg.labelShort>ﻕﺎﺴﻟﺍ</FrontRightLeg.labelShort>
+  
+  
+  <FrontRightPaw.label>ﻰﻨﻤﻴﻟﺍ ﺔﻴﻣﺎﻣﻷﺍ ﻡﺪﻘﻟﺍ</FrontRightPaw.label>
+  
+  <FrontRightPaw.labelShort>ﻡﺪﻗ</FrontRightPaw.labelShort>
+  
+  
+  <FullHead.label>ﺱﺃﺮﻟﺍ</FullHead.label>
+  
+  
+  <Hands.label>ﻱﺪﻳﻷﺍ</Hands.label>
+  
+  
+  <HeadAttackTool.label>ﺱﺃﺭ</HeadAttackTool.label>
+  
+  
+  <HeadClaw.label>ﺐﻠﺨﻣ</HeadClaw.label>
+  
+  
+  <HornAttackTool.label>ﻥﺮﻗ</HornAttackTool.label>
+  
+  
+  <LeftBlade.label>ﺮﺴﻳﻷﺍ ﻞﺼﻨﻟﺍ</LeftBlade.label>
+  
+  <LeftBlade.labelShort>ﻞﺼﻨﻟﺍ</LeftBlade.labelShort>
+  
+  
+  <LeftHand.label>ﻯﺮﺴﻴﻟﺍ ﺔﻀﺒﻘﻟﺍ</LeftHand.label>
+  
+  <LeftHand.labelShort>ﺔﻀﺒﻗ</LeftHand.labelShort>
+  
+  
+  <Legs.label>ﻞﺟﺭﻷﺍ</Legs.label>
+  
+  
+  <MiddleFingers.label>ﻰﻄﺳﻮﻟﺍ ﻊﺒﺻﻹﺍ</MiddleFingers.label>
+  
+  <MiddleFingers.labelShort>ﻊﺒﺻﺇ</MiddleFingers.labelShort>
+  
+  
+  <Mouth.label>ﻢﻓ</Mouth.label>
+  
+  
+  <Neck.label>ﺔﺒﻗﺮﻟﺍ</Neck.label>
+  
+  
+  <RightBlade.label>ﻰﻨﻤﻴﻟﺍ ﺓﺮﻔﺸﻟﺍ</RightBlade.label>
+  
+  <RightBlade.labelShort>ﻒﻴﺴﻟﺍ</RightBlade.labelShort>
+  
+  
+  <RightHand.label>ﻰﻨﻤﻴﻟﺍ ﺔﻀﺒﻘﻟﺍ</RightHand.label>
+  
+  <RightHand.labelShort>ﺔﻀﺒﻗ</RightHand.labelShort>
+  
+  
+  <Shoulders.label>ﻦﻴﻔﺘﻜﻟﺍ</Shoulders.label>
+  
+  
+  <Teeth.label>ﻥﺎﻨﺳﻷﺍ</Teeth.label>
+  
+  
+  <Torso.label>ﺭﺪﺼﻟﺍ</Torso.label>
+  
+  
+  <TurtleBeakAttackTool.label>ﺭﺎﻘﻨﻣ</TurtleBeakAttackTool.label>
+  
+  
+  <TuskAttackTool.label>ﺏﺎﻴﻧﺃ</TuskAttackTool.label>
+  
+  
+  <UpperHead.label>ﺱﺃﺮﻟﺍ ﻦﻣ ﻱﻮﻠﻌﻟﺍ ﺀﺰﺠﻟﺍ</UpperHead.label>
+  
+  
+  <Waist.label>ﺔﻴﻓﺎﺿﺇ ﺕﺍﺪﻌﻣ</Waist.label>
+  
+</LanguageData>
