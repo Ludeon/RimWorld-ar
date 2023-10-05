@@ -1,0 +1,21 @@
+<LanguageData>
+  
+  
+  <CureScaria.label>ﺔﻴﻧﺍﻭﺪﻌﻟﺍ ﺝﻼﻋ</CureScaria.label>
+  
+  <CureScaria.description>.ﺓﺰﺠﻌﻟﺍ ﺝﻼﻌﻟ ﺹﺎﺧ ﻲﺒﻃ ﺀﺍﺮﺟﺇ ﻩﺬﻫ</CureScaria.description>
+  
+  <CureScaria.jobString>ﻲﺒﺼﻌﻟﺍ ﻝﺍﺪﺘﻋﻻﺍ ﺞﻟﺎﻌﻳ</CureScaria.jobString>
+  
+  <CureScaria.successfullyRemovedHediffMessage>.ﻯﻭﺪﻌﻟﺍ ﻦﻣ ﺡﺎﺠﻨﺑ {1} ﻲﻔﺸﻳ {0}</CureScaria.successfullyRemovedHediffMessage> 
+  
+  
+  <Sterilize.label>ﻢﻴﻘﻌﺗ</Sterilize.label>
+  
+  <Sterilize.description>.ﻥﻵﺍ ﺪﻌﺑ ﺮﺛﺎﻜﺘﻳ ﻻ ﻰﺘﺣ ﻦﺋﺎﻜﻟﺍ ﻢﻴﻘﻌﺗ</Sterilize.description>
+  
+  <Sterilize.jobString>TargetA ﻢﻘﻌﻳ</Sterilize.jobString>
+  
+  <Sterilize.successfullyRemovedHediffMessage>.ﺡﺎﺠﻨﺑ {0} ﻢﻴﻘﻌﺗ ﻢﺗ</Sterilize.successfullyRemovedHediffMessage> 
+  
+</LanguageData>
