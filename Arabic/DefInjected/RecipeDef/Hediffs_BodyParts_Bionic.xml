@@ -1,0 +1,66 @@
+<LanguageData>
+  
+  
+  <InstallBionicArm.label>ﺔﻴﻜﻴﻧﻮﻴﺑ ﻉﺍﺭﺫ ﻰﻠﻋ ﺾﻘﻧﺍ</InstallBionicArm.label>
+  
+  <InstallBionicArm.description>.ﺔﻴﻜﻴﻧﻮﻴﺑ ﺪﻳ ﻉﺭﺯ</InstallBionicArm.description>
+  
+  <InstallBionicArm.jobString>ﺔﻴﻧﻮﻴﺑ ﺍﺪﻳ ﻉﺭﺰﻳ</InstallBionicArm.jobString>
+  
+  
+  <InstallBionicEar.label>ﺔﻴﻧﻮﻴﺑ ﺎﻧﺫﺃ ﻞﺧﺩﺍ</InstallBionicEar.label>
+  
+  <InstallBionicEar.description>.ﺔﻴﻧﻮﻴﺑ ﻥﺫﺃ ﺔﻋﺍﺭﺯ</InstallBionicEar.description>
+  
+  <InstallBionicEar.jobString>ﺔﺴﻜﻧﻮﻴﺑ ﺎﻧﺫﺃ ﻉﺭﺰﻳ</InstallBionicEar.jobString>
+  
+  
+  <InstallBionicEye.label>ﺔﻴﻧﻮﻴﺑ ﻦﻴﻋ ﻉﺭﺯ</InstallBionicEye.label>
+  
+  <InstallBionicEye.description>.ﺔﻴﻧﻮﻴﺑ ﻦﻴﻋ ﺱﺮﻏ</InstallBionicEye.description>
+  
+  <InstallBionicEye.jobString>.ﺲﻜﻴﻧﻮﻴﺑ ﻦﻴﻋ ﻖﺒﻄﻳ</InstallBionicEye.jobString>
+  
+  
+  <InstallBionicHeart.label>ﻲﻜﻴﻧﻮﻴﺑ ﺐﻠﻗ ﻉﺭﺯ</InstallBionicHeart.label>
+  
+  <InstallBionicHeart.description>.ﻚﻴﻧﻮﻴﺑ ﺐﻠﻗ ﻉﺭﺯ</InstallBionicHeart.description>
+  
+  <InstallBionicHeart.jobString>ﺎﻴﻋﺎﻨﺻ ﺎﺒﻠﻗ ﻉﺭﺰﻳ</InstallBionicHeart.jobString>
+  
+  
+  <InstallBionicLeg.label>.ﺔﻴﻧﻮﻴﺑ ﻕﺎﺳ ﺐﻴﻛﺮﺗ</InstallBionicLeg.label>
+  
+  <InstallBionicLeg.description>.ﺔﻴﻜﻴﻧﻮﻴﺑ ﻡﺪﻗ ﻉﺭﺯ</InstallBionicLeg.description>
+  
+  <InstallBionicLeg.jobString>ﺔﻴﻧﻮﻴﺑ ﺎﻗﺎﺳ ﻉﺭﺰﺗ</InstallBionicLeg.jobString>
+  
+  
+  <InstallBionicSpine.label>ﻲﻜﻴﻧﻮﻴﺒﻟﺍ ﻱﺮﻘﻔﻟﺍ ﺩﻮﻤﻌﻟﺍ ﻉﺭﺯ</InstallBionicSpine.label>
+  
+  <InstallBionicSpine.description>.ﻲﻜﻴﻧﻮﻴﺒﻟﺍ ﻱﺮﻘﻔﻟﺍ ﺩﻮﻤﻌﻟﺍ ﻉﺭﺯ</InstallBionicSpine.description>
+  
+  <InstallBionicSpine.jobString>ﻲﻜﻴﻧﻮﻴﺑ ﻱﺮﻘﻓ ﺩﻮﻤﻋ ﻉﺭﺰﻳ</InstallBionicSpine.jobString>
+  
+  
+  <InstallBionicStomach.label>ﺔﻴﻜﻴﻧﻮﻴﺑ ﺓﺪﻌﻣ ﺐﻴﻛﺮﺗ</InstallBionicStomach.label>
+  
+  <InstallBionicStomach.description>.ﺔﻴﻧﻮﻴﺑ ﺓﺪﻌﻣ ﻉﺭﺯ</InstallBionicStomach.description>
+  
+  <InstallBionicStomach.jobString>ﺔﻴﻧﻮﻴﺑ ﺓﺪﻌﻣ ﻉﺭﺰﻳ</InstallBionicStomach.jobString>
+  
+  
+  <InstallBionicTongue.label>ﻢﺴﺠﻟﺍ ﻲﻓ ﻚﻴﻧﻮﻴﺑ ﺔﻐﻟ ﺞﻣﺩﺍ</InstallBionicTongue.label>
+  
+  <InstallBionicTongue.description>.ﻚﻴﻧﻮﻴﺑ ﻥﺎﺴﻠﺑ ﻥﺎﺴﻠﻟﺍ ﻝﺪﺒﺘﺳﺍ</InstallBionicTongue.description>
+  
+  <InstallBionicTongue.jobString>ﺔﻴﻧﻮﻴﺑ ﺔﻐﻟ ﺐﻴﻛﺮﺗ</InstallBionicTongue.jobString>
+  
+  
+  <InstallDeathAcidifier.label>.ﺓﺎﻓﻮﻟﺍ ﺪﻌﺑ ﺐﻳﺬﻤﻟﺍ ﻝﻮﻠﺤﻣ ﻞﺧﺩﺍ</InstallDeathAcidifier.label>
+  
+  <InstallDeathAcidifier.description>.ﺓﺎﻓﻮﻟﺍ ﺪﻌﺑ ﺔﻘﺣﻼﻟﺍ ﺕﺎﺒﻳﺬﻤﻟﺍ ﻞﺧﺩﺃ</InstallDeathAcidifier.description>
+  
+  <InstallDeathAcidifier.jobString>ﺓﺎﻓﻮﻟﺍ ﺪﻌﺑ ﺎﻣ ﺔﺋﺰﺠﺗ ﻝﻮﻠﺤﻣ ﻦﻘﺤﻳ</InstallDeathAcidifier.jobString>
+  
+</LanguageData>
