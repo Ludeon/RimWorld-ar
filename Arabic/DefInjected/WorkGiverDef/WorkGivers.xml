@@ -1,0 +1,691 @@
+<LanguageData>
+  
+  
+  <BasicReleasePrisoner.label>ﻯﺮﺳﻷﺍ ﺮﻳﺮﺤﺗ</BasicReleasePrisoner.label>
+  
+  <BasicReleasePrisoner.gerund>ﺡﺍﺮﺳ ﻕﻼﻃﺇ</BasicReleasePrisoner.gerund>
+  
+  <BasicReleasePrisoner.verb>ﺡﺍﺮﺳ ﻕﻼﻃﺇ</BasicReleasePrisoner.verb>
+  
+  
+  <BuildRoofs.label>ﺢﻄﺳﻷﺍ ﺀﺎﻨﺑ</BuildRoofs.label>
+  
+  <BuildRoofs.gerund>ﻒﻘﺳ ﺀﺎﺸﻧﺇ</BuildRoofs.gerund>
+  
+  <BuildRoofs.verb>ﻒﻘﺳ ﺀﺎﻨﺑ</BuildRoofs.verb>
+  
+  
+  <ChatWithPrisoner.label>ﻯﺮﺳﻷﺍ ﻊﻣ ﺙﺪﺤﺘﻟﺍ</ChatWithPrisoner.label>
+  
+  <ChatWithPrisoner.gerund>ﻊﻣ ﺙﺪﺤﺗ</ChatWithPrisoner.gerund>
+  
+  <ChatWithPrisoner.verb>ﻰﻟﺇ ﺙﺪﺤﺘﻟﺍ</ChatWithPrisoner.verb>
+  
+  
+  <CleanClearSnow.label>ﺞﻠﺜﻟﺍ ﺔﻟﺍﺯﺇ</CleanClearSnow.label>
+  
+  <CleanClearSnow.gerund>ﺞﻠﺜﻟﺍ ﺔﻟﺍﺯﺇ</CleanClearSnow.gerund>
+  
+  <CleanClearSnow.verb>ﺞﻠﺜﻟﺍ ﺔﻟﺍﺯﺇ</CleanClearSnow.verb>
+  
+  
+  <CleanFilth.label>ﺓﺭﺍﺬﻘﻟﺍ ﻒﻴﻈﻨﺗ</CleanFilth.label>
+  
+  <CleanFilth.gerund>ﺔﻟﺍﺯﺇ</CleanFilth.gerund>
+  
+  <CleanFilth.verb>ﺔﻟﺍﺯﺇ</CleanFilth.verb>
+  
+  
+  <ConstructDeliverResourcesToBlueprints.label>ﻊﻳﺭﺎﺸﻤﻠﻟ ﺩﺭﺍﻮﻤﻟﺍ ﻞﻴﺻﻮﺗ</ConstructDeliverResourcesToBlueprints.label>
+  
+  <ConstructDeliverResourcesToBlueprints.gerund>ﻰﻠﻋ ﻞﻤﻌﻟﺍ</ConstructDeliverResourcesToBlueprints.gerund>
+  
+  <ConstructDeliverResourcesToBlueprints.verb>ﻚﻟﺫ ﻰﻠﻋ ﻞﻤﻌﻟﺍ</ConstructDeliverResourcesToBlueprints.verb>
+  
+  
+  <ConstructDeliverResourcesToFrames.label>ﺀﺎﻨﺒﻠﻟ ﺩﺭﺍﻮﻤﻟﺍ ﻞﻴﺻﻮﺗ</ConstructDeliverResourcesToFrames.label>
+  
+  <ConstructDeliverResourcesToFrames.gerund>ﻦﻴﺴﺤﺗ ﻰﻠﻋ ﻞﻤﻌﻟﺍ</ConstructDeliverResourcesToFrames.gerund>
+  
+  <ConstructDeliverResourcesToFrames.verb>ﻚﻟﺫ ﻰﻠﻋ ﻞﻤﻌﻟﺍ</ConstructDeliverResourcesToFrames.verb>
+  
+  
+  <ConstructFinishFrames.label>ﺕﺍﺀﺎﻨﺒﻟﺍ ﺀﺎﻬﻧﺇ</ConstructFinishFrames.label>
+  
+  <ConstructFinishFrames.gerund>ﺀﺎﻨﺑ</ConstructFinishFrames.gerund>
+  
+  <ConstructFinishFrames.verb>ﺀﺎﻨﺑ</ConstructFinishFrames.verb>
+  
+  
+  <ConstructRemoveFloors.label>ﺕﺎﻴﺿﺭﻷﺍ ﻞﻳﺯﺃ</ConstructRemoveFloors.label>
+  
+  <ConstructRemoveFloors.gerund>ﺕﺎﻴﺿﺭﻷﺍ ﻒﻴﻈﻨﺗ</ConstructRemoveFloors.gerund>
+  
+  <ConstructRemoveFloors.verb>ﺕﺎﻴﺿﺭﻷﺍ ﺔﻟﺍﺯﺍ</ConstructRemoveFloors.verb>
+  
+  
+  <ConstructSmoothFloors.label>ﺕﺎﻴﺿﺭﻷﺍ ﻯﻮﺘﺴﻣ ﻱﻮﺴﺗ</ConstructSmoothFloors.label>
+  
+  <ConstructSmoothFloors.gerund>ﺔﻟﺩﺎﻌﻣ</ConstructSmoothFloors.gerund>
+  
+  <ConstructSmoothFloors.verb>ﺔﻟﺩﺎﻌﻣ</ConstructSmoothFloors.verb>
+  
+  
+  <ConstructSmoothWalls.label>ﻥﺍﺭﺪﺠﻟﺍ ﺓﺍﺫﺎﺤﻣ</ConstructSmoothWalls.label>
+  
+  <ConstructSmoothWalls.gerund>ﺔﻧﺯﺍﻮﻣ</ConstructSmoothWalls.gerund>
+  
+  <ConstructSmoothWalls.verb>ﺔﻟﺩﺎﻌﻣ</ConstructSmoothWalls.verb>
+  
+  
+  <CookFillHopper.label>ﺔﻴﻠﻴﻤﺤﺘﻟﺍ ﺕﺎﺷﺎﻤﻘﻟﺍ ﺔﺌﺒﻌﺗ</CookFillHopper.label>
+  
+  <CookFillHopper.gerund>ﻸﻣﺍ</CookFillHopper.gerund>
+  
+  <CookFillHopper.verb>ﻸﻣﺍ</CookFillHopper.verb>
+  
+  
+  <Deconstruct.label>ﻲﻧﺎﺒﻤﻟﺍ ﺐﻴﻛﺮﺗ ﻚﻓ</Deconstruct.label>
+  
+  <Deconstruct.gerund>.ﻚﻴﻜﻔﺗ</Deconstruct.gerund>
+  
+  <Deconstruct.verb>ﻚﻜﻔﻳﻭ ﺐﻛﺮﻳ</Deconstruct.verb>
+  
+  
+  <DeliverFoodToPrisoner.label>ﻯﺮﺳﻸﻟ ﻡﺎﻌﻄﻟﺍ ﻢﻳﺪﻘﺗ</DeliverFoodToPrisoner.label>
+  
+  <DeliverFoodToPrisoner.gerund>ﻡﺎﻌﻄﻟﺍ ﻊﺿﻭ</DeliverFoodToPrisoner.gerund>
+  
+  <DeliverFoodToPrisoner.verb>ﻡﺎﻌﻄﻟﺍ ﻞﻘﻧ</DeliverFoodToPrisoner.verb>
+  
+  
+  <DeliverResourcesToBlueprints.label>ﻊﻳﺭﺎﺸﻤﻟﺍ ﻰﻟﺇ ﺩﺍﻮﻤﻟﺍ ﻞﻘﻧ</DeliverResourcesToBlueprints.label>
+  
+  <DeliverResourcesToBlueprints.gerund>ﻰﻟﺇ ﺩﺍﻮﻤﻟﺍ ﻞﻤﺣ</DeliverResourcesToBlueprints.gerund>
+  
+  <DeliverResourcesToBlueprints.verb>ﻰﻟﺇ ﺩﺍﻮﻤﻟﺍ ﻞﻤﺣ</DeliverResourcesToBlueprints.verb>
+  
+  
+  <DeliverResourcesToFrames.label>ﺪﻴﺸﺗ ﻲﺘﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ ﻰﻟﺇ ﺩﺍﻮﻤﻟﺍ ﻞﻘﻨﺑ ﻢﻗ
+.ﺎﻴﻟﺎﺣ</DeliverResourcesToFrames.label>
+  
+  <DeliverResourcesToFrames.gerund>ﻰﻟﺇ ﺩﺍﻮﻤﻟﺍ ﻞﻤﺣ</DeliverResourcesToFrames.gerund>
+  
+  <DeliverResourcesToFrames.verb>ﻰﻟﺇ ﺩﺍﻮﻤﻟﺍ ﻞﻤﺣ</DeliverResourcesToFrames.verb>
+  
+  
+  <DoBillsBrew.label>ﺓﺮﻴﺒﻟﺍ ﺮﻴﻤﺨﺗ</DoBillsBrew.label>
+  
+  <DoBillsBrew.gerund>ﻲﻓ ﺓﺮﻴﺒﻟﺍ ﻊﻨﺻ</DoBillsBrew.gerund>
+  
+  <DoBillsBrew.verb>ﻰﻠﻋ ﺓﺮﻴﺒﻟﺍ ﻊﻨﺻ</DoBillsBrew.verb>
+  
+  
+  <DoBillsButcherFlesh.label>ﺕﺎﻗﻮﻠﺨﻤﻟﺍ ﺢﻳﺮﺸﺗﻭ ﺰﻴﻬﺠﺗ</DoBillsButcherFlesh.label>
+  
+  <DoBillsButcherFlesh.gerund>ﻰﻟﺇ ﻊﻴﻄﻘﺗ</DoBillsButcherFlesh.gerund>
+  
+  <DoBillsButcherFlesh.verb>ﻢﺴﻗ ﻰﻠﻋ ﻢﻴﺴﻘﺗ</DoBillsButcherFlesh.verb>
+  
+  
+  <DoBillsCook.label>ﺪﻗﻮﻤﻟﺍ ﻰﻠﻋ ﻡﺎﻌﻄﻟﺍ ﺮﻴﻬﻄﺗ</DoBillsCook.label>
+  
+  <DoBillsCook.gerund>ﻰﻠﻋ ﻲﻬﻄﻠﻟ ﺰﻫﺎﺟ</DoBillsCook.gerund>
+  
+  <DoBillsCook.verb>ﻲﻓ ﺦﺒﻄﻟﺍ</DoBillsCook.verb>
+  
+  
+  <DoBillsCookCampfire.label>ﺭﺎﻨﻟﺍ ﻰﻠﻋ ﺕﺎﺒﺟﻮﻟﺍ ﺩﺍﺪﻋﺇ</DoBillsCookCampfire.label>
+  
+  <DoBillsCookCampfire.gerund>ﻡﺍﺪﺨﺘﺳﺎﺑ ﻡﺎﻌﻄﻟﺍ ﺮﻴﻀﺤﺗ</DoBillsCookCampfire.gerund>
+  
+  <DoBillsCookCampfire.verb>ﺔﻄﺳﺍﻮﺑ ﻮﻬﻃﺍ</DoBillsCookCampfire.verb>
+  
+  
+  <DoBillsCremate.label>ﺚﺜﺠﻟﺍ ﻕﺮﺣ</DoBillsCremate.label>
+  
+  <DoBillsCremate.gerund>.ﺔﻣﺮﻜﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺚﺜﺠﻟﺍ ﻕﺮﺣﺍ</DoBillsCremate.gerund>
+  
+  <DoBillsCremate.verb>ﺕﺍﺰﻴﻬﺠﺘﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺚﺜﺠﻟﺍ ﻕﺮﺣ</DoBillsCremate.verb>
+  
+  
+  <DoBillsFabricationBench.label>ﺔﻗﺪﻟﺍ ﺔﻴﻟﺎﻋ ﺕﺎﺠﺘﻨﻣ ﺔﻋﺎﻨﺻ</DoBillsFabricationBench.label>
+  
+  <DoBillsFabricationBench.gerund>ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻴﻟﺎﻋ ﺔﻗﺩ ﺕﺍﺫ ﺕﺎﺠﺘﻨﻣ ﻊﻴﻨﺼﺗ</DoBillsFabricationBench.gerund>
+  
+  <DoBillsFabricationBench.verb>ﺝﺎﺘﻧﻹﺍ</DoBillsFabricationBench.verb>
+  
+  
+  <DoBillsHaulCampfire.label>ﺭﺎﻨﻟﺍ ﻲﻓ ﺎﻬﻗﺮﺣﺍ</DoBillsHaulCampfire.label>
+  
+  <DoBillsHaulCampfire.gerund>ﻡﺪﺨﺘﺳﺍ ،ﻕﺮﺣﺍ</DoBillsHaulCampfire.gerund>
+  
+  <DoBillsHaulCampfire.verb>ﻡﺪﺨﺘﺳﺍ ،ﻕﺮﺣﺍ</DoBillsHaulCampfire.verb>
+  
+  
+  <DoBillsMachiningTable.label>ﻞﻤﻌﻟﺍ ﺔﻄﺤﻣ ﻰﻠﻋ ﻞﻤﻌﻟﺍ</DoBillsMachiningTable.label>
+  
+  <DoBillsMachiningTable.gerund>ﺔﻄﺳﺍﻮﺑ ﻞﻤﻌﻟﺍ</DoBillsMachiningTable.gerund>
+  
+  <DoBillsMachiningTable.verb>ﻡﺍﺪﺨﺘﺳﺎﺑ ﻞﻤﻌﻟﺍ</DoBillsMachiningTable.verb>
+  
+  
+  <DoBillsMakeApparel.label>ﺲﺑﻼﻤﻟﺍ ﺔﻃﺎﻴﺨﺑ ﻢﻗ</DoBillsMakeApparel.label>
+  
+  <DoBillsMakeApparel.gerund>ﻡﺍﺪﺨﺘﺳﺎﺑ ﺲﺑﻼﻤﻟﺍ ﻊﻨﺻ</DoBillsMakeApparel.gerund>
+  
+  <DoBillsMakeApparel.verb>ﻡﺍﺪﺨﺘﺳﺎﺑ ﺲﺑﻼﻤﻟﺍ ﺔﻃﺎﻴﺨﺑ ﻢﻗ</DoBillsMakeApparel.verb>
+  
+  
+  <DoBillsMakeWeapons.label>ﺔﺤﻠﺳﻷﺍ ﻊﻴﻨﺼﺗ</DoBillsMakeWeapons.label>
+  
+  <DoBillsMakeWeapons.gerund>ﺏ ﺡﻼﺴﻟﺍ ﻊﻨﺻ</DoBillsMakeWeapons.gerund>
+  
+  <DoBillsMakeWeapons.verb>ﺔﺤﻠﺳﻷﺍ ﺝﺎﺘﻧﺇ</DoBillsMakeWeapons.verb>
+  
+  
+  <DoBillsMedicalAnimalOperation.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻰﻠﻋ ﺔﻴﺒﻃ ﺕﺍﺀﺍﺮﺟﺇ ﺬﻴﻔﻨﺗ</DoBillsMedicalAnimalOperation.label>
+  
+  <DoBillsMedicalAnimalOperation.gerund>ﺎﻴﺒﻃ ﺀﺍﺮﺟﺇ ﺮﺟﺃ</DoBillsMedicalAnimalOperation.gerund>
+  
+  <DoBillsMedicalAnimalOperation.verb>ﻲﺒﻃ ﺀﺍﺮﺟﺇ ﺬﻴﻔﻨﺗ</DoBillsMedicalAnimalOperation.verb>
+  
+  
+  <DoBillsMedicalHumanOperation.label>ﺮﺸﺒﻠﻟ ﺔﻴﺒﻃ ﺕﺍﺀﺍﺮﺟﺇ ﺬﻴﻔﻨﺗ</DoBillsMedicalHumanOperation.label>
+  
+  <DoBillsMedicalHumanOperation.gerund>ﻲﺒﻃ ﺀﺍﺮﺟﺇ ﺀﺍﺮﺟﺈﺑ ﻢﻗ</DoBillsMedicalHumanOperation.gerund>
+  
+  <DoBillsMedicalHumanOperation.verb>ﺔﻴﺒﻃ ﺕﺍﺀﺍﺮﺟﺇ ﺬﻴﻔﻨﺗ</DoBillsMedicalHumanOperation.verb>
+  
+  
+  <DoBillsProduceDrugs.label>ﺮﻴﻗﺎﻘﻌﻟﺍ ﻊﻴﻨﺼﺗ</DoBillsProduceDrugs.label>
+  
+  <DoBillsProduceDrugs.gerund>ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻳﻭﺩﻷﺍ ﻊﻴﻨﺼﺗ</DoBillsProduceDrugs.gerund>
+  
+  <DoBillsProduceDrugs.verb>ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻳﻭﺩﻷﺍ ﻊﻨﺻ</DoBillsProduceDrugs.verb>
+  
+  
+  <DoBillsRefinery.label>ﺮﻴﻄﻘﺘﻟﺍ ﺯﺎﻬﺟ ﻰﻠﻋ ﻞﻤﻌﻟﺍ</DoBillsRefinery.label>
+  
+  <DoBillsRefinery.gerund>ﻡﺍﺪﺨﺘﺳﺎﺑ ﻞﻤﻌﻟﺍ</DoBillsRefinery.gerund>
+  
+  <DoBillsRefinery.verb>ﻡﺍﺪﺨﺘﺳﺎﺑ ﻞﻤﻌﻟﺍ</DoBillsRefinery.verb>
+  
+  
+  <DoBillsSculpt.label>ﺔﻴﻨﻓ ﻝﺎﻤﻋﺃ ﺀﺎﺸﻧﺇ</DoBillsSculpt.label>
+  
+  <DoBillsSculpt.gerund>ﻡﺍﺪﺨﺘﺳﺍ ،ﻖﻠﺨﺗ</DoBillsSculpt.gerund>
+  
+  <DoBillsSculpt.verb>ﻡﺪﺨﺘﺳﺍ ، ﺕﺎﻨﺋﺎﻜﻟﺍ ﻊﻨﺻ</DoBillsSculpt.verb>
+  
+  
+  <DoBillsSmelter.label>ﺮﺻﺎﻨﻌﻟﺍ ﺮﻬﺻ</DoBillsSmelter.label>
+  
+  <DoBillsSmelter.gerund>ﺭﺎﻬﺼﻧﺍ</DoBillsSmelter.gerund>
+  
+  <DoBillsSmelter.verb>ﻲﻓ ﺮﻬﺻ</DoBillsSmelter.verb>
+  
+  
+  <DoBillsStonecut.label>ﺮﺠﺤﻟﺍ ﻊﻴﻄﻘﺗ</DoBillsStonecut.label>
+  
+  <DoBillsStonecut.gerund>ﻡﺍﺪﺨﺘﺳﺎﺑ ﺮﺠﺤﻟﺍ ﺮﻔﺣ</DoBillsStonecut.gerund>
+  
+  <DoBillsStonecut.verb>ﺖﺤﻨﻟﺍ ﺔﻄﺳﺍﻮﺑ ﺮﺠﺤﻟﺍ ﻊﻄﻗ</DoBillsStonecut.verb>
+  
+  
+  <DoBillsUseCraftingSpot.label>ﻞﻤﻌﻟﺍ ﻥﺎﻜﻣ ﻲﻓ ﻡﺎﻬﻤﻟﺍ ﺬﻴﻔﻨﺗ</DoBillsUseCraftingSpot.label>
+  
+  <DoBillsUseCraftingSpot.gerund>ﻲﻓ ﻞﻤﻌﻟﺍ</DoBillsUseCraftingSpot.gerund>
+  
+  <DoBillsUseCraftingSpot.verb>ﻲﻓ ﻞﻤﻌﻟﺍ</DoBillsUseCraftingSpot.verb>
+  
+  
+  <DoctorFeedAnimals.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻢﻌﻃﺃ</DoctorFeedAnimals.label>
+  
+  <DoctorFeedAnimals.gerund>ﻢﻌﻃﺃ</DoctorFeedAnimals.gerund>
+  
+  <DoctorFeedAnimals.verb>ﻩﺬﻏﺍ</DoctorFeedAnimals.verb>
+  
+  
+  <DoctorFeedHumanlikes.label>ﻰﺿﺮﻤﻟﺍ ﺔﻳﺬﻐﺗ</DoctorFeedHumanlikes.label>
+  
+  <DoctorFeedHumanlikes.gerund>ﻢﻌﻃﺍ</DoctorFeedHumanlikes.gerund>
+  
+  <DoctorFeedHumanlikes.verb>ﺔﻳﺬﻐﺗ</DoctorFeedHumanlikes.verb>
+  
+  
+  <DoctorRescue.label>ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﻦﻴﺑﺎﺼﻤﻟﺍ ﺀﺎﻔﻠﺤﻟﺍ ﺫﺎﻘﻧﺇ</DoctorRescue.label>
+  
+  <DoctorRescue.gerund>ﺫﺎﻘﻧﺇ</DoctorRescue.gerund>
+  
+  <DoctorRescue.verb>ﺫﺎﻘﻧﺇ</DoctorRescue.verb>
+  
+  
+  <DoctorTendEmergency.label>ﺉﺭﺎﻃ ﺝﻼﻋ ﺀﺍﺮﺟﺇ</DoctorTendEmergency.label>
+  
+  <DoctorTendEmergency.gerund>ﺝﻼﻋ</DoctorTendEmergency.gerund>
+  
+  <DoctorTendEmergency.verb>ﺝﻼﻋ</DoctorTendEmergency.verb>
+  
+  
+  <DoctorTendToAnimals.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺝﻼﻋ</DoctorTendToAnimals.label>
+  
+  <DoctorTendToAnimals.gerund>ﺝﻼﻋ</DoctorTendToAnimals.gerund>
+  
+  <DoctorTendToAnimals.verb>ﺝﻼﻋ</DoctorTendToAnimals.verb>
+  
+  
+  <DoctorTendToHumanlikes.label>ﻰﺿﺮﻤﻟﺍ ﺝﻼﻋ</DoctorTendToHumanlikes.label>
+  
+  <DoctorTendToHumanlikes.gerund>ﺝﻼﻋ</DoctorTendToHumanlikes.gerund>
+  
+  <DoctorTendToHumanlikes.verb>ﺝﻼﻋ</DoctorTendToHumanlikes.verb>
+  
+  
+  <DoctorTendToSelf.label>ﻚﺴﻔﻧ ﺝﻼﻋ</DoctorTendToSelf.label>
+  
+  <DoctorTendToSelf.gerund>ﻚﺴﻔﻨﺑ ﻦﺘﻋﺍ</DoctorTendToSelf.gerund>
+  
+  <DoctorTendToSelf.verb>ﺲﻔﻨﻟﺍ ﺝﻼﻋ</DoctorTendToSelf.verb>
+  
+  
+  <DoctorTendToSelfEmergency.label>ﻚﺴﻔﻧ ﺝﻼﻋ</DoctorTendToSelfEmergency.label>
+  
+  <DoctorTendToSelfEmergency.gerund>ﺲﻔﻨﻟﺍ ﺝﻼﻋ</DoctorTendToSelfEmergency.gerund>
+  
+  <DoctorTendToSelfEmergency.verb>ﺲﻔﻨﻟﺍ ﺝﻼﻋ</DoctorTendToSelfEmergency.verb>
+  
+  
+  <DoExecution.label>ﻯﺮﺳﻷﺍ ﻡﺪﻋﺃ</DoExecution.label>
+  
+  <DoExecution.gerund>ﻡﺍﺪﻋﺇ</DoExecution.gerund>
+  
+  <DoExecution.verb>ﻡﺍﺪﻋﺇ</DoExecution.verb>
+  
+  
+  <Drill.label>ﺮﺌﺒﻟﺍ ﺮﻔﺤﺑ ﻢﻗ</Drill.label>
+  
+  <Drill.gerund>ﻡﺍﺪﺨﺘﺳﺎﺑ ،ﺮﻔﺣ</Drill.gerund>
+  
+  <Drill.verb>ﻡﺍﺪﺨﺘﺳﺎﺑ ،ﺮﻔﺣ</Drill.verb>
+  
+  
+  <EmptyEggBox.label>ﺎﻬﻐﻳﺮﻔﺗ ﻲﻓ ﺔﺒﻠﻌﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ</EmptyEggBox.label>
+  
+  <EmptyEggBox.gerund>ﺡﺎﻴﺘﺟﺍ</EmptyEggBox.gerund>
+  
+  <EmptyEggBox.verb>ﺽﺭﻷﺍ ﺮﻴﻣﺪﺗ</EmptyEggBox.verb>
+  
+  
+  <ExecuteGuiltyColonist.label>.ﻦﻴﺒﻧﺬﻤﻟﺍ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻡﺍﺪﻋﺈﺑ ﻢﻗ</ExecuteGuiltyColonist.label>
+  
+  <ExecuteGuiltyColonist.gerund>ﻡﺍﺪﻋﺇ</ExecuteGuiltyColonist.gerund>
+  
+  <ExecuteGuiltyColonist.verb>ﻡﺍﺪﻋﺍ</ExecuteGuiltyColonist.verb>
+  
+  
+  <ExtractTree.label>ﺭﺎﺠﺷﻷﺍ ﻉﻼﺘﻗﺍ</ExtractTree.label>
+  
+  <ExtractTree.gerund>ﺝﺍﺮﺨﺘﺳﺍ</ExtractTree.gerund>
+  
+  <ExtractTree.verb>ﺝﺍﺮﺨﺘﺳﺍ</ExtractTree.verb>
+  
+  
+  <FeedPrisoner.label>ﻯﺮﺳﻷﺍ ﺔﻳﺬﻐﺗ</FeedPrisoner.label>
+  
+  <FeedPrisoner.gerund>ﻡﺎﻌﻃﺇ</FeedPrisoner.gerund>
+  
+  <FeedPrisoner.verb>ﺔﻳﺬﻐﺗ</FeedPrisoner.verb>
+  
+  
+  <FightFires.label>ﻖﺋﺍﺮﺤﻟﺍ ﺩﺎﻤﺧﺇ</FightFires.label>
+  
+  <FightFires.gerund>ﺩﺎﻤﺧﺇ</FightFires.gerund>
+  
+  <FightFires.verb>ﺭﺎﻨﻟﺍ ﺩﺎﻤﺧﺍ</FightFires.verb>
+  
+  
+  <FillFermentingBarrel.label>ﺮﻴﻤﺨﺘﻠﻟ ﻞﻴﻣﺍﺮﺒﻟﺍ ﺊﻠﻣﺍ</FillFermentingBarrel.label>
+  
+  <FillFermentingBarrel.gerund>ﻸﻣﺍ</FillFermentingBarrel.gerund>
+  
+  <FillFermentingBarrel.verb>ﻸﻣﺍ</FillFermentingBarrel.verb>
+  
+  
+  <FixBrokenDownBuilding.label>ﺔﻔﻟﺎﺘﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ ﺡﻼﺻﺇ</FixBrokenDownBuilding.label>
+  
+  <FixBrokenDownBuilding.gerund>ﻲﻓ ﺔﻠﻄﻌﺘﻤﻟﺍ ﺀﺍﺰﺟﻷﺍ ﻝﺍﺪﺒﺘﺳﺍ</FixBrokenDownBuilding.gerund>
+  
+  <FixBrokenDownBuilding.verb>ﻲﻓ ﺓﺭﻮﺴﻜﻤﻟﺍ ﺀﺍﺰﺟﻷﺍ ﻝﺍﺪﺒﺘﺳﺍ</FixBrokenDownBuilding.verb>
+  
+  
+  <Flick.label>ﺮﻴﻴﻐﺗ/ﺀﺪﺑ</Flick.label>
+  
+  <Flick.gerund>ﻞﻳﺪﺒﺗ</Flick.gerund>
+  
+  <Flick.verb>ﺮﻴﻴﻐﺗ</Flick.verb>
+  
+  
+  <GroundPenetratingScan.label>ﻖﻴﻤﻌﻟﺍ ﻲﺋﻮﻀﻟﺍ ﺢﺳﺎﻤﻟﺍ ﻊﻣ ﻞﻤﻌﻟﺍ</GroundPenetratingScan.label>
+  
+  <GroundPenetratingScan.gerund>ﻡﺍﺪﺨﺘﺳﺎﺑ ،ﺢﺴﻤﻟﺍ</GroundPenetratingScan.gerund>
+  
+  <GroundPenetratingScan.verb>ﺢﺴﻤﻟﺍ</GroundPenetratingScan.verb>
+  
+  
+  <GrowerHarvest.label>ﻝﻮﺼﺤﻤﻟﺍ ﻊﻤﺟ</GrowerHarvest.label>
+  
+  <GrowerHarvest.gerund>ﻊﻤﺟ</GrowerHarvest.gerund>
+  
+  <GrowerHarvest.verb>ﻊﻤﺟ</GrowerHarvest.verb>
+  
+  
+  <GrowerSow.label>ﺕﺎﺗﺎﺒﻨﻟﺍ ﺔﻋﺍﺭﺯ</GrowerSow.label>
+  
+  <GrowerSow.gerund>ﺔﻋﺍﺭﺯ</GrowerSow.gerund>
+  
+  <GrowerSow.verb>ﺔﻋﺍﺭﺯ</GrowerSow.verb>
+  
+  
+  <HandlingFeedPatientAnimals.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻡﺎﻌﻃﺇ</HandlingFeedPatientAnimals.label>
+  
+  <HandlingFeedPatientAnimals.gerund>ﺔﻳﺬﻐﺗ</HandlingFeedPatientAnimals.gerund>
+  
+  <HandlingFeedPatientAnimals.verb>ﺔﻳﺬﻐﺗ</HandlingFeedPatientAnimals.verb>
+  
+  
+  <HaulCorpses.label>ﺚﺜﺠﻟﺍ ﻞﻘﻧ</HaulCorpses.label>
+  
+  <HaulCorpses.gerund>ﻞﻘﻧ</HaulCorpses.gerund>
+  
+  <HaulCorpses.verb>ﻊﻗﻮﻤﻟﺍ ﻞﻘﻧ</HaulCorpses.verb>
+  
+  
+  <HaulGeneral.label>ﺀﺎﻴﺷﻷﺍ ﻞﻘﻧ</HaulGeneral.label>
+  
+  <HaulGeneral.gerund>ﻞﻘﻧ</HaulGeneral.gerund>
+  
+  <HaulGeneral.verb>ﻞﻘﻧ</HaulGeneral.verb>
+  
+  
+  <HaulMerge.label>ﺮﺻﺎﻨﻌﻟﺍ ﺞﻣﺩ</HaulMerge.label>
+  
+  <HaulMerge.gerund>ﺪﻴﺣﻮﺘﻟﺎﺑ ﻢﻗ</HaulMerge.gerund>
+  
+  <HaulMerge.verb>ﺪﺣﻮﻳ</HaulMerge.verb>
+  
+  
+  <HelpGatheringItemsForCaravan.label>ﺔﻠﻓﺎﻘﻟﺍ ﻒﻴﻠﻜﺗ</HelpGatheringItemsForCaravan.label>
+  
+  <HelpGatheringItemsForCaravan.gerund>ﻞﻴﻤﺤﺗ</HelpGatheringItemsForCaravan.gerund>
+  
+  <HelpGatheringItemsForCaravan.verb>ﻞﻴﻤﺤﺗ</HelpGatheringItemsForCaravan.verb>
+  
+  
+  <HunterHunt.label>ﺪﻴﺻ</HunterHunt.label>
+  
+  <HunterHunt.gerund>ﺔﺴﻳﺮﻔﻟﺍ ﺪﻴﺻ</HunterHunt.gerund>
+  
+  <HunterHunt.verb>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺪﻴﺻ</HunterHunt.verb>
+  
+  
+  <LoadTransporters.label>ﻞﻘﻨﻟﺍ ﻞﻴﻤﺤﺗ</LoadTransporters.label>
+  
+  <LoadTransporters.gerund>ﻞﻴﻤﺤﺗ</LoadTransporters.gerund>
+  
+  <LoadTransporters.verb>ﻞﻴﻤﺤﺗ</LoadTransporters.verb>
+  
+  
+  <LongRangeScan.label>.ﺪﻌﺑ ﻦﻋ ﺢﺴﻤﻟﺍ ﺯﺎﻬﺟ ﻊﻣ ﻞﻤﻌﻟﺍ</LongRangeScan.label>
+  
+  <LongRangeScan.gerund>.ﻡﺍﺪﺨﺘﺳﺍ ،ﻥﺎﻜﺳﺍ</LongRangeScan.gerund>
+  
+  <LongRangeScan.verb>ﻥﺎﻜﺳﺍ</LongRangeScan.verb>
+  
+  
+  <Milk.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺐﻠﺤﻟﺍ</Milk.label>
+  
+  <Milk.gerund>ﺐﻠﺣ</Milk.gerund>
+  
+  <Milk.verb>ﺐﻠﺤﻟﺍ</Milk.verb>
+  
+  
+  <Mine.label>ﻡﺎﺨﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ</Mine.label>
+  
+  <Mine.gerund>ﺩﺭﺍﻮﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ</Mine.gerund>
+  
+  <Mine.verb>ﺩﺭﺍﻮﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ</Mine.verb>
+  
+  
+  <Open.label>ﺕﺎﻳﻭﺎﺤﻟﺍ ﺢﺘﻓ</Open.label>
+  
+  <Open.gerund>ﺢﺘﻓﺍ</Open.gerund>
+  
+  <Open.verb>ﺢﺘﻓﺍ</Open.verb>
+  
+  
+  <PaintBuilding.label>ﻞﻛﺎﻴﻬﻟﺍ ﻎﺒﺻ</PaintBuilding.label>
+  
+  <PaintBuilding.gerund>ﻎﺒﺻ</PaintBuilding.gerund>
+  
+  <PaintBuilding.verb>ﻎﺒﺻ</PaintBuilding.verb>
+  
+  
+  <PaintFloor.label>ﺔﻴﺿﺭﻷﺍ ﻦﻳﻮﻠﺗ</PaintFloor.label>
+  
+  <PaintFloor.gerund>ﻥﻮﻟ</PaintFloor.gerund>
+  
+  <PaintFloor.verb>ﺔﻏﺎﺒﺻ</PaintFloor.verb>
+  
+  
+  <PatientGoToBedEmergencyTreatment.label>ﺔﻠﺟﺎﻌﻟﺍ ﺓﺪﻋﺎﺴﻤﻟﺍ ﻲﻘﻠﺗ</PatientGoToBedEmergencyTreatment.label>
+  
+  <PatientGoToBedEmergencyTreatment.gerund>ﻲﻓ ﺝﻼﻌﻟﺍ</PatientGoToBedEmergencyTreatment.gerund>
+  
+  <PatientGoToBedEmergencyTreatment.verb>ﻲﻓ ﻚﺟﻼﻋ</PatientGoToBedEmergencyTreatment.verb>
+  
+  
+  <PatientGoToBedRecuperate.label>ﺮﻳﺮﺴﻟﺍ ﻲﻓ ﺀﺎﺧﺮﺘﺳﻻﺍ</PatientGoToBedRecuperate.label>
+  
+  <PatientGoToBedRecuperate.gerund>ﻲﻓ ﺔﺣﺍﺮﺘﺳﻻﺍ</PatientGoToBedRecuperate.gerund>
+  
+  <PatientGoToBedRecuperate.verb>ﺔﺣﺍﺮﺘﺳﺍ</PatientGoToBedRecuperate.verb>
+  
+  
+  <PatientGoToBedTreatment.label>ﺝﻼﻋ</PatientGoToBedTreatment.label>
+  
+  <PatientGoToBedTreatment.gerund>ﻲﻓﺎﺸﺘﻠﻟ ﻝﺎﻌﺗ</PatientGoToBedTreatment.gerund>
+  
+  <PatientGoToBedTreatment.verb>ﻲﻓ ﺝﻼﻌﻟﺍ</PatientGoToBedTreatment.verb>
+  
+  
+  <PlantsCut.label>ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻄﻗ</PlantsCut.label>
+  
+  <PlantsCut.gerund>ﻊﻄﻗ ﻭﺃ ﻂﻘﺳ</PlantsCut.gerund>
+  
+  <PlantsCut.verb>ﻞﺘﻗﺍ</PlantsCut.verb>
+  
+  
+  <PlantSeed.label>ﺭﻭﺬﺒﻟﺍ ﻉﺭﺯ</PlantSeed.label>
+  
+  <PlantSeed.gerund>ﻉﺭﺯ</PlantSeed.gerund>
+  
+  <PlantSeed.verb>ﻉﺭﺯ</PlantSeed.verb>
+  
+  
+  <RearmTurrets.label>ﻊﻓﺍﺪﻤﻟﺍ ﻦﺤﺷ ﺪﻋﺃ</RearmTurrets.label>
+  
+  <RearmTurrets.gerund>ﺡﻼﺴﻟﺍ ﻦﺤﺷ ﺪﻋﺃ</RearmTurrets.gerund>
+  
+  <RearmTurrets.verb>ﻦﺤﺷ ﺓﺩﺎﻋﺇ</RearmTurrets.verb>
+  
+  
+  <RebalanceAnimalsInPens.label>ﺹﺎﻔﻗﻷﺍ ﻲﻓ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻳﺯﻮﺗ ﺓﺩﺎﻋﺇ</RebalanceAnimalsInPens.label>
+  
+  <RebalanceAnimalsInPens.gerund>ﻡﺩﺎﻗ</RebalanceAnimalsInPens.gerund>
+  
+  <RebalanceAnimalsInPens.verb>ﺐﻌﻠﻟﺍ ﻱﺭﺎﺟ</RebalanceAnimalsInPens.verb>
+  
+  
+  <Refuel.label>ﺩﻮﻗﻭ ﺔﺌﺒﻌﺗ</Refuel.label>
+  
+  <Refuel.gerund>ﺪﺒﻌﺘﺳﺍ</Refuel.gerund>
+  
+  <Refuel.verb>ﺩﻮﻗﻮﻟﺍ ﺔﺌﺒﻌﺗ</Refuel.verb>
+  
+  
+  <ReleasePrisoner.label>ﺀﺎﻨﺠﺴﻟﺍ ﻕﻼﻃﺇ</ReleasePrisoner.label>
+  
+  <ReleasePrisoner.gerund>ﺭﺮﺤﺘﻟﺍ</ReleasePrisoner.gerund>
+  
+  <ReleasePrisoner.verb>ﺝﺍﺮﻓﻻﺍ</ReleasePrisoner.verb>
+  
+  
+  <ReleaseToWild.label>ﻢﻫﺮﻳﺮﺤﺗ</ReleaseToWild.label>
+  
+  <ReleaseToWild.gerund>ﺝﺍﺮﻓﻹﺍ</ReleaseToWild.gerund>
+  
+  <ReleaseToWild.verb>ﻪﻨﻋ ﺝﺍﺮﻓﻻﺍ</ReleaseToWild.verb>
+  
+  
+  <RemovePaintBuilding.label>ﻥﺎﻫﺪﻟﺍ ﻑﺬﺣ</RemovePaintBuilding.label>
+  
+  <RemovePaintBuilding.gerund>...ﻦﻣ ﻥﺎﻫﺪﻟﺍ ﺔﻟﺍﺯﺇ</RemovePaintBuilding.gerund>
+  
+  <RemovePaintBuilding.verb>ﻥﺎﻫﺪﻟﺍ ﻑﺬﺣﺍ</RemovePaintBuilding.verb>
+  
+  
+  <RemovePaintFloor.label>ﺔﻴﺿﺭﻷﺍ ﻦﻣ ﻥﺎﻫﺪﻟﺍ ﺔﻟﺍﺯﺇ</RemovePaintFloor.label>
+  
+  <RemovePaintFloor.gerund>ﻦﻣ ﺀﻼﻄﻟﺍ ﻑﺬﺣ</RemovePaintFloor.gerund>
+  
+  <RemovePaintFloor.verb>ﺀﻼﻄﻟﺍ ﻑﺬﺣ</RemovePaintFloor.verb>
+  
+  
+  <RemoveRoofs.label>ﺢﻄﺳﻷﺍ ﻚﻴﻜﻔﺗ</RemoveRoofs.label>
+  
+  <RemoveRoofs.gerund>ﻒﻘﺴﻟﺍ ﻞﻳﺯﺃ</RemoveRoofs.gerund>
+  
+  <RemoveRoofs.verb>ﻒﻘﺴﻟﺍ ﻚﻴﻜﻔﺗ</RemoveRoofs.verb>
+  
+  
+  <Repair.label>ﺓﺭﺮﻀﺘﻤﻟﺍ ﺀﺎﻴﺷﻷﺍ ﺡﻼﺻﺇ</Repair.label>
+  
+  <Repair.gerund>ﺡﻼﺻﺇ</Repair.gerund>
+  
+  <Repair.verb>ﺡﻼﺻﺇ</Repair.verb>
+  
+  
+  <Replant.label>ﺭﺎﺠﺷﻷﺍ ﻉﺭﺯ</Replant.label>
+  
+  <Replant.gerund>ﻉﺭﺯ</Replant.gerund>
+  
+  <Replant.verb>ﻉﺭﺯ</Replant.verb>
+  
+  
+  <Research.label>ﺙﻮﺤﺒﻟﺍ ﺬﻴﻔﻨﺗ</Research.label>
+  
+  <Research.gerund>ﻑﺎﺸﻜﺘﺳﺍ</Research.gerund>
+  
+  <Research.verb>ﻑﺎﺸﻜﺘﺳﺍ</Research.verb>
+  
+  
+  <Shear.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺮﻌﺷ ﺺﻗ</Shear.label>
+  
+  <Shear.gerund>ﻖﻠﺣﺍ</Shear.gerund>
+  
+  <Shear.verb>ﺮﻌﺸﻟﺍ ﺺﻗ</Shear.verb>
+  
+  
+  <Slaughter.label>ﻢﻴﻠﺴﺘﻟﺍ ﻰﻠﻋ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺭﺎﺒﺟﺇ ﻚﻟﺬﺑ ﻰﻨﻌﻳ</Slaughter.label>
+  
+  <Slaughter.gerund>ﻡﻼﺴﺘﺳﺍ</Slaughter.gerund>
+  
+  <Slaughter.verb>ﻡﻼﺴﺘﺳﺍ</Slaughter.verb>
+  
+  
+  <Strip.label>ﺚﺜﺠﻟﺍ ﺪﻳﺮﺠﺗ</Strip.label>
+  
+  <Strip.gerund>ﻞﻔﺘﻏﺍ</Strip.gerund>
+  
+  <Strip.verb>ﺲﺑﻼﻤﻟﺍ ﻝﺯﺃ</Strip.verb>
+  
+  
+  <StudyThing.label>ﻢﻠﻌﺗ</StudyThing.label>
+  
+  <StudyThing.gerund>ﻢﻠﻌﺗ</StudyThing.gerund>
+  
+  <StudyThing.verb>ﻑﺎﺸﻜﺘﺳﺍ</StudyThing.verb>
+  
+  
+  <TakeBeerOutOfFermentingBarrel.label>.ﺮﻤﺨﺘﻠﻟ ﻞﻴﻣﺍﺮﺒﻟﺍ ﻦﻣ ﺓﺮﻴﺒﻟﺍ ﺐﺻ</TakeBeerOutOfFermentingBarrel.label>
+  
+  <TakeBeerOutOfFermentingBarrel.gerund>ﺓﺮﺠﻟﺍ ﻦﻣ ﺓﺮﻴﺒﻟﺍ ﺐﺻ</TakeBeerOutOfFermentingBarrel.gerund>
+  
+  <TakeBeerOutOfFermentingBarrel.verb>ﻝﺍ ﻦﻣ ﺓﺮﻴﺒﻟﺍ ﺐﻜﺳ</TakeBeerOutOfFermentingBarrel.verb>
+  
+  
+  <TakePrisonerToBed.label>ﺓﺮﺳﻷﺍ ﻰﻠﻋ ﻯﺮﺳﻷﺍ ﺲﻠﺟﺍ</TakePrisonerToBed.label>
+  
+  <TakePrisonerToBed.gerund>ﺮﻳﺮﺴﻟﺍ ﻰﻟﺇ ﻪﻠﻘﻧ</TakePrisonerToBed.gerund>
+  
+  <TakePrisonerToBed.verb>ﺮﻳﺮﺴﻟﺍ ﻰﻟﺇ ﻪﻠﻤﺣ</TakePrisonerToBed.verb>
+  
+  
+  <TakeRoamingAnimalsToPen.label>ﺕﺎﻋﺩﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﺓﺩﺪﻬﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻞﻘﻧ</TakeRoamingAnimalsToPen.label>
+  
+  <TakeRoamingAnimalsToPen.gerund>ﻞﺻﺍﻮﺗ</TakeRoamingAnimalsToPen.gerund>
+  
+  <TakeRoamingAnimalsToPen.verb>ﺮﻴﺴﻟﺍ</TakeRoamingAnimalsToPen.verb>
+  
+  
+  <TakeToBedToOperate.label>ﺔﻴﻠﻤﻌﻟﺍ ﺀﺍﺮﺟﻹ ﺮﻳﺮﺴﻟﺍ ﻰﻠﻋ ﻥﻮﻘﻠﺘﺴﻳ ﻰﺿﺮﻤﻟﺍ ﻞﻌﺟ
+ﺔﻴﺣﺍﺮﺠﻟﺍ</TakeToBedToOperate.label>
+  
+  <TakeToBedToOperate.gerund>ﺔﻴﺣﺍﺮﺠﻟﺍ ﺔﻴﻠﻤﻌﻟﺍ ﻰﻟﺇ ﺬﺧﺃ</TakeToBedToOperate.gerund>
+  
+  <TakeToBedToOperate.verb>ﺔﻴﺣﺍﺮﺠﻟﺍ ﺔﻴﻠﻤﻌﻠﻟ ﺪﻌﺘﺳﺍ</TakeToBedToOperate.verb>
+  
+  
+  <TakeToPen.label>ﻡﺎﺴﻗﻷﺍ ﻰﻟﺇ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻪﻴﺟﻮﺘﺑ ﻢﻗ</TakeToPen.label>
+  
+  <TakeToPen.gerund>ﻢﻜﺤﺘﻟﺍ ﻢﺘﻳ</TakeToPen.gerund>
+  
+  <TakeToPen.verb>ﻪﻴﺟﻮﺗ</TakeToPen.verb>
+  
+  
+  <Tame.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻳﻭﺮﺗ</Tame.label>
+  
+  <Tame.gerund>ﺾﻳﻭﺮﺗ ﻝﻭﺎﺣ</Tame.gerund>
+  
+  <Tame.verb>ﺾﻳﻭﺮﺗ</Tame.verb>
+  
+  
+  <Train.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺐﻳﺭﺪﺗ</Train.label>
+  
+  <Train.gerund>ﺐﻳﺭﺪﺘﻟﺎﺑ ﻢﻗ</Train.gerund>
+  
+  <Train.verb>ﺐﻳﺭﺪﺗ</Train.verb>
+  
+  
+  <Uninstall.label>ﻚﻜﻓﺍ</Uninstall.label>
+  
+  <Uninstall.gerund>ﻩﺮﻜﻓﺍ</Uninstall.gerund>
+  
+  <Uninstall.verb>ﻚﻔﻟﺎﺑ ﻢﻗ</Uninstall.verb>
+  
+  
+  <UnloadCarriers.label>ﺀﺎﻴﺷﻷﺍ ﻎﻳﺮﻔﺗ</UnloadCarriers.label>
+  
+  <UnloadCarriers.gerund>ﻎﻳﺮﻔﺗ</UnloadCarriers.gerund>
+  
+  <UnloadCarriers.verb>ﻎﻳﺮﻔﺘﻟﺍ</UnloadCarriers.verb>
+  
+  
+  <VisitSickPawn.label>ﻰﺿﺮﻤﻟﺍ ﺓﺭﺎﻳﺯ</VisitSickPawn.label>
+  
+  <VisitSickPawn.gerund>ﺓﺭﺎﻳﺯ</VisitSickPawn.gerund>
+  
+  <VisitSickPawn.verb>ﺓﺭﺎﻳﺯ</VisitSickPawn.verb>
+  
+</LanguageData>
