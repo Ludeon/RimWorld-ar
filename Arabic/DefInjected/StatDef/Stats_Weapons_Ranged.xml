@@ -1,0 +1,42 @@
+<LanguageData>
+  
+  
+  <AccuracyLong.label>(ﺓﺪﻴﻌﺑ ﺔﻓﺎﺴﻣ ﻰﻠﻋ) ﺔﻗﺪﻟﺍ</AccuracyLong.label>
+  
+  <AccuracyLong.description>ﺔﻓﺎﺴﻣ ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﺪﻨﻋ ﺔﻗﺪﻟﺍ ﻒﻋﺎﻀﻣ
+ﺪﻤﺘﻌﺗ ﻲﺋﺎﻬﻨﻟﺍ ﻝﻮﺻﻮﻟﺍ ﺔﻴﻟﺎﻤﺘﺣﺍn\n\.ﺮﺜﻛﺃ ﻭﺃ ﺔﻧﺎﺧ 40
+.ﻯﺮﺧﺃ ﻞﻣﺍﻮﻋ ﺓﺪﻋ ﻰﻠﻋ</AccuracyLong.description>
+  
+  
+  <AccuracyMedium.label>(ﺔﻄﺳﻮﺘﻣ) ﺔﻗﺪﻟﺍ</AccuracyMedium.label>
+  
+  <AccuracyMedium.description>ﺔﺑﺎﺻﻹﺍ ﺔﻴﻟﺎﻤﺘﺣﺍn\n\.ﺔﻧﺎﺧ 25 ﺪﻌﺑ ﻦﻋ ﺔﻗﺪﻟﺍ ﻞﻣﺎﻋ
+.ﻯﺮﺧﺃ ﻞﻣﺍﻮﻋ ﺓﺪﻋ ﻰﻠﻋ ﺎﻀﻳﺃ ﺪﻤﺘﻌﺗ ﺔﻴﺋﺎﻬﻨﻟﺍ</AccuracyMedium.description>
+  
+  
+  <AccuracyShort.label>(ﻯﺪﻤﻟﺍ ﺏﺮﻗ) ﺔﻗﺪﻟﺍ</AccuracyShort.label>
+  
+  <AccuracyShort.description>ﺔﻴﻟﺎﻤﺘﺣﻻﺍ .ﺔﻴﻠﺧ 12 ﺪﻌﺑ ﻦﻋ ﺔﻗﺪﻟﺍ ﻞﻣﺎﻌﻣ
+.ﻯﺮﺧﺃ ﻞﻣﺍﻮﻋ ﻰﻠﻋ ﺪﻤﺘﻌﺗ ﺏﺮﻀﻠﻟ ﺔﻴﺋﺎﻬﻨﻟﺍ</AccuracyShort.description>
+  
+  
+  <AccuracyTouch.label>(ﺍﺪﺟ ﺔﺒﻳﺮﻗ) ﺔﻗﺪﻟﺍ</AccuracyTouch.label>
+  
+  <AccuracyTouch.description>ﺔﻓﺎﺴﻣ ﻰﻠﻋ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﺪﻨﻋ ﺔﻗﺪﻟﺍ ﻞﻣﺎﻌﻣ
+ﺪﻤﺘﻌﻳ ﺏﺎﺼﻤﻠﻟ ﺔﻴﺋﺎﻬﻨﻟﺍ ﺔﻴﻟﺎﻤﺘﺣﻻﺍn\n\.ﻞﻗﺃ ﻭﺃ ﺎﻳﻼﺧ 3
+.ﻯﺮﺧﻷﺍ ﻞﻣﺍﻮﻌﻟﺍ ﻦﻣ ﺩﺪﻋ ﻰﻠﻋ ﺎﻀﻳﺃ</AccuracyTouch.description>
+  
+  
+  <RangedWeapon_Cooldown.label>ﺕﺎﻤﺠﻬﻟﺍ ﻦﻴﺑ ﺖﻗﻮﻟﺍ</RangedWeapon_Cooldown.label>
+  
+  <RangedWeapon_Cooldown.description>.ﺡﻼﺴﻟﺍ ﺍﺬﻫ ﻞﻴﻤﺤﺗ ﺓﺩﺎﻋﺇ ﺖﻗﻭ</RangedWeapon_Cooldown.description>
+  
+  <RangedWeapon_Cooldown.formatString>ﺔﻴﻧﺎﺛ {0}</RangedWeapon_Cooldown.formatString>
+  
+  
+  <RangedWeapon_DamageMultiplier.label>ﺭﺮﻀﻟﺍ ﻒﻋﺎﻀﻣ</RangedWeapon_DamageMultiplier.label>
+  
+  <RangedWeapon_DamageMultiplier.description>ﺔﺑﻮﻠﻄﻤﻟﺍ ﺔﻘﻠﻄﻟﺍ ﺔﺑﺎﺻﺇ ﻦﻋ ﺞﺗﺎﻨﻟﺍ ﺭﺮﻀﻟﺍ ﻞﻣﺎﻌﻣ
+.ﺡﻼﺴﻟﺍ ﺍﺬﻫ ﻦﻣ</RangedWeapon_DamageMultiplier.description>
+  
+</LanguageData>
