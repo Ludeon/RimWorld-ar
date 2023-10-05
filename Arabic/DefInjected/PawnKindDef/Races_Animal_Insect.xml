@@ -1,0 +1,20 @@
+<LanguageData>
+  
+  
+  <Megascarab.label>.ﻲﺑﺍﺭﺎﻜﺳﺎﻐﻴﻣ</Megascarab.label>
+  <Megascarab.labelPlural>ﺔﻗﻼﻤﻌﻟﺍ ﺞﻴﺑﺍﺮﺴﻟﺍ</Megascarab.labelPlural>
+  <Megascarab.lifeStages.0.label>ﺔﻤﺨﻀﻟﺍ ﺀﺎﺴﻔﻨﺨﻠﻟ ﺔﻗﻼﻤﻌﻟﺍ ﺔﻗﺮﻴﻟﺍ</Megascarab.lifeStages.0.label>
+  <Megascarab.lifeStages.1.label>ﺎﻴﺑﺍﺭﺎﻜﺳﺎﻐﻴﻣ ﺎﻔﻤﻴﻧ</Megascarab.lifeStages.1.label>
+  
+  
+  <Megaspider.label>ﺕﻮﺒﻜﻨﻋ ﺎﺠﻴﻣ</Megaspider.label>
+  <Megaspider.labelPlural>ﺱﺭﻭﺎﺑ-ﺎﻐﻴﻣ</Megaspider.labelPlural>
+  <Megaspider.lifeStages.0.label>ﺔﻗﻼﻤﻌﻟﺍ ﺔﻗﺮﻴﻟﺍ</Megaspider.lifeStages.0.label>
+  
+  
+  <Spelopede.label>ﺔﻴﻔﻬﻜﻟﺍ ﺀﺎﺴﻔﻨﺨﻟﺍ</Spelopede.label>
+  <Spelopede.labelPlural>ﺔﻳﺭﺎﻐﻤﻟﺍ ﺕﺍﺮﺸﺤﻟﺍ</Spelopede.labelPlural>
+  <Spelopede.lifeStages.0.label>ﻒﻬﻜﻟﺍ ﻥﺎﺒﻌﺛ ﺔﻗﺮﻳ</Spelopede.lifeStages.0.label>
+  <Spelopede.lifeStages.1.label>ﻒﻬﻜﻟﺍ ﻞﺘﻴﺑ ﺎﻔﻤﻴﻧ</Spelopede.lifeStages.1.label>
+  
+</LanguageData>
