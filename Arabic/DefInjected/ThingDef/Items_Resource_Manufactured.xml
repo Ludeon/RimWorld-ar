@@ -1,0 +1,60 @@
+<LanguageData>
+  
+  
+  <Chemfuel.label>ﻲﺋﺎﻴﻤﻴﻜﻟﺍ ﺩﻮﻗﻮﻟﺍ</Chemfuel.label>
+  
+  <Chemfuel.description>ﺩﻮﻗﻮﻛ ﻡﺪﺨﺘﺴﻳ .ﻲﺋﺎﻴﻤﻴﻛ ﺐﻛﺮﻣﻭ ﻝﺎﻌﺘﺷﻼﻟ ﻞﺑﺎﻗ ﻞﺋﺎﺳ
+.ﺎﻤﻟﺎﺑﺎﻨﻟﺍﻭ ﺕﺍﺮﺠﻔﺘﻤﻟﺍ ﻊﻴﻨﺼﺘﻟ ﻡﺎﺧ ﺩﺍﻮﻣ ﻭﺃ</Chemfuel.description>
+  
+  
+  <ComponentIndustrial.label>ﺮﺗﻮﻴﺒﻤﻛ</ComponentIndustrial.label>
+  
+  <ComponentIndustrial.description>ﺕﺎﻔﺜﻜﻣﻭ ﺱﻭﺮﺗ ﻞﺜﻣ ﺔﻋﻮﻨﺘﻣ ﺔﻴﻜﻴﻧﺎﻜﻴﻣﻭ ﺔﻴﻧﻭﺮﺘﻜﻟﺇ ﺀﺍﺰﺟﺃ
+ﺕﺎﺠﻟﺎﻌﻣﻭ ﺢﺋﺍﺮﺷﻭ ﻙﻼﺳﺃﻭ ﺕﺎﺳﺎﺴﺣﻭ ﺕﻼﺠﻋﻭ ﺐﻴﺑﺎﻧﺃﻭ ﺕﺎﺣﻮﻟﻭ
+ﺓﺰﻬﺟﺃﻭ ﺕﺎﻴﻟﺁ ﻊﻴﻤﺠﺗ ﻲﻓ ﻡﺪﺨﺘﺴﺗ .ﻯﺮﺧﺃ ﺀﺍﺰﺟﺃﻭ
+.ﺓﺪﻘﻌﻣ ﺔﻴﺋﺎﺑﺮﻬﻛ</ComponentIndustrial.description>
+  
+  
+  <ComponentSpacer.label>ﻡﺪﻘﺘﻣ ﻥﻮﻜﻣ</ComponentSpacer.label>
+  
+  <ComponentSpacer.description>ﻢﺠﺤﻟﺍ ﺓﺮﻴﻐﺻﻭ ﺔﻳﻮﻗ .ﺓﺩﻮﺠﻟﺍ ﺔﻴﻟﺎﻋ ﺔﻴﻧﻭﺮﺘﻜﻟﺇ ﺓﺰﻬﺟﺃ
+ﺔﻔﻠﻜﻣﻭ ﺓﺪﻘﻌﻣ ﺕﺎﻴﻟﺁ ﻲﻓ ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﺢﻴﺘﻳ ﺎﻤﻣ
+.ﻞﻤﻌﻟﺎﺑ</ComponentSpacer.description>
+  
+  
+  <MedicineHerbal.label>ﺔﻴﺒﻄﻟﺍ ﺏﺎﺸﻋﻷﺍ</MedicineHerbal.label>
+  
+  <MedicineHerbal.description>ﻲﺴﻴﺋﺭ ﻞﻜﺸﺑ ﻒﻟﺄﺘﺗ ،ﺔﻴﺟﻼﻌﻟﺍ ﺏﺎﺸﻋﻷﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ
+،ﺔﻴﻋﺎﻨﺼﻟﺍ ﺔﻳﻭﺩﻷﺍ ﺔﻴﻟﺎﻌﻔﺑ ﺖﺴﻴﻟ .ﻲﺟﻼﻋ ﺭﺬﺟ ﻦﻣ
+.ﺀﻲﺷ ﺩﻮﺟﻭ ﻡﺪﻋ ﻦﻣ ﻞﻀﻓﺃ ﺎﻬﻨﻜﻟﻭ</MedicineHerbal.description>
+  
+  
+  <MedicineIndustrial.label>ﺔﻴﺒﻄﻟﺍ ﺔﻳﻭﺩﻷﺍ</MedicineIndustrial.label>
+  
+  <MedicineIndustrial.description>.ﺔﻋﺎﻨﺼﻟﺍ ﺮﺼﻋ ﻲﻓ ﺔﻓﻭﺮﻌﻣ ﺔﻴﺒﻃ ﺕﺍﻭﺩﺃ ﺔﻋﻮﻤﺠﻣ
+ﺩﺍﻮﻤﻟﺍﻭ ﻦﻄﻘﻟﺍﻭ ﺕﺍﺩﺎﻤﻀﻟﺍﻭ ﺔﻴﺳﺎﺳﻷﺍ ﺔﻳﻭﺩﻷﺍ ﻰﻠﻋ ﻱﻮﺘﺤﺗ
+.ﺺﻴﺨﺸﺘﻟﺍﻭ ﺭﻮﺴﻜﻟﺍ ﺐﻴﻛﺮﺗﻭ ﺔﻃﺎﻴﺨﻠﻟ ﺕﺍﻭﺩﻷﺍﻭ</MedicineIndustrial.description>
+  
+  
+  <MedicineUltratech.label>ﺔﻣﺪﻘﺘﻤﻟﺍ ﺔﻳﻭﺩﻷﺍ</MedicineUltratech.label>
+  
+  <MedicineUltratech.description>ﺎﻤﺑﺭ ،ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﺔﻴﻟﺎﻋ ﺔﻣﺪﻘﺘﻣ ﺔﻴﺒﻃ ﺕﺎﺠﺘﻨﻣ ﺔﻋﻮﻤﺠﻣ
+ﺮﻴﻗﺎﻘﻋ ﻰﻠﻋ ﻱﻮﺘﺤﺗ .ﺪﻴﻌﺒﻟﺍ ﻞﺒﻘﺘﺴﻤﻟﺍ ﻢﻟﺎﻋ ﻦﻣ
+ﻰﻠﻋ ﺀﺎﻨﺑ ﺝﻼﻌﻟﺍﻭ ﺺﻴﺨﺸﺘﻟﺍ ﺕﺍﻭﺩﺃﻭ ﺔﻣﺪﻘﺘﻣ ﺔﻴﻓﺭﻮﻤﻴﻟﻮﺑ
+.ﻯﺮﺧﺃ ﺔﻴﻤﻟﺎﻋ ﺕﺍﻭﺩﺃﻭ ﺓﺮﻴﻐﺼﻟﺍ ﺕﺎﺤﺳﺎﻤﻟﺍﻭ ﺎﻜﻴﻧﺎﻜﻴﻤﻟﺍ</MedicineUltratech.description>
+  
+  
+  <Neutroamine.label>ﻦﻴﻣﺍﻭﺮﺗﻮﻴﻧ</Neutroamine.label>
+  
+  <Neutroamine.description>ﻪﻨﻜﻟ ، ﻩﺩﺮﻔﻤﺑ ﻝﺎﻌﻓ ﺮﻴﻏ .ﻲﻋﺎﻨﻄﺻﻻﺍ ﻖﺑﺎﺴﻟﺍ
+.ﺔﻴﺒﻄﻟﺍ ﺕﺍﺮﻀﺤﺘﺴﻤﻟﺍ ﻒﻠﺘﺨﻣ ﺝﺎﺘﻧﻹ ﻱﺭﻭﺮﺿ</Neutroamine.description>
+  
+  
+  <ReinforcedBarrel.label>ﻦﺼﺤﻣ ﺦﻔﻨﻟﺍ</ReinforcedBarrel.label>
+  
+  <ReinforcedBarrel.description>.ﻥﻭﺎﻬﻟﺍ ﻊﻓﺪﻤﻟﺍ ﺯﺍﺮﻃ ﻦﻣ ﺡﻼﺴﻟ ﺮﻴﺒﻛ ﺏﻮﺒﻧﺃ
+ﻕﻼﻃﺇ ﺀﺎﻨﺛﺃ ﻲﻟﺎﻋ ﻂﻐﺿ ﻞﻤﺤﺗ ﺓﺭﻭﺮﺿ ﺐﺒﺴﺑ
+ﺔﺒﻌﺻﻭ ﺔﺻﺎﺧ ﺔﻘﻳﺮﻄﺑ ﺏﻮﺒﻧﻷﺍ ﺰﻳﺰﻌﺗ ﻢﺘﻳ ،ﺭﺎﻨﻟﺍ
+.ﻊﻴﻨﺼﺘﻟﺍ</ReinforcedBarrel.description>
+  
+</LanguageData>
