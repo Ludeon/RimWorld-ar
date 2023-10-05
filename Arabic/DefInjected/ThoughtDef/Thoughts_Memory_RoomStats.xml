@@ -1,0 +1,170 @@
+<LanguageData>
+  
+  
+  
+  
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.label>ﺪﻴﺟ ﻢﻌﻄﻣ</AteInImpressiveDiningRoom.stages.decent_dining_room.label>
+  
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.description>{PAWN_gender ? ﻲﻓ ﻡﺎﻌﻄﻟﺍ {ﺖﻟﻭﺎﻨﺗ : ﺖﻟﻭﺎﻨﺗ
+ﺪﻴﺟ ﻢﻌﻄﻣ.</AteInImpressiveDiningRoom.stages.decent_dining_room.description>
+  
+  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>ﻞﻴﻤﺟ ﻢﻌﻄﻣ</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>
+  
+  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>ﻒﻴﻄﻠﻟﺍ ﻦﻣ ﻥﺎﻛ .ﺍﺪﺟ ﻞﻴﻤﺟ ﻢﻌﻄﻣ ﺎﻨﻳﺪﻟ
+.ﺍﺬﻫ ﻞﺜﻣ ﻥﺎﻜﻣ ﻲﻓ ﺀﺍﺪﻐﻟﺍ ﻝﻭﺎﻨﺗ</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>
+  
+  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>ﺍﺪﺟ ﻞﻴﻤﺟ ﻢﻌﻄﻣ</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>
+  
+  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>ﻲﻋﺍﻭﺩ ﻦﻣ ﻥﺎﻛ .ﺍﺪﺟ ﺔﻌﺋﺍﺭ ﻡﺎﻌﻄﻟﺍ ﺎﻨﺘﻟﺎﺻ
+.ﻝﺎﻤﺠﻟﺍ ﺍﺬﻬﺑ ﻥﺎﻜﻣ ﻲﻓ ﺀﺍﺪﻐﻟﺍ ﻝﻭﺎﻨﺗ ﻱﺭﻭﺮﺳ</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>
+  
+  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>ﻊﺋﺍﺭ ﻢﻌﻄﻤﻟﺍ</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>
+  
+  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>ﻮﻫ ﺎﻨﻫ ﺀﺍﺪﻐﻟﺍ ﻝﻭﺎﻨﺗ .ﻊﺋﺍﺭ ﻥﺎﻜﻣ ﺎﻨﻤﻌﻄﻣ
+!ﺓﺪﺣﺍﻭ ﺔﻌﺘﻣ</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>
+  
+  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>ﻞﻫﺬﻣ ﻢﻌﻄﻣ</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>
+  
+  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>ﻥﺎﻜﻣ ﻲﻓ ﻡﺎﻌﻄﻟﺍ ﻝﻭﺎﻨﺗ !ﻊﺋﺍﺭ ﺎﻨﻳﺪﻟ ﻢﻌﻄﻤﻟﺍ
+!ﺪﺣﺍﻭ ﻉﺎﺘﻤﺘﺳﺍ ﻮﻫ ﺍﺬﻫ ﻞﺜﻣ</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>
+  
+  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>ﻊﺋﺍﺭ ﻢﻌﻄﻣ</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>
+  
+  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>ﻰﻘﺑﺃ ﻥﺃ ﺩﻭﺃ !ﺔﻃﺎﺴﺒﺑ ﻊﺋﺍﺭ ﺎﻨﻳﺪﻟ ﻒﺼﻘﻤﻟﺍ
+!ﺪﺑﻷﺍ ﻰﻟﺇ ﺎﻨﻫ</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>
+  
+  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>ﻊﺋﺍﺭ ﻢﻌﻄﻣ</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>
+  
+  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>ﻕﺪﺻﺃ ﻥﺃ ﻲﻨﻨﻜﻤﻳ ﻻ !ﻊﺋﺍﺭ ﺔﻃﺎﺴﺒﺑ ﺎﻨﻔﺼﻘﻣ
+!ﺍﺬﻫ ﻞﺜﻣ ﻥﺎﻜﻣ ﻲﻓ ﻡﺎﻌﻄﻟﺍ ﻝﻭﺎﻨﺘﻧ ﺎﻨﻧﺃ</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>
+  
+  
+  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>ﺓﺪﻴﺟ ﺔﺣﺍﺮﺘﺳﺍ ﺔﻓﺮﻏ</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>
+  
+  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>ﺔﻓﺮﻏ ﻲﻓ ﺎﺘﻗﻭ ﺀﺎﻀﻘﻟﺍ ﻒﻄﻠﻟﺍ ﻦﻣ ﻥﺎﻛ
+.ﺓﺪﻴﺟ ﺔﺣﺍﺮﺘﺳﺍ</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>
+  
+  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>ﺓﺪﻴﺟ ﺔﺣﺍﺮﺘﺳﺍ ﺔﻓﺮﻏ</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>
+  
+  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>ﻦﻣ ﻥﺎﻛ .ﺍﺪﺟ ﺔﻠﻴﻤﺟ ﺔﺣﺍﺮﺘﺳﺍ ﺔﻓﺮﻏ ﺎﻨﻳﺪﻟ
+.ﺍﺬﻫ ﻞﺜﻣ ﻥﺎﻜﻣ ﻲﻓ ﺀﺎﺧﺮﺘﺳﻻﺍ ﻒﻴﻄﻠﻟﺍ</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>
+  
+  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>.ﺍﺪﺟ ﺔﻌﺋﺍﺭ ﺔﺣﺍﺮﺘﺳﺍ ﺔﻓﺮﻏ</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>
+  
+  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>ﺔﺑﺮﺠﺗ ﺖﻧﺎﻛ .ﺍﺪﺟ ﺔﻌﺋﺍﺭ ﺎﻨﻳﺪﻟ ﺔﺣﺍﺮﻟﺍ ﺔﻓﺮﻏ
+.ﻥﺎﻜﻤﻟﺍ ﺍﺬﻫ ﻲﻓ ﻲﺧﺮﺘﺳﺃ ﻥﺃ ﺔﺤﻳﺮﻣ</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>
+  
+  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>ﺔﻠﻴﻤﺟ ﺔﺣﺍﺮﺘﺳﺍ ﺔﻓﺮﻏ</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>
+  
+  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>ﻥﺎﻛ .ﻊﺋﺍﺭ ﻥﺎﻜﻣ ﻲﻫ ﺎﻨﻳﺪﻟ ﺀﺎﺧﺮﺘﺳﻻﺍ ﺔﻓﺮﻏ
+.ﻙﺎﻨﻫ ﺖﻗﻭ ﺀﺎﻀﻗ ﺎﻌﺋﺍﺭ</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>
+  
+  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>ﺔﻌﺋﺍﺭ ﺔﺣﺍﺮﺘﺳﺍ ﺔﻓﺮﻏ</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>
+  
+  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>ﺔﻌﺘﻤﻣ ﺔﺑﺮﺠﺗ ﺖﻧﺎﻛ !ﺔﻌﺋﺍﺭ ﺎﻨﻳﺪﻟ ﺔﺣﺍﺮﺘﺳﻻﺍ ﺔﻓﺮﻏ
+.ﻙﺎﻨﻫ ﺖﻗﻮﻟﺍ ﺀﺎﻀﻗ</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>
+  
+  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>ﺔﻌﺋﺍﺭ ﺀﺎﺧﺮﺘﺳﺍ ﺔﻓﺮﻏ</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>
+  
+  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>ﻥﺎﻜﻣ ﻲﻓ ﺀﺎﺧﺮﺘﺳﻻﺍ !ﺔﻃﺎﺴﺒﺑ ﺔﻌﺋﺍﺭ ﺎﻨﺘﺣﺍﺮﺘﺳﺍ ﺔﻓﺮﻏ
+!ﺓﺪﺣﺍﻭ ﺔﻌﺘﻣ ﻮﻫ ﺍﺬﻫ ﻞﺜﻣ</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>
+  
+  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>ﺔﻌﺋﺍﺭ ﺔﺣﺍﺮﺘﺳﺍ ﺔﻓﺮﻏ</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>
+  
+  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>ﻦﻣ ﺐﺠﻋ ﺔﻃﺎﺴﺒﺑ - ﺎﻨﻳﺪﻟ ﺔﺣﺍﺮﺘﺳﻻﺍ ﺔﻓﺮﻏ
+ﻰﻟﺇ ﺎﻨﻫ ﺀﺎﻘﺒﻟﺍ ﻊﻴﻄﺘﺳﺃ ﻮﻟ ﻰﻨﻤﺗﺃ !ﻢﻟﺎﻌﻟﺍ
+!ﺪﺑﻷﺍ</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>
+  
+  
+  <SleptInBarracks.stages.awful_barracks.label>ﺔﻌﻴﻈﻓ ﺔﻴﻋﺎﻤﺟ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBarracks.stages.awful_barracks.label>
+  
+  <SleptInBarracks.stages.awful_barracks.description>ﺔﺌﻴﺳ ﺔﻣﺎﻌﻟﺍ ﺔﻓﺮﻐﻟﺍ ﻩﺬﻫ ﻥﺃ ﻂﻘﻓ ﺲﻴﻟ
+ﻊﻣ ﺎﻬﻛﺭﺎﺷﺃ ﻥﺃ ﺐﺠﻳ ﺎﻀﻳﺃ ﺎﻬﻧﺇ -
+!ﻦﻳﺮﺧﻵﺍ</SleptInBarracks.stages.awful_barracks.description>
+  
+  <SleptInBarracks.stages.dull_barracks.label>ﺔﻠﻤﻣ ﺔﻣﺎﻋ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBarracks.stages.dull_barracks.label>
+  
+  <SleptInBarracks.stages.dull_barracks.description>ﻊﻣ ﺔﻠﻤﻣ ﺔﻛﺮﺘﺸﻣ ﻡﻮﻧ ﺔﻓﺮﻏ ﻲﻓ ﺶﻴﻋﺃ
+.ﻦﻳﺮﺧﺁ ﺹﺎﺨﺷﺃ</SleptInBarracks.stages.dull_barracks.description>
+  
+  <SleptInBarracks.stages.mediocre_barracks.label>ﺔﻳﺩﺎﻋ ﺔﻛﺮﺘﺸﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBarracks.stages.mediocre_barracks.label>
+  
+  <SleptInBarracks.stages.mediocre_barracks.description>ﺎﻬﺘﻛﺭﺎﺸﻣ ﺐﺠﻳ ﺍﺪﺟ ﺔﻳﺩﺎﻋ ﺔﻛﺮﺘﺸﻣ ﻡﻮﻧ ﺔﻓﺮﻏ
+.ﺍﺪﺑﺃ ﻚﻟﺫ ﺐﺣﺃ ﻻ .ﻦﻳﺮﺧﻵﺍ ﻊﻣ</SleptInBarracks.stages.mediocre_barracks.description>
+  
+  <SleptInBarracks.stages.decent_barracks.label>ﺓﺪﻴﺟ ﺔﻛﺮﺘﺸﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBarracks.stages.decent_barracks.label>
+  
+  <SleptInBarracks.stages.decent_barracks.description>ﻻ ﻲﻨﻨﻜﻟ ،ﺓﺪﻴﺟ ﺔﻛﺮﺘﺸﻣ ﻡﻮﻧ ﺔﻓﺮﻏ ﻩﺬﻫ
+.ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﻥﺎﻜﻤﻟﺍ ﺲﻔﻧ ﻲﻓ ﻡﻮﻨﻟﺍ ﺐﺣﺃ</SleptInBarracks.stages.decent_barracks.description>
+  
+  <SleptInBarracks.stages.slightly_impressive_barracks.label>ﺓﺪﻴﺟ ﺔﻛﺮﺘﺸﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBarracks.stages.slightly_impressive_barracks.label>
+  
+  <SleptInBarracks.stages.slightly_impressive_barracks.description>،ﻞﻴﻤﺟ ﻥﺎﻜﻣ - ﺔﻛﺮﺘﺸﻣ ﻡﻮﻧ ﺔﻓﺮﻏ ﻩﺬﻫ
+ﺔﺻﺎﺧ ﺔﻓﺮﻏ ﻲﻟ ﻥﻮﻜﻳ ﻥﺃ ﻰﻨﻤﺗﺃ ﻦﻜﻟ
+.ﻲﺑ</SleptInBarracks.stages.slightly_impressive_barracks.description>
+  
+  <SleptInBarracks.stages.impressive_barracks.label>ﺔﻌﺋﺍﺭ ﺔﻛﺮﺘﺸﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBarracks.stages.impressive_barracks.label>
+  
+  <SleptInBarracks.stages.impressive_barracks.description>ﺔﻴﺼﺨﺸﻟﺍ ﺔﺣﺍﺮﻠﻟ ﺖﻧﺎﻛ .ﺍﺪﺟ ﺔﻠﻴﻤﺟ ﻡﻮﻧ ﺔﻓﺮﻏ
+!ﻂﻘﻓ</SleptInBarracks.stages.impressive_barracks.description>
+  
+  <SleptInBarracks.stages.very_impressive_barracks.label>ﺔﻌﺋﺍﺭ ﺔﻛﺮﺘﺸﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBarracks.stages.very_impressive_barracks.label>
+  
+  <SleptInBarracks.stages.very_impressive_barracks.description>ﻮﻟ ﻰﺘﺣ ،ﺍﺪﺟ ﺔﻠﻴﻤﺟ ﻡﻮﻧ ﺔﻓﺮﻏ ﻩﺬﻫ
+.ﺔﻛﺮﺘﺸﻣ ﺎﻬﻧﺇ ، ﻲﻜﻠﻣ ﺖﺴﻴﻟ</SleptInBarracks.stages.very_impressive_barracks.description>
+  
+  <SleptInBarracks.stages.extremely_impressive_barracks.label>ﺔﻌﺋﺍﺭ ﺔﻛﺮﺘﺸﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBarracks.stages.extremely_impressive_barracks.label>
+  
+  <SleptInBarracks.stages.extremely_impressive_barracks.description>.ﻕﺪﺼﻳ ﻻ ﻞﻜﺸﺑ ﺔﺸﻫﺪﻣ ﻡﻮﻨﻟﺍ ﺔﻓﺮﻐﻟﺍ ﻩﺬﻫ
+ﺔﺟﺎﺤﻟﺍ ﻦﻣ ﺎﺒﻳﺮﻘﺗ ﺞﻋﺰﺗ ﻻ ﺎﻬﻧﺃ ﻰﺘﺣ
+.ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﺎﻬﺘﻛﺭﺎﺸﻤﻟ</SleptInBarracks.stages.extremely_impressive_barracks.description>
+  
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.label>ﺔﻌﺋﺍﺭ ﺔﻛﺮﺘﺸﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBarracks.stages.unbelievably_impressive_barracks.label>
+  
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.description>ﻦﻜﻤﻳ ﻥﺎﻜﻣ ﻞﻀﻓﺃ - ﻡﻮﻧ ﺔﻓﺮﻐﻟﺍ ﻩﺬﻫ
+ﺶﻴﻋﺃ ﻥﺃ ﻊﻧﺎﻣﺃ ﻻ ﻲﻨﻧﺃ ﻰﺘﺣ .ﻪﻠﻴﺨﺗ
+.ﺮﺧﺁ ﺺﺨﺷ ﻊﻣ ﺎﻬﻴﻓ</SleptInBarracks.stages.unbelievably_impressive_barracks.description>
+  
+  <SleptInBarracks.stages.wondrously_impressive_barracks.label>ﺔﻌﺋﺍﺭ ﺔﻴﻋﺎﻤﺟ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBarracks.stages.wondrously_impressive_barracks.label>
+  
+  <SleptInBarracks.stages.wondrously_impressive_barracks.description>!ﺎﻘﺣ ﺔﻌﺋﺍﺭ - ﺔﻛﺮﺘﺸﻤﻟﺍ ﻡﻮﻨﻟﺍ ﺔﻓﺮﻏ ﻩﺬﻫ
+ﺔﻌﺘﻣ - ﺍﺬﻫ ﻞﺜﻣ ﻥﺎﻜﻣ ﻲﻓ ﺶﻴﻌﻟﺍ
+!ﺔﻛﺮﺸﻟﺎﺑ ﻰﺘﺣ ، ﺔﻴﻘﻴﻘﺣ</SleptInBarracks.stages.wondrously_impressive_barracks.description>
+  
+  
+  <SleptInBedroom.stages.awful_bedroom.label>ﺔﺌﻴﺳ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBedroom.stages.awful_bedroom.label>
+  
+  <SleptInBedroom.stages.awful_bedroom.description>.ﺍﺪﺟ ﺔﺌﻴﺳ ﻲﺘﻓﺮﻏ</SleptInBedroom.stages.awful_bedroom.description>
+  
+  <SleptInBedroom.stages.decent_bedroom.label>ﺓﺪﻴﺟ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBedroom.stages.decent_bedroom.label>
+  
+  <SleptInBedroom.stages.decent_bedroom.description>.ﺎﻬﺒﺣﺃ ﺎﻧﺃ .ﺔﻠﻴﻤﺟ ﻡﻮﻧ ﺔﻓﺮﻏ ﻱﺪﻟ</SleptInBedroom.stages.decent_bedroom.description>
+  
+  <SleptInBedroom.stages.slightly_impressive_bedroom.label>ﺓﺪﻴﺟ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBedroom.stages.slightly_impressive_bedroom.label>
+  
+  <SleptInBedroom.stages.slightly_impressive_bedroom.description>.ﻪﺒﺣﺃ .ﻞﻴﻤﺟ ﻥﺎﻜﻣ - ﻲﻣﻮﻧ ﺔﻓﺮﻏ</SleptInBedroom.stages.slightly_impressive_bedroom.description>
+  
+  <SleptInBedroom.stages.impressive_bedroom.label>ﺔﻠﻫﺬﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBedroom.stages.impressive_bedroom.label>
+  
+  <SleptInBedroom.stages.impressive_bedroom.description>!ﺍﺪﺟ ﺎﻬﺒﺣﺃ ﺎﻧﺃ .ﺔﻠﻴﻤﺟ ﻡﻮﻧ ﺔﻓﺮﻏ ﻱﺪﻟ</SleptInBedroom.stages.impressive_bedroom.description>
+  
+  <SleptInBedroom.stages.very_impressive_bedroom.label>ﺔﻌﺋﺍﺭ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBedroom.stages.very_impressive_bedroom.label>
+  
+  <SleptInBedroom.stages.very_impressive_bedroom.description>!ﻞﻴﻤﺟ ﻥﺎﻜﻣ ﺎﻬﻧﺇ .ﺔﻳﺎﻐﻠﻟ ﺔﻠﻫﺬﻣ ﻡﻮﻧ ﻲﺘﻓﺮﻏ</SleptInBedroom.stages.very_impressive_bedroom.description>
+  
+  <SleptInBedroom.stages.extremely_impressive_bedroom.label>ﺔﻠﻫﺬﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBedroom.stages.extremely_impressive_bedroom.label>
+  
+  <SleptInBedroom.stages.extremely_impressive_bedroom.description>!ﺔﻃﺎﺴﺒﺑ ﺔﻠﻫﺬﻣ ﺎﻬﻧﺇ .ﺔﻳﺎﻐﻠﻟ ﺔﻠﻴﻤﺟ ﻲﻣﻮﻧ ﺔﻓﺮﻏ</SleptInBedroom.stages.extremely_impressive_bedroom.description>
+  
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.label>ﺔﻌﺋﺍﺭ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBedroom.stages.unbelievably_impressive_bedroom.label>
+  
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.description>ﻦﻣ ﻞﻀﻓﺃ ﻡﻮﻧ ﺔﻓﺮﻏ ﺭﻮﺼﺗ ﻲﻨﻨﻜﻤﻳ ﻻ
+!ﺔﻌﺋﺍﺭ ﺎﻬﻧﺇ .ﻲﺑ ﺔﺻﺎﺨﻟﺍ</SleptInBedroom.stages.unbelievably_impressive_bedroom.description>
+  
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.label>ﺔﻌﺋﺍﺭ ﻡﻮﻧ ﺔﻓﺮﻏ</SleptInBedroom.stages.wondrously_impressive_bedroom.label>
+  
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.description>ﻥﺃ ﻲﻨﻨﻜﻤﻳ ﻻ ؟ﻲﻘﻴﻘﺣ ﻢﻟﺎﻌﻟﺍ ﺍﺬﻫ ﻞﻫ
+.ﺍﺬﻫ ﻞﺜﻣ ﻥﺎﻜﻣ ﻲﻓ ﺶﻴﻋﺃ ﻲﻨﻧﺃ ﻕﺪﺻﺃ
+!ﺔﻳﺮﻤﻗ ﺓﺰﺠﻌﻣ - ﺔﻓﺮﻐﻟﺍ ﺍﺬﻫ</SleptInBedroom.stages.wondrously_impressive_bedroom.description>
+  
+</LanguageData>
