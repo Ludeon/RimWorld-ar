@@ -1,0 +1,153 @@
+<LanguageData>
+  
+  
+  
+  
+  <BondedAnimalLost.stages.bonded_animal_lost.label>.{0} ،ﺔﻔﻴﻟﻷﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺕﺪﻘﻓ ﺪﻘﻟ</BondedAnimalLost.stages.bonded_animal_lost.label>
+  
+  <BondedAnimalLost.stages.bonded_animal_lost.description>!ﺍﺪﺟ ﺱﺎﻗ ﻥﻮﻜﻟﺍ .ﺪﻳﺮﻓﻭ ﻖﻴﻗﺭ ﻕﻮﻠﺨﻣ</BondedAnimalLost.stages.bonded_animal_lost.description>
+  
+  
+  <BondedAnimalReleased.stages.bonded_animal_released.label>{0} ،ﺐﻴﺒﺤﻟﺍ ﺡﺍﺮﺳ ﻕﻼﻃﺇ ﻢﺗ</BondedAnimalReleased.stages.bonded_animal_released.label>
+  
+  <BondedAnimalReleased.stages.bonded_animal_released.description>ﺝﺎﺘﺤﻳ ﻥﺎﻛ ﺍﺫﺎﻤﻟ .ﺪﻳﺮﻓﻭ ﻖﻴﻗﺭ ﻦﺋﺎﻛ ﻚﻠﺗ
+؟ﻞﺣﺮﻳ ﻥﺃ</BondedAnimalReleased.stages.bonded_animal_released.description>
+  
+  
+  <ColonistLost.stages.colonist_lost.label>ﻰﻔﺘﺧﺍ ﻦﻃﻮﺘﺴﻤﻟﺍ</ColonistLost.stages.colonist_lost.label>
+  
+  <ColonistLost.stages.colonist_lost.description>.ﺎﻨﻴﻨﻃﻮﺘﺴﻣ ﺪﺣﺃ ﺎﻧﺪﻘﻓ ،ﺔﻳﻭﺎﺳﺄﻣ ﻑﻭﺮﻇ ﺀﺎﻨﺛﺃ</ColonistLost.stages.colonist_lost.description>
+  
+  
+  <MyAuntLost.stages.my_aunt_lost.label>{0} ،ﺔﻤﻌﻟﺍ ﻥﺍﺪﻘﻓ ﻢﺗ</MyAuntLost.stages.my_aunt_lost.label>
+  
+  <MyAuntLost.stages.my_aunt_lost.description>ﺎﻣﻮﻳ ﺩﻮﻌﺘﺳ ﺎﻬﻧﺃ ﻞﻣﺁ .ﻲﺘﻤﻋ ﺀﺎﻔﺘﺧﺍ ﻢﺗ
+.ﺎﻣ</MyAuntLost.stages.my_aunt_lost.description>
+  
+  
+  <MyBrotherLost.stages.my_brother_lost.label>{0} ،ﻲﺧﺃ ﺕﺪﻘﻓ</MyBrotherLost.stages.my_brother_lost.label>
+  
+  <MyBrotherLost.stages.my_brother_lost.description>.ﺎﻣ ﺎﻣﻮﻳ ﺩﻮﻌﻳ ﻥﺃ ﻞﻣﺁ .ﻰﻔﺘﺧﺍ ﻲﺧﺃ</MyBrotherLost.stages.my_brother_lost.description>
+  
+  
+  <MyCousinLost.stages.my_cousin_lost.label>ﺖﺧﺍ ﻭﺃ ﺪﻴﻌﺒﻟﺍ ﻡﻷﺍ ﺥﺃ ﻰﻔﺘﺧﺍ ﺪﻘﻟ
+{0} ,ﺪﻴﻌﺒﻟﺍ ﺏﻷﺍ</MyCousinLost.stages.my_cousin_lost.label>
+  
+  <MyCousinLost.stages.my_cousin_lost.description>ﺔﻳﻮﻧﺎﺜﻟﺍ ﺖﺧﻷﺍ :ﻰﻔﺘﺧﺍ ﻲﺑ ﺹﺎﺨﻟﺍ ﻱﻮﻧﺎﺜﻟﺍ ﺥﻷﺍ
+ﺩﻮﻌﻳ {OTHERPAWN_pronoun} ﻥﺃ ﻞﻣﺁ .ﺖﻔﺘﺧﺍ ﻲﺑ ﺔﺻﺎﺨﻟﺍ
+.ﺎﻣ ﺎﻣﻮﻳ</MyCousinLost.stages.my_cousin_lost.description>
+  
+  
+  <MyDaughterLost.stages.my_daughter_lost.label>{0} ،ﻪﺘﻨﺑﺍ ﻥﺍﺪﻘﻓ ﻢﺗ</MyDaughterLost.stages.my_daughter_lost.label>
+  
+  <MyDaughterLost.stages.my_daughter_lost.description>.ﺎﻣ ﺎﻣﻮﻳ ﺩﻮﻌﺘﺳ ﺎﻬﻧﺃ ﻞﻣﺁ .ﺖﻔﺘﺧﺍ ﻲﺘﻨﺑﺍ</MyDaughterLost.stages.my_daughter_lost.description>
+  
+  
+  <MyFatherLost.stages.my_father_lost.label>{0} ،ﺏﻷﺍ ﻰﻔﺘﺧﺍ</MyFatherLost.stages.my_father_lost.label>
+  
+  <MyFatherLost.stages.my_father_lost.description>.ﺎﻣ ﺎﻣﻮﻳ ﺩﻮﻌﻳ ﻥﺃ ﻞﻣﺁ .ﻰﻔﺘﺧﺍ ﻲﺑﺃ
+.ﺍﺮﻴﺜﻛ ﻪﻴﻟﺇ ﻕﺎﺘﺷﺃ</MyFatherLost.stages.my_father_lost.description>
+  
+  
+  <MyFianceeLost.stages.my_fiance_lost.label>.{0} ،ﺱﻭﺮﻌﻟﺍ ﺕﺪﻘﻓ</MyFianceeLost.stages.my_fiance_lost.label>
+  
+  <MyFianceeLost.stages.my_fiance_lost.description>.ﺎﻣ ﺎﻣﻮﻳ ﺩﻮﻌﺗ ﻥﺃ ﻞﻣﺁ ،ﻲﺘﺒﻴﻄﺧ ﺖﻔﺘﺧﺍ</MyFianceeLost.stages.my_fiance_lost.description>
+  
+  
+  <MyFianceLost.stages.my_fiance_lost.label>.{0} ،ﺲﻳﺮﻌﻟﺍ ﻥﺍﺪﻘﻓ ﻢﺗ</MyFianceLost.stages.my_fiance_lost.label>
+  
+  <MyFianceLost.stages.my_fiance_lost.description>.ﺎﻣ ﺎﻣﻮﻳ ﺩﻮﻌﻳ ﻥﺃ ﻰﻨﻤﺗﺃ .ﻰﻔﺘﺧﺍ ﻲﺒﻴﺒﺣ</MyFianceLost.stages.my_fiance_lost.description>
+  
+  
+  <MyGrandchildLost.stages.my_grandchild_lost.label>{1_gender ? ,{ﺓﺪﻴﻔﺤﻟﺍ ﺖﻔﺘﺧﺍ : ﺪﻴﻔﺤﻟﺍ ﻰﻔﺘﺧﺍ
+0}}</MyGrandchildLost.stages.my_grandchild_lost.label>
+  
+  <MyGrandchildLost.stages.my_grandchild_lost.description>{OTHERPAWN_gender ? .{ﻲﺗﺪﻴﻔﺣ ﺖﻔﺘﺧﺍ : ﻱﺪﻴﻔﺣ ﻰﻔﺘﺧﺍ
+ﻥﺃ ﻞﻣﺁ {OTHERPAWN_pronoun} ﺎﻣ ﺎﻣﻮﻳ ﺩﻮﻌﻳ.</MyGrandchildLost.stages.my_grandchild_lost.description>
+  
+  
+  <MyGrandparentLost.stages.my_grandparent_lost.label>{1_gender ? ,{ﺓﺪﺠﻟﺍ ﺖﻔﺘﺧﺍ : ﺪﺠﻟﺍ ﻰﻔﺘﺧﺍ
+0}}</MyGrandparentLost.stages.my_grandparent_lost.label>
+  
+  <MyGrandparentLost.stages.my_grandparent_lost.description>!{OTHERPAWN_gender ? .{ﺖﻔﺘﺧﺍ ﻲﺗﺪﺟ : ﻰﻔﺘﺧﺍ ﻱﺪﺟ
+ﺩﻮﻌﻳ ﻥﺃ ﻞﻣﺁ {OTHERPAWN_pronoun} ﺎﻣ ﺎﻣﻮﻳ.</MyGrandparentLost.stages.my_grandparent_lost.description>
+  
+  
+  <MyHalfSiblingLost.stages.my_halfsibling_lost.label>{1_gender ? : ﻖﻴﻘﺸﻟﺍ ﺮﻴﻏ ﺥﻷﺍ ﻰﻔﺘﺧﺍ
+0} ,{ﺔﻘﻴﻘﺸﻟﺍ ﺮﻴﻏ ﺖﺧﻷﺍ ﺖﻔﺘﺧﺍ}</MyHalfSiblingLost.stages.my_halfsibling_lost.label>
+  
+  <MyHalfSiblingLost.stages.my_halfsibling_lost.description>{OTHERPAWN_gender ? : ﺍﺪﺟ ﻖﻴﻘﺸﻟﺍ ﺮﻴﻏ ﻲﺧﺃ
+ﻥﺃ ﻰﻨﻤﺗﺃ .{ﺍﺪﺟ ﺔﻘﻴﻘﺸﻟﺍ ﺮﻴﻏ ﻲﺘﺧﺃ {OTHERPAWN_pronoun}
+ﺎﻣ ﺎﻣﻮﻳ ﺩﻮﻌﻳ.</MyHalfSiblingLost.stages.my_halfsibling_lost.description>
+  
+  
+  <MyHusbandLost.stages.my_husband_lost.label>{0} ،ﺝﻭﺰﻟﺍ ﻰﻔﺘﺧﺍ</MyHusbandLost.stages.my_husband_lost.label>
+  
+  <MyHusbandLost.stages.my_husband_lost.description>.ﺎﻣ ﺎﻣﻮﻳ ﺩﻮﻌﻳ ﻥﺃ ﻞﻣﺁ .ﻰﻔﺘﺧﺍ ﻲﺟﻭﺯ
+.ﺍﺮﻴﺜﻛ ﻪﻴﻟﺇ ﻕﺎﺘﺷﺃ</MyHusbandLost.stages.my_husband_lost.description>
+  
+  
+  <MyKinLost.stages.my_kin_lost.label>{1_gender ? ,{ﺔﺒﻳﺮﻗ ﺖﻔﺘﺧﺍ : ﺐﻳﺮﻗ ﻰﻔﺘﺧﺍ
+0}}</MyKinLost.stages.my_kin_lost.label>
+  
+  <MyKinLost.stages.my_kin_lost.description>{OTHERPAWN_gender ? ﻲﺘﺒﻳﺮﻗ ﺖﺒﻫﺫ : ﻲﺒﻳﺮﻗ ﺐﻫﺫ}.</MyKinLost.stages.my_kin_lost.description>
+  
+  
+  <MyLoverLost.stages.my_lover_lost.label>{1_gender ? ,{ﺔﻘﻴﺸﻌﻟﺍ ﺕﺪﻘﻓ : ﻖﻴﺸﻌﻟﺍ ﺪﻘﻓ
+0}}</MyLoverLost.stages.my_lover_lost.label>
+  
+  <MyLoverLost.stages.my_lover_lost.description>{OTHERPAWN_gender ? .{ﻲﺘﺒﻴﺒﺣ ﺕﺪﻘﻓ : ﻲﺒﻴﺒﺣ ﺕﺪﻘﻓ
+ﻥﺃ ﻰﻨﻤﺗﺃ {OTHERPAWN_pronoun} ﺎﺒﻳﺮﻗ ﺩﻮﻌﻳ.</MyLoverLost.stages.my_lover_lost.description>
+  
+  
+  <MyMotherLost.stages.my_mother_lost.label>{0} ,ﻡﻷﺍ ﺖﻔﺘﺧﺍ</MyMotherLost.stages.my_mother_lost.label>
+  
+  <MyMotherLost.stages.my_mother_lost.description>.ﺎﻣ ﺎﻣﻮﻳ ﺩﻮﻌﺘﺳ ﺎﻬﻧﺃ ﻞﻣﺁ .ﺖﻔﺘﺧﺍ ﻲﻣﺃ</MyMotherLost.stages.my_mother_lost.description>
+  
+  
+  <MyNephewLost.stages.my_nephew_lost.label>{0} ،ﺪﻴﻌﺒﻟﺍ ﻦﺑﻻﺍ ﻰﻔﺘﺧﺍ</MyNephewLost.stages.my_nephew_lost.label>
+  
+  <MyNephewLost.stages.my_nephew_lost.description>ﺎﻣﻮﻳ ﺩﻮﻌﻳ ﻥﺃ ﻞﻣﺁ .ﻰﻔﺘﺧﺍ ﻲﺘﺧﺃ ﻦﺑﺃ
+.ﺎﻣ</MyNephewLost.stages.my_nephew_lost.description>
+  
+  
+  <MyNieceLost.stages.my_niece_lost.label>.{0} ،ﺖﺧﻷﺍ ﺔﻨﺑﺍ ﺖﻔﺘﺧﺍ ﺪﻘﻟ</MyNieceLost.stages.my_niece_lost.label>
+  
+  <MyNieceLost.stages.my_niece_lost.description>ﺎﻣﻮﻳ ﺩﻮﻌﺗ ﻥﺃ ﻞﻣﺁ .ﻲﺘﺧﺃ ﺔﻨﺑﺍ ﺖﻀﻔﺨﻧﺍ</MyNieceLost.stages.my_niece_lost.description>
+  
+  
+  <MySisterLost.stages.my_sister_lost.label>{0} ،ﻲﺘﺧﺃ ﺕﺪﻘﻓ</MySisterLost.stages.my_sister_lost.label>
+  
+  <MySisterLost.stages.my_sister_lost.description>.ﺎﻣ ﺎﻣﻮﻳ ﺩﻮﻌﺗ ﻥﺃ ﻞﻣﺁ .ﺖﻔﺘﺧﺍ ﻲﺘﺧﺃ</MySisterLost.stages.my_sister_lost.description>
+  
+  
+  <MySonLost.stages.my_son_lost.label>{0} ,ﻲﻨﺑﺍ ﺕﺪﻘﻓ</MySonLost.stages.my_son_lost.label>
+  
+  <MySonLost.stages.my_son_lost.description>.ﺎﻣ ﺎﻣﻮﻳ ﺩﻮﻌﻴﺳ ﻪﻧﺃ ﻰﻨﻤﺗﺃ .ﻰﻔﺘﺧﺍ ﻲﻨﺑﺍ</MySonLost.stages.my_son_lost.description>
+  
+  
+  <MyUncleLost.stages.my_uncle_lost.label>{0} ،ﻢﻌﻟﺍ ﻥﺍﺪﻘﻓ ﻢﺗ</MyUncleLost.stages.my_uncle_lost.label>
+  
+  <MyUncleLost.stages.my_uncle_lost.description>ﺎﻣﻮﻳ ﺩﻮﻌﻳ ﻥﺃ ﻞﻣﺁ .ﻰﻔﺘﺧﺍ ﻲﻤﻋ ﻰﻨﺛﺃ
+.ﺎﻣ</MyUncleLost.stages.my_uncle_lost.description>
+  
+  
+  <MyWifeLost.stages.my_wife_lost.label>{0} ،ﻚﺘﺟﻭﺯ ﺕﺪﻘﻓ</MyWifeLost.stages.my_wife_lost.label>
+  
+  <MyWifeLost.stages.my_wife_lost.description>.ﺎﻣ ﺎﻣﻮﻳ ﺩﻮﻌﺘﺳ ﺎﻬﻧﺃ ﻞﻣﺁ .ﺖﻔﺘﺧﺍ ﻲﺘﺟﻭﺯ</MyWifeLost.stages.my_wife_lost.description>
+  
+  
+  <PawnWithBadOpinionLost.stages.my_rival_lost.label>{1_gender ? ,{ﺔﺴﻓﺎﻨﻤﻟﺍ ﺖﻔﺘﺧﺍ : ﺲﻓﺎﻨﻤﻟﺍ ﻰﻔﺘﺧﺍ
+0}}</PawnWithBadOpinionLost.stages.my_rival_lost.label>
+  
+  <PawnWithBadOpinionLost.stages.my_rival_lost.description>ﻲﻓ ﺔﻟﺍﺪﻋ ﻙﺎﻨﻫ ﻝﺍﺰﻳ ﻻ .ﺪﻴﺟ ﺎﻨﻫﻭ
+.ﻢﻟﺎﻌﻟﺍ ﺍﺬﻫ</PawnWithBadOpinionLost.stages.my_rival_lost.description>
+  
+  
+  <PawnWithGoodOpinionLost.stages.my_friend_lost.label>{1_gender ? ,{ﺔﻘﻳﺪﺼﻟﺍ ﺖﻔﺘﺧﺍ : ﻖﻳﺪﺼﻟﺍ ﻰﻔﺘﺧﺍ
+0}}</PawnWithGoodOpinionLost.stages.my_friend_lost.label>
+  
+  <PawnWithGoodOpinionLost.stages.my_friend_lost.description>ﺮﺜﻛﺃ ﺢﺒﺼﻳ ﻥﻮﻜﻟﺍ ، ﻊﺋﺍﺭ ﺺﺨﺷ ﻰﻔﺘﺧﺍ
+.ﻡﻮﻳ ﻞﻛ ﻊﻣ ﺔﻤﻠﻇ</PawnWithGoodOpinionLost.stages.my_friend_lost.description>
+  
+</LanguageData>
