@@ -1,0 +1,71 @@
+<LanguageData>
+  
+  
+  <CollapsedRocks.label>ﺓﺭﺎﻬﻨﻤﻟﺍ ﺭﻮﺨﺼﻟﺍ</CollapsedRocks.label>
+  
+  <CollapsedRocks.description>.ﻒﻘﺴﻟﺍ ﻢﻋﺪﻟ ﺔﻓﺎﺜﻜﻟﺍ ﺔﻴﻓﺎﻛ ﺖﺤﺒﺻﺃ ﺔﻜﻟﺎﻬﺘﻣ ﺓﺮﺨﺻ</CollapsedRocks.description>
+  
+  
+  <GlowPod.label>ﺔﺌﻴﻀﻤﻟﺍ ﺓﺮﺸﻘﻟﺍ</GlowPod.label>
+  
+  <GlowPod.description>ﺓﺮﺘﻔﻟ ﺀﻲﻀﻳ .ﺔﻗﻼﻤﻌﻟﺍ ﺕﺍﺮﺸﺤﻟﺍ ﻪﺘﻛﺮﺗ ،ﺖﻨﺴﻴﻨﻴﻤﻟﻮﻴﺑ ﻥﻮﻛﻮﻛ
+.ﺕﻮﻤﻳ ﻢﺛ ،ﺔﻠﻳﻮﻃ</GlowPod.description>
+  
+  
+  <Hive.label>ﺓﺮﻤﻌﺘﺴﻣ</Hive.label>
+  
+  <Hive.description>ﺞﺘﻨﻳﻭ ﺪﻳﺪﺟ ﺊﺸﻨﻳﻭ ﺮﺛﺎﻜﺘﻴﺳ ،ﺔﻗﻼﻤﻋ ﺕﺍﺮﺸﺣ ﺶﻋ
+.ﻪﻃﺎﺸﻧ ﺔﻟﺎﺣ ﻲﻓ ﻢﻴﻗ ﻡﻼﻫ</Hive.description>
+  
+  
+  <MineableComponentsIndustrial.label>ﺭﺎﻴﻐﻟﺍ ﻊﻄﻗ ﻊﻤﺠﺗ</MineableComponentsIndustrial.label>
+  
+  <MineableComponentsIndustrial.description>ﺭﻭﺮﻣ ﻊﻣ ﺎﻬﻌﻴﻤﺠﺗ ﻢﺗ ﺔﻤﻳﺪﻗ ﺕﺎﻴﻟﺁ ﺭﺎﺛﺁ
+.ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﻠﺑﺎﻗ ﺕﺎﻧﻮﻜﻣ ﺝﺍﺮﺨﺘﺳﻻ ﺎﻫﺮﻳﻮﻄﺗ ﻦﻜﻤﻳ .ﺖﻗﻮﻟﺍ</MineableComponentsIndustrial.description>
+  
+  
+  <MineableGold.label>ﺔﻴﺒﻫﺬﻟﺍ</MineableGold.label>
+  
+  <MineableGold.description>.ﺐﻫﺬﻟﺍ ﻦﻣ ﺕﺎﻤﻴﺴﺟ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﺔﻟﻼﺳ</MineableGold.description>
+  
+  
+  <MineableJade.label>ﻢﺸﻴﻟﺍ</MineableJade.label>
+  
+  <MineableJade.description>.ﻢﺸﻴﻟﺍ ﻦﻣ ﺕﺎﻨﻴﻤﻀﺗ ﻊﻣ ﺔﻳﺮﺠﺣ ﺓﺮﺨﺻ</MineableJade.description>
+  
+  
+  <MineablePlasteel.label>ﺔﻤﻛﺍﺮﺘﻤﻟﺍ ﺔﻴﻧﺪﻌﻤﻟﺍ ﺕﺎﻘﺒﻄﻟﺍ</MineablePlasteel.label>
+  
+  <MineablePlasteel.description>.ﺔﻨﻴﻤﺜﻟﺍ ﺪﻳﺪﺤﻟﺍ ﻊﻄﻘﺑ ﺀﻲﻠﻣ ،ﻢﻳﺪﻘﻟﺍ ﻒﻬﻜﻟﺍ</MineablePlasteel.description>
+  
+  
+  <MineableSilver.label>ﺔﻀﻔﻟﺍ ﻚﺋﺎﺒﺳ</MineableSilver.label>
+  
+  <MineableSilver.description>.ﺔﻀﻔﻟﺍ ﻦﻣ ﺎﻳﺎﻈﺷ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﺔﻟﻼﺳ</MineableSilver.description>
+  
+  
+  <MineableSteel.label>ﺐﻠﺼﻟﺍ ﻦﻣ ﻝﻮﻘﺣ</MineableSteel.label>
+  
+  <MineableSteel.description>ﺐﻠﺼﻟﺍ ﻊﻄﻘﺑ ﺔﻴﻨﻏ ،ﺭﺎﻬﻧﺍ ﻢﻳﺪﻗ ﻞﻜﻴﻫ ﺎﻳﺎﻘﺑ
+.ﺓﺮﺛﺎﻨﺘﻤﻟﺍ</MineableSteel.description>
+  
+  
+  <MineableUranium.label>ﻡﻮﻴﻧﺍﺭﻮﻴﻟﺍ ﺕﺎﻌﻤﺠﺗ</MineableUranium.label>
+  
+  <MineableUranium.description>.ﻡﻮﻴﻧﺍﺭﻮﻴﻟﺍ ﻦﻣ ﺎﻳﺎﻈﺷ ﻰﻠﻋ ﻱﻮﺘﺤﺗ ﺔﻠﻴﺼﻓ</MineableUranium.description>
+  
+  
+  <RaisedRocks.label>ﻖﻤﻌﻟﺍ ﻦﻣ ﺭﺍﺪﺟ</RaisedRocks.label>
+  
+  <RaisedRocks.description>ﻊﻣ ﺭﻮﻫﺪﺘﻴﺳ .ﻰﺼﺤﻟﺍﻭ ﺮﺠﺤﻟﺍ ﻦﻣ ﺶﻫ ﺭﺍﺪﺟ
+.ﺖﻗﻮﻟﺍ ﺭﻭﺮﻣ</RaisedRocks.description>
+  
+  
+  <SteamGeyser.label>ﻱﺭﺎﺨﺑ ﻥﺎﻛﺮﺑ</SteamGeyser.label>
+  
+  <SteamGeyser.description>.ﻂﻐﺿ ﺖﺤﺗ ﺭﺎﺨﺑ ﺓﺪﻤﻋﺃ ﻖﻠﻄﻳ ﻲﻌﻴﺒﻃ ﺭﺪﺼﻣ
+ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻴﺋﺎﺑﺮﻬﻛ ﻰﻟﺇ ﺔﻗﺎﻄﻟﺍ ﻩﺬﻫ ﻞﻳﻮﺤﺗ ﻦﻜﻤﻳ
+ﻊﻴﺑﺎﻨﻴﻟﺍ ﻕﻮﻓ ﺔﻴﻨﺒﻤﻟﺍ ﻑﺮﻐﻟﺍ .ﺔﻳﺭﺍﺮﺣﻮﻴﺟ ﺔﻗﺎﻃ ﺪﻟﻮﻣ
+.ﺔﻋﺮﺴﺑ ﻦﺨﺴﺗ ﺔﻨﺧﺎﺴﻟﺍ</SteamGeyser.description>
+  
+</LanguageData>
