@@ -1,0 +1,26 @@
+<LanguageData>
+  
+  
+  <Cassowary.label>ﺭﺍﻭﺯﺎﻜﻟﺍ</Cassowary.label>
+  
+  <Cassowary.labelPlural>ﺕﺍﺭﺍﻭﺯﺎﻜﻟﺍ</Cassowary.labelPlural>
+  <Cassowary.lifeStages.0.label>ﺍﺭﺍﻭﺯﺎﻜﻟﺍ ﺮﺋﺎﻄﻟﺍ ﺮﻴﻐﺻ</Cassowary.lifeStages.0.label>
+  <Cassowary.lifeStages.1.label>ﺮﻴﻐﺼﻟﺍ ﺭﺍﻭﺯﺎﻜﻟﺍ</Cassowary.lifeStages.1.label>
+  
+  
+  <Emu.label>ﺓﺭﺎﺒﻌﻟﺍ ﻝﺎﺳﺭﺇ ﻰﺟﺮﻳ .ﺔﻤﺟﺮﺘﻠﻟ ﺔﻠﺑﺎﻗ ﺮﻴﻏ ﺓﺭﺎﺒﻋ
+.ﺔﻴﻓﺎﺿﺇ ﺓﺪﻋﺎﺴﻣ ﻱﻷ ﺔﻳﺰﻴﻠﺠﻧﻹﺍ ﺔﻐﻠﻟﺎﺑ</Emu.label>
+  <Emu.labelPlural>ﻰﺟﺮﻳ ."эму" ﺔﻤﺟﺮﺗ ﻲﻨﻨﻜﻤﻳ ﻻ ، ﺍﻮﻔﻋ
+ﻯﺮﺧﺃ ﺕﺎﻤﻠﻛ ﻭﺃ ﺔﻠﻤﺟ ﻭﺃ ﻕﺎﻴﺳ ﻲﺋﺎﻄﻋﺇ
+.ﺎﻬﺘﻤﺟﺮﺘﻟ</Emu.labelPlural>
+  <Emu.lifeStages.0.label>.ﻮﻤﻳﻹﺍ ﻉﻮﻧ ﻦﻣ ﺮﻴﻐﺻ ﺮﺋﺎﻃ</Emu.lifeStages.0.label>
+  <Emu.lifeStages.1.label>ﺓﺮﻴﻐﺼﻟﺍ ﺔﻣﺎﻌﻨﻟﺍ</Emu.lifeStages.1.label>
+  
+  
+  <Ostrich.label>ﺔﻣﺎﻌﻨﻟﺍ</Ostrich.label>
+  
+  <Ostrich.labelPlural>ﺕﺎﻣﺎﻌﻨﻟﺍ</Ostrich.labelPlural>
+  <Ostrich.lifeStages.0.label>ﺓﺮﻴﻐﺼﻟﺍ ﺔﻣﺎﻌﻨﻟﺍ</Ostrich.lifeStages.0.label>
+  <Ostrich.lifeStages.1.label>ﺔﻣﺎﻌﻨﻟﺍ ﺏﺎﺷ</Ostrich.lifeStages.1.label>
+  
+</LanguageData>
