@@ -1,0 +1,221 @@
+<LanguageData>
+  
+  
+  <BedroomTantrum.label>ﻊﻠﻬﻟﺍ</BedroomTantrum.label>
+  
+  <BedroomTantrum.baseInspectLine>ﺎﻳﺮﻴﺘﺴﻫ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</BedroomTantrum.baseInspectLine>
+  
+  <BedroomTantrum.beginLetter>.ﺔﻳﺮﻴﺘﺴﻫ ﺔﺑﻮﻨﺑ ﺏﺎﺼﻳ {0}
+
+{PAWN_pronoun} ﻪﺘﻓﺮﻏ ﻲﻓ ﺙﺎﺛﻷﺍ ﻞﻛ ﺮﻣﺪﻳ ﺪﻗ.</BedroomTantrum.beginLetter>
+  <BedroomTantrum.beginLetterLabel>ﺎﻳﺮﻴﺘﺴﻬﻟﺍ</BedroomTantrum.beginLetterLabel>
+  
+  <BedroomTantrum.recoveryMessage>.ﻱﺮﻴﺘﺴﻫ ﻞﻜﺸﺑ ﺥﺮﺼﻳ ﺪﻌﻳ ﻢﻟ {0}</BedroomTantrum.recoveryMessage>
+  
+  
+  <Berserk.label>ﺐﻀﻐﻟﺍ</Berserk.label>
+  
+  <Berserk.baseInspectLine>ﺐﻀﻏ ﺔﺑﻮﻧ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</Berserk.baseInspectLine>
+  
+  <Berserk.beginLetter>ﻱﺃ {PAWN_pronoun} ﻢﺟﺎﻬﻳ .ﺐﻀﻏ ﻲﻓ {0} ﻂﻘﺴﻳ
+.ﻩﺍﺮﻳ ﺺﺨﺷ</Berserk.beginLetter>
+  <Berserk.beginLetterLabel>ﺐﻀﻐﻟﺍ</Berserk.beginLetterLabel>
+  
+  <Berserk.recoveryMessage>.ﺢﻳﺮﺘﺴﻳ {0}</Berserk.recoveryMessage>
+  
+  
+  <Binging_DrugExtreme.label>ﺕﺍﺭﺪﺨﻤﻟﺍ ﻥﺎﻣﺩﺇ</Binging_DrugExtreme.label>
+  
+  <Binging_DrugExtreme.baseInspectLine>{0} ﻲﻓ ﺔﺒﻏﺮﻟﺍ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</Binging_DrugExtreme.baseInspectLine> 
+  
+  
+  <Binging_DrugMajor.label>ﺔﻔﻴﻔﺨﻟﺍ ﺕﺍﺭﺪﺨﻤﻟﺎﺑ ﻒﻐﺷ</Binging_DrugMajor.label>
+  
+  <Binging_DrugMajor.baseInspectLine>{0} ﻲﻓ ﺔﺒﻏﺭ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</Binging_DrugMajor.baseInspectLine> 
+  
+  
+  <Binging_Food.label>ﻊﺸﺠﻟﺍ</Binging_Food.label>
+  
+  <Binging_Food.baseInspectLine>ﻞﻛﻷﺍ ﻲﻓ ﻊﺸﺠﻟﺍ :ﺔﻴﺴﻔﻨﻟﺍ ﺔﻟﺎﺤﻟﺍ</Binging_Food.baseInspectLine>
+  
+  <Binging_Food.beginLetter>ﺀﺍﺬﻏ ﺔﺒﺟﻭ ﻝﻭﺎﻨﺘﻳ {0}</Binging_Food.beginLetter>
+  
+  <Binging_Food.beginLetterLabel>ﻊﺸﺠﻟﺍ</Binging_Food.beginLetterLabel>
+  
+  <Binging_Food.recoveryMessage>.ﻁﺮﻔﻤﻟﺍ ﻞﻛﻷﺍ ﻦﻋ {0} ﻒﻗﻮﺘﻳ</Binging_Food.recoveryMessage>
+  
+  
+  <CorpseObsession.label>ﺚﺜﺠﻟﺍ ﻰﻠﻋ ﻢﻜﻬﺗ</CorpseObsession.label>
+  
+  <CorpseObsession.baseInspectLine>.ﺚﺜﺠﻟﺎﺑ ﺀﺍﺰﻬﺘﺳﻻﺍ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</CorpseObsession.baseInspectLine>
+  
+  <CorpseObsession.beginLetter>ﻭﺪﺒﻳ .ﺩﺍﺪﻌﺘﺳﺍ ﻰﻠﻋ ﺲﻴﻟ {0} ﻥﺃ ﻭﺪﺒﻳ
+.ﻊﻴﻤﺠﻠﻟ ﻪﺘﺜﺟ ﺽﺮﻋﻭ ﻩﺮﺒﻗ ﺮﻴﻣﺪﺗ ﻡﺰﺘﻌﻳ ﻪﻧﺃ</CorpseObsession.beginLetter>
+  <CorpseObsession.beginLetterLabel>ﺚﺜﺠﻟﺎﺑ ﺀﺍﺰﻬﺘﺳﺍ</CorpseObsession.beginLetterLabel>
+  
+  <CorpseObsession.recoveryMessage>.ﺭﻮﺒﻘﻟﺍ ﺮﻣﺪﻳ ﺪﻌﻳ ﻢﻟ {0}</CorpseObsession.recoveryMessage>
+  
+  
+  <FireStartingSpree.label>ﻱﺪﻤﻌﻟﺍ ﻕﺮﺤﻟﺍ ﺔﺑﻮﻧ</FireStartingSpree.label>
+  
+  <FireStartingSpree.baseInspectLine>ﺭﺎﻨﻟﺍ ﻝﺎﻌﺘﺷﻻ ﺔﺑﻮﻧ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</FireStartingSpree.baseInspectLine>
+  
+  <FireStartingSpree.beginLetter>ﻝﻮﺠﺘﻳ .ﺔﺜﺑﺎﻌﻟﺍ ﻕﺮﺤﻟﺍ ﺔﺑﻮﻧ ﻦﻣ ﻲﻧﺎﻌﻳ {0}
+.ﺰﻴﻴﻤﺗ ﻥﻭﺪﺑ ﺀﻲﺷ ﻞﻛ ﻞﻌﺸﻳﻭ ﻑﺪﻫ ﻥﻭﺪﺑ</FireStartingSpree.beginLetter>
+  <FireStartingSpree.beginLetterLabel>ﻕﺮﺤﻟﺍ ﺐﺣ</FireStartingSpree.beginLetterLabel>
+  
+  <FireStartingSpree.recoveryMessage>ﻰﻠﻋ ﺀﻲﺷ ﻞﻛ ﻞﻌﺸﻳ ﺪﻌﻳ ﻢﻟ {0}
+.ﻲﻟﺍﻮﺘﻟﺍ</FireStartingSpree.recoveryMessage>
+  
+  
+  <GiveUpExit.label>ﺓﺭﺩﺎﻐﻤﻟﺍ</GiveUpExit.label>
+  
+  <GiveUpExit.baseInspectLine>ﺏﺎﺤﺴﻧﻻﺍ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</GiveUpExit.baseInspectLine>
+  
+  <GiveUpExit.beginLetter>.ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﺍﺬﻫ ﻲﻓ ﻞﻣﺃ ﺔﺒﻴﺨﺑ ﺮﻌﺸﻳ {0}
+.ﻞﻀﻓﺃ ﺓﺎﻴﺣ ﻦﻋ ﺎﺜﺤﺑ ﺓﺭﺩﺎﻐﻤﻟﺍ ﺭﺮﻘﻳ {PAWN_pronoun}
+ﻭﺃ ,{PAWN_possessive} ﻪﻴﻠﻋ ﺾﺒﻘﻟﺍ ﺀﺎﻘﻟﺇ ﺔﻟﻭﺎﺤﻣ ﻚﻨﻜﻤﻳ
+ﻆﺤﻟﺍ ﻚﻔﻟﺎﺤﻳ ﺪﻗ .ﻞﻴﺣﺮﻟﺎﺑ ﻪﻟ ﺡﺎﻤﺴﻟﺍ ﻚﻨﻜﻤﻳ
+.ﻯﺮﺧﺃ ﺓﺮﻣ ﻪﺘﻳﺅﺭ ﻲﻓ</GiveUpExit.beginLetter>
+  
+  <GiveUpExit.beginLetterLabel>ﺏﺎﺤﺴﻧﻻﺍ</GiveUpExit.beginLetterLabel>
+  
+  <GiveUpExit.recoveryMessage>.ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﺩﻮﻌﻳﻭ ﻪﻳﺃﺭ ﺮﻴﻐﻳ {0}</GiveUpExit.recoveryMessage>
+  
+  
+  <InsultingSpree.label>ﻢﺋﺎﺘﺸﻟﺍ ﻦﻣ ﻞﻴﺳ</InsultingSpree.label>
+  
+  <InsultingSpree.baseInspectLine>ﺕﺎﻨﻌﻠﻟﺍ ﻖﻓﺪﺗ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</InsultingSpree.baseInspectLine>
+  
+  <InsultingSpree.beginLetter>.ﻩﺮﻋﺎﺸﻣ ﻂﺒﺿ {0} ﻊﻴﻄﺘﺴﻳ ﻻ
+
+ﻊﻴﻤﺠﻟﺍ ﺐﺴﻳ ،ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻲﻓ ﻑﺪﻫ ﻼﺑ ﻝﻮﺠﺘﻳ
+.ﻒﻗﻮﺗ ﻼﺑ</InsultingSpree.beginLetter>
+  <InsultingSpree.beginLetterLabel>ﻢﺋﺎﺘﺸﻟﺍ ﻖﻓﺪﺗ</InsultingSpree.beginLetterLabel>
+  
+  <InsultingSpree.recoveryMessage>.ﻲﺋﺍﻮﺸﻋ ﻞﻜﺸﺑ ﻊﻴﻤﺠﻟﺍ ﻦﻴﻬﻳ ﺪﻌﻳ ﻢﻟ {0}</InsultingSpree.recoveryMessage>
+  
+  
+  <Jailbreaker.label>ﺏﻭﺮﻬﻟﺍ ﻰﻠﻋ ﺾﻳﺮﺤﺗ</Jailbreaker.label>
+  
+  <Jailbreaker.baseInspectLine>ﺏﻭﺮﻬﻟﺍ ﻰﻠﻋ ﺾﻳﺮﺤﺗ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</Jailbreaker.baseInspectLine>
+  
+  <Jailbreaker.beginLetter>ﻰﻠﻋ ﺀﺎﻨﺠﺴﻟﺍ ﺚﺤﻳﻭ ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ {0} ﻯﺪﻟ
+.ﺏﻭﺮﻬﻟﺍ</Jailbreaker.beginLetter>
+  
+  <Jailbreaker.beginLetterLabel>.ﺏﻭﺮﻬﻟﺍ</Jailbreaker.beginLetterLabel>
+  
+  <Jailbreaker.recoveryMessage>.ﺏﻭﺮﻬﻟﺍ ﻰﻠﻋ ﺀﺎﻨﺠﺴﻟﺍ ﺽﺮﺤﻳ ﺪﻌﻳ ﻢﻟ {0}</Jailbreaker.recoveryMessage>
+  
+  
+  <MurderousRage.label>ﺞﺋﺎﻫ ﺐﻀﻏ</MurderousRage.label>
+  
+  <MurderousRage.baseInspectLine>ﺝﺎﻴﻫ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</MurderousRage.baseInspectLine>
+  
+  <MurderousRage.beginLetter>!ﺪﻳﺪﺷ ﺐﻀﻐﺑ ﺮﻌﺸﻳ {0}
+{PAWN_pronoun} 1} ﻞﺘﻗ ﻲﻓ ﺐﻏﺮﻳ}.</MurderousRage.beginLetter>
+  <MurderousRage.beginLetterLabel>ﺐﻀﻏ</MurderousRage.beginLetterLabel>
+  
+  <MurderousRage.recoveryMessage>.ﺐﻀﻐﻟﺎﺑ ﺮﻌﺸﻳ ﺪﻌﻳ ﻢﻟ {0}</MurderousRage.recoveryMessage>
+  
+  
+  <SadisticRage.label>ﺐﻳﺬﻌﺘﻟﺍ</SadisticRage.label>
+  
+  <SadisticRage.baseInspectLine>ﺔﻴﺸﺣﻮﻟﺍ ﻦﻣ ﺔﺑﻮﻧ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</SadisticRage.baseInspectLine>
+  
+  <SadisticRage.beginLetter>ﻰﻠﻋ ﺔﻤﻘﻨﻟ {PAWN_pronoun} ﻂﻄﺨﻳn\n\.ﺏﺬﻌﺘﻤﻟﺍ ﺐﻀﻐﺑ ﺮﻌﺸﻳ {0}
+.ﻯﺮﺳﻷﺍ</SadisticRage.beginLetter>
+  <SadisticRage.beginLetterLabel>ﺐﻳﺬﻌﺘﻟﺍ</SadisticRage.beginLetterLabel>
+  
+  <SadisticRage.recoveryMessage>.ﻯﺮﺳﻷﺍ ﻰﻠﻋ ﺮﻤﻨﺘﻟﺍ ﻦﻋ ﻒﻗﻮﺘﻳ {0}</SadisticRage.recoveryMessage>
+  
+  
+  <Slaughterer.label>ﻲﻧﺍﻮﻴﺤﻟﺍ ﺢﺑﺬﻟﺍ</Slaughterer.label>
+  
+  <Slaughterer.baseInspectLine>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻞﺘﻗ :ﺔﻴﺴﻔﻨﻟﺍ ﺔﻟﺎﺤﻟﺍ</Slaughterer.baseInspectLine>
+  
+  <Slaughterer.beginLetter>{PAWN_pronoun} ﻭ ،ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﺙﺪﺣ {0} ﻯﺪﻟ
+.ﻪﺒﻀﻐﺑ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻰﻠﻋ ﻢﺠﻬﻳ</Slaughterer.beginLetter>
+  <Slaughterer.beginLetterLabel>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻞﺘﻗ</Slaughterer.beginLetterLabel>
+  
+  <Slaughterer.recoveryMessage>.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻞﺘﻘﻳ ﺪﻌﻳ ﻢﻟ {0}</Slaughterer.recoveryMessage>
+  
+  
+  <Tantrum.label>ﺝﺎﻴﻬﻟﺍ</Tantrum.label>
+  
+  <Tantrum.baseInspectLine>ﺎﻳﺮﻴﺘﺴﻫ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</Tantrum.baseInspectLine>
+  
+  <Tantrum.beginLetter>ﺙﺎﺛﻷﺍ ﻢﻄﺤﻳ .ﺔﻳﺮﻴﺘﺴﻫ ﺔﺑﻮﻧ ﻲﻓ ﺮﺠﻔﻨﻳ {0}
+.ﻥﺍﺭﺪﺠﻟﺍﻭ ﺀﺎﻴﺷﻷﺍﻭ</Tantrum.beginLetter>
+  <Tantrum.beginLetterLabel>ﺝﺎﻴﻬﻟﺍ</Tantrum.beginLetterLabel>
+  
+  <Tantrum.recoveryMessage>.ﻱﺮﻴﺘﺴﻫ ﻞﻜﺸﺑ ﻑﺮﺼﺘﻳ ﺪﻌﻳ ﻢﻟ {0}</Tantrum.recoveryMessage>
+  
+  
+  <TargetedInsultingSpree.label>ﻢﺋﺎﺘﺸﻟﺍ ﻦﻣ ﻼﻴﺳ ﻖﻓﺪﺗ</TargetedInsultingSpree.label>
+  
+  <TargetedInsultingSpree.baseInspectLine>{0} ﻮﺤﻧ ﺔﺑﺎﺒﺴﻟﺍ ﻞﻴﺳ ﻖﻓﺪﺗ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</TargetedInsultingSpree.baseInspectLine>
+  
+  <TargetedInsultingSpree.beginLetter>{PAWN_pronoun} ﻊﺑﺎﺘﻴﺳn\n\.{1} ﺢﺒﺼﻳ .ﻪﻔﻃﺍﻮﻌﻟ ﺎﺟﺮﺨﻣ {0} ﺪﺠﻳ
+.ﺕﺎﻧﺎﻫﻹﺍﻭ ﻢﺋﺎﺘﺸﻟﺎﺑ ﻪﺘﻴﺤﺿ</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetterLabel>ﻢﺋﺎﺘﺸﻟﺍ ﻖﻓﺪﺗ</TargetedInsultingSpree.beginLetterLabel>
+  <TargetedInsultingSpree.recoveryMessage>.ﺕﺎﻧﺎﻫﻹﺍ ﻦﻣ ﻪﻠﻴﺳ ﻦﻋ ﻒﻗﻮﺘﻳ {0}</TargetedInsultingSpree.recoveryMessage>
+  
+  
+  <TargetedTantrum.label>ﺎﻳﺮﻴﺘﺴﻬﻟﺍ</TargetedTantrum.label>
+  
+  <TargetedTantrum.baseInspectLine>.ﺎﻳﺮﻴﺘﺴﻫ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</TargetedTantrum.baseInspectLine>
+  
+  <TargetedTantrum.beginLetter>ﺮﻴﻣﺪﺗ ﻡﺰﺘﻌﻳ {n\n{PAWN_pronoun\ .ﺔﻳﺮﻴﺘﺴﻫ ﺔﺑﻮﻨﺑ ﺏﺎﺼﻳ {0}
+.{lookup: {1}; Case; 3}</TargetedTantrum.beginLetter>
+  <TargetedTantrum.beginLetterLabel>ﺎﻳﺮﻴﺘﺴﻬﻟﺍ</TargetedTantrum.beginLetterLabel>
+  
+  <TargetedTantrum.recoveryMessage>.ﺝﺎﻴﻬﺑ ﺞﻨﺸﺘﻳ ﺪﻌﻳ ﻢﻟ {0}</TargetedTantrum.recoveryMessage>
+  
+  
+  <Wander_OwnRoom.label>ﺔﻳﺩﺍﺮﻔﻧﻻﺍ ﺔﻟﺰﻌﻟﺍ</Wander_OwnRoom.label>
+  
+  <Wander_OwnRoom.baseInspectLine>ﻝﺍﺰﻌﻧﻻﺍ :ﺔﻴﺴﻔﻨﻟﺍ ﺔﻟﺎﺤﻟﺍ</Wander_OwnRoom.baseInspectLine>
+  
+  <Wander_OwnRoom.beginLetter>.ﻪﺘﻓﺮﻏ ﻲﻓ ﺊﺒﺘﺨﻳ {0}</Wander_OwnRoom.beginLetter>
+  
+  <Wander_OwnRoom.beginLetterLabel>ﺲﺒﺤﻟﺍ</Wander_OwnRoom.beginLetterLabel>
+  
+  <Wander_OwnRoom.recoveryMessage>.ﻪﺘﻓﺮﻏ ﻲﻓ ﺊﺒﺘﺨﻳ ﺪﻌﻳ ﻢﻟ {0}</Wander_OwnRoom.recoveryMessage>
+  
+  
+  <Wander_Psychotic.label>ﻙﺎﺒﺗﺭﻻﺍ</Wander_Psychotic.label>
+  
+  <Wander_Psychotic.baseInspectLine>ﻙﺎﺒﺗﺭﻻﺍ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</Wander_Psychotic.baseInspectLine>
+  
+  <Wander_Psychotic.beginLetter>ﻲﻓ ﻑﺪﻫ ﻼﺑ ﻝﻮﺠﺘﻳﻭ ﺓﺮﻴﺤﻟﺎﺑ ﺮﻌﺸﻳ {0}
+.ﺔﻨﻃﻮﺘﺴﻤﻟﺍ</Wander_Psychotic.beginLetter>
+  
+  <Wander_Psychotic.beginLetterLabel>ﻙﺎﺒﺗﺭﻻﺍ</Wander_Psychotic.beginLetterLabel>
+  
+  <Wander_Psychotic.recoveryMessage>.ﻙﺎﺒﺗﺭﻻﺎﺑ ﺮﻌﺸﻳ ﺪﻌﻳ ﻢﻟ {0}</Wander_Psychotic.recoveryMessage>
+  
+  
+  <Wander_Psychotic_Short.label>ﺓﺮﻴﺤﻟﺍ</Wander_Psychotic_Short.label>
+  
+  <Wander_Psychotic_Short.baseInspectLine>ﻙﺎﺒﺗﺭﻻﺍ :ﺔﻴﻔﻃﺎﻌﻟﺍ ﺔﻟﺎﺤﻟﺍ</Wander_Psychotic_Short.baseInspectLine>
+  
+  <Wander_Psychotic_Short.beginLetter>ﻥﻭﺪﺑ ﻥﺎﻄﻴﺘﺳﻻﺍ ﻲﻓ ﻝﻮﺠﺘﻳﻭ ﻙﺎﺒﺗﺭﻻﺎﺑ ﺮﻌﺸﻳ {0}
+.ﺩﺪﺤﻣ ﻑﺪﻫ</Wander_Psychotic_Short.beginLetter>
+  
+  <Wander_Psychotic_Short.beginLetterLabel>ﻙﺎﺒﺗﺭﻻﺍ</Wander_Psychotic_Short.beginLetterLabel>
+  
+  <Wander_Psychotic_Short.recoveryMessage>.ﻙﺎﺒﺗﺭﻻﺎﺑ ﺮﻌﺸﻳ ﺪﻌﻳ ﻢﻟ {0}</Wander_Psychotic_Short.recoveryMessage>
+  
+  
+  <Wander_Sad.label>ﻁﺎﺒﺣﺍ</Wander_Sad.label>
+  
+  <Wander_Sad.baseInspectLine>ﺔﺑﺂﻜﻟﺍ :ﺔﻴﺴﻔﻨﻟﺍ ﺔﻟﺎﺤﻟﺍ</Wander_Sad.baseInspectLine>
+  
+  <Wander_Sad.beginLetter>.ﻪﻧﺰﺣ ﻲﻓ ﻝﻮﺠﺘﻳ {0}</Wander_Sad.beginLetter>
+  
+  <Wander_Sad.beginLetterLabel>ﺱﺄﻴﻟﺍﻭ ﻥﺰﺤﻟﺍ</Wander_Sad.beginLetterLabel>
+  
+  <Wander_Sad.recoveryMessage>.ﻥﻵﺍ ﺪﻌﺑ ﺎﻨﻳﺰﺣ ﺲﻴﻟ {0}</Wander_Sad.recoveryMessage>
+  
+</LanguageData>
