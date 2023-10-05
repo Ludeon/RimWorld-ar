@@ -1,0 +1,50 @@
+<LanguageData>
+  
+  
+  <Clear.label>ﻡﻮﻬﻔﻣ</Clear.label>
+  
+  <Clear.description>.ﺕﺂﻓﺎﻜﻣ ﻻﻭ ﺕﺎﺑﻮﻘﻋ ﻻ .ﺲﻤﺸﻣ ﻡﻮﻳ</Clear.description>
+  
+  
+  <DryThunderstorm.label>ﺔﺒﻟﺍﻮﺳ</DryThunderstorm.label>
+  
+  <DryThunderstorm.description>ﺐﺒﺴﺘﻳ ﻕﺮﺒﻟﺍ ﻥﻷ ﺓﺮﻄﺧ ﺔﻓﺎﺠﻟﺍ ﺔﻳﺪﻋﺮﻟﺍ ﻒﺻﺍﻮﻌﻟﺍ
+ﻥﺃ ﻦﻜﻤﻳ ﺮﻄﻣ ﺪﺟﻮﻳ ﻻﻭ ﻖﺋﺍﺮﺤﻟﺍ ﻲﻓ
+.ﺎﻬﺌﻔﻄﻳ</DryThunderstorm.description>
+  
+  
+  <Fog.label>ﺏﺎﺒﺿ</Fog.label>
+  
+  <Fog.description>.ﻕﻼﻃﻹﺍ ﺔﻗﺩ ﻞﻠﻘﻳ ﺏﺎﺒﻀﻟﺍ</Fog.description>
+  
+  
+  <FoggyRain.label>ﺮﻳﺰﻏ ﺮﻄﻣ</FoggyRain.label>
+  
+  <FoggyRain.description>.ﻙﺮﺤﺘﻟﺍ ﺔﻋﺮﺳﻭ ﺔﻳﺎﻣﺮﻟﺍ ﺔﻗﺩ ﺾﻔﺧ ﻢﺗ</FoggyRain.description>
+  
+  
+  <Rain.label>ﺮﻄﻣ</Rain.label>
+  
+  <Rain.description>،ﺭﺎﻨﻟﺍ ﺊﻔﻄﻳﻭ ،ﺔﻳﺎﻣﺮﻟﺍ ﺔﻗﺩ ﻦﻣ ﻞﻠﻘﻳ ﺮﻄﻤﻟﺍ
+.ﺔﻛﺮﺤﻟﺍ ﺊﻄﺒﻳﻭ</Rain.description>
+  
+  
+  <RainyThunderstorm.label>ﺔﻳﺪﻋﺮﻟﺍ ﻒﺻﺍﻮﻌﻟﺍ ﻊﻣ ﺮﻄﻤﻟﺍ</RainyThunderstorm.label>
+  
+  <RainyThunderstorm.description>ﺭﺎﻄﻣﻷﺍ ﻦﻜﻟﻭ ،ﻕﺮﺒﻟﺍ ﻦﻣ ﻖﺋﺍﺮﺣ ﺙﺪﺤﺗ ﻑﻮﺳ
+ﺔﻗﺩﻭ ﺔﻛﺮﺤﻟﺍ ﺔﻋﺮﺳ ﺾﻴﻔﺨﺗ ﺎﻀﻳﺃ ﻢﺗ .ﺎﻬﺌﻔﻄﺘﺳ
+.ﻕﻼﻃﻹﺍ</RainyThunderstorm.description>
+  
+  
+  <SnowGentle.label>ﺞﻠﺛ</SnowGentle.label>
+  
+  <SnowGentle.description>ﻖﺋﺍﺮﺤﻟﺍ ﺪﻤﺨﺗ ،ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﺔﻗﺩ ﺺﻠﻘﺗ ﺝﻮﻠﺜﻟﺍ
+.ﺔﻛﺮﺤﻟﺍ ﺊﻄﺒﺗﻭ</SnowGentle.description>
+  
+  
+  <SnowHard.label>ﺔﻴﺠﻠﺛ ﺔﻔﺻﺎﻋ</SnowHard.label>
+  
+  <SnowHard.description>،ﻖﺋﺍﺮﺤﻟﺍ ﺪﻤﺨﺗﻭ ،ﺔﻳﺎﻣﺮﻟﺍ ﺔﻗﺩ ﻦﻣ ﻞﻠﻘﺗ ﺔﻔﺻﺎﻌﻟﺍ
+.ﺔﻛﺮﺤﻟﺍ ﺊﻄﺒﺗﻭ</SnowHard.description>
+  
+</LanguageData>
