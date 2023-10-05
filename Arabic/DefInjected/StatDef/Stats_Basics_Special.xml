@@ -1,0 +1,64 @@
+<LanguageData>
+  
+  
+  <CleaningTimeFactor.label>ﻒﻴﻈﻨﺘﻟﺍ ﻦﻣﺯ ﻞﻣﺎﻌﻣ</CleaningTimeFactor.label>
+  
+  <CleaningTimeFactor.description>ﻦﻣ ﺥﺎﺳﻭﻷﺍ ﺔﻟﺍﺯﻹ ﺔﻣﺯﻼﻟﺍ ﻒﻴﻈﻨﺘﻟﺍ ﺓﺪﻤﻟ ﻞﻣﺎﻌﻣ
+.ﺢﻄﺴﻟﺍ ﻩﺬﻫ</CleaningTimeFactor.description>
+  
+  
+  <ConstructionSpeedFactor.label>ﺀﺎﻨﺒﻟﺍ ﺔﻋﺮﺳ</ConstructionSpeedFactor.label>
+  
+  <ConstructionSpeedFactor.description>ﻩﺬﻫ ﻰﻠﻋ ﺀﺎﻨﺑ ﺕﺂﺸﻨﻤﻟﺍ ﺀﺎﻨﺑ ﺔﻋﺮﺳ ﻒﻋﺎﻀﺘﺗ
+ﺎﺘﻗﻭ ﻕﺮﻐﺘﺴﺗ (ﺮﺠﺤﻟﺍ ﻞﺜﻣ) ﺩﺍﻮﻤﻟﺍ ﺾﻌﺑ .ﺔﻤﻴﻘﻟﺍ
+.ﻯﺮﺧﻷﺍ ﻦﻣ ﻝﻮﻃﺃ</ConstructionSpeedFactor.description>
+  
+  <ConstructionSpeedFactor.labelForFullStatList>(ﺩﺍﻮﻤﻟﺍ ﺮﻴﺛﺄﺗ) ﺀﺎﻨﺒﻟﺍ ﺔﻋﺮﺳ</ConstructionSpeedFactor.labelForFullStatList>
+  
+  
+  <FilthMultiplier.label>ﺙﻮﻠﺘﻟﺍ ﻞﻣﺎﻋ</FilthMultiplier.label>
+  
+  <FilthMultiplier.description>؟ﺙﻮﻠﺘﻠﻟ ﺢﻄﺴﻟﺍ ﺍﺬﻫ ﺽﺮﻌﻳ ﻯﺪﻣ ﻱﺃ ﻰﻟﺇ
+، ٪100 ﻦﻣ ﻞﻗﺃ ﻢﻗﺮﻟﺍ ﻥﺎﻛ ﺍﺫﺇ
+ﻪﻴﻟﺇ ﻞﺼﺗ ﻲﺘﻟﺍ ﺥﺎﺳﻭﻷﺍ ﻦﻣ ﻞﻴﻠﻘﻟﺍ ﻲﻔﺘﺨﻴﺳ
+.ﺭﻮﻔﻟﺍ ﻰﻠﻋ</FilthMultiplier.description>
+  
+  
+  <MedicalPotency.label>ﺔﻴﺒﻄﻟﺍ ﺕﺎﻧﺎﻜﻣﻹﺍ</MedicalPotency.label>
+  
+  <MedicalPotency.description>ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻯﺪﻣ ﻱﺃ ﻰﻟﺇ
+.ﺔﻴﺣﺍﺮﺠﻟﺍ ﺕﺎﻴﻠﻤﻌﻟﺍﻭ ﺽﺍﺮﻣﻷﺍﻭ ﺡﻭﺮﺠﻟﺍ ﺝﻼﻋ ﻲﻓ ﺔﻴﻟﺎﻌﻔﺑ
+ﻞﻠﻘﺗﻭ ﺝﻼﻌﻟﺍ ﺓﺩﻮﺟ ﻊﻓﺮﺗ ﺔﻴﻟﺎﻌﻟﺍ ﺔﻴﺒﻄﻟﺍ ﺔﻴﻧﺎﻜﻣﻹﺍ
+.ﺔﻴﺣﺍﺮﺠﻟﺍ ﺕﺎﻴﻠﻤﻌﻟﺍ ﻝﻼﺧ ﻞﺸﻔﻟﺍ ﺹﺮﻓ ﻦﻣ
+ﺔﻓﺎﻈﻧﻭ ﺕﺍﺰﻴﻬﺠﺘﻟﺍﻭ ﺐﻴﺒﻄﻟﺍ ﺓﺭﺎﻬﻣ ﻚﻟﺫ ﻰﻠﻋ ﺮﺛﺆﺗ
+.ﺎﻀﻳﺃ ﻆﺤﻟﺍﻭ ﺔﻓﺮﻐﻟﺍ</MedicalPotency.description>
+  
+  
+  <MedicalQualityMax.label>ﺝﻼﻋ ﺓﺩﻮﺟ ﻰﻠﻋﺃ</MedicalQualityMax.label>
+  
+  <MedicalQualityMax.description>ﺍﺬﻫ ﻡﺍﺪﺨﺘﺳﺍ ﺪﻨﻋ ﺔﻨﻜﻤﻤﻟﺍ ﺝﻼﻌﻠﻟ ﺓﺩﻮﺟ ﻰﻠﻋﺃ
+ﻞﻬﺳﺃ ﺐﻴﺒﻄﻟﺍ ﻥﺎﻛ ،ﻰﻠﻋﺃ ﺖﻧﺎﻛ ﺎﻤﻠﻛ .ﺮﺼﻨﻌﻟﺍ
+.ﺡﻭﺮﺠﻟﺍ ﺝﻼﻋ ﻲﻓ ﻞﻀﻓﺃﻭ</MedicalQualityMax.description>
+  
+  
+  <MeditationFocusStrength.label>ﺀﺎﺧﺮﺘﺳﻻﺍ ﺓﺄﻓﺎﻜﻣ</MeditationFocusStrength.label>
+  
+  <MeditationFocusStrength.description>ﺎﻬﻴﻠﻋ ﻞﺼﺤﺗ ﻲﺘﻟﺍ ،ﻲﺴﻔﻨﻟﺍ ﺰﻴﻛﺮﺘﻟﺍ ﻲﻓ ﺔﻓﺎﺿﺇ
+ﺓﺮﺷﺎﺒﻤﻟﺍ ﺀﺎﻨﺛﺃ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﺰﻴﻛﺮﺘﻟﺍ ﺪﻨﻋ
+.ﻞﻣﺄﺘﻟﺎﺑ
+
+ﺮﺼﻨﻌﻟﺍ ﻰﻠﻋ ﺀﺎﻨﺑ ﺔﻤﻴﻘﻟﺍ ﻩﺬﻫ ﺮﻴﻴﻐﺗ ﻦﻜﻤﻳ
+ﻱﺬﻟﺍ ﺺﺨﺸﻟﺍﻭ ﺔﻄﻴﺤﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍﻭ ،ﻪﻴﻠﻋ ﺰﻴﻛﺮﺘﻟﺍ ﺩﺍﺮﻤﻟﺍ
+.ﻞﻣﺄﺘﻟﺍ ﺱﺭﺎﻤﻳ</MeditationFocusStrength.description>
+  
+  <MeditationFocusStrength.formatString>ﻡﻮﻴﻟﺍ ﻲﻓ 0</MeditationFocusStrength.formatString>
+  
+  <MeditationFocusStrength.formatStringUnfinalized>ﻡﻮﻴﻟﺍ ﻲﻓ {0}</MeditationFocusStrength.formatStringUnfinalized>
+  
+  
+  <PsychicSensitivityOffset.label>ﺔﻴﺴﻔﻨﻟﺍ ﺔﻴﺳﺎﺴﺤﻟﺍ ﺓﺩﺎﻳﺯ</PsychicSensitivityOffset.label>
+  
+  <PsychicSensitivityOffset.description>ﺍﺬﻫ ﻰﻟﺇ ﺮﻜﻳﺎﺴﻠﻟ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻴﺳﺎﺴﺤﻟﺍ ﺔﻤﻴﻗ ﺮﻴﻐﺗ
+.ﺔﻤﻴﻘﻟﺍ</PsychicSensitivityOffset.description>
+  
+</LanguageData>
