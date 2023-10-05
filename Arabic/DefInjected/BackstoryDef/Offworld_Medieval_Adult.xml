@@ -1,0 +1,75 @@
+ï»؟<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
+  <Blacksmith72.baseDesc>ذ‘رƒذ´رƒر‡ذ¸ ذ؛رƒذ·ذ½ذµر†ذ¾ذ¼ ذ² رپر€ذµذ´ذ½ذµذ²ذµذ؛ذ¾ذ²ذ¾ذ¼ ذ¼ذ¸ر€ذµ, {PAWN_nameDef} {PAWN_gender ? ذ؟ذ¾ذ»رƒر‡ذ¸ذ» : ذ؟ذ¾ذ»رƒر‡ذ¸ذ»} ذ·ذ°رپذ»رƒذ¶ذµذ½ذ½رƒرژ ر€ذµذ؟رƒر‚ذ°ر†ذ¸رژ ذ¼ذ°رپر‚ذµر€ذ° رپذ²ذ¾ذµذ³ذ¾ ذ´ذµذ»ذ°. {PAWN_pronoun} ر‚ذ°ذ؛ذ¶ذµ ذ½ذµذ؟ذ»ذ¾ر…ذ¾ {PAWN_gender ? رƒذ¼ذµذ» : رƒذ¼ذµذ»ذ°} ذ؟ر€ذ¸ذ¼ذµذ½رڈر‚رŒ ذ²ر‹ذ؛ذ¾ذ²ذ°ذ½ذ½ر‹ذµ ذ¼ذµر‡ذ¸ ذ؟ذ¾ ذ؟ر€رڈذ¼ذ¾ذ¼رƒ ذ½ذ°ذ·ذ½ذ°ر‡ذµذ½ذ¸رژ.</Blacksmith72.baseDesc>
+  <!-- EN: blacksmith -->
+  <Blacksmith72.title>ذ؛رƒذ·ذ½ذµر†</Blacksmith72.title>
+  <!-- EN: blacksmith -->
+  <Blacksmith72.titleShort>ذ؛رƒذ·ذ½ذµر†</Blacksmith72.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] lived in the forest near a village. Though many of the villagers feared [PAWN_objective], sick villagers would come to [PAWN_objective] to purchase salves and poultices made from the herbs [PAWN_pronoun] grew in [PAWN_possessive] garden. [PAWN_pronoun] was happy to help them â€” for a price. -->
+  <Herbalist54.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ¶ذ¸ذ» : ذ¶ذ¸ذ»ذ°} ذ² ذ»ذµرپرƒ ذ½ذµذ؟ذ¾ذ´ذ°ذ»ر‘ذ؛رƒ ذ¾ر‚ ذ´ذµر€ذµذ²ذ½ذ¸. ذ‌ذµرپذ¼ذ¾ر‚ر€رڈ ذ½ذ° ر‚ذ¾, ر‡ر‚ذ¾ ذ±ذ¾ذ»رŒرˆذ¸ذ½رپر‚ذ²ذ¾ ذ¶ذ¸ر‚ذµذ»ذµذ¹ ذ؟ذ¾ذ±ذ°ذ¸ذ²ذ°ذ»ذ¸رپرŒ {PAWN_possessive}, ذ·ذ°ذ±ذ¾ذ»ذµذ²رˆذ¸ذµ ذ؟ر€ذ¸ر…ذ¾ذ´ذ¸ذ»ذ¸ ذ؛ ذ½{PAWN_objective} ذ·ذ° ر†ذµذ»ذµذ±ذ½ر‹ذ¼ذ¸ ذ¼ذ°ذ·رڈذ¼ذ¸ ذ¸ ذ؟ر€ذ¸ذ¼ذ¾ر‡ذ؛ذ°ذ¼ذ¸ ذ¸ذ· ر€ذ°رپر‚ذµذ½ذ¸ذ¹, ر‡ر‚ذ¾ {PAWN_nameDef} {PAWN_gender ? ذ²ر‹ر€ذ°ر‰ذ¸ذ²ذ°ذ» : ذ²ر‹ر€ذ°ر‰ذ¸ذ²ذ°ذ»ذ°} رƒ رپذµذ±رڈ ذ² رپذ°ذ´رƒ. {PAWN_pronoun} ذ²رپذµذ³ذ´ذ° رپ ر€ذ°ذ´ذ¾رپر‚رŒرژ {PAWN_gender ? ذ¾ذ؛ذ°ذ·ر‹ذ²ذ°ذ» : ذ¾ذ؛ذ°ذ·ر‹ذ²ذ°ذ»ذ°} ذ؟ذ¾ذ¼ذ¾ر‰رŒ. ذ—ذ° ذ¾ذ؟ر€ذµذ´ذµذ»ر‘ذ½ذ½رƒرژ ذ؟ذ»ذ°ر‚رƒ.</Herbalist54.baseDesc>
+  <!-- EN: herbalist -->
+  <Herbalist54.title>ر‚ر€ذ°ذ²ذ½ذ¸ذ؛</Herbalist54.title>
+  <Herbalist54.titleFemale>ر‚ر€ذ°ذ²ذ½ذ¸ر†ذ°</Herbalist54.titleFemale>
+  <!-- EN: herbalist -->
+  <Herbalist54.titleShort>ر‚ر€ذ°ذ²ذ½ذ¸ذ؛</Herbalist54.titleShort>
+  <Herbalist54.titleShortFemale>ر‚ر€ذ°ذ²ذ½ذ¸ر†ذ°</Herbalist54.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head. -->
+  <MedievalDoctor40.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ±ر‹ذ» : ذ±ر‹ذ»ذ°} ذ»ذµذ؛ذ°ر€ذµذ¼ ذ² رپر€ذµذ´ذ½ذµذ²ذµذ؛ذ¾ذ²ذ¾ذ¼ ذ¼ذ¸ر€ذµ. ذ£ ذ½{PAWN_possessive} رپذ»ذ¾ذ¶ذ¸ذ»ذ°رپرŒ ر‚ذ²ر‘ر€ذ´ذ°رڈ رƒذ²ذµر€ذµذ½ذ½ذ¾رپر‚رŒ, ر‡ر‚ذ¾ ذ؟ذ¾ر‡ر‚ذ¸ ذ»رژذ±ذ¾ذ¹ ذ½ذµذ´رƒذ³ ذ¼ذ¾ذ¶ذ½ذ¾ ذ¸رپر†ذµذ»ذ¸ر‚رŒ ذ½ذµذ±ذ¾ذ»رŒرˆذ¸ذ¼ ذ؛ر€ذ¾ذ²ذ¾ذ؟رƒرپذ؛ذ°ذ½ذ¸ذµذ¼.\n\n{PAWN_nameDef} {PAWN_gender ? رپر‚ذ°ذ» : رپر‚ذ°ذ»ذ°} ذ¼ذ°رپر‚ذµر€ذ¾ذ¼ ذ°ذ½ذµرپر‚ذµذ·ذ¸ذ¸, ذ°ذ²ر‚ذ¾ر€ذ¾ذ¼ رپذ؟ذµر†ذ¸ذ°ذ»رŒذ½ذ¾ذ¹ ذ¼ذµر‚ذ¾ذ´ذ¸ذ؛ذ¸, ذ²ذ؛ذ»رژر‡ذ°رژر‰ذµذ¹ ذ² رپذµذ±رڈ ر‚رڈذ¶ر‘ذ»ر‹ذ¹ رƒذ´ذ°ر€ ذ؟ذ¾ ذ³ذ¾ذ»ذ¾ذ²ذµ ذ؟ذ°ر†ذ¸ذµذ½ر‚ذ°.</MedievalDoctor40.baseDesc>
+  <!-- EN: medieval doctor -->
+  <MedievalDoctor40.title>رپر€ذµذ´ذ½ذµذ²ذµذ؛ذ¾ذ²ر‹ذ¹ ذ²ر€ذ°ر‡</MedievalDoctor40.title>
+  <!-- EN: quack -->
+  <MedievalDoctor40.titleShort>ذ»ذµذ؛ذ°ر€رŒ</MedievalDoctor40.titleShort>
+  <MedievalDoctor40.titleShortFemale>ذ»ذµذ؛ذ°ر€ذ؛ذ°</MedievalDoctor40.titleShortFemale>
+  
+  <!-- EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life leaves one essentially incapable of participating in intellectual, technology-driven activities. -->
+  <MedievalFarmOaf58.baseDesc>ذ’ذ¾ذ·ذ´ذµذ»ر‹ذ²ذ°ذ½ذ¸ذµ ذ·ذµذ¼ذ»ذ¸, رƒذ؟ر€ذ°ذ²ذ»ذµذ½ذ¸ذµ ذ؟ذ¾ذ²ذ¾ذ·ذ؛ذ°ذ¼ذ¸ رپ ذ±ر‹ذ؛ذ°ذ¼ذ¸, ر‚ذ¾ذ»ذ؛ذ°ذ½ذ¸ذµ ر‚ذ°ر‡ذµذ؛. ذ ر‹ر‚رŒر‘ ذ؛ذ¾ر‚ذ»ذ¾ذ²ذ°ذ½ذ¾ذ², ذ؟ذ¾رپذ°ذ´ذ؛ذ° رپذµذ¼رڈذ½, ذ؟ر€ذ¾ذ³ذ½ذ¾ذ·ذ¸ر€ذ¾ذ²ذ°ذ½ذ¸ذµ رƒر€ذ¾ذ¶ذ°رڈ.\n\nذ،ر€ذµذ´ذ½ذµذ²ذµذ؛ذ¾ذ²ر‹ذµ ذ؛ر€ذµرپر‚رŒرڈذ½ذµ ذ½ذµ ذ¾ذ±ر€ذ°ذ·ذ¾ذ²ذ°ذ½ذ½ر‹ ذ² ذ¾ذ±ر‹ر‡ذ½ذ¾ذ¼ رپذ¼ر‹رپذ»ذµ رچر‚ذ¾ذ³ذ¾ رپذ»ذ¾ذ²ذ°, ذ½ذ¾ ذ¾ذ½ذ¸ ذ·ذ½ذ°رژر‚, ذ؛ذ°ذ؛ ذ²ر‹ر€ذ°رپر‚ذ¸ر‚رŒ رƒر€ذ¾ذ¶ذ°ذ¹, ذ½ذµ ذ¸ذ¼ذµرڈ ذ؟ر€ذ°ذ؛ر‚ذ¸ر‡ذµرپذ؛ذ¸ ذ½ذ¸ر‡ذµذ³ذ¾. ذ‍ذ´ذ½ذ°ذ؛ذ¾ ر‚ذ°ذ؛ذ°رڈ ذ¶ذ¸ذ·ذ½رŒ ذ½ذµ ذ¾رپر‚ذ°ذ²ذ»رڈذµر‚ ذ½ذ¸ذ؛ذ°ذ؛ذ¸ر… ذ½ذ°ذ´ذµذ¶ذ´ ذ½ذ° رƒر‡ذ°رپر‚ذ¸ذµ ذ² ذ¸ذ½ر‚ذµذ»ذ»ذµذ؛ر‚رƒذ°ذ»رŒذ½ذ¾ذ¹ ذ´ذµرڈر‚ذµذ»رŒذ½ذ¾رپر‚ذ¸.</MedievalFarmOaf58.baseDesc>
+  <!-- EN: medieval farm oaf -->
+  <MedievalFarmOaf58.title>ذ؛ر€ذµرپر‚رŒرڈذ½ذ¸ذ½</MedievalFarmOaf58.title>
+  <MedievalFarmOaf58.titleFemale>ذ؛ر€ذµرپر‚رŒرڈذ½ذ؛ذ°</MedievalFarmOaf58.titleFemale>
+  <!-- EN: oaf -->
+  <MedievalFarmOaf58.titleShort>ذ؛ر€ذµرپر‚رŒرڈذ½ذ¸ذ½</MedievalFarmOaf58.titleShort>
+  <MedievalFarmOaf58.titleShortFemale>ذ؛ر€ذµرپر‚رŒرڈذ½ذ؛ذ°</MedievalFarmOaf58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a lord on a preindustrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a work tool during that entire time. [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective]. -->
+  <MedievalLord57.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ±ر‹ذ» ذ»ذ¾ر€ذ´ذ¾ذ¼ : ذ±ر‹ذ»ذ° ذ»ذµذ´ذ¸} ذ½ذ° ذ´ذ¾ذ¸ذ½ذ´رƒرپر‚ر€ذ¸ذ°ذ»رŒذ½ذ¾ذ¹ ذ؟ذ»ذ°ذ½ذµر‚ذµ. {PAWN_pronoun} {PAWN_gender ? ذ؟ذ¾رپذµر‰ذ°ذ» : ذ؟ذ¾رپذµر‰ذ°ذ»ذ°} ذ·ذ²ذ°ذ½ر‹ذµ ذ²ذµر‡ذµر€ذ°, {PAWN_gender ? رƒذ؟ر€ذ°ذ²ذ»رڈذ» : رƒذ؟ر€ذ°ذ²ذ»رڈذ»ذ°} ذ؟ذ¾ذ´ذ´ذ°ذ½ذ½ر‹ذ¼ذ¸ ذ¸ ذ´ذ°ذ¶ذµ {PAWN_gender ? ذ¸ذ·رƒر‡ذ¸ذ» : ذ¸ذ·رƒر‡ذ¸ذ»ذ°} ذ½ذµرپذ؛ذ¾ذ»رŒذ؛ذ¾ ر„ذµر…ر‚ذ¾ذ²ذ°ذ»رŒذ½ر‹ر… ذ؟ر€ذ¸ر‘ذ¼ذ¾ذ².\n\n{PAWN_possessive} ذ½ذµذ¶ذ½ر‹ذµ ر€رƒذ؛ذ¸ ذ½ذ¸ ر€ذ°ذ·رƒ ذ² ذ¶ذ¸ذ·ذ½ذ¸ ذ½ذµ ذ´ذµر€ذ¶ذ°ذ»ذ¸ ذ¸ذ½رپر‚ر€رƒذ¼ذµذ½ر‚ذ°, {PAWN_pronoun} رپر‡ذ¸ر‚ذ°ذµر‚ ر€رƒر‡ذ½ذ¾ذ¹ ر‚ر€رƒذ´ ذ½ذ¸ذ¶ذµ رپذ²ذ¾ذµذ³ذ¾ ذ´ذ¾رپر‚ذ¾ذ¸ذ½رپر‚ذ²ذ°.</MedievalLord57.baseDesc>
+  <!-- EN: medieval lord -->
+  <MedievalLord57.title>رپر€ذµذ´ذ½ذµذ²ذµذ؛ذ¾ذ²ر‹ذ¹ ذ»ذ¾ر€ذ´</MedievalLord57.title>
+  <MedievalLord57.titleFemale>رپر€ذµذ´ذ½ذµذ²ذµذ؛ذ¾ذ²ذ°رڈ ذ»ذµذ´ذ¸</MedievalLord57.titleFemale>
+  <!-- EN: noble -->
+  <MedievalLord57.titleShort>ذ»ذ¾ر€ذ´</MedievalLord57.titleShort>
+  <MedievalLord57.titleShortFemale>ذ»ذµذ´ذ¸</MedievalLord57.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a traveling entertainer on a medieval world.\n\n[PAWN_pronoun] could always be found telling stories or singing songs, and is capable of protecting [PAWN_objective]self from the dangers of the road. However, [PAWN_pronoun] was always conspicuously absent whenever there was hard labour to be done. -->
+  <MedievalMinstrel95.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ±ر‹ذ» : ذ±ر‹ذ»ذ°} رپر‚ر€ذ°ذ½رپر‚ذ²رƒرژر‰ذ¸ذ¼ ذ°ر€ر‚ذ¸رپر‚ذ¾ذ¼ ذ² رپر€ذµذ´ذ½ذµذ²ذµذ؛ذ¾ذ²ذ¾ذ¼ ذ¼ذ¸ر€ذµ.\n\n{PAWN_possessive} ذ²رپذµذ³ذ´ذ° ذ¼ذ¾ذ¶ذ½ذ¾ ذ±ر‹ذ»ذ¾ ذ½ذ°ذ¹ر‚ذ¸ ذ·ذ° ر€ذ°رپرپذ؛ذ°ذ·ر‹ذ²ذ°ذ½ذ¸ذµذ¼ ذ¸ذ½ر‚ذµر€ذµرپذ½ر‹ر… ذ¸رپر‚ذ¾ر€ذ¸ذ¹ ذ¸ذ»ذ¸ ذ؟ذµذ½ذ¸ذµذ¼ ذ؟ذµرپذµذ½, ذ½ذ¾ ذ؛ذ°ذ؛ ر‚ذ¾ذ»رŒذ؛ذ¾ ذ´ذµذ»ذ¾ ذ´ذ¾ر…ذ¾ذ´ذ¸ذ»ذ¾ ذ´ذ¾ ر‚رڈذ¶ر‘ذ»ذ¾ذ¹ ر€ذ°ذ±ذ¾ر‚ر‹, {PAWN_nameDef} رپذ»ذ¾ذ²ذ½ذ¾ {PAWN_gender ? ذ¸رپذ؟ذ°ر€رڈذ»رپرڈ : ذ¸رپذ؟ذ°ر€رڈذ»ذ°رپرŒ}. ذ‍ذ´ذ½ذ°ذ؛ذ¾ {PAWN_pronoun} ذ²رپذµذ³ذ´ذ° {PAWN_gender ? ذ¼ذ¾ذ³ : ذ¼ذ¾ذ³ذ»ذ°} ذ؟ذ¾رپر‚ذ¾رڈر‚رŒ ذ·ذ° رپذµذ±رڈ ذ½ذ° ذ±ذ¾ذ»رŒرˆذ¾ذ¹ ذ´ذ¾ر€ذ¾ذ³ذµ.</MedievalMinstrel95.baseDesc>
+  <!-- EN: medieval minstrel -->
+  <MedievalMinstrel95.title>ذ¼ذµذ½ذµرپر‚ر€ذµذ»رŒ</MedievalMinstrel95.title>
+  <!-- EN: minstrel -->
+  <MedievalMinstrel95.titleShort>ذ¼ذµذ½ذµرپر‚ر€ذµذ»رŒ</MedievalMinstrel95.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] collected. -->
+  <MedievalSailor97.baseDesc>ذ”ذ¾ذ»ذ³ذ¸ذµ ذ³ذ¾ذ´ر‹ {PAWN_nameDef} {PAWN_gender ? ر…ذ¾ذ´ذ¸ذ» : ر…ذ¾ذ´ذ¸ذ»ذ°} ذ؟ذ¾ ذ¼ذ¾ر€رڈذ¼ ذ¸ ذ¾ذ؛ذµذ°ذ½ذ°ذ¼ رپر€ذµذ´ذ½ذµذ²ذµذ؛ذ¾ذ²ذ¾ذ³ذ¾ ذ¼ذ¸ر€ذ° ذ² ذ¸رپرپذ»ذµذ´ذ¾ذ²ذ°ر‚ذµذ»رŒرپذ؛ذ¸ر… رچذ؛رپذ؟ذµذ´ذ¸ر†ذ¸رڈر…, رپذ¾ذ±ذ¸ر€ذ°رڈ ذ¾ذ±ر€ذ°ذ·ر†ر‹ ر€ذ°رپر‚ذµذ½ذ¸ذ¹ ذ¸ ذ¶ذ¸ذ²ذ¾ر‚ذ½ر‹ر… ذ¸ ذ²ر€ذµذ¼رڈ ذ¾ر‚ ذ²ر€ذµذ¼ذµذ½ذ¸ ذ¾ر‚ذ±ذ¸ذ²ذ°رڈرپرŒ ذ¾ر‚ ذ؟ذ¸ر€ذ°ر‚ذ¾ذ². {PAWN_pronoun} ذ½ذ°رپر‚ذ¾ذ»رŒذ؛ذ¾ {PAWN_gender ? ذ»رژذ±ذ¸ذ» : ذ»رژذ±ذ¸ذ»ذ°} ذ¼ذ¾ر€ذµ, ر‡ر‚ذ¾ {PAWN_gender ? رپر‚ذ°ر€ذ°ذ»رپرڈ : رپر‚ذ°ر€ذ°ذ»ذ°رپرŒ} ذ؛ذ°ذ؛ ذ¼ذ¾ذ¶ذ½ذ¾ ذ¼ذµذ½رŒرˆذµ ر€ذ°ذ±ذ¾ر‚ذ°ر‚رŒ ذ½ذ° رپرƒرˆذµ. ذ‌ذµ ذ½ذ° ذ؛ذ¾ر€ذ°ذ±ذ»ذµ {PAWN_possessive} ذ¼ذ¾ذ¶ذ½ذ¾ ذ±ر‹ذ»ذ¾ رƒذ²ذ¸ذ´ذµر‚رŒ ر€ذ°ذ·ذ²ذµ ر‡ر‚ذ¾ ذ·ذ° ذ؟ر€ذ¾ذ´ذ°ذ¶ذµذ¹ رپذ¾ذ±ر€ذ°ذ½ذ½ر‹ر… رپذ¾ذ؛ر€ذ¾ذ²ذ¸ر‰.</MedievalSailor97.baseDesc>
+  <!-- EN: medieval sailor -->
+  <MedievalSailor97.title>ذ¼ذ¾ر€ذµر…ذ¾ذ´</MedievalSailor97.title>
+  <!-- EN: sailor -->
+  <MedievalSailor97.titleShort>ذ¼ذ¾ر€رڈذ؛</MedievalSailor97.titleShort>
+  <MedievalSailor97.titleShortFemale>ذ¼ذ¾ر€رڈر‡ذ؛ذ°</MedievalSailor97.titleShortFemale>
+  
+  <!-- EN: On a medieval world, the fastest way to send a message is to give it to somebody on a horse and hope they survive the journey. [PAWN_nameDef] was that somebody. -->
+  <MessageCarrier77.baseDesc>ذ’ رپر€ذµذ´ذ½ذµذ²ذµذ؛ذ¾ذ²ذ¾ذ¼ ذ¼ذ¸ر€ذµ رپذ°ذ¼ر‹ذ¹ ذ±ر‹رپر‚ر€ر‹ذ¹ رپذ؟ذ¾رپذ¾ذ± ذ´ذ¾رپر‚ذ°ذ²ذ¸ر‚رŒ ذ؟ذ¾رپذ»ذ°ذ½ذ¸ذµآ â€” ذ²ر€رƒر‡ذ¸ر‚رŒ ذµذ³ذ¾ ذ²رپذ°ذ´ذ½ذ¸ذ؛رƒ ذ¸ ذ½ذ°ذ´ذµرڈر‚رŒرپرڈ, ر‡ر‚ذ¾ ر‚ذ¾ر‚ ذ؟ذµر€ذµذ¶ذ¸ذ²ر‘ر‚ ذ؟رƒر‚ذµرˆذµرپر‚ذ²ذ¸ذµ. {PAWN_nameDef} {PAWN_gender ? ذ±ر‹ذ» : ذ±ر‹ذ»ذ°} ذ؛ذ°ذ؛ ر€ذ°ذ· ر‚ذ°ذ؛ذ¸ذ¼ ر‡ذµذ»ذ¾ذ²ذµذ؛ذ¾ذ¼.</MessageCarrier77.baseDesc>
+  <!-- EN: message carrier -->
+  <MessageCarrier77.title>ذ³ذ¾ذ½ذµر†</MessageCarrier77.title>
+  <!-- EN: messenger -->
+  <MessageCarrier77.titleShort>ذ³ذ¾ذ½ذµر†</MessageCarrier77.titleShort>
+  
+  <!-- EN: As the taster for a medieval king, any dish served at the royal table had to be sampled first by [PAWN_nameDef]. [PAWN_pronoun] lived a decadent lifestyle at court, getting fat and doing very little work. -->
+  <Taster16.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ·ذ°ذ½ذ¸ذ¼ذ°ذ» : ذ·ذ°ذ½ذ¸ذ¼ذ°ذ»ذ°} ذ´ذ¾ذ»ذ¶ذ½ذ¾رپر‚رŒ رپذ»رƒذ³ذ¸-ذ¾ر‚ذ²ذµذ´ر‹ذ²ذ°ر‚ذµذ»رڈ ذ؟ر€ذ¸ ذ´ذ²ذ¾ر€ذµ رپر€ذµذ´ذ½ذµذ²ذµذ؛ذ¾ذ²ذ¾ذ³ذ¾ ذ¼ذ¾ذ½ذ°ر€ر…ذ°. ذ’ {PAWN_possessive} ذ¾ذ±رڈذ·ذ°ذ½ذ½ذ¾رپر‚ذ¸ ذ²ر…ذ¾ذ´ذ¸ذ»ذ¾ رپذ½رڈر‚ذ¸ذµ ذ؟ر€ذ¾ذ±ر‹ رپ ذ؛ذ°ذ¶ذ´ذ¾ذ³ذ¾ ذ±ذ»رژذ´ذ°, ذ؟ذ¾ذ´ذ°ذ²ذ°ذµذ¼ذ¾ذ³ذ¾ ذ½ذ° ذ؛ذ¾ر€ذ¾ذ»ذµذ²رپذ؛ذ¸ذ¹ رپر‚ذ¾ذ». {PAWN_nameDef} ذ½ذµ {PAWN_gender ? ذ²ر‹ذ؟ذ¾ذ»ذ½رڈذ» : ذ²ر‹ذ؟ذ¾ذ»ذ½رڈذ»ذ°} ذ؟ذ¾ر‡ر‚ذ¸ ذ½ذ¸ذ؛ذ°ذ؛ذ¾ذ¹ ر€ذ°ذ±ذ¾ر‚ر‹ ذ¸ {PAWN_gender ? ذ²ر‘ذ» : ذ²ذµذ»ذ°} ذ؟ر€ذ°ذ·ذ´ذ½ر‹ذ¹ ذ¾ذ±ر€ذ°ذ· ذ¶ذ¸ذ·ذ½ذ¸, ذ؟ذ¾رپر‚ذµذ؟ذµذ½ذ½ذ¾ ذ·ذ°ذ؟ذ»ر‹ذ²ذ°رڈ ذ¶ذ¸ر€ذ¾ذ¼.</Taster16.baseDesc>
+  <!-- EN: taster -->
+  <Taster16.title>رپذ»رƒذ³ذ°-ذ¾ر‚ذ²ذµذ´ر‹ذ²ذ°ر‚ذµذ»رŒ</Taster16.title>
+  <!-- EN: taster -->
+  <Taster16.titleShort>ذ¾ر‚ذ²ذµذ´ر‹ذ²ذ°ر‚ذµذ»رŒ</Taster16.titleShort>
+  
+</LanguageData>
