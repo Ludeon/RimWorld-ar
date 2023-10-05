@@ -1,0 +1,24 @@
+<LanguageData>
+  
+  
+  <PsychicAnimalPulser.label>(ﺕﺎﻧﺍﻮﻴﺤﻟﺍ) ﺔﻴﻧﻼﻘﻋ ﺔﻀﺒﻧ ﺊﺸﻨﻣ</PsychicAnimalPulser.label>
+  
+  <PsychicAnimalPulser.description>.ﺔﻳﺩﺍﺮﻔﻧﻻﺍ ﺔﻴﺒﺼﻌﻟﺍ ﺐﻴﺳﺍﻮﺤﻠﻟ ﺓﺮﺑﺎﻋ ﺔﻴﻌﺳﻮﺗ ﺔﺟﻮﻣ ﺪﻟﻮﻣ
+ﺐﺒﺴﻳ ﻪﻨﻜﻟﻭ ،ﺮﺸﺒﻟﺍ ﻰﻠﻋ ﺮﻴﺛﺄﺗ ﻪﻟ ﺰﺠﻌﻟﺍ
+ﺔﻔﻴﺨﻣ ﺎﻣﺎﻫﻭﺃ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺓﺪﺟﺍﻮﺘﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻴﻤﺠﻟ
+ﻰﻠﻋ ﻚﻟﺫ ﺮﺛﺆﻳ ﻦﻟ .ﻦﻴﻴﺋﺍﺪﻋ ﻢﻬﻠﻌﺠﻳ ﺎﻤﻣ
+.ﻚﺗﺎﻧﺍﻮﻴﺣ</PsychicAnimalPulser.description>
+  
+  <PsychicAnimalPulser.comps.CompUsable.useLabel>{lookup: {0_label}; Case; 3} ﻞﻴﻌﻔﺗ</PsychicAnimalPulser.comps.CompUsable.useLabel>
+  
+  
+  <PsychicSoothePulser.label>ﻲﺴﻔﻨﻟﺍ ﺮﻴﺛﺄﺘﻟﺎﺑ ﺔﺋﺪﻬﻣ ﺔﻀﺒﻧ ﺪﻟﻮﻣ</PsychicSoothePulser.label>
+  
+  <PsychicSoothePulser.description>ﺓﺮﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﻼﻟ ﻕﺎﻄﻨﻟﺍ ﺾﻳﺮﻋ ﺔﻴﻨﻫﺫ ﺔﻀﺒﻧ ﺪﻟﻮﻣ
+ﻝﻮﻘﻋ ﻲﻓ ﺔﺋﺪﻬﻣﻭ ﺔﺤﻳﺮﻣ ﺍﺭﻮﺻ ﺮﻴﺜﻳ .ﺓﺪﺣﺍﻮﻟﺍ
+ﺎﺘﻗﺆﻣ ﺎﻌﻓﺭ ﻲﻄﻌﻳﻭ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺕﺎﻨﺋﺎﻜﻟﺍ ﻊﻴﻤﺟ
+.ﺝﺍﺰﻤﻠﻟ</PsychicSoothePulser.description>
+  
+  <PsychicSoothePulser.comps.CompUsable.useLabel>{lookup: {0_label}; Case; 3} ﻂﻴﺸﻨﺗ</PsychicSoothePulser.comps.CompUsable.useLabel>
+  
+</LanguageData>
