@@ -1,0 +1,211 @@
+<LanguageData>
+  
+  
+
+  
+  
+  <BondedAnimalDied.stages.bonded_animal_died.label>{0} ،ﻒﻴﻟﻷﺍ ﻥﺍﻮﻴﺤﻟﺍ ﻲﻓﻮﺗ</BondedAnimalDied.stages.bonded_animal_died.label>
+  
+  <BondedAnimalDied.stages.bonded_animal_died.description>{OTHERPAWN_gender ? ﺖﻴﻓﻮﺗ : ﺮﻴﻐﺼﻟﺍ ﻲﻘﻳﺪﺻ ﻲﻓﻮﺗ
+.ﺎﻴﺋﺎﻨﺜﺘﺳﺍﻭ ﺎﻔﻴﻄﻟ ﻦﺋﺎﻜﻟﺍ ﺍﺬﻫ ﻥﺎﻛ .{ﺓﺮﻴﻐﺼﻟﺍ ﻲﺘﻘﻳﺪﺻ
+ﺱﺎﻗ ﻢﻟﺎﻌﻟﺍ ﺍﺬﻫ!</BondedAnimalDied.stages.bonded_animal_died.description>
+  
+  
+  
+  <KnowColonistDied.stages.colonist_died.label>ﻦﻃﻮﺘﺴﻣ ﻲﻓﻮﺗ</KnowColonistDied.stages.colonist_died.label>
+  
+  <KnowColonistDied.stages.colonist_died.description>ﻥﻮﻜﻧ ﻥﺃ ﺐﺠﻳ .ﺎﻨﻳﺪﻟ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺪﺣﺃ ﻲﻓﻮﺗ
+.ﺎﻧﺩﺍﺮﻓﺄﺑ ﺀﺎﻨﺘﻋﻻﺍ ﻰﻠﻋ ﻦﻳﺭﺩﺎﻗ</KnowColonistDied.stages.colonist_died.description>
+  
+  
+  
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.label>ﺐﻧﺬﻤﻟﺍ ﻦﻛﺎﺴﻟﺍ ﻡﺍﺪﻋﺇ ﻢﺗ</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
+  
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.description>ﻦﻣ ﻢﻏﺮﻟﺎﺑ .ﻪﻤﺋﺍﺮﺟ ﺐﺒﺴﺑ ﺎﻨﻟ ﻦﻃﻮﺘﺴﻤﻟﺍ ﺎﻨﻣﺪﻋﺃ
+.ﻦﻳﺰﺣ ﺮﻣﻷﺍ ﻦﻜﻟﻭ ﺔﻟﺍﺪﻌﻟﺍ</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
+  
+  <KnowColonistExecuted.stages.colonist_euthanized.label>.ﻢﻴﺣﺮﻟﺍ ﻞﺘﻘﻠﻟ ﺡﺯﺎﻨﻟﺍ ﺽﺮﻌﺘﻴﺳ</KnowColonistExecuted.stages.colonist_euthanized.label>
+  
+  <KnowColonistExecuted.stages.colonist_euthanized.description>ﻪﻨﻜﻟﻭ ﻲﻧﺎﺴﻧﺇ ﺍﺬﻫ .ﺎﻨﻳﺪﻟ ﻦﻃﻮﺘﺴﻣ ﻡﺍﺪﻋﺈﺑ ﺎﻨﻤﻗ
+.ﻦﻳﺰﺣ</KnowColonistExecuted.stages.colonist_euthanized.description>
+  
+  <KnowColonistExecuted.stages.colonist_executed.label>ﺀﻱﺮﺑ ﻦﻃﻮﺘﺴﻣ ﻡﺍﺪﻋﺇ ﻢﺗ</KnowColonistExecuted.stages.colonist_executed.label>
+  
+  <KnowColonistExecuted.stages.colonist_executed.description>.ﺀﻱﺮﺒﻟﺍ ﺎﻨﻧﺎﻜﺳ ﺪﺣﺃ ﺩﺭﺎﺑ ﻡﺪﺑ ﺎﻨﻣﺪﻋﺃ ﺪﻘﻟ
+!ﻲﺸﺣﻭ ﺍﺬﻫ</KnowColonistExecuted.stages.colonist_executed.description>
+  
+  <KnowColonistExecuted.stages.colonist_organharvested.label>ﺀﺎﻀﻋﻷﺍ ﻲﻓ ﻦﻃﻮﺘﺴﻤﻟﺍ ﻚﻴﻜﻔﺗ ﻢﺗ</KnowColonistExecuted.stages.colonist_organharvested.label>
+  
+  <KnowColonistExecuted.stages.colonist_organharvested.description>.ﺔﻳﻮﻴﺤﻟﺍ ﻩﺀﺎﻀﻋﺃ ﺎﻨﻟﺯﺃ ﺎﻨﻧﻷ ﺎﻨﻳﺪﻟ ﻦﻃﻮﺘﺴﻤﻟﺍ ﺕﺎﻣ
+!ﺔﻃﺎﺴﺒﺑ ﻊﻴﻈﻓ ﺮﻣﺃ ﺍﺬﻫ</KnowColonistExecuted.stages.colonist_organharvested.description>
+  
+  <KnowColonistExecuted.stages.colonist_ripscanned.label>ﺭﻮﺟﺄﻤﻟﺍ ﻞﺗﺎﻘﻟﺍ ﺔﻄﺳﺍﻮﺑ ﺡﺯﺎﻨﻟﺍ ﻞﺘﻗ ﻢﺗ</KnowColonistExecuted.stages.colonist_ripscanned.label>
+  
+  <KnowColonistExecuted.stages.colonist_ripscanned.description>ﺖﻗﺮﺣ ﺔﻟﺁ .ﻞﺗﺎﻘﻟﺍ ﻲﻓ ﺎﻨﻨﻃﻮﺘﺴﻣ ﺕﺎﻣ ﺪﻘﻟ
+.ﻊﻴﻈﻓ ﺍﺬﻫ .ﻪﻏﺎﻣﺩ ﺖﻌﻠﺘﺑﺍﻭ</KnowColonistExecuted.stages.colonist_ripscanned.description>
+  
+  
+  
+  <KnowGuestExecuted.stages.justified_execution.label>ﻡﺪﻋﺃ ﺐﻧﺬﻤﻟﺍ</KnowGuestExecuted.stages.justified_execution.label>
+  
+  <KnowGuestExecuted.stages.justified_execution.description>ﻭﺃ ﺮﻴﺳﻷﺍ ﻰﻠﻋ ﻡﺍﺪﻋﻹﺍ ﻢﻜﺣ ﺬﻴﻔﻨﺘﺑ ﺎﻨﻤﻗ
+ﻪﻧﺃ ﻦﻣ ﻢﻏﺮﻟﺍ ﻰﻠﻋ .ﻪﻤﺋﺍﺮﺟ ﺐﺒﺴﺑ ﻒﻴﻀﻟﺍ
+.ﻒﺳﺆﻣ ﻪﻧﺃ ﻻﺇ ،ﻝﺪﻋ</KnowGuestExecuted.stages.justified_execution.description>
+  
+  <KnowGuestExecuted.stages.someone_was_euthanized.label>ﻢﻴﺣﺮﻟﺍ ﻞﺘﻘﻠﻟ ﻥﺎﺴﻧﻹﺍ ﺽﺮﻌﺘﻴﺳ</KnowGuestExecuted.stages.someone_was_euthanized.label>
+  
+  <KnowGuestExecuted.stages.someone_was_euthanized.description>ﻪﻧﺇ .ﻢﻴﺣﺮﻟﺍ ﻞﺘﻘﻠﻟ ﺎﻨﻔﻴﺿ ﻭﺃ ﺎﻧﺮﻴﺳﺃ ﺎﻨﻌﻀﺧﺍ
+.ﻝﺎﺣ ﻱﺃ ﻰﻠﻋ ﻦﻳﺰﺣ ﻪﻨﻜﻟ ،ﻲﻧﺎﺴﻧﺇ</KnowGuestExecuted.stages.someone_was_euthanized.description>
+  
+  <KnowGuestExecuted.stages.someone_was_executed.label>ﺀﻱﺮﺒﻟﺍ ﻡﺍﺪﻋﺇ ﻢﺗ</KnowGuestExecuted.stages.someone_was_executed.label>
+  
+  <KnowGuestExecuted.stages.someone_was_executed.description>ﺎﻣﺪﻌﺑ ﻒﻴﺿ ﻭﺃ ﺮﻴﺳﺃ ﻡﺍﺪﻋﺈﺑ ﺎﻨﻤﻗ ﻦﺤﻧ
+!ﺱﺎﻗ ﺍﺬﻫ .ﺩﺭﺎﺑ ﻡﺪﺑ ﺎﺌﻳﺮﺑ ﻥﺎﻛ</KnowGuestExecuted.stages.someone_was_executed.description>
+  
+  <KnowGuestExecuted.stages.someone_was_organmurdered.label>.ﻪﺋﺎﻀﻋﺃ ﻰﻟﺇ ﻥﺎﺴﻧﻹﺍ ﻚﻴﻜﻔﺗ ﻢﺗ</KnowGuestExecuted.stages.someone_was_organmurdered.label>
+  
+  <KnowGuestExecuted.stages.someone_was_organmurdered.description>ﺎﻨﺘﻟﺍﺯﺇ ﺐﺒﺴﺑ ﺎﺘﻴﻣ ﺎﻨﻔﻴﺿ ﻭﺃ ﺎﻧﺮﻴﺳﺃ ﺢﺒﺻﺃ
+!ﺔﻳﺎﻐﻠﻟ ﻊﻴﻈﻓ ﺮﻣﺃ ﻪﻧﺇ .ﺔﻳﻮﻴﺤﻟﺍ ﻪﺋﺎﻀﻋﻷ</KnowGuestExecuted.stages.someone_was_organmurdered.description>
+  
+  <KnowGuestExecuted.stages.someone_was_ripscanned.label>ﻞﺗﺎﻘﻟﺍ ﺔﻄﺳﺍﻮﺑ ﻥﺎﺴﻧﻹﺍ ﻞﺘﻗ ﻢﺗ</KnowGuestExecuted.stages.someone_was_ripscanned.label>
+  
+  <KnowGuestExecuted.stages.someone_was_ripscanned.description>.ﻞﺗﺎﻘﻟﺍ ﻲﻓ ﻪﻔﺘﺣ ﻲﻘﻟ ﺎﻨﻔﻴﺿ ﻭﺃ ﺎﻧﺮﻴﺳﺃ
+.ﺐﻋﺮﻣ ﺍﺬﻫ .ﻪﻏﺎﻣﺩ ﺔﻟﻵﺍ ﺖﻜﻠﻬﺘﺳﺍﻭ ﺖﻗﺮﺣﺃ ﺪﻘﻟ</KnowGuestExecuted.stages.someone_was_ripscanned.description>
+  
+  
+  
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>ﻦﻴﺠﺴﻟﺍ ﻲﻓﻮﺗ</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
+  
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>ﺮﻀﻳ ﻢﻟ ﻪﻧﺃ ﻢﻏﺭ ﻯﺮﺳﻷﺍ ﺪﺣﺃ ﻲﻓﻮﺗ
+ﺀﺎﻨﺘﻋﻻﺍ ﻰﻠﻋ ﻦﻳﺭﺩﺎﻗ ﻥﻮﻜﻧ ﻥﺃ ﺐﺠﻳ .ﺍﺪﺣﺃ
+ﺐﺠﻳ ، ﺔﻳﺭﻭﺮﺿ ﻢﻬﺗﺎﻓﻭ ﺖﻧﺎﻛ ﺍﺫﺇ .ﻯﺮﺳﻷﺎﺑ
+.ﺔﻳﺮﺑﺮﺒﻟﺍ ﻥﻭﺪﺑ ﻡﺍﺪﻋﻹﺍ ﻢﻴﻈﻨﺗ</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
+  
+  
+  
+  <MyAuntDied.stages.my_aunt_died.label>{0} ،ﺔﻤﻌﻟﺍ ﺖﻴﻓﻮﺗ</MyAuntDied.stages.my_aunt_died.label>
+  
+  <MyAuntDied.stages.my_aunt_died.description>.ﺖﺗﺎﻣ ﻲﺘﺧﺃ</MyAuntDied.stages.my_aunt_died.description>
+  
+  
+  <MyBrotherDied.stages.my_brother_died.label>{0} ،ﺥﻷﺍ ﻲﻓﻮﺗ</MyBrotherDied.stages.my_brother_died.label>
+  
+  <MyBrotherDied.stages.my_brother_died.description>...ﻲﻣﺩﻭ ﻲﻤﺤﻟ .ﺕﺎﻣ ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﻲﺧﺃ</MyBrotherDied.stages.my_brother_died.description>
+  
+  
+  <MyCousinDied.stages.my_cousin_died.label>{1_gender ? ﺖﻓﻮﺗ : ﻱﻮﻧﺎﺜﻟﺍ ﺥﻷﺍ ﻲﻓﻮﺗ
+0} ،{ﺔﻳﻮﻧﺎﺜﻟﺍ ﺖﺧﻷﺍ}</MyCousinDied.stages.my_cousin_died.label>
+  
+  <MyCousinDied.stages.my_cousin_died.description>: ﻲﺋﺎﻨﺜﻟﺍ ﻲﺧﺃ ? OTHERPAWN_gender} ﺪﺟﻮﻳ ﻻ
+.ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ {ﺔﻴﺋﺎﻨﺜﻟﺍ ﻲﺘﺧﺃ</MyCousinDied.stages.my_cousin_died.description>
+  
+  
+  <MyDaughterDied.stages.my_daughter_died.label>{0} ,ﺔﻨﺑﻻﺍ ﺖﻴﻓﻮﺗ</MyDaughterDied.stages.my_daughter_died.label>
+  
+  <MyDaughterDied.stages.my_daughter_died.description>...ﻲﻣﺩﻭ ﻲﻤﺤﻟ .ﺮﻜﺒﻟﺍ ﻲﺘﻨﺑﺍ ﺖﻴﻓﻮﺗ</MyDaughterDied.stages.my_daughter_died.description>
+  
+  
+  <MyFatherDied.stages.my_father_died.label>{0} ،ﺏﻷﺍ ﻲﻓﻮﺗ</MyFatherDied.stages.my_father_died.label>
+  
+  <MyFatherDied.stages.my_father_died.description>ﻯﺮﺧﺃ ﺓﺮﻣ ﻩﺍﺭﺃ ﻦﻟ .ﺖﻴﻣ ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﻲﺑﺃ
+.ﺍﺪﺑﺃ</MyFatherDied.stages.my_father_died.description>
+  
+  
+  <MyFianceDied.stages.my_fiance_died.label>{0} ,ﺲﻳﺮﻌﻟﺍ ﻲﻓﻮﺗ</MyFianceDied.stages.my_fiance_died.label>
+  
+  <MyFianceDied.stages.my_fiance_died.description>ﺪﻌﺑ ﺶﻴﻋﺃ ﻒﻴﻛ ﻑﺮﻋﺃ ﻻ .ﺖﻴﻣ ﻲﺒﻴﻄﺧ
+.ﻥﻵﺍ</MyFianceDied.stages.my_fiance_died.description>
+  
+  
+  <MyFianceeDied.stages.my_fiance_died.label>{0} ،ﺱﻭﺮﻌﻟﺍ ﺖﻴﻓﻮﺗ</MyFianceeDied.stages.my_fiance_died.label>
+  
+  <MyFianceeDied.stages.my_fiance_died.description>ﺪﻌﺑ ﺶﻴﻋﺃ ﻒﻴﻛ ﻑﺮﻋﺃ ﻻ .ﺖﺗﺎﻣ ﻲﺘﺒﻴﻄﺧ
+.ﻥﻵﺍ</MyFianceeDied.stages.my_fiance_died.description>
+  
+  
+  <MyGrandchildDied.stages.my_grandchild_died.label>{1_gender ? ,{ﺓﺪﻴﻔﺤﻟﺍ ﺖﻓﻮﺗ : ﺪﻴﻔﺤﻟﺍ ﻲﻓﻮﺗ
+0}}</MyGrandchildDied.stages.my_grandchild_died.label>
+  
+  <MyGrandchildDied.stages.my_grandchild_died.description>{OTHERPAWN_gender ? ﺪﻌﻳ ﻢﻟ {ﻲﺗﺪﻴﻔﺣ : ﻱﺪﻴﻔﺣ
+ﺓﺎﻴﺤﻟﺍ ﻲﻓ.</MyGrandchildDied.stages.my_grandchild_died.description>
+  
+  
+  <MyGrandparentDied.stages.my_grandparent_died.label>{1_gender ? ,{ﺓﺪﺠﻟﺍ ﺖﻓﻮﺗ : ﺪﺠﻟﺍ ﻲﻓﻮﺗ
+0}}</MyGrandparentDied.stages.my_grandparent_died.label>
+  
+  <MyGrandparentDied.stages.my_grandparent_died.description>{OTHERPAWN_gender ? ﻲﻓ ﺲﻴﻟ {ﻲﺗﺪﺟ : ﻱﺪﺟ
+ﺓﺎﻴﺤﻟﺍ.</MyGrandparentDied.stages.my_grandparent_died.description>
+  
+  
+  <MyHalfSiblingDied.stages.my_halfsibling_died.label>{1_gender ? : ﻖﻴﻘﺸﻟﺍ ﺮﻴﻏ ﺥﻷﺍ ﻲﻓﻮﺗ
+0} ,{ﺔﻘﻴﻘﺸﻟﺍ ﺮﻴﻏ ﺖﺧﻷﺍ ﺖﻴﻓﻮﺗ}</MyHalfSiblingDied.stages.my_halfsibling_died.label>
+  
+  <MyHalfSiblingDied.stages.my_halfsibling_died.description>{OTHERPAWN_gender ? ﻲﺘﺧﺃ : ﻖﻴﻘﺸﻟﺍ ﺮﻴﻏ ﻲﺧﺃ
+ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺪﻌﻳ ﻢﻟ {ﺔﻘﻴﻘﺸﻟﺍ ﺮﻴﻏ.</MyHalfSiblingDied.stages.my_halfsibling_died.description>
+  
+  
+  <MyHusbandDied.stages.my_husband_died.label>{0} ،ﺝﻭﺰﻟﺍ ﻲﻓﻮﺗ</MyHusbandDied.stages.my_husband_died.label>
+  
+  <MyHusbandDied.stages.my_husband_died.description>.ﺓﺪﻴﺣﻭ ﺖﻴﻘﺑ ﺪﻘﻟ .ﺖﻴﻣ ﻲﺟﻭﺯ</MyHusbandDied.stages.my_husband_died.description>
+  
+  
+  <MyKinDied.stages.my_kin_died.label>{1_gender ? ,{ﺔﺒﻳﺮﻗ ﺖﻴﻓﻮﺗ : ﺐﻳﺮﻗ ﻲﻓﻮﺗ
+0}}</MyKinDied.stages.my_kin_died.label>
+  
+  <MyKinDied.stages.my_kin_died.description>{OTHERPAWN_gender ? ﻲﺘﺒﻳﺮﻗ ﺖﻴﻓﻮﺗ : ﻲﺒﻳﺮﻗ ﻲﻓﻮﺗ}.</MyKinDied.stages.my_kin_died.description>
+  
+  
+  <MyLoverDied.stages.my_lover_died.label>{gender ? : }, {0_1} ﺐﻴﺒﺣ ﺕﺎﻣ</MyLoverDied.stages.my_lover_died.label>
+  
+  <MyLoverDied.stages.my_lover_died.description>{OTHERPAWN_gender ? .{ﻲﺘﺒﻴﺒﺣ ﺖﻓﻮﺗ : ﻲﺒﻴﺒﺣ ﻲﻓﻮﺗ
+ﺓﺪﺣﻮﻟﺎﺑ ﺮﻌﺷﺃ...</MyLoverDied.stages.my_lover_died.description>
+  
+  
+  <MyMotherDied.stages.my_mother_died.label>{0} ,ﻡﻷﺍ ﺖﻴﻓﻮﺗ</MyMotherDied.stages.my_mother_died.label>
+  
+  <MyMotherDied.stages.my_mother_died.description>.ﺍﺪﺑﺃ ﻯﺮﺧﺃ ﺓﺮﻣ ﺎﻫﺍﺭﺃ ﻦﻟ .ﺖﺗﺎﻣ ﻲﻣﺃ</MyMotherDied.stages.my_mother_died.description>
+  
+  
+  <MyNephewDied.stages.my_nephew_died.label>{0} ،ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﻦﺑﻻﺍ ﻲﻓﻮﺗ</MyNephewDied.stages.my_nephew_died.label>
+  
+  <MyNephewDied.stages.my_nephew_died.description>.ﺰﻳﺰﻌﻟﺍ ﻲﺧﺃ ﻦﺑﺍ ﺕﺎﻣ</MyNephewDied.stages.my_nephew_died.description>
+  
+  
+  <MyNieceDied.stages.my_niece_died.label>{0} ﺖﻨﺒﻟﺍ ﺔﻨﺑﻻﺍ ﺖﻴﻓﻮﺗ</MyNieceDied.stages.my_niece_died.label>
+  
+  <MyNieceDied.stages.my_niece_died.description>.ﺖﺗﺎﻣ ﺓﺰﻳﺰﻌﻟﺍ ﻲﺧﺃ ﺔﻨﺑﺍ</MyNieceDied.stages.my_niece_died.description>
+  
+  
+  <MySisterDied.stages.my_sister_died.label>{0} ،ﺖﺧﻷﺍ ﺖﻴﻓﻮﺗ</MySisterDied.stages.my_sister_died.label>
+  
+  <MySisterDied.stages.my_sister_died.description>... ﻲﻣﺩﻭ ﻲﻤﺤﻟ .ﺖﺗﺎﻣ ﺔﻴﺟﻮﻟﻮﻴﺒﻟﺍ ﻲﺘﺧﺃ</MySisterDied.stages.my_sister_died.description>
+  
+  
+  <MySonDied.stages.my_son_died.label>{0} ،ﻦﺑﻻﺍ ﻲﻓﻮﺗ</MySonDied.stages.my_son_died.label>
+  
+  <MySonDied.stages.my_son_died.description>...ﻲﻣﺩﻭ ﻲﻤﺤﻟ .ﺕﺎﻣ ﺮﻜﺒﻟﺍ ﻲﻨﺑﺍ</MySonDied.stages.my_son_died.description>
+  
+  
+  <MyUncleDied.stages.my_uncle_died.label>{0} ،ﻢﻌﻟﺍ ﺕﺎﻣ ﺪﻘﻟ</MyUncleDied.stages.my_uncle_died.label>
+  
+  <MyUncleDied.stages.my_uncle_died.description>.ﺖﻴﻣ ﻲﻤﻋ</MyUncleDied.stages.my_uncle_died.description>
+  
+  
+  <MyWifeDied.stages.my_wife_died.label>{0} ،ﺔﺟﻭﺰﻟﺍ ﺖﻴﻓﻮﺗ</MyWifeDied.stages.my_wife_died.label>
+  
+  <MyWifeDied.stages.my_wife_died.description>.ﻱﺪﺣﻭ ﺖﻴﻘﺑ .ﺖﺗﺎﻣ ﻲﺘﺟﻭﺯ</MyWifeDied.stages.my_wife_died.description>
+  
+  
+  <PawnWithBadOpinionDied.stages.my_rival_died.label>{1_gender ? ,{ﺔﻤﺼﺨﻟﺍ ﺖﻴﻓﻮﺗ : ﻢﺼﺨﻟﺍ ﻲﻓﻮﺗ
+0}}</PawnWithBadOpinionDied.stages.my_rival_died.label>
+  
+  <PawnWithBadOpinionDied.stages.my_rival_died.description>ﻝﺪﻋ ﻙﺎﻨﻫ ﻝﺍﺰﻳ ﻻ .ﺮﻴﺨﺑ ﻮﻫ ﻚﻟﺬﻟﻭ
+.ﻢﻟﺎﻌﻟﺍ ﺍﺬﻫ ﻲﻓ</PawnWithBadOpinionDied.stages.my_rival_died.description>
+  
+  
+  <PawnWithGoodOpinionDied.stages.my_friend_died.label>{0} ,{ﺔﻘﻳﺪﺻ : ﻖﻳﺪﺻ ? gender_1} ﻲﻓﻮﺗ</PawnWithGoodOpinionDied.stages.my_friend_died.label>
+  
+  <PawnWithGoodOpinionDied.stages.my_friend_died.description>{OTHERPAWN_gender ? ﺖﻓﻮﺗ : ﺏﺮﻘﻤﻟﺍ ﻲﻘﻳﺪﺻ ﻲﻓﻮﺗ
+ﺔﺑﺮﻘﻤﻟﺍ ﻲﺘﻘﻳﺪﺻ} .{OTHERPAWN_possessive} ﻲﺒﻧﺎﺠﺑ ﺪﻌﻳ ﻢﻟ.</PawnWithGoodOpinionDied.stages.my_friend_died.description>
+  
+</LanguageData>
