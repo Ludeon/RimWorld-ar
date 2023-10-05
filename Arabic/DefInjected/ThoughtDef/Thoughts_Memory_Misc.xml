@@ -1,0 +1,321 @@
+<LanguageData>
+  
+  
+  
+  <AteWithoutTable.stages.ate_without_table.label>{PAWN_gender ? ﺽﺭﻷﺍ ﻰﻠﻋ {ﺖﻠﻛﺃ : ﻞﻛﺃ</AteWithoutTable.stages.ate_without_table.label>
+  
+  <AteWithoutTable.stages.ate_without_table.description>ﺎﻨﻨﻜﻤﻳ ﻞﻫ .ﺽﺭﻷﺍ ﻰﻠﻋ ﺓﺮﺷﺎﺒﻣ ﻞﻛﻷ ﺕﺭﺮﻄﺿﺍ
+؟ﺎﻨﻫ ﺔﻟﻭﺎﻃ ﻊﺿﻭ</AteWithoutTable.stages.ate_without_table.description>
+  
+  
+  
+  <BondedAnimalBanished.stages.bonded_animal_banished.label>{0} ،ﻒﻴﻟﻷﺍ ﻥﺍﻮﻴﺤﻟﺍ ﺩﺮﻃ ﻢﺗ</BondedAnimalBanished.stages.bonded_animal_banished.label>
+  
+  <BondedAnimalBanished.stages.bonded_animal_banished.description>!ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻦﻣ ﻒﻴﻟﻷﺍ ﻥﺍﻮﻴﺤﻟﺍ ﻲﺒﻴﺒﺣ ﺩﺮﻃ ﻢﺗ</BondedAnimalBanished.stages.bonded_animal_banished.description>
+  
+  
+  
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>{PAWN_gender ? ﺖﻣﺎﻗ : ﻥﺎﺴﻧﻹﺍ ﻊﻴﻄﻘﺘﺑ ﻡﺎﻗ
+ﻥﺎﺴﻧﻹﺍ ﻊﻴﻄﻘﺘﺑ}</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
+  
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>{PAWN_gender ? ﻪﻧﺄﻛ ﺺﺨﺸﻟﺍ {ﺖﻛﺮﺗ : ﺖﻛﺮﺗ
+ﻥﺍﻮﻴﺣ.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
+  
+  
+  
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>? OTHERPAWN_gender} ﻞﺒﻗ ﻦﻣ ﺺﺨﺸﻟﺍ ﺐﻳﺬﻌﺗ ﻢﺗ
+.{ﺓﺃﺮﻤﻟﺍ : ﻞﺟﺮﻟﺍ</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  
+  
+  
+  <Catharsis.stages.catharsis.label>ﻡﺪﻧ</Catharsis.stages.catharsis.label>
+  
+  <Catharsis.stages.catharsis.description>ﻥﺎﻴﺴﻧﻭ ﻱﺮﻋﺎﺸﻣ ﻎﻳﺮﻔﺗ ﺍﺮﻴﺧﺃ ﻒﻄﻠﻟﺍ ﻦﻣ ﻥﺎﻛ
+.ﻚﻟﺫ</Catharsis.stages.catharsis.description>
+  
+  
+  
+  <ColonistBanished.stages.colonist_banished.label>ﺩﻭﺮﻄﻤﻟﺍ ﻦﻃﻮﺘﺴﻤﻟﺍ</ColonistBanished.stages.colonist_banished.label>
+  
+  <ColonistBanished.stages.colonist_banished.description>ﻪﺗﺎﻴﺣ ﺮﻴﺴﺗ ﻥﺃ ﻞﻣﺁ .ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﺪﺣﺃ ﺎﻧﺩﺮﻃ
+.ﺀﻲﺸﻟﺍ ﺾﻌﺑ ﻖﻠﻗ ﻲﻨﻨﻜﻟﻭ ،ﺍﺪﻴﺟ</ColonistBanished.stages.colonist_banished.description>
+  
+  
+  
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>ﺕﻮﻤﻴﺳﻭ ﺩﺮﻄﻣ ﻦﻃﻮﺘﺴﻤﻟﺍ</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
+  
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>ﻪﻳﺪﻟ ﻥﻮﻜﻳ ﻻ ﺩﺎﻜﻳ ﺔﻟﺎﺤﺑ ﺎﻨﻨﻃﻮﺘﺴﻣ ﺎﻧﺪﻌﺑﺃ
+.ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻠﻟ ﺔﺻﺮﻓ ﻱﺃ</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  
+  
+  
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>ﻲﻧﺎﻃﻮﺘﺳﻻﺍ ﻦﻴﺠﺴﻟﺍ ﺏﺮﻫ</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>
+  
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>ﺙﺪﺤﻴﺳ ﺍﺫﺎﻣ ؟ﺎﻨﺴﻔﻧﺃ ﻰﻠﻋ ﺓﺮﻄﻴﺴﻟﺍ ﺎﻨﻨﻜﻤﻳ ﻻ
+؟ﺓﺮﻴﺗﻮﻟﺍ ﻩﺬﻫ ﺕﺮﻤﺘﺳﺍ ﺍﺫﺇ ﻲﻟ</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
+  
+  
+  
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>{PAWN_gender ? ،ﻭﺪﻌﻟﺍ ﻢﻴﻋﺰﻟﺍ {ﺖﻠﺘﻗ : ﻞﺘﻗ
+0}}</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
+  
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>ﻢﻬﻧﺃ ﻥﻮﻓﺮﻌﻳ ﺍﻮﻧﻮﻜﻳ ﻢﻟ ﻢﻬﻨﻜﻟ ،ﺎﻧﺮﻴﻣﺪﺗ ﺍﻮﻟﻭﺎﺣ
+!ﻲﻌﻣ ﻥﻮﻠﻣﺎﻌﺘﻴﺳ</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
+  
+  
+  
+  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>{OTHERPAWN_gender ? ﻭﺪﻌﻟﺍ ﻢﻴﻋﺯ {ﺖﻠﺘﻗ : ﻞﺘﻗ</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
+  
+  
+  <DefeatedInsectHive.stages.defeated_insect_hive.label>ﺕﺍﺮﺸﺤﻠﻟ ﺓﺮﻣﺪﻤﻟﺍ ﺔﻴﻠﺨﻟﺍ</DefeatedInsectHive.stages.defeated_insect_hive.label>
+  
+  <DefeatedInsectHive.stages.defeated_insect_hive.description>!ﺔﺘﻴﻤﻟﺍ ﺓﺮﺸﺤﻟﺍ ﻲﻫ ﺓﺪﻴﺠﻟﺍ ﺓﺮﺸﺤﻟﺍ</DefeatedInsectHive.stages.defeated_insect_hive.description>
+  
+  
+  
+  <DefeatedMechCluster.stages.defeated_mech_cluster.label>ﺕﺎﻴﻟﻵﺍ ﺔﻋﻮﻤﺠﻣ ﺮﻴﻣﺪﺗ ﻢﺗ</DefeatedMechCluster.stages.defeated_mech_cluster.label>
+  
+  <DefeatedMechCluster.stages.defeated_mech_cluster.description>!ﺕﻻﻵﺍ ﺔﻨﻌﻟ ،ﻥﺪﻌﻤﻟﺍ ﻡﺰﻬﻳ ﻢﺤﻠﻟﺍ</DefeatedMechCluster.stages.defeated_mech_cluster.description>
+  
+  
+  
+  <DeniedJoining.stages.denied_joining.label>ﻡﺎﻤﻀﻧﻻﺍ ﺾﻓﺭ ﻢﺗ</DeniedJoining.stages.denied_joining.label>
+  
+  <DeniedJoining.stages.denied_joining.description>ﻕﻮﻓ ﺎﻔﻘﺳ ﺺﺨﺸﻟﺍ ﺢﻨﻣ ﻮﺘﻠﻟ ﺎﻨﻀﻓﺭ ﺪﻘﻟ
+.ﻚﻟﺫ ﺐﺒﺴﺑ ﺕﻮﻤﻳ ﻻﺃ ﻞﻣﺁ .ﻪﺳﺃﺭ</DeniedJoining.stages.denied_joining.description>
+  
+  
+  
+  <FailedToRescueRelative.stages.failed_to_rescue.label>{labelShort} {1_gender_1} ﺫﺎﻘﻧﺇ ﻢﺘﻳ ﻢﻟ</FailedToRescueRelative.stages.failed_to_rescue.label>
+  
+  <FailedToRescueRelative.stages.failed_to_rescue.description>: ﻲﻔﻇﻮﻣ ? OTHERPAWN_gender} ﺫﺎﻘﻧﺍ ﻊﻴﻄﺘﺴﻧ ﺎﻨﻛ
+ﻥﺃ ﺐﺠﻳ ﻲﺴﻔﻧ ? PAWN_gender} ﺖﻨﻛ !{ﻲﺘﻔﻇﻮﻣ
+!{OTHERPAWN_objective} {ﺎﻫﺪﻋﺎﺳﺃ ﻥﺃ ﺐﺠﻳ ﻲﺴﻔﻧ : ﺪﻋﺎﺳﺃ</FailedToRescueRelative.stages.failed_to_rescue.description>
+  
+  
+  
+  <FreedFromSlavery.stages.freed_from_slavery.label>{PAWN_gender ? {ﺎﻫﺮﻳﺮﺤﺗ ﻢﺗ : ﻩﺮﻳﺮﺤﺗ ﻢﺗ
+ﺔﻳﺩﻮﺒﻌﻟﺍ ﻦﻣ</FreedFromSlavery.stages.freed_from_slavery.label>
+  
+  <FreedFromSlavery.stages.freed_from_slavery.description>? PAWN_gender} ﺎﻧﺃ !ﺔﻳﺩﻮﺒﻌﻟﺍ ﻦﻣ ﻱﺮﻳﺮﺤﺗ ﻢﺗ
+!ﺍﺪﺟ {ﺔﻨﺘﻤﻣ : ﻦﺘﻤﻣ</FreedFromSlavery.stages.freed_from_slavery.description>
+  
+  
+  
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>ﻮﻀﻌﻟﺍ ﻝﺎﺼﺌﺘﺳﺍ ﺖﻤﺗ</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
+  
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>!ﻕﻮﺸﻣﻭ ﻊﺘﻤﻣ ﺭﻮﻌﺸﺑ ﺪﺴﺠﻟﺍ ﻦﻣ ﻢﺤﻠﻟﺍ ﻊﻄﻗ</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
+  
+  
+  
+  <KilledHumanlikeBloodlust.stages.killed_someone.label>{PAWN_gender ? ﻥﺎﺴﻧﺇ {ﺖﻠﺘﻗ : ﻞﺘﻗ</KilledHumanlikeBloodlust.stages.killed_someone.label>
+  
+  <KilledHumanlikeBloodlust.stages.killed_someone.description>!ﺎﻧﺎﺴﻧﺇ {ﺖﻠﺘﻗ : ﺖﻠﺘﻗ ? PAWN_gender} ﺎﻧﺃ
+!ﺭﻮﻌﺸﻟﺍ ﺍﺬﻫ ﺎﻣ</KilledHumanlikeBloodlust.stages.killed_someone.description>
+  
+  
+  
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>ﺕﻮﺑﺎﺗ ﻲﻓ ﻦﻴﻓﺪﺗ</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
+  
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>.ﻞﻴﻤﺟ ﺕﻮﺑﺎﺗ ﻲﻓ ﺎﻨﺑ ﺹﺎﺨﻟﺍ ﻦﻃﻮﺘﺴﻤﻟﺍ ﺎﻨﻓﺩ.
+!ﻡﻼﺴﺑ ﻪﺣﻭﺭ ﺪﻗﺮﻴﻟ</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
+  
+  
+  
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>ﺺﺨﺸﻟﺍ ﺔﺋﺰﺠﺗ ﻢﺗ</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
+  
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>.ﻥﺍﻮﻴﺣ ﻪﻧﺄﻛﻭ ﻥﺎﺴﻧﻹﺍ ﺢﺑﺬﺑ ﺎﻨﻤﻗ</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
+  
+  
+  
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>.ﻦﻃﻮﺘﺴﻤﻟﺍ ﻦﻣ ﻮﻀﻋ ﻝﺎﺼﺌﺘﺳﺍ ﺖﻤﺗ</KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>
+  
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>ﻉﻭﺮﻣ ﻪﻧﺇ .ﺎﻨﻨﻃﻮﺘﺴﻣ ﻦﻣ ﻮﻀﻋ ﺔﻟﺍﺯﺈﺑ ﺎﻨﻤﻗ
+ﻢﻬﻳﺪﻟ ﺲﻴﻟ ﺎﻣﺪﻨﻋ ﺮﺸﺒﻟﺍ ﺔﺋﺰﺠﺘﺑ ﻡﻮﻘﻧ ﻥﺃ
+.ﺭﺎﻴﺧ</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
+  
+  
+  
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.label>ﻩﻮﻀﻋ ﻲﻓ ﻊﻄﻗ ﺺﺨﺸﻟﺍ ﻯﺪﻟ</KnowGuestOrganHarvested.stages.someones_organ_harvested.label>
+  
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>ﻭﺃ ﺎﻨﻔﻴﺿ ﻦﻣ ﻮﻀﻋ ﺔﻟﺍﺯﺈﺑ ﺎﻨﻤﻗ ﺪﻘﻟ
+ﺱﺎﻨﻟﺍ ﻞﺼﻔﻧ ﻥﺃ ﻉﻭﺮﻣ ﺮﻣﺃ ﻪﻧﺇ .ﺎﻧﺮﻴﺳﺃ
+.ﺭﺎﻴﺧ ﻢﻬﻳﺪﻟ ﺲﻴﻟ ﺎﻣﺪﻨﻋ ﺀﺍﺰﺟﺃ ﻰﻟﺇ</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
+  
+  
+  
+  <KnowPrisonerSold.stages.prisoner_sold.label>.ﺮﻴﺳﻷﺍ ﻊﻴﺑ ﻢﺗ</KnowPrisonerSold.stages.prisoner_sold.label>
+  
+  <KnowPrisonerSold.stages.prisoner_sold.description>ﻦﻣ ﺔﻘﻠﻘﻣ ﺓﺭﺎﺷﺇ ﻮﻫ ﺪﻴﺒﻌﻛ ﻯﺮﺳﻷﺍ ﻊﻴﺑ
+.ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻞﺒﻗ</KnowPrisonerSold.stages.prisoner_sold.description>
+  
+  
+  
+  <MyOrganHarvested.stages.my_organ_harvested.label>ﻮﻀﻋ ﻝﺎﺼﺌﺘﺳﺍ ﺖﻤﺗ</MyOrganHarvested.stages.my_organ_harvested.label>
+  
+  <MyOrganHarvested.stages.my_organ_harvested.description>ﻢﺘﻳ ﺎﻧﺃ !ﻱﺪﺴﺟ ﻦﻣ ﻮﻀﻋ ﺔﻟﺍﺯﺇ ﺖﻤﺗ
+!ﻢﻳﺪﻗ ﻙﺮﺤﻤﻛ ﻲﻜﻴﻜﻔﺗ</MyOrganHarvested.stages.my_organ_harvested.description>
+  
+  
+  
+  <NewColonyHope.stages.initial_hope.label>ﺪﻳﺪﺟ ﻞﻣﺃ ،ﺓﺪﻳﺪﺟ ﺔﻨﻃﻮﺘﺴﻣ</NewColonyHope.stages.initial_hope.label>
+  
+  <NewColonyHope.stages.initial_hope.description>ﻻ ﻦﻜﻟ ،ﻊﺿﻮﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﺎﻴﺠﻳﺭﺪﺗ ﺩﻮﻌﺗﺃ
+ﻲﻓ ﺍﺬﻫ ﺮﻤﺘﺴﻳ ﻥﺃ ﻞﻣﺁ ،ﺎﺴﻤﺤﺘﻣ ﻝﺍﺯﺃ
+...ﻞﺒﻘﺘﺴﻤﻟﺍ</NewColonyHope.stages.initial_hope.description>
+  
+  
+  
+  <NewColonyOptimism.stages.initial_optimism.label>ﻦﻃﻮﺘﺴﻤﻠﻟ ﻝﺅﺎﻔﺘﻟﺍ</NewColonyOptimism.stages.initial_optimism.label>
+  
+  <NewColonyOptimism.stages.initial_optimism.description>- ﺔﺻﺎﺨﻟﺍ ﻚﺘﻨﻃﻮﺘﺴﻣ ﺀﺎﺸﻧﺇ ﻦﻜﻟ ،ﺐﻌﺻ ﻊﺿﻮﻟﺍ
+!ﻊﺋﺍﺭ ﺮﻣﺃ</NewColonyOptimism.stages.initial_optimism.description>
+  
+  
+  
+  <Nuzzled.stages.nuzzled.label>ﺍﺬﻫ ﻲﻓ "ласка" ﺔﻤﻠﻜﻠﻟ ﺔﻤﺟﺮﺗ ﺪﺟﻮﺗ ﻻ
+ﻲﺗﺪﻋﺎﺴﻤﻟ ﺔﻠﻤﺟ ﻭﺃ ﻕﺎﻴﺳ ﺀﺎﻄﻋﺇ ﻰﺟﺮﻳ .ﻕﺎﻴﺴﻟﺍ
+.ﺎﻬﺘﻤﺟﺮﺗ ﻲﻓ</Nuzzled.stages.nuzzled.label>
+  
+  <Nuzzled.stages.nuzzled.description>.ﻱﻮﺤﻧ ﻒﻴﻄﻟ ﻦﺋﺎﻛ ﺏﺍﺮﺘﻗﺍ ﺖﻈﺤﻟ</Nuzzled.stages.nuzzled.description>
+  
+  
+  
+  <ObservedLayingCorpse.stages.observed_corpse.label>{PAWN_gender ? ﺔﺜﺟ {ﺕﺃﺭ : ﻯﺃﺭ</ObservedLayingCorpse.stages.observed_corpse.label>
+  
+  <ObservedLayingCorpse.stages.observed_corpse.description>ﺍﺮﻈﻨﻣ ﺖﺴﻴﻟ ﺽﺭﻷﺍ ﻰﻠﻋ ﺓﺎﻘﻠﻣ ﺺﺨﺷ ﺔﺜﺟ
+.ﻕﻼﻃﻹﺍ ﻰﻠﻋ ﺎﻌﺘﻤﻣ</ObservedLayingCorpse.stages.observed_corpse.description>
+  
+  
+  
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>{PAWN_gender ? ﻦﻔﻌﺘﺗ ﺔﺜﺟ {ﺕﺃﺭ : ﻯﺃﺭ</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
+  
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>{PAWN_gender ? ...ﻦﻔﻌﺘﺗ ﺔﺜﺟ {ﺖﻳﺃﺭ : ﺖﻳﺃﺭ
+ﺔﻓﺮﻘﻣ.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
+  
+  
+  
+  <OnDuty.stages.on_duty.label>{PAWN_gender ? ﻞﻤﻌﻟﺎﺑ {ﺔﻟﻮﻐﺸﻣ : ﻝﻮﻐﺸﻣ</OnDuty.stages.on_duty.label>
+  
+  <OnDuty.stages.on_duty.description>.ﻞﻤﻋ ﻱﺪﻨﻋ</OnDuty.stages.on_duty.description>
+  
+  
+  
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>ﺕﻮﻤﻴﺳﻭ ﻩﺩﺮﻃ ﻢﺗ ﺮﻴﺳﻷﺍ</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
+  
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>ﻥﻮﻜﻳ ﺩﺎﻜﻳ ﻻ ﺔﻟﺎﺣ ﻲﻓ ﺮﻴﺳﻷﺍ ﺎﻧﺩﺮﻃﺃ
+.ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻠﻟ ﺔﺻﺮﻓ ﻪﻳﺪﻟ</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
+  
+  
+  
+  <ReleasedHealthyPrisoner.stages.prisoner_released.label>.ﺮﻴﺳﻷﺍ ﺡﺍﺮﺳ ﻕﻼﻃﺇ ﻢﺗ</ReleasedHealthyPrisoner.stages.prisoner_released.label>
+  
+  <ReleasedHealthyPrisoner.stages.prisoner_released.description>ﻦﻣ .ﺓﺪﻴﺟ ﺔﻟﺎﺤﺑ ﺮﻴﺳﻷﺍ ﺡﺍﺮﺳ ﻕﻼﻃﺇ ﻢﺗ
+.ﻯﺮﺳﻷﺎﺑ ﻰﺘﺣ ﻢﺘﻬﻧ ﺎﻨﻧﺃ ﻑﺮﻌﻧ ﻥﺃ ﻞﻴﻤﺠﻟﺍ</ReleasedHealthyPrisoner.stages.prisoner_released.description>
+  
+  
+  
+  <Rescued.stages.rescued.label>{PAWN_gender ? ﺎﻫﺫﺎﻘﻧﺇ ﻢﺗ : ﻩﺫﺎﻘﻧﺇ ﻢﺗ}</Rescued.stages.rescued.label>
+  
+  <Rescued.stages.rescued.description>ﻙﺮﺗﺄﺳ ﻲﻨﻧﺃ ﺮﻌﺷﺃ ﺕﺃﺪﺑ !ﻥﺎﻣﺃ ﻲﻓ ﺎﻧﺃ
+!ﻲﻧﻭﺬﻘﻧﺃ ﻦﻣ ﻞﻜﻟ ﺍﺮﻜﺷ .ﺍﺪﻴﺣﻭ</Rescued.stages.rescued.description>
+  
+  
+  
+  <RescuedRelative.stages.rescued.label>{ : ? labelShort} {1_gender_1} ﺫﺎﻘﻧﺇ ﻢﺗ</RescuedRelative.stages.rescued.label>
+  
+  <RescuedRelative.stages.rescued.description>ﻥﺃ ﻥﻵﺍ ،ﻲﻠﻋ ﺍﺰﻳﺰﻋ ﺎﺼﺨﺷ ﺎﻧﺬﻘﻧﺃ ﺪﻘﻟ
+.ﺔﻟﻮﻬﺴﺑ ﺲﻔﻨﺗﺃ ﻥﺃ ﻲﻨﻨﻜﻤﻳ ﺍﺮﻴﺧﺃ ﻦﻣﺁ {OTHERPAWN_pronoun}</RescuedRelative.stages.rescued.description>
+  
+  
+  
+  <SleepDisturbed.stages.disturbed_sleep.label>ﻞﻜﺸﺑ : ﺊﺳ ﻞﻜﺸﺑ ? PAWN_gender} ﺖﻤﻧ
+{ﺊﺳ</SleepDisturbed.stages.disturbed_sleep.label>
+  
+  <SleepDisturbed.stages.disturbed_sleep.description>!ﻡﺎﻧﺃ ﻲﻨﻋﺪﻳ ﻻﻭ ﺮﻤﻳ ﺺﺨﺷ ﻙﺎﻨﻫ ﻥﺎﻛ
+.ﻡﻮﻨﻠﻟ ﺉﺩﺎﻫ ﻥﺎﻜﻣ ﺩﺎﺠﻳﺇ ﻲﻓ ﺐﻏﺭﺃ</SleepDisturbed.stages.disturbed_sleep.description>
+  
+  
+  
+  <SleptInCold.stages.slept_in_the_cold.label>{PAWN_gender ? ﺩﺮﺒﻟﺍ ﻲﻓ {ﺖﻣﺎﻧ : ﻡﺎﻧ</SleptInCold.stages.slept_in_the_cold.label>
+  
+  <SleptInCold.stages.slept_in_the_cold.description>.ﺕﺎﻧﺎﺨﺳ ﻰﻟﺇ ﺝﺎﺘﺤﻧ .ﺩﺮﺒﻟﺍ ﻲﻓ ﻡﻮﻨﻠﻟ ﺕﺭﺮﻄﺿﺍ</SleptInCold.stages.slept_in_the_cold.description>
+  
+  
+  
+  <SleptInHeat.stages.slept_in_the_heat.label>{PAWN_gender ? ﺓﺭﺍﺮﺤﻟﺍ ﻲﻓ {ﺖﻣﺎﻧ : ﻡﺎﻧ</SleptInHeat.stages.slept_in_the_heat.label>
+  
+  <SleptInHeat.stages.slept_in_the_heat.description>ﺎﻨﻨﻜﻤﻳ ﻞﻫ .ﺔﻌﺒﺸﻣ ﺓﺭﺍﺮﺣ ﻲﻓ ﻡﻮﻨﻠﻟ ﺕﺭﺮﻄﺿﺃ
+؟ﺀﺍﻮﻫ ﻒﻴﻜﻣ ﺐﻴﻛﺮﺗ</SleptInHeat.stages.slept_in_the_heat.description>
+  
+  
+  
+  <SleptOnGround.stages.slept_on_ground.label>{PAWN_gender ? ﺽﺭﻷﺍ ﻰﻠﻋ {ﺔﻤﺋﺎﻧ : ﻢﺋﺎﻧ</SleptOnGround.stages.slept_on_ground.label>
+  
+  <SleptOnGround.stages.slept_on_ground.description>.ﻥﺍﻮﻴﺤﻛ ﺽﺭﻷﺍ ﻰﻠﻋ ﻡﻮﻨﻠﻟ ﺕﺭﺮﻄﺿﺍ</SleptOnGround.stages.slept_on_ground.description>
+  
+  
+  
+  <SleptOutside.stages.slept_outside.label>ﻲﻓ {ﺖﻣﺎﻧ : ﻡﺎﻧ ? PAWN_gender} ﺺﺨﺸﻟﺍ
+.ﻉﺭﺎﺸﻟﺍ</SleptOutside.stages.slept_outside.label>
+  
+  <SleptOutside.stages.slept_outside.description>ﻱﺃ ﻥﻭﺪﺑ ﻖﻠﻄﻟﺍ ﺀﺍﻮﻬﻟﺍ ﻲﻓ ﻡﻮﻨﻠﻟ ﺕﺭﺮﻄﺿﺍ
+.ﺔﻳﻮﺠﻟﺍ ﻝﺍﻮﺣﻷﺍ ﺀﻮﺳ ﻦﻣ ﺔﻳﺎﻤﺣ</SleptOutside.stages.slept_outside.description>
+  
+  
+  
+  <SoakingWet.stages.soaking_wet.label>{PAWN_gender ? ﻰﺜﻧﺃ : ﺮﻛﺫ}</SoakingWet.stages.soaking_wet.label>
+  
+  <SoakingWet.stages.soaking_wet.description>.ﻒﺟﺃ ﻥﺃ ﺐﺠﻳ ،ﺀﺎﻣ ﺏﺮﺴﺗﺃ ﺎﻧﺃ</SoakingWet.stages.soaking_wet.description>
+  
+  
+  
+  <TravelAnticipation.stages.eager_to_travel.label>ﺔﻠﺣﺮﻟﺍ ﺭﺎﻈﺘﻧﺍ</TravelAnticipation.stages.eager_to_travel.label>
+  
+  <TravelAnticipation.stages.eager_to_travel.description>ﻩﺬﻫ ﻝﺎﺳﺭﻹ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻓ ﺬﻨﻣ ﺓﺪﻌﺘﺴﻣ ﺎﻧﺃ
+.ﺔﻣﺩﺎﻘﻟﺍ ﺔﻠﺣﺮﻟﺍ ﺮﻈﺘﻧﺃﻭ ﺔﻠﻓﺎﻘﻟﺍ</TravelAnticipation.stages.eager_to_travel.description>
+  
+  <TravelAnticipation.stages.excited_to_travel.label>ﺓﺮﻣﺎﻐﻤﻠﻟ ﻕﻮﺸﺘﻟﺍ</TravelAnticipation.stages.excited_to_travel.label>
+  
+  <TravelAnticipation.stages.excited_to_travel.description>ﺮﻜﻔﻳ ? PAWN_gender} ﻼﻳﻮﻃ ﺎﺘﻗﻭ ﺖﻴﻀﻗ ﺪﻘﻟ
+ﺎﻧﺃ .ﺔﻠﺣﺮﻟﺍ ﻩﺬﻬﻟ {ﻂﻄﺨﺗﻭ ﺮﻜﻔﺗ : ﻂﻄﺨﻳﻭ
+!ﻕﻼﻄﻧﻼﻟ ﺔﻳﺎﻐﻠﻟ ﺲﻤﺤﺘﻣ</TravelAnticipation.stages.excited_to_travel.description>
+  
+  
+  
+  <WasImprisoned.stages.was_imprisoned.label>{PAWN_gender ? {ﺲﻠﺠﺗ ﺖﻧﺎﻛ : ﺲﻠﺠﻳ ﻥﺎﻛ
+ﻦﺠﺴﻟﺍ ﻲﻓ</WasImprisoned.stages.was_imprisoned.label>
+  
+  <WasImprisoned.stages.was_imprisoned.description>ﻲﻓ ﺱﻮﺒﺤﻣ ﻥﺍﻮﻴﺤﻛ ﻦﺠﺴﻟﺍ ﻰﻟﺇ ﻲﻟﺎﺳﺭﺇ ﻢﺗ
+.ﺺﻔﻗ</WasImprisoned.stages.was_imprisoned.description>
+  
+  
+  
+  <WitnessedDeathAlly.stages.witnessed_allys_death.label>{PAWN_gender ? ﻒﻴﻠﺣ ﺕﻮﻣ {ﺕﺃﺭ : ﻯﺃﺭ</WitnessedDeathAlly.stages.witnessed_allys_death.label>
+  
+  <WitnessedDeathAlly.stages.witnessed_allys_death.description>ﻥﻵﺍﻭ ﻮﺘﻠﻟ ﺎﻴﺣ ﻥﺎﻛ .ﻲﻓﻮﺗ ﺪﻗ ﻢﻫﺪﺣﺃ
+.ﺖﻴﻣ ﻮﻫ</WitnessedDeathAlly.stages.witnessed_allys_death.description>
+  
+  
+  
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>{PAWN_gender ? ﺕﻮﻤﻟﺍ {ﺕﺃﺭ : ﻯﺃﺭ</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>
+  
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>ﺕﻮﻣ : ﻞﺟﺭ ﺕﻮﻣ ? PAWN_gender} ﺖﻳﺃﺭ
+!ﺮﻈﻨﻣ ﻦﻣ ﺎﻬﻟ ﺎﻳ - {ﺓﺃﺮﻣﺍ</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
+  
+  
+  
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.label>ﻮﻀﻌﻟ {ﺕﻮﻤﻟﺍ : ﺕﻮﻤﻟﺍ ? PAWN_gender} ﺪﻫﺎﺷ
+ﺔﻠﺋﺎﻌﻟﺍ ﻦﻣ</WitnessedDeathFamily.stages.witnessed_family_members_death.label>
+  
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.description>ﻢﺤﻟ .ﻲﻨﻴﻋ ﻡﺎﻣﺃ ﻲﺘﻠﺋﺎﻋ ﺩﺍﺮﻓﺃ ﺪﺣﺃ ﻲﻓﻮﺗ
+...ﻱﺪﺴﺟ ﻦﻣ ﻡﺩﻭ</WitnessedDeathFamily.stages.witnessed_family_members_death.description>
+  
+  
+  
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>{PAWN_gender ? ﺐﻳﺮﻐﻟﺍ ﺕﻮﻣ {ﺕﺃﺭ : ﻯﺃﺭ</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>
+  
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>، ﺎﻴﺣ ﻥﺎﻛ ﻮﺘﻠﻟ .ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﻲﻓﻮﺗ
+.ﺎﺘﻴﻣ ﺢﺒﺻﺃ ﺓﺪﺣﺍﻭ ﺔﻈﺤﻟ ﻲﻓﻭ</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>
+  
+</LanguageData>
