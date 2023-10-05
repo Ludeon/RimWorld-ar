@@ -1,0 +1,127 @@
+<LanguageData>
+  
+  
+  <TimeAsColonistOrColonyAnimal.label>ﺎﻨﻃﻮﺘﺴﻣ ﺊﺸﻧﺃ ﻒﻴﻛ</TimeAsColonistOrColonyAnimal.label>
+  
+  <TimeAsColonistOrColonyAnimal.description>.ﻦﻃﻮﺘﺴﻤﻛ ﻦﻣﺰﻟﺍ</TimeAsColonistOrColonyAnimal.description>
+  
+  
+  <TimeAsPrisoner.label>؟ﺮﻴﺳﻷﺍ ﻒﻴﻛ</TimeAsPrisoner.label>
+  
+  <TimeAsPrisoner.description>.ﻦﺠﺴﻟﺍ ﻲﻓ ﺖﻗﻮﻟﺍ</TimeAsPrisoner.description>
+  
+  
+  <TimeAsQuestLodger.label>ﺔﻓﺎﻴﺿ ﻲﻓ</TimeAsQuestLodger.label>
+  
+  <TimeAsQuestLodger.description>.ﺔﻤﻬﻤﻠﻟ ﻚﺋﺍﺩﺃ ﺀﺎﻨﺛﺃ ﻚﺘﻓﺎﻴﺿ ﻲﻓ ﻪﺘﻴﻀﻗ ﺖﻗﻮﻟﺍ</TimeAsQuestLodger.description>
+  
+  
+  <TimeCleaning.label>ﻒﻴﻈﻨﺘﻟﺍ ﺪﻌﺑ</TimeCleaning.label>
+  
+  <TimeCleaning.description>.ﻒﻴﻈﻨﺘﻟﺍ ﻲﻓ ﻩﺅﺎﻀﻗ ﻢﺘﻳ ﻱﺬﻟﺍ ﺖﻗﻮﻟﺍ</TimeCleaning.description>
+  
+  
+  <TimeConstructing.label>ﺀﺎﻨﺒﻟﺍ ﺀﺍﺭﻭ</TimeConstructing.label>
+  
+  <TimeConstructing.description>.ﺀﺎﻴﺷﻷﺍ ﻚﻴﻜﻔﺗﻭ ﺀﺎﻨﺑ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ</TimeConstructing.description>
+  
+  
+  <TimeDowned.label>ﻲﻋﻭ ﻼﺑ</TimeDowned.label>
+  
+  <TimeDowned.description>.ﻲﻋﻭ ﻥﻭﺪﺑ ﺽﺭﻷﺍ ﻰﻠﻋ ﻰﻀﻤﻤﻟﺍ ﺖﻗﻮﻟﺍ</TimeDowned.description>
+  
+  
+  <TimeDrafted.label>ﻝﺎﺘﻘﻟﺍ ﻲﻓ</TimeDrafted.label>
+  
+  <TimeDrafted.description>.ﺀﺎﻋﺪﺘﺳﻻﺍ ﻊﺿﻭ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ</TimeDrafted.description>
+  
+  
+  <TimeFirefighting.label>ﺪﺴﺠﻟﺍ ﻢﻬﺘﻠﺗ ﻖﺋﺍﺮﺤﻟﺍ</TimeFirefighting.label>
+  
+  <TimeFirefighting.description>ﻖﺋﺍﺮﺤﻟﺍ ﺩﺎﻤﺧﺇ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ</TimeFirefighting.description>
+  
+  
+  <TimeGettingFood.label>ﻡﺎﻌﻄﻟﺍ ﻞﺟﺃ ﻦﻣ</TimeGettingFood.label>
+  
+  <TimeGettingFood.description>ﻪﻟﻭﺎﻨﺗﻭ ﻡﺎﻌﻄﻟﺍ ﻦﻋ ﺚﺤﺒﻟﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ</TimeGettingFood.description>
+  
+  
+  <TimeGettingJoy.label>ﻪﻴﻓﺮﺘﻠﻟ</TimeGettingJoy.label>
+  
+  <TimeGettingJoy.description>.ﻪﻴﻓﺮﺘﻟﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ</TimeGettingJoy.description>
+  
+  
+  <TimeHandlingAnimals.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻣ</TimeHandlingAnimals.label>
+  
+  <TimeHandlingAnimals.description>.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻣ ﻰﻀﻘﻤﻟﺍ ﺖﻗﻮﻟﺍ</TimeHandlingAnimals.description>
+  
+  
+  <TimeHauling.label>ﺀﺎﻴﺷﻷﺍ ﻞﻘﻧ</TimeHauling.label>
+  
+  <TimeHauling.description>.ﺩﺍﻮﻤﻟﺍ ﻞﻘﻧ ﻲﻓ ﻩﺅﺎﻀﻗ ﻢﺘﻳ ﻱﺬﻟﺍ ﺖﻗﻮﻟﺍ</TimeHauling.description>
+  
+  
+  <TimeHunting.label>ﺪﻴﺼﻟﺍ ﻲﻓ</TimeHunting.label>
+  
+  <TimeHunting.description>.ﺪﻴﺼﻟﺍ ﻲﻓ ﻩﺅﺎﻀﻗ ﻢﺘﻳ ﻱﺬﻟﺍ ﺖﻗﻮﻟﺍ</TimeHunting.description>
+  
+  
+  <TimeInBed.label>ﺮﻳﺮﺴﻟﺍ ﻲﻓ</TimeInBed.label>
+  
+  <TimeInBed.description>.ﺮﻳﺮﺴﻟﺍ ﻲﻓ ﺖﻗﻮﻟﺍ</TimeInBed.description>
+  
+  
+  <TimeInBedForMedicalReasons.label>ﺝﻼﻌﻟﺍ ﺪﻴﻗ</TimeInBedForMedicalReasons.label>
+  
+  <TimeInBedForMedicalReasons.description>ﻰﻓﺎﻌﺘﻳ ،ﺝﻼﻌﻟﺍ ﻲﻓ :ﻲﺒﻄﻟﺍ ﺮﻳﺮﺴﻟﺍ ﻲﻓ ﺖﻗﻮﻟﺍ
+.ﺔﻴﺣﺍﺮﺠﻟﺍ ﺔﻴﻠﻤﻌﻟﺍ ﺀﺎﻨﺛﺃ ﻭﺃ ﺡﻭﺮﺠﻟﺍ ﻦﻣ</TimeInBedForMedicalReasons.description>
+  
+  
+  <TimeInMentalState.label>.ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﺔﻟﺎﺣ ﻲﻓ</TimeInMentalState.label>
+  
+  <TimeInMentalState.description>.ﻲﺒﺼﻋ ﺭﺎﻴﻬﻧﺍ ﺔﻟﺎﺣ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ</TimeInMentalState.description>
+  
+  
+  <TimeMining.label>ﺔﻳﺮﺛﺃ ﺚﺤﺑ</TimeMining.label>
+  
+  <TimeMining.description>.ﺕﺎﻳﺮﻔﺤﻟﺍ ﻲﻓ ﺖﻗﻮﻟﺍ</TimeMining.description>
+  
+  
+  <TimeOnFire.label>ﺭﺎﻨﻟﺍ ﻲﻓ</TimeOnFire.label>
+  
+  <TimeOnFire.description>ﻥﻭﺪﺑ ﻕﺍﺮﺘﺣﻻﺍﻭ ﻱﺮﺠﻟﺍ ﻲﻓ ﻪﺘﻴﻀﻗ ﻱﺬﻟﺍ ﺖﻗﻮﻟﺍ
+.ﻑﺪﻫ</TimeOnFire.description>
+  
+  
+  <TimeRepairing.label>ﺡﻼﺻﻺﻟ</TimeRepairing.label>
+  
+  <TimeRepairing.description>.ﺡﻼﺻﻹﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ</TimeRepairing.description>
+  
+  
+  <TimeResearching.label>ﺚﺤﺒﻟﺍ ﺽﺍﺮﻏﻷ</TimeResearching.label>
+  
+  <TimeResearching.description>.ﺙﻮﺤﺒﻠﻟ ﺔﻟﻭﺎﻄﻟﺍ ﻰﻠﻋ ﺱﻮﻠﺠﻟﺍ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ</TimeResearching.description>
+  
+  
+  <TimeSowingAndHarvesting.label>ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻣ</TimeSowingAndHarvesting.label>
+  
+  <TimeSowingAndHarvesting.description>ﻊﻤﺟﻭ ﺎﻬﺘﻋﺍﺭﺯﻭ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻄﻗ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ
+.ﻝﻮﺼﺤﻤﻟﺍ</TimeSowingAndHarvesting.description>
+  
+  
+  <TimeTreatingAndFeeding.label>ﻰﺿﺮﻤﻟﺍ ﺔﻳﺎﻋﺭ</TimeTreatingAndFeeding.label>
+  
+  <TimeTreatingAndFeeding.description>.ﻢﻬﺘﻳﺬﻐﺗﻭ ﺝﻼﻌﻟﺍ :ﻰﺿﺮﻤﻟﺍ ﺔﻳﺎﻋﺭ ﻲﻓ ﻕﺮﻐﺘﺴﻤﻟﺍ ﺖﻗﻮﻟﺍ</TimeTreatingAndFeeding.description>
+  
+  
+  <TimeUnderRoof.label>ﻒﻘﺴﻟﺍ ﺖﺤﺗ</TimeUnderRoof.label>
+  
+  <TimeUnderRoof.description>.ﻒﻘﺴﻟﺍ ﺖﺤﺗ ﻰﻀﻘﻤﻟﺍ ﺖﻗﻮﻟﺍ</TimeUnderRoof.description>
+  
+  
+  <TimeWardening.label>ﻯﺮﺳﻷﺍ ﻊﻣ</TimeWardening.label>
+  
+  <TimeWardening.description>ﺔﻳﺬﻐﺗﻭ ﺪﻴﻨﺠﺗ ﻲﻓ ﻩﺅﺎﻀﻗ ﻢﺘﻳ ﻱﺬﻟﺍ ﺖﻗﻮﻟﺍ
+.ﻯﺮﺳﻷﺍ</TimeWardening.description>
+  
+</LanguageData>
