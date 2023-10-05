@@ -1,0 +1,27 @@
+ï»؟<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] always had an appetite for risk. Military life satisfied that need for a while, but eventually it wasn't enough.\n\nSeeking greater gambles, [PAWN_nameDef] took an offer from a mysterious machine persona and traveled to an unknown rimworld with a mysterious implant in [PAWN_possessive] head. -->
+  <ExMilitary9.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ»رژذ±ذ¸ذ» : ذ»رژذ±ذ¸ذ»ذ°} ر€ذ¸رپذ؛. ذڑذ°ذ؛ذ¾ذµ-ر‚ذ¾ ذ²ر€ذµذ¼رڈ ذ²ذ¾ذµذ½ذ½ذ°رڈ ذ¶ذ¸ذ·ذ½رŒ رƒر‚ذ¾ذ»رڈذ»ذ° ذ°ذ´ر€ذµذ½ذ°ذ»ذ¸ذ½ذ¾ذ²رƒرژ ذ¶ذ°ذ¶ذ´رƒ, ذ½ذ¾ رپ ذ²ر€ذµذ¼ذµذ½ذµذ¼ ذ¸ رچر‚ذ¾ذ³ذ¾ رپر‚ذ°ذ»ذ¾ ذ½ذµذ´ذ¾رپر‚ذ°ر‚ذ¾ر‡ذ½ذ¾.\n\n{PAWN_nameDef} {PAWN_gender ? ذ¸رپذ؛ذ°ذ» : ذ¸رپذ؛ذ°ذ»ذ°} ذ½ذ¾ذ²ر‹ذµ ذ؟ر€ذ¸ذ؛ذ»رژر‡ذµذ½ذ¸رڈ ذ¸ {PAWN_gender ? ذ؟ر€ذ¸ذ½رڈذ» : ذ؟ر€ذ¸ذ½رڈذ»ذ°} ذ؟ر€ذµذ´ذ»ذ¾ذ¶ذµذ½ذ¸ذµ ذ¾ر‚ ذ·ذ°ذ³ذ°ذ´ذ¾ر‡ذ½ذ¾ذ¹ ذکذک-ذ؟ذµر€رپذ¾ذ½ر‹. ذ، ذ½ذ¾ذ²ر‹ذ¼, ر‚ذ°ذ½ذ¸ذ½رپر‚ذ²ذµذ½ذ½ر‹ذ¼ ر‡ذ¸ذ؟ذ¾ذ¼ ذ² ذ³ذ¾ذ»ذ¾ذ²ذµ, {PAWN_pronoun} {PAWN_gender ? ذ¾ر‚ذ؟ر€ذ°ذ²ذ¸ذ»رپرڈ : ذ¾ر‚ذ؟ر€ذ°ذ²ذ¸ذ»ذ°رپرŒ} ذ² ذ¾ذ؛ر€ذ°ذ¸ذ½ذ½ر‹ذ¹ ذ¼ذ¸ر€.</ExMilitary9.baseDesc>
+  <!-- EN: ex-military -->
+  <ExMilitary9.title>ذ±ر‹ذ²رˆذ¸ذ¹ ذ²ذ¾ذµذ½ذ½ر‹ذ¹</ExMilitary9.title>
+  <!-- EN: ex-military -->
+  <ExMilitary9.titleShort>ذ²ذ¾رڈذ؛ذ°</ExMilitary9.titleShort>
+  
+  <!-- EN: A life of insurance dealing consumed [PAWN_nameDef]'s hopes and dreams. When a mysterious machine persona offered the gambler implant, it seemed like a way to add color to a gray existence.\n\n[PAWN_nameDef] did not, however, plan on being captured by pirates and sent across the galaxy to a distant rimworld. -->
+  <InsuranceBroker9.baseDesc>{PAWN_nameDef} [PAWN_gender ? ر€ذ°ذ±ذ¾ر‚ذ°ذ» : ر€ذ°ذ±ذ¾ر‚ذ°ذ»ذ°] رپر‚ر€ذ°ر…ذ¾ذ²ر‹ذ¼ ذ±ر€ذ¾ذ؛ذµر€ذ¾ذ¼ â€” ذ² {PAWN_possessive} ذ¶ذ¸ذ·ذ½ذ¸ ذ½ذµ ذ¾رپر‚ذ°ذ²ذ°ذ»ذ¾رپرŒ ذ²ر€ذµذ¼ذµذ½ذ¸ ذ½ذ° ذ½ذ°ذ´ذµذ¶ذ´ر‹ ذ¸ ذ¼ذµر‡ر‚ر‹. ذ¢ذ°ذ¸ذ½رپر‚ذ²ذµذ½ذ½ذ°رڈ ذکذک-ذ؟ذµر€رپذ¾ذ½ذ° ذ؟ر€ذµذ´ذ»ذ¾ذ¶ذ¸ذ»ذ° {PAWN_objective} ر€ذ¸رپذ؛ذ¾ذ²ذ°ذ½ذ½ر‹ذ¹ ذ¸ذ¼ذ؟ذ»ذ°ذ½ر‚.\n\n ذڑذ°ذ·ذ°ذ»ذ¾رپرŒ, رچر‚ذ¾ ذ´ذ¾ذ±ذ°ذ²ذ¸ر‚ ذ¶ذ¸ذ·ذ½ذ¸ ذ½ذ¾ذ²ر‹ر… ذ؛ر€ذ°رپذ¾ذ؛, ذ½ذ¾ {PAWN_nameDef} ذ½ذµ {PAWN_gender ? ذ؟ذ»ذ°ذ½ذ¸ر€ذ¾ذ²ذ°ذ» : ذ؟ذ»ذ°ذ½ذ¸ر€ذ¾ذ²ذ°ذ»ذ°}, ر‡ر‚ذ¾ ذ±رƒذ´ذµر‚ [PAWN_gender ? رپر…ذ²ذ°ر‡ذµذ½ : رپر…ذ²ذ°ر‡ذµذ½ذ°] ذ؟ذ¸ر€ذ°ر‚ذ°ذ¼ذ¸ ذ¸ ذ¾ذ؛ذ°ذ¶ذµر‚رپرڈ ذ½ذ° ذ´ر€رƒذ³ذ¾ذ¼ ذ؛ذ¾ذ½ر†ذµ ذ³ذ°ذ»ذ°ذ؛ر‚ذ¸ذ؛ذ¸ ذ² ذ¾ذ؛ر€ذ°ذ¸ذ½ذ½ذ¾ذ¼ ذ¼ذ¸ر€ذµ.</InsuranceBroker9.baseDesc>
+  <!-- EN: insurance broker -->
+  <InsuranceBroker9.title>رپر‚ر€ذ°ر…ذ¾ذ²ذ¾ذ¹ ذ±ر€ذ¾ذ؛ذµر€</InsuranceBroker9.title>
+  <!-- EN: broker -->
+  <InsuranceBroker9.titleShort>ذ±ر€ذ¾ذ؛ذµر€</InsuranceBroker9.titleShort>
+  
+  <!-- EN: When [PAWN_nameDef] was offered [PAWN_possessive] yearly salary in order to test a new implant, [PAWN_pronoun] jumped at the chance. Ever since then, [PAWN_nameDef] has been looking for a way to get it removed. -->
+  <LazyWorker78.baseDesc>{PAWN_nameDef} رپ ر€ذ°ذ´ذ¾رپر‚رŒرژ {PAWN_gender ? رƒر…ذ²ذ°ر‚ذ¸ذ»رپرڈ : رƒر…ذ²ذ°ر‚ذ¸ذ»ذ°رپرŒ} ذ·ذ° ذ²ذ¾ذ·ذ¼ذ¾ذ¶ذ½ذ¾رپر‚رŒ ذ؟ذ¾ذ»رƒر‡ذ°ر‚رŒ ذ³ذ¾ذ´ذ¾ذ²ذ¾ذµ ذ¶ذ°ذ»ذ¾ذ²ذ°ذ½رŒذµ ذ² ذ¾ذ±ذ¼ذµذ½ ذ½ذ° ر‚ذµرپر‚ذ¸ر€ذ¾ذ²ذ°ذ½ذ¸ذµ ذ½ذ¾ذ²ذ¾ذ³ذ¾ ذ¸ذ¼ذ؟ذ»ذ°ذ½ر‚ذ°. C ر‚ذµر… ذ؟ذ¾ر€ {PAWN_pronoun} ذ¸ر‰ذµر‚ ذ»رژذ±ذ¾ذ¹ رپذ؟ذ¾رپذ¾ذ± ذ¸ذ·ذ±ذ°ذ²ذ¸ر‚رŒرپرڈ ذ¾ر‚ ذ½ذµذ³ذ¾.</LazyWorker78.baseDesc>
+  <!-- EN: lazy worker -->
+  <LazyWorker78.title>ذ»ذµذ½ذ¸ذ²ر‹ذ¹ ر€ذ°ذ±ذ¾ر‚ذ½ذ¸ذ؛</LazyWorker78.title>
+  <LazyWorker78.titleFemale>ذ»ذµذ½ذ¸ذ²ذ°رڈ ر€ذ°ذ±ذ¾ر‚ذ½ذ¸ر†ذ°</LazyWorker78.titleFemale>
+  <!-- EN: lazy worker -->
+  <LazyWorker78.titleShort>ذ»ذµذ½ر‚رڈذ¹</LazyWorker78.titleShort>
+  <LazyWorker78.titleShortFemale>ذ»ذµذ½ر‚رڈذ¹ذ؛ذ°</LazyWorker78.titleShortFemale>
+  
+</LanguageData>
