@@ -1,0 +1,33 @@
+<LanguageData>
+  
+  
+  <Boomrat.label>ﺭﺄﻔﻟﺍ ﻡﻮﺑ</Boomrat.label>
+  <Boomrat.labelPlural>ﻲﺳﺮﻴﻜﻣﻮﺑ</Boomrat.labelPlural>
+  <Boomrat.lifeStages.0.label>ﺭﺄﻔﻟﺍ ﻡﻮﺑ</Boomrat.lifeStages.0.label>
+  <Boomrat.lifeStages.1.label>ﺔﻣﺰﻘﺗ ﺔﺑﺎﺷ</Boomrat.lifeStages.1.label>
+  
+  
+  <Iguana.label>ﺎﻧﺍﻮﺟﻹﺍ</Iguana.label>
+  <Iguana.labelPlural>ﺓﺍﺭﺎﺑﺎﻌﻟﺍ</Iguana.labelPlural>
+  <Iguana.lifeStages.0.label>ﺎﻧﺍﻮﺠﻳﻹﺍ ﺮﻴﻐﺻ</Iguana.lifeStages.0.label>
+  <Iguana.lifeStages.1.label>ﺏﺎﺸﻟﺍ ﺮﻳﺮﻗﻹﺍ</Iguana.lifeStages.1.label>
+  
+  
+  <Raccoon.label>.ﻥﻮﻛﺍﺮﻟﺍ</Raccoon.label>
+  <Raccoon.labelPlural>ﻥﻮﻛﺍﺮﻟﺍ</Raccoon.labelPlural>
+  <Raccoon.lifeStages.0.label>ﻥﻮﻛﺍﺮﻟﺍ ﻭﺮﺟ</Raccoon.lifeStages.0.label>
+  <Raccoon.lifeStages.1.label>ﻥﻮﻛﺍﺮﻟﺍ ﺮﻴﻐﺻ</Raccoon.lifeStages.1.label>
+  
+  
+  <Rat.label>ﺭﺄﻓ</Rat.label>
+  <Rat.labelPlural>ﻥﺍﺫﺮﺠﻟﺍ</Rat.labelPlural>
+  <Rat.lifeStages.0.label>ﺮﻴﻐﺻ ﺫﺮﺟ</Rat.lifeStages.0.label>
+  <Rat.lifeStages.1.label>ﺮﻴﻐﺻ ﺭﺄﻓ</Rat.lifeStages.1.label>
+  
+  
+  <Squirrel.label>ﺏﺎﺠﻨﺴﻟﺍ</Squirrel.label>
+  <Squirrel.labelPlural>ﺏﺎﺠﻨﺴﻟﺍ</Squirrel.labelPlural>
+  <Squirrel.lifeStages.0.label>ﺏﺎﺠﻨﺴﻟﺍ</Squirrel.lifeStages.0.label>
+  <Squirrel.lifeStages.1.label>ﺏﺎﺷ ﺏﺎﺠﻨﺳ</Squirrel.lifeStages.1.label>
+  
+</LanguageData>
