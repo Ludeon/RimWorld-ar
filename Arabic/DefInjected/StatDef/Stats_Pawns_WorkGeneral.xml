@@ -1,0 +1,112 @@
+<LanguageData>
+  
+  
+  <AnimalGatherSpeed.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ ﺔﻋﺮﺳ</AnimalGatherSpeed.label>
+  
+  <AnimalGatherSpeed.description>ﻖﻳﺮﻃ ﻦﻋ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺩﺭﺍﻮﻤﻟﺍ ﻊﻤﺟ ﻊﻳﺮﺴﺗ
+.ﻯﺮﺧﺃ ﻕﺮﻃﻭ ﺩﺎﺼﺤﻟﺍﻭ ﺐﻠﺤﻟﺍ</AnimalGatherSpeed.description>
+  
+  
+  <AnimalGatherYield.label>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻣ ﻞﻤﻋ ﺮﻴﺛﺄﺗ</AnimalGatherYield.label>
+  
+  <AnimalGatherYield.description>ﺎﻬﺤﺴﻤﺑ ﺎﻫﺅﺎﻨﺘﻗﺍ ﺺﺨﺸﻠﻟ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﺔﺒﺴﻧ
+.ﻯﺮﺧﺃ ﺔﻘﻳﺮﻄﺑ ﺎﻬﻴﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻭﺃ ﺎﻬﺼﻗ ﻭﺃ
+.ﺩﺭﺍﻮﻤﻟﺍ ﻥﺍﺪﻘﻓ ﻝﺎﻤﺘﺣﺍ ﻦﻣ ﻞﻠﻘﺗ ﺔﻴﻟﺎﻋ ﺔﺒﺴﻧ</AnimalGatherYield.description>
+  
+  
+  <CleaningSpeed.label>ﻒﻴﻈﻨﺘﻟﺍ ﺔﻋﺮﺳ ﻞﻣﺎﻌﻣ</CleaningSpeed.label>
+  
+  <CleaningSpeed.description>ﻰﻠﻋ ﺥﺎﺳﻭﻸﻟ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﻒﻴﻈﻨﺗ ﺔﻋﺮﺳ ﻞﻣﺎﻌﻣ
+.ﺢﻄﺳﻷﺍ</CleaningSpeed.description>
+  
+  
+  <ConstructionSpeed.label>ﺀﺎﻨﺒﻟﺍ ﺔﻋﺮﺳ</ConstructionSpeed.label>
+  
+  <ConstructionSpeed.description>.ﺔﻴﺼﺨﺸﻠﻟ ﻲﻧﺎﺒﻤﻟﺍ ﺡﻼﺻﺇ ﻭ ﺀﺎﻨﺑ ﺔﻋﺮﺳ</ConstructionSpeed.description>
+  
+  
+  <ConstructSuccessChance.label>ﺀﺎﻨﺒﻟﺍ ﺡﺎﺠﻧ ﺔﺻﺮﻓ</ConstructSuccessChance.label>
+  
+  <ConstructSuccessChance.description>ﺍﺫﺇﻭ ،ﻰﻨﺒﻤﻟﺍ ﺀﺎﻨﺑ ﻲﻓ ﺔﻴﺼﺨﺸﻟﺍ ﺡﺎﺠﻧ ﻝﺎﻤﺘﺣﺍ
+.ﺎﺜﺒﻋ ﺩﺭﺍﻮﻤﻟﺍ ﺾﻌﺑﻭ ﺖﻗﻮﻟﺍ ﺔﻋﺎﺿﺇ ﻢﺘﻴﺴﻓ ﺖﻠﺸﻓ</ConstructSuccessChance.description>
+  
+  
+  <DeepDrillingSpeed.label>ﺮﻔﺤﻟﺍ ﺔﻋﺮﺳ</DeepDrillingSpeed.label>
+  
+  <DeepDrillingSpeed.description>ﺩﺭﺍﻮﻤﻟﺍ ﺝﺍﺮﺨﺘﺳﻻ ﺮﻔﺤﻟﺍ ﺓﺪﺣﻮﻟ ﺔﻴﺼﺨﺸﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﺓﺀﺎﻔﻛ
+ﺔﻤﻴﻘﻟﺍ</DeepDrillingSpeed.description>
+  
+  
+  <DrugHarvestYield.label>ﺔﻋﻭﺭﺰﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻲﻓ ﺕﺍﺭﺪﺨﻤﻟﺍ ﺝﺎﺘﻧﺇ ﺓﺩﺎﻳﺯ ﺮﻴﺛﺄﺗ</DrugHarvestYield.label>
+  
+  <DrugHarvestYield.description>ﺺﺨﺸﻟﺍ ﻪﻴﻠﻋ ﻞﺼﺤﻳ ﻱﺬﻟﺍ ﺓﺭﺪﺨﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻝﻮﺼﺤﻣ
+.ﻉﻭﺭﺰﻤﻟﺍ ﻝﻮﺼﺤﻤﻟﺍ ﺩﺎﺼﺣ ﺪﻨﻋ
+ﺔﺻﺮﻓ ﺕﺩﺍﺯ ،ﻞﻗﺃ ﻢﻗﺮﻟﺍ ﺍﺬﻫ ﻥﺎﻛ ﺎﻤﻠﻛ
+ﺔﻤﻴﻗ .ﻩﺩﺎﺼﺤﺑ ﻡﺎﻗ ﻱﺬﻟﺍ ﻝﻮﺼﺤﻤﻠﻟ ﺺﺨﺸﻟﺍ ﻥﺍﺪﻘﻓ
+.ﺕﺎﺒﻧ ﻞﻛ ﻦﻣ ﻝﻮﺼﺤﻤﻟﺍ ﻦﻣ ﺪﻳﺰﺗ ﺔﻴﻟﺎﻋ</DrugHarvestYield.description>
+  
+  
+  <FixBrokenDownBuildingSuccessChance.label>ﺔﺤﺟﺎﻧ ﺡﻼﺻﺇ ﺔﺻﺮﻓ</FixBrokenDownBuildingSuccessChance.label>
+  
+  <FixBrokenDownBuildingSuccessChance.description>ﺔﻴﻟﻵﺍ ﺡﻼﺻﺇ ﻦﻣ ﺔﻴﺼﺨﺸﻟﺍ ﻦﻜﻤﺘﻳ ﻥﺃ ﺔﻴﻟﺎﻤﺘﺣﺍ
+ﻲﻓ ﻥﻮﻜﻣ ﺩﻮﺟﻭ ﻊﻣ ﺓﺭﻮﺴﻜﻤﻟﺍ ﺯﺎﻬﺠﻟﺍ ﻭﺃ
+.ﻪﻳﺪﻳ
+
+.ﺩﺭﺍﻮﻤﻟﺍ ﺾﻌﺑﻭ ﺖﻗﻮﻟﺍ ﻥﺍﺪﻘﻓ ﻰﻟﺇ ﻱﺩﺆﻴﺳ ﻞﺸﻓ
+
+ﺲﻔﻧ ﺲﻴﻟ ﻞﻠﺨﻟﺍ ﺡﻼﺻﺇ ﻥﺃ ﺔﻈﺣﻼﻣ ﻰﺟﺮﻳ
+.ﺭﺍﺮﺿﻷﺍ ﺡﻼﺻﺇ</FixBrokenDownBuildingSuccessChance.description>
+  
+  
+  <HuntingStealth.label>ﺪﻴﺼﻟﺍ ﻲﻓ ﻲﻔﺨﺘﻟﺍ</HuntingStealth.label>
+  
+  <HuntingStealth.description>ﻡﻮﺠﻬﻟ ﺽﺮﻌﺘﻟﺍ ﺔﻴﻟﺎﻤﺘﺣﺍ ﻦﻣ ﺮﺷﺆﻤﻟﺍ ﺍﺬﻫ ﻞﻠﻘﻳ
+.ﺪﻴﺼﻟﺍ ﻲﻓ ﻑﺪﻬﺘﺴﻤﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ ﻦﻣ
+.ﻡﻮﺠﻬﻟﺍ ﺔﻴﻟﺎﻤﺘﺣﺍ ﻞﻴﻠﻘﺗ ﻡﺪﻋ ﻲﻨﻌﻳ 0%
+.ﻢﺟﺎﻬﻳ ﻦﻟ ﻥﺍﻮﻴﺤﻟﺍ ﻥﺃ ﻲﻨﻌﻳ 100%</HuntingStealth.description>
+  
+  
+  <MiningSpeed.label>ﻝﺎﺒﺠﻟﺍ ﻲﻓ ﻞﻤﻌﻟﺍ ﺔﻋﺮﺳ</MiningSpeed.label>
+  
+  <MiningSpeed.description>.ﻝﺎﺒﺠﻟﺍ ﺭﻮﺨﺻ ﻦﻳﻮﻜﺗ ﻲﻓ ﺐﻋﻼﻟﺍ ﺔﻋﺮﺳ ﻒﻋﺎﻀﻣ</MiningSpeed.description>
+  
+  
+  <MiningYield.label>ﺝﺍﺮﺨﺘﺳﻻﺍ ﺔﻴﻟﺎﻌﻓ</MiningYield.label>
+  
+  <MiningYield.description>ﺎﻬﺟﺍﺮﺨﺘﺳﺍ ﺺﺨﺸﻠﻟ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺔﻤﻴﻘﻟﺍ ﺩﺭﺍﻮﻤﻟﺍ ﺔﺒﺴﻧ
+.ﺭﺎﺑﻵﺍ ﺮﻔﺣ ﺕﺍﺪﻌﻣ ﻭﺃ ﺔﻗﺮﻄﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ
+ﺔﻏﺭﺎﻔﻟﺍ ﺭﻮﺨﺼﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ ﺓﺀﺎﻔﻛ ﻰﻠﻋ ﺮﺛﺆﻳ ﻻ
+.ﻖﻤﻌﻟﺍ ﻲﻓ ﺮﻔﺤﻟﺍ ﺀﺎﻨﺛﺃ</MiningYield.description>
+  
+  
+  <PlantHarvestYield.label>ﺩﺎﺼﺤﻟﺍ ﺓﺀﺎﻔﻛ</PlantHarvestYield.label>
+  
+  <PlantHarvestYield.description>ﺩﺎﺼﺣ ﺪﻨﻋ ﺔﻴﺼﺨﺸﻟﺍ ﻪﻴﻠﻋ ﻞﺼﺤﻳ ﻱﺬﻟﺍ ﻝﻮﺼﺤﻤﻟﺍ
+، ﻞﻗﺃ ﺔﻤﻴﻘﻟﺍ ﺍﺬﻫ ﻥﺎﻛ ﺎﻤﻠﻛ .ﻝﻮﺼﺤﻤﻟﺍ
+.ﻰﻨﺠﻤﻟﺍ ﻝﻮﺼﺤﻤﻠﻟ ﺔﻴﺼﺨﺸﻟﺍ ﻥﺍﺪﻘﻓ ﺔﻴﻟﺎﻤﺘﺣﺍ ﺕﺩﺍﺯ</PlantHarvestYield.description>
+  
+  
+  <PlantWorkSpeed.label>ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻣ ﻞﻤﻌﻟﺍ ﺔﻋﺮﺳ</PlantWorkSpeed.label>
+  
+  <PlantWorkSpeed.description>.ﺔﻴﺼﺨﺸﻟﺍ ﻞﺒﻗ ﻦﻣ ﻞﻴﺻﺎﺤﻤﻟﺍ ﻊﻤﺟﻭ ﺔﻋﺍﺭﺯ ﺔﻋﺮﺳ</PlantWorkSpeed.description>
+  
+  
+  <ResearchSpeed.label>ﺚﺤﺒﻟﺍ ﺔﻋﺮﺳ</ResearchSpeed.label>
+  
+  <ResearchSpeed.description>ﻦﻣ ﺺﺤﻔﻟﺍ ﺕﺍﻭﺩﺃ ﻡﺍﺪﺨﺘﺳﺍﻭ ﺕﺎﻘﻴﻘﺤﺘﻟﺍ ﺬﻴﻔﻨﺗ ﺔﻋﺮﺳ
+.ﺔﻴﺼﺨﺸﻟﺍ ﻞﺒﻗ</ResearchSpeed.description>
+  
+  
+  <SmoothingSpeed.label>ﺔﻟﺩﺎﻌﻤﻟﺍ ﺔﻋﺮﺳ</SmoothingSpeed.label>
+  
+  <SmoothingSpeed.description>ﻥﺍﺭﺪﺠﻟﺍﻭ ﺕﺎﻴﺿﺭﻸﻟ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ﺔﻳﻮﺴﺗ ﺔﻋﺮﺳ ﻞﻣﺎﻌﻣ
+.ﺔﻳﺮﺠﺤﻟﺍ</SmoothingSpeed.description>
+  
+  
+  <WorkSpeedGlobal.label>ﻡﺎﻌﻟﺍ ﻞﻤﻌﻟﺍ ﻝﺪﻌﻣ</WorkSpeedGlobal.label>
+  
+  <WorkSpeedGlobal.description>ﺔﻤﻬﻣ ﻱﻷ ﺔﻴﺼﺨﺸﻟﺍ ﺀﺍﺩﺃ ﺔﻋﺮﺳ ﻞﻣﺎﻌﻣ</WorkSpeedGlobal.description>
+  
+  <WorkSpeedGlobal.parts.2.label>ﺖﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻦﻣ ﺔﻴﺟﺎﺘﻧﻹﺍ ﺓﺩﺎﻳﺯ</WorkSpeedGlobal.parts.2.label>
+  
+</LanguageData>
