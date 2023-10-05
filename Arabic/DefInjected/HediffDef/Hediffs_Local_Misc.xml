@@ -1,0 +1,83 @@
+<LanguageData>
+  
+  
+  <ChemicalDamageModerate.label>ﻲﺋﺎﻴﻤﻴﻜﻟﺍ ﻒﻠﺘﻟﺍ</ChemicalDamageModerate.label>
+  
+  <ChemicalDamageModerate.description>.ﺎﻳﻼﺨﻟﺍ ﻯﻮﺘﺴﻣ ﻰﻠﻋ ﻲﺋﺎﻴﻤﻴﻛ ﻒﻠﺗ</ChemicalDamageModerate.description>
+  
+  
+  <ChemicalDamageSevere.label>ﻲﺋﺎﻴﻤﻴﻜﻟﺍ ﺭﺮﻀﻟﺍ</ChemicalDamageSevere.label>
+  
+  <ChemicalDamageSevere.description>.ﺎﻳﻼﺨﻟﺍ ﻯﻮﺘﺴﻣ ﻰﻠﻋ ﻲﺋﺎﻴﻤﻴﻛ ﻒﻠﺗ</ChemicalDamageSevere.description>
+  
+  
+  <Cirrhosis.label>ﻱﺪﺒﻜﻟﺍ ﻒﻴﻠﺘﻟﺍ</Cirrhosis.label>
+  
+  <Cirrhosis.description>ﻁﺮﻔﻣ ﻙﻼﻬﺘﺳﺍ ﻦﻋ ﺞﺗﺎﻨﻟﺍ ﺪﺒﻜﻟﺍ ﺭﻮﻫﺪﺗ ﺽﺮﻣ
+.ﻝﻮﺤﻜﻠﻟ</Cirrhosis.description>
+  
+  
+  <ResurrectionPsychosis.label>ﺀﺎﻴﺣﻹﺍ ﺏﺍﺮﻄﺿﺍ</ResurrectionPsychosis.label>
+  
+  <ResurrectionPsychosis.description>ﺩﺎﺴﺟﺃ ﻚﻜﻔﺗ ﻦﻋ ﺔﻤﺟﺎﻧ ﺔﻴﻏﺎﻃ ﺮﻜﻓ ﻁﺎﻤﻧﺃ
+ﻲﻋﻮﻟﺍ ﺪﺴﻔﺗﻭ ﻖﺸﻨﻤﻟﺍ ﻥﻮﻨﺠﻟﺍ ﺭﻮﻄﺘﺗ .ﺔﻴﺤﻤﻟﺍ ﻦﻴﻴﻟﻵﺍ
+.ﺕﻮﻤﻟﺍ ﻰﺘﺣ
+ﻦﻴﻴﻟﻵﺍ ﻞﻤﻋ ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﺓﺎﻴﺤﻠﻟ ﺔﺜﻋﺎﺒﻟﺍ ﺱﺎﻨﻟﺍ
+ﻦﻜﻤﻳ .ﻱﻮﻠﺨﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ ﻰﻠﻋ ﻢﺴﺠﻟﺍ ﺔﻔﻴﻇﻭ ﺓﺩﺎﻌﺘﺳﻻ
+،ﺖﻗﻭ ﻱﺃ ﻲﻓ ﻖﻓﺍﻮﺘﻟﺍ ﺍﻭﺪﻘﻔﻳ ﻥﺃ ﻦﻴﻴﻟﻶﻟ
+.ﻱﺰﻛﺮﻤﻟﺍ ﻲﺒﺼﻌﻟﺍ ﺯﺎﻬﺠﻟﺍ ﺮﻴﻣﺪﺗ ﻰﻟﺇ ﻱﺩﺆﻳ ﺎﻤﻣ
+،ﻦﻴﻴﻟﺁ ﻥﻭﺪﺑ ﺔﺜﺠﻟﺍ ﺀﺎﻘﺑ ﺓﺮﺘﻓ ﺖﻟﺎﻃ ﺎﻤﻠﻛ
+ﻞﻜﺸﺑ ﻦﻣﺍﺰﺘﻟﺍ ﻥﺍﺪﻘﻓ ﺹﺮﻓ ﺖﻌﻔﺗﺭﺍﻭ ﻢﻬﻠﻤﻋ ﺩﺍﺯ
+.ﺊﺟﺎﻔﻣ</ResurrectionPsychosis.description>
+  
+  <ResurrectionPsychosis.descriptionShort>ﺔﻴﺒﻧﺎﺟ ﺭﺎﺛﺁ ﻦﻋ ﺔﺠﺗﺎﻧ ﺔﻳﻮﺿﻮﻓ ﺮﻴﻜﻔﺗ ﺝﺫﺎﻤﻧ
+ﺭﻮﻫﺪﺗ ﻰﻟﺇ ﻱﺩﺆﻳﻭ ﺭﻮﻄﺘﻳ ﺪﻳﺪﺠﺘﻟﺍ ﻥﺎﻫﺬﻟﺍ .ﺀﺎﻴﺣﻺﻟ
+.ﺕﻮﻤﻟﺍ ﻰﺘﺣ ﻲﻋﻮﻟﺍ</ResurrectionPsychosis.descriptionShort>
+  
+  <ResurrectionPsychosis.stages.early-0.label>ﺔﻳﺍﺪﺒﻟﺍ</ResurrectionPsychosis.stages.early-0.label>
+  
+  <ResurrectionPsychosis.stages.early-1.label>ﺔﻳﺍﺪﺒﻟﺍ</ResurrectionPsychosis.stages.early-1.label>
+  
+  <ResurrectionPsychosis.stages.moderate.label>ﻞﻘﺜﻟﺍ ﺔﻄﺳﻮﺘﻣ</ResurrectionPsychosis.stages.moderate.label>
+  
+  <ResurrectionPsychosis.stages.advanced.label>ﺔﻣﺪﻘﺘﻣ</ResurrectionPsychosis.stages.advanced.label>
+  
+  <ResurrectionPsychosis.stages.severe.label>ﺩﺎﺟ</ResurrectionPsychosis.stages.severe.label>
+  
+  <ResurrectionPsychosis.stages.total.label>ﻡﺎﻌﻟﺍ</ResurrectionPsychosis.stages.total.label>
+  
+  <ResurrectionPsychosis.stages.catatonic.label>ﻝﻮﻠﺸﻣ</ResurrectionPsychosis.stages.catatonic.label>
+  
+  
+  <Scaria.label>ﺯﻮﻳﺮﻏﺃ</Scaria.label>
+  
+  <Scaria.description>.ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺭﺮﺒﻤﻟﺍ ﺮﻴﻏ ﻒﻨﻌﻟﺍ ﺕﺎﺑﻮﻧ ﺐﺒﺴﻳ ﺀﺍﺩ
+ﻦﻣ "ﺯﻮﻳﺮﻏﻻﺍ" ـﺑ ﺏﺎﺼﻤﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ ﺝﻼﻋ ﻦﻜﻤﻳ
+.ﻩﺮﻳﺪﺨﺗ ﺐﺠﻳ ﻪﻨﻜﻟ ﺔﺻﺎﺧ ﺔﻴﺣﺍﺮﺟ ﺔﻴﻠﻤﻋ ﻝﻼﺧ
+ﻥﺍﻮﻴﺤﻟﺍ ﺕﻮﻤﻴﺴﻓ ،ﺽﺮﻤﻟﺍ ﺝﻼﻋ ﻢﺘﻳ ﻢﻟ ﺍﺫﺇ
+ﻢﻴﻤﺴﺗ ﻢﺘﻳ .ﺔﺑﺎﺻﻹﺍ ﻦﻣ ﻡﺎﻳﺃ ﺔﺴﻤﺧ ﺪﻌﺑ
+ﻻ ﺍﺬﻟ ،ﺪﻠﺠﻟﺍ ﻦﻔﻌﺗﻭ ﺔﺑﺎﺼﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﻢﺤﻠﻟﺍ
+ﻝﻮﺼﺤﻠﻟ "ﺯﻮﻳﺮﻏﻻﺍ" ﻦﻣ ﺔﺘﻴﻤﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﺔﺋﺰﺠﺗ ﻦﻜﻤﻳ
+.ﺪﻠﺟﻭ ﻢﺤﻟ ﻰﻠﻋ</Scaria.description>
+  
+  <Scaria.descriptionShort>ﻯﺪﻟ ﺓﺭﺮﺒﻤﻟﺍ ﺮﻴﻏ ﺔﻴﻧﺍﻭﺪﻌﻟﺍ ﺕﺎﺑﻮﻧ ﺐﺒﺴﻳ ﺽﺮﻣ
+، ﺽﺮﻤﻟﺍ ﺝﻼﻋ ﻢﺘﻳ ﻢﻟ ﺍﺫﺇ .ﺕﺎﻧﺍﻮﻴﺤﻟﺍ
+.ﺔﺑﺎﺻﻹﺍ ﺪﻌﺑ ﻡﺎﻳﺃ ﺔﺴﻤﺧ ﻝﻼﺧ ﻥﺍﻮﻴﺤﻟﺍ ﺕﻮﻤﻴﺳ</Scaria.descriptionShort>
+  
+  
+  <Sterilized.label>ﻢﻴﻘﻌﺗ</Sterilized.label>
+  
+  <Sterilized.description>ﺍﺪﺑﺃ ﻞﻤﻌﻳ ﻦﻟ ﻦﺋﺎﻜﻟﺍ ﺍﺬﻬﻟ ﺮﺛﺎﻜﺘﻟﺍ ﻡﺎﻈﻧ
+.ﻯﺮﺧﺃ ﺓﺮﻣ</Sterilized.description>
+  
+  
+  <TraumaSavant.label>ﺔﺑﺎﺻﻹﺍ ﺪﻌﺑ ﺔﺒﻫﻮﻤﻟﺍ</TraumaSavant.label>
+  
+  <TraumaSavant.description>.ﺱﺃﺮﻟﺍ ﻲﻓ ﺔﺑﺮﺿ ﻦﻋ ﺔﺠﺗﺎﻧ ﺓﺪﻳﺮﻓ ﺓﺭﺪﻗ
+ﺔﻠﻫﺬﻣ ﺕﺍﺭﺪﻗ ﺭﻮﻄﻳﻭ ﺭﺍﺮﺿﻷﺍ ﻊﻣ ﻍﺎﻣﺪﻟﺍ ﻒﻴﻜﺘﻳ
+ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ ﺪﻘﻔﻳ ﻪﻨﻜﻟ ،ﺕﻻﺎﺠﻤﻟﺍ ﺾﻌﺑ ﻲﻓ
+.ﻡﻼﻜﻟﺍ</TraumaSavant.description>
+  
+  <TraumaSavant.labelNoun>ﺔﺑﺎﺻﻹﺍ</TraumaSavant.labelNoun>
+  
+</LanguageData>
