@@ -1,0 +1,59 @@
+<LanguageData>
+  
+  
+  <Grenadier_Destructive.label>ﺕﺎﻓﻭﺬﻘﻣ</Grenadier_Destructive.label>
+  <Grenadier_Destructive.labelPlural>ﻦﻳﺮﺠﻔﺘﻤﻟﺍ ﺩﻮﻨﺠﻟﺍ</Grenadier_Destructive.labelPlural>
+  
+  
+  <Grenadier_EMP.label>(ﻱﺇ ﻡﺇ) ﺔﻴﺴﻴﻃﺎﻨﻐﻣﻭﺮﻬﻜﻟﺍ ﺔﺻﺎﻨﻘﻟﺍ</Grenadier_EMP.label>
+  <Grenadier_EMP.labelPlural>ﺪﻌﺑ ﻦﻋ ﺔﻴﻛﺬﻟﺍ ﻞﺑﺎﻨﻘﻟﺎﺑ ﻥﻮﺼﺼﺨﺘﻤﻟﺍ ﻥﻮﺻﺎﻨﻘﻟﺍ</Grenadier_EMP.labelPlural>
+  
+  
+  <Grenadier_Smoke.label>ﻥﺎﺧﺩ ﺹﺎﻨﻗ</Grenadier_Smoke.label>
+  <Grenadier_Smoke.labelPlural>ﻥﺎﺧﺪﻟﺍ ﻮﺻﺎﻨﻗ</Grenadier_Smoke.labelPlural>
+  
+  
+  <Mercenary_Elite.label>.ﺰﻴﻤﺘﻣ ﺔﻗﺰﺗﺮﻣ</Mercenary_Elite.label>
+  
+  <Mercenary_Elite.labelPlural>.ﺔﺒﺨﻨﻟﺍ ﺔﻗﺰﺗﺮﻤﻟﺍ</Mercenary_Elite.labelPlural>
+  
+  
+  <Mercenary_Elite_Acidifier.label>ﻥﻭﺰﻴﻤﺘﻤﻟﺍ ﺔﻗﺰﺗﺮﻤﻟﺍ</Mercenary_Elite_Acidifier.label>
+  
+  <Mercenary_Elite_Acidifier.labelPlural>ﺔﺒﺨﻨﻟﺍ ﺔﻗﺰﺗﺮﻤﻟﺍ</Mercenary_Elite_Acidifier.labelPlural>
+  
+  
+  <Mercenary_Gunner.label>ﺹﺎﻨﻘﻟﺍ ﺔﻗﺰﺗﺮﻣ</Mercenary_Gunner.label>
+  <Mercenary_Gunner.labelPlural>ﻥﻭﺯﺭﺎﺒﻤﻟﺍ ﺔﻗﺰﺗﺮﻤﻟﺍ</Mercenary_Gunner.labelPlural>
+  
+  
+  <Mercenary_Gunner_Acidifier.label>ﻲﻣﺍﺮﻟﺍ ﺔﻗﺰﺗﺮﻣ</Mercenary_Gunner_Acidifier.label>
+  <Mercenary_Gunner_Acidifier.labelPlural>ﻥﻮﺻﺎﻨﻘﻟﺍ ﺔﻗﺰﺗﺮﻤﻟﺍ</Mercenary_Gunner_Acidifier.labelPlural>
+  
+  
+  <Mercenary_Heavy.label>.ﺔﻠﻴﻘﺛ ﺔﺤﻠﺳﺄﺑ ﺰﻬﺠﻣ ﺔﻗﺰﺗﺮﻣ</Mercenary_Heavy.label>
+  
+  <Mercenary_Heavy.labelPlural>ﻞﻘﺜﺑ ﻦﻴﺤﻠﺴﻤﻟﺍ ﺔﻗﺰﺗﺮﻤﻟﺍ</Mercenary_Heavy.labelPlural>
+  
+  
+  <Mercenary_Slasher.label>ﻖﻳﺮﻄﻟﺍ ﻊﻃﺎﻗ-ﺔﻗﺰﺗﺮﻤﻟﺍ</Mercenary_Slasher.label>
+  <Mercenary_Slasher.labelPlural>ﻥﻮﻠﻳﺰﻤﻟﺍ ﺔﻗﺰﺗﺮﻤﻟﺍ</Mercenary_Slasher.labelPlural>
+  
+  
+  <Mercenary_Slasher_Acidifier.label>ﻥﺎﻌﺠﺸﻟﺍ ﺪﺋﺎﻗ ﺔﻗﺰﺗﺮﻣ</Mercenary_Slasher_Acidifier.label>
+  <Mercenary_Slasher_Acidifier.labelPlural>ﺔﻔﻴﻨﻋ ﺓﻮﻗ - ﺔﻗﺰﺗﺮﻤﻟﺍ</Mercenary_Slasher_Acidifier.labelPlural>
+  
+  
+  <Mercenary_Sniper.label>ﺹﺎﻨﻘﻟﺍ - ﺔﻗﺰﺗﺮﻤﻟﺍ</Mercenary_Sniper.label>
+  <Mercenary_Sniper.labelPlural>ﺔﺻﺎﻨﻗ ﺔﻗﺰﺗﺮﻣ</Mercenary_Sniper.labelPlural>
+  
+  
+  <Mercenary_Sniper_Acidifier.label>ﺹﺎﻨﻗ ﺔﻗﺰﺗﺮﻣ</Mercenary_Sniper_Acidifier.label>
+  <Mercenary_Sniper_Acidifier.labelPlural>ﻥﻭﺪﻗﺎﻌﺘﻤﻟﺍ ﻥﻮﺻﺎﻨﻘﻟﺍ</Mercenary_Sniper_Acidifier.labelPlural>
+  
+  
+  <PirateBoss.label>ﺔﺑﺎﺼﻌﻟﺍ ﺪﺋﺎﻗ</PirateBoss.label>
+  
+  <PirateBoss.labelPlural>ﺓﺩﺎﻘﻟﺍ</PirateBoss.labelPlural>
+  
+</LanguageData>
