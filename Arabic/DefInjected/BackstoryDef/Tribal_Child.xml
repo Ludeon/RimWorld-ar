@@ -1,0 +1,126 @@
+ï»؟<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents exposed [PAWN_objective] to the elements. Somehow, [PAWN_pronoun] survived. -->
+  <AbandonedChild23.baseDesc>{PAWN_nameDef} {PAWN_gender ? ر€ذ¾ذ´ذ¸ذ»رپرڈ : ر€ذ¾ذ´ذ¸ذ»ذ°رپرŒ} رپ ذ¾ر‡ذµذ½رŒ رپذ»ذ°ذ±ر‹ذ¼ ذ·ذ´ذ¾ر€ذ¾ذ²رŒذµذ¼. ذ’ {PAWN_possessive} ذ؟ذ»ذµذ¼ذµذ½ذ¸ ر€ذµرˆذ¸ذ»ذ¸, ر‡ر‚ذ¾ {PAWN_pronoun} ذ±رƒذ´ذµر‚ ذ¾ذ±رƒذ·ذ¾ذ¹, ذ¸ ذ±ر€ذ¾رپذ¸ذ»ذ¸ ذ½ذ° ذ؟ر€ذ¾ذ¸ذ·ذ²ذ¾ذ» رپرƒذ´رŒذ±ر‹. ذ‌ذ¾ {PAWN_nameDef} {PAWN_gender ? ذ²ر‹ذ¶ذ¸ذ» : ذ²ر‹ذ¶ذ¸ذ»ذ°}.</AbandonedChild23.baseDesc>
+  <!-- EN: abandoned child -->
+  <AbandonedChild23.title>ذ±ر€ذ¾رˆذµذ½ذ½ر‹ذ¹ ذ¼ذ°ذ»رŒر‡ذ¸ذ؛</AbandonedChild23.title>
+  <AbandonedChild23.titleFemale>ذ±ر€ذ¾رˆذµذ½ذ½ذ°رڈ ذ´ذµذ²ذ¾ر‡ذ؛ذ°</AbandonedChild23.titleFemale>
+  <!-- EN: abandoned -->
+  <AbandonedChild23.titleShort>ذ±ر€ذ¾رˆذµذ½ذ½ر‹ذ¹</AbandonedChild23.titleShort>
+  <AbandonedChild23.titleShortFemale>ذ±ر€ذ¾رˆذµذ½ذ½ذ°رڈ</AbandonedChild23.titleShortFemale>
+  
+  <!-- EN: Rather than socialize with the other children, [PAWN_nameDef] preferred to get lost in literature. [PAWN_pronoun] taught [PAWN_objective]self to read at an early age with books bought from passing traders. -->
+  <Bookworm19.baseDesc>ذ‍ذ±ر‰ذµذ½ذ¸رژ رپ ذ´ر€رƒذ³ذ¸ذ¼ذ¸ ذ´ذµر‚رŒذ¼ذ¸ {PAWN_nameDef} {PAWN_gender ? ذ؟ر€ذµذ´ذ؟ذ¾ر‡ذ¸ر‚ذ°ذ» : ذ؟ر€ذµذ´ذ؟ذ¾ر‡ذ¸ر‚ذ°ذ»ذ°} ذ؟ذ¾ذ³ر€رƒذ¶ذ°ر‚رŒرپرڈ ذ² ذ»ذ¸ر‚ذµر€ذ°ر‚رƒر€رƒ. {PAWN_pronoun} ذ² ر€ذ°ذ½ذ½ذµذ¼ ذ²ذ¾ذ·ر€ذ°رپر‚ذµ رپذ°ذ¼ذ¾رپر‚ذ¾رڈر‚ذµذ»رŒذ½ذ¾ {PAWN_gender ? ذ½ذ°رƒر‡ذ¸ذ»رپرڈ : ذ½ذ°رƒر‡ذ¸ذ»ذ°رپرŒ} ر‡ذ¸ر‚ذ°ر‚رŒ ذ؟ذ¾ ذ؛ذ½ذ¸ذ³ذ°ذ¼, ذ؛رƒذ؟ذ»ذµذ½ذ½ر‹ذ¼ رƒ ذ؟ر€ذ¾ر…ذ¾ذ´رڈر‰ذ¸ر… ذ¼ذ¸ذ¼ذ¾ ر‚ذ¾ر€ذ³ذ¾ذ²ر†ذµذ².</Bookworm19.baseDesc>
+  <!-- EN: bookworm -->
+  <Bookworm19.title>ذ؛ذ½ذ¸ذ¶ذ½ر‹ذ¹ ر‡ذµر€ذ²رŒ</Bookworm19.title>
+  <!-- EN: bookworm -->
+  <Bookworm19.titleShort>ذ؛ذ½ذ¸ذ¶ذ½ر‹ذ¹ ر‡ذµر€ذ²رŒ</Bookworm19.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] had a knack for art. Traders and collectors from many different societies sought to buy [PAWN_possessive] creations. -->
+  <BuddingArtist44.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ¾ذ±ذ»ذ°ذ´ذ°ذ» : ذ¾ذ±ذ»ذ°ذ´ذ°ذ»ذ°} ذ²ر‹ذ´ذ°رژر‰ذ¸ذ¼ذ¸رپرڈ ر…رƒذ´ذ¾ذ¶ذµرپر‚ذ²ذµذ½ذ½ر‹ذ¼ذ¸ رپذ؟ذ¾رپذ¾ذ±ذ½ذ¾رپر‚رڈذ¼ذ¸. ذœذ½ذ¾ذ³ذ¸ذµ ر‚ذ¾ر€ذ³ذ¾ذ²ر†ر‹ ذ¸ ذ؛ذ¾ذ»ذ»ذµذ؛ر†ذ¸ذ¾ذ½ذµر€ر‹ رپر‚ر€ذµذ¼ذ¸ذ»ذ¸رپرŒ ذ؟ر€ذ¸ذ¾ذ±ر€ذµرپر‚ذ¸ {PAWN_possessive} ر‚ذ²ذ¾ر€ذµذ½ذ¸رڈ.</BuddingArtist44.baseDesc>
+  <!-- EN: budding artist -->
+  <BuddingArtist44.title>رژذ½ر‹ذ¹ ر…رƒذ´ذ¾ذ¶ذ½ذ¸ذ؛</BuddingArtist44.title>
+  <BuddingArtist44.titleFemale>رژذ½ذ°رڈ ر…رƒذ´ذ¾ذ¶ذ½ذ¸ر†ذ°</BuddingArtist44.titleFemale>
+  <!-- EN: artist -->
+  <BuddingArtist44.titleShort>ر…رƒذ´ذ¾ذ¶ذ½ذ¸ذ؛</BuddingArtist44.titleShort>
+  <BuddingArtist44.titleShortFemale>ر…رƒذ´ذ¾ذ¶ذ½ذ¸ر†ذ°</BuddingArtist44.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] tormented other children for fun. To keep [PAWN_objective] busy, an elder assigned [PAWN_objective] to a hunting party at an early age. -->
+  <Bully70.baseDesc>ذ’ ذ´ذµر‚رپر‚ذ²ذµ {PAWN_nameDef} {PAWN_gender ? ذ»رژذ±ذ¸ذ» : ذ»رژذ±ذ¸ذ»ذ°} ذ¸ذ·ذ´ذµذ²ذ°ر‚رŒرپرڈ ذ½ذ°ذ´ ذ´ر€رƒذ³ذ¸ذ¼ذ¸ ذ´ذµر‚رŒذ¼ذ¸ ذ·ذ°ذ±ذ°ذ²ر‹ ر€ذ°ذ´ذ¸. ذ§ر‚ذ¾ذ±ر‹ ذ·ذ°ذ½رڈر‚رŒ {PAWN_gender ? ر…رƒذ»ذ¸ذ³ذ°ذ½ذ° : ر…رƒذ»ذ¸ذ³ذ°ذ½ذ؛رƒ} ر…ذ¾ر‚رŒ ر‡ذµذ¼-ر‚ذ¾ ذ؟ذ¾ذ»ذµذ·ذ½ر‹ذ¼, رپر‚ذ°ر€ذµذ¹رˆذ¸ذ½ذ° ذ½ذ°ذ·ذ½ذ°ر‡ذ¸ذ» {PAWN_possessive} ذ¾ر…ذ¾ر‚ذ½ذ¸ذ؛ذ¾ذ¼ ذ² ر€ذ°ذ½ذ½ذµذ¼ ذ²ذ¾ذ·ر€ذ°رپر‚ذµ.</Bully70.baseDesc>
+  <!-- EN: bully -->
+  <Bully70.title>ر…رƒذ»ذ¸ذ³ذ°ذ½</Bully70.title>
+  <Bully70.titleFemale>ر…رƒذ»ذ¸ذ³ذ°ذ½ذ؛ذ°</Bully70.titleFemale>
+  <!-- EN: bully -->
+  <Bully70.titleShort>ر…رƒذ»ذ¸ذ³ذ°ذ½</Bully70.titleShort>
+  <Bully70.titleShortFemale>ر…رƒذ»ذ¸ذ³ذ°ذ½ذ؛ذ°</Bully70.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a large and intricate cave complex that extended deep into a mountainside. [PAWN_pronoun] helped the adults maintain and improve the deep caves. -->
+  <CaveChild30.baseDesc>{PAWN_nameDef} {PAWN_gender ? ر€ذ¾رپ : ر€ذ¾رپذ»ذ°} ذ² ذ¾ذ³ر€ذ¾ذ¼ذ½ذ¾ذ¹ ذ¸ ذ·ذ°ذ؟رƒر‚ذ°ذ½ذ½ذ¾ذ¹ رپذ¸رپر‚ذµذ¼ذµ ذ؟ذµر‰ذµر€, ذ؟ر€ذ¾رپر‚ذ¸ر€ذ°ذ²رˆذµذ¹رپرڈ ذ´ذ°ذ»ذµذ؛ذ¾ ذ²ذ³ذ»رƒذ±رŒ ذ³ذ¾ر€. {PAWN_pronoun} {PAWN_gender ? ذ؟ذ¾ذ¼ذ¾ذ³ذ°ذ» : ذ؟ذ¾ذ¼ذ¾ذ³ذ°ذ»ذ°} ذ²ذ·ر€ذ¾رپذ»ر‹ذ¼ رپذ¾ذ´ذµر€ذ¶ذ°ر‚رŒ ذ¸ ذ¾ذ±رƒرپر‚ر€ذ°ذ¸ذ²ذ°ر‚رŒ ذ³ذ»رƒذ±ذ¸ذ½ذ½ر‹ذµ ذ؟ذµر‰ذµر€ر‹.</CaveChild30.baseDesc>
+  <!-- EN: cave child -->
+  <CaveChild30.title>ذ؟ذµر‰ذµر€ذ½ر‹ذ¹ ر€ذµذ±ر‘ذ½ذ¾ذ؛</CaveChild30.title>
+  <!-- EN: cave child -->
+  <CaveChild30.titleShort>ذ؟ذµر‰ذµر€ذ½ذ¸ذ؛</CaveChild30.titleShort>
+  <CaveChild30.titleShortFemale>ذ؟ذµر‰ذµر€ذ½ذ¸ر†ذ°</CaveChild30.titleShortFemale>
+  
+  <!-- EN: As a baby, [PAWN_nameDef] was the only survivor of a deadly spacecraft crash. A passing tribe discovered [PAWN_objective] in the wreckage and adopted [PAWN_objective]. -->
+  <CrashBaby32.baseDesc>ذ’ ذ¼ذ»ذ°ذ´ذµذ½ر‡ذµرپذ؛ذ¾ذ¼ ذ²ذ¾ذ·ر€ذ°رپر‚ذµ {PAWN_nameDef} {PAWN_gender ? ذ¾ذ؛ذ°ذ·ذ°ذ»رپرڈ ذµذ´ذ¸ذ½رپر‚ذ²ذµذ½ذ½ر‹ذ¼ ذ²ر‹ذ¶ذ¸ذ²رˆذ¸ذ¼ : ذ¾ذ؛ذ°ذ·ذ°ذ»ذ°رپرŒ ذµذ´ذ¸ذ½رپر‚ذ²ذµذ½ذ½ذ¾ذ¹ ذ²ر‹ذ¶ذ¸ذ²رˆذµذ¹} ذ؟ر€ذ¸ ذ°ذ²ذ°ر€ذ¸ذ¸ ذ؛ذ¾رپذ¼ذ¸ر‡ذµرپذ؛ذ¾ذ³ذ¾ ذ؛ذ¾ر€ذ°ذ±ذ»رڈ. ذںر€ذ¾ر…ذ¾ذ´رڈر‰ذµذµ ذ¼ذ¸ذ¼ذ¾ ذ؟ذ»ذµذ¼رڈ ذ½ذ°رˆذ»ذ¾ {PAWN_possessive} ذ² ذ¾ذ±ذ»ذ¾ذ¼ذ؛ذ°ر… ذ¸ ر€ذ°رپر‚ذ¸ذ»ذ¾ ذ؛ذ°ذ؛ {PAWN_gender ? رپذ²ذ¾ذµذ³ذ¾ : رپذ²ذ¾رژ}.</CrashBaby32.baseDesc>
+  <!-- EN: crash baby -->
+  <CrashBaby32.title>ذ²ر‹ذ¶ذ¸ذ²رˆذ¸ذ¹ ذ¼ذ°ذ»رŒر‡ذ¸ذ؛</CrashBaby32.title>
+  <CrashBaby32.titleFemale>ذ²ر‹ذ¶ذ¸ذ²رˆذ°رڈ ذ´ذµذ²ذ¾ر‡ذ؛ذ°</CrashBaby32.titleFemale>
+  <!-- EN: crashbaby -->
+  <CrashBaby32.titleShort>ذ²ر‹ذ¶ذ¸ذ²رˆذ¸ذ¹</CrashBaby32.titleShort>
+  <CrashBaby32.titleShortFemale>ذ²ر‹ذ¶ذ¸ذ²رˆذ°رڈ</CrashBaby32.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was responsible for keeping the tribe's fire going. [PAWN_pronoun] took this responsibility very seriously. -->
+  <FireKeeper44.baseDesc>ذ’ ذ´ذµر‚رپر‚ذ²ذµ {PAWN_nameDef} {PAWN_gender ? ذ¾ر‚ذ²ذµر‡ذ°ذ» : ذ¾ر‚ذ²ذµر‡ذ°ذ»ذ°} ذ·ذ° رپذ¾ر…ر€ذ°ذ½ذµذ½ذ¸ذµ ذ¾ذ³ذ½رڈ ذ² ذ؟ذ»ذµذ¼ذµذ½ذ½ذ¾ذ¼ ذ¾ر‡ذ°ذ³ذµ. {PAWN_pronoun} ذ¾ر‡ذµذ½رŒ رپذµر€رŒر‘ذ·ذ½ذ¾ {PAWN_gender ? ذ¾ر‚ذ½ذ¾رپذ¸ذ»رپرڈ : ذ¾ر‚ذ½ذ¾رپذ¸ذ»ذ°رپرŒ} ذ؛ رپذ²ذ¾ذ¸ذ¼ ذ¾ذ±رڈذ·ذ°ذ½ذ½ذ¾رپر‚رڈذ¼.</FireKeeper44.baseDesc>
+  <!-- EN: fire keeper -->
+  <FireKeeper44.title>ر…ر€ذ°ذ½ذ¸ر‚ذµذ»رŒ ذ¾ذ³ذ½رڈ</FireKeeper44.title>
+  <FireKeeper44.titleFemale>ر…ر€ذ°ذ½ذ¸ر‚ذµذ»رŒذ½ذ¸ر†ذ° ذ¾ذ³ذ½رڈ</FireKeeper44.titleFemale>
+  <!-- EN: firekeep -->
+  <FireKeeper44.titleShort>ر…ر€ذ°ذ½ذ¸ر‚ذµذ»رŒ ذ¾ذ³ذ½رڈ</FireKeeper44.titleShort>
+  <FireKeeper44.titleShortFemale>ر…ر€ذ°ذ½ذ¸ر‚ذµذ»رŒذ½ذ¸ر†ذ° ذ¾ذ³ذ½رڈ</FireKeeper44.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] tended the muffalo herds, keeping them safe from predators and treating sick animals. It was quiet work, but [PAWN_pronoun] enjoyed being away from people. -->
+  <Herder19.baseDesc>ذ’ ذ´ذµر‚رپر‚ذ²ذµ {PAWN_nameDef} {PAWN_gender ? ذ؟ذ°رپ : ذ؟ذ°رپذ»ذ°} رپر‚ذ°ذ´ذ° ذ¼رƒر„ر„ذ°ذ»ذ¾ رپذ²ذ¾ذµذ³ذ¾ ذ؟ذ»ذµذ¼ذµذ½ذ¸, ذ¾ذ±ذµر€ذµذ³ذ°رڈ ذ¸ر… ذ¾ر‚ ر…ذ¸ر‰ذ½ذ¸ذ؛ذ¾ذ² ذ¸ ذ²ر‹ر…ذ°ذ¶ذ¸ذ²ذ°رڈ ذ±ذ¾ذ»رŒذ½ر‹ر… ذ¶ذ¸ذ²ذ¾ر‚ذ½ر‹ر…. ذ­ر‚ذ¾ ذ±ر‹ذ»ذ° رپذ؟ذ¾ذ؛ذ¾ذ¹ذ½ذ°رڈ ر€ذ°ذ±ذ¾ر‚ذ° ذ²ذ´ذ°ذ»ذ¸ ذ¾ر‚ ذ»رژذ´ذµذ¹, ر‡ر‚ذ¾ {PAWN_objective} ذ²ذ؟ذ¾ذ»ذ½ذµ ذ½ر€ذ°ذ²ذ¸ذ»ذ¾رپرŒ.</Herder19.baseDesc>
+  <!-- EN: herder -->
+  <Herder19.title>ذ؟ذ°رپر‚رƒر…</Herder19.title>
+  <Herder19.titleFemale>ذ؟ذ°رپر‚رƒرˆذ؛ذ°</Herder19.titleFemale>
+  <!-- EN: herder -->
+  <Herder19.titleShort>ذ؟ذ°رپر‚رƒر…</Herder19.titleShort>
+  <Herder19.titleShortFemale>ذ؟ذ°رپر‚رƒرˆذ؛ذ°</Herder19.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though [PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
+  <Hideaway7.baseDesc>{PAWN_nameDef} {PAWN_gender ? رپر‚ذ°ذ» : رپر‚ذ°ذ»ذ°} ذ¶ذµر€ر‚ذ²ذ¾ذ¹ ذ³ذ¸ذ؟ذµر€ذ¾ذ؟ذµذ؛ذ¸ رپذ²ذ¾ذ¸ر… ر€ذ¾ذ´ذ¸ر‚ذµذ»ذµذ¹ ذ¸ ذ؟ذ¾ر‡ر‚ذ¸ ذ½ذµ {PAWN_gender ? ذ²ر‹ر…ذ¾ذ´ذ¸ذ» : ذ²ر‹ر…ذ¾ذ´ذ¸ذ»ذ°} ذ¸ذ· ذ´ذ¾ذ¼ذ°. ذک, ر…ذ¾ر‚رڈ رƒ ذ½{PAWN_possessive} ذ±ر‹ذ»ذ¾ ذ¼ذ½ذ¾ذ³ذ¾ ذ²ر€ذµذ¼ذµذ½ذ¸ ذ´ذ»رڈ ر‡ر‚ذµذ½ذ¸رڈ ذ؛ذ½ذ¸ذ³ ذ¸ رƒذ²ذ»ذµر‡ذµذ½ذ¸ذ¹ ر€ذµذ¼ذµرپذ»ذ°ذ¼ذ¸, {PAWN_pronoun} ر‚ذ°ذ؛ ذ¸ ذ½ذµ {PAWN_gender ? رپذ¼ذ¾ذ³ : رپذ¼ذ¾ذ³ذ»ذ°} ر€ذ°ذ·ذ²ذ¸ر‚رŒ ذ½ذ¾ر€ذ¼ذ°ذ»رŒذ½ر‹ر… رپذ¾ر†ذ¸ذ°ذ»رŒذ½ر‹ر… ذ½ذ°ذ²ر‹ذ؛ذ¾ذ².</Hideaway7.baseDesc>
+  <!-- EN: hideaway -->
+  <Hideaway7.title>ذ·ذ°ر‚ذ²ذ¾ر€ذ½ذ¸ذ؛</Hideaway7.title>
+  <Hideaway7.titleFemale>ذ·ذ°ر‚ذ²ذ¾ر€ذ½ذ¸ر†ذ°</Hideaway7.titleFemale>
+  <!-- EN: hideaway -->
+  <Hideaway7.titleShort>ذ·ذ°ر‚ذ²ذ¾ر€ذ½ذ¸ذ؛</Hideaway7.titleShort>
+  <Hideaway7.titleShortFemale>ذ·ذ°ر‚ذ²ذ¾ر€ذ½ذ¸ر†ذ°</Hideaway7.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] didn't learn to speak until [PAWN_pronoun] was nearly five years old. Even then [PAWN_pronoun] preferred to keep to [PAWN_objective]self.\n\nTo the chagrin of [PAWN_possessive] caretakers, [PAWN_pronoun] made a habit of wandering off to live in the wilderness for weeks at a time. -->
+  <ReclusiveChild81.baseDesc>{PAWN_nameDef} ذ½ذµ {PAWN_gender ? رƒذ¼ذµذ» : رƒذ¼ذµذ»ذ°} ذ³ذ¾ذ²ذ¾ر€ذ¸ر‚رŒ ذ؟ذ¾ر‡ر‚ذ¸ ذ´ذ¾ ذ؟رڈر‚ذ¸ ذ»ذµر‚. ذ”ذ°ذ¶ذµ ذ؟ذ¾رپذ»ذµ رچر‚ذ¾ذ³ذ¾ {PAWN_pronoun} {PAWN_gender ? ذ؟ر€ذµذ´ذ؟ذ¾ر‡ذ¸ر‚ذ°ذ» : ذ؟ر€ذµذ´ذ؟ذ¾ر‡ذ¸ر‚ذ°ذ»ذ°} ذ¾رپر‚ذ°ذ²ذ°ر‚رŒرپرڈ ذ½ذ°ذµذ´ذ¸ذ½ذµ رپ رپذ¾ذ±ذ¾ذ¹. ذ‌ذ°ذ·ذ»ذ¾ رپذ²ذ¾ذ¸ذ¼ ذ؟ذ¾ذ؟ذµر‡ذ¸ر‚ذµذ»رڈذ¼ {PAWN_nameDef} {PAWN_gender ? ذ²ذ·رڈذ» : ذ²ذ·رڈذ»ذ°} ذ·ذ° ذ؟ر€ذ¸ذ²ر‹ر‡ذ؛رƒ رƒر…ذ¾ذ´ذ¸ر‚رŒ ذ¸ذ· ذ´ذµر€ذµذ²ذ½ذ¸ ذ¸ ذ¶ذ¸ر‚رŒ رپر€ذµذ´ذ¸ ذ؟ر€ذ¸ر€ذ¾ذ´ر‹ ذ؟ذ¾ ذ½ذµرپذ؛ذ¾ذ»رŒذ؛رƒ ذ½ذµذ´ذµذ»رŒ.</ReclusiveChild81.baseDesc>
+  <!-- EN: reclusive child -->
+  <ReclusiveChild81.title>ذ·ذ°ذ¼ذ؛ذ½رƒر‚ر‹ذ¹ ذ¼ذ°ذ»رŒر‡ذ¸ذ؛</ReclusiveChild81.title>
+  <ReclusiveChild81.titleFemale>ذ·ذ°ذ¼ذ؛ذ½رƒر‚ذ°رڈ ذ´ذµذ²ذ¾ر‡ذ؛ذ°</ReclusiveChild81.titleFemale>
+  <!-- EN: reclusive -->
+  <ReclusiveChild81.titleShort>ذ¾ر‚رˆذµذ»رŒذ½ذ¸ذ؛</ReclusiveChild81.titleShort>
+  <ReclusiveChild81.titleShortFemale>ذ¾ر‚رˆذµذ»رŒذ½ذ¸ر†ذ°</ReclusiveChild81.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood escaping grunt work to go digging through wrecks and ruins for treasures. [PAWN_possessive] natural curiosity got [PAWN_objective] into a lot of trouble, but it also yielded many interesting finds. -->
+  <Scavenger22.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ؟ر€ذ¾ذ²ر‘ذ» : ذ؟ر€ذ¾ذ²ذµذ»ذ°} رپذ²ذ¾ر‘ ذ´ذµر‚رپر‚ذ²ذ¾, ذ¸ذ·ذ±ذµذ³ذ°رڈ ر‚رڈذ¶ر‘ذ»ذ¾ذ¹ ر€ذ°ذ±ذ¾ر‚ر‹ ذ´ذ»رڈ ر‚ذ¾ذ³ذ¾, ر‡ر‚ذ¾ذ±ر‹ ذ¸ذ¼ذµر‚رŒ ذ²ذ¾ذ·ذ¼ذ¾ذ¶ذ½ذ¾رپر‚رŒ ذ·ذ°ذ½ذ¸ذ¼ذ°ر‚رŒرپرڈ ذ¸رپرپذ»ذµذ´ذ¾ذ²ذ°ذ½ذ¸ذµذ¼ ر€رƒذ¸ذ½ ذ¸ ذ¾ذ±ذ»ذ¾ذ¼ذ؛ذ¾ذ² ذ؛ذ¾ر€ذ°ذ±ذ»ذµذ¹. {PAWN_possessive} ذ؟ر€ذ¸ر€ذ¾ذ´ذ½ذ¾ذµ ذ»رژذ±ذ¾ذ؟ر‹ر‚رپر‚ذ²ذ¾ ذ½ذµ ر€ذ°ذ· ذ؟ر€ذ¸ذ½ذ¾رپذ¸ذ»ذ¾ {PAWN_objective} ذ؛رƒر‡رƒ ذ؟ر€ذ¾ذ±ذ»ذµذ¼, ذ½ذ¾ ذ²ذ¼ذµرپر‚ذµ رپ ر‚ذµذ¼ ذ´ذ°ر€ذ¸ذ»ذ¾ ذ¼ذ½ذ¾ذ¶ذµرپر‚ذ²ذ¾ ذ¸ذ½ر‚ذµر€ذµرپذ½ر‹ر… ذ½ذ°ر…ذ¾ذ´ذ¾ذ؛.</Scavenger22.baseDesc>
+  <!-- EN: scavenger -->
+  <Scavenger22.title>ذ¼رƒرپذ¾ر€ر‰ذ¸ذ؛</Scavenger22.title>
+  <Scavenger22.titleFemale>ذ¼رƒرپذ¾ر€ر‰ذ¸ر†ذ°</Scavenger22.titleFemale>
+  <!-- EN: scavenger -->
+  <Scavenger22.titleShort>ذ¼رƒرپذ¾ر€ر‰ذ¸ذ؛</Scavenger22.titleShort>
+  <Scavenger22.titleShortFemale>ذ¼رƒرپذ¾ر€ر‰ذ¸ر†ذ°</Scavenger22.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s entire tribe was wiped out in a raid. Though [PAWN_pronoun] was adopted by another group, [PAWN_pronoun] was emotionally scarred, and preferred to stay near home, cooking and tending crops. -->
+  <SoleSurvivor21.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ؟ذµر€ذµذ¶ذ¸ذ» : ذ؟ذµر€ذµذ¶ذ¸ذ»ذ°} ذ½ذ°ذ»ر‘ر‚, ذ² ذ؛ذ¾ر‚ذ¾ر€ذ¾ذ¼ ذ؟ذ¾ذ³ذ¸ذ±ذ»ذ¾ ذ²رپر‘ {PAWN_possessive} ذ؟ذ»ذµذ¼رڈ. ذ¥ذ¾ر‚رڈ {PAWN_possessive} ذ؟ر€ذ¸ذ½رڈذ»ذ¸ ذ² ذ´ر€رƒذ³ذ¾ذµ ذ؟ذ»ذµذ¼رڈ, ذ؟ذ¾رپذ»ذµ ر‚ذ°ذ؛ذ¾ذ³ذ¾ ذ؟ذ¾ر‚ر€رڈرپذµذ½ذ¸رڈ {PAWN_pronoun} {PAWN_gender ? ذ؟ر€ذµذ´ذ؟ذ¾ر‡ذ¸ر‚ذ°ذ» : ذ؟ر€ذµذ´ذ؟ذ¾ر‡ذ¸ر‚ذ°ذ»ذ°} ذ¾رپر‚ذ°ذ²ذ°ر‚رŒرپرڈ ذ²ذ¾ذ·ذ»ذµ ذ´ذ¾ذ¼ذ°, ذ·ذ°ذ½ذ¸ذ¼ذ°رڈرپرŒ ذ³ذ¾ر‚ذ¾ذ²ذ؛ذ¾ذ¹ ذ¸ ذ²ر‹ر€ذ°ر‰ذ¸ذ²ذ°ذ½ذ¸ذµذ¼ رƒر€ذ¾ذ¶ذ°رڈ.</SoleSurvivor21.baseDesc>
+  <!-- EN: sole survivor -->
+  <SoleSurvivor21.title>ذ¾رپر‚ذ°ذ²رˆذ¸ذ¹رپرڈ ذ² ذ¶ذ¸ذ²ر‹ر…</SoleSurvivor21.title>
+  <SoleSurvivor21.titleFemale>ذ¾رپر‚ذ°ذ²رˆذ°رڈرپرڈ ذ² ذ¶ذ¸ذ²ر‹ر…</SoleSurvivor21.titleFemale>
+  <!-- EN: survivor -->
+  <SoleSurvivor21.titleShort>ذ²ر‹ذ¶ذ¸ذ²رˆذ¸ذ¹</SoleSurvivor21.titleShort>
+  <SoleSurvivor21.titleShortFemale>ذ²ر‹ذ¶ذ¸ذ²رˆذ°رڈ</SoleSurvivor21.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a tribe, running around the village, moving with the muffalo herds, learning essential skills from [PAWN_possessive] parents.\n\n[PAWN_pronoun] never learned to read and never saw a machine that wasn't an ancient ruin. -->
+  <TribeChild40.baseDesc>{PAWN_nameDef} {PAWN_gender ? ر€ذ¾رپ : ر€ذ¾رپذ»ذ°} ذ² ذ؟ذ»ذµذ¼ذµذ½ذ¸, ذ±ذµذ³ذ°رڈ ذ؟ذ¾ ذ´ذµر€ذµذ²ذ½ذµ, ذ؟ذµر€ذµذ³ذ¾ذ½رڈرڈ رپر‚ذ°ذ´ذ° ذ¼رƒر„ر„ذ°ذ»ذ¾ ذ¸ ذ¾ذ±رƒر‡ذ°رڈرپرŒ رƒ رپذ²ذ¾ذ¸ر… ر€ذ¾ذ´ذ¸ر‚ذµذ»ذµذ¹ ذ²رپذµذ¼رƒ رپذ°ذ¼ذ¾ذ¼رƒ ذ²ذ°ذ¶ذ½ذ¾ذ¼رƒ.\n\n{PAWN_nameDef} ذ½ذµ {PAWN_gender ? ذ±ر‹ذ» ذ¾ذ±رƒر‡ذµذ½ : ذ±ر‹ذ»ذ° ذ¾ذ±رƒر‡ذµذ½ذ°} ذ³ر€ذ°ذ¼ذ¾ر‚ذµ ذ¸ ذ½ذ¸ذ؛ذ¾ذ³ذ´ذ° ذ½ذµ {PAWN_gender ? ذ²ذ¸ذ´ذµذ» : ذ²ذ¸ذ´ذµذ»ذ°} ذ½ذ¸ذ؛ذ°ذ؛ذ¸ر… ذ¼ذµر…ذ°ذ½ذ¸ذ·ذ¼ذ¾ذ², ذ؛ر€ذ¾ذ¼ذµ ذ¾رپر‚ذ°ذ½ذ؛ذ¾ذ² ذ´ر€ذµذ²ذ½ذ¸ر… ذ¼ذ°رˆذ¸ذ½.</TribeChild40.baseDesc>
+  <!-- EN: tribe child -->
+  <TribeChild40.title>ذ¼ذ°ذ»رŒر‡ذ¸ذ؛ ذ¸ذ· ذ؟ذ»ذµذ¼ذµذ½ذ¸</TribeChild40.title>
+  <TribeChild40.titleFemale>ذ´ذµذ²ذ¾ر‡ذ؛ذ° ذ¸ذ· ذ؟ذ»ذµذ¼ذµذ½ذ¸</TribeChild40.titleFemale>
+  <!-- EN: tribal -->
+  <TribeChild40.titleShort>ذ°ذ±ذ¾ر€ذ¸ذ³ذµذ½</TribeChild40.titleShort>
+  <TribeChild40.titleShortFemale>ذ°ذ±ذ¾ر€ذ¸ذ³ذµذ½ذ؛ذ°</TribeChild40.titleShortFemale>
+  
+  <!-- EN: As a child, [PAWN_nameDef] returned to [PAWN_possessive] village to find that it had been wiped out by bandits. [PAWN_pronoun] swore revenge on the attackers and began a violent rampage across the wilderness. -->
+  <VengefulChild43.baseDesc>ذ‍ذ´ذ½ذ°ذ¶ذ´ر‹ ذ²ذ¾ذ·ذ²ر€ذ°ر‰ذ°رڈرپرŒ ذ² ر€ذ¾ذ´ذ½رƒرژ ذ´ذµر€ذµذ²ذ½رژ, {PAWN_nameDef} {PAWN_gender ? ذ¾ذ±ذ½ذ°ر€رƒذ¶ذ¸ذ» : ذ¾ذ±ذ½ذ°ر€رƒذ¶ذ¸ذ»ذ°}, ر‡ر‚ذ¾ ر‚ذ° رƒذ½ذ¸ر‡ر‚ذ¾ذ¶ذµذ½ذ° ذ±ذ°ذ½ذ´ذ¸ر‚ذ°ذ¼ذ¸. {PAWN_pronoun} {PAWN_gender ? ذ؟ذ¾ذ؛ذ»رڈذ»رپرڈ : ذ؟ذ¾ذ؛ذ»رڈذ»ذ°رپرŒ} ذ¾ر‚ذ¾ذ¼رپر‚ذ¸ر‚رŒ ذ½ذ°ذ؟ذ°ذ²رˆذ¸ذ¼ ذ¸ {PAWN_gender ? ذ½ذ°ر‡ذ°ذ» : ذ½ذ°ر‡ذ°ذ»ذ°} رپذ²ذ¾ذ¹ ذ¶ذµرپر‚ذ¾ذ؛ذ¸ذ¹ ذ؟رƒر‚رŒ ذ² ذ؟رƒرپر‚ذ¾رˆذ°ر….</VengefulChild43.baseDesc>
+  <!-- EN: vengeful child -->
+  <VengefulChild43.title>ذ¼رپر‚ذ¸ر‚ذµذ»رŒذ½ذ¾ذµ ذ´ذ¸ر‚رڈ</VengefulChild43.title>
+  <!-- EN: vengeful -->
+  <VengefulChild43.titleShort>ذ¼رپر‚ذ¸ر‚ذµذ»رŒ</VengefulChild43.titleShort>
+  <VengefulChild43.titleShortFemale>ذ¼رپر‚ذ¸ر‚ذµذ»رŒذ½ذ¸ر†ذ°</VengefulChild43.titleShortFemale>
+  
+</LanguageData>
