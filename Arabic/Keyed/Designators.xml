@@ -1,0 +1,348 @@
+<LanguageData>
+  
+  
+  <DesignatorCancel>ﺀﺎﻐﻟﺇ</DesignatorCancel>
+  
+  <DesignatorCancelDesc>ﺮﻣﺍﻭﺃﻭ ،ﻝﻮﺼﺤﻤﻟﺍ ﻊﻤﺟﻭ ،ﻞﻘﻨﻟﺍﻭ ،ﻦﻳﺪﻌﺘﻟﺍﻭ ،ﺀﺎﻨﺒﻟﺍ ﺀﺎﻐﻟﺇ
+.ﻯﺮﺧﺃ</DesignatorCancelDesc>
+
+  
+  <DesignatorCutPlants>ﻊﻄﻗ</DesignatorCutPlants>
+  
+  <DesignatorCutPlantsDesc>ﺕﺎﺗﺎﺒﻨﻟﺍ ﺔﻟﺍﺯﺇ ﻢﺘﻴﺳ .ﺮﻴﻣﺪﺘﻟﺍﻭ ﻊﻄﻘﻠﻟ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻢﻠﻋ
+.ﺎﻬﻨﻣ ﺩﺭﺍﻮﻣ ﻱﺃ ﻊﻤﺟﻭ ﻞﻣﺎﻜﻟﺎﺑ</DesignatorCutPlantsDesc>
+
+  
+  <DesignatorDeconstruct>ﻚﻴﻜﻔﺗ</DesignatorDeconstruct>
+  
+  <DesignatorDeconstructDesc>.ﺩﺭﺍﻮﻤﻟﺍ ﻦﻣ ﺀﺰﺠﻟﺍ ﺓﺩﺎﻌﺘﺳﺍﻭ ﻚﻴﻜﻔﺘﻟﺍ</DesignatorDeconstructDesc>
+
+  
+  <DesignatorUninstall>ﺔﻟﺍﺯﺇ</DesignatorUninstall>
+  
+  <DesignatorUninstallDesc>ﻲﻓ ﺎﻬﺒﻴﻛﺮﺗ ﻢﺛ ،ﻉﺩﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﺎﻬﻠﻘﻨﻟ ﺎﻬﻜﻴﻜﻔﺗ
+.ﺎﻬﻌﻴﺑ ﻭﺃ ﺮﺧﺁ ﻥﺎﻜﻣ</DesignatorUninstallDesc>
+
+  
+  <DesignatorExtractTree>ﺐﺸﺨﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ</DesignatorExtractTree>
+  
+  <DesignatorExtractTreeDesc>ﻥﺎﻜﻣ ﻲﻓ ﺎﻬﺘﻋﺍﺭﺰﻟ ﺎﻫﺮﻴﻣﺪﺗ ﻥﻭﺩ ﺓﺮﺠﺸﻟﺍ ﺝﺍﺮﺨﺘﺳﺍ
+.ﺮﺧﺁ</DesignatorExtractTreeDesc>
+
+  
+  <DesignatorHarvest>ﻊﻤﺟ</DesignatorHarvest>
+  
+  <DesignatorHarvestDesc>.ﺎﻬﻨﻣ ﻝﻮﺼﺤﻤﻟﺍ ﻊﻤﺠﻟ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻰﻠﻋ ﺕﺎﻣﻼﻋ ﻊﺿﻭ</DesignatorHarvestDesc>
+
+  
+  <DesignatorHarvestWood>ﻊﻄﻗ</DesignatorHarvestWood>
+  
+  <DesignatorHarvestWoodDesc>.ﺐﺸﺨﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺎﻬﻟﺎﺼﺌﺘﺳﻻ ﺭﺎﺠﺷﻷﺍ ﺪﻳﺪﺤﺗ</DesignatorHarvestWoodDesc>
+
+  
+  <DesignatorHaulThings>ﻞﻳﻮﺤﺗ</DesignatorHaulThings>
+  
+  <DesignatorHaulThingsDesc>ﺓﺭﺎﻄﻗ ﻰﻟﺇ ﻞﻘﻨﻠﻟ ﺎﻫﺮﻴﻏﻭ ﺭﻮﺨﺼﻟﺍ ﻊﻄﻗ ﺪﻳﺪﺤﺗ
+ﻡﺎﻌﻄﻟﺍ ﻞﺜﻣ ﺔﻠﻣﺎﻜﻟﺍ ﺀﺎﻴﺷﻸﻟ ﻡﺰﻠﻳ ﻻ .ﺔﻣﺎﻤﻘﻟﺍ
+.ﻞﻘﻨﻠﻟ ﺔﻠﺑﺎﻗ ﺎﻤﺋﺍﺩ ﻲﻬﻓ :ﺚﺜﺠﻟﺍ ﻭﺃ</DesignatorHaulThingsDesc>
+  
+  <MustHaulHaulables>ﻻﺇ ﻞﻘﻨﻠﻟ ﺮﺻﺎﻨﻋ ﻱﺃ ﺪﻳﺪﺤﺗ ﻢﺘﻳ ﻦﻟ
+ﻢﻬﺴﻔﻧﺄﺑ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﺎﻬﺑ ﻡﻮﻘﻳ ﻻ ﻲﺘﻟﺍ ﻚﻠﺗ
+.(ﺭﻮﺨﺼﻟﺍ ﻊﻄﻗﻭ ﺔﻴﻧﺪﻌﻤﻟﺍ ﺓﺩﺮﺨﻟﺍ ﻞﺜﻣ)</MustHaulHaulables>
+
+  
+  <DesignatorHunt>ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺩﺎﻴﻄﺻﺍ</DesignatorHunt>
+  
+  <DesignatorHuntDesc>.ﺪﻴﺼﻠﻟ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺪﻳﺪﺤﺘﺑ ﻢﻗ</DesignatorHuntDesc>
+
+  
+  <DesignatorMine>ﺮﻔﺤﻳ</DesignatorMine>
+  
+  <DesignatorMineDesc>.ﻝﺎﺒﺠﻟﺍ ﻰﻠﻋ ﺔﻴﻨﻳﺪﻌﺗ ﻝﺎﻤﻋﺃ ﺀﺍﺮﺟﻹ ﺭﻮﺨﺼﻟﺍ ﺪﻳﺪﺤﺗ</DesignatorMineDesc>
+
+  
+  <DesignatorSmoothSurface>ﺢﻄﺴﻟﺍ ﻯﻮﺘﺴﻣ</DesignatorSmoothSurface>
+  
+  <DesignatorSmoothSurfaceDesc>ﺔﺠﻟﺎﻌﻤﻠﻟ ﻡﺎﺨﻟﺍ ﺮﺠﺤﻟﺍ ﺢﻄﺳ ﺪﻳﺪﺤﺗ</DesignatorSmoothSurfaceDesc>
+
+  
+  <DesignatorPlan>ﻂﻄﺨﻣ</DesignatorPlan>
+  
+  <DesignatorPlanDesc>ﺀﻲﺷ ﻱﻷ ﻡﺪﺨﺘﺴﺗ ﻻ .ﻂﻴﻄﺨﺘﻟﺍ ﺕﺎﻣﻼﻋ ﻊﺿﻭ
+ﺔﺻﺎﺨﻟﺍ ﺔﻘﺣﻼﻟﺍ ﺕﺎﻌﺳﻮﺘﻟﺍ ﻂﻴﻄﺨﺗ ﻲﻓ ﻚﺗﺪﻋﺎﺴﻣ ﻯﻮﺳ
+.ﻚﺑ</DesignatorPlanDesc>
+
+  
+  <DesignatorPlanRemove>ﻢﻴﻤﺼﺘﻟﺍ ﻑﺬﺣ</DesignatorPlanRemove>
+  
+  <DesignatorPlanRemoveDesc>.ﻂﻴﻄﺨﺘﻟﺍ ﺕﺎﻣﻼﻋ ﻑﺬﺣ</DesignatorPlanRemoveDesc>
+
+  
+  <DesignatorForbid>ﻉﻮﻨﻤﻣ</DesignatorForbid>
+  
+  <DesignatorForbidDesc>.ﺓﺩﺪﺤﻤﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﻊﻣ ﻞﻋﺎﻔﺘﻟﺍ ﻦﻣ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻊﻨﻣ</DesignatorForbidDesc>
+
+  
+  <DesignatorUnforbid>ﺡﺎﻤﺴﻟﺍ</DesignatorUnforbid>
+  
+  <DesignatorUnforbidDesc>.ﺓﺩﺪﺤﻤﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﻊﻣ ﻞﻋﺎﻔﺘﻟﺎﺑ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺡﺎﻤﺴﻟﺍ</DesignatorUnforbidDesc>
+
+  
+  <DesignatorAreaHomeExpand>ﻦﻜﺴﻤﻟﺍ ﺔﻘﻄﻨﻣ ﻊﻴﺳﻮﺗ</DesignatorAreaHomeExpand>
+  
+  <DesignatorAreaHomeExpandDesc>ﺎﻬﺣﻼﺻﺇﻭ ،ﻖﺋﺍﺮﺤﻟﺍ ﺩﺎﻤﺧﺇﻭ ،ﻝﺯﺎﻨﻤﻟﺍ ﻒﻴﻈﻨﺘﺑ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻡﻮﻘﻴﺳ
+.ﺔﻴﻟﺰﻨﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻂﻘﻓ</DesignatorAreaHomeExpandDesc>
+  
+  <DesignatorAreaHomeClear>ﻝﺰﻨﻤﻟﺍ ﺔﺣﺎﺴﻣ ﻞﻴﻠﻘﺗ</DesignatorAreaHomeClear>
+  
+  <DesignatorAreaHomeClearDesc>ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻡﻮﻘﻳ ﻦﻟ .ﻲﻟﺰﻨﻤﻟﺍ ﻕﺎﻄﻨﻟﺍ ﺎﻳﻼﺧ ﺔﻟﺍﺯﺇ
+ﺪﻌﺑ ﺎﻬﺣﻼﺻﺇ ﻭﺃ ﻖﺋﺍﺮﺤﻟﺍ ﺩﺎﻤﺧﺇ ﻭﺃ ﺎﻬﻔﻴﻈﻨﺘﺑ
+.ﻥﻵﺍ</DesignatorAreaHomeClearDesc>
+
+  
+  <DesignatorAreaBuildRoofExpand>ﻒﻘﺳ ﺀﺎﻨﺑ</DesignatorAreaBuildRoofExpand>
+  
+  <DesignatorAreaBuildRoofExpandDesc>.ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﻲﻓ ﺎﻔﻘﺳ ﻥﻮﻨﺒﻴﺳ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ</DesignatorAreaBuildRoofExpandDesc>
+
+  
+  <DesignatorAreaNoRoofExpand>ﻒﻘﺳﻷﺍ ﺔﻟﺍﺯﺇ</DesignatorAreaNoRoofExpand>
+  
+  <DesignatorAreaNoRoofExpandDesc>.ﺎﻨﻫ ﺓﺩﻮﺟﻮﻣ ﻑﻮﻘﺳ ﻱﺃ ﺔﻟﺍﺯﺈﺑ ﻥﻮﻣﻮﻘﻴﺳ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ
+ﻲﺘﻟﺍ ﺔﻜﻴﻤﺴﻟﺍ ﺔﻴﻠﺒﺠﻟﺍ ﺭﻮﺨﺼﻟﺍ ﺔﻟﺍﺯﺇ ﻦﻜﻤﻳ ﻻ
+.ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﻕﻮﻓ ﻊﻘﺗ</DesignatorAreaNoRoofExpandDesc>
+
+  
+  <DesignatorAreaIgnoreRoofExpand>ﺢﻄﺳﻷﺍ ﻞﻫﺎﺠﺗ</DesignatorAreaIgnoreRoofExpand>
+  
+  <DesignatorAreaIgnoreRoofExpandDesc>ﺩﻮﺟﻭ ﻡﺪﻋ ﻭﺃ ﺩﻮﺟﻮﺑ ﺍﻮﻤﺘﻬﻳ ﻦﻟ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ
+.ﺔﻘﻄﻨﻤﻟﺍ ﺍﺬﻫ ﻲﻓ ﻒﻘﺳﺃ</DesignatorAreaIgnoreRoofExpandDesc>
+
+  
+  <DesignatorAreaSnowClearExpand>.ﺞﻠﺜﻟﺍ ﻒﻴﻈﻨﺗ ﺔﺣﺎﺴﻣ ﻊﻴﺳﻮﺗ</DesignatorAreaSnowClearExpand>
+  
+  <DesignatorAreaSnowClearExpandDesc>.ﺝﻮﻠﺜﻟﺍ ﻦﻣ ﺔﻘﻄﻨﻤﻟﺍ ﺍﺬﻫ ﻒﻴﻈﻨﺘﺑ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻡﻮﻘﻴﺳ</DesignatorAreaSnowClearExpandDesc>
+  
+  <DesignatorAreaSnowClearClear>ﺞﻠﺜﻟﺍ ﻒﻴﻈﻨﺗ ﺔﻘﻄﻨﻣ ﻞﻴﻠﻘﺗ</DesignatorAreaSnowClearClear>
+  
+  <DesignatorAreaSnowClearClearDesc>ﻡﻮﻘﻳ ﻦﻟ .ﺝﻮﻠﺜﻟﺍ ﻒﻴﻈﻨﺗ ﺔﻘﻄﻨﻣ ﺎﻳﻼﺧ ﺔﻟﺍﺯﺇ
+ﺪﻌﺑ ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﻲﻓ ﺝﻮﻠﺜﻟﺍ ﻒﻴﻈﻨﺘﺑ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ
+.ﻥﻵﺍ</DesignatorAreaSnowClearClearDesc>
+
+  
+  <DesignatorExpandAreaAllowed>ﻝﻮﺻﻮﻟﺍ ﺔﻘﻄﻨﻣ ﻊﻴﺳﻮﺗ</DesignatorExpandAreaAllowed>
+  
+  <DesignatorExpandAreaAllowedDesc>ﻞﺜﻣ ﻦﻴﻴﻌﺗ ﻚﻨﻜﻤﻳn\n\.ﺔﺣﺎﺘﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻰﻟﺇ ﺎﻳﻼﺧ ﻒﺿﺃ
+.ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻦﻣ ﻞﻜﻟ ﻞﺼﻔﻨﻣ ﻞﻜﺸﺑ ﻖﻃﺎﻨﻤﻟﺍ ﻩﺬﻫ
+ﺝﺭﺎﺧ ﺀﻲﺷ ﻱﺃ ﻞﻤﻌﺑ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻡﻮﻘﻳ ﻦﻟ
+.ﻢﻬﻟ ﺔﻨﻴﻌﻤﻟﺍ ﻖﻃﺎﻨﻤﻟﺍ</DesignatorExpandAreaAllowedDesc>
+  
+  <DesignatorClearAreaAllowed>ﺔﺣﺎﺘﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻞﻴﻠﻘﺗ</DesignatorClearAreaAllowed>
+  
+  <DesignatorClearAreaAllowedDesc>ﻩﺬﻫ ﻞﺜﻣ ﻦﻴﻴﻌﺗ ﻚﻨﻜﻤﻳn\n\.ﺔﺣﺎﺘﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﺎﻳﻼﺧ ﻑﺬﺣ
+ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻡﻮﻘﻳ ﻦﻟ .ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻦﻣ ﻞﻜﻟ ﻖﻃﺎﻨﻤﻟﺍ
+.ﻢﻬﻟ ﺔﻨﻴﻌﻤﻟﺍ ﻖﻃﺎﻨﻤﻟﺍ ﺝﺭﺎﺧ ﺀﻲﺷ ﻱﺄﺑ</DesignatorClearAreaAllowedDesc>
+  
+  <ManageAreas>...ﻖﻃﺎﻨﻤﻟﺍ ﺓﺭﺍﺩﺇ</ManageAreas>
+  
+  <ManageAutoSlaughter>...ﺢﺑﺬﻟﺍ ﺓﺭﺍﺩﺇ</ManageAutoSlaughter>
+
+  
+  <DesignatorGrowingZoneDesc>ﺕﺎﺗﺎﺒﻨﻟﺍ ﻦﻣ ﻦﻴﻌﻣ ﻉﻮﻧ ﺔﻋﺍﺭﺰﻟ ﺔﻘﻄﻨﻣ ﺀﺎﺸﻧﺇ
+.ﻚﺑ ﻦﻴﺻﺎﺨﻟﺍ ﻦﻴﻨﻃﻮﺘﺴﻤﻟﺍ ﻞﺒﻗ ﻦﻣ</DesignatorGrowingZoneDesc>
+
+  
+  <DesignatorZoneCreateStorageResourcesDesc>ﻦﻜﻤﻳ ﺎﻤﻛ .ﺔﻋﻮﻨﺘﻣ ﺩﺭﺍﻮﻣ ﻦﻳﺰﺨﺘﻟ ﺔﻘﻄﻨﻣ ﺀﺎﺸﻧﺇ
+.ﻲﻟﺎﺤﻟﺍ ﻉﺩﻮﺘﺴﻤﻟﺍ ﻊﻴﺳﻮﺗ</DesignatorZoneCreateStorageResourcesDesc>
+
+  
+  <DesignatorZoneCreateStorageDumpingDesc>ﻊﻴﺳﻮﺗ ﺎﻀﻳﺃ ﻦﻜﻤﻳﻭ ،ﺔﻣﺎﻤﻘﻟﺍ ﻦﻳﺰﺨﺘﻟ ﺔﻘﻄﻨﻣ ﺀﺎﺸﻧﺇ
+.ﻞﻌﻔﻟﺎﺑ ﺩﻮﺟﻮﻤﻟﺍ ﺕﺎﻳﺎﻔﻨﻟﺍ ﺐﻜﻣ</DesignatorZoneCreateStorageDumpingDesc>
+
+  
+  <DesignatorZoneDelete>ﻖﻃﺎﻨﻤﻟﺍ ﻞﻴﻠﻘﺗ</DesignatorZoneDelete>
+  
+  <DesignatorZoneDeleteSingular>ﺔﻘﻄﻨﻤﻟﺍ ﻞﻴﻠﻘﺗ</DesignatorZoneDeleteSingular>
+  
+  <DesignatorZoneDeleteDesc>ﻦﻴﺗﺎﺴﺒﻟﺍ ﻭﺃ ﺕﺎﻋﺩﻮﺘﺴﻤﻟﺍ ﻞﺜﻣ ﻡﺎﺴﻗﻷﺍ ﺔﻟﺍﺯﺇ</DesignatorZoneDeleteDesc>
+
+  
+  <DesignatorZoneExpand>ﺔﻘﻄﻨﻤﻟﺍ ﻊﻴﺳﻮﺗ</DesignatorZoneExpand>
+  
+  
+  <DesignatorClaim>ﺀﻼﻴﺘﺳﻻﺍ</DesignatorClaim>
+  
+  <DesignatorClaimDesc>ﻝﻼﻃﻷﺍ ﻚﻟﺫ ﻲﻓ ﺎﻤﺑ ، ﺔﻴﻟﺍﺮﺗﻮﻴﻨﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ
+ﻲﻓ ﺞﻣﺪﺘﺳ ، ﺓﺭﻮﺠﻬﻤﻟﺍ ﺯﺍﺮﺘﺣﻻﺍ ﺪﻋﺍﻮﻗﻭ ﺔﻤﻳﺪﻘﻟﺍ
+ﻲﻧﺎﺒﻤﻟﺍ ﺔﻧﺎﻴﺻﻭ ﺡﻼﺻﺇ ﻦﻣ ﻥﻮﻨﻃﻮﺘﺴﻤﻟﺍ ﻦﻜﻤﺘﻴﺳ .ﺔﻨﻃﻮﺘﺴﻤﻟﺍ
+.ﺎﻬﻴﻠﻋ ﺀﻼﻴﺘﺳﻻﺍ ﻢﺗ ﻲﺘﻟﺍ</DesignatorClaimDesc>
+
+  
+  <DesignatorRemoveFloor>ﺀﻼﻄﻟﺍ ﺔﻟﺍﺯﺇ</DesignatorRemoveFloor>
+  
+  <DesignatorRemoveFloorDesc>ﺔﻄﻴﺤﻤﻟﺍ ﺔﻌﻴﺒﻄﻟﺍ ﻰﺘﺣ ﺔﻴﻄﻐﺘﻟﺍ ﺔﻟﺍﺯﺈﺑ ﻢﻗ</DesignatorRemoveFloorDesc>
+
+  
+  <DesignatorRemoveBridge>.ﺮﺴﺠﻟﺍ ﺔﻟﺍﺯﺇ</DesignatorRemoveBridge>
+  
+  <DesignatorRemoveBridgeDesc>.ﺔﻴﻌﻴﺒﻄﻟﺍ ﺮﻇﺎﻨﻤﻟﺎﺑ ﻅﺎﻔﺘﺣﻻﺍﻭ ﺭﻮﺴﺠﻟﺍ ﻚﻴﻜﻔﺗ</DesignatorRemoveBridgeDesc>
+
+  
+  <DesignatorStrip>ﺲﺑﻼﻤﻟﺍ ﻝﺯﺃ</DesignatorStrip>
+  
+  <DesignatorStripDesc>ﻰﺣﺮﺠﻟﺍﻭ ﺚﺜﺠﻟﺍ ﻦﻣ ﺲﺑﻼﻤﻟﺍ ﺐﺤﺳ</DesignatorStripDesc>
+
+  
+  <DesignatorOpen>ﺢﺘﻓ</DesignatorOpen>
+  
+  <DesignatorOpenDesc>.ﺮﺒﻘﻟﺍ ﻭﺃ ﺔﻳﻭﺎﺤﻟﺍ ﺢﺘﻓ</DesignatorOpenDesc>
+  
+  
+  <DesignatorSlaughter>ﻖﻠﻏﺍ</DesignatorSlaughter>
+  
+  <DesignatorSlaughterDesc>.ﻒﻴﻟﻷﺍ ﻥﺍﻮﻴﺤﻟﺍ ﻞﺘﻗ</DesignatorSlaughterDesc>
+
+  
+  <DesignatorTame>ﺾﻳﻭﺮﺗ</DesignatorTame>
+  
+  <DesignatorTameDesc>.ﺎﻬﺘﻔﻴﻟﻷ ﺔﻘﺤﺘﺴﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻰﻠﻋ ﺕﺎﻣﻼﻋ ﻊﺿﻭ</DesignatorTameDesc>
+
+  
+  <DesignatorReleaseAnimalToWild>ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﻪﻨﻋ ﺝﺍﺮﻓﻹﺍ</DesignatorReleaseAnimalToWild>
+  
+  <DesignatorReleaseAnimalToWildDesc>.ﺔﻳﺮﺒﻟﺍ ﺔﻌﻴﺒﻄﻟﺍ ﻲﻓ ﻯﺮﺧﺃ ﺓﺮﻣ ﻥﺍﻮﻴﺤﻟﺍ ﻕﻼﻃﺇ</DesignatorReleaseAnimalToWildDesc>
+
+  
+  <DesignatorStudy>ﻑﺎﺸﻜﺘﺳﺍ</DesignatorStudy>
+  
+  <DesignatorStudyDesc>.ﻪﻨﻋ ﺪﻳﺰﻤﻟﺍ ﺔﻓﺮﻌﻤﻟ ﻦﺋﺎﻜﻟﺍ ﺔﺳﺍﺭﺩ</DesignatorStudyDesc>
+
+  
+  <DesignatorPaintBuilding>...ﻰﻨﺒﻤﻟﺍ ﻎﺒﺻ</DesignatorPaintBuilding>
+  
+  <DesignatorPaintBuildingDesc>ﺐﻠﻄﺘﻳ .ﺎﻫﺅﻼﻃ ﻢﺘﻴﺳ ﻲﺘﻟﺍ ﻲﻧﺎﺒﻤﻟﺍﻭ ﻥﺍﺭﺪﺠﻟﺍ ﺩﺪﺣ
+ﺀﻼﻃ ﻦﻜﻤﻳ .ﺪﻳﺪﺠﻟﺍ ﻮﻐﻳﺪﻧﻷﺍ ﻦﻣ ﺕﺎﻘﺘﺸﻣ ﻎﺒﺼﻟﺍ
+.ﻂﻘﻓ ﻲﻧﺎﺒﻤﻟﺍ ﺾﻌﺑ</DesignatorPaintBuildingDesc>
+  
+  <DesignatorPaintFloor>...ﺔﻴﺿﺭﻷﺍ ﻥﻮﻟﺃ</DesignatorPaintFloor>
+  
+  <DesignatorPaintFloorDesc>ﺀﻼﻄﻟﺍ ﺐﻠﻄﺘﻳ .ﺎﻬﻴﻠﻃ ﻢﺘﺘﺳ ﻲﺘﻟﺍ ﻖﻃﺎﻨﻤﻟﺍ ﺩﺪﺣ
+ﻉﺍﻮﻧﺃ ﺀﻼﻃ ﻦﻜﻤﻳ .ﻮﺠﻳﺪﻧﺇ-ﻮﻴﻨﻟﺍ ﺕﺎﺒﻧ ﻦﻣ ﺔﻐﺒﺻ
+.ﻂﻘﻓ ﺕﺎﻴﺿﺭﻷﺍ ﻦﻣ ﺔﻨﻴﻌﻣ</DesignatorPaintFloorDesc>
+
+  
+  <DesignatorRemovePaint>ﻥﺎﻫﺪﻟﺍ ﺔﻟﺍﺯﺇ</DesignatorRemovePaint>
+  
+  <DesignatorRemovePaintDesc>.ﺕﺎﻴﺿﺭﻷﺍﻭ ﻲﻧﺎﺒﻤﻟﺍﻭ ﻥﺍﺭﺪﺠﻟﺍ ﻦﻣ ﻥﺎﻫﺪﻟﺍ ﺔﻟﺍﺯﺇ</DesignatorRemovePaintDesc>
+  
+  <DesignatorRemoveFloorPaint>.ﺔﻴﺿﺭﻷﺍ ﻦﻣ ﺀﻼﻄﻟﺍ ﺔﻟﺍﺯﺇ</DesignatorRemoveFloorPaint> 
+  
+  <DesignatorRemoveFloorPaintDesc>ﺔﻴﺿﺭﻷﺍ ﻦﻣ ﺀﻼﻄﻟﺍ ﺔﻟﺍﺯﺇ</DesignatorRemoveFloorPaintDesc> 
+  
+  <Paint>ﺔﻳﻮﺑ</Paint>
+  
+  <Color>ﻥﻮﻠﻟﺍ</Color>
+
+  
+  <DesignatorEyedropper>Пﺎﻜﺘﻴﺒﻳ</DesignatorEyedropper>
+  
+  <GrabExistingColor>ﺍﺰﻫﺎﺟ ﺎﻧﻮﻟ ﺮﺘﺧﺍ</GrabExistingColor>
+  
+  <DesignatorEyeDropperDesc_Paint>.ﺩﻮﺟﻮﻤﻟﺍ ﻰﻨﺒﻤﻟﺍ ﻥﻮﻟ ﺮﺘﺧﺍ</DesignatorEyeDropperDesc_Paint>
+  
+  <DesignatorEyeDropperDesc_Carpet>.ﺩﻮﺟﻮﻤﻟﺍ ﺩﺎﺠﺴﻟﺍ ﻥﻮﻟ ﺭﺎﻴﺘﺧﺍ</DesignatorEyeDropperDesc_Carpet>
+  
+  <SelectAPaintedBuilding>.ﻥﻮﻠﻤﻟﺍ ﻰﻨﺒﻤﻟﺍ ﺮﺘﺧﺍ</SelectAPaintedBuilding>
+  
+  <SelectColoredFloor>.ﺔﻏﻮﺒﺼﻣ ﺓﺩﺎﺠﺳ ﺮﺘﺧﺍ</SelectColoredFloor>
+  
+  <Grab>ﺮﺘﺧﺍ</Grab>
+  
+  <GrabbedColor>ﺭﺎﺘﺨﻤﻟﺍ ﻥﻮﻠﻟﺍ</GrabbedColor>
+
+  
+  
+  <UnchosenStuff>.ﺓﺩﺎﻤﻟﺍ ﺭﺎﻴﺘﺧﺍ ﻢﺘﻳ ﻢﻟ</UnchosenStuff>
+  
+  <TooCloseToMapEdge>.ﺔﻄﻳﺮﺨﻟﺍ ﺔﻓﺎﺣ ﻦﻣ ﺍﺪﺟ ﺐﻳﺮﻘﻟﺍ ﻦﻣ</TooCloseToMapEdge>
+  
+  <OutOfBounds>.ﺔﻄﻳﺮﺨﻟﺍ ﺝﺭﺎﺧ</OutOfBounds>
+  
+  <CannotPlaceInUndiscovered>.ﺔﻔﺸﻜﺘﺴﻣ ﺮﻴﻏ ﺔﻘﻄﻨﻣ ﻲﻓ ﻪﻌﺿﻭ ﻦﻜﻤﻳ ﻻ</CannotPlaceInUndiscovered>
+  
+  <InteractionSpotBlocked>.{labelShort_1} ﻞﻋﺎﻔﺘﻟﺍ ﺔﻄﻘﻧ ﺽﺮﺘﻌﻳ</InteractionSpotBlocked>
+  
+  <InteractionSpotOutOfBounds>.ﺩﻭﺪﺤﻟﺍ ﺝﺭﺎﺧ ﻞﻋﺎﻔﺘﻟﺍ ﺔﻄﻘﻧ</InteractionSpotOutOfBounds>
+  
+  <InteractionSpotWillBeBlocked>.{labelShort_1} ﺔﻄﺳﺍﻮﺑ ﻞﻋﺎﻔﺘﻟﺍ ﺔﻄﻘﻧ ﺮﻈﺣ ﻢﺘﻴﺳ</InteractionSpotWillBeBlocked>
+  
+  <WouldBlockInteractionSpot>lookup: {1}; Case;} ﻞﻋﺎﻔﺘﻟﺍ ﺔﻄﻘﻧ ﺽﺮﺘﻌﻴﺳ {0}
+.{1</WouldBlockInteractionSpot>
+  
+  <TerrainIsAlready>.{0} ﻞﻌﻔﻟﺎﺑ ﺪﺟﻮﻳ ﺎﻨﻫ</TerrainIsAlready>
+  
+  <SurfaceBeingSmoothed>.ﺔﻳﻮﺴﺘﻠﻟ ﺩﺪﺤﻣ ﻞﻌﻔﻟﺎﺑ ﺢﻄﺴﻟﺍ</SurfaceBeingSmoothed>
+  
+  <IdenticalThingExists>.ﺎﻨﻫ ﻞﺛﺎﻤﻣ ﺮﺼﻨﻋ ﻞﻌﻔﻟﺎﺑ ﻚﻳﺪﻟ</IdenticalThingExists>
+  
+  <IdenticalBlueprintExists>.ﺎﻨﻫ ﻞﺛﺎﻤﻣ ﻉﻭﺮﺸﻣ ﻞﻌﻔﻟﺎﺑ ﻙﺎﻨﻫ</IdenticalBlueprintExists>
+  
+  <TerrainCannotSupport>.ﺢﻄﺴﻟﺍ ﻩﺬﻫ ﻰﻠﻋ {label_0} ﺀﺎﻨﺑ ﻦﻜﻤﻣ ﺮﻴﻏ</TerrainCannotSupport>
+  
+  <TerrainCannotSupport_TerrainAffordance>.{label_1} ﻞﻤﺤﺗ ﻰﻠﻋ ﺍﺭﺩﺎﻗ ﺎﺤﻄﺳ {label_0} ﺐﻠﻄﺘﻳ</TerrainCannotSupport_TerrainAffordance> 
+  
+  <TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label} 1} ﻞﻤﺤﺗ ﻪﻨﻜﻤﻳ ﺢﻄﺳ ﻰﻟﺇ ﺝﺎﺘﺤﻳ_label}
+ﻦﻣ {lookup: {2_label}; Case; 1}.</TerrainCannotSupport_TerrainAffordanceFromStuff> 
+  
+  <SpaceAlreadyOccupied>.ﻞﻌﻔﻟﺎﺑ ﺯﻮﺠﺤﻣ ﻥﺎﻜﻤﻟﺍ</SpaceAlreadyOccupied>
+  
+  <SpaceBeingSmoothed>.ﺢﻄﺴﻟﺍ ﺔﻟﺩﺎﻌﻣ ﻢﺘﺗ</SpaceBeingSmoothed>
+  
+  <TerrainMustBeRemovable>.ﺎﻨﻫ ﻪﺘﻟﺍﺯﺇ ﻢﺘﻴﻟ ﺔﻴﺿﺭﻷﺍ ﻁﻼﺑ ﺪﺟﻮﻳ ﻻ</TerrainMustBeRemovable>
+  
+  <MustBeOnMovingWater>ﺔﻴﺋﺎﻤﻟﺍ ﺔﻠﺠﻌﻟﺍ ﺐﻴﻛﺮﺗ ﻢﺘﻳ ﻥﺃ ﺪﺑ ﻻ
+.ﻖﻓﺪﺘﻤﻟﺍ ﺀﺎﻤﻟﺍ ﻯﺮﺠﻣ ﻰﻠﻋ</MustBeOnMovingWater>
+  
+  <InteractionSpotWillOverlap>lookup:} ﻞﻋﺎﻔﺘﻟﺍ ﺔﻄﻘﻧ ﻊﻣ ﻞﻋﺎﻔﺘﻟﺍ ﺔﻄﻘﻧ ﻞﺧﺍﺪﺘﺘﺳ
+{{1_labelShort}; Case; 1</InteractionSpotWillOverlap>
+  
+  <InteractionSpotOverlaps>;{lookup: {1_labelShort} ﻞﻋﺎﻔﺘﻟﺍ ﺔﻄﻘﻧ ﻞﻋﺎﻔﺘﻟﺍ ﺔﻄﻘﻧ ﺽﺮﺘﻌﺗ
+.{1 ;ﺔﻟﺎﺣ</InteractionSpotOverlaps>
+  
+  <CannotPlaceMonumentOver>lookup: {0};} ﻕﻮﻓ ﻢﻠﻌﻤﻟﺍ ﻊﺿﻭ ﻦﻜﻤﻳ ﻻ
+.{Case; 1</CannotPlaceMonumentOver>
+  
+  <CannotPlaceMonumentOnTerrain>ﻉﻮﻨﻟﺍ ﺍﺬﻫ ﻰﻠﻋ ﻢﻠﻌﻤﻟﺍ ﺀﺎﻨﺑ ﻦﻜﻤﻳ ﻻ
+.{0} :ﺲﻳﺭﺎﻀﺘﻟﺍ ﻦﻣ</CannotPlaceMonumentOnTerrain>
+  
+  <MonumentOverlapsBuilding>;{lookup: {0} ﻕﻮﻓ ﻢﻠﻌﻤﻟﺍ ﻊﺿﻭ ﻦﻜﻤﻳ ﻻ
+.{1 ;ﻒﻴﻠﻐﺘﻟﺍ</MonumentOverlapsBuilding>
+  
+  <MonumentAdjacentToBuilding>ﺪﻳﺪﺸﻟﺍ ﺏﺮﻘﻟﺍ ﻲﻓ ﻢﻠﻌﻤﻟﺍ ﻊﺿﻭ ﻦﻜﻤﻳ ﻻ
+.{lookup: {0}; Case; 2} ﻦﻣ</MonumentAdjacentToBuilding>
+  
+  <CannotBePlantedHere>.ﺎﻨﻫ ﺔﻋﺍﺭﺯ ﻦﻜﻤﻳ ﻻ</CannotBePlantedHere>
+  
+  
+  
+  <ExpandOrCreateZone>{1} ﺀﺎﺸﻧﺇn\ﻭﺃ {0} ﻊﻴﺳﻮﺗ</ExpandOrCreateZone>
+  
+  <CreateNewZone>{0} ﺀﺎﺸﻧﺇ</CreateNewZone>
+  
+  
+  
+  <TransmitsPower>ﺔﻗﺎﻄﻟﺍ ﻞﻘﻨﻳ</TransmitsPower>
+  
+  <ConstructionNeeded>ﺔﺑﻮﻠﻄﻣ ﺓﺭﺎﻬﻣ</ConstructionNeeded>
+  
+  <NoColonistWithSkillTip>lookup: {0}; Case;} ﻦﻣ ﻱﺃ ﻊﺘﻤﺘﻳ ﻻ
+.ﺓﺭﺎﻬﻤﻟﺍ ﻩﺬﻬﺑ {1</NoColonistWithSkillTip>
+  
+  <SkillNeededForConstructing>{0} ﺏﻮﻠﻄﻤﻟﺍ</SkillNeededForConstructing>
+  
+  <NoColonistWithAllSkillsForConstructing>{lookup: {0}; Case; 1} ﻦﻣ ﺪﺣﺃ ﻻ
+.ﺔﺑﻮﻠﻄﻤﻟﺍ ﺕﺍﺭﺎﻬﻤﻟﺍ ﻊﻴﻤﺟ ﻚﻠﺘﻤﻳ</NoColonistWithAllSkillsForConstructing>
+  
+  <AllColonistsWithSkillHaveDisabledConstructingTip>lookup: {0}; Case;} ﻦﻣ ﻱﺃ ﺪﺟﻮﻳ ﻻ
+.{1} ﻦﻴﻌﻤﻟﺍ ﺓﺭﺎﻬﻤﻟﺍ ﻩﺬﻬﺑ ﺮﻫﺎﻤﻟﺍ {1</AllColonistsWithSkillHaveDisabledConstructingTip>
+
+</LanguageData>
