@@ -1,0 +1,64 @@
+<LanguageData>
+  
+  
+  <Ancients.label>ﻦﻳﺪﻳﺎﺤﻣ ﺀﺎﻣﺪﻗ</Ancients.label>
+  
+  <Ancients.fixedName>ﺀﺎﻣﺪﻘﻟﺍ</Ancients.fixedName>
+  
+  <Ancients.leaderTitle>ﻢﻴﻋﺰﻟﺍ</Ancients.leaderTitle>
+  
+  <Ancients.pawnSingular>ﻢﻳﺪﻗ</Ancients.pawnSingular>
+  
+  <Ancients.pawnsPlural>ﺀﺎﻣﺪﻘﻟﺍ</Ancients.pawnsPlural>
+  
+  
+  <AncientsHostile.label>ﻦﻴﻣﺪﻗﻷﺍ ﺀﺍﺪﻋﺃ</AncientsHostile.label>
+  
+  <AncientsHostile.fixedName>ﺀﺎﻣﺪﻗﻷﺍ</AncientsHostile.fixedName>
+  
+  <AncientsHostile.leaderTitle>ﻢﻴﻋﺰﻟﺍ</AncientsHostile.leaderTitle>
+  
+  <AncientsHostile.pawnSingular>ﻢﻳﺪﻗ</AncientsHostile.pawnSingular>
+  
+  <AncientsHostile.pawnsPlural>ﺀﺎﻣﺪﻘﻟﺍ</AncientsHostile.pawnsPlural>
+  
+  
+  <Insect.label>ﺕﺍﺮﺸﺤﻟﺍ</Insect.label>
+  
+  <Insect.description>ﺽﺭﻷﺍ ﺖﺤﺗ ﺶﻴﻌﺗ ﺔﻗﻼﻤﻌﻟﺍ ﺕﺍﺮﺸﺤﻟﺍ ﻪﺒﺸﺗ ﺕﺎﻨﺋﺎﻛ
+ﺀﺎﺿﻮﻀﻟﺍ ﺏﺬﺟ ﻦﻣ ﺢﻄﺴﻟﺍ ﻰﻟﺇ ﺝﺮﺨﺗ ﻦﻜﻟﻭ
+ﻡﻮﺠﻨﻟﺍ ﻦﻴﺑ ﻝﺎﻤﻋﻷﺍ ﺩﺍﻭﺭ ﻦﻜﻤﺗ .ﺕﺎﻧﻮﻣﻭﺮﻴﻔﻟﺍ ﻭﺃ
+ﻥﺭﻮﺳ ﻡﻷﺍ ﻢﻬﺒﻛﻮﻛ ﻲﻓ ﻢﻬﻴﻠﻋ ﺾﺒﻘﻟﺍ ﻦﻣ
+.ﺡﻼﺴﻛ ﺎﻬﻣﺍﺪﺨﺘﺳﻻ ﺕﺍﺮﻤﻌﺘﺴﻣ ﺓﺪﻋ ﺔﻋﺍﺭﺯﻭ ﺎﻴﺛﺍﺭﻭ ﻢﻬﻠﻳﺪﻌﺗﻭ
+ﻦﻣ ﺕﺍﺮﺸﺤﻟﺍ ﺐﻠﺟ ﻦﻣ ﺢﺿﺍﻮﻟﺍ ﺮﻴﻏ ﻦﻣ
+ﻑﻭﺮﻌﻤﻟﺍ ﻦﻣ ﻦﻜﻟﻭ ﺐﻛﻮﻜﻟﺍ ﺍﺬﻫ ﻰﻟﺇ ﻥﺭﻮﺳ
+.ﻦﻳﺮﻄﺧ ﻥﻮﻟﺍﺰﻳ ﻻﻭ ﺎﻨﻫ ﻢﻬﻧﺃ ﺪﻴﻛﺄﺘﻟﺎﺑ</Insect.description>
+  
+  <Insect.fixedName>ﻥﺭﻮﺳ ﻡﻮﻨﻴﺟ</Insect.fixedName>
+  
+  <Insect.leaderTitle>ﻢﻴﻋﺰﻟﺍ</Insect.leaderTitle>
+  
+  <Insect.pawnSingular>ﺓﺮﺸﺣ</Insect.pawnSingular>
+  
+  <Insect.pawnsPlural>ﺕﺍﺮﺸﺤﻟﺍ</Insect.pawnsPlural>
+  
+  
+  <Mechanoid.label>ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻊﻤﺠﺗ</Mechanoid.label>
+  
+  <Mechanoid.description>ﻲﻓ ﺓﺄﺒﺨﻣ .ﺄﺸﻨﻤﻟﺍ ﺔﻓﻭﺮﻌﻣ ﺮﻴﻏ ﺔﻠﺗﺎﻗ ﺕﻻﺁ
+ﺔﺑﺮﺗﻷﺍ ﻦﻣ ﺝﺍﺮﺑﺃ ﺖﺤﺗ ﻭﺃ ﺔﻤﻳﺪﻘﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ
+ﻑﻻﻵ ﻲﺋﺎﻘﻠﺘﻟﺍ ﻞﻴﻐﺸﺘﻟﺍ ﺕﻻﻵﺍ ﻩﺬﻫ ﻊﻴﻄﺘﺴﺗ ،ﻝﺎﻣﺮﻟﺍﻭ
+ﺔﻋﻮﻤﺠﻣ ﻩﺬﻫ ﻥﺃ ﻦﻴﻴﻠﺤﻤﻟﺍ ﺀﺎﻤﻠﻌﻟﺍ ﺪﻘﺘﻌﻳ .ﻦﻴﻨﺴﻟﺍ
+ﺐﺗﺮﻣ ﺮﻴﻏ ﺪﺣﺍﻭ ﻑﺪﻫ ﻞﻤﺤﺗ ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ ﻦﻣ
+ﺏﺮﺣ ﺙﺍﺮﻴﻣ ﻦﻣ ﺔﻴﺗﺍﺫ ﺔﺤﻠﺳﺃ ﻲﻫﻭ ،ﺍﺪﻴﺟ
+ﻩﺬﻫ ﺮﻬﻈﺗ ،ﺔﻳﺮﺒﻟﺍ ﻞﺋﺎﺒﻘﻟﺍ ﺮﻴﻃﺎﺳﺃ ﻲﻓﻭ .ﺔﻤﻳﺪﻗ
+.ﻢﺋﺎﻧ ﻪﻟﻹ ﻦﻴﻴﻧﺎﻄﻴﺷ ﻡﺪﺨﻛ ﺕﻻﻵﺍ</Mechanoid.description>
+  <Mechanoid.fixedName>ﺪﻳﻮﻧﺎﻜﻴﻣ ﺝﻭﺭ</Mechanoid.fixedName>
+  
+  <Mechanoid.leaderTitle>ﺪﺋﺎﻘﻟﺍ</Mechanoid.leaderTitle>
+  
+  <Mechanoid.pawnSingular>ﺪﻳﻮﻧﺎﻜﻴﻣ</Mechanoid.pawnSingular>
+  
+  <Mechanoid.pawnsPlural>ﺕﺍﺪﻳﻮﻧﺎﻜﻴﻤﻟﺍ</Mechanoid.pawnsPlural>
+  
+</LanguageData>
