@@ -1,0 +1,42 @@
+<LanguageData>
+  
+  
+  <Make_StoneBlocksGranite.label>ﺖﻴﻧﺍﺮﺠﻟﺍ ﻞﺘﻛ ﻊﻨﺻ</Make_StoneBlocksGranite.label>
+  
+  <Make_StoneBlocksGranite.description>ﺔﺒﺳﺎﻨﻣ ﻞﺘﻛ ﻰﻟﺇ ﺓﺮﺴﻜﺘﻤﻟﺍ ﺖﻴﻧﺍﺮﻐﻟﺍ ﻊﻄﻗ ﻊﻄﻗ
+.ﺀﺎﻨﺒﻠﻟ</Make_StoneBlocksGranite.description>
+  
+  <Make_StoneBlocksGranite.jobString>.ﺖﻴﻧﺍﺮﻐﻟﺍ ﻞﺘﻛ ﻊﻨﺼﺗ</Make_StoneBlocksGranite.jobString>
+  
+  
+  <Make_StoneBlocksLimestone.label>ﻱﺮﻴﺠﻟﺍ ﺮﺠﺤﻟﺍ ﻞﺘﻛ ﺝﺎﺘﻧﺇ</Make_StoneBlocksLimestone.label>
+  
+  <Make_StoneBlocksLimestone.description>ﺔﻤﺋﻼﻣ ﻞﺘﻛ ﻰﻟﺇ ﻱﺮﻴﺠﻟﺍ ﺮﺠﺤﻟﺍ ﻡﺎﻄﺣ ﻢﻴﺴﻘﺗ
+.ﺀﺎﻨﺒﻠﻟ</Make_StoneBlocksLimestone.description>
+  
+  <Make_StoneBlocksLimestone.jobString>ﻱﺮﻴﺠﻟﺍ ﺮﺠﺤﻟﺍ ﻞﺘﻛ ﻊﻨﺼﻳ</Make_StoneBlocksLimestone.jobString>
+  
+  
+  <Make_StoneBlocksMarble.label>ﻡﺎﺧﺮﻟﺍ ﻞﺘﻛ ﻊﻨﺻ</Make_StoneBlocksMarble.label>
+  
+  <Make_StoneBlocksMarble.description>.ﺀﺎﻨﺒﻠﻟ ﺔﺒﺳﺎﻨﻣ ﻊﻄﻗ ﻰﻟﺍ ﻡﺎﺧﺮﻟﺍ ﻊﻄﻗ ﻊﻄﻗ</Make_StoneBlocksMarble.description>
+  
+  <Make_StoneBlocksMarble.jobString>ﻡﺎﺧﺮﻟﺍ ﻞﺘﻛ ﻊﻨﺼﻳ</Make_StoneBlocksMarble.jobString>
+  
+  
+  <Make_StoneBlocksSandstone.label>ﻲﻠﻣﺮﻟﺍ ﺮﺠﺤﻟﺍ ﻦﻣ ﻞﺘﻛ ﻊﻨﺻ</Make_StoneBlocksSandstone.label>
+  
+  <Make_StoneBlocksSandstone.description>ﺔﺤﻟﺎﺻ ﻊﻄﻗ ﻰﻟﺇ ﻲﻠﻣﺮﻟﺍ ﺮﺨﺼﻟﺍ ﻡﺎﻄﺣ ﻊﻄﻗ
+.ﺀﺎﻨﺒﻠﻟ</Make_StoneBlocksSandstone.description>
+  
+  <Make_StoneBlocksSandstone.jobString>ﻞﻣﺮﻟﺍ ﻞﺘﻛ ﻊﻨﺼﻳ</Make_StoneBlocksSandstone.jobString>
+  
+  
+  <Make_StoneBlocksSlate.label>ﻲﻠﻣﺮﻟﺍ ﺮﺨﺼﻟﺍ ﻞﺘﻛ ﻊﻨﺻ</Make_StoneBlocksSlate.label>
+  
+  <Make_StoneBlocksSlate.description>ﺔﺒﺳﺎﻨﻣ ﻞﺘﻛ ﻰﻟﺇ ﺖﻴﻧﺍﺮﻐﻟﺍ ﻊﻗﺍﻮﻗ ﻊﻴﻄﻘﺘﺑ ﻢﻗ
+.ﺀﺎﻨﺒﻠﻟ</Make_StoneBlocksSlate.description>
+  
+  <Make_StoneBlocksSlate.jobString>ﺖﺴﻴﺸﻟﺍ ﻦﻣ ﻞﺘﻛ ﻊﻨﺼﻳ</Make_StoneBlocksSlate.jobString>
+  
+</LanguageData>
