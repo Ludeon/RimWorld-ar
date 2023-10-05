@@ -1,0 +1,137 @@
+<LanguageData>
+  
+  
+  <Bison.label>.ﻥﻮﺴﻴﺒﻟﺍ</Bison.label>
+  <Bison.labelPlural>ﻦﻴﻴﻣﻮﻘﻟﺍ</Bison.labelPlural>
+  
+  <Bison.lifeStages.bison_calf.label>ﻲﺑﺎﻨﻌﻟﺍ ﻞﺠﻌﻟﺍ</Bison.lifeStages.bison_calf.label>
+  
+  <Bison.lifeStages.bison_calf.labelPlural>ﺔﻳﺮﺒﻟﺍ ﻝﻮﺠﻌﻟﺍ</Bison.lifeStages.bison_calf.labelPlural>
+  <Bison.lifeStages.1.label>ﺮﻴﻐﺻ ﺪﻬﻓ</Bison.lifeStages.1.label>
+  
+  
+  <Boomalope.label>ﺎﺑﻮﻟﺎﻣﻮﺑ</Boomalope.label>
+  <Boomalope.labelPlural>ﺲﻴﺑﻮﻟﺎﻣﻮﺑ</Boomalope.labelPlural>
+  
+  <Boomalope.lifeStages.boomalope_calf.label>ﺀﻱﺮﺟﻭ ﺡﺮﻣ ﻞﺠﻌﻟﺍ ﻞﺗ</Boomalope.lifeStages.boomalope_calf.label>
+  
+  <Boomalope.lifeStages.boomalope_calf.labelPlural>ﺔﻧﺎﻧﺮﻟﺍ ﻝﻮﺠﻌﻟﺍ</Boomalope.lifeStages.boomalope_calf.labelPlural>
+  <Boomalope.lifeStages.1.label>ﺎﺑﻮﻟﺎﻣﻮﺑ ﺔﺑﺎﺷ</Boomalope.lifeStages.1.label>
+  
+  
+  <Caribou.label>ﻲﻟﺎﻤﺸﻟﺍ ﻝﺍﺰﻐﻟﺍ</Caribou.label>
+  <Caribou.labelFemale>.ﺔﻴﻟﺎﻤﺸﻟﺍ ﺞﻳﻭﺮﻨﻟﺍ</Caribou.labelFemale>
+  
+  <Caribou.labelPlural>ﺔﻴﻟﺎﻤﺸﻟﺍ ﺔﻠﻳﻷﺍ</Caribou.labelPlural>
+  
+  <Caribou.lifeStages.caribou_calf.label>ﺔﻴﻟﺎﻤﺸﻟﺍ ﺔﻠﻳﺮﻤﻟﺍ</Caribou.lifeStages.caribou_calf.label>
+  
+  <Caribou.lifeStages.caribou_calf.labelPlural>ﺔﻴﻟﺎﻤﺸﻟﺍ ﻥﻻﺰﻐﻟﺍ</Caribou.lifeStages.caribou_calf.labelPlural>
+  <Caribou.lifeStages.1.label>ﺮﻴﻐﺼﻟﺍ ﻲﻟﺎﻤﺸﻟﺍ ﻲﺒﻈﻟﺍ</Caribou.lifeStages.1.label>
+  <Caribou.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﺔﻴﻟﺎﻤﺷ ﺔﻠﻳﺃ</Caribou.lifeStages.1.labelFemale>
+  
+  
+  <Cow.label>ﺓﺮﻘﺒﻟﺍ</Cow.label>
+  <Cow.labelFemale>ﺓﺮﻘﺒﻟﺍ</Cow.labelFemale>
+  
+  <Cow.labelMale>ﺱﻭﺭﻮﺗ</Cow.labelMale>
+  <Cow.labelPlural>ﺭﺎﻘﺑﻷﺍ</Cow.labelPlural>
+  
+  <Cow.lifeStages.calf.label>ﺔﻧﻭﺰﻔﻠﺗ</Cow.lifeStages.calf.label>
+  
+  <Cow.lifeStages.calf.labelPlural>ﻝﻮﺠﻌﻟﺍ</Cow.lifeStages.calf.labelPlural>
+  <Cow.lifeStages.1.labelFemale>ﺓﺎﺘﻓ</Cow.lifeStages.1.labelFemale>
+  <Cow.lifeStages.1.labelMale>ﺭﻮﺜﻟﺍ</Cow.lifeStages.1.labelMale>
+  
+  
+  <Donkey.label>ﻞﻐﺒﻟﺍ</Donkey.label>
+  <Donkey.labelFemale>ﻞﻐﺒﻟﺍ</Donkey.labelFemale>
+  <Donkey.labelPlural>ﺔﻨﺼﺣﻷﺍ</Donkey.labelPlural>
+  
+  <Donkey.lifeStages.donkey_foal.label>ﺮﻴﻐﺼﻟﺍ ﻞﻴﻔﻟﺍ</Donkey.lifeStages.donkey_foal.label>
+  <Donkey.lifeStages.1.label>ﺮﻴﻐﺻ ﺭﺎﻤﺣ</Donkey.lifeStages.1.label>
+  <Donkey.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﺓﺭﺎﻤﺣ</Donkey.lifeStages.1.labelFemale>
+  
+  
+  <Dromedary.label>ﻞﻤﺠﻟﺍ</Dromedary.label>
+  <Dromedary.labelFemale>ﻞﺑﻹﺍ</Dromedary.labelFemale>
+  
+  <Dromedary.labelPlural>ﻝﺎﻤﺠﻟﺍ</Dromedary.labelPlural>
+  
+  <Dromedary.lifeStages.dromedary_calf.label>ﺓﺮﻴﻐﺻ ﻞﻤﺟ</Dromedary.lifeStages.dromedary_calf.label>
+  
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>ﻝﺎﻤﺠﻟﺍ</Dromedary.lifeStages.dromedary_calf.labelPlural>
+  <Dromedary.lifeStages.1.label>ﺮﻴﻐﺻ ﺐﺋﺫ ﺔﻠﻤﺟ</Dromedary.lifeStages.1.label>
+  <Dromedary.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﻞﻤﺟ ﻰﺜﻧﺃ</Dromedary.lifeStages.1.labelFemale>
+  
+  
+  <Elephant.label>ﻞﻴﻔﻟﺍ</Elephant.label>
+  <Elephant.labelFemale>ﺔﻠﻴﻔﻟﺍ</Elephant.labelFemale>
+  <Elephant.labelPlural>ﺔﻠﻴﻔﻟﺍ</Elephant.labelPlural>
+  
+  <Elephant.lifeStages.elephant_calf.label>.ﺮﻴﻐﺼﻟﺍ ﻞﻴﻔﻟﺍ</Elephant.lifeStages.elephant_calf.label>
+  <Elephant.lifeStages.1.label>ﺮﻴﻐﺻ ﻞﻴﻓ</Elephant.lifeStages.1.label>
+  <Elephant.lifeStages.1.labelFemale>ﺮﻴﻐﺻ ﻞﻴﻓ</Elephant.lifeStages.1.labelFemale>
+  
+  
+  <Elk.label>ﺔﻴﺒﻈﻟﺍ</Elk.label>
+  
+  <Elk.labelPlural>ﻥﻻﺰﻐﻟﺍ</Elk.labelPlural>
+  
+  <Elk.lifeStages.elk_calf.label>ﻝﺍﺭﺎﻣ ﻝﻼﺗ</Elk.lifeStages.elk_calf.label>
+  
+  <Elk.lifeStages.elk_calf.labelPlural>ﻞﺒﺠﻟﺍ ﻞﺠﻋ ﻍﺍﻮﻴﺗ</Elk.lifeStages.elk_calf.labelPlural>
+  <Elk.lifeStages.1.label>ﺮﻴﻐﺼﻟﺍ ﻝﺍﺰﻐﻟﺍ</Elk.lifeStages.1.label>
+  
+  
+  <Goat.label>ﺰﻋﺎﻤﻟﺍ</Goat.label>
+  
+  <Goat.labelFemale>ﺰﻋﺎﻤﻟﺍ</Goat.labelFemale>
+  <Goat.labelMale>ﺭﺎﻤﺤﻟﺍ</Goat.labelMale>
+  <Goat.labelPlural>ﺭﺎﻘﺑﻷﺍ</Goat.labelPlural>
+  
+  <Goat.lifeStages.baby_goat.label>ﻱﺪﺟ</Goat.lifeStages.baby_goat.label>
+  <Goat.lifeStages.1.label>.ﺓﺮﻴﻐﺼﻟﺍ ﺓﺰﻋﺎﻤﻟﺍ</Goat.lifeStages.1.label>
+  <Goat.lifeStages.1.labelMale>ﻲﺒﻏ ﺏﺎﺷ</Goat.lifeStages.1.labelMale>
+  
+  
+  <Horse.label>ﻥﺎﺼﺣ</Horse.label>
+  
+  <Horse.labelFemale>ﺱﺮﻔﻟﺍ</Horse.labelFemale>
+  
+  <Horse.labelMale>ﻥﺎﺼﺣ</Horse.labelMale>
+  <Horse.labelPlural>ﻝﻮﻴﺨﻟﺍ</Horse.labelPlural>
+  
+  <Horse.lifeStages.foal.label>.ﺮﻬﻤﻟﺍ</Horse.lifeStages.foal.label>
+  <Horse.lifeStages.1.labelFemale>ﺓﺮﻴﻐﺻ ﺱﺮﻓ</Horse.lifeStages.1.labelFemale>
+  <Horse.lifeStages.1.labelMale>ﺮﻴﻐﺼﻟﺍ ﺩﺍﻮﺠﻟﺍ</Horse.lifeStages.1.labelMale>
+  
+  
+  <Muffalo.label>ﻑﻮﻔﻠﻔﻣ</Muffalo.label>
+  <Muffalo.labelPlural>ﻮﻟﺎﻓﻮﻣ</Muffalo.labelPlural>
+  
+  <Muffalo.lifeStages.muffalo_calf.label>.ﻮﻠﻓﺎﻤﻟﺍ ﺔﻠﺗ</Muffalo.lifeStages.muffalo_calf.label>
+  
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>.ﻮﻠﻓﻮﻠﻔﻤﻟﺍ ﺏﺭﺎﺠﺗ</Muffalo.lifeStages.muffalo_calf.labelPlural>
+  <Muffalo.lifeStages.1.label>ﻮﻟﺎﻓﻮﻤﻟﺍ ﻞﺠﻋ</Muffalo.lifeStages.1.label>
+  
+  
+  <Rhinoceros.label>ﺪﻴﺣﻮﻟﺍ</Rhinoceros.label>
+  
+  <Rhinoceros.labelPlural>ﺔﻴﺸﺣﻭ ﺱﻮﻣﺎﺟ-ﺵﻮﺣﻮﻟﺍ</Rhinoceros.labelPlural>
+  <Rhinoceros.lifeStages.0.label>ﺮﻴﻐﺻ ﺡﺎﺴﻤﺗ</Rhinoceros.lifeStages.0.label>
+  <Rhinoceros.lifeStages.0.labelPlural>ﻝﺎﻴﻓﺃ ﻥﺍﻭﺮﺟ ﻡﺃﻮﺗ</Rhinoceros.lifeStages.0.labelPlural>
+  <Rhinoceros.lifeStages.1.label>ﺶﻴﺣﻮﻟﺍ ﺏﺎﺒﺷ</Rhinoceros.lifeStages.1.label>
+  
+  
+  <Yak.label>ﻡﺎﻨﻏﺃ</Yak.label>
+  
+  <Yak.labelMale>ﻡﺎﻨﻏﺃ</Yak.labelMale>
+  <Yak.labelPlural>ﻲﻛﺎﻳ</Yak.labelPlural>
+  
+  <Yak.lifeStages.yak_calf.label>ﻲﻧﺎﻌﻳ ،ﺮﻴﻐﺻ ،ﻞﺗ</Yak.lifeStages.yak_calf.label>
+  
+  <Yak.lifeStages.yak_calf.labelPlural>ﺔﻋﺎﻤﺟﺎﻳ ﺶﻳﻮﺸﺗ</Yak.lifeStages.yak_calf.labelPlural>
+  <Yak.lifeStages.1.label>ﺔﻗﺎﻳ ﺏﺎﺷ</Yak.lifeStages.1.label>
+  
+</LanguageData>
