@@ -1,0 +1,38 @@
+<LanguageData>
+  
+  
+  <Campfire.label>ﻢﻴﺨﻤﻟﺍ ﺭﺎﻧ</Campfire.label>
+  
+  <Campfire.description>ﺓﺪﻌﻟ ﻕﺮﺘﺤﻳ .ﺔﻓﺮﻐﻟﺍ ﺔﺌﻓﺪﺗﻭ ﻡﺎﻌﻄﻟﺍ ﻲﻬﻄﺑ ﺢﻤﺴﻳ
+ﺔﺣﺎﺴﻣ ﻲﻓ ﺭﺎﻨﻟﺍ ﺪﻗﻮﻣ ﻊﺿﻭ ﺐﺠﻳ .ﻡﺎﻳﺃ
+.ﺮﺧﺁ ﺓﺭﺍﺮﺣ ﺭﺪﺼﻣ ﻱﺃ ﻞﺜﻣ ،ﺎﻬﻨﻴﺨﺴﺘﻟ ﺔﻘﻠﻐﻣ</Campfire.description>
+  
+  
+  <Cooler.label>ﻒﻴﻴﻜﺘﻟﺍ</Cooler.label>
+  
+  <Cooler.description>ﺩﺮﺒﻳﻭ ﻂﺋﺎﺤﻟﺍ ﻲﻓ ﻪﺘﻴﺒﺜﺗ ﻢﺘﻳ ﻲﺋﺎﺑﺮﻬﻛ ﺯﺎﻬﺟ
+.ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﻦﺨﺴﻳ ﻪﻨﻣ ﻲﻔﻠﺨﻟﺍ ﺀﺰﺠﻟﺍ .ﻥﺎﻜﻤﻟﺍ
+ﻭﺃ ﻒﻴﺼﻟﺍ ﻲﻓ ﺔﻓﺮﻐﻟﺍ ﺪﻳﺮﺒﺘﻟ ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ
+.ﺔﺟﻼﺜﻟﺍ ﺯﺎﻬﺠﻟ</Cooler.description>
+  
+  
+  <Heater.label>ﻥﺎﺨﺳ</Heater.label>
+  
+  <Heater.description>ﻪﻨﻜﻤﻳﻭ ﺓﺭﺍﺮﺣ ﻰﻟﺇ ﺀﺎﺑﺮﻬﻜﻟﺍ ﻝﻮﺤﻳ ﻲﺋﺎﺑﺮﻬﻛ ﺯﺎﻬﺟ
+ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻢﺘﻳ ﺎﻣﺪﻨﻋ ﺎﻴﺋﺎﻘﻠﺗ ﻞﻴﻐﺸﺘﻟﺍﻭ ﺀﺎﻔﻄﻧﻻﺍ
+.ﺓﺩﺪﺤﻣ ﺓﺭﺍﺮﺣ ﺔﺟﺭﺩ</Heater.description>
+  
+  
+  <PassiveCooler.label>ﻱﺭﺎﺨﺑ ﺩﺮﺒﻣ</PassiveCooler.label>
+  
+  <PassiveCooler.description>ﻞﻤﻌﻳﻭ ﺀﺎﺑﺮﻬﻛ ﺐﻠﻄﺘﻳ ﻻ ﻱﺪﻴﻠﻘﺗ ﺪﻳﺮﺒﺗ ﻡﺎﻈﻧ
+.ﺔﻳﺭﻭﺩ ﺔﻧﺎﻴﺻ ﺐﻠﻄﺘﻳ .ﺀﺎﻤﻟﺍ ﺮﺨﺒﺗ ﻖﻳﺮﻃ ﻦﻋ
+.ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ ﺪﻴﻤﺠﺘﻟ ﺐﺳﺎﻨﻣ ﺮﻴﻏ</PassiveCooler.description>
+  
+  
+  <Vent.label>ﺔﻳﻮﻬﺘﻟﺍ</Vent.label>
+  
+  <Vent.description>ﻝﻭﺍﺪﺘﻟﺎﺑ ﺀﺍﻮﻬﻠﻟ ﺢﻤﺴﺗ ﻲﺘﻟﺍ ﺔﻳﺩﺎﻌﻟﺍ ﺔﻳﻮﻬﺘﻟﺍ ﺐﻴﺑﺎﻧﺃ
+.ﻦﻴﺗﺭﻭﺎﺠﻣ ﻦﻴﺘﻓﺮﻏ ﻦﻴﺑ</Vent.description>
+  
+</LanguageData>
