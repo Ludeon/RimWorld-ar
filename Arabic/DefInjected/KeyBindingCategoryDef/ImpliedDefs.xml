@@ -1,0 +1,75 @@
+<LanguageData>
+  
+  
+  <Architect_Floors.label>"ﺔﻴﻄﻐﺘﻟﺍ" ﺔﻤﺋﺎﻗ</Architect_Floors.label>
+  
+  <Architect_Floors.description>ﺔﻤﺋﺎﻗ ﻲﻓ "ﺔﻴﻄﻐﺘﻟﺍ" ﻢﺴﻗ ﻲﻓ ﺢﻴﺗﺎﻔﻣ ﻦﻴﻴﻌﺗ
+."ﻊﻳﺭﺎﺸﻤﻟﺍ"</Architect_Floors.description>
+  
+  
+  <Architect_Furniture.label>"ﺙﺎﺛﻷﺍ" ﺔﻤﺋﺎﻘﻟﺍ</Architect_Furniture.label>
+  
+  <Architect_Furniture.description>ﺔﻤﺋﺎﻗ ﻲﻓ "ﺙﺎﺛﻷﺍ" ﻢﺴﻗ ﻲﻓ ﺢﻴﺗﺎﻔﻣ ﺩﺍﺪﻋﺇ
+"ﻊﻳﺭﺎﺸﻤﻟﺍ"</Architect_Furniture.description>
+  
+  
+  <Architect_Joy.label>"ﻪﻴﻓﺮﺘﻟﺍ" ﺔﻤﺋﺎﻗ</Architect_Joy.label>
+  
+  <Architect_Joy.description>ﺔﻤﺋﺎﻗ ﻲﻓ "ﻪﻴﻓﺮﺗ" ﻢﺴﻗ ﻲﻓ ﺢﻴﺗﺎﻔﻣ ﻦﻴﻴﻌﺗ
+"ﻊﻳﺭﺎﺸﻤﻟﺍ"</Architect_Joy.description>
+  
+  
+  <Architect_Misc.label>"ﺔﻋﻮﻨﺘﻣ" ﺔﻤﺋﺎﻘﻟﺍ</Architect_Misc.label>
+  
+  <Architect_Misc.description>ﺔﻤﺋﺎﻗ ﻲﻓ "ﻉﻮﻨﺘﻣ" ﻢﺴﻗ ﻲﻓ ﺢﻴﺗﺎﻔﻣ ﻦﻴﻴﻌﺗ
+"ﻊﻳﺭﺎﺸﻤﻟﺍ"</Architect_Misc.description>
+  
+  
+  <Architect_Orders.label>"ﺮﻣﺍﻭﻷﺍ" ﺔﻤﺋﺎﻗ</Architect_Orders.label>
+  
+  <Architect_Orders.description>ﺔﻤﺋﺎﻗ ﻲﻓ "ﺮﻣﺍﻭﻷﺍ" ﻢﺴﻗ ﻲﻓ ﺢﻴﺗﺎﻔﻤﻟﺍ ﻦﻴﻴﻌﺗ
+"ﻊﻳﺭﺎﺸﻤﻟﺍ"</Architect_Orders.description>
+  
+  
+  <Architect_Power.label>"ﺔﻗﺎﻄﻟﺍ" ﺔﻤﺋﺎﻘﻟﺍ</Architect_Power.label>
+  
+  <Architect_Power.description>ﺔﻤﺋﺎﻗ ﻲﻓ "ﺔﻗﺎﻄﻟﺍ" ﻢﺴﻗ ﻲﻓ ﺢﻴﺗﺎﻔﻣ ﻦﻴﻴﻌﺗ
+"ﻊﻳﺭﺎﺸﻤﻟﺍ"</Architect_Power.description>
+  
+  
+  <Architect_Production.label>"ﺝﺎﺘﻧﻹﺍ" ﺔﻤﺋﺎﻗ</Architect_Production.label>
+  
+  <Architect_Production.description>ﺔﻤﺋﺎﻗ ﻲﻓ "ﺝﺎﺘﻧﻹﺍ" ﻢﺴﻗ ﻲﻓ ﺢﻴﺗﺎﻔﻤﻟﺍ ﺺﻴﺼﺨﺗ
+."ﻊﻳﺭﺎﺸﻤﻟﺍ"</Architect_Production.description>
+  
+  
+  <Architect_Security.label>"ﻉﺎﻓﺪﻟﺍ" ﺔﻤﺋﺎﻘﻟﺍ</Architect_Security.label>
+  
+  <Architect_Security.description>ﺔﻤﺋﺎﻗ ﻦﻣ "ﻉﺎﻓﺪﻟﺍ" ﻢﺴﻗ ﻲﻓ ﺢﻴﺗﺎﻔﻤﻟﺍ ﻦﻴﻴﻌﺗ
+"ﻊﻳﺭﺎﺸﻤﻟﺍ"</Architect_Security.description>
+  
+  
+  <Architect_Ship.label>"ﺔﻨﻴﻔﺴﻟﺍ" ﺔﻤﺋﺎﻗ</Architect_Ship.label>
+  
+  <Architect_Ship.description>ﺔﻤﺋﺎﻗ ﻲﻓ "ﺔﻨﻴﻔﺴﻟﺍ" ﻢﺴﻗ ﻲﻓ ﺢﻴﺗﺎﻔﻣ ﻦﻴﻴﻌﺗ
+"ﻊﻳﺭﺎﺸﻤﻟﺍ"</Architect_Ship.description>
+  
+  
+  <Architect_Structure.label>"ﺀﺎﻨﺒﻟﺍ" ﺔﻤﺋﺎﻗ</Architect_Structure.label>
+  
+  <Architect_Structure.description>ﺔﻤﺋﺎﻗ ﻲﻓ "ﺀﺎﻨﺒﻟﺍ" ﻢﺴﻗ ﻲﻓ ﺢﻴﺗﺎﻔﻤﻟﺍ ﺺﻴﺼﺨﺗ
+"ﻊﻳﺭﺎﺸﻤﻟﺍ"</Architect_Structure.description>
+  
+  
+  <Architect_Temperature.label>"ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ" ﺔﻤﺋﺎﻗ</Architect_Temperature.label>
+  
+  <Architect_Temperature.description>ﻲﻓ "ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ" ﻢﺴﻗ ﻲﻓ ﺢﻴﺗﺎﻔﻣ ﻦﻴﻴﻌﺗ
+"ﻊﻳﺭﺎﺸﻤﻟﺍ" ﺔﻤﺋﺎﻗ</Architect_Temperature.description>
+  
+  
+  <Architect_Zone.label>"ﻖﻃﺎﻨﻤﻟﺍ" ﺔﻤﺋﺎﻘﻟﺍ</Architect_Zone.label>
+  
+  <Architect_Zone.description>ﺔﻤﺋﺎﻗ ﻲﻓ "ﻖﻃﺎﻨﻤﻟﺍ" ﻢﺴﻗ ﻲﻓ ﺭﺍﺭﺯﺃ ﻦﻴﻴﻌﺗ
+"ﻊﻳﺭﺎﺸﻤﻟﺍ"</Architect_Zone.description>
+  
+</LanguageData>
