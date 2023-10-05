@@ -1,0 +1,39 @@
+<LanguageData>
+  
+  
+  <SmokeleafAddiction.label>ﻦﻴﺧﺪﺘﻟﺍ ﺕﺎﺒﻧ ﻰﻠﻋ ﺩﺎﻤﺘﻋﺍ</SmokeleafAddiction.label>
+  
+  <SmokeleafAddiction.description>ﺮﻤﺘﺴﻤﻟﺍ ﻪﻣﺍﺪﺨﺘﺳﺍ ﺐﺒﺴﻳ .ﺔﻨﺧﺪﻤﻟﺍ ﺔﻗﺭﻮﻟﺍ ﻰﻠﻋ ﻥﺎﻣﺩﻹﺍ
+ﺎﻤﻣ ، ﺎﻳﻼﺨﻟﺍ ﻯﻮﺘﺴﻣ ﻰﻠﻋ ﺔﻴﺒﺼﻋ ﺕﺍﺮﻴﻐﺗ
+ﻰﻠﻋ ﺍﺭﺩﺎﻗ ﺪﻌﻳ ﻢﻟ ﻍﺎﻣﺪﻟﺍ ﻥﺃ ﻲﻨﻌﻳ
+.ﺓﺩﺎﻤﻟﺍ ﻥﻭﺪﺑ ﺔﻴﻌﻴﺒﻄﻟﺍ ﻒﺋﺎﻇﻮﻟﺍ
+
+ﺔﻨﺧﺪﻤﻟﺍ ﺔﻗﺭﻮﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻒﻗﻮﺗ ﺪﻌﺑ ﺏﺎﺤﺴﻧﺎﺑ ﺮﻌﺸﺘﺳ
+ﺪﻋﺎﺴﻴﺳ ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﻉﺎﻨﺘﻣﻻﺍ .ﺔﺳﺎﻜﺘﻧﻻﺍ - ﺔﺠﻟﺎﻌﻤﻟﺍ
+ﺺﻠﺨﺘﻟﺍﻭ ﺔﻴﻌﻴﺒﻄﻟﺍ ﻪﺘﻟﺎﺣ ﻰﻟﺇ ﺓﺩﻮﻌﻟﺍ ﻰﻠﻋ ﻍﺎﻣﺪﻟﺍ
+.ﻥﺎﻣﺩﻹﺍ ﻦﻣ</SmokeleafAddiction.description>
+  
+  <SmokeleafAddiction.stages.withdrawal.label>ﻞﻄﻌﺗ</SmokeleafAddiction.stages.withdrawal.label>
+  
+  
+  <SmokeleafHigh.label>ﺔﻣﻮﻨﻤﻟﺍ ﺏﺎﺸﻋﻷﺎﺑ ﺓﺪﺸﺑ ﺮﺛﺄﺘﻣ</SmokeleafHigh.label>
+  
+  <SmokeleafHigh.description>ﻕﺍﺭﻭﺃ ﻦﻣ ﺔﻄﺸﻧ ﺔﻴﺋﺎﻴﻤﻴﻛ ﺩﺍﻮﻣ ﻡﺪﻟﺍ ﻲﻓ
+.ﺀﺎﺧﺮﺘﺳﻻﺍﻭ ﺔﺣﺍﺮﻟﺎﺑ ﺍﺭﻮﻌﺷ ﺐﺒﺴﺗ ﻥﺎﺧﺪﻟﺍ</SmokeleafHigh.description>
+  
+  <SmokeleafHigh.labelNoun>ﻥﺎﺧﺪﻟﺍ ﻕﺍﺭﻭﺃ ﺐﺤﺳ ﻦﻣ ﺔﻌﺘﻣ</SmokeleafHigh.labelNoun>
+  
+  
+  <SmokeleafTolerance.label>Smokleaf ﻩﺎﺠﺗ ﺢﻣﺎﺴﺘﻟﺍ</SmokeleafTolerance.label>
+  
+  <SmokeleafTolerance.description>، ﺔﻳﺪﺟ ﺮﺜﻛﺃ ﻥﺎﻛ ﺎﻤﻠﻛ .ﺐﺷﺎﺤﻟﺍ ﺢﻣﺎﺴﺗ
+ﺮﻴﺛﺄﺘﻟﺍ ﻖﻴﻘﺤﺘﻟ ﺞﻟﺎﻌﻤﻟﺍ ﺶﻴﺸﺤﻟﺍ ﻰﻟﺇ ﺔﺟﺎﺤﻟﺍ ﺕﺩﺍﺯ
+.ﻲﻟﻭﻷﺍ</SmokeleafTolerance.description>
+  
+  <SmokeleafTolerance.stages.small.label>ﺓﺮﻴﻐﺻ</SmokeleafTolerance.stages.small.label>
+  
+  <SmokeleafTolerance.stages.large.label>ﺔﻟﺪﺘﻌﻣ</SmokeleafTolerance.stages.large.label>
+  
+  <SmokeleafTolerance.stages.massive.label>ﺔﻳﻮﻗ</SmokeleafTolerance.stages.massive.label>
+  
+</LanguageData>
