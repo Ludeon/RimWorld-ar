@@ -1,0 +1,42 @@
+<LanguageData>
+  
+  
+  <StuffPower_Armor_Blunt.label>ﺔﺑﺮﺿ :ﻉﻭﺭﺪﻟﺍ</StuffPower_Armor_Blunt.label>
+  
+  <StuffPower_Armor_Blunt.description>ﺎﺼﻌﻟﺍ ﺕﺎﺑﺮﺿ ﻞﺜﻣ ﺔﻳﻮﻘﻟﺍ ﺕﺎﺑﺮﻀﻟﺍ ﻦﻣ ﺔﻳﺎﻤﺤﻟﺍ
+.ﺕﺍﺭﺎﺠﻔﻧﻻﺍﻭ ﺭﻮﺨﺼﻟﺍ ﻁﻮﻘﺳﻭ</StuffPower_Armor_Blunt.description>
+  
+  <StuffPower_Armor_Blunt.labelForFullStatList>(ﺓﺩﺎﻤﻟﺍ ﺮﻴﺛﺄﺗ) ﺔﺑﺮﺿ :ﻉﻭﺭﺪﻟﺍ</StuffPower_Armor_Blunt.labelForFullStatList>
+  
+  
+  <StuffPower_Armor_Heat.label>ﻦﻴﺨﺴﺗ :ﻉﻭﺭﺪﻟﺍ</StuffPower_Armor_Heat.label>
+  
+  <StuffPower_Armor_Heat.description>.ﻕﻭﺮﺤﻟﺍ ﻞﺜﻣ ،ﺓﺭﺍﺮﺤﻟﺎﺑ ﺔﻄﺒﺗﺮﻤﻟﺍ ﺭﺍﺮﺿﻷﺍ ﻦﻣ ﺔﻳﺎﻤﺣ</StuffPower_Armor_Heat.description>
+  
+  <StuffPower_Armor_Heat.labelForFullStatList>(ﺓﺩﺎﻤﻟﺍ ﺮﻴﺛﺄﺗ) ﻦﻴﺨﺴﺗ :ﻉﻭﺭﺪﻟﺍ</StuffPower_Armor_Heat.labelForFullStatList>
+  
+  
+  <StuffPower_Armor_Sharp.label>ﺕﺎﺒﺛ :ﻉﻭﺭﺪﻟﺍ</StuffPower_Armor_Sharp.label>
+  
+  <StuffPower_Armor_Sharp.description>ﺡﻭﺮﺠﻟﺍﻭ ﺹﺎﺻﺮﻟﺍ ﻞﺜﻣ ﺔﻗﺮﺘﺨﻤﻟﺍ ﺭﺍﺮﺿﻷﺍ ﻦﻣ ﺔﻳﺎﻤﺣ
+.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺕﺎﻏﺪﻟﻭ ﻦﻴﻛﺎﻜﺴﻟﺎﺑ</StuffPower_Armor_Sharp.description>
+  
+  <StuffPower_Armor_Sharp.labelForFullStatList>(ﺓﺩﺎﻤﻟﺍ ﺮﻴﺛﺄﺗ) ﻞﻠﺴﺗ :ﻉﻭﺭﺪﻟﺍ</StuffPower_Armor_Sharp.labelForFullStatList>
+  
+  
+  <StuffPower_Insulation_Cold.label>ﺓﺩﻭﺮﺒﻟﺍ :ﻝﺰﻌﻟﺍ</StuffPower_Insulation_Cold.label>
+  
+  <StuffPower_Insulation_Cold.description>ﺔﺟﺭﺩ ﺓﺩﺎﻤﻟﺍ ﺍﺬﻫ ﻦﻣ ﻉﻮﻨﺼﻤﻟﺍ ﺀﻲﺸﻟﺍ ﻦﺴﺤﺗ
+.ﻪﺋﺍﺪﺗﺭﺍ ﺪﻨﻋ ﺎﻴﻧﺪﻟﺍ ﺔﺤﻳﺮﻤﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ</StuffPower_Insulation_Cold.description>
+  
+  <StuffPower_Insulation_Cold.labelForFullStatList>(ﺓﺩﺎﻤﻟﺍ ﺮﻴﺛﺄﺗ) ﺓﺩﻭﺮﺒﻟﺍ :ﻝﺰﻌﻟﺍ</StuffPower_Insulation_Cold.labelForFullStatList>
+  
+  
+  <StuffPower_Insulation_Heat.label>ﺓﺭﺍﺮﺤﻟﺍ :ﻝﺰﻌﻟﺍ</StuffPower_Insulation_Heat.label>
+  
+  <StuffPower_Insulation_Heat.description>ﺓﺩﺎﻤﻟﺍ ﺍﺬﻫ ﻦﻣ ﻉﻮﻨﺼﻤﻟﺍ ﺀﻲﺸﻟﺍ ﺯﺰﻌﻳ ﻢﻛ
+؟ﺎﻬﺋﺍﺪﺗﺭﺍ ﺀﺎﻨﺛﺃ ﻯﻮﺼﻘﻟﺍ ﺔﺤﻳﺮﻤﻟﺍ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ</StuffPower_Insulation_Heat.description>
+  
+  <StuffPower_Insulation_Heat.labelForFullStatList>(ﺓﺩﺎﻤﻟﺍ ﺮﻴﺛﺄﺗ) ﺓﺭﺍﺮﺣ :ﻝﺰﻌﻟﺍ</StuffPower_Insulation_Heat.labelForFullStatList>
+  
+</LanguageData>
