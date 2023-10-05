@@ -1,0 +1,241 @@
+<LanguageData>
+  
+  
+  <Abrasive.degreeDatas.abrasive.label>ﺔﺣﺎﻗﻮﻟﺍ</Abrasive.degreeDatas.abrasive.label>
+  
+  <Abrasive.degreeDatas.abrasive.description>{PAWN_nameDef} ،ﻪﻴﻓ ﺮﻜﻔﺗ ﺎﻣ ﻂﺒﻀﻟﺎﺑ ﺎﻤﺋﺍﺩ ﻝﻮﻘﺗ
+ﺮﺛﺆﻳ ﺎﻣ ﺓﺩﺎﻋﻭ ،ﺎﻬﺠﻋﺰﻳ ﻥﺎﻛ ﺍﺫﺇ ﺔﺻﺎﺧ
+ﻲﺒﻠﺳ ﻞﻜﺸﺑ ﻦﻴﻄﻴﺤﻤﻟﺍ ﻰﻠﻋ ﻚﻟﺫ.</Abrasive.degreeDatas.abrasive.description>
+  
+  
+  <AnnoyingVoice.degreeDatas.annoying_voice.label>ﺞﻋﺰﻣ ﺕﻮﺻ</AnnoyingVoice.degreeDatas.annoying_voice.label>
+  
+  <AnnoyingVoice.degreeDatas.annoying_voice.description>{PAWN_nameDef} ﻞﻤﺠﺑ ﺙﺪﺤﺘﻳﻭ ﺲﻛﺎﺸﻣﻭ ﻢﻋﺎﻧ ﺕﻮﺻ ﻪﻳﺪﻟ
+ﻻ ﻦﻳﺮﺧﻵﺍ ﻥﺃ ﺏﺮﻐﺘﺴﻤﻟﺍ ﻦﻣ ﺲﻴﻟ .ﺔﻌﻄﻘﻣ
+ﻪﻧﻮﺒﺤﻳ.</AnnoyingVoice.degreeDatas.annoying_voice.description>
+  
+  
+  <Ascetic.degreeDatas.ascetic.label>ﺪﻫﺰﻟﺍ</Ascetic.degreeDatas.ascetic.label>
+  
+  <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef} .ﺔﻌﺘﻤﻟﺍﻭ ﺔﺣﺍﺮﻟﺍ ﺐﻨﺠﺗﻭ ﺔﻃﺎﺴﺒﺑ ﺶﻴﻌﻟﺍ ﺭﺎﺘﺧﺍ
+ﺔﻤﺨﻓ ﻪﻣﻮﻧ ﺔﻓﺮﻏ ﺖﻧﺎﻛ ﺍﺫﺇ ﻪﺟﺍﺰﻣ ﺭﻮﻫﺪﺘﺗ
+ﺍﺪﺟ. {PAWN_nameDef} ،ﻲﻠﻘﻤﻟﺍ ﻭﺃ ﻂﻴﺴﺒﻟﺍ ﻡﺎﻌﻄﻟﺍ ﻞﻀﻔﻳ
+ﺮﻬﻈﻤﻟﺍ ﻦﻣ ﺱﺎﻨﻟﺍ ﻰﻠﻋ ﻢﻜﺤﻳ ﻻﻭ.</Ascetic.degreeDatas.ascetic.description>
+  
+  
+  <Asexual.degreeDatas.asexual.label>ﺔﻴﺴﻨﺠﻟﺍ ﻡﺪﻋ</Asexual.degreeDatas.asexual.label>
+  
+  <Asexual.degreeDatas.asexual.description>{PAWN_nameDef} ﻱﺃ ﻩﺎﺠﺗ ﺏﺬﺟ ﻱﺄﺑ ﺮﻌﺸﻳ ﻻ
+ﺺﺨﺷ.</Asexual.degreeDatas.asexual.description>
+  
+  
+  <Bisexual.degreeDatas.bisexual.label>ﺔﻴﺴﻨﺠﻟﺍ ﺔﻴﺋﺎﻨﺜﻟﺍ</Bisexual.degreeDatas.bisexual.label>
+  
+  <Bisexual.degreeDatas.bisexual.description>ﻼﻛ ﻦﻣ ﺹﺎﺨﺷﻸﻟ ﺏﺬﺟ ﺭﻮﻌﺸﺑ {PAWN_nameDef} ﺮﻌﺸﻳ
+.ﻦﻴﺴﻨﺠﻟﺍ</Bisexual.degreeDatas.bisexual.description>
+  
+  
+  <Bloodlust.degreeDatas.bloodlust.label>ﻒﻨﻌﻟﺍ</Bloodlust.degreeDatas.bloodlust.label>
+  
+  <Bloodlust.degreeDatas.bloodlust.description>{PAWN_nameDef} ﻦﻳﺮﺧﻶﻟ ﻯﺫﻷﺍ ﺐﺒﺴﻳﻭ ﺐﻀﻐﻟﺍ ﺮﻴﺜﻳ. {PAWN_objective}
+ﺕﻮﻤﻟﺍﻭ ﻡﺪﻟﺍ ﺔﻳﺅﺮﺑ ﻊﺘﻤﺘﺴﻳ. {PAWN_pronoun} ﻲﻓ ﻁﺭﻮﺘﻳ
+ﻦﻳﺮﺧﻵﺍ ﻦﻣ ﺮﺜﻛﺃ ﻞﻜﺸﺑ ﺔﻴﻣﻮﻴﻟﺍ ﺕﺍﺮﺟﺎﺸﻤﻟﺍ.</Bloodlust.degreeDatas.bloodlust.description>
+  
+  
+  <BodyPurist.degreeDatas.body_purist.label>ﻱﻮﻴﺤﻟﺍ ﻆﻓﺎﺤﻤﻟﺍ</BodyPurist.degreeDatas.body_purist.label>
+  
+  <BodyPurist.degreeDatas.body_purist.description>ﺲﻴﻟ ﺪﻴﻘﻣ ﻱﺮﺸﺒﻟﺍ ﻢﺴﺠﻟﺍ ﻥﺃ {PAWN_nameDef} ﻦﻣﺆﻳ
+ﺮﻴﻏ ﺔﺒﻳﺮﻐﻟﺍ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍﻭ ﺔﻴﻋﺎﻨﻄﺻﻻﺍ ﺀﺍﺰﺟﻷﺍ ﻭﺪﺒﺗ .ﺎﺜﺒﻋ
+.ﺓﺮﻳﺮﻌﺸﻘﻟﺍ ﺮﻴﺜﺗ ﺎﻬﺘﻋﺍﺭﺯ ﺓﺮﻜﻓﻭ ﺔﻴﻗﻼﺧﺃ</BodyPurist.degreeDatas.body_purist.description>
+  
+  
+  <Brawler.degreeDatas.brawler.label>ﻒﻨﻌﻟﺍ ﺔﻣﺍﻭﺩ</Brawler.degreeDatas.brawler.label>
+  
+  <Brawler.degreeDatas.brawler.description>{PAWN_nameDef} ﻲﻓ ﻪﺘﻗﺩ .ﺎﻗﺎﻔﺻﻭ ﺔﺒﻳﺮﻘﻟﺍ ﺕﺎﻬﺟﺍﻮﻤﻟﺍ ﺐﺤﻳ
+ﻻ .ﻦﻳﺮﺧﻵﺍ ﻦﻣ ﺮﻴﺜﻜﺑ ﻰﻠﻋﺃ ﺔﺒﻳﺮﻘﻟﺍ ﻙﺭﺎﻌﻤﻟﺍ
+ﺪﻴﻌﺒﻟﺍ ﺪﻌﺒﻟﺍ ﺔﺤﻠﺳﺃ ﻡﺍﺪﺨﺘﺳﺍ ﻊﻴﻄﺘﺴﻳ.</Brawler.degreeDatas.brawler.description>
+  
+  
+  <Cannibal.degreeDatas.cannibal.label>ﻱﺮﺸﺒﻟﺍ ﻞﻛﻷﺍ</Cannibal.degreeDatas.cannibal.label>
+  
+  <Cannibal.degreeDatas.cannibal.description>ﺮﻣﺃ ﺮﺸﺒﻟﺍ ﻢﺤﻟ ﻝﻭﺎﻨﺗ ﻥﺃ ﻪﻤﻴﻠﻌﺗ ﻢﻏﺭ
+.{PAWN_objective} ﺐﺠﻋﺃﻭ ...ﺓﺮﻣ ﻪﺑﺮﺟ {PAWN_nameDef} ،ﻊﻴﻈﻓﻭ ﺊﻃﺎﺧ</Cannibal.degreeDatas.cannibal.description>
+  
+  
+  <CreepyBreathing.degreeDatas.creepy_breathing.label>ﺐﻋﺮﻣ ﺮﻴﻓﺯ</CreepyBreathing.degreeDatas.creepy_breathing.label>
+  
+  <CreepyBreathing.degreeDatas.creepy_breathing.description>{PAWN_nameDef} .ﺪﺋﺍﺰﻟﺍ ﻕﺮﻌﻟﺍ ﻦﻴﺑ ﺡﻭﺍﺮﻳﻭ ﺔﺑﻮﻌﺼﺑ ﺲﻔﻨﺘﻳ
+ﺎﻔﻴﺨﻣ ﻚﻟﺫ ﻥﻭﺮﻳ ﻥﻭﺮﻴﺜﻜﻟﺍ.</CreepyBreathing.degreeDatas.creepy_breathing.description>
+  
+  
+  <DislikesMen.degreeDatas.misandrist.label>ﺙﺎﻧﻹﺍ ﻰﻠﻋ ﺪﻘﺣ</DislikesMen.degreeDatas.misandrist.label>
+  
+  <DislikesMen.degreeDatas.misandrist.description>{PAWN_nameDef} ﻢﻬﺑ ﻖﺜﻳ ﻻﻭ ﻝﺎﺟﺮﻟﺍ ﺐﺤﻳ ﻻ.</DislikesMen.degreeDatas.misandrist.description>
+  
+  
+  <DislikesWomen.degreeDatas.misogynist.label>ﺀﺎﺴﻨﻟﺍ ﻡﺍﺮﺘﺣﺍ ﻡﺪﻋ</DislikesWomen.degreeDatas.misogynist.label>
+  
+  <DislikesWomen.degreeDatas.misogynist.description>{PAWN_nameDef} ﻦﻬﺑ ﻖﺜﻳ ﻻﻭ ﺀﺎﺴﻨﻟﺍ ﺐﺤﻳ ﻻ.</DislikesWomen.degreeDatas.misogynist.description>
+  
+  
+  <FastLearner.degreeDatas.fast_learner.label>ﺔﻌﻳﺮﺴﻟﺍ ﻢﻠﻌﺘﻟﺍ ﺔﻟﻮﻬﺳ</FastLearner.degreeDatas.fast_learner.label>
+  
+  <FastLearner.degreeDatas.fast_learner.description>{PAWN_nameDef} ﺕﺎﻣﻮﻠﻌﻤﻟﺍ ﺺﺘﻤﻳ ،ﻢﻠﻌﺘﻟﺍ ﻲﻓ ﺔﺒﻫﻮﻣ ﻪﻳﺪﻟ
+ﺎﻬﺴﻔﻧ ﺔﻈﺤﻟﺍ ﻲﻓ ﺓﺪﻳﺪﺠﻟﺍ.</FastLearner.degreeDatas.fast_learner.description>
+  
+  
+  <Gay.degreeDatas.gay.label>гﺔﻴﻟﺍﻮﺴﻜﺳﻮﻣﻭ</Gay.degreeDatas.gay.label>
+  
+  <Gay.degreeDatas.gay.description>{PAWN_nameDef} ﺲﻔﻧ ﻦﻣ ﺹﺎﺨﺷﺃ ﻮﺤﻧ ﺏﺬﺠﺑ ﺮﻌﺸﻳ
+ﻪﺴﻨﺟ.</Gay.degreeDatas.gay.description>
+  
+  
+  <Gourmand.degreeDatas.gourmand.label>ﻊﺸﺠﻟﺍ</Gourmand.degreeDatas.gourmand.label>
+  
+  <Gourmand.degreeDatas.gourmand.description>{PAWN_nameDef} ﻰﻨﻌﻣ ﻡﺎﻌﻄﻟﺍ ﺢﺒﺻﺃ ،ﺬﻳﺬﻠﻟﺍ ﻡﺎﻌﻄﻟﺍ ﺐﺤﻳ
+ﺓﺎﻴﺤﻟ {PAWN_possessive}. ﺓﺮﻴﺒﻜﻟﺍ ﻪﺘﻴﻬﺷ ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑ، {PAWN_pronoun}
+ﻦﻋ ﺮﻈﻨﻟﺍ ﺾﻐﺑ ﻞﻛﻷﺍ ﻲﻓ ﻁﺍﺮﻓﻹﺍ ﺐﺤﻳ
+ﻉﻮﺠﻟﺍ.</Gourmand.degreeDatas.gourmand.description>
+  
+  
+  <GreatMemory.degreeDatas.great_memory.label>ﺔﻳﻮﻗ ﺓﺮﻛﺍﺫ</GreatMemory.degreeDatas.great_memory.label>
+  
+  <GreatMemory.degreeDatas.great_memory.description>{PAWN_nameDef} ﻝﺪﻌﻤﺑ ﻪﺗﺍﺭﺎﻬﻣ ﺪﻘﻔﻳﻭ ﺍﺪﻴﺟ ﻞﻴﺻﺎﻔﺘﻟﺍ ﺮﻛﺬﺘﻳ
+ﺎﻬﻣﺪﺨﺘﺴﻳ ﻻ ﻪﻧﺇ ﻰﺘﺣ ﻦﻳﺮﺧﻵﺎﺑ ﺔﻧﺭﺎﻘﻣ ﻒﻋﺎﻀﻣ
+ﻡﺎﻈﺘﻧﺎﺑ.</GreatMemory.degreeDatas.great_memory.description>
+  
+  
+  <Greedy.degreeDatas.greedy.label>ﺮﺒﻜﺘﻟﺍ</Greedy.degreeDatas.greedy.label>
+  
+  <Greedy.degreeDatas.greedy.description>ﺮﺛﺆﻳ .ﻞﻌﻔﻟﺎﺑ ﺔﺸﻫﺪﻣ ﻡﻮﻧ ﺔﻓﺮﻐﺑ {PAWN_nameDef} ﺐﻟﺎﻄﻳ
+ﻰﻠﻋ ﻞﺼﺤﻳ ﻢﻟ ﺍﺫﺇ ﻪﺟﺍﺰﻣ ﻰﻠﻋ ﻚﻟﺫ
+.ﺪﻳﺮﻳ ﺎﻣ</Greedy.degreeDatas.greedy.description>
+  
+  
+  <Jealous.degreeDatas.jealous.label>ﺪﺴﺤﻟﺍ</Jealous.degreeDatas.jealous.label>
+  
+  <Jealous.degreeDatas.jealous.description>{PAWN_nameDef} ﻦﻳﺬﻟﺍ ﻚﺌﻟﻭﺃ ﻦﻣ ﺓﺪﻳﺪﺸﻟﺍ ﺓﺮﻴﻐﻟﺎﺑ ﺮﻌﺸﻳ
+ﻦﻣ ﻞﻀﻓﺃ ﻢﻬﻓﺮﻏ ﻥﻮﻜﺗ {PAWN_possessive}، ﺮﺛﺆﻳ ﺍﺬﻫﻭ
+ﺝﺍﺰﻣ ﻰﻠﻋ {PAWN_possessive}.</Jealous.degreeDatas.jealous.description>
+  
+  
+  <Kind.degreeDatas.kind.label>ﻒﻄﻟ</Kind.degreeDatas.kind.label>
+  
+  <Kind.degreeDatas.kind.description>{PAWN_nameDef} - ﻦﻴﻬﻳ ﺎﻣ ﺍﺭﺩﺎﻧ .ﻲﺨﺳﻭ ﻝﺪﺘﻌﻣ
+ﻪﻟﻮﺣ ﻦﻣ ﻡﻮﻳ ﺞﻬﺒﻳ ﻒﻴﻛ ﻑﺮﻌﻳﻭ ﺍﺪﺣﺃ
+ﻚﻟﺫ ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑ .ﺔﺒﻴﻃ ﺔﻤﻠﻜﺑ، {PAWN_pronoun} ﻻ
+ﺐﺒﺴﺑ .ﻩﺮﻬﻈﻣ ﻝﻼﺧ ﻦﻣ ﺪﺣﺃ ﻰﻠﻋ ﻢﻜﺤﻳ
+ﺯﺎﺤﻨﻴﺳ ،ﻪﻌﺿﺍﻮﺗ {PAWN_nameDef} ﺪﺋﺎﺴﻟﺍ ﻱﺃﺮﻟﺍ ﻰﻟﺇ ﺮﺜﻛﺃ.</Kind.degreeDatas.kind.description>
+  
+  
+  <Masochist.degreeDatas.masochist.label>ﻢﻟﻸﻟ ﻪﺴﻔﻧ ﺽﺮﻌﺘﺑ ﺺﺨﺸﻟﺍ ﻊﺘﻤﺘﺴﻳ ﻲﺴﻔﻧ ﺽﺮﻣ
+.ﺔﻧﺎﻫﻹﺍ ﻭﺃ</Masochist.degreeDatas.masochist.label>
+  
+  <Masochist.degreeDatas.masochist.description>ﻻ .ﺮﻴﺜﻣ ﺀﻲﺷ ﻝﺎﺘﻘﻟﺍ ،{PAWN_nameDef} ـﻟ ﺔﺒﺴﻨﻟﺎﺑ
+.ﻒﻠﺘﺨﻣ ﻞﻜﺸﺑ ﻞﻤﻌﻳ ﻪﻠﻘﻋ ﻂﻘﻓ ،ﺍﺫﺎﻤﻟ ﻑﺮﻌﻳ</Masochist.degreeDatas.masochist.description>
+  
+  
+  <NightOwl.degreeDatas.night_owl.label>ﺎﻓﻮﺳ</NightOwl.degreeDatas.night_owl.label>
+  
+  <NightOwl.degreeDatas.night_owl.description>ﻲﻓ ﻡﻮﻨﻟﺍﻭ ﻞﻴﻠﻟﺍ ﻲﻓ ﻅﺎﻘﻴﺘﺳﻻﺍ {PAWN_nameDef} ﺐﺤﻳ
+.ﺭﺎﻬﻨﻟﺍ
+11 ﻦﻣ) ﻞﻴﻠﻟﺍ ﻲﻓ ﺎﻄﺸﻧ ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋ
+ﺍﺫﺇﻭ ،{PAWN_nameDef} ﺝﺍﺰﻣ ﻮﻔﺼﻳ (ﺎﺣﺎﺒﺻ 6 ﻰﻟﺇ
+6 ﻰﻟﺇ 11 ﻦﻣ) ﺍﺭﺎﻬﻧ ﻢﻨﻳ ﻢﻟ
+.ﺎﺒﻠﺳ ﻪﺟﺍﺰﻣ ﺮﺛﺄﺘﻳ (ﺀﺎﺴﻣ
+.ﺝﺍﺰﻤﻟﺍ ﻰﻠﻋ ﺮﺛﺆﻳ ﻻ ﻡﻼﻈﻟﺍ ﻲﻓ ﺀﺎﻘﺒﻟﺍ</NightOwl.degreeDatas.night_owl.description>
+  
+  
+  <Nimble.degreeDatas.nimble.label>ﺔﻗﺎﺷﺮﻟﺍ</Nimble.degreeDatas.nimble.label>
+  
+  <Nimble.degreeDatas.nimble.description>{PAWN_nameDef} .ﻩﺪﺴﺠﺑ ﻢﻜﺤﺘﻟﺍ ﻲﻓ ﺓﺯﺎﺘﻤﻣ ﺕﺍﺭﺪﻗ ﻪﻳﺪﻟ
+ﺔﻳﺩﺎﻋ ﺮﻴﻏ ﺔﻋﺍﺮﺒﺑ ﺭﺎﻄﺧﻷﺍ ﺐﻨﺠﺘﻳ ﻪﻧﺇ.</Nimble.degreeDatas.nimble.description>
+  
+  
+  <Nudist.degreeDatas.nudist.label>ﺖﺴﻳﺩﻮﻴﻧ</Nudist.degreeDatas.nudist.label>
+  
+  <Nudist.degreeDatas.nudist.description>ﻪﻨﻜﻤﻳ .ﺲﺑﻼﻣ ﻥﻭﺪﺑ ﺔﻳﺮﺤﻟﺍ ﺭﻮﻌﺸﺑ {PAWN_nameDef} ﻊﺘﻤﺘﺴﻳ
+.ﺎﻬﻧﻭﺪﺑ ﺮﺒﻛﺃ ﺓﺩﺎﻌﺴﺑ ﺮﻌﺸﻴﺳ ﻪﻨﻜﻟﻭ ﺲﺑﻼﻤﻟﺍ ﺀﺍﺪﺗﺭﺍ</Nudist.degreeDatas.nudist.description>
+  
+  
+  <Psychopath.degreeDatas.psychopath.label>ﺓﺮﻜﻌﺘﻤﻟﺍ ﺔﻴﺴﺟﺮﻨﻟﺍ ﺔﻴﺼﺨﺸﻟﺍ</Psychopath.degreeDatas.psychopath.label>
+  
+  <Psychopath.degreeDatas.psychopath.description>ﻦﻳﺮﺧﻵﺍ ﻦﺤﻣ .ﻒﻃﺎﻌﺘﻟﺍ ﻮﻫﺎﻣ {PAWN_nameDef} ﻑﺮﻌﻳ ﻻ
+ﺍﺫﺇ ﻲﻟﺎﺒﻳ ﻻ ﻮﻬﻓ .{PAWN_possessive} ﻢﻬﺗ ﻻ
+ﻼﺑ ﻢﻬﻛﺮﺗ ﻭﺃ ﺢﺑﺬﻠﻟ ﻢﻫﺪﺣﺃ ﻡﺍﺪﺨﺘﺳﺍ ﻢﺗ
+ﻻﺇ ،ﺪﻴﺒﻌﻛ ﻢﻬﻌﻴﺑ ﻭﺃ ﻢﻬﻨﺠﺳ ﻭﺃ ﻦﻓﺩ
+{PAWN_nameDef} .ﺎﻴﺼﺨﺷ ﻪﺑ ﻖﻠﻌﺘﻳ ﺮﻣﻷﺍ ﻥﺎﻛ ﺍﺫﺇ
+.ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﻞﺻﺍﻮﺘﻟﺎﺑ ﺎﻀﻳﺃ ﻊﺘﻤﺘﺴﻳ ﻻ</Psychopath.degreeDatas.psychopath.description>
+  
+  
+  <Pyromaniac.degreeDatas.pyromaniac.label>ﺭﺎﻨﻠﻟ ﺔﺳﺎﻤﺤﻟﺍ</Pyromaniac.degreeDatas.pyromaniac.label>
+  
+  <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_nameDef} ﻖﺋﺍﺮﺤﻟﺍ ﺄﻔﻄﻳ ﻻ ، ﺭﺎﻨﻟﺍ ﻖﺸﻌﻳ
+ﻲﻓ ﻥﺍﺮﻴﻨﻟﺍ ﻞﻌﺸﻳ ﺪﻗ ﺎﻧﺎﻴﺣﺃﻭ ، ﺍﺪﺑﺃ
+ﺭﺎﻧ ﻙﺎﻨﻫ ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋ .ﻪﺴﻤﻳ ﺀﻲﺷ ﻞﻛ
+ﺡﺮﻔﻳ - {PAWN_nameDef} ، ﺡﻼﺳ ﻞﻤﺤﻳ ﺎﻣﺪﻨﻋﻭ
+ﺮﺜﻛﺃ ﺡﺮﻔﻳ - ﻲﻟﺎﻌﺘﺷﺍ.</Pyromaniac.degreeDatas.pyromaniac.description>
+  
+  
+  <QuickSleeper.degreeDatas.quick_sleeper.label>ﻝﺎﻌﻔﻟﺍ ﻡﻮﻨﻟﺍ</QuickSleeper.degreeDatas.quick_sleeper.label>
+  
+  <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_nameDef} .ﻡﻮﻨﻠﻟ ﺖﻗﻮﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻠﻟ ﺔﺟﺎﺤﺑ ﺲﻴﻟ
+ﻲﻓ ﻡﺎﻨﻳ ﻥﺎﻛ ﺍﺫﺇ ﺎﻤﻋ ﺮﻈﻨﻟﺍ ﺾﻐﺑ
+ﺽﺭﻷﺍ ﻰﻠﻋ ﻭﺃ ﺮﻳﺮﺴﻟﺍ، {PAWN_nameDef} ﻪﺗﻮﻗ ﺪﻴﻌﺘﺴﻳ
+ﻦﻳﺮﺧﻵﺍ ﻦﻣ ﻉﺮﺳﺃ ﻒﺼﻧﻭ ﻦﻴﺗﺮﻣ ﻝﺪﻌﻤﺑ.</QuickSleeper.degreeDatas.quick_sleeper.description>
+  
+  
+  <SlowLearner.degreeDatas.slow_learner.label>ﺀﻲﻄﺒﻟﺍ ﻢﻠﻌﺘﻟﺍ</SlowLearner.degreeDatas.slow_learner.label>
+  
+  <SlowLearner.degreeDatas.slow_learner.description>{PAWN_nameDef} ﻪﻟ ﻰﻄﻌﺗ ﺓﺪﻳﺪﺠﻟﺍ ﺀﺎﻴﺷﻷﺍ ،ﺀﻂﺒﺑ ﻢﻬﻔﻳ
+ﺱﺎﻨﻟﺍ ﺔﻴﻘﺑ ﻦﻣ ﺮﺒﻛﺃ ﺔﺑﻮﻌﺼﺑ.</SlowLearner.degreeDatas.slow_learner.description>
+  
+  
+  <TooSmart.degreeDatas.too_smart.label>ﻞﺤﻔﺘﺴﻣ ﺀﺎﺒﻏ</TooSmart.degreeDatas.too_smart.label>
+  
+  <TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef} ﺹﺎﺨﻟﺍ ﻩﺀﺎﻛﺫ ﻦﻣ ﻲﻧﺎﻌﻳ. {PAWN_pronoun} ﻢﻠﻌﺘﻳ
+، ﻦﻳﺮﺧﻵﺍ ﻦﻣ ﻉﺮﺳﺃ ﻞﻜﺸﺑ ﺀﻲﺷ ﻞﻛ
+ﺔﺒﻳﺮﻏ ﺀﺎﻴﺷﺃ ﺐﻜﺗﺮﻳ ﺮﺧﻵﺍﻭ ﻦﻴﺤﻟﺍ ﻦﻴﺑ ﻦﻜﻟﻭ.</TooSmart.degreeDatas.too_smart.description>
+  
+  
+  <TorturedArtist.degreeDatas.tortured_artist.label>ﺾﻣﺎﻐﻟﺍ ﻉﺪﺒﻤﻟﺍ</TorturedArtist.degreeDatas.tortured_artist.label>
+  
+  <TorturedArtist.degreeDatas.tortured_artist.description>{PAWN_nameDef} ﺱﺎﻨﻟﺍ ﻢﻬﻓ ﻡﺪﻋﻭ ﺏﺍﺮﺘﻏﻻﺎﺑ ﺭﺍﺮﻤﺘﺳﺎﺑ ﺮﻌﺸﻳ
+ﻦﻣ ﻁﺎﺒﺣﻹﺎﺑ ﺮﻌﺸﻳﻭ ،ﺓﺭﺩﺎﺒﻣ ﻱﺃ ﻲﻓ ﻪﻟ
+ﻞﻛ ﺪﻌﺑ ﻂﺳﻮﺘﻤﻟﺍ ﻲﻓ ،ﻚﻟﺫ ﻊﻣﻭ .ﻚﻟﺫ
+ﻲﻨﻔﻟﺍ ﻡﺎﻬﻟﻹﺍ ﻪﻴﺗﺄﻳ ،ﺔﻴﻧﺎﺛ ﺔﻴﺒﺼﻋ ﺔﺑﻮﻧ.</TorturedArtist.degreeDatas.tortured_artist.description>
+  
+  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>ﻲﻓ ﻉﺎﻔﺗﺭﺎﺑ [PAWN_nameIndef] ﺮﻌﺸﻳ ،ﺔﻠﻳﻮﻄﻟﺍ ﻪﺗﺎﻧﺎﻌﻣ ﺪﻌﺑ
+.ﻉﺍﺪﺑﻹﺍ ﺰﻓﺎﺣ</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
+  
+  
+  <Tough.degreeDatas.tough.label>ﺔﻳﺭﺍﺮﻤﺘﺳﻻﺍﻭ ﺩﻮﻤﺼﻟﺍ</Tough.degreeDatas.tough.label>
+  
+  <Tough.degreeDatas.tough.description>ﻡﺎﻈﻋﻭ ﺔﻳﻮﻗ ﺕﻼﻀﻋﻭ ﻚﻴﻤﺳ ﺪﻠﺠﺑ {PAWN_nameDef} ﻊﺘﻤﺘﻳ
+ﻰﻘﻠﺘﻳ ﻪﻧﺈﻓ ،ﻱﺩﺎﻌﻟﺍ ﻥﺎﺴﻧﻹﺍ ﻊﻣ ﺔﻧﺭﺎﻘﻤﻟﺎﺑ .ﺔﻳﻮﻗ
+ﻦﻣ .ﺕﺎﻤﺠﻬﻟﺍ ﺲﻔﻧ ﻦﻣ ﺮﻴﺜﻜﺑ ﻞﻗﺃ ﺍﺭﺍﺮﺿﺃ
+.ﻪﻠﺘﻗ ﺍﺪﺟ ﺐﻌﺼﻟﺍ</Tough.degreeDatas.tough.description>
+  
+  
+  <Transhumanist.degreeDatas.body_modder.label>ﺔﻴﻧﺎﻣﻮﻬﺴﻧﺍﺮﺗ</Transhumanist.degreeDatas.body_modder.label>
+  
+  <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef} ﺐﻏﺮﻳﻭ ﻒﻴﻌﺿ ﻱﺮﺸﺒﻟﺍ ﻩﺪﺴﺟ ﻥﺄﺑ ﺮﻌﺸﻳ
+ﺔﻴﻋﺎﻨﻄﺻﻻﺍ ﺀﺍﺰﺟﻷﺍ ﻖﻳﺮﻃ ﻦﻋ ﻪﺗﺍﺭﺪﻗ ﻦﻴﺴﺤﺗ ﻲﻓ
+ﺔﻴﺒﻨﺟﻷﺍ ﺎﻴﺟﻮﻟﻮﻴﺒﻟﺍﻭ.</Transhumanist.degreeDatas.body_modder.description>
+  
+  
+  <Undergrounder.degreeDatas.undergrounder.label>ﻭﺮﺘﻤﻟﺍ</Undergrounder.degreeDatas.undergrounder.label>
+  
+  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef} ﺝﺎﺘﺤﻳ ﻻﻭ ﺽﺭﻷﺍ ﺖﺤﺗ ﺀﺎﻘﺒﻟﺍ ﻞﻀﻔﻳ
+ﺲﻤﺸﻟﺍ ﺀﻮﺿ ﺔﻳﺅﺭﻭ ﻉﺭﺎﺸﻠﻟ ﺝﻭﺮﺨﻠﻟ. {PAWN_pronoun} ﻻ
+ﺏﺎﻫﺮﻟﺍ ﻦﻣ ﻲﻧﺎﻌﻳ ﻻﻭ ﺲﺒﺤﻟﺎﺑ ﺍﺪﺑﺃ ﺮﻌﺸﻳ
+ﺎﻬﻴﻀﻘﻳ ﻲﺘﻟﺍ ﺓﺪﻤﻟﺍ ﻦﻋ ﺮﻈﻨﻟﺍ ﺾﻐﺑ ،ﺔﻤﻠﻈﻟﺍﻭ
+ﻰﻨﺒﻤﻟﺍ ﻞﺧﺍﺩ.</Undergrounder.degreeDatas.undergrounder.description>
+  
+  
+  <Wimp.degreeDatas.wimp.label>ﺐﻴﻠﻛ</Wimp.degreeDatas.wimp.label>
+  
+  <Wimp.degreeDatas.wimp.description>{PAWN_nameDef} .ﺔﻀﻔﺨﻨﻣ ﻢﻟﺃ ﺔﺒﺘﻋﻭ ﺔﻔﻴﻌﺿ ﺔﻌﻴﺒﻃ ﻪﻳﺪﻟ
+ﻞﻴﻄﻌﺗ ﻰﻠﻋ ﺭﺩﺎﻗ ﻂﻴﺴﺒﻟﺍ ﻢﻟﻷﺍ ﻰﺘﺣ {PAWN_possessive}.</Wimp.degreeDatas.wimp.description>
+  
+</LanguageData>
