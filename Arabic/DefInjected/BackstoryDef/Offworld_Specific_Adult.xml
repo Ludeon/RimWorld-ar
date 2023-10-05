@@ -1,0 +1,131 @@
+ï»؟<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was the only survivor of a ship crash on an unhabited animal world. For many years until [PAWN_possessive] rescue [PAWN_pronoun] scrounged an existence out of whatever [PAWN_pronoun] could find.\n\n[PAWN_possessive] survival skills became razor-sharp, but spending so long alone severely dampened [PAWN_possessive] conversatial abilities. -->
+  <Castaway57.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ¾ذ؛ذ°ذ·ذ°ذ»رپرڈ ذµذ´ذ¸ذ½رپر‚ذ²ذµذ½ذ½ر‹ذ¼ ذ²ر‹ذ¶ذ¸ذ²رˆذ¸ذ¼ : ذ¾ذ؛ذ°ذ·ذ°ذ»ذ°رپرŒ ذµذ´ذ¸ذ½رپر‚ذ²ذµذ½ذ½ذ¾ذ¹ ذ²ر‹ذ¶ذ¸ذ²رˆذµذ¹} ذ² ذ؛ر€رƒرˆذµذ½ذ¸ذ¸ ذ؛ذ¾ر€ذ°ذ±ذ»رڈ ذ½ذ° ذ±ذµذ·ذ»رژذ´ذ½ذ¾ذ¹ ذ؟ذ»ذ°ذ½ذµر‚ذµ. ذ’ ر‚ذµر‡ذµذ½ذ¸ذµ ذ¼ذ½ذ¾ذ³ذ¸ر… ذ»ذµر‚ ذ´ذ¾ رپذ²ذ¾ذµذ³ذ¾ رپذ؟ذ°رپذµذ½ذ¸رڈ {PAWN_pronoun} {PAWN_gender ? ذ¾ذ±ذµرپذ؟ذµر‡ذ¸ذ²ذ°ذ» : ذ¾ذ±ذµرپذ؟ذµر‡ذ¸ذ²ذ°ذ»ذ°} رپذ²ذ¾ر‘ رپرƒر‰ذµرپر‚ذ²ذ¾ذ²ذ°ذ½ذ¸ذµ, ذ؟ذ¾ذ»رŒذ·رƒرڈرپرŒ ذ¸رپذ؛ذ»رژر‡ذ¸ر‚ذµذ»رŒذ½ذ¾ ذ؟ذ¾ذ´ر€رƒر‡ذ½ر‹ذ¼ذ¸ رپر€ذµذ´رپر‚ذ²ذ°ذ¼ذ¸ ذ¸ ر‚ذµذ¼, ر‡ر‚ذ¾ رƒذ´ذ°ر‘ر‚رپرڈ ذ½ذ°ذ¹ر‚ذ¸.\n\n{PAWN_nameDef} {PAWN_gender ? ذ¾ر‚ر‚ذ¾ر‡ذ¸ذ» : ذ¾ر‚ر‚ذ¾ر‡ذ¸ذ»ذ°} رپذ²ذ¾ذ¸ ذ½ذ°ذ²ر‹ذ؛ذ¸ ذ²ر‹ذ¶ذ¸ذ²ذ°ذ½ذ¸رڈ ذ´ذ¾ ذ½ذµذ²ذµر€ذ¾رڈر‚ذ½ذ¾ذ³ذ¾ رƒر€ذ¾ذ²ذ½رڈ, ذ¾ذ´ذ½ذ°ذ؛ذ¾ ذ³ذ¾ذ´ر‹ ذ¾ذ´ذ¸ذ½ذ¾ر‡ذµرپر‚ذ²ذ° ذ½ذµذ³ذ°ر‚ذ¸ذ²ذ½ذ¾ رپذ؛ذ°ذ·ذ°ذ»ذ¸رپرŒ ذ½ذ° {PAWN_possessive} رپذ؟ذ¾رپذ¾ذ±ذ½ذ¾رپر‚رڈر… ذ؛ ذ¾ذ±ر‰ذµذ½ذ¸رژ رپ ذ´ر€رƒذ³ذ¸ذ¼ذ¸ ذ»رژذ´رŒذ¼ذ¸.</Castaway57.baseDesc>
+  <!-- EN: castaway -->
+  <Castaway57.title>ذ²ر‹ذ¶ذ¸ذ²رˆذ¸ذ¹ ذ² ذ؛ر€رƒرˆذµذ½ذ¸ذ¸</Castaway57.title>
+  <Castaway57.titleFemale>ذ²ر‹ذ¶ذ¸ذ²رˆذ°رڈ ذ² ذ؛ر€رƒرˆذµذ½ذ¸ذ¸</Castaway57.titleFemale>
+  <!-- EN: castaway -->
+  <Castaway57.titleShort>ذ²ر‹ذ¶ذ¸ذ²رˆذ¸ذ¹</Castaway57.titleShort>
+  <Castaway57.titleShortFemale>ذ²ر‹ذ¶ذ¸ذ²رˆذ°رڈ</Castaway57.titleShortFemale>
+  
+  <!-- EN: Among tunnel-dwellers, those with vision as strong as [PAWN_nameDef]'s are revered as sages. [PAWN_pronoun] would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger. -->
+  <CaveworldIlluminator95.baseDesc>ذ،ر€ذµذ´ذ¸ ذ¾ذ±ذ¸ر‚ذ°ر‚ذµذ»ذµذ¹ ذ؟ذµر‰ذµر€ ذ¾ذ±ذ»ذ°ذ´ذ°ر‚ذµذ»ذ¸ ذ¾رپر‚ر€ذ¾ذ³ذ¾ ذ·ر€ذµذ½ذ¸رڈ ذ؟ذ¾ذ»رŒذ·رƒرژر‚رپرڈ ذ±ذ¾ذ»رŒرˆذ¸ذ¼ ذ؟ذ¾ر‡ر‚ذµذ½ذ¸ذµذ¼. {PAWN_nameDef} {PAWN_gender ? رƒذ؛ذ°ذ·ر‹ذ²ذ°ذ» : رƒذ؛ذ°ذ·ر‹ذ²ذ°ذ»ذ°} ذ¾رپر‚ذ°ذ»رŒذ½ر‹ذ¼ ذ؟رƒر‚رŒ, ذ¾ر‚ذ¼ذµر‡ذ°رڈ ذ¼ذµرپر‚ذ° ذ´ذ»رڈ ذ؛ذ¾ذ؟ذ°ذ½ذ¸رڈ ذ±ذ¸ذ¾ذ»رژذ¼ذ¸ذ½ذµرپر†ذµذ½ر‚ذ½ر‹ذ¼ذ¸ ذ³ر€ذ¸ذ±ذ°ذ¼ذ¸, ذ° ر‚ذ°ذ؛ذ¶ذµ {PAWN_gender ? ذ؟ر€ذµذ´رƒذ؟ر€ذµذ¶ذ´ذ°ذ» : ذ؟ر€ذµذ´رƒذ؟ر€ذµذ¶ذ´ذ°ذ»ذ°} ذ¾ ذ؟ذ¾ذ´رپر‚ذµر€ذµذ³ذ°رژر‰ذ¸ر… ذ¾ذ؟ذ°رپذ½ذ¾رپر‚رڈر….</CaveworldIlluminator95.baseDesc>
+  <!-- EN: caveworld illuminator -->
+  <CaveworldIlluminator95.title>ذ·ر€رڈر‰ذ¸ذ¹ ذ¼ذ¸ر€ذ° ذ؟ذµر‰ذµر€</CaveworldIlluminator95.title>
+  <CaveworldIlluminator95.titleFemale>ذ·ر€رڈر‰ذ°رڈ ذ¼ذ¸ر€ذ° ذ؟ذµر‰ذµر€</CaveworldIlluminator95.titleFemale>
+  <!-- EN: illuminator -->
+  <CaveworldIlluminator95.titleShort>ذ؟ر€ذ¾ذ²ذ¾ذ´ذ½ذ¸ذ؛</CaveworldIlluminator95.titleShort>
+  <CaveworldIlluminator95.titleShortFemale>ذ؟ر€ذ¾ذ²ذ¾ذ´ذ½ذ¸ر†ذ°</CaveworldIlluminator95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a settler on a new colony world.\n\nSuch a life requires a jack-of-all trades at basic hands-on tasks. -->
+  <ColonySettler53.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ±ر‹ذ» : ذ±ر‹ذ»ذ°} ذ؟ذ¾رپذµذ»ذµذ½ر†ذµذ¼ ذ² ذ¾ذ´ذ½ذ¾ذ¼ ذ¸ذ· ذ؛ذ¾ذ»ذ¾ذ½ذ¸ذ°ذ»رŒذ½ر‹ر… ذ¼ذ¸ر€ذ¾ذ².\n\nذںر€ذ¸ ر‚ذ°ذ؛ذ¾ذ¹ ذ¶ذ¸ذ·ذ½ذ¸ ذ½رƒذ¶ذ½ذ¾ ذ±ر‹ر‚رŒ ذ¼ذ°رپر‚ذµر€ذ¾ذ¼ ذ½ذ° ذ²رپذµ ر€رƒذ؛ذ¸ ذ² رپذ°ذ¼ر‹ر… ذ¾رپذ½ذ¾ذ²ذ½ر‹ر… ذ´ذµذ»ذ°ر….</ColonySettler53.baseDesc>
+  <!-- EN: colony settler -->
+  <ColonySettler53.title>ذ¶ذ¸ر‚ذµذ»رŒ ذ؟ذ¾رپذµذ»ذµذ½ذ¸رڈ</ColonySettler53.title>
+  <ColonySettler53.titleFemale>ذ¶ذ¸ر‚ذµذ»رŒذ½ذ¸ر†ذ° ذ؟ذ¾رپذµذ»ذµذ½ذ¸رڈ</ColonySettler53.titleFemale>
+  <!-- EN: settler -->
+  <ColonySettler53.titleShort>ذ؟ذ¾رپذµذ»ذµذ½ذµر†</ColonySettler53.titleShort>
+  <ColonySettler53.titleShortFemale>ذ؟ذ¾رپذµذ»ذµذ½ذ؛ذ°</ColonySettler53.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] did the sweaty, grimy work of pulling metal out of asteroids on a deep space rig. [PAWN_pronoun] used [PAWN_possessive] hands-on industrial skills daily - and wasn't bad in a bar fight either. -->
+  <DeepSpaceMiner3.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ·ذ°ذ½ذ¸ذ¼ذ°ذ»رپرڈ : ذ·ذ°ذ½ذ¸ذ¼ذ°ذ»ذ°رپرŒ} ذ؟ذ¾ر‚ذ½ذ¾ذ¹ ذ¸ ذ³ر€رڈذ·ذ½ذ¾ذ¹ ر€ذ°ذ±ذ¾ر‚ذ¾ذ¹ ذ؟ذ¾ ذ¸ذ·ذ²ذ»ذµر‡ذµذ½ذ¸رژ ذ¼ذµر‚ذ°ذ»ذ»ذ° ذ¸ذ· ذ°رپر‚ذµر€ذ¾ذ¸ذ´ذ¾ذ² ذ½ذ° ذ±رƒر€ذ¾ذ²ذ¾ذ¹ رƒرپر‚ذ°ذ½ذ¾ذ²ذ؛ذµ ذ² ذ³ذ»رƒذ±ذ¾ذ؛ذ¾ذ¼ ذ؛ذ¾رپذ¼ذ¾رپذµ. {PAWN_pronoun} ذµذ¶ذµذ´ذ½ذµذ²ذ½ذ¾ {PAWN_gender ? ذ¾ر‚ر‚ذ°ر‡ذ¸ذ²ذ°ذ» : ذ¾ر‚ر‚ذ°ر‡ذ¸ذ²ذ°ذ»ذ°} رپذ²ذ¾ذ¸ ذ؟ر€ذ¾ر„ذµرپرپذ¸ذ¾ذ½ذ°ذ»رŒذ½ر‹ذµ ذ½ذ°ذ²ر‹ذ؛ذ¸ ذ½ذ° ر€ذ°ذ±ذ¾ر‚ذµ, ذ° ذ؟ر€ذ¸ رپذ»رƒر‡ذ°ذµ ذ½ذµذ؟ذ»ذ¾ر…ذ¾ {PAWN_gender ? ذ؟ذ¾ذ؛ذ°ذ·ر‹ذ²ذ°ذ» : ذ؟ذ¾ذ؛ذ°ذ·ر‹ذ²ذ°ذ»ذ°} رپذµذ±رڈ ذ¸ ذ² ذ±ذ°ر€ذ½ذ¾ذ¹ ذ´ر€ذ°ذ؛ذµ.</DeepSpaceMiner3.baseDesc>
+  <!-- EN: deep space miner -->
+  <DeepSpaceMiner3.title>ذ؛ذ¾رپذ¼ذ¸ر‡ذµرپذ؛ذ¸ذ¹ رˆذ°ر…ر‚ر‘ر€</DeepSpaceMiner3.title>
+  <!-- EN: miner -->
+  <DeepSpaceMiner3.titleShort>رˆذ°ر…ر‚ر‘ر€</DeepSpaceMiner3.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] did menial, unskilled work in an industrial factory. [PAWN_possessive] job also included caring for the mules and horses which transported the goods. -->
+  <FactoryWorker58.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ±ر‹ذ» ر‡ذµر€ذ½ذ¾ر€ذ°ذ±ذ¾ر‡ذ¸ذ¼ : ذ±ر‹ذ»ذ° ر‡ذµر€ذ½ذ¾ر€ذ°ذ±ذ¾ر‡ذµذ¹}  ذ½ذ° ر„ذ°ذ±ر€ذ¸ذ؛ذµ. ذ’ {PAWN_possessive} ذ¾ذ±رڈذ·ذ°ذ½ذ½ذ¾رپر‚ذ¸ ر‚ذ°ذ؛ذ¶ذµ ذ²ر…ذ¾ذ´ذ¸ذ» رƒر…ذ¾ذ´ ذ·ذ° ذ¼رƒذ»ذ°ذ¼ذ¸ ذ¸ ذ»ذ¾رˆذ°ذ´رŒذ¼ذ¸, رپ ذ؟ذ¾ذ¼ذ¾ر‰رŒرژ ذ؛ذ¾ر‚ذ¾ر€ر‹ر… ر‚ذ¾ذ²ذ°ر€ ر€ذ°ذ·ذ²ذ¾ذ·ذ¸ذ»ذ¸ ذ؟ذ¾ ذ³ذ¾ر€ذ¾ذ´رƒ.</FactoryWorker58.baseDesc>
+  <!-- EN: factory worker -->
+  <FactoryWorker58.title>ر€ذ°ذ±ذ¾ر‡ذ¸ذ¹ ر„ذ°ذ±ر€ذ¸ذ؛ذ¸</FactoryWorker58.title>
+  <FactoryWorker58.titleFemale>ر€ذ°ذ±ذ¾ر‚ذ½ذ¸ر†ذ° ر„ذ°ذ±ر€ذ¸ذ؛ذ¸</FactoryWorker58.titleFemale>
+  <!-- EN: worker -->
+  <FactoryWorker58.titleShort>ر€ذ°ذ±ذ¾ر‡ذ¸ذ¹</FactoryWorker58.titleShort>
+  <FactoryWorker58.titleShortFemale>ر€ذ°ذ±ذ¾ر‚ذ½ذ¸ر†ذ°</FactoryWorker58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] turned out to have an excellent memory and a gift for performing complex calculations in [PAWN_possessive] head. An industrial-world dictator decided to employ [PAWN_nameDef] to keep track of [PAWN_possessive] state's finances and expenditure. -->
+  <HumanComputer83.baseDesc>{PAWN_nameDef} رپ ذ´ذµر‚رپر‚ذ²ذ° {PAWN_gender ? ذ¸ذ¼ذµذ» : ذ¸ذ¼ذµذ»ذ°} ذ´ذ°ر€ ذ؛ ذ²ر‹ذ؟ذ¾ذ»ذ½ذµذ½ذ¸رژ ذ² رƒذ¼ذµ رپذ»ذ¾ذ¶ذ½ذµذ¹رˆذ¸ر… ذ²ر‹ر‡ذ¸رپذ»ذµذ½ذ¸ذ¹ ذ¸ ر„ذµذ½ذ¾ذ¼ذµذ½ذ°ذ»رŒذ½رƒرژ ذ؟ذ°ذ¼رڈر‚رŒ. ذ‍ذ´ذ¸ذ½ ذ¸ذ· ذ´ذ¸ذ؛ر‚ذ°ر‚ذ¾ر€ذ¾ذ² رپر€ذµذ´ذ½ذµذ³ذ¾ ذ¼ذ¸ر€ذ° ر€ذµرˆذ¸ذ» ذ¸رپذ؟ذ¾ذ»رŒذ·ذ¾ذ²ذ°ر‚رŒ {PAWN_possessive} ر‚ذ°ذ»ذ°ذ½ر‚ر‹, ر‡ر‚ذ¾ذ±ر‹ رپذ»ذµذ´ذ¸ر‚رŒ ذ·ذ° ر„ذ¸ذ½ذ°ذ½رپذ°ذ¼ذ¸ ذ¸ ر€ذ°رپر…ذ¾ذ´ذ°ذ¼ذ¸, ذ؟ذ¾رپذ؛ذ¾ذ»رŒذ؛رƒ ذ¾ذ±ر‹ر‡ذ½ر‹ذµ ذ؛ذ¾ذ¼ذ؟رŒرژر‚ذµر€ر‹ ر‡ذµر€ذµرپر‡رƒر€ رƒرڈذ·ذ²ذ¸ذ¼ر‹ ذ´ذ»رڈ ذ²ذ·ذ»ذ¾ذ¼ذ°.</HumanComputer83.baseDesc>
+  <!-- EN: human computer -->
+  <HumanComputer83.title>ر‡ذµذ»ذ¾ذ²ذµذ؛-ذ؛ذ¾ذ¼ذ؟رŒرژر‚ذµر€</HumanComputer83.title>
+  <!-- EN: computer -->
+  <HumanComputer83.titleShort>ذ²ر‹ر‡ذ¸رپذ»ذ¸ر‚ذµذ»رŒ</HumanComputer83.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in an urbworld lab developing cutting-edge joywire software to maximize user pleasure.\n\nWhen the local government imposed harsh restrictions on joywire manufacturing, [PAWN_pronoun] began selling [PAWN_possessive] products on the black market. -->
+  <JoywireArtist8.baseDesc>{PAWN_nameDef} {PAWN_gender ? ر€ذ°ذ±ذ¾ر‚ذ°ذ» : ر€ذ°ذ±ذ¾ر‚ذ°ذ»ذ°} ذ² ذ¾ذ´ذ½ذ¾ذ¹ ذ¸ذ· ذ»ذ°ذ±ذ¾ر€ذ°ر‚ذ¾ر€ذ¸ذ¹ رƒر€ذ±ذ°ذ½ذ¸ذ·ذ¸ر€ذ¾ذ²ذ°ذ½ذ½ذ¾ذ³ذ¾ ذ¼ذ¸ر€ذ°. ذ¢ذ°ذ¼ {PAWN_pronoun} {PAWN_gender ? رپذ¾ذ·ذ´ذ°ذ²ذ°ذ» : رپذ¾ذ·ذ´ذ°ذ²ذ°ذ»ذ°} ذ؟ذµر€ذµذ´ذ¾ذ²ذ¾ذµ ذںذ‍ ذ´ذ»رڈ ر‚ذ°ذ؛ ذ½ذ°ذ·ر‹ذ²ذ°ذµذ¼ر‹ر… آ«ر‡ذ¸ذ؟ذ¾ذ² رپر‡ذ°رپر‚رŒرڈآ», رپر‚ر€ذµذ¼رڈرپرŒ ذ¼ذ°ذ؛رپذ¸ذ¼ذ¸ذ·ذ¸ر€ذ¾ذ²ذ°ر‚رŒ رƒذ´ذ¾ذ²ذ¾ذ»رŒرپر‚ذ²ذ¸ذµ, ذ؟ذ¾ذ»رƒر‡ذ°ذµذ¼ذ¾ذµ ذ؟ذ¾ذ»رŒذ·ذ¾ذ²ذ°ر‚ذµذ»ذµذ¼.\n\nذڑذ¾ذ³ذ´ذ° ذ¼ذµرپر‚ذ½ذ¾ذµ ذ؟ر€ذ°ذ²ذ¸ر‚ذµذ»رŒرپر‚ذ²ذ¾ ذ²ذ²ذµذ»ذ¾ ذ¶ر‘رپر‚ذ؛ذ¸ذµ ذ¾ذ³ر€ذ°ذ½ذ¸ر‡ذµذ½ذ¸رڈ ذ½ذ° ذ؟ر€ذ¾ذ¸ذ·ذ²ذ¾ذ´رپر‚ذ²ذ¾ ر‡ذ¸ذ؟ذ¾ذ², {PAWN_pronoun} {PAWN_gender ? ذ½ذ°ر‡ذ°ذ» : ذ½ذ°ر‡ذ°ذ»ذ°} ذ؟ر€ذ¾ذ´ذ°ذ²ذ°ر‚رŒ رپذ²ذ¾ذ¸ ذ؟ر€ذ¾ذ´رƒذ؛ر‚ر‹ ذ½ذ° ر‡ر‘ر€ذ½ذ¾ذ¼ ر€ر‹ذ½ذ؛ذµ.</JoywireArtist8.baseDesc>
+  <!-- EN: joywire artist -->
+  <JoywireArtist8.title>ر…رƒذ´ذ¾ذ¶ذ½ذ¸ذ؛-ر‡ذ¸ذ؟ذ¾ذ´ذµذ»</JoywireArtist8.title>
+  <!-- EN: joywirer -->
+  <JoywireArtist8.titleShort>ر‡ذ¸ذ؟ذ¾ذ´ذµذ»</JoywireArtist8.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a high-ranking member of an urbworld crime syndicate.\n\n[PAWN_pronoun] bribed officials, maintained the loyalty of [PAWN_possessive] subordinates, and extracted overdue payments - by any means necessary. -->
+  <MafiaBoss17.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ±ر‹ذ» : ذ±ر‹ذ»ذ°} ذ؛ر€رƒذ؟ذ½ر‹ذ¼ ذ؛ر€ذ¸ذ¼ذ¸ذ½ذ°ذ»رŒذ½ر‹ذ¼ ذ°ذ²ر‚ذ¾ر€ذ¸ر‚ذµر‚ذ¾ذ¼ ذ² ذ¾ذ´ذ½ذ¾ذ¼ ذ¸ذ· ذ؟ر€ذµرپر‚رƒذ؟ذ½ر‹ر… رپذ¸ذ½ذ´ذ¸ذ؛ذ°ر‚ذ¾ذ² رپذ²ذ¾ذµذ³ذ¾ ذ³ذ¾ر€ذ¾ذ´رپذ؛ذ¾ذ³ذ¾ ذ¼ذ¸ر€ذ°.\n\n{PAWN_pronoun} {PAWN_gender ? ذ´ذ°ذ²ذ°ذ» : ذ´ذ°ذ²ذ°ذ»ذ°} ذ²ذ·رڈر‚ذ؛ذ¸ ر‡ذ¸ذ½ذ¾ذ²ذ½ذ¸ذ؛ذ°ذ¼, {PAWN_gender ? ذ´ذµر€ذ¶ذ°ذ» : ذ´ذµر€ذ¶ذ°ذ»ذ°} ذ² رƒذ·ذ´ذµ ذ؟ذ¾ذ´ر‡ذ¸ذ½ر‘ذ½ذ½ر‹ر… ذ¸ {PAWN_gender ? ذ²ر‹ذ±ذ¸ذ²ذ°ذ» : ذ²ر‹ذ±ذ¸ذ²ذ°ذ»ذ°} ذ؟ر€ذ¾رپر€ذ¾ر‡ذµذ½ذ½ر‹ذµ ذ´ذ¾ذ»ذ³ذ¸. ذ’رپذµذ¼ذ¸ ذ²ذ¾ذ·ذ¼ذ¾ذ¶ذ½ر‹ذ¼ذ¸ رپر€ذµذ´رپر‚ذ²ذ°ذ¼ذ¸.</MafiaBoss17.baseDesc>
+  <!-- EN: mafia boss -->
+  <MafiaBoss17.title>ذ±ذ¾رپرپ ذ¼ذ°ر„ذ¸ذ¸</MafiaBoss17.title>
+  <MafiaBoss17.titleFemale>ذ؛ذ¾ر€ذ¾ذ»ذµذ²ذ° ذ¼ذ°ر„ذ¸ذ¸</MafiaBoss17.titleFemale>
+  <!-- EN: boss -->
+  <MafiaBoss17.titleShort>ذ¼ذ°ر„ذ¸ذ¾ذ·ذ¸</MafiaBoss17.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] adult life in an insane asylum. [PAWN_possessive] industrial homeworld had a poor understanding of mental illness, and [PAWN_pronoun] was treated more like an animal than a person.\n\nThough [PAWN_pronoun] eventually recovered and was released, [PAWN_possessive] experience dampened many of [PAWN_possessive] basic life skills. -->
+  <PsychiatricPatient94.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ؟ر€ذ¾ذ²ر‘ذ» : ذ؟ر€ذ¾ذ²ذµذ»ذ°} ذ±ذ¾ذ»رŒرˆرƒرژ ر‡ذ°رپر‚رŒ رپذ²ذ¾ذµذ¹ ذ²ذ·ر€ذ¾رپذ»ذ¾ذ¹ ذ¶ذ¸ذ·ذ½ذ¸ ذ² ذ؟رپذ¸ر…ذ¸ذ°ر‚ر€ذ¸ر‡ذµرپذ؛ذ¾ذ¹ ذ±ذ¾ذ»رŒذ½ذ¸ر†ذµ. ذ’ {PAWN_possessive} ر€ذ¾ذ´ذ½ذ¾ذ¼ ذ¸ذ½ذ´رƒرپر‚ر€ذ¸ذ°ذ»رŒذ½ذ¾ذ¼ ذ¼ذ¸ر€ذµ ذ؟رپذ¸ر…ذ¸ر‡ذµرپذ؛ذ¸ذµ ذ·ذ°ذ±ذ¾ذ»ذµذ²ذ°ذ½ذ¸رڈ ذ±ر‹ذ»ذ¸ ذ¸ذ·رƒر‡ذµذ½ر‹ ذ؟ذ»ذ¾ر…ذ¾, ذ؟ذ¾رچر‚ذ¾ذ¼رƒ {PAWN_possessive} ذ»ذµر‡ذ¸ذ»ذ¸ رپذ؛ذ¾ر€ذµذµ ذ؛ذ°ذ؛ ذ±ذ¾ذ»رŒذ½ذ¾ذµ ذ¶ذ¸ذ²ذ¾ر‚ذ½ذ¾ذµ, ذ½ذµذ¶ذµذ»ذ¸ ذ؛ذ°ذ؛ ر‡ذµذ»ذ¾ذ²ذµذ؛ذ°.\n\nذڑذ¾ذ³ذ´ذ° ذ² ذ؛ذ¾ذ½ذµر‡ذ½ذ¾ذ¼ ذ¸ر‚ذ¾ذ³ذµ {PAWN_nameDef} {PAWN_gender ? ذ²ر‹ذ·ذ´ذ¾ر€ذ¾ذ²ذµذ» ذ¸ ذ²ر‹ذ؟ذ¸رپذ°ذ»رپرڈ : ذ²ر‹ذ·ذ´ذ¾ر€ذ¾ذ²ذµذ»ذ° ذ¸ ذ²ر‹ذ؟ذ¸رپذ°ذ»ذ°رپرŒ}, ذ¼ذ½ذ¾ذ³ذ¸ذµ ذ¸ذ· {PAWN_possessive} رƒذ¼ذµذ½ذ¸ذ¹ ذ¸ ذ½ذ°ذ²ر‹ذ؛ذ¾ذ² ذ¾ذ؛ذ°ذ·ذ°ذ»ذ¸رپرŒ ذ·ذ°ذ±ر‹ر‚ر‹.</PsychiatricPatient94.baseDesc>
+  <!-- EN: psychiatric patient -->
+  <PsychiatricPatient94.title>ذ؟رپذ¸ر…ذ±ذ¾ذ»رŒذ½ذ¾ذ¹</PsychiatricPatient94.title>
+  <PsychiatricPatient94.titleFemale>ذ؟رپذ¸ر…ذ±ذ¾ذ»رŒذ½ذ°رڈ</PsychiatricPatient94.titleFemale>
+  <!-- EN: patient -->
+  <PsychiatricPatient94.titleShort>ذ؟ذ°ر†ذ¸ذµذ½ر‚</PsychiatricPatient94.titleShort>
+  <PsychiatricPatient94.titleShortFemale>ذ؟ذ°ر†ذ¸ذµذ½ر‚ذ؛ذ°</PsychiatricPatient94.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was the law enforcer in an isolated industrial town. [PAWN_pronoun] dealt with petty crime, dispute resolution, and the occasional drunken saloon shootout. -->
+  <Sheriff52.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ±ر‹ذ» : ذ±ر‹ذ»ذ°} رپر‚ر€ذ°ذ¶ذµذ¼ ذ·ذ°ذ؛ذ¾ذ½ذ° ذ² ذ¾ر‚ذ´ذ°ذ»ر‘ذ½ذ½ذ¾ذ¼ ذ¸ذ½ذ´رƒرپر‚ر€ذ¸ذ°ذ»رŒذ½ذ¾ذ¼ ذ³ذ¾ر€ذ¾ذ´ذµ. {PAWN_pronoun} {PAWN_gender ? ر€ذ°رپذ؛ر€ر‹ذ²ذ°ذ» : ر€ذ°رپذ؛ر€ر‹ذ²ذ°ذ»ذ°} ذ¼ذµذ»ذ؛ذ¸ذµ ذ؟ر€ذµرپر‚رƒذ؟ذ»ذµذ½ذ¸رڈ, {PAWN_gender ? ر€ذ°ذ·ر€ذµرˆذ°ذ» : ر€ذ°ذ·ر€ذµرˆذ°ذ»ذ°} ذ؛ذ¾ذ½ر„ذ»ذ¸ذ؛ر‚ر‹ ذ¸ ذ¸ذ½ذ¾ذ³ذ´ذ° {PAWN_gender ? رƒر‡ذ°رپر‚ذ²ذ¾ذ²ذ°ذ» : رƒر‡ذ°رپر‚ذ²ذ¾ذ²ذ°ذ»ذ°} ذ² ذ؟رŒرڈذ½ر‹ر… رپذ°ذ»رƒذ½ذ½ر‹ر… ذ؟ذµر€ذµرپر‚ر€ذµذ»ذ؛ذ°ر….</Sheriff52.baseDesc>
+  <!-- EN: sheriff -->
+  <Sheriff52.title>رˆذµر€ذ¸ر„</Sheriff52.title>
+  <!-- EN: sheriff -->
+  <Sheriff52.titleShort>رˆذµر€ذ¸ر„</Sheriff52.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] joined the space navy in an unstable system, fraught with large-scale interplanetary wars. [PAWN_pronoun] turned out to have a sharp mind for battle, and became adept at commanding combat units to great effect. -->
+  <SpaceTactician28.baseDesc>{PAWN_nameDef} {PAWN_gender ? ذ؟ذ¾رپر‚رƒذ؟ذ¸ذ» : ذ؟ذ¾رپر‚رƒذ؟ذ¸ذ»ذ°} ذ½ذ° رپذ»رƒذ¶ذ±رƒ ذ² ذ؛ذ¾رپذ¼ذ¸ر‡ذµرپذ؛ذ¸ذ¹ ر„ذ»ذ¾ر‚ ذ·ذ²ر‘ذ·ذ´ذ½ذ¾ذ¹ رپذ¸رپر‚ذµذ¼ر‹, ذ²ذ¾ذ²ذ»ذµر‡ر‘ذ½ذ½ذ¾ذ¹ ذ² ذ¼ذ°رپرˆر‚ذ°ذ±ذ½ر‹ذµ ذ¼ذµذ¶ذ؟ذ»ذ°ذ½ذµر‚ذ½ر‹ذµ ذ²ذ¾ذ¹ذ½ر‹. ذںر€ذ¾رڈذ²ذ»رڈرڈ ر…ذ»ذ°ذ´ذ½ذ¾ذ؛ر€ذ¾ذ²ذ¸ذµ ذ¸ ذ²ذ¾ذ¸ذ½رپذ؛رƒرژ رپذ¼ذµذ؛ذ°ذ»ذ؛رƒ ذ² ذ±ذ¾رژ, {PAWN_pronoun} ذ±ر‹رپر‚ر€ذ¾ {PAWN_gender ? ذ؟ر€ذ¾ذ´ذ²ذ¸ذ½رƒذ»رپرڈ : ذ؟ر€ذ¾ذ´ذ²ذ¸ذ½رƒذ»ذ°رپرŒ} ذ؟ذ¾ رپذ»رƒذ¶ذ±ذµ ذ¸ ذ²رپذ؛ذ¾ر€ذµ رƒذ¶ذµ رƒرپذ؟ذµرˆذ½ذ¾ {PAWN_gender ? ذ؛ذ¾ذ¼ذ°ذ½ذ´ذ¾ذ²ذ°ذ» : ذ؛ذ¾ذ¼ذ°ذ½ذ´ذ¾ذ²ذ°ذ»ذ°} ر†ذµذ»ر‹ذ¼ذ¸ ذ°ر€ذ¼ذ¸رڈذ¼ذ¸.</SpaceTactician28.baseDesc>
+  <!-- EN: space tactician -->
+  <SpaceTactician28.title>ر‚ذ°ذ؛ر‚ذ¸ذ؛</SpaceTactician28.title>
+  <!-- EN: tactician -->
+  <SpaceTactician28.titleShort>ر‚ذ°ذ؛ر‚ذ¸ذ؛</SpaceTactician28.titleShort>
+  
+  <!-- EN: While other passengers pass the years between star systems in cryptosleep sarcophagi, [PAWN_nameDef] had to wake up at periodic intervals to perform inspections, check the navigation systems, and to oil the mechanoids. -->
+  <StarshipJanitor33.baseDesc>ذںذ¾ذ؛ذ° ذ´ر€رƒذ³ذ¸ذµ ذ؟ذ°رپرپذ°ذ¶ذ¸ر€ر‹ ذ؛ذ¾رپذ¼ذ¸ر‡ذµرپذ؛ذ¾ذ³ذ¾ ذ؛ذ¾ر€ذ°ذ±ذ»رڈ ذ؟ر€ذ¾ذ²ذ¾ذ´ذ¸ذ»ذ¸ ذ³ذ¾ذ´ر‹ ذ² رپذ°ر€ذ؛ذ¾ر„ذ°ذ³ذ°ر… ذ؛ر€ذ¸ذ؟ر‚ذ¾رپذ½ذ°, {PAWN_nameDef} ذ؟ذµر€ذ¸ذ¾ذ´ذ¸ر‡ذµرپذ؛ذ¸ {PAWN_gender ? ذ؟ر€ذ¾ذ²ذµر€رڈذ» : ذ؟ر€ذ¾ذ²ذµر€رڈذ»ذ°} رپذ¾رپر‚ذ¾رڈذ½ذ¸ذµ ذ؛ذ¾ر€ذ°ذ±ذ»رڈ ذ¸ ذ½ذ°ذ²ذ¸ذ³ذ°ر†ذ¸ذ¾ذ½ذ½ر‹ر… رپذ¸رپر‚ذµذ¼ ذ¸ {PAWN_gender ? ذ؟ر€ذ¾ذ²ذ¾ذ´ذ¸ذ» : ذ؟ر€ذ¾ذ²ذ¾ذ´ذ¸ذ»ذ°} ر‚ذµر…ذ¾ذ±رپذ»رƒذ¶ذ¸ذ²ذ°ذ½ذ¸ذµ ذ¼ذµر…ذ°ذ½ذ¾ذ¸ذ´ذ¾ذ².</StarshipJanitor33.baseDesc>
+  <!-- EN: starship janitor -->
+  <StarshipJanitor33.title>ذ؛ذ¾ر€ذ°ذ±ذµذ»رŒذ½ر‹ذ¹ رƒذ±ذ¾ر€ر‰ذ¸ذ؛</StarshipJanitor33.title>
+  <StarshipJanitor33.titleFemale>ذ؛ذ¾ر€ذ°ذ±ذµذ»رŒذ½ذ°رڈ رƒذ±ذ¾ر€ر‰ذ¸ر†ذ°</StarshipJanitor33.titleFemale>
+  <!-- EN: janitor -->
+  <StarshipJanitor33.titleShort>رƒذ±ذ¾ر€ر‰ذ¸ذ؛</StarshipJanitor33.titleShort>
+  <StarshipJanitor33.titleShortFemale>رƒذ±ذ¾ر€ر‰ذ¸ر†ذ°</StarshipJanitor33.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] travelled between star systems, studying and classifying the plant and animal life [PAWN_pronoun] found in the hopes of creating a complete catalogue. -->
+  <Taxonomist0.baseDesc>ذœذ½ذ¾ذ³ذ¾ ذ»ذµر‚ {PAWN_nameDef} {PAWN_gender ? ذ؟رƒر‚ذµرˆذµرپر‚ذ²ذ¾ذ²ذ°ذ» : ذ؟رƒر‚ذµرˆذµرپر‚ذ²ذ¾ذ²ذ°ذ»ذ°} ذ¼ذµذ¶ذ´رƒ ذ·ذ²ر‘ذ·ذ´ذ½ر‹ذ¼ذ¸ رپذ¸رپر‚ذµذ¼ذ°ذ¼ذ¸, ذ¸ذ·رƒر‡ذ°رڈ ذ¸ ذ؛ذ»ذ°رپرپذ¸ر„ذ¸ر†ذ¸ر€رƒرڈ ذ½ذ°ذ¹ذ´ذµذ½ذ½رƒرژ ر„ذ»ذ¾ر€رƒ ذ¸ ر„ذ°رƒذ½رƒ ذ² ذ½ذ°ذ´ذµذ¶ذ´ذµ رپذ¾ذ·ذ´ذ°ر‚رŒ ذ؟ذ¾ذ»ذ½ذ¾ذµ ذ¾ذ؟ذ¸رپذ°ذ½ذ¸ذµ ذ²ذ¸ذ´ذ¾ذ².</Taxonomist0.baseDesc>
+  <!-- EN: taxonomist -->
+  <Taxonomist0.title>ذ±ذ¸ذ¾ذ»ذ¾ذ³-رپذ¸رپر‚ذµذ¼ذ°ر‚ذ¸ذ؛</Taxonomist0.title>
+  <!-- EN: taxonomist -->
+  <Taxonomist0.titleShort>ذ±ذ¸ذ¾ذ»ذ¾ذ³</Taxonomist0.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked as a mindless construction drone on a massive urbworld. Though [PAWN_pronoun] is now freed from the brutal social experiments to which [PAWN_pronoun] was subjected, [PAWN_pronoun] remains incapable of creative thought and leadership. -->
+  <UrbworldDrone32.baseDesc>ذ‌ذ° ذ؟ر€ذ¾ر‚رڈذ¶ذµذ½ذ¸ذ¸ ذ¼ذ½ذ¾ذ³ذ¸ر… ذ»ذµر‚ {PAWN_nameDef} {PAWN_gender ? ذ²ر‹ذ؟ذ¾ذ»ذ½رڈذ» : ذ²ر‹ذ؟ذ¾ذ»ذ½رڈذ»ذ°} ر„رƒذ½ذ؛ر†ذ¸ذ¸ ر‚ر€رƒر‚ذ½رڈ-رپر‚ر€ذ¾ذ¸ر‚ذµذ»رڈ ذ² ذ؛ر€رƒذ؟ذ½ذ¾ذ¹ ر†ذ¸ذ²ذ¸ذ»ذ¸ذ·ذ°ر†ذ¸ذ¸-رƒذ»رŒذµ. ذ¥ذ¾ر‚رڈ {PAWN_objective} ذ² ذ¸ر‚ذ¾ذ³ذµ رƒذ´ذ°ذ»ذ¾رپرŒ ذ¾رپذ²ذ¾ذ±ذ¾ذ´ذ¸ر‚رŒرپرڈ ذ¸ذ· رچر‚ذ¾ذ³ذ¾ ذ¶ذµرپر‚ذ¾ذ؛ذ¾ذ³ذ¾ رپذ¾ر†ذ¸ذ°ذ»رŒذ½ذ¾ذ³ذ¾ رچذ؛رپذ؟ذµر€ذ¸ذ¼ذµذ½ر‚ذ°, ذ؛ ذ½{PAWN_objective} ر‚ذ°ذ؛ ذ¸ ذ½ذµ ذ²ذµر€ذ½رƒذ»ذ¸رپرŒ رپذ؟ذ¾رپذ¾ذ±ذ½ذ¾رپر‚ذ¸ ذ؛ ر‚ذ²ذ¾ر€ر‡ذµرپذ؛ذ¸ذ¼ ذ·ذ°ذ½رڈر‚ذ¸رڈذ¼ ذ¸ ذ»ذ¸ذ´ذµر€رپر‚ذ²رƒ.</UrbworldDrone32.baseDesc>
+  <!-- EN: urbworld drone -->
+  <UrbworldDrone32.title>ر‚ر€رƒر‚ذµذ½رŒ رƒذ»رŒرڈ</UrbworldDrone32.title>
+  <!-- EN: drone -->
+  <UrbworldDrone32.titleShort>ر‚ر€رƒر‚ذµذ½رŒ</UrbworldDrone32.titleShort>
+  
+  <!-- EN: In the urbworlds, most suffer. But someone has to run the corporations.\n\n[PAWN_nameDef] learned the skills of the trade - greasing palms and technical analysis. [PAWN_pronoun] is a sociointellectual machine. -->
+  <UrbworldEntrepreneur14.baseDesc>ذ’ رƒر€ذ±ذ°ذ½ذ¸ذ·ذ¸ر€ذ¾ذ²ذ°ذ½ذ½ر‹ر… ذ¼ذ¸ر€ذ°ر… ذ±ذ¾ذ»رŒرˆذ¸ذ½رپر‚ذ²رƒ ذ¸ذ·ذ²ذµرپر‚ذ½ر‹ ذ»ذ¸رˆرŒ رپر‚ر€ذ°ذ´ذ°ذ½ذ¸رڈ. ذ‌ذ¾ ذ؛ر‚ذ¾-ر‚ذ¾ ذ¶ذµ ذ´ذ¾ذ»ذ¶ذµذ½ رƒذ؟ر€ذ°ذ²ذ»رڈر‚رŒ ذ¼ذµرپر‚ذ½ر‹ذ¼ذ¸ ذ؛ذ¾ر€ذ؟ذ¾ر€ذ°ر†ذ¸رڈذ¼ذ¸?\n\n{PAWN_nameDef} {PAWN_gender ? ذ·ذ½ذ°ذ» : ذ·ذ½ذ°ذ»ذ°}, ذ؛ذ°ذ؛ ذ²ذµرپر‚ذ¸ ر‚ذ¾ر€ذ³ذ¾ذ²ذ»رژآ â€” ذ²ذ·رڈر‚ذ؛ذ¸ ذ¸ ر‚ذ¾ذ½ذ؛ذ¸ذ¹ ر‚ذµر…ذ½ذ¸ر‡ذµرپذ؛ذ¸ذ¹ ر€ذ°رپر‡ر‘ر‚. {PAWN_pronoun}آ â€” ذ±رƒذ؛ذ²ذ°ذ»رŒذ½ذ¾ رپذ¾ر†ذ¸ذ¾ذ¸ذ½ر‚ذµذ»ذ»ذµذ؛ر‚رƒذ°ذ»رŒذ½ذ°رڈ ذ¼ذ°رˆذ¸ذ½ذ°.</UrbworldEntrepreneur14.baseDesc>
+  <!-- EN: urbworld entrepreneur -->
+  <UrbworldEntrepreneur14.title>ذ؟ر€ذµذ´ذ؟ر€ذ¸ذ½ذ¸ذ¼ذ°ر‚ذµذ»رŒ</UrbworldEntrepreneur14.title>
+  <!-- EN: entrepreneur -->
+  <UrbworldEntrepreneur14.titleShort>ذ´ذµذ»ذµر†</UrbworldEntrepreneur14.titleShort>
+  
+  <!-- EN: Most of the people on [PAWN_nameDef]'s world gave up their individuality to join together in an online hivemind. [PAWN_nameDef] joined a rebel faction that rejected technology entirely. -->
+  <UrbworldRebel56.baseDesc>ذ’ ر‚ذ¾ ذ²ر€ذµذ¼رڈ ذ؛ذ°ذ؛ ذ±ذ¾ذ»رŒرˆذ¸ذ½رپر‚ذ²ذ¾ ذ»رژذ´ذµذ¹ {PAWN_possessive} ذ¼ذ¸ر€ذ° ذ¸ذ·ذ±ر€ذ°ذ»ذ¸ رپذ²ذ¾ذ¸ذ¼ ذ؟رƒر‚ر‘ذ¼ ذ¾ر‚ذ؛ذ°ذ·ذ°ر‚رŒرپرڈ ذ¾ر‚ رپذ²ذ¾ذµذ¹ رپذ¾ر†ذ¸ذ°ذ»رŒذ½ذ¾ذ¹ ذ¸ ذ±ذ¸ذ¾ذ»ذ¾ذ³ذ¸ر‡ذµرپذ؛ذ¾ذ¹ ذ¸ذ½ذ´ذ¸ذ²ذ¸ذ´رƒذ°ذ»رŒذ½ذ¾رپر‚ذ¸, ر‡ر‚ذ¾ذ±ر‹ رپذ»ذ¸ر‚رŒرپرڈ ذ² ذµذ´ذ¸ذ½ذ¾ذ¹ ذ¸ذ½ر„ذ¾ر€ذ¼ذ°ر†ذ¸ذ¾ذ½ذ½ذ¾ذ¹ رپرƒر‰ذ½ذ¾رپر‚ذ¸, {PAWN_nameDef} {PAWN_gender ? ذ؟ر€ذ¸رپذ¾ذµذ´ذ¸ذ½ذ¸ذ»رپرڈ : ذ؟ر€ذ¸رپذ¾ذµذ´ذ¸ذ½ذ¸ذ»ذ°رپرŒ} ذ؛ ذ³ر€رƒذ؟ذ؟ذµ ذ¼رڈر‚ذµذ¶ذ½ذ¸ذ؛ذ¾ذ², ر€ذµرˆذ¸ذ²رˆذµذ¹ ذ¾ر‚ذ؛ذ°ذ·ذ°ر‚رŒرپرڈ ذ¾ر‚ ذ¸رپذ؟ذ¾ذ»رŒذ·ذ¾ذ²ذ°ذ½ذ¸رڈ ر‚ذµر…ذ½ذ¾ذ»ذ¾ذ³ذ¸ذ¹.</UrbworldRebel56.baseDesc>
+  <!-- EN: urbworld rebel -->
+  <UrbworldRebel56.title>ذ¼رڈر‚ذµذ¶ذ½ذ¸ذ؛-ذ»رƒذ´ذ´ذ¸ر‚</UrbworldRebel56.title>
+  <UrbworldRebel56.titleFemale>ذ¼رڈر‚ذµذ¶ذ½ذ¸ر†ذ°-ذ»رƒذ´ذ´ذ¸ر‚</UrbworldRebel56.titleFemale>
+  <!-- EN: rebel -->
+  <UrbworldRebel56.titleShort>ذ¼رڈر‚ذµذ¶ذ½ذ¸ذ؛</UrbworldRebel56.titleShort>
+  <UrbworldRebel56.titleShortFemale>ذ¼رڈر‚ذµذ¶ذ½ذ¸ر†ذ°</UrbworldRebel56.titleShortFemale>
+  
+</LanguageData>
