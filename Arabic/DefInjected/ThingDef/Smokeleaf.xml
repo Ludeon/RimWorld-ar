@@ -1,0 +1,20 @@
+<LanguageData>
+  
+  
+  <SmokeleafJoint.label>ﺔﺒﺷﺎﻌﻟﺍ ﻥﺎﺧﺩ ﻚﻳﺮﺤﺗ ﻲﻓ ﺄﻄﺧ</SmokeleafJoint.label>
+  
+  <SmokeleafJoint.description>ﺯﺰﻌﺗ .ﻦﻴﺧﺪﺘﻠﻟ ﺔﻓﻮﻔﻠﻣ ،ﻥﺎﺧﺪﻟﺍ ﻕﺍﺭﻭﺃ ﻦﻣ ﺔﻣﺯﺭ
+.ﺔﻛﺮﺤﻟﺍ ﺊﻄﺒﺗﻭ ﺰﻴﻛﺮﺘﻟﺍ ﻞﻠﻘﺗﻭ ﺔﻴﻬﺸﻟﺍ ﻊﺠﺸﺗﻭ ﺝﺍﺰﻤﻟﺍ
+.ﻥﺎﻣﺩﻹﺍ ﻰﻟﺇ ﻥﺎﺧﺪﻟﺍ ﻝﺎﻤﻌﺘﺳﺍ ﻱﺩﺆﻳ ﺪﻗ
+
+ﺎﻬﻠﻌﺟ ﺎﻤﻣ ،ﺕﺍﺪﻌﻣ ﻱﺃ ﻥﻭﺪﺑ ﺔﻣﺯﺮﻔﻟ ﻦﻜﻤﻳ
+ﺔﻳﺪﻴﻠﻘﺘﻟﺍ ﺕﺎﻓﺎﻘﺜﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻲﻓ ﺎﻴﺳﺎﺳﺃ ﺍﺀﺰﺟ
+.ﻊﻴﻨﺼﺘﻟﺍ ﻦﻣ ﺾﻔﺨﻨﻣ ﻯﻮﺘﺴﻣ ﺕﺍﺫ</SmokeleafJoint.description>
+  
+  <SmokeleafJoint.ingestible.ingestCommandString>{lookup: {0}; Case; 3} ﻦﻴﺧﺪﺗ</SmokeleafJoint.ingestible.ingestCommandString>
+  
+  <SmokeleafJoint.ingestible.ingestReportString>{lookup: {0}; Case; 3} ﻞﻛﺄﻳ</SmokeleafJoint.ingestible.ingestReportString>
+  
+  <SmokeleafJoint.ingestible.ingestReportStringEat>{lookup: {0}; Case; 3} ﻦﺧﺪﻳ</SmokeleafJoint.ingestible.ingestReportStringEat>
+  
+</LanguageData>
