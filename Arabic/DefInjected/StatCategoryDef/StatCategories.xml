@@ -1,0 +1,94 @@
+<LanguageData>
+  
+  
+  <Ability.label>ﺓﺭﺪﻘﻟﺍ</Ability.label>
+  
+  
+  <AnimalProductivity.label>ﻥﺍﻮﻴﺤﻟﺍ ﺔﻴﺟﺎﺘﻧﺇ</AnimalProductivity.label>
+  
+  
+  <Apparel.label>ﺲﺑﻼﻤﻟﺍ</Apparel.label>
+  
+  
+  <Basics.label>ﺔﻴﺳﺎﺳﻷﺍ ﺪﻋﺍﻮﻘﻟﺍ</Basics.label>
+  
+  
+  <BasicsImportant.label>ﺔﻴﺳﺎﺳﻷﺍ ﺪﻋﺍﻮﻘﻟﺍ</BasicsImportant.label>
+  
+  
+  <BasicsNonPawn.label>ﺔﻴﺳﺎﺳﻷﺍ</BasicsNonPawn.label>
+  
+  
+  <BasicsNonPawnImportant.label>ﺔﻴﺳﺎﺳﻷﺍ ﺪﻋﺍﻮﻘﻟﺍ</BasicsNonPawnImportant.label>
+  
+  
+  <BasicsPawn.label>ﺔﻴﺳﺎﺳﻷﺍ ﺪﻋﺍﻮﻘﻟﺍ</BasicsPawn.label>
+  
+  
+  <BasicsPawnImportant.label>ﺔﻴﺳﺎﺳﻷﺍ</BasicsPawnImportant.label>
+  
+  
+  <Building.label>ﺀﺎﻨﺒﻟﺍ</Building.label>
+  
+  
+  <CapacityEffects.label>ﺕﻼﻳﺪﻌﺘﻟﺍ</CapacityEffects.label>
+  
+  
+  <Drug.label>ﺓﻮﺸﻧ</Drug.label>
+  
+  
+  <DrugAddiction.label>ﺩﺍﻮﻤﻟﺍ ﻰﻠﻋ ﻥﺎﻣﺩﻹﺍ</DrugAddiction.label>
+  
+  
+  <EquippedStatOffsets.label>ﺕﺍﺪﻌﻤﻟﺍ ﻰﻠﻋ ﺕﻼﻳﺪﻌﺘﻟﺍ</EquippedStatOffsets.label>
+  
+  
+  <Genetics.label>ﺔﺛﺍﺭﻮﻟﺍ ﻢﻠﻋ</Genetics.label>
+  
+  
+  <Implant.label>ﺔﻋﺭﺰﻟﺍ</Implant.label>
+  
+  
+  <Meditation.label>ﻞﻣﺄﺘﻟﺍ</Meditation.label>
+  
+  
+  <PawnCombat.label>ﺔﻴﻟﺎﺘﻘﻟﺍ</PawnCombat.label>
+  
+  
+  <PawnMisc.label>ﺔﻋﻮﻨﺘﻣ</PawnMisc.label>
+  
+  
+  <PawnSocial.label>ﺔﻴﻋﺎﻤﺘﺟﻻﺍ</PawnSocial.label>
+  
+  
+  <PawnWork.label>ﻝﺎﻤﻌﻟﺍ</PawnWork.label>
+  
+  
+  <Source.label>ﺭﺪﺼﻤﻟﺍ</Source.label>
+  
+  
+  <StuffOfEquipmentStatFactors.label>ﻦﻣ ﺕﺍﺰﻴﻬﺠﺘﻟﺍ ﻊﻴﻨﺼﺗ ﻢﺗ ﺍﺫﺇ ﺔﻔﻋﺎﻀﻤﻟﺍ ﻞﻣﺍﻮﻌﻟﺍ
+ﺩﺍﻮﻤﻟﺍ ﺍﺬﻫ</StuffOfEquipmentStatFactors.label>
+  
+  
+  <StuffStatFactors.label>ﺍﺬﻫ ﻦﻣ ﺮﺼﻨﻌﻟﺍ ﻊﻨﺻ ﻢﺗ ﺍﺫﺇ ،ﺕﻼﻣﺎﻌﻤﻟﺍ</StuffStatFactors.label>
+  
+  
+  <StuffStatOffsets.label>.ﺍﺬﻫ ﻦﻣ ﺮﺼﻨﻌﻟﺍ ﻊﻨﺻ ﻢﺗ ﺍﺫﺇ ﺕﻼﻳﺪﻌﺘﻟﺍ</StuffStatOffsets.label>
+  
+  
+  <Surgery.label>ﻲﺣﺍﺮﺟ</Surgery.label>
+  
+  
+  <Terrain.label>ﺔﺒﻌﻠﻟﺍ ﺢﻄﺳ</Terrain.label>
+  
+  
+  <Weapon.label>ﺡﻼﺴﻟﺍ</Weapon.label>
+  
+  
+  <Weapon_Melee.label>(ﺐﻳﺮﻘﻟﺍ ﻝﺎﺘﻘﻟﺍ) ﺡﻼﺴﻟﺍ</Weapon_Melee.label>
+  
+  
+  <Weapon_Ranged.label>(ﺪﻌﺑ ﻦﻋ) ﺔﺤﻠﺳﻷﺍ</Weapon_Ranged.label>
+  
+</LanguageData>
