@@ -1,0 +1,15 @@
+<LanguageData>
+  
+  
+  <Flake.label>ﺔﻴﺴﻔﻨﻟﺍ ﺓﻮﻘﻟﺍ ﺕﺎﺷﺎﻘﻧ</Flake.label>
+  
+  <Flake.description>ﺔﺠﻬﺑ ﺔﻟﺎﺣ ﺐﺒﺴﺗ .ﻦﻴﺧﺪﺘﻠﻟ ﺔﻠﺑﺎﻗ ﺔﻴﻘﺋﺎﻗﺭ ﺓﺩﺎﻣ
+ﺔﻟﻮﻬﺳﻭ ،ﺝﺎﺘﻧﻺﻟ ﺔﻀﻔﺨﻨﻤﻟﺍ ﺔﻔﻠﻜﺘﻟﺍ .ﺔﻳﻮﻗ ﺎﻬﻨﻜﻟﻭ ﺓﺮﻴﺼﻗ
+ﺓﺎﻴﺣ ﺮﻴﻣﺪﺘﺑ ﺔﻓﻭﺮﻌﻣ ﺲﻔﻨﻟﺍ ﻖﺋﺎﻗﺭ .ﺎﻬﻴﻠﻋ ﺩﻮﻌﺘﻟﺍ
+.ﺎﻬﻠﻤﻛﺄﺑ ﺕﺎﻌﻤﺘﺠﻤﻟﺍﻭ ﺕﻼﺋﺎﻌﻟﺍﻭ ﺩﺍﺮﻓﻷﺍ</Flake.description>
+  
+  <Flake.ingestible.ingestCommandString>{lookup: {0}; Case; 3} ﻦﻴﺧﺪﺘﻟﺍ</Flake.ingestible.ingestCommandString>
+  
+  <Flake.ingestible.ingestReportString>{lookup: {0}; Case; 3} ﻦﺧﺪﻳ</Flake.ingestible.ingestReportString>
+  
+</LanguageData>
