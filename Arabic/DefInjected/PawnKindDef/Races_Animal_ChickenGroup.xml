@@ -1,0 +1,47 @@
+<LanguageData>
+  
+  
+  <Chicken.label>ﺔﺟﺎﺟﺪﻟﺍ</Chicken.label>
+  
+  <Chicken.labelFemale>ﺔﺟﺎﺟﺪﻟﺍ</Chicken.labelFemale>
+  
+  <Chicken.labelMale>ﺔﺟﺎﺟﺩ</Chicken.labelMale>
+  <Chicken.labelPlural>ﺝﺎﺟﺪﻟﺍ</Chicken.labelPlural>
+  
+  <Chicken.lifeStages.chick.label>ﺥﺮﻓ</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.chick.labelPlural>ﺖﻴﻛﺎﺘﻜﻟﺍ</Chicken.lifeStages.chick.labelPlural>
+  <Chicken.lifeStages.cockerel.labelFemale>.ﺔﺟﺎﺟﺪﻟﺍ</Chicken.lifeStages.cockerel.labelFemale>
+  
+  <Chicken.lifeStages.cockerel.labelMale>ﻚﻳﺪﻟﺍ</Chicken.lifeStages.cockerel.labelMale>
+  
+  
+  <Duck.label>ﺔﻄﺒﻟﺍ</Duck.label>
+  <Duck.labelMale>ﺓﺮﻴﻐﺼﻟﺍ ﺔﻄﺒﻟﺍ</Duck.labelMale>
+  <Duck.labelPlural>ﻂﺒﻟﺍ</Duck.labelPlural>
+  
+  <Duck.lifeStages.duckling.label>ﻥﺎﺼﻴﺻ</Duck.lifeStages.duckling.label>
+  <Duck.lifeStages.1.label>ﺓﺮﻴﻐﺻ ﺔﻄﺑ</Duck.lifeStages.1.label>
+  <Duck.lifeStages.1.labelFemale>.ﺓﺮﻴﻐﺻ ﺔﻄﺑ</Duck.lifeStages.1.labelFemale>
+  <Duck.lifeStages.1.labelMale>ﺏﺎﺷ ﺹﻮﺻ</Duck.lifeStages.1.labelMale>
+  
+  
+  <Goose.label>ﺔﻄﺒﻟﺍ</Goose.label>
+  <Goose.labelFemale>ﺔﻄﺒﻟﺍ</Goose.labelFemale>
+  
+  <Goose.labelPlural>ﺯﻭﻷﺍ</Goose.labelPlural>
+  <Goose.lifeStages.0.label>"ﻙﻮﻨﻴﺳﻮﻏ" ﻮﻫ ﻚﻤﺳﺇ</Goose.lifeStages.0.label>
+  <Goose.lifeStages.1.label>ﺯﻮﻟﺍ ﺏﺎﺷ</Goose.lifeStages.1.label>
+  <Goose.lifeStages.1.labelFemale>ﺔﺑﺎﺷ ﺔﺻﻮﺻ</Goose.lifeStages.1.labelFemale>
+  <Goose.lifeStages.1.labelMale>ﺮﻴﻐﺼﻟﺍ ﻂﺒﻟﺍ</Goose.lifeStages.1.labelMale>
+  
+  
+  <Turkey.label>ﻲﻣﻭﺮﻟﺍ ﻚﻳﺪﻟﺍ</Turkey.label>
+  <Turkey.labelFemale>ﻲﻣﻭﺭ ﻚﻳﺩ :ﺔﻤﺟﺮﺘﻟﺍ</Turkey.labelFemale>
+  <Turkey.labelMale>ﻰﻌﻓﻷﺍ</Turkey.labelMale>
+  <Turkey.labelPlural>ﺔﺑﺯﺍﻭﺭﺪﻟﺍ</Turkey.labelPlural>
+  <Turkey.lifeStages.0.label>ﺮﻴﻐﺻ ﻲﻛﺮﺗ</Turkey.lifeStages.0.label>
+  <Turkey.lifeStages.1.label>ﻚﻳﺪﻟﺍ ﺏﺎﺷ</Turkey.lifeStages.1.label>
+  <Turkey.lifeStages.1.labelFemale>ﺮﻴﻐﺻ ﻚﻳﺩ</Turkey.lifeStages.1.labelFemale>
+  <Turkey.lifeStages.1.labelMale>ﻱﺮﺒﻟﺍ ﻚﻳﺪﻟﺍ ﺏﺎﺷ</Turkey.lifeStages.1.labelMale>
+  
+</LanguageData>
