@@ -1,0 +1,13 @@
+ï»؟<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Worn out by the pressures of social interaction, [PAWN_nameDef] left [PAWN_possessive] crowded city to live a simple life in the wilderness. There, [PAWN_pronoun] spent [PAWN_possessive] days alone, tending [PAWN_possessive] garden and crafting the simple tools [PAWN_pronoun] needed to survive. -->
+  <Hermit82.baseDesc>ذںذ¾ذ´ ذ´ذ°ذ²ذ»ذµذ½ذ¸ذµذ¼ ذ¾ذ±ر‰ذµرپر‚ذ²ذµذ½ذ½ذ¾ذ¹ ذ¶ذ¸ذ·ذ½ذ¸ {PAWN_nameDef} {PAWN_gender ? ذ؟ذ¾ذ؛ذ¸ذ½رƒذ» : ذ؟ذ¾ذ؛ذ¸ذ½رƒذ»ذ°} رپذ²ذ¾ذ¹ ذ؟ذµر€ذµذ½ذ°رپذµذ»ر‘ذ½ذ½ر‹ذ¹ ذ³ذ¾ر€ذ¾ذ´, ر‡ر‚ذ¾ذ±ر‹ ذ²ذµرپر‚ذ¸ ذ؟ر€ذ¾رپر‚رƒرژ ذ¶ذ¸ذ·ذ½رŒ رپر€ذµذ´ذ¸ ذ´ذ¸ذ؛ذ¾ذ¹ ذ؟ر€ذ¸ر€ذ¾ذ´ر‹. ذ¢ذ°ذ¼ {PAWN_pronoun} {PAWN_gender ? ذ؟ر€ذ¾ذ²ذ¾ذ´ذ¸ذ» : ذ؟ر€ذ¾ذ²ذ¾ذ´ذ¸ذ»ذ°} رپذ²ذ¾ذ¸ ذ´ذ½ذ¸ ذ² ذ¾ذ´ذ¸ذ½ذ¾ر‡ذµرپر‚ذ²ذµ, رƒر…ذ°ذ¶ذ¸ذ²ذ°رڈ ذ·ذ° رپذ°ذ´ذ¾ذ¼ ذ¸ رپذ°ذ¼ذ¾رپر‚ذ¾رڈر‚ذµذ»رŒذ½ذ¾ ذ¸ذ·ذ³ذ¾ر‚ذ°ذ²ذ»ذ¸ذ²ذ°رڈ ذ؟ر€ذ¾رپر‚ذµذ¹رˆذ¸ذµ ذ¸ذ½رپر‚ر€رƒذ¼ذµذ½ر‚ر‹, ذ½ذµذ¾ذ±ر…ذ¾ذ´ذ¸ذ¼ر‹ذµ ذ´ذ»رڈ ذ²ر‹ذ¶ذ¸ذ²ذ°ذ½ذ¸رڈ.</Hermit82.baseDesc>
+  <!-- EN: hermit -->
+  <Hermit82.title>ذ¾ر‚رˆذµذ»رŒذ½ذ¸ذ؛</Hermit82.title>
+  <Hermit82.titleFemale>ذ¾ر‚رˆذµذ»رŒذ½ذ¸ر†ذ°</Hermit82.titleFemale>
+  <!-- EN: hermit -->
+  <Hermit82.titleShort>ذ¾ر‚رˆذµذ»رŒذ½ذ¸ذ؛</Hermit82.titleShort>
+  <Hermit82.titleShortFemale>ذ¾ر‚رˆذµذ»رŒذ½ذ¸ر†ذ°</Hermit82.titleShortFemale>
+  
+</LanguageData>
