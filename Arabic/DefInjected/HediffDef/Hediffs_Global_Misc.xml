@@ -1,0 +1,195 @@
+<LanguageData>
+  
+  
+  <Anesthetic.label>ﺕﺍﺭﺪﺨﻤﻟﺍ</Anesthetic.label>
+  
+  <Anesthetic.description>ﻲﻓ ﻞﺧﺪﻳﻭ ﻡﺪﻟﺍ ﺮﻤﻐﻳ ﺭﺪﺨﻤﻟﺍ .ﺮﻳﺪﺨﺘﻟﺍ ﺖﺤﺗ
+.ﻲﻋﻮﻟﺍ ﻥﺍﺪﻘﻓ ﺐﺒﺴﻳﻭ ﻡﻮﻧ ﺔﻟﺎﺣ</Anesthetic.description>
+  
+  <Anesthetic.stages.wearing_off.label>ﻒﻴﻔﺨﻟﺍ ﺱﺎﻌﻨﻟﺎﺑ ﺭﻮﻌﺷ</Anesthetic.stages.wearing_off.label>
+  
+  <Anesthetic.stages.woozy.label>ﺭﺍﻭﺪﻟﺍ</Anesthetic.stages.woozy.label>
+  
+  <Anesthetic.stages.sedated.label>ﺮﻳﺪﺨﺘﻟﺍ ﺖﺤﺗ</Anesthetic.stages.sedated.label>
+  
+  
+  <BloodLoss.label>ﻡﺪﻟﺍ ﻥﺍﺪﻘﻓ</BloodLoss.label>
+  
+  <BloodLoss.description>ﻡﺪﻟﺍ ﻢﺠﺣ ﻲﻓ ﻒﻴﻔﻃ ﺽﺎﻔﺨﻧﺍ ﻱﺩﺆﻳ ﻻ
+ﺓﺮﻴﺒﻛ ﺔﻴﻤﻛ ﻥﺍﺪﻘﻓ ﻦﻜﻟﻭ .ﺓﺮﻴﺒﻛ ﺭﺎﺛﺁ ﻰﻟﺇ
+ﻦﻴﺠﺴﻛﻷﺍ ﻞﻴﺻﻮﺗ ﻲﻓ ﻞﻛﺎﺸﻣ ﺐﺒﺴﻳ ﻡﺪﻟﺍ ﻦﻣ
+ﺔﻴﻤﻛ ﻥﺍﺪﻘﻓ ﻥﺇ .ﻙﺮﺤﺘﻟﺍ ﻰﻠﻋ ﺓﺭﺪﻘﻟﺍ ﻥﺍﺪﻘﻓﻭ
+ﻢﺗ ﺍﺫﺇ .ﺓﺎﻴﺤﻟﺍ ﺩﺪﻬﻳ ﻡﺪﻟﺍ ﻦﻣ ﺓﺮﻴﺒﻛ
+.ﺎﻴﺠﻳﺭﺪﺗ ﺩﻮﻘﻔﻤﻟﺍ ﻢﺠﺤﻟﺍ ﺓﺩﺎﻌﺘﺳﺍ ﻢﺘﻴﺳ ،ﻒﻳﺰﻨﻟﺍ ﻑﺎﻘﻳﺇ</BloodLoss.description>
+  
+  <BloodLoss.stages.minor-0.label>.ﺔﻔﻴﻌﺿ</BloodLoss.stages.minor-0.label>
+  
+  <BloodLoss.stages.minor-1.label>ﺔﻠﻬﺳ</BloodLoss.stages.minor-1.label>
+  
+  <BloodLoss.stages.moderate.label>ﻂﺳﻭ</BloodLoss.stages.moderate.label>
+  
+  <BloodLoss.stages.severe.label>ﺓﺮﻴﺒﻛ</BloodLoss.stages.severe.label>
+  
+  <BloodLoss.stages.extreme.label>ﺍﺪﺟ ﺔﻤﺨﺿ</BloodLoss.stages.extreme.label>
+  
+  
+  <BrainShock.label>ﺔﻴﺒﺼﻋ ﺔﻣﺪﺻ</BrainShock.label>
+  
+  <BrainShock.description>ﺙﺪﺤﺗ ﺎﻣ ﺓﺩﺎﻋ ﺔﻴﺋﺎﺑﺮﻬﻛ ﺔﻣﺪﺼﺑ ﻍﺎﻣﺪﻟﺍ ﺔﺑﺎﺻﺇ
+ﺶﻳﻮﺸﺘﻟﺍ ﻰﻠﻋ ﺔﻴﻏﺎﻣﺪﻟﺍ ﺕﺎﻋﺭﺰﻟﺍ ﻞﻌﻓ ﺩﺭ ﺔﺠﻴﺘﻧ
+.elecromagnetic</BrainShock.description>
+  
+  <BrainShock.labelNoun>ﺔﻴﺒﺼﻋ ﺔﻣﺪﺻ</BrainShock.labelNoun>
+  
+  
+  <CatatonicBreakdown.label>ﺔﻴﺒﻠﺴﻟﺍ ﺔﻴﺴﻔﻨﻟﺍ ﺔﻟﺎﺤﻟﺍ</CatatonicBreakdown.label>
+  
+  <CatatonicBreakdown.description>ﻊﻴﻤﺟ ﺺﺨﺸﻟﺍ ﺎﻬﻴﻓ ﺪﻘﻔﻳ ،ﺔﻴﻠﻘﻋ ﺔﻣﺪﺻ ﺔﻟﺎﺣ
+.ﻲﻋﻭ ﻼﺑ ﺎﺒﻳﺮﻘﺗ ﻂﻘﺴﺗ ﺔﻴﺤﻀﻟﺍ .ﺔﻴﻛﺮﺤﻟﺍ ﻪﺗﺍﺭﺪﻗ</CatatonicBreakdown.description>
+  
+  <CatatonicBreakdown.labelNoun>ﻙﺎﺒﺗﺭﻻﺍ</CatatonicBreakdown.labelNoun>
+  
+  
+  <CoveredInFirefoam.label>ﺀﺎﻔﻃﻹﺍ ﺓﻮﻏﺭ ﻲﻓ</CoveredInFirefoam.label>
+  
+  <CoveredInFirefoam.description>.ﻖﻳﺮﺤﻟﺍ ﺓﻮﻏﺮﺑ ﻰﻄﻐﻣ ﻦﺋﺎﻜﻟﺍ</CoveredInFirefoam.description>
+  
+  
+  <CryptosleepSickness.label>ﻖﻴﻤﻌﻟﺍ ﻡﻮﻨﻟﺍ ﺽﺮﻣ</CryptosleepSickness.label>
+  
+  <CryptosleepSickness.description>ﺪﻳﺪﻌﻟﺍ ﻝﺪﺒﺘﺴﻳﻭ ﺊﻄﺒﻳ ﻥﻮﺳﻮﺘﺒﻳﺮﻜﻟﺍ .ﻥﻮﺳﻮﺘﺒﻳﺮﻜﻠﻟ ﺔﻴﺒﻧﺎﺟ ﺕﺍﺮﻴﺛﺄﺗ
+ﺪﻌﺑ .ﺕﻮﻤﻟﺍﻭ ﺔﺧﻮﺨﻴﺸﻟﺍ ﻊﻨﻤﻟ ﻢﺴﺠﻟﺍ ﻒﺋﺎﻇﻭ ﻦﻣ
+ﺔﻴﻀﻳﻷﺍ ﺕﺎﻴﻠﻤﻌﻟﺍ ﺓﺩﺎﻌﺘﺳﻻ ﺖﻗﻮﻟﺍ ﺾﻌﺑ ﻕﺮﻐﺘﺴﻳ ،ﻅﺎﻘﻴﺘﺳﻻﺍ
+ﻦﻣ ﺾﻳﺮﻤﻟﺍ ﻲﻧﺎﻌﻳ ،ﺓﺮﺘﻔﻟﺍ ﻩﺬﻫ ﻝﻼﺧﻭ ،ﺔﻴﻌﻴﺒﻄﻟﺍ
+.ﺰﻴﻛﺮﺘﻟﺍ ﺽﺎﻔﺨﻧﺍﻭ ﺭﺍﻭﺪﻟﺍﻭ ﻥﺎﻴﺜﻐﻟﺍ</CryptosleepSickness.description>
+  
+  <CryptosleepSickness.descriptionShort>ﻥﺎﻴﺜﻐﻟﺍﻭ ﺭﺍﻭﺪﻟﺍ ﻞﻤﺸﺗ ﻮﺘﺒﻳﺮﻜﻟﺍ ﻡﻮﻨﻠﻟ ﺔﻴﺒﻧﺎﺠﻟﺍ ﺭﺎﺛﻵﺍ
+.ﺀﻲﻘﻟﺍﻭ</CryptosleepSickness.descriptionShort>
+  
+  
+  <DrugOverdose.label>ﺔﻋﺮﺠﻟﺎﺑ ﻢﻤﺴﺗ</DrugOverdose.label>
+  
+  <DrugOverdose.description>ﺪﺋﺍﺯ ﺰﻴﻛﺮﺗ ﻦﻋ ﺞﺗﺎﻧ ﻅﻮﺤﻠﻣ ﻡﺎﺳ ﺮﻴﺛﺄﺗ
+.ﺔﻳﻮﻣﺪﻟﺍ ﺓﺭﻭﺪﻟﺍ ﻲﻓ ﺔﻴﺋﺎﻴﻤﻴﻜﻟﺍ ﺩﺍﻮﻤﻠﻟ</DrugOverdose.description>
+  
+  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>{0} :ﺓﺪﺋﺍﺰﻟﺍ ﺔﻋﺮﺠﻟﺍ</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>
+  
+  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>!ﺓﺪﺋﺍﺯ ﺔﻋﺮﺠﺑ {0} ﺔﺑﺎﺻﺇ</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>
+  
+  <DrugOverdose.labelNoun>ﺓﺪﺋﺍﺯ ﺔﻋﺮﺟ ﻢﻤﺴﺗ</DrugOverdose.labelNoun>
+  
+  <DrugOverdose.stages.minor-0.label>ﻲﻔﺨﻣ</DrugOverdose.stages.minor-0.label>
+  
+  <DrugOverdose.stages.minor-1.label>ﺍﺪﺟ ﺓﺮﻴﻐﺻ</DrugOverdose.stages.minor-1.label>
+  
+  <DrugOverdose.stages.major.label>ﺔﻳﻮﻗ</DrugOverdose.stages.major.label>
+  
+  
+  <FoodPoisoning.label>ﻲﺋﺍﺬﻏ ﻢﻤﺴﺗ</FoodPoisoning.label>
+  
+  <FoodPoisoning.description>ﻡﺎﻌﻃ ﻝﻭﺎﻨﺗ ﻦﻋ ﺞﺗﺎﻨﻟﺍ ﻲﻤﻀﻬﻟﺍ ﺯﺎﻬﺠﻟﺍ ﺽﺮﻣ
+ﻦﻜﻤﻳ .ﺙﻮﻠﺘﻟﺎﺑ ﺙﻮﻠﻣ ﻭﺃ ﺊﻴﻧ ﻭﺃ ﺙﻮﻠﻣ
+ﺮﻌﺸﻳ .ﺄﻄﺨﻟﺎﺑ ﻦﻴﻠﻫﺆﻤﻟﺍ ﺮﻴﻏ ﺓﺎﻬﻄﻟﺍ ﻩﺪﺴﻔﻳ ﻥﺃ
+ﻰﻟﺇ ﺔﻓﺎﺿﻹﺎﺑ ،ﺀﻲﻘﻟﺍﻭ ﻥﺎﻴﺜﻐﻟﺎﺑ ﺖﻗﻮﻟﺍ ﺾﻌﺒﻟ ﺏﺎﺼﻤﻟﺍ
+.ﺎﻣﻮﻤﻋ ﺔﻴﺤﺼﻟﺍ ﺔﻟﺎﺤﻟﺍ ﺭﻮﻫﺪﺗ</FoodPoisoning.description>
+  
+  <FoodPoisoning.stages.recovering.label>ﺀﺎﻔﺸﻟﺍ</FoodPoisoning.stages.recovering.label>
+  
+  <FoodPoisoning.stages.major.label>ﺔﻤﻟﺆﻣ</FoodPoisoning.stages.major.label>
+  
+  <FoodPoisoning.stages.initial.label>.ﺔﻳﺍﺪﺒﻟﺍ</FoodPoisoning.stages.initial.label>
+  
+  
+  <HeartAttack.label>ﺔﻴﺒﻠﻗ ﺔﺑﻮﻧ</HeartAttack.label>
+  
+  <HeartAttack.description>ﺔﻴﺒﻠﻗ ﺕﺎﺑﻮﻧ .ﺐﻠﻘﻟﺍ ﺕﺎﺑﺮﺿ ﻉﺎﻘﻳﺇ ﻲﻓ ﻝﻼﺘﺧﺍ
+ﺙﺪﺤﻳ ﻥﺃ ﻦﻜﻤﻳ .ﺔﻗﺎﻌﻣﻭ ﺔﻤﻟﺆﻣ ﻥﻮﻜﺗ ﺪﻗ
+ﺔﻟﺎﺤﻟﺍ ﺭﻮﻫﺪﺗ ،ﺀﺎﻔﺸﻟﺍ :ﺓﺩﺪﻌﺘﻣ ﺕﺎﻳﺎﻬﻧ ﺔﺑﻮﻧ ﻞﻜﻟ
+.ﺕﻮﻤﻟﺍ ﻭﺃ ،ﺔﻴﺤﺼﻟﺍ</HeartAttack.description>
+  
+  <HeartAttack.labelNoun>ﺔﻴﺒﻠﻗ ﺔﺑﻮﻧ</HeartAttack.labelNoun>
+  
+  <HeartAttack.stages.painful.label>ﻢﻟﺆﻣ</HeartAttack.stages.painful.label>
+  
+  <HeartAttack.stages.debilitating.label>ﺓﻮﻘﻟﺍ ﻒﻔﺨﻣ</HeartAttack.stages.debilitating.label>
+  
+  <HeartAttack.stages.fatal.label>ﻞﺗﺎﻗ</HeartAttack.stages.fatal.label>
+  
+  
+  <Pregnant.label>ﻞﻤﺤﻟﺍ</Pregnant.label>
+  
+  <Pregnant.description>ﺖﻗﻮﻟﺍ ﻲﻬﺘﻨﻳ ﺎﻣﺪﻨﻋ .ﺔﻳﺭﺫ ﺐﺠﻨﻳ ﻥﺎﺴﻧﻹﺍ ﺍﺬﻫ
+ﻦﻜﻟﻭ .ﻞﺴﻨﻟﺎﺑ ﻕﺯﺮﻴﺳ ، ﻲﻌﻴﺒﻃ ﻞﻜﺸﺑ ﺩﺪﺤﻤﻟﺍ
+ﻭﺃ ﻉﻮﺠﻟﺍ ﺔﻟﺎﺣ ﻲﻓ ﺽﺎﻬﺟﺇ ﺙﺪﺤﻳ ﺪﻗ
+.ﺔﺑﺎﺻﻹﺍ</Pregnant.description>
+  
+  <Pregnant.comps.HediffComp_MessageAfterTicks.message>!ﻞﻣﺎﺣ {0}</Pregnant.comps.HediffComp_MessageAfterTicks.message>
+  
+  <Pregnant.labelNoun>ﻞﻤﺤﻟﺍ</Pregnant.labelNoun>
+  
+  <Pregnant.stages.earlystage.label>ﻝﻭﻷﺍ ﺚﻠﺜﻟﺍ</Pregnant.stages.earlystage.label>
+  
+  <Pregnant.stages.middlestage.label>ﻞﻤﺤﻟﺍ ﻦﻣ ﻲﻧﺎﺜﻟﺍ ﺚﻠﺜﻟﺍ</Pregnant.stages.middlestage.label>
+  
+  <Pregnant.stages.latestage.label>ﺮﻴﺧﻷﺍ ﺚﻠﺜﻟﺍ</Pregnant.stages.latestage.label>
+  
+  
+  <PsychicComa.label>.ﺔﻴﻠﻘﻌﻟﺍ ﺔﺑﻮﺒﻴﻐﻟﺍ</PsychicComa.label>
+  
+  <PsychicComa.description>ﻍﺎﻣﺪﻟﺍ ﻰﻓﺎﻌﺘﻳ ﺚﻴﺣ ،ﺔﺑﻮﺒﻴﻐﻟﺍ ﻦﻣ ﺐﺳﺎﻨﻣ ﻉﻮﻧ
+.ﻲﺴﻔﻧ ﻕﺎﻫﺭﺇ ﺪﻌﺑ</PsychicComa.description>
+  
+  <PsychicComa.labelNoun>.ﺔﻴﻠﻘﻋ ﺔﺑﻮﺒﻴﻏ</PsychicComa.labelNoun>
+  
+  
+  <PsychicHangover.label>ﺔﻴﺴﻔﻨﻟﺍ ﺔﺑﺂﻜﻟﺍ</PsychicHangover.label>
+  
+  <PsychicHangover.description>ﻲﺴﻔﻧ ﺵﺎﻌﺘﻧﺍ .ﻍﺎﻣﺪﻟﺍ ﻞﻴﻤﺤﺗ ﻲﻓ ﻁﺍﺮﻓﻺﻟ ﺔﺠﻴﺘﻧ
+.ﺍﺮﻄﺧ ﺲﻴﻟ ﻦﻜﻟﻭ ﺢﻳﺮﻣ ﺮﻴﻏ</PsychicHangover.description>
+  
+  <PsychicHangover.labelNoun>ﺔﻴﻠﻘﻌﻟﺍ ﺓﺮﻜﺴﻟﺍ ﺪﻌﺑ ﺎﻣ ﻉﺍﺪﺻ</PsychicHangover.labelNoun>
+  
+  <PsychicHangover.stages.forming.label>ﻞﻜﺸﺘﺗ</PsychicHangover.stages.forming.label>
+  
+  <PsychicHangover.stages.buzzing.label>ﺱﺃﺮﻟﺍ ﻲﻓ ﺀﺎﺿﻮﻀﻟﺍ</PsychicHangover.stages.buzzing.label>
+  
+  
+  <PsychicShock.label>ﺔﻴﺒﺼﻋ ﺔﻣﺪﺻ</PsychicShock.label>
+  
+  <PsychicShock.description>ﻭﺃ ﺔﻴﺴﻔﻨﻟﺍ ﺕﺎﻤﺠﻫ ﺔﺠﻴﺘﻧ ،ﻲﻋﻮﻟﺍ ﻲﻓ ﻰﺿﻮﻓ
+ﻞﻄﻌﺗ ﺔﻟﺎﺤﻟﺍ ﺍﺬﻫ .ﺔﺟﺮﺣ ﺔﻴﺒﺼﻋ ﺔﻠﻤﺣ ﺙﻭﺪﺣ
+.ﺮﻤﺗ ﻰﺘﺣ ﺭﺎﻈﺘﻧﻻﺍ ﻂﻘﻓ ﻰﻘﺒﺘﻳ - ﺎﻣﺎﻤﺗ</PsychicShock.description>
+  
+  <PsychicShock.labelNoun>ﺔﻴﺴﻔﻧ ﺔﻣﺪﺻ</PsychicShock.labelNoun>
+  
+  
+  <ResurrectionSickness.label>ﺀﺎﻴﺣﻹﺍ ﺔﻣﺯﻼﺘﻣ</ResurrectionSickness.label>
+  
+  <ResurrectionSickness.description>ﻞﻴﻐﺸﺘﻟﺍ ﺓﺩﺎﻋﺇ ﺕﺎﻴﻠﻤﻋ .ﺓﺎﻴﺤﻟﺍ ﺓﺩﺎﻋﻹ ﺔﻴﺒﻧﺎﺠﻟﺍ ﺭﺎﺛﻵﺍ
+.ﻥﺯﺍﻮﺘﺘﻟ ﻲﻓﺎﺿﺇ ﺖﻗﻭ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ﺔﻴﻋﺎﻨﻄﺻﻻﺍ</ResurrectionSickness.description>
+  
+  
+  <ToxicBuildup.label>ﻡﻮﻤﺴﻟﺎﺑ ﻢﻤﺴﺗ</ToxicBuildup.label>
+  
+  <ToxicBuildup.description>ﻰﻟﺇ ﺏﺮﺴﺘﻳ ﻥﺃ ﻦﻜﻤﻳ .ﻡﺪﻟﺍ ﻲﻓ ﻡﻮﻤﺴﻟﺍ
+ﺕﺎﻨﺋﺎﻜﻟﺍ ﺕﺎﻏﺪﻟ ﻭﺃ ﺔﻄﻴﺤﻤﻟﺍ ﺔﺌﻴﺒﻟﺍ ﻦﻣ ﻢﺴﺠﻟﺍ
+ﻲﻓ .ﻡﻮﻤﺴﻣ ﺡﻼﺳ ﻦﻣ ﺡﺮﺟ ﻭﺃ ﺔﻣﺎﺴﻟﺍ
+ﻥﺎﻃﺮﺴﻠﻟ ﺐﺒﺴﻣ ﺮﻴﺛﺄﺗ ﺓﺩﺎﻤﻠﻟ ﻥﻮﻜﻳ ﺓﺮﻴﻐﺻ ﺕﺎﻋﺮﺟ
+ﺕﺎﻣ ﺍﺫﺇ .ﺎﺘﻴﻤﻣ ﻥﻮﻜﻳ ﺓﺮﻴﺒﻜﻟﺍ ﺕﺎﻋﺮﺠﻟﺍ ﻲﻓﻭ
+ﻝﺎﻤﺘﺣﺍ ﻙﺎﻨﻬﻓ ، ﻡﻮﻤﺴﻟﺎﺑ ﻢﻤﺴﺘﻟﺍ ﺐﺒﺴﺑ ﻦﺋﺎﻜﻟﺍ
+ﺕﺩﺍﺯ ﺎﻤﻠﻛ .ﻞﻛﻸﻟ ﺢﻟﺎﺻ ﺮﻴﻏ ﻥﻮﻜﻳ ﻥﺃ
+.ﻝﺎﻤﺘﺣﻻﺍ ﺍﺬﻫ ﺩﺍﺯ ، ﻢﻤﺴﺘﻟﺍ ﺓﺪﺷ</ToxicBuildup.description>
+  
+  <ToxicBuildup.stages.initial-0.label>ﺔﻇﻮﺤﻠﻣ ﺮﻴﻏ</ToxicBuildup.stages.initial-0.label>
+  
+  <ToxicBuildup.stages.initial-1.label>ﺔﻳﺍﺪﺒﻟﺍ</ToxicBuildup.stages.initial-1.label>
+  
+  <ToxicBuildup.stages.minor.label>ﻞﻬﺳ</ToxicBuildup.stages.minor.label>
+  
+  <ToxicBuildup.stages.moderate.label>ﻂﺳﻮﺘﻣ</ToxicBuildup.stages.moderate.label>
+  
+  <ToxicBuildup.stages.serious.label>ﺔﻳﺪﺟ</ToxicBuildup.stages.serious.label>
+  
+  <ToxicBuildup.stages.extreme.label>ﺔﻓﺮﻄﺘﻤﻟﺍ</ToxicBuildup.stages.extreme.label>
+  
+</LanguageData>
