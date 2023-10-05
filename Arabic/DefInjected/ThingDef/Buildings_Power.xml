@@ -1,0 +1,68 @@
+<LanguageData>
+  
+  
+  <Battery.label>ﺔﻳﺭﺎﻄﺒﻟﺍ</Battery.label>
+  
+  <Battery.description>.ﺎﻬﺼﻘﻧ ﺪﻨﻋ ﺎﻬﻨﻋ ﺝﺮﻔﻳﻭ ﺓﺪﺋﺍﺰﻟﺍ ﺔﻗﺎﻄﻟﺍ ﻂﻘﺘﻠﻳ
+ﻦﻴﺨﺴﺘﻟﺍ ﺪﻨﻋ ﺔﻧﻮﺤﺸﻤﻟﺍ ﺕﺎﻳﺭﺎﻄﺒﻟﺍ ﺮﺠﻔﻨﻳ ﺪﻗ :ﺮﻳﺬﺤﺗ
+!ﺔﺑﻮﻃﺮﻠﻟ ﺽﺮﻌﺘﻟﺍ ﻭﺃ</Battery.description>
+  
+  
+  <ChemfuelPoweredGenerator.label>ﻲﺋﺎﻴﻤﻴﻛ ﺩﻮﻗﻭ ﺪﻟﻮﻣ</ChemfuelPoweredGenerator.label>
+  
+  <ChemfuelPoweredGenerator.description>ﻪﺘﺌﺒﻌﺗ ﺐﺠﻳﻭ ﻱﻭﺎﻤﻴﻜﻟﺍ ﺩﻮﻗﻮﻟﺍ ﻝﻭﺎﻨﺘﺑ ﺀﺎﺑﺮﻬﻜﻟﺍ ﺪﻟﻮﻳ
+.ﺎﻳﻭﺪﻳ</ChemfuelPoweredGenerator.description>
+  
+  
+  <GeothermalGenerator.label>ﺔﻳﺭﺍﺮﺣﻮﻴﺟ ﺔﻗﺎﻃ ﺪﻟﻮﻣ</GeothermalGenerator.label>
+  
+  <GeothermalGenerator.description>ﻥﺃ ﺐﺠﻳ .ﺔﻳﺭﺎﺨﺒﻟﺍ ﻊﻴﺑﺎﻨﻴﻟﺍ ﻦﻣ ﺔﻗﺎﻄﻟﺍ ﺺﻠﺨﺘﺴﺗ
+.ﻊﻴﺑﺎﻨﻴﻟﺍ ﻕﻮﻓ ﻊﺿﻮﻳ</GeothermalGenerator.description>
+  
+  
+  <PowerConduit.label>ﻞﺒﻴﻛ</PowerConduit.label>
+  
+  <PowerConduit.description>ﻲﻧﺎﺒﻤﻟﺍﻭ ﻥﺍﺭﺪﺠﻟﺍ ﺖﺤﺗ ﻪﻌﺿﻭ ﻦﻜﻤﻳ .ﺀﺎﺑﺮﻬﻜﻟﺍ ﻞﺑﺎﻛ
+.ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺔﻗﺎﻄﻟﺍ ﻞﻘﻧﻭ ﻯﺮﺧﻷﺍ</PowerConduit.description>
+  
+  
+  <PowerSwitch.label>ﻑﺎﻘﻳﺇ/ﻞﻴﻐﺸﺘﻟﺍ ﺡﺎﺘﻔﻣ</PowerSwitch.label>
+  
+  <PowerSwitch.description>.ﺀﺎﺑﺮﻬﻜﻟﺍ ﺊﻔﻄﻳﻭ ﻞﻐﺸﻳ</PowerSwitch.description>
+  
+  
+  <SolarGenerator.label>ﺔﻴﺴﻤﺸﻟﺍ ﺔﻳﺭﺎﻄﺒﻟﺍ</SolarGenerator.label>
+  
+  <SolarGenerator.description>ﻻ .ﻲﺋﺎﺑﺮﻬﻛ ﺭﺎﻴﺗ ﻰﻟﺇ ﺔﻴﺴﻤﺸﻟﺍ ﺔﻗﺎﻄﻟﺍ ﻝﻮﺤﻳ
+.ﺔﻴﻋﺎﻨﻄﺻﻻﺍ ﺓﺀﺎﺿﻹﺍ ﺖﺤﺗ ﻻﻭ ﻡﻼﻈﻟﺍ ﻲﻓ ﻞﻤﻌﻳ</SolarGenerator.description>
+  
+  
+  <WatermillGenerator.label>ﺀﺎﻣ ﺪﻟﻮﻣ</WatermillGenerator.label>
+  
+  <WatermillGenerator.description>.ﻲﺋﺎﺑﺮﻬﻛ ﺭﺎﻴﺗ ﻰﻟﺇ ﺀﺎﻤﻟﺍ ﻥﺎﻳﺮﺟ ﺔﻗﺎﻃ ﻝﻮﺤﻳ
+ﺍﺫﺇ .ﺀﺎﻤﻟﺍ ﺭﺎﻴﺗ ﻲﻓ ﺔﻠﺠﻌﻟﺍ ﻊﺿﻭ ﺐﺠﻳ
+ﺎﻬﻀﻌﺑ ﻦﻣ ﺍﺪﺟ ﺏﺮﻘﻟﺎﺑ ﺕﺍﺪﻟﻮﻤﻟﺍ ﺕﻼﺠﻋ ﺖﻌﺿﻭ
+ﻲﻓ ﺎﻬﺠﺘﻨﺗ ﻲﺘﻟﺍ ﺕﺎﻣﺍﻭﺪﻟﺍ ﻥﺈﻓ ، ﺾﻌﺒﻟﺍ
+ﻞﻠﻘﺗﻭ ﺾﻌﺒﻟﺍ ﺎﻬﻀﻌﺑ ﻊﻣ ﻞﺧﺍﺪﺘﺘﺳ ﺀﺎﻤﻟﺍ ﺭﺎﻴﺗ
+.ﺔﻴﻟﺎﻤﺟﻹﺍ ﺔﻗﺎﻄﻟﺍ ﺝﺎﺘﻧﺇ</WatermillGenerator.description>
+  
+  
+  <WaterproofConduit.label>ﻱﺮﺤﺒﻟﺍ ﻞﺑﺎﻜﻟﺍ</WaterproofConduit.label>
+  
+  <WaterproofConduit.description>ﺮﺒﻋ ﺔﻴﺋﺎﺑﺮﻬﻜﻟﺍ ﺔﻗﺎﻄﻟﺍ ﻞﻘﻨﻟ ﺀﺎﻤﻠﻟ ﻡﻭﺎﻘﻣ ﻞﺑﺎﻛ
+.ﺓﺮﻴﻐﺼﻟﺍ ﺔﻴﺋﺎﻤﻟﺍ ﺽﺍﻮﺣﻷﺍ ﻉﺎﻗ</WaterproofConduit.description>
+  
+  
+  <WindTurbine.label>ﺡﺎﻳﺮﻟﺍ ﺪﻟﻮﻣ</WindTurbine.label>
+  
+  <WindTurbine.description>.ﺔﻴﺋﺎﺑﺮﻬﻛ ﺔﻗﺎﻃ ﻰﻟﺇ ﺡﺎﻳﺮﻟﺍ ﺓﻮﻗ ﻝﻮﺤﻳ ﺯﺎﻬﺟ
+ﺀﺍﻮﻬﻟﺍ ﻖﻓﺪﺘﻟ ﻪﻔﻠﺧﻭ ﻪﻣﺎﻣﺃ ﺔﺣﻮﺘﻔﻣ ﺔﺣﺎﺴﻣ ﺐﻠﻄﺘﻳ
+.ﻲﻟﺎﺜﻣ ﻞﻜﺸﺑ</WindTurbine.description>
+  
+  
+  <WoodFiredGenerator.label>ﺐﻄﺤﻟﺎﺑ ﻞﻤﻌﻳ ﺪﻗﻮﻣ</WoodFiredGenerator.label>
+  
+  <WoodFiredGenerator.description>ﻩﺪﻳﻭﺰﺗ ﺐﺠﻳﻭ ،ﺩﻮﻗﻮﻛ ﺐﺸﺨﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺀﺎﺑﺮﻬﻜﻟﺍ ﺞﺘﻨﻳ
+.ﺎﻳﻭﺪﻳ</WoodFiredGenerator.description>
+  
+</LanguageData>
