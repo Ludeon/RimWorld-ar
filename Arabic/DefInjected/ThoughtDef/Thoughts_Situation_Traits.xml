@@ -1,0 +1,242 @@
+<LanguageData>
+  
+  
+  
+  <Ascetic.stages.ascetic_has_awful_bedroom.label>ﺔﻄﻴﺴﺑ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_awful_bedroom.label>
+  
+  <Ascetic.stages.ascetic_has_awful_bedroom.description>ﺎﻤﻛ ﺎﻣﺎﻤﺗ - ﺔﻌﺿﺍﻮﺘﻣﻭ ﺍﺪﺟ ﺔﻄﻴﺴﺑ ﻲﺘﻓﺮﻏ
+.ﺐﻏﺭﺃ</Ascetic.stages.ascetic_has_awful_bedroom.description>
+  
+  <Ascetic.stages.ascetic_has_dull_bedroom.label>ﺍﺪﺟ ﺔﻌﺿﺍﻮﺘﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_dull_bedroom.label>
+  
+  <Ascetic.stages.ascetic_has_dull_bedroom.description>.ﺪﻳﺭﺃ ﺎﻤﻛ ﻂﺒﻀﻟﺎﺑ - ﺔﻄﻴﺴﺑﻭ ﺔﻔﻴﻈﻧ ﻲﺘﻓﺮﻏ</Ascetic.stages.ascetic_has_dull_bedroom.description>
+  
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.label>ﺔﻌﺿﺍﻮﺘﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_mediocre_bedroom.label>
+  
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.description>.ﺎﻬﺑ ﺐﺠﻌﻣ ﺎﻧﺃ .ﺔﻌﺿﺍﻮﺘﻣﻭ ﺔﻄﻴﺴﺑ ﻲﺘﻓﺮﻏ</Ascetic.stages.ascetic_has_mediocre_bedroom.description>
+  
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.label>ﺔﻌﺿﺍﻮﺘﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_impressive_bedroom-0.label>
+  
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.description>ﺔﻳﺎﻔﻜﻟﺍ ﻪﻴﻓ ﺎﻤﺑ ﺔﻌﺿﺍﻮﺘﻣ ﺖﺴﻴﻟ ﺔﻓﺮﻐﻟﺍ ﻩﺬﻫ
+.ﻲﻟ ﺔﺒﺴﻨﻟﺎﺑ</Ascetic.stages.ascetic_has_impressive_bedroom-0.description>
+  
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.label>ﺔﻘﺋﻻ ﺮﻴﻏ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_impressive_bedroom-1.label>
+  
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.description>ﺔﻳﺎﻔﻜﻟﺍ ﻪﻴﻓ ﺎﻤﺑ ﺔﻌﺿﺍﻮﺘﻣ ﺖﺴﻴﻟ ﺔﻓﺮﻐﻟﺍ ﻩﺬﻫ
+.ﻲﻟ ﺔﺒﺴﻨﻟﺎﺑ</Ascetic.stages.ascetic_has_impressive_bedroom-1.description>
+  
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.label>ﺔﻓﺮﺧﺰﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_impressive_bedroom-2.label>
+  
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.description>.ﻑﺍﺮﺳﺇ ﺎﻬﻧﺇ !ﺍﺪﺟ ﺔﻟﺬﺘﺒﻣ ﺔﻓﺮﻐﻟﺍ ﻩﺬﻫ</Ascetic.stages.ascetic_has_impressive_bedroom-2.description>
+  
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.label>ﺔﻓﺮﺧﺰﻣ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_impressive_bedroom-3.label>
+  
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.description>.ﻱﺭﻭﺮﺿ ﺮﻴﻏ ﺭﻮﻜﻳﺪﻟﺍ .ﺎﻬﻴﻓ ﻎﻟﺎﺒﻣ ﺔﻓﺮﻐﻟﺍ ﻩﺬﻫ</Ascetic.stages.ascetic_has_impressive_bedroom-3.description>
+  
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.label>ﺪﺋﺍﺯ ﻞﻜﺸﺑ ﺓﺮﺧﺎﻓ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_impressive_bedroom-4.label>
+  
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.description>ﻞﻛ ﺍﺫﺎﻤﻟ !ﺍﺪﺟ ﺓﺮﺧﺎﻓ ﻡﻮﻧ ﺔﻓﺮﻏ ﻩﺬﻫ
+!؟ﺍﺬﻫ</Ascetic.stages.ascetic_has_impressive_bedroom-4.description>
+  
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.label>ﺍﺪﺟ ﺓﺮﺧﺎﻓ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_impressive_bedroom-5.label>
+  
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.description>ﻞﻛ ﺍﺫﺎﻤﻟ !ﺍﺪﺟ ﺔﻤﺨﻓ ﻡﻮﻧ ﺔﻓﺮﻏ ﻩﺬﻫ
+!؟ﺍﺬﻫ</Ascetic.stages.ascetic_has_impressive_bedroom-5.description>
+  
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.label>.ﻒﻴﻟﺎﻜﺘﻟﺍ ﺔﻈﻫﺎﺑ ﻡﻮﻧ ﺔﻓﺮﻏ</Ascetic.stages.ascetic_has_impressive_bedroom-6.label>
+  
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.description>ﻞﻛ ﺍﺫﺎﻤﻟ !ﺍﺪﺟ ﺓﺮﺧﺎﻓ ﻡﻮﻧ ﺔﻓﺮﻏ ﻩﺬﻫ
+!؟ﺍﺬﻫ</Ascetic.stages.ascetic_has_impressive_bedroom-6.description>
+  
+  
+  
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>ﺪﻴﻌﺑ ﻯﺪﻣ ﺕﺍﺫ ﺔﺤﻠﺳﺄﺑ</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
+  
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>!ﻞﻣﺎﻜﻟﺍ ﺽﺍﺮﺘﻋﻻﺍ ﻞﻀﻓﺃ .ﺪﻌﺑ ﻦﻋ ﺏﺮﻀﻟﺍ ﻩﺮﻛﺃ</BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>
+  
+  
+  
+  <ClothedNudist.stages.constraining_clothes.label>ﺔﺤﻳﺮﻣ ﺮﻴﻏ ﺲﺑﻼﻤﻟﺍ</ClothedNudist.stages.constraining_clothes.label>
+  
+  <ClothedNudist.stages.constraining_clothes.description>.ﺲﺑﻼﻤﻟﺍ ﺀﺍﺪﺗﺭﺍ ﻲﻠﻋ ﺐﺠﻳ ﻦﻜﻟﻭ ﺖﺴﻳﺪﻧ ﺎﻧﺃ
+ﻥﺎﻣﺮﺤﻟﺎﺑ ﺮﻌﺷﺃ ﺖﻟﺯ ﺎﻣ ﻲﻨﻨﻜﻟ ﻝﻮﺒﻘﻣ ﺍﺬﻫ
+.ﺔﺣﺍﺮﻟﺍ ﻡﺪﻋﻭ</ClothedNudist.stages.constraining_clothes.description>
+  
+  
+  
+  <Greedy.stages.greedy_for_impressive_bedroom-0.label>ﻚﻟﺎﻬﻟﺍ ﺀﺎﻴﺘﺳﺍ</Greedy.stages.greedy_for_impressive_bedroom-0.label>
+  
+  <Greedy.stages.greedy_for_impressive_bedroom-0.description>ﺔﻓﺮﻏ ﻲﻓ ﺐﻏﺭﺃ ﻲﻨﻨﻜﻟ ،ﺍﺭﻭﺮﻐﻣ ﻥﻮﻛﺃ ﺪﻗ
+!ﺔﻠﻫﺬﻣ ﻡﻮﻧ ﺔﻓﺮﻏ !ﻲﺑ ﺔﺻﺎﺧ ﻡﻮﻧ</Greedy.stages.greedy_for_impressive_bedroom-0.description>
+  
+  <Greedy.stages.greedy_for_impressive_bedroom-1.label>ﺏﻮﻨﺴﻟﺍ ﺀﺎﻴﺘﺳﺍ</Greedy.stages.greedy_for_impressive_bedroom-1.label>
+  
+  <Greedy.stages.greedy_for_impressive_bedroom-1.description>ﺔﺴﺋﺎﺑ ﻲﻣﻮﻧ ﺔﻓﺮﻏ ﻦﻜﻟﻭ ،ﺎﻓﺮﺠﻌﺘﻣ ﻥﻮﻛﺃ ﺎﻤﺑﺭ
+!ﺓﺮﻬﺒﻣ ﻥﻮﻜﺗ ﻥﺃ ﺐﺠﻳ !ﺍﺪﺟ</Greedy.stages.greedy_for_impressive_bedroom-1.description>
+  
+  <Greedy.stages.greedy_for_impressive_bedroom-2.label>ﺀﻼﺨﺒﻟﺍ ﺎﺿﺭ ﻡﺪﻋ</Greedy.stages.greedy_for_impressive_bedroom-2.label>
+  
+  <Greedy.stages.greedy_for_impressive_bedroom-2.description>!ﺔﻠﻫﺬﻣ ﻥﻮﻜﺗ ﻥﺃ ﺐﺠﻳ .ﺓﺪﻴﺟ ﺖﺴﻴﻟ ﻲﺘﻓﺮﻏ
+.ﺮﺒﻜﺘﻣ ﺎﻧﺃ ،ﻢﻌﻧ</Greedy.stages.greedy_for_impressive_bedroom-2.description>
+  
+  <Greedy.stages.greedy_for_impressive_bedroom-3.label>ﺔﺳﺮﻄﻐﻟﺍ ﺕﺎﺒﻠﻄﺗ</Greedy.stages.greedy_for_impressive_bedroom-3.label>
+  
+  <Greedy.stages.greedy_for_impressive_bedroom-3.description>ﺐﺠﻳ .ﺔﻳﺎﻔﻜﻟﺍ ﻪﻴﻓ ﺎﻤﺑ ﺓﺪﻴﺟ ﺖﺴﻴﻟ ﻲﺘﻓﺮﻏ
+.ﺭﻭﺮﻐﻣ ﺎﻧﺃ ،ﻢﻌﻧ !ﺎﻘﺣ ﺔﻠﻫﺬﻣ ﻥﻮﻜﺗ ﻥﺃ</Greedy.stages.greedy_for_impressive_bedroom-3.description>
+  
+  <Greedy.stages.greedy_for_impressive_bedroom-4.label>ﻲﺿﺍﺮﻌﺘﺳﻻﺍ ﻊﻨﺼﺘﻟﺍ</Greedy.stages.greedy_for_impressive_bedroom-4.label>
+  
+  <Greedy.stages.greedy_for_impressive_bedroom-4.description>ﻥﺃ ﺐﺠﻳ .ﺔﻴﻓﺎﻛ ﺮﻴﻏ ﻝﺍﺰﺗ ﻻ ﻲﺘﻓﺮﻏ
+.ﺭﻭﺮﻐﻣ ﺎﻧﺃ ،ﻢﻌﻧ !ﺎﻘﺣ ﺔﻠﻫﺬﻣ ﻥﻮﻜﺗ</Greedy.stages.greedy_for_impressive_bedroom-4.description>
+  
+  
+  
+  <HappyNude.stages.happily_nude.label>ﻱﺮﻌﻟﺍ</HappyNude.stages.happily_nude.label>
+  
+  <HappyNude.stages.happily_nude.description>!ﺲﺑﻼﻣ ﻥﻭﺪﺑ ﻥﻮﻜﻧ ﻥﺃ ﺪﻴﺟ ﻮﻫ ﻢﻛ
+!ﺔﻌﻴﺒﻄﻟﺍ ﻊﻣ ﺩﺎﺤﺗﻻﺍﻭ ﺔﺣﺍﺮﻟﺍﻭ ﺔﻳﺮﺤﻟﺎﺑ ﺮﻌﺷﺃ</HappyNude.stages.happily_nude.description>
+  
+  
+  
+  <Jealous.stages.jealous_of_s_bedroom.label>{REASON} ﻦﻣ ﺓﺮﻴﻐﻟﺍ</Jealous.stages.jealous_of_s_bedroom.label>
+  
+  <Jealous.stages.jealous_of_s_bedroom.description>ﻞﻀﻓﺃ ﻡﻮﻧ ﺔﻓﺮﻏ ﺎﻣ ﺺﺨﺷ ﻯﺪﻟ ﺍﺫﺎﻤﻟ
+!ﺔﻓﺮﻏ ﻞﻀﻓﺃ ﻱﺪﻟ ﻥﻮﻛﺃ ﻥﺃ ﺪﻳﺭﺃ ؟ﻲﻨﻣ</Jealous.stages.jealous_of_s_bedroom.description>
+  
+  
+  
+  <MasochistPain.stages.masochist_in_minor_pain.label>ﻒﻴﻔﺧ ﻢﻟﺃ</MasochistPain.stages.masochist_in_minor_pain.label>
+  
+  <MasochistPain.stages.masochist_in_minor_pain.description>!ﺍﺬﻫ ﻞﺜﻣ ﻰﻠﻋ ﺩﻮﻌﺘﻟﺍ ﻦﻜﻤﻳ ...ﻪﻬﻫ ...ﻩﺃ</MasochistPain.stages.masochist_in_minor_pain.description>
+  
+  <MasochistPain.stages.masochist_in_serious_pain.label>ﻂﺳﻮﺘﻤﻟﺍ ﻢﻟﻷﺍ</MasochistPain.stages.masochist_in_serious_pain.label>
+  
+  <MasochistPain.stages.masochist_in_serious_pain.description>.ﺪﻳﺰﻤﻟﺍ ﺪﻳﺭﺃ !ﻪﺒﺣﺃ ﻲﻨﻨﻜﻟ ،ﻢﻟﺆﻳ ...ﻩﻭﺃ</MasochistPain.stages.masochist_in_serious_pain.description>
+  
+  <MasochistPain.stages.masochist_in_intense_pain.label>ﺪﻳﺪﺸﻟﺍ ﻢﻟﻷﺍ</MasochistPain.stages.masochist_in_intense_pain.label>
+  
+  <MasochistPain.stages.masochist_in_intense_pain.description>ﺎﻣ ... ﺮﺴﻛ ﻪﻧﺃ ﻭﺪﺒﻳ .. !ﻩﻭﺃ
+!ﻞﻴﻤﺠﻟﺍ ﺭﻮﻌﺸﻟﺍ ﺍﺬﻫ</MasochistPain.stages.masochist_in_intense_pain.description>
+  
+  <MasochistPain.stages.masochist_in_mindshattering_pain.label>ﺔﻤﻟﺆﻣ ﺔﻣﺪﺻ</MasochistPain.stages.masochist_in_mindshattering_pain.label>
+  
+  <MasochistPain.stages.masochist_in_mindshattering_pain.description>؟ﺔﻨﺠﻟﺍ ﻲﻓ ﻞﻌﻔﻟﺎﺑ ﺎﻧﺃ ﻞﻫ ...ﺎﻫﺃ</MasochistPain.stages.masochist_in_mindshattering_pain.description>
+  
+  
+  
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.label>ﺍﺭﺎﻬﻧ ﺔﻣﻮﺒﻟﺍ</NightOwlDuringTheDay.stages.night_owl_in_daytime.label>
+  
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.description>.ﺭﺎﻬﻨﻟﺍ ﻲﻓ ﻞﻤﻌﻟﺍ ﺐﺣﺃ ﻻ</NightOwlDuringTheDay.stages.night_owl_in_daytime.description>
+  
+  
+  
+  <NightOwlDuringTheNight.stages.night_owl_at_night.label>ﻞﻴﻠﻟﺍ ﻲﻓ ﺔﻣﻮﺑ</NightOwlDuringTheNight.stages.night_owl_at_night.label>
+  
+  <NightOwlDuringTheNight.stages.night_owl_at_night.description>.ﻞﻴﻠﻟﺍ ﻲﻓ ﺮﻴﺒﻛ ﻦﺴﺤﺘﺑ ﺮﻌﺷﺃ</NightOwlDuringTheNight.stages.night_owl_at_night.description>
+  
+  
+  
+  <ProsthophileHappy.stages.body_modder_pleased.label>ﺎﻴﻨﻴﺟ ﻝﺪﻌﻤﻟﺍ ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﺡﺎﻴﺗﺭﺍ</ProsthophileHappy.stages.body_modder_pleased.label>
+  
+  <ProsthophileHappy.stages.body_modder_pleased.description>.ﺪﻳﺰﻤﻟﺍ ﺪﻳﺭﺃ .ﻊﺋﺍﺭ - ﻉﺎﻨﻄﺻﻻﺎﺑ ﻦﺴﺤﻣ ﺪﺴﺟ</ProsthophileHappy.stages.body_modder_pleased.description>
+  
+  <ProsthophileHappy.stages.body_modder_quite_pleased.label>ﻱﺮﺸﺒﻟﺍ ﻝﻮﺤﺘﻤﻟﺍ ﺔﺣﺮﻓ</ProsthophileHappy.stages.body_modder_quite_pleased.label>
+  
+  <ProsthophileHappy.stages.body_modder_quite_pleased.description>ﻞﻀﻓﺃ - ﺔﻴﻋﺎﻨﺼﻟﺍ ﺔﻳﺪﺴﺠﻟﺍ ﺕﺎﻨﻴﺴﺤﺘﻟﺍ ﻦﻣ ﻥﺎﻨﺛﺍ
+.ﺪﻳﺰﻤﻟﺍ ﺪﻳﺭﺃ ﻲﻨﻨﻜﻟﻭ .ﺓﺪﺣﺍﻭ ﻦﻣ</ProsthophileHappy.stages.body_modder_quite_pleased.description>
+  
+  <ProsthophileHappy.stages.body_modder_delighted.label>ﻱﺮﺸﺒﻟﺍ ﺭﻮﺤﺘﻤﻟﺍ ﺲﻤﺤﺗ</ProsthophileHappy.stages.body_modder_delighted.label>
+  
+  <ProsthophileHappy.stages.body_modder_delighted.description>ﻒﻴﻌﺿ ﻲﻧﺎﺴﻧﺇ ﻢﺤﻟ !ﺪﺴﺠﻠﻟ ﺔﻴﻋﺎﻨﺻ ﺕﺎﻨﻴﺴﺤﺗ ﺙﻼﺛ
+ﺓﻮﻘﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻰﻟﺇ ﺝﺎﺘﺣﺃ .ﺺﻗﺎﻨﺘﻳ ﻲﻓ
+!ﺔﻴﻟﻵﺍ</ProsthophileHappy.stages.body_modder_delighted.description>
+  
+  <ProsthophileHappy.stages.body_modder_enchanted.label>ﺔﻳﺮﺸﺒﻟﺍ ﻦﻴﻟﻮﺤﺘﻣ ﺓﺩﺎﻌﺳ</ProsthophileHappy.stages.body_modder_enchanted.label>
+  
+  <ProsthophileHappy.stages.body_modder_enchanted.description>ﻦﻣ ﺮﺜﻛﺃ ﺖﺤﺒﺻﺃ !ﻢﺴﺠﻠﻟ ﺔﻴﻋﺎﻨﺻ ﺕﺍﺮﻳﻮﻄﺗ ﻊﺑﺭﺃ
+ﺔﻳﻮﻀﻋ ﻙﺎﻨﻫ ﻝﺍﺰﻳ ﻻ ﻦﻜﻟﻭ .ﻥﺎﺴﻧﺇ ﺩﺮﺠﻣ
+.ﺎﻬﻟﺍﺪﺒﺘﺳﺍ ﻦﻜﻤﻳ</ProsthophileHappy.stages.body_modder_enchanted.description>
+  
+  <ProsthophileHappy.stages.body_modder_overjoyed.label>ﺔﻴﻋﺎﻤﺘﺟﻻﺍ ﺕﺍﺮﻀﺤﺘﻤﻟﺍ ﺓﺩﺎﻌﺳ</ProsthophileHappy.stages.body_modder_overjoyed.label>
+  
+  <ProsthophileHappy.stages.body_modder_overjoyed.description>ﻦﺋﺎﻜﻟ ﻦﻜﻤﻳ ﻒﻴﻛ !ﻢﺴﺠﻠﻟ ﺔﻴﻋﺎﻨﺻ ﺕﺎﻨﻴﺴﺤﺗ ﺲﻤﺧ
+ﻰﻠﻋ ﺪﻴﻌﺳ ﺮﻴﻏ ﻥﻮﻜﻳ ﻥﺃ ﻲﻠﺜﻣ ﻖﺋﺎﻓ
+؟ﻕﻼﻃﻹﺍ</ProsthophileHappy.stages.body_modder_overjoyed.description>
+  
+  <ProsthophileHappy.stages.machine_body_is_complete.label>ﻲﻋﺎﻨﻄﺻﻻﺍ ﻢﺴﺠﻟﺍ ﻦﻣ ﺀﺎﻬﺘﻧﻻﺍ ﻢﺗ</ProsthophileHappy.stages.machine_body_is_complete.label>
+  
+  <ProsthophileHappy.stages.machine_body_is_complete.description>!ﻲﻟ ﺍﻮﻐﺻﺍﻭ ﺍﻮﺒﻌﺗﺭﺍ !ﻕﺭﺎﺧ ﻞﻄﺑ ﺎﻧﺃ</ProsthophileHappy.stages.machine_body_is_complete.description>
+  
+  
+  
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.label>ﺔﻳﺮﺸﺒﻟﺍ ﺔﻠﻘﻨﻟﺍ ﻦﻴﻨﺣ</ProsthophileNoProsthetic.stages.body_modder_frustrated.label>
+  
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.description>ﺩﻭﺃ ﻢﻛ .ﻲﺘﻛﺮﺣ ﺪﻴﻘﻳ ﻒﻴﻌﻀﻟﺍ ﻢﺤﻠﻟﺍ ﺍﺬﻫ
+!ﺔﻴﻋﺎﻨﻄﺻﻻﺍ ﺀﺍﺰﺟﻷﺍ ﺾﻌﺑ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ</ProsthophileNoProsthetic.stages.body_modder_frustrated.description>
+  
+  
+  
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.label>ﻱﻮﻴﺤﻟﺍ ﻆﻓﺎﺤﻟﺍ ﺀﺎﻴﺘﺳﺍ</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
+  
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.description>ﺮﻌﺸﻳ .ﻲﻌﻴﺒﻃ ﺮﻴﻏ ﻦﻴﺴﺤﺗ - ﻱﺪﺴﺟ ﻲﻓ
+.ﺯﺰﻘﻣﻭ ﺭﺬﻗ ﺀﻲﺷ ﻪﻧﺄﻛﻭ</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
+  
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.label>ﺔﺌﻴﺒﻟﺍ ﻰﻠﻋ ﻆﻓﺎﺤﻟﺍ ﻢﻴﻗ ﻦﻋ ﺮﻈﻨﻟﺍ ﺾﻐﺑ</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
+  
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.description>ﻰﺘﺣ .ﺔﻴﻋﺎﻨﻄﺻﺍ ﺕﻼﻳﺪﻌﺗ ﻦﻣ ﺡﻭﺮﺠﻣ ﻱﺪﺴﺟ ﻙﺮﺗﺍ
+!ﻲﻧﺎﻴﺜﻏ ﺮﻴﺜﻳ ﺎﻬﻴﻓ ﺮﻴﻜﻔﺘﻟﺍ</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
+  
+  <ProsthophobeUnhappy.stages.body_purist_violated.label>ﻆﻓﺎﺤﻤﻟﺍ ﻲﺟﻮﻟﻮﻴﺒﻟﺍ ﻦﻣ ﺯﺍﺰﺌﻤﺷﻻﺍ</ProsthophobeUnhappy.stages.body_purist_violated.label>
+  
+  <ProsthophobeUnhappy.stages.body_purist_violated.description>ﺔﺸﻋﺮﻟﺎﺑ ﺮﻌﺷﺃ .ﻲﻤﺤﻟ ﻭﺰﻐﺗ ﺔﻴﻋﺎﻨﺻ ﺕﻼﻳﺪﻌﺗ ﺙﻼﺛ
+ﻒﺠﺗﺮﺗ ﺀﺎﻴﺷﻷﺍ ﻩﺬﻫﻭ ...ﻚﻟﺫ ﻲﻓ ﺮﻜﻓﺃ ﺎﻣﺪﻨﻋ
+.ﻲﻌﻣ</ProsthophobeUnhappy.stages.body_purist_violated.description>
+  
+  <ProsthophobeUnhappy.stages.body_purist_horrified.label>ﺔﻴﺤﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﻆﻓﺎﺤﻣ ﺔﺒﻫﺭ</ProsthophobeUnhappy.stages.body_purist_horrified.label>
+  
+  <ProsthophobeUnhappy.stages.body_purist_horrified.description>ﻭﺪﺒﻳ .ﻲﻤﺴﺟ ﻰﻠﻋ ﺔﻴﺳﺪﻨﻫ ﺕﺎﻨﻴﺴﺤﺗ ﻊﺑﺭﺃ ﻱﺪﻟ
+!ﺔﻃﺎﺴﺒﺑ ﺐﻋﺮﻣ ﺍﺬﻫ .ﺕﻮﺑﻭﺭ ﻰﻟﺇ ﻝﻮﺤﺗﺃ ﻲﻨﻧﺃ</ProsthophobeUnhappy.stages.body_purist_horrified.description>
+  
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.label>ﻲﺟﻮﻟﻮﻴﺑ ﻅﺎﻔﺣ ﺲﻴﺑﺍﻮﻛ</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
+  
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.description>؟ﻥﻵﺍ ﺪﻌﺑ ﺀﻲﺷ ﻱﺪﻟ ﺪﺟﻮﻳ ﻻ ﻞﻫ
+؟ﻥﺎﺴﻧﺇ ﻪﻧﺃ ﺪﻘﺘﻌﻳ ﺕﻮﺑﻭﺭ ﻞﻌﻔﻟﺎﺑ ﺖﺤﺒﺻﺃ ﻞﻫ</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
+  
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>ﺎﻫﺪﺴﺠﻟ ﺔﻴﻫﺍﺮﻛ</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
+  
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>ﻩﺮﻛﺃ ،ﻱﺪﺴﺟ ﻩﺮﻛﺃ ...ﺐﻋﺮﻣ ﺱﻮﺑﺎﻛ ﻪﺒﺸﻳ ﺍﺬﻫ
+!ﻩﺮﻛﺃ ،ﺔﻴﻋﺎﻨﺼﻟﺍ ﺓﺰﻬﺟﻷﺍ ﻩﺬﻫ</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
+  
+  
+  
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>ﺎﺒﻬﺘﻠﻣ ﺎﺣﻼﺳ ﻞﻤﺤﻳ</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
+  
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>ﻲﻧﺮﻴﺜﻳ !ﺐﻬﻠﻟﺍﻭ ﺭﺎﻨﻟﺍ ﺚﻔﻨﺘﻟ ﺰﻫﺎﺟ ﺀﻲﺸﻟﺍ ﺍﺬﻫ
+.ﻚﻟﺫ</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
+  
+  
+  <PyromaniacNearFire.stages.beautiful_fire.label>ﺔﻠﻴﻤﺟ ﺭﺎﻧ</PyromaniacNearFire.stages.beautiful_fire.label>
+  
+  <PyromaniacNearFire.stages.beautiful_fire.description>ﻕﺮﺸﻣ .ﺐﺤﻟﺍ ﻞﺜﻣ ﺊﻓﺍﺩ .ﺺﻗﺮﻳﻭ ﻯﻮﻠﺘﻳ ﺐﻬﻠﻟﺍ
+.ﺀﻲﺷ ﻞﻛ ﻞﻛﺄﻳ .ﺔﻳﺮﺤﻟﺎﻛ</PyromaniacNearFire.stages.beautiful_fire.description>
+  
+  
+  
+  <UndergrounderIndoors.stages.undergrounder_indoors.label>ﺔﻓﺮﻐﻟﺍ ﻲﻓ</UndergrounderIndoors.stages.undergrounder_indoors.label>
+  
+  <UndergrounderIndoors.stages.undergrounder_indoors.description>.ﺔﻘﻠﻐﻤﻟﺍ ﻦﻛﺎﻣﻷﺍ ﻲﻓ ﺀﺎﻘﺒﻟﺍ ﻭﺃ ﻞﻤﻌﻟﺍ ﺐﺣﺃ</UndergrounderIndoors.stages.undergrounder_indoors.description>
+  
+  
+  
+  <UndergrounderOutdoors.stages.undergrounder_outdoors.label>ﻰﻨﺒﻤﻟﺍ ﺝﺭﺎﺧ</UndergrounderOutdoors.stages.undergrounder_outdoors.label>
+  
+  <UndergrounderOutdoors.stages.undergrounder_outdoors.description>.ﻰﻨﺒﻤﻟﺍ ﺝﺭﺎﺧ ﻥﻮﻛﺃ ﻥﺃ ﺐﺣﺃ ﻻ ﺎﻧﺃ
+.ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﻥﻮﻛﺃ ﻥﺃ ﺪﻳﺭﺃ</UndergrounderOutdoors.stages.undergrounder_outdoors.description>
+  
+  
+  
+  <UndergrounderUnderground.stages.underground.label>ﺽﺭﻷﺍ ﺖﺤﺗ</UndergrounderUnderground.stages.underground.label>
+  
+  <UndergrounderUnderground.stages.underground.description>!ﺽﺭﻷﺍ ﺖﺤﺗ ﺀﺎﻘﺒﻟﺍ ﺩﺮﺠﻣ ﻰﺘﺣﻭ ﻞﻤﻌﻟﺍ ﺐﺣﺃ</UndergrounderUnderground.stages.underground.description>
+  
+</LanguageData>
