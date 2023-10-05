@@ -1,0 +1,27 @@
+<LanguageData>
+
+  
+  
+  
+  <AttendedSpeech.description>ﻰﻠﻋ ﺱﻮﻘﻄﻟﺍ ﻲﻓ ﻦﻴﻛﺭﺎﺸﻤﻟﺍ ﺝﺍﺰﻣ ﺔﻟﺎﺣ ﺪﻤﺘﻌﺗ
+ﻦﻣ ﺝﺍﺰﻤﻟﺍ ﺕﺂﻓﺎﻜﻣ ﻰﻠﻋ ﻥﻮﻠﺼﺤﻳ ﺚﻴﺣ ،ﺎﻬﺣﺎﺠﻧ
+ﻡﻮﻳ ? MOODDAYS_numCase} ـﻟ {MAXMOOD} ﻰﻟﺇ {MINMOOD}
+.{ﻡﺎﻳﺃ : ﻡﺎﻳﺃ :</AttendedSpeech.description>
+  
+  <AttendedSpeech.comps.0.label>{PAWN_labelShort} ﻲﻋﺎﻤﺘﺟﻻﺍ ﺮﻴﺛﺄﺘﻟﺍ</AttendedSpeech.comps.0.label>
+  
+  <AttendedSpeech.comps.0.labelAbstract>ﺙﺪﺤﺘﻤﻠﻟ ﻲﻋﺎﻤﺘﺟﻻﺍ ﺮﻴﺛﺄﺘﻟﺍ</AttendedSpeech.comps.0.labelAbstract>
+  
+  <AttendedSpeech.comps.1.label>ﻦﻴﻛﺭﺎﺸﻤﻟﺍ ﺩﺪﻋ</AttendedSpeech.comps.1.label>
+  
+  <AttendedSpeech.comps.2.label>ﺔﻓﺮﻐﻟﺍ ﻉﺎﺒﻄﻧﺍ</AttendedSpeech.comps.2.label>
+  
+  <AttendedSpeech.outcomeChances.0.label>ﺔﺒﻴﻫﺭ</AttendedSpeech.outcomeChances.0.label>
+  
+  <AttendedSpeech.outcomeChances.1.label>ﻞﻤﻣ</AttendedSpeech.outcomeChances.1.label>
+  
+  <AttendedSpeech.outcomeChances.2.label>ﻊﺠﺸﻣ</AttendedSpeech.outcomeChances.2.label>
+  
+  <AttendedSpeech.outcomeChances.3.label>ﺔﻤﻬﻠﻣ</AttendedSpeech.outcomeChances.3.label>
+  
+</LanguageData>
