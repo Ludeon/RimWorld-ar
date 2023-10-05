@@ -1,0 +1,27 @@
+<LanguageData>
+  
+  
+  <Bullet_DoomsdayRocket.label>ﺎﺘﻴﻛﺍﺭ</Bullet_DoomsdayRocket.label>
+  
+  
+  <Bullet_Rocket.label>ﺔﻣﺎﻴﻘﻟﺍ ﻡﻮﻳ ﺥﻭﺭﺎﺻ ﻊﺟﺍﺭ</Bullet_Rocket.label>
+  
+  
+  <Gun_DoomsdayRocket.label>"ﺎﻜﻳﻭﺮﺗ" ﺦﻳﺭﺍﻮﺼﻟﺍ ﺔﻓﺫﺎﻗ</Gun_DoomsdayRocket.label>
+  
+  <Gun_DoomsdayRocket.description>ﺔﻠﺗﺎﻘﻟﺍ ﻡﻮﻴﻟﺍ ﺔﻤﺟﺍﺭ</Gun_DoomsdayRocket.description>
+  
+  <Gun_DoomsdayRocket.tools.barrel.label>ﻑﻮﺳﺎﻤﻟﺍ</Gun_DoomsdayRocket.tools.barrel.label>
+  
+  <Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>ﺡﻼﺴﻟﺍ ﻞﻴﻣﺮﺑ</Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>
+  
+  
+  <Gun_TripleRocket.label>"ﺎﻜﻳﻭﺮﺗ" ﺔﺘﻴﻛﺍﺭ</Gun_TripleRocket.label>
+  
+  <Gun_TripleRocket.description>"ﺎﻜﻳﻭﺮﺗ" ﺦﻳﺭﺍﻮﺻ ﺔﻓﺫﺎﻗ</Gun_TripleRocket.description>
+  
+  <Gun_TripleRocket.tools.barrel.label>ﺓﺪﺳﺎﻤﻟﺍ</Gun_TripleRocket.tools.barrel.label>
+  
+  <Gun_TripleRocket.verbs.Verb_ShootOneUse.label>"ﺎﻜﻳﻭﺮﺗ" ﺔﻴﻌﻓﺪﻤﻟﺍ</Gun_TripleRocket.verbs.Verb_ShootOneUse.label>
+  
+</LanguageData>
