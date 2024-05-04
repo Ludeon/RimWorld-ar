@@ -28,6 +28,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: translation-po
+          path: po
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -56,6 +57,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: translation-output
+          path: output
       - name: Git add output files
         run: git add output/
       - name: Git commit output files
