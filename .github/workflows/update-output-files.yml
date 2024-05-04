@@ -20,5 +20,14 @@ jobs:
           python-version: '3.12.3'
       - run: python -m pip install -r RimTranslate/requirements.txt
       - run: python RimTranslate/RimTranslate.py -p "po/" -o "output/"
+
+  commit-output:
+    needs: update-output
+    runs-on: ubuntu-latest
+    
+    steps:
       - uses: actions/checkout@v4
-      - uses: actions4git/add-commit-push@v1
+      - uses: actions4git/setup-git@v1
+      - run: git add output/
+      - run: git commit -m 'Generate output file for changes'
+      - run: git push
