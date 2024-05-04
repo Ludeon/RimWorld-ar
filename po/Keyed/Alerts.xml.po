@@ -1,0 +1,1043 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compendium:4
+msgctxt "ClickToJumpToProblem"
+msgid "Click to jump to problem"
+msgstr "ﺔﻠﻜﺸﻤﻟﺍ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻼﻟ ﺮﻘﻧﺍ"
+
+#: compendium:6
+msgctxt "BreakRiskMinor"
+msgid "Minor break risk"
+msgstr "ﻒﻴﻔﻃ ﺮﺴﻛ ﺮﻄﺧ"
+
+#: compendium:7
+msgctxt "BreakRiskMajor"
+msgid "Major break risk"
+msgstr "ﺮﻴﺒﻜﻟﺍ ﺮﺴﻜﻟﺍ ﺮﻄﺧ"
+
+#: compendium:8
+msgctxt "BreakRiskExtreme"
+msgid "Extreme break risk"
+msgstr "ﺪﻳﺪﺸﻟﺍ ﺮﺴﻜﻟﺍ ﺮﻄﺧ"
+
+#: compendium:9
+msgctxt "BreakRiskMinorDesc"
+msgid ""
+"These colonists are in a poor mood and may have a minor mental break at any "
+"time:\\n{0}"
+msgstr ""
+":ﺖﻗﻭ ﻱﺃ ﻲﻓ ﺔﻄﻴﺴﺑ ﺔﻴﻠﻘﻋ ﺔﺣﺍﺮﺘﺳﺍ ﻦﻣ ﻥﻮﻧﺎﻌﻳ ﺪﻗﻭ ﺔﺌﻴﺳ ﺔﻴﺟﺍﺰﻣ ﺔﻟﺎﺣ ﻲﻓ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ "
+"ءﻻﺆﻫ\\n\\n{0}"
+
+#: compendium:10
+msgctxt "BreakRiskMajorDesc"
+msgid ""
+"These colonists are in a very poor mood and may have a major mental break at"
+" any time:\\n{0}"
+msgstr ""
+":ﺖﻗﻭ ﻱﺃ ﻲﻓ ﺓﺮﻴﺒﻛ ﺔﻴﻠﻘﻋ ﺔﺣﺍﺮﺘﺳﻻ ﻥﻮﺿﺮﻌﺘﻳ ﺪﻗﻭ ﺔﻳﺎﻐﻠﻟ ﺔﺌﻴﺳ ﺔﻴﺟﺍﺰﻣ ﺔﻟﺎﺣ ﻲﻓ "
+"ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ءﻻﺆﻫ\\n\\n{0}"
+
+#: compendium:11
+msgctxt "BreakRiskExtremeDesc"
+msgid ""
+"These colonists are critically stressed and may have an extreme (and "
+"possibly violent) mental break at any moment:\\n{0}"
+msgstr ""
+"ﻑﺮﻄﺗ ﻢﻬﻳﺪﻟ ﻥﻮﻜﻳ ﺪﻗﻭ ﺓﺪﻳﺪﺷ ﻁﻮﻐﻀﻟ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ءﻻﺆﻫ ﺽﺮﻌﺘﻳ (ﺔﻔﻴﻨﻋ ﺎﻤﺑﺭﻭ) :ﺔﻈﺤﻟ ﻱﺃ"
+" ﻲﻓ ﻲﻨﻫﺬﻟﺍ ﻉﺎﻄﻘﻧﻻﺍ\\n\\n{0}"
+
+#: compendium:12
+msgctxt "BreakRiskDescEnding"
+msgid ""
+"Check these colonists' Needs tab to see what's bothering them.\\n\\nTo make "
+"colonists feel better, you can do things like make them fancy meals, give "
+"them more recreation hours per day and nicer recreation objects, place them "
+"in beautiful environments, have them drink and smoke, and much more."
+msgstr ""
+".ﻢﻬﺠﻋﺰﻳ ﺎﻣ ﺔﻓﺮﻌﻤﻟ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ءﻻﺆﻫ ﺕﺎﺟﺎﻴﺘﺣﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ ﻦﻣ ﻖﻘﺤﺗ\\n\\n،ﻞﻤﺟﺃ "
+"ﺔﻴﻬﻴﻓﺮﺗ ءﺎﻴﺷﺃﻭ ﺎﻴﻣﻮﻳ ﻪﻴﻓﺮﺘﻟﺍ ﺕﺎﻋﺎﺳ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻢﻬﺤﻨﻣﻭ ،ﻢﻬﻟ ﺓﺮﺧﺎﻓ ﺕﺎﺒﺟﻭ ﺩﺍﺪﻋﺇ "
+"ﻞﺜﻣ ءﺎﻴﺷﺄﺑ ﻡﺎﻴﻘﻟﺍ ﻚﻨﻜﻤﻳ ،ﻦﺴﺤﺘﻟﺎﺑ ﻥﻭﺮﻌﺸﻳ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﻌﺠﻟ .ﺮﻴﺜﻜﺑ ﻚﻟﺫ ﻦﻣ ﺮﺜﻛﺃﻭ "
+"،ﻥﻮﻨﺧﺪﻳﻭ ﻥﻮﺑﺮﺸﻳ ﻢﻬﻠﻌﺟﺍﻭ ،ﺔﻠﻴﻤﺟ ﺕﺎﺌﻴﺑ ﻲﻓ ﻢﻬﻌﺿ"
+
+#: compendium:14
+msgctxt "ColonistNeedsRescue"
+msgid "Colonist needs rescue"
+msgstr "ﺫﺎﻘﻧﻹﺍ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﺮﻤﻌﺘﺴﻤﻟﺍ"
+
+#: compendium:15
+msgctxt "ColonistsNeedRescue"
+msgid "Colonists need rescue"
+msgstr "ﺫﺎﻘﻧﻹﺍ ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ"
+
+#: compendium:16
+msgctxt "ColonistsNeedRescueDesc"
+msgid ""
+"These colonists are incapacitated on the ground:\\n{0}\\nSend another "
+"colonist to rescue them and carry them back to bed.\\n\\n(To rescue, select "
+"another colonist, then right click on the victim and select Rescue.)"
+msgstr ""
+":ﺽﺭﻷﺍ ﻰﻠﻋ ﻥﻭﺰﺟﺎﻋ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ءﻻﺆﻫ\\n\\n{0}\\n.ﺮﻳﺮﺴﻟﺍ ﻰﻟﺇ ﻢﻬﺗﺩﺎﻋﺇﻭ ﻢﻫﺫﺎﻘﻧﻹ ﺮﺧﺁ"
+" ﺍـﻨﻃﺍﻮﻣ ﻞﺳﺭﺃ\\n\\n(.\"ﺫﺎﻘﻧﺇ\" ﺩﺪﺣﻭ ﺔﻴﺤﻀﻟﺍ ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍ ﻢﺛ ،ﺮﺧﺁ"
+" ﺍـﻨﻃﺍﻮﻣ ﺩﺪﺣ ،ﺫﺎﻘﻧﻺﻟ)"
+
+#: compendium:17
+msgctxt "ColonistsNeedRescueDescController"
+msgid ""
+"These colonists are incapacitated on the ground:\\n{0}\\n\\nSend another "
+"colonist to rescue them and carry them back to bed.\\n\\n(To rescue, select "
+"another colonist, then press the left trigger button on the victim and "
+"select Rescue.)"
+msgstr ""
+":ﺽﺭﻷﺍ ﻰﻠﻋ ﻥﻭﺰﺟﺎﻋ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ءﻻﺆﻫ\\n\\n{0}\\n.ﺮﻳﺮﺴﻟﺍ ﻰﻟﺇ ﻢﻬﺗﺩﺎﻋﺇﻭ ﻢﻫﺫﺎﻘﻧﻹ ﺮﺧﺁ"
+" ﺍـﻨﻃﺍﻮﻣ ﻞﺳﺭﺃ\\n\\n(.\"ﺫﺎﻘﻧﺇ\" ﺩﺪﺣﻭ ﺔﻴﺤﻀﻟﺍ ﻰﻠﻋ ﺩﻮﺟﻮﻤﻟﺍ ﺮﺴﻳﻷﺍ ﻞﻴﻐﺸﺘﻟﺍ ﺭﺯ ﻰﻠﻋ "
+"ﻂﻐﺿﺍ ﻢﺛ ،ﺮﺧﺁ ﺍـﻨﻃﺍﻮﻣ ﺩﺪﺣ ،ﺫﺎﻘﻧﻺﻟ)"
+
+#: compendium:19
+msgctxt "NeedDefenses"
+msgid "Need defenses"
+msgstr "ﺕﺎﻋﺎﻓﺩ ﻰﻟﺇ ﺔﺟﺎﺤﺑ"
+
+#: compendium:20
+msgctxt "NeedDefensesDesc"
+msgid ""
+"You've been here some time and have probably been seen. Pirate raids will "
+"start soon.\\n\\nYou should prepare defenses, like sandbags or traps."
+msgstr ""
+".ﺥﺎﺨﻓﻷﺍ ﻭﺃ ﻞﻣﺮﻟﺍ ﺱﺎﻴﻛﺃ ﻞﺜﻣ ،ﺕﺎﻋﺎﻓﺪﻟﺍ ﺩﺍﺪﻋﺇ ﻚﻴﻠﻋ ﺐﺠﻳnn.ﺎﺒﻳﺮﻗ ﺔﻨﺻﺍﺮﻘﻟﺍ ﺕﺍﺭﺎﻏ "
+"ﺃﺪﺒﺘﺳ .ﻚﺘﻳﺅﺭ ﺖﻤﺗ ﺎﻤﺑﺭﻭ ﺖﻗﻮﻟﺍ ﺾﻌﺑ ﺬﻨﻣ ﺎﻨﻫ ﺖﻨﻛ ﺪﻘﻟ"
+
+#: compendium:22
+msgctxt "NeedDoctor"
+msgid "Need doctor"
+msgstr "ﺐﻴﺒﻃ ﻰﻟﺇ ﺔﺟﺎﺤﺑ"
+
+#: compendium:23
+msgctxt "NeedDoctorDesc"
+msgid ""
+"These colonists need medical care, but you have no healthy colonists "
+"assigned as doctors.\\n{0}\\n\\nAssign a healthy colonist to the Doctor work"
+" type. If left untreated, wounds may never heal properly and may become "
+"permanent."
+msgstr ""
+".ءﺎﺒﻃﺄﻛ ﻢﻬﻨﻴﻴﻌﺗ ﻢﺘﻳ ءﺎﺤﺻﺃ ﻥﻭـﻨﻃﺍﻮﻣ ﻚﻳﺪﻟ ﺲﻴﻟ ﻦﻜﻟ ،ﺔﻴﺒﻃ ﺔﻳﺎﻋﺭ ﻰﻟﺇ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ "
+"ءﻻﺆﻫ ﺝﺎﺘﺤﻳ\\n\\n{0}\\n.ﺔﻤﺋﺍﺩ ﺢﺒﺼﺗ ﺪﻗﻭ ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﺍﺪﺑﺃ ﻰﻔﺸﺗ ﻻ ﺪﻘﻓ ،ﺝﻼﻋ ﻥﻭﺩ "
+"ﺡﻭﺮﺠﻟﺍ ﺖﻛﺮﺗ ﺍﺫﺇ .ﺐﻴﺒﻄﻟﺍ ﻞﻤﻋ ﻉﻮﻨﻟ ﻲﺤﺻ ـﻨﻃﺍﻮﻣ ﻦﻴﻴﻌﺗ"
+
+#: compendium:25
+msgctxt "NeedMiner"
+msgid "Need miner"
+msgstr "ﻢﺠﻨﻣ ﻰﻟﺇ ﺔﺟﺎﺤﺑ"
+
+#: compendium:26
+msgctxt "NeedMinerDesc"
+msgid ""
+"You have designated some rocks to be mined, but no colonist has the Mining "
+"work type.\\n\\nAssign a colonist the Mining work type."
+msgstr ""
+".ﻦﻳﺪﻌﺘﻟﺍ ﻞﻤﻋ ﻉﻮﻧ ﻪﻳﺪﻟ ـﻨﻃﺍﻮﻣ ﺪﺟﻮﻳ ﻻ ﻦﻜﻟﻭ ،ﺎﻬﺟﺍﺮﺨﺘﺳﺍ ﻢﺘﻴﻟ ﺭﻮﺨﺼﻟﺍ ﺾﻌﺑ ﺺﻴﺼﺨﺘﺑ "
+"ﺖﻤﻗ ﺪﻘﻟ\\n\\n.ﺮﻤﻌﺘﺴﻤﻠﻟ ﻦﻳﺪﻌﺘﻟﺍ ﻞﻤﻋ ﻉﻮﻧ ﻦﻴﻴﻌﺘﺑ ﻢﻗ"
+
+#: compendium:28
+msgctxt "NeedWarden"
+msgid "Need warden"
+msgstr "ﺱﺭﺎﺣ ﻰﻟﺇ ﺔﺟﺎﺤﺑ"
+
+#: compendium:29
+msgctxt "NeedWardenDesc"
+msgid ""
+"You have a prisoner, but no colonist has the Warden work type.\\n\\nAssign a"
+" colonist the Warden work type."
+msgstr ""
+".ﻦﺠﺴﻟﺍ ﺮﻣﺁ ﻞﻤﻋ ﻉﻮﻧ ﻪﻳﺪﻟ ـﻨﻃﺍﻮﻣ ﺪﺟﻮﻳ ﻻ ﻦﻜﻟﻭ ،ﻦﻴﺠﺳ ﻚﻳﺪﻟ\\n\\n.ﻦﺠﺴﻟﺍ ﺮﻣﺁ ﻞﻤﻌﻟﺍ "
+"ﻉﻮﻧ ـﻨﻃﺍﻮﻣ ﻦﻴﻴﻌﺗ"
+
+#: compendium:31
+msgctxt "LowFood"
+msgid "Low food"
+msgstr "ﺾﻔﺨﻨﻣ ﻡﺎﻌﻃ"
+
+#: compendium:32
+msgctxt "LowFoodDesc"
+msgid ""
+"You are dangerously low on food.\\n\\n    Full bars worth of food in "
+"storage: {0}\\n    Colonists and prisoners getting food: {1}\\n    Days "
+"worth of food in storage: {2}\\n\\nGrow, buy, find, or kill some food."
+msgstr ""
+".ﻡﺎﻌﻄﻟﺍ ﻰﻠﻋ ﺮﻴﻄﺧ ﻞﻜﺸﺑ ﺾﻔﺨﻨﻣ ﺖﻧﺃ\\n\\n    :ﻥﺰﺨﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﻦﻣ ﺔﻠﻣﺎﻛ ﻥﺎﺒﻀﻗ "
+"{0}\\n    :ﻡﺎﻌﻄﻟﺍ ﻰﻠﻋ ﻥﻮﻠﺼﺤﻳ ءﺎﻨﺠﺴﻟﺍﻭ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ {1}\\n    :ﺔﻧﺰﺨﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ "
+"ﻡﺎﻳﺃ ﺩﺪﻋ {2}\\n\\n.ﻡﺎﻌﻄﻟﺍ ﺾﻌﺑ ﻞﺘﻗ ﻭﺃ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻭﺃ ءﺍﺮﺷ ﻭﺃ ﺔﻋﺍﺭﺰﺑ ﻢﻗ"
+
+#: compendium:34
+msgctxt "LowMedicine"
+msgid "Low medicine"
+msgstr "ﺾﻔﺨﻨﻣ ءﺍﻭﺩ"
+
+#: compendium:35
+msgctxt "LowMedicineDesc"
+msgid ""
+"You only have {0} medications left in storage.\\n\\nBuy more medicine from "
+"traders."
+msgstr ""
+"ﻚﻳﺪﻟ ﻂﻘﻓ ﺖﻧﺍ {0} .ﻥﺰﺨﻤﻟﺍ ﻲﻓ ﺔﻴﻘﺒﺘﻤﻟﺍ ﺔﻳﻭﺩﻷﺍ\\n\\n.ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺔﻳﻭﺩﻷﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ"
+" ءﺍﺮﺷ"
+
+#: compendium:36
+msgctxt "NoMedicineDesc"
+msgid "You have no medicine left in storage.\\n\\nBuy more medicine from traders."
+msgstr ".ﻥﺰﺨﻤﻟﺍ ﻲﻓ ءﺍﻭﺩ ﻱﺃ ﻚﻳﺪﻟ ﻖﺒﻳ ﻢﻟ\\n\\n.ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺔﻳﻭﺩﻷﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ءﺍﺮﺷ"
+
+#: compendium:38
+msgctxt "NeedColonistBeds"
+msgid "Need colonist beds"
+msgstr "ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﺮﺳﺃ ﻰﻟﺇ ﺔﺟﺎﺤﺑ"
+
+#: compendium:39
+msgctxt "NeedColonistBedsDesc"
+msgid ""
+"You have more colonists than you have colonist beds. Someone will lack a "
+"place to sleep.\\n\\nEither make more beds, or change a prisoner bed to a "
+"colonist bed.\\n\\nIf you have no resources, sleeping spots are free and can"
+" be placed instantly."
+msgstr ""
+"ﻡﻮﻨﻠﻟ ﻥﺎﻜﻣ ﻰﻟﺇ ﺮﻘﺘﻔﻳ ﻑﻮﺳ ﺎﻣ ﺺﺨﺷ .ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﺮﺳﺃ ﻦﻣ ﺮﺜﻛﺃ ﻦﻳـﻨﻃﺍﻮﻣ "
+"ﻚﻳﺪﻟ.\\n\\n.ﺮﻤﻌﺘﺴﻤﻟﺍ ﺮﻳﺮﺳ ﻰﻟﺇ ﻦﻴﺠﺴﻟﺍ ﺮﻳﺮﺳ ﺮﻴﻐﺗ ﻭﺃ ،ﺓﺮﺳﻷﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻊﻨﺼﺗ ﻥﺃ "
+"ﺎﻣﺇ\\n\\n.ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﺎﻬﻌﺿﻭ ﻦﻜﻤﻳﻭ ﺔﻴﻧﺎﺠﻣ ﻡﻮﻨﻟﺍ ﻦﻛﺎﻣﺃ ﻥﻮﻜﺗ ،ﺩﺭﺍﻮﻣ ﻚﻳﺪﻟ ﻦﻜﺗ ﻢﻟ "
+"ﺍﺫﺇ"
+
+#: compendium:41
+msgctxt "AlertColonistLeftUnburied"
+msgid "Colonist left unburied"
+msgstr "ﻦﻓﺩ ﻥﻭﺩ ﺮﻤﻌﺘﺴﻤﻟﺍ ﻙﺮﺗ"
+
+#: compendium:42
+msgctxt "AlertColonistLeftUnburiedDesc"
+msgid ""
+"A colonist is left unburied.\\n\\nThis may negatively affect your colonists'"
+" mood."
+msgstr ".ﻦﻓﺩ ﻥﻭﺩ ﺮﻤﻌﺘﺴﻤﻟﺍ ﻙﺮﺗ ﻢﺘﻳ\\n\\n.ﻚﻳـﻨﻃﺍﻮﻣ ﺝﺍﺰﻣ ﻰﻠﻋ ﺎﺒﻠﺳ ﺍﺬﻫ ﺮﺛﺆﻳ ﺪﻗ"
+
+#: compendium:44
+msgctxt "HunterLacksWeapon"
+msgid "Hunter lacks suitable weapon"
+msgstr "ﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﺔﺤﻠﺳﻷﺍ ﻰﻟﺇ ﺮﻘﺘﻔﻳ ﺩﺎﻴﺼﻟﺍ"
+
+#: compendium:45
+msgctxt "HunterLacksWeaponDesc"
+msgid ""
+"A colonist is assigned to work as a hunter but does not have a ranged weapon"
+" appropriate for hunting.\\n\\nThey will not hunt until they are carrying an"
+" appropriate weapon.\\n\\nThe following colonists are assigned as hunters "
+"and need suitable ranged weapons"
+msgstr ""
+".ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺡﻼﺳ ﻪﻳﺪﻟ ﺲﻴﻟ ﻦﻜﻟﻭ ﺩﺎﻴﺼﻛ ﻞﻤﻌﻟﺎﺑ ﺮﻤﻌﺘﺴﻤﻟﺍ ﻒﻴﻠﻜﺗ ﻢﺘﻳ\\n\\n.ﻯﺪﻤﻟﺍ "
+"ﺪﻴﻌﺑ ﺎﺣﻼﺳ ﺍﻮﻠﻤﺣ ﺍﺫﺇ ﻻﺇ ﺍﻭﺩﺎﻄﺼﻳ ﻦﻟ\\n\\nﻯﺪﻤﻟﺍ ﺓﺪﻴﻌﺑ ﺔﺤﻠﺳﺃ ﻰﻟﺇ ﻥﻮﺟﺎﺘﺤﻳﻭ "
+"ﻦﻳﺩﺎﻴﺼﻛ ﻦﻴﻴﻟﺎﺘﻟﺍ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻦﻴﻴﻌﺗ ﻢﺗ"
+
+#: compendium:47
+msgctxt "AlertTatteredApparel"
+msgid "Tattered apparel"
+msgstr "ﺔﻗﺰﻤﻤﻟﺍ ﺲﺑﻼﻤﻟﺍ"
+
+#: compendium:48
+msgctxt "AlertTatteredApparelDesc"
+msgid ""
+"These colonists are wearing tattered apparel, which is making them "
+"sad:\\n{0}\\n\\nGet them some apparel that isn't so badly damaged.\\n\\nYou "
+"can tailor apparel at a crafting spot or tailoring table, or buy it from "
+"traders."
+msgstr ""
+":ﻦﻴﻨﻳﺰﺣ ﻢﻬﻠﻌﺠﻳ ﺎﻤﻣ ،ﺔﻗﺰﻤﻣ ﺲﺑﻼﻣ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ءﻻﺆﻫ ﻱﺪﺗﺮﻳ\\n\\n{0}\\n.ﺓﺪﺸﺑ ﺭﺮﻀﺘﺗ "
+"ﻢﻟ ﻲﺘﻟﺍ ﺲﺑﻼﻤﻟﺍ ﺾﻌﺑ ﻢﻬﻟ ﺮﻀﺣﺃ\\n\\n.ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺎﻬﺋﺍﺮﺷ ﻭﺃ ﺔﻃﺎﻴﺨﻟﺍ ﺔﻟﻭﺎﻃ ﻭﺃ "
+"ﻊﻴﻨﺼﺘﻟﺍ ﻥﺎﻜﻣ ﻲﻓ ﺲﺑﻼﻤﻟﺍ ﻢﻴﻤﺼﺗ ﻚﻨﻜﻤﻳ"
+
+#: compendium:50
+msgctxt "AlertUnhappyNudity"
+msgid "Unhappy nudity"
+msgstr "ﺓﺪﻴﻌﺳ ﺮﻴﻏ ﻱﺮﻌﻟﺍ"
+
+#: compendium:51
+msgctxt "AlertUnhappyNudityDesc"
+msgid ""
+"These colonists are nude and not happy about it:\\n{0}\\n\\nGet them some "
+"clothes.\\n\\nYou can tailor apparel at a crafting spot or tailoring table, "
+"or buy it from traders."
+msgstr ""
+":ﻚﻟﺬﺑ ءﺍﺪﻌﺳ ﺮﻴﻏﻭ ﺓﺍﺮﻋ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ءﻻﺆﻫ\\n\\n{0}\\nﺲﺑﻼﻤﻟﺍ ﺾﻌﺑ ﻢﻬﻟ "
+"ﺮﻀﺣﺃ\\n\\n.ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺎﻬﺋﺍﺮﺷ ﻭﺃ ﺔﻃﺎﻴﺨﻟﺍ ﺔﻟﻭﺎﻃ ﻭﺃ ﻊﻴﻨﺼﺘﻟﺍ ﻥﺎﻜﻣ ﻲﻓ ﺲﺑﻼﻤﻟﺍ ﻢﻴﻤﺼﺗ"
+" ﻚﻨﻜﻤﻳ"
+
+#: compendium:53
+msgctxt "Starvation"
+msgid "Starvation"
+msgstr "ﺔﻋﺎﺠﻣ"
+
+#: compendium:54
+msgctxt "StarvationDesc"
+msgid "These colonists are starving:\\n{0}\\n\\nGet them some food."
+msgstr ":ﺎﻋﻮﺟ ﻥﻭﺭﻮﻀﺘﻳ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ءﻻﺆﻫ\\n\\n{0}\\nﻡﺎﻌﻄﻟﺍ ﺾﻌﺑ ﻢﻬﻟ ﺮﻀﺣﺃ"
+
+#: compendium:56
+msgctxt "StarvationAnimals"
+msgid "Animal starvation"
+msgstr "ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺔﻋﺎﺠﻣ"
+
+#: compendium:57
+msgctxt "StarvationAnimalsDesc"
+msgid "These colony animals are starving:\\n{0}\\n\\nGet them some food."
+msgstr ":ﺎﻋﻮﺟ ﺭﻮﻀﺘﺗ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻩﺬﻫ\\n\\n{0}\\nﻡﺎﻌﻄﻟﺍ ﺾﻌﺑ ﻢﻬﻟ ﺮﻀﺣﺃ"
+
+#: compendium:59
+msgctxt "Exhaustion"
+msgid "Exhaustion"
+msgstr "ﻙﺎﻬﻧﺇ"
+
+#: compendium:60
+msgctxt "ExhaustionDesc"
+msgid ""
+"These colonists are exhausted and need rest:\\n{0}\\n\\nGet them some rest. "
+"They'll need a bed marked for colonist use. Also, make sure they're not "
+"drafted."
+msgstr ""
+":ﺔﺣﺍﺮﻟﺍ ﻰﻟﺇ ﻥﻮﺟﺎﺘﺤﻳﻭ ﻥﻮﻘﻫﺮﻣ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ءﻻﺆﻫ\\n\\n{0}\\n.ﺎﻬﺘﻏﺎﻴﺻ ﻡﺪﻋ ﻦﻣ ﺎﻀﻳﺃ "
+"ﺪﻛﺄﺗ .ﻱﺭﺎﻤﻌﺘﺳﻻﺍ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺺﺼﺨﻣ ﺮﻳﺮﺳ ﻰﻟﺇ ﻥﻮﺟﺎﺘﺤﻴﺳ .ﺔﺣﺍﺮﻟﺍ ﺾﻌﺑ ﻰﻠﻋ ﻢﻬﻟ ﻞﺼﺣﺍ"
+
+#: compendium:62
+msgctxt "NeedFoodHopper"
+msgid "Need food hopper"
+msgstr "ﻡﺎﻌﻄﻟﺍ ﺱﻭﺩﺎﻗ ﻰﻟﺇ ﺔﺟﺎﺤﺑ"
+
+#: compendium:63
+msgctxt "NeedFoodHopperDesc"
+msgid ""
+"You have a nutrient dispenser with no hopper next to it.\\n\\nTo work, paste"
+" dispensers must draw from an adjacent hopper filled with raw "
+"food.\\n\\nBuild a hopper adjacent to the dispenser."
+msgstr ""
+".ﻪﺒﻧﺎﺠﺑ ﺱﻭﺩﺎﻗ ﻥﻭﺪﺑ ﺕﺎﻳﺬﻐﻤﻠﻟ ﻉﺯﻮﻣ ﻚﻳﺪﻟ\\n\\n.ﻡﺎﺨﻟﺍ ﻡﺎﻌﻄﻟﺎﺑ ءﻮﻠﻤﻣ ﺭﻭﺎﺠﻣ ﺱﻭﺩﺎﻗ "
+"ﻦﻣ ﻥﻮﺠﻌﻤﻟﺍ ﺕﺎﻋﺯﻮﻣ ﺐﺤﺴﺗ ﻥﺃ ﺐﺠﻳ ،ﻞﻤﻌﺗ ﻲﻜﻟ\\n\\n.ﻉﺯﻮﻤﻠﻟ ﺭﻭﺎﺠﻣ ﺱﻭﺩﺎﻗ ءﺎﻨﺒﺑ ﻢﻗ"
+
+#: compendium:65
+msgctxt "NeedMealSource"
+msgid "Need meal source"
+msgstr "ﺔﺒﺟﻭ ﺭﺪﺼﻣ ﻰﻟﺇ ﺔﺟﺎﺤﺑ"
+
+#: compendium:66
+msgctxt "NeedMealSourceDesc"
+msgid ""
+"You have no way of preparing proper meals from raw food.\\n\\nBuild a stove,"
+" campfire, or nutrient dispenser.\\n\\n(It cannot be in a prison cell, "
+"otherwise colonists cannot use it.)"
+msgstr ""
+".ﺔﺌﻴﻨﻟﺍ ﺔﻴﺋﺍﺬﻐﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﺔﺒﺳﺎﻨﻣ ﺕﺎﺒﺟﻭ ﺩﺍﺪﻋﻹ ﺔﻘﻳﺮﻃ ﻚﻳﺪﻟ ﺲﻴﻟ\\n\\n.ﺕﺎﻳﺬﻐﻤﻟﺍ "
+"ﻉﺯﻮﻣ ﻭﺃ ﻢﻴﺨﻤﻟﺍ ﺭﺎﻧ ﻭﺃ ﺪﻗﻮﻣ ءﺎﻨﺒﺑ ﻢﻗ\\n\\n(.ﻪﻣﺍﺪﺨﺘﺳﺍ ﻦﻣ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻦﻜﻤﺘﻳ ﻦﻠﻓ "
+"ﻻﺇﻭ ،ﻦﺠﺴﻟﺍ ﺔﻧﺍﺰﻧﺯ ﻲﻓ ﻥﻮﻜﻳ ﻥﺃ ﻦﻜﻤﻳ ﻻ)"
+
+#: compendium:68
+msgctxt "NeedJoySource"
+msgid "Need recreation variety"
+msgstr "ﻪﻴﻓﺮﺘﻟﺍ ﻲﻓ ﻉﻮﻨﺗ ﻰﻟﺇ ﺝﺎﺘﺤﺗ"
+
+#: compendium:69
+msgctxt "NeedJoySourceDesc"
+msgid ""
+"There are only {0} different recreation types available in {1}, but at the "
+"current expectations level ({2}), colonists need {3} different kinds of "
+"recreation to remain satisfied. Provide recreation variety supplying a new, "
+"different kind of recreation.\\n\\n{4}\\n\\n{5}\\n\\nNote: You can check the"
+" recreation type of any item in its stats page, accessible with the 'i' "
+"button."
+msgstr ""
+"ﻯﻮﺳ ﺪﺟﻮﻳ ﻻ {0} ﻲﻓ ﺓﺮﻓﻮﺘﻤﻟﺍ ﺔﻔﻠﺘﺨﻤﻟﺍ ﻪﻴﻓﺮﺘﻟﺍ ﻉﺍﻮﻧﺃ {1}, ﻲﻟﺎﺤﻟﺍ ﺕﺎﻌﻗﻮﺘﻟﺍ "
+"ﻯﻮﺘﺴﻤﺑ ﻦﻜﻟﻭ ({2}), ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺝﺎﺘﺤﻳ {3} .ﺎﻴﺿﺍﺭ ﻞﻈﺘﻟ ﻪﻴﻓﺮﺘﻟﺍ ﻦﻣ ﺔﻔﻠﺘﺨﻣ ﻉﺍﻮﻧﺃ "
+".ﺔﻴﻬﻴﻓﺮﺘﻟﺍ ﺔﻄﺸﻧﻷﺍ ﻦﻣ ﺎﻔﻠﺘﺨﻣﻭ ﺍﺪﻳﺪﺟ ﺎﻋﻮﻧ ﺮﻓﻮﺗ ﻲﺘﻟﺍ ﺔﻴﻬﻴﻓﺮﺘﻟﺍ ﺔﻄﺸﻧﻷﺍ ﻦﻣ ﺔﻋﻮﻨﺘﻣ"
+" ﺔﻋﻮﻤﺠﻣ ﺮﻴﻓﻮﺗ\\n\\n{4}\\n\\n{5}\\n\\nﻂﺑﺍﺮﻟﺍ ﻝﻼﺧ ﻦﻣ ﺎﻬﻴﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ﻲﺘﻟﺍﻭ "
+"،ﻪﺑ ﺔﺻﺎﺨﻟﺍ ﺕﺎﻴﺋﺎﺼﺣﻹﺍ ﺔﺤﻔﺻ ﻲﻓ ﺮﺼﻨﻋ ﻱﻷ ﺔﺒﻌﻠﻟﺍ ﻉﻮﻧ ﻦﻣ ﻖﻘﺤﺘﻟﺍ ﻚﻨﻜﻤﻳ :ﺔﻇﻮﺤﻠﻣ 'i' "
+".ﺭﺯ"
+
+#: compendium:70
+msgctxt "AvailableRecreationTypes"
+msgid "Available recreation types"
+msgstr "ﺓﺮﻓﻮﺘﻤﻟﺍ ﻪﻴﻓﺮﺘﻟﺍ ﻉﺍﻮﻧﺃ"
+
+#: compendium:71
+msgctxt "MissingRecreationTypes"
+msgid "Missing recreation types"
+msgstr "ﺓﺩﻮﻘﻔﻤﻟﺍ ﻪﻴﻓﺮﺘﻟﺍ ﻉﺍﻮﻧﺃ"
+
+#: compendium:72
+msgctxt "CurrentExpectationsAndRecreation"
+msgid ""
+"At current expectations ({0}), each tolerance falls by {1} per day awake. "
+"Having {2} recreation types is recommended."
+msgstr ""
+"ﺔﻴﻟﺎﺤﻟﺍ ﺕﺎﻌﻗﻮﺘﻟﺍ ﻲﻓ ({0})ﺢﻣﺎﺴﺗ ﻞﻛ ﻂﻘﺴﻳ ، {1} ﺬﺧﺄﻧ .ﺎﻈﻘﻴﺘﺴﻣ ﻡﻮﻴﻟﺍ ﻲﻓ {2} "
+".ﻪﻴﻓﺮﺘﻟﺍ ﻉﺍﻮﻧﺄﺑ ﻰﺻﻮﻳ"
+
+#: compendium:73
+msgctxt "bored"
+msgid "bored"
+msgstr "ﻞﻤﻣ"
+
+#: compendium:75
+msgctxt "Boredom"
+msgid "Boredom"
+msgstr "ﻞﻠﻣ"
+
+#: compendium:76
+msgctxt "BoredomDesc"
+msgid ""
+"These people are either in need of recreation or are assigned to recreation,"
+" but are bored of every available source of recreation:\\n\\n{0}\\n\\nGet "
+"them some more recreation variety.\\n\\nCurrently available recreation types"
+" for {PAWN_labelShort}:\\n{2}"
+msgstr ""
+":ﻪﻴﻓﺮﺘﻠﻟ ﺡﺎﺘﻣ ﺭﺪﺼﻣ ﻞﻛ ﻦﻣ ﻞﻠﻤﻟﺎﺑ ﻥﻭﺮﻌﺸﻳ ﻢﻬﻨﻜﻟ ،ﻡﺎﻤﺠﺘﺳﻻﺎﺑ ﻦﻴﻔﻠﻜﻣ ﻭﺃ ﻪﻴﻓﺮﺘﻟﺍ "
+"ﻰﻟﺇ ﺔﺟﺎﺤﺑ ﺎﻣﺇ ﺹﺎﺨﺷﻷﺍ ءﻻﺆﻫ\\n\\n{0}\\n\\n.ﻲﻬﻴﻓﺮﺘﻟﺍ ﻉﻮﻨﺘﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﻰﻠﻋ ﻢﻬﻟ "
+"ﻞﺼﺣﺍ\\n\\nـﻟ ﺎﻴﻟﺎﺣ ﺓﺮﻓﻮﺘﻤﻟﺍ ﻪﻴﻓﺮﺘﻟﺍ ﻉﺍﻮﻧﺃ {PAWN_labelShort}:\\n\\n{2}"
+
+#: compendium:78
+msgctxt "NeedBatteries"
+msgid "Need batteries"
+msgstr "ﺕﺎﻳﺭﺎﻄﺑ ﻰﻟﺇ ﺝﺎﺘﺤﺗ"
+
+#: compendium:79
+msgctxt "NeedBatteriesDesc"
+msgid ""
+"You have a solar or wind generator, but no batteries. You'll lose power "
+"every time the sun goes down or the wind calms."
+msgstr ""
+".ﺡﺎﻳﺮﻟﺍ ﺃﺪﻬﺗ ﻭﺃ ﺲﻤﺸﻟﺍ ﺎﻬﻴﻓ ﺏﺮﻐﺗ ﺓﺮﻣ ﻞﻛ ﻲﻓ ﺔﻗﺎﻄﻟﺍ ﺪﻘﻔﺘﺳ .ﺕﺎﻳﺭﺎﻄﺑ ﻚﻳﺪﻟ ﺲﻴﻟ "
+"ﻦﻜﻟﻭ ،ﺡﺎﻳﺮﻟﺍ ﻭﺃ ﺔﻴﺴﻤﺸﻟﺍ ﺔﻗﺎﻄﻠﻟ ﺪﻟﻮﻣ ﻚﻳﺪﻟ"
+
+#: compendium:80
+msgctxt "NeedBatteriesResearchedDesc"
+msgid "Build a battery or two to guarantee sustained power."
+msgstr ".ﺔﻗﺎﻄﻟﺍ ﺔﻣﺍﺪﺘﺳﺍ ﻥﺎﻤﻀﻟ ﻦﻴﺘﻨﺛﺍ ﻭﺃ ﺔﻳﺭﺎﻄﺑ ءﺎﻨﺒﺑ ﻢﻗ"
+
+#: compendium:81
+msgctxt "NeedBatteriesNotResearchedDesc"
+msgid "Research batteries and build a couple to guarantee sustained power."
+msgstr ".ﺔﻗﺎﻄﻟﺍ ﺔﻳﺭﺍﺮﻤﺘﺳﺍ ﻥﺎﻤﻀﻟ ﺎﻬﻨﻣ ﻦﻴﺟﻭﺯ ءﺎﻨﺒﺑ ﻢﻗﻭ ﺕﺎﻳﺭﺎﻄﺒﻟﺍ ﻦﻋ ﺚﺤﺑﺍ"
+
+#: compendium:83
+msgctxt "BrawlerHasRangedWeapon"
+msgid "Brawler has ranged weapon"
+msgstr "ﻯﺪﻣ ﻭﺫ ﺡﻼﺳ ﻚﻠﺘﻤﻳ ﺲﻛﺎﺸﻣ"
+
+#: compendium:84
+msgctxt "BrawlerHasRangedWeaponDesc"
+msgid ""
+"One of your colonists has the Brawler personality trait, but is carrying a "
+"ranged weapon. This will make them very unhappy."
+msgstr ""
+".ﺔﻳﺎﻐﻠﻟ ءﺍﺪﻌﺳ ﺮﻴﻏ ﻢﻬﻠﻌﺠﻴﺳ ﺍﺬﻫﻭ .ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺎﺣﻼﺳ ﻞﻤﺤﻳ ﻪﻨﻜﻟ ،ﺲﻛﺎﺸﻤﻟﺍ ﺔﻴﺼﺨﺷ "
+"ﺔﻤﺴﺑ ﻚﻳـﻨﻃﺍﻮﻣ ﺪﺣﺃ ﻊﺘﻤﺘﻳ"
+
+#: compendium:86
+msgctxt "ShieldUserHasRangedWeapon"
+msgid "Shield user has ranged weapon"
+msgstr "ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺡﻼﺳ ﻪﻳﺪﻟ ﻉﺭﺪﻟﺍ ﻡﺪﺨﺘﺴﻣ"
+
+#: compendium:87
+msgctxt "ShieldUserHasRangedWeaponDesc"
+msgid ""
+"One of your colonists has a shield belt and is carrying a ranged weapon. "
+"They will not be able to fire their weapon through the shield (except at "
+"targets who are already touching them)."
+msgstr ""
+"ﻉﺭﺪﻟﺍ ﺮﺒﻋ ﻢﻬﺘﺤﻠﺳﺃ ﻕﻼﻃﺇ ﻰﻠﻋ ﻦﻳﺭﺩﺎﻗ ﺍﻮﻧﻮﻜﻳ ﻦﻟ .ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺎﺣﻼﺳ ﻞﻤﺤﻳﻭ ﻉﺭﺩ ﻡﺍﺰﺣ "
+"ﻪﻳﺪﻟ ﻚﻳـﻨﻃﺍﻮﻣ ﺪﺣﺃ (ﻞﻌﻔﻟﺎﺑ ﺎﻬﺴﻤﺗ ﻲﺘﻟﺍ ﻑﺍﺪﻫﻷﺍ ءﺎﻨﺜﺘﺳﺎﺑ)."
+
+#: compendium:89
+msgctxt "NeedResearchProject"
+msgid "Need research project"
+msgstr "ﻲﺜﺤﺑ ﻉﻭﺮﺸﻣ ﻰﻟﺇ ﺔﺟﺎﺤﺑ"
+
+#: compendium:90
+msgctxt "NeedResearchProjectDesc"
+msgid ""
+"You have the equipment to do research but have not selected a "
+"project.\\n\\n(Click to open the research menu.)"
+msgstr ""
+".ﻉﻭﺮﺸﻤﻟﺍ ﺭﺎﻴﺘﺧﺎﺑ ﻢﻘﺗ ﻢﻟ ﻚﻨﻜﻟﻭ ﺙﺎﺤﺑﻷﺍ ءﺍﺮﺟﻹ ﺔﻣﺯﻼﻟﺍ ﺕﺍﺪﻌﻤﻟﺍ ﻚﻳﺪﻟ\\n\\n.ﻉﻭﺮﺸﻤﻟﺍ"
+" ﺩﺪﺣﻭ ﺚﺤﺒﻟﺍ ﺔﻤﺋﺎﻗ ﺢﺘﻓﺍ"
+
+#: compendium:92
+msgctxt "ColonistsIdle"
+msgid "{0} colonists idle"
+msgstr "{0} ﻦﻴﻠﻣﺎﺧ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ"
+
+#: compendium:93
+msgctxt "ColonistsIdleDesc"
+msgid ""
+"These colonists are wandering idly:\\n{0}\\n\\nYou should probably find them"
+" something productive to do."
+msgstr ""
+":ﻱﺪﻳﻷﺍ ﻲﻓﻮﺘﻜﻣ ﻥﻮﻟﻮﺠﺘﻳ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ءﻻﺆﻫ\\n\\n{0}\\n.ﻪﺑ ﻡﺎﻴﻘﻠﻟ ﺍﺮﻤﺜﻣ ﺎﺌﻴﺷ ﻢﻬﻟ "
+"ﺪﺠﺗ ﻥﺃ ﻲﻐﺒﻨﻳ ﺎﻤﺑﺭ"
+
+#: compendium:95
+msgctxt "CaravanIdle"
+msgid "Caravan idle"
+msgstr "ﺔﻠﻣﺎﺧ ﺔﻠﻓﺎﻘﻟﺍ"
+
+#: compendium:96
+msgctxt "CaravanIdleDesc"
+msgid "These caravans are waiting for you to set their next destination:\\n{0}"
+msgstr ":ﺔﻴﻟﺎﺘﻟﺍ ﺎﻬﺘﻬﺟﻭ ﺪﻳﺪﺤﺗ ﻚﻨﻣ ﺮﻈﺘﻨﺗ ﻞﻓﺍﻮﻘﻟﺍ ﻩﺬﻫ\\n\\n{0}"
+
+#: compendium:98
+msgctxt "ColonistNeedsTreatment"
+msgid "Medical treatment needed"
+msgstr "ﻡﺯﻼﻟﺍ ﻲﺒﻄﻟﺍ ﺝﻼﻌﻟﺍ"
+
+#: compendium:99
+msgctxt "ColonistNeedsTreatmentDesc"
+msgid ""
+"These people need medical treatment. Without it, they may die of their "
+"wounds, or their wounds may become permanent.\\n{0}\\n\\nTreat them by "
+"sending them to a medical bed.\\n\\n(First, assign a medical bed by "
+"selecting it and toggling it into a medical bed. Then, select the wounded "
+"person and right-click on the medical bed to make them a patient.)"
+msgstr ""
+".ﺔﻤﺋﺍﺩ ﻢﻬﺣﻭﺮﺟ ﺢﺒﺼﺗ ﺪﻗ ﻭﺃ ،ﻢﻬﺣﺍﺮﺠﺑ ﻦﻳﺮﺛﺄﺘﻣ ﻥﻮﺗﻮﻤﻳ ﺪﻗ ﺎﻬﻧﻭﺪﺑﻭ .ﻲﺒﻃ ﺝﻼﻋ ﻰﻟﺇ "
+"ﻥﻮﺟﺎﺘﺤﻳ ﺱﺎﻨﻟﺍ ءﻻﺆﻫ\\n\\n{0}\\n.ﻲﺒﻃ ﺮﻳﺮﺳ ﻰﻟﺇ ﻢﻬﻟﺎﺳﺭﺈﺑ ﻢﻬﺟﻼﻋ\\n\\n(.ﻲﺒﻃ ﺮﻳﺮﺳ "
+"ﻰﻟﺇ ﻪﻠﻳﻮﺤﺗﻭ ﻩﺪﻳﺪﺤﺗ ﻖﻳﺮﻃ ﻦﻋ ﻲﺒﻃ ﺮﻳﺮﺳ ﺺﻴﺼﺨﺘﺑ ﻢﻗ ،ﻻﻭﺃ .ﺎﻀﻳﺮﻣ ﻪﻠﻌﺠﻟ ﻲﺒﻄﻟﺍ ﺮﻳﺮﺴﻟﺍ"
+" ﻰﻠﻋ ﻦﻤﻳﻷﺍ ﺱﻭﺎﻤﻟﺍ ﺭﺰﺑ ﺮﻘﻧﺍﻭ ﺢﻳﺮﺠﻟﺍ ﺺﺨﺸﻟﺍ ﺩﺪﺣ ﻢﺛ)"
+
+#: compendium:100
+msgctxt "ColonistNeedsTreatmentDescController"
+msgid ""
+"These people need medical treatment. Without it, they may die of their "
+"wounds, or their wounds may become permanent.\\n{0}\\n\\nTreat them by "
+"sending them to a medical bed.\\n\\n(First, assign a medical bed by "
+"selecting it and toggling it into a medical bed. Then, select the wounded "
+"person and press the left trigger button on the medical bed to make them a "
+"patient.)"
+msgstr ""
+".ﺔﻤﺋﺍﺩ ﻢﻬﺣﻭﺮﺟ ﺢﺒﺼﺗ ﺪﻗ ﻭﺃ ،ﻢﻬﺣﺍﺮﺠﺑ ﻦﻳﺮﺛﺄﺘﻣ ﻥﻮﺗﻮﻤﻳ ﺪﻗ ﺎﻬﻧﻭﺪﺑﻭ .ﻲﺒﻃ ﺝﻼﻋ ﻰﻟﺇ "
+"ﻥﻮﺟﺎﺘﺤﻳ ﺱﺎﻨﻟﺍ ءﻻﺆﻫ\\n\\n{0}\\n.ﻲﺒﻃ ﺮﻳﺮﺳ ﻰﻟﺇ ﻢﻬﻟﺎﺳﺭﺈﺑ ﻢﻬﺟﻼﻋ\\n\\n(.ﻲﺒﻃ ﺮﻳﺮﺳ "
+"ﻰﻟﺇ ﻪﻠﻳﻮﺤﺗﻭ ﻩﺪﻳﺪﺤﺗ ﻖﻳﺮﻃ ﻦﻋ ﻲﺒﻃ ﺮﻳﺮﺳ ﺺﻴﺼﺨﺘﺑ ﻢﻗ ،ﻻﻭﺃ .ﺾﻳﺮﻣ ﻰﻟﺇ ﻪﻠﻳﻮﺤﺘﻟ ﻲﺒﻄﻟﺍ "
+"ﺮﻳﺮﺴﻟﺍ ﻰﻠﻋ ﺩﻮﺟﻮﻤﻟﺍ ﺮﺴﻳﻷﺍ ﺩﺎﻧﺰﻟﺍ ﺭﺯ ﻰﻠﻋ ﻂﻐﺿﺍﻭ ﺢﻳﺮﺠﻟﺍ ﺺﺨﺸﻟﺍ ﺩﺪﺣ ﻢﺛ)"
+
+#: compendium:102
+msgctxt "AlertHypothermia"
+msgid "Hypothermia"
+msgstr "ﻢﺴﺠﻟﺍ ﺓﺭﺍﺮﺣ ﺽﺎﻔﺨﻧﺍ"
+
+#: compendium:103
+msgctxt "AlertHypothermiaDesc"
+msgid ""
+"These colonists are suffering from hypothermia:\\n{0}\\n\\nMake sure their "
+"clothing is appropriate for the season and that indoor spaces are properly "
+"heated."
+msgstr ""
+":ﻢﺴﺠﻟﺍ ﺓﺭﺍﺮﺣ ﺽﺎﻔﺨﻧﺍ ﻦﻣ ﻥﻮﻧﺎﻌﻳ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ءﻻﺆﻫ\\n\\n{0}\\n.ﺢﻴﺤﺻ ﻞﻜﺸﺑ ﺔﺌﻓﺍﺩ "
+"ﺔﻴﻠﺧﺍﺪﻟﺍ ﻦﻛﺎﻣﻷﺍ ﻥﺃﻭ ﻢﺳﻮﻤﻠﻟ ﺔﺒﺳﺎﻨﻣ ﻢﻬﺴﺑﻼﻣ ﻥﺃ ﻦﻣ ﺪﻛﺄﺗ"
+
+#: compendium:105
+msgctxt "PatientsAwaitingMedicalOperation"
+msgid "{0} patients await medical operation"
+msgstr "{0} ﺔﻴﺒﻄﻟﺍ ﺔﻴﻠﻤﻌﻟﺍ ﻥﻭﺮﻈﺘﻨﻳ ﻰﺿﺮﻤﻟﺍ"
+
+#: compendium:106
+msgctxt "PatientsAwaitingMedicalOperationDesc"
+msgid ""
+"These patients await medical operation:\\n{0}\\n\\nMake sure you have all "
+"necessary medical tools and a free doctor available."
+msgstr ""
+":ﺔﻴﺒﻄﻟﺍ ﺔﻴﻠﻤﻌﻟﺍ ﻥﻭﺮﻈﺘﻨﻳ ﻰﺿﺮﻤﻟﺍ ءﻻﺆﻫ\\n\\n{0}\\n.ﻲﻧﺎﺠﻣ ﺐﻴﺒﻃﻭ ﺔﻣﺯﻼﻟﺍ ﺔﻴﺒﻄﻟﺍ "
+"ﺕﺍﻭﺩﻷﺍ ﻊﻴﻤﺟ ﺮﻓﻮﺗ ﻦﻣ ﺪﻛﺄﺗ"
+
+#: compendium:108
+msgctxt "FireInHomeArea"
+msgid "Fire!"
+msgstr "!ﺭﺎﻧ"
+
+#: compendium:109
+msgctxt "FireInHomeAreaDesc"
+msgid "There is a fire in the home area."
+msgstr ".ﻝﺰﻨﻤﻟﺍ ﺔﻘﻄﻨﻣ ﻲﻓ ﻖﻳﺮﺣ ﻙﺎﻨﻫ"
+
+#: compendium:111
+msgctxt "PawnsWithLifeThreateningDisease"
+msgid "Medical emergency"
+msgstr "ﺔﻴﺒﻄﻟﺍ ﺉﺭﺍﻮﻄﻟﺍ"
+
+#: compendium:112
+msgctxt "PawnsWithLifeThreateningDiseaseDesc"
+msgid ""
+"People are at risk of death because of severe illness:\\n{0}\\n\\nMake sure "
+"that they get the best medical care possible."
+msgstr ""
+":ﺮﻴﻄﺧ ﺽﺮﻣ ﺐﺒﺴﺑ ﺕﻮﻤﻟﺍ ﺮﻄﺨﻟ ﻥﻮﺿﺮﻌﻣ ﺱﺎﻨﻟﺍ\\n\\n{0}\\n.ﺔﻨﻜﻤﻣ ﺔﻴﺒﻃ ﺔﻳﺎﻋﺭ ﻞﻀﻓﺃ ﻰﻠﻋ"
+" ﻢﻬﻟﻮﺼﺣ ﻦﻣ ﺪﻛﺄﺗ"
+
+#: compendium:113
+msgctxt "PawnsWithLifeThreateningDiseaseAmputationDesc"
+msgid ""
+"People are at risk for death because of severe illness:\\n{0}\\n\\nIf "
+"possible, consider amputating or replacing infected limbs in order to keep "
+"colonists alive."
+msgstr ""
+":ﺮﻴﻄﺧ ﺽﺮﻣ ﺐﺒﺴﺑ ﺕﻮﻤﻟﺍ ﺮﻄﺨﻟ ﻥﻮﺿﺮﻌﻣ ﺱﺎﻨﻟﺍ\\n\\n{0}\\n.ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ"
+" ءﺎﻘﺑﺇ ﻞﺟﺃ ﻦﻣ ﺎﻬﻟﺍﺪﺒﺘﺳﺍ ﻭﺃ ﺔﺑﺎﺼﻤﻟﺍ ﻑﺍﺮﻃﻷﺍ ﺮﺘﺑ ﻲﻓ ﺮﻜﻓ ،ﻦﻜﻣﺃ ﺍﺫﺇ"
+
+#: compendium:115
+msgctxt "BilliardsNeedsSpace"
+msgid "Billiards needs space"
+msgstr "ﺔﺣﺎﺴﻣ ﻰﻟﺇ ﺝﺎﺘﺤﻳ ﻭﺩﺭﺎﻴﻠﺒﻟﺍ"
+
+#: compendium:116
+msgctxt "BilliardsNeedsSpaceDesc"
+msgid ""
+"One of your billiards table is adjacent to an obstruction that will prevent "
+"colonists from using it.\\n\\nA billiards table needs clear space around it "
+"on all sides to be usable."
+msgstr ""
+".ﺎﻬﻣﺍﺪﺨﺘﺳﺍ ﻦﻣ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻊﻨﻤﻳ ﻖﺋﺎﻌﻟ ﺓﺭﻭﺎﺠﻣ ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﻭﺩﺭﺎﻴﻠﺒﻟﺍ ﺕﻻﻭﺎﻃ "
+"ﻯﺪﺣﺇ\\n\\n.ﻡﺍﺪﺨﺘﺳﻼﻟ ﺔﺤﻟﺎﺻ ﻥﻮﻜﺗ ﻰﺘﺣ ﺐﻧﺍﻮﺠﻟﺍ ﻊﻴﻤﺟ ﻦﻣ ﺎﻬﻟﻮﺣ ﺔﻴﻟﺎﺧ ﺔﺣﺎﺴﻣ ﻰﻟﺇ "
+"ﻭﺩﺭﺎﻴﻠﺒﻟﺍ ﺔﻟﻭﺎﻃ ﺝﺎﺘﺤﺗ"
+
+#: compendium:118
+msgctxt "ChessTablesNeedChairs"
+msgid "Chess table needs chairs"
+msgstr "ﻲﺳﺍﺮﻛ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ﺞﻧﺮﻄﺸﻟﺍ ﺔﻟﻭﺎﻃ"
+
+#: compendium:119
+msgctxt "ChessTablesNeedChairsDesc"
+msgid ""
+"One of your chess tables does not have any adjacent chairs.\\n\\nBuild "
+"adjacent chairs or stools to allow your colonists to use the chess table. Up"
+" to two people can use a chess table at once."
+msgstr ""
+".ﺓﺭﻭﺎﺠﻣ ﻲﺳﺍﺮﻛ ﻱﺃ ﻰﻠﻋ ﻚﻳﺪﻟ ﺞﻧﺮﻄﺸﻟﺍ ﺕﻻﻭﺎﻃ ﻯﺪﺣﺇ ﻱﻮﺘﺤﺗ ﻻ\\n\\n.ﺪﺣﺍﻭ ﺖﻗﻭ ﻲﻓ "
+"ﺞﻧﺮﻄﺸﻟﺍ ﺔﻟﻭﺎﻃ ﻡﺍﺪﺨﺘﺳﺍ ﻰﺼﻗﺃ ﺪﺤﻛ ﻦﻴﺼﺨﺸﻟ ﻦﻜﻤﻳ .ﺞﻧﺮﻄﺸﻟﺍ ﺔﻟﻭﺎﻃ ﻡﺍﺪﺨﺘﺳﺎﺑ "
+"ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﺡﺎﻤﺴﻠﻟ ﺓﺭﻭﺎﺠﻣ ﺪﻋﺎﻘﻣ ﻭﺃ ﻲﺳﺍﺮﻛ ءﺎﻨﺒﺑ ﻢﻗ"
+
+#: compendium:121
+msgctxt "PokerTablesNeedChairs"
+msgid "Poker table needs chairs"
+msgstr "ﻲﺳﺍﺮﻛ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ﺮﻛﻮﺒﻟﺍ ﺔﻟﻭﺎﻃ"
+
+#: compendium:122
+msgctxt "PokerTablesNeedChairsDesc"
+msgid ""
+"One of your poker tables does not have any adjacent chairs.\\n\\nBuild "
+"adjacent chairs or stools to allow your colonists to use the poker table. Up"
+" to eight people can use a poker table at once."
+msgstr ""
+".ﺓﺭﻭﺎﺠﻣ ﻲﺳﺍﺮﻛ ﻱﺃ ﻰﻠﻋ ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺮﻛﻮﺒﻟﺍ ﺕﻻﻭﺎﻃ ﻯﺪﺣﺇ ﻱﻮﺘﺤﺗ ﻻ\\n\\n.ﺮﻛﻮﺒﻟﺍ ﺔﻟﻭﺎﻃ "
+"ﻡﺍﺪﺨﺘﺳﺎﺑ ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﺡﺎﻤﺴﻠﻟ ﺓﺭﻭﺎﺠﻣ ﺪﻋﺎﻘﻣ ﻭﺃ ﻲﺳﺍﺮﻛ ءﺎﻨﺒﺑ ﻢﻗ .ﺪﺣﺍﻭ ﺖﻗﻭ ﻲﻓ "
+"ﺮﻛﻮﺒﻟﺍ ﺔﻟﻭﺎﻃ ﻡﺍﺪﺨﺘﺳﺍ ﺹﺎﺨﺷﺃ ﺔﻴﻧﺎﻤﺛ ﻰﻟﺇ ﻞﺼﻳ ﺎﻤﻟ ﻦﻜﻤﻳ"
+
+#: compendium:124
+msgctxt "HunterHasShieldAndRangedWeapon"
+msgid "Hunter has shield and ranged weapon"
+msgstr "ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺡﻼﺳﻭ ﻉﺭﺩ ﻪﻳﺪﻟ ﺩﺎﻴﺼﻟﺍ"
+
+#: compendium:125
+msgctxt "HunterHasShieldAndRangedWeaponDesc"
+msgid ""
+"One of your hunters is using a ranged weapon and wearing a shield belt which"
+" prevents shooting at range.\\n\\nThey won't be able to hunt unless the "
+"shield is removed."
+msgstr ""
+".ﺓﺪﻴﻌﺑ ﺔﻓﺎﺴﻣ ﻦﻣ ﺭﺎﻨﻟﺍ ﻕﻼﻃﺇ ﻊﻨﻤﻳ ﺎﻋﺭﺩ ﺎﻣﺍﺰﺣ ﻱﺪﺗﺮﻳﻭ ﻯﺪﻤﻟﺍ ﺪﻴﻌﺑ ﺎﺣﻼﺳ ﻚﻳﺩﺎﻴﺻ ﺪﺣﺃ"
+" ﻡﺪﺨﺘﺴﻳ\\n\\n.ﻉﺭﺪﻟﺍ ﺔﻟﺍﺯﺇ ﺖﻤﺗ ﺍﺫﺇ ﻻﺇ ﺪﻴﺼﻟﺍ ﻰﻠﻋ ﻦﻳﺭﺩﺎﻗ ﺍﻮﻧﻮﻜﻳ ﻦﻟ"
+
+#: compendium:127
+msgctxt "NeedWarmClothes"
+msgid "Need warm clothes"
+msgstr "ﺔﺌﻓﺍﺩ ﺲﺑﻼﻣ ﻰﻟﺇ ﺔﺟﺎﺤﺑ"
+
+#: compendium:128
+msgctxt "NeedWarmClothesDesc1"
+msgid ""
+"At least {0} of your colonists will lack warm clothes when the cold season "
+"comes."
+msgstr ""
+"ﻞﻗﻷﺍ ﻰﻠﻋ {0} .ﺩﺮﺒﻟﺍ ﻢﺳﻮﻣ ﻲﺗﺄﻳ ﺎﻣﺪﻨﻋ ﺔﺌﻓﺍﺪﻟﺍ ﺲﺑﻼﻤﻟﺍ ﻰﻟﺇ ﻥﻭﺮﻘﺘﻔﻳ ﻑﻮﺳ ﻚﻳـﻨﻃﺍﻮﻣ "
+"ﻦﻣ"
+
+#: compendium:129
+msgctxt "NeedWarmClothesDesc1All"
+msgid ""
+"All of your colonists will lack warm clothes when the cold season comes."
+msgstr ".ﺩﺮﺒﻟﺍ ﻢﺳﻮﻣ ﻲﺗﺄﻳ ﺎﻣﺪﻨﻋ ﺔﺌﻓﺍﺪﻟﺍ ﺲﺑﻼﻤﻟﺍ ﻰﻟﺇ ﻚﻳـﻨﻃﺍﻮﻣ ﻊﻴﻤﺟ ﺮﻘﺘﻔﻳ ﻑﻮﺳ"
+
+#: compendium:130
+msgctxt "NeedWarmClothesDesc2"
+msgid ""
+"The outdoor temperature is going to reach {0}.\\n\\nYou can tailor warm "
+"clothes at the tailoring bench, or buy them from traders."
+msgstr ""
+"ﻞﺼﺗ ﻑﻮﺳ ﻖﻠﻄﻟﺍ ءﺍﻮﻬﻟﺍ ﻲﻓ ﺓﺭﺍﺮﺤﻟﺍ ﺔﺟﺭﺩ {0}.\\n\\n.ﺭﺎﺠﺘﻟﺍ ﻦﻣ ﺎﻬﺋﺍﺮﺷ ﻭﺃ ،ﺔﻃﺎﻴﺨﻟﺍ"
+" ﺔﻟﻭﺎﻃ ﻰﻠﻋ ﺔﺌﻓﺍﺪﻟﺍ ﺲﺑﻼﻤﻟﺍ ﺔﻃﺎﻴﺧ ﻚﻨﻜﻤﻳ"
+
+#: compendium:132
+msgctxt "ImmobileCaravan"
+msgid "Immobile caravan"
+msgstr "ﻙﺍﺮﺣ ﻼﺑ ﺔﻠﻓﺎﻗ"
+
+#: compendium:133
+msgctxt "ImmobileCaravanDesc"
+msgid ""
+"One of your caravans is immobile because it carries too much.\\n\\nYou can "
+"make the caravan mobile again by abandoning some items in the ITEMS tab."
+msgstr ""
+".ﺮﻴﺜﻜﻟﺍ ﻞﻤﺤﺗ ﺎﻬﻧﻷ ﺔﻛﺮﺤﺘﻣ ﺮﻴﻏ ﻢﻜﻠﻓﺍﻮﻗ ﻯﺪﺣﺇ\\n\\n.ﺮﺻﺎﻨﻌﻟﺍ ﺐﻳﻮﺒﺗ ﺔﻣﻼﻋ ﻲﻓ "
+"ﺓﺩﻮﺟﻮﻤﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺾﻌﺑ ﻦﻋ ﻲﻠﺨﺘﻟﺍ ﻖﻳﺮﻃ ﻦﻋ ﻯﺮﺧﺃ ﺓﺮﻣ ﺔﻠﻘﻨﺘﻣ ﺔﻠﻓﺎﻘﻟﺍ ﻞﻌﺟ ﻚﻨﻜﻤﻳ"
+
+#: compendium:135
+msgctxt "BuildingCantBeUsedRoofed"
+msgid "Building unusable due to roof"
+msgstr "ﻒﻘﺴﻟﺍ ﺐﺒﺴﺑ ﻡﺍﺪﺨﺘﺳﻼﻟ ﺢﻟﺎﺻ ﺮﻴﻏ ﻰﻨﺒﻤﻟﺍ"
+
+#: compendium:136
+msgctxt "BuildingCantBeUsedRoofedDesc"
+msgid ""
+"One or more of your buildings can only be used if not roofed, but there is a"
+" roof over it. The building(s) won't be usable until you remove the roof."
+msgstr ""
+"ﻰﻨﺒﻤﻟﺍ .ﻪﻗﻮﻓ ﻒﻘﺳ ﺪﺟﻮﻳ ﻦﻜﻟﻭ ،ﺎﻓﻮﻘﺴﻣ ﻦﻜﻳ ﻢﻟ ﺍﺫﺇ ﻻﺇ ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﻲﻧﺎﺒﻤﻟﺍ ﻦﻣ ﺮﺜﻛﺃ "
+"ﻭﺃ ﺪﺣﺍﻭ ﻡﺍﺪﺨﺘﺳﺍ ﻦﻜﻤﻳ ﻻ(s) .ﻒﻘﺴﻟﺍ ﺔﻟﺍﺯﺈﺑ ﻡﻮﻘﺗ ﻰﺘﺣ ﻝﺎﻤﻌﺘﺳﻼﻟ ﺔﺤﻟﺎﺻ ﻥﻮﻜﺗ ﻦﻟ"
+
+#: compendium:138
+msgctxt "AlertHeatstroke"
+msgid "Heatstroke"
+msgstr "ﺲﻤﺷ ﺔﺑﺮﺿ"
+
+#: compendium:139
+msgctxt "AlertHeatstrokeDesc"
+msgid ""
+"The following people are suffering from heatstroke:\\n{0}\\n\\nGet them to a"
+" cooler area. You can cool down rooms with passive coolers or electrical "
+"coolers. Deep underground spaces are also naturally cool, if separated from "
+"the outdoors by a door."
+msgstr ""
+":ﺲﻤﺸﻟﺍ ﺔﺑﺮﺿ ﻦﻣ ﻥﻮﻧﺎﻌﻳ ﻢﻫﺅﺎﻤﺳﺃ ﺔﻴﻟﺎﺘﻟﺍ ﺹﺎﺨﺷﻷﺍ\\n\\n{0}\\n.ﺔﻴﺋﺎﺑﺮﻬﻛ ﺕﺍﺩﺮﺒﻣ ﻭﺃ "
+"ﺔﻴﺒﻠﺳ ﺕﺍﺩﺮﺒﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻑﺮﻐﻟﺍ ﺪﻳﺮﺒﺗ ﻚﻨﻜﻤﻳ .ﺓﺩﻭﺮﺑ ﺮﺜﻛﺃ ﺔﻘﻄﻨﻣ ﻰﻟﺇ ﻢﻬﻠﻘﻧ .ﺏﺎﺑ "
+"ﺔﻄﺳﺍﻮﺑ ﺝﺭﺎﺨﻟﺍ ﻦﻋ ﺎﻬﻠﺼﻓ ﻢﺗ ﺍﺫﺇ ،ﻲﻌﻴﺒﻃ ﻞﻜﺸﺑ ﺓﺩﺭﺎﺑ ﺎﻀﻳﺃ ﺽﺭﻷﺍ ﺖﺤﺗ ﺔﻘﻴﻤﻌﻟﺍ "
+"ﺕﺎﺣﺎﺴﻤﻟﺍ ﺮﺒﺘﻌﺗ"
+
+#: compendium:141
+msgctxt "QuestPartMoodBelowThreshold"
+msgid "Guest unhappy"
+msgstr "ﺪﻴﻌﺳ ﺮﻴﻏ ﻒﻴﻀﻟﺍ"
+
+#: compendium:142
+msgctxt "QuestPartMoodBelowThresholdDesc"
+msgid ""
+"The quest {0} requires you to keep this person in a good mood. However, "
+"their mood is poor. Take some action to make them feel better:\\n{1}"
+msgstr ""
+"ﺚﺤﺒﻟﺍ {0}.ﺊﻴﺳ ﻢﻬﺟﺍﺰﻣ ،ﻚﻟﺫ ﻊﻣﻭ .ﺪﻴﺟ ﺝﺍﺰﻣ ﻲﻓ ﺺﺨﺸﻟﺍ ﺍﺬﻫ ءﺎﻘﺑﺇ ﻚﻨﻣ ﺐﻠﻄﺘﻳ   "
+":ﻦﺴﺤﺘﻟﺎﺑ ﻥﻭﺮﻌﺸﻳ ﻢﻬﻠﻌﺠﺘﻟ ﺕﺍءﺍﺮﺟﻹﺍ ﺾﻌﺑ ﺬﺨﺗﺍ\\n\\n{1}"
+
+#: compendium:144
+msgctxt "QuestPartShuttleLeaveDelay"
+msgid "Shuttle leaving in {0}"
+msgstr "ﻙﻮﻜﻤﻟﺍ ﺓﺭﺩﺎﻐﻣ {0}"
+
+#: compendium:145
+msgctxt "QuestPartShuttleLeaveDelayDesc"
+msgid ""
+"The shuttle will leave in {1}. The quest {0} requires you to load the "
+"following people or items onto the shuttle before it leaves:\\n{2}"
+msgstr ""
+"ﻙﻮﻜﻤﻟﺍ ﺭﺩﺎﻐﻳ ﻑﻮﺳ {1}. ﺚﺤﺒﻟﺍ {0} :ﻪﺗﺭﺩﺎﻐﻣ ﻞﺒﻗ ﻙﻮﻜﻤﻟﺍ ﻰﻠﻋ ﺔﻴﻟﺎﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻭﺃ "
+"ﺹﺎﺨﺷﻷﺍ ﻞﻴﻤﺤﺗ ﻚﻨﻣ ﺐﻠﻄﺘﻳ\\n\\n{2}"
+
+#: compendium:146
+msgctxt "QuestPartShuttleLeaveDelayDescHidden"
+msgid "The shuttle will leave in {0}."
+msgstr "ﻙﻮﻜﻤﻟﺍ ﺭﺩﺎﻐﻳ ﻑﻮﺳ {0}."
+
+#: compendium:148
+msgctxt "QuestPartShuttleArriveDelay"
+msgid "Shuttle arriving in {0}"
+msgstr "ﻙﻮﻜﻤﻟﺍ ﻝﻮﺻﻭ {0}"
+
+#: compendium:149
+msgctxt "QuestPartShuttleArriveDelayDesc"
+msgid ""
+"A shuttle will arrive in {1}. The quest {0} requires you to load the "
+"following people or items onto the shuttle before it leaves:\\n{2}"
+msgstr ""
+"ﺔﻴﻛﻮﻜﻣ ﺔﻠﻓﺎﺣ ﻞﺼﺘﺳ {1}. ﺚﺤﺒﻟﺍ {0} :ﻪﺗﺭﺩﺎﻐﻣ ﻞﺒﻗ ﻙﻮﻜﻤﻟﺍ ﻰﻠﻋ ﺔﻴﻟﺎﺘﻟﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻭﺃ "
+"ﺹﺎﺨﺷﻷﺍ ﻞﻴﻤﺤﺗ ﻚﻨﻣ ﺐﻠﻄﺘﻳ\\n\\n{2}"
+
+#: compendium:150
+msgctxt "QuestPartShuttleArriveDelayDescHidden"
+msgid "A shuttle will arrive in {0}."
+msgstr "ﺔﻴﻛﻮﻜﻣ ﺔﻠﻓﺎﺣ ﻞﺼﺘﺳ {0}."
+
+#: compendium:152
+msgctxt "DisallowedBuildingInsideMonument"
+msgid "Monument will be destroyed"
+msgstr "ﻱﺭﺎﻛﺬﺘﻟﺍ ﺐﺼﻨﻟﺍ ﺮﻴﻣﺪﺗ ﻢﺘﻴﺳ"
+
+#: compendium:153
+msgctxt "DisallowedBuildingInsideMonumentDesc"
+msgid ""
+"You've built a disallowed building inside one of your monuments. The "
+"monument will be considered destroyed in {0}."
+msgstr ""
+"ﻲﻓ ﺍﺮﻣﺪﻣ ﺐﺼﻨﻟﺍ ﺭﺎﺒﺘﻋﺍ ﻢﺘﻴﺳ .ﻚﺑ ﺔﺻﺎﺨﻟﺍ ﺔﻳﺮﺛﻷﺍ ﻢﻟﺎﻌﻤﻟﺍ ﺪﺣﺃ ﻞﺧﺍﺩ ﻪﺑ ﺡﻮﻤﺴﻣ ﺮﻴﻏ "
+"ﻰﻨﺒﻣ ءﺎﻨﺒﺑ ﺖﻤﻗ ﺪﻘﻟ {0}."
+
+#: compendium:155
+msgctxt "ActivatorCountdown"
+msgid "Countdown activator {0}"
+msgstr "ﻲﻟﺯﺎﻨﺘﻟﺍ ﺪﻌﻟﺍ ﻂﺸﻨﻣ {0}"
+
+#: compendium:156
+msgctxt "ActivatorCountdownDesc"
+msgid ""
+"There is a countdown activator ticking down, preparing to awaken nearby "
+"mechanoids."
+msgstr ".ﺔﺒﻳﺮﻘﻟﺍ ﺕﺎﻴﻟﻵﺍ ﻅﺎﻘﻳﻹ ﻞﻔﺳﻸﻟ ﺪﻌﺘﺴﻳ ﻲﻟﺯﺎﻨﺘﻟﺍ ﺪﻌﻠﻟ ﻂﺸﻨﻣ ﻙﺎﻨﻫ"
+
+#: compendium:157
+msgctxt "ActivatorCountdownMultiple"
+msgid "{0} countdown activators"
+msgstr "{0} ﻲﻟﺯﺎﻨﺘﻟﺍ ﺪﻌﻟﺍ ﺕﺎﻄﺸﻨﻣ"
+
+#: compendium:158
+msgctxt "ActivatorCountdownDescMultiple"
+msgid ""
+"There are {0} countdown activators ticking down, preparing to awaken nearby "
+"mechanoids."
+msgstr "ﻙﺎﻨﻫ {0} .ﺔﺒﻳﺮﻘﻟﺍ ﺕﺎﻴﻟﻵﺍ ﻅﺎﻘﻳﻹ ﺍﺩﺍﺪﻌﺘﺳﺍ ﻲﻟﺯﺎﻨﺘﻟﺍ ﺪﻌﻟﺍ ﺕﺍﻭﺩﺃ ﻖﻠﻄﻨﺗ"
+
+#: compendium:160
+msgctxt "QuestExpiresSoon"
+msgid "Quest expires in {0}"
+msgstr "ﻲﻓ ﺔﻤﻬﻤﻟﺍ ﻲﻬﺘﻨﺗ {0}"
+
+#: compendium:161
+msgctxt "QuestExpiresSoonDesc"
+msgid "The quest '{0}' will expire in {1}."
+msgstr "ﺚﺤﺒﻟﺍ '{0}' ﻲﻓ ﻲﻬﺘﻨﺗ ﻑﻮﺳ {1}."
+
+#: compendium:163
+msgctxt "AlertAnimalFilth"
+msgid "Animal filth"
+msgstr "ﻥﺍﻮﻴﺤﻟﺍ ﺓﺭﺍﺬﻗ"
+
+#: compendium:164
+msgctxt "AlertAnimalFilthDesc"
+msgid ""
+"A filth-producing animal is indoors on a clean floor.\\n\\nAnimals produce a"
+" very large amount of filth when moving around on normal floors. Keep filth-"
+"producing animals outdoors, or on straw matting where they will produce far "
+"less filth.\\n\\nYou can check an animal's filth production rate in its "
+"stats by clicking the 'i' button.\\n\\nThese animals are the problem:\\n{0}"
+msgstr ""
+".ﺔﻔﻴﻈﻧ ﺔﻴﺿﺭﺃ ﻰﻠﻋ ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﺩﻮﺟﻮﻣ ﺓﺭﺍﺬﻘﻠﻟ ﺞﺘﻨﻤﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ\\n\\n.ﺔﻳﺩﺎﻌﻟﺍ "
+"ﺕﺎﻴﺿﺭﻷﺍ ﻰﻠﻋ ﺎﻬﻛﺮﺤﺗ ﺪﻨﻋ ﺓﺭﺍﺬﻘﻟﺍ ﻦﻣ ﺍﺪﺟ ﺓﺮﻴﺒﻛ ﺔﻴﻤﻛ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺞﺘﻨﺗ .ﺮﻴﺜﻜﺑ ﻞﻗﺃ "
+"ﺓﺭﺍﺬﻗ ﺞﺘﻨﺘﺳ ﺚﻴﺣ ﺶﻘﻟﺍ ﻦﻣ ﺓﺮﻴﺼﺣ ﻰﻠﻋ ﻭﺃ ،ﺝﺭﺎﺨﻟﺍ ﻲﻓ ﺓﺭﺍﺬﻘﻠﻟ ﺔﺠﺘﻨﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺎﺑ "
+"ﻆﻔﺘﺣﺍ\\n\\nﻰﻠﻋ ﺮﻘﻨﻟﺍ ﻝﻼﺧ ﻦﻣ ﻪﺗﺎﻴﺋﺎﺼﺣﺇ ﻲﻓ ﻥﺍﻮﻴﺤﻟﺍ ﺓﺭﺍﺬﻗ ﺝﺎﺘﻧﺇ ﻝﺪﻌﻣ ﻦﻣ ﻖﻘﺤﺘﻟﺍ "
+"ﻚﻨﻜﻤﻳ 'i' .ﺭﺯ\\n\\n:ﺔﻠﻜﺸﻤﻟﺍ ﻲﻫ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻩﺬﻫ\\n{0}"
+
+#: compendium:166
+msgctxt "AlertAnimalPenNeeded"
+msgid "Pen needed"
+msgstr "ﺏﻮﻠﻄﻣ ﻢﻠﻘﻟﺍ"
+
+#: compendium:167
+msgctxt "AlertAnimalPenNeededDesc"
+msgid ""
+"Some of your tame animals are roamers. If not kept in a pen or roped to a "
+"caravan hitching spot, they will wander away."
+msgstr ""
+".ﺍﺪﻴﻌﺑ ﻝﻮﺠﺘﺗ ﻑﻮﺴﻓ ،ﺔﻠﻓﺎﻘﻟﺍ ﻂﺑﺭ ﻥﺎﻜﻣ ﻲﻓ ﻝﺎﺒﺤﻟﺎﺑ ﺎﻬﻄﺑﺭ ﻭﺃ ﻢﻠﻗ ﻲﻓ ﺎﻬﺑ ﻅﺎﻔﺘﺣﻻﺍ "
+"ﻢﺘﻳ ﻢﻟ ﺍﺫﺇ .ﺔﻟﻮﺠﺘﻣ ﺕﺎﻧﺍﻮﻴﺣ ﻲﻫ ﺔﻔﻴﻟﻷﺍ ﻚﺗﺎﻧﺍﻮﻴﺣ ﺾﻌﺑ"
+
+#: compendium:168
+msgctxt "AlertAnimalPenNeededNoHandlers"
+msgid ""
+"You do not have any handlers to take animals to a pen.\\n\\nAssign a "
+"colonist to the Handling work type."
+msgstr ""
+".ﺓﺮﻴﻈﺤﻟﺍ ﻰﻟﺇ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻞﻘﻨﻟ ﻦﻴﺠﻟﺎﻌﻣ ﻱﺃ ﻚﻳﺪﻟ ﺲﻴﻟ\\n\\n.ﺔﻟﻭﺎﻨﻤﻟﺍ ﻞﻤﻋ ﻉﻮﻨﻟ "
+"ـﻨﻃﺍﻮﻣ ﻦﻴﻴﻌﺘﺑ ﻢﻗ"
+
+#: compendium:169
+msgctxt "AlertAnimalPenNeededDescExplanation"
+msgid ""
+"Create an animal pen by building a pen marker inside a fenced, barricaded, "
+"or walled area. Select the pen marker to see which animals it accepts and "
+"how many its pen can support.\\n\\nYour animal handlers will bring animals "
+"to their assigned pen automatically.\\n\\nA pen needs a door or gate to "
+"admit animals."
+msgstr ""
+".ﺓﺭﻮﺴﻣ ﻭﺃ ﺲﻳﺭﺎﺘﻣ ﻭﺃ ﺔﺠﻴﺴﻣ ﺔﻘﻄﻨﻣ ﻞﺧﺍﺩ ﺪﻳﺪﺤﺗ ﻢﻠﻗ ءﺎﻨﺑ ﻖﻳﺮﻃ ﻦﻋ ﺕﺎﻧﺍﻮﻴﺤﻠﻟ ﺓﺮﻴﻈﺣ "
+"ءﺎﺸﻧﺈﺑ ﻢﻗ .ﻢﻠﻘﻟﺍ ﺎﻬﻤﻋﺪﻳ ﻥﺃ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺩﺪﻋﻭ ﺎﻬﻠﺒﻘﻳ ﻲﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ "
+"ﺔﻓﺮﻌﻤﻟ ﻢﻠﻘﻟﺍ ﺔﻣﻼﻋ ﺩﺪﺣ\\n\\n.ﺎﻴﺋﺎﻘﻠﺗ ﻢﻬﻟ ﺔﺼﺼﺨﻤﻟﺍ ﺓﺮﻴﻈﺤﻟﺍ ﻰﻟﺇ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺭﺎﻀﺣﺈﺑ"
+" ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻮﺠﻟﺎﻌﻣ ﻡﻮﻘﻴﺳ\\n\\n.ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻝﻮﺧﺪﻟ ﺔﺑﺍﻮﺑ ﻭﺃ ﺏﺎﺑ ﻰﻟﺇ ﻢﻠﻘﻟﺍ ﺝﺎﺘﺤﻳ"
+
+#: compendium:171
+msgctxt "AlertAnimalPenNotEnclosed"
+msgid "Pen not enclosed"
+msgstr "ﻖﻠﻐﻣ ﺮﻴﻏ ﻢﻠﻘﻟﺍ"
+
+#: compendium:172
+msgctxt "AlertAnimalPenNotEnclosedDesc"
+msgid ""
+"An animal pen marker is not enclosed.\\n\\nEnclose the pen using fences, "
+"barricades, gates, walls, or doors to prevent animals from wandering "
+"out.\\n\\nIf you have only unenclosed pen markers, your handlers can still "
+"lead wandering animals back home - but this must be repeated from time to "
+"time when the animals wander away once again."
+msgstr ""
+".ﺔﻘﻓﺮﻣ ﺮﻴﻏ ﺔﻴﻧﺍﻮﻴﺤﻟﺍ ﻢﻠﻘﻟﺍ ﺔﻣﻼﻋ\\n\\n.ﻝﻮﺠﺘﻟﺍ ﻦﻣ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻊﻨﻤﻟ ﺏﺍﻮﺑﻷﺍ ﻭﺃ "
+"ﻥﺍﺭﺪﺠﻟﺍ ﻭﺃ ﺕﺎﺑﺍﻮﺒﻟﺍ ﻭﺃ ﺲﻳﺭﺎﺘﻤﻟﺍ ﻭﺃ ﺭﺍﻮﺳﻷﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻢﻠﻘﻟﺍ ﻖﻓﺭﺃ\\n\\n،ﺔﻘﻠﻐﻣ "
+"ﺮﻴﻏ ﻢﻠﻗ ﺕﺎﻣﻼﻋ ﻂﻘﻓ ﻚﻳﺪﻟ ﻥﺎﻛ ﺍﺫﺇ .ﻯﺮﺧﺃ ﺓﺮﻣ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻝﻮﺠﺘﺗ ﺎﻣﺪﻨﻋ ﺮﺧﻵ ﺖﻗﻭ ﻦﻣ "
+"ﻚﻟﺫ ﺭﺍﺮﻜﺗ ﺐﺠﻳ ﻦﻜﻟﻭ - ﻝﺰﻨﻤﻟﺍ ﻰﻟﺇ ﺔﻟﻮﺠﺘﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺓﺩﺎﻋﺇ ﻚﻴﺑﺭﺪﻣ ﻥﺎﻜﻣﺈﺑ ﻝﺍﺰﻳ "
+"ﻻ"
+
+#: compendium:174
+msgctxt "AlertPredatorInAnimalPen"
+msgid "{ANIMAL_labelShort} in animal pen"
+msgstr "{ANIMAL_labelShort} ﻥﺍﻮﻴﺤﻟﺍ ﻢﻠﻗ ﻲﻓ"
+
+#: compendium:175
+msgctxt "AlertPredatorInAnimalPenDesc"
+msgid ""
+"A predatory {ANIMAL_labelShort} has wandered into an animal pen.\\n\\nIt may"
+" decide to hunt your animals.\\n\\nYou can kill it, or wait and hope it "
+"leaves."
+msgstr ""
+"ﺱﺮﺘﻔﻣ {ANIMAL_labelShort} .ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺓﺮﻴﻈﺣ ﻲﻓ ﻝﻮﺠﺗ ﺪﻘﻟ\\n\\n.ﻚﺗﺎﻧﺍﻮﻴﺣ ﺩﺎﻴﻄﺻﺍ"
+" ﺭﺮﻘﺗ ﺪﻗ\\n\\n.ﺭﺩﺎﻐﻳ ﻥﺃ ﻞﻣﺄﺗﻭ ﺭﺎﻈﺘﻧﻻﺍ ﻭﺃ ،ﻪﻠﺘﻗ ﻚﻨﻜﻤﻳ"
+
+#: compendium:177
+msgctxt "AlertAnimalIsRoaming"
+msgid "Animal wandering away"
+msgstr "ﺍﺪﻴﻌﺑ ﻝﻮﺠﺘﻳ ﻥﺍﻮﻴﺤﻟﺍ"
+
+#: compendium:178
+msgctxt "AlertAnimalIsRoamingDesc"
+msgid ""
+"Some of your tame animals are roamers and have started to wander. If they "
+"reach the edge of the map, they will eventually leave.\\n\\nIf you have an "
+"enclosed animal pen, your animal handlers can bring the animal back. Animals"
+" in an animal pen will not roam.\\n\\nThe following animals are "
+"roaming:\\n{0}"
+msgstr ""
+".ﻝﻮﺠﺘﻟﺍ ﻲﻓ ﺕﺃﺪﺑﻭ ﻝﻮﺠﺘﺗ ﺔﻔﻴﻟﻷﺍ ﻚﺗﺎﻧﺍﻮﻴﺣ ﺾﻌﺑ .ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﻥﻭﺭﺩﺎﻐﻳ ﻑﻮﺴﻓ ،ﺔﻄﻳﺮﺨﻟﺍ"
+" ﺔﻓﺎﺣ ﻰﻟﺇ ﺍﻮﻠﺻﻭ ﺍﺫﺇ\\n\\n.ﻥﺍﻮﻴﺤﻟﺍ ﺓﺩﺎﻋﺇ ﻚﺑ ﺹﺎﺨﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻲﺑﺮﻤﻟ ﻦﻜﻤﻴﻓ "
+"،ﺔﻘﻠﻐﻣ ﺕﺎﻧﺍﻮﻴﺣ ﺓﺮﻴﻈﺣ ﻚﻳﺪﻟ ﻥﺎﻛ ﺍﺫﺇ .ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺓﺮﻴﻈﺣ ﻲﻓ ﺓﺩﻮﺟﻮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ "
+"ﻝﻮﺠﺘﺗ ﻦﻟ\\n\\n:ﺔﻴﻟﺎﺘﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻝﻮﺠﺘﺗ\\n\\n{0}"
+
+#: compendium:180
+msgctxt "AlertPennedAnimalHungry"
+msgid "Hungry pen animals"
+msgstr "ﺔﻌﺋﺎﺠﻟﺍ ﻢﻠﻘﻟﺍ ﺕﺎﻧﺍﻮﻴﺣ"
+
+#: compendium:181
+msgctxt "AlertPennedAnimalHungryDesc"
+msgid ""
+"Some of your penned animals are hungry.\\n\\nSelect a pen marker and use the"
+" Food tab to see more detail.\\n\\nGrass-eating animals may need a larger "
+"pen to provide enough grass. Other animals may need to be supplied with "
+"haygrass or similar food using a stockpile.\\n\\nThe following penned "
+"animals are hungry:\\n{0}"
+msgstr ""
+".ﺔﻌﺋﺎﺟ ﺔﻧﻮﺠﺴﻤﻟﺍ ﻚﺗﺎﻧﺍﻮﻴﺣ ﺾﻌﺑ\\n\\n.ﻞﻴﺻﺎﻔﺘﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﺔﻳﺅﺮﻟ \"ﻡﺎﻌﻄﻟﺍ\" "
+"ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻡﺪﺨﺘﺳﺍﻭ ﻢﻠﻘﻟﺍ ﺔﻣﻼﻋ ﺩﺪﺣ\\n\\n.ﺐﺸﻌﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﺮﻴﻓﻮﺘﻟ ﺮﺒﻛﺃ ﺓﺮﻴﻈﺣ"
+" ﻰﻟﺇ ﺐﺸﻌﻠﻟ ﺔﻠﻛﻵﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺝﺎﺘﺤﺗ ﺪﻗ .ﻥﻭﺰﺨﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺔﻠﺛﺎﻤﻣ ﺔﻳﺬﻏﺃ ﻭﺃ ﺶﻘﻟﺍ "
+"ﺐﺸﻌﺑ ﺎﻫﺪﻳﻭﺰﺗ ﻰﻟﺇ ﻯﺮﺧﻷﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺝﺎﺘﺤﺗ ﺪﻗ\\n\\n:ﺔﻌﺋﺎﺟ ﺔﻴﻟﺎﺘﻟﺍ ﺔﻧﻮﺠﺴﻤﻟﺍ "
+"ﺕﺎﻧﺍﻮﻴﺤﻟﺍ\\n\\n{0}"
+
+#: compendium:183
+msgctxt "AlertHitchedAnimalHungryNoFood"
+msgid "Hungry hitched animal"
+msgstr "ﺝﻭﺰﺘﻤﻟﺍ ﻊﺋﺎﺠﻟﺍ ﻥﺍﻮﻴﺤﻟﺍ"
+
+#: compendium:184
+msgctxt "AlertHitchedAnimalHungryNoFoodDesc"
+msgid ""
+"Some animals tied to hitching spots are hungry. There may not be any "
+"suitable food within their reach.\\n\\nBring them food, or remove the "
+"hitching spot so they can find food on their own.\\n\\nThe following hitched"
+" animals are hungry:\\n{0}"
+msgstr ""
+".ﺔﻌﺋﺎﺟ ﻥﻮﻜﺗ ﻂﺑﺮﻟﺍ ﻦﻛﺎﻣﺄﺑ ﺔﻄﺒﺗﺮﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﺾﻌﺑ .ﻢﻬﻳﺪﻳﺃ ﻝﻭﺎﻨﺘﻣ ﻲﻓ ﺐﺳﺎﻨﻣ ﻡﺎﻌﻃ"
+" ﻱﺃ ﻙﺎﻨﻫ ﻥﻮﻜﻳ ﻻ ﺪﻗﻭ\\n\\n.ﻢﻫﺩﺮﻔﻤﺑ ﻡﺎﻌﻄﻟﺍ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻦﻣ ﺍﻮﻨﻜﻤﺘﻳ ﻰﺘﺣ ﻂﺑﺮﻟﺍ "
+"ﻥﺎﻜﻣ ﺔﻟﺍﺯﺈﺑ ﻢﻗ ﻭﺃ ،ﻡﺎﻌﻄﻟﺍ ﻢﻬﻟ ﺮﻀﺣﺃ\\n\\n:ﺔﻌﺋﺎﺟ ﺔﻴﻟﺎﺘﻟﺍ ﺔﻃﻮﺑﺮﻤﻟﺍ "
+"ﺕﺎﻧﺍﻮﻴﺤﻟﺍ\\n\\n{0}"
+
+#: compendium:186
+msgctxt "AlertTimedRaidsArrivingIn"
+msgid "Raids arriving in {0}"
+msgstr "ﺕﺍﺭﺎﻐﻟﺍ ﻝﻮﺻﻭ {0}"
+
+#: compendium:187
+msgctxt "AlertTimedRaidsArrivingInDesc"
+msgid ""
+"Enemies have been attracted to the following sites and will start arriving "
+"in force soon.\\n\\n{0}"
+msgstr ""
+".ﺎﺒﻳﺮﻗ ﺓﻮﻘﻟﺍ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻲﻓ ﻥﻭﺃﺪﺒﻴﺳﻭ ﺔﻴﻟﺎﺘﻟﺍ ﻊﻗﺍﻮﻤﻟﺍ ﻰﻟﺇ ءﺍﺪﻋﻷﺍ ﺏﺬﺟ ﻢﺗ "
+"ﺪﻘﻟ\\n\\n{0}"
+
+#: compendium:188
+msgctxt "AlertTimedRaidsArrivingAt"
+msgid "Arriving at {0} in {1}"
+msgstr "ﻰﻟﺍ ﻝﻮﺻﻮﻟﺍ {0} ﻲﻓ {1}"
+
+#: compendium:190
+msgctxt "FactionWillBecomeHostileIfNotLeavingWithin"
+msgid "Faction will become hostile if you stay"
+msgstr "ﺖﻴﻘﺑ ﺍﺫﺇ ﺎﻳﺩﺎﻌﻣ ﻞﻴﺼﻔﻟﺍ ﺢﺒﺼﻳ ﻑﻮﺳ"
+
+#: compendium:191
+msgctxt "FactionWillBecomeHostileIfNotLeavingWithinDesc"
+msgid ""
+"These factions will become hostile if you stay for longer at their "
+"settlement or outpost:\\n{0}"
+msgstr ""
+":ﺔﻴﻧﺎﻄﻴﺘﺳﻻﺍ ﺎﻬﺗﺭﺆﺑ ﻭﺃ ﺎﻬﺘﻨﻃﻮﺘﺴﻣ ﻲﻓ ﻝﻮﻃﺃ ﺓﺮﺘﻔﻟ ﺖﻴﻘﺑ ﺍﺫﺇ ﺔﻳﺩﺎﻌﻣ ﻞﺋﺎﺼﻔﻟﺍ ﻩﺬﻫ "
+"ﺢﺒﺼﺘﺳ\\n\\n{0}"
+
+#: compendium:193
+msgctxt "AlertMinifiedTreeAboutToDie"
+msgid "{0} trees dying"
+msgstr "{0} ﺭﺎﺠﺷﻷﺍ ﺕﻮﻤﺗ"
+
+#: compendium:194
+msgctxt "AlertMinifiedTreeAboutToDieDesc"
+msgid ""
+"{0} extracted trees are going to die is less than a day. This will make some"
+" colonists unhappy because of their beliefs.\\n\\nYou can prevent this by "
+"replanting these trees."
+msgstr ""
+"{0} .ﺪﺣﺍﻭ ﻡﻮﻳ ﻦﻣ ﻞﻗﺃ ﻲﻓ ﺕﻮﻤﺗ ﻑﻮﺳ ﺔﺟﺮﺨﺘﺴﻤﻟﺍ ﺭﺎﺠﺷﻷﺍ .ﻢﻬﺗﺍﺪﻘﺘﻌﻣ ﺐﺒﺴﺑ ءﺍﺪﻌﺳ ﺮﻴﻏ "
+"ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺾﻌﺑ ﻞﻌﺠﻴﺳ ﺍﺬﻫﻭ\\n\\n.ﺭﺎﺠﺷﻷﺍ ﻩﺬﻫ ﺔﻋﺍﺭﺯ ﺓﺩﺎﻋﺇ ﻖﻳﺮﻃ ﻦﻋ ﻚﻟﺫ ﻊﻨﻣ ﻚﻨﻜﻤﻳ"
+
+#: compendium:196
+msgctxt "NeedResearchBench"
+msgid "Need research bench"
+msgstr "ﺔﻴﺜﺤﺒﻟﺍ ءﻻﺪﺒﻟﺍ ﺪﻋﺎﻘﻣ ﻰﻟﺇ ﺔﺟﺎﺤﺑ"
+
+#: compendium:197
+msgctxt "NeedResearchBenchDesc"
+msgid ""
+"You have an active research project '{0}'. This project requires you to "
+"build {1}."
+msgstr "ﻂﺸﻧ ﻲﺜﺤﺑ ﻉﻭﺮﺸﻣ ﻚﻳﺪﻟ '{0}'. ءﺎﻨﺒﻟﺍ ﻚﻨﻣ ﺐﻠﻄﺘﻳ ﻉﻭﺮﺸﻤﻟﺍ ﺍﺬﻫ {1}."

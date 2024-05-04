@@ -1,0 +1,424 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/TraitDefs/Traits_Singular.xml:9
+msgctxt "Nudist.degreeDatas.0.label"
+msgid "nudist"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:10
+msgctxt "Nudist.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} enjoys the feeling of freedom that comes from being nude. "
+"{PAWN_pronoun} can handle clothing, but will be happier without it."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:20
+msgctxt "Bloodlust.degreeDatas.0.label"
+msgid "bloodlust"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:21
+msgctxt "Bloodlust.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} gets a rush from hurting people, and never minds the sight of"
+" blood or death. {PAWN_pronoun} is four times as likely to start a social "
+"fight as others."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:40
+msgctxt "Kind.degreeDatas.0.label"
+msgid "kind"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:41
+msgctxt "Kind.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} is an exceptionally agreeable and giving person. "
+"{PAWN_pronoun} rarely insults others or starts fights, and will sometimes "
+"offer kind words to brighten the moods of those around {PAWN_objective}. "
+"{PAWN_pronoun} also never judges people by their appearance."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:57
+msgctxt "Psychopath.degreeDatas.0.label"
+msgid "psychopath"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:58
+msgctxt "Psychopath.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} has no empathy. The suffering of others doesn't bother "
+"{PAWN_objective} at all. {PAWN_pronoun} doesn't mind if others are "
+"butchered, left unburied, imprisoned, or sold to slavery - unless it affects"
+" {PAWN_objective}. {PAWN_pronoun} also feels no mood boost from socializing."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:76
+msgctxt "Cannibal.degreeDatas.0.label"
+msgid "cannibal"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:77
+msgctxt "Cannibal.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} was taught that eating human meat is wrong and horrible. But "
+"one time, long ago, {PAWN_pronoun} tried it... and {PAWN_pronoun} liked it."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:111
+msgctxt "Abrasive.degreeDatas.0.label"
+msgid "abrasive"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:112
+msgctxt "Abrasive.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} always says exactly what's on {PAWN_possessive} mind, "
+"especially if it's bugging {PAWN_objective}. That tends to rub people the "
+"wrong way."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:128
+msgctxt "TooSmart.degreeDatas.0.label"
+msgid "too smart"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:129
+msgctxt "TooSmart.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} "
+"learns everything much faster than everyone, but can be quite eccentric."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:155
+msgctxt "Brawler.degreeDatas.0.label"
+msgid "brawler"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:156
+msgctxt "Brawler.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} likes to fight up close and personal. {PAWN_possessive} "
+"accuracy is greatly increased in melee combat, but {PAWN_pronoun}'ll be very"
+" unhappy if asked to carry a ranged weapon."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:189
+msgctxt "Masochist.degreeDatas.0.label"
+msgid "masochist"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:190
+msgctxt "Masochist.degreeDatas.0.description"
+msgid ""
+"For {PAWN_nameDef}, there's something exciting about getting hurt. "
+"{PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:204
+msgctxt "NightOwl.degreeDatas.0.label"
+msgid "night owl"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:205
+msgctxt "NightOwl.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} likes to be up during the night, and sleep during the "
+"day.\\n\\n{PAWN_pronoun} gets a mood bonus if awake at night (23h-6h) and "
+"mood loss if awake during the day (11h-18h).\\n\\n{PAWN_pronoun} doesn't get"
+" a mood penalty for being in the dark."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:217
+msgctxt "Greedy.degreeDatas.0.label"
+msgid "greedy"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:218
+msgctxt "Greedy.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood"
+" loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:234
+msgctxt "Jealous.degreeDatas.0.label"
+msgid "jealous"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:235
+msgctxt "Jealous.degreeDatas.0.description"
+msgid ""
+"For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than "
+"someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more "
+"impressive bedroom."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:250
+msgctxt "Ascetic.degreeDatas.0.label"
+msgid "ascetic"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:251
+msgctxt "Ascetic.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a "
+"simple, pure lifestyle. {PAWN_pronoun} will become unhappy if {PAWN_pronoun}"
+" has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy "
+"food and prefers to eat raw. {PAWN_pronoun} never judges others by their "
+"appearance."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:271
+msgctxt "Gay.degreeDatas.0.label"
+msgid "gay"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:272
+msgctxt "Gay.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own "
+"gender."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:285
+msgctxt "Bisexual.degreeDatas.0.label"
+msgid "bisexual"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:286
+msgctxt "Bisexual.degreeDatas.0.description"
+msgid "{PAWN_nameDef} is romantically attracted to both men and women."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:299
+msgctxt "Asexual.degreeDatas.0.label"
+msgid "asexual"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:300
+msgctxt "Asexual.degreeDatas.0.description"
+msgid "{PAWN_nameDef} has no sexual attraction to anyone at all."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:313
+msgctxt "AnnoyingVoice.degreeDatas.0.label"
+msgid "annoying voice"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:314
+msgctxt "AnnoyingVoice.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and "
+"{PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes "
+"others to dislike {PAWN_objective}."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:325
+msgctxt "CreepyBreathing.degreeDatas.0.label"
+msgid "creepy breathing"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:326
+msgctxt "CreepyBreathing.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} breathes heavily all the time, and sweats constantly. People "
+"find it creepy."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:338
+msgctxt "Pyromaniac.degreeDatas.0.label"
+msgid "pyromaniac"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:339
+msgctxt "Pyromaniac.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires, and "
+"will occasionally go on random fire starting sprees. {PAWN_pronoun} will be "
+"happy around flames, and happier when wielding an incendiary weapon."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:364
+msgctxt "Wimp.degreeDatas.0.label"
+msgid "wimp"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:365
+msgctxt "Wimp.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize "
+"{PAWN_objective}."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:385
+msgctxt "Nimble.degreeDatas.0.label"
+msgid "nimble"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:386
+msgctxt "Nimble.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} has remarkable kinesthetic intelligence. {PAWN_pronoun} seems"
+" to dance around danger with preternatural grace."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:404
+msgctxt "FastLearner.degreeDatas.0.label"
+msgid "fast learner"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:405
+msgctxt "FastLearner.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much"
+" faster than others."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:423
+msgctxt "SlowLearner.degreeDatas.0.label"
+msgid "slow learner"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:424
+msgctxt "SlowLearner.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} is slow on the uptake. {PAWN_pronoun} learns much slower than"
+" others."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:443
+msgctxt "Undergrounder.degreeDatas.0.label"
+msgid "undergrounder"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:444
+msgctxt "Undergrounder.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} has no need to experience the outdoors or light. "
+"{PAWN_pronoun} will never feel cooped up or get cabin fever and is not "
+"bothered by darkness. However, {PAWN_nameDef} will be unhappy while "
+"outdoors."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:460
+msgctxt "Transhumanist.degreeDatas.0.label"
+msgid "body modder"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:461
+msgctxt "Transhumanist.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. "
+"{PAWN_pronoun} often dreams of being enhanced with artificial body parts or "
+"xenogenetics."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:474
+msgctxt "BodyPurist.degreeDatas.0.label"
+msgid "body purist"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:475
+msgctxt "BodyPurist.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} believes the human body is limited for a reason. To "
+"{PAWN_objective}, artificial body parts and xenogenes are unethical and "
+"disgusting."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:489
+msgctxt "DislikesMen.degreeDatas.0.label"
+msgid "misandrist"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:490
+msgctxt "DislikesMen.degreeDatas.0.description"
+msgid "{PAWN_nameDef} really dislikes and distrusts men."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:501
+msgctxt "DislikesWomen.degreeDatas.0.label"
+msgid "misogynist"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:502
+msgctxt "DislikesWomen.degreeDatas.0.description"
+msgid "{PAWN_nameDef} really dislikes and distrusts women."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:512
+msgctxt "GreatMemory.degreeDatas.0.label"
+msgid "great memory"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:513
+msgctxt "GreatMemory.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose "
+"unused skills at half the rate of other people."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:523
+msgctxt "Tough.degreeDatas.0.label"
+msgid "tough"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:524
+msgctxt "Tough.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} has thick skin, dense flesh, and durable bones. "
+"{PAWN_pronoun} takes much less damage than other people from the same blows."
+" {PAWN_pronoun} is extremely hard to kill."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:543
+msgctxt "TorturedArtist.degreeDatas.0.label"
+msgid "tortured artist"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:544
+msgctxt "TorturedArtist.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} feels alienated and misunderstood by other human beings. "
+"{PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to "
+"get a creativity inspiration after a mental break."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:563
+msgctxt "Gourmand.degreeDatas.0.label"
+msgid "gourmand"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:564
+msgctxt "Gourmand.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry "
+"quickly, and will occasionally be overcome with the urge to eat ravenously, "
+"even when not hungry."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:592
+msgctxt "QuickSleeper.degreeDatas.0.label"
+msgid "quick sleeper"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Singular.xml:593
+msgctxt "QuickSleeper.degreeDatas.0.description"
+msgid ""
+"{PAWN_nameDef} doesn't need as much sleep as the average person. Whether "
+"{PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be "
+"fully rested in about two thirds the usual time."
+msgstr ""

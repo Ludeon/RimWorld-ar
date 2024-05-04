@@ -1,0 +1,1043 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/SkillDefs/Skills.xml:6
+#, fuzzy
+msgctxt "Shooting.description"
+msgid "Ranged combat, with both high-tech and low-tech weapons."
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:7
+#, fuzzy
+msgctxt "Shooting.skillLabel"
+msgid "shooting"
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.0"
+msgid "subject->guns"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.1"
+msgid "subject->weapons"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.2"
+msgid "subject->aiming"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.3"
+msgid "subject->shooting"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.4"
+msgid "subject->gunplay"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.5"
+msgid "subject->marksmanship"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.6"
+msgid "subject->firearms"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.7"
+msgid "subject->sniping"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.8"
+msgid "subject->ballistics"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.9"
+msgid "subject->long-range combat"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.10"
+msgid "subject->precision shooting"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.11"
+msgid "subject->rifle mastery"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.12"
+msgid "subject->target practice"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.13"
+msgid "subject->sharpshooting"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.14"
+msgid "subject->ranged tactics"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.15"
+msgid "subject->shot placement"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.16"
+msgid "subject->gun handling"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:14
+msgctxt "Shooting.generalRules.rulesStrings.17"
+msgid "subject->distance shooting"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:39
+#, fuzzy
+msgctxt "Melee.description"
+msgid "Melee combat, both armed and unarmed."
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:40
+#, fuzzy
+msgctxt "Melee.skillLabel"
+msgid "melee"
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:46
+msgctxt "Melee.generalRules.rulesStrings.0"
+msgid "subject->fighting"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:46
+msgctxt "Melee.generalRules.rulesStrings.1"
+msgid "subject->melee"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:46
+msgctxt "Melee.generalRules.rulesStrings.2"
+msgid "subject->combat"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:46
+msgctxt "Melee.generalRules.rulesStrings.3"
+msgid "subject->martial arts"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:46
+msgctxt "Melee.generalRules.rulesStrings.4"
+msgid "subject->swordplay"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:46
+msgctxt "Melee.generalRules.rulesStrings.5"
+msgid "subject->weaponry"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:46
+msgctxt "Melee.generalRules.rulesStrings.6"
+msgid "subject->brawling"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:46
+msgctxt "Melee.generalRules.rulesStrings.7"
+msgid "subject->pugilism"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:46
+msgctxt "Melee.generalRules.rulesStrings.8"
+msgid "subject->fencing"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:46
+msgctxt "Melee.generalRules.rulesStrings.9"
+msgid "subject->knighthood"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:46
+msgctxt "Melee.generalRules.rulesStrings.10"
+msgid "subject->dueling"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:64
+#, fuzzy
+msgctxt "Construction.description"
+msgid "Constructing and deconstructing structures and furniture."
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:65
+#, fuzzy
+msgctxt "Construction.skillLabel"
+msgid "construction"
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:70
+msgctxt "Construction.generalRules.rulesStrings.0"
+msgid "subject->construction"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:70
+msgctxt "Construction.generalRules.rulesStrings.1"
+msgid "subject->building"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:70
+msgctxt "Construction.generalRules.rulesStrings.2"
+msgid "subject->architecture"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:70
+msgctxt "Construction.generalRules.rulesStrings.3"
+msgid "subject->engineering"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:70
+msgctxt "Construction.generalRules.rulesStrings.4"
+msgid "subject->design"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:70
+msgctxt "Construction.generalRules.rulesStrings.5"
+msgid "subject->renovation"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:70
+msgctxt "Construction.generalRules.rulesStrings.6"
+msgid "subject->structures"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:70
+msgctxt "Construction.generalRules.rulesStrings.7"
+msgid "subject->foundation"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:70
+msgctxt "Construction.generalRules.rulesStrings.8"
+msgid "subject->carpentry"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:70
+msgctxt "Construction.generalRules.rulesStrings.9"
+msgid "subject->infrastructure"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:87
+#, fuzzy
+msgctxt "Mining.description"
+msgid "Digging tunnels and extracting buried resources."
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:88
+#, fuzzy
+msgctxt "Mining.skillLabel"
+msgid "mining"
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:93
+msgctxt "Mining.generalRules.rulesStrings.0"
+msgid "subject->mining"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:93
+msgctxt "Mining.generalRules.rulesStrings.1"
+msgid "subject->digging"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:93
+msgctxt "Mining.generalRules.rulesStrings.2"
+msgid "subject->quarrying"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:93
+msgctxt "Mining.generalRules.rulesStrings.3"
+msgid "subject->strip-mining"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:93
+msgctxt "Mining.generalRules.rulesStrings.4"
+msgid "subject->excavation"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:93
+msgctxt "Mining.generalRules.rulesStrings.5"
+msgid "subject->prospecting"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:93
+msgctxt "Mining.generalRules.rulesStrings.6"
+msgid "subject->ore"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:93
+msgctxt "Mining.generalRules.rulesStrings.7"
+msgid "subject->tunneling"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:93
+msgctxt "Mining.generalRules.rulesStrings.8"
+msgid "subject->drilling"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:93
+msgctxt "Mining.generalRules.rulesStrings.9"
+msgid "subject->minerals"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:93
+msgctxt "Mining.generalRules.rulesStrings.10"
+msgid "subject->gemology"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:93
+msgctxt "Mining.generalRules.rulesStrings.11"
+msgid "subject->geology"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:93
+msgctxt "Mining.generalRules.rulesStrings.12"
+msgid "subject->earthmoving"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:113
+#, fuzzy
+msgctxt "Cooking.description"
+msgid ""
+"Creating meals from raw ingredients quickly and without accidental food "
+"poisoning."
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:114
+#, fuzzy
+msgctxt "Cooking.skillLabel"
+msgid "cooking"
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:119
+msgctxt "Cooking.generalRules.rulesStrings.0"
+msgid "subject->cooking"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:119
+msgctxt "Cooking.generalRules.rulesStrings.1"
+msgid "subject->food"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:119
+msgctxt "Cooking.generalRules.rulesStrings.2"
+msgid "subject->baking"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:119
+msgctxt "Cooking.generalRules.rulesStrings.3"
+msgid "subject->cuisine"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:119
+msgctxt "Cooking.generalRules.rulesStrings.4"
+msgid "subject->recipes"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:119
+msgctxt "Cooking.generalRules.rulesStrings.5"
+msgid "subject->gastronomy"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:119
+msgctxt "Cooking.generalRules.rulesStrings.6"
+msgid "subject->flavors"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:119
+msgctxt "Cooking.generalRules.rulesStrings.7"
+msgid "subject->ingredients"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:119
+msgctxt "Cooking.generalRules.rulesStrings.8"
+msgid "subject->spices"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:119
+msgctxt "Cooking.generalRules.rulesStrings.9"
+msgid "subject->nutrition"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:119
+msgctxt "Cooking.generalRules.rulesStrings.10"
+msgid "subject->taste"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:119
+msgctxt "Cooking.generalRules.rulesStrings.11"
+msgid "subject->sauces"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:119
+msgctxt "Cooking.generalRules.rulesStrings.12"
+msgid "subject->meals"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:139
+#, fuzzy
+msgctxt "Plants.description"
+msgid ""
+"Sowing, caring for and harvesting crops, and foraging for food while "
+"traveling."
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:140
+#, fuzzy
+msgctxt "Plants.skillLabel"
+msgid "plants"
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.0"
+msgid "subject->plants"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.1"
+msgid "subject->herbs"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.2"
+msgid "subject->vegetables"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.3"
+msgid "subject->flora"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.4"
+msgid "subject->cultivation"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.5"
+msgid "subject->horticulture"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.6"
+msgid "subject->agriculture"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.7"
+msgid "subject->gardening"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.8"
+msgid "subject->farming"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.9"
+msgid "subject->harvesting"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.10"
+msgid "subject->permaculture"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.11"
+msgid "subject->botany"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.12"
+msgid "subject->crop management"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.13"
+msgid "subject->soil enrichment"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.14"
+msgid "subject->organic farming"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.15"
+msgid "subject->food production"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:145
+msgctxt "Plants.generalRules.rulesStrings.16"
+msgid "subject->crop science"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:169
+#, fuzzy
+msgctxt "Animals.description"
+msgid "Taming, training, and controlling animals."
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:170
+#, fuzzy
+msgctxt "Animals.skillLabel"
+msgid "animals"
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:175
+msgctxt "Animals.generalRules.rulesStrings.0"
+msgid "subject->animals"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:175
+msgctxt "Animals.generalRules.rulesStrings.1"
+msgid "subject->herding"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:175
+msgctxt "Animals.generalRules.rulesStrings.2"
+msgid "subject->taming"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:175
+msgctxt "Animals.generalRules.rulesStrings.3"
+msgid "subject->livestock"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:175
+msgctxt "Animals.generalRules.rulesStrings.4"
+msgid "subject->breeding"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:175
+msgctxt "Animals.generalRules.rulesStrings.5"
+msgid "subject->zoology"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:175
+msgctxt "Animals.generalRules.rulesStrings.6"
+msgid "subject->husbandry"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:175
+msgctxt "Animals.generalRules.rulesStrings.7"
+msgid "subject->herding"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:175
+msgctxt "Animals.generalRules.rulesStrings.8"
+msgid "subject->domestication"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:175
+msgctxt "Animals.generalRules.rulesStrings.9"
+msgid "subject->fauna"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:175
+msgctxt "Animals.generalRules.rulesStrings.10"
+msgid "subject->wildlife"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:175
+msgctxt "Animals.generalRules.rulesStrings.11"
+msgid "subject->poultry"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:194
+#, fuzzy
+msgctxt "Crafting.description"
+msgid ""
+"Crafting general items including weapons, components, and refined resources."
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:195
+#, fuzzy
+msgctxt "Crafting.skillLabel"
+msgid "crafting"
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:199
+msgctxt "Crafting.generalRules.rulesStrings.0"
+msgid "subject->crafting"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:199
+msgctxt "Crafting.generalRules.rulesStrings.1"
+msgid "subject->assembly"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:199
+msgctxt "Crafting.generalRules.rulesStrings.2"
+msgid "subject->manufacturing"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:199
+msgctxt "Crafting.generalRules.rulesStrings.3"
+msgid "subject->handcrafting"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:199
+msgctxt "Crafting.generalRules.rulesStrings.4"
+msgid "subject->fabrication"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:199
+msgctxt "Crafting.generalRules.rulesStrings.5"
+msgid "subject->production"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:199
+msgctxt "Crafting.generalRules.rulesStrings.6"
+msgid "subject->craftsmanship"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:199
+msgctxt "Crafting.generalRules.rulesStrings.7"
+msgid "subject->machining"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:199
+msgctxt "Crafting.generalRules.rulesStrings.8"
+msgid "subject->artisanry"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:215
+#, fuzzy
+msgctxt "Artistic.description"
+msgid "Crafting art."
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:216
+#, fuzzy
+msgctxt "Artistic.skillLabel"
+msgid "artistic"
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:220
+msgctxt "Artistic.generalRules.rulesStrings.0"
+msgid "subject->art"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:220
+msgctxt "Artistic.generalRules.rulesStrings.1"
+msgid "subject->pottery"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:220
+msgctxt "Artistic.generalRules.rulesStrings.2"
+msgid "subject->sculpting"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:220
+msgctxt "Artistic.generalRules.rulesStrings.3"
+msgid "subject->painting"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:220
+msgctxt "Artistic.generalRules.rulesStrings.4"
+msgid "subject->creativity"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:220
+msgctxt "Artistic.generalRules.rulesStrings.5"
+msgid "subject->expression"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:220
+msgctxt "Artistic.generalRules.rulesStrings.6"
+msgid "subject->aesthetics"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:220
+msgctxt "Artistic.generalRules.rulesStrings.7"
+msgid "subject->design"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:220
+msgctxt "Artistic.generalRules.rulesStrings.8"
+msgid "subject->sculpture"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:220
+msgctxt "Artistic.generalRules.rulesStrings.9"
+msgid "subject->impressionism"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:220
+msgctxt "Artistic.generalRules.rulesStrings.10"
+msgid "subject->artistry"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:238
+#, fuzzy
+msgctxt "Medicine.description"
+msgid "Tending wounds and diseases and performing surgery."
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:239
+#, fuzzy
+msgctxt "Medicine.skillLabel"
+msgid "medical"
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.0"
+msgid "subject->medicine"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.1"
+msgid "subject->surgery"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.2"
+msgid "subject->bacteria"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.3"
+msgid "subject->skin repair"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.4"
+msgid "subject->healthcare"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.5"
+msgid "subject->medical science"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.6"
+msgid "subject->physiology"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.7"
+msgid "subject->pharmacology"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.8"
+msgid "subject->treatment"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.9"
+msgid "subject->diagnosis"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.10"
+msgid "subject->surgery"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.11"
+msgid "subject->anatomy"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.12"
+msgid "subject->bacteria"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.13"
+msgid "subject->pathology"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.14"
+msgid "subject->disease management"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.15"
+msgid "subject->patient care"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.16"
+msgid "subject->emergency medicine"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.17"
+msgid "subject->nursing"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.18"
+msgid "subject->medical research"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.19"
+msgid "subject->public health"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.20"
+msgid "subject->virology"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:244
+msgctxt "Medicine.generalRules.rulesStrings.21"
+msgid "subject->health sciences"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:273
+#, fuzzy
+msgctxt "Social.description"
+msgid ""
+"Negotiating, convincing, manipulating, leading, and cheering up others."
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:274
+#, fuzzy
+msgctxt "Social.skillLabel"
+msgid "social"
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.0"
+msgid "subject->communication"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.1"
+msgid "subject->networking"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.2"
+msgid "subject->conflict resolution"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.3"
+msgid "subject->collaboration"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.4"
+msgid "subject->leadership"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.5"
+msgid "subject->empathy"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.6"
+msgid "subject->negotiation"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.7"
+msgid "subject->trade"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.8"
+msgid "subject->listening"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.9"
+msgid "subject->diplomacy"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.10"
+msgid "subject->teamwork"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.11"
+msgid "subject->etiquette"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.12"
+msgid "subject->charisma"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.13"
+msgid "subject->social intelligence"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.14"
+msgid "subject->assertiveness"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.15"
+msgid "subject->emotional intelligence"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:278
+msgctxt "Social.generalRules.rulesStrings.16"
+msgid "subject->communication skills"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:302
+#, fuzzy
+msgctxt "Intellectual.description"
+msgid "Researching and drug synthesis."
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:303
+#, fuzzy
+msgctxt "Intellectual.skillLabel"
+msgid "intellectual"
+msgstr "TODO"
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.0"
+msgid "subject->physics"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.1"
+msgid "subject->chemistry"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.2"
+msgid "subject->orbital dynamics"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.3"
+msgid "subject->mathematics"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.4"
+msgid "subject->biology"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.5"
+msgid "subject->science"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.6"
+msgid "subject->research"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.7"
+msgid "subject->innovation"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.8"
+msgid "subject->discovery"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.9"
+msgid "subject->analysis"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.10"
+msgid "subject->experimentation"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.11"
+msgid "subject->knowledge"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.12"
+msgid "subject->exploration"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.13"
+msgid "subject->physics"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.14"
+msgid "subject->chemistry"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.15"
+msgid "subject->data analysis"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.16"
+msgid "subject->scientific inquiry"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.17"
+msgid "subject->intellectual growth"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.18"
+msgid "subject->academic pursuits"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.19"
+msgid "subject->quantitative analysis"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.20"
+msgid "subject->experiment design"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.21"
+msgid "subject->research methods"
+msgstr ""
+
+#: Defs/SkillDefs/Skills.xml:308
+msgctxt "Intellectual.generalRules.rulesStrings.22"
+msgid "subject->intellectual inquiry"
+msgstr ""

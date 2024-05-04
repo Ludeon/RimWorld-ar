@@ -1,0 +1,164 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:6
+#, fuzzy
+msgctxt "Inspect.label"
+msgid "inspect"
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:13
+#, fuzzy
+msgctxt "Architect.label"
+msgid "architect"
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:14
+#, fuzzy
+msgctxt "Architect.description"
+msgid "Designate where to build, farm, store items, and so on."
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:23
+#, fuzzy
+msgctxt "Work.label"
+msgid "work"
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:24
+#, fuzzy
+msgctxt "Work.description"
+msgid "Choose which colonist does what kinds of work, and in what order."
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:33
+msgctxt "Schedule.label"
+msgid "schedule"
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:34
+msgctxt "Schedule.description"
+msgid ""
+"Schedule colonists' activities to certain times of day, and set their "
+"allowed areas."
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:43
+#, fuzzy
+msgctxt "Assign.label"
+msgid "assign"
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:44
+#, fuzzy
+msgctxt "Assign.description"
+msgid ""
+"Assign behaviors to colonists like what they should wear, what drugs to "
+"take, or how to respond to enemies."
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:53
+#, fuzzy
+msgctxt "Animals.label"
+msgid "animals"
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:54
+#, fuzzy
+msgctxt "Animals.description"
+msgid "Configure how the colony's tame animals should be treated."
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:63
+#, fuzzy
+msgctxt "Wildlife.label"
+msgid "wildlife"
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:64
+#, fuzzy
+msgctxt "Wildlife.description"
+msgid ""
+"List wild animals in the area and designate them for hunting or taming."
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:73
+#, fuzzy
+msgctxt "Research.label"
+msgid "research"
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:74
+#, fuzzy
+msgctxt "Research.description"
+msgid "Examine and decide on research projects."
+msgstr ".ﻲﺜﺤﺒﻟﺍ ﻞﻤﻌﻟﺍ ءﺍﺩﺃ"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:83
+msgctxt "Quests.label"
+msgid "quests"
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:84
+msgctxt "Quests.description"
+msgid "View available, active, and historical quests."
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:93
+#, fuzzy
+msgctxt "World.label"
+msgid "world"
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:94
+#, fuzzy
+msgctxt "World.description"
+msgid "Examine the world map, form, and manage caravans."
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:104
+#, fuzzy
+msgctxt "History.label"
+msgid "history"
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:105
+#, fuzzy
+msgctxt "History.description"
+msgid "Review historical records."
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:116
+#, fuzzy
+msgctxt "Factions.label"
+msgid "factions"
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:117
+#, fuzzy
+msgctxt "Factions.description"
+msgid "Review the other factions on this world and their relationships."
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:127
+#, fuzzy
+msgctxt "Menu.label"
+msgid "menu"
+msgstr "TODO"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:128
+#, fuzzy
+msgctxt "Menu.description"
+msgid "Change options, save, load, or quit the game."
+msgstr "TODO"

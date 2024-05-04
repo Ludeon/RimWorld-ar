@@ -1,0 +1,182 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Stats/Stats_Apparel.xml:6
+#, fuzzy
+msgctxt "StuffEffectMultiplierArmor.label"
+msgid "Armor - Material effect multiplier"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:16
+#, fuzzy
+msgctxt "StuffEffectMultiplierInsulation_Cold.label"
+msgid "Insulation - Cold - Material effect multiplier"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:26
+#, fuzzy
+msgctxt "StuffEffectMultiplierInsulation_Heat.label"
+msgid "Insulation - Heat - Material effect multiplier"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:58
+#, fuzzy
+msgctxt "ArmorRating_Sharp.label"
+msgid "Armor - Sharp"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:60
+#, fuzzy
+msgctxt "ArmorRating_Sharp.description"
+msgid ""
+"The protection given against sharp damage like bullets, knife stabs, explosions, and animal bites.\n"
+"\n"
+"Upon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n"
+"\n"
+"The remaining armor rating is then compared against a random number from 0 to 100.\n"
+"\n"
+"    - If the random number is under half the armor rating, the damage deflects harmlessly.\n"
+"    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n"
+"    - If the random number is greater than the armor rating, the armor has no effect.\n"
+"\n"
+"For example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n"
+"\n"
+"Each layer of armor is applied separately, from the outside in."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:85
+#, fuzzy
+msgctxt "ArmorRating_Blunt.label"
+msgid "Armor - Blunt"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:87
+#, fuzzy
+msgctxt "ArmorRating_Blunt.description"
+msgid ""
+"The protection given against blunt damage like fists, club impacts and rock falls.\n"
+"\n"
+"Upon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n"
+"\n"
+"The remaining armor rating is then compared against a random number from 0 to 100.\n"
+"\n"
+"    - If the random number is under half the armor rating, the damage deflects harmlessly.\n"
+"    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n"
+"    - If the random number is greater than the armor rating, the armor has no effect.\n"
+"\n"
+"For example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n"
+"\n"
+"Each layer of armor is applied separately, from the outside in."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:112
+#, fuzzy
+msgctxt "ArmorRating_Heat.label"
+msgid "Armor - Heat"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:114
+#, fuzzy
+msgctxt "ArmorRating_Heat.description"
+msgid ""
+"The protection given against temperature-related damage like burns.\n"
+"\n"
+"Upon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n"
+"\n"
+"The remaining armor rating is then compared against a random number from 0 to 100.\n"
+"\n"
+"    - If the random number is under half the armor rating, the damage deflects harmlessly.\n"
+"    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n"
+"    - If the random number is greater than the armor rating, the armor has no effect.\n"
+"\n"
+"For example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n"
+"\n"
+"Each layer of armor is applied separately, from the outside in."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:161
+#, fuzzy
+msgctxt "Insulation_Cold.label"
+msgid "Insulation - Cold"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:163
+#, fuzzy
+msgctxt "Insulation_Cold.description"
+msgid ""
+"How much this apparel improves a wearer's minimum comfortable "
+"temperature.\\n\\nGreater values allow surviving in colder temperatures."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:177
+#, fuzzy
+msgctxt "Insulation_Heat.label"
+msgid "Insulation - Heat"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:179
+#, fuzzy
+msgctxt "Insulation_Heat.description"
+msgid ""
+"How much this apparel improves a wearer's maximum comfortable "
+"temperature.\\n\\nGreater values allow surviving in warmer temperatures."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:192
+#, fuzzy
+msgctxt "EnergyShieldEnergyMax.label"
+msgid "Shield max energy"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:193
+#, fuzzy
+msgctxt "EnergyShieldEnergyMax.description"
+msgid ""
+"The maximum energy a shield can have at one time.\\n\\nMore energy absorbs "
+"more damage."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:214
+#, fuzzy
+msgctxt "EnergyShieldRechargeRate.label"
+msgid "Shield recharge rate"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:215
+#, fuzzy
+msgctxt "EnergyShieldRechargeRate.description"
+msgid "The rate at which a shield gains energy as long as it is not broken."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:238
+msgctxt "PackRadius.label"
+msgid "Effect radius"
+msgstr ""
+
+#: Defs/Stats/Stats_Apparel.xml:239
+msgctxt "PackRadius.description"
+msgid "The area affected when this pack detonates."
+msgstr ""
+
+#: Defs/Stats/Stats_Apparel.xml:261
+#, fuzzy
+msgctxt "EquipDelay.label"
+msgid "equip delay"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Apparel.xml:262
+#, fuzzy
+msgctxt "EquipDelay.description"
+msgid "The time it takes to equip and unequip this item."
+msgstr "TODO"

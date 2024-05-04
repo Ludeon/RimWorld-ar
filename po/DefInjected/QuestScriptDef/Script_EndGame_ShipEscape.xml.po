@@ -1,0 +1,27 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/QuestScriptDefs/Script_EndGame_ShipEscape.xml:9
+msgctxt "EndGame_ShipEscape.questNameRules.rulesStrings.0"
+msgid "questName->Ship to the Stars"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_EndGame_ShipEscape.xml:14
+msgctxt "EndGame_ShipEscape.questDescriptionRules.rulesStrings.0"
+msgid ""
+"questDescription->A friendly AI from your past named (*Name)Charlon Whitestone(/Name) has sent you a message!\n"
+"\\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n"
+"\\nThe starship is in deep hibernation mode. You'll have to start it up when you arrive, then defend it from raiders trying to steal it until the startup sequence completes. It will be a long, difficult series of battles.\n"
+"\\nIf you can get the ship off the ground, (*Name)Charlon Whitestone(/Name) will take you off this rimworld, to the stars."
+msgstr ""

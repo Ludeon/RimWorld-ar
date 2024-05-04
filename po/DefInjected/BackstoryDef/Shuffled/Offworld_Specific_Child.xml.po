@@ -1,0 +1,91 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Specific_Child.xml:10
+msgctxt "IndustrialOrphan13.description"
+msgid ""
+"[PAWN_nameDef] never knew [PAWN_possessive] parents. [PAWN_possessive] "
+"earliest memories were of drudgery in the mines and workhouses of "
+"[PAWN_possessive] industrial world.\\n\\nBecause of this, [PAWN_pronoun] "
+"never received a proper education."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Specific_Child.xml:29
+msgctxt "UrbworldUrchin61.description"
+msgid ""
+"The urbworlds - ancient and deep industrial cityscapes bursting with "
+"humanity and poison. [PAWN_nameDef] grew up in the dark, unwanted reaches of"
+" such a place. [PAWN_pronoun] had to fight for every scrap of food."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Specific_Child.xml:46
+msgctxt "TestSubject15.description"
+msgid ""
+"On the most corrupt urbworlds, scientists without a moral compass commit "
+"unspeakable atrocities in the name of research. [PAWN_nameDef] was kept "
+"alone in a sealed facility from birth and subjected to a variety of "
+"behavioural experiments in an attempt to turn [PAWN_objective] into a "
+"perfect super-soldier."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Specific_Child.xml:70
+msgctxt "WreckageExplorer93.description"
+msgid ""
+"[PAWN_nameDef] was tasked with watching [PAWN_possessive] family's herds, "
+"but often shirked [PAWN_possessive] duties to go exploring the crashed "
+"warships scattered around the planet."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Specific_Child.xml:88
+msgctxt "ApocalypseSurvivor23.description"
+msgid ""
+"[PAWN_nameDef] was born during a time of unrest on [PAWN_possessive] "
+"homeworld, as climate change threatened mass starvation and flooding. As "
+"[PAWN_pronoun] grew up the situation worsened - billions died and peaceful "
+"states descended into anarchy. [PAWN_nameDef] and [PAWN_possessive] parents "
+"did whatever they had to to survive."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Specific_Child.xml:108
+msgctxt "CaveworldTender26.description"
+msgid ""
+"[PAWN_nameDef] grew up in cave complex deep beneath the surface of an "
+"inhospitable world. [PAWN_pronoun] worked with the other children tending "
+"the tribe's fungus crops."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Specific_Child.xml:129
+msgctxt "CaveworldTunneler48.description"
+msgid ""
+"[PAWN_nameDef] worked as a digger in the massive underground cave "
+"complex.\\n\\n[PAWN_pronoun] knows rock so well that [PAWN_pronoun] can "
+"almost navigate caves by smell."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Specific_Child.xml:158
+msgctxt "Scout44.description"
+msgid ""
+"Born to the administrators of a rimworld colony, [PAWN_nameDef] was enrolled"
+" in a youth program that taught military scouting "
+"skills.\\n\\n[PAWN_pronoun] learned to survive in the wilderness, to obey, "
+"and not to ask questions."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Specific_Child.xml:183
+msgctxt "ShelterChild50.description"
+msgid ""
+"[PAWN_nameDef] grew up in a shelter deep beneath a toxic world. "
+"[PAWN_pronoun] received a comprehensive education, but had no opportunity to"
+" do physical labour."
+msgstr ""

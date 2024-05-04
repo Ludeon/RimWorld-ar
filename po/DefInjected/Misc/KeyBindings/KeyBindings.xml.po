@@ -1,0 +1,342 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:13
+#, fuzzy
+msgctxt "MapDolly_Up.label"
+msgid "dolly up"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:20
+#, fuzzy
+msgctxt "MapDolly_Down.label"
+msgid "dolly down"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:27
+#, fuzzy
+msgctxt "MapDolly_Left.label"
+msgid "dolly left"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:34
+#, fuzzy
+msgctxt "MapDolly_Right.label"
+msgid "dolly right"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:41
+#, fuzzy
+msgctxt "MapZoom_In.label"
+msgid "zoom in"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:47
+#, fuzzy
+msgctxt "MapZoom_Out.label"
+msgid "zoom out"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:59
+#, fuzzy
+msgctxt "Accept.label"
+msgid "accept"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:65
+#, fuzzy
+msgctxt "Cancel.label"
+msgid "cancel"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:71
+#, fuzzy
+msgctxt "TakeScreenshot.label"
+msgid "take screenshot"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:77
+#, fuzzy
+msgctxt "ToggleScreenshotMode.label"
+msgid "toggle screenshot mode"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:83
+#, fuzzy
+msgctxt "SelectNextInCell.label"
+msgid "select next in cell"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:89
+#, fuzzy
+msgctxt "TogglePause.label"
+msgid "pause/resume game"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:95
+#, fuzzy
+msgctxt "TimeSpeed_Normal.label"
+msgid "game speed: Normal"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:101
+#, fuzzy
+msgctxt "TimeSpeed_Fast.label"
+msgid "game speed: Fast"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:107
+#, fuzzy
+msgctxt "TimeSpeed_Superfast.label"
+msgid "game speed: Super fast"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:113
+#, fuzzy
+msgctxt "TimeSpeed_Ultrafast.label"
+msgid "game speed: Ultra fast (debug)"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:120
+msgctxt "TimeSpeed_Slower.label"
+msgid "game speed: Slower"
+msgstr ""
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:126
+msgctxt "TimeSpeed_Faster.label"
+msgid "game speed: Faster"
+msgstr ""
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:132
+#, fuzzy
+msgctxt "PreviousColonist.label"
+msgid "previous colonist"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:138
+#, fuzzy
+msgctxt "NextColonist.label"
+msgid "next colonist"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:144
+#, fuzzy
+msgctxt "ToggleRoomStatsDisplay.label"
+msgid "toggle room stats display"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:150
+#, fuzzy
+msgctxt "ToggleBeautyDisplay.label"
+msgid "toggle beauty display"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:156
+msgctxt "OpenMapSearch.label"
+msgid "open search window"
+msgstr ""
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:162
+msgctxt "ShowCellInspector.label"
+msgid "show cell inspector"
+msgstr ""
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:170
+msgctxt "ShowEyedropper.label"
+msgid "show eyedropper"
+msgstr ""
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:183
+#, fuzzy
+msgctxt "Misc1.label"
+msgid "Misc 1"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:189
+#, fuzzy
+msgctxt "Misc2.label"
+msgid "Misc 2"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:195
+#, fuzzy
+msgctxt "Misc3.label"
+msgid "Misc 3"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:201
+#, fuzzy
+msgctxt "Misc4.label"
+msgid "Misc 4"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:207
+#, fuzzy
+msgctxt "Misc5.label"
+msgid "Misc 5"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:213
+#, fuzzy
+msgctxt "Misc6.label"
+msgid "Misc 6"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:219
+#, fuzzy
+msgctxt "Misc7.label"
+msgid "Misc 7"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:225
+#, fuzzy
+msgctxt "Misc8.label"
+msgid "Misc 8"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:231
+#, fuzzy
+msgctxt "Misc9.label"
+msgid "Misc 9"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:237
+#, fuzzy
+msgctxt "Misc10.label"
+msgid "Misc 10"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:243
+#, fuzzy
+msgctxt "Misc11.label"
+msgid "Misc 11"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:249
+#, fuzzy
+msgctxt "Misc12.label"
+msgid "Misc 12"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:261
+#, fuzzy
+msgctxt "Command_TogglePower.label"
+msgid "toggle power"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:267
+#, fuzzy
+msgctxt "Command_ItemForbid.label"
+msgid "toggle forbidden"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:273
+#, fuzzy
+msgctxt "Command_ColonistDraft.label"
+msgid "draft"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:285
+#, fuzzy
+msgctxt "Designator_Cancel.label"
+msgid "cancel"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:291
+#, fuzzy
+msgctxt "Designator_Deconstruct.label"
+msgid "deconstruct"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:297
+#, fuzzy
+msgctxt "Designator_RotateLeft.label"
+msgid "rotate left"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:303
+#, fuzzy
+msgctxt "Designator_RotateRight.label"
+msgid "rotate right"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:315
+#, fuzzy
+msgctxt "ModifierIncrement_10x.label"
+msgid "increment 10x"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:325
+#, fuzzy
+msgctxt "ModifierIncrement_100x.label"
+msgid "increment 100x"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:335
+#, fuzzy
+msgctxt "QueueOrder.label"
+msgid "queue order"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:348
+#, fuzzy
+msgctxt "Dev_TickOnce.label"
+msgid "tick once"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:355
+#, fuzzy
+msgctxt "Dev_ToggleGodMode.label"
+msgid "toggle god mode"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:362
+#, fuzzy
+msgctxt "Dev_ToggleDebugLog.label"
+msgid "toggle debug log"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:368
+#, fuzzy
+msgctxt "Dev_ToggleDebugActionsMenu.label"
+msgid "toggle debug actions menu"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:375
+#, fuzzy
+msgctxt "Dev_ToggleDebugLogMenu.label"
+msgid "toggle debug log menu"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:382
+#, fuzzy
+msgctxt "Dev_ToggleDebugInspector.label"
+msgid "toggle debug inspector"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:389
+#, fuzzy
+msgctxt "Dev_ToggleDebugSettingsMenu.label"
+msgid "toggle debug settings menu"
+msgstr "TODO"
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:396
+msgctxt "Dev_ToggleDevPalette.label"
+msgid "toggle dev palette"
+msgstr ""
+
+#: Defs/Misc/KeyBindings/KeyBindings.xml:403
+msgctxt "Dev_ChangeSelectedDebugAction.label"
+msgid "change selected debug action"
+msgstr ""

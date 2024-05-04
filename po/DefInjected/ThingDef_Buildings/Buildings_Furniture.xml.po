@@ -1,0 +1,416 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:85
+#, fuzzy
+msgctxt "SleepingSpot.label"
+msgid "sleeping spot"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:86
+#, fuzzy
+msgctxt "SleepingSpot.description"
+msgid ""
+"Designates a spot on the ground where people should sleep. Not comfortable."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:98
+#, fuzzy
+msgctxt "DoubleSleepingSpot.label"
+msgid "double sleeping spot"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:99
+#, fuzzy
+msgctxt "DoubleSleepingSpot.description"
+msgid ""
+"Designates a spot on the ground where two people should sleep together. Not "
+"comfortable."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:198
+#, fuzzy
+msgctxt "Bed.label"
+msgid "bed"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:199
+#, fuzzy
+msgctxt "Bed.description"
+msgid "A cozy mattress and sheets on a frame for resting."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:227
+#, fuzzy
+msgctxt "DoubleBed.label"
+msgid "double bed"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:228
+#, fuzzy
+msgctxt "DoubleBed.description"
+msgid "A simple double-wide bed that fits two people."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:257
+#, fuzzy
+msgctxt "RoyalBed.label"
+msgid "royal bed"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:258
+#, fuzzy
+msgctxt "RoyalBed.description"
+msgid ""
+"A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, "
+"it is a work of art in itself. Fits two."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:295
+#, fuzzy
+msgctxt "HospitalBed.label"
+msgid "hospital bed"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:296
+#, fuzzy
+msgctxt "HospitalBed.description"
+msgid ""
+"A bed specially designed for use in hospitals. Adjustable for a patient and "
+"festooned with built-in equipment, it improves medical outcomes over normal "
+"beds."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:357
+#, fuzzy
+msgctxt "Bedroll.label"
+msgid "bedroll"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:358
+#, fuzzy
+msgctxt "Bedroll.description"
+msgid ""
+"A simple bed that lays on the floor, usually made of cloth or leather, often"
+" lined with fur. It is lightweight and can be rolled up for easy transport, "
+"but it is not quite as comfortable as a typical bed. Caravans can use "
+"bedrolls while traveling for better sleep."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:405
+#, fuzzy
+msgctxt "BedrollDouble.label"
+msgid "double bedroll"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:406
+#, fuzzy
+msgctxt "BedrollDouble.description"
+msgid ""
+"A simple double-wide bed that lays on the floor, usually made of cloth or "
+"leather, often lined with fur. It is lightweight and can be rolled up for "
+"easy transport, but it is not quite as comfortable as a typical bed. "
+"Caravans can use bedrolls while traveling for better sleep."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:458
+#, fuzzy
+msgctxt "AnimalSleepingSpot.label"
+msgid "animal sleeping spot"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:459
+#, fuzzy
+msgctxt "AnimalSleepingSpot.description"
+msgid "Designates a spot on the ground where animals should sleep."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:521
+#, fuzzy
+msgctxt "AnimalSleepingBox.label"
+msgid "animal sleeping box"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:522
+#, fuzzy
+msgctxt "AnimalSleepingBox.description"
+msgid ""
+"A small box for animals to sleep in. Fits smaller animals like chickens, "
+"cats, or small dogs."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:560
+#, fuzzy
+msgctxt "AnimalBed.label"
+msgid "animal bed"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:561
+#, fuzzy
+msgctxt "AnimalBed.description"
+msgid "A soft bed for animals to sleep on. Fits any animal."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:593
+#, fuzzy
+msgctxt "Stool.label"
+msgid "stool"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:594
+#, fuzzy
+msgctxt "Stool.description"
+msgid ""
+"A simple platform on which to sit. Not very comfortable, but much better "
+"than nothing. Can be used at tables, work stations, and elsewhere."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:646
+#, fuzzy
+msgctxt "DiningChair.label"
+msgid "dining chair"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:647
+#, fuzzy
+msgctxt "DiningChair.description"
+msgid ""
+"A comfortable and attractive chair. Can be used at tables, work stations, "
+"and elsewhere."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:699
+#, fuzzy
+msgctxt "Armchair.label"
+msgid "armchair"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:700
+#, fuzzy
+msgctxt "Armchair.description"
+msgid ""
+"A large, soft, comfy seat. Great for relaxation. Can be used at tables, work"
+" stations, and elsewhere."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:748
+msgctxt "Couch.label"
+msgid "couch"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:749
+msgctxt "Couch.description"
+msgid ""
+"A large double-wide seat which is cushioned for maximum comfort. Perfect for"
+" a luxurious rec room or a homey reading nook."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:843
+#, fuzzy
+msgctxt "EndTable.label"
+msgid "end table"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:844
+#, fuzzy
+msgctxt "EndTable.description"
+msgid ""
+"A small bedside table which makes nearby beds a little bit more comfortable."
+" Must be placed directly adjacent to the head of the bed. Placing more than "
+"one end table near the same bed has no effect."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:885
+#, fuzzy
+msgctxt "Table1x2c.label"
+msgid "table (1x2)"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:912
+#, fuzzy
+msgctxt "Table2x2c.label"
+msgid "table (2x2)"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:940
+#, fuzzy
+msgctxt "Table2x4c.label"
+msgid "table (2x4)"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:969
+#, fuzzy
+msgctxt "Table3x3c.label"
+msgid "table (3x3)"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1000
+#, fuzzy
+msgctxt "PlantPot.label"
+msgid "plant pot"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1001
+#, fuzzy
+msgctxt "PlantPot.description"
+msgid "Plant decorative flowers here to improve the mood of people nearby."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1132
+#, fuzzy
+msgctxt "TorchLamp.label"
+msgid "torch lamp"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1133
+#, fuzzy
+msgctxt "TorchLamp.description"
+msgid ""
+"A wooden torch for lighting an area. People need light to move and work at "
+"full speed. Can be automatically refueled with wood. Produces a small amount"
+" of heat."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1166
+msgctxt "TorchWallLamp.label"
+msgid "wall torch lamp"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1167
+msgctxt "TorchWallLamp.description"
+msgid ""
+"A wall-mounted wooden torch for lighting an area. It is not as bright as a "
+"regular torch lamp, but it can be mounted on walls. Produces a small amount "
+"of heat."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1300
+#, fuzzy
+msgctxt "StandingLamp.label"
+msgid "standing lamp"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1301
+#, fuzzy
+msgctxt "StandingLamp.description"
+msgid ""
+"An electrical standing lamp that lights an area. People need light to move "
+"and work at full speed."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1341
+#, fuzzy
+msgctxt "SunLamp.label"
+msgid "sun lamp"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1342
+#, fuzzy
+msgctxt "SunLamp.description"
+msgid ""
+"An industrial lamp which lights an area brightly enough to grow crops, but "
+"consumes a huge amount of power. Automatically turns itself off at night."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1391
+msgctxt "WallLamp.label"
+msgid "wall lamp"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1392
+msgctxt "WallLamp.description"
+msgid ""
+"A wall-mounted lamp that lights an area using electricity. It is less "
+"powerful than a standing lamp, but can be mounted on walls."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1451
+msgctxt "FloodLight.label"
+msgid "flood light"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1452
+msgctxt "FloodLight.description"
+msgid "A high-intensity light that's good for large outdoor spaces."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1581
+#, fuzzy
+msgctxt "Shelf.label"
+msgid "shelf"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1582
+#, fuzzy
+msgctxt "Shelf.description"
+msgid ""
+"A triple-stack shelf that holds three times as much as empty ground. Items "
+"stored inside will never deteriorate and don't affect the beauty of their "
+"surroundings.\\n\\nSince shelf space is limited, shelves cannot hold chunks,"
+" buildings, plants and large corpses."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1606
+msgctxt "ShelfSmall.label"
+msgid "small shelf"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1607
+msgctxt "ShelfSmall.description"
+msgid ""
+"A small triple-stack shelf that holds three times as much as empty ground. "
+"Items stored inside will never deteriorate and don't affect the beauty of "
+"their surroundings.\\n\\nSince shelf space is limited, shelves cannot hold "
+"chunks, buildings, plants and large corpses."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1668
+msgctxt "Bookcase.label"
+msgid "bookcase"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1669
+msgctxt "Bookcase.description"
+msgid ""
+"A wide bookcase for storing and displaying up to ten books. Books stored "
+"here will passively enhance academic work done nearby, and increase the "
+"beauty of the bookcase. The stored books will never deteriorate."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1704
+msgctxt "BookcaseSmall.label"
+msgid "small bookcase"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1705
+msgctxt "BookcaseSmall.description"
+msgid ""
+"A narrow bookcase for storing and displaying up to five books. Books stored "
+"here will passively enhance academic work done nearby, and increase the "
+"beauty of the bookcase. The stored books will never deteriorate."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1743
+#, fuzzy
+msgctxt "Dresser.label"
+msgid "dresser"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Furniture.xml:1744
+#, fuzzy
+msgctxt "Dresser.description"
+msgid ""
+"A dresser. Gives a small comfort bonus to all nearby beds. Placing more than"
+" one dresser near the same bed has no effect."
+msgstr "TODO"

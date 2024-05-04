@@ -1,0 +1,156 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:24
+#, fuzzy
+msgctxt "ArchotechEye.label"
+msgid "archotech eye"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:26
+#, fuzzy
+msgctxt "ArchotechEye.description"
+msgid ""
+"An installed archotech eye. It perceives every type of electromagnetic "
+"radiation, including radio waves, infrared, light, x-rays, and gamma rays. "
+"Its visual acuity is precise enough to read handwriting from twenty meters "
+"away. It can emit various wavelengths of radiation like a flashlight, and "
+"has an internal subpersona AI which helps highlight useful visual "
+"information. Its internal workings are a mystery to human minds."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:55
+#, fuzzy
+msgctxt "ArchotechEye.label"
+msgid "archotech eye"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:56
+#, fuzzy
+msgctxt "ArchotechEye.description"
+msgid ""
+"An artificial eye built by an archotech. It perceives every type of "
+"electromagnetic radiation, including radio waves, infrared, light, x-rays, "
+"and gamma rays. Its visual acuity is precise enough to read handwriting from"
+" twenty meters away. It can emit various wavelengths of radiation like a "
+"flashlight, and has an internal subpersona AI which helps highlight useful "
+"visual information. Its internal workings are a mystery to human minds."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:69
+#, fuzzy
+msgctxt "InstallArchotechEye.label"
+msgid "install archotech eye"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:70
+#, fuzzy
+msgctxt "InstallArchotechEye.description"
+msgid "Install an archotech eye."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:100
+#, fuzzy
+msgctxt "ArchotechArm.label"
+msgid "archotech arm"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:102
+#, fuzzy
+msgctxt "ArchotechArm.description"
+msgid ""
+"An installed archotech arm. It's strong enough to crush a thick hardwood "
+"branch in its hand, and precise enough to write a sonnet on a grain of rice."
+" It looks and feels like natural flesh, but it's harder to damage than "
+"plasteel. Even if it is harmed, it repairs itself over time. Its internal "
+"workings are a mystery to all human minds."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:108
+msgctxt "ArchotechArm.comps.0.tools.0.label"
+msgid "fist"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:130
+#, fuzzy
+msgctxt "ArchotechArm.label"
+msgid "archotech arm"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:131
+#, fuzzy
+msgctxt "ArchotechArm.description"
+msgid ""
+"An artificial arm built by an archotech. It's strong enough to crush a thick"
+" hardwood branch in its hand, and precise enough to write a sonnet on a "
+"grain of rice. It looks and feels like natural flesh, but it's harder to "
+"damage than plasteel. Even if it is harmed, it repairs itself over time. Its"
+" internal workings are a mystery to all human minds."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:144
+#, fuzzy
+msgctxt "InstallArchotechArm.label"
+msgid "install archotech arm"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:145
+#, fuzzy
+msgctxt "InstallArchotechArm.description"
+msgid "Install an archotech arm."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:175
+#, fuzzy
+msgctxt "ArchotechLeg.label"
+msgid "archotech leg"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:177
+#, fuzzy
+msgctxt "ArchotechLeg.description"
+msgid ""
+"An installed archotech leg. It looks and feels like natural flesh, but a "
+"pair of these can move the user as fast as a decent car, and it's harder to "
+"damage than plasteel. Even if it is harmed, it repairs itself over time. Its"
+" internal workings are a mystery to all human minds."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:189
+#, fuzzy
+msgctxt "ArchotechLeg.label"
+msgid "archotech leg"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:190
+#, fuzzy
+msgctxt "ArchotechLeg.description"
+msgid ""
+"An artificial leg built by an archotech. It looks and feels like natural "
+"flesh, but a pair of these can move the user as fast as a decent car, and "
+"it's harder to damage than plasteel. Even if it is harmed, it repairs itself"
+" over time. Its internal workings are a mystery to all human minds."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:203
+#, fuzzy
+msgctxt "InstallArchotechLeg.label"
+msgid "install archotech leg"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Archotech.xml:204
+#, fuzzy
+msgctxt "InstallArchotechLeg.description"
+msgid "Install an archotech leg."
+msgstr "TODO"

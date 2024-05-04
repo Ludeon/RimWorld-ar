@@ -1,0 +1,128 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Items/Items_Resource_Manufactured.xml:24
+#, fuzzy
+msgctxt "MedicineHerbal.label"
+msgid "herbal medicine"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Manufactured.xml:25
+#, fuzzy
+msgctxt "MedicineHerbal.description"
+msgid ""
+"A pack of herbal concoctions extracted from the healroot plant. It is less "
+"potent than industrial pharmaceuticals, but much better than nothing."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Manufactured.xml:53
+#, fuzzy
+msgctxt "MedicineIndustrial.label"
+msgid "medicine"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Manufactured.xml:54
+#, fuzzy
+msgctxt "MedicineIndustrial.description"
+msgid ""
+"A kit of industrial-era medical equipment. It contains basic drugs, tools "
+"for suturing and bone setting, diagnostic devices, and various pads and "
+"fluids."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Manufactured.xml:95
+#, fuzzy
+msgctxt "MedicineUltratech.label"
+msgid "glitterworld medicine"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Manufactured.xml:96
+#, fuzzy
+msgctxt "MedicineUltratech.description"
+msgid ""
+"A kit of advanced ultra-tech medical supplies, probably manufactured on a "
+"distant glitterworld. It contains advanced polymorphic drugs, nanite "
+"diagnostic and healing assisters, a mini-imager, and various multi-use "
+"tools."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Manufactured.xml:124
+#, fuzzy
+msgctxt "ComponentIndustrial.label"
+msgid "component"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Manufactured.xml:125
+#, fuzzy
+msgctxt "ComponentIndustrial.description"
+msgid ""
+"Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, "
+"wires, chips, processors, and other electronic and industrial parts. "
+"Necessary for assembling complex machines or electronics."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Manufactured.xml:151
+#, fuzzy
+msgctxt "ComponentSpacer.label"
+msgid "advanced component"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Manufactured.xml:152
+#, fuzzy
+msgctxt "ComponentSpacer.description"
+msgid ""
+"Advanced computing and energy-directing machinery, miniaturized and hardened"
+" for the most demanding applications."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Manufactured.xml:183
+#, fuzzy
+msgctxt "Neutroamine.label"
+msgid "neutroamine"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Manufactured.xml:184
+#, fuzzy
+msgctxt "Neutroamine.description"
+msgid ""
+"A synthetic precursor chemical. While it is useless on its own, many drugs "
+"require neutroamine as an ingredient."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Manufactured.xml:209
+#, fuzzy
+msgctxt "Chemfuel.label"
+msgid "chemfuel"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Manufactured.xml:210
+#, fuzzy
+msgctxt "Chemfuel.description"
+msgid ""
+"A volatile liquid chemical. Used to fuel engines and rockets, or to "
+"transmute into propellant for projectiles, or as an incendiary weapon."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Manufactured.xml:250
+msgctxt "ReinforcedBarrel.label"
+msgid "reinforced barrel"
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Resource_Manufactured.xml:251
+msgctxt "ReinforcedBarrel.description"
+msgid ""
+"A large barrel for projectile-based weapons like mortars. In order to hold "
+"the high launch pressures, it is specially reinforced and cannot be "
+"manufactured at a small scale."
+msgstr ""

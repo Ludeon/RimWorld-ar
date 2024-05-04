@@ -1,0 +1,56 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Plants/Plants_Cave.xml:17
+#, fuzzy
+msgctxt "Glowstool.label"
+msgid "glowstool"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cave.xml:18
+#, fuzzy
+msgctxt "Glowstool.description"
+msgid ""
+"A small brown mushroom typically found in caves. It smells like an old, "
+"dirty rag pulled from the stomach of a rotting muffalo - but it tastes "
+"surprisingly good when cooked. Dies when exposed to light."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cave.xml:60
+#, fuzzy
+msgctxt "Agarilux.label"
+msgid "agarilux"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cave.xml:61
+#, fuzzy
+msgctxt "Agarilux.description"
+msgid ""
+"An enormous purple mushroom. Its size and glowing protrusions make this "
+"fungus beautiful to look at. It dies when exposed to light."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cave.xml:105
+#, fuzzy
+msgctxt "Bryolux.label"
+msgid "bryolux"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cave.xml:106
+#, fuzzy
+msgctxt "Bryolux.description"
+msgid ""
+"A blue moss typically found in deep, dark caves. It is sticky, with tangled "
+"fibers, which slows anyone walking over it. Dies when exposed to light."
+msgstr "TODO"

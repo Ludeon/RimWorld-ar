@@ -1,0 +1,403 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:9
+msgctxt "SpeedOffset.degreeDatas.0.label"
+msgid "slowpoke"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:10
+msgctxt "SpeedOffset.degreeDatas.0.description"
+msgid ""
+"[PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] "
+"goes anywhere."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:20
+msgctxt "SpeedOffset.degreeDatas.1.label"
+msgid "fast walker"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:21
+msgctxt "SpeedOffset.degreeDatas.1.description"
+msgid ""
+"[PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] "
+"walks quicker than most people."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:28
+msgctxt "SpeedOffset.degreeDatas.2.label"
+msgid "jogger"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:29
+msgctxt "SpeedOffset.degreeDatas.2.description"
+msgid ""
+"[PAWN_nameDef] always moves with a sense of urgency - so much so that others"
+" often fail to keep up."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:43
+msgctxt "DrugDesire.degreeDatas.0.label"
+msgid "chemical fascination"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:44
+msgctxt "DrugDesire.degreeDatas.0.description"
+msgid ""
+"[PAWN_nameDef] is utterly fascinated with chemical sources of enjoyment. "
+"Consuming recreational drugs will create a good mood, while abstaining will "
+"lead to increasing frustration over time and possibly drug binges. "
+"[PAWN_pronoun] will ignore directives to not use recreational drugs, and "
+"will consume more than a normal person."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:49
+msgctxt "DrugDesire.degreeDatas.1.label"
+msgid "chemical interest"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:50
+msgctxt "DrugDesire.degreeDatas.1.description"
+msgid ""
+"[PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. "
+"Consuming recreational drugs will create a good mood, while abstaining will "
+"lead to increasing frustration over time and possible drug binges. "
+"[PAWN_pronoun] will ignore directives to not use recreational drugs, and "
+"will consume more than a normal person."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:55
+msgctxt "DrugDesire.degreeDatas.2.label"
+msgid "teetotaler"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:56
+msgctxt "DrugDesire.degreeDatas.2.description"
+msgid ""
+"[PAWN_nameDef] abhors the idea of gaining pleasure from chemicals. "
+"[PAWN_pronoun] strictly avoids alcohol and recreational drugs."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:71
+msgctxt "NaturalMood.degreeDatas.0.label"
+msgid "sanguine"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:72
+msgctxt "NaturalMood.degreeDatas.0.description"
+msgid ""
+"[PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, "
+"pretty much all the time, no matter what it is."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:76
+msgctxt "NaturalMood.degreeDatas.1.label"
+msgid "optimist"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:77
+msgctxt "NaturalMood.degreeDatas.1.description"
+msgid ""
+"[PAWN_nameDef] is naturally optimistic about life. It's hard to get "
+"[PAWN_objective] down."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:81
+msgctxt "NaturalMood.degreeDatas.2.label"
+msgid "pessimist"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:82
+msgctxt "NaturalMood.degreeDatas.2.description"
+msgid "[PAWN_nameDef] tends to look on the bad side of life."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:86
+msgctxt "NaturalMood.degreeDatas.3.label"
+msgid "depressive"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:87
+msgctxt "NaturalMood.degreeDatas.3.description"
+msgid ""
+"[PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining "
+"a good mood even when everything is fine."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:98
+msgctxt "Nerves.degreeDatas.0.label"
+msgid "iron-willed"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:99
+msgctxt "Nerves.degreeDatas.0.description"
+msgid ""
+"[PAWN_nameDef]'s will is an iron shield. [PAWN_pronoun] keeps going through "
+"thick and thin, when others broke down long before."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:109
+msgctxt "Nerves.degreeDatas.1.label"
+msgid "steadfast"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:110
+msgctxt "Nerves.degreeDatas.1.description"
+msgid ""
+"[PAWN_nameDef] is mentally tough and won't break down under stresses that "
+"would crack most people."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:120
+msgctxt "Nerves.degreeDatas.2.label"
+msgid "nervous"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:121
+msgctxt "Nerves.degreeDatas.2.description"
+msgid "[PAWN_nameDef] tends to crack under pressure."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:131
+msgctxt "Nerves.degreeDatas.3.label"
+msgid "volatile"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:132
+msgctxt "Nerves.degreeDatas.3.description"
+msgid ""
+"[PAWN_nameDef] is on a hair-trigger all the time. [PAWN_pronoun] is the "
+"first to break in any tough situation."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:149
+msgctxt "Neurotic.degreeDatas.0.label"
+msgid "neurotic"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:150
+msgctxt "Neurotic.degreeDatas.0.description"
+msgid ""
+"[PAWN_nameDef] likes to have things squared away. [PAWN_pronoun] will work "
+"harder than most to attain this state of affairs, but [PAWN_possessive] "
+"nerves can get the better of [PAWN_objective]."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:158
+msgctxt "Neurotic.degreeDatas.1.label"
+msgid "very neurotic"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:159
+msgctxt "Neurotic.degreeDatas.1.description"
+msgid ""
+"[PAWN_nameDef] feels constantly nervous about everything that has to get "
+"done. [PAWN_pronoun] will work extremely hard to attain this state of "
+"affairs, but [PAWN_possessive] nerves can easily get the better of "
+"[PAWN_objective]."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:174
+msgctxt "Industriousness.degreeDatas.0.label"
+msgid "industrious"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:175
+msgctxt "Industriousness.degreeDatas.0.description"
+msgid ""
+"[PAWN_nameDef] has an easy time staying on-task and focused, and gets things"
+" done much faster than the average person."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:182
+msgctxt "Industriousness.degreeDatas.1.label"
+msgid "hard worker"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:183
+msgctxt "Industriousness.degreeDatas.1.description"
+msgid ""
+"[PAWN_nameDef] is a natural hard worker and will finish tasks faster than "
+"most."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:190
+msgctxt "Industriousness.degreeDatas.2.label"
+msgid "lazy"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:191
+msgctxt "Industriousness.degreeDatas.2.description"
+msgid "[PAWN_nameDef] is a little bit lazy."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:198
+msgctxt "Industriousness.degreeDatas.3.label"
+msgid "slothful"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:199
+msgctxt "Industriousness.degreeDatas.3.description"
+msgid ""
+"[PAWN_nameDef] loves idleness and hates anything productive. [PAWN_pronoun] "
+"moves slowly and rarely stays focused on a task."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:213
+msgctxt "PsychicSensitivity.degreeDatas.0.label"
+msgid "psychically hypersensitive"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:214
+msgctxt "PsychicSensitivity.degreeDatas.0.description"
+msgid ""
+"[PAWN_nameDef]'s mind is like a psychic tuning fork. [PAWN_pronoun] is "
+"extremely sensitive to psychic phenomena."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:224
+msgctxt "PsychicSensitivity.degreeDatas.1.label"
+msgid "psychically sensitive"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:225
+msgctxt "PsychicSensitivity.degreeDatas.1.description"
+msgid "[PAWN_nameDef]'s mind is unusually sensitive to psychic phenomena."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:235
+msgctxt "PsychicSensitivity.degreeDatas.2.label"
+msgid "psychically dull"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:236
+msgctxt "PsychicSensitivity.degreeDatas.2.description"
+msgid ""
+"[PAWN_nameDef]'s mind is psychically out of tune with others. [PAWN_pronoun]"
+" isn't as affected by psychic phenomena."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:243
+msgctxt "PsychicSensitivity.degreeDatas.3.label"
+msgid "psychically deaf"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:244
+msgctxt "PsychicSensitivity.degreeDatas.3.description"
+msgid ""
+"[PAWN_nameDef]'s mind works on a psychic frequency different from everyone "
+"else. [PAWN_pronoun] just isn't affected by psychic phenomena."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:258
+msgctxt "ShootingAccuracy.degreeDatas.0.label"
+msgid "careful shooter"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:259
+msgctxt "ShootingAccuracy.degreeDatas.0.description"
+msgid ""
+"[PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots "
+"less often than others, but with more accuracy."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:270
+msgctxt "ShootingAccuracy.degreeDatas.1.label"
+msgid "trigger-happy"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:271
+msgctxt "ShootingAccuracy.degreeDatas.1.description"
+msgid ""
+"Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun]"
+" shoots faster than others, but less accurately."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:295
+msgctxt "Beauty.degreeDatas.0.label"
+msgid "beautiful"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:296
+msgctxt "Beauty.degreeDatas.0.description"
+msgid ""
+"[PAWN_nameDef] is exceptionally beautiful, with an exotic-yet-familiar "
+"facial structure and an arresting gaze. People are attracted to "
+"[PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:303
+msgctxt "Beauty.degreeDatas.1.label"
+msgid "pretty"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:304
+msgctxt "Beauty.degreeDatas.1.description"
+msgid ""
+"[PAWN_nameDef] has a pretty face, which predisposes people to like "
+"[PAWN_objective]."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:311
+msgctxt "Beauty.degreeDatas.2.label"
+msgid "ugly"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:312
+msgctxt "Beauty.degreeDatas.2.description"
+msgid ""
+"[PAWN_nameDef] is somewhat ugly. This subtly repels others during social "
+"interactions."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:319
+msgctxt "Beauty.degreeDatas.3.label"
+msgid "staggeringly ugly"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:320
+msgctxt "Beauty.degreeDatas.3.description"
+msgid ""
+"[PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a "
+"cross between a drawing by an untalented child, a malformed fetus in a jar "
+"of formaldehyde, and a piece of modern art. Others must exert conscious "
+"effort to look at [PAWN_objective] while conversing."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:333
+msgctxt "Immunity.degreeDatas.0.label"
+msgid "super-immune"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:334
+msgctxt "Immunity.degreeDatas.0.description"
+msgid ""
+"[PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will "
+"gain immunity much faster than a normal person would, and can survive "
+"illnesses that would kill others."
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:341
+msgctxt "Immunity.degreeDatas.1.label"
+msgid "sickly"
+msgstr ""
+
+#: Defs/TraitDefs/Traits_Spectrum.xml:342
+msgctxt "Immunity.degreeDatas.1.description"
+msgid ""
+"[PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more "
+"often than usual, frequently with illnesses that nobody in the colony has "
+"been afflicted by."
+msgstr ""

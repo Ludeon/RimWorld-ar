@@ -1,0 +1,79 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Stats/Stats_Stuff.xml:6
+#, fuzzy
+msgctxt "StuffPower_Armor_Sharp.label"
+msgid "Armor - Sharp"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Stuff.xml:8
+#, fuzzy
+msgctxt "StuffPower_Armor_Sharp.description"
+msgid ""
+"Armor against sharp damage like bullets, knife stabs, and animal bites."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Stuff.xml:19
+#, fuzzy
+msgctxt "StuffPower_Armor_Blunt.label"
+msgid "Armor - Blunt"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Stuff.xml:21
+#, fuzzy
+msgctxt "StuffPower_Armor_Blunt.description"
+msgid ""
+"Armor against blunt damage like club impacts, rock falls, and explosions."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Stuff.xml:32
+#, fuzzy
+msgctxt "StuffPower_Armor_Heat.label"
+msgid "Armor - Heat"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Stuff.xml:34
+#, fuzzy
+msgctxt "StuffPower_Armor_Heat.description"
+msgid "Armor against temperature-related damage like burns."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Stuff.xml:45
+#, fuzzy
+msgctxt "StuffPower_Insulation_Cold.label"
+msgid "Insulation - Cold"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Stuff.xml:47
+#, fuzzy
+msgctxt "StuffPower_Insulation_Cold.description"
+msgid ""
+"How much an apparel made of this material improves a wearer's minimum "
+"comfortable temperature when worn."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Stuff.xml:57
+#, fuzzy
+msgctxt "StuffPower_Insulation_Heat.label"
+msgid "Insulation - Heat"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Stuff.xml:59
+#, fuzzy
+msgctxt "StuffPower_Insulation_Heat.description"
+msgid ""
+"How much an apparel made of this material improves a wearer's maximum "
+"comfortable temperature when worn."
+msgstr "TODO"

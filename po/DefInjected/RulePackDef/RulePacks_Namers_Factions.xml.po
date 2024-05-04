@@ -1,0 +1,806 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:9
+msgctxt "NamerInitialSettlementColony.rulePack.rulesStrings.0"
+msgid "r_name->Colony"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:18
+msgctxt "NamerInitialSettlementTribe.rulePack.rulesStrings.0"
+msgid "r_name->Village"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:32
+msgctxt "NamerFactionOutlander.rulePack.rulesStrings.0"
+msgid "r_name(p=3)->[nearnameinitial]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:32
+msgctxt "NamerFactionOutlander.rulePack.rulesStrings.1"
+msgid "r_name->[nearnameinitial] [political_union_outlander]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:32
+msgctxt "NamerFactionOutlander.rulePack.rulesStrings.2"
+msgid ""
+"r_name->[nearnameinitial] [political_adjective] [political_union_outlander]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:32
+msgctxt "NamerFactionOutlander.rulePack.rulesStrings.3"
+msgid "r_name->[political_union_outlander] of [nearnameinitial]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:32
+msgctxt "NamerFactionOutlander.rulePack.rulesStrings.4"
+msgid ""
+"r_name->[political_adjective] [political_union_outlander] of "
+"[nearnameinitial]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:32
+msgctxt "NamerFactionOutlander.rulePack.rulesStrings.5"
+msgid "nearnameinitial(p=3)->[PlaceOutlander]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:32
+msgctxt "NamerFactionOutlander.rulePack.rulesStrings.6"
+msgid "nearnameinitial->[Direction] [PlaceOutlander]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.0"
+msgid "r_name(p=12)->[townname_wordgen]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.1"
+msgid "r_name(p=6)->[townname_fixed]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.2"
+msgid "r_name(p=4)->[townname_combo]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.3"
+msgid "r_name->[townname_near]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.4"
+msgid "topicalnoun->[Vegetable]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.5"
+msgid "topicalnoun->[Game]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.6"
+msgid "topicalnoun->[BodyPart]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.7"
+msgid "townname_combo->[topicalnoun] [TerrainFeature]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.8"
+msgid "townname_combo->[topicalnoun] [Community]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.9"
+msgid "townname_combo->[topicalnoun]'s [TerrainFeature]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.10"
+msgid "townname_combo->[topicalnoun]'s [Community]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.11"
+msgid "townname_combo(p=2)->[concept_positive]'s [TerrainFeature]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.12"
+msgid "townname_combo(p=2)->[concept_positive] [TerrainFeature]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.13"
+msgid "townname_combo(p=2)->[concept_positive] [Community]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.14"
+msgid "townname_combo(p=3)->[Character]'s [TerrainFeature]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.15"
+msgid "townname_combo(p=3)->[Character]'s [Community]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.16"
+msgid "townname_near->[nearnameinitial]-at-the-[TerrainFeature]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.17"
+msgid "townname_near->[nearnameinitial]-by-the-[TerrainFeature]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.18"
+msgid "townname_near->[nearnameinitial]-on-the-[TerrainFeature]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.19"
+msgid "nearnameinitial->[townname_wordgen]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.20"
+msgid "nearnameinitial->[Community]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.21"
+msgid "townname_wordgen(p=2)->[SylE][SylE]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.22"
+msgid "townname_wordgen(p=2)->[SylE][SylE][SylE]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.23"
+msgid "townname_wordgen(p=2)->[SylE][townend]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.24"
+msgid "townname_wordgen(p=2)->[SylE][SylE][townend]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.25"
+msgid "townname_wordgen->[TerrainFeature][townend]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.26"
+msgid "townname_wordgen->[topicalnoun][townend]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.27"
+msgid "townend->ville"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.28"
+msgid "townend->town"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.29"
+msgid "townend->hurst"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.30"
+msgid "townend->bourne"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.31"
+msgid "townend->brad"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.32"
+msgid "townend->dale"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.33"
+msgid "townend->hope"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.34"
+msgid "townend->ing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.35"
+msgid "townend->ness"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.36"
+msgid "townend->mere"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.37"
+msgid "townend->shaw"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.38"
+msgid "townend->wick"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.39"
+msgid "townend->ton"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.40"
+msgid "townend->ston"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.41"
+msgid "townend->os"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.42"
+msgid "townend->den"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.43"
+msgid "townend->tas"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.44"
+msgid "townend->wood"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.45"
+msgid "townend->land"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.46"
+msgid "townend->worth"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.47"
+msgid "townend->roon"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.48"
+msgid "townend->ron"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:51
+msgctxt "NamerSettlementOutlander.rulePack.rulesStrings.49"
+msgid "townend->well"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:122
+msgctxt "NamerFactionTribal.rulePack.rulesStrings.0"
+msgid "r_name->[WordTribal] [political_union_tribal]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:122
+msgctxt "NamerFactionTribal.rulePack.rulesStrings.1"
+msgid "r_name->The [WordTribal] [political_union_tribal]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:122
+msgctxt "NamerFactionTribal.rulePack.rulesStrings.2"
+msgid "r_name->The [Color] [TerrainFeature] [political_union_tribal]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:122
+msgctxt "NamerFactionTribal.rulePack.rulesStrings.3"
+msgid "r_name->[political_union_tribal] of [WordTribal]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:122
+msgctxt "NamerFactionTribal.rulePack.rulesStrings.4"
+msgid "r_name->The [Color] [Animal] [WordTribal]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:122
+msgctxt "NamerFactionTribal.rulePack.rulesStrings.5"
+msgid "r_name->The [political_union_tribal] of the [TerrainFeature]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:142
+msgctxt "NamerSettlementTribal.rulePack.rulesStrings.0"
+msgid "r_name(p=2)->[WordTribal]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:142
+msgctxt "NamerSettlementTribal.rulePack.rulesStrings.1"
+msgid "r_name->[Color] [WordTribal]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:142
+msgctxt "NamerSettlementTribal.rulePack.rulesStrings.2"
+msgid "r_name->[Color] [TerrainFeature]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:142
+msgctxt "NamerSettlementTribal.rulePack.rulesStrings.3"
+msgid "r_name->[WordTribal] [TerrainFeature]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.0"
+msgid "r_name->The [AnimalBadass]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.1"
+msgid "r_name->The [AnimalBadass] Men"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.2"
+msgid "r_name->The [AnimalBadass]s of [ConceptBadass]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.3"
+msgid "r_name->The [PersonBadass]s of [ConceptBadass]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.4"
+msgid "r_name->The [PersonBadass]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.5"
+msgid "r_name->The [Enemy]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.6"
+msgid "r_name->The [Weapon] Men"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.7"
+msgid "r_name->The [Weapon]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.8"
+msgid "r_name->The [Weapon] [AnimalBadass]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.9"
+msgid "r_name->The [Weapon] [Enemy]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.10"
+msgid "r_name->The [ColorBadass] [Weapon]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.11"
+msgid "r_name->The [ColorBadass] [AnimalBadass]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.12"
+msgid "r_name->The [ColorBadass] [PersonBadass]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.13"
+msgid "r_name->The [ColorBadass] [Enemy]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.14"
+msgid "r_name->The [PersonBadass] [groupname]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.15"
+msgid "r_name->The [Enemy] [Enemy]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.16"
+msgid "r_name->The [AdjectiveBadass] [groupname]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.17"
+msgid "r_name->The [AdjectiveBadass] [AnimalBadass]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.18"
+msgid "r_name->The [AdjectiveBadass] [Enemy]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.19"
+msgid "r_name->The [AdjectiveBadass] [PersonBadass]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.20"
+msgid "r_name->The [PersonAlly]s of [ConceptBadass]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.21"
+msgid "r_name(p=0.4)->The Eaters of [Gore]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.22"
+msgid "r_name->[NamePerson]'s [Enemy]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.23"
+msgid "r_name->[NamePerson]'s [AnimalBadass]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.24"
+msgid "r_name->[NamePerson]'s [Weapon]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.25"
+msgid "r_name->[Weapon] [groupname]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:156
+msgctxt "NamerFactionPirate.rulePack.rulesStrings.26"
+msgid "r_name->[ConceptBadass] [groupname]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.0"
+msgid "r_name(p=4)->[townname_combo]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.1"
+msgid "r_name->[townname_wordgen]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.2"
+msgid "townname_combo->[AnimalBadass] [geography]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.3"
+msgid "townname_combo->[AnimalBadass]'s [geography]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.4"
+msgid "townname_combo->[ConceptBadass] [geography]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.5"
+msgid "townname_combo->[ConceptBadass]'s [geography]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.6"
+msgid "townname_combo->[PersonBadass] [geography]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.7"
+msgid "townname_combo->[PersonBadass]'s [geography]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.8"
+msgid "townname_combo->[Enemy]'s [geography]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.9"
+msgid "townname_combo->[Enemy] [geography]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.10"
+msgid "townname_combo->[Weapon]'s [geography]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.11"
+msgid "townname_combo->[Weapon] [geography]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.12"
+msgid "townname_combo->[ColorBadass] [geography]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.13"
+msgid "geography(p=2)->[TerrainFeature]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.14"
+msgid "geography->[Community]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.15"
+msgid "townname_wordgen(p=2)->[SylE][SylE]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.16"
+msgid "townname_wordgen(p=2)->[SylE][SylE][SylE]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.17"
+msgid "townname_wordgen(p=2)->[SylE][townendevil]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.18"
+msgid "townname_wordgen(p=2)->[SylE][SylE][townendevil]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.19"
+msgid "townendevil->vast"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.20"
+msgid "townendevil->varg"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.21"
+msgid "townendevil->vix"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.22"
+msgid "townendevil->tor"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.23"
+msgid "townendevil->tear"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.24"
+msgid "townendevil->cut"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.25"
+msgid "townendevil->lop"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.26"
+msgid "townendevil->oze"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.27"
+msgid "townendevil->ozzle"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.28"
+msgid "townendevil->latch"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.29"
+msgid "townendevil->lock"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.30"
+msgid "townendevil->burn"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.31"
+msgid "townendevil->sear"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.32"
+msgid "townendevil->shank"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.33"
+msgid "townendevil->hurt"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.34"
+msgid "townendevil->vash"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.35"
+msgid "townendevil->warg"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.36"
+msgid "townendevil->wug"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.37"
+msgid "townendevil->thot"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.38"
+msgid "townendevil->thard"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:194
+msgctxt "NamerSettlementPirate.rulePack.rulesStrings.39"
+msgid "townendevil->thad"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.0"
+msgid "r_name->[msyl][msyl] [mechhive]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.1"
+msgid "mechhive->mechhive"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.2"
+msgid "msyl->nyar"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.3"
+msgid "msyl->alg"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.4"
+msgid "msyl->xan"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.5"
+msgid "msyl->zel"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.6"
+msgid "msyl->kil"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.7"
+msgid "msyl->len"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.8"
+msgid "msyl->lax"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.9"
+msgid "msyl->alph"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.10"
+msgid "msyl->ome"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.11"
+msgid "msyl->iri"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.12"
+msgid "msyl->slin"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.13"
+msgid "msyl->toth"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.14"
+msgid "msyl->arth"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.15"
+msgid "msyl->unth"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.16"
+msgid "msyl->ox"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.17"
+msgid "msyl->arm"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.18"
+msgid "msyl->murd"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.19"
+msgid "msyl->zen"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.20"
+msgid "msyl->yoth"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Factions.xml:246
+msgctxt "NamerFactionMechanoid.rulePack.rulesStrings.21"
+msgid "msyl->lite"
+msgstr ""

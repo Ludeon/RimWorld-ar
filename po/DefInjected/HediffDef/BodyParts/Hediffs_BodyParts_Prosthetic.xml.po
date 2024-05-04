@@ -1,0 +1,337 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:52
+#, fuzzy
+msgctxt "SimpleProstheticLeg.label"
+msgid "prosthetic leg"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:54
+#, fuzzy
+msgctxt "SimpleProstheticLeg.description"
+msgid ""
+"An installed prosthetic leg. While it lacks a neural interface, its complex "
+"arrangement of internal joints allows it to mimic natural movement quite "
+"convincingly. Still, it is inferior to a real leg."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:65
+#, fuzzy
+msgctxt "SimpleProstheticLeg.label"
+msgid "prosthetic leg"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:66
+#, fuzzy
+msgctxt "SimpleProstheticLeg.description"
+msgid ""
+"A leg prosthesis. While it lacks a neural interface, its complex arrangement"
+" of internal joints allows it to mimic natural movement quite convincingly. "
+"Still, it is inferior to a real leg."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:82
+#, fuzzy
+msgctxt "InstallSimpleProstheticLeg.label"
+msgid "install prosthetic leg"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:83
+#, fuzzy
+msgctxt "InstallSimpleProstheticLeg.description"
+msgid "Install a prosthetic leg."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:114
+#, fuzzy
+msgctxt "SimpleProstheticArm.label"
+msgid "prosthetic arm"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:116
+#, fuzzy
+msgctxt "SimpleProstheticArm.description"
+msgid ""
+"An installed prosthetic arm. While it lacks a neural interface, its complex "
+"arrangement of internal joints allows it to mimic natural movement quite "
+"convincingly. Still, it is inferior to a real arm."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:122
+msgctxt "SimpleProstheticArm.comps.0.tools.0.label"
+msgid "fist"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:141
+#, fuzzy
+msgctxt "SimpleProstheticArm.label"
+msgid "prosthetic arm"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:142
+#, fuzzy
+msgctxt "SimpleProstheticArm.description"
+msgid ""
+"An arm prosthesis. While it lacks a neural interface, its complex "
+"arrangement of internal joints allows it to mimic natural movement quite "
+"convincingly. Still, it is inferior to a real arm."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:158
+#, fuzzy
+msgctxt "InstallSimpleProstheticArm.label"
+msgid "install prosthetic arm"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:159
+#, fuzzy
+msgctxt "InstallSimpleProstheticArm.description"
+msgid "Install a prosthetic arm."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:190
+#, fuzzy
+msgctxt "SimpleProstheticHeart.label"
+msgid "prosthetic heart"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:192
+#, fuzzy
+msgctxt "SimpleProstheticHeart.description"
+msgid ""
+"An installed prosthetic heart. It contains an electric motor that pumps "
+"blood smoothly around the body. Users often report feeling tired, but it's "
+"better than the alternative."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:203
+#, fuzzy
+msgctxt "SimpleProstheticHeart.label"
+msgid "prosthetic heart"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:204
+#, fuzzy
+msgctxt "SimpleProstheticHeart.description"
+msgid ""
+"A heart prosthesis. It contains an electric motor that pumps blood smoothly "
+"around the body. Users often report feeling tired, but it's better than the "
+"alternative."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:220
+#, fuzzy
+msgctxt "InstallSimpleProstheticHeart.label"
+msgid "install prosthetic heart"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:221
+#, fuzzy
+msgctxt "InstallSimpleProstheticHeart.description"
+msgid "Install a prosthetic heart."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:253
+#, fuzzy
+msgctxt "CochlearImplant.label"
+msgid "cochlear implant"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:255
+#, fuzzy
+msgctxt "CochlearImplant.description"
+msgid ""
+"An installed cochlear implant. An external microphone transmits a sound "
+"signal to electrodes wrapped around the inner ear's auditory sensing nerves."
+" The electrodes stimulate the nerves according to the sound, creating a "
+"sensation of hearing. It's not as good as a natural ear, but it's a lot "
+"better than being deaf."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:265
+#, fuzzy
+msgctxt "CochlearImplant.label"
+msgid "cochlear implant"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:266
+#, fuzzy
+msgctxt "CochlearImplant.description"
+msgid ""
+"An implant which replaces normal hearing. An external microphone transmits a"
+" sound signal to electrodes wrapped around the inner ear's auditory sensing "
+"nerves. The electrodes stimulate the nerves according to the sound, creating"
+" a sensation of hearing. It's not as good as a natural ear, but it's a lot "
+"better than being deaf."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:279
+#, fuzzy
+msgctxt "InstallCochlearImplant.label"
+msgid "install cochlear implant"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:280
+#, fuzzy
+msgctxt "InstallCochlearImplant.description"
+msgid "Install a cochlear implant."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:313
+#, fuzzy
+msgctxt "PowerClaw.label"
+msgid "power claw"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:315
+#, fuzzy
+msgctxt "PowerClaw.description"
+msgid ""
+"An installed power claw consisting of a mechanical hand with a hooked claw "
+"on each finger. It cuts deep, and it is strong enough to crush a skull like "
+"a hand crushes an egg. The claws can be retracted, making it as useful as a "
+"natural hand for non-combat tasks, however its overall ungainliness slows "
+"down movement slightly."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:331
+msgctxt "PowerClaw.comps.0.tools.0.label"
+msgid "claw"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:355
+#, fuzzy
+msgctxt "PowerClaw.label"
+msgid "power claw"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:356
+#, fuzzy
+msgctxt "PowerClaw.description"
+msgid ""
+"A combat-oriented hand replacement consisting of a mechanical hand with a "
+"hooked claw on each finger. It cuts deep, and it is strong enough to crush a"
+" skull like a hand crushes an egg. The claws can be retracted, making it as "
+"useful as a natural hand for non-combat tasks, however its overall "
+"ungainliness slows down movement slightly."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:376
+#, fuzzy
+msgctxt "InstallPowerClaw.label"
+msgid "install power claw"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:377
+#, fuzzy
+msgctxt "InstallPowerClaw.description"
+msgid "Install a power claw."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:409
+#, fuzzy
+msgctxt "Joywire.label"
+msgid "joywire"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:411
+#, fuzzy
+msgctxt "Joywire.description"
+msgid ""
+"An installed joywire implant. While it dramatically improves a user's mood, "
+"the blanket of happiness makes it hard to concentrate on anything real. "
+"Joywires are illegal on many worlds, and are known for destroying whole "
+"cultures."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:423
+#, fuzzy
+msgctxt "Joywire.label"
+msgid "joywire"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:424
+#, fuzzy
+msgctxt "Joywire.description"
+msgid ""
+"A brain implant that stimulates the brain's pleasure centers. While it "
+"dramatically improves a user's mood, the blanket of happiness makes it hard "
+"to concentrate on anything real. Joywires are illegal on many worlds, and "
+"are known for destroying whole cultures."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:440
+#, fuzzy
+msgctxt "InstallJoywire.label"
+msgid "install joywire"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:441
+#, fuzzy
+msgctxt "InstallJoywire.description"
+msgid "Install a joywire."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:473
+#, fuzzy
+msgctxt "Painstopper.label"
+msgid "painstopper"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:475
+#, fuzzy
+msgctxt "Painstopper.description"
+msgid ""
+"An installed painstopper implant. While it does allow the user to accomplish"
+" more, it turns out pain has a purpose. When you don't feel it, you can get "
+"hurt really bad really easily."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:487
+#, fuzzy
+msgctxt "Painstopper.label"
+msgid "painstopper"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:488
+#, fuzzy
+msgctxt "Painstopper.description"
+msgid ""
+"A brain implant which inhibits nociception, or pain sensation. While it does"
+" allow the user to accomplish more, it turns out pain has a purpose. When "
+"you don't feel it, you can get hurt really bad really easily."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:504
+#, fuzzy
+msgctxt "InstallPainstopper.label"
+msgid "install painstopper"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:505
+#, fuzzy
+msgctxt "InstallPainstopper.description"
+msgid "Install a painstopper."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:534
+msgctxt "RemovePainstopper.label"
+msgid "remove painstopper"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Prosthetic.xml:535
+msgctxt "RemovePainstopper.description"
+msgid "Remove the painstopper."
+msgstr ""

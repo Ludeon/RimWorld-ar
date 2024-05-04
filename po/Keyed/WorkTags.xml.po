@@ -1,0 +1,134 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compendium:4
+#, fuzzy
+msgctxt "WorkTagNone"
+msgid "none"
+msgstr "لا شئ"
+
+#: compendium:5
+#, fuzzy
+msgctxt "WorkTagIntellectual"
+msgid "intellectual"
+msgstr "مثقف"
+
+#: compendium:6
+#, fuzzy
+msgctxt "WorkTagManualDumb"
+msgid "dumb labor"
+msgstr "عامل سيئ"
+
+#: compendium:7
+#, fuzzy
+msgctxt "WorkTagManualSkilled"
+msgid "skilled labor"
+msgstr "عامل محترف"
+
+#: compendium:8
+#, fuzzy
+msgctxt "WorkTagViolent"
+msgid "violent"
+msgstr "عنف"
+
+#: compendium:9
+msgctxt "WorkTagShooting"
+msgid "shooting"
+msgstr ""
+
+#: compendium:10
+#, fuzzy
+msgctxt "WorkTagCaring"
+msgid "caring"
+msgstr "إهتمام"
+
+#: compendium:11
+#, fuzzy
+msgctxt "WorkTagSocial"
+msgid "social"
+msgstr "إجتماعي"
+
+#: compendium:12
+#, fuzzy
+msgctxt "WorkTagAnimals"
+msgid "animals"
+msgstr "Animals"
+
+#: compendium:13
+#, fuzzy
+msgctxt "WorkTagArtistic"
+msgid "artistic"
+msgstr "فنان"
+
+#: compendium:14
+#, fuzzy
+msgctxt "WorkTagCrafting"
+msgid "crafting"
+msgstr "صياغة"
+
+#: compendium:15
+#, fuzzy
+msgctxt "WorkTagCooking"
+msgid "cooking"
+msgstr "طبخ"
+
+#: compendium:16
+#, fuzzy
+msgctxt "WorkTagFirefighting"
+msgid "firefighting"
+msgstr "مكافح الحرائق"
+
+#: compendium:17
+#, fuzzy
+msgctxt "WorkTagCleaning"
+msgid "cleaning"
+msgstr "تنظيف"
+
+#: compendium:18
+#, fuzzy
+msgctxt "WorkTagHauling"
+msgid "hauling"
+msgstr "نقل بالعربة"
+
+#: compendium:19
+#, fuzzy
+msgctxt "WorkTagPlantWork"
+msgid "plant work"
+msgstr "الكهرباء"
+
+#: compendium:20
+#, fuzzy
+msgctxt "WorkTagMining"
+msgid "mining"
+msgstr "تعدين"
+
+#: compendium:21
+msgctxt "WorkTagHunting"
+msgid "hunting"
+msgstr ""
+
+#: compendium:22
+msgctxt "WorkTagConstructing"
+msgid "constructing"
+msgstr ""
+
+#: compendium:23
+msgctxt "WorkTagCommoner"
+msgid "commoner work"
+msgstr ""
+
+#: compendium:24
+msgctxt "WorkTagAllWork"
+msgid "all work"
+msgstr ""

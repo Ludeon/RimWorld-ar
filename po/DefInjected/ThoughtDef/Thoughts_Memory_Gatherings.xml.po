@@ -1,0 +1,110 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:14
+msgctxt "GotMarried.stages.0.label"
+msgid "got married to {0}"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:15
+msgctxt "GotMarried.stages.0.description"
+msgid "I got married! It's so wonderful to be starting a new life together!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:30
+msgctxt "AttendedWedding.stages.0.label"
+msgid "attended wedding"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:31
+msgctxt "AttendedWedding.stages.0.description"
+msgid ""
+"It was great to see two people come together to build a future like that."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:46
+msgctxt "AttendedParty.stages.0.label"
+msgid "attended party"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:47
+msgctxt "AttendedParty.stages.0.description"
+msgid "I had a good time at that party."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:62
+msgctxt "AttendedConcert.stages.0.label"
+msgid "attended concert"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:63
+msgctxt "AttendedConcert.stages.0.description"
+msgid "I enjoyed listening to that performance."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:78
+msgctxt "HeldConcert.stages.0.label"
+msgid "held concert"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:79
+msgctxt "HeldConcert.stages.0.description"
+msgid "They loved me. They really loved me."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:92
+msgctxt "TerribleSpeech.stages.0.label"
+msgid "terrible speech"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:93
+msgctxt "TerribleSpeech.stages.0.description"
+msgid ""
+"That speech was atrocious. It made me realize how little hope we really "
+"have."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:107
+msgctxt "UninspiringSpeech.stages.0.label"
+msgid "uninspiring speech"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:108
+msgctxt "UninspiringSpeech.stages.0.description"
+msgid ""
+"That speech was more awkward than inspiring. If that's who we're listening "
+"to, I'm worried."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:122
+msgctxt "EncouragingSpeech.stages.0.label"
+msgid "encouraging speech"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:123
+msgctxt "EncouragingSpeech.stages.0.description"
+msgid "That speech made me feel like we have a solid path forward."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:137
+msgctxt "InspirationalSpeech.stages.0.label"
+msgid "inspirational speech"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Gatherings.xml:138
+msgctxt "InspirationalSpeech.stages.0.description"
+msgid ""
+"That speech was moving emotionally and intellectually. I am filled with "
+"purpose."
+msgstr ""

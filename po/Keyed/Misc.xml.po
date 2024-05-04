@@ -1,0 +1,518 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compendium:4
+#, fuzzy
+msgctxt "Autosaving"
+msgid "Autosaving"
+msgstr "Autosaving"
+
+#: compendium:5
+#, fuzzy
+msgctxt "GameStartDialog"
+msgid ""
+"The three of you awake in your cryptosleep sarcophagi to the sound of sirens"
+" and ripping metal. You barely get to the escape pods before the ship is "
+"torn apart.\\n\\nSome time later, you land on this unknown rimworld.\\n\\nAs"
+" pieces of the shredded starship fall around you, you start making plans to "
+"survive."
+msgstr ""
+"The three of you awake in your cryptosleep sarcophagi to the sound of sirens"
+" and ripping metal. You barely get to the escape pods before the ship is "
+"torn apart.\\n\\nSome time later, you land on this unknown rimworld.\\n\\nAs"
+" pieces of the shredded starship fall around you, you start making plans to "
+"survive."
+
+#: compendium:6
+#, fuzzy
+msgctxt "Colony"
+msgid "Colony"
+msgstr "مستعمرة"
+
+#: compendium:7
+#, fuzzy
+msgctxt "ChangeLanguageFromMainMenu"
+msgid "You can only change language from the options screen on the main menu."
+msgstr "اللغة يمكن تغييرها فقط عن طريق الخصائص في القائمة الرئيسية."
+
+#: compendium:8
+#, fuzzy
+msgctxt "AndLower"
+msgid "and"
+msgstr "و"
+
+#: compendium:9
+#, fuzzy
+msgctxt "DisabledLower"
+msgid "disabled"
+msgstr "تعطيل"
+
+#: compendium:11
+#, fuzzy
+msgctxt "VersionIndicator"
+msgid "Version {0}"
+msgstr "النسخة {0}"
+
+#: compendium:12
+msgctxt "GameVersionIndicator"
+msgid "Game version"
+msgstr ""
+
+#: compendium:13
+#, fuzzy
+msgctxt "DevelopmentBuildLower"
+msgid "development build"
+msgstr "development build"
+
+#: compendium:14
+#, fuzzy
+msgctxt "CompiledOn"
+msgid "Compiled {0}"
+msgstr "Compiled {0}"
+
+#: compendium:15
+#, fuzzy
+msgctxt "LoggedIntoSteamAs"
+msgid "Logged into Steam as {0}"
+msgstr "Logged into Steam as {0}"
+
+#: compendium:18
+msgctxt "ToCommaListAnd"
+msgid "{0} and {1}"
+msgstr ""
+
+#: compendium:19
+msgctxt "ToCommaListOr"
+msgid "{0} or {1}"
+msgstr ""
+
+#: compendium:22
+#, fuzzy
+msgctxt "Yes"
+msgid "Yes"
+msgstr "Yes"
+
+#: compendium:23
+#, fuzzy
+msgctxt "No"
+msgid "No"
+msgstr "No"
+
+#: compendium:24
+msgctxt "NoSubject"
+msgid "No {0}"
+msgstr ""
+
+#: compendium:25
+msgctxt "New"
+msgid "new"
+msgstr ""
+
+#: compendium:26
+msgctxt "Gender"
+msgid "Gender"
+msgstr ""
+
+#: compendium:27
+msgctxt "Sex"
+msgid "Sex"
+msgstr ""
+
+#: compendium:28
+#, fuzzy
+msgctxt "min"
+msgid "min"
+msgstr "min"
+
+#: compendium:29
+#, fuzzy
+msgctxt "max"
+msgid "max"
+msgstr "max"
+
+#: compendium:30
+#, fuzzy
+msgctxt "chance"
+msgid "chance"
+msgstr "chance"
+
+#: compendium:31
+#, fuzzy
+msgctxt "context"
+msgid "context"
+msgstr "context"
+
+#: compendium:32
+#, fuzzy
+msgctxt "multiplier"
+msgid "multiplier"
+msgstr "multiplier"
+
+#: compendium:33
+#, fuzzy
+msgctxt "damage"
+msgid "damage"
+msgstr "damage"
+
+#: compendium:34
+#, fuzzy
+msgctxt "radius"
+msgid "radius"
+msgstr "radius"
+
+#: compendium:35
+msgctxt "expired"
+msgid "expired"
+msgstr ""
+
+#: compendium:36
+#, fuzzy
+msgctxt "durationDays"
+msgid "duration (days)"
+msgstr "duration (days)"
+
+#: compendium:37
+#, fuzzy
+msgctxt "intervalDays"
+msgid "interval (days)"
+msgstr "interval (days)"
+
+#: compendium:38
+#, fuzzy
+msgctxt "repeat"
+msgid "repeat"
+msgstr "repeat"
+
+#: compendium:39
+#, fuzzy
+msgctxt "default"
+msgid "default"
+msgstr "default"
+
+#: compendium:40
+#, fuzzy
+msgctxt "distance"
+msgid "distance"
+msgstr "TODO"
+
+#: compendium:41
+#, fuzzy
+msgctxt "YesUppercase"
+msgid "YES"
+msgstr "TODO"
+
+#: compendium:42
+#, fuzzy
+msgctxt "NoUppercase"
+msgid "NO"
+msgstr "TODO"
+
+#: compendium:43
+#, fuzzy
+msgctxt "kg"
+msgid "kg"
+msgstr "TODO"
+
+#: compendium:44
+#, fuzzy
+msgctxt "Day"
+msgid "Day"
+msgstr "Day"
+
+#: compendium:45
+#, fuzzy
+msgctxt "day"
+msgid "day"
+msgstr "TODO"
+
+#: compendium:46
+#, fuzzy
+msgctxt "Default"
+msgid "Default"
+msgstr "TODO"
+
+#: compendium:47
+#, fuzzy
+msgctxt "Average"
+msgid "Average"
+msgstr "TODO"
+
+#: compendium:48
+msgctxt "Cause"
+msgid "Cause"
+msgstr ""
+
+#: compendium:49
+msgctxt "Etc"
+msgid "etc"
+msgstr ""
+
+#: compendium:50
+#, fuzzy
+msgctxt "MoneyFormat"
+msgid "${0}"
+msgstr "TODO"
+
+#: compendium:51
+msgctxt "Factors"
+msgid "Factors"
+msgstr ""
+
+#: compendium:52
+msgctxt "Uses"
+msgid "Uses"
+msgstr ""
+
+#: compendium:53
+msgctxt "Translation"
+msgid "Translation"
+msgstr ""
+
+#: compendium:54
+msgctxt "minDays"
+msgid "min(days)"
+msgstr ""
+
+#: compendium:55
+msgctxt "maxDays"
+msgid "max(days)"
+msgstr ""
+
+#: compendium:56
+msgctxt "Processing"
+msgid "Processing"
+msgstr ""
+
+#: compendium:57
+msgctxt "Inspect"
+msgid "Inspect"
+msgstr ""
+
+#: compendium:61
+#, fuzzy
+msgctxt "MeatLabel"
+msgid "{0} meat"
+msgstr "{0} لحم"
+
+#: compendium:62
+#, fuzzy
+msgctxt "MeatDesc"
+msgid "Raw butchered flesh. Can be cooked into meals, or eaten raw."
+msgstr "Raw butchered flesh. Can be cooked into meals, or eaten raw."
+
+#: compendium:63
+#, fuzzy
+msgctxt "MeatInsectDesc"
+msgid ""
+"Raw butchered flesh. If necessary, can be cooked into meals, or even eaten "
+"raw. Extremely unappetizing."
+msgstr "TODO"
+
+#: compendium:64
+#, fuzzy
+msgctxt "MeatHumanDesc"
+msgid ""
+"Raw butchered flesh. Can be cooked into meals or eaten raw, although most "
+"humans dislike the idea."
+msgstr "TODO"
+
+#: compendium:66
+msgctxt "TechprintLabel"
+msgid "techprint ({PROJECT_label})"
+msgstr ""
+
+#: compendium:67
+msgctxt "TechprintDesc"
+msgid ""
+"This is a techprint for the research project '{PROJECT_label}'.\n"
+"\\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.\n"
+"\\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.\n"
+"\\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies."
+msgstr ""
+
+#: compendium:71
+msgctxt "Unlocks"
+msgid "Unlocks"
+msgstr ""
+
+#: compendium:73
+#, fuzzy
+msgctxt "CorpseLabel"
+msgid "{0} corpse"
+msgstr "{0} corpse"
+
+#: compendium:74
+#, fuzzy
+msgctxt "CorpseDesc"
+msgid "Dead body of a {0}."
+msgstr "Dead body of a {0}."
+
+#: compendium:75
+#, fuzzy
+msgctxt "DeadLabel"
+msgid "{1_label} (dead)"
+msgstr "{0} (dead)"
+
+#: compendium:77
+#, fuzzy
+msgctxt "RoughStoneTerrainLabel"
+msgid "rough {0}"
+msgstr "rough {0}"
+
+#: compendium:78
+#, fuzzy
+msgctxt "RoughStoneTerrainDesc"
+msgid "Rough, natural {0} ground."
+msgstr "Rough, natural {0} ground."
+
+#: compendium:79
+#, fuzzy
+msgctxt "RoughHewnStoneTerrainLabel"
+msgid "rough-hewn {0}"
+msgstr "rough-hewn {0}"
+
+#: compendium:80
+#, fuzzy
+msgctxt "RoughHewnStoneTerrainDesc"
+msgid "Roughly cut natural {0} floor."
+msgstr "Roughly cut natural {0} floor."
+
+#: compendium:81
+#, fuzzy
+msgctxt "SmoothStoneTerrainLabel"
+msgid "smooth {0}"
+msgstr "smooth {0}"
+
+#: compendium:82
+#, fuzzy
+msgctxt "SmoothStoneTerrainDesc"
+msgid "Smoothed natural {0} floor."
+msgstr "Smoothed natural {0} floor."
+
+#: compendium:84
+#, fuzzy
+msgctxt "BlueprintLabelExtra"
+msgid " (blueprint)"
+msgstr " (blueprint)"
+
+#: compendium:85
+#, fuzzy
+msgctxt "FrameLabelExtra"
+msgid " (building)"
+msgstr " (building)"
+
+#: compendium:87
+#, fuzzy
+msgctxt "FactionUnaffiliated"
+msgid "Unaffiliated"
+msgstr "TODO"
+
+#: compendium:89
+msgctxt "StillWishContinue"
+msgid "Continue anyway?"
+msgstr ""
+
+#: compendium:91
+msgctxt "BabyTalk"
+msgid "ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah"
+msgstr ""
+
+#: compendium:95
+#, fuzzy
+msgctxt "ThingMadeOfStuffLabel"
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#: compendium:97
+#, fuzzy
+msgctxt "SomeonesRoom"
+msgid "{PAWN_labelShort}'s {1}"
+msgstr "{0}'s {1}"
+
+#: compendium:98
+#, fuzzy
+msgctxt "CouplesRoom"
+msgid "{PAWN1_labelShort} and {PAWN2_labelShort}'s {2}"
+msgstr "{0} and {1}'s {2}"
+
+#: compendium:100
+msgctxt "StatRelatesToCurrentRoom"
+msgid "Important for this type of room."
+msgstr ""
+
+#: compendium:102
+msgctxt "DeepResourceRemaining"
+msgid "{COUNT} {RESOURCE_label} underground here."
+msgstr ""
+
+#: compendium:104
+#, fuzzy
+msgctxt "VariousLabel"
+msgid "(various)"
+msgstr "(various)"
+
+#: compendium:107
+#, fuzzy
+msgctxt "ColonistDied"
+msgid "Colonist died"
+msgstr "Colonist died"
+
+#: compendium:110
+#, fuzzy
+msgctxt "North"
+msgid "North"
+msgstr "North"
+
+#: compendium:111
+#, fuzzy
+msgctxt "South"
+msgid "South"
+msgstr "South"
+
+#: compendium:112
+#, fuzzy
+msgctxt "West"
+msgid "West"
+msgstr "West"
+
+#: compendium:113
+#, fuzzy
+msgctxt "East"
+msgid "East"
+msgstr "East"
+
+#: compendium:115
+msgctxt "ApplyingTechprint"
+msgid "applying techprint ({0})"
+msgstr ""
+
+#: compendium:118
+msgctxt "VariantOf"
+msgid "variant of"
+msgstr ""
+
+#: compendium:121
+msgctxt "BornOfParents"
+msgid "born to {0}"
+msgstr ""
+
+#: compendium:122
+msgctxt "ParentsUnknown"
+msgid "unknown parents"
+msgstr ""
+
+#: compendium:125
+msgctxt "Colonist"
+msgid "colonist"
+msgstr ""

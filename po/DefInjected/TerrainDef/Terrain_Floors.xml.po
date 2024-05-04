@@ -1,0 +1,136 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:28
+msgctxt "StrawMatting.label"
+msgid "straw matting"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:29
+msgctxt "StrawMatting.description"
+msgid ""
+"Rough straw matting for use in animal barns. It is cheap and accepts very "
+"little filth."
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:55
+#, fuzzy
+msgctxt "Concrete.label"
+msgid "concrete"
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:56
+#, fuzzy
+msgctxt "Concrete.description"
+msgid ""
+"Rough concrete. It is cheap and quick to build, but is also quite ugly."
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:79
+#, fuzzy
+msgctxt "PavedTile.label"
+msgid "paved tile"
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:81
+#, fuzzy
+msgctxt "PavedTile.description"
+msgid ""
+"Concrete tiles. Cheap, but neutral in terms of looks and slow to build."
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:101
+#, fuzzy
+msgctxt "WoodPlankFloor.label"
+msgid "wood floor"
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:103
+#, fuzzy
+msgctxt "WoodPlankFloor.description"
+msgid ""
+"Wood plank flooring for that warm, homey feeling. While it is quick to lay, "
+"it is also very flammable."
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:137
+#, fuzzy
+msgctxt "MetalTile.label"
+msgid "steel tile"
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:139
+#, fuzzy
+msgctxt "MetalTile.description"
+msgid ""
+"Steel tiles, for that spaceship look. They are quick to clean and get a "
+"bonus to cleanliness for use in medical settings."
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:156
+#, fuzzy
+msgctxt "SilverTile.label"
+msgid "silver tile"
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:158
+#, fuzzy
+msgctxt "SilverTile.description"
+msgid ""
+"For a futuristic but royal look, silver tiles fit perfectly into luxurious "
+"rooms. They are quick to clean and get a bonus to cleanliness."
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:177
+#, fuzzy
+msgctxt "GoldTile.label"
+msgid "gold tile"
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:179
+#, fuzzy
+msgctxt "GoldTile.description"
+msgid ""
+"For overbearing extravagance, nothing beats gold tiles. They are "
+"exceptionally expensive, and exceptionally beautiful, and people will think "
+"you're exceptionally snobbish if you actually live on them."
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:200
+#, fuzzy
+msgctxt "SterileTile.label"
+msgid "sterile tile"
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:202
+#, fuzzy
+msgctxt "SterileTile.description"
+msgid ""
+"Sterile tiles with special cleanliness-enhancing properties. Extra-clean "
+"rooms improve outcomes in hospitals and research labs. This tile is very "
+"slow to build, but quick to clean."
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:230
+msgctxt "Carpet.label"
+msgid "carpet ({0})"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Floors.xml:231
+msgctxt "Carpet.description"
+msgid ""
+"Soft carpet made from fibers dyed a single color. It's welcoming, cozy, and "
+"boosts the beauty of the room it's in. It's also quite flammable, and "
+"cleaning it is a laborious process."
+msgstr ""

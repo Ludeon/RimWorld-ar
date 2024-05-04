@@ -1,0 +1,131 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Items/Items_Food.xml:53
+#, fuzzy
+msgctxt "MealSurvivalPack.label"
+msgid "packaged survival meal"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Food.xml:54
+#, fuzzy
+msgctxt "MealSurvivalPack.description"
+msgid ""
+"A high-quality packaged meal, manufactured for use in survival situations. "
+"While it never rots, it can still deteriorate if left outside. Great for "
+"traveling."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Food.xml:78
+#, fuzzy
+msgctxt "MealNutrientPaste.label"
+msgid "nutrient paste meal"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Food.xml:79
+#, fuzzy
+msgctxt "MealNutrientPaste.description"
+msgid ""
+"A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and"
+" minerals. Everything the body needs, and absolutely disgusting."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Food.xml:123
+#, fuzzy
+msgctxt "MealSimple.label"
+msgid "simple meal"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Food.xml:124
+#, fuzzy
+msgctxt "MealSimple.description"
+msgid "A simple meal quickly cooked from one main ingredient."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Food.xml:157
+#, fuzzy
+msgctxt "MealFine.label"
+msgid "fine meal"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Food.xml:158
+#, fuzzy
+msgctxt "MealFine.description"
+msgid "A complex dish assembled with care from a variety of ingredients."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Food.xml:172
+msgctxt "MealFine_Veg.label"
+msgid "vegetarian fine meal"
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Food.xml:173
+msgctxt "MealFine_Veg.description"
+msgid "A complex dish assembled with care from vegetarian ingredients."
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Food.xml:188
+msgctxt "MealFine_Meat.label"
+msgid "carnivore fine meal"
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Food.xml:189
+msgctxt "MealFine_Meat.description"
+msgid "A complex dish assembled with care from meat ingredients."
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Food.xml:219
+#, fuzzy
+msgctxt "MealLavish.label"
+msgid "lavish meal"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Food.xml:233
+msgctxt "MealLavish_Veg.label"
+msgid "vegetarian lavish meal"
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Food.xml:247
+msgctxt "MealLavish_Meat.label"
+msgid "carnivore lavish meal"
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Food.xml:261
+#, fuzzy
+msgctxt "Kibble.label"
+msgid "kibble"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Food.xml:262
+#, fuzzy
+msgctxt "Kibble.description"
+msgid ""
+"Animal feed made from mixed meat and plant sources. Humans can eat it, but "
+"they really, really don't like it."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Food.xml:296
+#, fuzzy
+msgctxt "Pemmican.label"
+msgid "pemmican"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Food.xml:297
+#, fuzzy
+msgctxt "Pemmican.description"
+msgid ""
+"A preserved mashed mixture of fat and plant food. Tastes bland, but not "
+"offensive. It lasts a very long time without refrigeration. Great for "
+"traveling."
+msgstr "TODO"

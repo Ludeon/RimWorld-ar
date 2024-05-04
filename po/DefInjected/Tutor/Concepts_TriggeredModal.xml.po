@@ -1,0 +1,115 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Tutor/Concepts_TriggeredModal.xml:8
+#, fuzzy
+msgctxt "TradeGoodsMustBeNearBeacon.label"
+msgid "Trade goods and trade beacons"
+msgstr "TODO"
+
+#: Defs/Tutor/Concepts_TriggeredModal.xml:10
+#, fuzzy
+msgctxt "TradeGoodsMustBeNearBeacon.helpText"
+msgid ""
+"To send items or silver to orbital traders, you must build an ORBITAL TRADE "
+"BEACON and place a stockpile of items near it."
+msgstr "TODO"
+
+#: Defs/Tutor/Concepts_TriggeredModal.xml:15
+#, fuzzy
+msgctxt "ArrestingCreatesEnemies.label"
+msgid "Arresting worsens faction relations"
+msgstr "TODO"
+
+#: Defs/Tutor/Concepts_TriggeredModal.xml:17
+#, fuzzy
+msgctxt "ArrestingCreatesEnemies.helpText"
+msgid ""
+"Warning: The person you are trying to arrest may not go quietly.\\n\\nIf you"
+" arrest a non-colonist or a colonist from another faction, their entire "
+"faction may become your enemy. \\n\\nThis arrest has a {0} chance of "
+"succeeding, based on the social skill of the arrester."
+msgstr "TODO"
+
+#: Defs/Tutor/Concepts_TriggeredModal.xml:22
+#, fuzzy
+msgctxt "SwitchFlickingDesignation.label"
+msgid "Flick designations only designate"
+msgstr "TODO"
+
+#: Defs/Tutor/Concepts_TriggeredModal.xml:24
+#, fuzzy
+msgctxt "SwitchFlickingDesignation.helpText"
+msgid ""
+"Note: This only designates that a colonist should flick the "
+"switch.\\n\\nNothing will actually happen until a colonist comes and flicks "
+"the switch by hand."
+msgstr "TODO"
+
+#: Defs/Tutor/Concepts_TriggeredModal.xml:29
+#, fuzzy
+msgctxt "MaxNumberOfPlayerSettlements.label"
+msgid "Maximum number of player colonies"
+msgstr "TODO"
+
+#: Defs/Tutor/Concepts_TriggeredModal.xml:31
+#, fuzzy
+msgctxt "MaxNumberOfPlayerSettlements.helpText"
+msgid ""
+"Warning: RimWorld is designed to be played with one player colony at a time."
+" Multiple player colonies are allowed as an experimental testing feature "
+"only.\\n\\nPlaying with multiple colonies will cause gameplay imbalances and"
+" split your focus, as well as likely causing performance slowdowns.\\n\\nWe "
+"recommend that you play with the one-colony maximum the game was designed "
+"for, at least for your first few games."
+msgstr "TODO"
+
+#: Defs/Tutor/Concepts_TriggeredModal.xml:36
+msgctxt "TradingRequiresPermit.label"
+msgid "Trading permit requirements"
+msgstr ""
+
+#: Defs/Tutor/Concepts_TriggeredModal.xml:38
+msgctxt "TradingRequiresPermit.helpText"
+msgid ""
+"Trading here requires the title of {0}.\\n\\nEnsure any trade caravan you "
+"send has someone with the title of {0} or higher."
+msgstr ""
+
+#: Defs/Tutor/Concepts_TriggeredModal.xml:43
+msgctxt "SteamDeckControlsMainMenu.label"
+msgid "Steam Deck controls"
+msgstr ""
+
+#: Defs/Tutor/Concepts_TriggeredModal.xml:45
+msgctxt "SteamDeckControlsMainMenu.helpText"
+msgid ""
+"Use the trackpad to move the cursor and the right trigger button to click. "
+"Press {Key:Accept} to accept and {Key:Cancel} to go back."
+msgstr ""
+
+#: Defs/Tutor/Concepts_TriggeredModal.xml:50
+msgctxt "SteamDeckControlsGame.label"
+msgid "Steam Deck controls"
+msgstr ""
+
+#: Defs/Tutor/Concepts_TriggeredModal.xml:52
+msgctxt "SteamDeckControlsGame.helpText"
+msgid ""
+"Press X to open the architect menu and {Key:TogglePause} to pause and resume"
+" the game. Use triggers for primary and secondary clicks. Zoom in and out "
+"and scroll through lists with {Key:MapZoom_In} and {Key:MapZoom_Out}. Press "
+"and hold the L5 back button to pan the camera with the touch screen and "
+"simulate secondary clicks."
+msgstr ""

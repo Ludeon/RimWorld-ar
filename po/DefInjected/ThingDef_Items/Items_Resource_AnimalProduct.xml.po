@@ -1,0 +1,225 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:10
+#, fuzzy
+msgctxt "Milk.label"
+msgid "milk"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:11
+#, fuzzy
+msgctxt "Milk.description"
+msgid "Milk from an animal."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:43
+#, fuzzy
+msgctxt "InsectJelly.label"
+msgid "insect jelly"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:44
+#, fuzzy
+msgctxt "InsectJelly.description"
+msgid ""
+"Jelly stored and used as food by oversized insects. It is smooth, rich, and "
+"fulfills the recreation need of those who consume it. Because of its unique "
+"biological properties, it can nourish almost any creature and never rots."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:75
+#, fuzzy
+msgctxt "Skull.label"
+msgid "skull"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:76
+msgctxt "Skull.description"
+msgid "A human skull."
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:170
+#, fuzzy
+msgctxt "EggChickenUnfertilized.label"
+msgid "chicken egg (unfert.)"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:171
+#, fuzzy
+msgctxt "EggChickenUnfertilized.description"
+msgid ""
+"An unfertilized chicken egg. It can be eaten raw, but it's much, much better"
+" cooked."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:182
+#, fuzzy
+msgctxt "EggChickenFertilized.label"
+msgid "chicken egg (fert.)"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:183
+#, fuzzy
+msgctxt "EggChickenFertilized.description"
+msgid ""
+"A fertilized chicken egg. If all goes well, it should hatch into a chick. It"
+" can be eaten raw, but it's much better cooked."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:203
+#, fuzzy
+msgctxt "EggCobraFertilized.label"
+msgid "cobra egg (fert.)"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:204
+#, fuzzy
+msgctxt "EggCobraFertilized.description"
+msgid ""
+"A fertilized cobra egg. If all goes well, it should hatch into a baby cobra."
+" It can be eaten raw, but it's much better cooked."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:225
+#, fuzzy
+msgctxt "EggIguanaFertilized.label"
+msgid "iguana egg (fert.)"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:226
+#, fuzzy
+msgctxt "EggIguanaFertilized.description"
+msgid ""
+"A fertilized iguana egg. If all goes well, it should hatch into a baby "
+"iguana. It can be eaten raw, but it's much better cooked."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:247
+#, fuzzy
+msgctxt "EggTortoiseFertilized.label"
+msgid "tortoise egg (fert.)"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:248
+#, fuzzy
+msgctxt "EggTortoiseFertilized.description"
+msgid ""
+"A fertilized tortoise egg. If all goes well, it should hatch into a baby "
+"tortoise. It can be eaten raw, but it's much better cooked."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:270
+#, fuzzy
+msgctxt "EggCassowaryFertilized.label"
+msgid "cassowary egg (fert.)"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:271
+#, fuzzy
+msgctxt "EggCassowaryFertilized.description"
+msgid ""
+"A fertilized cassowary egg. If all goes well, it should hatch into a baby "
+"cassowary. It can be eaten raw, but it's much better cooked."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:293
+#, fuzzy
+msgctxt "EggEmuFertilized.label"
+msgid "emu egg (fert.)"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:294
+#, fuzzy
+msgctxt "EggEmuFertilized.description"
+msgid ""
+"A fertilized emu egg. If all goes well, it should hatch into a baby emu. It "
+"can be eaten raw, but it's much better cooked."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:316
+#, fuzzy
+msgctxt "EggOstrichFertilized.label"
+msgid "ostrich egg (fert.)"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:317
+#, fuzzy
+msgctxt "EggOstrichFertilized.description"
+msgid ""
+"A fertilized ostrich egg. If all goes well, it should hatch into a baby "
+"ostrich. It can be eaten raw, but it's much better cooked."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:339
+#, fuzzy
+msgctxt "EggTurkeyFertilized.label"
+msgid "turkey egg (fert.)"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:340
+#, fuzzy
+msgctxt "EggTurkeyFertilized.description"
+msgid ""
+"A fertilized turkey egg. If all goes well, it should hatch into a baby "
+"turkey. It can be eaten raw, but it's much better cooked."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:361
+msgctxt "EggDuckUnfertilized.label"
+msgid "duck egg (unfert.)"
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:362
+msgctxt "EggDuckUnfertilized.description"
+msgid ""
+"An unfertilized duck egg. It can be eaten raw, but it's much, much better "
+"cooked."
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:372
+msgctxt "EggDuckFertilized.label"
+msgid "duck egg (fert.)"
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:373
+msgctxt "EggDuckFertilized.description"
+msgid ""
+"A fertilized duck egg. If all goes well, it should hatch into a duckling. It"
+" can be eaten raw, but it's much better cooked."
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:392
+msgctxt "EggGooseUnfertilized.label"
+msgid "goose egg (unfert.)"
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:393
+msgctxt "EggGooseUnfertilized.description"
+msgid ""
+"An unfertilized goose egg. It can be eaten raw, but it's much, much better "
+"cooked."
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:406
+msgctxt "EggGooseFertilized.label"
+msgid "goose egg (fert.)"
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Resource_AnimalProduct.xml:407
+msgctxt "EggGooseFertilized.description"
+msgid ""
+"A fertilized goose egg. If all goes well, it should hatch into a baby goose."
+" It can be eaten raw, but it's much better cooked."
+msgstr ""

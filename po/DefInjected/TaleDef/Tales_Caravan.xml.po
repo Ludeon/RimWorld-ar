@@ -1,0 +1,558 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/TaleDefs/Tales_Caravan.xml:6
+#, fuzzy
+msgctxt "CaravanFormed.label"
+msgid "caravan formed"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef] departing for adventure"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.1"
+msgid "tale_noun->[PAWN_nameDef] forming a caravan"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.2"
+msgid ""
+"image->[PAWN_nameFull] striding forward purposefully [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.3"
+msgid ""
+"image->[PAWN_nameFull] looking towards the horizon [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.4"
+msgid ""
+"image->[PAWN_nameFull] packing supplies for a journey [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.5"
+msgid "image->[PAWN_nameFull] planning a journey [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->and equipped for a fight"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->and equipped for survival"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->and equipped for exploration"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->with an eager look in [PAWN_possessive] eyes"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.10"
+msgid ""
+"circumstance_phrase->with a [AdjectiveAny] look in [PAWN_possessive] eyes"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.11"
+msgid "desc_sentence->[Quantity_adjphrase] [ally]s watch the preparations."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.12"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [ally]s help with the preparations."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.13"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [Enemy]s shrink away from the scene."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.14"
+msgid "desc_sentence->A [TerrainFeature] is visible in the distance."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.15"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [PersonJob]s watch from a distance."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:11
+msgctxt "CaravanFormed.rulePack.rulesStrings.16"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:35
+#, fuzzy
+msgctxt "CaravanFled.label"
+msgid "caravan fled"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef]'s caravan fleeing danger"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.1"
+msgid "tale_noun->[PAWN_nameDef]'s caravan escaping danger"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.2"
+msgid "tale_noun->[PAWN_nameDef]'s caravan narrowly escaping danger"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.3"
+msgid "tale_noun->[PAWN_nameDef]'s caravan being chased away by enemies"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.4"
+msgid "image->[PAWN_nameFull] running frantically [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.5"
+msgid "image->[PAWN_nameFull] sprinting [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.6"
+msgid ""
+"image->[PAWN_nameFull] tucked behind a [TerrainFeature], hiding "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.7"
+msgid ""
+"image->[PAWN_nameFull] putting up a fighting retreat [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.8"
+msgid "image->[PAWN_nameFull] casually strolling away [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->as [Quantity_adjphrase] [Enemy]s chase"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->while [Quantity_adjphrase] [Enemy]s search"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.11"
+msgid "circumstance_phrase->from [Quantity_adjphrase] [Enemy]s"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.12"
+msgid "circumstance_phrase->from [Quantity_adjphrase] enemy [Animal]s"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.13"
+msgid "circumstance_phrase->from a [AdjectiveLarge] [Enemy]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.14"
+msgid "desc_sentence->[PAWN_nameDef]'s pursuers are brandishing [Weapon]s."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.15"
+msgid ""
+"desc_sentence->[PAWN_nameDef]'s pursuers are wreathed in [Color] smoke."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.16"
+msgid ""
+"desc_sentence->[PAWN_nameDef]'s pursuers wear [AdjectiveAngsty] expressions."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.17"
+msgid "desc_sentence->[PAWN_nameDef]'s pursuers are brandishing [Weapon]s."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.18"
+msgid "desc_sentence->[PAWN_nameDef] is sweating."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:40
+msgctxt "CaravanFled.rulePack.rulesStrings.19"
+msgid "desc_sentence->[PAWN_nameDef] is gasping for breath."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:67
+#, fuzzy
+msgctxt "CaravanAmbushDefeated.label"
+msgid "caravan ambush defeated"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.0"
+msgid "tale_noun->a successful defense of [PAWN_nameDef]'s caravan"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.1"
+msgid "tale_noun->[PAWN_nameDef]'s caravan fighting off an ambush"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.2"
+msgid ""
+"image->[PAWN_nameFull] organizing resistance while [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.3"
+msgid ""
+"image->[PAWN_nameFull] wielding a [Weapon] defensively while "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.4"
+msgid ""
+"image->[PAWN_nameFull] retaliating with [PAWN_possessive] [Weapon] while "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.5"
+msgid ""
+"image->[PAWN_nameFull] standing as tall as a building while "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.6"
+msgid ""
+"image->[PAWN_nameFull] wearing a [AdjectiveBadass] expression while "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.7"
+msgid ""
+"image->[PAWN_nameFull] wearing a [AdjectiveAngsty] expression while "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->bracing against the advancing horde"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->circling the wagons"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->roaring in victory"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.11"
+msgid "circumstance_phrase->brandishing [Weapon]s"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.12"
+msgid "circumstance_phrase->covered in [Gore]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.13"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [Enemy]s advance, brandishing [Weapon]s."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.14"
+msgid "desc_sentence->A huge [Enemy] advances, brandishing a [Weapon]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.15"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [Enemy]s advance with a "
+"[AdjectiveBadass] look in their eyes."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.16"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [Enemy]s advance with a "
+"[AdjectiveAngsty] look in their eyes."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.17"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [Animal]s advance with glowing [Color] "
+"eyes."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.18"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [Animal]s advance, covered in [Gore]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.19"
+msgid "desc_sentence->The ground is coated in [Gore]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.20"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:72
+msgctxt "CaravanAmbushDefeated.rulePack.rulesStrings.21"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s flee the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:101
+#, fuzzy
+msgctxt "CaravanRemoteMining.label"
+msgid "caravan remote mining"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.0"
+msgid ""
+"tale_noun->[PAWN_nameDef]'s caravan mining a rich vein of [MATERIAL_label] "
+"in a foreign land"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.1"
+msgid ""
+"image->[PAWN_nameFull] working a [MATERIAL_label] wall with mining tools, "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.2"
+msgid ""
+"image->[PAWN_nameFull] holding up a chunk of [MATERIAL_label], "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.3"
+msgid ""
+"image->[PAWN_nameFull] resting against a wall of [MATERIAL_label], "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.4"
+msgid ""
+"image->[PAWN_nameFull] coordinating an excavation team against a rich vein "
+"of [MATERIAL_label], [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.5"
+msgid ""
+"image->[PAWN_nameFull] carefully inspecting a rich vein of [MATERIAL_label],"
+" [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->sweating heavily"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->wearing a [AdjectiveFriendly] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->smiling proudly"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->a satisfied expression on [PAWN_possessive] face"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->looking around warily for danger"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.11"
+msgid "desc_sentence->[Quantity_adjphrase] [ally]s assist."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.12"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s wander the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.13"
+msgid "desc_sentence->There is a makeshift shelter in the background."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.14"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] further veins are visible in the "
+"distance."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.15"
+msgid "desc_sentence->A [TerrainFeature] is visible in the distance."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:107
+msgctxt "CaravanRemoteMining.rulePack.rulesStrings.16"
+msgid "desc_sentence->[PAWN_nameDef] is sweaty and dirty from work."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:131
+#, fuzzy
+msgctxt "CaravanAssaultSuccessful.label"
+msgid "caravan assault successful"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef]'s caravan defeating an enemy stronghold"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.1"
+msgid "image->[PAWN_nameFull] running towards a [Enemy], [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.2"
+msgid "image->[PAWN_nameFull] wielding a [Weapon], [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.3"
+msgid "image->[PAWN_nameFull] swinging a [Weapon], [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.4"
+msgid ""
+"image->[PAWN_nameFull] standing as tall as a building, [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.5"
+msgid ""
+"circumstance_phrase->wearing a [AdjectiveBadass] look in [PAWN_possessive] "
+"eyes"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.6"
+msgid ""
+"circumstance_phrase->wearing a [AdjectiveAngsty] look in [PAWN_possessive] "
+"eyes"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->roaring in victory"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->covered in [Gore]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.9"
+msgid "desc_sentence->[Quantity_adjphrase] [Enemy]s cower from the assault."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.10"
+msgid "desc_sentence->[Quantity_adjphrase] [Enemy]s flee the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.11"
+msgid "desc_sentence->[Quantity_adjphrase] [Enemy]s are visibly wounded."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.12"
+msgid "desc_sentence->A [Community] burns in the distance."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.13"
+msgid "desc_sentence->A [Community] smokes in the distance."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.14"
+msgid "desc_sentence->The ground is coated in [Gore]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.15"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Caravan.xml:136
+msgctxt "CaravanAssaultSuccessful.rulePack.rulesStrings.16"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s flee the area."
+msgstr ""

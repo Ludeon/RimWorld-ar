@@ -1,0 +1,199 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Bodies/BodyParts_Animal.xml:8
+#, fuzzy
+msgctxt "Body.label"
+msgid "body"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:16
+#, fuzzy
+msgctxt "Beak.label"
+msgid "beak"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:33
+#, fuzzy
+msgctxt "InsectHead.label"
+msgid "head"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:42
+#, fuzzy
+msgctxt "SnakeBody.label"
+msgid "body"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:53
+#, fuzzy
+msgctxt "SnakeHead.label"
+msgid "head"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:63
+#, fuzzy
+msgctxt "SnakeMouth.label"
+msgid "mouth"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:76
+#, fuzzy
+msgctxt "InsectHeart.label"
+msgid "heart"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:90
+#, fuzzy
+msgctxt "InsectNostril.label"
+msgid "nostril"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:98
+#, fuzzy
+msgctxt "InsectMouth.label"
+msgid "mouth"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:110
+#, fuzzy
+msgctxt "AnimalJaw.label"
+msgid "jaw"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:123
+#, fuzzy
+msgctxt "Jowl.label"
+msgid "jowl"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:130
+#, fuzzy
+msgctxt "Tail.label"
+msgid "tail"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:138
+#, fuzzy
+msgctxt "Antenna.label"
+msgid "antenna"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:149
+#, fuzzy
+msgctxt "Pronotum.label"
+msgid "pronotum"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:164
+#, fuzzy
+msgctxt "Shell.label"
+msgid "shell"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:175
+#, fuzzy
+msgctxt "Elytra.label"
+msgid "elytra"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:186
+#, fuzzy
+msgctxt "Tusk.label"
+msgid "tusk"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:197
+#, fuzzy
+msgctxt "Trunk.label"
+msgid "trunk"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:208
+#, fuzzy
+msgctxt "Horn.label"
+msgid "horn"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:219
+#, fuzzy
+msgctxt "HeadClaw.label"
+msgid "head claw"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:230
+#, fuzzy
+msgctxt "Hump.label"
+msgid "hump"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:238
+#, fuzzy
+msgctxt "TurtleShell.label"
+msgid "shell"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:249
+#, fuzzy
+msgctxt "Plastron.label"
+msgid "plastron"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:260
+#, fuzzy
+msgctxt "TurtleBeak.label"
+msgid "beak"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:276
+#, fuzzy
+msgctxt "InsectLeg.label"
+msgid "leg"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:291
+#, fuzzy
+msgctxt "Paw.label"
+msgid "paw"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:304
+#, fuzzy
+msgctxt "Hoof.label"
+msgid "hoof"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:332
+#, fuzzy
+msgctxt "FrontClaw.label"
+msgid "front claw"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:333
+#, fuzzy
+msgctxt "FrontClaw.labelShort"
+msgid "claw"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:342
+#, fuzzy
+msgctxt "RearClaw.label"
+msgid "rear claw"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Animal.xml:343
+#, fuzzy
+msgctxt "RearClaw.labelShort"
+msgid "claw"
+msgstr "TODO"

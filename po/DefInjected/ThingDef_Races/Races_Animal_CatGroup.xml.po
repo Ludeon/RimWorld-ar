@@ -1,0 +1,249 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:7
+#, fuzzy
+msgctxt "Cat.label"
+msgid "cat"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:9
+#, fuzzy
+msgctxt "Cat.description"
+msgid ""
+"One of mankind's first pets, the cat is a small mammal which hunts vermin. "
+"Known for their aloofness, cats are nevertheless popular companions because "
+"of their independence, calm disposition, and fine, pettable fur."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:75
+msgctxt "Cat.tools.0.label"
+msgid "left claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:93
+msgctxt "Cat.tools.1.label"
+msgid "right claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:128
+msgctxt "Cat.tools.3.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:143
+#, fuzzy
+msgctxt "Cat.label"
+msgid "cat"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:149
+msgctxt "Cat.lifeStages.0.label"
+msgid "kitten"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:194
+#, fuzzy
+msgctxt "YorkshireTerrier.label"
+msgid "yorkshire terrier"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:196
+#, fuzzy
+msgctxt "YorkshireTerrier.description"
+msgid ""
+"A small, even-tempered dog. Originally bred to hunt rats, it later became a "
+"show and companionship animal. Some consider it useless, but the mood boost "
+"it gives by nuzzling can outweigh the cost of feeding it."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:204
+msgctxt "YorkshireTerrier.tools.0.label"
+msgid "left claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:214
+msgctxt "YorkshireTerrier.tools.1.label"
+msgid "right claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:224
+msgctxt "YorkshireTerrier.tools.2.label"
+msgid "cute little teeth"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:234
+msgctxt "YorkshireTerrier.tools.3.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:306
+#, fuzzy
+msgctxt "YorkshireTerrier.label"
+msgid "yorkshire terrier"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:312
+msgctxt "YorkshireTerrier.lifeStages.0.label"
+msgid "yorkshire terrier puppy"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:371
+msgctxt "GuineaPig.label"
+msgid "guinea pig"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:373
+msgctxt "GuineaPig.description"
+msgid ""
+"Neither a pig or a creature from Guinea, these little rodents are bred to be"
+" a household pet and a delicious dinner."
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:441
+msgctxt "GuineaPig.tools.0.label"
+msgid "left claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:451
+msgctxt "GuineaPig.tools.1.label"
+msgid "right claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:470
+msgctxt "GuineaPig.tools.3.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:485
+msgctxt "GuineaPig.label"
+msgid "guinea pig"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:544
+#, fuzzy
+msgctxt "LabradorRetriever.label"
+msgid "labrador retriever"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:546
+#, fuzzy
+msgctxt "LabradorRetriever.description"
+msgid ""
+"A very versatile, medium-sized dog. Originally bred to retrieve birds shot "
+"on the hunt, the lab is also an excellent guard dog, play pal, and family "
+"friend."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:554
+msgctxt "LabradorRetriever.tools.0.label"
+msgid "left claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:564
+msgctxt "LabradorRetriever.tools.1.label"
+msgid "right claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:583
+msgctxt "LabradorRetriever.tools.3.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:655
+#, fuzzy
+msgctxt "LabradorRetriever.label"
+msgid "labrador retriever"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:661
+msgctxt "LabradorRetriever.lifeStages.0.label"
+msgid "labrador puppy"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:710
+#, fuzzy
+msgctxt "Husky.label"
+msgid "husky"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:712
+#, fuzzy
+msgctxt "Husky.description"
+msgid ""
+"A large, energetic dog with a thick fur coat for remaining comfortable in "
+"arctic environments."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:720
+msgctxt "Husky.tools.0.label"
+msgid "left claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:730
+msgctxt "Husky.tools.1.label"
+msgid "right claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:749
+msgctxt "Husky.tools.3.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:821
+#, fuzzy
+msgctxt "Husky.label"
+msgid "husky"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:828
+msgctxt "Husky.lifeStages.0.label"
+msgid "husky puppy"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:880
+#, fuzzy
+msgctxt "Monkey.label"
+msgid "monkey"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:882
+#, fuzzy
+msgctxt "Monkey.description"
+msgid ""
+"A small primate, the monkey can use its curly tail to grab on to branches, "
+"leaving its hands free to do other things. Monkeys are selfish but clever, "
+"and can be trained to carry out fairly complex tasks."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:892
+msgctxt "Monkey.tools.0.label"
+msgid "left fist"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:902
+msgctxt "Monkey.tools.1.label"
+msgid "right fist"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:921
+msgctxt "Monkey.tools.3.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CatGroup.xml:982
+#, fuzzy
+msgctxt "Monkey.label"
+msgid "monkey"
+msgstr "TODO"

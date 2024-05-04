@@ -1,0 +1,134 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:12
+msgctxt "OpportunitySite_BanditCamp.questNameRules.rulesStrings.0"
+msgid "questName->The [bandit] [camp]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:12
+msgctxt "OpportunitySite_BanditCamp.questNameRules.rulesStrings.1"
+msgid "questName->[bandit] [camp]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:12
+msgctxt "OpportunitySite_BanditCamp.questNameRules.rulesStrings.2"
+msgid "questName->[asker_nameDef] and the [camp]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:12
+msgctxt "OpportunitySite_BanditCamp.questNameRules.rulesStrings.3"
+msgid "camp->Camp"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:12
+msgctxt "OpportunitySite_BanditCamp.questNameRules.rulesStrings.4"
+msgid "camp->Outpost"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:12
+msgctxt "OpportunitySite_BanditCamp.questNameRules.rulesStrings.5"
+msgid "camp->Lair"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:12
+msgctxt "OpportunitySite_BanditCamp.questNameRules.rulesStrings.6"
+msgid "camp->Encampment"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:12
+msgctxt "OpportunitySite_BanditCamp.questNameRules.rulesStrings.7"
+msgid "bandit->Bandit"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:12
+msgctxt "OpportunitySite_BanditCamp.questNameRules.rulesStrings.8"
+msgid "bandit->Raider"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:12
+msgctxt "OpportunitySite_BanditCamp.questNameRules.rulesStrings.9"
+msgid "bandit->Outlaw"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:12
+msgctxt "OpportunitySite_BanditCamp.questNameRules.rulesStrings.10"
+msgid "bandit->Desperado"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:12
+msgctxt "OpportunitySite_BanditCamp.questNameRules.rulesStrings.11"
+msgid "bandit->Fugitive"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:12
+msgctxt "OpportunitySite_BanditCamp.questNameRules.rulesStrings.12"
+msgid "bandit->Marauder"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:12
+msgctxt "OpportunitySite_BanditCamp.questNameRules.rulesStrings.13"
+msgid "bandit->Robber"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:12
+msgctxt "OpportunitySite_BanditCamp.questNameRules.rulesStrings.14"
+msgid "bandit->Brigand"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:31
+msgctxt "OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings.0"
+msgid ""
+"questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby camp have been raiding their caravans. The camp is controlled by [siteFaction_name].\n"
+"\\n[asker_nameDef] is asking us to destroy the camp, which means eliminating all enemies and turrets. [asker_label] says that [sitePart0_description]."
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:115
+msgctxt "OpportunitySite_BanditCamp.root.nodes.12.node.nodes.12.label"
+msgid "Quest expired: [resolvedQuestName]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:116
+msgctxt "OpportunitySite_BanditCamp.root.nodes.12.node.nodes.12.text"
+msgid ""
+"The bandit camp has packed up and moved on. The quest [resolvedQuestName] "
+"has expired."
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:131
+msgctxt "OpportunitySite_BanditCamp.root.nodes.13.node.nodes.13.label"
+msgid "Quest failed: [resolvedQuestName]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:132
+msgctxt "OpportunitySite_BanditCamp.root.nodes.13.node.nodes.13.text"
+msgid ""
+"After being discovered, the bandit camp has dispersed. The quest "
+"[resolvedQuestName] has ended."
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:159
+msgctxt ""
+"OpportunitySite_BanditCamp.root.nodes.14.node.nodes.14.nodeIfChosenPawnSignalUsed.label"
+msgid "[asker_faction_royalFavorLabel]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_BanditCamp.xml:160
+msgctxt ""
+"OpportunitySite_BanditCamp.root.nodes.14.node.nodes.14.nodeIfChosenPawnSignalUsed.text"
+msgid ""
+"These colonists participated in the victory for the quest "
+"[resolvedQuestName]. [asker_definite] wants to know who should receive the "
+"[royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service."
+msgstr ""

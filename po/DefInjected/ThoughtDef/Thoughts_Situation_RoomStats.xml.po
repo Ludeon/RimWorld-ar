@@ -1,0 +1,269 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:9
+msgctxt "PrisonCell.stages.0.label"
+msgid "awful prison cell"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:10
+msgctxt "PrisonCell.stages.0.description"
+msgid "My prison cell is an awful place."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:16
+msgctxt "PrisonCell.stages.3.label"
+msgid "decent prison cell"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:17
+msgctxt "PrisonCell.stages.3.description"
+msgid "My prison cell is pretty decent."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:21
+msgctxt "PrisonCell.stages.4.label"
+msgid "slightly impressive prison cell"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:22
+msgctxt "PrisonCell.stages.4.description"
+msgid "My prison cell seems to be a nice place."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:26
+msgctxt "PrisonCell.stages.5.label"
+msgid "impressive prison cell"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:27
+msgctxt "PrisonCell.stages.5.description"
+msgid ""
+"My prison cell is impressive. I can't believe they are keeping me in a room "
+"like this."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:31
+msgctxt "PrisonCell.stages.6.label"
+msgid "very impressive prison cell"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:32
+msgctxt "PrisonCell.stages.6.description"
+msgid ""
+"My prison cell is very impressive. I can't believe they are keeping me in a "
+"room like this. I love it!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:36
+msgctxt "PrisonCell.stages.7.label"
+msgid "extremely impressive prison cell"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:37
+msgctxt "PrisonCell.stages.7.description"
+msgid ""
+"My prison cell is extremely impressive. I can't believe they are keeping me "
+"in a room like this. I love it!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:41
+msgctxt "PrisonCell.stages.8.label"
+msgid "unbelievably impressive prison cell"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:42
+msgctxt "PrisonCell.stages.8.description"
+msgid ""
+"My prison cell is unbelievably impressive. This is the best place ever!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:46
+msgctxt "PrisonCell.stages.9.label"
+msgid "wondrously impressive prison cell"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:47
+msgctxt "PrisonCell.stages.9.description"
+msgid ""
+"My prison cell is the best place one can ever imagine. I can stay here "
+"forever."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:58
+msgctxt "PrisonBarracks.stages.0.label"
+msgid "awful barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:59
+msgctxt "PrisonBarracks.stages.0.description"
+msgid "My prison barracks is an awful place."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:63
+msgctxt "PrisonBarracks.stages.1.label"
+msgid "dull barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:64
+msgctxt "PrisonBarracks.stages.1.description"
+msgid "I'm living in a dull barracks."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:70
+msgctxt "PrisonBarracks.stages.4.label"
+msgid "slightly impressive barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:71
+msgctxt "PrisonBarracks.stages.4.description"
+msgid "My prison barracks is slightly impressive."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:75
+msgctxt "PrisonBarracks.stages.5.label"
+msgid "somewhat impressive barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:76
+msgctxt "PrisonBarracks.stages.5.description"
+msgid "My prison barracks is impressive. I like it."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:80
+msgctxt "PrisonBarracks.stages.6.label"
+msgid "very impressive barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:81
+msgctxt "PrisonBarracks.stages.6.description"
+msgid "My prison barracks is very impressive. I like it."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:85
+msgctxt "PrisonBarracks.stages.7.label"
+msgid "extremely impressive barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:86
+msgctxt "PrisonBarracks.stages.7.description"
+msgid ""
+"My prison barracks is extremely impressive. I can't believe they are keeping"
+" me in a place like this."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:90
+msgctxt "PrisonBarracks.stages.8.label"
+msgid "unbelievably impressive barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:91
+msgctxt "PrisonBarracks.stages.8.description"
+msgid ""
+"My prison barracks is unbelievably impressive. I can't believe they are "
+"keeping me in a place like this."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:95
+msgctxt "PrisonBarracks.stages.9.label"
+msgid "wondrously impressive barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:96
+msgctxt "PrisonBarracks.stages.9.description"
+msgid ""
+"My prison barracks is wonderful! I can't believe they are keeping me in a "
+"place like this."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:107
+msgctxt "HospitalPatientRoomStats.stages.0.label"
+msgid "awful hospital"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:108
+msgctxt "HospitalPatientRoomStats.stages.0.description"
+msgid "This hospital is awful."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:112
+msgctxt "HospitalPatientRoomStats.stages.1.label"
+msgid "dull hospital"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:113
+msgctxt "HospitalPatientRoomStats.stages.1.description"
+msgid "I'm stuck in a dull hospital."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:121
+msgctxt "HospitalPatientRoomStats.stages.4.label"
+msgid "slightly impressive hospital"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:122
+msgctxt "HospitalPatientRoomStats.stages.4.description"
+msgid "My hospital is slightly impressive. It makes me feel a bit better."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:126
+msgctxt "HospitalPatientRoomStats.stages.5.label"
+msgid "somewhat impressive hospital"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:127
+msgctxt "HospitalPatientRoomStats.stages.5.description"
+msgid "My hospital is impressive. It makes me feel better."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:131
+msgctxt "HospitalPatientRoomStats.stages.6.label"
+msgid "very impressive hospital"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:132
+msgctxt "HospitalPatientRoomStats.stages.6.description"
+msgid "My hospital is very impressive. It makes me feel better."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:136
+msgctxt "HospitalPatientRoomStats.stages.7.label"
+msgid "extremely impressive hospital"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:137
+msgctxt "HospitalPatientRoomStats.stages.7.description"
+msgid "My hospital is extremely impressive. It makes me feel better already."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:141
+msgctxt "HospitalPatientRoomStats.stages.8.label"
+msgid "unbelievably impressive hospital"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:142
+msgctxt "HospitalPatientRoomStats.stages.8.description"
+msgid ""
+"My hospital is unbelievably impressive. It makes me feel better already."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:146
+msgctxt "HospitalPatientRoomStats.stages.9.label"
+msgid "wondrously impressive hospital"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_RoomStats.xml:147
+msgctxt "HospitalPatientRoomStats.stages.9.description"
+msgid "My hospital is wonderful! It makes me feel better already."
+msgstr ""

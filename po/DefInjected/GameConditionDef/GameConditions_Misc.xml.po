@@ -1,0 +1,267 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:7
+#, fuzzy
+msgctxt "SolarFlare.label"
+msgid "solar flare"
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:8
+#, fuzzy
+msgctxt "SolarFlare.description"
+msgid ""
+"A solar flare is blasting the planet. The electromagnetic interference will "
+"prevent most electrical devices from working."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:10
+#, fuzzy
+msgctxt "SolarFlare.letterText"
+msgid ""
+"A solar flare has begun.\\n\\nThe intense radiation will shut down all "
+"electrical devices.\\n\\nIt should pass in about a day."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:22
+#, fuzzy
+msgctxt "Eclipse.label"
+msgid "eclipse"
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:23
+#, fuzzy
+msgctxt "Eclipse.description"
+msgid ""
+"An eclipse is shadowing the surface. It will be dark, even during the "
+"daytime."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:25
+#, fuzzy
+msgctxt "Eclipse.letterText"
+msgid ""
+"One of the moons of this planet has orbited in front of the sun. An eclipse "
+"has begun."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:37
+#, fuzzy
+msgctxt "PsychicDrone.label"
+msgid "psychic drone"
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:38
+#, fuzzy
+msgctxt "PsychicDrone.description"
+msgid ""
+"A distant archotech is emitting psychic signals through an orbital "
+"amplifier, driving people towards insanity."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:42
+msgctxt "PsychicDrone.letterText"
+msgid ""
+"Every {0} colonist feels a wave of anxiety and anger!\\n\\nSome distant "
+"engine of hatred is stirring. It is projecting a psychic drone onto this "
+"site through an orbital amplifier, tuned to only affect {0}s. For a few "
+"days, some people's mood will be quite a bit worse.\\n\\nThe drone level is "
+"{1}."
+msgstr ""
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:54
+#, fuzzy
+msgctxt "PsychicSoothe.label"
+msgid "psychic soothe"
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:55
+#, fuzzy
+msgctxt "PsychicSoothe.description"
+msgid ""
+"A distant archotech is emitting psychic signals through an orbital "
+"amplifier, calming people and stabilizing their minds."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:56
+msgctxt "PsychicSoothe.letterText"
+msgid ""
+"Every {0} colonist smiles with contentment!\\n\\nSome distant engine of "
+"happiness is stirring. It is projecting a psychic drone onto this site "
+"through an orbital amplifier, tuned to only affect {0}s. For a few days, "
+"some people's mood will be quite a bit better."
+msgstr ""
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:70
+#, fuzzy
+msgctxt "ToxicFallout.label"
+msgid "toxic fallout"
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:71
+#, fuzzy
+msgctxt "ToxicFallout.description"
+msgid ""
+"A plume of toxic dust from some distant source is slowly settling over this "
+"entire region. Any living thing not under a roof will be slowly poisoned, "
+"and items left outside will corrode."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:74
+#, fuzzy
+msgctxt "ToxicFallout.letterText"
+msgid ""
+"A distant chemical fire has released a plume of poison over this entire "
+"region.\\n\\nAny person or creature not under a roof will be slowly sickened"
+" by the toxic dust settling out of the atmosphere.\\n\\nIt will last for "
+"anywhere between a few days to nearly a quadrum."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:84
+#, fuzzy
+msgctxt "VolcanicWinter.label"
+msgid "volcanic winter"
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:85
+#, fuzzy
+msgctxt "VolcanicWinter.description"
+msgid ""
+"Some distant volcano or fire is choking the atmosphere with ash, "
+"significantly reducing the amount of light which reaches the surface. "
+"Temperatures will be colder and plants will grow slower."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:88
+#, fuzzy
+msgctxt "VolcanicWinter.letterText"
+msgid ""
+"Some distant volcano or fire has begun spewing massive quantities of ash "
+"into the atmosphere.\\n\\nAsh in the atmosphere will obscure the sun. "
+"Temperatures will drop and plants will suffer for lack of sunlight. It could"
+" pass in a few weeks, or it might last many quadrums."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:97
+#, fuzzy
+msgctxt "HeatWave.label"
+msgid "heat wave"
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:98
+#, fuzzy
+msgctxt "HeatWave.description"
+msgid "An extreme wave of heat is baking the area."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:101
+#, fuzzy
+msgctxt "HeatWave.letterText"
+msgid ""
+"An unusual heat wave has begun.\\n\\nHeat waves can induce deadly "
+"heatstroke. Stay cool by building either a passive or electric cooler, or by"
+" getting deep underground where the rocks are naturally cool."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:117
+#, fuzzy
+msgctxt "ColdSnap.label"
+msgid "cold snap"
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:118
+#, fuzzy
+msgctxt "ColdSnap.description"
+msgid "An unusual cold snap is freezing the region."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:121
+#, fuzzy
+msgctxt "ColdSnap.letterText"
+msgid ""
+"An unusual cold snap has set in.\\n\\nCold snaps can quickly kill by "
+"hypothermia. Be sure to build a heated space to survive, wear appropriate "
+"apparel, and try to harvest crops before they freeze and die."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:132
+#, fuzzy
+msgctxt "Flashstorm.label"
+msgid "flashstorm"
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:133
+#, fuzzy
+msgctxt "Flashstorm.description"
+msgid ""
+"A freak localized storm is blasting a small area with repeated lightning "
+"strikes."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:135
+#, fuzzy
+msgctxt "Flashstorm.letterText"
+msgid ""
+"A freak localized flashstorm is striking a small area with lightning. This "
+"can cause massive fires."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:146
+#, fuzzy
+msgctxt "ClimateCycle.label"
+msgid "climate cycle"
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:147
+#, fuzzy
+msgctxt "ClimateCycle.description"
+msgid "A multi-year climate cycle due to an elliptical orbit."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:155
+#, fuzzy
+msgctxt "Planetkiller.label"
+msgid "planetkiller"
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:156
+#, fuzzy
+msgctxt "Planetkiller.description"
+msgid ""
+"An interstellar planetkiller weapon is approaching this planet. It will "
+"smash the planet apart like a rifle bullet hitting an egg, annihilating all "
+"life."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:162
+#, fuzzy
+msgctxt "Aurora.label"
+msgid "aurora"
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:163
+#, fuzzy
+msgctxt "Aurora.description"
+msgid ""
+"An aurora is lighting up the sky. The breathtaking display will boost the "
+"mood of anyone outside to see it."
+msgstr "TODO"
+
+#: Defs/GameConditionDefs/GameConditions_Misc.xml:165
+#, fuzzy
+msgctxt "Aurora.letterText"
+msgid ""
+"A beautiful aurora is lighting up the sky.\\n\\nThe undulating colors will "
+"boost the mood of anyone outside to see them, and make the night brighter."
+msgstr "TODO"

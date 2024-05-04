@@ -1,0 +1,295 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:6
+#, fuzzy
+msgctxt "BuildRapport.label"
+msgid "try to get to know"
+msgstr "TODO"
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to "
+"[RECIPIENT_nameDef]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.1"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about [subject]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.2"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] described [subject] to [RECIPIENT_nameDef]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.3"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] to "
+"[talkabout] [subject]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.4"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] offered a chance for [RECIPIENT_nameDef] to "
+"[talkabout] [subject]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.5"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] expressed interest in [RECIPIENT_nameDef]'s "
+"[PersonalCharacteristic]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.6"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about "
+"[RECIPIENT_possessive] [PersonalCharacteristic]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.7"
+msgid "toldastoryabout(p=2)->told a story about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.8"
+msgid "toldastoryabout->told a funny story about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.9"
+msgid "toldastoryabout->told a heartfelt story about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.10"
+msgid "toldastoryabout->told an old story about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.11"
+msgid "toldastoryabout->told a family story about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.12"
+msgid "toldastoryabout->told a childhood story about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.13"
+msgid "toldastoryabout->mentioned an anecdote about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.14"
+msgid "talkabout->talk about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.15"
+msgid "talkabout->discuss"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.16"
+msgid "talkabout->have a discussion about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.17"
+msgid "talkabout->ask about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.18"
+msgid "talkabout->think about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.19"
+msgid "talkabout->find common ground around"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.20"
+msgid "subject->the colony"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.21"
+msgid "subject->the community"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.22"
+msgid "subject->joining the colony"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.23"
+msgid "subject->changing teams"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.24"
+msgid "subject->finding friends"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.25"
+msgid "subject->meeting new people"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.26"
+msgid "subject->reconsidering [RECIPIENT_possessive] ideas"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.27"
+msgid "subject->rethinking [RECIPIENT_possessive] loyalties"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.28"
+msgid "subject->health"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.29"
+msgid "subject->the future"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.30"
+msgid "subject->letting go"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.31"
+msgid "subject(p=4)->[ConceptPositive]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.32"
+msgid "subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:12
+msgctxt "BuildRapport.logRulesInitiator.rulesStrings.33"
+msgid "subject(p=8)->[TalkTopicLight]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:56
+#, fuzzy
+msgctxt "RecruitAttempt.label"
+msgid "recruit attempt"
+msgstr "TODO"
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:62
+msgctxt "RecruitAttempt.logRulesInitiator.rulesStrings.0"
+msgid "r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:62
+msgctxt "RecruitAttempt.logRulesInitiator.rulesStrings.1"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef],"
+" and asked [RECIPIENT_objective] to join."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:62
+msgctxt "RecruitAttempt.logRulesInitiator.rulesStrings.2"
+msgid "goodthing(p=15)->[ConceptPositive]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:62
+msgctxt "RecruitAttempt.logRulesInitiator.rulesStrings.3"
+msgid "goodthing->free, fresh [Vegetable]s"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:75
+msgctxt "Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0"
+msgid ""
+"sent->[RECIPIENT_nameDef] has accepted and joined [INITIATOR_nameDef]'s "
+"community."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:84
+msgctxt "Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0"
+msgid "sent->[RECIPIENT_nameDef] refused."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:92
+#, fuzzy
+msgctxt "SparkJailbreak.label"
+msgid "spark jailbreak"
+msgstr "TODO"
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:98
+msgctxt "SparkJailbreak.logRulesInitiator.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] spoke about the joy of [freedom], and "
+"offered a means of escape."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:98
+msgctxt "SparkJailbreak.logRulesInitiator.rulesStrings.1"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] talked about how beautiful the "
+"[TerrainFeature] is, and offered freedom."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:98
+msgctxt "SparkJailbreak.logRulesInitiator.rulesStrings.2"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] demonstrated a means of escape to "
+"[RECIPIENT_nameDef], and promised [freedom]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:98
+msgctxt "SparkJailbreak.logRulesInitiator.rulesStrings.3"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that security is "
+"lax, and encouraged escape."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:98
+msgctxt "SparkJailbreak.logRulesInitiator.rulesStrings.4"
+msgid "freedom->freedom"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:98
+msgctxt "SparkJailbreak.logRulesInitiator.rulesStrings.5"
+msgid "freedom->opportunity"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:98
+msgctxt "SparkJailbreak.logRulesInitiator.rulesStrings.6"
+msgid "freedom->home"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Prisoner.xml:98
+msgctxt "SparkJailbreak.logRulesInitiator.rulesStrings.7"
+msgid "freedom->self-determination"
+msgstr ""

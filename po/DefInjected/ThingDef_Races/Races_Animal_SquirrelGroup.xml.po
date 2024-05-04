@@ -1,0 +1,195 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:7
+#, fuzzy
+msgctxt "Squirrel.label"
+msgid "squirrel"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:9
+#, fuzzy
+msgctxt "Squirrel.description"
+msgid ""
+"One of the many hardy rodent species that follows humankind everywhere it "
+"spreads. Squirrels are distinguished by their bushy tails, which they use as"
+" umbrellas in bad weather."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:18
+msgctxt "Squirrel.tools.0.label"
+msgid "left claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:28
+msgctxt "Squirrel.tools.1.label"
+msgid "right claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:47
+msgctxt "Squirrel.tools.3.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:112
+#, fuzzy
+msgctxt "Squirrel.label"
+msgid "squirrel"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:157
+#, fuzzy
+msgctxt "Rat.label"
+msgid "rat"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:159
+#, fuzzy
+msgctxt "Rat.description"
+msgid ""
+"A widely-hated rodent known for soiling kitchens and spreading disease, rats"
+" have a way of following humans everywhere they go. It eats almost anything "
+"and lives almost anywhere."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:168
+msgctxt "Rat.tools.0.label"
+msgid "left claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:178
+msgctxt "Rat.tools.1.label"
+msgid "right claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:197
+msgctxt "Rat.tools.3.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:265
+#, fuzzy
+msgctxt "Rat.label"
+msgid "rat"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:314
+#, fuzzy
+msgctxt "Boomrat.label"
+msgid "boomrat"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:316
+#, fuzzy
+msgctxt "Boomrat.description"
+msgid ""
+"Either by deliberate genetic weaponization, or as an unusual defense "
+"mechanism, these rodent-like creatures create a powerful fire-starting "
+"explosion when killed."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:325
+msgctxt "Boomrat.tools.0.label"
+msgid "left claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:335
+msgctxt "Boomrat.tools.1.label"
+msgid "right claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:354
+msgctxt "Boomrat.tools.3.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:427
+#, fuzzy
+msgctxt "Boomrat.label"
+msgid "boomrat"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:492
+#, fuzzy
+msgctxt "Raccoon.label"
+msgid "raccoon"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:494
+#, fuzzy
+msgctxt "Raccoon.description"
+msgid ""
+"A small, hardy animal that ranges wide across forests and shrubland. It is "
+"happy to break into your garbage container, or your kitchen, to eat almost "
+"anything."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:505
+msgctxt "Raccoon.tools.0.label"
+msgid "left claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:515
+msgctxt "Raccoon.tools.1.label"
+msgid "right claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:534
+msgctxt "Raccoon.tools.3.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:600
+#, fuzzy
+msgctxt "Raccoon.label"
+msgid "raccoon"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:649
+#, fuzzy
+msgctxt "Iguana.label"
+msgid "iguana"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:651
+#, fuzzy
+msgctxt "Iguana.description"
+msgid ""
+"These large lizards normally feed on plant matter. However, when angered, "
+"their tough hide and sharp claws make them quite dangerous.\\n\\nResting "
+"iguanas hold their heads high, giving them an amusing 'proud' look. But "
+"they're not proud; they're just trying to see predators so they don't get "
+"eaten."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:661
+msgctxt "Iguana.tools.0.label"
+msgid "left claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:671
+msgctxt "Iguana.tools.1.label"
+msgid "right claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:690
+msgctxt "Iguana.tools.3.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_SquirrelGroup.xml:757
+#, fuzzy
+msgctxt "Iguana.label"
+msgid "iguana"
+msgstr "TODO"

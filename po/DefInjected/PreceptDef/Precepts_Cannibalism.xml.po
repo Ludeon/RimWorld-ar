@@ -1,0 +1,38 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/PreceptDefs/Precepts_Cannibalism.xml:6
+msgctxt "Cannibalism.label"
+msgid "cannibalism"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Cannibalism.xml:12
+msgctxt "AteHumanMeatDirect.label"
+msgid "ate human meat"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Cannibalism.xml:17
+msgctxt "AteHumanMeatAsIngredient.label"
+msgid "ate meal made from human meat"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Cannibalism.xml:22
+msgctxt "ButcheredHuman.label"
+msgid "butchered human"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Cannibalism.xml:58
+msgctxt "Cannibalism_Classic.comps.6.description"
+msgid "Humanleather apparel"
+msgstr ""

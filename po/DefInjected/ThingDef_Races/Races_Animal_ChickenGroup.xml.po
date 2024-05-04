@@ -1,0 +1,157 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:7
+#, fuzzy
+msgctxt "Chicken.label"
+msgid "chicken"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:9
+#, fuzzy
+msgctxt "Chicken.description"
+msgid ""
+"The most traditional farm bird, the chicken is raised for its eggs and meat."
+" It grows very quickly and lays eggs very often."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:76
+msgctxt "Chicken.tools.0.label"
+msgid "claws"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:85
+msgctxt "Chicken.tools.1.label"
+msgid "beak"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:94
+msgctxt "Chicken.tools.2.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:109
+#, fuzzy
+msgctxt "Chicken.label"
+msgid "chicken"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:117
+msgctxt "Chicken.lifeStages.0.label"
+msgid "chick"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:179
+msgctxt "Duck.label"
+msgid "duck"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:181
+msgctxt "Duck.description"
+msgid ""
+"A very common type of farm bird, also appearing in the wild, the duck is "
+"raised for its delicious meat. It grows quick but lays eggs quite rarely."
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:248
+msgctxt "Duck.tools.0.label"
+msgid "claws"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:257
+msgctxt "Duck.tools.1.label"
+msgid "beak"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:266
+msgctxt "Duck.tools.2.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:281
+msgctxt "Duck.label"
+msgid "duck"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:287
+msgctxt "Duck.lifeStages.0.label"
+msgid "duckling"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:345
+#, fuzzy
+msgctxt "Turkey.label"
+msgid "turkey"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:347
+#, fuzzy
+msgctxt "Turkey.description"
+msgid ""
+"A short, fat, flightless bird known for its hilarious 'gobbling' call. It "
+"has been long domesticated, but also lives in the wild."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:401
+msgctxt "Turkey.tools.0.label"
+msgid "claws"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:418
+msgctxt "Turkey.tools.1.label"
+msgid "beak"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:435
+msgctxt "Turkey.tools.2.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:454
+#, fuzzy
+msgctxt "Turkey.label"
+msgid "turkey"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:515
+msgctxt "Goose.label"
+msgid "goose"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:517
+msgctxt "Goose.description"
+msgid ""
+"A domesticated bird kept by humans as poultry for it's eggs and meat. Lays "
+"eggs very often, however they take a long time to hatch."
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:586
+msgctxt "Goose.tools.0.label"
+msgid "claws"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:595
+msgctxt "Goose.tools.1.label"
+msgid "beak"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:604
+msgctxt "Goose.tools.2.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_ChickenGroup.xml:619
+msgctxt "Goose.label"
+msgid "goose"
+msgstr ""

@@ -1,0 +1,935 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:7
+msgctxt "ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0"
+msgid "r_art_description->[physical_description_root] [context_sentence]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:7
+msgctxt "ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1"
+msgid "circumstance_group->[circumstance_phrase]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:7
+msgctxt "ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2"
+msgid "desc_sentence_group->[desc_sentence] [style_group]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:7
+msgctxt "ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3"
+msgid "context_sentence->This [depiction] refers to [tale_noun] on [DATE]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:7
+msgctxt "ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4"
+msgid "context_sentence->This [depiction] relates to [tale_noun] on [DATE]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:7
+msgctxt "ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5"
+msgid ""
+"context_sentence->This [depiction] tells the story of [tale_noun] on [DATE]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:24
+msgctxt "ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0"
+msgid "r_art_description->[physical_description_root]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:24
+msgctxt "ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1"
+msgid "desc_sentence_group->[style_group]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.0"
+msgid "style_group->[artextra_clause]. [style_clause]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.1"
+msgid "style_group->[style_clause]. [artconjunction] [artextra_clause]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.2"
+msgid "style_group->[style_clause]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.3"
+msgid "style_group->[artextra_clause]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.4"
+msgid "style_group->"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.5"
+msgid "artconjunction(p=6)->"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.6"
+msgid "artconjunction->as an interesting contrast,"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.7"
+msgid "artconjunction->rounding out the work,"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.8"
+msgid "artconjunction->in addition to that,"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.9"
+msgid "artconjunction->strikingly,"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.10"
+msgid "artconjunction->provocatively,"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.11"
+msgid "artconjunction->unusually for this kind of work,"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.12"
+msgid "artconjunction->though few would expect it,"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.13"
+msgid "artconjunction->besides that,"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.14"
+msgid "artextra_clause->the image is bordered by [subimageplural]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.15"
+msgid "artextra_clause->at the edge of the image are [subimageplural]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.16"
+msgid "artextra_clause->there is [subimagesingle] [side_position]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.17"
+msgid "artextra_clause->the subjects are in front of [subimageany]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.18"
+msgid ""
+"artextra_clause->the lower part of the image is dominated by [subimageany]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.19"
+msgid "artextra_clause->the scene takes place in the middle of a [Community]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.20"
+msgid ""
+"artextra_clause->the scene takes place on the outskirts of a [Community]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.21"
+msgid ""
+"artextra_clause->the scene takes place inside a [Community] built near a "
+"[TerrainFeature]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.22"
+msgid "artextra_clause->a [Character] [idles] [side_position]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.23"
+msgid "artextra_clause->a [PAWN_adj] [Character] [idles] [side_position]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.24"
+msgid ""
+"artextra_clause->[Quantity_adjphrase] [Character]s appear [side_position]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.25"
+msgid ""
+"artextra_clause->[Quantity_adjphrase] [PAWN_adj] [Character]s appear "
+"[side_position]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.26"
+msgid "artextra_clause->a [Animal] [idles] [side_position]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.27"
+msgid ""
+"artextra_clause->if you squint your eyes, the [composition] composition of "
+"the image reveals the outline of [subimageany]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.28"
+msgid ""
+"artextra_clause->the [emotional_expression] head of a [PAWN_adj] [PersonJob]"
+" watches over all"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.29"
+msgid ""
+"artextra_clause->a [PAWN_adj] [PersonJob] watches over all while "
+"[emotional_expression]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.30"
+msgid "artextra_clause->the head of a [PAWN_adj] [PersonJob] watches over all"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.31"
+msgid ""
+"artextra_clause->the whole image is depicted by the careful arrangement of "
+"[subimageplural]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.32"
+msgid "subimageany->[subimagesingle]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.33"
+msgid "subimageany->[subimageplural]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.34"
+msgid "subimagesingle(p=4)->a [Character]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.35"
+msgid "subimagesingle->a [TerrainFeature]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.36"
+msgid "subimagesingle->a [Community]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.37"
+msgid "subimagesingle->a [TreeType] tree"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.38"
+msgid "subimagesingle->a [Vegetable]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.39"
+msgid "subimagesingle->a [AnimalGroup] of [Animal]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.40"
+msgid "subimageplural(p=3)->[Quantity_adjphrase] [Character]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.41"
+msgid "subimageplural->[Quantity_adjphrase] [Vegetable]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.42"
+msgid "subimageplural->[Quantity_adjphrase] [Shape]s"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.43"
+msgid "pawn_adj->dead"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.44"
+msgid "pawn_adj->dying"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.45"
+msgid "pawn_adj->injured"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.46"
+msgid "pawn_adj->sleeping"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.47"
+msgid "pawn_adj->standing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.48"
+msgid "pawn_adj->sitting"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.49"
+msgid "pawn_adj->crazy"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.50"
+msgid "pawn_adj->young"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.51"
+msgid "pawn_adj->old"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.52"
+msgid "pawn_adj->[Gore]-covered"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.53"
+msgid "pawn_adj->filthy"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.54"
+msgid "pawn_adj->[Apparel]-wearing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.55"
+msgid "pawn_adj->[Weapon]-wielding"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.56"
+msgid "pawn_adj->[Vegetable]-eating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.57"
+msgid "emotional_expression->smiling"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.58"
+msgid "emotional_expression->frowning"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.59"
+msgid "emotional_expression->scowling"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.60"
+msgid "emotional_expression->laughing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.61"
+msgid "emotional_expression->staring"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.62"
+msgid "emotional_expression->crying"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.63"
+msgid "emotional_expression->screaming"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.64"
+msgid "emotional_expression->overjoyed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.65"
+msgid "idles->sits"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.66"
+msgid "idles->stands"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.67"
+msgid "idles->waits"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.68"
+msgid "idles->smiles"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.69"
+msgid "idles->lies"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.70"
+msgid "idles->poses"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.71"
+msgid "idles->appears"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.72"
+msgid "idles->is shown"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.73"
+msgid "idles->fades in"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.74"
+msgid "idles->floats"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.75"
+msgid "side_position->off to one side"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.76"
+msgid "side_position->in the background"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.77"
+msgid "side_position->in the distance"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.78"
+msgid "side_position->in the lower part of the image"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.79"
+msgid "side_position->in the upper part of the image"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.80"
+msgid "side_position->to the left of the main scene"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.81"
+msgid "side_position->to the right of the main scene"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.82"
+msgid "side_position->near the edge of the image"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.83"
+msgid "side_position->near the main subject"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.84"
+msgid "side_position->far from the main subject"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.85"
+msgid "side_position->beneath the main subject"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.86"
+msgid "side_position->behind the focal point"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.87"
+msgid "style_clause(p=4)->the work [symbolizes] [ConceptAny]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.88"
+msgid ""
+"artextra_clause->[subimagesingle] [side_position] [symbolizes] [ConceptAny]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.89"
+msgid ""
+"style_clause->the work is infused with the idea of [ConceptAny] and is done "
+"in a [artstyle_adj] style"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.90"
+msgid "style_clause->the work is executed in a [artstyle_adj] style"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.91"
+msgid ""
+"style_clause->the [artstyle_adj] style of the central scene clashes with the"
+" [artstyle_adj] depiction of the background"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.92"
+msgid ""
+"style_clause->the work has a [artstyle_adj] feeling and a [composition] "
+"structure"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.93"
+msgid "style_clause->the overall composition is [composition]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.94"
+msgid "style_clause->the style is [artstyle_adj] with [artstyle_adj] elements"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.95"
+msgid ""
+"style_clause->the image somehow expresses both [ConceptAny] and [ConceptAny]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.96"
+msgid "style_clause->the image contrasts [ConceptAny] with [ConceptAny]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.97"
+msgid ""
+"style_clause->the [composition] structure of the image almost conflicts with"
+" its [artstyle_adj] style"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.98"
+msgid "style_clause->the work is shaded in hues of [Color] and [Color]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.99"
+msgid ""
+"style_clause->almost every shape in the image seems to be [composition]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.100"
+msgid "symbolizes->symbolizes"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.101"
+msgid "symbolizes->seems to symbolize"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.102"
+msgid "symbolizes->represents"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.103"
+msgid "symbolizes->seems to represent"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.104"
+msgid "symbolizes->seems to express"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.105"
+msgid "symbolizes->reminds the viewer of"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.106"
+msgid "symbolizes->conveys the emotions of"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.107"
+msgid "symbolizes->makes the viewer think of"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.108"
+msgid "symbolizes->represents the artist's"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.109"
+msgid "symbolizes->suggests the concept of"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.110"
+msgid "depicts->depicts"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.111"
+msgid "depicts->shows"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.112"
+msgid "depicts->portrays"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.113"
+msgid "depicts->resembles"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.114"
+msgid "depicts->illustrates"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.115"
+msgid "depicts->represents"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.116"
+msgid "depicts->is shaped like"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.117"
+msgid "depiction->depiction"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.118"
+msgid "depiction->image"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.119"
+msgid "depiction->portrayal"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.120"
+msgid "depiction->representation"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.121"
+msgid "depiction->illustration"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.122"
+msgid "depiction->artwork"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.123"
+msgid "composition->triangular"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.124"
+msgid "composition->rectangular"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.125"
+msgid "composition->square"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.126"
+msgid "composition->unbalanced"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.127"
+msgid "composition->well-balanced"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.128"
+msgid "composition->dynamic"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.129"
+msgid "composition->static"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.130"
+msgid "composition->vertical"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.131"
+msgid "composition->horizontal"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.132"
+msgid "composition->focused"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.133"
+msgid "artstyle_adj->unoriginal"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.134"
+msgid "artstyle_adj->simple"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.135"
+msgid "artstyle_adj->complex and realistic"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.136"
+msgid "artstyle_adj->surrealistic"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.137"
+msgid "artstyle_adj->classical"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.138"
+msgid "artstyle_adj->modern"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.139"
+msgid "artstyle_adj->symbolic"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.140"
+msgid "artstyle_adj->amateurish yet attractive"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.141"
+msgid "artstyle_adj->detail-oriented"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.142"
+msgid "artstyle_adj->blocky"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.143"
+msgid "artstyle_adj->cubist"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.144"
+msgid "artstyle_adj->impressionistic"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.145"
+msgid "artstyle_adj->expressionistic"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.146"
+msgid "artstyle_adj->photographic"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.147"
+msgid "artstyle_adj->baroque"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.148"
+msgid "artstyle_adj->dadaist"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.149"
+msgid "artstyle_adj->glitch-art"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.150"
+msgid "artstyle_adj->pixelated"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.151"
+msgid "artstyle_adj->fauvist"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.152"
+msgid "artstyle_adj->folksy"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.153"
+msgid "artstyle_adj->figurative"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.154"
+msgid "artstyle_adj->sinuous"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.155"
+msgid "artstyle_adj->geometric"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.156"
+msgid "artstyle_adj->abstract"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.157"
+msgid "artstyle_adj->hyper-realistic"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.158"
+msgid "artstyle_adj->pop art"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.159"
+msgid "artstyle_adj->minimalistic"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.160"
+msgid "artstyle_adj->neoclassical"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.161"
+msgid "artstyle_adj->cel-shaded"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.162"
+msgid "artstyle_adj->post-impressionistic"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.163"
+msgid "artstyle_adj->purist"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.164"
+msgid "artstyle_adj->rococo"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.165"
+msgid "artstyle_adj->romanesque"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.166"
+msgid "artstyle_adj->romantic"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.167"
+msgid "artstyle_adj->graffiti-like"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.168"
+msgid "artstyle_adj->erotic"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.169"
+msgid "artstyle_adj->sensual"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Art_Descriptions.xml:35
+msgctxt "ArtDescriptionUtility_Global.rulePack.rulesStrings.170"
+msgid "artstyle_adj->heartfelt"
+msgstr ""

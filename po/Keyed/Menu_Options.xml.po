@@ -1,0 +1,455 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compendium:5
+#, fuzzy
+msgctxt "Audiovisuals"
+msgid "Audiovisuals"
+msgstr "Audiovisuals"
+
+#: compendium:6
+msgctxt "MasterVolume"
+msgid "Master volume"
+msgstr ""
+
+#: compendium:7
+#, fuzzy
+msgctxt "GameVolume"
+msgid "Game volume"
+msgstr "Game volume"
+
+#: compendium:8
+#, fuzzy
+msgctxt "MusicVolume"
+msgid "Music volume"
+msgstr "Music volume"
+
+#: compendium:9
+#, fuzzy
+msgctxt "AmbientVolume"
+msgid "Ambience volume"
+msgstr "TODO"
+
+#: compendium:10
+msgctxt "UIVolume"
+msgid "UI volume"
+msgstr ""
+
+#: compendium:11
+msgctxt "MasterVolumeTooltip"
+msgid "Affects all sounds."
+msgstr ""
+
+#: compendium:12
+msgctxt "GameVolumeTooltip"
+msgid "Affects all in world sounds, e.g. chopping trees, building walls."
+msgstr ""
+
+#: compendium:13
+msgctxt "MusicVolumeTooltip"
+msgid "Affects music."
+msgstr ""
+
+#: compendium:14
+msgctxt "AmbientVolumeTooltip"
+msgid "Affects all ambient sounds, e.g. wind, insects."
+msgstr ""
+
+#: compendium:15
+msgctxt "UIVolumeTooltip"
+msgid "Affects all interface sounds, e.g. button clicks, messages."
+msgstr ""
+
+#: compendium:16
+#, fuzzy
+msgctxt "Antialiasing"
+msgid "Anti-aliasing"
+msgstr "Anti-aliasing"
+
+#: compendium:19
+#, fuzzy
+msgctxt "EdgeScreenScroll"
+msgid "Screen-edge mouse scroll"
+msgstr "Screen-edge mouse scroll"
+
+#: compendium:20
+msgctxt "ZoomToMouse"
+msgid "Zoom to mouse"
+msgstr ""
+
+#: compendium:21
+#, fuzzy
+msgctxt "PauseOnLoad"
+msgid "Pause on load"
+msgstr "Pause on load"
+
+#: compendium:22
+#, fuzzy
+msgctxt "PauseOnUrgentLetter"
+msgid "Pause on urgent letter"
+msgstr "Pause on urgent letter"
+
+#: compendium:23
+msgctxt "AutomaticPauseModeSetting"
+msgid "Pause on letter"
+msgstr ""
+
+#: compendium:24
+#, fuzzy
+msgctxt "CustomCursor"
+msgid "Disable game-specific cursor"
+msgstr "Custom cursor"
+
+#: compendium:25
+#, fuzzy
+msgctxt "HatsShownOnlyOnMap"
+msgid "Hide hats on UI"
+msgstr "Hats shown only on game map"
+
+#: compendium:26
+#, fuzzy
+msgctxt "UIScale"
+msgid "UI scale"
+msgstr "UI scale"
+
+#: compendium:27
+#, fuzzy
+msgctxt "KeyboardConfig"
+msgid "Keyboard configuration"
+msgstr "Keyboard configuration"
+
+#: compendium:28
+msgctxt "ControllerConfig"
+msgid "Controller configuration"
+msgstr ""
+
+#: compendium:29
+msgctxt "ModifyConfig"
+msgid "Modify"
+msgstr ""
+
+#: compendium:30
+#, fuzzy
+msgctxt "ChooseLanguage"
+msgid "Choose language"
+msgstr "Choose language"
+
+#: compendium:31
+#, fuzzy
+msgctxt "ResetAdaptiveTutor"
+msgid "Reset learning helper"
+msgstr "Reset learning helper"
+
+#: compendium:32
+#, fuzzy
+msgctxt "AdaptiveTutorIsReset"
+msgid "Tutor is reset. You will be now be re-taught all lessons from scratch."
+msgstr ""
+"Tutor is reset. You will be now be re-taught all lessons from scratch."
+
+#: compendium:33
+msgctxt "SteamDeckKeyboardMode"
+msgid "Keyboard mode"
+msgstr ""
+
+#: compendium:34
+#, fuzzy
+msgctxt "RunInBackground"
+msgid "Run in background"
+msgstr "Run in background"
+
+#: compendium:35
+#, fuzzy
+msgctxt "DevelopmentMode"
+msgid "Development mode"
+msgstr "Development mode"
+
+#: compendium:36
+#, fuzzy
+msgctxt "ResetModsConfigOnCrash"
+msgid "Auto-reset mods config on crash"
+msgstr "Auto-reset mods config on crash"
+
+#: compendium:37
+msgctxt "DisableQuickStartCryptoSickness"
+msgid "Quick start has no cryptosleep sickness"
+msgstr ""
+
+#: compendium:38
+msgctxt "StartDevPaletteOn"
+msgid "Start game with dev palette on"
+msgstr ""
+
+#: compendium:39
+msgctxt "OpenLogOnWarnings"
+msgid "Open log on warnings"
+msgstr ""
+
+#: compendium:40
+msgctxt "CloseLogWindowOnEscape"
+msgid "Close log by pressing cancel"
+msgstr ""
+
+#: compendium:41
+#, fuzzy
+msgctxt "LogVerbose"
+msgid "Verbose logging"
+msgstr "Verbose logging"
+
+#: compendium:42
+msgctxt "SaveGameDataFolder"
+msgid "Save data folder"
+msgstr ""
+
+#: compendium:43
+msgctxt "SaveGameDataLocation"
+msgid "Save data location"
+msgstr ""
+
+#: compendium:44
+msgctxt "LogFileFolder"
+msgid "Log file folder"
+msgstr ""
+
+#: compendium:45
+msgctxt "LogFileLocation"
+msgid "Log file location"
+msgstr ""
+
+#: compendium:46
+msgctxt "OpenFolder"
+msgid "Open"
+msgstr ""
+
+#: compendium:47
+msgctxt "ShowFolder"
+msgid "Show"
+msgstr ""
+
+#: compendium:48
+#, fuzzy
+msgctxt "NamesYouWantToSee"
+msgid "Preferred \"Name in Game\" characters"
+msgstr "Names of player-created characters you want to see:"
+
+#: compendium:49
+msgctxt "NamesYouWantToSeeSubText"
+msgid "These characters will be more likely to appear randomly during play."
+msgstr ""
+
+#: compendium:50
+#, fuzzy
+msgctxt "AddName"
+msgid "Add name"
+msgstr "Add name"
+
+#: compendium:51
+#, fuzzy
+msgctxt "TypeFirstNickOrLastName"
+msgid "Type the first name, nickname, or last name."
+msgstr "Type the first name, nickname, or last name."
+
+#: compendium:52
+#, fuzzy
+msgctxt "MessageAlreadyPreferredName"
+msgid "This name is already on the preferred list."
+msgstr "This name is already on the preferred list."
+
+#: compendium:53
+#, fuzzy
+msgctxt "ChangeStoryteller"
+msgid "Storyteller settings"
+msgstr "Choose storyteller"
+
+#: compendium:54
+#, fuzzy
+msgctxt "AutosaveInterval"
+msgid "Autosave interval"
+msgstr "Autosave interval"
+
+#: compendium:55
+msgctxt "AutosaveIntervalTooltip"
+msgid "The number of in game days between each auto save."
+msgstr ""
+
+#: compendium:56
+#, fuzzy
+msgctxt "TemperatureMode"
+msgid "Temperature unit"
+msgstr "Temperature mode"
+
+#: compendium:57
+#, fuzzy
+msgctxt "ShowRealtimeClock"
+msgid "Show realtime clock"
+msgstr "Show realtime clock"
+
+#: compendium:58
+msgctxt "TwelveHourClockMode"
+msgid "Use 12 hour clock"
+msgstr ""
+
+#: compendium:59
+msgctxt "DisableTinyText"
+msgid "Disable tiny font"
+msgstr ""
+
+#: compendium:60
+#, fuzzy
+msgctxt "MaxNumberOfPlayerSettlements"
+msgid "Maximum number of colonies: {0}"
+msgstr "TODO"
+
+#: compendium:61
+msgctxt "AutosavesCount"
+msgid "Autosaves count: {0}"
+msgstr ""
+
+#: compendium:62
+msgctxt "MapDragSensitivity"
+msgid "Map mouse drag sensitivity"
+msgstr ""
+
+#: compendium:63
+#, fuzzy
+msgctxt "PlantWindSway"
+msgid "Plant wind sway"
+msgstr "Plant wind sway"
+
+#: compendium:64
+#, fuzzy
+msgctxt "EnableTestMapSizes"
+msgid "Enable test map sizes"
+msgstr "TODO"
+
+#: compendium:65
+#, fuzzy
+msgctxt "MaxPermadeathAutosaveIntervalInfo"
+msgid "Maximum autosave interval in permadeath mode is {0} day."
+msgstr "Maximum autosave interval in permadeath mode is {0} day."
+
+#: compendium:66
+#, fuzzy
+msgctxt "ModSettings"
+msgid "Mod Settings"
+msgstr "Mod Settings"
+
+#: compendium:67
+#, fuzzy
+msgctxt "PermanentlyDisableDevMode"
+msgid "Permanently disable development mode"
+msgstr "TODO"
+
+#: compendium:68
+msgctxt "TextureCompression"
+msgid "Texture compression"
+msgstr ""
+
+#: compendium:69
+msgctxt "TextureCompression_Tooltip"
+msgid ""
+"Turning off texture compression will use much more video memory, but makes "
+"textures look slightly better in detailed areas. Only turn this off if you "
+"know you have lots of extra video memory.\\n\\nNote that using certain mods "
+"will often consume much more video memory, so you may need to turn this on "
+"if you add certain mods."
+msgstr ""
+
+#: compendium:70
+msgctxt "SmoothCameraJumps"
+msgid "Smooth camera jumps"
+msgstr ""
+
+#: compendium:71
+msgctxt "SmoothCameraJumpsDesc"
+msgid ""
+"When enabled, the camera will quickly pan when focusing on a new location. "
+"When disabled, the camera will jump instantly."
+msgstr ""
+
+#: compendium:74
+#, fuzzy
+msgctxt "Resolution"
+msgid "Resolution"
+msgstr "Resolution"
+
+#: compendium:75
+#, fuzzy
+msgctxt "Fullscreen"
+msgid "Fullscreen"
+msgstr "Fullscreen"
+
+#: compendium:76
+msgctxt "BorderlessFullscreen"
+msgid "Borderless fullscreen"
+msgstr ""
+
+#: compendium:77
+msgctxt "BorderlessFullscreenInstructions"
+msgid ""
+"To run RimWorld in borderless fullscreen mode:\\n\\n1) Open Steam\\n2) Go to"
+" the \"Library\" tab at the top\\n3) Find RimWorld on the list and right-"
+"click it\\n4) Choose \"Properties...\"\\n5) Add \"-popupwindow\" without "
+"quotes to \"Launch options\" in the \"General\" tab\\n6) Restart game\\n7) "
+"If done correctly, you won't see this window\\n\\nHint: Use Windows Key + "
+"Shift + Left/Right to move the window between your monitors."
+msgstr ""
+
+#: compendium:80
+#, fuzzy
+msgctxt "SelectMod"
+msgid "Select mod..."
+msgstr "Select mod..."
+
+#: compendium:81
+#, fuzzy
+msgctxt "NoConfigurableMods"
+msgid "No configurable mods loaded."
+msgstr "No configurable mods loaded."
+
+#: compendium:84
+msgctxt "RestoreToDefaultSettingsLabel"
+msgid "Restore all settings to default"
+msgstr ""
+
+#: compendium:85
+#, fuzzy
+msgctxt "RestoreToDefaultSettings"
+msgid "Restore defaults"
+msgstr "TODO"
+
+#: compendium:86
+#, fuzzy
+msgctxt "ResetAndRestart"
+msgid "All settings have been reset. The game will now restart automatically."
+msgstr "TODO"
+
+#: compendium:87
+msgctxt "ResetAndRestartConfirmationDialog"
+msgid ""
+"All settings will be reset to the default and the game will be restarted. "
+"Unsaved progress will be lost,\\n\\nContinue?"
+msgstr ""
+
+#: compendium:88
+msgctxt "ChangedTextureCompressionRestart"
+msgid ""
+"Changing texture compression settings requires a restart. Unsaved progress "
+"will be lost.\\n\\nContinue?"
+msgstr ""
+
+#: compendium:91
+msgctxt "SetBackgroundImage"
+msgid "Menu background"
+msgstr ""

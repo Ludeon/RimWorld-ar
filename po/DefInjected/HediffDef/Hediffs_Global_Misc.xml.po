@@ -1,0 +1,361 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:6
+#, fuzzy
+msgctxt "BloodLoss.label"
+msgid "blood loss"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:7
+msgctxt "BloodLoss.description"
+msgid ""
+"A reduction in the normal blood volume. Minor blood loss has relatively mild effects, but when blood loss becomes severe, oxygen transport becomes badly impaired and the victim loses the ability to move. Extreme blood loss leads to death.\n"
+"\\nBlood loss naturally recovers over time as the body slowly regenerates its blood supply."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:12
+msgctxt "BloodLoss.stages.0.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:17
+msgctxt "BloodLoss.stages.1.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:27
+msgctxt "BloodLoss.stages.2.label"
+msgid "moderate"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:37
+msgctxt "BloodLoss.stages.3.label"
+msgid "severe"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:47
+msgctxt "BloodLoss.stages.4.label"
+msgid "extreme"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:80
+#, fuzzy
+msgctxt "Anesthetic.label"
+msgid "anesthetic"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:81
+msgctxt "Anesthetic.description"
+msgid ""
+"Sleep drugs in the bloodstream. Anesthetic renders creatures unconscious."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:96
+msgctxt "Anesthetic.stages.0.label"
+msgid "wearing off"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:122
+msgctxt "Anesthetic.stages.1.label"
+msgid "woozy"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:161
+msgctxt "Anesthetic.stages.2.label"
+msgid "sedated"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:175
+#, fuzzy
+msgctxt "CatatonicBreakdown.label"
+msgid "catatonic breakdown"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:177
+msgctxt "CatatonicBreakdown.description"
+msgid ""
+"A state of mental shock which leads to a total inability to function. The "
+"victim collapses, effectively unconscious."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:200
+#, fuzzy
+msgctxt "PsychicShock.label"
+msgid "psychic shock"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:202
+msgctxt "PsychicShock.description"
+msgid ""
+"A state of psychic chaos in the brain and mind. Caused by psychic attacks or"
+" critical level of neural heat, this effect is debilitating until it wears "
+"off."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:222
+msgctxt "PsychicComa.label"
+msgid "psychic coma"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:224
+msgctxt "PsychicComa.description"
+msgid ""
+"A form of benign coma during which the brain recovers from a psychic "
+"overload."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:244
+msgctxt "PsychicHangover.label"
+msgid "psychic hangover"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:246
+msgctxt "PsychicHangover.description"
+msgid ""
+"An after-effect of neural heat. Psychic hangover is bothersome, but not "
+"dangerous."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:260
+msgctxt "PsychicHangover.stages.0.label"
+msgid "forming"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:264
+msgctxt "PsychicHangover.stages.1.label"
+msgid "buzzing"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:286
+msgctxt "BrainShock.label"
+msgid "brain shock"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:288
+msgctxt "BrainShock.description"
+msgid ""
+"After-effects of an electrical shock to the brain. This is generally cause "
+"by feedback from brain implants hit by EMP pulses."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:309
+#, fuzzy
+msgctxt "CryptosleepSickness.label"
+msgid "cryptosleep sickness"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:310
+msgctxt "CryptosleepSickness.description"
+msgid ""
+"After-effects of using a cryptosleep pod. Cryptosleep suspends and replaces "
+"many bodily functions in order to prevent aging and death. Upon exiting "
+"cryptosleep, the body takes time to restart and rebalance its natural "
+"metabolic processes. While this is ongoing, the patient suffers from nausea,"
+" dizziness, and a sense of fuzziness in the mind."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:343
+#, fuzzy
+msgctxt "FoodPoisoning.label"
+msgid "food poisoning"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:344
+msgctxt "FoodPoisoning.description"
+msgid ""
+"Gastrointestinal illness caused by consuming decayed or unclean food. It can"
+" be caused by eating rotten food, by incompetent cooks accidentally "
+"poisoning meals, or by eating from unsafe wild sources. The patient will "
+"vomit and feel sick for some time."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:354
+msgctxt "FoodPoisoning.stages.0.label"
+msgid "recovering"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:381
+msgctxt "FoodPoisoning.stages.1.label"
+msgid "major"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:413
+msgctxt "FoodPoisoning.stages.2.label"
+msgid "initial"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:445
+#, fuzzy
+msgctxt "ToxicBuildup.label"
+msgid "toxic buildup"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:446
+msgctxt "ToxicBuildup.description"
+msgid ""
+"Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n"
+"\\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n"
+"\\nIf a creature dies with toxic buildup, there's a chance that they cannot be eaten. The higher the toxic buildup, the higher the chance."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:467
+msgctxt "ToxicBuildup.stages.0.label"
+msgid "initial"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:471
+msgctxt "ToxicBuildup.stages.1.label"
+msgid "initial"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:481
+msgctxt "ToxicBuildup.stages.2.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:491
+msgctxt "ToxicBuildup.stages.3.label"
+msgid "moderate"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:516
+msgctxt "ToxicBuildup.stages.4.label"
+msgid "serious"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:541
+msgctxt "ToxicBuildup.stages.5.label"
+msgid "extreme"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:574
+#, fuzzy
+msgctxt "Pregnant.label"
+msgid "pregnant"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:577
+msgctxt "Pregnant.description"
+msgid ""
+"This creature is gestating offspring. It will give birth if the pregnancy "
+"comes to term. If starved or injured, there may be a miscarriage."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:593
+msgctxt "Pregnant.stages.0.label"
+msgid "early-stage"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:597
+msgctxt "Pregnant.stages.1.label"
+msgid "middle-stage"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:607
+msgctxt "Pregnant.stages.2.label"
+msgid "late-stage"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:622
+#, fuzzy
+msgctxt "HeartAttack.label"
+msgid "heart attack"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:624
+msgctxt "HeartAttack.description"
+msgid ""
+"A disruption in the heart's normal beating rhythm. Heart attacks can be "
+"debilitatingly painful. They can worsen and lead to death, or recover."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:632
+msgctxt "HeartAttack.stages.0.label"
+msgid "painful"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:643
+msgctxt "HeartAttack.stages.1.label"
+msgid "debilitating"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:655
+msgctxt "HeartAttack.stages.2.label"
+msgid "fatal"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:663
+#, fuzzy
+msgctxt "DrugOverdose.label"
+msgid "drug overdose"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:665
+msgctxt "DrugOverdose.description"
+msgid ""
+"Generalized toxic effects due to over-concentration of drugs in the "
+"bloodstream."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:681
+msgctxt "DrugOverdose.stages.0.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:685
+msgctxt "DrugOverdose.stages.1.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:696
+msgctxt "DrugOverdose.stages.2.label"
+msgid "major"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:720
+#, fuzzy
+msgctxt "ResurrectionSickness.label"
+msgid "resurrection sickness"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:721
+msgctxt "ResurrectionSickness.description"
+msgid ""
+"After-effects of resurrection. Artificially-restarted body processes take "
+"time to rebalance themselves."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:747
+msgctxt "CoveredInFirefoam.description"
+msgid "Covered in a fire-retardant foam."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:748
+msgctxt "CoveredInFirefoam.label"
+msgid "covered in firefoam"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:766
+msgctxt "PsychicInvisibility.label"
+msgid "psychic invisibility"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Misc.xml:768
+msgctxt "PsychicInvisibility.description"
+msgid ""
+"Psychically-induced invisibility. This actually affects others nearby, "
+"making their brains unable to perceive the sight of this individual, even if"
+" the eyes are unaffected."
+msgstr ""

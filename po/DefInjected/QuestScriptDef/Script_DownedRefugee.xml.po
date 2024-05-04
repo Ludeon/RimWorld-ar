@@ -1,0 +1,71 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/QuestScriptDefs/Script_DownedRefugee.xml:11
+msgctxt "OpportunitySite_DownedRefugee.questNameRules.rulesStrings.0"
+msgid "questName->Saving [refugee_nameDef]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_DownedRefugee.xml:11
+msgctxt "OpportunitySite_DownedRefugee.questNameRules.rulesStrings.1"
+msgid "questName->The Rescue of [refugee_nameDef]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_DownedRefugee.xml:11
+msgctxt "OpportunitySite_DownedRefugee.questNameRules.rulesStrings.2"
+msgid "questName->[refugee_nameDef]'s Rescue"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_DownedRefugee.xml:11
+msgctxt "OpportunitySite_DownedRefugee.questNameRules.rulesStrings.3"
+msgid "questName->[refugee_nameDef]'s Salvation"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_DownedRefugee.xml:19
+msgctxt "OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings.0"
+msgid ""
+"questDescription(askerIsNull==true)->[refugee_nameDef] contacts you and requests help. [refugee_pronoun] is wounded and unable to move.\n"
+"\\n[refugee_nameDef] is a [refugee_age]-year-old [refugee_title]. [refugee_pronoun] promises to join you if you rescue [refugee_objective].\n"
+"\\n[refugee_nameDef] says that [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_DownedRefugee.xml:19
+msgctxt "OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings.1"
+msgid ""
+"questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], says that [asker_possessive] friend has been wounded while traveling. The victim is [refugee_nameIndef], a [refugee_age]-year-old [refugee_title].\n"
+"\\n[asker_nameDef] has nobody to spare to rescue [refugee_nameDef], but says that if you can make it to [refugee_nameDef]'s position and rescue [refugee_objective], [refugee_pronoun] will join you.\n"
+"\\n[asker_nameDef] says that [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_DownedRefugee.xml:19
+msgctxt "OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings.2"
+msgid "pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_DownedRefugee.xml:19
+msgctxt "OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings.3"
+msgid "pawnInvolvedInQuestInfo->"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_DownedRefugee.xml:124
+msgctxt "OpportunitySite_DownedRefugee.root.nodes.11.node.nodes.11.label"
+msgid "Quest expired: [resolvedQuestName]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_DownedRefugee.xml:125
+msgctxt "OpportunitySite_DownedRefugee.root.nodes.11.node.nodes.11.text"
+msgid ""
+"[refugee_nameDef]'s signal has been lost, and [refugee_pronoun] can no "
+"longer be rescued. The quest [resolvedQuestName] has expired."
+msgstr ""

@@ -1,0 +1,111 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Scenarios/Scenarios_Classic.xml:6
+#, fuzzy
+msgctxt "Crashlanded.label"
+msgid "Crashlanded"
+msgstr "TODO"
+
+#: Defs/Scenarios/Scenarios_Classic.xml:7
+#, fuzzy
+msgctxt "Crashlanded.description"
+msgid ""
+"The three of you awake in your cryptosleep sarcophagi to the sound of sirens"
+" and ripping metal. You barely get to the escape pods before the ship is "
+"torn apart. Some time later, you land on this unknown rimworld."
+msgstr "TODO"
+
+#: Defs/Scenarios/Scenarios_Classic.xml:137
+msgctxt "Tutorial.label"
+msgid "tutorial"
+msgstr ""
+
+#: Defs/Scenarios/Scenarios_Classic.xml:153
+#, fuzzy
+msgctxt "LostTribe.label"
+msgid "Lost Tribe"
+msgstr "TODO"
+
+#: Defs/Scenarios/Scenarios_Classic.xml:154
+#, fuzzy
+msgctxt "LostTribe.description"
+msgid ""
+"Your tribe was destroyed by the great blood machines sent by the gods. Five "
+"of you managed to escape. Now, it's time to build up a new home.\\n\\nNote: "
+"Since you'll start poor and lack technology, this is a difficult scenario."
+msgstr "TODO"
+
+#: Defs/Scenarios/Scenarios_Classic.xml:250
+msgctxt "LostTribe.scenario.parts.14.text"
+msgid ""
+"The gods were very angry. The blood machines came at night. They swept "
+"through your village, cutting and burning your people with their blades and "
+"devil-fire.\\n\\nOnly a few of you escaped.\\n\\nNow, after a harrowing "
+"journey, with no friends to turn to, you must build a new home in the "
+"wilderness - like your ancestors did."
+msgstr ""
+
+#: Defs/Scenarios/Scenarios_Classic.xml:263
+#, fuzzy
+msgctxt "TheRichExplorer.label"
+msgid "The Rich Explorer"
+msgstr "TODO"
+
+#: Defs/Scenarios/Scenarios_Classic.xml:264
+#, fuzzy
+msgctxt "TheRichExplorer.description"
+msgid ""
+"People called you crazy for leaving your glitterworld home, but you always "
+"yearned to explore the stars - outside the neurosimulator. Now you're at the"
+" end of your long journey in cryptosleep, landing on an unknown rimworld to "
+"see what it's like.\\n\\nNote: Since your starting character will lack some "
+"skills, this is an especially difficult scenario in the early game."
+msgstr "TODO"
+
+#: Defs/Scenarios/Scenarios_Classic.xml:344
+msgctxt "TheRichExplorer.scenario.parts.12.text"
+msgid ""
+"The neurosimulations, holo-games, and free-orgies were never enough for you."
+" You wanted more - the grit and consequence of real life, like they talk "
+"about in the history books. You wanted to know what real challenge and "
+"consequence feel like.\\n\\nNow, after a journey of decades in cryptosleep, "
+"you're landing on this unknown rimworld. Real consequences await you."
+msgstr ""
+
+#: Defs/Scenarios/Scenarios_Classic.xml:357
+#, fuzzy
+msgctxt "NakedBrutality.label"
+msgid "Naked Brutality"
+msgstr "TODO"
+
+#: Defs/Scenarios/Scenarios_Classic.xml:358
+#, fuzzy
+msgctxt "NakedBrutality.description"
+msgid ""
+"You went under anesthetic for a minor surgery. Now you've awoken in a drop "
+"pod crashing into a distant planet. You're naked, alone, and totally "
+"unprepared. Can you survive?\\n\\nWarning: There is nothing fair about this "
+"scenario - it is extremely difficult and death can happen for any reason."
+msgstr "TODO"
+
+#: Defs/Scenarios/Scenarios_Classic.xml:395
+msgctxt "NakedBrutality.scenario.parts.4.text"
+msgid ""
+"It was supposed to be a minor surgery. Just an hour under anesthetic. You "
+"felt totally safe.\\n\\nNow you've awoken inside a drop pod punching through"
+" the atmosphere of a distant rimworld.\\n\\nAside from a slick of mysterious"
+" goo all over your body, you are totally naked. With no preparation, no "
+"supplies, and no tools, can you survive?"
+msgstr ""

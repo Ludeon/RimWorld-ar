@@ -1,0 +1,907 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compendium:5
+#, fuzzy
+msgctxt "Dark"
+msgid "Dark"
+msgstr "Dark"
+
+#: compendium:6
+#, fuzzy
+msgctxt "Lit"
+msgid "Lit"
+msgstr "Lit"
+
+#: compendium:7
+#, fuzzy
+msgctxt "LitBrightly"
+msgid "Brightly lit"
+msgstr "Brightly lit"
+
+#: compendium:10
+#, fuzzy
+msgctxt "PriceTypeVeryCheap"
+msgid "very cheap"
+msgstr "very cheap"
+
+#: compendium:11
+#, fuzzy
+msgctxt "PriceTypeCheap"
+msgid "cheap"
+msgstr "cheap"
+
+#: compendium:12
+#, fuzzy
+msgctxt "PriceTypeNormal"
+msgid "normal"
+msgstr "normal"
+
+#: compendium:13
+#, fuzzy
+msgctxt "PriceTypeExpensive"
+msgid "expensive"
+msgstr "expensive"
+
+#: compendium:14
+#, fuzzy
+msgctxt "PriceTypeExorbitant"
+msgid "exorbitant"
+msgstr "exorbitant"
+
+#: compendium:17
+#, fuzzy
+msgctxt "StoragePriorityUnstored"
+msgid "unstored"
+msgstr "unstored"
+
+#: compendium:18
+#, fuzzy
+msgctxt "StoragePriorityLow"
+msgid "low"
+msgstr "low"
+
+#: compendium:19
+#, fuzzy
+msgctxt "StoragePriorityNormal"
+msgid "normal"
+msgstr "normal"
+
+#: compendium:20
+#, fuzzy
+msgctxt "StoragePriorityPreferred"
+msgid "preferred"
+msgstr "preferred"
+
+#: compendium:21
+#, fuzzy
+msgctxt "StoragePriorityImportant"
+msgid "important"
+msgstr "important"
+
+#: compendium:22
+#, fuzzy
+msgctxt "StoragePriorityCritical"
+msgid "critical"
+msgstr "critical"
+
+#: compendium:25
+#, fuzzy
+msgctxt "FoodTypeFlags_VegetableOrFruit"
+msgid "vegetables"
+msgstr "vegetables"
+
+#: compendium:26
+#, fuzzy
+msgctxt "FoodTypeFlags_Meat"
+msgid "raw meat"
+msgstr "raw meat"
+
+#: compendium:27
+#, fuzzy
+msgctxt "FoodTypeFlags_Corpse"
+msgid "corpses"
+msgstr "corpses"
+
+#: compendium:28
+#, fuzzy
+msgctxt "FoodTypeFlags_Seed"
+msgid "seeds"
+msgstr "seeds"
+
+#: compendium:29
+#, fuzzy
+msgctxt "FoodTypeFlags_AnimalProduct"
+msgid "animal products"
+msgstr "animal products"
+
+#: compendium:30
+#, fuzzy
+msgctxt "FoodTypeFlags_Plant"
+msgid "live plants"
+msgstr "live plants"
+
+#: compendium:31
+#, fuzzy
+msgctxt "FoodTypeFlags_Tree"
+msgid "live trees"
+msgstr "live trees"
+
+#: compendium:32
+#, fuzzy
+msgctxt "FoodTypeFlags_Meal"
+msgid "meals"
+msgstr "meals"
+
+#: compendium:33
+#, fuzzy
+msgctxt "FoodTypeFlags_Processed"
+msgid "processed foods"
+msgstr "processed foods"
+
+#: compendium:34
+#, fuzzy
+msgctxt "FoodTypeFlags_Liquor"
+msgid "liquor"
+msgstr "liquor"
+
+#: compendium:35
+#, fuzzy
+msgctxt "FoodTypeFlags_Kibble"
+msgid "kibble"
+msgstr "kibble"
+
+#: compendium:38
+#, fuzzy
+msgctxt "QualityCategory_Awful"
+msgid "awful"
+msgstr "awful"
+
+#: compendium:39
+#, fuzzy
+msgctxt "QualityCategory_Poor"
+msgid "poor"
+msgstr "poor"
+
+#: compendium:40
+#, fuzzy
+msgctxt "QualityCategory_Normal"
+msgid "normal"
+msgstr "normal"
+
+#: compendium:41
+#, fuzzy
+msgctxt "QualityCategory_Good"
+msgid "good"
+msgstr "good"
+
+#: compendium:42
+#, fuzzy
+msgctxt "QualityCategory_Excellent"
+msgid "excellent"
+msgstr "excellent"
+
+#: compendium:43
+#, fuzzy
+msgctxt "QualityCategory_Masterwork"
+msgid "masterwork"
+msgstr "masterwork"
+
+#: compendium:44
+#, fuzzy
+msgctxt "QualityCategory_Legendary"
+msgid "legendary"
+msgstr "legendary"
+
+#: compendium:45
+#, fuzzy
+msgctxt "QualityCategoryShort_Awful"
+msgid "awfl"
+msgstr "awfl"
+
+#: compendium:46
+#, fuzzy
+msgctxt "QualityCategoryShort_Poor"
+msgid "poor"
+msgstr "poor"
+
+#: compendium:47
+#, fuzzy
+msgctxt "QualityCategoryShort_Normal"
+msgid "norm"
+msgstr "norm"
+
+#: compendium:48
+#, fuzzy
+msgctxt "QualityCategoryShort_Good"
+msgid "good"
+msgstr "good"
+
+#: compendium:49
+#, fuzzy
+msgctxt "QualityCategoryShort_Excellent"
+msgid "exc"
+msgstr "exc"
+
+#: compendium:50
+#, fuzzy
+msgctxt "QualityCategoryShort_Masterwork"
+msgid "mast"
+msgstr "mast"
+
+#: compendium:51
+#, fuzzy
+msgctxt "QualityCategoryShort_Legendary"
+msgid "legd"
+msgstr "legd"
+
+#: compendium:54
+#, fuzzy
+msgctxt "HungerLevel_Starving"
+msgid "Starving"
+msgstr "Starving"
+
+#: compendium:55
+#, fuzzy
+msgctxt "HungerLevel_UrgentlyHungry"
+msgid "Urgently hungry"
+msgstr "Urgently hungry"
+
+#: compendium:56
+#, fuzzy
+msgctxt "HungerLevel_Hungry"
+msgid "Hungry"
+msgstr "Hungry"
+
+#: compendium:57
+#, fuzzy
+msgctxt "HungerLevel_Fed"
+msgid "Fed"
+msgstr "Fed"
+
+#: compendium:60
+#, fuzzy
+msgctxt "HungerLevel_Exhausted"
+msgid "Exhausted"
+msgstr "Exhausted"
+
+#: compendium:61
+#, fuzzy
+msgctxt "HungerLevel_VeryTired"
+msgid "Very tired"
+msgstr "Very tired"
+
+#: compendium:62
+#, fuzzy
+msgctxt "HungerLevel_Tired"
+msgid "Tired"
+msgstr "Tired"
+
+#: compendium:63
+#, fuzzy
+msgctxt "HungerLevel_Rested"
+msgid "Rested"
+msgstr "Rested"
+
+#: compendium:66
+#, fuzzy
+msgctxt "Hilliness_Flat"
+msgid "flat"
+msgstr "flat"
+
+#: compendium:67
+#, fuzzy
+msgctxt "Hilliness_SmallHills"
+msgid "small hills"
+msgstr "small hills"
+
+#: compendium:68
+#, fuzzy
+msgctxt "Hilliness_LargeHills"
+msgid "large hills"
+msgstr "large hills"
+
+#: compendium:69
+#, fuzzy
+msgctxt "Hilliness_Mountainous"
+msgid "mountainous"
+msgstr "mountainous"
+
+#: compendium:70
+#, fuzzy
+msgctxt "Hilliness_Impassable"
+msgid "impassable"
+msgstr "impassable"
+
+#: compendium:73
+#, fuzzy
+msgctxt "WorkshopInteractStage_CreatingItem"
+msgid "Creating"
+msgstr "Creating"
+
+#: compendium:74
+#, fuzzy
+msgctxt "WorkshopInteractStage_SubmittingItem"
+msgid "Submitting"
+msgstr "Submitting"
+
+#: compendium:75
+#, fuzzy
+msgctxt "EItemUpdateStatus_k_EItemUpdateStatusInvalid"
+msgid "Invalid"
+msgstr "Invalid"
+
+#: compendium:76
+#, fuzzy
+msgctxt "EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig"
+msgid "Preparing config data"
+msgstr "Preparing config data"
+
+#: compendium:77
+#, fuzzy
+msgctxt "EItemUpdateStatus_k_EItemUpdateStatusPreparingContent"
+msgid "Preparing content files"
+msgstr "Preparing content files"
+
+#: compendium:78
+#, fuzzy
+msgctxt "EItemUpdateStatus_k_EItemUpdateStatusUploadingContent"
+msgid "Uploading content"
+msgstr "Uploading content"
+
+#: compendium:79
+#, fuzzy
+msgctxt "EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile"
+msgid "Uploading preview file"
+msgstr "Uploading preview file"
+
+#: compendium:80
+#, fuzzy
+msgctxt "EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges"
+msgid "Committing changes"
+msgstr "Committing changes"
+
+#: compendium:83
+msgctxt "ContentSource_OfficialModsFolder"
+msgid "Official content"
+msgstr ""
+
+#: compendium:84
+msgctxt "ContentSource_ModsFolder"
+msgid "Local folder"
+msgstr ""
+
+#: compendium:85
+#, fuzzy
+msgctxt "ContentSource_SteamWorkshop"
+msgid "Steam Workshop"
+msgstr "Steam Workshop"
+
+#: compendium:88
+#, fuzzy
+msgctxt "MedicalCareCategory_NoCare"
+msgid "no medical care"
+msgstr "No medical care"
+
+#: compendium:89
+#, fuzzy
+msgctxt "MedicalCareCategory_NoMeds"
+msgid "doctor care, but no medicine"
+msgstr "Doctor care, but no medicine"
+
+#: compendium:90
+#, fuzzy
+msgctxt "MedicalCareCategory_HerbalOrWorse"
+msgid "herbal medicine or worse"
+msgstr "Herbal medicine or worse"
+
+#: compendium:91
+#, fuzzy
+msgctxt "MedicalCareCategory_NormalOrWorse"
+msgid "industrial-tech medicine or worse"
+msgstr "Normal medicine or worse"
+
+#: compendium:92
+#, fuzzy
+msgctxt "MedicalCareCategory_Best"
+msgid "best quality medicine"
+msgstr "Best quality medical care"
+
+#: compendium:95
+#, fuzzy
+msgctxt "HostilityResponseMode_Ignore"
+msgid "Ignore"
+msgstr "Ignore"
+
+#: compendium:96
+#, fuzzy
+msgctxt "HostilityResponseMode_Attack"
+msgid "Attack"
+msgstr "Attack"
+
+#: compendium:97
+#, fuzzy
+msgctxt "HostilityResponseMode_Flee"
+msgid "Flee"
+msgstr "Flee"
+
+#: compendium:100
+#, fuzzy
+msgctxt "HediffGrowthMode_Growing"
+msgid "growing"
+msgstr "growing"
+
+#: compendium:101
+#, fuzzy
+msgctxt "HediffGrowthMode_Stable"
+msgid "stable"
+msgstr "stable"
+
+#: compendium:102
+#, fuzzy
+msgctxt "HediffGrowthMode_Remission"
+msgid "remission"
+msgstr "remission"
+
+#: compendium:105
+#, fuzzy
+msgctxt "TechLevel_Animal"
+msgid "animal"
+msgstr "animal"
+
+#: compendium:106
+#, fuzzy
+msgctxt "TechLevel_Neolithic"
+msgid "neolithic"
+msgstr "neolithic"
+
+#: compendium:107
+#, fuzzy
+msgctxt "TechLevel_Medieval"
+msgid "medieval"
+msgstr "medieval"
+
+#: compendium:108
+#, fuzzy
+msgctxt "TechLevel_Industrial"
+msgid "industrial"
+msgstr "industrial"
+
+#: compendium:109
+#, fuzzy
+msgctxt "TechLevel_Spacer"
+msgid "spacer"
+msgstr "spacer"
+
+#: compendium:110
+#, fuzzy
+msgctxt "TechLevel_Ultra"
+msgid "ultra"
+msgstr "ultra"
+
+#: compendium:111
+#, fuzzy
+msgctxt "TechLevel_Archotech"
+msgid "archotech"
+msgstr "TODO"
+
+#: compendium:114
+#, fuzzy
+msgctxt "PlayerPawnsArriveMethod_Standing"
+msgid "Standing"
+msgstr "Standing"
+
+#: compendium:115
+#, fuzzy
+msgctxt "PlayerPawnsArriveMethod_DropPods"
+msgid "Drop pods"
+msgstr "Drop pods"
+
+#: compendium:118
+#, fuzzy
+msgctxt "PawnGenerationContext_All"
+msgid "all characters"
+msgstr "all characters"
+
+#: compendium:119
+#, fuzzy
+msgctxt "PawnGenerationContext_PlayerStarter"
+msgid "player starting characters"
+msgstr "player starting characters"
+
+#: compendium:120
+#, fuzzy
+msgctxt "PawnGenerationContext_NonPlayer"
+msgid "non-player characters"
+msgstr "non-player characters"
+
+#: compendium:123
+msgctxt "ScreenShakeIntensity"
+msgid "Screen shake intensity"
+msgstr ""
+
+#: compendium:126
+#, fuzzy
+msgctxt "ShowAnimalNames"
+msgid "Show animal names"
+msgstr "Show animal names"
+
+#: compendium:127
+#, fuzzy
+msgctxt "AnimalNameDisplayMode_TameNamed"
+msgid "Tame (named only)"
+msgstr "Tame (named only)"
+
+#: compendium:128
+#, fuzzy
+msgctxt "AnimalNameDisplayMode_TameAll"
+msgid "Tame (all)"
+msgstr "Tame (all)"
+
+#: compendium:131
+msgctxt "DotHighlightDisplayMode"
+msgid "Character highlighting"
+msgstr ""
+
+#: compendium:132
+msgctxt "DotHighlightDisplayMode_HighlightHostiles"
+msgid "Highlight hostiles"
+msgstr ""
+
+#: compendium:133
+msgctxt "DotHighlightDisplayMode_HighlightAll"
+msgid "Highlight all"
+msgstr ""
+
+#: compendium:136
+msgctxt "HighlightStyleMode"
+msgid "Highlight mode"
+msgstr ""
+
+#: compendium:137
+msgctxt "HighlightStyleMode_Dots"
+msgid "Dots"
+msgstr ""
+
+#: compendium:138
+msgctxt "HighlightStyleMode_Silhouettes"
+msgid "Silhouettes"
+msgstr ""
+
+#: compendium:141
+msgctxt "VisibleMood"
+msgid "Visible mood"
+msgstr ""
+
+#: compendium:142
+msgctxt "VisibleMoodDesc"
+msgid ""
+"When on, displays a visual indicator on a character's portrait when they are"
+" at risk of a mental break."
+msgstr ""
+
+#: compendium:145
+msgctxt "ShowMechNames"
+msgid "Show player mech names"
+msgstr ""
+
+#: compendium:146
+msgctxt "MechNameDisplayMode_WhileDrafted"
+msgid "While drafted"
+msgstr ""
+
+#: compendium:147
+msgctxt "MechNameDisplayMode_Always"
+msgid "always"
+msgstr ""
+
+#: compendium:150
+msgctxt "ShowWeaponsUnderPortrait"
+msgid "Weapons below portrait"
+msgstr ""
+
+#: compendium:151
+msgctxt "ShowWeaponsUnderPortraitTooltip"
+msgid ""
+"Show weapons below each person's portrait on the colonist bar at the top of "
+"the screen"
+msgstr ""
+
+#: compendium:152
+msgctxt "ShowWeapons_Always"
+msgid "always"
+msgstr ""
+
+#: compendium:153
+msgctxt "ShowWeapons_WhileDrafted"
+msgid "while drafted"
+msgstr ""
+
+#: compendium:156
+#, fuzzy
+msgctxt "Celsius"
+msgid "Celsius"
+msgstr "Celsius"
+
+#: compendium:157
+#, fuzzy
+msgctxt "Fahrenheit"
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+#: compendium:158
+#, fuzzy
+msgctxt "Kelvin"
+msgid "Kelvin"
+msgstr "Kelvin"
+
+#: compendium:161
+#, fuzzy
+msgctxt "Direction8Way_North_Short"
+msgid "N"
+msgstr "N"
+
+#: compendium:162
+#, fuzzy
+msgctxt "Direction8Way_NorthEast_Short"
+msgid "NE"
+msgstr "NE"
+
+#: compendium:163
+#, fuzzy
+msgctxt "Direction8Way_East_Short"
+msgid "E"
+msgstr "E"
+
+#: compendium:164
+#, fuzzy
+msgctxt "Direction8Way_SouthEast_Short"
+msgid "SE"
+msgstr "SE"
+
+#: compendium:165
+#, fuzzy
+msgctxt "Direction8Way_South_Short"
+msgid "S"
+msgstr "S"
+
+#: compendium:166
+#, fuzzy
+msgctxt "Direction8Way_SouthWest_Short"
+msgid "SW"
+msgstr "SW"
+
+#: compendium:167
+#, fuzzy
+msgctxt "Direction8Way_West_Short"
+msgid "W"
+msgstr "W"
+
+#: compendium:168
+#, fuzzy
+msgctxt "Direction8Way_NorthWest_Short"
+msgid "NW"
+msgstr "NW"
+
+#: compendium:171
+#, fuzzy
+msgctxt "DietCategory_NeverEats"
+msgid "Never eats"
+msgstr "TODO"
+
+#: compendium:172
+#, fuzzy
+msgctxt "DietCategory_Herbivorous"
+msgid "Herbivorous"
+msgstr "TODO"
+
+#: compendium:173
+#, fuzzy
+msgctxt "DietCategory_Dendrovorous"
+msgid "Dendrovorous"
+msgstr "TODO"
+
+#: compendium:174
+#, fuzzy
+msgctxt "DietCategory_Ovivorous"
+msgid "Ovivorous"
+msgstr "TODO"
+
+#: compendium:175
+#, fuzzy
+msgctxt "DietCategory_Omnivorous"
+msgid "Omnivorous"
+msgstr "TODO"
+
+#: compendium:176
+#, fuzzy
+msgctxt "DietCategory_Carnivorous"
+msgid "Carnivorous"
+msgstr "TODO"
+
+#: compendium:177
+#, fuzzy
+msgctxt "DietCategory_NeverEats_Short"
+msgid "-"
+msgstr "TODO"
+
+#: compendium:178
+#, fuzzy
+msgctxt "DietCategory_Herbivorous_Short"
+msgid "H"
+msgstr "TODO"
+
+#: compendium:179
+#, fuzzy
+msgctxt "DietCategory_Dendrovorous_Short"
+msgid "D"
+msgstr "TODO"
+
+#: compendium:180
+#, fuzzy
+msgctxt "DietCategory_Ovivorous_Short"
+msgid "Ov"
+msgstr "TODO"
+
+#: compendium:181
+#, fuzzy
+msgctxt "DietCategory_Omnivorous_Short"
+msgid "O"
+msgstr "TODO"
+
+#: compendium:182
+#, fuzzy
+msgctxt "DietCategory_Carnivorous_Short"
+msgid "C"
+msgstr "TODO"
+
+#: compendium:185
+#, fuzzy
+msgctxt "FoodPoisonCause_IncompetentCook"
+msgid "incompetent cook"
+msgstr "TODO"
+
+#: compendium:186
+#, fuzzy
+msgctxt "FoodPoisonCause_FilthyKitchen"
+msgid "dirty cooking area"
+msgstr "TODO"
+
+#: compendium:187
+#, fuzzy
+msgctxt "FoodPoisonCause_Rotten"
+msgid "rotten food"
+msgstr "TODO"
+
+#: compendium:188
+#, fuzzy
+msgctxt "FoodPoisonCause_DangerousFoodType"
+msgid "dangerous food type"
+msgstr "TODO"
+
+#: compendium:191
+#, fuzzy
+msgctxt "PsychicDroneLevel_None"
+msgid "none"
+msgstr "TODO"
+
+#: compendium:192
+#, fuzzy
+msgctxt "PsychicDroneLevel_GoodMedium"
+msgid "medium"
+msgstr "TODO"
+
+#: compendium:193
+#, fuzzy
+msgctxt "PsychicDroneLevel_BadLow"
+msgid "low"
+msgstr "TODO"
+
+#: compendium:194
+#, fuzzy
+msgctxt "PsychicDroneLevel_BadMedium"
+msgid "medium"
+msgstr "TODO"
+
+#: compendium:195
+#, fuzzy
+msgctxt "PsychicDroneLevel_BadHigh"
+msgid "high"
+msgstr "TODO"
+
+#: compendium:196
+#, fuzzy
+msgctxt "PsychicDroneLevel_BadExtreme"
+msgid "extreme"
+msgstr "TODO"
+
+#: compendium:199
+msgctxt "AutomaticPauseMode_Never"
+msgid "Never"
+msgstr ""
+
+#: compendium:200
+msgctxt "AutomaticPauseMode_MajorThreat"
+msgid "Major threats"
+msgstr ""
+
+#: compendium:201
+msgctxt "AutomaticPauseMode_AnyThreat"
+msgid "Any threat"
+msgstr ""
+
+#: compendium:202
+msgctxt "AutomaticPauseMode_AnyLetter"
+msgid "Any letter"
+msgstr ""
+
+#: compendium:205
+msgctxt "PainCategory_LowPain"
+msgid "itchy"
+msgstr ""
+
+#: compendium:206
+msgctxt "PainCategory_MediumPain"
+msgid "aching"
+msgstr ""
+
+#: compendium:207
+msgctxt "PainCategory_HighPain"
+msgid "painful"
+msgstr ""
+
+#: compendium:210
+msgctxt "ExtraFactionType_HomeFaction"
+msgid "home faction"
+msgstr ""
+
+#: compendium:211
+msgctxt "ExtraFactionType_HostFaction"
+msgid "remote host faction"
+msgstr ""
+
+#: compendium:212
+msgctxt "ExtraFactionType_MiniFaction"
+msgid "group"
+msgstr ""
+
+#: compendium:215
+msgctxt "DrugCategory"
+msgid "drug category"
+msgstr ""
+
+#: compendium:216
+msgctxt "DrugCategory_None"
+msgid "none"
+msgstr ""
+
+#: compendium:217
+msgctxt "DrugCategory_Medical"
+msgid "medical"
+msgstr ""
+
+#: compendium:218
+msgctxt "DrugCategory_Social"
+msgid "social"
+msgstr ""
+
+#: compendium:219
+msgctxt "DrugCategory_Hard"
+msgid "hard"
+msgstr ""
+
+#: compendium:220
+msgctxt "DrugCategory_Any"
+msgid "any"
+msgstr ""

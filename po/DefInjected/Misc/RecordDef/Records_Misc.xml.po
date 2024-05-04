@@ -1,0 +1,529 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:8
+#, fuzzy
+msgctxt "Kills.label"
+msgid "kills"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:9
+#, fuzzy
+msgctxt "Kills.description"
+msgid "The number of creatures I have killed."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:16
+#, fuzzy
+msgctxt "KillsHumanlikes.label"
+msgid "kills (humanlikes)"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:17
+#, fuzzy
+msgctxt "KillsHumanlikes.description"
+msgid "The number of humanlike characters I have killed."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:24
+#, fuzzy
+msgctxt "KillsAnimals.label"
+msgid "kills (animals)"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:25
+#, fuzzy
+msgctxt "KillsAnimals.description"
+msgid "The number of animals I have killed."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:32
+#, fuzzy
+msgctxt "KillsMechanoids.label"
+msgid "kills (mechanoids)"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:33
+#, fuzzy
+msgctxt "KillsMechanoids.description"
+msgid "The number of mechanoids I have killed."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:40
+#, fuzzy
+msgctxt "PawnsDowned.label"
+msgid "enemies downed"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:41
+#, fuzzy
+msgctxt "PawnsDowned.description"
+msgid "The number of creatures I have downed."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:48
+#, fuzzy
+msgctxt "PawnsDownedHumanlikes.label"
+msgid "enemies downed (humanlikes)"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:49
+#, fuzzy
+msgctxt "PawnsDownedHumanlikes.description"
+msgid "The number of humanlike creatures I have downed."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:56
+#, fuzzy
+msgctxt "PawnsDownedAnimals.label"
+msgid "enemies downed (animals)"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:57
+#, fuzzy
+msgctxt "PawnsDownedAnimals.description"
+msgid "The number of animals I have downed, whether hunting or in combat."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:64
+#, fuzzy
+msgctxt "PawnsDownedMechanoids.label"
+msgid "enemies downed (mechanoids)"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:65
+#, fuzzy
+msgctxt "PawnsDownedMechanoids.description"
+msgid "The number of mechanoids I have downed."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:72
+#, fuzzy
+msgctxt "ShotsFired.label"
+msgid "shots fired"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:73
+#, fuzzy
+msgctxt "ShotsFired.description"
+msgid "The number of shots I have fired."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:79
+#, fuzzy
+msgctxt "Headshots.label"
+msgid "headshots"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:80
+#, fuzzy
+msgctxt "Headshots.description"
+msgid "The number of headshots I have made."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:86
+#, fuzzy
+msgctxt "DamageDealt.label"
+msgid "damage dealt"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:87
+#, fuzzy
+msgctxt "DamageDealt.description"
+msgid "The amount of damage I have dealt."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:93
+#, fuzzy
+msgctxt "DamageTaken.label"
+msgid "damage taken"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:94
+#, fuzzy
+msgctxt "DamageTaken.description"
+msgid "The amount of damage I have taken."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:102
+#, fuzzy
+msgctxt "TimesInMentalState.label"
+msgid "times in mental state"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:103
+#, fuzzy
+msgctxt "TimesInMentalState.description"
+msgid "How many times I have suffered a mental break."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:109
+#, fuzzy
+msgctxt "TimesOnFire.label"
+msgid "times on fire"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:110
+#, fuzzy
+msgctxt "TimesOnFire.description"
+msgid "How many times I have been on fire."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:116
+#, fuzzy
+msgctxt "FiresExtinguished.label"
+msgid "fires extinguished"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:117
+#, fuzzy
+msgctxt "FiresExtinguished.description"
+msgid "The number of fires I have extinguished."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:125
+#, fuzzy
+msgctxt "OperationsReceived.label"
+msgid "operations received"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:126
+#, fuzzy
+msgctxt "OperationsReceived.description"
+msgid "How many times I have been medically operated on."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:132
+#, fuzzy
+msgctxt "OperationsPerformed.label"
+msgid "operations performed"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:133
+#, fuzzy
+msgctxt "OperationsPerformed.description"
+msgid "How many medical operations I have performed."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:139
+#, fuzzy
+msgctxt "TimesTendedTo.label"
+msgid "tends received"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:140
+#, fuzzy
+msgctxt "TimesTendedTo.description"
+msgid "How many times I have had my medical conditions tended."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:146
+#, fuzzy
+msgctxt "TimesTendedOther.label"
+msgid "tends given"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:147
+#, fuzzy
+msgctxt "TimesTendedOther.description"
+msgid "How many times I have tended to others' medical conditions."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:153
+#, fuzzy
+msgctxt "PeopleCaptured.label"
+msgid "people captured"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:154
+#, fuzzy
+msgctxt "PeopleCaptured.description"
+msgid "The number of people I have captured."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:160
+#, fuzzy
+msgctxt "PrisonersRecruited.label"
+msgid "prisoners recruited"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:161
+#, fuzzy
+msgctxt "PrisonersRecruited.description"
+msgid "The number of prisoners I have recruited."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:167
+#, fuzzy
+msgctxt "PrisonersChatted.label"
+msgid "prisoners chatted"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:168
+#, fuzzy
+msgctxt "PrisonersChatted.description"
+msgid "How many times I have chatted with prisoners."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:174
+#, fuzzy
+msgctxt "AnimalsTamed.label"
+msgid "animals tamed"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:175
+#, fuzzy
+msgctxt "AnimalsTamed.description"
+msgid "The number of animals I have tamed."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:181
+#, fuzzy
+msgctxt "AnimalsSlaughtered.label"
+msgid "animals slaughtered"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:182
+#, fuzzy
+msgctxt "AnimalsSlaughtered.description"
+msgid "The number of animals I have slaughtered."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:188
+#, fuzzy
+msgctxt "MealsCooked.label"
+msgid "meals cooked"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:189
+#, fuzzy
+msgctxt "MealsCooked.description"
+msgid "The number of meals I have cooked."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:195
+#, fuzzy
+msgctxt "ThingsConstructed.label"
+msgid "things constructed"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:196
+#, fuzzy
+msgctxt "ThingsConstructed.description"
+msgid "The number of things I have constructed."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:202
+#, fuzzy
+msgctxt "ThingsInstalled.label"
+msgid "things installed"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:203
+#, fuzzy
+msgctxt "ThingsInstalled.description"
+msgid "The number of things I have installed."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:209
+#, fuzzy
+msgctxt "ThingsRepaired.label"
+msgid "things repaired"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:210
+#, fuzzy
+msgctxt "ThingsRepaired.description"
+msgid "The number of things I have repaired."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:216
+#, fuzzy
+msgctxt "ThingsCrafted.label"
+msgid "things crafted"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:217
+#, fuzzy
+msgctxt "ThingsCrafted.description"
+msgid "The number of things I have crafted."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:223
+#, fuzzy
+msgctxt "ThingsHauled.label"
+msgid "things hauled"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:224
+#, fuzzy
+msgctxt "ThingsHauled.description"
+msgid "The number of things I have hauled."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:230
+#, fuzzy
+msgctxt "PlantsSown.label"
+msgid "plants sown"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:231
+#, fuzzy
+msgctxt "PlantsSown.description"
+msgid "The number of plants I have sown."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:237
+#, fuzzy
+msgctxt "PlantsHarvested.label"
+msgid "plants harvested"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:238
+#, fuzzy
+msgctxt "PlantsHarvested.description"
+msgid "The number of plants I have harvested."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:244
+#, fuzzy
+msgctxt "CellsMined.label"
+msgid "cells mined"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:245
+#, fuzzy
+msgctxt "CellsMined.description"
+msgid "The number of cells I have mined out."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:251
+#, fuzzy
+msgctxt "MessesCleaned.label"
+msgid "messes cleaned"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:252
+#, fuzzy
+msgctxt "MessesCleaned.description"
+msgid "The number of messes I have cleaned up."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:258
+#, fuzzy
+msgctxt "ResearchPointsResearched.label"
+msgid "research points researched"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:259
+#, fuzzy
+msgctxt "ResearchPointsResearched.description"
+msgid "The number of research points I have researched."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:265
+#, fuzzy
+msgctxt "CorpsesBuried.label"
+msgid "corpses buried"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:266
+#, fuzzy
+msgctxt "CorpsesBuried.description"
+msgid "The number of corpses I have buried."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:272
+#, fuzzy
+msgctxt "NutritionEaten.label"
+msgid "nutrition eaten"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:273
+#, fuzzy
+msgctxt "NutritionEaten.description"
+msgid "The amount of nutrition I have eaten."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:279
+#, fuzzy
+msgctxt "BodiesStripped.label"
+msgid "bodies stripped"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:280
+#, fuzzy
+msgctxt "BodiesStripped.description"
+msgid "The number of bodies I have stripped."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:286
+#, fuzzy
+msgctxt "ThingsUninstalled.label"
+msgid "things uninstalled"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:287
+#, fuzzy
+msgctxt "ThingsUninstalled.description"
+msgid "The number of things I have uninstalled."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:293
+#, fuzzy
+msgctxt "ThingsDeconstructed.label"
+msgid "things deconstructed"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:294
+#, fuzzy
+msgctxt "ThingsDeconstructed.description"
+msgid "The number of things I have deconstructed."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:300
+#, fuzzy
+msgctxt "ArtifactsActivated.label"
+msgid "artifacts activated"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:301
+#, fuzzy
+msgctxt "ArtifactsActivated.description"
+msgid "The number of artifacts I have activated."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:307
+#, fuzzy
+msgctxt "ContainersOpened.label"
+msgid "containers opened"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:308
+#, fuzzy
+msgctxt "ContainersOpened.description"
+msgid "The number of containers I have opened."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:314
+#, fuzzy
+msgctxt "SwitchesFlicked.label"
+msgid "switches flicked"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:315
+#, fuzzy
+msgctxt "SwitchesFlicked.description"
+msgid "The number of switches I have flicked."
+msgstr "TODO"

@@ -1,0 +1,216 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Stats/Stats_Basics_General.xml:6
+#, fuzzy
+msgctxt "MaxHitPoints.label"
+msgid "max hit points"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:7
+#, fuzzy
+msgctxt "MaxHitPoints.description"
+msgid ""
+"The maximum hit points of an object.\\n\\nThis represents how much damage it"
+" can take before being destroyed."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:22
+#, fuzzy
+msgctxt "Mass.label"
+msgid "mass"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:23
+#, fuzzy
+msgctxt "Mass.description"
+msgid "The physical mass of an object."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:76
+#, fuzzy
+msgctxt "MarketValue.label"
+msgid "market value"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:77
+#, fuzzy
+msgctxt "MarketValue.description"
+msgid ""
+"The market value of an object.\\n\\nThe actual trade price will be adjusted "
+"by negotiation skill, relationship status, and other contextual factors."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:104
+msgctxt "MarketValueIgnoreHp.label"
+msgid "market value ignoring hitpoints"
+msgstr ""
+
+#: Defs/Stats/Stats_Basics_General.xml:110
+#, fuzzy
+msgctxt "SellPriceFactor.label"
+msgid "sell price multiplier"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:111
+#, fuzzy
+msgctxt "SellPriceFactor.description"
+msgid "A multiplier on the price at which you can sell items."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:123
+msgctxt "RoyalFavorValue.label"
+msgid "honor value"
+msgstr ""
+
+#: Defs/Stats/Stats_Basics_General.xml:124
+msgctxt "RoyalFavorValue.description"
+msgid ""
+"The amount of honor your trader will earn for giving this to a tribute "
+"collector."
+msgstr ""
+
+#: Defs/Stats/Stats_Basics_General.xml:136
+#, fuzzy
+msgctxt "Flammability.label"
+msgid "flammability"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:137
+#, fuzzy
+msgctxt "Flammability.description"
+msgid ""
+"How easily an object catches fire and how quickly a fire will grow as it "
+"burns."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:151
+#, fuzzy
+msgctxt "WorkToMake.label"
+msgid "work to make"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:152
+#, fuzzy
+msgctxt "WorkToMake.description"
+msgid ""
+"The base amount of work it takes to make an item, once all materials are "
+"gathered."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:165
+#, fuzzy
+msgctxt "DeteriorationRate.label"
+msgid "deterioration rate"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:166
+#, fuzzy
+msgctxt "DeteriorationRate.description"
+msgid ""
+"The rate at which this item deteriorates when left outside, in average hit "
+"points per day.\\n\\nDeterioration rate is also affected by things like "
+"weather, roofs, toxic fallout, or being left in shallow water."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:210
+#, fuzzy
+msgctxt "Beauty.label"
+msgid "beauty"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:211
+#, fuzzy
+msgctxt "Beauty.description"
+msgid ""
+"How enjoyable an object is to look at.\\n\\nBeautiful objects fulfill "
+"characters' need for beauty."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:237
+msgctxt "BeautyOutdoors.label"
+msgid "outdoor beauty"
+msgstr ""
+
+#: Defs/Stats/Stats_Basics_General.xml:238
+msgctxt "BeautyOutdoors.description"
+msgid ""
+"How enjoyable something is to look at if it's outside.\\n\\nBeautiful "
+"objects fulfill peoples' need for beauty."
+msgstr ""
+
+#: Defs/Stats/Stats_Basics_General.xml:243
+#, fuzzy
+msgctxt "Cleanliness.label"
+msgid "cleanliness"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:244
+#, fuzzy
+msgctxt "Cleanliness.description"
+msgid "How much an object contributes to an area's cleanliness score."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:257
+#, fuzzy
+msgctxt "Comfort.label"
+msgid "comfort"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:258
+#, fuzzy
+msgctxt "Comfort.description"
+msgid ""
+"How comfortable an object is to sit or lay on.\\n\\nUsing comfortable "
+"objects fulfills a character's need for comfort."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:282
+#, fuzzy
+msgctxt "Nutrition.label"
+msgid "nutrition"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:283
+#, fuzzy
+msgctxt "Nutrition.description"
+msgid "How nutritious this food is."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:301
+#, fuzzy
+msgctxt "FoodPoisonChanceFixedHuman.label"
+msgid "food poison chance"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:303
+#, fuzzy
+msgctxt "FoodPoisonChanceFixedHuman.description"
+msgid "The chance this food will cause food poisoning."
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:317
+#, fuzzy
+msgctxt "ShootingAccuracyTurret.label"
+msgid "shooting accuracy"
+msgstr "TODO"
+
+#: Defs/Stats/Stats_Basics_General.xml:319
+#, fuzzy
+msgctxt "ShootingAccuracyTurret.description"
+msgid ""
+"Base chance to not miss per cell of shot distance.\\n\\nChance to hit is "
+"also affected by many other factors. A hit chance explanation for any shot "
+"can be seen by selecting a shooter and mousing over a target."
+msgstr "TODO"

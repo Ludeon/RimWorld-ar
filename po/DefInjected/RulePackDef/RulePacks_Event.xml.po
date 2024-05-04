@@ -1,0 +1,125 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.0"
+msgid "r_logentry->[SUBJECT_definite] was [stunned] by the attack."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.1"
+msgid ""
+"r_logentry->[SUBJECT_definite] was [stunned] by [INITIATOR_definite]'s "
+"attack."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.2"
+msgid "stunned(p=3)->stunned"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.3"
+msgid "stunned->staggered"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.4"
+msgid "stunned->dazed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.5"
+msgid "stunned->disoriented"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.6"
+msgid "r_logentry->[SUBJECT_definite] [staggered]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.7"
+msgid "r_logentry->[SUBJECT_definite] [staggered] from the attack."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.8"
+msgid ""
+"r_logentry->[SUBJECT_definite] [staggered] from [INITIATOR_definite]'s "
+"attack."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.9"
+msgid "staggered(p=3)->staggered"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.10"
+msgid "staggered->faltered"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.11"
+msgid "staggered->wobbled"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.12"
+msgid "staggered->wavered"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.13"
+msgid "r_logentry->[SUBJECT_definite] [stumbled] around blearily."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.14"
+msgid "r_logentry->[SUBJECT_definite] [stumbled] around in confusion."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.15"
+msgid "stumbled(p=3)->stumbled"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.16"
+msgid "stumbled->wavered"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.17"
+msgid "stumbled->wobbled"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:6
+msgctxt "Event_Stun.rulePack.rulesStrings.18"
+msgid "stumbled->staggered"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:38
+msgctxt "Event_AbilityUsed.rulePack.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_definite] used [ABILITY_label] on [SUBJECT_definite]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Event.xml:47
+msgctxt "Event_ItemUsed.rulePack.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_definite] used [ITEM_indefinite] on "
+"[SUBJECT_definite]."
+msgstr ""

@@ -1,0 +1,120 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:6
+#, fuzzy
+msgctxt "MeleeWeapon_Club.label"
+msgid "club"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:7
+#, fuzzy
+msgctxt "MeleeWeapon_Club.description"
+msgid ""
+"A shaped stick, heavy at one end, for bashing enemies to death. This weapon "
+"is so old it's part of human biology. Evolutionary biologists say that a "
+"major reason humans can tilt our wrists side-to-side (instead of just "
+"forward-and-back like other primates) is to be able to better swing a club."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:39
+msgctxt "MeleeWeapon_Club.tools.0.label"
+msgid "handle"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:47
+msgctxt "MeleeWeapon_Club.tools.1.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:60
+#, fuzzy
+msgctxt "MeleeWeapon_Knife.label"
+msgid "knife"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:62
+#, fuzzy
+msgctxt "MeleeWeapon_Knife.description"
+msgid ""
+"One of mankind's oldest manufactured objects. The knife has taken many "
+"forms, but the concept has always remained the same: A handle for holding "
+"and a sharp edge for cutting."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:87
+msgctxt "MeleeWeapon_Knife.tools.0.label"
+msgid "handle"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:95
+msgctxt "MeleeWeapon_Knife.tools.1.label"
+msgid "blade"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:103
+msgctxt "MeleeWeapon_Knife.tools.2.label"
+msgid "point"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:121
+#, fuzzy
+msgctxt "MeleeWeapon_Ikwa.label"
+msgid "ikwa"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:122
+#, fuzzy
+msgctxt "MeleeWeapon_Ikwa.description"
+msgid ""
+"A short spearhandle attached to a long bladed point, designed to be driven "
+"into vital organs with a quick thrust."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:147
+msgctxt "MeleeWeapon_Ikwa.tools.0.label"
+msgid "handle"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:156
+msgctxt "MeleeWeapon_Ikwa.tools.1.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:164
+msgctxt "MeleeWeapon_Ikwa.tools.2.label"
+msgid "edge"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:183
+#, fuzzy
+msgctxt "MeleeWeapon_Spear.label"
+msgid "spear"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:184
+#, fuzzy
+msgctxt "MeleeWeapon_Spear.description"
+msgid "A polearm tipped with a sharp point for stabbing opponents."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:211
+msgctxt "MeleeWeapon_Spear.tools.0.label"
+msgid "shaft"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeNeolithic.xml:220
+msgctxt "MeleeWeapon_Spear.tools.1.label"
+msgid "point"
+msgstr ""

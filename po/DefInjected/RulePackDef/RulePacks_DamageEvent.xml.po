@@ -1,0 +1,386 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:26\n"
+"PO-Revision-Date: 2024-05-04 21:26\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:9
+msgctxt "DamageEvent_Include.rulePack.rulesStrings.0"
+msgid ""
+"r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_present] "
+"[RECIPIENT_possessive] [destroyed_targets]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:9
+msgctxt "DamageEvent_Include.rulePack.rulesStrings.1"
+msgid ""
+"r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_present] "
+"[RECIPIENT_possessive] [destroyed_targets] and [damaged_present] "
+"[RECIPIENT_possessive] [damaged_targets]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:9
+msgctxt "DamageEvent_Include.rulePack.rulesStrings.2"
+msgid ""
+"r_logentry(recipient_part_destroyed_count==0)->[damage_source] "
+"[RECIPIENT_nameDef], [damaged_present] [RECIPIENT_possessive] "
+"[damaged_targets]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:9
+msgctxt "DamageEvent_Include.rulePack.rulesStrings.3"
+msgid "r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:24
+msgctxt "DamageEvent_Ceiling.rulePack.rulesStrings.0"
+msgid "damage_source->the [roof] [collapsed] on"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:24
+msgctxt "DamageEvent_Ceiling.rulePack.rulesStrings.1"
+msgid "roof->roof"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:24
+msgctxt "DamageEvent_Ceiling.rulePack.rulesStrings.2"
+msgid "roof->roofing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:24
+msgctxt "DamageEvent_Ceiling.rulePack.rulesStrings.3"
+msgid "roof->ceiling"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:24
+msgctxt "DamageEvent_Ceiling.rulePack.rulesStrings.4"
+msgid "collapsed->collapsed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:24
+msgctxt "DamageEvent_Ceiling.rulePack.rulesStrings.5"
+msgid "collapsed->fell"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:24
+msgctxt "DamageEvent_Ceiling.rulePack.rulesStrings.6"
+msgid "collapsed->caved in"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:24
+msgctxt "DamageEvent_Ceiling.rulePack.rulesStrings.7"
+msgid "damaged_present->smashing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:24
+msgctxt "DamageEvent_Ceiling.rulePack.rulesStrings.8"
+msgid "damaged_present->bashing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:24
+msgctxt "DamageEvent_Ceiling.rulePack.rulesStrings.9"
+msgid "damaged_present->bruising"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:24
+msgctxt "DamageEvent_Ceiling.rulePack.rulesStrings.10"
+msgid "damaged_present->lacerating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:24
+msgctxt "DamageEvent_Ceiling.rulePack.rulesStrings.11"
+msgid "destroyed_present->shattering"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:24
+msgctxt "DamageEvent_Ceiling.rulePack.rulesStrings.12"
+msgid "destroyed_present->crushing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:24
+msgctxt "DamageEvent_Ceiling.rulePack.rulesStrings.13"
+msgid "destroyed_present->obliterating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:24
+msgctxt "DamageEvent_Ceiling.rulePack.rulesStrings.14"
+msgid "destroyed_present->annihilating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:24
+msgctxt "DamageEvent_Ceiling.rulePack.rulesStrings.15"
+msgid "destroyed_present->breaking"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:55
+msgctxt "DamageEvent_Fire.rulePack.rulesStrings.0"
+msgid "damage_source->[fire] burned"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:55
+msgctxt "DamageEvent_Fire.rulePack.rulesStrings.1"
+msgid "fire(p=3)->fire"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:55
+msgctxt "DamageEvent_Fire.rulePack.rulesStrings.2"
+msgid "fire(p=3)->a fire"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:55
+msgctxt "DamageEvent_Fire.rulePack.rulesStrings.3"
+msgid "fire(p=3)->the fire"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:55
+msgctxt "DamageEvent_Fire.rulePack.rulesStrings.4"
+msgid "fire->heat"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:55
+msgctxt "DamageEvent_Fire.rulePack.rulesStrings.5"
+msgid "fire->a conflagration"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:55
+msgctxt "DamageEvent_Fire.rulePack.rulesStrings.6"
+msgid "fire->an inferno"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:55
+msgctxt "DamageEvent_Fire.rulePack.rulesStrings.7"
+msgid "damaged_present->scorching"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:55
+msgctxt "DamageEvent_Fire.rulePack.rulesStrings.8"
+msgid "damaged_present->broiling"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:55
+msgctxt "DamageEvent_Fire.rulePack.rulesStrings.9"
+msgid "damaged_present->searing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:55
+msgctxt "DamageEvent_Fire.rulePack.rulesStrings.10"
+msgid "damaged_present->singeing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:55
+msgctxt "DamageEvent_Fire.rulePack.rulesStrings.11"
+msgid "destroyed_present->charring"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:55
+msgctxt "DamageEvent_Fire.rulePack.rulesStrings.12"
+msgid "destroyed_present->roasting"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:55
+msgctxt "DamageEvent_Fire.rulePack.rulesStrings.13"
+msgid "destroyed_present->cooking"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:55
+msgctxt "DamageEvent_Fire.rulePack.rulesStrings.14"
+msgid "destroyed_present->cremating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:84
+msgctxt "DamageEvent_TrapSpike.rulePack.rulesStrings.0"
+msgid "damage_source->[spiketrap] stabbed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:84
+msgctxt "DamageEvent_TrapSpike.rulePack.rulesStrings.1"
+msgid "damage_source->[spiketrap] struck"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:84
+msgctxt "DamageEvent_TrapSpike.rulePack.rulesStrings.2"
+msgid "damage_source->[spiketrap] launched at"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:84
+msgctxt "DamageEvent_TrapSpike.rulePack.rulesStrings.3"
+msgid "spiketrap(p=3)->a spike trap"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:84
+msgctxt "DamageEvent_TrapSpike.rulePack.rulesStrings.4"
+msgid "spiketrap(p=3)->the spike trap"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:84
+msgctxt "DamageEvent_TrapSpike.rulePack.rulesStrings.5"
+msgid "spiketrap->spikes"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:84
+msgctxt "DamageEvent_TrapSpike.rulePack.rulesStrings.6"
+msgid "spiketrap->a sharp trap"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:84
+msgctxt "DamageEvent_TrapSpike.rulePack.rulesStrings.7"
+msgid "spiketrap->a spiky trap"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:84
+msgctxt "DamageEvent_TrapSpike.rulePack.rulesStrings.8"
+msgid "damaged_present->perforating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:84
+msgctxt "DamageEvent_TrapSpike.rulePack.rulesStrings.9"
+msgid "damaged_present->spearing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:84
+msgctxt "DamageEvent_TrapSpike.rulePack.rulesStrings.10"
+msgid "damaged_present->penetrating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:84
+msgctxt "DamageEvent_TrapSpike.rulePack.rulesStrings.11"
+msgid "damaged_present->jabbing into"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:84
+msgctxt "DamageEvent_TrapSpike.rulePack.rulesStrings.12"
+msgid "destroyed_present->tearing apart"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:84
+msgctxt "DamageEvent_TrapSpike.rulePack.rulesStrings.13"
+msgid "destroyed_present->shredding"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:84
+msgctxt "DamageEvent_TrapSpike.rulePack.rulesStrings.14"
+msgid "destroyed_present->eviscerating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:84
+msgctxt "DamageEvent_TrapSpike.rulePack.rulesStrings.15"
+msgid "destroyed_present->exploding"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:115
+msgctxt "DamageEvent_PowerBeam.rulePack.rulesStrings.0"
+msgid "damage_source->The [sky] opened up on"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:115
+msgctxt "DamageEvent_PowerBeam.rulePack.rulesStrings.1"
+msgid "damage_source->A beam of incredible [power] [damaged_past]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:115
+msgctxt "DamageEvent_PowerBeam.rulePack.rulesStrings.2"
+msgid "damage_source->A column of [light] [damaged_past]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:115
+msgctxt "DamageEvent_PowerBeam.rulePack.rulesStrings.3"
+msgid "sky->sky"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:115
+msgctxt "DamageEvent_PowerBeam.rulePack.rulesStrings.4"
+msgid "sky->clouds"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:115
+msgctxt "DamageEvent_PowerBeam.rulePack.rulesStrings.5"
+msgid "sky->heavens"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:115
+msgctxt "DamageEvent_PowerBeam.rulePack.rulesStrings.6"
+msgid "power->power"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:115
+msgctxt "DamageEvent_PowerBeam.rulePack.rulesStrings.7"
+msgid "power->energy"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:115
+msgctxt "DamageEvent_PowerBeam.rulePack.rulesStrings.8"
+msgid "power->heat"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:115
+msgctxt "DamageEvent_PowerBeam.rulePack.rulesStrings.9"
+msgid "light->light"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:115
+msgctxt "DamageEvent_PowerBeam.rulePack.rulesStrings.10"
+msgid "light->heat"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:115
+msgctxt "DamageEvent_PowerBeam.rulePack.rulesStrings.11"
+msgid "light->flame"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:115
+msgctxt "DamageEvent_PowerBeam.rulePack.rulesStrings.12"
+msgid "light(p=0.2)->incandescence"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:144
+msgctxt "DamageEvent_Tornado.rulePack.rulesStrings.0"
+msgid "damage_source->A [spiraling] tornado [enveloped]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:144
+msgctxt "DamageEvent_Tornado.rulePack.rulesStrings.1"
+msgid "destroyed_present(p=3)->tearing off"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:144
+msgctxt "DamageEvent_Tornado.rulePack.rulesStrings.2"
+msgid "spiraling->spiraling"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:144
+msgctxt "DamageEvent_Tornado.rulePack.rulesStrings.3"
+msgid "spiraling->whirling"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:144
+msgctxt "DamageEvent_Tornado.rulePack.rulesStrings.4"
+msgid "spiraling->spinning"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:144
+msgctxt "DamageEvent_Tornado.rulePack.rulesStrings.5"
+msgid "spiraling(p=10)->"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:144
+msgctxt "DamageEvent_Tornado.rulePack.rulesStrings.6"
+msgid "enveloped(p=8)->enveloped"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:144
+msgctxt "DamageEvent_Tornado.rulePack.rulesStrings.7"
+msgid "enveloped->engulfed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_DamageEvent.xml:144
+msgctxt "DamageEvent_Tornado.rulePack.rulesStrings.8"
+msgid "enveloped->surrounded"
+msgstr ""
