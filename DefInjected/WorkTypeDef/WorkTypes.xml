@@ -79,7 +79,7 @@
   <Doctor.verb>ﺔﻳﺎﻋﺭ</Doctor.verb>
   
   <!-- EN: Extinguish fires in the colony. -->
-  <Firefighter.description>.ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻲﻓ ﻖﺋﺍﺮﺤﻟﺍ ءﺎﻔﻃﺇ/Firefighter.description>
+  <Firefighter.description>.ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻲﻓ ﻖﺋﺍﺮﺤﻟﺍ ءﺎﻔﻃﺇ</Firefighter.description>
   <!-- EN: firefighting -->
   <Firefighter.gerundLabel>ﻖﻳﺮﺤﻟﺍ ﺔﺤﻓﺎﻜﻣe</Firefighter.gerundLabel>
   <!-- EN: Firefight -->
