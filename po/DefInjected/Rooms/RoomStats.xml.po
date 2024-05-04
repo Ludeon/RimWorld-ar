@@ -1,0 +1,263 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Rooms/RoomStats.xml:8
+msgctxt "Impressiveness.label"
+msgid "impressiveness"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:15
+msgctxt "Impressiveness.scoreStages.0.label"
+msgid "awful"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:19
+msgctxt "Impressiveness.scoreStages.1.label"
+msgid "dull"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:23
+msgctxt "Impressiveness.scoreStages.2.label"
+msgid "mediocre"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:27
+msgctxt "Impressiveness.scoreStages.3.label"
+msgid "decent"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:31
+msgctxt "Impressiveness.scoreStages.4.label"
+msgid "slightly impressive"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:35
+msgctxt "Impressiveness.scoreStages.5.label"
+msgid "somewhat impressive"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:39
+msgctxt "Impressiveness.scoreStages.6.label"
+msgid "very impressive"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:43
+msgctxt "Impressiveness.scoreStages.7.label"
+msgid "extremely impressive"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:47
+msgctxt "Impressiveness.scoreStages.8.label"
+msgid "unbelievably impressive"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:51
+msgctxt "Impressiveness.scoreStages.9.label"
+msgid "wondrously impressive"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:58
+msgctxt "Wealth.label"
+msgid "wealth"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:65
+msgctxt "Wealth.scoreStages.0.label"
+msgid "impoverished"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:69
+msgctxt "Wealth.scoreStages.1.label"
+msgid "somewhat poor"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:73
+msgctxt "Wealth.scoreStages.2.label"
+msgid "mediocre"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:77
+msgctxt "Wealth.scoreStages.3.label"
+msgid "somewhat rich"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:81
+msgctxt "Wealth.scoreStages.4.label"
+msgid "rich"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:85
+msgctxt "Wealth.scoreStages.5.label"
+msgid "luxurious"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:89
+msgctxt "Wealth.scoreStages.6.label"
+msgid "very luxurious"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:93
+msgctxt "Wealth.scoreStages.7.label"
+msgid "extremely luxurious"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:97
+msgctxt "Wealth.scoreStages.8.label"
+msgid "unbelievably luxurious"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:104
+msgctxt "Space.label"
+msgid "space"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:111
+msgctxt "Space.scoreStages.0.label"
+msgid "cramped"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:115
+msgctxt "Space.scoreStages.1.label"
+msgid "rather tight"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:119
+msgctxt "Space.scoreStages.2.label"
+msgid "average-sized"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:123
+msgctxt "Space.scoreStages.3.label"
+msgid "somewhat spacious"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:127
+msgctxt "Space.scoreStages.4.label"
+msgid "quite spacious"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:131
+msgctxt "Space.scoreStages.5.label"
+msgid "very spacious"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:135
+msgctxt "Space.scoreStages.6.label"
+msgid "extremely spacious"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:142
+msgctxt "Beauty.label"
+msgid "beauty"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:148
+msgctxt "Beauty.scoreStages.0.label"
+msgid "hideous"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:152
+msgctxt "Beauty.scoreStages.1.label"
+msgid "ugly"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:156
+msgctxt "Beauty.scoreStages.2.label"
+msgid "neutral"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:160
+msgctxt "Beauty.scoreStages.3.label"
+msgid "pretty"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:164
+msgctxt "Beauty.scoreStages.4.label"
+msgid "beautiful"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:168
+msgctxt "Beauty.scoreStages.5.label"
+msgid "very beautiful"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:172
+msgctxt "Beauty.scoreStages.6.label"
+msgid "extremely beautiful"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:176
+msgctxt "Beauty.scoreStages.7.label"
+msgid "unbelievably beautiful"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:183
+msgctxt "Cleanliness.label"
+msgid "cleanliness"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:189
+msgctxt "Cleanliness.scoreStages.0.label"
+msgid "very dirty"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:193
+msgctxt "Cleanliness.scoreStages.1.label"
+msgid "dirty"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:197
+msgctxt "Cleanliness.scoreStages.2.label"
+msgid "slightly dirty"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:201
+msgctxt "Cleanliness.scoreStages.3.label"
+msgid "clean"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:205
+msgctxt "Cleanliness.scoreStages.4.label"
+msgid "sterile"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:212
+msgctxt "ReadingBonus.label"
+msgid "reading bonus"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:223
+msgctxt "InfectionChanceFactor.label"
+msgid "infection chance factor"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:240
+msgctxt "SurgerySuccessChanceCleanlinessFactor.label"
+msgid "surgery success chance cleanliness factor"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:257
+msgctxt "ResearchSpeedFactor.label"
+msgid "research speed factor"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:275
+msgctxt "GraveVisitingJoyGainFactor.label"
+msgid "grave visiting recreation factor"
+msgstr ""
+
+#: Defs/Rooms/RoomStats.xml:292
+msgctxt "FoodPoisonChance.label"
+msgid "food poison chance"
+msgstr ""

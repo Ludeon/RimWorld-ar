@@ -1,0 +1,43 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/PawnKindDefs_Humanlikes/PawnKinds_Mercenary.xml:55
+msgctxt "Grenadier_Destructive.label"
+msgid "grenadier"
+msgstr ""
+
+#: Defs/PawnKindDefs_Humanlikes/PawnKinds_Mercenary.xml:67
+msgctxt "Grenadier_EMP.label"
+msgid "EMP grenadier"
+msgstr ""
+
+#: Defs/PawnKindDefs_Humanlikes/PawnKinds_Mercenary.xml:77
+msgctxt "Grenadier_Smoke.label"
+msgid "smoke grenadier"
+msgstr ""
+
+#: Defs/PawnKindDefs_Humanlikes/PawnKinds_Mercenary.xml:200
+msgctxt "Mercenary_Slasher.label"
+msgid "mercenary slasher"
+msgstr ""
+
+#: Defs/PawnKindDefs_Humanlikes/PawnKinds_Mercenary.xml:247
+msgctxt "Mercenary_Heavy.label"
+msgid "heavy mercenary"
+msgstr ""
+
+#: Defs/PawnKindDefs_Humanlikes/PawnKinds_Mercenary.xml:307
+msgctxt "PirateBoss.label"
+msgid "boss"
+msgstr ""

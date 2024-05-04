@@ -1,0 +1,63 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/PawnColumnDefs/PawnColumns_Misc.xml:6
+msgctxt "Label.label"
+msgid "name"
+msgstr ""
+
+#: Defs/Misc/PawnColumnDefs/PawnColumns_Misc.xml:25
+msgctxt "Age.label"
+msgid "age"
+msgstr ""
+
+#: Defs/Misc/PawnColumnDefs/PawnColumns_Misc.xml:33
+msgctxt "Master.label"
+msgid "master"
+msgstr ""
+
+#: Defs/Misc/PawnColumnDefs/PawnColumns_Misc.xml:48
+msgctxt "AllowedArea.label"
+msgid "allowed area"
+msgstr ""
+
+#: Defs/Misc/PawnColumnDefs/PawnColumns_Misc.xml:55
+msgctxt "AllowedAreaWide.label"
+msgid "allowed area"
+msgstr ""
+
+#: Defs/Misc/PawnColumnDefs/PawnColumns_Misc.xml:70
+msgctxt "Outfit.label"
+msgid "apparel policy"
+msgstr ""
+
+#: Defs/Misc/PawnColumnDefs/PawnColumns_Misc.xml:77
+msgctxt "DrugPolicy.label"
+msgid "drug policy"
+msgstr ""
+
+#: Defs/Misc/PawnColumnDefs/PawnColumns_Misc.xml:84
+msgctxt "FoodRestriction.label"
+msgid "food policy"
+msgstr ""
+
+#: Defs/Misc/PawnColumnDefs/PawnColumns_Misc.xml:91
+msgctxt "Reading.label"
+msgid "reading policy"
+msgstr ""
+
+#: Defs/Misc/PawnColumnDefs/PawnColumns_Misc.xml:104
+msgctxt "Carry.label"
+msgid "carry"
+msgstr ""

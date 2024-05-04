@@ -1,0 +1,129 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.0"
+msgid "questName->[lump] of [targetMineableThing_label]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.1"
+msgid "questName->[targetMineableThing_label] [lump]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.2"
+msgid "questName->The [targetMineableThing_label] [lump]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.3"
+msgid "questName->[adj] [targetMineableThing_label]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.4"
+msgid "questName->[targetMineableThing_label] [discovered]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.5"
+msgid "lump->lump"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.6"
+msgid "lump->pile"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.7"
+msgid "lump->deposit"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.8"
+msgid "lump->seam"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.9"
+msgid "lump->chunk"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.10"
+msgid "lump->pile"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.11"
+msgid "adj->distant"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.12"
+msgid "adj->far"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.13"
+msgid "adj->unknown"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.14"
+msgid "adj->scanned"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.15"
+msgid "discovered->discovered"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.16"
+msgid "discovered->detected"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.17"
+msgid "discovered->found"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:9
+msgctxt "LongRangeMineralScannerLump.questNameRules.rulesStrings.18"
+msgid "discovered->scanned"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:36
+msgctxt "LongRangeMineralScannerLump.questDescriptionRules.rulesStrings.0"
+msgid ""
+"questDescription->Using your long-range mineral scanner, [worker_definite] "
+"has found a lump of [targetMineable_label] nearby.\\n\\nUnfortunately, it "
+"won't last - others will mine it first in [timeoutTicks_duration] if we "
+"don't.[lumpThreatDescription]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:103
+msgctxt "LongRangeMineralScannerLump.root.nodes.8.node.nodes.8.label"
+msgid "Quest expired: [resolvedQuestName]"
+msgstr ""
+
+#: Defs/QuestScriptDefs/Script_LongRangeMineralScannerLump.xml:104
+msgctxt "LongRangeMineralScannerLump.root.nodes.8.node.nodes.8.text"
+msgid ""
+"Others have mined the lump of [targetMineable_label]. The quest "
+"[resolvedQuestName] has expired."
+msgstr ""

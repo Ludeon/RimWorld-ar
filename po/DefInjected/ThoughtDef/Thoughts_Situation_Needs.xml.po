@@ -1,0 +1,530 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:11
+msgctxt "NeedFood.stages.0.label"
+msgid "hungry"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:12
+msgctxt "NeedFood.stages.0.description"
+msgid "I'm really hungry."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:16
+msgctxt "NeedFood.stages.1.label"
+msgid "ravenously hungry"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:17
+msgctxt "NeedFood.stages.1.description"
+msgid "These hunger pangs are hard to ignore."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:21
+msgctxt "NeedFood.stages.2.label"
+msgid "malnourished"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:22
+msgctxt "NeedFood.stages.2.description"
+msgid ""
+"It's been so long since I ate. I'm all fuzzy and it's hard to focus. My body"
+" is starting to waste away."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:26
+msgctxt "NeedFood.stages.3.label"
+msgid "badly malnourished"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:27
+msgctxt "NeedFood.stages.3.description"
+msgid "I can feel my body wasting away. My stomach hurts like never before."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:31
+msgctxt "NeedFood.stages.4.label"
+msgid "starving"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:32
+msgctxt "NeedFood.stages.4.description"
+msgid ""
+"I can barely think about anything but food. My skin is stretching over my "
+"bones. Am I going to die?"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:36
+msgctxt "NeedFood.stages.5.label"
+msgid "advanced starvation"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:37
+msgctxt "NeedFood.stages.5.description"
+msgid ""
+"I can barely move or think about anything but food. My stomach hurts like "
+"never before. I feel like I'm going to pass out."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:41
+msgctxt "NeedFood.stages.6.label"
+msgid "extreme starvation"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:42
+msgctxt "NeedFood.stages.6.description"
+msgid "Food... food... anything... please..."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:54
+msgctxt "NeedRest.stages.0.label"
+msgid "drowsy"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:55
+msgctxt "NeedRest.stages.0.description"
+msgid "I haven't slept in a while. It's hard to keep focus."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:59
+msgctxt "NeedRest.stages.1.label"
+msgid "tired"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:60
+msgctxt "NeedRest.stages.1.description"
+msgid "I'm so tired. I just want to lay down and rest for a few minutes..."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:64
+msgctxt "NeedRest.stages.2.label"
+msgid "exhausted"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:65
+msgctxt "NeedRest.stages.2.description"
+msgid ""
+"I'm so exhausted I can barely stand. My eyelids have lead weights on them. "
+"Let me sleep..."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:78
+msgctxt "NeedJoy.stages.0.label"
+msgid "recreation-starved"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:79
+msgctxt "NeedJoy.stages.0.description"
+msgid "It's been so long since I did anything for fun on my own time."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:83
+msgctxt "NeedJoy.stages.1.label"
+msgid "recreation-deprived"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:84
+msgctxt "NeedJoy.stages.1.description"
+msgid ""
+"We need more variation in recreation activities, and I need time to enjoy "
+"them. This place is really dull."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:88
+msgctxt "NeedJoy.stages.2.label"
+msgid "recreation unfulfilled"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:89
+msgctxt "NeedJoy.stages.2.description"
+msgid ""
+"We need more variation in the recreation activities, and I need time to "
+"enjoy them."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:93
+msgctxt "NeedJoy.stages.3.label"
+msgid "recreation satisfied"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:94
+msgctxt "NeedJoy.stages.3.description"
+msgid "I've been having a great time doing various things I like to do."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:98
+msgctxt "NeedJoy.stages.4.label"
+msgid "recreation fully satisfied"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:99
+msgctxt "NeedJoy.stages.4.description"
+msgid "I've been enjoying myself so much, I love it!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:113
+msgctxt "NeedComfort.stages.0.label"
+msgid "uncomfortable"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:114
+msgctxt "NeedComfort.stages.0.description"
+msgid ""
+"I've been kind of uncomfortable recently. We need to get something soft to "
+"sit on around here."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:118
+msgctxt "NeedComfort.stages.1.label"
+msgid "comfortable"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:119
+msgctxt "NeedComfort.stages.1.description"
+msgid "I've been comfortable recently."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:123
+msgctxt "NeedComfort.stages.2.label"
+msgid "quite comfortable"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:124
+msgctxt "NeedComfort.stages.2.description"
+msgid "I've been very comfortable recently."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:128
+msgctxt "NeedComfort.stages.3.label"
+msgid "extremely comfortable"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:129
+msgctxt "NeedComfort.stages.3.description"
+msgid "I've been extremely comfortable recently. This place is so cushy!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:133
+msgctxt "NeedComfort.stages.4.label"
+msgid "luxuriantly comfortable"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:134
+msgctxt "NeedComfort.stages.4.description"
+msgid "I am resting on clouds of heaven."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:145
+msgctxt "NeedBeauty.stages.0.label"
+msgid "hideous environment"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:146
+msgctxt "NeedBeauty.stages.0.description"
+msgid "This place is unbearably grotesque. I can't look at this any more."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:150
+msgctxt "NeedBeauty.stages.1.label"
+msgid "ugly environment"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:151
+msgctxt "NeedBeauty.stages.1.description"
+msgid ""
+"This place is really ugly. I wish I didn't have to look at this any more."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:155
+msgctxt "NeedBeauty.stages.2.label"
+msgid "unsightly environment"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:156
+msgctxt "NeedBeauty.stages.2.description"
+msgid ""
+"This place is kind of unsightly. I wish I didn't have to look at all this."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:160
+msgctxt "NeedBeauty.stages.3.label"
+msgid "pretty environment"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:161
+msgctxt "NeedBeauty.stages.3.description"
+msgid "This place looks nice."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:165
+msgctxt "NeedBeauty.stages.4.label"
+msgid "beautiful environment"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:166
+msgctxt "NeedBeauty.stages.4.description"
+msgid "I really like this place. It's beautiful."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:170
+msgctxt "NeedBeauty.stages.5.label"
+msgid "gorgeous environment"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:171
+msgctxt "NeedBeauty.stages.5.description"
+msgid "This place is beautiful. It lifts me up and makes me love life."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:182
+msgctxt "NeedRoomSize.stages.0.label"
+msgid "confined interior"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:183
+msgctxt "NeedRoomSize.stages.0.description"
+msgid "This space is so tiny. I feel like a rat in a cage."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:187
+msgctxt "NeedRoomSize.stages.1.label"
+msgid "cramped interior"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:188
+msgctxt "NeedRoomSize.stages.1.description"
+msgid ""
+"This room is too small. I wish I had more space to move around and breathe."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:192
+msgctxt "NeedRoomSize.stages.2.label"
+msgid "spacious interior"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:193
+msgctxt "NeedRoomSize.stages.2.description"
+msgid "This room is so expansive, I feel free."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:204
+msgctxt "NeedOutdoors.stages.0.label"
+msgid "entombed underground"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:205
+msgctxt "NeedOutdoors.stages.0.description"
+msgid ""
+"I've been underground too long. I feel like the weight of this mountain is "
+"crushing me. I need to see the sky and feel the wind."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:209
+msgctxt "NeedOutdoors.stages.1.label"
+msgid "trapped underground"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:210
+msgctxt "NeedOutdoors.stages.1.description"
+msgid ""
+"How long have I been underground? I need to get out in the fresh air and "
+"spend some time under the sky."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:214
+msgctxt "NeedOutdoors.stages.2.label"
+msgid "cabin fever"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:215
+msgctxt "NeedOutdoors.stages.2.description"
+msgid ""
+"I've spent so long indoors I feel like the roof is pressing in. I need to "
+"get out and see the sky."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:219
+msgctxt "NeedOutdoors.stages.3.label"
+msgid "trapped indoors"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:220
+msgctxt "NeedOutdoors.stages.3.description"
+msgid "It's been too long since I've seen the sky."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:224
+msgctxt "NeedOutdoors.stages.4.label"
+msgid "stuck indoors"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:225
+msgctxt "NeedOutdoors.stages.4.description"
+msgid "I'd like to go outside and get some fresh air."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:236
+msgctxt "NeedIndoors.stages.0.label"
+msgid "just outdoors"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:237
+msgctxt "NeedIndoors.stages.0.description"
+msgid "I shouldn't be outdoors."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:241
+msgctxt "NeedIndoors.stages.1.label"
+msgid "outdoors"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:242
+msgctxt "NeedIndoors.stages.1.description"
+msgid "I've been outside too much recently."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:246
+msgctxt "NeedIndoors.stages.2.label"
+msgid "long outdoors"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:247
+msgctxt "NeedIndoors.stages.2.description"
+msgid "Being outside so much is wrong for me."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:251
+msgctxt "NeedIndoors.stages.3.label"
+msgid "very long outdoors"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:252
+msgctxt "NeedIndoors.stages.3.description"
+msgid ""
+"I've been outside way too much recently. This open space is so disturbing."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:256
+msgctxt "NeedIndoors.stages.4.label"
+msgid "brutal outdoors"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:257
+msgctxt "NeedIndoors.stages.4.description"
+msgid "These open spaces are driving me insane!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:273
+msgctxt "DrugDesireFascination.stages.0.label"
+msgid "chemical want"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:274
+msgctxt "DrugDesireFascination.stages.0.description"
+msgid "I'm fascinated by drugs. I want to experience them more."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:278
+msgctxt "DrugDesireFascination.stages.1.label"
+msgid "chemical hunger"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:279
+msgctxt "DrugDesireFascination.stages.1.description"
+msgid "I'm fascinated by drugs. I want to experience them a lot harder."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:283
+msgctxt "DrugDesireFascination.stages.2.label"
+msgid "chemical starvation"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:284
+msgctxt "DrugDesireFascination.stages.2.description"
+msgid "I'm fascinated by drugs. I want them! More intensity!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:299
+msgctxt "DrugDesireFascinationSatisfied.stages.0.label"
+msgid "chemical comfort"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:300
+msgctxt "DrugDesireFascinationSatisfied.stages.0.description"
+msgid "I'm fascinated by drugs, and I love satisfying my desires."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:304
+msgctxt "DrugDesireFascinationSatisfied.stages.1.label"
+msgid "chemical satisfaction"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:305
+msgctxt "DrugDesireFascinationSatisfied.stages.1.description"
+msgid ""
+"I'm fascinated by drugs, and I am fully satisfied with my drug consumption."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:321
+msgctxt "DrugDesireInterest.stages.0.label"
+msgid "chemical want"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:322
+msgctxt "DrugDesireInterest.stages.0.description"
+msgid "I'm interested in drugs. I want to try more."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:326
+msgctxt "DrugDesireInterest.stages.1.label"
+msgid "chemical hunger"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:327
+msgctxt "DrugDesireInterest.stages.1.description"
+msgid "I'm interested in drugs. I want to experience a lot more."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:331
+msgctxt "DrugDesireInterest.stages.2.label"
+msgid "chemical starvation"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:332
+msgctxt "DrugDesireInterest.stages.2.description"
+msgid "I'm interested in drugs. I want to consume drugs really badly."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:347
+msgctxt "DrugDesireInterestSatisfied.stages.0.label"
+msgid "chemical comfort"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:348
+msgctxt "DrugDesireInterestSatisfied.stages.0.description"
+msgid "I'm interested in drugs. I enjoyed satisfying my desire."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:352
+msgctxt "DrugDesireInterestSatisfied.stages.1.label"
+msgid "chemical satisfaction"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Needs.xml:353
+msgctxt "DrugDesireInterestSatisfied.stages.1.description"
+msgid ""
+"I'm interested in drugs. I am really satisfied with all the drugs I've "
+"gotten recently."
+msgstr ""

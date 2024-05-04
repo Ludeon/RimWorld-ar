@@ -1,0 +1,358 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:16
+msgctxt "AteInImpressiveDiningRoom.stages.3.label"
+msgid "decent dining room"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:17
+msgctxt "AteInImpressiveDiningRoom.stages.3.description"
+msgid "I ate my meal in a decent dining room."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:21
+msgctxt "AteInImpressiveDiningRoom.stages.4.label"
+msgid "slightly impressive dining room"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:22
+msgctxt "AteInImpressiveDiningRoom.stages.4.description"
+msgid "I ate my meal in a slightly impressive dining room."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:26
+msgctxt "AteInImpressiveDiningRoom.stages.5.label"
+msgid "somewhat impressive dining room"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:27
+msgctxt "AteInImpressiveDiningRoom.stages.5.description"
+msgid "I ate my meal in an impressive dining room."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:31
+msgctxt "AteInImpressiveDiningRoom.stages.6.label"
+msgid "very impressive dining room"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:32
+msgctxt "AteInImpressiveDiningRoom.stages.6.description"
+msgid "I ate my meal in a very impressive dining room."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:36
+msgctxt "AteInImpressiveDiningRoom.stages.7.label"
+msgid "extremely impressive dining room"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:37
+msgctxt "AteInImpressiveDiningRoom.stages.7.description"
+msgid ""
+"I ate my meal in an extremely impressive dining room. I could stay there "
+"forever."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:41
+msgctxt "AteInImpressiveDiningRoom.stages.8.label"
+msgid "unbelievably impressive dining room"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:42
+msgctxt "AteInImpressiveDiningRoom.stages.8.description"
+msgid ""
+"I ate my meal in an unbelievably impressive dining room. I could stay there "
+"forever."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:46
+msgctxt "AteInImpressiveDiningRoom.stages.9.label"
+msgid "wondrously impressive dining room"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:47
+msgctxt "AteInImpressiveDiningRoom.stages.9.description"
+msgid "I ate my meal in a wonderful dining room. I could stay there forever."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:65
+msgctxt "JoyActivityInImpressiveRecRoom.stages.3.label"
+msgid "decent rec room"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:66
+msgctxt "JoyActivityInImpressiveRecRoom.stages.3.description"
+msgid "I had fun in a decent rec room."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:70
+msgctxt "JoyActivityInImpressiveRecRoom.stages.4.label"
+msgid "slightly impressive rec room"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:71
+msgctxt "JoyActivityInImpressiveRecRoom.stages.4.description"
+msgid "I had fun in a nice rec room."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:75
+msgctxt "JoyActivityInImpressiveRecRoom.stages.5.label"
+msgid "somewhat impressive rec room"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:76
+msgctxt "JoyActivityInImpressiveRecRoom.stages.5.description"
+msgid "I had a great time in an impressive rec room."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:80
+msgctxt "JoyActivityInImpressiveRecRoom.stages.6.label"
+msgid "very impressive rec room"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:81
+msgctxt "JoyActivityInImpressiveRecRoom.stages.6.description"
+msgid "I had a great time in a very impressive rec room."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:85
+msgctxt "JoyActivityInImpressiveRecRoom.stages.7.label"
+msgid "extremely impressive rec room"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:86
+msgctxt "JoyActivityInImpressiveRecRoom.stages.7.description"
+msgid ""
+"I had a great time in an extremely impressive rec room. I could stay there "
+"forever."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:90
+msgctxt "JoyActivityInImpressiveRecRoom.stages.8.label"
+msgid "unbelievably impressive rec room"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:91
+msgctxt "JoyActivityInImpressiveRecRoom.stages.8.description"
+msgid ""
+"I had a great time in an unbelievably impressive rec room. I could stay "
+"there forever."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:95
+msgctxt "JoyActivityInImpressiveRecRoom.stages.9.label"
+msgid "wondrously impressive rec room"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:96
+msgctxt "JoyActivityInImpressiveRecRoom.stages.9.description"
+msgid ""
+"I had a great time in a wonderful rec room. I could stay there forever."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:108
+msgctxt "SleptInBedroom.stages.0.label"
+msgid "awful bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:109
+msgctxt "SleptInBedroom.stages.0.description"
+msgid "I had to sleep in an awful room."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:117
+msgctxt "SleptInBedroom.stages.3.label"
+msgid "decent bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:118
+msgctxt "SleptInBedroom.stages.3.description"
+msgid "I got to sleep in a pretty decent bedroom."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:122
+msgctxt "SleptInBedroom.stages.4.label"
+msgid "slightly impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:123
+msgctxt "SleptInBedroom.stages.4.description"
+msgid "I got to sleep in a slightly impressive bedroom. I like it."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:127
+msgctxt "SleptInBedroom.stages.5.label"
+msgid "impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:128
+msgctxt "SleptInBedroom.stages.5.description"
+msgid "I slept in an impressive bedroom. It was great."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:132
+msgctxt "SleptInBedroom.stages.6.label"
+msgid "very impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:133
+msgctxt "SleptInBedroom.stages.6.description"
+msgid "I slept in a very impressive bedroom. I love it."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:137
+msgctxt "SleptInBedroom.stages.7.label"
+msgid "extremely impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:138
+msgctxt "SleptInBedroom.stages.7.description"
+msgid "I slept in an extremely impressive bedroom. It was marvelous."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:142
+msgctxt "SleptInBedroom.stages.8.label"
+msgid "unbelievably impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:143
+msgctxt "SleptInBedroom.stages.8.description"
+msgid ""
+"I slept in an unbelievably impressive bedroom. It was truly astounding."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:147
+msgctxt "SleptInBedroom.stages.9.label"
+msgid "wondrously impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:148
+msgctxt "SleptInBedroom.stages.9.description"
+msgid "I slept in a heavenly bedroom. It was wondrous."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:160
+msgctxt "SleptInBarracks.stages.0.label"
+msgid "awful barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:161
+msgctxt "SleptInBarracks.stages.0.description"
+msgid ""
+"I had to sleep in an awful barracks. Not only was it a horrible room, but I "
+"also had to share it!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:165
+msgctxt "SleptInBarracks.stages.1.label"
+msgid "dull barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:166
+msgctxt "SleptInBarracks.stages.1.description"
+msgid ""
+"I had to sleep in a dull barracks. Not only that, but I also had to share it"
+" with other people."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:170
+msgctxt "SleptInBarracks.stages.2.label"
+msgid "mediocre barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:171
+msgctxt "SleptInBarracks.stages.2.description"
+msgid ""
+"I had to sleep in a mediocre barracks with other people around. I really "
+"don't like this."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:175
+msgctxt "SleptInBarracks.stages.3.label"
+msgid "decent barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:176
+msgctxt "SleptInBarracks.stages.3.description"
+msgid ""
+"I slept in a decent barracks, but I really dislike sharing a sleeping space."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:180
+msgctxt "SleptInBarracks.stages.4.label"
+msgid "slightly impressive barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:181
+msgctxt "SleptInBarracks.stages.4.description"
+msgid ""
+"I got to sleep in a pretty nice barracks. But I really don't like sharing a "
+"room with others."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:185
+msgctxt "SleptInBarracks.stages.5.label"
+msgid "impressive barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:186
+msgctxt "SleptInBarracks.stages.5.description"
+msgid ""
+"I got to sleep in an impressive barracks. It sucks that I had to share it, "
+"though."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:190
+msgctxt "SleptInBarracks.stages.6.label"
+msgid "very impressive barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:191
+msgctxt "SleptInBarracks.stages.6.description"
+msgid "I slept in a very impressive barracks. I don't even mind sharing it."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:195
+msgctxt "SleptInBarracks.stages.7.label"
+msgid "extremely impressive barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:196
+msgctxt "SleptInBarracks.stages.7.description"
+msgid ""
+"I slept in an extremely impressive barracks. I don't even mind sharing it."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:200
+msgctxt "SleptInBarracks.stages.8.label"
+msgid "unbelievably impressive barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:201
+msgctxt "SleptInBarracks.stages.8.description"
+msgid ""
+"The barracks I slept in was so impressive that I don't even mind sharing it."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:205
+msgctxt "SleptInBarracks.stages.9.label"
+msgid "wondrously impressive barracks"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_RoomStats.xml:206
+msgctxt "SleptInBarracks.stages.9.description"
+msgid ""
+"I slept in a barracks that was simply wondrous. Even sharing such a space "
+"makes me happy."
+msgstr ""

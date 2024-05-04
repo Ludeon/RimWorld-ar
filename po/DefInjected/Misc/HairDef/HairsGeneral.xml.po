@@ -1,0 +1,268 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:8
+msgctxt "BriefPonytail.label"
+msgid "brief ponytail"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:21
+msgctxt "Princess.label"
+msgid "princess"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:33
+msgctxt "Scatman.label"
+msgid "scatman"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:47
+msgctxt "Lackland.label"
+msgid "lackland"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:58
+msgctxt "Revolt.label"
+msgid "revolt"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:69
+msgctxt "Pigtails.label"
+msgid "pigtails"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:80
+msgctxt "Afro.label"
+msgid "afro"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:91
+msgctxt "Bob.label"
+msgid "bob"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:102
+msgctxt "Burgundy.label"
+msgid "burgundy"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:113
+msgctxt "Troubadour.label"
+msgid "troubadour"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:124
+msgctxt "GreasySwoop.label"
+msgid "greasy swoop"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:135
+msgctxt "Cleopatra.label"
+msgid "cleopatra"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:146
+msgctxt "Cute.label"
+msgid "cute"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:158
+msgctxt "Decent.label"
+msgid "decent"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:170
+msgctxt "FancyBun.label"
+msgid "fancy bun"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:184
+msgctxt "Senorita.label"
+msgid "senorita"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:197
+msgctxt "Flowy.label"
+msgid "flowy"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:210
+msgctxt "Long.label"
+msgid "long"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:223
+msgctxt "Mop.label"
+msgid "mop"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:235
+msgctxt "Wavy.label"
+msgid "wavy"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:247
+msgctxt "Messy.label"
+msgid "messy"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:260
+msgctxt "Curly.label"
+msgid "curly"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:274
+msgctxt "Fringe.label"
+msgid "fringe"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:287
+msgctxt "Frozen.label"
+msgid "frozen"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:299
+msgctxt "Ponytails.label"
+msgid "ponytails"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:312
+msgctxt "Bowlcut.label"
+msgid "bowlcut"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:324
+msgctxt "Bravo.label"
+msgid "bravo"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:336
+msgctxt "Recruit.label"
+msgid "recruit"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:348
+msgctxt "Rockstar.label"
+msgid "rockstar"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:361
+msgctxt "Snazzy.label"
+msgid "snazzy"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:376
+msgctxt "Firestarter.label"
+msgid "firestarter"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:387
+msgctxt "Junkie.label"
+msgid "junkie"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:398
+msgctxt "Scrapper.label"
+msgid "scrapper"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:410
+msgctxt "Randy.label"
+msgid "randy"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:423
+msgctxt "Rookie.label"
+msgid "rookie"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:435
+msgctxt "Spikes.label"
+msgid "spikes"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:449
+msgctxt "ShaveTopBraid.label"
+msgid "shave top braid"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:460
+msgctxt "BraidedKnot.label"
+msgid "braided knot"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:473
+msgctxt "Keeper.label"
+msgid "keeper"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:484
+msgctxt "Primal.label"
+msgid "primal"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:495
+msgctxt "Warden.label"
+msgid "warden"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:507
+msgctxt "Elder.label"
+msgid "elder"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:520
+msgctxt "Locks.label"
+msgid "locks"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:532
+msgctxt "Savage.label"
+msgid "savage"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:544
+msgctxt "Sticky.label"
+msgid "sticky"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:558
+msgctxt "Bald.label"
+msgid "bald"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:570
+msgctxt "Shaved.label"
+msgid "shaved"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:587
+msgctxt "Tuft.label"
+msgid "tuft"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:600
+msgctxt "ScorpionTail.label"
+msgid "scorpion tail"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:613
+msgctxt "Topdog.label"
+msgid "topdog"
+msgstr ""
+
+#: Defs/Misc/HairDefs/HairsGeneral.xml:625
+msgctxt "Mohawk.label"
+msgid "mohawk"
+msgstr ""

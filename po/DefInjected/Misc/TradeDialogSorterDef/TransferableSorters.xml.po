@@ -1,0 +1,48 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/TradeDialogSorterDefs/TransferableSorters.xml:6
+msgctxt "None.label"
+msgid "none"
+msgstr ""
+
+#: Defs/Misc/TradeDialogSorterDefs/TransferableSorters.xml:12
+msgctxt "Name.label"
+msgid "name"
+msgstr ""
+
+#: Defs/Misc/TradeDialogSorterDefs/TransferableSorters.xml:18
+msgctxt "MarketValue.label"
+msgid "market value"
+msgstr ""
+
+#: Defs/Misc/TradeDialogSorterDefs/TransferableSorters.xml:24
+msgctxt "Category.label"
+msgid "category"
+msgstr ""
+
+#: Defs/Misc/TradeDialogSorterDefs/TransferableSorters.xml:30
+msgctxt "Quality.label"
+msgid "quality"
+msgstr ""
+
+#: Defs/Misc/TradeDialogSorterDefs/TransferableSorters.xml:36
+msgctxt "Mass.label"
+msgid "mass"
+msgstr ""
+
+#: Defs/Misc/TradeDialogSorterDefs/TransferableSorters.xml:42
+msgctxt "HitPointsPercentage.label"
+msgid "hit points percentage"
+msgstr ""

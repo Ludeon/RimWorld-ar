@@ -1,0 +1,63 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Joy/JoyKinds.xml:8
+msgctxt "Meditative.label"
+msgid "solitary relaxation"
+msgstr ""
+
+#: Defs/Joy/JoyKinds.xml:14
+msgctxt "Social.label"
+msgid "social interaction"
+msgstr ""
+
+#: Defs/Joy/JoyKinds.xml:23
+msgctxt "Gaming_Dexterity.label"
+msgid "dexterity play"
+msgstr ""
+
+#: Defs/Joy/JoyKinds.xml:29
+msgctxt "Gaming_Cerebral.label"
+msgid "cerebral play"
+msgstr ""
+
+#: Defs/Joy/JoyKinds.xml:35
+msgctxt "Television.label"
+msgid "television watching"
+msgstr ""
+
+#: Defs/Joy/JoyKinds.xml:41
+msgctxt "Telescope.label"
+msgid "telescope study"
+msgstr ""
+
+#: Defs/Joy/JoyKinds.xml:46
+msgctxt "HighCulture.label"
+msgid "music"
+msgstr ""
+
+#: Defs/Joy/JoyKinds.xml:53
+msgctxt "Chemical.label"
+msgid "chemical consumption"
+msgstr ""
+
+#: Defs/Joy/JoyKinds.xml:58
+msgctxt "Gluttonous.label"
+msgid "food consumption"
+msgstr ""
+
+#: Defs/Joy/JoyKinds.xml:64
+msgctxt "Reading.label"
+msgid "reading"
+msgstr ""

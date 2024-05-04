@@ -1,0 +1,47 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Books/BookDefs.xml:47
+msgctxt "TextBook.label"
+msgid "textbook"
+msgstr ""
+
+#: Defs/Books/BookDefs.xml:48
+msgctxt "TextBook.description"
+msgid "A book which focuses on teaching skills."
+msgstr ""
+
+#: Defs/Books/BookDefs.xml:82
+msgctxt "Schematic.label"
+msgid "schematic"
+msgstr ""
+
+#: Defs/Books/BookDefs.xml:83
+msgctxt "Schematic.description"
+msgid ""
+"A book which describes technology and methods for using it. Reading "
+"schematics can help unlock new technologies."
+msgstr ""
+
+#: Defs/Books/BookDefs.xml:126
+msgctxt "Novel.label"
+msgid "novel"
+msgstr ""
+
+#: Defs/Books/BookDefs.xml:127
+msgctxt "Novel.description"
+msgid ""
+"A book containing fictional or true stories for the pleasure and edification"
+" of the reader."
+msgstr ""

@@ -1,0 +1,267 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:106
+msgctxt "ChunkSlagSteel.label"
+msgid "steel slag chunk"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:107
+msgctxt "ChunkSlagSteel.description"
+msgid ""
+"A chunk of steel slag. While it's useless in its current form, it can be "
+"smelted to recover steel."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:129
+msgctxt "Sandstone.label"
+msgid "sandstone"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:130
+msgctxt "Sandstone.description"
+msgid "A sedimentary rock composed of sand particles compressed together."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:146
+msgctxt "SmoothedSandstone.label"
+msgid "smoothed sandstone"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:147
+msgctxt "SmoothedSandstone.description"
+msgid ""
+"A sedimentary rock composed of sand particles compressed together. The sand "
+"layers have been polished to a flat, smooth surface."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:169
+msgctxt "ChunkSandstone.label"
+msgid "sandstone chunk"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:184
+msgctxt "BlocksSandstone.label"
+msgid "sandstone blocks"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:185
+msgctxt "BlocksSandstone.description"
+msgid ""
+"Blocks of solid sandstone. Sandstone is a relatively soft rock and chips "
+"easily."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:212
+msgctxt "Make_StoneBlocksSandstone.label"
+msgid "make sandstone blocks"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:213
+msgctxt "Make_StoneBlocksSandstone.description"
+msgid "Cuts sandstone chunks into usable blocks."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:238
+msgctxt "Granite.label"
+msgid "granite"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:239
+msgctxt "Granite.description"
+msgid "A very hard igneous rock."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:255
+msgctxt "SmoothedGranite.label"
+msgid "smoothed granite"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:256
+msgctxt "SmoothedGranite.description"
+msgid ""
+"A very hard igneous rock. The shining surface is filled with a mosaic of "
+"black, white, and pink speckles."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:278
+msgctxt "ChunkGranite.label"
+msgid "granite chunk"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:293
+msgctxt "BlocksGranite.label"
+msgid "granite blocks"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:294
+msgctxt "BlocksGranite.description"
+msgid "Blocks of solid granite. Granite is a very hard stone."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:318
+msgctxt "Make_StoneBlocksGranite.label"
+msgid "make granite blocks"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:319
+msgctxt "Make_StoneBlocksGranite.description"
+msgid "Cuts granite chunks into usable blocks."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:344
+msgctxt "Limestone.label"
+msgid "limestone"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:345
+msgctxt "Limestone.description"
+msgid ""
+"A sedimentary rock formed from the compacted remains of ancient seashells."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:361
+msgctxt "SmoothedLimestone.label"
+msgid "smoothed limestone"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:362
+msgctxt "SmoothedLimestone.description"
+msgid ""
+"A sedimentary rock formed from the compacted remains of ancient seashells. "
+"It glows a smooth white, with light patterns of impurities suspended within."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:384
+msgctxt "ChunkLimestone.label"
+msgid "limestone chunk"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:399
+msgctxt "BlocksLimestone.label"
+msgid "limestone blocks"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:400
+msgctxt "BlocksLimestone.description"
+msgid "Blocks of solid limestone."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:423
+msgctxt "Make_StoneBlocksLimestone.label"
+msgid "make limestone blocks"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:424
+msgctxt "Make_StoneBlocksLimestone.description"
+msgid "Cuts limestone chunks into usable blocks."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:449
+msgctxt "Slate.label"
+msgid "slate"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:450
+msgctxt "Slate.description"
+msgid ""
+"A dark-colored metamorphic rock. Its fine layers are emblematic of slaty "
+"cleavage."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:467
+msgctxt "SmoothedSlate.label"
+msgid "smoothed slate"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:468
+msgctxt "SmoothedSlate.description"
+msgid ""
+"A dark-colored metamorphic rock. Its fine layers are emblematic of slaty "
+"cleavage. Interior strata are clearly visible through the polished surface."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:490
+msgctxt "ChunkSlate.label"
+msgid "slate chunk"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:505
+msgctxt "BlocksSlate.label"
+msgid "slate blocks"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:506
+msgctxt "BlocksSlate.description"
+msgid "Blocks of solid slate. A dull-looking rock that chips easily."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:530
+msgctxt "Make_StoneBlocksSlate.label"
+msgid "make slate blocks"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:531
+msgctxt "Make_StoneBlocksSlate.description"
+msgid "Cuts slate chunks into usable blocks."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:556
+msgctxt "Marble.label"
+msgid "marble"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:557
+msgctxt "Marble.description"
+msgid "A soft metamorphic rock."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:574
+msgctxt "SmoothedMarble.label"
+msgid "smoothed marble"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:575
+msgctxt "SmoothedMarble.description"
+msgid ""
+"A soft metamorphic rock. This semi-transparent rock almost appears to glow "
+"with its own inner light."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:597
+msgctxt "ChunkMarble.label"
+msgid "marble chunk"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:612
+msgctxt "BlocksMarble.label"
+msgid "marble blocks"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:613
+msgctxt "BlocksMarble.description"
+msgid ""
+"Blocks of solid marble. Marble is a soft, beautiful stone, known for being "
+"easy to sculpt."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:642
+msgctxt "Make_StoneBlocksMarble.label"
+msgid "make marble blocks"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Various_Stone.xml:643
+msgctxt "Make_StoneBlocksMarble.description"
+msgid "Cuts marble chunks into usable blocks."
+msgstr ""

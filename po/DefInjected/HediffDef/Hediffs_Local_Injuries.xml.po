@@ -1,0 +1,205 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:8
+msgctxt "MissingBodyPart.label"
+msgid "missing body part"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:11
+msgctxt "MissingBodyPart.description"
+msgid "A body part is entirely missing."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:39
+msgctxt "Misc.label"
+msgid "wound"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:41
+msgctxt "Misc.description"
+msgid "Miscellaneous injuries."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:80
+msgctxt "Burn.label"
+msgid "burn"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:82
+msgctxt "Burn.description"
+msgid "A burn."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:96
+msgctxt "ElectricalBurn.label"
+msgid "electrical burn"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:98
+msgctxt "ElectricalBurn.description"
+msgid "An electical burn."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:112
+msgctxt "ChemicalBurn.label"
+msgid "chemical burn"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:114
+msgctxt "ChemicalBurn.description"
+msgid "A chemical burn."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:128
+msgctxt "Crush.label"
+msgid "crush"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:130
+msgctxt "Crush.description"
+msgid "A crushing wound."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:155
+msgctxt "Crack.label"
+msgid "crack"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:157
+msgctxt "Crack.description"
+msgid "A crack."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:177
+msgctxt "Cut.label"
+msgid "cut"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:179
+msgctxt "Cut.description"
+msgid "A cut."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:205
+msgctxt "SurgicalCut.label"
+msgid "surgical cut"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:207
+msgctxt "SurgicalCut.description"
+msgid "A cut made during surgery."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:229
+msgctxt "ExecutionCut.label"
+msgid "cut"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:231
+msgctxt "ExecutionCut.description"
+msgid "A cut made during execution."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:243
+msgctxt "Scratch.label"
+msgid "scratch"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:245
+msgctxt "Scratch.description"
+msgid "A scratch or tear."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:271
+msgctxt "Bite.label"
+msgid "bite"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:273
+msgctxt "Bite.description"
+msgid "A bite wound."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:299
+msgctxt "Stab.label"
+msgid "stab"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:301
+msgctxt "Stab.description"
+msgid "A stab wound."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:327
+msgctxt "Gunshot.label"
+msgid "gunshot"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:329
+msgctxt "Gunshot.description"
+msgid "A gunshot wound."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:356
+msgctxt "Shredded.label"
+msgid "shredded"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:358
+msgctxt "Shredded.description"
+msgid "A part of the body has been shredded and torn."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:384
+msgctxt "Bruise.label"
+msgid "bruise"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:386
+msgctxt "Bruise.description"
+msgid "A bruise."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:404
+msgctxt "Frostbite.label"
+msgid "frostbite"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:405
+msgctxt "Frostbite.description"
+msgid ""
+"Frozen tissue caused by exposure to cold without adequate protection. "
+"Frostbite is very painful, and frostbitten body parts are often lost."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:430
+msgctxt "AcidBurn.label"
+msgid "acid burn"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:432
+msgctxt "AcidBurn.description"
+msgid "An acid burn."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:446
+msgctxt "Decayed.label"
+msgid "decayed organ"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Injuries.xml:449
+msgctxt "Decayed.description"
+msgid "This organ has completely decayed."
+msgstr ""

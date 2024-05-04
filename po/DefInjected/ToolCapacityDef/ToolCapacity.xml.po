@@ -1,0 +1,63 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ToolCapacityDefs/ToolCapacity.xml:7
+msgctxt "Stab.label"
+msgid "stab"
+msgstr ""
+
+#: Defs/ToolCapacityDefs/ToolCapacity.xml:12
+msgctxt "Cut.label"
+msgid "cut"
+msgstr ""
+
+#: Defs/ToolCapacityDefs/ToolCapacity.xml:17
+msgctxt "Blunt.label"
+msgid "blunt"
+msgstr ""
+
+#: Defs/ToolCapacityDefs/ToolCapacity.xml:22
+msgctxt "Scratch.label"
+msgid "scratch"
+msgstr ""
+
+#: Defs/ToolCapacityDefs/ToolCapacity.xml:27
+msgctxt "Poke.label"
+msgid "poke"
+msgstr ""
+
+#: Defs/ToolCapacityDefs/ToolCapacity.xml:32
+msgctxt "Bite.label"
+msgid "bite"
+msgstr ""
+
+#: Defs/ToolCapacityDefs/ToolCapacity.xml:37
+msgctxt "ToxicBite.label"
+msgid "toxic bite"
+msgstr ""
+
+#: Defs/ToolCapacityDefs/ToolCapacity.xml:42
+msgctxt "ScratchToxic.label"
+msgid "toxic scratch"
+msgstr ""
+
+#: Defs/ToolCapacityDefs/ToolCapacity.xml:47
+msgctxt "KickMaterialInEyes.label"
+msgid "kick material in eyes"
+msgstr ""
+
+#: Defs/ToolCapacityDefs/ToolCapacity.xml:52
+msgctxt "Demolish.label"
+msgid "demolish"
+msgstr ""

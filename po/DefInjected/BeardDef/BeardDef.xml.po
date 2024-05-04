@@ -1,0 +1,168 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/BeardDefs/BeardDefs.xml:6
+msgctxt "NoBeard.label"
+msgid "no beard"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:16
+msgctxt "Anchor.label"
+msgid "anchor"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:28
+msgctxt "Bushy.label"
+msgid "bushy"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:41
+msgctxt "Norse.label"
+msgid "norse"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:53
+msgctxt "Boxed.label"
+msgid "boxed"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:66
+msgctxt "Circle.label"
+msgid "circle"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:78
+msgctxt "BeardCurly.label"
+msgid "curly"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:91
+msgctxt "Curtain.label"
+msgid "curtain"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:103
+msgctxt "BushyStyled.label"
+msgid "bushy styled"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:118
+msgctxt "Ducktail.label"
+msgid "ducktail"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:131
+msgctxt "StacheAndChops.label"
+msgid "stache and chops"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:143
+msgctxt "Fork.label"
+msgid "fork"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:155
+msgctxt "French.label"
+msgid "french"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:166
+msgctxt "Full.label"
+msgid "full"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:177
+msgctxt "Goatee.label"
+msgid "goatee"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:191
+msgctxt "Classy.label"
+msgid "classy"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:202
+msgctxt "Braided.label"
+msgid "braided"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:214
+msgctxt "Lincoln.label"
+msgid "lincoln"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:226
+msgctxt "LongDutch.label"
+msgid "long dutch"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:239
+msgctxt "Machete.label"
+msgid "machete"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:251
+msgctxt "Moustache.label"
+msgid "moustache"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:263
+msgctxt "MuttonChops.label"
+msgid "mutton chops"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:274
+msgctxt "TriBraid.label"
+msgid "tri-braid"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:287
+msgctxt "OldDutch.label"
+msgid "old dutch"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:299
+msgctxt "Seer.label"
+msgid "seer"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:312
+msgctxt "SideWhiskers.label"
+msgid "side whiskers"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:323
+msgctxt "SoulPatch.label"
+msgid "soul patch"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:336
+msgctxt "Stubble.label"
+msgid "stubble"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:350
+msgctxt "Urist.label"
+msgid "urist"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:363
+msgctxt "VanDyke.label"
+msgid "VanDyke"
+msgstr ""
+
+#: Defs/BeardDefs/BeardDefs.xml:375
+msgctxt "Wizard.label"
+msgid "wizard"
+msgstr ""

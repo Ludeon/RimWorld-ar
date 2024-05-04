@@ -1,0 +1,68 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/LifeStageDefs/LifeStages.xml:6
+msgctxt "MechanoidFullyFormed.label"
+msgid "fully-formed"
+msgstr ""
+
+#: Defs/Misc/LifeStageDefs/LifeStages.xml:21
+msgctxt "HumanlikeBaby.label"
+msgid "baby"
+msgstr ""
+
+#: Defs/Misc/LifeStageDefs/LifeStages.xml:73
+msgctxt "HumanlikeChild.label"
+msgid "child"
+msgstr ""
+
+#: Defs/Misc/LifeStageDefs/LifeStages.xml:101
+msgctxt "HumanlikeTeenager.label"
+msgid "teenager"
+msgstr ""
+
+#: Defs/Misc/LifeStageDefs/LifeStages.xml:123
+msgctxt "HumanlikeAdult.label"
+msgid "adult"
+msgstr ""
+
+#: Defs/Misc/LifeStageDefs/LifeStages.xml:137
+msgctxt "EusocialInsectLarva.label"
+msgid "larva"
+msgstr ""
+
+#: Defs/Misc/LifeStageDefs/LifeStages.xml:153
+msgctxt "EusocialInsectJuvenile.label"
+msgid "immature"
+msgstr ""
+
+#: Defs/Misc/LifeStageDefs/LifeStages.xml:168
+msgctxt "EusocialInsectAdult.label"
+msgid "adult"
+msgstr ""
+
+#: Defs/Misc/LifeStageDefs/LifeStages.xml:178
+msgctxt "AnimalBaby.label"
+msgid "baby"
+msgstr ""
+
+#: Defs/Misc/LifeStageDefs/LifeStages.xml:200
+msgctxt "AnimalJuvenile.label"
+msgid "juvenile"
+msgstr ""
+
+#: Defs/Misc/LifeStageDefs/LifeStages.xml:215
+msgctxt "AnimalAdult.label"
+msgid "adult"
+msgstr ""

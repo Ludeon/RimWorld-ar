@@ -1,0 +1,443 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:8
+msgctxt "Kills.label"
+msgid "kills"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:9
+msgctxt "Kills.description"
+msgid "The number of creatures I have killed."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:16
+msgctxt "KillsHumanlikes.label"
+msgid "kills (humanlikes)"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:17
+msgctxt "KillsHumanlikes.description"
+msgid "The number of humanlike characters I have killed."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:24
+msgctxt "KillsAnimals.label"
+msgid "kills (animals)"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:25
+msgctxt "KillsAnimals.description"
+msgid "The number of animals I have killed."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:32
+msgctxt "KillsMechanoids.label"
+msgid "kills (mechanoids)"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:33
+msgctxt "KillsMechanoids.description"
+msgid "The number of mechanoids I have killed."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:40
+msgctxt "PawnsDowned.label"
+msgid "enemies downed"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:41
+msgctxt "PawnsDowned.description"
+msgid "The number of creatures I have downed."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:48
+msgctxt "PawnsDownedHumanlikes.label"
+msgid "enemies downed (humanlikes)"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:49
+msgctxt "PawnsDownedHumanlikes.description"
+msgid "The number of humanlike creatures I have downed."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:56
+msgctxt "PawnsDownedAnimals.label"
+msgid "enemies downed (animals)"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:57
+msgctxt "PawnsDownedAnimals.description"
+msgid "The number of animals I have downed, whether hunting or in combat."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:64
+msgctxt "PawnsDownedMechanoids.label"
+msgid "enemies downed (mechanoids)"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:65
+msgctxt "PawnsDownedMechanoids.description"
+msgid "The number of mechanoids I have downed."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:72
+msgctxt "ShotsFired.label"
+msgid "shots fired"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:73
+msgctxt "ShotsFired.description"
+msgid "The number of shots I have fired."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:79
+msgctxt "Headshots.label"
+msgid "headshots"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:80
+msgctxt "Headshots.description"
+msgid "The number of headshots I have made."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:86
+msgctxt "DamageDealt.label"
+msgid "damage dealt"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:87
+msgctxt "DamageDealt.description"
+msgid "The amount of damage I have dealt."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:93
+msgctxt "DamageTaken.label"
+msgid "damage taken"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:94
+msgctxt "DamageTaken.description"
+msgid "The amount of damage I have taken."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:102
+msgctxt "TimesInMentalState.label"
+msgid "times in mental state"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:103
+msgctxt "TimesInMentalState.description"
+msgid "How many times I have suffered a mental break."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:109
+msgctxt "TimesOnFire.label"
+msgid "times on fire"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:110
+msgctxt "TimesOnFire.description"
+msgid "How many times I have been on fire."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:116
+msgctxt "FiresExtinguished.label"
+msgid "fires extinguished"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:117
+msgctxt "FiresExtinguished.description"
+msgid "The number of fires I have extinguished."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:125
+msgctxt "OperationsReceived.label"
+msgid "operations received"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:126
+msgctxt "OperationsReceived.description"
+msgid "How many times I have been medically operated on."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:132
+msgctxt "OperationsPerformed.label"
+msgid "operations performed"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:133
+msgctxt "OperationsPerformed.description"
+msgid "How many medical operations I have performed."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:139
+msgctxt "TimesTendedTo.label"
+msgid "tends received"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:140
+msgctxt "TimesTendedTo.description"
+msgid "How many times I have had my medical conditions tended."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:146
+msgctxt "TimesTendedOther.label"
+msgid "tends given"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:147
+msgctxt "TimesTendedOther.description"
+msgid "How many times I have tended to others' medical conditions."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:153
+msgctxt "PeopleCaptured.label"
+msgid "people captured"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:154
+msgctxt "PeopleCaptured.description"
+msgid "The number of people I have captured."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:160
+msgctxt "PrisonersRecruited.label"
+msgid "prisoners recruited"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:161
+msgctxt "PrisonersRecruited.description"
+msgid "The number of prisoners I have recruited."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:167
+msgctxt "PrisonersChatted.label"
+msgid "prisoners chatted"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:168
+msgctxt "PrisonersChatted.description"
+msgid "How many times I have chatted with prisoners."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:174
+msgctxt "AnimalsTamed.label"
+msgid "animals tamed"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:175
+msgctxt "AnimalsTamed.description"
+msgid "The number of animals I have tamed."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:181
+msgctxt "AnimalsSlaughtered.label"
+msgid "animals slaughtered"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:182
+msgctxt "AnimalsSlaughtered.description"
+msgid "The number of animals I have slaughtered."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:188
+msgctxt "MealsCooked.label"
+msgid "meals cooked"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:189
+msgctxt "MealsCooked.description"
+msgid "The number of meals I have cooked."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:195
+msgctxt "ThingsConstructed.label"
+msgid "things constructed"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:196
+msgctxt "ThingsConstructed.description"
+msgid "The number of things I have constructed."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:202
+msgctxt "ThingsInstalled.label"
+msgid "things installed"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:203
+msgctxt "ThingsInstalled.description"
+msgid "The number of things I have installed."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:209
+msgctxt "ThingsRepaired.label"
+msgid "things repaired"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:210
+msgctxt "ThingsRepaired.description"
+msgid "The number of things I have repaired."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:216
+msgctxt "ThingsCrafted.label"
+msgid "things crafted"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:217
+msgctxt "ThingsCrafted.description"
+msgid "The number of things I have crafted."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:223
+msgctxt "ThingsHauled.label"
+msgid "things hauled"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:224
+msgctxt "ThingsHauled.description"
+msgid "The number of things I have hauled."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:230
+msgctxt "PlantsSown.label"
+msgid "plants sown"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:231
+msgctxt "PlantsSown.description"
+msgid "The number of plants I have sown."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:237
+msgctxt "PlantsHarvested.label"
+msgid "plants harvested"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:238
+msgctxt "PlantsHarvested.description"
+msgid "The number of plants I have harvested."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:244
+msgctxt "CellsMined.label"
+msgid "cells mined"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:245
+msgctxt "CellsMined.description"
+msgid "The number of cells I have mined out."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:251
+msgctxt "MessesCleaned.label"
+msgid "messes cleaned"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:252
+msgctxt "MessesCleaned.description"
+msgid "The number of messes I have cleaned up."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:258
+msgctxt "ResearchPointsResearched.label"
+msgid "research points researched"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:259
+msgctxt "ResearchPointsResearched.description"
+msgid "The number of research points I have researched."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:265
+msgctxt "CorpsesBuried.label"
+msgid "corpses buried"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:266
+msgctxt "CorpsesBuried.description"
+msgid "The number of corpses I have buried."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:272
+msgctxt "NutritionEaten.label"
+msgid "nutrition eaten"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:273
+msgctxt "NutritionEaten.description"
+msgid "The amount of nutrition I have eaten."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:279
+msgctxt "BodiesStripped.label"
+msgid "bodies stripped"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:280
+msgctxt "BodiesStripped.description"
+msgid "The number of bodies I have stripped."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:286
+msgctxt "ThingsUninstalled.label"
+msgid "things uninstalled"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:287
+msgctxt "ThingsUninstalled.description"
+msgid "The number of things I have uninstalled."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:293
+msgctxt "ThingsDeconstructed.label"
+msgid "things deconstructed"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:294
+msgctxt "ThingsDeconstructed.description"
+msgid "The number of things I have deconstructed."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:300
+msgctxt "ArtifactsActivated.label"
+msgid "artifacts activated"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:301
+msgctxt "ArtifactsActivated.description"
+msgid "The number of artifacts I have activated."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:307
+msgctxt "ContainersOpened.label"
+msgid "containers opened"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:308
+msgctxt "ContainersOpened.description"
+msgid "The number of containers I have opened."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:314
+msgctxt "SwitchesFlicked.label"
+msgid "switches flicked"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Misc.xml:315
+msgctxt "SwitchesFlicked.description"
+msgid "The number of switches I have flicked."
+msgstr ""

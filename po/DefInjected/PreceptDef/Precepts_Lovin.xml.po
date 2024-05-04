@@ -1,0 +1,65 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/PreceptDefs/Precepts_Lovin.xml:8
+msgctxt "Lovin.label"
+msgid "physical love"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Lovin.xml:17
+msgctxt "InitiatedLovin.label"
+msgid "initiated lovin'"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Lovin.xml:22
+msgctxt "GotLovin.label"
+msgid "got some lovin'"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Lovin.xml:27
+msgctxt "GotLovin_Spouse.label"
+msgid "lovin' with spouse"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Lovin.xml:32
+msgctxt "GotLovin_NonSpouse.label"
+msgid "lovin' outside marriage"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Lovin.xml:37
+msgctxt "SharedBed.label"
+msgid "shared bed"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Lovin.xml:42
+msgctxt "SharedBed_Spouse.label"
+msgid "shared bed with spouse"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Lovin.xml:47
+msgctxt "SharedBed_NonSpouse.label"
+msgid "shared bed outside marriage"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Lovin.xml:56
+msgctxt "Lovin_Free.label"
+msgid "free"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Lovin.xml:57
+msgctxt "Lovin_Free.description"
+msgid ""
+"Physical intimacy is a natural part of life, with any partner, married or "
+"not."
+msgstr ""

@@ -1,0 +1,1935 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compendium:4
+#, fuzzy
+msgctxt "Tool"
+msgid "Tool"
+msgstr "Tool"
+
+#: compendium:5
+#, fuzzy
+msgctxt "DamageLower"
+msgid "damage"
+msgstr "damage"
+
+#: compendium:6
+#, fuzzy
+msgctxt "SecondsPerAttackLower"
+msgid "seconds per attack"
+msgstr "seconds per attack"
+
+#: compendium:8
+#, fuzzy
+msgctxt "StatsReport_BaseValue"
+msgid "Base value"
+msgstr "Base value"
+
+#: compendium:9
+#, fuzzy
+msgctxt "StatsReport_RelevantTraits"
+msgid "Relevant traits"
+msgstr "Relevant traits"
+
+#: compendium:10
+#, fuzzy
+msgctxt "StatsReport_RelevantGear"
+msgid "Relevant gear"
+msgstr "Relevant gear"
+
+#: compendium:11
+#, fuzzy
+msgctxt "StatsReport_RelevantHediffs"
+msgid "Relevant health conditions"
+msgstr "Relevant health conditions"
+
+#: compendium:12
+#, fuzzy
+msgctxt "StatsReport_LifeStage"
+msgid "Life stage"
+msgstr "Life stage"
+
+#: compendium:13
+#, fuzzy
+msgctxt "StatsReport_ShamblerCrawling"
+msgid "Shambler crawling"
+msgstr "Shambler crawling"
+
+#: compendium:14
+#, fuzzy
+msgctxt "StatsReport_Material"
+msgid "Material"
+msgstr "Material"
+
+#: compendium:15
+#, fuzzy
+msgctxt "StatsReport_CharacterQuality"
+msgid "Character quality"
+msgstr "Character quality"
+
+#: compendium:16
+#, fuzzy
+msgctxt "StatsReport_Skills"
+msgid "Skills"
+msgstr "Skills"
+
+#: compendium:17
+#, fuzzy
+msgctxt "StatsReport_OtherStats"
+msgid "Post-process - other stats"
+msgstr "Post-process - other stats"
+
+#: compendium:18
+#, fuzzy
+msgctxt "StatsReport_Health"
+msgid "Health"
+msgstr "Health"
+
+#: compendium:19
+#, fuzzy
+msgctxt "HealthFactorPercentImpact"
+msgid "{0} importance"
+msgstr "{0} importance"
+
+#: compendium:20
+#, fuzzy
+msgctxt "HealthOffsetScale"
+msgid "{0} impact"
+msgstr "{0} impact"
+
+#: compendium:21
+#, fuzzy
+msgctxt "HealthFactorMaxImpact"
+msgid "{0} max"
+msgstr "{0} max"
+
+#: compendium:22
+#, fuzzy
+msgctxt "HealthFactorAllowedDefect"
+msgid "if below {0}"
+msgstr "if below {0}"
+
+#: compendium:23
+#, fuzzy
+msgctxt "StatsReport_PostProcessed"
+msgid "Post-process curve"
+msgstr "Post-process curve"
+
+#: compendium:24
+#, fuzzy
+msgctxt "StatsReport_ShootingExampleDistances"
+msgid "The chances to hit at increasing distances are"
+msgstr "The chances to hit at increasing distances are"
+
+#: compendium:25
+#, fuzzy
+msgctxt "StatsReport_FinalValue"
+msgid "Final value"
+msgstr "Final value"
+
+#: compendium:26
+#, fuzzy
+msgctxt "StatsReport_MaxValue"
+msgid "Max value"
+msgstr "Max value"
+
+#: compendium:27
+#, fuzzy
+msgctxt "StatsReport_MultiplierFor"
+msgid "Multiplier for {0}"
+msgstr "Multiplier for {0}"
+
+#: compendium:28
+#, fuzzy
+msgctxt "StatsReport_MarketValueFromStuffsAndWork"
+msgid "Materials and labor"
+msgstr "Materials and labor"
+
+#: compendium:29
+#, fuzzy
+msgctxt "StatsReport_QualityMultiplier"
+msgid "Quality multiplier"
+msgstr "Quality multiplier"
+
+#: compendium:30
+#, fuzzy
+msgctxt "StatsReport_QualityOffset"
+msgid "Quality offset"
+msgstr "Quality offset"
+
+#: compendium:31
+#, fuzzy
+msgctxt "StatsReport_MaxGain"
+msgid "Max gain"
+msgstr "Max gain"
+
+#: compendium:32
+#, fuzzy
+msgctxt "StatsReport_AgeMultiplier"
+msgid "Multiplier for age {0}"
+msgstr "Multiplier for age {0}"
+
+#: compendium:33
+#, fuzzy
+msgctxt "StatsReport_AgeOffset"
+msgid "Offset for age {0}"
+msgstr "Offset for age {0}"
+
+#: compendium:34
+#, fuzzy
+msgctxt "StatsReport_HealthMultiplier"
+msgid "Multiplier for health {0}"
+msgstr "Multiplier for health {0}"
+
+#: compendium:35
+#, fuzzy
+msgctxt "StatsReport_ReloadMarketValue"
+msgid "Cost to reload ({COUNT} {AMMO_label})"
+msgstr "Cost to reload ({COUNT} {AMMO_label})"
+
+#: compendium:36
+#, fuzzy
+msgctxt "StatsReport_ReloadRemainingChargesMultipler"
+msgid "Multiplier for remaining {CHARGENOUN_plural} ({0})"
+msgstr "Multiplier for remaining {CHARGENOUN_plural} ({0})"
+
+#: compendium:37
+#, fuzzy
+msgctxt "StatsReport_MoodMultiplier"
+msgid "Multiplier for mood {0}"
+msgstr "Multiplier for mood {0}"
+
+#: compendium:38
+#, fuzzy
+msgctxt "StatsReport_LightMultiplier"
+msgid "Multiplier for light {0}"
+msgstr "Multiplier for light {0}"
+
+#: compendium:39
+#, fuzzy
+msgctxt "StatsReport_DifficultyMultiplier"
+msgid "Multiplier for difficulty {0}"
+msgstr "Multiplier for difficulty {0}"
+
+#: compendium:40
+#, fuzzy
+msgctxt "StatsReport_InBed"
+msgid "In bed"
+msgstr "In bed"
+
+#: compendium:41
+#, fuzzy
+msgctxt "StatsReport_Facilities"
+msgid "Facilities"
+msgstr "Facilities"
+
+#: compendium:42
+#, fuzzy
+msgctxt "StatsReport_BodySize"
+msgid "Multiplier for body size {0}"
+msgstr "Multiplier for body size {0}"
+
+#: compendium:43
+#, fuzzy
+msgctxt "StatsReport_HasHediffExplanation"
+msgid "Damaged"
+msgstr "Damaged"
+
+#: compendium:44
+#, fuzzy
+msgctxt "StatsReport_MeleeDPSExplanation"
+msgid "DPS = Melee damage * Melee hit chance / Cooldown in seconds"
+msgstr "DPS = Melee damage * Melee hit chance / Cooldown in seconds"
+
+#: compendium:45
+#, fuzzy
+msgctxt "StatsReport_MeleeDamage"
+msgid "Melee damage"
+msgstr "Melee damage"
+
+#: compendium:46
+#, fuzzy
+msgctxt "StatsReport_Cooldown"
+msgid "Cooldown"
+msgstr "Cooldown"
+
+#: compendium:47
+#, fuzzy
+msgctxt "StatsReport_MeleeHitChance"
+msgid "Melee hit chance"
+msgstr "Melee hit chance"
+
+#: compendium:48
+#, fuzzy
+msgctxt "StatsReport_CooldownFormat"
+msgid "{0} s"
+msgstr "{0} s"
+
+#: compendium:49
+#, fuzzy
+msgctxt "StatsReport_BlockedByFences"
+msgid "Blocked by fences"
+msgstr "Blocked by fences"
+
+#: compendium:50
+#, fuzzy
+msgctxt "StatsReport_RoamInterval"
+msgid "Roam interval"
+msgstr "Roam interval"
+
+#: compendium:51
+#, fuzzy
+msgctxt "StatsReport_CaravanRideableAge"
+msgid "Caravan rideable age"
+msgstr "Caravan rideable age"
+
+#: compendium:52
+#, fuzzy
+msgctxt "StatsReport_LifeExpectancy"
+msgid "Life expectancy"
+msgstr "Life expectancy"
+
+#: compendium:53
+#, fuzzy
+msgctxt "StatsReport_MissingBodyParts"
+msgid "Multiplier for missing body parts"
+msgstr "Multiplier for missing body parts"
+
+#: compendium:54
+#, fuzzy
+msgctxt "StatsReport_GearAndInventoryMass"
+msgid "Gear and inventory"
+msgstr "Gear and inventory"
+
+#: compendium:55
+#, fuzzy
+msgctxt "StatsReport_WornByCorpse"
+msgid "Multiplier for worn by corpse"
+msgstr "Multiplier for worn by corpse"
+
+#: compendium:56
+#, fuzzy
+msgctxt "AverageOfAllAttacks"
+msgid "average of all attacks"
+msgstr "average of all attacks"
+
+#: compendium:57
+#, fuzzy
+msgctxt "StatsReport_ScenarioFactor"
+msgid "Scenario"
+msgstr "Scenario"
+
+#: compendium:58
+#, fuzzy
+msgctxt "StatsReport_IngredientsMass"
+msgid "Ingredients"
+msgstr "Ingredients"
+
+#: compendium:59
+#, fuzzy
+msgctxt "StatsReport_PermanentlyDisabled"
+msgid "Permanently disabled."
+msgstr "Permanently disabled."
+
+#: compendium:60
+#, fuzzy
+msgctxt "StatsReport_Inspiration"
+msgid "{0}"
+msgstr "{0}"
+
+#: compendium:61
+#, fuzzy
+msgctxt "StatsReport_AddedBodyPartsMass"
+msgid "Added body parts"
+msgstr "Added body parts"
+
+#: compendium:62
+#, fuzzy
+msgctxt "StatsReport_StuffEffectMultiplier"
+msgid "Material effect multiplier"
+msgstr "Material effect multiplier"
+
+#: compendium:63
+#, fuzzy
+msgctxt "StatsReport_Resting"
+msgid "Resting"
+msgstr "Resting"
+
+#: compendium:64
+#, fuzzy
+msgctxt "StatsReport_JoyKind"
+msgid "recreation type"
+msgstr "recreation type"
+
+#: compendium:65
+#, fuzzy
+msgctxt "StatsReport_WorkToUninstall"
+msgid "work to uninstall"
+msgstr "work to uninstall"
+
+#: compendium:66
+#, fuzzy
+msgctxt "StatsReport_Fence"
+msgid "Fence"
+msgstr "Fence"
+
+#: compendium:67
+#, fuzzy
+msgctxt "StatsReport_PlantGrowth"
+msgid "Multiplier for growth {0}"
+msgstr "Multiplier for growth {0}"
+
+#: compendium:68
+#, fuzzy
+msgctxt "StatsReport_PlantGrowth_Wild"
+msgid "scaled because wild"
+msgstr "scaled because wild"
+
+#: compendium:69
+#, fuzzy
+msgctxt "StatsReport_NotFlesh"
+msgid "Not flesh"
+msgstr "Not flesh"
+
+#: compendium:70
+#, fuzzy
+msgctxt "StatsReport_NotFresh"
+msgid "Not fresh"
+msgstr "Not fresh"
+
+#: compendium:71
+#, fuzzy
+msgctxt "StatsReport_WildMan"
+msgid "Wild man"
+msgstr "Wild man"
+
+#: compendium:72
+#, fuzzy
+msgctxt "StatsReport_NonToolAttack"
+msgid "Attack"
+msgstr "Attack"
+
+#: compendium:73
+#, fuzzy
+msgctxt "StatsReport_Ideoligion"
+msgid "Ideoligion"
+msgstr "Ideoligion"
+
+#: compendium:74
+#, fuzzy
+msgctxt "StatsReport_Malnutrition"
+msgid "Multiplier for malnutrition {0}"
+msgstr "Multiplier for malnutrition {0}"
+
+#: compendium:76
+#, fuzzy
+msgctxt "StatReport_PossibleOffsets"
+msgid "Possible offsets"
+msgstr "Possible offsets"
+
+#: compendium:77
+#, fuzzy
+msgctxt "StatsReport_RoomImpressiveness"
+msgid "Room impressiveness"
+msgstr "Room impressiveness"
+
+#: compendium:78
+#, fuzzy
+msgctxt "StatsReport_Lit"
+msgid "Lit"
+msgstr "Lit"
+
+#: compendium:79
+#, fuzzy
+msgctxt "StatsReport_GraveFull"
+msgid "Contains {0}"
+msgstr "Contains {0}"
+
+#: compendium:80
+#, fuzzy
+msgctxt "StatsReport_GraveFullAbstract"
+msgid "Contains a human corpse"
+msgstr "Contains a human corpse"
+
+#: compendium:81
+#, fuzzy
+msgctxt "StatsReport_GraveCorpseRelatedAbstract"
+msgid "Meditator is related to the corpse inside"
+msgstr "Meditator is related to the corpse inside"
+
+#: compendium:82
+#, fuzzy
+msgctxt "StatsReport_FromQuality"
+msgid "From quality"
+msgstr "From quality"
+
+#: compendium:83
+#, fuzzy
+msgctxt "StatsReport_NearbyArtificialStructures"
+msgid "Nearby artificial structures"
+msgstr "Nearby artificial structures"
+
+#: compendium:84
+#, fuzzy
+msgctxt "StatsReport_SatisfiesTitle"
+msgid "Satisfies user's title requirements"
+msgstr "Satisfies user's title requirements"
+
+#: compendium:86
+#, fuzzy
+msgctxt "Stat_Age_Label"
+msgid "Age"
+msgstr "Age"
+
+#: compendium:87
+#, fuzzy
+msgctxt "Stat_RecreationType_Desc"
+msgid ""
+"Different sources of recreation satisfy different recreation types. "
+"Colonists become bored of doing the same recreation type repeatedly, so it "
+"is important to provide a variety of recreation sources with different "
+"recreation types."
+msgstr ""
+"Different sources of recreation satisfy different recreation types. "
+"Colonists become bored of doing the same recreation type repeatedly, so it "
+"is important to provide a variety of recreation sources with different "
+"recreation types."
+
+#: compendium:88
+#, fuzzy
+msgctxt "Stat_JoyKind_AllTypes"
+msgid "All recreation types"
+msgstr "All recreation types"
+
+#: compendium:89
+#, fuzzy
+msgctxt "Stat_MineableThing_Name"
+msgid "Mined item"
+msgstr "Mined item"
+
+#: compendium:90
+#, fuzzy
+msgctxt "Stat_MineableThing_Desc"
+msgid "The item that will be yielded when mining this."
+msgstr "The item that will be yielded when mining this."
+
+#: compendium:91
+#, fuzzy
+msgctxt "Stat_MiningYield_Name"
+msgid "Mining yield"
+msgstr "Mining yield"
+
+#: compendium:92
+#, fuzzy
+msgctxt "Stat_MiningYield_Desc"
+msgid ""
+"The maximum amount of items yielded when mining this. The actual yield will "
+"be adjusted by the mining skill of the miner."
+msgstr ""
+"The maximum amount of items yielded when mining this. The actual yield will "
+"be adjusted by the mining skill of the miner."
+
+#: compendium:93
+#, fuzzy
+msgctxt "Stat_SourceSpecies_Name"
+msgid "Source species"
+msgstr "Source species"
+
+#: compendium:94
+#, fuzzy
+msgctxt "Stat_SourceSpecies_Desc"
+msgid "The species of creature from which this was taken."
+msgstr "The species of creature from which this was taken."
+
+#: compendium:95
+#, fuzzy
+msgctxt "Stat_Stuff_Name"
+msgid "Stuff"
+msgstr "Stuff"
+
+#: compendium:96
+#, fuzzy
+msgctxt "Stat_Stuff_Desc"
+msgid ""
+"The stuff this thing is made of. This affects many other stats, including "
+"weapon damage, apparel armor and insulation, item and building hit points, "
+"beauty, market value, and much more."
+msgstr ""
+"The stuff this thing is made of. This affects many other stats, including "
+"weapon damage, apparel armor and insulation, item and building hit points, "
+"beauty, market value, and much more."
+
+#: compendium:97
+#, fuzzy
+msgctxt "Stat_Weapon_Name"
+msgid "Weapon"
+msgstr "Weapon"
+
+#: compendium:98
+#, fuzzy
+msgctxt "Stat_Weapon_Desc"
+msgid "The weapon used by this turret."
+msgstr "The weapon used by this turret."
+
+#: compendium:99
+#, fuzzy
+msgctxt "Stat_HitPoints_Desc"
+msgid "How much damage an object can take before being destroyed."
+msgstr "How much damage an object can take before being destroyed."
+
+#: compendium:100
+#, fuzzy
+msgctxt "Stat_Thing_WorkToUninstall_Desc"
+msgid "The amount of work it takes to uninstall this."
+msgstr "The amount of work it takes to uninstall this."
+
+#: compendium:101
+#, fuzzy
+msgctxt "Stat_Thing_Fence_Desc"
+msgid "Whether this building is a type of fence. Fences block these animals"
+msgstr "Whether this building is a type of fence. Fences block these animals"
+
+#: compendium:102
+#, fuzzy
+msgctxt "Stat_Thing_CreatedAt_Desc"
+msgid "Which facilities can be used to produce this."
+msgstr "Which facilities can be used to produce this."
+
+#: compendium:103
+#, fuzzy
+msgctxt "Stat_Thing_Damage_Desc"
+msgid ""
+"The amount of damage this weapon deals.\\n\\nThis may be deflected or "
+"mitigated by the target's armor."
+msgstr ""
+"The amount of damage this weapon deals.\\n\\nThis may be deflected or "
+"mitigated by the target's armor."
+
+#: compendium:104
+#, fuzzy
+msgctxt "Stat_Thing_Drug_MedicineXpGainFactor_Desc"
+msgid ""
+"A multiplier on the amount of experience doctors gain when using this to "
+"tend a patient."
+msgstr ""
+"A multiplier on the amount of experience doctors gain when using this to "
+"tend a patient."
+
+#: compendium:105
+#, fuzzy
+msgctxt "Stat_Thing_Plant_Attributes_Desc"
+msgid "The attributes of this plant."
+msgstr "The attributes of this plant."
+
+#: compendium:106
+#, fuzzy
+msgctxt "Stat_Thing_Apparel_CountsAsClothingNudity_Name"
+msgid "Clothing (for nudity)"
+msgstr "Clothing (for nudity)"
+
+#: compendium:107
+#, fuzzy
+msgctxt "Stat_Thing_Apparel_CountsAsClothingNudity_Desc"
+msgid ""
+"Whether nudists will consider this item to be a piece of clothing. If not, "
+"nudists will never be bothered by wearing this."
+msgstr ""
+"Whether nudists will consider this item to be a piece of clothing. If not, "
+"nudists will never be bothered by wearing this."
+
+#: compendium:108
+#, fuzzy
+msgctxt "Stat_Thing_Apparel_Gender"
+msgid "Gender"
+msgstr "Gender"
+
+#: compendium:109
+#, fuzzy
+msgctxt "Stat_Thing_Apparel_Gender_Desc"
+msgid ""
+"Certain apparel is generally preferred by one gender. Anyone else may be "
+"unhappy wearing it."
+msgstr ""
+"Certain apparel is generally preferred by one gender. Anyone else may be "
+"unhappy wearing it."
+
+#: compendium:110
+#, fuzzy
+msgctxt "Stat_Thing_Apparel_Covers_Desc"
+msgid ""
+"Which body parts this covers.\\n\\nArmor does not protect body parts that it"
+" does not cover."
+msgstr ""
+"Which body parts this covers.\\n\\nArmor does not protect body parts that it"
+" does not cover."
+
+#: compendium:111
+#, fuzzy
+msgctxt "Stat_Thing_Apparel_Layer_Desc"
+msgid ""
+"Which apparel layers this fills.\\n\\nFor a given body part, only one piece "
+"of apparel can be worn in each layer."
+msgstr ""
+"Which apparel layers this fills.\\n\\nFor a given body part, only one piece "
+"of apparel can be worn in each layer."
+
+#: compendium:112
+#, fuzzy
+msgctxt "Stat_Thing_Plant_FertilityRequirement_Desc"
+msgid "The minimum soil fertility that this plant requires to grow."
+msgstr "The minimum soil fertility that this plant requires to grow."
+
+#: compendium:113
+#, fuzzy
+msgctxt "Stat_Thing_Plant_FertilitySensitivity_Desc"
+msgid ""
+"How sensitive this plant is to soil fertility.\\n\\nLow sensitivity means "
+"the plant will grow about the same speed in rich or poor soil. High "
+"sensitivity means the plant grows slow in poor soil, but faster in rich "
+"soil."
+msgstr ""
+"How sensitive this plant is to soil fertility.\\n\\nLow sensitivity means "
+"the plant will grow about the same speed in rich or poor soil. High "
+"sensitivity means the plant grows slow in poor soil, but faster in rich "
+"soil."
+
+#: compendium:114
+#, fuzzy
+msgctxt "Stat_Thing_Plant_LightRequirement_Desc"
+msgid "The amount of light this plant requires to grow."
+msgstr "The amount of light this plant requires to grow."
+
+#: compendium:115
+#, fuzzy
+msgctxt "Stat_Thing_Plant_LifeSpan_Desc"
+msgid ""
+"The lifespan of the plant.\\n\\nPlants naturally die after they reach a "
+"certain age, even if not harvested."
+msgstr ""
+"The lifespan of the plant.\\n\\nPlants naturally die after they reach a "
+"certain age, even if not harvested."
+
+#: compendium:116
+#, fuzzy
+msgctxt "Stat_Thing_Plant_HarvestYield_Desc"
+msgid "The amount of product this plant will yield when harvested."
+msgstr "The amount of product this plant will yield when harvested."
+
+#: compendium:117
+#, fuzzy
+msgctxt "Stat_Thing_Plant_MinGrowthTemperature_Desc"
+msgid ""
+"The minimum temperature this plant can survive.\\n\\nTemperatures below this"
+" will cause damage over time."
+msgstr ""
+"The minimum temperature this plant can survive.\\n\\nTemperatures below this"
+" will cause damage over time."
+
+#: compendium:118
+#, fuzzy
+msgctxt "Stat_Thing_Plant_MaxGrowthTemperature_Desc"
+msgid ""
+"The maximum temperature this plant can survive.\\n\\nTemperatures above this"
+" will cause damage over time."
+msgstr ""
+"The maximum temperature this plant can survive.\\n\\nTemperatures above this"
+" will cause damage over time."
+
+#: compendium:119
+#, fuzzy
+msgctxt "Stat_Thing_Plant_MinGrowingSkillToSow_Desc"
+msgid "The minimum skill needed for a farmer to to sow this plant."
+msgstr "The minimum skill needed for a farmer to to sow this plant."
+
+#: compendium:120
+#, fuzzy
+msgctxt "Stat_Race_Diet_Desc"
+msgid "The kinds of food this creature is capable of eating.\\n\\nCan eat: {0}"
+msgstr "The kinds of food this creature is capable of eating.\\n\\nCan eat: {0}"
+
+#: compendium:121
+#, fuzzy
+msgctxt "Stat_Race_LeatherType_Desc"
+msgid "The type of leather this creature will yield when butchered."
+msgstr "The type of leather this creature will yield when butchered."
+
+#: compendium:122
+#, fuzzy
+msgctxt "Stat_Race_Animal_TameFailedRevengeChance_Desc"
+msgid ""
+"The chance that this creature will attack when a tamer tries to tame it and "
+"fails."
+msgstr ""
+"The chance that this creature will attack when a tamer tries to tame it and "
+"fails."
+
+#: compendium:123
+#, fuzzy
+msgctxt "Stat_Race_Trainability_Desc"
+msgid ""
+"This creature's general mental aptitude for training. This is a combination "
+"of intelligence and attentiveness. It determines which kinds of tasks this "
+"creature can be trained to perform."
+msgstr ""
+"This creature's general mental aptitude for training. This is a combination "
+"of intelligence and attentiveness. It determines which kinds of tasks this "
+"creature can be trained to perform."
+
+#: compendium:124
+#, fuzzy
+msgctxt "Stat_Race_LifeExpectancy_Desc"
+msgid "The average life expectancy of this creature."
+msgstr "The average life expectancy of this creature."
+
+#: compendium:125
+#, fuzzy
+msgctxt "Stat_Race_BlockedByFences_Desc"
+msgid "Whether this creature is blocked by fences and barricades."
+msgstr "Whether this creature is blocked by fences and barricades."
+
+#: compendium:126
+#, fuzzy
+msgctxt "Stat_Race_RoamInterval_Desc"
+msgid ""
+"How often a tame animal will attempt to roam away and exit the "
+"map.\\n\\nAnimals will only roam if they have a direct path to the map edge."
+" You can use fences, barricades, walls, and doors to prevent "
+"this.\\n\\nAnimal handlers can rope roaming animals and bring them back to a"
+" pen."
+msgstr ""
+"How often a tame animal will attempt to roam away and exit the "
+"map.\\n\\nAnimals will only roam if they have a direct path to the map edge."
+" You can use fences, barricades, walls, and doors to prevent "
+"this.\\n\\nAnimal handlers can rope roaming animals and bring them back to a"
+" pen."
+
+#: compendium:127
+#, fuzzy
+msgctxt "Stat_Thing_Ingestible_Joy_Desc"
+msgid ""
+"The recreational value of ingesting this. Higher numbers will fulfill the "
+"recreation need more."
+msgstr ""
+"The recreational value of ingesting this. Higher numbers will fulfill the "
+"recreation need more."
+
+#: compendium:128
+#, fuzzy
+msgctxt "Stat_Race_BodySize_Desc"
+msgid "The size of this creature's body, compared to an average adult human."
+msgstr "The size of this creature's body, compared to an average adult human."
+
+#: compendium:129
+#, fuzzy
+msgctxt "Stat_Race_Growth_Desc"
+msgid ""
+"How close this creature is to adulthood.\\n\\nGrowth requires nourishment. A"
+" hungry animal will grow at a slower rate compared to a well-fed one."
+msgstr ""
+"How close this creature is to adulthood.\\n\\nGrowth requires nourishment. A"
+" hungry animal will grow at a slower rate compared to a well-fed one."
+
+#: compendium:130
+#, fuzzy
+msgctxt "Stat_Thing_Weapon_MeleeWarmupTime_Desc"
+msgid ""
+"How much time passes between when a melee attack with this weapon begins and"
+" when it hits."
+msgstr ""
+"How much time passes between when a melee attack with this weapon begins and"
+" when it hits."
+
+#: compendium:131
+#, fuzzy
+msgctxt "Stat_Thing_Weapon_RangedWarmupTime_Desc"
+msgid ""
+"How much time passes between when a ranged attack begins aiming and when it "
+"fires."
+msgstr ""
+"How much time passes between when a ranged attack begins aiming and when it "
+"fires."
+
+#: compendium:132
+#, fuzzy
+msgctxt "Stat_Thing_Weapon_BurstShotCount_Desc"
+msgid "The amount of shots this weapon fires in each burst."
+msgstr "The amount of shots this weapon fires in each burst."
+
+#: compendium:133
+#, fuzzy
+msgctxt "Stat_Thing_Weapon_BurstShotFireRate_Desc"
+msgid "The fire rate of this weapon during each burst."
+msgstr "The fire rate of this weapon during each burst."
+
+#: compendium:134
+#, fuzzy
+msgctxt "Stat_Thing_Weapon_Range_Desc"
+msgid "The maximum range of this weapon."
+msgstr "The maximum range of this weapon."
+
+#: compendium:135
+#, fuzzy
+msgctxt "Stat_Thing_Weapon_MissRadius_Desc"
+msgid ""
+"The radius of random spread on shots fired by this weapon.\\n\\nHigh values "
+"make projectiles disperse randomly around the target."
+msgstr ""
+"The radius of random spread on shots fired by this weapon.\\n\\nHigh values "
+"make projectiles disperse randomly around the target."
+
+#: compendium:136
+#, fuzzy
+msgctxt "Stat_Thing_Weapon_DirectHitChance_Desc"
+msgid ""
+"The chance that a shot will directly hit its target if not intercepted, "
+"dodged or stopped."
+msgstr ""
+"The chance that a shot will directly hit its target if not intercepted, "
+"dodged or stopped."
+
+#: compendium:137
+#, fuzzy
+msgctxt "Stat_Thing_MoodChange_Desc"
+msgid "This body part's effect on the mood of the owner."
+msgstr "This body part's effect on the mood of the owner."
+
+#: compendium:138
+#, fuzzy
+msgctxt "Stat_Recipe_Skill_Desc"
+msgid ""
+"The main skill used while performing this recipe.\\n\\nIt determines the "
+"quality of the result, and is learned while performing this recipe."
+msgstr ""
+"The main skill used while performing this recipe.\\n\\nIt determines the "
+"quality of the result, and is learned while performing this recipe."
+
+#: compendium:139
+#, fuzzy
+msgctxt "Stat_Recipe_Ingredients_Desc"
+msgid "The ingredients required to perform this recipe."
+msgstr "The ingredients required to perform this recipe."
+
+#: compendium:140
+#, fuzzy
+msgctxt "Stat_Recipe_SkillRequirements_Desc"
+msgid "The skills required to perform this recipe."
+msgstr "The skills required to perform this recipe."
+
+#: compendium:141
+#, fuzzy
+msgctxt "Stat_Recipe_Products_Desc"
+msgid "The products produced by this recipe."
+msgstr "The products produced by this recipe."
+
+#: compendium:142
+#, fuzzy
+msgctxt "Stat_Recipe_WorkSpeedStat_Desc"
+msgid ""
+"Which character stat governs the workspeed of this recipe.\\n\\nThe higher "
+"the stat of the worker is, the faster work will be done."
+msgstr ""
+"Which character stat governs the workspeed of this recipe.\\n\\nThe higher "
+"the stat of the worker is, the faster work will be done."
+
+#: compendium:143
+#, fuzzy
+msgctxt "Stat_Recipe_EfficiencyStat_Desc"
+msgid ""
+"Which stat governs the quality or amount of output.\\n\\nThe higher the stat"
+" of the worker is, the higher the quality or yield will be."
+msgstr ""
+"Which stat governs the quality or amount of output.\\n\\nThe higher the stat"
+" of the worker is, the higher the quality or yield will be."
+
+#: compendium:144
+#, fuzzy
+msgctxt "Stat_Thing_Surgery_SuccessChanceFactor_Desc"
+msgid ""
+"A multiplier on the chance this operation will be a success. More difficult "
+"operations have lower multipliers.\\n\\nThe actual chance of success of a "
+"surgery is also affected by the doctor, facilities, and medicine used."
+msgstr ""
+"A multiplier on the chance this operation will be a success. More difficult "
+"operations have lower multipliers.\\n\\nThe actual chance of success of a "
+"surgery is also affected by the doctor, facilities, and medicine used."
+
+#: compendium:145
+#, fuzzy
+msgctxt "Stat_Thing_Surgery_SuccessChanceFactor_CantFail"
+msgid "Can't fail"
+msgstr "Can't fail"
+
+#: compendium:146
+#, fuzzy
+msgctxt "Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc"
+msgid "Performing this operation is safe for the patient."
+msgstr "Performing this operation is safe for the patient."
+
+#: compendium:147
+#, fuzzy
+msgctxt "Stat_Thing_Surgery_DeathOnFailChance_Desc"
+msgid "The chance the patient will die upon failure of this surgery."
+msgstr "The chance the patient will die upon failure of this surgery."
+
+#: compendium:148
+#, fuzzy
+msgctxt "Stat_Hediff_TotalBleedFactor_Name"
+msgid "Total bleed factor"
+msgstr "Total bleed factor"
+
+#: compendium:149
+#, fuzzy
+msgctxt "Stat_Hediff_TotalBleedFactor_Desc"
+msgid "A multiplier applied to the overall rate of blood loss."
+msgstr "A multiplier applied to the overall rate of blood loss."
+
+#: compendium:150
+#, fuzzy
+msgctxt "Stat_Hediff_NaturalHealingFactor_Name"
+msgid "Natural healing factor"
+msgstr "Natural healing factor"
+
+#: compendium:151
+#, fuzzy
+msgctxt "Stat_Hediff_NaturalHealingFactor_Desc"
+msgid "A multiplier applied to the overall rate of natural wound healing."
+msgstr "A multiplier applied to the overall rate of natural wound healing."
+
+#: compendium:152
+#, fuzzy
+msgctxt "Stat_Hediff_FoodPoisoningChanceFactor_Name"
+msgid "Food poisoning chance factor"
+msgstr "Food poisoning chance factor"
+
+#: compendium:153
+#, fuzzy
+msgctxt "Stat_Hediff_FoodPoisoningChanceFactor_Desc"
+msgid "A multiplier applied to the chance of getting food poisoning."
+msgstr "A multiplier applied to the chance of getting food poisoning."
+
+#: compendium:154
+#, fuzzy
+msgctxt "Stat_Hediff_BleedingRate_Desc"
+msgid "The rate at which this condition causes blood loss."
+msgstr "The rate at which this condition causes blood loss."
+
+#: compendium:155
+#, fuzzy
+msgctxt "Stat_Hediff_Pain_Desc"
+msgid "The amount of pain caused by this condition."
+msgstr "The amount of pain caused by this condition."
+
+#: compendium:156
+#, fuzzy
+msgctxt "Stat_Hediff_PartEfficiency_Desc"
+msgid "The offset in efficiency applied to body parts affected by this."
+msgstr "The offset in efficiency applied to body parts affected by this."
+
+#: compendium:157
+#, fuzzy
+msgctxt "Stat_Hediff_PartEfficiencyAbsolute_Desc"
+msgid "How efficiently this functions compared to a natural body part."
+msgstr "How efficiently this functions compared to a natural body part."
+
+#: compendium:158
+#, fuzzy
+msgctxt "Stat_Hediff_Affects_Desc"
+msgid "The mental abilities this affects."
+msgstr "The mental abilities this affects."
+
+#: compendium:159
+#, fuzzy
+msgctxt "Stat_Hediff_HungerRateOffset_Name"
+msgid "Hunger rate offset"
+msgstr "Hunger rate offset"
+
+#: compendium:160
+#, fuzzy
+msgctxt "Stat_Hediff_HungerRateFactor_Desc"
+msgid "A multiplier on the rate at which the food need depletes."
+msgstr "A multiplier on the rate at which the food need depletes."
+
+#: compendium:161
+#, fuzzy
+msgctxt "Stat_Hediff_HungerRateOffset_Desc"
+msgid "An offset on the rate at which the food need depletes."
+msgstr "An offset on the rate at which the food need depletes."
+
+#: compendium:162
+#, fuzzy
+msgctxt "Stat_Hediff_TirednessOffset_Name"
+msgid "Sleep fall rate"
+msgstr "Sleep fall rate"
+
+#: compendium:163
+#, fuzzy
+msgctxt "Stat_Hediff_TirednessOffset_Desc"
+msgid ""
+"An offset applied to the rate at which the creature's sleep need falls."
+msgstr ""
+"An offset applied to the rate at which the creature's sleep need falls."
+
+#: compendium:164
+#, fuzzy
+msgctxt "Stat_Hediff_TirednessFactor_Desc"
+msgid ""
+"A multiplier applied to the rate at which the creature's sleep need falls."
+msgstr ""
+"A multiplier applied to the rate at which the creature's sleep need falls."
+
+#: compendium:165
+#, fuzzy
+msgctxt "Stat_Hediff_PreventsInfection_Desc"
+msgid "Whether or not this will prevent infections."
+msgstr "Whether or not this will prevent infections."
+
+#: compendium:166
+#, fuzzy
+msgctxt "Stat_Thing_Terrain_Supports_Desc"
+msgid "The things this terrain supports."
+msgstr "The things this terrain supports."
+
+#: compendium:167
+#, fuzzy
+msgctxt "Stat_Thing_TerrainRequirement_Desc"
+msgid "This can only be placed on terrain of these types."
+msgstr "This can only be placed on terrain of these types."
+
+#: compendium:168
+#, fuzzy
+msgctxt "Stat_Thing_Terrain_Fine_Name"
+msgid "Considered"
+msgstr "Considered"
+
+#: compendium:169
+#, fuzzy
+msgctxt "Stat_Thing_Terrain_Fine_Value"
+msgid "Fine"
+msgstr "Fine"
+
+#: compendium:170
+#, fuzzy
+msgctxt "Stat_Thing_Terrain_Fine_Desc"
+msgid "This floor is considered fine and suitable for royalty."
+msgstr "This floor is considered fine and suitable for royalty."
+
+#: compendium:171
+#, fuzzy
+msgctxt "Stat_Thing_PowerConsumption_Desc"
+msgid "The amount of power this building will draw from the power grid."
+msgstr "The amount of power this building will draw from the power grid."
+
+#: compendium:172
+#, fuzzy
+msgctxt "Stat_Thing_ReloadChargesRemaining_Name"
+msgid "{CHARGENOUN_plural} remaining"
+msgstr "{CHARGENOUN_plural} remaining"
+
+#: compendium:173
+#, fuzzy
+msgctxt "Stat_Thing_ReloadChargesRemaining_Desc"
+msgid ""
+"The number of {CHARGENOUN_plural} remaining on this object. If these run "
+"out, the special ability can no longer be used."
+msgstr ""
+"The number of {CHARGENOUN_plural} remaining on this object. If these run "
+"out, the special ability can no longer be used."
+
+#: compendium:174
+#, fuzzy
+msgctxt "Stat_Thing_ReloadMaxCharges_Name"
+msgid "{CHARGENOUN_plural}"
+msgstr "{CHARGENOUN_plural}"
+
+#: compendium:175
+#, fuzzy
+msgctxt "Stat_Thing_ReloadMaxCharges_Desc"
+msgid "The maximum number of {CHARGENOUN_plural} this object has."
+msgstr "The maximum number of {CHARGENOUN_plural} this object has."
+
+#: compendium:176
+#, fuzzy
+msgctxt "Stat_Thing_ReloadRefill_Name"
+msgid "{CHARGENOUN} reload cost"
+msgstr "{CHARGENOUN} reload cost"
+
+#: compendium:177
+#, fuzzy
+msgctxt "Stat_Thing_ReloadRefill_Desc"
+msgid ""
+"The amount of items required to fully reload this object.\\n\\nThis object "
+"can be reloaded before it is empty, but the cost is the same as if it was "
+"empty."
+msgstr ""
+"The amount of items required to fully reload this object.\\n\\nThis object "
+"can be reloaded before it is empty, but the cost is the same as if it was "
+"empty."
+
+#: compendium:178
+#, fuzzy
+msgctxt "Stat_Thing_ReloadPerCharge_Name"
+msgid "Reload cost per {CHARGENOUN}"
+msgstr "Reload cost per {CHARGENOUN}"
+
+#: compendium:179
+#, fuzzy
+msgctxt "Stat_Thing_ReloadPerCharge_Desc"
+msgid ""
+"The amount of items required to reload one {CHARGENOUN}. Multiple "
+"{CHARGENOUN_plural} can be reloaded at once."
+msgstr ""
+"The amount of items required to reload one {CHARGENOUN}. Multiple "
+"{CHARGENOUN_plural} can be reloaded at once."
+
+#: compendium:180
+#, fuzzy
+msgctxt "Stat_Thing_ReloadDestroyOnEmpty_Name"
+msgid "Vanish on exhaust"
+msgstr "Vanish on exhaust"
+
+#: compendium:181
+#, fuzzy
+msgctxt "Stat_Thing_ReloadDestroyOnEmpty_Desc"
+msgid "This item will vanish when its last {CHARGENOUN} is used."
+msgstr "This item will vanish when its last {CHARGENOUN} is used."
+
+#: compendium:182
+#, fuzzy
+msgctxt "Stat_Thing_BodyPartEfficiency_Desc"
+msgid "The overall efficiency of this body part."
+msgstr "The overall efficiency of this body part."
+
+#: compendium:183
+#, fuzzy
+msgctxt "Stat_Thing_InstallSites"
+msgid "Install sites"
+msgstr "Install sites"
+
+#: compendium:184
+#, fuzzy
+msgctxt "Stat_Thing_InstallSites_Desc"
+msgid "Areas on the body where this can be installed."
+msgstr "Areas on the body where this can be installed."
+
+#: compendium:185
+#, fuzzy
+msgctxt "Stat_Thing_ReplacesParts"
+msgid "Replaces parts"
+msgstr "Replaces parts"
+
+#: compendium:186
+#, fuzzy
+msgctxt "Stat_Thing_ReplacesParts_Desc"
+msgid "Body parts which are replaced by this when installed."
+msgstr "Body parts which are replaced by this when installed."
+
+#: compendium:187
+#, fuzzy
+msgctxt "Stat_Thing_Biocoded_Name"
+msgid "Biocoding"
+msgstr "Biocoding"
+
+#: compendium:188
+#, fuzzy
+msgctxt "Stat_Thing_Biocoded_Desc"
+msgid ""
+"This item has been coded to only accept a particular individual's bio-"
+"signature."
+msgstr ""
+"This item has been coded to only accept a particular individual's bio-"
+"signature."
+
+#: compendium:189
+#, fuzzy
+msgctxt "Stat_Pawn_RequiredApparel_Name"
+msgid "Required apparel"
+msgstr "Required apparel"
+
+#: compendium:190
+#, fuzzy
+msgctxt "Stat_Thing_Plant_GrowthRate"
+msgid "Growth rate"
+msgstr "Growth rate"
+
+#: compendium:191
+#, fuzzy
+msgctxt "Stat_Thing_Plant_GrowthRate_Desc"
+msgid ""
+"The rate at which a plant is growing.\\n\\nGrowth rate is affected by things"
+" like soil fertility, temperature, light, and environmental conditions."
+msgstr ""
+"The rate at which a plant is growing.\\n\\nGrowth rate is affected by things"
+" like soil fertility, temperature, light, and environmental conditions."
+
+#: compendium:192
+#, fuzzy
+msgctxt "Stat_Thing_Plant_Age"
+msgid "Age"
+msgstr "Age"
+
+#: compendium:193
+#, fuzzy
+msgctxt "Stat_Thing_Plant_AgeDesc"
+msgid "How long this has been alive."
+msgstr "How long this has been alive."
+
+#: compendium:194
+#, fuzzy
+msgctxt "Stat_Thing_Plant_Lifespan"
+msgid "Lifespan"
+msgstr "Lifespan"
+
+#: compendium:195
+#, fuzzy
+msgctxt "Stat_Building_Paintable"
+msgid "Paintable"
+msgstr "Paintable"
+
+#: compendium:196
+#, fuzzy
+msgctxt "Stat_Building_PaintableDesc"
+msgid "Whether this can be painted using dye."
+msgstr "Whether this can be painted using dye."
+
+#: compendium:197
+#, fuzzy
+msgctxt "Stat_Building_PaintColor"
+msgid "Paint color"
+msgstr "Paint color"
+
+#: compendium:198
+#, fuzzy
+msgctxt "Stat_Building_PaintColorDesc"
+msgid "The color this building was painted."
+msgstr "The color this building was painted."
+
+#: compendium:199
+#, fuzzy
+msgctxt "Stat_Building_ResourcesToMake"
+msgid "Resources to make"
+msgstr "Resources to make"
+
+#: compendium:200
+#, fuzzy
+msgctxt "Stat_Building_ResourcesToMakeDesc"
+msgid "The resources required to construct this."
+msgstr "The resources required to construct this."
+
+#: compendium:201
+#, fuzzy
+msgctxt "Stat_Thing_TurretDesc"
+msgid "The weapon mounted on this creature."
+msgstr "The weapon mounted on this creature."
+
+#: compendium:202
+#, fuzzy
+msgctxt "Stat_Thing_Ingredients"
+msgid "The ingredients needed to make this."
+msgstr "The ingredients needed to make this."
+
+#: compendium:205
+#, fuzzy
+msgctxt "Stat_Thing_Drug_Chemical_Desc"
+msgid ""
+"The active chemical in this.\\n\\nIn some cases, the same chemical is "
+"present in multiple different drugs. These different drugs will satisfy the "
+"same addiction in different ways."
+msgstr ""
+"The active chemical in this.\\n\\nIn some cases, the same chemical is "
+"present in multiple different drugs. These different drugs will satisfy the "
+"same addiction in different ways."
+
+#: compendium:206
+#, fuzzy
+msgctxt "Stat_Thing_Drug_Category_Desc"
+msgid "The category this drug belongs to."
+msgstr "The category this drug belongs to."
+
+#: compendium:207
+#, fuzzy
+msgctxt "Stat_Thing_Drug_HighGainPerDose_Desc"
+msgid "The intensity of high gained per dose of this drug."
+msgstr "The intensity of high gained per dose of this drug."
+
+#: compendium:208
+#, fuzzy
+msgctxt "Stat_Thing_Drug_HighFallPerDay_Desc"
+msgid "How much this drug's high will decay each day."
+msgstr "How much this drug's high will decay each day."
+
+#: compendium:209
+#, fuzzy
+msgctxt "Stat_Thing_Drug_HighDurationPerDose_Desc"
+msgid ""
+"How long this drug's high will last per dose.\\n\\nThis is calculated from "
+"the high gained per dose and the high fall rate."
+msgstr ""
+"How long this drug's high will last per dose.\\n\\nThis is calculated from "
+"the high gained per dose and the high fall rate."
+
+#: compendium:210
+#, fuzzy
+msgctxt "Stat_Thing_Drug_ToleranceGainPerDose_Desc"
+msgid ""
+"How much a user's tolerance to the chemical will increase for each dose of "
+"this drug.\\n\\nThis can be different for different forms of the same "
+"chemical."
+msgstr ""
+"How much a user's tolerance to the chemical will increase for each dose of "
+"this drug.\\n\\nThis can be different for different forms of the same "
+"chemical."
+
+#: compendium:211
+#, fuzzy
+msgctxt "Stat_Thing_Drug_ToleranceFallPerDay_Desc"
+msgid "How much a user's tolerance to the chemical will fall per day."
+msgstr "How much a user's tolerance to the chemical will fall per day."
+
+#: compendium:212
+#, fuzzy
+msgctxt "Stat_Thing_Drug_MinToleranceForAddiction_Desc"
+msgid ""
+"The minimum tolerance required to become newly addicted to this "
+"drug.\\n\\nIf a user is below this tolerance level, they can't become newly "
+"addicted from taking a dose."
+msgstr ""
+"The minimum tolerance required to become newly addicted to this "
+"drug.\\n\\nIf a user is below this tolerance level, they can't become newly "
+"addicted from taking a dose."
+
+#: compendium:213
+#, fuzzy
+msgctxt "Stat_Thing_Drug_SafeDoseInterval_Desc"
+msgid ""
+"An adult will only become addicted if they take the drug more often than "
+"this.\\n\\nThis is calculated from the drug's minimum tolerance to addict, "
+"the tolerance gain per dose, and the rate of tolerance decay. Some drugs "
+"don't have a safe interval. Such drugs can addict on any dose, even the "
+"first one.\\n\\nNote that the safe dose interval depends on a person's body "
+"size."
+msgstr ""
+"An adult will only become addicted if they take the drug more often than "
+"this.\\n\\nThis is calculated from the drug's minimum tolerance to addict, "
+"the tolerance gain per dose, and the rate of tolerance decay. Some drugs "
+"don't have a safe interval. Such drugs can addict on any dose, even the "
+"first one.\\n\\nNote that the safe dose interval depends on a person's body "
+"size."
+
+#: compendium:214
+#, fuzzy
+msgctxt "Stat_Thing_Drug_RandomODChance_Desc"
+msgid ""
+"The chance of a random overdose when taking this drug. Random overdoses can "
+"happen on any dose, whether it's a new user's first try or an experienced "
+"addict's hundredth hit."
+msgstr ""
+"The chance of a random overdose when taking this drug. Random overdoses can "
+"happen on any dose, whether it's a new user's first try or an experienced "
+"addict's hundredth hit."
+
+#: compendium:215
+#, fuzzy
+msgctxt "Stat_Thing_Drug_Addictiveness_Desc"
+msgid ""
+"The chance of addiction per dose of this drug.\\n\\nIf the drug has a "
+"minimum tolerance to addict, the tolerance must be above that level for this"
+" to apply. If there is no minimum tolerance, any dose can cause an "
+"addiction."
+msgstr ""
+"The chance of addiction per dose of this drug.\\n\\nIf the drug has a "
+"minimum tolerance to addict, the tolerance must be above that level for this"
+" to apply. If there is no minimum tolerance, any dose can cause an "
+"addiction."
+
+#: compendium:216
+#, fuzzy
+msgctxt "Stat_Thing_Drug_AddictionSeverityInitial_Desc"
+msgid ""
+"New addictions caused by this drug begin at this severity level.\\n\\nTaking"
+" more of the drug will increase addiction severity, while time will reduce "
+"it."
+msgstr ""
+"New addictions caused by this drug begin at this severity level.\\n\\nTaking"
+" more of the drug will increase addiction severity, while time will reduce "
+"it."
+
+#: compendium:217
+#, fuzzy
+msgctxt "Stat_Thing_Drug_AddictionRecoveryTime_Desc"
+msgid ""
+"How long it takes to recover from an initial addiction to this "
+"drug.\\n\\nThis is be calculated from the new addiction severity divided by "
+"the rate of addiction recovery. An addiction which has been fed will take "
+"longer."
+msgstr ""
+"How long it takes to recover from an initial addiction to this "
+"drug.\\n\\nThis is be calculated from the new addiction severity divided by "
+"the rate of addiction recovery. An addiction which has been fed will take "
+"longer."
+
+#: compendium:218
+#, fuzzy
+msgctxt "Stat_Thing_Drug_AddictionSeverityPerDose_Desc"
+msgid ""
+"How much severity is added to an existing addiction for each dose of this "
+"drug.\\n\\nAddiction severity cannot go above 100%."
+msgstr ""
+"How much severity is added to an existing addiction for each dose of this "
+"drug.\\n\\nAddiction severity cannot go above 100%."
+
+#: compendium:219
+#, fuzzy
+msgctxt "Stat_Thing_Drug_AddictionNeedDoseInterval_Desc"
+msgid ""
+"How often an addict needs to take a dose of this drug to feed the addiction "
+"and prevent withdrawal.\\n\\nThis is calculated from the addiction need fall"
+" rate and the need fill per dose."
+msgstr ""
+"How often an addict needs to take a dose of this drug to feed the addiction "
+"and prevent withdrawal.\\n\\nThis is calculated from the addiction need fall"
+" rate and the need fill per dose."
+
+#: compendium:220
+#, fuzzy
+msgctxt "Stat_Thing_Drug_AddictionNeedOffset_Desc"
+msgid ""
+"How much each dose of this drug fills an addict's need for the chemical."
+msgstr ""
+"How much each dose of this drug fills an addict's need for the chemical."
+
+#: compendium:221
+#, fuzzy
+msgctxt "Stat_Thing_Drug_AddictionNeedFallRate_Desc"
+msgid "How quickly an addict's need for the chemical will fall."
+msgstr "How quickly an addict's need for the chemical will fall."
+
+#: compendium:222
+#, fuzzy
+msgctxt "Stat_Thing_Drug_AddictionCost_Desc"
+msgid ""
+"The market value of drugs that must be consumed per day to support an "
+"addiction to this drug without going into withdrawal.\\n\\nThis value is "
+"calculated from the addict's chemical need per dose, the need fall rate, and"
+" the market value of this drug.\\n\\nNote that there may be other ways to "
+"get the same chemical with different costs."
+msgstr ""
+"The market value of drugs that must be consumed per day to support an "
+"addiction to this drug without going into withdrawal.\\n\\nThis value is "
+"calculated from the addict's chemical need per dose, the need fall rate, and"
+" the market value of this drug.\\n\\nNote that there may be other ways to "
+"get the same chemical with different costs."
+
+#: compendium:224
+#, fuzzy
+msgctxt "Stat_Thing_StyleLabel"
+msgid "Style"
+msgstr "Style"
+
+#: compendium:225
+#, fuzzy
+msgctxt "Stat_Thing_StyleDesc"
+msgid ""
+"An object's style determines its appearance. This has no gameplay effect. "
+"Styles often form the differing methods of construction used by people of "
+"different beliefs and cultures."
+msgstr ""
+"An object's style determines its appearance. This has no gameplay effect. "
+"Styles often form the differing methods of construction used by people of "
+"different beliefs and cultures."
+
+#: compendium:227
+#, fuzzy
+msgctxt "Stat_Animal_GestationTime"
+msgid "Gestation time"
+msgstr "Gestation time"
+
+#: compendium:228
+#, fuzzy
+msgctxt "Stat_Animal_GestationTimeDesc"
+msgid "The time this species takes to gestate its offspring or eggs."
+msgstr "The time this species takes to gestate its offspring or eggs."
+
+#: compendium:229
+#, fuzzy
+msgctxt "Stat_Animal_LitterSize"
+msgid "Litter size"
+msgstr "Litter size"
+
+#: compendium:230
+#, fuzzy
+msgctxt "Stat_Animal_LitterSizeDesc"
+msgid ""
+"The number of offspring this creature creates per litter. If this is a "
+"range, any specific litter will have a random number of offspring in this "
+"range."
+msgstr ""
+"The number of offspring this creature creates per litter. If this is a "
+"range, any specific litter will have a random number of offspring in this "
+"range."
+
+#: compendium:231
+#, fuzzy
+msgctxt "Stat_Animal_AdultMeatAmount"
+msgid "Adult meat amount"
+msgstr "Adult meat amount"
+
+#: compendium:232
+#, fuzzy
+msgctxt "Stat_Animal_AdultMeatAmountDesc"
+msgid ""
+"The base amount of meat yielded by butchering an adult member of this "
+"species. The actual yield is affected by other factors such as damage to the"
+" body and butcher skill."
+msgstr ""
+"The base amount of meat yielded by butchering an adult member of this "
+"species. The actual yield is affected by other factors such as damage to the"
+" body and butcher skill."
+
+#: compendium:233
+#, fuzzy
+msgctxt "Stat_Animal_GrowthTime"
+msgid "Growth time"
+msgstr "Growth time"
+
+#: compendium:234
+#, fuzzy
+msgctxt "Stat_Animal_GrowthTimeDesc"
+msgid ""
+"How long it normally takes for this creature to reach adulthood. This time "
+"will be longer if the creature starves."
+msgstr ""
+"How long it normally takes for this creature to reach adulthood. This time "
+"will be longer if the creature starves."
+
+#: compendium:235
+#, fuzzy
+msgctxt "Stat_Animal_MeatPerDayDuringGrowth"
+msgid "Meat per day during growth"
+msgstr "Meat per day during growth"
+
+#: compendium:236
+#, fuzzy
+msgctxt "Stat_Animal_MeatPerDayDuringGrowthDesc"
+msgid ""
+"This creature gains this amount of meat for each day it grows, up until it "
+"reaches adulthood.\\n\\nThis value is calculated from the meat amount and "
+"growth time."
+msgstr ""
+"This creature gains this amount of meat for each day it grows, up until it "
+"reaches adulthood.\\n\\nThis value is calculated from the meat amount and "
+"growth time."
+
+#: compendium:237
+#, fuzzy
+msgctxt "Stat_Animal_GrassToMaintain"
+msgid "Grass to maintain"
+msgstr "Grass to maintain"
+
+#: compendium:238
+#, fuzzy
+msgctxt "Stat_Animal_GrassToMaintainDesc"
+msgid ""
+"The typical number of grass plants that this creature needs in order to "
+"fulfill its dietary needs. This is based on normal grass at typical growth "
+"rates and ignores winter."
+msgstr ""
+"The typical number of grass plants that this creature needs in order to "
+"fulfill its dietary needs. This is based on normal grass at typical growth "
+"rates and ignores winter."
+
+#: compendium:239
+#, fuzzy
+msgctxt "Stat_Animal_EggType"
+msgid "Egg type"
+msgstr "Egg type"
+
+#: compendium:240
+#, fuzzy
+msgctxt "Stat_Animal_EggTypeDesc"
+msgid "The type of egg this creature lays."
+msgstr "The type of egg this creature lays."
+
+#: compendium:241
+#, fuzzy
+msgctxt "Stat_Animal_EggsPerYear"
+msgid "Eggs per year"
+msgstr "Eggs per year"
+
+#: compendium:242
+#, fuzzy
+msgctxt "Stat_Animal_EggsPerYearDesc"
+msgid ""
+"The number of eggs this creature will lay per year. Some creatures need to "
+"be fertilized to lay eggs. Egg laying will be slower if the creature "
+"starves."
+msgstr ""
+"The number of eggs this creature will lay per year. Some creatures need to "
+"be fertilized to lay eggs. Egg laying will be slower if the creature "
+"starves."
+
+#: compendium:243
+#, fuzzy
+msgctxt "Stat_Animal_EggNutrition"
+msgid "Egg nutrition"
+msgstr "Egg nutrition"
+
+#: compendium:244
+#, fuzzy
+msgctxt "Stat_Animal_EggNutritionDesc"
+msgid "The amount of nutrition in a single egg laid by this creature."
+msgstr "The amount of nutrition in a single egg laid by this creature."
+
+#: compendium:245
+#, fuzzy
+msgctxt "Stat_Animal_EggNutritionYearly"
+msgid "Egg nutrition per year"
+msgstr "Egg nutrition per year"
+
+#: compendium:246
+#, fuzzy
+msgctxt "Stat_Animal_EggNutritionYearlyDesc"
+msgid ""
+"The amount of yearly nutrition generated by eggs laid by this creature each "
+"year.\\n\\nThis value is calculated from eggs per year and egg nutrition."
+msgstr ""
+"The amount of yearly nutrition generated by eggs laid by this creature each "
+"year.\\n\\nThis value is calculated from eggs per year and egg nutrition."
+
+#: compendium:247
+#, fuzzy
+msgctxt "Stat_Animal_EggMarketValue"
+msgid "Egg market value"
+msgstr "Egg market value"
+
+#: compendium:248
+#, fuzzy
+msgctxt "Stat_Animal_EggMarketValueDesc"
+msgid "The market value of a single laid egg."
+msgstr "The market value of a single laid egg."
+
+#: compendium:249
+#, fuzzy
+msgctxt "Stat_Animal_EggMarketValueYearly"
+msgid "Egg value per year"
+msgstr "Egg value per year"
+
+#: compendium:250
+#, fuzzy
+msgctxt "Stat_Animal_EggMarketValueYearlyDesc"
+msgid ""
+"The total value of eggs normally laid over the course of a year.\\n\\nThis "
+"is calculated from eggs per year and egg market value."
+msgstr ""
+"The total value of eggs normally laid over the course of a year.\\n\\nThis "
+"is calculated from eggs per year and egg market value."
+
+#: compendium:251
+#, fuzzy
+msgctxt "Stat_Animal_MilkType"
+msgid "Milk type"
+msgstr "Milk type"
+
+#: compendium:252
+#, fuzzy
+msgctxt "Stat_Animal_MilkTypeDesc"
+msgid "The type of milk this creature produces."
+msgstr "The type of milk this creature produces."
+
+#: compendium:253
+#, fuzzy
+msgctxt "Stat_Animal_MilkAmount"
+msgid "Milk amount"
+msgstr "Milk amount"
+
+#: compendium:254
+#, fuzzy
+msgctxt "Stat_Animal_MilkAmountDesc"
+msgid "The amount of milk this creature produces each time it is milked."
+msgstr "The amount of milk this creature produces each time it is milked."
+
+#: compendium:255
+#, fuzzy
+msgctxt "Stat_Animal_MilkGrowthTime"
+msgid "Milking interval"
+msgstr "Milking interval"
+
+#: compendium:256
+#, fuzzy
+msgctxt "Stat_Animal_MilkGrowthTimeDesc"
+msgid "The amount of time this creature needs between milkings."
+msgstr "The amount of time this creature needs between milkings."
+
+#: compendium:257
+#, fuzzy
+msgctxt "Stat_Animal_MilkPerYear"
+msgid "Milk per year"
+msgstr "Milk per year"
+
+#: compendium:258
+#, fuzzy
+msgctxt "Stat_Animal_MilkPerYearDesc"
+msgid ""
+"The amount of milk produced by this animal over the course of a "
+"year.\\n\\nThis is calculated from milk amount and milking interval."
+msgstr ""
+"The amount of milk produced by this animal over the course of a "
+"year.\\n\\nThis is calculated from milk amount and milking interval."
+
+#: compendium:259
+#, fuzzy
+msgctxt "Stat_Animal_MilkValue"
+msgid "Milk market value"
+msgstr "Milk market value"
+
+#: compendium:260
+#, fuzzy
+msgctxt "Stat_Animal_MilkValueDesc"
+msgid "The value of one unit of this creature's milk."
+msgstr "The value of one unit of this creature's milk."
+
+#: compendium:261
+#, fuzzy
+msgctxt "Stat_Animal_MilkValuePerYear"
+msgid "Milk value per year"
+msgstr "Milk value per year"
+
+#: compendium:262
+#, fuzzy
+msgctxt "Stat_Animal_MilkValuePerYearDesc"
+msgid ""
+"The market value of one year's worth of milk from this creature, assuming it"
+" never goes hungry and is milked instantly at the end of each milk "
+"interval.\\n\\nThis is calculated from milk per year and milk market value."
+msgstr ""
+"The market value of one year's worth of milk from this creature, assuming it"
+" never goes hungry and is milked instantly at the end of each milk "
+"interval.\\n\\nThis is calculated from milk per year and milk market value."
+
+#: compendium:263
+#, fuzzy
+msgctxt "Stat_Animal_WoolType"
+msgid "Wool type"
+msgstr "Wool type"
+
+#: compendium:264
+#, fuzzy
+msgctxt "Stat_Animal_WoolTypeDesc"
+msgid "The type of wool produced by this creature."
+msgstr "The type of wool produced by this creature."
+
+#: compendium:265
+#, fuzzy
+msgctxt "Stat_Animal_WoolAmount"
+msgid "Wool amount"
+msgstr "Wool amount"
+
+#: compendium:266
+#, fuzzy
+msgctxt "Stat_Animal_WoolAmountDesc"
+msgid "The amount of wool yielded by this creature each time it is shorn."
+msgstr "The amount of wool yielded by this creature each time it is shorn."
+
+#: compendium:267
+#, fuzzy
+msgctxt "Stat_Animal_WoolGrowthTime"
+msgid "Wool shearing interval"
+msgstr "Wool shearing interval"
+
+#: compendium:268
+#, fuzzy
+msgctxt "Stat_Animal_WoolGrowthTimeDesc"
+msgid "The time after shearing before this creature can be shorn again."
+msgstr "The time after shearing before this creature can be shorn again."
+
+#: compendium:269
+#, fuzzy
+msgctxt "Stat_Animal_WoolPerYear"
+msgid "Wool amount per year"
+msgstr "Wool amount per year"
+
+#: compendium:270
+#, fuzzy
+msgctxt "Stat_Animal_WoolPerYearDesc"
+msgid ""
+"The amount of wool produced by this creature per year.\\n\\nThis is "
+"calculated from wool amount and wool shearing interval."
+msgstr ""
+"The amount of wool produced by this creature per year.\\n\\nThis is "
+"calculated from wool amount and wool shearing interval."
+
+#: compendium:271
+#, fuzzy
+msgctxt "Stat_Animal_WoolValue"
+msgid "Wool market value"
+msgstr "Wool market value"
+
+#: compendium:272
+#, fuzzy
+msgctxt "Stat_Animal_WoolValueDesc"
+msgid "The market value of one unit of this creature's wool."
+msgstr "The market value of one unit of this creature's wool."
+
+#: compendium:273
+#, fuzzy
+msgctxt "Stat_Animal_WoolValuePerYear"
+msgid "Wool value per year"
+msgstr "Wool value per year"
+
+#: compendium:274
+#, fuzzy
+msgctxt "Stat_Animal_WoolValuePerYearDesc"
+msgid ""
+"The market value of one year's worth of wool from this creature.\\n\\nThis "
+"is calculated from wool amount per year and wool market value."
+msgstr ""
+"The market value of one year's worth of wool from this creature.\\n\\nThis "
+"is calculated from wool amount per year and wool market value."
+
+#: compendium:276
+#, fuzzy
+msgctxt "Stat_Studiable_Desc"
+msgid ""
+"How much of the total possible study you have performed on this object."
+msgstr ""
+"How much of the total possible study you have performed on this object."
+
+#: compendium:278
+#, fuzzy
+msgctxt "Stat_Source_Label"
+msgid "Source"
+msgstr "Source"
+
+#: compendium:279
+#, fuzzy
+msgctxt "Stat_Source_OfficialExpansionReport"
+msgid "This content came from the official expansion"
+msgstr "This content came from the official expansion"
+
+#: compendium:280
+#, fuzzy
+msgctxt "Stat_Source_ModReport"
+msgid "This content came from the mod"
+msgstr "This content came from the mod"
+
+#: compendium:282
+#, fuzzy
+msgctxt "ContainedBookBeauty"
+msgid "Contained book beauty"
+msgstr "Contained book beauty"
+
+#: compendium:283
+#, fuzzy
+msgctxt "Stat_TrapDamageHitCount"
+msgid "{0} hits"
+msgstr "{0} hits"

@@ -1,0 +1,123 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:8
+msgctxt "MechanicalNeck.label"
+msgid "neck"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:24
+msgctxt "MechanicalHead.label"
+msgid "head"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:35
+msgctxt "ArtificialBrain.label"
+msgid "artificial brain"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:49
+msgctxt "Reactor.label"
+msgid "reactor"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:63
+msgctxt "FluidReprocessor.label"
+msgid "fluid reprocessor"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:77
+msgctxt "SightSensor.label"
+msgid "visual sensor"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:93
+msgctxt "HearingSensor.label"
+msgid "sound sensor"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:108
+msgctxt "SmellSensor.label"
+msgid "chemical analyzer"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:120
+msgctxt "MechanicalShoulder.label"
+msgid "shoulder"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:134
+msgctxt "MechanicalArm.label"
+msgid "arm"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:148
+msgctxt "MechanicalHand.label"
+msgid "hand"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:162
+msgctxt "MechanicalFinger.label"
+msgid "finger"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:178
+msgctxt "MechanicalLeg.label"
+msgid "leg"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:192
+msgctxt "MechanicalFoot.label"
+msgid "foot"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:209
+msgctxt "MechanicalThorax.label"
+msgid "thorax"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:229
+msgctxt "Blade.label"
+msgid "blade"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:256
+msgctxt "MechanicalCentipedeBodyFirstRing.label"
+msgid "first body ring"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:262
+msgctxt "MechanicalCentipedeBodySecondRing.label"
+msgid "second body ring"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:268
+msgctxt "MechanicalCentipedeBodyThirdRing.label"
+msgid "third body ring"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:274
+msgctxt "MechanicalCentipedeBodyFourthRing.label"
+msgid "fourth body ring"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:280
+msgctxt "MechanicalCentipedeBodyFifthRing.label"
+msgid "fifth body ring"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:286
+msgctxt "MechanicalCentipedeBodySixthRing.label"
+msgid "sixth body ring"
+msgstr ""

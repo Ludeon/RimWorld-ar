@@ -1,0 +1,47 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/RecipeDefs/Recipes_Food.xml:6
+msgctxt "Make_Kibble.label"
+msgid "make kibble"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Food.xml:7
+msgctxt "Make_Kibble.description"
+msgid "Make animal kibble by combining raw meat and plants."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Food.xml:66
+msgctxt "Make_Pemmican.label"
+msgid "make pemmican"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Food.xml:67
+msgctxt "Make_Pemmican.description"
+msgid ""
+"Make pemmican, a preserved combination of meat and plant food. It doesn't "
+"taste amazing, but lasts a long time without refrigeration."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Food.xml:125
+msgctxt "Make_PemmicanBulk.label"
+msgid "make pemmican x4"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Food.xml:126
+msgctxt "Make_PemmicanBulk.description"
+msgid ""
+"Make bulk pemmican, a preserved combination of meat and plant food. It "
+"doesn't taste amazing, but lasts a long time without refrigeration."
+msgstr ""

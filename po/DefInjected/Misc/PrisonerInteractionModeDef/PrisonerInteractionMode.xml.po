@@ -1,0 +1,71 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/PrisonerInteractionModeDefs/PrisonerInteractionMode.xml:6
+msgctxt "MaintainOnly.label"
+msgid "maintain only"
+msgstr ""
+
+#: Defs/Misc/PrisonerInteractionModeDefs/PrisonerInteractionMode.xml:8
+msgctxt "MaintainOnly.description"
+msgid ""
+"Just feed the prisoner and provide for their basic needs, without attempting"
+" any other interaction."
+msgstr ""
+
+#: Defs/Misc/PrisonerInteractionModeDefs/PrisonerInteractionMode.xml:13
+msgctxt "AttemptRecruit.label"
+msgid "recruit"
+msgstr ""
+
+#: Defs/Misc/PrisonerInteractionModeDefs/PrisonerInteractionMode.xml:16
+msgctxt "AttemptRecruit.description"
+msgid ""
+"Wardens will attempt to recruit the prisoner. If the prisoner still has "
+"resistance, wardens will speak to them to reduce it."
+msgstr ""
+
+#: Defs/Misc/PrisonerInteractionModeDefs/PrisonerInteractionMode.xml:22
+msgctxt "ReduceResistance.label"
+msgid "reduce resistance only"
+msgstr ""
+
+#: Defs/Misc/PrisonerInteractionModeDefs/PrisonerInteractionMode.xml:26
+msgctxt "ReduceResistance.description"
+msgid ""
+"If the prisoner still has resistance, wardens will speak to them to reduce "
+"it. No recruit attempts will be made."
+msgstr ""
+
+#: Defs/Misc/PrisonerInteractionModeDefs/PrisonerInteractionMode.xml:32
+msgctxt "Release.label"
+msgid "release"
+msgstr ""
+
+#: Defs/Misc/PrisonerInteractionModeDefs/PrisonerInteractionMode.xml:34
+msgctxt "Release.description"
+msgid "A warden will release the prisoner."
+msgstr ""
+
+#: Defs/Misc/PrisonerInteractionModeDefs/PrisonerInteractionMode.xml:39
+msgctxt "Execution.label"
+msgid "execute"
+msgstr ""
+
+#: Defs/Misc/PrisonerInteractionModeDefs/PrisonerInteractionMode.xml:41
+msgctxt "Execution.description"
+msgid ""
+"A warden will execute the prisoner on the spot by cutting. This can affect "
+"the mood of other prisoners and colonists."
+msgstr ""

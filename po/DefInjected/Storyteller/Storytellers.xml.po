@@ -1,0 +1,58 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Storyteller/Storytellers.xml:280
+msgctxt "Cassandra.label"
+msgid "Cassandra Classic"
+msgstr ""
+
+#: Defs/Storyteller/Storytellers.xml:281
+msgctxt "Cassandra.description"
+msgid ""
+"Cassandra creates story events on a classic increasing curve of challenge "
+"and tension. She'll push you with dangerous events, then give breathing "
+"room, then come back to push once more."
+msgstr ""
+
+#: Defs/Storyteller/Storytellers.xml:468
+msgctxt "Phoebe.label"
+msgid "Phoebe Chillax"
+msgstr ""
+
+#: Defs/Storyteller/Storytellers.xml:469
+msgctxt "Phoebe.description"
+msgid ""
+"Phoebe gives lots of time between disasters to build your colony. But beware"
+" - at high difficulties, she'll hit as hard as anyone."
+msgstr ""
+
+#: Defs/Storyteller/Storytellers.xml:655
+msgctxt "Randy.label"
+msgid "Randy Random"
+msgstr ""
+
+#: Defs/Storyteller/Storytellers.xml:656
+msgctxt "Randy.description"
+msgid ""
+"Randy doesn't follow rules. He'll generate random events, and he doesn't "
+"care if they make a story of triumph or utter hopelessness. It's all drama "
+"to him.\\n\\nWarning: Since Randy is truly random, he will sometimes send "
+"extremely difficult or unfair groups of events at you. It makes for high "
+"drama - and unavoidable sacrifices."
+msgstr ""
+
+#: Defs/Storyteller/Storytellers.xml:792
+msgctxt "Tutor.label"
+msgid "Tutor Hidden"
+msgstr ""

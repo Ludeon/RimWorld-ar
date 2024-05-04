@@ -1,0 +1,83 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Bodies/BodyParts_Humanoid.xml:6
+msgctxt "Torso.label"
+msgid "torso"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Humanoid.xml:16
+msgctxt "Shoulder.label"
+msgid "shoulder"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Humanoid.xml:27
+msgctxt "Arm.label"
+msgid "arm"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Humanoid.xml:39
+msgctxt "Hand.label"
+msgid "hand"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Humanoid.xml:50
+msgctxt "Finger.label"
+msgid "finger"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Humanoid.xml:63
+msgctxt "Waist.label"
+msgid "utility slot"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Humanoid.xml:69
+msgctxt "Toe.label"
+msgid "toe"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Humanoid.xml:84
+msgctxt "Clavicle.label"
+msgid "clavicle"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Humanoid.xml:99
+msgctxt "Sternum.label"
+msgid "sternum"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Humanoid.xml:113
+msgctxt "Humerus.label"
+msgid "humerus"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Humanoid.xml:127
+msgctxt "Radius.label"
+msgid "radius"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Humanoid.xml:141
+msgctxt "Pelvis.label"
+msgid "pelvis"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Humanoid.xml:155
+msgctxt "Femur.label"
+msgid "femur"
+msgstr ""
+
+#: Defs/Bodies/BodyParts_Humanoid.xml:169
+msgctxt "Tibia.label"
+msgid "tibia"
+msgstr ""

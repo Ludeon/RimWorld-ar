@@ -1,0 +1,43 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/PreceptDefs/Precepts_PrisonerExecution.xml:8
+msgctxt "Execution.label"
+msgid "execution"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_PrisonerExecution.xml:14
+msgctxt "ExecutedPrisoner.label"
+msgid "executed prisoner"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_PrisonerExecution.xml:19
+msgctxt "ExecutedPrisonerGuilty.label"
+msgid "executed guilty prisoner"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_PrisonerExecution.xml:24
+msgctxt "ExecutedPrisonerInnocent.label"
+msgid "executed innocent prisoner"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_PrisonerExecution.xml:29
+msgctxt "ExecutedColonist.label"
+msgid "executed colonist"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_PrisonerExecution.xml:34
+msgctxt "ExecutedGuest.label"
+msgid "executed guest"
+msgstr ""

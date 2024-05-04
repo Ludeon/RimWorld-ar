@@ -1,0 +1,169 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compendium:6
+#, fuzzy
+msgctxt "ScenPart_PlayerFaction"
+msgid "Your faction will be a {0}."
+msgstr "Your faction will be a {0}."
+
+#: compendium:8
+#, fuzzy
+msgctxt "ScenPart_StartWithPawn"
+msgid "Start with 1 person."
+msgstr "Start with 1 person."
+
+#: compendium:9
+#, fuzzy
+msgctxt "ScenPart_StartWithPawns"
+msgid "Start with {0} people."
+msgstr "Start with {0} people."
+
+#: compendium:10
+#, fuzzy
+msgctxt "ScenPart_StartWithPawns_OutOf"
+msgid "chosen from"
+msgstr "chosen from"
+
+#: compendium:11
+#, fuzzy
+msgctxt "RandomPet"
+msgid "random pet"
+msgstr "random pet"
+
+#: compendium:13
+#, fuzzy
+msgctxt "ScenPart_StartingResearchFinished"
+msgid "Start with research: {0}"
+msgstr "Start with research: {0}"
+
+#: compendium:15
+#, fuzzy
+msgctxt "ScenPart_ArriveInDropPods"
+msgid "Arrive in drop pods."
+msgstr "Arrive in drop pods."
+
+#: compendium:17
+#, fuzzy
+msgctxt "ScenPart_StatFactor"
+msgid "The stat \"{0}\" will be universally multiplied by {1}."
+msgstr "The stat \"{0}\" will be universally multiplied by {1}."
+
+#: compendium:20
+#, fuzzy
+msgctxt "ScenPart_PawnsHaveHediff"
+msgid "{0} have a {1} chance to start with {2}."
+msgstr "{0} have a {1} chance to start with {2}."
+
+#: compendium:21
+#, fuzzy
+msgctxt "ConfigurableSeverity"
+msgid "severity: {0}"
+msgstr "severity: {0}"
+
+#: compendium:23
+#, fuzzy
+msgctxt "ScenPart_SetNeed"
+msgid "{0} have a {1} chance to have their {2} set between {3} and {4}."
+msgstr "{0} have a {1} chance to have their {2} set between {3} and {4}."
+
+#: compendium:24
+#, fuzzy
+msgctxt "ConfigurableLevel"
+msgid "level: {0}"
+msgstr "level: {0}"
+
+#: compendium:26
+#, fuzzy
+msgctxt "ScenPart_PawnsHaveTrait"
+msgid "{0} have a {1} chance to start with trait: {2}"
+msgstr "{0} have a {1} chance to start with trait: {2}"
+
+#: compendium:27
+#, fuzzy
+msgctxt "ScenPart_OnPawnDeathExplode"
+msgid "Characters and creatures explode on death ({0}, radius {1})."
+msgstr "Characters and creatures explode on death ({0}, radius {1})."
+
+#: compendium:28
+#, fuzzy
+msgctxt "ScenPart_PawnsAreNaked"
+msgid "{0} have a {1} chance to start naked."
+msgstr "{0} have a {1} chance to start naked."
+
+#: compendium:31
+#, fuzzy
+msgctxt "ScenPart_StartingPawnAgeMin"
+msgid "Your people will be at least {0} years old."
+msgstr "Your people will be at least {0} years old."
+
+#: compendium:32
+#, fuzzy
+msgctxt "ScenPart_StartingPawnAgeMax"
+msgid "Your people will be at most {0} years old."
+msgstr "Your people will be at most {0} years old."
+
+#: compendium:33
+#, fuzzy
+msgctxt "ScenPart_StartingPawnAgeRange"
+msgid "Your people will be between {0} and {1} years old."
+msgstr "Your people will be between {0} and {1} years old."
+
+#: compendium:35
+#, fuzzy
+msgctxt "ScenPart_StartWithSpecificColonists"
+msgid "Start with {0}."
+msgstr "Start with {0}."
+
+#: compendium:36
+#, fuzzy
+msgctxt "PawnCount"
+msgid "{COUNT} {KINDLABEL}"
+msgstr "{COUNT} {KINDLABEL}"
+
+#: compendium:40
+#, fuzzy
+msgctxt "ScenPart_StartWith"
+msgid "Start with"
+msgstr "Start with"
+
+#: compendium:41
+#, fuzzy
+msgctxt "ScenPart_MapScatteredWith"
+msgid "Map is scattered with"
+msgstr "Map is scattered with"
+
+#: compendium:42
+#, fuzzy
+msgctxt "ScenPart_PermaGameCondition"
+msgid "Permanent game condition(s)"
+msgstr "Permanent game condition(s)"
+
+#: compendium:43
+#, fuzzy
+msgctxt "ScenPart_DisableIncident"
+msgid "Incident(s) disabled"
+msgstr "Incident(s) disabled"
+
+#: compendium:44
+#, fuzzy
+msgctxt "ScenPart_CreateIncident"
+msgid "Incident created"
+msgstr "Incident created"
+
+#: compendium:45
+#, fuzzy
+msgctxt "ScenPart_DisallowBuilding"
+msgid "Can never build"
+msgstr "Can never build"

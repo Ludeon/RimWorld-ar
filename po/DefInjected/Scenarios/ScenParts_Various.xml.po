@@ -1,0 +1,148 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Scenarios/ScenParts_Various.xml:8
+msgctxt "GameStartDialog.label"
+msgid "game start dialog"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:18
+msgctxt "PawnFilter_Age.label"
+msgid "allowed age range"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:30
+msgctxt "OnPawnDeathExplode.label"
+msgid "characters explode on death"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:40
+msgctxt "ForcedTrait.label"
+msgid "forced trait"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:49
+msgctxt "ForcedHediff.label"
+msgid "forced health condition"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:58
+msgctxt "Naked.label"
+msgid "naked"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:67
+msgctxt "SetNeedLevel.label"
+msgid "set need level"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:76
+msgctxt "StartingResearch.label"
+msgid "start with research"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:85
+msgctxt "GameCondition_Planetkiller.label"
+msgid "planetkiller weapon incoming"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:108
+msgctxt "Rule_DisallowDesignator_ZoneAdd_Growing.label"
+msgid "cannot sow"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:109
+msgctxt "Rule_DisallowDesignator_ZoneAdd_Growing.description"
+msgid "Cannot sow plants on the ground."
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:115
+msgctxt "Rule_DisallowDesignator_Mine.label"
+msgid "cannot mine"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:116
+msgctxt "Rule_DisallowDesignator_Mine.description"
+msgid "Cannot mine."
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:122
+msgctxt "Rule_DisallowDesignator_Hunt.label"
+msgid "cannot hunt"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:123
+msgctxt "Rule_DisallowDesignator_Hunt.description"
+msgid "Cannot hunt."
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:129
+msgctxt "Rule_DisallowDesignator_Tame.label"
+msgid "cannot tame"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:130
+msgctxt "Rule_DisallowDesignator_Tame.description"
+msgid "Cannot tame animals."
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:136
+msgctxt "StatFactor.label"
+msgid "stat multiplier"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:145
+msgctxt "NoPossessions.label"
+msgid "no possessions"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:159
+msgctxt "DisableIncident.label"
+msgid "disable incident"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:168
+msgctxt "CreateIncident.label"
+msgid "create incident"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:177
+msgctxt "Rule_DisallowBuilding.label"
+msgid "disallow building"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:186
+msgctxt "PermanentGameCondition.label"
+msgid "permanent game condition"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:195
+msgctxt "StartingAnimal.label"
+msgid "start with animal(s)"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:204
+msgctxt "StartingThing_Defined.label"
+msgid "start with"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:213
+msgctxt "ScatterThingsNearPlayerStart.label"
+msgid "start near"
+msgstr ""
+
+#: Defs/Scenarios/ScenParts_Various.xml:222
+msgctxt "ScatterThingsAnywhere.label"
+msgid "scattered randomly"
+msgstr ""

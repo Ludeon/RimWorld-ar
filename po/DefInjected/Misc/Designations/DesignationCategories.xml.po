@@ -1,0 +1,73 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/Designations/DesignationCategories.xml:6
+msgctxt "Orders.label"
+msgid "orders"
+msgstr ""
+
+#: Defs/Misc/Designations/DesignationCategories.xml:33
+msgctxt "Zone.label"
+msgid "zone"
+msgstr ""
+
+#: Defs/Misc/Designations/DesignationCategories.xml:58
+msgctxt "Structure.label"
+msgid "structure"
+msgstr ""
+
+#: Defs/Misc/Designations/DesignationCategories.xml:70
+msgctxt "Production.label"
+msgid "production"
+msgstr ""
+
+#: Defs/Misc/Designations/DesignationCategories.xml:80
+msgctxt "Furniture.label"
+msgid "furniture"
+msgstr ""
+
+#: Defs/Misc/Designations/DesignationCategories.xml:90
+msgctxt "Power.label"
+msgid "power"
+msgstr ""
+
+#: Defs/Misc/Designations/DesignationCategories.xml:104
+msgctxt "Security.label"
+msgid "security"
+msgstr ""
+
+#: Defs/Misc/Designations/DesignationCategories.xml:114
+msgctxt "Misc.label"
+msgid "misc"
+msgstr ""
+
+#: Defs/Misc/Designations/DesignationCategories.xml:124
+msgctxt "Floors.label"
+msgid "floors"
+msgstr ""
+
+#: Defs/Misc/Designations/DesignationCategories.xml:137
+msgctxt "Joy.label"
+msgid "recreation"
+msgstr ""
+
+#: Defs/Misc/Designations/DesignationCategories.xml:147
+msgctxt "Ship.label"
+msgid "ship"
+msgstr ""
+
+#: Defs/Misc/Designations/DesignationCategories.xml:160
+msgctxt "Temperature.label"
+msgid "temperature"
+msgstr ""

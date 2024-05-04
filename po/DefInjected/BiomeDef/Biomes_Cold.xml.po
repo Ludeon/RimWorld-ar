@@ -1,0 +1,77 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/BiomeDefs/Biomes_Cold.xml:6
+msgctxt "BorealForest.label"
+msgid "boreal forest"
+msgstr ""
+
+#: Defs/BiomeDefs/Biomes_Cold.xml:7
+msgctxt "BorealForest.description"
+msgid ""
+"Forests of coniferous trees. Despite the harsh winters, boreal forests "
+"sustain a diverse population of small and large animals, and have warm "
+"summers."
+msgstr ""
+
+#: Defs/BiomeDefs/Biomes_Cold.xml:162
+msgctxt "Tundra.label"
+msgid "tundra"
+msgstr ""
+
+#: Defs/BiomeDefs/Biomes_Cold.xml:163
+msgctxt "Tundra.description"
+msgid ""
+"These mostly-frozen plains bear almost no trees and little vegetation. There"
+" are a few small animals interspersed with large herds of migratory grazers "
+"and their predators."
+msgstr ""
+
+#: Defs/BiomeDefs/Biomes_Cold.xml:298
+msgctxt "ColdBog.label"
+msgid "cold bog"
+msgstr ""
+
+#: Defs/BiomeDefs/Biomes_Cold.xml:299
+msgctxt "ColdBog.description"
+msgid ""
+"A wetland packed with trees and vines. Much of the marshy land here can't "
+"support heavy structures, moving around is slow due to choking vegetation. "
+"Disease is endemic in this dense, wet ecosystem."
+msgstr ""
+
+#: Defs/BiomeDefs/Biomes_Cold.xml:474
+msgctxt "IceSheet.label"
+msgid "ice sheet"
+msgstr ""
+
+#: Defs/BiomeDefs/Biomes_Cold.xml:475
+msgctxt "IceSheet.description"
+msgid ""
+"Sheets of ice which can be kilometers thick. There is no soil for plants to "
+"grow in. The only animals here are migrating to somewhere else - or badly "
+"lost."
+msgstr ""
+
+#: Defs/BiomeDefs/Biomes_Cold.xml:575
+msgctxt "SeaIce.label"
+msgid "sea ice"
+msgstr ""
+
+#: Defs/BiomeDefs/Biomes_Cold.xml:576
+msgctxt "SeaIce.description"
+msgid ""
+"Permanent ice sheets floating on water. There is no soil for plants to grow,"
+" no minerals to mine, and almost no animal life."
+msgstr ""

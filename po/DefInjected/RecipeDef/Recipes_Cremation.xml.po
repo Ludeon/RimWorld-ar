@@ -1,0 +1,53 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/RecipeDefs/Recipes_Cremation.xml:6
+msgctxt "CremateCorpse.label"
+msgid "cremate corpse"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Cremation.xml:7
+msgctxt "CremateCorpse.description"
+msgid "Cremate a corpse to completely destroy it."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Cremation.xml:46
+msgctxt "BurnApparel.label"
+msgid "burn apparel"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Cremation.xml:47
+msgctxt "BurnApparel.description"
+msgid "Burn unwanted apparel to completely destroy it."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Cremation.xml:90
+msgctxt "BurnWeapon.label"
+msgid "burn weapon"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Cremation.xml:91
+msgctxt "BurnWeapon.description"
+msgid "Burn unwanted weapon to completely destroy it."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Cremation.xml:130
+msgctxt "BurnDrugs.label"
+msgid "burn drugs"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Cremation.xml:131
+msgctxt "BurnDrugs.description"
+msgid "Burn unwanted drugs to completely destroy them."
+msgstr ""

@@ -1,0 +1,325 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:16
+msgctxt "EnvironmentDark.stages.0.label"
+msgid "darkness"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:17
+msgctxt "EnvironmentDark.stages.0.description"
+msgid "I've been in the dark for a while. I don't like it."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:29
+msgctxt "ApparelDamaged.stages.0.label"
+msgid "ratty apparel"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:30
+msgctxt "ApparelDamaged.stages.0.description"
+msgid ""
+"The holes in my outfit are annoyingly large. Can't I get something new to "
+"wear?"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:34
+msgctxt "ApparelDamaged.stages.1.label"
+msgid "tattered apparel"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:35
+msgctxt "ApparelDamaged.stages.1.description"
+msgid ""
+"This thing looks like it's about to fall apart. Can't I wear something that "
+"doesn't belong in a trash heap?"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:47
+msgctxt "WrongApparelGender.stages.0.label"
+msgid "wearing {0} apparel"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:48
+msgctxt "WrongApparelGender.stages.0.description"
+msgid ""
+"I'm wearing apparel that was clearly made for {0}s! This is embarrassing."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:60
+msgctxt "DeadMansApparel.stages.0.label"
+msgid "tainted {0}"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:61
+msgctxt "DeadMansApparel.stages.0.description"
+msgid ""
+"I am wearing a piece of apparel that someone died in. It creeps me out and "
+"feels dirty."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:65
+msgctxt "DeadMansApparel.stages.1.label"
+msgid "tainted {0} (+1)"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:66
+msgctxt "DeadMansApparel.stages.1.description"
+msgid ""
+"I am wearing two pieces of apparel that someone died in. It creeps me out "
+"and feels dirty."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:70
+msgctxt "DeadMansApparel.stages.2.label"
+msgid "tainted {0} (+2)"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:71
+msgctxt "DeadMansApparel.stages.2.description"
+msgid ""
+"I am wearing three pieces of apparel that someone died in. It creeps me out "
+"and feels dirty."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:75
+msgctxt "DeadMansApparel.stages.3.label"
+msgid "tainted {0} etc"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:76
+msgctxt "DeadMansApparel.stages.3.description"
+msgid ""
+"I am wearing four or more pieces of apparel that someone died in. It creeps "
+"me out and feels dirty."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:94
+msgctxt "HumanLeatherApparelSad.stages.0.label"
+msgid "human leather {0}"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:95
+msgctxt "HumanLeatherApparelSad.stages.0.description"
+msgid "Wearing parts of someone's body is... disturbing."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:99
+msgctxt "HumanLeatherApparelSad.stages.1.label"
+msgid "human leather {0} (+1)"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:100
+msgctxt "HumanLeatherApparelSad.stages.1.description"
+msgid "I'm dressed like an insane person."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:104
+msgctxt "HumanLeatherApparelSad.stages.2.label"
+msgid "human leather {0} (+2)"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:105
+msgctxt "HumanLeatherApparelSad.stages.2.description"
+msgid ""
+"I think there may be a face on my clothes. Oh no... my clothes *are* a face."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:109
+msgctxt "HumanLeatherApparelSad.stages.3.label"
+msgid "human leather {0} etc"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:110
+msgctxt "HumanLeatherApparelSad.stages.3.description"
+msgid ""
+"I look like a freak from a horror show, and I feel like I'm living in a "
+"horror show."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:136
+msgctxt "HumanLeatherApparelHappy.stages.0.label"
+msgid "human leather {0}"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:137
+msgctxt "HumanLeatherApparelHappy.stages.0.description"
+msgid "I enjoy wearing the suffering of others."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:141
+msgctxt "HumanLeatherApparelHappy.stages.1.label"
+msgid "human leather {0} (+1)"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:142
+msgctxt "HumanLeatherApparelHappy.stages.1.description"
+msgid "This will scare them. All will know my power."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:146
+msgctxt "HumanLeatherApparelHappy.stages.2.label"
+msgid "human leather {0} (+2)"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:147
+msgctxt "HumanLeatherApparelHappy.stages.2.description"
+msgid "The faces on my clothes aren't smiling, but they make *me* happy."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:151
+msgctxt "HumanLeatherApparelHappy.stages.3.label"
+msgid "human leather {0} etc"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:152
+msgctxt "HumanLeatherApparelHappy.stages.3.description"
+msgid "The flesh! The flesh signals my triumph!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:169
+msgctxt "Sick.stages.0.label"
+msgid "sick"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:170
+msgctxt "Sick.stages.0.description"
+msgid "I don't feel very well."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:183
+msgctxt "EnvironmentCold.stages.0.label"
+msgid "chilly"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:184
+msgctxt "EnvironmentCold.stages.0.description"
+msgid "I'm uncomfortably cold."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:188
+msgctxt "EnvironmentCold.stages.1.label"
+msgid "cold"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:189
+msgctxt "EnvironmentCold.stages.1.description"
+msgid "I'm so cold, I'm shivering."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:193
+msgctxt "EnvironmentCold.stages.2.label"
+msgid "numbing cold"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:194
+msgctxt "EnvironmentCold.stages.2.description"
+msgid ""
+"I can't stop shivering. My teeth are chattering. All I can think of is "
+"getting warm."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:198
+msgctxt "EnvironmentCold.stages.3.label"
+msgid "absolutely freezing"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:199
+msgctxt "EnvironmentCold.stages.3.description"
+msgid ""
+"My teeth are chattering so hard I can barely speak. My toes are numb. I need"
+" to get warm."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:212
+msgctxt "EnvironmentHot.stages.0.label"
+msgid "sweaty"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:213
+msgctxt "EnvironmentHot.stages.0.description"
+msgid "It's too hot here. I'm sweating."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:217
+msgctxt "EnvironmentHot.stages.1.label"
+msgid "hot"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:218
+msgctxt "EnvironmentHot.stages.1.description"
+msgid "It's way too hot here. If I could just have a breath of cool air..."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:222
+msgctxt "EnvironmentHot.stages.2.label"
+msgid "sweltering hot"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:223
+msgctxt "EnvironmentHot.stages.2.description"
+msgid "I feel like I'm in an oven! I'm not sure how long I can handle this."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:227
+msgctxt "EnvironmentHot.stages.3.label"
+msgid "blistering hot"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:228
+msgctxt "EnvironmentHot.stages.3.description"
+msgid "This place is searing hot. I think I could die from this heat!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:239
+msgctxt "LoveReading.stages.0.label"
+msgid "I love reading"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:240
+msgctxt "LoveReading.stages.0.description"
+msgid "Reading really engages my intellectual passions."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:244
+msgctxt "LoveReading.stages.1.label"
+msgid "I really love reading"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:245
+msgctxt "LoveReading.stages.1.description"
+msgid ""
+"Reading excites my burning intellectual passions! I just love learning this "
+"way."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:256
+msgctxt "SkillBookPassion.stages.0.label"
+msgid "interesting textbook"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:257
+msgctxt "SkillBookPassion.stages.0.description"
+msgid "This book covers a topic I'm passionate about. It's interesting."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:261
+msgctxt "SkillBookPassion.stages.1.label"
+msgid "amazing textbook"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_General.xml:262
+msgctxt "SkillBookPassion.stages.1.description"
+msgid "This book covers a topic I'm very passionate about. It's captivating."
+msgstr ""

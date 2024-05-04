@@ -1,0 +1,259 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compendium:4
+#, fuzzy
+msgctxt "LetterDay"
+msgid "d"
+msgstr "d"
+
+#: compendium:5
+#, fuzzy
+msgctxt "LetterHour"
+msgid "h"
+msgstr "h"
+
+#: compendium:6
+#, fuzzy
+msgctxt "LetterMinute"
+msgid "m"
+msgstr "m"
+
+#: compendium:7
+#, fuzzy
+msgctxt "LetterSecond"
+msgid "s"
+msgstr "s"
+
+#: compendium:8
+#, fuzzy
+msgctxt "LetterYear"
+msgid "y"
+msgstr "y"
+
+#: compendium:10
+#, fuzzy
+msgctxt "AM"
+msgid "AM"
+msgstr "AM"
+
+#: compendium:11
+#, fuzzy
+msgctxt "PM"
+msgid "PM"
+msgstr "PM"
+
+#: compendium:13
+#, fuzzy
+msgctxt "DaysLower"
+msgid "days"
+msgstr "days"
+
+#: compendium:14
+#, fuzzy
+msgctxt "HoursLower"
+msgid "hours"
+msgstr "hours"
+
+#: compendium:15
+#, fuzzy
+msgctxt "SecondsLower"
+msgid "seconds"
+msgstr "seconds"
+
+#: compendium:17
+#, fuzzy
+msgctxt "SeasonSpring"
+msgid "spring"
+msgstr "spring"
+
+#: compendium:18
+#, fuzzy
+msgctxt "SeasonSummer"
+msgid "summer"
+msgstr "summer"
+
+#: compendium:19
+#, fuzzy
+msgctxt "SeasonFall"
+msgid "fall"
+msgstr "fall"
+
+#: compendium:20
+#, fuzzy
+msgctxt "SeasonWinter"
+msgid "winter"
+msgstr "winter"
+
+#: compendium:21
+#, fuzzy
+msgctxt "SeasonPermanentSummer"
+msgid "permanent summer"
+msgstr "permanent summer"
+
+#: compendium:22
+#, fuzzy
+msgctxt "SeasonPermanentWinter"
+msgid "permanent winter"
+msgstr "permanent winter"
+
+#: compendium:24
+#, fuzzy
+msgctxt "QuadrumAprimay"
+msgid "Aprimay"
+msgstr "Aprimay"
+
+#: compendium:25
+#, fuzzy
+msgctxt "QuadrumJugust"
+msgid "Jugust"
+msgstr "Jugust"
+
+#: compendium:26
+#, fuzzy
+msgctxt "QuadrumSeptober"
+msgid "Septober"
+msgstr "Septober"
+
+#: compendium:27
+#, fuzzy
+msgctxt "QuadrumDecembary"
+msgid "Decembary"
+msgstr "Decembary"
+
+#: compendium:29
+#, fuzzy
+msgctxt "QuadrumAprimay_Short"
+msgid "Apr"
+msgstr "Apr"
+
+#: compendium:30
+#, fuzzy
+msgctxt "QuadrumJugust_Short"
+msgid "Jug"
+msgstr "Jug"
+
+#: compendium:31
+#, fuzzy
+msgctxt "QuadrumSeptober_Short"
+msgid "Sep"
+msgstr "Sep"
+
+#: compendium:32
+#, fuzzy
+msgctxt "QuadrumDecembary_Short"
+msgid "Dec"
+msgstr "Dec"
+
+#: compendium:34
+#, fuzzy
+msgctxt "Born"
+msgid "Born: {0}"
+msgstr "Born: {0}"
+
+#: compendium:35
+#, fuzzy
+msgctxt "AgeChronological"
+msgid "Chronological age: {0} years, {1} quadrums, {2} days"
+msgstr "Chronological age: {0} years, {1} quadrums, {2} days"
+
+#: compendium:36
+#, fuzzy
+msgctxt "AgeBiological"
+msgid "Biological age: {0} years, {1} quadrums, {2} days"
+msgstr "Biological age: {0} years, {1} quadrums, {2} days"
+
+#: compendium:39
+#, fuzzy
+msgctxt "Period1Year"
+msgid "1 year"
+msgstr "1 year"
+
+#: compendium:40
+#, fuzzy
+msgctxt "PeriodYears"
+msgid "{0} years"
+msgstr "{0} years"
+
+#: compendium:41
+#, fuzzy
+msgctxt "Period1Quadrum"
+msgid "1 quadrum"
+msgstr "1 quadrum"
+
+#: compendium:42
+#, fuzzy
+msgctxt "PeriodQuadrums"
+msgid "{0} quadrums"
+msgstr "{0} quadrums"
+
+#: compendium:43
+#, fuzzy
+msgctxt "Period1Day"
+msgid "1 day"
+msgstr "1 day"
+
+#: compendium:44
+#, fuzzy
+msgctxt "PeriodDays"
+msgid "{0} days"
+msgstr "{0} days"
+
+#: compendium:45
+#, fuzzy
+msgctxt "Period1Hour"
+msgid "1 hour"
+msgstr "1 hour"
+
+#: compendium:46
+#, fuzzy
+msgctxt "PeriodHours"
+msgid "{0} hours"
+msgstr "{0} hours"
+
+#: compendium:47
+#, fuzzy
+msgctxt "Period1Second"
+msgid "1 second"
+msgstr "1 second"
+
+#: compendium:48
+#, fuzzy
+msgctxt "PeriodSeconds"
+msgid "{0} seconds"
+msgstr "{0} seconds"
+
+#: compendium:51
+#, fuzzy
+msgctxt "Started"
+msgid "Started"
+msgstr "Started"
+
+#: compendium:52
+#, fuzzy
+msgctxt "Lasted"
+msgid "Lasted"
+msgstr "Lasted"
+
+#: compendium:53
+#, fuzzy
+msgctxt "OccurredTimeAgo"
+msgid "occurred {0} ago"
+msgstr "occurred {0} ago"
+
+#: compendium:54
+#, fuzzy
+msgctxt "TimeAgo"
+msgid "{0} ago"
+msgstr "{0} ago"

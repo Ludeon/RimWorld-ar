@@ -1,0 +1,43 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/TerrainDefs/Terrain_Floors_Burned.xml:20
+msgctxt "BurnedWoodPlankFloor.label"
+msgid "burned wood floor"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Floors_Burned.xml:22
+msgctxt "BurnedWoodPlankFloor.description"
+msgid "Burned-out wood plank flooring."
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Floors_Burned.xml:29
+msgctxt "BurnedCarpet.label"
+msgid "burned carpet"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Floors_Burned.xml:31
+msgctxt "BurnedCarpet.description"
+msgid "Burned-out carpet."
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Floors_Burned.xml:38
+msgctxt "BurnedStrawMatting.label"
+msgid "burned straw matting"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Floors_Burned.xml:40
+msgctxt "BurnedStrawMatting.description"
+msgid "Straw matting that has been burned in a fire."
+msgstr ""

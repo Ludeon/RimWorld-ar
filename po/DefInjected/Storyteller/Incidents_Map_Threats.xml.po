@@ -1,0 +1,109 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Storyteller/Incidents_Map_Threats.xml:8
+msgctxt "RaidEnemy.label"
+msgid "enemy raid"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Threats.xml:22
+msgctxt "Infestation.label"
+msgid "infestation"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Threats.xml:27
+msgctxt "Infestation.letterLabel"
+msgid "Infestation"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Threats.xml:28
+msgctxt "Infestation.letterText"
+msgid ""
+"Giant insects are tunneling towards you! They will break through in a few "
+"seconds and plant hives.\\n\\nThe hives will spawn more insects and more "
+"hives.\\n\\nIf you don't want the insects to infest the whole area, destroy "
+"the hives. But beware - the bugs will defend their home."
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Threats.xml:40
+msgctxt "DeepDrillInfestation.label"
+msgid "deep drill infestation"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Threats.xml:48
+msgctxt "DeepDrillInfestation.letterLabel"
+msgid "Too deep: Infestation"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Threats.xml:49
+msgctxt "DeepDrillInfestation.letterText"
+msgid ""
+"Vibrations from your deep drills have angered some underground insects. Now "
+"they're tunneling upwards to seek revenge!\\n\\nBeware - the insects have "
+"been angered and will try to destroy your base."
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Threats.xml:59
+msgctxt "ManhunterPack.label"
+msgid "manhunter pack"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Threats.xml:75
+msgctxt "DefoliatorShipPartCrash.label"
+msgid "ship part crash (defoliator)"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Threats.xml:80
+msgctxt "DefoliatorShipPartCrash.letterLabel"
+msgid "Defoliator ship"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Threats.xml:81
+msgctxt "DefoliatorShipPartCrash.letterText"
+msgid ""
+"A large piece of an ancient ship has crashed nearby.\\n\\nIts mysterious "
+"influence will kill all plants in an expanding circle around "
+"itself.\\n\\nDestroy it as soon as possible. But beware - it will probably "
+"defend itself."
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Threats.xml:101
+msgctxt "PsychicEmanatorShipPartCrash.label"
+msgid "ship part crash (psychic)"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Threats.xml:106
+msgctxt "PsychicEmanatorShipPartCrash.letterLabel"
+msgid "Psychic ship"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Threats.xml:107
+msgctxt "PsychicEmanatorShipPartCrash.letterText"
+msgid ""
+"A large piece of an ancient ship has crashed nearby.\\n\\nYour colonists can"
+" feel it in the back of their mind, exhorting unspeakable acts. It must have"
+" an onboard machine persona with psychic projection ability. And this "
+"persona is not friendly.\\n\\nDestroy it as soon as possible. But beware - "
+"it will probably defend itself."
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Threats.xml:127
+msgctxt "AnimalInsanityMass.label"
+msgid "mass animal insanity"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Threats.xml:142
+msgctxt "AnimalInsanitySingle.label"
+msgid "single animal insanity"
+msgstr ""

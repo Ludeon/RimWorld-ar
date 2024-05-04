@@ -1,0 +1,43 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Storyteller/Incidents_World_Conditions.xml:6
+msgctxt "Eclipse.label"
+msgid "eclipse"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_World_Conditions.xml:13
+msgctxt "Eclipse.letterLabel"
+msgid "Eclipse"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_World_Conditions.xml:23
+msgctxt "SolarFlare.label"
+msgid "solar flare"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_World_Conditions.xml:30
+msgctxt "SolarFlare.letterLabel"
+msgid "Solar flare"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_World_Conditions.xml:39
+msgctxt "Aurora.label"
+msgid "aurora"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_World_Conditions.xml:46
+msgctxt "Aurora.letterLabel"
+msgid "Aurora"
+msgstr ""

@@ -1,0 +1,197 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:8
+msgctxt "ResourcePodCrash.label"
+msgid "resource pod crash"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:19
+msgctxt "PsychicSoothe.label"
+msgid "psychic soothe"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:32
+msgctxt "SelfTame.label"
+msgid "self-tame"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:44
+msgctxt "AmbrosiaSprout.label"
+msgid "ambrosia sprout"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:51
+msgctxt "AmbrosiaSprout.letterLabel"
+msgid "Ambrosia sprout"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:52
+msgctxt "AmbrosiaSprout.letterText"
+msgid ""
+"A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for"
+" the plants to grow, you'll be able to harvest the delicious, pleasurable, "
+"and slightly addictive fruit."
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:66
+msgctxt "FarmAnimalsWanderIn.label"
+msgid "farm animals wander in"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:77
+msgctxt "WandererJoin.label"
+msgid "wanderer join"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:91
+msgctxt "RefugeePodCrash.label"
+msgid "transport pod crash"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:107
+msgctxt "ThrumboPasses.label"
+msgid "thrumbos pass"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:119
+msgctxt "RansomDemand.label"
+msgid "ransom demand"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:127
+msgctxt "RansomDemand.letterLabel"
+msgid "Ransom demand"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:133
+msgctxt "MeteoriteImpact.label"
+msgid "meteorite impact"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:140
+msgctxt "MeteoriteImpact.letterLabel"
+msgid "Meteorite"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:141
+msgctxt "MeteoriteImpact.letterText"
+msgid ""
+"A large meteorite has struck ground in the area. It has left behind a lump "
+"of {0}."
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:147
+msgctxt "HerdMigration.label"
+msgid "herd migration"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:161
+msgctxt "HerdMigration.letterLabel"
+msgid "Animal migration: {0}"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:162
+msgctxt "HerdMigration.letterText"
+msgid ""
+"A group of {0} is passing through the area.\\n\\nThey won't attack unless "
+"provoked."
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:168
+msgctxt "WildManWandersIn.label"
+msgid "wild man wanders in"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:176
+msgctxt "WildManWandersIn.letterLabel"
+msgid "{0} wanders in"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:177
+msgctxt "WildManWandersIn.letterText"
+msgid ""
+"A {1} living among wild animals has wandered into the area. {PAWN_pronoun}'s"
+" called {0}.\\n\\nYou can attempt to tame {PAWN_objective}."
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:185
+msgctxt "PsychicDrone.label"
+msgid "psychic drone"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:199
+msgctxt "ToxicFallout.label"
+msgid "toxic fallout"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:206
+msgctxt "ToxicFallout.letterLabel"
+msgid "Toxic fallout"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:220
+msgctxt "VolcanicWinter.label"
+msgid "volcanic winter"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:227
+msgctxt "VolcanicWinter.letterLabel"
+msgid "Volcanic winter"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:241
+msgctxt "HeatWave.label"
+msgid "heat wave"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:248
+msgctxt "HeatWave.letterLabel"
+msgid "Heat wave"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:257
+msgctxt "ColdSnap.label"
+msgid "cold snap"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:264
+msgctxt "ColdSnap.letterLabel"
+msgid "Cold snap"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:273
+msgctxt "Flashstorm.label"
+msgid "flashstorm"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:279
+msgctxt "Flashstorm.letterLabel"
+msgid "Flashstorm"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:292
+msgctxt "ShortCircuit.label"
+msgid "short circuit"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:304
+msgctxt "CropBlight.label"
+msgid "crop blight"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:317
+msgctxt "Alphabeavers.label"
+msgid "alphabeavers"
+msgstr ""

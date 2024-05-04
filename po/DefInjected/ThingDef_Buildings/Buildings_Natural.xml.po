@@ -1,0 +1,140 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:67
+msgctxt "CollapsedRocks.label"
+msgid "collapsed rocks"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:68
+msgctxt "CollapsedRocks.description"
+msgid "Collapsed rocks, packed tightly enough to hold up a roof."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:91
+msgctxt "MineableSteel.label"
+msgid "compacted steel"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:92
+msgctxt "MineableSteel.description"
+msgid "The remains of some ancient, collapsed structure. Rich in steel."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:115
+msgctxt "MineableSilver.label"
+msgid "silver ore"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:116
+msgctxt "MineableSilver.description"
+msgid "Rock containing bits of silver."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:139
+msgctxt "MineableGold.label"
+msgid "gold ore"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:140
+msgctxt "MineableGold.description"
+msgid "Rock containing bits of gold."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:163
+msgctxt "MineableUranium.label"
+msgid "uranium ore"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:164
+msgctxt "MineableUranium.description"
+msgid "Rock containing bits of uranium."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:187
+msgctxt "MineablePlasteel.label"
+msgid "compacted plasteel"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:188
+msgctxt "MineablePlasteel.description"
+msgid "Ancient compacted rubble rich in plasteel."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:212
+msgctxt "MineableJade.label"
+msgid "jade"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:213
+msgctxt "MineableJade.description"
+msgid "Rock containing bits of jade."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:237
+msgctxt "MineableComponentsIndustrial.label"
+msgid "compacted machinery"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:238
+msgctxt "MineableComponentsIndustrial.description"
+msgid ""
+"Ancient machinery, compacted over time. Can be mined for useful components."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:259
+msgctxt "SteamGeyser.label"
+msgid "steam geyser"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:260
+msgctxt "SteamGeyser.description"
+msgid ""
+"A natural source of high-pressure steam. Geothermal generators can harness "
+"the steam power. Rooms built over this will rapidly cook."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:291
+msgctxt "Hive.label"
+msgid "hive"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:292
+msgctxt "Hive.description"
+msgid ""
+"A hive of giant insects. If activated, it will spawn additional insects and "
+"hives over time, as well as valuable insect jelly."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:372
+msgctxt "GlowPod.label"
+msgid "glow pod"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:373
+msgctxt "GlowPod.description"
+msgid ""
+"A bioluminescent pod produced by giant insects. Glows under its own light "
+"for a long time, then dies."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:416
+msgctxt "RaisedRocks.label"
+msgid "raised rocks"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Natural.xml:417
+msgctxt "RaisedRocks.description"
+msgid "A fragile wall made of rubble. It will collapse in time."
+msgstr ""

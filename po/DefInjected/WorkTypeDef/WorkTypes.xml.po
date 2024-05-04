@@ -1,0 +1,526 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:6
+msgctxt "Firefighter.labelShort"
+msgid "firefight"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:7
+msgctxt "Firefighter.pawnLabel"
+msgid "Firefighter"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:8
+msgctxt "Firefighter.gerundLabel"
+msgid "firefighting"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:9
+msgctxt "Firefighter.description"
+msgid "Extinguish fires in the colony."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:10
+msgctxt "Firefighter.verb"
+msgid "Extinguish"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:23
+msgctxt "Patient.labelShort"
+msgid "patient"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:24
+msgctxt "Patient.pawnLabel"
+msgid "Patient"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:25
+msgctxt "Patient.gerundLabel"
+msgid "patienting"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:26
+msgctxt "Patient.description"
+msgid ""
+"Go to a medical bed for treatment if you have an immediately life-"
+"threatening health condition."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:27
+msgctxt "Patient.verb"
+msgid "Become patient"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:34
+msgctxt "Doctor.labelShort"
+msgid "doctor"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:35
+msgctxt "Doctor.pawnLabel"
+msgid "Doctor"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:36
+msgctxt "Doctor.gerundLabel"
+msgid "doctoring"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:37
+msgctxt "Doctor.description"
+msgid ""
+"Treat the sick, bring them food, cheer them up, and perform assigned "
+"surgeries. Doctors will care for both colonists and prisoners."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:38
+msgctxt "Doctor.verb"
+msgid "Care for"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:52
+msgctxt "PatientBedRest.labelShort"
+msgid "bed rest"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:53
+msgctxt "PatientBedRest.pawnLabel"
+msgid "Bed rester"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:54
+msgctxt "PatientBedRest.gerundLabel"
+msgid "resting in bed"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:55
+msgctxt "PatientBedRest.description"
+msgid ""
+"Rest in bed to recuperate from not-immediately-life-threatening medical "
+"problems."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:56
+msgctxt "PatientBedRest.verb"
+msgid "Become patient"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:63
+msgctxt "BasicWorker.labelShort"
+msgid "basic"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:64
+msgctxt "BasicWorker.pawnLabel"
+msgid "Worker"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:65
+msgctxt "BasicWorker.gerundLabel"
+msgid "dealing with"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:66
+msgctxt "BasicWorker.description"
+msgid ""
+"Unskilled and easy tasks. Release prisoners and flick switches on machines."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:67
+msgctxt "BasicWorker.verb"
+msgid "Deal with"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:78
+msgctxt "Warden.labelShort"
+msgid "warden"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:79
+msgctxt "Warden.pawnLabel"
+msgid "Warden"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:80
+msgctxt "Warden.gerundLabel"
+msgid "wardening"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:81
+msgctxt "Warden.description"
+msgid "Manage, feed, chat with, and recruit prisoners."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:82
+msgctxt "Warden.verb"
+msgid "Handle"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:97
+msgctxt "Handling.labelShort"
+msgid "handle"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:98
+msgctxt "Handling.pawnLabel"
+msgid "Handler"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:99
+msgctxt "Handling.gerundLabel"
+msgid "handling"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:100
+msgctxt "Handling.description"
+msgid "Tame, train, harvest resources from and slaughter animals."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:101
+msgctxt "Handling.verb"
+msgid "Handle"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:115
+msgctxt "Cooking.labelShort"
+msgid "cook"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:116
+msgctxt "Cooking.pawnLabel"
+msgid "Cook"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:117
+msgctxt "Cooking.gerundLabel"
+msgid "cooking"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:118
+msgctxt "Cooking.description"
+msgid "Prepare meals and butcher meat."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:119
+msgctxt "Cooking.verb"
+msgid "Cook"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:134
+msgctxt "Hunting.labelShort"
+msgid "hunt"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:135
+msgctxt "Hunting.pawnLabel"
+msgid "Hunter"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:136
+msgctxt "Hunting.gerundLabel"
+msgid "hunting"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:137
+msgctxt "Hunting.description"
+msgid "Kill animals which are designated to be hunted."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:138
+msgctxt "Hunting.verb"
+msgid "Hunt"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:156
+msgctxt "Construction.labelShort"
+msgid "construct"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:157
+msgctxt "Construction.pawnLabel"
+msgid "Constructor"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:158
+msgctxt "Construction.gerundLabel"
+msgid "constructing"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:159
+msgctxt "Construction.description"
+msgid ""
+"Build things that you've designated, and fix damaged or broken-down "
+"buildings."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:160
+msgctxt "Construction.verb"
+msgid "Construct"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:176
+msgctxt "Growing.labelShort"
+msgid "grow"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:177
+msgctxt "Growing.pawnLabel"
+msgid "Grower"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:178
+msgctxt "Growing.gerundLabel"
+msgid "growing"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:179
+msgctxt "Growing.description"
+msgid "Plant seeds, harvest crops, and forage for wild plants."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:180
+msgctxt "Growing.verb"
+msgid "Grow"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:196
+msgctxt "Mining.labelShort"
+msgid "mine"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:197
+msgctxt "Mining.pawnLabel"
+msgid "Miner"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:198
+msgctxt "Mining.gerundLabel"
+msgid "mining"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:199
+msgctxt "Mining.description"
+msgid "Digging and drilling."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:200
+msgctxt "Mining.verb"
+msgid "Mine"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:216
+msgctxt "PlantCutting.labelShort"
+msgid "plant cut"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:217
+msgctxt "PlantCutting.pawnLabel"
+msgid "Plant cutter"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:218
+msgctxt "PlantCutting.gerundLabel"
+msgid "plant cutting"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:219
+msgctxt "PlantCutting.description"
+msgid "Cut or harvest plants as designated."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:220
+msgctxt "PlantCutting.verb"
+msgid "Cut"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:236
+msgctxt "Smithing.labelShort"
+msgid "smith"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:237
+msgctxt "Smithing.pawnLabel"
+msgid "Smith"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:238
+msgctxt "Smithing.gerundLabel"
+msgid "smithing"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:239
+msgctxt "Smithing.description"
+msgid ""
+"Create weapons and tools from raw materials, either as a blacksmith or by "
+"machining."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:240
+msgctxt "Smithing.verb"
+msgid "Smith at"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:255
+msgctxt "Tailoring.labelShort"
+msgid "tailor"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:256
+msgctxt "Tailoring.pawnLabel"
+msgid "Tailor"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:257
+msgctxt "Tailoring.gerundLabel"
+msgid "tailoring"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:258
+msgctxt "Tailoring.description"
+msgid "Create apparel from raw materials."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:259
+msgctxt "Tailoring.verb"
+msgid "Tailor at"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:274
+msgctxt "Art.labelShort"
+msgid "art"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:275
+msgctxt "Art.pawnLabel"
+msgid "Artist"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:276
+msgctxt "Art.gerundLabel"
+msgid "art"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:277
+msgctxt "Art.description"
+msgid "Create beautiful works of art from raw materials."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:278
+msgctxt "Art.verb"
+msgid "Do art at"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:293
+msgctxt "Crafting.labelShort"
+msgid "craft"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:294
+msgctxt "Crafting.pawnLabel"
+msgid "Crafter"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:295
+msgctxt "Crafting.gerundLabel"
+msgid "crafting"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:296
+msgctxt "Crafting.description"
+msgid ""
+"Do general low-skilled labor at work stations. This includes stonecutting, "
+"smelting, and more."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:297
+msgctxt "Crafting.verb"
+msgid "Craft at"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:313
+msgctxt "Hauling.labelShort"
+msgid "haul"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:314
+msgctxt "Hauling.pawnLabel"
+msgid "Hauler"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:315
+msgctxt "Hauling.gerundLabel"
+msgid "hauling"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:316
+msgctxt "Hauling.description"
+msgid "Carry things to where they need to be."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:317
+msgctxt "Hauling.verb"
+msgid "Haul"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:331
+msgctxt "Cleaning.labelShort"
+msgid "clean"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:332
+msgctxt "Cleaning.pawnLabel"
+msgid "Cleaner"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:333
+msgctxt "Cleaning.gerundLabel"
+msgid "cleaning"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:334
+msgctxt "Cleaning.description"
+msgid "Clear snow and clean the floor in the home area."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:335
+msgctxt "Cleaning.verb"
+msgid "Clean"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:349
+msgctxt "Research.labelShort"
+msgid "research"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:350
+msgctxt "Research.pawnLabel"
+msgid "Researcher"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:351
+msgctxt "Research.gerundLabel"
+msgid "researching"
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:352
+msgctxt "Research.description"
+msgid "Perform research work."
+msgstr ""
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:353
+msgctxt "Research.verb"
+msgid "Research at"
+msgstr ""

@@ -1,0 +1,83 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/MentalStateDefs/MentalStates_Special.xml:8
+msgctxt "WanderConfused.label"
+msgid "confused wandering"
+msgstr ""
+
+#: Defs/MentalStateDefs/MentalStates_Special.xml:16
+msgctxt "WanderConfused.beginLetterLabel"
+msgid "confusion"
+msgstr ""
+
+#: Defs/MentalStateDefs/MentalStates_Special.xml:17
+msgctxt "WanderConfused.beginLetter"
+msgid "{0} has broken down and is wandering around confused."
+msgstr ""
+
+#: Defs/MentalStateDefs/MentalStates_Special.xml:19
+msgctxt "WanderConfused.recoveryMessage"
+msgid "{0} is no longer confused."
+msgstr ""
+
+#: Defs/MentalStateDefs/MentalStates_Special.xml:26
+msgctxt "PanicFlee.label"
+msgid "panic fleeing"
+msgstr ""
+
+#: Defs/MentalStateDefs/MentalStates_Special.xml:30
+msgctxt "PanicFlee.beginLetterLabel"
+msgid "flee"
+msgstr ""
+
+#: Defs/MentalStateDefs/MentalStates_Special.xml:31
+msgctxt "PanicFlee.beginLetter"
+msgid "{0} is fleeing in panic."
+msgstr ""
+
+#: Defs/MentalStateDefs/MentalStates_Special.xml:32
+msgctxt "PanicFlee.recoveryMessage"
+msgid "{0} is no longer fleeing in panic."
+msgstr ""
+
+#: Defs/MentalStateDefs/MentalStates_Special.xml:41
+msgctxt "Manhunter.label"
+msgid "manhunter"
+msgstr ""
+
+#: Defs/MentalStateDefs/MentalStates_Special.xml:44
+msgctxt "Manhunter.beginLetter"
+msgid "{0} has become a manhunter!"
+msgstr ""
+
+#: Defs/MentalStateDefs/MentalStates_Special.xml:45
+msgctxt "Manhunter.recoveryMessage"
+msgid "{0}'s manhunting bloodlust has come to an end."
+msgstr ""
+
+#: Defs/MentalStateDefs/MentalStates_Special.xml:62
+msgctxt "SocialFighting.label"
+msgid "social fighting"
+msgstr ""
+
+#: Defs/MentalStateDefs/MentalStates_Special.xml:75
+msgctxt "Roaming.label"
+msgid "roaming"
+msgstr ""
+
+#: Defs/MentalStateDefs/MentalStates_Special.xml:89
+msgctxt "BerserkMechanoid.label"
+msgid "aggression judgement scramble"
+msgstr ""

@@ -1,0 +1,68 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/PawnCapacityDefs/PawnCapacity.xml:7
+msgctxt "Consciousness.label"
+msgid "consciousness"
+msgstr ""
+
+#: Defs/PawnCapacityDefs/PawnCapacity.xml:19
+msgctxt "Moving.label"
+msgid "moving"
+msgstr ""
+
+#: Defs/PawnCapacityDefs/PawnCapacity.xml:30
+msgctxt "Manipulation.label"
+msgid "manipulation"
+msgstr ""
+
+#: Defs/PawnCapacityDefs/PawnCapacity.xml:40
+msgctxt "Talking.label"
+msgid "talking"
+msgstr ""
+
+#: Defs/PawnCapacityDefs/PawnCapacity.xml:51
+msgctxt "Eating.label"
+msgid "eating"
+msgstr ""
+
+#: Defs/PawnCapacityDefs/PawnCapacity.xml:62
+msgctxt "Sight.label"
+msgid "sight"
+msgstr ""
+
+#: Defs/PawnCapacityDefs/PawnCapacity.xml:70
+msgctxt "Hearing.label"
+msgid "hearing"
+msgstr ""
+
+#: Defs/PawnCapacityDefs/PawnCapacity.xml:78
+msgctxt "Breathing.label"
+msgid "breathing"
+msgstr ""
+
+#: Defs/PawnCapacityDefs/PawnCapacity.xml:88
+msgctxt "BloodFiltration.label"
+msgid "blood filtration"
+msgstr ""
+
+#: Defs/PawnCapacityDefs/PawnCapacity.xml:100
+msgctxt "BloodPumping.label"
+msgid "blood pumping"
+msgstr ""
+
+#: Defs/PawnCapacityDefs/PawnCapacity.xml:112
+msgctxt "Metabolism.label"
+msgid "digestion"
+msgstr ""

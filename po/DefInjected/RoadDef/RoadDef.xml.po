@@ -1,0 +1,38 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/RoadDefs/RoadDefs.xml:6
+msgctxt "DirtPath.label"
+msgid "dirt path"
+msgstr ""
+
+#: Defs/RoadDefs/RoadDefs.xml:51
+msgctxt "DirtRoad.label"
+msgid "dirt road"
+msgstr ""
+
+#: Defs/RoadDefs/RoadDefs.xml:96
+msgctxt "StoneRoad.label"
+msgid "stone road"
+msgstr ""
+
+#: Defs/RoadDefs/RoadDefs.xml:142
+msgctxt "AncientAsphaltRoad.label"
+msgid "ancient asphalt road"
+msgstr ""
+
+#: Defs/RoadDefs/RoadDefs.xml:227
+msgctxt "AncientAsphaltHighway.label"
+msgid "ancient asphalt highway"
+msgstr ""

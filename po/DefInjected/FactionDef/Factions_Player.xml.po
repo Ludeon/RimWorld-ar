@@ -1,0 +1,43 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/FactionDefs/Factions_Player.xml:15
+msgctxt "PlayerColony.label"
+msgid "New Arrivals"
+msgstr ""
+
+#: Defs/FactionDefs/Factions_Player.xml:16
+msgctxt "PlayerColony.description"
+msgid "A colony of recently-arrived off-worlders."
+msgstr ""
+
+#: Defs/FactionDefs/Factions_Player.xml:20
+msgctxt "PlayerColony.pawnsPlural"
+msgid "colonists"
+msgstr ""
+
+#: Defs/FactionDefs/Factions_Player.xml:49
+msgctxt "PlayerTribe.label"
+msgid "New Tribe"
+msgstr ""
+
+#: Defs/FactionDefs/Factions_Player.xml:50
+msgctxt "PlayerTribe.description"
+msgid "A small tribe."
+msgstr ""
+
+#: Defs/FactionDefs/Factions_Player.xml:54
+msgctxt "PlayerTribe.pawnsPlural"
+msgid "tribespeople"
+msgstr ""

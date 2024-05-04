@@ -1,0 +1,77 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Stats/Stats_Weapons_Melee.xml:7
+msgctxt "MeleeWeapon_AverageDPS.label"
+msgid "melee damage per second"
+msgstr ""
+
+#: Defs/Stats/Stats_Weapons_Melee.xml:8
+msgctxt "MeleeWeapon_AverageDPS.description"
+msgid "Average damage dealt per second in melee combat, if all attacks hit."
+msgstr ""
+
+#: Defs/Stats/Stats_Weapons_Melee.xml:20
+msgctxt "MeleeWeapon_AverageArmorPenetration.label"
+msgid "melee armor penetration"
+msgstr ""
+
+#: Defs/Stats/Stats_Weapons_Melee.xml:21
+msgctxt "MeleeWeapon_AverageArmorPenetration.description"
+msgid "Average armor penetration in melee combat."
+msgstr ""
+
+#: Defs/Stats/Stats_Weapons_Melee.xml:32
+msgctxt "MeleeWeapon_DamageMultiplier.label"
+msgid "melee damage multiplier"
+msgstr ""
+
+#: Defs/Stats/Stats_Weapons_Melee.xml:33
+msgctxt "MeleeWeapon_DamageMultiplier.description"
+msgid "A damage multiplier applied to melee combat."
+msgstr ""
+
+#: Defs/Stats/Stats_Weapons_Melee.xml:60
+msgctxt "MeleeWeapon_CooldownMultiplier.label"
+msgid "melee cooldown"
+msgstr ""
+
+#: Defs/Stats/Stats_Weapons_Melee.xml:61
+msgctxt "MeleeWeapon_CooldownMultiplier.description"
+msgid "A multiplier on attack delay for weapons made of this material."
+msgstr ""
+
+#: Defs/Stats/Stats_Weapons_Melee.xml:72
+msgctxt "SharpDamageMultiplier.label"
+msgid "sharp damage"
+msgstr ""
+
+#: Defs/Stats/Stats_Weapons_Melee.xml:73
+msgctxt "SharpDamageMultiplier.description"
+msgid ""
+"A multiplier on damage from sharp-type attacks for weapons made of this "
+"material."
+msgstr ""
+
+#: Defs/Stats/Stats_Weapons_Melee.xml:84
+msgctxt "BluntDamageMultiplier.label"
+msgid "blunt damage"
+msgstr ""
+
+#: Defs/Stats/Stats_Weapons_Melee.xml:85
+msgctxt "BluntDamageMultiplier.description"
+msgid ""
+"A multiplier on damage from blunt-type attacks for weapons made of this "
+"material."
+msgstr ""

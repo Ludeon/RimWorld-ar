@@ -1,0 +1,103 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/WeatherDefs/Weathers.xml:6
+msgctxt "Clear.label"
+msgid "clear"
+msgstr ""
+
+#: Defs/WeatherDefs/Weathers.xml:7
+msgctxt "Clear.description"
+msgid "A clear day. No penalties or modifiers."
+msgstr ""
+
+#: Defs/WeatherDefs/Weathers.xml:43
+msgctxt "Fog.label"
+msgid "fog"
+msgstr ""
+
+#: Defs/WeatherDefs/Weathers.xml:45
+msgctxt "Fog.description"
+msgid "Fog reduces the accuracy of ranged weapons."
+msgstr ""
+
+#: Defs/WeatherDefs/Weathers.xml:91
+msgctxt "Rain.label"
+msgid "rain"
+msgstr ""
+
+#: Defs/WeatherDefs/Weathers.xml:92
+msgctxt "Rain.description"
+msgid ""
+"Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows "
+"people down."
+msgstr ""
+
+#: Defs/WeatherDefs/Weathers.xml:143
+msgctxt "DryThunderstorm.label"
+msgid "dry thunderstorm"
+msgstr ""
+
+#: Defs/WeatherDefs/Weathers.xml:145
+msgctxt "DryThunderstorm.description"
+msgid ""
+"Dry thunderstorms are dangerous because the lightning can start fires and "
+"there is no rain to put them out."
+msgstr ""
+
+#: Defs/WeatherDefs/Weathers.xml:194
+msgctxt "RainyThunderstorm.label"
+msgid "rainy thunderstorm"
+msgstr ""
+
+#: Defs/WeatherDefs/Weathers.xml:196
+msgctxt "RainyThunderstorm.description"
+msgid ""
+"The lightning will start fires, but the rain will put it out. The rain also "
+"reduces movement speed and shooting accuracy."
+msgstr ""
+
+#: Defs/WeatherDefs/Weathers.xml:260
+msgctxt "FoggyRain.label"
+msgid "foggy rain"
+msgstr ""
+
+#: Defs/WeatherDefs/Weathers.xml:262
+msgctxt "FoggyRain.description"
+msgid "Reduces accuracy and movement speed."
+msgstr ""
+
+#: Defs/WeatherDefs/Weathers.xml:314
+msgctxt "SnowHard.label"
+msgid "hard snow"
+msgstr ""
+
+#: Defs/WeatherDefs/Weathers.xml:315
+msgctxt "SnowHard.description"
+msgid ""
+"Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows "
+"people down."
+msgstr ""
+
+#: Defs/WeatherDefs/Weathers.xml:366
+msgctxt "SnowGentle.label"
+msgid "gentle snow"
+msgstr ""
+
+#: Defs/WeatherDefs/Weathers.xml:367
+msgctxt "SnowGentle.description"
+msgid ""
+"Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows "
+"people down."
+msgstr ""

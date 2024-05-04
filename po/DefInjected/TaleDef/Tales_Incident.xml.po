@@ -1,0 +1,2028 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/TaleDefs/Tales_Incident.xml:6
+msgctxt "CaravanAmbushedByHumanlike.label"
+msgid "caravan ambushed"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef]'s caravan being ambushed"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.1"
+msgid "image->[PAWN_nameFull] cowering [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.2"
+msgid "image->[PAWN_nameFull] moving to protect an ally [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.3"
+msgid "image->[PAWN_nameFull] moving to attack [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.4"
+msgid "image->[PAWN_nameFull] attacking [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.5"
+msgid "image->[PAWN_nameFull] shouting loudly [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.6"
+msgid "image->[PAWN_nameFull] running [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.7"
+msgid "image->[PAWN_nameFull] grapping with an opponent [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.8"
+msgid ""
+"image->[PAWN_nameFull] defending [PAWN_objective]self [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->with a [AdjectiveBadass] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->with a [AdjectiveBadass] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.11"
+msgid "circumstance_phrase->while wielding [PAWN_possessive] weapon"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.12"
+msgid "circumstance_phrase->while sweating with exertion"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.13"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] distant figures approaches from behind a"
+" [TerrainFeature]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.14"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [Enemy]s can be seen in the distance."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.15"
+msgid "desc_sentence->[PAWN_nameDef] is practically surrounded by [Enemy]s."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.16"
+msgid "desc_sentence->[PAWN_nameDef] is confronted by a [Enemy]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.17"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [Animal]s flee the scene of conflict in "
+"fear."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:11
+msgctxt "CaravanAmbushedByHumanlike.rulePack.rulesStrings.18"
+msgid "desc_sentence->In the distance, a [PersonJob] observes."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:37
+msgctxt "CaravanAmbushedByManhunter.label"
+msgid "caravan ambushed by manhunter"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef]'s caravan being ambushed"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.1"
+msgid "image->[PAWN_nameFull] cowering [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.2"
+msgid "image->[PAWN_nameFull] moving to protect an ally [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.3"
+msgid "image->[PAWN_nameFull] moving to attack [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.4"
+msgid "image->[PAWN_nameFull] attacking [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.5"
+msgid "image->[PAWN_nameFull] shouting loudly [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.6"
+msgid "image->[PAWN_nameFull] running [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->with a [AdjectiveBadass] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->with a [AdjectiveBadass] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->while wielding [PAWN_possessive] weapon"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->while sweating with exertion"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.11"
+msgid "circumstance_phrase->while covered with [Gore]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.12"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] distant animals approach from behind a "
+"[TerrainFeature]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.13"
+msgid "desc_sentence->[Gore] covers the ground."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.14"
+msgid "desc_sentence->The ground has been trampled into a mess of [Gore]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.15"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [Animal]s flee the scene of conflict in "
+"fear."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:42
+msgctxt "CaravanAmbushedByManhunter.rulePack.rulesStrings.16"
+msgid "desc_sentence->In the distance, a [PersonJob] observes."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:66
+msgctxt "CaravanMeeting.label"
+msgid "caravan meeting"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef]'s caravan being met by others"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.1"
+msgid "image->[PAWN_nameFull] greeting a [PersonJob] [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.2"
+msgid "image->[PAWN_nameFull] inspecting a [PersonJob] [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.3"
+msgid ""
+"image->[PAWN_nameFull] calling out to a [PersonJob] [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.4"
+msgid ""
+"image->[PAWN_nameFull] walking towards a [PersonJob] [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.5"
+msgid "image->[PAWN_nameFull] talking quietly [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.6"
+msgid "image->[PAWN_nameFull] shouting loudly [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.7"
+msgid ""
+"image->[PAWN_nameFull] playing [Game] with a [PersonJob] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->with a [AdjectiveFriendly] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->with a [AdjectiveFriendly] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->while [VerbFriendly]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.11"
+msgid "circumstance_phrase->as others look on"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.12"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s are [event]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.13"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s are [event]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.14"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s surround the group."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.15"
+msgid "desc_sentence->The sun sets over a [TerrainFeature]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.16"
+msgid "desc_sentence->The sun rises over a [TerrainFeature]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.17"
+msgid "desc_sentence->In the distance, a [PersonJob] observes."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.18"
+msgid "event->throwing a party"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.19"
+msgid "event->eating a communal meal"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.20"
+msgid "event->discussing recent events"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.21"
+msgid "event->rekindling old friendships"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:71
+msgctxt "CaravanMeeting.rulePack.rulesStrings.22"
+msgid "event->talking hesitantly"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:101
+msgctxt "CaravanDemand.label"
+msgid "caravan demand"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef]'s caravan receiving a demand"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.1"
+msgid "tale_noun->[PAWN_nameDef]'s caravan being threatened"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.2"
+msgid "image->[PAWN_nameFull] cowering [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.3"
+msgid "image->[PAWN_nameFull] shouting loudly [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.4"
+msgid "image->[PAWN_nameFull] thinking [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.5"
+msgid "image->[PAWN_nameFull] glaring [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.6"
+msgid ""
+"image->[PAWN_nameFull], threatened by a [PersonJob], [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.7"
+msgid "image->[PAWN_nameFull] brandishing a [Weapon] [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->with a [AdjectiveBadass] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->with a [AdjectiveAngsty] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->as others look on"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.11"
+msgid "circumstance_phrase->while being threatened by [Enemy]s"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.12"
+msgid "desc_sentence->[PAWN_nameDef] is practically surrounded by [Enemy]s."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.13"
+msgid "desc_sentence->[Quantity_adjphrase] [Enemy]s are nearby, [action]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.14"
+msgid "desc_sentence->The sun sets over a [TerrainFeature]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.15"
+msgid "desc_sentence->The sun rises over a [TerrainFeature]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.16"
+msgid "desc_sentence->In the distance, a [PersonJob] observes."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.17"
+msgid "action->sharpening their weapons"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.18"
+msgid "action->watching for danger"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.19"
+msgid "action->guarding hostages"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.20"
+msgid "action->waiting for a decision"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:106
+msgctxt "CaravanDemand.rulePack.rulesStrings.21"
+msgid "action->taunting [PAWN_nameDef]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:136
+msgctxt "MeteoriteImpact.label"
+msgid "meteorite impact"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.0"
+msgid "tale_noun->a meteorite falling near [PAWN_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.1"
+msgid "tale_noun->a meteorite impacting near [PAWN_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.2"
+msgid ""
+"image->a [AdjectiveLarge] rock trailing [Color] flames "
+"[airborne_circumstance]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.3"
+msgid "image->a brightly-glowing spot [airborne_circumstance]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.4"
+msgid "image->a [AdjectiveLarge] [Color] fireball [airborne_circumstance]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.5"
+msgid "airborne_circumstance->blazing across the sky"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.6"
+msgid "airborne_circumstance->falling to the ground in a cloud of ash"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.7"
+msgid "airborne_circumstance->shedding rocks and debris as it flies"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.8"
+msgid "image->a [AdjectiveLarge] monolith, [ground_circumstance]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.9"
+msgid ""
+"image->a [AdjectiveLarge] [Color] scorched stone, [ground_circumstance]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.10"
+msgid "image->a [Color] pillar of rock, [ground_circumstance]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.11"
+msgid "ground_circumstance->surrounded by smoke and ash"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.12"
+msgid "ground_circumstance->smoking from heat"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.13"
+msgid "ground_circumstance->surrounded by molten debris"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.14"
+msgid "ground_circumstance->partially embedded in the ground"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.15"
+msgid "ground_circumstance->lying in a cracked crater"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.16"
+msgid "desc_sentence->[PAWN_nameDef] looks on in surprise."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.17"
+msgid "desc_sentence->[PAWN_nameDef] looks on with excitement."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.18"
+msgid "desc_sentence->[PAWN_nameDef] looks on in shock."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.19"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] figures approach from a nearby "
+"[TerrainFeature]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.20"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] figures prepare tools and equipment."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.21"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s mill around uncertainly."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:141
+msgctxt "MeteoriteImpact.rulePack.rulesStrings.22"
+msgid "desc_sentence->The surroundings are muted and dull."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:171
+msgctxt "ToxicFallout.label"
+msgid "toxic fallout"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.0"
+msgid "tale_noun->fallout settling over [PAWN_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.1"
+msgid ""
+"tale_noun->the atmosphere near [PAWN_nameDef]'s [Community] becoming toxic"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.2"
+msgid "image->an ominous sky, [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.3"
+msgid "image->the air becoming thick and [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.4"
+msgid "image->the ground glowing gently and [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.5"
+msgid "image->fields of dead plants [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.6"
+msgid "image->[Quantity_adjphrase] graves [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->with no life in sight"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->covered by a faint sheen of luminous dust"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->arranged in a pattern that suggests bones"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->waiting for the poison to stop"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.11"
+msgid ""
+"desc_sentence->[PAWN_nameDef] lies on the ground, [PAWN_possessive] body "
+"twisted at an unusual angle."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.12"
+msgid ""
+"desc_sentence->[PAWN_nameDef] hides near a [TerrainFeature], gazing out with"
+" a [AdjectiveAngsty] look."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.13"
+msgid "desc_sentence->[PAWN_nameDef] looks on in shock."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.14"
+msgid ""
+"desc_sentence->[PAWN_nameDef] rests quietly with a layer of sweat upon "
+"[PAWN_possessive] face."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.15"
+msgid "desc_sentence->[Quantity_adjphrase] dead [Animal]s lay on the ground."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.16"
+msgid "desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:176
+msgctxt "ToxicFallout.rulePack.rulesStrings.17"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s mill around uncertainly."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:201
+msgctxt "VolcanicWinter.label"
+msgid "volcanic winter"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:206
+msgctxt "VolcanicWinter.rulePack.rulesStrings.0"
+msgid "tale_noun->volcanic winter beginning at [PAWN_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:206
+msgctxt "VolcanicWinter.rulePack.rulesStrings.1"
+msgid "image->a dark and cold sky, [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:206
+msgctxt "VolcanicWinter.rulePack.rulesStrings.2"
+msgid "image->the air filling with ash, [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:206
+msgctxt "VolcanicWinter.rulePack.rulesStrings.3"
+msgid "image->a frost-covered barren [TerrainFeature] [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:206
+msgctxt "VolcanicWinter.rulePack.rulesStrings.4"
+msgid ""
+"image->[Quantity_adjphrase] fields of ash-covered plants "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:206
+msgctxt "VolcanicWinter.rulePack.rulesStrings.5"
+msgid "circumstance_phrase->with no life in sight"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:206
+msgctxt "VolcanicWinter.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->barely illuminated by thin shafts of light"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:206
+msgctxt "VolcanicWinter.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->starkly illuminated with chilly blue light"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:206
+msgctxt "VolcanicWinter.rulePack.rulesStrings.8"
+msgid "desc_sentence->[PAWN_nameDef] huddles near a fire."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:206
+msgctxt "VolcanicWinter.rulePack.rulesStrings.9"
+msgid ""
+"desc_sentence->To stay warm, [PAWN_nameDef] wears [Quantity_adjphrase] "
+"[Apparel]s."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:206
+msgctxt "VolcanicWinter.rulePack.rulesStrings.10"
+msgid ""
+"desc_sentence->[PAWN_nameDef] sits nearby, visibly exhausted by the ordeal."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:206
+msgctxt "VolcanicWinter.rulePack.rulesStrings.11"
+msgid ""
+"desc_sentence->[PAWN_nameDef] hides near a [TerrainFeature], gazing out with"
+" a [AdjectiveAngsty] look."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:206
+msgctxt "VolcanicWinter.rulePack.rulesStrings.12"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] starving [Animal]s surround the scene."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:206
+msgctxt "VolcanicWinter.rulePack.rulesStrings.13"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] shivering [Animal]s surround the scene."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:206
+msgctxt "VolcanicWinter.rulePack.rulesStrings.14"
+msgid "desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:206
+msgctxt "VolcanicWinter.rulePack.rulesStrings.15"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s mill around uncertainly."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:229
+msgctxt "Aurora.label"
+msgid "aurora"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.0"
+msgid ""
+"tale_noun->the time an aurora appeared over [PAWN_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.1"
+msgid ""
+"tale_noun->the time polar lights shone over [PAWN_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.2"
+msgid ""
+"tale_noun->[PAWN_nameDef]'s [Community] illuminated by the light of an "
+"aurora"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.3"
+msgid ""
+"image->the sky illuminated in [Color]s and [Color]s [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.4"
+msgid "image->a fabulous pattern of [Color] rays [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.5"
+msgid "image->a network of [Color] lights [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.6"
+msgid ""
+"image->[Color] swooping arcs with [Color] highlights [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.7"
+msgid "image->dancing [Color] lights [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->over a [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->illuminating a [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->floating over a [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.11"
+msgid ""
+"circumstance_phrase->bracketed between a [TerrainFeature] and a "
+"[TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.12"
+msgid ""
+"desc_sentence->Below, [PAWN_nameDef] plays [Game] with a [AdjectiveFriendly]"
+" look."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.13"
+msgid ""
+"desc_sentence->[PAWN_nameDef] watches with awe on [PAWN_possessive] face."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.14"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s watch from below."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.15"
+msgid ""
+"desc_sentence->[PAWN_nameDef] sits near a [TerrainFeature], gazing at the "
+"sky."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.16"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:234
+msgctxt "Aurora.rulePack.rulesStrings.17"
+msgid "desc_sentence->There is no [Enemy] in sight."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:259
+msgctxt "Flashstorm.label"
+msgid "flashstorm"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.0"
+msgid "tale_noun->a flashstorm that threatened [PAWN_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.1"
+msgid ""
+"tale_noun->[PAWN_nameDef]'s [Community] being menaced by a deadly flashstorm"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.2"
+msgid "image->[Quantity_adjphrase] lightning strikes [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.3"
+msgid "image->[behavior] wall of flames [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.4"
+msgid "image->[behavior] wall of [Color] flames [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.5"
+msgid "image->[behavior] cloud of ash and smoke [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.6"
+msgid "image->[behavior] wave of flames [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.7"
+msgid "behavior->a"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.8"
+msgid "behavior->an advancing"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.9"
+msgid "behavior->an approaching"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->advancing towards a [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.11"
+msgid "circumstance_phrase->underneath an intimidating cloud"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.12"
+msgid "circumstance_phrase->nearly enveloping a [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.13"
+msgid ""
+"circumstance_phrase->nearly enveloping [Quantity_adjphrase] "
+"[TerrainFeature]s"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.14"
+msgid "desc_sentence->[PAWN_nameDef] watches with visible fright."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.15"
+msgid ""
+"desc_sentence->[PAWN_nameDef] watches with awe on [PAWN_possessive] face."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.16"
+msgid "desc_sentence->[PAWN_nameDef] is coordinating defensive measures."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.17"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s rush to prepare."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.18"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s flee the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:264
+msgctxt "Flashstorm.rulePack.rulesStrings.19"
+msgid "desc_sentence->All animal life has left the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:291
+msgctxt "Raid.label"
+msgid "raid"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.0"
+msgid "tale_noun->an raid on [PAWN_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.1"
+msgid "tale_noun->an assault on [PAWN_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.2"
+msgid "tale_noun->[PAWN_nameDef]'s [Community] being attacked by [Enemy]s"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.3"
+msgid "image->[Quantity_adjphrase] [Enemy]s [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.4"
+msgid "image->an army [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.5"
+msgid "image->an overwhelming force [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.6"
+msgid "image->an invading force [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.7"
+msgid "image->stylized [Color] banners [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.8"
+msgid "image->an enormous [Enemy] [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->advancing over a [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->completely encircling a [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.11"
+msgid "circumstance_phrase->attacking [Quantity_adjphrase] [PersonJob]s"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.12"
+msgid "circumstance_phrase->roaring in victory"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.13"
+msgid "circumstance_phrase->brandishing [Weapon]s"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.14"
+msgid "circumstance_phrase->covered in [Gore]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.15"
+msgid ""
+"desc_sentence->[PAWN_nameDef] organizes a resistance while "
+"[defender_circumstance]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.16"
+msgid ""
+"desc_sentence->[PAWN_nameDef] wields a [Weapon] defensively while "
+"[defender_circumstance]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.17"
+msgid "desc_sentence->[PAWN_nameDef] lies on the ground, wounded."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.18"
+msgid ""
+"desc_sentence->[PAWN_nameDef] retaliates with [PAWN_possessive] [Weapon] "
+"while [defender_circumstance]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.19"
+msgid ""
+"desc_sentence->[PAWN_nameDef] stands as tall as a building, "
+"[defender_circumstance]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.20"
+msgid "desc_sentence->[PAWN_nameDef] wears a [AdjectiveBadass] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.21"
+msgid "desc_sentence->[PAWN_nameDef] wears a [AdjectiveAngsty] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.22"
+msgid "desc_sentence->The ground is coated in [Gore]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.23"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.24"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s flee the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.25"
+msgid "defender_circumstance->shouting triumphantly"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.26"
+msgid "defender_circumstance->glowing [Color]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.27"
+msgid "defender_circumstance->raising a fist in defiance"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:296
+msgctxt "Raid.rulePack.rulesStrings.28"
+msgid "defender_circumstance->flexing [PAWN_possessive] muscles"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:332
+msgctxt "Infestation.label"
+msgid "infestation"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.0"
+msgid ""
+"tale_noun->[PAWN_nameDef]'s [Community] being infested by giant insects"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.1"
+msgid "image->a swarm of beetles [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.2"
+msgid "image->[Quantity_adjphrase] megaspiders [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.3"
+msgid "image->an overwhelming tide of [Color] insects [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.4"
+msgid "image->a dense fog of black specks [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.5"
+msgid "circumstance_phrase->advancing over a [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->completely encircling a [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->attacking [Quantity_adjphrase] [PersonJob]s"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->bursting out of the ground"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->slaughtering [Quantity_adjphrase] [Animal]s"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.10"
+msgid "desc_sentence->[PAWN_nameDef] organizes a resistance."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.11"
+msgid "desc_sentence->[PAWN_nameDef] wields a [Weapon] defensively."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.12"
+msgid "desc_sentence->[PAWN_nameDef] lies on the ground, wounded."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.13"
+msgid ""
+"desc_sentence->[PAWN_nameDef] retaliates with [PAWN_possessive] [Weapon]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.14"
+msgid "desc_sentence->[PAWN_nameDef] wears a [AdjectiveBadass] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.15"
+msgid "desc_sentence->[PAWN_nameDef] wears a [AdjectiveAngsty] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.16"
+msgid "desc_sentence->The ground is coated in [Gore]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.17"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.18"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s flee the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:337
+msgctxt "Infestation.rulePack.rulesStrings.19"
+msgid "desc_sentence->All animal life has left the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:364
+msgctxt "ManhunterPack.label"
+msgid "manhunter pack"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.0"
+msgid "tale_noun->manhunting beasts menacing [PAWN_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.1"
+msgid "tale_noun->[PAWN_nameDef]'s [Community] being attacked by mad animals"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.2"
+msgid "image->a herd of [Animal]s [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.3"
+msgid "image->[Quantity_adjphrase] [Animal]s [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.4"
+msgid "image->a [AdjectiveLarge] [Animal] [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.5"
+msgid "image->[Quantity_adjphrase] shadowy figures [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.6"
+msgid "image->[Quantity_adjphrase] shadowy quadrupeds [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->advancing over a [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->completely encircling a [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->attacking [Quantity_adjphrase] [PersonJob]s"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->slaughtering [Quantity_adjphrase] [Animal]s"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.11"
+msgid "circumstance_phrase->possessed by [hate_emotion]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.12"
+msgid "circumstance_phrase->covered in [Gore]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.13"
+msgid "hate_emotion->hatred"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.14"
+msgid "hate_emotion->anger"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.15"
+msgid "hate_emotion->fury"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.16"
+msgid "desc_sentence->[PAWN_nameDef] organizes a resistance."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.17"
+msgid "desc_sentence->[PAWN_nameDef] wields a [Weapon] defensively."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.18"
+msgid "desc_sentence->[PAWN_nameDef] lies on the ground, wounded."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.19"
+msgid ""
+"desc_sentence->[PAWN_nameDef] retaliates with [PAWN_possessive] [Weapon]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.20"
+msgid "desc_sentence->[PAWN_nameDef] wears a [AdjectiveBadass] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.21"
+msgid "desc_sentence->[PAWN_nameDef] wears a [AdjectiveAngsty] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.22"
+msgid "desc_sentence->The ground is coated in [Gore]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.23"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:369
+msgctxt "ManhunterPack.rulePack.rulesStrings.24"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s flee the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:401
+msgctxt "ShipPartCrash.label"
+msgid "ship part crash"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.0"
+msgid ""
+"tale_noun->an ancient ship part crashing near [PAWN_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.1"
+msgid ""
+"tale_noun->an ancient ship part landing near [PAWN_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.2"
+msgid ""
+"tale_noun->a damaged ship part landing near [PAWN_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.3"
+msgid "image->a swarm of [Mechanoid]s [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.4"
+msgid "image->an army of [Mechanoid]s [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.5"
+msgid "image->[Quantity_adjphrase] [Mechanoid]s [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.6"
+msgid "image->a [AdjectiveLarge] [Mechanoid] [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.7"
+msgid ""
+"image->[Quantity_adjphrase] [Mechanoid] silhouettes [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.8"
+msgid ""
+"image->[Quantity_adjphrase] [Mechanoid]s with glowing [Color] sensors "
+"[circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->advancing over a [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->completely encircling a [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.11"
+msgid "circumstance_phrase->attacking [Quantity_adjphrase] [PersonJob]s"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.12"
+msgid "circumstance_phrase->slaughtering [Quantity_adjphrase] [Animal]s"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.13"
+msgid "circumstance_phrase->covered in [Gore]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.14"
+msgid "circumstance_phrase->dented and sparking"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.15"
+msgid ""
+"desc_sentence->[PAWN_nameDef] organizes a resistance while "
+"[defender_circumstance]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.16"
+msgid ""
+"desc_sentence->[PAWN_nameDef] wields a [Weapon] defensively while "
+"[defender_circumstance]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.17"
+msgid "desc_sentence->[PAWN_nameDef] lies on the ground, wounded."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.18"
+msgid ""
+"desc_sentence->[PAWN_nameDef] retaliates with [PAWN_possessive] [Weapon] "
+"while [defender_circumstance]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.19"
+msgid ""
+"desc_sentence->[PAWN_nameDef] stands as tall as a building, "
+"[defender_circumstance]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.20"
+msgid "desc_sentence->[PAWN_nameDef] wears a [AdjectiveBadass] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.21"
+msgid "desc_sentence->[PAWN_nameDef] wears a [AdjectiveAngsty] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.22"
+msgid "desc_sentence->The ground is coated in [Gore]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.23"
+msgid "desc_sentence->The ground is coated in scrap metal."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.24"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.25"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s flee the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.26"
+msgid "defender_circumstance->shouting triumphantly"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.27"
+msgid "defender_circumstance->glowing [Color]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.28"
+msgid "defender_circumstance->raising a fist in defiance"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:406
+msgctxt "ShipPartCrash.rulePack.rulesStrings.29"
+msgid "defender_circumstance->flexing [PAWN_possessive] muscles"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:443
+msgctxt "Eclipse.label"
+msgid "eclipse"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:448
+msgctxt "Eclipse.rulePack.rulesStrings.0"
+msgid "tale_noun->an eclipse over [PAWN_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:448
+msgctxt "Eclipse.rulePack.rulesStrings.1"
+msgid "image->an unnaturally dark sky, [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:448
+msgctxt "Eclipse.rulePack.rulesStrings.2"
+msgid "image->a crepuscular sky, [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:448
+msgctxt "Eclipse.rulePack.rulesStrings.3"
+msgid ""
+"image->a moon, ringed by a faint circle of sunlight, [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:448
+msgctxt "Eclipse.rulePack.rulesStrings.4"
+msgid ""
+"image->[Quantity_adjphrase] [Animal]s milling around uncertainly in "
+"darkness, [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:448
+msgctxt "Eclipse.rulePack.rulesStrings.5"
+msgid "circumstance_phrase->the air still and quiet"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:448
+msgctxt "Eclipse.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->twilight blanketing a nearby [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:448
+msgctxt "Eclipse.rulePack.rulesStrings.7"
+msgid ""
+"circumstance_phrase->twilight blanketing [Quantity_adjphrase] nearby "
+"[TerrainFeature]s"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:448
+msgctxt "Eclipse.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->with stars visible"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:448
+msgctxt "Eclipse.rulePack.rulesStrings.9"
+msgid ""
+"desc_sentence->Below, [PAWN_nameDef] plays [Game] with a [AdjectiveFriendly]"
+" look."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:448
+msgctxt "Eclipse.rulePack.rulesStrings.10"
+msgid ""
+"desc_sentence->[PAWN_nameDef] watches with awe on [PAWN_possessive] face."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:448
+msgctxt "Eclipse.rulePack.rulesStrings.11"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s watch from below."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:448
+msgctxt "Eclipse.rulePack.rulesStrings.12"
+msgid ""
+"desc_sentence->[PAWN_nameDef] sits near a [TerrainFeature], gazing at the "
+"sky."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:448
+msgctxt "Eclipse.rulePack.rulesStrings.13"
+msgid "desc_sentence->A [Community] of spectators watches the sky peacefully."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:448
+msgctxt "Eclipse.rulePack.rulesStrings.14"
+msgid "desc_sentence->There is no [Enemy] in sight."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:470
+msgctxt "EndGame_ShipEscape.label"
+msgid "journey offer"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef] receiving a message from an old friend"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.1"
+msgid "tale_noun->an opportunity arriving for [PAWN_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.2"
+msgid ""
+"image->[PAWN_nameDef] opening a letter delivered by [delivery_method] while "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.3"
+msgid ""
+"image->[PAWN_nameDef] using a datacrystal delivered by [delivery_method] "
+"while [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.4"
+msgid ""
+"image->[PAWN_nameDef] unrolling a scroll delivered by [delivery_method] "
+"while [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.5"
+msgid ""
+"image->[PAWN_nameDef] receiving a transmission from [transmission_source] "
+"while [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.6"
+msgid ""
+"image->[PAWN_nameDef] receiving a message from [transmission_source] while "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.7"
+msgid ""
+"image->[PAWN_nameDef] tuning in to a message from [transmission_source] "
+"while [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.8"
+msgid "delivery_method->a [Animal]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.9"
+msgid "delivery_method->a [PersonJob]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.10"
+msgid "delivery_method->[Quantity_adjphrase] [Animal]s"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.11"
+msgid "transmission_source->a rarely-used frequency"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.12"
+msgid "transmission_source->an ancient transmitter"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.13"
+msgid "transmission_source->a low-power signal"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.14"
+msgid "transmission_source->a long-range signal"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.15"
+msgid "transmission_source->a mysterious signal"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.16"
+msgid "circumstance_phrase->standing alone near a [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.17"
+msgid "circumstance_phrase->exploring a [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.18"
+msgid "circumstance_phrase->tending crops"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.19"
+msgid "circumstance_phrase->a [Animal] wanders past"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.20"
+msgid "circumstance_phrase->playing [Game]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.21"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s wander nearby, unaware."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.22"
+msgid ""
+"desc_sentence->As [PAWN_pronoun] reads, [PAWN_pronoun] starts "
+"[VerbFriendly]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.23"
+msgid "desc_sentence->A spectral [PersonJob] watches from the clouds."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.24"
+msgid "desc_sentence->[PAWN_nameDef] sits near a [TerrainFeature]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.25"
+msgid "desc_sentence->A [Community] is visible in the far distance."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:475
+msgctxt "EndGame_ShipEscape.rulePack.rulesStrings.26"
+msgid "desc_sentence->A spaceship is visible in the far distance."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:511
+msgctxt "Tornado.label"
+msgid "tornado"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.0"
+msgid ""
+"tale_noun->a tornado that touched down near [PAWN_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.1"
+msgid "tale_noun->[PAWN_nameDef]'s [Community] being menaced by tornado"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.2"
+msgid "image->[behavior] cone of twisting air [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.3"
+msgid "image->[behavior] tornado [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.4"
+msgid "image->[behavior] hurricane [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.5"
+msgid "image->[behavior] [Color] cloud formation [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.6"
+msgid "behavior->an advancing"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.7"
+msgid "behavior->an approaching"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.8"
+msgid "behavior->a quickly-moving"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.9"
+msgid "behavior->a swirling"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->carrying debris with it"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.11"
+msgid "circumstance_phrase->passing over a [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.12"
+msgid "circumstance_phrase->obscuring a [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.13"
+msgid "circumstance_phrase->enveloping a [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.14"
+msgid "desc_sentence->[PAWN_nameDef] watches with visible fright."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.15"
+msgid ""
+"desc_sentence->[PAWN_nameDef] watches with awe on [PAWN_possessive] face."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.16"
+msgid "desc_sentence->[PAWN_nameDef] is coordinating defensive measures."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.17"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s rush to prepare."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.18"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s flee the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:516
+msgctxt "Tornado.rulePack.rulesStrings.19"
+msgid "desc_sentence->All animal life has left the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:543
+msgctxt "TornadoFromItem.label"
+msgid "tornado"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.0"
+msgid ""
+"tale_noun->a tornado that touched down near [COLONIST_nameDef]'s [Community]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.1"
+msgid "tale_noun->[COLONIST_nameDef]'s [Community] menaced by a tornado"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.2"
+msgid "image->[behavior] cone of twisting air [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.3"
+msgid "image->[behavior] tornado [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.4"
+msgid "image->[behavior] hurricane [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.5"
+msgid "image->[behavior] [Color] cloud formation [circumstance_phrase]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.6"
+msgid "behavior->an advancing"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.7"
+msgid "behavior->an approaching"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.8"
+msgid "behavior->a quickly-moving"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.9"
+msgid "behavior->a swirling"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->carrying debris with it"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.11"
+msgid "circumstance_phrase->passing over a [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.12"
+msgid "circumstance_phrase->obscuring a [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.13"
+msgid "circumstance_phrase->enveloping a [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.14"
+msgid "desc_sentence->[COLONIST_nameDef] watches with visible fright."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.15"
+msgid ""
+"desc_sentence(p=0.5)->[COLONIST_nameDef] watches with awe on "
+"[COLONIST_possessive] face."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.16"
+msgid ""
+"desc_sentence(p=0.5)->[ATTACKER_nameDef] watches with awe on "
+"[ATTACKER_possessive] face."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.17"
+msgid "desc_sentence->[COLONIST_nameDef] is coordinating defensive measures."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.18"
+msgid "desc_sentence->[ATTACKER_nameDef] cackles with glee."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.19"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s rush to prepare."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.20"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s flee the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Incident.xml:550
+msgctxt "TornadoFromItem.rulePack.rulesStrings.21"
+msgid "desc_sentence->All animal life has left the area."
+msgstr ""

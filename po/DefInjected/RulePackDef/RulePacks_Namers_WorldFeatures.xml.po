@@ -1,0 +1,1108 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.0"
+msgid "r_name->[narrative_name] [terrain_word]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.1"
+msgid "r_name(p=0.05)->[storyname] [terrain_word]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.2"
+msgid "narrative_name(p=12)->[WordTribal]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.3"
+msgid "narrative_name(p=12)->[PlaceOutlander]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.4"
+msgid "narrative_name->[Color][NaturalObject]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.5"
+msgid "narrative_name->[AdjectiveNatural][BodyPart]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.6"
+msgid "narrative_name->[Animal]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.7"
+msgid "narrative_name->[Color]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.8"
+msgid "narrative_name->[Color][Animal]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.9"
+msgid "narrative_name->[AdjectiveNatural][Animal]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.10"
+msgid "narrative_name->[Animal][BodyPart]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.11"
+msgid "narrative_name->[Color] [Animal]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.12"
+msgid "narrative_name->[AdjectiveNatural] [Animal]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.13"
+msgid "narrative_name->[Animal] [BodyPart]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.14"
+msgid "storyname(p=50)->[subject]'s [story_result]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.15"
+msgid "storyname(p=2)->[subject]'s [BodyPart]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.16"
+msgid "storyname->[subject]'s [Gore]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.17"
+msgid "subject(p=5)->[NamePerson]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.18"
+msgid "subject->[Animal]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.19"
+msgid "subject->[WordTribal]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.20"
+msgid "subject->[PlaceOutlander]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.21"
+msgid "story_result->folly"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.22"
+msgid "story_result->vice"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.23"
+msgid "story_result->lunacy"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.24"
+msgid "story_result->mistake"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.25"
+msgid "story_result->fault"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.26"
+msgid "story_result->misstep"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.27"
+msgid "story_result->delusion"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.28"
+msgid "story_result->joy"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.29"
+msgid "story_result->delight"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.30"
+msgid "story_result->wonder"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.31"
+msgid "story_result->pride"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.32"
+msgid "story_result->jewel"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.33"
+msgid "story_result->prize"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.34"
+msgid "story_result->bounty"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.35"
+msgid "story_result->honor"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.36"
+msgid "story_result->jackpot"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.37"
+msgid "story_result->trophy"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.38"
+msgid "story_result->conceit"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.39"
+msgid "story_result->arrogance"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.40"
+msgid "story_result->stand"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.41"
+msgid "story_result->loss"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.42"
+msgid "story_result->debt"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.43"
+msgid "story_result->collapse"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.44"
+msgid "story_result->destruction"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.45"
+msgid "story_result->cataclysm"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.46"
+msgid "story_result->ruin"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.47"
+msgid "story_result->ruination"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.48"
+msgid "story_result->undoing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.49"
+msgid "story_result->downfall"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.50"
+msgid "story_result->end"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.51"
+msgid "story_result->retirement"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.52"
+msgid "story_result->achievement"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.53"
+msgid "story_result->finale"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.54"
+msgid "story_result->bluff"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.55"
+msgid "story_result->ruse"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.56"
+msgid "story_result->deception"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.57"
+msgid "story_result->facade"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:11
+msgctxt "WorldFeatureNamerCommon.rulePack.rulesStrings.58"
+msgid "story_result->fraud"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:85
+msgctxt "NamerMountainRange.rulePack.rulesStrings.0"
+msgid "r_name(p=0.2)->mount [narrative_name]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:85
+msgctxt "NamerMountainRange.rulePack.rulesStrings.1"
+msgid "terrain_word(p=5)->mountains"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:85
+msgctxt "NamerMountainRange.rulePack.rulesStrings.2"
+msgid "terrain_word(p=2)->range"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:85
+msgctxt "NamerMountainRange.rulePack.rulesStrings.3"
+msgid "terrain_word->peaks"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:85
+msgctxt "NamerMountainRange.rulePack.rulesStrings.4"
+msgid "terrain_word->hills"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:85
+msgctxt "NamerMountainRange.rulePack.rulesStrings.5"
+msgid "terrain_word->cliffs"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:103
+msgctxt "NamerArchipelago.rulePack.rulesStrings.0"
+msgid "r_name(p=0.2)->isle [narrative_name]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:103
+msgctxt "NamerArchipelago.rulePack.rulesStrings.1"
+msgid "terrain_word(p=4)->islands"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:103
+msgctxt "NamerArchipelago.rulePack.rulesStrings.2"
+msgid "terrain_word(p=3)->isles"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:103
+msgctxt "NamerArchipelago.rulePack.rulesStrings.3"
+msgid "terrain_word(p=3)->archipelago"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:103
+msgctxt "NamerArchipelago.rulePack.rulesStrings.4"
+msgid "terrain_word->reef"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:103
+msgctxt "NamerArchipelago.rulePack.rulesStrings.5"
+msgid "terrain_word->atoll"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:103
+msgctxt "NamerArchipelago.rulePack.rulesStrings.6"
+msgid "terrain_word->rocks"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:103
+msgctxt "NamerArchipelago.rulePack.rulesStrings.7"
+msgid "terrain_word->islets"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:103
+msgctxt "NamerArchipelago.rulePack.rulesStrings.8"
+msgid "terrain_word->points"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:103
+msgctxt "NamerArchipelago.rulePack.rulesStrings.9"
+msgid "terrain_word->chain"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:125
+msgctxt "NamerIsland.rulePack.rulesStrings.0"
+msgid "r_name(p=0.2)->isle [narrative_name]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:125
+msgctxt "NamerIsland.rulePack.rulesStrings.1"
+msgid "terrain_word(p=4)->island"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:125
+msgctxt "NamerIsland.rulePack.rulesStrings.2"
+msgid "terrain_word(p=2)->isle"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:125
+msgctxt "NamerIsland.rulePack.rulesStrings.3"
+msgid "terrain_word->reef"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:125
+msgctxt "NamerIsland.rulePack.rulesStrings.4"
+msgid "terrain_word->atoll"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:125
+msgctxt "NamerIsland.rulePack.rulesStrings.5"
+msgid "terrain_word->rock"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:125
+msgctxt "NamerIsland.rulePack.rulesStrings.6"
+msgid "terrain_word->islet"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:125
+msgctxt "NamerIsland.rulePack.rulesStrings.7"
+msgid "terrain_word->point"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:145
+msgctxt "NamerPeninsula.rulePack.rulesStrings.0"
+msgid "r_name(p=0.2)->point [narrative_name]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:145
+msgctxt "NamerPeninsula.rulePack.rulesStrings.1"
+msgid "r_name(p=0.2)->cape [narrative_name]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:145
+msgctxt "NamerPeninsula.rulePack.rulesStrings.2"
+msgid "terrain_word(p=5)->peninsula"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:145
+msgctxt "NamerPeninsula.rulePack.rulesStrings.3"
+msgid "terrain_word(p=2)->point"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:145
+msgctxt "NamerPeninsula.rulePack.rulesStrings.4"
+msgid "terrain_word->cape"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:145
+msgctxt "NamerPeninsula.rulePack.rulesStrings.5"
+msgid "terrain_word->headland"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:145
+msgctxt "NamerPeninsula.rulePack.rulesStrings.6"
+msgid "terrain_word->horn"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:164
+msgctxt "NamerBay.rulePack.rulesStrings.0"
+msgid "r_name(p=0.2)->gulf of [narrative_name]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:164
+msgctxt "NamerBay.rulePack.rulesStrings.1"
+msgid "terrain_word(p=6)->bay"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:164
+msgctxt "NamerBay.rulePack.rulesStrings.2"
+msgid "terrain_word->bight"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:164
+msgctxt "NamerBay.rulePack.rulesStrings.3"
+msgid "terrain_word->gulf"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:164
+msgctxt "NamerBay.rulePack.rulesStrings.4"
+msgid "terrain_word->anchorage"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:164
+msgctxt "NamerBay.rulePack.rulesStrings.5"
+msgid "terrain_word->cove"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:182
+msgctxt "NamerLake.rulePack.rulesStrings.0"
+msgid "r_name->lake [narrative_name]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:182
+msgctxt "NamerLake.rulePack.rulesStrings.1"
+msgid "terrain_word(p=6)->lake"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:182
+msgctxt "NamerLake.rulePack.rulesStrings.2"
+msgid "terrain_word->sea"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:182
+msgctxt "NamerLake.rulePack.rulesStrings.3"
+msgid "terrain_word->pond"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:182
+msgctxt "NamerLake.rulePack.rulesStrings.4"
+msgid "terrain_word->basin"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:182
+msgctxt "NamerLake.rulePack.rulesStrings.5"
+msgid "terrain_word->reservoir"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:182
+msgctxt "NamerLake.rulePack.rulesStrings.6"
+msgid "terrain_word(p=0.3)->puddle"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:182
+msgctxt "NamerLake.rulePack.rulesStrings.7"
+msgid "terrain_word(p=0.3)->lagoon"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:182
+msgctxt "NamerLake.rulePack.rulesStrings.8"
+msgid "terrain_word(p=0.3)->loch"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:203
+msgctxt "NamerSea.rulePack.rulesStrings.0"
+msgid "r_name(p=0.1)->lake [narrative_name]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:203
+msgctxt "NamerSea.rulePack.rulesStrings.1"
+msgid "terrain_word(p=6)->sea"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:203
+msgctxt "NamerSea.rulePack.rulesStrings.2"
+msgid "terrain_word->ocean"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:203
+msgctxt "NamerSea.rulePack.rulesStrings.3"
+msgid "terrain_word->lake"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.0"
+msgid "r_name(p=0.4)->[ocean_adjective] [narrative_name]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.1"
+msgid "ocean_adjective->blue"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.2"
+msgid "ocean_adjective->white"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.3"
+msgid "ocean_adjective->gray"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.4"
+msgid "ocean_adjective->clear"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.5"
+msgid "ocean_adjective->windy"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.6"
+msgid "ocean_adjective->stormy"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.7"
+msgid "ocean_adjective->calm"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.8"
+msgid "ocean_adjective->broad"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.9"
+msgid "ocean_adjective->endless"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.10"
+msgid "ocean_adjective->flat"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.11"
+msgid "ocean_adjective->still"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.12"
+msgid "ocean_adjective->wavy"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.13"
+msgid "ocean_adjective->gentle"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.14"
+msgid "terrain_word(p=6)->ocean"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.15"
+msgid "terrain_word(p=3)->sea"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:219
+msgctxt "NamerOcean.rulePack.rulesStrings.16"
+msgid "terrain_word->expanse"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.0"
+msgid "r_name(p=0.4)->[desert_adjective] [narrative_name]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.1"
+msgid "desert_adjective->flat"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.2"
+msgid "desert_adjective->white"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.3"
+msgid "desert_adjective->endless"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.4"
+msgid "desert_adjective->heartless"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.5"
+msgid "desert_adjective->parched"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.6"
+msgid "desert_adjective->dry"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.7"
+msgid "desert_adjective->long"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.8"
+msgid "desert_adjective->sunburned"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.9"
+msgid "desert_adjective->sunny"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.10"
+msgid "desert_adjective->dazzling"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.11"
+msgid "desert_adjective->hot"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.12"
+msgid "desert_adjective->sweaty"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.13"
+msgid "desert_adjective->sandy"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.14"
+msgid "desert_adjective->rocky"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.15"
+msgid "terrain_word(p=6)->desert"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.16"
+msgid "terrain_word->plateau"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.17"
+msgid "terrain_word->flats"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.18"
+msgid "terrain_word->basin"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.19"
+msgid "terrain_word->wastes"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.20"
+msgid "terrain_word->wasteland"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:249
+msgctxt "NamerDesert.rulePack.rulesStrings.21"
+msgid "terrain_word->barrens"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.0"
+msgid "r_name(p=0.1)->fen [narrative_name]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.1"
+msgid "r_name(p=0.3)->[swamp_adjective] [narrative_name]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.2"
+msgid "swamp_adjective->wet"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.3"
+msgid "swamp_adjective->steamy"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.4"
+msgid "swamp_adjective->choking"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.5"
+msgid "swamp_adjective->rotten"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.6"
+msgid "swamp_adjective->rotting"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.7"
+msgid "swamp_adjective->overgrown"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.8"
+msgid "swamp_adjective->tangled"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.9"
+msgid "swamp_adjective->viny"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.10"
+msgid "swamp_adjective->thorny"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.11"
+msgid "terrain_word(p=6)->swamp"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.12"
+msgid "terrain_word->basin"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.13"
+msgid "terrain_word->wetlands"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.14"
+msgid "terrain_word->bayou"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.15"
+msgid "terrain_word->bog"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.16"
+msgid "terrain_word->marsh"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:284
+msgctxt "NamerSwamp.rulePack.rulesStrings.17"
+msgid "terrain_word->fen"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:315
+msgctxt "NamerTropicalRainforest.rulePack.rulesStrings.0"
+msgid "r_name(p=0.3)->[rainforest_adjective] [narrative_name]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:315
+msgctxt "NamerTropicalRainforest.rulePack.rulesStrings.1"
+msgid "rainforest_adjective->wet"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:315
+msgctxt "NamerTropicalRainforest.rulePack.rulesStrings.2"
+msgid "rainforest_adjective->steamy"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:315
+msgctxt "NamerTropicalRainforest.rulePack.rulesStrings.3"
+msgid "rainforest_adjective->choking"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:315
+msgctxt "NamerTropicalRainforest.rulePack.rulesStrings.4"
+msgid "rainforest_adjective->overgrown"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:315
+msgctxt "NamerTropicalRainforest.rulePack.rulesStrings.5"
+msgid "rainforest_adjective->tangled"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:315
+msgctxt "NamerTropicalRainforest.rulePack.rulesStrings.6"
+msgid "rainforest_adjective->viny"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:315
+msgctxt "NamerTropicalRainforest.rulePack.rulesStrings.7"
+msgid "rainforest_adjective->thorny"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:315
+msgctxt "NamerTropicalRainforest.rulePack.rulesStrings.8"
+msgid "terrain_word(p=6)->rainforest"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:315
+msgctxt "NamerTropicalRainforest.rulePack.rulesStrings.9"
+msgid "terrain_word(p=3)->jungle"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:315
+msgctxt "NamerTropicalRainforest.rulePack.rulesStrings.10"
+msgid "terrain_word->forest"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:315
+msgctxt "NamerTropicalRainforest.rulePack.rulesStrings.11"
+msgid "terrain_word->grove"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:315
+msgctxt "NamerTropicalRainforest.rulePack.rulesStrings.12"
+msgid "terrain_word->woodland"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:315
+msgctxt "NamerTropicalRainforest.rulePack.rulesStrings.13"
+msgid "terrain_word->tangle"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:342
+msgctxt "NamerForest.rulePack.rulesStrings.0"
+msgid "terrain_word(p=6)->forest"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:342
+msgctxt "NamerForest.rulePack.rulesStrings.1"
+msgid "terrain_word->grove"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:342
+msgctxt "NamerForest.rulePack.rulesStrings.2"
+msgid "terrain_word->woodland"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:342
+msgctxt "NamerForest.rulePack.rulesStrings.3"
+msgid "terrain_word->thicket"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:357
+msgctxt "NamerBorealForest.rulePack.rulesStrings.0"
+msgid "terrain_word(p=6)->forest"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:357
+msgctxt "NamerBorealForest.rulePack.rulesStrings.1"
+msgid "terrain_word(p=3)->taiga"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:357
+msgctxt "NamerBorealForest.rulePack.rulesStrings.2"
+msgid "terrain_word->grove"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:357
+msgctxt "NamerBorealForest.rulePack.rulesStrings.3"
+msgid "terrain_word->woodland"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:357
+msgctxt "NamerBorealForest.rulePack.rulesStrings.4"
+msgid "terrain_word->woods"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:357
+msgctxt "NamerBorealForest.rulePack.rulesStrings.5"
+msgid "terrain_word->tangle"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:357
+msgctxt "NamerBorealForest.rulePack.rulesStrings.6"
+msgid "terrain_word->thicket"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:375
+msgctxt "NamerAridShrubland.rulePack.rulesStrings.0"
+msgid "terrain_word(p=4)->shrubland"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:375
+msgctxt "NamerAridShrubland.rulePack.rulesStrings.1"
+msgid "terrain_word(p=4)->scrubland"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:375
+msgctxt "NamerAridShrubland.rulePack.rulesStrings.2"
+msgid "terrain_word(p=2)->plateau"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:375
+msgctxt "NamerAridShrubland.rulePack.rulesStrings.3"
+msgid "terrain_word(p=2)->scrub"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:375
+msgctxt "NamerAridShrubland.rulePack.rulesStrings.4"
+msgid "terrain_word->desert"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:375
+msgctxt "NamerAridShrubland.rulePack.rulesStrings.5"
+msgid "terrain_word->bush"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:375
+msgctxt "NamerAridShrubland.rulePack.rulesStrings.6"
+msgid "terrain_word->brush"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:375
+msgctxt "NamerAridShrubland.rulePack.rulesStrings.7"
+msgid "terrain_word->barrens"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:394
+msgctxt "NamerIceSheet.rulePack.rulesStrings.0"
+msgid "terrain_word->sheet"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:394
+msgctxt "NamerIceSheet.rulePack.rulesStrings.1"
+msgid "terrain_word->expanse"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:394
+msgctxt "NamerIceSheet.rulePack.rulesStrings.2"
+msgid "terrain_word(p=0.5)->reach"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:394
+msgctxt "NamerIceSheet.rulePack.rulesStrings.3"
+msgid "terrain_word(p=0.3)->field"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:394
+msgctxt "NamerIceSheet.rulePack.rulesStrings.4"
+msgid "terrain_word(p=0.3)->span"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:394
+msgctxt "NamerIceSheet.rulePack.rulesStrings.5"
+msgid "terrain_word(p=0.3)->field"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:394
+msgctxt "NamerIceSheet.rulePack.rulesStrings.6"
+msgid "terrain_word(p=0.3)->stretch"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:394
+msgctxt "NamerIceSheet.rulePack.rulesStrings.7"
+msgid "terrain_word(p=0.3)->tract"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:413
+msgctxt "NamerTundra.rulePack.rulesStrings.0"
+msgid "terrain_word(p=4)->plateau"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:413
+msgctxt "NamerTundra.rulePack.rulesStrings.1"
+msgid "terrain_word(p=4)->barrens"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:413
+msgctxt "NamerTundra.rulePack.rulesStrings.2"
+msgid "terrain_word(p=2)->taiga"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:413
+msgctxt "NamerTundra.rulePack.rulesStrings.3"
+msgid "terrain_word->scrub"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:413
+msgctxt "NamerTundra.rulePack.rulesStrings.4"
+msgid "terrain_word->shrubland"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:413
+msgctxt "NamerTundra.rulePack.rulesStrings.5"
+msgid "terrain_word->scrubland"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:413
+msgctxt "NamerTundra.rulePack.rulesStrings.6"
+msgid "terrain_word->bush"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:413
+msgctxt "NamerTundra.rulePack.rulesStrings.7"
+msgid "terrain_word->brush"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:413
+msgctxt "NamerTundra.rulePack.rulesStrings.8"
+msgid "terrain_word->barrens"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:413
+msgctxt "NamerTundra.rulePack.rulesStrings.9"
+msgid "terrain_word->expanse"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:413
+msgctxt "NamerTundra.rulePack.rulesStrings.10"
+msgid "terrain_word->prairie"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_WorldFeatures.xml:413
+msgctxt "NamerTundra.rulePack.rulesStrings.11"
+msgid "terrain_word->flats"
+msgstr ""

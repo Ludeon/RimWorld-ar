@@ -1,0 +1,58 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/PawnKindDefs_Humanlikes/PawnKinds_Tribal.xml:20
+msgctxt "Tribal_Penitent.label"
+msgid "penitent"
+msgstr ""
+
+#: Defs/PawnKindDefs_Humanlikes/PawnKinds_Tribal.xml:44
+msgctxt "Tribal_Archer.label"
+msgid "archer"
+msgstr ""
+
+#: Defs/PawnKindDefs_Humanlikes/PawnKinds_Tribal.xml:72
+msgctxt "Tribal_Warrior.label"
+msgid "warrior"
+msgstr ""
+
+#: Defs/PawnKindDefs_Humanlikes/PawnKinds_Tribal.xml:94
+msgctxt "Tribal_Hunter.label"
+msgid "hunter"
+msgstr ""
+
+#: Defs/PawnKindDefs_Humanlikes/PawnKinds_Tribal.xml:127
+msgctxt "Tribal_Trader.label"
+msgid "trader"
+msgstr ""
+
+#: Defs/PawnKindDefs_Humanlikes/PawnKinds_Tribal.xml:140
+msgctxt "Tribal_Berserker.label"
+msgid "berserker"
+msgstr ""
+
+#: Defs/PawnKindDefs_Humanlikes/PawnKinds_Tribal.xml:160
+msgctxt "Tribal_HeavyArcher.label"
+msgid "heavy archer"
+msgstr ""
+
+#: Defs/PawnKindDefs_Humanlikes/PawnKinds_Tribal.xml:203
+msgctxt "Tribal_ChiefMelee.label"
+msgid "berserker chief"
+msgstr ""
+
+#: Defs/PawnKindDefs_Humanlikes/PawnKinds_Tribal.xml:213
+msgctxt "Tribal_ChiefRanged.label"
+msgid "archer chief"
+msgstr ""

@@ -1,0 +1,263 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:23
+msgctxt "ColonistLost.stages.0.label"
+msgid "colonist lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:24
+msgctxt "ColonistLost.stages.0.description"
+msgid "We just lost someone of our colony in a tragic way."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:43
+msgctxt "BondedAnimalReleased.stages.0.label"
+msgid "bonded animal {0} released"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:44
+msgctxt "BondedAnimalReleased.stages.0.description"
+msgid "Such a tender, unique animal. Why did it have to go?"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:63
+msgctxt "BondedAnimalLost.stages.0.label"
+msgid "bonded animal {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:64
+msgctxt "BondedAnimalLost.stages.0.description"
+msgid "Such a tender, unique animal. This universe is evil!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:82
+msgctxt "PawnWithGoodOpinionLost.stages.0.label"
+msgid "my friend {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:83
+msgctxt "PawnWithGoodOpinionLost.stages.0.description"
+msgid "Such a wonderful person, lost. The universe gets darker every day."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:96
+msgctxt "PawnWithBadOpinionLost.stages.0.label"
+msgid "my rival {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:97
+msgctxt "PawnWithBadOpinionLost.stages.0.description"
+msgid "Serves them right. At least there's some justice in this world."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:116
+msgctxt "MySonLost.stages.0.label"
+msgid "my son {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:117
+msgctxt "MySonLost.stages.0.description"
+msgid "My son has gone lost. I hope he will get back to us someday."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:127
+msgctxt "MyDaughterLost.stages.0.label"
+msgid "my daughter {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:128
+msgctxt "MyDaughterLost.stages.0.description"
+msgid "My daughter has gone lost. I hope she will get back to us someday."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:138
+msgctxt "MyHusbandLost.stages.0.label"
+msgid "my husband {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:139
+msgctxt "MyHusbandLost.stages.0.description"
+msgid "My husband has gone lost. I hope he will get back to us someday."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:149
+msgctxt "MyWifeLost.stages.0.label"
+msgid "my wife {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:150
+msgctxt "MyWifeLost.stages.0.description"
+msgid "My wife has gone lost. I hope she will get back to us someday."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:160
+msgctxt "MyFianceLost.stages.0.label"
+msgid "my fiance {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:161
+msgctxt "MyFianceLost.stages.0.description"
+msgid "My fiance has gone lost. I hope he will get back to us someday."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:171
+msgctxt "MyFianceeLost.stages.0.label"
+msgid "my fiancée {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:172
+msgctxt "MyFianceeLost.stages.0.description"
+msgid "My fiancée has gone lost. I hope she will get back to us someday."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:182
+msgctxt "MyLoverLost.stages.0.label"
+msgid "my lover {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:183
+msgctxt "MyLoverLost.stages.0.description"
+msgid "My lover has gone lost. I hope he will get back to us someday."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:193
+msgctxt "MyBrotherLost.stages.0.label"
+msgid "my brother {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:194
+msgctxt "MyBrotherLost.stages.0.description"
+msgid "My brother has gone lost. I hope he will get back to us someday."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:204
+msgctxt "MySisterLost.stages.0.label"
+msgid "my sister {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:205
+msgctxt "MySisterLost.stages.0.description"
+msgid "My sister has gone lost. I hope she will get back to us someday."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:215
+msgctxt "MyGrandchildLost.stages.0.label"
+msgid "my grandchild {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:216
+msgctxt "MyGrandchildLost.stages.0.description"
+msgid "My grandchild has gone lost. I hope they will get back to us someday."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:226
+msgctxt "MyFatherLost.stages.0.label"
+msgid "my father {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:227
+msgctxt "MyFatherLost.stages.0.description"
+msgid "My father has gone lost. I hope he will get back to us someday."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:237
+msgctxt "MyMotherLost.stages.0.label"
+msgid "my mother {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:238
+msgctxt "MyMotherLost.stages.0.description"
+msgid "My mother has gone lost. I hope she will get back to us someday."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:248
+msgctxt "MyNieceLost.stages.0.label"
+msgid "my niece {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:249
+msgctxt "MyNieceLost.stages.0.description"
+msgid "My niece has gone lost. I hope she will get back to us someday."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:259
+msgctxt "MyNephewLost.stages.0.label"
+msgid "my nephew {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:260
+msgctxt "MyNephewLost.stages.0.description"
+msgid "My nephew has gone lost. I hope he will get back to us someday."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:270
+msgctxt "MyHalfSiblingLost.stages.0.label"
+msgid "my half-sibling {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:271
+msgctxt "MyHalfSiblingLost.stages.0.description"
+msgid "My half-sibling has gone lost."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:281
+msgctxt "MyAuntLost.stages.0.label"
+msgid "my aunt {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:282
+msgctxt "MyAuntLost.stages.0.description"
+msgid "My aunt has gone lost. I hope she will get back to us someday."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:292
+msgctxt "MyUncleLost.stages.0.label"
+msgid "my uncle {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:293
+msgctxt "MyUncleLost.stages.0.description"
+msgid "My uncle has gone lost. I hope he will get back to us someday."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:303
+msgctxt "MyGrandparentLost.stages.0.label"
+msgid "my grandparent {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:304
+msgctxt "MyGrandparentLost.stages.0.description"
+msgid "My grandparent has gone lost."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:314
+msgctxt "MyCousinLost.stages.0.label"
+msgid "my cousin {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:315
+msgctxt "MyCousinLost.stages.0.description"
+msgid "My cousin has gone lost."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:325
+msgctxt "MyKinLost.stages.0.label"
+msgid "my kin {0} lost"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Lost.xml:326
+msgctxt "MyKinLost.stages.0.description"
+msgid "My kin has gone lost."
+msgstr ""

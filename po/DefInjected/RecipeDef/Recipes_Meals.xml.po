@@ -1,0 +1,206 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:34
+msgctxt "CookMealSimple.label"
+msgid "cook simple meal"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:35
+msgctxt "CookMealSimple.description"
+msgid "Cook a straightforward meal from one ingredient."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:62
+msgctxt "CookMealSimpleBulk.label"
+msgid "cook simple meal x4"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:63
+msgctxt "CookMealSimpleBulk.description"
+msgid "Cook 4 straightforward meals from one ingredient."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:102
+msgctxt "CookMealFine.label"
+msgid "cook fine meal"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:103
+msgctxt "CookMealFine.description"
+msgid ""
+"Cook a somewhat complex meal from a combination of meat and plant "
+"ingredients."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:133
+msgctxt "CookMealFine_Veg.label"
+msgid "cook vegetarian fine meal"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:134
+msgctxt "CookMealFine_Veg.description"
+msgid "Cook a somewhat complex meal from plant ingredients."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:161
+msgctxt "CookMealFine_Meat.label"
+msgid "cook carnivore fine meal"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:162
+msgctxt "CookMealFine_Meat.description"
+msgid "Cook a somewhat complex meal from meat ingredients."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:202
+msgctxt "CookMealFineBulk.label"
+msgid "cook fine meal x4"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:203
+msgctxt "CookMealFineBulk.description"
+msgid ""
+"Cook 4 somewhat complex meals from a combination of meat and plant "
+"ingredients. Some of the ingredients are wasted in order to create a good "
+"eating experience."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:233
+msgctxt "CookMealFineBulk_Meat.label"
+msgid "cook carnivore fine meal x4"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:234
+msgctxt "CookMealFineBulk_Meat.description"
+msgid ""
+"Cook 4 somewhat complex meals from meat ingredients. Some of the ingredients"
+" are wasted in order to create a good eating experience. Producing varied "
+"flavors with meat alone introduces extra inefficiencies."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:260
+msgctxt "CookMealFineBulk_Veg.label"
+msgid "cook vegetarian fine meal x4"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:261
+msgctxt "CookMealFineBulk_Veg.description"
+msgid ""
+"Cook 4 somewhat complex meals from plant ingredients. Some of the "
+"ingredients are wasted in order to create a good eating experience. "
+"Producing varied flavors with plants alone introduces extra inefficiencies."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:301
+msgctxt "CookMealLavish.label"
+msgid "cook lavish meal"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:302
+msgctxt "CookMealLavish.description"
+msgid ""
+"Cook a very complex meal from a combination of meat and plant ingredients. "
+"Much of the ingredients are wasted in order to create the best eating "
+"experience."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:332
+msgctxt "CookMealLavish_Meat.label"
+msgid "cook carnivore lavish meal"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:333
+msgctxt "CookMealLavish_Meat.description"
+msgid ""
+"Cook a very complex meal from meat ingredients. Much of the ingredients are "
+"wasted in order to create the best eating experience. Producing varied "
+"flavors with meat alone introduces extra inefficiencies."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:359
+msgctxt "CookMealLavish_Veg.label"
+msgid "cook vegetarian lavish meal"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:360
+msgctxt "CookMealLavish_Veg.description"
+msgid ""
+"Cook a very complex meal from plant ingredients. Much of the ingredients are"
+" wasted in order to create the best eating experience. Producing varied "
+"flavors with plants alone introduces extra inefficiencies."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:399
+msgctxt "CookMealLavishBulk.label"
+msgid "cook lavish meal x4"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:400
+msgctxt "CookMealLavishBulk.description"
+msgid ""
+"Cook 4 very complex meals from a combination of meat and plant ingredients. "
+"Much of the ingredients are wasted in order to create the best eating "
+"experience."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:430
+msgctxt "CookMealLavishBulk_Veg.label"
+msgid "cook vegetarian lavish meal x4"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:431
+msgctxt "CookMealLavishBulk_Veg.description"
+msgid ""
+"Cook 4 very complex meals from plant ingredients. Much of the ingredients "
+"are wasted in order to create the best eating experience. Producing varied "
+"flavors with plants alone introduces extra inefficiencies."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:458
+msgctxt "CookMealLavishBulk_Meat.label"
+msgid "cook carnivore lavish meal x4"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:459
+msgctxt "CookMealLavishBulk_Meat.description"
+msgid ""
+"Cook 4 very complex meals from meat ingredients. Much of the ingredients are"
+" wasted in order to create the best eating experience. Producing varied "
+"flavors with meat alone introduces extra inefficiencies."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:487
+msgctxt "CookMealSurvival.label"
+msgid "cook packaged survival meal"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:488
+msgctxt "CookMealSurvival.description"
+msgid ""
+"Prepare a packaged survival meal from a combination of meat and plant "
+"ingredients. Much of the ingredients are wasted in the preservation process."
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:527
+msgctxt "CookMealSurvivalBulk.label"
+msgid "cook packaged survival meal x4"
+msgstr ""
+
+#: Defs/RecipeDefs/Recipes_Meals.xml:528
+msgctxt "CookMealSurvivalBulk.description"
+msgid ""
+"Prepare 4 packaged survival meals from a combination of meat and plant "
+"ingredients. Much of the ingredients are wasted in the preservation process."
+msgstr ""

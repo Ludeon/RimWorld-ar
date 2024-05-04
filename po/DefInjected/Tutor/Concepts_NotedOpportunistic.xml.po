@@ -1,0 +1,292 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:13
+msgctxt "ReformCaravan.label"
+msgid "Reforming caravans"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:14
+msgctxt "ReformCaravan.helpText"
+msgid ""
+"After an encounter, you can easily re-form a caravan by using the RE-FORM "
+"CARAVAN command in the World view."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:23
+msgctxt "Rescuing.label"
+msgid "Rescuing"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:24
+msgctxt "Rescuing.helpText"
+msgid ""
+"To rescue a wounded person, select a healthy colonist and then right-click "
+"on the wounded one.\\n\\nIf you rescue a non-colonist, they won't "
+"necessarily join your colony. They may simply walk away after healing. If "
+"you want to guarantee that they join, capture them and recruit them."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:30
+msgctxt "Capturing.label"
+msgid "Capturing"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:31
+msgctxt "Capturing.helpText"
+msgid ""
+"When an enemy is downed on the ground but not dead, you can CAPTURE "
+"them.\\n\\nTo capture, select a colonist, right-click on the incapacitated "
+"enemy, and select Capture.\\n\\nYou'll need an extra bed marked for prisoner"
+" use."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:37
+msgctxt "ShieldBelts.label"
+msgid "Shield belts"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:38
+msgctxt "ShieldBelts.helpText"
+msgid ""
+"Shield belts stop ranged attacks from coming in or out. They have no effect "
+"on melee attacks.\\n\\nTo fight against shield belts, either concentrate a "
+"lot of gunfire on the target, or fight hand-to-hand."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:43
+msgctxt "InteractingWithTraders.label"
+msgid "Interacting with traders"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:44
+msgctxt "InteractingWithTraders.helpText"
+msgid ""
+"You can talk to people with ? over their heads.\\n\\nSelect a colonist and "
+"right-click on the character with ? attached to their head."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:50
+msgctxt "Drafting.label"
+msgid "Drafting for combat"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:54
+msgctxt "Drafting.helpText"
+msgid ""
+"To control colonists directly for combat, Draft them by selecting them and "
+"hitting the DRAFT button.\\n\\nA drafted colonist will do only what you tell"
+" them, and can only take combat actions. Those with weapons will use them "
+"when possible.\\n\\nDon't leave colonists Drafted forever - they'll starve "
+"and become unhappy."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:59
+msgctxt "GroupGotoHereDragging.label"
+msgid "Positioning fighters"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:60
+msgctxt "GroupGotoHereDragging.helpText"
+msgid ""
+"Right-click and drag to have your drafted fighters form a line.\\n\\nSpread "
+"out - bunched-up targets are easy to hit!"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:66
+msgctxt "BuildOrbitalTradeBeacon.label"
+msgid "Build orbital trade beacon"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:67
+msgctxt "BuildOrbitalTradeBeacon.helpText"
+msgid ""
+"To send items or silver to orbital traders, you must build an ORBITAL TRADE "
+"BEACON and place a stockpile of items near it."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:77
+msgctxt "AnimalsDontAttackDoors.label"
+msgid "Animals will attack doors"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:78
+msgctxt "AnimalsDontAttackDoors.helpText"
+msgid ""
+"Manhunting animals will attack doors if they see one of your colonists "
+"moving through them. They will also attack inactive turrets."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:83
+msgctxt "BillsTab.label"
+msgid "Bills tab"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:88
+msgctxt "BillsTab.helpText"
+msgid ""
+"To make colonists work at a table, select the table and open the Bills tab. "
+"Here, you can say what meals to cook, what things to craft, what creatures "
+"to butcher."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:93
+msgctxt "OpeningComms.label"
+msgid "Using the comms console"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:94
+msgctxt "OpeningComms.helpText"
+msgid ""
+"To communicate, select a colonist and right-click on the comms console."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:100
+msgctxt "DrugAddiction.label"
+msgid "Drug addiction"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:104
+msgctxt "DrugAddiction.helpText"
+msgid ""
+"You can inspect your colonists' desire to take a drug in their Needs "
+"tab.\\n\\nAs long as their need level is at zero, their addiction changes to"
+" a \"withdrawal\" state which can have various negative side "
+"effects.\\n\\nHowever, after long enough in withdrawal, their addiction will"
+" end and the drug need will disappear."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:109
+msgctxt "DrugPolicies.label"
+msgid "Drug policies"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:110
+msgctxt "DrugPolicies.helpText"
+msgid ""
+"You can assign colonists to take specific drugs on a specific schedule. For "
+"example, you can make them take infection-blocking drugs regularly, or drink"
+" a beer a day to stay happy.\\n\\nOpen the ASSIGN tab and press the 'Manage "
+"drug policies' button. Create a new drug policy. Then, you can assign this "
+"policy to colonists.\\n\\nColonists can still take drugs not in their "
+"policy. You can tell them what to do, but they also follow their own "
+"desires!"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:119
+msgctxt "TVForSickPeople.label"
+msgid "TV for sick people"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:120
+msgctxt "TVForSickPeople.helpText"
+msgid "Sick people can watch TV while laying in bed."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:125
+msgctxt "PrisonerTab.label"
+msgid "Prisoner tab"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:129
+msgctxt "PrisonerTab.helpText"
+msgid ""
+"Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\\n\\nYou "
+"can set whether they'll be recruited, ignored, or executed, and what kind of"
+" medical care they get. You can set food restrictions for the prisoner in "
+"their health tab.\\n\\nColonists with the Warden work type will interact "
+"with the prisoner."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:134
+msgctxt "SetGrowingZonePlant.label"
+msgid "Set what plant to grow"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:136
+msgctxt "SetGrowingZonePlant.helpText"
+msgid ""
+"You can set what to plant in a growing zone. You can even grow "
+"trees!\\n\\nJust select the growing zone, open the Growing tab, and click "
+"the 'plant' button."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:144
+msgctxt "DrugBurning.label"
+msgid "Drug burning"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:145
+msgctxt "DrugBurning.helpText"
+msgid ""
+"Drugs can be useful, but can also lead to harmful addictions.\\n\\nIf you "
+"want to avoid drugs in your colony, you have the option of burning them at a"
+" campfire."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:155
+msgctxt "DoorOpenSpeed.label"
+msgid "Door opening speeds"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:156
+msgctxt "DoorOpenSpeed.helpText"
+msgid ""
+"Doors open at different speeds depending on what they're made "
+"of.\\n\\nWarning: Stone doors open very slowly. Anyone passing through will "
+"be significantly slowed down."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:161
+msgctxt "QueueOrders.label"
+msgid "Order queueing"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:162
+msgctxt "QueueOrders.helpText"
+msgid ""
+"When giving commands to pawns, you can queue up multiple orders by holding "
+"\"shift\". This also works when giving jobs to undrafted pawns."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:168
+msgctxt "Shelves.label"
+msgid "Shelves"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:169
+msgctxt "Shelves.helpText"
+msgid ""
+"Shelves store three times as much as empty ground. Items on shelves will "
+"also never deteriorate and don't affect the beauty of their "
+"surroundings.\\n\\nYou can link shelves into groups and configure them as "
+"one. First, select two or more shelves, then click 'Link storage settings'."
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:178
+msgctxt "Books.label"
+msgid "books"
+msgstr ""
+
+#: Defs/Tutor/Concepts_NotedOpportunistic.xml:179
+msgctxt "Books.helpText"
+msgid ""
+"Colonists read books for recreation, to gain skills, to unlock research, and"
+" more. You can see a specific book's effects by selecting it and opening its"
+" 'Details' tab.\\n\\nTo choose what colonists will read, open the ASSIGN tab"
+" and configure READING POLICIES.\\n\\nStore books in bookcases to passively "
+"enhance intellectual and reading work done nearby, and increase the beauty "
+"of the bookcase. Bookcases passively increase research speed, XP gained from"
+" reading, and recreation gained from reading in the same room."
+msgstr ""

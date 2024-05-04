@@ -1,0 +1,37 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Decorative.xml:6
+msgctxt "Plant_Rose.label"
+msgid "rose"
+msgstr ""
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Decorative.xml:7
+msgctxt "Plant_Rose.description"
+msgid ""
+"A beautiful cultivated flower, the rose has been a symbol of love since "
+"Earth's ancient era."
+msgstr ""
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Decorative.xml:43
+msgctxt "Plant_Daylily.label"
+msgid "daylily"
+msgstr ""
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Decorative.xml:44
+msgctxt "Plant_Daylily.description"
+msgid ""
+"A cultivated flower with wide petals and a short lifespan. Daylilies are "
+"very beautiful, but must be replanted often."
+msgstr ""

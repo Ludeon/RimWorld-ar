@@ -1,0 +1,93 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/TerrainDefs/Terrain_Natural.xml:18
+msgctxt "Soil.label"
+msgid "soil"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Natural.xml:43
+msgctxt "Soil.tools.0.label"
+msgid "dirt"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Natural.xml:58
+msgctxt "MossyTerrain.label"
+msgid "lichen-covered soil"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Natural.xml:92
+msgctxt "MarshyTerrain.label"
+msgid "marshy soil"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Natural.xml:118
+msgctxt "MarshyTerrain.tools.0.label"
+msgid "mud"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Natural.xml:135
+msgctxt "SoilRich.label"
+msgid "rich soil"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Natural.xml:159
+msgctxt "SoilRich.tools.0.label"
+msgid "dirt"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Natural.xml:176
+msgctxt "Gravel.label"
+msgid "stony soil"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Natural.xml:202
+msgctxt "Gravel.tools.0.label"
+msgid "gravel"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Natural.xml:219
+msgctxt "Sand.label"
+msgid "sand"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Natural.xml:244
+msgctxt "Sand.tools.0.label"
+msgid "sand"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Natural.xml:257
+msgctxt "SoftSand.label"
+msgid "soft sand"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Natural.xml:278
+msgctxt "SoftSand.tools.0.label"
+msgid "sand"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Natural.xml:294
+msgctxt "Mud.label"
+msgid "mud"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Natural.xml:319
+msgctxt "Mud.tools.0.label"
+msgid "mud"
+msgstr ""
+
+#: Defs/TerrainDefs/Terrain_Natural.xml:333
+msgctxt "Ice.label"
+msgid "Ice"
+msgstr ""

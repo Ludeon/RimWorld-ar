@@ -1,0 +1,390 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:47
+msgctxt "BionicEye.label"
+msgid "bionic eye"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:49
+msgctxt "BionicEye.description"
+msgid ""
+"An installed bionic eye. With its biogel nerve-link, internal signal pre-"
+"processor, and wide-spectrum sensors, it is better than a biological eye in "
+"almost every way. A lattice-dust healing system allows it to recover from "
+"damage."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:78
+msgctxt "BionicEye.label"
+msgid "bionic eye"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:79
+msgctxt "BionicEye.description"
+msgid ""
+"An advanced artificial eye. With its biogel nerve-link, internal signal pre-"
+"processor, and wide-spectrum sensors, it is better than a biological eye in "
+"almost every way. A lattice-dust healing system allows it to recover from "
+"damage."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:93
+msgctxt "InstallBionicEye.label"
+msgid "install bionic eye"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:94
+msgctxt "InstallBionicEye.description"
+msgid "Install a bionic eye."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:125
+msgctxt "BionicArm.label"
+msgid "bionic arm"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:127
+msgctxt "BionicArm.description"
+msgid ""
+"An installed bionic arm. Silenced mini-servos give great strength, while the"
+" biogel nerve-link gives exquisite control. A lattice-dust healing system "
+"allows it to recover from damage. It is better than a biological arm in "
+"almost every way."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:133
+msgctxt "BionicArm.comps.0.tools.0.label"
+msgid "fist"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:155
+msgctxt "BionicArm.label"
+msgid "bionic arm"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:156
+msgctxt "BionicArm.description"
+msgid ""
+"An advanced artificial arm. Silenced mini-servos give great strength, while "
+"the biogel nerve-link gives exquisite control. A lattice-dust healing system"
+" allows it to recover from damage. It is better than a biological arm in "
+"almost every way."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:170
+msgctxt "InstallBionicArm.label"
+msgid "install bionic arm"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:171
+msgctxt "InstallBionicArm.description"
+msgid "Install a bionic arm."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:202
+msgctxt "BionicLeg.label"
+msgid "bionic leg"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:204
+msgctxt "BionicLeg.description"
+msgid ""
+"An installed bionic leg. With its biogel nerve-link, powerful mini-servos, "
+"and lattice-dust healing system, it is better than a biological leg in "
+"almost every way."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:216
+msgctxt "BionicLeg.label"
+msgid "bionic leg"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:217
+msgctxt "BionicLeg.description"
+msgid ""
+"An advanced artificial leg. With its biogel nerve-link, powerful mini-"
+"servos, and lattice-dust healing system, it is better than a biological leg "
+"in almost every way."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:231
+msgctxt "InstallBionicLeg.label"
+msgid "install bionic leg"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:232
+msgctxt "InstallBionicLeg.description"
+msgid "Install a bionic leg."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:263
+msgctxt "BionicSpine.label"
+msgid "bionic spine"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:265
+msgctxt "BionicSpine.description"
+msgid ""
+"An installed bionic spine. A biogel nerve bundle runs down an articulated "
+"plasteel core, surrounded by a lattice-dust healing system. It matches the "
+"performance of a biological spine."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:276
+msgctxt "BionicSpine.label"
+msgid "bionic spine"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:277
+msgctxt "BionicSpine.description"
+msgid ""
+"An advanced artificial spine. A biogel nerve bundle runs down an articulated"
+" plasteel core, surrounded by a lattice-dust healing system. It matches the "
+"performance of a biological spine."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:290
+msgctxt "InstallBionicSpine.label"
+msgid "install bionic spine"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:291
+msgctxt "InstallBionicSpine.description"
+msgid "Install a bionic spine."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:322
+msgctxt "BionicHeart.label"
+msgid "bionic heart"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:324
+msgctxt "BionicHeart.description"
+msgid ""
+"An installed bionic heart. It has synthetic muscle fibers for a realistic "
+"heartbeat, plus a high-flow pump for rapid circulation during high stress. "
+"It is better than a biological heart in almost every way."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:336
+msgctxt "BionicHeart.label"
+msgid "bionic heart"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:337
+msgctxt "BionicHeart.description"
+msgid ""
+"An advanced artificial heart. It has synthetic muscle fibers for a realistic"
+" heartbeat, plus a high-flow pump for rapid circulation during high stress. "
+"It is better than a biological heart in almost every way."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:347
+msgctxt "InstallBionicHeart.label"
+msgid "install bionic heart"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:348
+msgctxt "InstallBionicHeart.description"
+msgid "Install a bionic heart."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:379
+msgctxt "BionicStomach.label"
+msgid "bionic stomach"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:381
+msgctxt "BionicStomach.description"
+msgid ""
+"An installed bionic stomach. A person with this has a much lower chance of "
+"getting food poisoning, and is immune to some stomach diseases. An "
+"integrated lattice-dust healing system automatically repairs any damage to "
+"the artificial organ. It is better than a biological stomach in almost every"
+" way."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:401
+msgctxt "BionicStomach.label"
+msgid "bionic stomach"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:402
+msgctxt "BionicStomach.description"
+msgid ""
+"An advanced artificial stomach with sensors and chemical synthesizers that "
+"efficiently digest nearly any energy-bearing foodstuff. A person with this "
+"has a much lower chance of getting food poisoning, and is immune to some "
+"stomach diseases. An integrated lattice-dust healing system automatically "
+"repairs any damage to the artificial organ. It is better than a biological "
+"stomach in almost every way."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:415
+msgctxt "InstallBionicStomach.label"
+msgid "install bionic stomach"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:416
+msgctxt "InstallBionicStomach.description"
+msgid "Install a bionic stomach."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:445
+msgctxt "DeathAcidifier.label"
+msgid "death acidifier"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:447
+msgctxt "DeathAcidifier.description"
+msgid ""
+"An installed death acidifier. Upon the user's death, it releases powerful "
+"chemicals that dissolve gear in contact with the user's body. It doesn't "
+"damage others."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:465
+msgctxt "DeathAcidifier.label"
+msgid "death acidifier"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:466
+msgctxt "DeathAcidifier.description"
+msgid ""
+"A chest implant for preventing enemy use of captured equipment. Upon the "
+"user's death, it releases powerful chemicals that dissolve gear in contact "
+"with the user's body. It doesn't damage others."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:485
+msgctxt "InstallDeathAcidifier.label"
+msgid "install death acidifier"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:486
+msgctxt "InstallDeathAcidifier.description"
+msgid "Install a death acidifier."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:548
+msgctxt "BionicEar.label"
+msgid "bionic ear"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:550
+msgctxt "BionicEar.description"
+msgid ""
+"An installed bionic ear. A collection of invisible subdermal microphones "
+"capture sound and transmit it to a biogel nerve interface that links "
+"directly with the auditory nerve. It's sensitive enough to hear a cat before"
+" you see it, can't be damaged by loud noise, and automatically tunes itself "
+"to pick out meaningful sounds in noisy environments."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:562
+msgctxt "BionicEar.label"
+msgid "bionic ear"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:563
+msgctxt "BionicEar.description"
+msgid ""
+"An advanced artificial ear implant. A collection of invisible subdermal "
+"microphones capture sound and transmit it to a biogel nerve interface that "
+"links directly with the auditory nerve. It's sensitive enough to hear a cat "
+"before you see it, can't be damaged by loud noise, and automatically tunes "
+"itself to pick out meaningful sounds in noisy environments."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:573
+msgctxt "InstallBionicEar.label"
+msgid "install bionic ear"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:574
+msgctxt "InstallBionicEar.description"
+msgid "Install a bionic ear."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:605
+msgctxt "BionicTongue.label"
+msgid "bionic tongue"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:607
+msgctxt "BionicTongue.description"
+msgid ""
+"An installed bionic tongue. Made of synthetic smooth-fibers and connected "
+"through a neurogel interface, it can match the performance of a natural "
+"tongue in speaking, eating, and tasting."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:618
+msgctxt "BionicTongue.label"
+msgid "bionic tongue"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:619
+msgctxt "BionicTongue.description"
+msgid ""
+"An artificial tongue replacement. Made of synthetic smooth-fibers and "
+"connected through a neurogel interface, it can match the performance of a "
+"natural tongue in speaking, eating, and tasting."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:629
+msgctxt "InstallBionicTongue.label"
+msgid "install bionic tongue"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:630
+msgctxt "InstallBionicTongue.description"
+msgid "Install a bionic tongue."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:661
+msgctxt "BionicJaw.label"
+msgid "bionic jaw"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:663
+msgctxt "BionicJaw.description"
+msgid ""
+"An installed bionic jaw. Made out of biosynthetic bone, with plasteel tooth "
+"replacements and a set of micro servomotors for the full range of motion."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:677
+msgctxt "BionicJaw.label"
+msgid "bionic jaw"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:678
+msgctxt "BionicJaw.description"
+msgid ""
+"An artificial jaw replacement. Made out of biosynthetic bone, with plasteel "
+"tooth replacements and a set of micro servomotors for the full range of "
+"motion."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:693
+msgctxt "InstallBionicJaw.label"
+msgid "Install bionic jaw"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Bionic.xml:694
+msgctxt "InstallBionicJaw.description"
+msgid "Install bionic jaw."
+msgstr ""

@@ -1,0 +1,154 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:42
+msgctxt "Apparel_CowboyHat.label"
+msgid "cowboy hat"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:43
+msgctxt "Apparel_CowboyHat.description"
+msgid ""
+"Stylish yet rugged, this hat keeps the sun and rain off - and it gives "
+"anyone who wears it a bit of extra charm. It is the most important part of "
+"traditional western attire."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:113
+msgctxt "Apparel_BowlerHat.label"
+msgid "bowler hat"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:114
+msgctxt "Apparel_BowlerHat.description"
+msgid ""
+"A good-looking hat which projects a slightly urban, money-loving style. "
+"Improves social impact."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:146
+msgctxt "Apparel_TribalHeaddress.label"
+msgid "tribal headdress"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:147
+msgctxt "Apparel_TribalHeaddress.description"
+msgid ""
+"Elegant traditional garb, often with religious significance. Improves social"
+" impact."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:207
+msgctxt "Apparel_Tuque.label"
+msgid "tuque"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:208
+msgctxt "Apparel_Tuque.description"
+msgid "A soft, thick cap. Great for keeping warm in winter."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:278
+msgctxt "Apparel_WarMask.label"
+msgid "war mask"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:279
+msgctxt "Apparel_WarMask.description"
+msgid ""
+"An artistically terrifying war mask. It hides the wearer's face and makes "
+"them more confident."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:345
+msgctxt "Apparel_WarVeil.label"
+msgid "veil"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:346
+msgctxt "Apparel_WarVeil.description"
+msgid "A piece of fabric which covers the wearer's face."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:416
+msgctxt "Apparel_SimpleHelmet.label"
+msgid "simple helmet"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:417
+msgctxt "Apparel_SimpleHelmet.description"
+msgid ""
+"A simple helmet which gives moderate protection against sharp attacks. Not "
+"effective against blunt weapons."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:469
+msgctxt "Apparel_AdvancedHelmet.label"
+msgid "flak helmet"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:470
+msgctxt "Apparel_AdvancedHelmet.description"
+msgid ""
+"A lightweight combat helmet with a complex design, reinforced with plasteel."
+" Not effective against blunt weapons."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:634
+msgctxt "Apparel_PowerArmorHelmet.label"
+msgid "marine helmet"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:635
+msgctxt "Apparel_PowerArmorHelmet.description"
+msgid ""
+"A marine armor helmet, with a built-in status computer and layered plasteel-"
+"weave plates.\\n\\nArmor like this is often used by rapid-incursion space "
+"marines."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:730
+msgctxt "Apparel_ArmorHelmetRecon.label"
+msgid "recon helmet"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:731
+msgctxt "Apparel_ArmorHelmetRecon.description"
+msgid ""
+"A high-tech armored helmet with a built-in status computer and a protective "
+"plasteel-weave plate.\\n\\nArmor like this is often used by imperial scout "
+"troops or glitterworld police forces."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:752
+msgctxt "Apparel_PsychicFoilHelmet.label"
+msgid "psychic foil helmet"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:753
+msgctxt "Apparel_PsychicFoilHelmet.description"
+msgid ""
+"A thin helmet containing finely-tuned sheets of psychically-absorptive foil."
+" Reduces the impact of psychic waves."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:818
+msgctxt "Apparel_HatHood.label"
+msgid "hood"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Headgear.xml:819
+msgctxt "Apparel_HatHood.description"
+msgid "A draped hood which covers the head and ears."
+msgstr ""

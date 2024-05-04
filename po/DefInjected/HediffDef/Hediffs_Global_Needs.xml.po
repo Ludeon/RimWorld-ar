@@ -1,0 +1,54 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/HediffDefs/Hediffs_Global_Needs.xml:6
+msgctxt "Malnutrition.label"
+msgid "malnutrition"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Needs.xml:7
+msgctxt "Malnutrition.description"
+msgid ""
+"Abnormally low body fat and weight, typically caused by lack of food. "
+"Malnutrition is always very unpleasant, but its initial effects are mild. "
+"Without food, though, a malnourished creature will waste away, losing muscle"
+" mass and capacities. Malnutrition ends with death. Upon re-feeding "
+"malnutrition naturally recovers over time. Malnourished creatures have "
+"larger appetites than normal."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Needs.xml:12
+msgctxt "Malnutrition.stages.0.label"
+msgid "trivial"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Needs.xml:24
+msgctxt "Malnutrition.stages.1.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Needs.xml:36
+msgctxt "Malnutrition.stages.2.label"
+msgid "moderate"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Needs.xml:48
+msgctxt "Malnutrition.stages.3.label"
+msgid "severe"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Needs.xml:60
+msgctxt "Malnutrition.stages.4.label"
+msgid "extreme"
+msgstr ""

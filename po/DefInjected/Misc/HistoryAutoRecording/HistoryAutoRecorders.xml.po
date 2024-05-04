@@ -1,0 +1,68 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:6
+msgctxt "Wealth_Total.label"
+msgid "wealth (total)"
+msgstr ""
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:15
+msgctxt "Wealth_Items.label"
+msgid "wealth (items)"
+msgstr ""
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:24
+msgctxt "Wealth_Buildings.label"
+msgid "wealth (buildings)"
+msgstr ""
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:33
+msgctxt "Wealth_Pawns.label"
+msgid "wealth (creatures)"
+msgstr ""
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:42
+msgctxt "FreeColonists.label"
+msgid "free colonists"
+msgstr ""
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:51
+msgctxt "Prisoners.label"
+msgid "prisoners"
+msgstr ""
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:60
+msgctxt "ColonistMood.label"
+msgid "mood"
+msgstr ""
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:71
+msgctxt "Adaptation.label"
+msgid "recovery"
+msgstr ""
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:80
+msgctxt "ThreatPoints.label"
+msgid "fun points /10"
+msgstr ""
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:89
+msgctxt "PopAdaptation.label"
+msgid "pop recovery"
+msgstr ""
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:98
+msgctxt "PopIntent.label"
+msgid "pop intent x10"
+msgstr ""

@@ -1,0 +1,215 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:6
+msgctxt "WorkSpeedGlobal.label"
+msgid "global work speed"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:7
+msgctxt "WorkSpeedGlobal.description"
+msgid "A multiplier on a character's speed at doing any kind of work."
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:29
+msgctxt "WorkSpeedGlobal.parts.2.label"
+msgid "Offset from mechanitor"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:50
+msgctxt "MiningSpeed.label"
+msgid "mining speed"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:51
+msgctxt "MiningSpeed.description"
+msgid "A speed at which this person mines away walls."
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:83
+msgctxt "DeepDrillingSpeed.label"
+msgid "deep drilling speed"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:84
+msgctxt "DeepDrillingSpeed.description"
+msgid ""
+"A speed at which this person uses a deep drill to extract underground "
+"resources."
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:116
+msgctxt "MiningYield.label"
+msgid "mining yield"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:117
+msgctxt "MiningYield.description"
+msgid ""
+"The percentage of mined resources a miner will produce.\\n\\nThis applies to"
+" both wall mining and deep drill mining.\\nThis doesn't affect the "
+"production rate of rock chunks from deep drills."
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:168
+msgctxt "SmoothingSpeed.label"
+msgid "smoothing speed"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:169
+msgctxt "SmoothingSpeed.description"
+msgid ""
+"A multiplier on the speed at which this person smooths rough stone floors "
+"and walls."
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:229
+msgctxt "ResearchSpeed.label"
+msgid "research speed"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:230
+msgctxt "ResearchSpeed.description"
+msgid ""
+"How fast this person performs research and how quickly they can find things "
+"using scanning equipment."
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:237
+msgctxt "AnimalGatherSpeed.label"
+msgid "animal gather speed"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:238
+msgctxt "AnimalGatherSpeed.description"
+msgid ""
+"The speed at which this person milks, shears, and otherwise gathers "
+"resources from animals."
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:269
+msgctxt "AnimalGatherYield.label"
+msgid "animal gather yield"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:270
+msgctxt "AnimalGatherYield.description"
+msgid ""
+"The percentage yield someone receives when they shear, milk, or otherwise "
+"gather resources from a living animal.\\n\\nHigher percentages reduce the "
+"chance of wasting the product."
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:319
+msgctxt "PlantWorkSpeed.label"
+msgid "plant work speed"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:320
+msgctxt "PlantWorkSpeed.description"
+msgid "The speed at which this person sows and harvests plants."
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:355
+msgctxt "PlantHarvestYield.label"
+msgid "plant harvest yield"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:356
+msgctxt "PlantHarvestYield.description"
+msgid ""
+"The yield this person gets when harvesting plants.\\n\\nLow yields give a "
+"chance that this person will accidentally waste the harvest."
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:408
+msgctxt "DrugHarvestYield.label"
+msgid "drug crop harvest yield"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:409
+msgctxt "DrugHarvestYield.description"
+msgid ""
+"The yield this person gets when harvesting drug crops.\\n\\nLow yields give "
+"a chance that this person will accidentally waste the harvest. High yields "
+"increase the yield from each plant."
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:425
+msgctxt "HuntingStealth.label"
+msgid "hunting stealth"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:426
+msgctxt "HuntingStealth.description"
+msgid ""
+"This stat reduces the chance of hunted animals attacking the hunter.\\n\\nA "
+"0% score means no reduction.\\nA 100% score means animals never attack."
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:464
+msgctxt "ConstructionSpeed.label"
+msgid "construction speed"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:465
+msgctxt "ConstructionSpeed.description"
+msgid "The speed at which this person constructs and repairs buildings."
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:500
+msgctxt "ConstructSuccessChance.label"
+msgid "construct success chance"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:501
+msgctxt "ConstructSuccessChance.description"
+msgid ""
+"The chance that this person will succeed in constructing "
+"something.\\nFailing means wasting time and resources."
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:552
+msgctxt "FixBrokenDownBuildingSuccessChance.label"
+msgid "repair success chance"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:553
+msgctxt "FixBrokenDownBuildingSuccessChance.description"
+msgid ""
+"The chance that this person will successfully repair a broken down building "
+"using a component.\\n\\nFailing means wasting time and resources.\\nNote "
+"that this only applies to repairing breakdowns, which is different from "
+"repairing damage."
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:603
+msgctxt "CleaningSpeed.label"
+msgid "cleaning speed multiplier"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:604
+msgctxt "CleaningSpeed.description"
+msgid "A multiplier on how fast this cleans up filth from the ground."
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:620
+msgctxt "ReadingSpeed.label"
+msgid "reading speed"
+msgstr ""
+
+#: Defs/Stats/Stats_Pawns_WorkGeneral.xml:621
+msgctxt "ReadingSpeed.description"
+msgid "A multiplier on how fast this person can read."
+msgstr ""

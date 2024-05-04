@@ -1,0 +1,63 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/HairDefs/StyleItemCategoryDefs.xml:8
+msgctxt "Minimal.label"
+msgid "minimal"
+msgstr ""
+
+#: Defs/Misc/HairDefs/StyleItemCategoryDefs.xml:13
+msgctxt "Tribal.label"
+msgid "tribal"
+msgstr ""
+
+#: Defs/Misc/HairDefs/StyleItemCategoryDefs.xml:18
+msgctxt "Cannibal.label"
+msgid "cannibal"
+msgstr ""
+
+#: Defs/Misc/HairDefs/StyleItemCategoryDefs.xml:23
+msgctxt "Punk.label"
+msgid "punk"
+msgstr ""
+
+#: Defs/Misc/HairDefs/StyleItemCategoryDefs.xml:28
+msgctxt "Urban.label"
+msgid "urban"
+msgstr ""
+
+#: Defs/Misc/HairDefs/StyleItemCategoryDefs.xml:33
+msgctxt "Rural.label"
+msgid "rural"
+msgstr ""
+
+#: Defs/Misc/HairDefs/StyleItemCategoryDefs.xml:38
+msgctxt "Royal.label"
+msgid "royal"
+msgstr ""
+
+#: Defs/Misc/HairDefs/StyleItemCategoryDefs.xml:43
+msgctxt "Soldier.label"
+msgid "soldier"
+msgstr ""
+
+#: Defs/Misc/HairDefs/StyleItemCategoryDefs.xml:48
+msgctxt "Moustache.label"
+msgid "moustache"
+msgstr ""
+
+#: Defs/Misc/HairDefs/StyleItemCategoryDefs.xml:53
+msgctxt "Misc.label"
+msgid "misc"
+msgstr ""

@@ -1,0 +1,2421 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compendium:5
+#, fuzzy
+msgctxt "Tutorial"
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#: compendium:6
+#, fuzzy
+msgctxt "NewColony"
+msgid "New colony"
+msgstr "New colony"
+
+#: compendium:7
+#, fuzzy
+msgctxt "BackToGame"
+msgid "Back to game"
+msgstr "Back to game"
+
+#: compendium:8
+#, fuzzy
+msgctxt "ReviewScenario"
+msgid "Review scenario"
+msgstr "Review scenario"
+
+#: compendium:9
+#, fuzzy
+msgctxt "Save"
+msgid "Save"
+msgstr "Save"
+
+#: compendium:10
+#, fuzzy
+msgctxt "LoadGame"
+msgid "Load game"
+msgstr "Load game"
+
+#: compendium:11
+#, fuzzy
+msgctxt "Options"
+msgid "Options"
+msgstr "Options"
+
+#: compendium:12
+#, fuzzy
+msgctxt "Mod"
+msgid "Mod"
+msgstr "Mod"
+
+#: compendium:13
+#, fuzzy
+msgctxt "Mods"
+msgid "Mods"
+msgstr "Mods"
+
+#: compendium:14
+#, fuzzy
+msgctxt "SaveTranslationReport"
+msgid "Save translation report"
+msgstr "Save translation report"
+
+#: compendium:15
+#, fuzzy
+msgctxt "GeneratingTranslationReport"
+msgid "Generating translation report"
+msgstr "Generating translation report"
+
+#: compendium:16
+#, fuzzy
+msgctxt "CleanupTranslationFiles"
+msgid "Cleanup translation files"
+msgstr "Cleanup translation files"
+
+#: compendium:17
+#, fuzzy
+msgctxt "TranslationFilesTKeyUpdate"
+msgid "Update translations files (TKey's)"
+msgstr "Update translations files (TKey's)"
+
+#: compendium:18
+#, fuzzy
+msgctxt "CleaningTranslationFiles"
+msgid "Cleaning translation files"
+msgstr "Cleaning translation files"
+
+#: compendium:19
+#, fuzzy
+msgctxt "DevQuickTest"
+msgid "Dev quicktest"
+msgstr "Dev quicktest"
+
+#: compendium:20
+#, fuzzy
+msgctxt "Credits"
+msgid "Credits"
+msgstr "Credits"
+
+#: compendium:21
+#, fuzzy
+msgctxt "QuitToMainMenu"
+msgid "Quit to main menu"
+msgstr "Quit to main menu"
+
+#: compendium:22
+#, fuzzy
+msgctxt "SaveAndQuitToMainMenu"
+msgid "Save and quit to menu"
+msgstr "Save and quit to menu"
+
+#: compendium:23
+#, fuzzy
+msgctxt "QuitToOS"
+msgid "Quit to OS"
+msgstr "Quit to OS"
+
+#: compendium:24
+#, fuzzy
+msgctxt "SaveAndQuitToOS"
+msgid "Save and quit to OS"
+msgstr "Save and quit to OS"
+
+#: compendium:25
+#, fuzzy
+msgctxt "FictionPrimer"
+msgid "Fiction primer"
+msgstr "Fiction primer"
+
+#: compendium:26
+#, fuzzy
+msgctxt "LudeonBlog"
+msgid "Ludeon blog"
+msgstr "Ludeon blog"
+
+#: compendium:27
+#, fuzzy
+msgctxt "Forums"
+msgid "Forums"
+msgstr "Forums"
+
+#: compendium:28
+#, fuzzy
+msgctxt "OfficialWiki"
+msgid "Official wiki"
+msgstr "Official wiki"
+
+#: compendium:29
+#, fuzzy
+msgctxt "TynansTwitter"
+msgid "Tynan's twitter"
+msgstr "Tynan's twitter"
+
+#: compendium:30
+#, fuzzy
+msgctxt "TynansDesignBook"
+msgid "Tynan's design book"
+msgstr "Tynan's design book"
+
+#: compendium:31
+#, fuzzy
+msgctxt "HelpTranslate"
+msgid "Help translate RimWorld"
+msgstr "Help translate RimWorld"
+
+#: compendium:32
+#, fuzzy
+msgctxt "BuySoundtrack"
+msgid "Buy soundtrack"
+msgstr "Buy soundtrack"
+
+#: compendium:33
+#, fuzzy
+msgctxt "CreateWorld"
+msgid "Create world"
+msgstr "Create world"
+
+#: compendium:36
+#, fuzzy
+msgctxt "TranslationThanks"
+msgid ""
+"All translations of RimWorld are fan-made. This fan-made translation was "
+"created by the following excellent volunteers:\\n\\n{0}"
+msgstr ""
+"All translations of RimWorld are fan-made. This fan-made translation was "
+"created by the following excellent volunteers:\\n\\n{0}"
+
+#: compendium:37
+#, fuzzy
+msgctxt "TranslationHowToContribute"
+msgid "You can contribute too. Click below to learn more (opens web browser)."
+msgstr ""
+"You can contribute too. Click below to learn more (opens web browser)."
+
+#: compendium:38
+#, fuzzy
+msgctxt "LearnMore"
+msgid "Learn more"
+msgstr "Learn more"
+
+#: compendium:41
+#, fuzzy
+msgctxt "DevBuildWarning"
+msgid ""
+"Warning: This is an unstable development build. This means we are running "
+"design experiments and doing technical development.\\n\\nSome things will be"
+" temporarily unbalanced on purpose. This is a classic game design method "
+"where we deliberately go too far with a balance change in order to better "
+"understand balance boundaries. We can then use that information to decide on"
+" the final balance points.\\n\\nThere will also be bugs, including game-"
+"breaking ones. Save compatibility may break any time.\\n\\nIf you're okay "
+"with all of this, thanks for testing! If you don't want to be subject to our"
+" experiments, please play the latest stable version."
+msgstr ""
+"Warning: This is an unstable development build. This means we are running "
+"design experiments and doing technical development.\\n\\nSome things will be"
+" temporarily unbalanced on purpose. This is a classic game design method "
+"where we deliberately go too far with a balance change in order to better "
+"understand balance boundaries. We can then use that information to decide on"
+" the final balance points.\\n\\nThere will also be bugs, including game-"
+"breaking ones. Save compatibility may break any time.\\n\\nIf you're okay "
+"with all of this, thanks for testing! If you don't want to be subject to our"
+" experiments, please play the latest stable version."
+
+#: compendium:44
+#, fuzzy
+msgctxt "ReviewWorld"
+msgid "Review world"
+msgstr "Review world"
+
+#: compendium:45
+#, fuzzy
+msgctxt "WorldGenerate"
+msgid "Generate"
+msgstr "Generate"
+
+#: compendium:46
+#, fuzzy
+msgctxt "WorldSaveAndFinish"
+msgid "Save and finish"
+msgstr "Save and finish"
+
+#: compendium:47
+#, fuzzy
+msgctxt "ResetFactions"
+msgid "Reset factions"
+msgstr "Reset factions"
+
+#: compendium:48
+#, fuzzy
+msgctxt "PlanetCoverage"
+msgid "Globe coverage"
+msgstr "Globe coverage"
+
+#: compendium:49
+#, fuzzy
+msgctxt "PlanetRainfall"
+msgid "Overall rainfall"
+msgstr "Overall rainfall"
+
+#: compendium:50
+#, fuzzy
+msgctxt "PlanetTemperature"
+msgid "Overall temperature"
+msgstr "Overall temperature"
+
+#: compendium:51
+#, fuzzy
+msgctxt "PlanetPopulation"
+msgid "Population"
+msgstr "Population"
+
+#: compendium:52
+#, fuzzy
+msgctxt "PlanetRainfall_Low"
+msgid "Low"
+msgstr "Low"
+
+#: compendium:53
+#, fuzzy
+msgctxt "PlanetRainfall_Normal"
+msgid "Normal"
+msgstr "Normal"
+
+#: compendium:54
+#, fuzzy
+msgctxt "PlanetRainfall_High"
+msgid "High"
+msgstr "High"
+
+#: compendium:55
+#, fuzzy
+msgctxt "PlanetTemperature_Low"
+msgid "Low"
+msgstr "Low"
+
+#: compendium:56
+#, fuzzy
+msgctxt "PlanetTemperature_Normal"
+msgid "Normal"
+msgstr "Normal"
+
+#: compendium:57
+#, fuzzy
+msgctxt "PlanetTemperature_High"
+msgid "High"
+msgstr "High"
+
+#: compendium:58
+#, fuzzy
+msgctxt "PlanetPopulation_Low"
+msgid "Sparse"
+msgstr "Sparse"
+
+#: compendium:59
+#, fuzzy
+msgctxt "PlanetPopulation_Normal"
+msgid "Normal"
+msgstr "Normal"
+
+#: compendium:60
+#, fuzzy
+msgctxt "PlanetPopulation_High"
+msgid "Crowded"
+msgstr "Crowded"
+
+#: compendium:61
+#, fuzzy
+msgctxt "WorldSeed"
+msgid "Seed"
+msgstr "Seed"
+
+#: compendium:62
+#, fuzzy
+msgctxt "RandomizeSeed"
+msgid "Randomize seed"
+msgstr "Randomize seed"
+
+#: compendium:63
+#, fuzzy
+msgctxt "PlanetCoverageTip"
+msgid ""
+"The planet is always the same diameter, but since it's far larger than "
+"needed for play, we don't generate the whole surface because it can take a "
+"very long time. This is the percentage of the surface that you want "
+"generated."
+msgstr ""
+"The planet is always the same diameter, but since it's far larger than "
+"needed for play, we don't generate the whole surface because it can take a "
+"very long time. This is the percentage of the surface that you want "
+"generated."
+
+#: compendium:64
+#, fuzzy
+msgctxt "WorldFactionsTab"
+msgid "Factions"
+msgstr "Factions"
+
+#: compendium:67
+#, fuzzy
+msgctxt "SelectWorld"
+msgid "Select world"
+msgstr "Select world"
+
+#: compendium:68
+#, fuzzy
+msgctxt "WorldChooseButton"
+msgid "Select"
+msgstr "Select"
+
+#: compendium:69
+#, fuzzy
+msgctxt "NoWorldsFilesFound"
+msgid "No world files found. Create a world first."
+msgstr "No world files found. Create a world first."
+
+#: compendium:72
+#, fuzzy
+msgctxt "BuildNowAvailable"
+msgid "Version {0} is now available. Check ludeon.com for more info."
+msgstr "Version {0} is now available. Check ludeon.com for more info."
+
+#: compendium:73
+#, fuzzy
+msgctxt "BuildUpToDate"
+msgid "This is the latest version."
+msgstr "This is the latest version."
+
+#: compendium:74
+#, fuzzy
+msgctxt "ErrorGettingVersionInfo"
+msgid "Error getting version info: {0}"
+msgstr "Error getting version info: {0}"
+
+#: compendium:75
+#, fuzzy
+msgctxt "LoadingVersionInfo"
+msgid "Loading version info..."
+msgstr "Loading version info..."
+
+#: compendium:78
+#, fuzzy
+msgctxt "GenerateWorld"
+msgid "Generate world"
+msgstr "Generate world"
+
+#: compendium:81
+#, fuzzy
+msgctxt "OpenSteamWorkshop"
+msgid "Open Steam Workshop"
+msgstr "Open Steam Workshop"
+
+#: compendium:82
+#, fuzzy
+msgctxt "GetModsFromForum"
+msgid "Get mods from forum"
+msgstr "Get mods from forum"
+
+#: compendium:83
+#, fuzzy
+msgctxt "OpenModsDataFolder"
+msgid "Open mods data folder"
+msgstr "Open mods data folder"
+
+#: compendium:84
+#, fuzzy
+msgctxt "ShowModsDataLocation"
+msgid "Show mods data location"
+msgstr "Show mods data location"
+
+#: compendium:85
+#, fuzzy
+msgctxt "ConfirmDisableCoreMod"
+msgid ""
+"Are you sure you want to disable the core mod? The game won't work at all "
+"unless you have another mod that replaces all the core "
+"functionality.\\n\\nRemember, other mods can override defs in the core mod "
+"by using the same defName."
+msgstr ""
+"Are you sure you want to disable the core mod? The game won't work at all "
+"unless you have another mod that replaces all the core "
+"functionality.\\n\\nRemember, other mods can override defs in the core mod "
+"by using the same defName."
+
+#: compendium:86
+#, fuzzy
+msgctxt "ConfirmDeleteMod"
+msgid "Are you sure you want to delete all the content for {0}?"
+msgstr "Are you sure you want to delete all the content for {0}?"
+
+#: compendium:87
+#, fuzzy
+msgctxt "ResolveModOrder"
+msgid "Auto-sort mods"
+msgstr "Auto-sort mods"
+
+#: compendium:88
+#, fuzzy
+msgctxt "SaveModChanges"
+msgid "Save and apply changes"
+msgstr "Save and apply changes"
+
+#: compendium:89
+#, fuzzy
+msgctxt "DiscardModChanges"
+msgid "Mod changes have not been saved. Are you sure you want to continue?"
+msgstr "Mod changes have not been saved. Are you sure you want to continue?"
+
+#: compendium:90
+#, fuzzy
+msgctxt "ModReorderConflict_MustLoadAfter"
+msgid "Cannot move {0}: It must be loaded after {1}."
+msgstr "Cannot move {0}: It must be loaded after {1}."
+
+#: compendium:91
+#, fuzzy
+msgctxt "ModReorderConflict_MustLoadBefore"
+msgid "Cannot move {0}: It must be loaded before {1}."
+msgstr "Cannot move {0}: It must be loaded before {1}."
+
+#: compendium:92
+#, fuzzy
+msgctxt "Unsubscribe"
+msgid "Unsubscribe"
+msgstr "Unsubscribe"
+
+#: compendium:93
+#, fuzzy
+msgctxt "ConfirmUnsubscribe"
+msgid "Are you sure you want to unsubscribe?"
+msgstr "Are you sure you want to unsubscribe?"
+
+#: compendium:94
+#, fuzzy
+msgctxt "ConfirmUnsubscribeFrom"
+msgid "Are you sure you want to unsubscribe from {0}?"
+msgstr "Are you sure you want to unsubscribe from {0}?"
+
+#: compendium:95
+#, fuzzy
+msgctxt "ConfirmUnsubscribeFromMultiple"
+msgid "Are you sure you want to unsubscribe from:\\n\\n{0}"
+msgstr "Are you sure you want to unsubscribe from:\\n\\n{0}"
+
+#: compendium:96
+#, fuzzy
+msgctxt "Author"
+msgid "Author"
+msgstr "Author"
+
+#: compendium:97
+#, fuzzy
+msgctxt "Enabled"
+msgid "Enabled"
+msgstr "Enabled"
+
+#: compendium:98
+#, fuzzy
+msgctxt "Disabled"
+msgid "Disabled"
+msgstr "Disabled"
+
+#: compendium:99
+#, fuzzy
+msgctxt "Enable"
+msgid "Enable"
+msgstr "Enable"
+
+#: compendium:100
+#, fuzzy
+msgctxt "Disable"
+msgid "Disable"
+msgstr "Disable"
+
+#: compendium:101
+#, fuzzy
+msgctxt "GetMods"
+msgid "Get mods from..."
+msgstr "Get mods from..."
+
+#: compendium:102
+#, fuzzy
+msgctxt "UnsubscribeMultiple"
+msgid "Unsubscribe from..."
+msgstr "Unsubscribe from..."
+
+#: compendium:103
+#, fuzzy
+msgctxt "SaveLoadList"
+msgid "Save / load list..."
+msgstr "Save / load list..."
+
+#: compendium:104
+#, fuzzy
+msgctxt "SaveModList"
+msgid "Save mod list"
+msgstr "Save mod list"
+
+#: compendium:105
+#, fuzzy
+msgctxt "LoadModList"
+msgid "Load mod list"
+msgstr "Load mod list"
+
+#: compendium:106
+#, fuzzy
+msgctxt "AddedModsList"
+msgid "Added mods"
+msgstr "Added mods"
+
+#: compendium:107
+#, fuzzy
+msgctxt "MissingModsList"
+msgid "Missing mods"
+msgstr "Missing mods"
+
+#: compendium:108
+#, fuzzy
+msgctxt "SharedModsList"
+msgid "Shared mods"
+msgstr "Shared mods"
+
+#: compendium:109
+#, fuzzy
+msgctxt "ModWebsite"
+msgid "Website"
+msgstr "Website"
+
+#: compendium:110
+#, fuzzy
+msgctxt "ModFolder"
+msgid "Open folder"
+msgstr "Open folder"
+
+#: compendium:111
+#, fuzzy
+msgctxt "ModOptions"
+msgid "Mod options"
+msgstr "Mod options"
+
+#: compendium:112
+#, fuzzy
+msgctxt "FromWorkshop"
+msgid "Workshop"
+msgstr "Workshop"
+
+#: compendium:113
+#, fuzzy
+msgctxt "FromForum"
+msgid "Forum"
+msgstr "Forum"
+
+#: compendium:114
+#, fuzzy
+msgctxt "MoreActions"
+msgid "Advanced..."
+msgstr "Advanced..."
+
+#: compendium:115
+#, fuzzy
+msgctxt "AllSelectedMods"
+msgid "All selected mods"
+msgstr "All selected mods"
+
+#: compendium:116
+#, fuzzy
+msgctxt "AllDisabledMods"
+msgid "All disabled mods"
+msgstr "All disabled mods"
+
+#: compendium:117
+#, fuzzy
+msgctxt "AllIncompatibleMods"
+msgid "All incompatible mods"
+msgstr "All incompatible mods"
+
+#: compendium:118
+#, fuzzy
+msgctxt "WorkshopPage"
+msgid "Workshop page"
+msgstr "Workshop page"
+
+#: compendium:119
+#, fuzzy
+msgctxt "UploadToSteamWorkshop"
+msgid "Upload to Steam Workshop"
+msgstr "Upload to Steam Workshop"
+
+#: compendium:120
+#, fuzzy
+msgctxt "UpdateOnSteamWorkshop"
+msgid "Update on Steam Workshop"
+msgstr "Update on Steam Workshop"
+
+#: compendium:121
+#, fuzzy
+msgctxt "UploadAlreadyInProgress"
+msgid "Upload already in progress."
+msgstr "Upload already in progress."
+
+#: compendium:122
+#, fuzzy
+msgctxt "WorkshopSubmissionFailed"
+msgid "Workshop submission failed.\\n\\nReason: {0}"
+msgstr "Workshop submission failed.\\n\\nReason: {0}"
+
+#: compendium:123
+#, fuzzy
+msgctxt "WorkshopUploadSucceeded"
+msgid "Successfully uploaded {0}."
+msgstr "Successfully uploaded {0}."
+
+#: compendium:124
+#, fuzzy
+msgctxt "Downloading"
+msgid "Downloading"
+msgstr "Downloading"
+
+#: compendium:125
+#, fuzzy
+msgctxt "WorkshopId"
+msgid "Workshop ID"
+msgstr "Workshop ID"
+
+#: compendium:126
+#, fuzzy
+msgctxt "ModDisplayFulfilledRequirements"
+msgid "Display fulfilled requirements"
+msgstr "Display fulfilled requirements"
+
+#: compendium:127
+#, fuzzy
+msgctxt "ModClickToSelect"
+msgid "Click to select."
+msgstr "Click to select."
+
+#: compendium:128
+#, fuzzy
+msgctxt "ModClickToGoToWebsite"
+msgid "Click to go to website."
+msgstr "Click to go to website."
+
+#: compendium:129
+#, fuzzy
+msgctxt "Source"
+msgid "Source"
+msgstr "Source"
+
+#: compendium:130
+#, fuzzy
+msgctxt "ModTargetVersion"
+msgid "Game versions"
+msgstr "Game versions"
+
+#: compendium:131
+#, fuzzy
+msgctxt "ModVersion"
+msgid "Mod version"
+msgstr "Mod version"
+
+#: compendium:132
+#, fuzzy
+msgctxt "ModPackageId"
+msgid "ID"
+msgstr "ID"
+
+#: compendium:133
+#, fuzzy
+msgctxt "ModMustLoadBefore"
+msgid "This must be loaded before: {0}."
+msgstr "This must be loaded before: {0}."
+
+#: compendium:134
+#, fuzzy
+msgctxt "ModMustLoadAfter"
+msgid "This must be loaded after: {0}."
+msgstr "This must be loaded after: {0}."
+
+#: compendium:135
+#, fuzzy
+msgctxt "ModDependsOn"
+msgid "Depends on: {0}"
+msgstr "Depends on: {0}"
+
+#: compendium:136
+#, fuzzy
+msgctxt "ModIncompatibleWith"
+msgid "Incompatible with: {0}"
+msgstr "Incompatible with: {0}"
+
+#: compendium:137
+#, fuzzy
+msgctxt "ModIncompatibleWithTip"
+msgid "This mod is incompatible with: {0}."
+msgstr "This mod is incompatible with: {0}."
+
+#: compendium:138
+#, fuzzy
+msgctxt "ModOrderingWarning"
+msgid ""
+"This mod is loading in the wrong order relative to another mod. Use the "
+"'auto-sort' button, or re-order the mods manually."
+msgstr ""
+"This mod is loading in the wrong order relative to another mod. Use the "
+"'auto-sort' button, or re-order the mods manually."
+
+#: compendium:139
+#, fuzzy
+msgctxt "ModWithSameIdAlreadyActive"
+msgid "Another active mod uses the same ID: {0}."
+msgstr "Another active mod uses the same ID: {0}."
+
+#: compendium:140
+#, fuzzy
+msgctxt "ModCyclicDependency"
+msgid "There is a cyclic mod dependency starting with {0}."
+msgstr "There is a cyclic mod dependency starting with {0}."
+
+#: compendium:141
+#, fuzzy
+msgctxt "ModUnsatisfiedDependency"
+msgid "This requires the following mods to work: {0}."
+msgstr "This requires the following mods to work: {0}."
+
+#: compendium:142
+#, fuzzy
+msgctxt "ModNotMadeForThisVersion"
+msgid ""
+"This mod was not made for this version of RimWorld, and will probably not "
+"work correctly."
+msgstr ""
+"This mod was not made for this version of RimWorld, and will probably not "
+"work correctly."
+
+#: compendium:143
+#, fuzzy
+msgctxt "ModNotMadeForThisVersionShort"
+msgid "This mod is not made for this version of RimWorld."
+msgstr "This mod is not made for this version of RimWorld."
+
+#: compendium:144
+#, fuzzy
+msgctxt "ModNotMadeForThisVersion_Newer"
+msgid ""
+"This mod was made for a newer version of RimWorld than this, and will "
+"probably not work correctly."
+msgstr ""
+"This mod was made for a newer version of RimWorld than this, and will "
+"probably not work correctly."
+
+#: compendium:145
+#, fuzzy
+msgctxt "MessageModNeedsWellFormattedTargetVersion"
+msgid ""
+"Mod needs properly formatted supported version information in About.xml. "
+"Like this: <supportedVersions><li>{0}</li></supportedVersions> - "
+"<targetVersion> is deprecated. Check log for further information."
+msgstr ""
+"Mod needs properly formatted supported version information in About.xml. "
+"Like this: <supportedVersions><li>{0}</li></supportedVersions> - "
+"<targetVersion> is deprecated. Check log for further information."
+
+#: compendium:146
+#, fuzzy
+msgctxt "MessageModNeedsWellFormattedPackageId"
+msgid ""
+"Mod needs a unique, properly formatted packageId in About.xml. It must must "
+"meet following requirements:\\n\\n  - Alphanumeric characters and dot "
+"only.\\n  - No spaces.\\n  - At least one dot.\\n  - No repeated dots in a "
+"row, or starting or ending with a dot.\\n  - 60 characters or less.\\n  - "
+"Cannot contain word \"Ludeon\".\\n\\nFor "
+"example:\\n<packageId>AuthorName.ModName</packageId>\\n<packageId>AuthorName.ModName.Specific</packageId>"
+msgstr ""
+"Mod needs a unique, properly formatted packageId in About.xml. It must must "
+"meet following requirements:\\n\\n  - Alphanumeric characters and dot "
+"only.\\n  - No spaces.\\n  - At least one dot.\\n  - No repeated dots in a "
+"row, or starting or ending with a dot.\\n  - 60 characters or less.\\n  - "
+"Cannot contain word \"Ludeon\".\\n\\nFor "
+"example:\\n<packageId>AuthorName.ModName</packageId>\\n<packageId>AuthorName.ModName.Specific</packageId>"
+
+#: compendium:147
+#, fuzzy
+msgctxt "ModHadLoadFolderIssues"
+msgid ""
+"This mod has issues in LoadFolders.xml, that you need to resolve before "
+"uploading:"
+msgstr ""
+"This mod has issues in LoadFolders.xml, that you need to resolve before "
+"uploading:"
+
+#: compendium:148
+#, fuzzy
+msgctxt "ModLoadFolderDoesntExist"
+msgid "Folder {0} specified for version {1} doesn't exist."
+msgstr "Folder {0} specified for version {1} doesn't exist."
+
+#: compendium:149
+#, fuzzy
+msgctxt "ModLoadFolderMalformedVersion"
+msgid ""
+"Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1)"
+msgstr ""
+"Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1)"
+
+#: compendium:150
+#, fuzzy
+msgctxt "ModLoadFolderListEmpty"
+msgid "The list of load folders for version {0} is empty."
+msgstr "The list of load folders for version {0} is empty."
+
+#: compendium:151
+#, fuzzy
+msgctxt "ModLoadFolderRepeatingFolder"
+msgid "Version {0} lists the same folder more than once: {1}."
+msgstr "Version {0} lists the same folder more than once: {1}."
+
+#: compendium:152
+#, fuzzy
+msgctxt "ModLoadFolderOutOfOrder"
+msgid "Invalid version order: {0} should come before {1}."
+msgstr "Invalid version order: {0} should come before {1}."
+
+#: compendium:153
+#, fuzzy
+msgctxt "ModLoadFolderOutOfOrderDefault"
+msgid "Invalid version order: 'default' should be defined first."
+msgstr "Invalid version order: 'default' should be defined first."
+
+#: compendium:154
+#, fuzzy
+msgctxt "ModLoadFolderDefaultDeprecated"
+msgid ""
+"Using 'default' in load folders is deprecated. Please define folders for "
+"each version using the <v...> tags."
+msgstr ""
+"Using 'default' in load folders is deprecated. Please define folders for "
+"each version using the <v...> tags."
+
+#: compendium:155
+#, fuzzy
+msgctxt "ModLoadFolderDefinesUnsupportedGameVersion"
+msgid ""
+"Version {0} is defined in load folders, but is not listed in "
+"'supportedVersions' of mod's About.xml."
+msgstr ""
+"Version {0} is defined in load folders, but is not listed in "
+"'supportedVersions' of mod's About.xml."
+
+#: compendium:156
+#, fuzzy
+msgctxt "DragToReorder"
+msgid "Drag to reorder"
+msgstr "Drag to reorder"
+
+#: compendium:159
+#, fuzzy
+msgctxt "ChooseScenario"
+msgid "Choose scenario"
+msgstr "Choose scenario"
+
+#: compendium:160
+#, fuzzy
+msgctxt "ScenariosCustom"
+msgid "Custom"
+msgstr "Custom"
+
+#: compendium:161
+#, fuzzy
+msgctxt "ScenariosSteamWorkshop"
+msgid "Steam Workshop"
+msgstr "Steam Workshop"
+
+#: compendium:162
+#, fuzzy
+msgctxt "ScenarioEditor"
+msgid "Scenario editor"
+msgstr "Scenario editor"
+
+#: compendium:163
+#, fuzzy
+msgctxt "Delete"
+msgid "Delete"
+msgstr "Delete"
+
+#: compendium:166
+#, fuzzy
+msgctxt "Seed"
+msgid "seed"
+msgstr "seed"
+
+#: compendium:167
+#, fuzzy
+msgctxt "Load"
+msgid "Load"
+msgstr "Load"
+
+#: compendium:168
+#, fuzzy
+msgctxt "EditMode"
+msgid "edit mode"
+msgstr "edit mode"
+
+#: compendium:169
+#, fuzzy
+msgctxt "Summary"
+msgid "Summary"
+msgstr "Summary"
+
+#: compendium:170
+#, fuzzy
+msgctxt "AddPart"
+msgid "Add part"
+msgstr "Add part"
+
+#: compendium:171
+#, fuzzy
+msgctxt "TextFieldsMustBeFilled"
+msgid "All text fields must be filled."
+msgstr "All text fields must be filled."
+
+#: compendium:172
+#, fuzzy
+msgctxt "ConfirmSteamWorkshopUpload"
+msgid ""
+"Are you sure you want to upload this to the Steam Workshop?\\n\\nYou must "
+"agree to the Steam Workshop terms of service. Find the full terms "
+"here:\\n\\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement"
+msgstr ""
+"Are you sure you want to upload this to the Steam Workshop?\\n\\nYou must "
+"agree to the Steam Workshop terms of service. Find the full terms "
+"here:\\n\\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement"
+
+#: compendium:173
+#, fuzzy
+msgctxt "ConfirmContentAuthor"
+msgid ""
+"Obviously you should only upload content that you created yourself.\\n\\nDid"
+" you create this content yourself?"
+msgstr ""
+"Obviously you should only upload content that you created yourself.\\n\\nDid"
+" you create this content yourself?"
+
+#: compendium:174
+#, fuzzy
+msgctxt "Incompatible"
+msgid "Incompatible"
+msgstr "Incompatible"
+
+#: compendium:175
+#, fuzzy
+msgctxt "TagAsTranslation"
+msgid "Tag as translation"
+msgstr "Tag as translation"
+
+#: compendium:176
+#, fuzzy
+msgctxt "TooMany"
+msgid "Too many (max {0}): "
+msgstr "Too many (max {0}): "
+
+#: compendium:177
+#, fuzzy
+msgctxt "CanBeUpdatedOnWorkshop"
+msgid "Can be updated on Workshop, since you are the author."
+msgstr "Can be updated on Workshop, since you are the author."
+
+#: compendium:178
+#, fuzzy
+msgctxt "ScenarioChangedSavePrompt"
+msgid ""
+"This scenario has been edited.\\n\\nDo you want to save it before "
+"proceeding?"
+msgstr ""
+"This scenario has been edited.\\n\\nDo you want to save it before "
+"proceeding?"
+
+#: compendium:181
+#, fuzzy
+msgctxt "ChooseAIStoryteller"
+msgid "Choose AI Storyteller"
+msgstr "Choose AI Storyteller"
+
+#: compendium:182
+#, fuzzy
+msgctxt "HowStorytellersWork"
+msgid ""
+"The AI Storyteller creates events like pirate raids, resource drops, or "
+"animal attacks. Their choices will affect the story of your colony. You can "
+"change these settings at any time."
+msgstr ""
+"The AI Storyteller creates events like pirate raids, resource drops, or "
+"animal attacks. Their choices will affect the story of your colony. You can "
+"change these settings at any time."
+
+#: compendium:183
+#, fuzzy
+msgctxt "MustChooseDifficulty"
+msgid "Please choose a difficulty setting."
+msgstr "Please choose a difficulty setting."
+
+#: compendium:184
+#, fuzzy
+msgctxt "Difficulty"
+msgid "Difficulty"
+msgstr "Difficulty"
+
+#: compendium:185
+#, fuzzy
+msgctxt "CommitmentMode"
+msgid "Commitment mode"
+msgstr "Commitment mode"
+
+#: compendium:186
+#, fuzzy
+msgctxt "ReloadAnytimeMode"
+msgid "Reload anytime mode"
+msgstr "Reload anytime mode"
+
+#: compendium:187
+#, fuzzy
+msgctxt "MustChoosePermadeath"
+msgid "Please choose commitment mode or reload anytime mode."
+msgstr "Please choose commitment mode or reload anytime mode."
+
+#: compendium:188
+#, fuzzy
+msgctxt "ReloadAnytimeModeInfo"
+msgid ""
+"You can save and load the game at any time.\\n\\nThis is a good choice if "
+"you're still learning the game, if it fits your personal playstyle, if "
+"you're using mods that may break your game, or if you intend to self-enforce"
+" commitment mode."
+msgstr ""
+"You can save and load the game at any time.\\n\\nThis is a good choice if "
+"you're still learning the game, if it fits your personal playstyle, if "
+"you're using mods that may break your game, or if you intend to self-enforce"
+" commitment mode."
+
+#: compendium:189
+#, fuzzy
+msgctxt "PermadeathModeInfo"
+msgid ""
+"You can only save when quitting the game.\\n\\nSince RimWorld is a story "
+"generator, even losing all but one person is not the end of the game - it's "
+"part of the story. The game is designed to allow recovery after "
+"losses.\\n\\nPlaying out these terrible situations makes a story with both "
+"tragedy and triumph. It's the way RimWorld was designed to be "
+"played.\\n\\nThere's a reason Luke Skywalker didn't quit and reload when his"
+" family got killed - loss and recovery is dramatic."
+msgstr ""
+"You can only save when quitting the game.\\n\\nSince RimWorld is a story "
+"generator, even losing all but one person is not the end of the game - it's "
+"part of the story. The game is designed to allow recovery after "
+"losses.\\n\\nPlaying out these terrible situations makes a story with both "
+"tragedy and triumph. It's the way RimWorld was designed to be "
+"played.\\n\\nThere's a reason Luke Skywalker didn't quit and reload when his"
+" family got killed - loss and recovery is dramatic."
+
+#: compendium:190
+#, fuzzy
+msgctxt "CanChangeStorytellerSettingsDuringPlay"
+msgid "Storyteller and playstyle can be changed any time."
+msgstr "Storyteller and playstyle can be changed any time."
+
+#: compendium:193
+#, fuzzy
+msgctxt "DifficultyCustomSectionLabel"
+msgid "Custom playstyle settings"
+msgstr "Custom playstyle settings"
+
+#: compendium:194
+#, fuzzy
+msgctxt "DifficultyReset"
+msgid "Set to standard playstyle..."
+msgstr "Set to standard playstyle..."
+
+#: compendium:196
+#, fuzzy
+msgctxt "DifficultyThreatSection"
+msgid "Threats"
+msgstr "Threats"
+
+#: compendium:197
+#, fuzzy
+msgctxt "Difficulty_ThreatScale_Label"
+msgid "Threat scale"
+msgstr "Threat scale"
+
+#: compendium:198
+#, fuzzy
+msgctxt "Difficulty_ThreatScale_Info"
+msgid ""
+"Adjust the size of threats like raids and infestations, and the difficulty "
+"of quests."
+msgstr ""
+"Adjust the size of threats like raids and infestations, and the difficulty "
+"of quests."
+
+#: compendium:199
+#, fuzzy
+msgctxt "Difficulty_AllowBigThreats_Label"
+msgid "Major threats"
+msgstr "Major threats"
+
+#: compendium:200
+#, fuzzy
+msgctxt "Difficulty_AllowBigThreats_Info"
+msgid ""
+"Allow major threats such as raids, infestations, manhunter packs, crashed "
+"mechanoid ships and more."
+msgstr ""
+"Allow major threats such as raids, infestations, manhunter packs, crashed "
+"mechanoid ships and more."
+
+#: compendium:201
+#, fuzzy
+msgctxt "Difficulty_AllowViolentQuests_Label"
+msgid "Quest threats"
+msgstr "Quest threats"
+
+#: compendium:202
+#, fuzzy
+msgctxt "Difficulty_AllowViolentQuests_Info"
+msgid ""
+"Allow quests to present with violent threats and challenges. If this is "
+"disabled, quests will be modified to be non-violent."
+msgstr ""
+"Allow quests to present with violent threats and challenges. If this is "
+"disabled, quests will be modified to be non-violent."
+
+#: compendium:203
+#, fuzzy
+msgctxt "Difficulty_AllowIntroThreats_Label"
+msgid "Intro threats"
+msgstr "Intro threats"
+
+#: compendium:204
+#, fuzzy
+msgctxt "Difficulty_AllowIntroThreats_Info"
+msgid "Enable the fixed intro threats that appear near game start."
+msgstr "Enable the fixed intro threats that appear near game start."
+
+#: compendium:205
+#, fuzzy
+msgctxt "Difficulty_PredatorsHuntHumanlikes_Label"
+msgid "Predators hunt humans"
+msgstr "Predators hunt humans"
+
+#: compendium:206
+#, fuzzy
+msgctxt "Difficulty_PredatorsHuntHumanlikes_Info"
+msgid "Allow wild predators to hunt humans."
+msgstr "Allow wild predators to hunt humans."
+
+#: compendium:207
+#, fuzzy
+msgctxt "Difficulty_AllowExtremeWeatherIncidents_Label"
+msgid "Extreme weather"
+msgstr "Extreme weather"
+
+#: compendium:208
+#, fuzzy
+msgctxt "Difficulty_AllowExtremeWeatherIncidents_Info"
+msgid ""
+"Allow extreme weather incidents such as toxic fallout, volcanic winters and "
+"flashstorms."
+msgstr ""
+"Allow extreme weather incidents such as toxic fallout, volcanic winters and "
+"flashstorms."
+
+#: compendium:210
+#, fuzzy
+msgctxt "DifficultyEconomySection"
+msgid "Economy"
+msgstr "Economy"
+
+#: compendium:211
+#, fuzzy
+msgctxt "Difficulty_TradePriceFactorLoss_Label"
+msgid "Trade price disadvantage"
+msgstr "Trade price disadvantage"
+
+#: compendium:212
+#, fuzzy
+msgctxt "Difficulty_TradePriceFactorLoss_Info"
+msgid ""
+"When trading, buy prices are increased by this amount while sell prices are "
+"reduced by this amount."
+msgstr ""
+"When trading, buy prices are increased by this amount while sell prices are "
+"reduced by this amount."
+
+#: compendium:213
+#, fuzzy
+msgctxt "Difficulty_CropYieldFactor_Label"
+msgid "Harvest yield"
+msgstr "Harvest yield"
+
+#: compendium:214
+#, fuzzy
+msgctxt "Difficulty_CropYieldFactor_Info"
+msgid ""
+"Adjust the amount of materials produced when harvesting plants and crops. "
+"This includes harvesting plants and cutting trees."
+msgstr ""
+"Adjust the amount of materials produced when harvesting plants and crops. "
+"This includes harvesting plants and cutting trees."
+
+#: compendium:215
+#, fuzzy
+msgctxt "Difficulty_MineYieldFactor_Label"
+msgid "Mining yield"
+msgstr "Mining yield"
+
+#: compendium:216
+#, fuzzy
+msgctxt "Difficulty_MineYieldFactor_Info"
+msgid "Adjust the amount of materials produced when mining."
+msgstr "Adjust the amount of materials produced when mining."
+
+#: compendium:217
+#, fuzzy
+msgctxt "Difficulty_ButcherYieldFactor_Label"
+msgid "Butchering yield"
+msgstr "Butchering yield"
+
+#: compendium:218
+#, fuzzy
+msgctxt "Difficulty_ButcherYieldFactor_Info"
+msgid ""
+"Adjust the amount of materials produced when butchering. This includes meat,"
+" leather, and yield from shredding mechanoids."
+msgstr ""
+"Adjust the amount of materials produced when butchering. This includes meat,"
+" leather, and yield from shredding mechanoids."
+
+#: compendium:219
+#, fuzzy
+msgctxt "Difficulty_ResearchSpeedFactor_Label"
+msgid "Research speed"
+msgstr "Research speed"
+
+#: compendium:220
+#, fuzzy
+msgctxt "Difficulty_ResearchSpeedFactor_Info"
+msgid "Adjust the speed of research."
+msgstr "Adjust the speed of research."
+
+#: compendium:221
+#, fuzzy
+msgctxt "Difficulty_QuestRewardValueFactor_Label"
+msgid "Quest rewards"
+msgstr "Quest rewards"
+
+#: compendium:222
+#, fuzzy
+msgctxt "Difficulty_QuestRewardValueFactor_Info"
+msgid ""
+"Adjust the value of rewards given for quests.\\n\\nNote: Quest reward value "
+"is also automatically scaled to compensate for threat scale. If you adjust "
+"this setting, you'll be adding an additional multiplier."
+msgstr ""
+"Adjust the value of rewards given for quests.\\n\\nNote: Quest reward value "
+"is also automatically scaled to compensate for threat scale. If you adjust "
+"this setting, you'll be adding an additional multiplier."
+
+#: compendium:223
+#, fuzzy
+msgctxt "Difficulty_RaidLootPointsFactor_Label"
+msgid "Raid loot"
+msgstr "Raid loot"
+
+#: compendium:224
+#, fuzzy
+msgctxt "Difficulty_RaidLootPointsFactor_Info"
+msgid ""
+"Adjust the value of loot carried by raiders.\\n\\nNote: Raid loot value is "
+"also automatically scaled to compensate for threat scale. If you adjust this"
+" setting, you'll be adding an additional multiplier."
+msgstr ""
+"Adjust the value of loot carried by raiders.\\n\\nNote: Raid loot value is "
+"also automatically scaled to compensate for threat scale. If you adjust this"
+" setting, you'll be adding an additional multiplier."
+
+#: compendium:225
+#, fuzzy
+msgctxt "Difficulty_MaintenanceCostFactor_Label"
+msgid "Turret rearm cost"
+msgstr "Turret rearm cost"
+
+#: compendium:226
+#, fuzzy
+msgctxt "Difficulty_MaintenanceCostFactor_Info"
+msgid "Adjust the cost of rearming turrets."
+msgstr "Adjust the cost of rearming turrets."
+
+#: compendium:227
+#, fuzzy
+msgctxt "Difficulty_ScariaRotChance_Label"
+msgid "Scaria rot chance"
+msgstr "Scaria rot chance"
+
+#: compendium:228
+#, fuzzy
+msgctxt "Difficulty_ScariaRotChance_Info"
+msgid ""
+"The probability that a corpse will immediately rot upon death, if the "
+"creature has the scaria disease.\\n\\nNote: The default settings are "
+"designed to exactly balance out the increase in animal count at higher "
+"difficulties, so all players get the same meat rewards."
+msgstr ""
+"The probability that a corpse will immediately rot upon death, if the "
+"creature has the scaria disease.\\n\\nNote: The default settings are "
+"designed to exactly balance out the increase in animal count at higher "
+"difficulties, so all players get the same meat rewards."
+
+#: compendium:229
+#, fuzzy
+msgctxt "Difficulty_EnemyDeathOnDownedChanceFactor_Label"
+msgid "Enemy death on downed"
+msgstr "Enemy death on downed"
+
+#: compendium:230
+#, fuzzy
+msgctxt "Difficulty_EnemyDeathOnDownedChanceFactor_Info"
+msgid ""
+"Adjust the extra chance that an enemy will immediately die when downed. This"
+" affects the chances to take prisoners, and thus colony population growth "
+"rates."
+msgstr ""
+"Adjust the extra chance that an enemy will immediately die when downed. This"
+" affects the chances to take prisoners, and thus colony population growth "
+"rates."
+
+#: compendium:232
+#, fuzzy
+msgctxt "DifficultyGeneralSection"
+msgid "General"
+msgstr "General"
+
+#: compendium:233
+#, fuzzy
+msgctxt "Difficulty_ColonistMoodOffset_Label"
+msgid "Colonist mood"
+msgstr "Colonist mood"
+
+#: compendium:234
+#, fuzzy
+msgctxt "Difficulty_ColonistMoodOffset_Info"
+msgid ""
+"A permanent mood offset applied to every colonist and prisoner. Colonists "
+"have a base mood of 50%."
+msgstr ""
+"A permanent mood offset applied to every colonist and prisoner. Colonists "
+"have a base mood of 50%."
+
+#: compendium:235
+#, fuzzy
+msgctxt "Difficulty_FoodPoisonChanceFactor_Label"
+msgid "Food poison chance"
+msgstr "Food poison chance"
+
+#: compendium:236
+#, fuzzy
+msgctxt "Difficulty_FoodPoisonChanceFactor_Info"
+msgid ""
+"Adjust the chance that a person will get food poisoning from eating a "
+"potentially-poisoned meal."
+msgstr ""
+"Adjust the chance that a person will get food poisoning from eating a "
+"potentially-poisoned meal."
+
+#: compendium:237
+#, fuzzy
+msgctxt "Difficulty_ManhunterChanceOnDamageFactor_Label"
+msgid "Animal revenge chance"
+msgstr "Animal revenge chance"
+
+#: compendium:238
+#, fuzzy
+msgctxt "Difficulty_ManhunterChanceOnDamageFactor_Info"
+msgid "Adjust the chance that injuring a wild animal will cause it to attack."
+msgstr ""
+"Adjust the chance that injuring a wild animal will cause it to attack."
+
+#: compendium:239
+#, fuzzy
+msgctxt "Difficulty_FriendlyFireChanceFactor_Label"
+msgid "Friendly fire"
+msgstr "Friendly fire"
+
+#: compendium:240
+#, fuzzy
+msgctxt "Difficulty_FriendlyFireChanceFactor_Info"
+msgid ""
+"Adjust the chance of friendly fire.\\n\\nNote: This setting only affects "
+"direct shots which were going to hit their target. It does not prevent "
+"damage from explosions, or from shots which were going to miss their target."
+msgstr ""
+"Adjust the chance of friendly fire.\\n\\nNote: This setting only affects "
+"direct shots which were going to hit their target. It does not prevent "
+"damage from explosions, or from shots which were going to miss their target."
+
+#: compendium:241
+#, fuzzy
+msgctxt "Difficulty_AllowInstantKillChance_Label"
+msgid "Colonist instant kills"
+msgstr "Colonist instant kills"
+
+#: compendium:242
+#, fuzzy
+msgctxt "Difficulty_AllowInstantKillChance_Info"
+msgid ""
+"Adjust the chance that a colonist can die instantly due to an attack. The "
+"incoming damage is adjusted so it will down the colonist instead.\\n\\nThis "
+"only prevents some kinds of instant kills - colonists can still be downed "
+"and bleed to death, die from fire, explosions, disease, and so on."
+msgstr ""
+"Adjust the chance that a colonist can die instantly due to an attack. The "
+"incoming damage is adjusted so it will down the colonist instead.\\n\\nThis "
+"only prevents some kinds of instant kills - colonists can still be downed "
+"and bleed to death, die from fire, explosions, disease, and so on."
+
+#: compendium:243
+#, fuzzy
+msgctxt "Difficulty_PlayerPawnInfectionChanceFactor_Label"
+msgid "Infection chance"
+msgstr "Infection chance"
+
+#: compendium:244
+#, fuzzy
+msgctxt "Difficulty_PlayerPawnInfectionChanceFactor_Info"
+msgid "Adjust the chance that a wound will become infected."
+msgstr "Adjust the chance that a wound will become infected."
+
+#: compendium:245
+#, fuzzy
+msgctxt "Difficulty_DiseaseIntervalFactor_Inverted_Label"
+msgid "Disease frequency"
+msgstr "Disease frequency"
+
+#: compendium:246
+#, fuzzy
+msgctxt "Difficulty_DiseaseIntervalFactor_Inverted_Info"
+msgid "Adjust the frequency of random disease events."
+msgstr "Adjust the frequency of random disease events."
+
+#: compendium:247
+#, fuzzy
+msgctxt "Difficulty_EnemyReproductionRateFactor_Label"
+msgid "Insect spawning rate"
+msgstr "Insect spawning rate"
+
+#: compendium:248
+#, fuzzy
+msgctxt "Difficulty_EnemyReproductionRateFactor_Info"
+msgid ""
+"Adjust the rate at which existing insect hives spawn new insects. Lower "
+"values means more time between spawn events.\\n\\nThis does not affect "
+"whether infestations can occur - only the speed at which active hives "
+"produce insects."
+msgstr ""
+"Adjust the rate at which existing insect hives spawn new insects. Lower "
+"values means more time between spawn events.\\n\\nThis does not affect "
+"whether infestations can occur - only the speed at which active hives "
+"produce insects."
+
+#: compendium:249
+#, fuzzy
+msgctxt "Difficulty_DeepDrillInfestationChanceFactor_Label"
+msgid "Deep drilling infestations"
+msgstr "Deep drilling infestations"
+
+#: compendium:250
+#, fuzzy
+msgctxt "Difficulty_DeepDrillInfestationChanceFactor_Info"
+msgid "Adjust the chance that deep drilling will trigger an infestation."
+msgstr "Adjust the chance that deep drilling will trigger an infestation."
+
+#: compendium:251
+#, fuzzy
+msgctxt "Difficulty_PeacefulTemples_Inverted_Label"
+msgid "Map generation ancient threats"
+msgstr "Map generation ancient threats"
+
+#: compendium:252
+#, fuzzy
+msgctxt "Difficulty_PeacefulTemples_Inverted_Info"
+msgid "Ancient structures may contain dangerous threats."
+msgstr "Ancient structures may contain dangerous threats."
+
+#: compendium:253
+#, fuzzy
+msgctxt "Difficulty_AllowCaveHives_Label"
+msgid "Map generation natural hives"
+msgstr "Map generation natural hives"
+
+#: compendium:254
+#, fuzzy
+msgctxt "Difficulty_AllowCaveHives_Info"
+msgid ""
+"Dormant insect hives may spawn in natural caves.\\n\\nThis setting only "
+"applies to map generation and does not affect active insects that may tunnel"
+" in during play."
+msgstr ""
+"Dormant insect hives may spawn in natural caves.\\n\\nThis setting only "
+"applies to map generation and does not affect active insects that may tunnel"
+" in during play."
+
+#: compendium:255
+#, fuzzy
+msgctxt "Difficulty_UnwaveringPrisoners_Label"
+msgid "Add unwavering prisoners"
+msgstr "Add unwavering prisoners"
+
+#: compendium:256
+#, fuzzy
+msgctxt "Difficulty_UnwaveringPrisoners_Info"
+msgid ""
+"This option adds additional capturable prisoners to the game who cannot be "
+"recruited due to unwavering loyalty.\\n\\nUnwavering prisoners are added on "
+"top of normal prisoners, so turning this off won't give more recruitable "
+"prisoners - it simply removes the unwavering ones.\\n\\nUnwavering prisoners"
+" can still be released for diplomatic gains, sold, enslaved, harvested for "
+"organs, or otherwise made use of. In general, they offer more options and "
+"resources, and make the game a bit richer and easier."
+msgstr ""
+"This option adds additional capturable prisoners to the game who cannot be "
+"recruited due to unwavering loyalty.\\n\\nUnwavering prisoners are added on "
+"top of normal prisoners, so turning this off won't give more recruitable "
+"prisoners - it simply removes the unwavering ones.\\n\\nUnwavering prisoners"
+" can still be released for diplomatic gains, sold, enslaved, harvested for "
+"organs, or otherwise made use of. In general, they offer more options and "
+"resources, and make the game a bit richer and easier."
+
+#: compendium:258
+#, fuzzy
+msgctxt "DifficultyPlayerToolsSection"
+msgid "Player tools"
+msgstr "Player tools"
+
+#: compendium:259
+#, fuzzy
+msgctxt "Difficulty_AllowTraps_Label"
+msgid "Player can build traps"
+msgstr "Player can build traps"
+
+#: compendium:260
+#, fuzzy
+msgctxt "Difficulty_AllowTraps_Info"
+msgid "Player can build traps like spike traps and IED traps."
+msgstr "Player can build traps like spike traps and IED traps."
+
+#: compendium:261
+#, fuzzy
+msgctxt "Difficulty_AllowTurrets_Label"
+msgid "Player can build turrets"
+msgstr "Player can build turrets"
+
+#: compendium:262
+#, fuzzy
+msgctxt "Difficulty_AllowTurrets_Info"
+msgid ""
+"Player can build static turrets like mini-turrets, autocannon turrets, and "
+"uranium slug turrets.\\n\\nYou can still use captured turrets even if this "
+"is disabled."
+msgstr ""
+"Player can build static turrets like mini-turrets, autocannon turrets, and "
+"uranium slug turrets.\\n\\nYou can still use captured turrets even if this "
+"is disabled."
+
+#: compendium:263
+#, fuzzy
+msgctxt "Difficulty_AllowMortars_Label"
+msgid "Player can build mortars"
+msgstr "Player can build mortars"
+
+#: compendium:264
+#, fuzzy
+msgctxt "Difficulty_AllowMortars_Info"
+msgid ""
+"Player can build mortars.\\n\\nYou can still use captured mortars even if "
+"this is disabled."
+msgstr ""
+"Player can build mortars.\\n\\nYou can still use captured mortars even if "
+"this is disabled."
+
+#: compendium:265
+#, fuzzy
+msgctxt "Difficulty_ClassicMortars_Label"
+msgid "Classic mortars"
+msgstr "Classic mortars"
+
+#: compendium:266
+#, fuzzy
+msgctxt "Difficulty_ClassicMortars_Info"
+msgid ""
+"Mortars will not require reinforced barrels to construct or reload, and are "
+"balanced for this ease of access."
+msgstr ""
+"Mortars will not require reinforced barrels to construct or reload, and are "
+"balanced for this ease of access."
+
+#: compendium:268
+#, fuzzy
+msgctxt "DifficultyAdaptationSection"
+msgid "Adaptation"
+msgstr "Adaptation"
+
+#: compendium:269
+#, fuzzy
+msgctxt "Difficulty_AdaptationGrowthRateFactorOverZero_Label"
+msgid "Adaptation growth rate"
+msgstr "Adaptation growth rate"
+
+#: compendium:270
+#, fuzzy
+msgctxt "Difficulty_AdaptationGrowthRateFactorOverZero_Info"
+msgid ""
+"Adaptation means the storyteller makes the game more challenging when you're"
+" doing well. An adaptation score grows over time, and is knocked down when "
+"you take damage.\\n\\nThis setting adjusts how fast the adaptation score "
+"grows over time."
+msgstr ""
+"Adaptation means the storyteller makes the game more challenging when you're"
+" doing well. An adaptation score grows over time, and is knocked down when "
+"you take damage.\\n\\nThis setting adjusts how fast the adaptation score "
+"grows over time."
+
+#: compendium:271
+#, fuzzy
+msgctxt "Difficulty_AdaptationEffectFactor_Label"
+msgid "Adaptation impact"
+msgstr "Adaptation impact"
+
+#: compendium:272
+#, fuzzy
+msgctxt "Difficulty_AdaptationEffectFactor_Info"
+msgid ""
+"Adaptation means the storyteller makes the game more challenging when you're"
+" doing well. An adaptation score grows over time, and is knocked down when "
+"you take damage.\\n\\nThis setting adjusts how much the adaptation score "
+"affects the difficulty."
+msgstr ""
+"Adaptation means the storyteller makes the game more challenging when you're"
+" doing well. An adaptation score grows over time, and is knocked down when "
+"you take damage.\\n\\nThis setting adjusts how much the adaptation score "
+"affects the difficulty."
+
+#: compendium:273
+#, fuzzy
+msgctxt "Difficulty_FixedWealthMode_Label"
+msgid "Wealth-independent progress mode"
+msgstr "Wealth-independent progress mode"
+
+#: compendium:274
+#, fuzzy
+msgctxt "Difficulty_FixedWealthMode_Info"
+msgid ""
+"Play in a wealth-independent progress mode.\\n\\nIn normal mode, the "
+"storyteller scales threats according to colonist count, player wealth, and a"
+" variety of other factors. Wealth-independent mode removes the wealth factor"
+" and replaces it with a fixed progress curve based on time. The time is "
+"counted from the founding of each colony.\\n\\nThis is only recommended for "
+"those looking for a strict skill challenge. In wealth-independent mode, it "
+"may be nearly impossible to recover from serious losses unless you found a "
+"new settlement. It's also possible to get too far ahead of the curve and "
+"find the game too easy."
+msgstr ""
+"Play in a wealth-independent progress mode.\\n\\nIn normal mode, the "
+"storyteller scales threats according to colonist count, player wealth, and a"
+" variety of other factors. Wealth-independent mode removes the wealth factor"
+" and replaces it with a fixed progress curve based on time. The time is "
+"counted from the founding of each colony.\\n\\nThis is only recommended for "
+"those looking for a strict skill challenge. In wealth-independent mode, it "
+"may be nearly impossible to recover from serious losses unless you found a "
+"new settlement. It's also possible to get too far ahead of the curve and "
+"find the game too easy."
+
+#: compendium:275
+#, fuzzy
+msgctxt "Difficulty_FixedWealthTimeFactor_Label"
+msgid "Years until maximum threat"
+msgstr "Years until maximum threat"
+
+#: compendium:276
+#, fuzzy
+msgctxt "Difficulty_FixedWealthTimeFactor_Info"
+msgid ""
+"The number of game years until the wealth-independent mode reaches its "
+"maximum threat level.\\n\\nNote that the storyteller will still scale "
+"threats according to colonist count and a variety of other factors."
+msgstr ""
+"The number of game years until the wealth-independent mode reaches its "
+"maximum threat level.\\n\\nNote that the storyteller will still scale "
+"threats according to colonist count and a variety of other factors."
+
+#: compendium:278
+#, fuzzy
+msgctxt "DifficultyIdeologySection"
+msgid "Ideology"
+msgstr "Ideology"
+
+#: compendium:279
+#, fuzzy
+msgctxt "Difficulty_LowPopConversionBoost_Label"
+msgid "Low pop conversion boost"
+msgstr "Low pop conversion boost"
+
+#: compendium:280
+#, fuzzy
+msgctxt "Difficulty_LowPopConversionBoost_Info"
+msgid ""
+"With a single colonist of the player's starting ideoligion, conversion "
+"chance to their ideoligion is multiplied by this amount. Conversion attempts"
+" against them have their impact divided by that amount.\\n\\nWith two "
+"colonists of the player's starting ideoligion, the effect is "
+"halved.\\n\\nWith three or more colonists of the player's starting "
+"ideoligion, this has no effect."
+msgstr ""
+"With a single colonist of the player's starting ideoligion, conversion "
+"chance to their ideoligion is multiplied by this amount. Conversion attempts"
+" against them have their impact divided by that amount.\\n\\nWith two "
+"colonists of the player's starting ideoligion, the effect is "
+"halved.\\n\\nWith three or more colonists of the player's starting "
+"ideoligion, this has no effect."
+
+#: compendium:283
+#, fuzzy
+msgctxt "SelectStartingSite"
+msgid "Select starting site"
+msgstr "Select starting site"
+
+#: compendium:284
+#, fuzzy
+msgctxt "SelectRandomSite"
+msgid "Select random site"
+msgstr "Select random site"
+
+#: compendium:285
+#, fuzzy
+msgctxt "SelectSite"
+msgid "Select site"
+msgstr "Select site"
+
+#: compendium:286
+#, fuzzy
+msgctxt "MustSelectStartingSite"
+msgid "Please select a site."
+msgstr "Please select a site."
+
+#: compendium:287
+#, fuzzy
+msgctxt "CannotLandBiome"
+msgid "You cannot land on this biome: {0}"
+msgstr "You cannot land on this biome: {0}"
+
+#: compendium:288
+#, fuzzy
+msgctxt "BiomeNotImplemented"
+msgid "Biome not implemented"
+msgstr "Biome not implemented"
+
+#: compendium:289
+#, fuzzy
+msgctxt "CannotLandImpassableMountains"
+msgid "You cannot land on impassable mountains."
+msgstr "You cannot land on impassable mountains."
+
+#: compendium:290
+#, fuzzy
+msgctxt "BaseAlreadyThere"
+msgid "{0} already have a base there."
+msgstr "{0} already have a base there."
+
+#: compendium:291
+#, fuzzy
+msgctxt "YourBaseAlreadyThere"
+msgid "You already have a base there."
+msgstr "You already have a base there."
+
+#: compendium:292
+#, fuzzy
+msgctxt "TileOccupied"
+msgid "This tile is occupied."
+msgstr "This tile is occupied."
+
+#: compendium:293
+#, fuzzy
+msgctxt "FactionBaseAdjacent"
+msgid "Settlements cannot be directly adjacent to each other."
+msgstr "Settlements cannot be directly adjacent to each other."
+
+#: compendium:294
+#, fuzzy
+msgctxt "Biome"
+msgid "Biome"
+msgstr "Biome"
+
+#: compendium:295
+#, fuzzy
+msgctxt "Terrain"
+msgid "Terrain"
+msgstr "Terrain"
+
+#: compendium:296
+#, fuzzy
+msgctxt "Road"
+msgid "Road"
+msgstr "Road"
+
+#: compendium:297
+#, fuzzy
+msgctxt "River"
+msgid "River"
+msgstr "River"
+
+#: compendium:298
+#, fuzzy
+msgctxt "Elevation"
+msgid "Elevation"
+msgstr "Elevation"
+
+#: compendium:299
+#, fuzzy
+msgctxt "Fertility"
+msgid "Fertility"
+msgstr "Fertility"
+
+#: compendium:300
+#, fuzzy
+msgctxt "FertilityLower"
+msgid "fertility"
+msgstr "fertility"
+
+#: compendium:301
+#, fuzzy
+msgctxt "AvgTemp"
+msgid "Average temperature"
+msgstr "Average temperature"
+
+#: compendium:302
+#, fuzzy
+msgctxt "Rainfall"
+msgid "Rainfall"
+msgstr "Rainfall"
+
+#: compendium:303
+#, fuzzy
+msgctxt "SpecialFeatures"
+msgid "Special features"
+msgstr "Special features"
+
+#: compendium:304
+#, fuzzy
+msgctxt "HasCoast0"
+msgid "northern coast"
+msgstr "northern coast"
+
+#: compendium:305
+#, fuzzy
+msgctxt "HasCoast1"
+msgid "eastern coast"
+msgstr "eastern coast"
+
+#: compendium:306
+#, fuzzy
+msgctxt "HasCoast2"
+msgid "southern coast"
+msgstr "southern coast"
+
+#: compendium:307
+#, fuzzy
+msgctxt "HasCoast3"
+msgid "western coast"
+msgstr "western coast"
+
+#: compendium:308
+#, fuzzy
+msgctxt "HasCaves"
+msgid "caves"
+msgstr "caves"
+
+#: compendium:309
+#, fuzzy
+msgctxt "FactionBase"
+msgid "Faction base"
+msgstr "Faction base"
+
+#: compendium:310
+#, fuzzy
+msgctxt "StoneTypesHere"
+msgid "Stone types"
+msgstr "Stone types"
+
+#: compendium:311
+#, fuzzy
+msgctxt "TimeZone"
+msgid "Time zone"
+msgstr "Time zone"
+
+#: compendium:312
+#, fuzzy
+msgctxt "MovementDifficulty"
+msgid "Movement difficulty"
+msgstr "Movement difficulty"
+
+#: compendium:313
+#, fuzzy
+msgctxt "AnimalsCanGrazeNow"
+msgid "Animals can graze now"
+msgstr "Animals can graze now"
+
+#: compendium:314
+#, fuzzy
+msgctxt "AverageDiseaseFrequency"
+msgid "Average disease frequency"
+msgstr "Average disease frequency"
+
+#: compendium:315
+#, fuzzy
+msgctxt "PerYear"
+msgid "per year"
+msgstr "per year"
+
+#: compendium:316
+#, fuzzy
+msgctxt "Forageability"
+msgid "Forageability"
+msgstr "Forageability"
+
+#: compendium:317
+#, fuzzy
+msgctxt "ConfirmRequiredWorkTypeDisabledForEveryone"
+msgid ""
+"None of the selected people can do the following jobs:\\n\\n{0}\\n\\nThis "
+"can make the game more difficult than usual. Are you sure you want to "
+"continue?"
+msgstr ""
+"None of the selected people can do the following jobs:\\n\\n{0}\\n\\nThis "
+"can make the game more difficult than usual. Are you sure you want to "
+"continue?"
+
+#: compendium:318
+#, fuzzy
+msgctxt "TemperatureLower"
+msgid "temperature"
+msgstr "temperature"
+
+#: compendium:319
+#, fuzzy
+msgctxt "LightLower"
+msgid "light"
+msgstr "light"
+
+#: compendium:322
+#, fuzzy
+msgctxt "CreateCharacters"
+msgid "Create characters"
+msgstr "Create characters"
+
+#: compendium:323
+#, fuzzy
+msgctxt "FirstNameDesc"
+msgid "The character's first name.\\n\\nThis is only displayed in certain menus."
+msgstr "The character's first name.\\n\\nThis is only displayed in certain menus."
+
+#: compendium:324
+#, fuzzy
+msgctxt "ShortIdentifierDesc"
+msgid ""
+"The character's short identifier.\\n\\nThis is displayed at all times. It "
+"can be the first or last name, or a completely separate nickname."
+msgstr ""
+"The character's short identifier.\\n\\nThis is displayed at all times. It "
+"can be the first or last name, or a completely separate nickname."
+
+#: compendium:325
+#, fuzzy
+msgctxt "LastNameDesc"
+msgid "The character's last name.\\n\\nThis is only displayed in certain menus."
+msgstr "The character's last name.\\n\\nThis is only displayed in certain menus."
+
+#: compendium:326
+#, fuzzy
+msgctxt "Randomize"
+msgid "Randomize"
+msgstr "Randomize"
+
+#: compendium:327
+#, fuzzy
+msgctxt "AgeIndicator"
+msgid "age {0}"
+msgstr "age {0}"
+
+#: compendium:328
+#, fuzzy
+msgctxt "PawnSummary"
+msgid "{PAWN_race}, age {PAWN_ageFull}"
+msgstr "{PAWN_race}, age {PAWN_ageFull}"
+
+#: compendium:329
+#, fuzzy
+msgctxt "PawnSummaryWithGender"
+msgid "{PAWN_gender} {PAWN_race}, age {PAWN_ageFull}"
+msgstr "{PAWN_gender} {PAWN_race}, age {PAWN_ageFull}"
+
+#: compendium:330
+#, fuzzy
+msgctxt "Backstory"
+msgid "Backstory"
+msgstr "Backstory"
+
+#: compendium:331
+#, fuzzy
+msgctxt "IncapableOf"
+msgid "Incapable of"
+msgstr "Incapable of"
+
+#: compendium:332
+#, fuzzy
+msgctxt "Abilities"
+msgid "Abilities"
+msgstr "Abilities"
+
+#: compendium:333
+#, fuzzy
+msgctxt "IncapableOfTooltipHediff"
+msgid "Caused by"
+msgstr "Caused by"
+
+#: compendium:334
+#, fuzzy
+msgctxt "IncapableOfTooltipWorkTypes"
+msgid "Disabled work types:"
+msgstr "Disabled work types:"
+
+#: compendium:335
+#, fuzzy
+msgctxt "IncapableOfTooltipBackstory"
+msgid "Caused by backstory"
+msgstr "Caused by backstory"
+
+#: compendium:336
+#, fuzzy
+msgctxt "IncapableOfTooltipTitle"
+msgid "Caused by title"
+msgstr "Caused by title"
+
+#: compendium:337
+#, fuzzy
+msgctxt "IncapableOfTooltipTrait"
+msgid "Caused by trait"
+msgstr "Caused by trait"
+
+#: compendium:338
+#, fuzzy
+msgctxt "IncapableOfTooltipQuest"
+msgid "Caused by quest status"
+msgstr "Caused by quest status"
+
+#: compendium:339
+#, fuzzy
+msgctxt "IncapableOfTooltipRole"
+msgid "Caused by role"
+msgstr "Caused by role"
+
+#: compendium:340
+#, fuzzy
+msgctxt "IncapableOfTooltipGene"
+msgid "Caused by gene"
+msgstr "Caused by gene"
+
+#: compendium:341
+#, fuzzy
+msgctxt "IncapableOfTooltipMutant"
+msgid "Caused by"
+msgstr "Caused by"
+
+#: compendium:342
+#, fuzzy
+msgctxt "Traits"
+msgid "Traits"
+msgstr "Traits"
+
+#: compendium:343
+#, fuzzy
+msgctxt "PermanentMoodEffect"
+msgid "Permanent mood effect"
+msgstr "Permanent mood effect"
+
+#: compendium:344
+#, fuzzy
+msgctxt "Skills"
+msgid "Skills"
+msgstr "Skills"
+
+#: compendium:345
+#, fuzzy
+msgctxt "NoneLower"
+msgid "none"
+msgstr "none"
+
+#: compendium:346
+#, fuzzy
+msgctxt "Adulthood"
+msgid "Adulthood"
+msgstr "Adulthood"
+
+#: compendium:347
+#, fuzzy
+msgctxt "Childhood"
+msgid "Childhood"
+msgstr "Childhood"
+
+#: compendium:348
+#, fuzzy
+msgctxt "Male"
+msgid "male"
+msgstr "male"
+
+#: compendium:349
+#, fuzzy
+msgctxt "Female"
+msgid "female"
+msgstr "female"
+
+#: compendium:350
+#, fuzzy
+msgctxt "MaleAndFemale"
+msgid "male and female"
+msgstr "male and female"
+
+#: compendium:351
+#, fuzzy
+msgctxt "MaleAnimal"
+msgid "male"
+msgstr "male"
+
+#: compendium:352
+#, fuzzy
+msgctxt "FemaleAnimal"
+msgid "female"
+msgstr "female"
+
+#: compendium:353
+#, fuzzy
+msgctxt "Pain"
+msgid "Pain"
+msgstr "Pain"
+
+#: compendium:354
+#, fuzzy
+msgctxt "Health"
+msgid "Health"
+msgstr "Health"
+
+#: compendium:355
+#, fuzzy
+msgctxt "Relations"
+msgid "Relations"
+msgstr "Relations"
+
+#: compendium:356
+#, fuzzy
+msgctxt "Possessions"
+msgid "Possessions"
+msgstr "Possessions"
+
+#: compendium:357
+#, fuzzy
+msgctxt "TeamSkills"
+msgid "Team skills"
+msgstr "Team skills"
+
+#: compendium:358
+#, fuzzy
+msgctxt "StartingPawnsSelected"
+msgid "Selected"
+msgstr "Selected"
+
+#: compendium:359
+#, fuzzy
+msgctxt "StartingPawnsLeftBehind"
+msgid "Left behind"
+msgstr "Left behind"
+
+#: compendium:360
+#, fuzzy
+msgctxt "GuiltyDesc"
+msgid ""
+"This person is considered guilty. Others won't be bothered if you banish, "
+"execute or arrest them.\\n\\nGuilt expires in"
+msgstr ""
+"This person is considered guilty. Others won't be bothered if you banish, "
+"execute or arrest them.\\n\\nGuilt expires in"
+
+#: compendium:363
+#, fuzzy
+msgctxt "Start"
+msgid "Start"
+msgstr "Start"
+
+#: compendium:364
+#, fuzzy
+msgctxt "Advanced"
+msgid "Advanced"
+msgstr "Advanced"
+
+#: compendium:365
+#, fuzzy
+msgctxt "Next"
+msgid "Next"
+msgstr "Next"
+
+#: compendium:366
+#, fuzzy
+msgctxt "Back"
+msgid "Back"
+msgstr "Back"
+
+#: compendium:367
+#, fuzzy
+msgctxt "ShowMaterials"
+msgid "Change material..."
+msgstr "Change material..."
+
+#: compendium:368
+#, fuzzy
+msgctxt "Gameplay"
+msgid "Gameplay"
+msgstr "Gameplay"
+
+#: compendium:369
+#, fuzzy
+msgctxt "ConfirmQuit"
+msgid "Really quit? You'll lose unsaved progress."
+msgstr "Really quit? You'll lose unsaved progress."
+
+#: compendium:370
+#, fuzzy
+msgctxt "EveryoneNeedsValidName"
+msgid "Each person needs a valid name."
+msgstr "Each person needs a valid name."
+
+#: compendium:371
+#, fuzzy
+msgctxt "RequiredWorkTypeDisabledForEveryone"
+msgid "None of the selected people can do the following jobs"
+msgstr "None of the selected people can do the following jobs"
+
+#: compendium:372
+#, fuzzy
+msgctxt "Quit"
+msgid "Quit"
+msgstr "Quit"
+
+#: compendium:373
+#, fuzzy
+msgctxt "Ignore"
+msgid "Ignore"
+msgstr "Ignore"
+
+#: compendium:376
+#, fuzzy
+msgctxt "GeneratingWorld"
+msgid "Generating world"
+msgstr "Generating world"
+
+#: compendium:377
+#, fuzzy
+msgctxt "GeneratingPlanet"
+msgid "Generating planet"
+msgstr "Generating planet"
+
+#: compendium:378
+#, fuzzy
+msgctxt "GeneratingMap"
+msgid "Generating map"
+msgstr "Generating map"
+
+#: compendium:379
+#, fuzzy
+msgctxt "GeneratingMapForNewEncounter"
+msgid "Generating map for new encounter"
+msgstr "Generating map for new encounter"
+
+#: compendium:381
+#, fuzzy
+msgctxt "ClickForMoreInfo"
+msgid "Click for more info."
+msgstr "Click for more info."
+
+#: compendium:382
+#, fuzzy
+msgctxt "NoMoreInfoAvailable"
+msgid "No more information is available."
+msgstr "No more information is available."
+
+#: compendium:385
+#, fuzzy
+msgctxt "Factions"
+msgid "Factions"
+msgstr "Factions"
+
+#: compendium:386
+#, fuzzy
+msgctxt "TotalFactionsAllowed"
+msgid "max {0} basic factions allowed"
+msgstr "max {0} basic factions allowed"
+
+#: compendium:387
+#, fuzzy
+msgctxt "MaxFactionsForType"
+msgid "max {0}"
+msgstr "max {0}"
+
+#: compendium:388
+#, fuzzy
+msgctxt "FactionSelectionDesc"
+msgid ""
+"Select the factions in the world. You can select up to {0} factions total."
+msgstr ""
+"Select the factions in the world. You can select up to {0} factions total."
+
+#: compendium:389
+#, fuzzy
+msgctxt "FactionDisabledContentWarning"
+msgid "Disabling {0} means less quest variety and other reduced content."
+msgstr "Disabling {0} means less quest variety and other reduced content."
+
+#: compendium:390
+#, fuzzy
+msgctxt "InsectsDisabledContentWarning"
+msgid "Disabling {0} means less spontaneous threat variety."
+msgstr "Disabling {0} means less spontaneous threat variety."
+
+#: compendium:391
+#, fuzzy
+msgctxt "MechanoidsDisabledContentWarning"
+msgid "Disabling {0} means less quest and spontaneous threat variety."
+msgstr "Disabling {0} means less quest and spontaneous threat variety."
+
+#: compendium:392
+#, fuzzy
+msgctxt "FactionsDisabledWarning"
+msgid ""
+"Without other factions, raids, trading, and quests won't occur as normal."
+msgstr ""
+"Without other factions, raids, trading, and quests won't occur as normal."

@@ -1,0 +1,168 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Stats/StatCategories.xml:8
+msgctxt "Basics.label"
+msgid "Basics"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:15
+msgctxt "BasicsImportant.label"
+msgid "Basics"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:22
+msgctxt "BasicsPawnImportant.label"
+msgid "Basics"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:28
+msgctxt "BasicsNonPawnImportant.label"
+msgid "Basics"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:34
+msgctxt "BasicsPawn.label"
+msgid "Basics"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:40
+msgctxt "BasicsNonPawn.label"
+msgid "Basics"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:46
+msgctxt "AnimalProductivity.label"
+msgid "animal productivity"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:52
+msgctxt "Source.label"
+msgid "content source"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:60
+msgctxt "Apparel.label"
+msgid "Apparel"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:66
+msgctxt "Implant.label"
+msgid "Implant"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:72
+msgctxt "Weapon.label"
+msgid "Weapon"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:78
+msgctxt "Weapon_Ranged.label"
+msgid "Weapon (ranged)"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:84
+msgctxt "Weapon_Melee.label"
+msgid "Weapon (melee)"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:90
+msgctxt "Building.label"
+msgid "Building"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:96
+msgctxt "Ability.label"
+msgid "Ability"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:102
+msgctxt "Drug.label"
+msgid "Drug"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:108
+msgctxt "DrugAddiction.label"
+msgid "drug addiction"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:114
+msgctxt "Terrain.label"
+msgid "terrain"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:121
+msgctxt "EquippedStatOffsets.label"
+msgid "Offsets when equipped"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:127
+msgctxt "StuffStatFactors.label"
+msgid "Multipliers when made of this"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:134
+msgctxt "StuffStatOffsets.label"
+msgid "Offsets when made of this"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:141
+msgctxt "StuffOfEquipmentStatFactors.label"
+msgid "Multipliers when equipment made of this"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:148
+msgctxt "Surgery.label"
+msgid "Surgical"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:155
+msgctxt "CapacityEffects.label"
+msgid "effects"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:165
+msgctxt "PawnCombat.label"
+msgid "Combat"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:171
+msgctxt "PawnSocial.label"
+msgid "Social"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:177
+msgctxt "PawnMisc.label"
+msgid "Misc"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:183
+msgctxt "PawnWork.label"
+msgid "Work"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:191
+msgctxt "Meditation.label"
+msgid "Meditation"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:198
+msgctxt "Genetics.label"
+msgid "Genetics"
+msgstr ""
+
+#: Defs/Stats/StatCategories.xml:204
+msgctxt "Mechanoid.label"
+msgid "Mechanoid"
+msgstr ""

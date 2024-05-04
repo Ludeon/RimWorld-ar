@@ -1,0 +1,133 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:22
+msgctxt "Disease_Flu.label"
+msgid "flu"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:24
+msgctxt "Disease_Flu.letterLabel"
+msgid "Disease: Flu"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:29
+msgctxt "Disease_Plague.label"
+msgid "plague"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:31
+msgctxt "Disease_Plague.letterLabel"
+msgid "Disease: Plague"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:36
+msgctxt "Disease_Malaria.label"
+msgid "malaria"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:38
+msgctxt "Disease_Malaria.letterLabel"
+msgid "Disease: Malaria"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:43
+msgctxt "Disease_SleepingSickness.label"
+msgid "sleeping sickness"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:45
+msgctxt "Disease_SleepingSickness.letterLabel"
+msgid "Disease: Sleeping sickness"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:50
+msgctxt "Disease_FibrousMechanites.label"
+msgid "fibrous mechanites"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:52
+msgctxt "Disease_FibrousMechanites.letterLabel"
+msgid "Disease: Fibrous mechanites"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:57
+msgctxt "Disease_SensoryMechanites.label"
+msgid "sensory mechanites"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:59
+msgctxt "Disease_SensoryMechanites.letterLabel"
+msgid "Disease: Sensory mechanites"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:64
+msgctxt "Disease_GutWorms.label"
+msgid "gut worms"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:69
+msgctxt "Disease_GutWorms.letterLabel"
+msgid "Disease: Gut worms"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:74
+msgctxt "Disease_MuscleParasites.label"
+msgid "muscle parasites"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:76
+msgctxt "Disease_MuscleParasites.letterLabel"
+msgid "Disease: Muscle parasites"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:89
+msgctxt "Disease_AnimalFlu.label"
+msgid "flu (animals)"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:91
+msgctxt "Disease_AnimalFlu.letterLabel"
+msgid "Animal disease: Flu"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:96
+msgctxt "Disease_AnimalPlague.label"
+msgid "plague (animals)"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:98
+msgctxt "Disease_AnimalPlague.letterLabel"
+msgid "Animal disease: Plague"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:103
+msgctxt "Disease_OrganDecay.label"
+msgid "organ decay"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:106
+msgctxt "Disease_OrganDecay.letterLabel"
+msgid "Organ decay: {PAWN_labelShort}"
+msgstr ""
+
+#: Defs/Storyteller/Incidents_Map_Disease.xml:107
+msgctxt "Disease_OrganDecay.letterText"
+msgid ""
+"{PAWN_labelShort} has developed a flesh-eating infection known as organ "
+"decay in {PAWN_possessive} {2}!\\n\\nThe affected organ will slowly lose "
+"function over the next {3} days, before dying completely.\\n\\nIf you want "
+"{PAWN_labelShort} to stay healthy, install a replacement {2}. This could be "
+"a bionic, or a natural organ taken from a donor."
+msgstr ""

@@ -1,0 +1,128 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:25
+msgctxt "Filth_Dirt.label"
+msgid "dirt"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:44
+msgctxt "Filth_AnimalFilth.label"
+msgid "animal filth"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:62
+msgctxt "Filth_Trash.label"
+msgid "trash"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:81
+msgctxt "Filth_Sand.label"
+msgid "sand"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:99
+msgctxt "Filth_RubbleRock.label"
+msgid "rock rubble"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:111
+msgctxt "Filth_RubbleBuilding.label"
+msgid "building rubble"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:123
+msgctxt "SlagRubble.label"
+msgid "scattered slag"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:135
+msgctxt "SandbagRubble.label"
+msgid "scattered sandbags"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:153
+msgctxt "Filth_Blood.label"
+msgid "blood"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:174
+msgctxt "Filth_BloodSmear.label"
+msgid "blood smear"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:185
+msgctxt "Filth_BloodInsect.label"
+msgid "bugblood"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:206
+msgctxt "Filth_MachineBits.label"
+msgid "machine bits"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:224
+msgctxt "Filth_AmnioticFluid.label"
+msgid "amniotic fluid"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:245
+msgctxt "Filth_Slime.label"
+msgid "slime"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:265
+msgctxt "Filth_Vomit.label"
+msgid "vomit"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:286
+msgctxt "Filth_FireFoam.label"
+msgid "firefoam"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:308
+msgctxt "Filth_Fuel.label"
+msgid "chemfuel puddle"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:309
+msgctxt "Filth_Fuel.description"
+msgid "A puddle of flammable chemfuel."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:335
+msgctxt "Filth_CorpseBile.label"
+msgid "corpse bile"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:355
+msgctxt "Filth_Ash.label"
+msgid "ash"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:375
+msgctxt "Filth_Water.label"
+msgid "water puddle"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:396
+msgctxt "Filth_Hair.label"
+msgid "hair"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Filth_Various.xml:415
+msgctxt "Filth_SpentAcid.label"
+msgid "spent acid"
+msgstr ""

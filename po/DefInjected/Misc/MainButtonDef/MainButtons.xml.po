@@ -1,0 +1,143 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:6
+msgctxt "Inspect.label"
+msgid "inspect"
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:13
+msgctxt "Architect.label"
+msgid "architect"
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:14
+msgctxt "Architect.description"
+msgid "Designate where to build, farm, store items, and so on."
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:23
+msgctxt "Work.label"
+msgid "work"
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:24
+msgctxt "Work.description"
+msgid "Choose which colonist does what kinds of work, and in what order."
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:33
+msgctxt "Schedule.label"
+msgid "schedule"
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:34
+msgctxt "Schedule.description"
+msgid ""
+"Schedule colonists' activities to certain times of day, and set their "
+"allowed areas."
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:43
+msgctxt "Assign.label"
+msgid "assign"
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:44
+msgctxt "Assign.description"
+msgid ""
+"Assign behaviors to colonists like what they should wear, what drugs to "
+"take, or how to respond to enemies."
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:53
+msgctxt "Animals.label"
+msgid "animals"
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:54
+msgctxt "Animals.description"
+msgid "Configure how the colony's tame animals should be treated."
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:63
+msgctxt "Wildlife.label"
+msgid "wildlife"
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:64
+msgctxt "Wildlife.description"
+msgid ""
+"List wild animals in the area and designate them for hunting or taming."
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:73
+msgctxt "Research.label"
+msgid "research"
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:74
+msgctxt "Research.description"
+msgid "Examine and decide on research projects."
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:83
+msgctxt "Quests.label"
+msgid "quests"
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:84
+msgctxt "Quests.description"
+msgid "View available, active, and historical quests."
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:93
+msgctxt "World.label"
+msgid "world"
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:94
+msgctxt "World.description"
+msgid "Examine the world map, form, and manage caravans."
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:104
+msgctxt "History.label"
+msgid "history"
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:105
+msgctxt "History.description"
+msgid "Review historical records."
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:116
+msgctxt "Factions.label"
+msgid "factions"
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:117
+msgctxt "Factions.description"
+msgid "Review the other factions on this world and their relationships."
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:127
+msgctxt "Menu.label"
+msgid "menu"
+msgstr ""
+
+#: Defs/Misc/MainButtonDefs/MainButtons.xml:128
+msgctxt "Menu.description"
+msgid "Change options, save, load, or quit the game."
+msgstr ""

@@ -1,0 +1,25 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Buildings/Buildings_Ancient_Outdoors.xml:21
+msgctxt "ChunkMechanoidSlag.label"
+msgid "mechanoid slag chunk"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Ancient_Outdoors.xml:22
+msgctxt "ChunkMechanoidSlag.description"
+msgid ""
+"The remains of a smashed mechanoid. While useless in its current form, it "
+"can be smelted to recover steel."
+msgstr ""

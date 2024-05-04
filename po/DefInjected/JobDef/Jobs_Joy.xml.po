@@ -1,0 +1,103 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/JobDefs/Jobs_Joy.xml:9
+msgctxt "Skygaze.reportString"
+msgid "skygazing."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:17
+msgctxt "Meditate.reportString"
+msgid "meditating."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:27
+msgctxt "Pray.reportString"
+msgid "praying."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:37
+msgctxt "GoForWalk.reportString"
+msgid "going for a walk."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:46
+msgctxt "BuildSnowman.reportString"
+msgid "building snowman."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:55
+msgctxt "VisitGrave.reportString"
+msgid "visiting grave."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:64
+msgctxt "ViewArt.reportString"
+msgid "viewing art."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:75
+msgctxt "SocialRelax.reportString"
+msgid "relaxing socially."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:83
+msgctxt "VisitSickPawn.reportString"
+msgid "cheering up patient TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:94
+msgctxt "Play_Horseshoes.reportString"
+msgid "playing horseshoes."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:107
+msgctxt "Play_Hoopstone.reportString"
+msgid "playing hoopstone."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:120
+msgctxt "Play_GameOfUr.reportString"
+msgid "playing the game of Ur."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:133
+msgctxt "Play_Chess.reportString"
+msgid "playing chess."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:146
+msgctxt "Play_Billiards.reportString"
+msgid "playing billiards."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:159
+msgctxt "Play_Poker.reportString"
+msgid "playing poker."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:172
+msgctxt "WatchTelevision.reportString"
+msgid "watching television."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:183
+msgctxt "UseTelescope.reportString"
+msgid "using telescope."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Joy.xml:196
+msgctxt "Play_MusicalInstrument.reportString"
+msgid "playing TargetA."
+msgstr ""

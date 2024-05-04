@@ -1,0 +1,67 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/TrainableDefs/Trainables.xml:8
+msgctxt "Obedience.label"
+msgid "guard"
+msgstr ""
+
+#: Defs/TrainableDefs/Trainables.xml:9
+msgctxt "Obedience.description"
+msgid "The animal can be assigned a master whom it will follow and defend."
+msgstr ""
+
+#: Defs/TrainableDefs/Trainables.xml:26
+msgctxt "Release.label"
+msgid "attack"
+msgstr ""
+
+#: Defs/TrainableDefs/Trainables.xml:27
+msgctxt "Release.description"
+msgid ""
+"The animal can be released to attack distant targets instead of just "
+"guarding its master."
+msgstr ""
+
+#: Defs/TrainableDefs/Trainables.xml:44
+msgctxt "Rescue.label"
+msgid "rescue"
+msgstr ""
+
+#: Defs/TrainableDefs/Trainables.xml:45
+msgctxt "Rescue.description"
+msgid "The animal will rescue wounded allies and drag them to safety."
+msgstr ""
+
+#: Defs/TrainableDefs/Trainables.xml:64
+msgctxt "Haul.label"
+msgid "haul"
+msgstr ""
+
+#: Defs/TrainableDefs/Trainables.xml:65
+msgctxt "Haul.description"
+msgid ""
+"The animal will randomly haul items from time to time (though it can't be "
+"directed to haul specific items)."
+msgstr ""
+
+#: Defs/TrainableDefs/Trainables.xml:83
+msgctxt "Tameness.label"
+msgid "tameness"
+msgstr ""
+
+#: Defs/TrainableDefs/Trainables.xml:84
+msgctxt "Tameness.description"
+msgid "The animal can learn to consider itself a member of your colony."
+msgstr ""

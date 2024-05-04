@@ -1,0 +1,93 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/PawnRelationDefs/PawnRelations_FamilyByBlood.xml:9
+msgctxt "Parent.label"
+msgid "father"
+msgstr ""
+
+#: Defs/PawnRelationDefs/PawnRelations_FamilyByBlood.xml:33
+msgctxt "Child.label"
+msgid "son"
+msgstr ""
+
+#: Defs/PawnRelationDefs/PawnRelations_FamilyByBlood.xml:57
+msgctxt "Sibling.label"
+msgid "brother"
+msgstr ""
+
+#: Defs/PawnRelationDefs/PawnRelations_FamilyByBlood.xml:81
+msgctxt "HalfSibling.label"
+msgid "brother"
+msgstr ""
+
+#: Defs/PawnRelationDefs/PawnRelations_FamilyByBlood.xml:101
+msgctxt "Grandparent.label"
+msgid "grandfather"
+msgstr ""
+
+#: Defs/PawnRelationDefs/PawnRelations_FamilyByBlood.xml:120
+msgctxt "Grandchild.label"
+msgid "grandson"
+msgstr ""
+
+#: Defs/PawnRelationDefs/PawnRelations_FamilyByBlood.xml:139
+msgctxt "NephewOrNiece.label"
+msgid "nephew"
+msgstr ""
+
+#: Defs/PawnRelationDefs/PawnRelations_FamilyByBlood.xml:160
+msgctxt "UncleOrAunt.label"
+msgid "uncle"
+msgstr ""
+
+#: Defs/PawnRelationDefs/PawnRelations_FamilyByBlood.xml:182
+msgctxt "Cousin.label"
+msgid "cousin"
+msgstr ""
+
+#: Defs/PawnRelationDefs/PawnRelations_FamilyByBlood.xml:203
+msgctxt "GreatGrandparent.label"
+msgid "great grandfather"
+msgstr ""
+
+#: Defs/PawnRelationDefs/PawnRelations_FamilyByBlood.xml:219
+msgctxt "GreatGrandchild.label"
+msgid "great grandson"
+msgstr ""
+
+#: Defs/PawnRelationDefs/PawnRelations_FamilyByBlood.xml:235
+msgctxt "GranduncleOrGrandaunt.label"
+msgid "granduncle"
+msgstr ""
+
+#: Defs/PawnRelationDefs/PawnRelations_FamilyByBlood.xml:251
+msgctxt "GrandnephewOrGrandniece.label"
+msgid "grandnephew"
+msgstr ""
+
+#: Defs/PawnRelationDefs/PawnRelations_FamilyByBlood.xml:267
+msgctxt "CousinOnceRemoved.label"
+msgid "cousin once removed"
+msgstr ""
+
+#: Defs/PawnRelationDefs/PawnRelations_FamilyByBlood.xml:282
+msgctxt "SecondCousin.label"
+msgid "second cousin"
+msgstr ""
+
+#: Defs/PawnRelationDefs/PawnRelations_FamilyByBlood.xml:299
+msgctxt "Kin.label"
+msgid "kin"
+msgstr ""

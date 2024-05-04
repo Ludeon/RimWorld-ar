@@ -1,0 +1,75 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Buildings/Buildings_Temperature.xml:6
+msgctxt "Campfire.label"
+msgid "campfire"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Temperature.xml:7
+msgctxt "Campfire.description"
+msgid ""
+"Cooks meals and produces heat, and burns out after a few days. As with all "
+"heat sources, it must be placed indoors so it has a closed space to heat. "
+"Refuelable."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Temperature.xml:128
+msgctxt "PassiveCooler.label"
+msgid "passive cooler"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Temperature.xml:129
+msgctxt "PassiveCooler.description"
+msgid ""
+"A traditional unpowered cooler that works by water evaporation. Must be "
+"regularly replenished with wood. Not efficient enough to refrigerate food."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Temperature.xml:197
+msgctxt "Heater.label"
+msgid "heater"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Temperature.xml:198
+msgctxt "Heater.description"
+msgid ""
+"A device that converts electricity into heat. It can automatically turn "
+"itself on or off to reach a specific target temperature."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Temperature.xml:270
+msgctxt "Cooler.label"
+msgid "cooler"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Temperature.xml:271
+msgctxt "Cooler.description"
+msgid ""
+"An air-cooling machine that fits into a wall. Cool air comes out one side, "
+"while hot exhaust comes out the other. Can be used to cool down rooms during"
+" summer, or to create a walk-in freezer."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Temperature.xml:332
+msgctxt "Vent.label"
+msgid "vent"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Temperature.xml:333
+msgctxt "Vent.description"
+msgid ""
+"A vent for equalizing the temperature between two rooms without allowing "
+"people to walk between them."
+msgstr ""

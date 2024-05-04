@@ -1,0 +1,58 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/TerrainAffordanceDefs/TerrainAffordances.xml:7
+msgctxt "Light.label"
+msgid "light"
+msgstr ""
+
+#: Defs/Misc/TerrainAffordanceDefs/TerrainAffordances.xml:16
+msgctxt "Medium.label"
+msgid "medium"
+msgstr ""
+
+#: Defs/Misc/TerrainAffordanceDefs/TerrainAffordances.xml:25
+msgctxt "Heavy.label"
+msgid "heavy"
+msgstr ""
+
+#: Defs/Misc/TerrainAffordanceDefs/TerrainAffordances.xml:33
+msgctxt "ShallowWater.label"
+msgid "shallow water"
+msgstr ""
+
+#: Defs/Misc/TerrainAffordanceDefs/TerrainAffordances.xml:42
+msgctxt "MovingFluid.label"
+msgid "moving water"
+msgstr ""
+
+#: Defs/Misc/TerrainAffordanceDefs/TerrainAffordances.xml:51
+msgctxt "Bridgeable.label"
+msgid "bridgeable"
+msgstr ""
+
+#: Defs/Misc/TerrainAffordanceDefs/TerrainAffordances.xml:58
+msgctxt "GrowSoil.label"
+msgid "growable"
+msgstr ""
+
+#: Defs/Misc/TerrainAffordanceDefs/TerrainAffordances.xml:65
+msgctxt "Diggable.label"
+msgid "diggable"
+msgstr ""
+
+#: Defs/Misc/TerrainAffordanceDefs/TerrainAffordances.xml:72
+msgctxt "SmoothableStone.label"
+msgid "smoothable"
+msgstr ""

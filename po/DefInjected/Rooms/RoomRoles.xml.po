@@ -1,0 +1,88 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Rooms/RoomRoles.xml:6
+msgctxt "None.label"
+msgid "none"
+msgstr ""
+
+#: Defs/Rooms/RoomRoles.xml:12
+msgctxt "Room.label"
+msgid "room"
+msgstr ""
+
+#: Defs/Rooms/RoomRoles.xml:18
+msgctxt "Bedroom.label"
+msgid "bedroom"
+msgstr ""
+
+#: Defs/Rooms/RoomRoles.xml:31
+msgctxt "PrisonCell.label"
+msgid "prison cell"
+msgstr ""
+
+#: Defs/Rooms/RoomRoles.xml:44
+msgctxt "DiningRoom.label"
+msgid "dining room"
+msgstr ""
+
+#: Defs/Rooms/RoomRoles.xml:57
+msgctxt "RecRoom.label"
+msgid "rec room"
+msgstr ""
+
+#: Defs/Rooms/RoomRoles.xml:70
+msgctxt "Hospital.label"
+msgid "hospital"
+msgstr ""
+
+#: Defs/Rooms/RoomRoles.xml:81
+msgctxt "Laboratory.label"
+msgid "laboratory"
+msgstr ""
+
+#: Defs/Rooms/RoomRoles.xml:90
+msgctxt "Workshop.label"
+msgid "workshop"
+msgstr ""
+
+#: Defs/Rooms/RoomRoles.xml:96
+msgctxt "Storeroom.label"
+msgid "storeroom"
+msgstr ""
+
+#: Defs/Rooms/RoomRoles.xml:102
+msgctxt "Barracks.label"
+msgid "barracks"
+msgstr ""
+
+#: Defs/Rooms/RoomRoles.xml:115
+msgctxt "PrisonBarracks.label"
+msgid "prison barracks"
+msgstr ""
+
+#: Defs/Rooms/RoomRoles.xml:128
+msgctxt "Kitchen.label"
+msgid "kitchen"
+msgstr ""
+
+#: Defs/Rooms/RoomRoles.xml:137
+msgctxt "Tomb.label"
+msgid "tomb"
+msgstr ""
+
+#: Defs/Rooms/RoomRoles.xml:143
+msgctxt "Barn.label"
+msgid "barn"
+msgstr ""

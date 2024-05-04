@@ -1,0 +1,255 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:6
+msgctxt "TimeAsColonistOrColonyAnimal.label"
+msgid "time as a colonist"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:7
+msgctxt "TimeAsColonistOrColonyAnimal.description"
+msgid "Total time spent loyal to your community."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:14
+msgctxt "TimeAsQuestLodger.label"
+msgid "time hosted"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:15
+msgctxt "TimeAsQuestLodger.description"
+msgid "Total time spent hosted by your community through a quest."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:22
+msgctxt "TimeAsPrisoner.label"
+msgid "time as a prisoner"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:23
+msgctxt "TimeAsPrisoner.description"
+msgid "Total time spent as a prisoner."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:30
+msgctxt "TimeInBed.label"
+msgid "time in a bed"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:31
+msgctxt "TimeInBed.description"
+msgid "Total time spent in bed."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:38
+msgctxt "TimeInBedForMedicalReasons.label"
+msgid "time in a bed for medical reasons"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:39
+msgctxt "TimeInBedForMedicalReasons.description"
+msgid ""
+"Total time spent in bed for medical reasons: awaiting treatment, recovering "
+"from injuries or being operated on."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:46
+msgctxt "TimeDowned.label"
+msgid "time downed"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:47
+msgctxt "TimeDowned.description"
+msgid "Total time spent downed."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:54
+msgctxt "TimeGettingFood.label"
+msgid "time finding food and eating"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:55
+msgctxt "TimeGettingFood.description"
+msgid "Total time spent on finding food and eating."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:65
+msgctxt "TimeGettingJoy.label"
+msgid "time spent on entertainment"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:66
+msgctxt "TimeGettingJoy.description"
+msgid "Total time spent on entertainment."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:73
+msgctxt "TimeUnderRoof.label"
+msgid "time under a roof"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:74
+msgctxt "TimeUnderRoof.description"
+msgid "Total time spent under a roof."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:81
+msgctxt "TimeDrafted.label"
+msgid "time drafted"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:82
+msgctxt "TimeDrafted.description"
+msgid "Total time spent drafted."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:89
+msgctxt "TimeOnFire.label"
+msgid "time on fire"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:90
+msgctxt "TimeOnFire.description"
+msgid "Total time spent on fire."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:97
+msgctxt "TimeInMentalState.label"
+msgid "time in mental state"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:98
+msgctxt "TimeInMentalState.description"
+msgid "Total time spent in an abnormal mental state."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:105
+msgctxt "TimeHauling.label"
+msgid "time hauling"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:106
+msgctxt "TimeHauling.description"
+msgid "Total time spent hauling things."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:113
+msgctxt "TimeHandlingAnimals.label"
+msgid "time handling animals"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:114
+msgctxt "TimeHandlingAnimals.description"
+msgid "Total time spent handling animals."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:127
+msgctxt "TimeFirefighting.label"
+msgid "time firefighting"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:128
+msgctxt "TimeFirefighting.description"
+msgid "Total time spent firefighting."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:138
+msgctxt "TimeWardening.label"
+msgid "time wardening"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:139
+msgctxt "TimeWardening.description"
+msgid "Total time spent wardening."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:153
+msgctxt "TimeHunting.label"
+msgid "time hunting"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:154
+msgctxt "TimeHunting.description"
+msgid "Total time spent hunting."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:164
+msgctxt "TimeConstructing.label"
+msgid "time constructing"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:165
+msgctxt "TimeConstructing.description"
+msgid "Total time spent constructing and deconstructing buildings."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:177
+msgctxt "TimeTreatingAndFeeding.label"
+msgid "time treating and feeding"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:178
+msgctxt "TimeTreatingAndFeeding.description"
+msgid "Total time spent treating and feeding patients."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:188
+msgctxt "TimeResearching.label"
+msgid "time researching"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:189
+msgctxt "TimeResearching.description"
+msgid "Total time spent researching."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:198
+msgctxt "TimeCleaning.label"
+msgid "time cleaning"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:199
+msgctxt "TimeCleaning.description"
+msgid "Total time spent cleaning."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:208
+msgctxt "TimeRepairing.label"
+msgid "time repairing"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:209
+msgctxt "TimeRepairing.description"
+msgid "Total time spent repairing."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:218
+msgctxt "TimeMining.label"
+msgid "time mining"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:219
+msgctxt "TimeMining.description"
+msgid "Total time spent mining."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:228
+msgctxt "TimeSowingAndHarvesting.label"
+msgid "time sowing and harvesting"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:229
+msgctxt "TimeSowingAndHarvesting.description"
+msgid "Total time spent sowing, harvesting and cutting plants."
+msgstr ""

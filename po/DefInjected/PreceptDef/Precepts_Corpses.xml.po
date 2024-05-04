@@ -1,0 +1,38 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/PreceptDefs/Precepts_Corpses.xml:8
+msgctxt "ObservedLayingCorpse.label"
+msgid "observed corpse"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Corpses.xml:13
+msgctxt "ObservedLayingRottingCorpse.label"
+msgid "observed rotten corpse"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Corpses.xml:20
+msgctxt "Corpses.label"
+msgid "corpses"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Corpses.xml:29
+msgctxt "Corpses_Ugly.label"
+msgid "ugly"
+msgstr ""
+
+#: Defs/PreceptDefs/Precepts_Corpses.xml:30
+msgctxt "Corpses_Ugly.description"
+msgid "The sight of a dead person is horrible."
+msgstr ""

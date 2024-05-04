@@ -1,0 +1,33 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/TraderKindDefs/TraderKinds_Caravan_Neolithic.xml:6
+msgctxt "Caravan_Neolithic_BulkGoods.label"
+msgid "bulk goods trader"
+msgstr ""
+
+#: Defs/TraderKindDefs/TraderKinds_Caravan_Neolithic.xml:134
+msgctxt "Caravan_Neolithic_WarMerchant.label"
+msgid "war merchant"
+msgstr ""
+
+#: Defs/TraderKindDefs/TraderKinds_Caravan_Neolithic.xml:241
+msgctxt "Caravan_Neolithic_Slaver.label"
+msgid "slaver"
+msgstr ""
+
+#: Defs/TraderKindDefs/TraderKinds_Caravan_Neolithic.xml:318
+msgctxt "Caravan_Neolithic_ShamanMerchant.label"
+msgid "shaman merchant"
+msgstr ""

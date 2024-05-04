@@ -1,0 +1,350 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:21
+msgctxt "Chitchat.stages.0.label"
+msgid "chitchat"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:44
+msgctxt "DeepTalk.stages.0.label"
+msgid "deep talk"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:61
+msgctxt "Slighted.stages.0.label"
+msgid "slighted"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:78
+msgctxt "Insulted.stages.0.label"
+msgid "insulted"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:96
+msgctxt "InsultedMood.stages.0.label"
+msgid "insulted"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:97
+msgctxt "InsultedMood.stages.0.description"
+msgid "I've been directly insulted! What an awful person!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:115
+msgctxt "KindWords.stages.0.label"
+msgid "kind words"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:133
+msgctxt "KindWordsMood.stages.0.label"
+msgid "kind words"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:134
+msgctxt "KindWordsMood.stages.0.description"
+msgid "I've been bestowed with kind words! What a nice person!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:154
+msgctxt "RapportBuilt.stages.0.label"
+msgid "rapport built"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:171
+msgctxt "HadAngeringFight.stages.0.label"
+msgid "angering fight"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:186
+msgctxt "HadCatharticFight.stages.0.label"
+msgid "cathartic fight"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:203
+msgctxt "HarmedMe.stages.0.label"
+msgid "harmed me"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:218
+msgctxt "BotchedMySurgery.stages.0.label"
+msgid "botched my surgery"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:233
+msgctxt "RescuedMe.stages.0.label"
+msgid "rescued me"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:248
+msgctxt "RescuedMeByOfferingHelp.stages.0.label"
+msgid "rescued me"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:249
+msgctxt "RescuedMeByOfferingHelp.stages.0.description"
+msgid ""
+"I was rescued by someone! I almost thought I was done for back there. I'm so"
+" thankful."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:263
+msgctxt "RecruitedMe.stages.0.label"
+msgid "recruited me"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:277
+msgctxt "CrashedTogether.stages.0.label"
+msgid "crashed together"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:291
+msgctxt "SoldMyLovedOne.stages.0.label"
+msgid "loved one sold"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:293
+msgctxt "SoldMyLovedOne.stages.0.description"
+msgid "Someone I love was sold to a trader like a piece of meat!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:308
+msgctxt "SoldMyBondedAnimal.stages.0.label"
+msgid "bonded animal given away"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:310
+msgctxt "SoldMyBondedAnimal.stages.0.description"
+msgid "My special bonded animal was given away!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:325
+msgctxt "SoldMyBondedAnimalMood.stages.0.label"
+msgid "bonded animal given away"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:327
+msgctxt "SoldMyBondedAnimalMood.stages.0.description"
+msgid "My special bonded animal was given away!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:341
+msgctxt "ForcedMeToTakeDrugs.stages.0.label"
+msgid "forced me to take drugs"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:352
+msgctxt "ForcedMeToTakeDrugsMood.stages.0.label"
+msgid "forced to take drugs"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:353
+msgctxt "ForcedMeToTakeDrugsMood.stages.0.description"
+msgid ""
+"I'm a teetotaler; I would never take drugs by choice. But I was forced! I "
+"feel unclean."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:367
+msgctxt "ForcedMeToTakeLuciferium.stages.0.label"
+msgid "forced me to take luciferium"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:378
+msgctxt "ForcedMeToTakeLuciferiumMood.stages.0.label"
+msgid "forced to take luciferium"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:379
+msgctxt "ForcedMeToTakeLuciferiumMood.stages.0.description"
+msgid ""
+"I'm a body purist; I would never take luciferium by choice. But I was "
+"forced! I feel unclean."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:397
+msgctxt "RebuffedMyRomanceAttempt.stages.0.label"
+msgid "rebuffed me"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:415
+msgctxt "RebuffedMyRomanceAttemptMood.stages.0.label"
+msgid "rebuffed by {0}"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:416
+msgctxt "RebuffedMyRomanceAttemptMood.stages.0.description"
+msgid ""
+"I attempted to create a romance, but I got the cold shoulder. Feels bad man."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:432
+msgctxt "FailedRomanceAttemptOnMe.stages.0.label"
+msgid "failed to romance me"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:449
+msgctxt "FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label"
+msgid "had to rebuff {0}"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:450
+msgctxt "FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description"
+msgid "Someone I don't like tried to romance me."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:465
+msgctxt "BrokeUpWithMe.stages.0.label"
+msgid "broke up with me"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:482
+msgctxt "BrokeUpWithMeMood.stages.0.label"
+msgid "broken up with by {0}"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:483
+msgctxt "BrokeUpWithMeMood.stages.0.description"
+msgid "I was just dumped like a load of garbage."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:498
+msgctxt "CheatedOnMe.stages.0.label"
+msgid "cheated on me"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:515
+msgctxt "CheatedOnMeMood.stages.0.label"
+msgid "cheated on by {0}"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:516
+msgctxt "CheatedOnMeMood.stages.0.description"
+msgid "How could someone cheat on me!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:531
+msgctxt "DivorcedMe.stages.0.label"
+msgid "divorced me"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:548
+msgctxt "DivorcedMeMood.stages.0.label"
+msgid "divorced by {0}"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:549
+msgctxt "DivorcedMeMood.stages.0.description"
+msgid "We made a commitment, and they just tore it apart."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:565
+msgctxt "RejectedMyProposal.stages.0.label"
+msgid "rejected my proposal"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:583
+msgctxt "RejectedMyProposalMood.stages.0.label"
+msgid "my proposal was rejected by {0}"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:584
+msgctxt "RejectedMyProposalMood.stages.0.description"
+msgid "I thought we were meant to marry. But I was just shot down."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:600
+msgctxt "IRejectedTheirProposal.stages.0.label"
+msgid "I rejected their proposal"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:615
+msgctxt "HoneymoonPhase.stages.0.label"
+msgid "honeymoon phase"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:630
+msgctxt "GotSomeLovin.stages.0.label"
+msgid "got some lovin'"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:631
+msgctxt "GotSomeLovin.stages.0.description"
+msgid "There's nothing like a tumble between the sheets to lift the mood."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:648
+msgctxt "KilledMyFriend.stages.0.label"
+msgid "killed my friend"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:662
+msgctxt "KilledMyRival.stages.0.label"
+msgid "killed my rival"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:676
+msgctxt "KilledMyLover.stages.0.label"
+msgid "killed my lover"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:690
+msgctxt "KilledMyFiance.stages.0.label"
+msgid "killed my fiance"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:704
+msgctxt "KilledMySpouse.stages.0.label"
+msgid "killed my spouse"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:718
+msgctxt "KilledMyFather.stages.0.label"
+msgid "killed my father"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:732
+msgctxt "KilledMyMother.stages.0.label"
+msgid "killed my mother"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:746
+msgctxt "KilledMySon.stages.0.label"
+msgid "killed my son"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:760
+msgctxt "KilledMyDaughter.stages.0.label"
+msgid "killed my daughter"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:774
+msgctxt "KilledMyBrother.stages.0.label"
+msgid "killed my brother"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:788
+msgctxt "KilledMySister.stages.0.label"
+msgid "killed my sister"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:802
+msgctxt "KilledMyKin.stages.0.label"
+msgid "killed my kin"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Social.xml:816
+msgctxt "KilledMyBondedAnimal.stages.0.label"
+msgid "killed my bonded animal"
+msgstr ""

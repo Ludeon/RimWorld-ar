@@ -1,0 +1,203 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compendium:4
+#, fuzzy
+msgctxt "FactionGreetingHostile"
+msgid "{0} hurls some epithets into the microphone and disconnects."
+msgstr "{0} hurls some epithets into the microphone and disconnects."
+
+#: compendium:5
+#, fuzzy
+msgctxt "FactionGreetingHostileAppreciative"
+msgid ""
+"{0} demands that you make a gesture of goodwill, like bringing gifts to one "
+"of {0_possessive} settlements or releasing {0_possessive} faction's "
+"prisoners unharmed. Until then, {0_pronoun} is unwilling to "
+"talk.\\n\\nMuttering an insult, {0_pronoun} disconnects."
+msgstr ""
+"{0} demands that you make a gesture of goodwill, like bringing gifts to one "
+"of {0_possessive} settlements or releasing {0_possessive} faction's "
+"prisoners unharmed. Until then, {0_pronoun} is unwilling to "
+"talk.\\n\\nMuttering an insult, {0_pronoun} disconnects."
+
+#: compendium:6
+#, fuzzy
+msgctxt "FactionGreetingWary"
+msgid ""
+"{0} greets {NEGOTIATOR_labelShort} and asks what business you want to "
+"handle."
+msgstr ""
+"{0} greets {NEGOTIATOR_labelShort} and asks what business you want to "
+"handle."
+
+#: compendium:7
+#, fuzzy
+msgctxt "FactionGreetingWarm"
+msgid ""
+"{0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can"
+" do to help you."
+msgstr ""
+"{0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can"
+" do to help you."
+
+#: compendium:9
+#, fuzzy
+msgctxt "WorkTypeDisablesOption"
+msgid "won't do {0}"
+msgstr "won't do {0}"
+
+#: compendium:10
+#, fuzzy
+msgctxt "Disconnect"
+msgid "Disconnect"
+msgstr "Disconnect"
+
+#: compendium:13
+#, fuzzy
+msgctxt "OfferGift"
+msgid "Offer gift"
+msgstr "Offer gift"
+
+#: compendium:14
+#, fuzzy
+msgctxt "MustBeAlly"
+msgid "must be ally"
+msgstr "must be ally"
+
+#: compendium:15
+#, fuzzy
+msgctxt "NeedGoodwill"
+msgid "need {0} goodwill"
+msgstr "need {0} goodwill"
+
+#: compendium:16
+#, fuzzy
+msgctxt "NeedSilverLaunchable"
+msgid "need {0} silver near trade beacons"
+msgstr "need {0} silver near trade beacons"
+
+#: compendium:17
+#, fuzzy
+msgctxt "NotEnoughSilver"
+msgid "not enough silver"
+msgstr "not enough silver"
+
+#: compendium:18
+#, fuzzy
+msgctxt "SilverForGoodwill"
+msgid "{0} silver for {1} goodwill"
+msgstr "{0} silver for {1} goodwill"
+
+#: compendium:19
+#, fuzzy
+msgctxt "SilverGiftSent"
+msgid "{0} thanks you.\\n\\n(Goodwill improved by {1})"
+msgstr "{0} thanks you.\\n\\n(Goodwill improved by {1})"
+
+#: compendium:22
+#, fuzzy
+msgctxt "RequestTrader"
+msgid "Request a trade caravan (cost: {0} goodwill)"
+msgstr "Request a trade caravan (cost: {0} goodwill)"
+
+#: compendium:23
+#, fuzzy
+msgctxt "ChooseTraderKind"
+msgid "{0} asks what kind of trade caravan you want."
+msgstr "{0} asks what kind of trade caravan you want."
+
+#: compendium:24
+#, fuzzy
+msgctxt "TraderSent"
+msgid ""
+"{0} agrees to send you a trade caravan. It will arrive within a few days."
+msgstr ""
+"{0} agrees to send you a trade caravan. It will arrive within a few days."
+
+#: compendium:25
+#, fuzzy
+msgctxt "WaitTime"
+msgid "wait {0}"
+msgstr "wait {0}"
+
+#: compendium:28
+#, fuzzy
+msgctxt "RequestAICoreInformation"
+msgid "Request the location of a {0} (cost: {1} silver)"
+msgstr "Request the location of a {0} (cost: {1} silver)"
+
+#: compendium:29
+#, fuzzy
+msgctxt "RequestAICoreInformationResult"
+msgid "{0} sends the requested information and wishes you good luck."
+msgstr "{0} sends the requested information and wishes you good luck."
+
+#: compendium:30
+#, fuzzy
+msgctxt "NoKnownAICore"
+msgid "no more locations known"
+msgstr "no more locations known"
+
+#: compendium:33
+#, fuzzy
+msgctxt "RequestMilitaryAid"
+msgid "Request immediate military aid (cost: {0} goodwill)"
+msgstr "Request immediate military aid (cost: {0} goodwill)"
+
+#: compendium:34
+#, fuzzy
+msgctxt "MilitaryAidConfirmMutualEnemy"
+msgid ""
+"{0} will not help you fight other factions who are not their enemies. This "
+"includes some who are currently threatening you, {1}. Do you still want to "
+"call for aid?"
+msgstr ""
+"{0} will not help you fight other factions who are not their enemies. This "
+"includes some who are currently threatening you, {1}. Do you still want to "
+"call for aid?"
+
+#: compendium:35
+#, fuzzy
+msgctxt "CallConfirm"
+msgid "Yes, call them anyway."
+msgstr "Yes, call them anyway."
+
+#: compendium:36
+#, fuzzy
+msgctxt "CallCancel"
+msgid "No, never mind."
+msgstr "No, never mind."
+
+#: compendium:37
+#, fuzzy
+msgctxt "MilitaryAidSent"
+msgid "{0} agrees to send fighters to help you."
+msgstr "{0} agrees to send fighters to help you."
+
+#: compendium:38
+#, fuzzy
+msgctxt "CantSendMilitaryAidInTime"
+msgid ""
+"{0} apologizes and says they won't be able to arrive in time.\\n\\n(This "
+"faction's technology level is too low for transport pods)"
+msgstr ""
+"{0} apologizes and says they won't be able to arrive in time.\\n\\n(This "
+"faction's technology level is too low for transport pods)"
+
+#: compendium:39
+#, fuzzy
+msgctxt "HostileVisitorsPresent"
+msgid "hostile visitors present"
+msgstr "hostile visitors present"

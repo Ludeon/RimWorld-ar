@@ -1,0 +1,93 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/RulePackDefs/RulePacks_Namers_Traders.xml:7
+msgctxt "NamerTraderGeneral.rulePack.rulesStrings.0"
+msgid "r_name(p=4)->[businessname] [businesstype]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Traders.xml:7
+msgctxt "NamerTraderGeneral.rulePack.rulesStrings.1"
+msgid "r_name->[NamePerson] [businesstype]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Traders.xml:7
+msgctxt "NamerTraderGeneral.rulePack.rulesStrings.2"
+msgid "r_name->[maybe_adjective] [Animal] [businesstype]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Traders.xml:7
+msgctxt "NamerTraderGeneral.rulePack.rulesStrings.3"
+msgid "r_name->[Letter][Letter] [businesstype]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Traders.xml:7
+msgctxt "NamerTraderGeneral.rulePack.rulesStrings.4"
+msgid "r_name(p=0.5)->[PersonAlly] [businesstype]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Traders.xml:7
+msgctxt "NamerTraderGeneral.rulePack.rulesStrings.5"
+msgid "r_name(p=0.5)->[AdjectiveFriendly] [businesstype]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Traders.xml:7
+msgctxt "NamerTraderGeneral.rulePack.rulesStrings.6"
+msgid "r_name(p=0.5)->[AdjectiveBadass] [businesstype]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Traders.xml:7
+msgctxt "NamerTraderGeneral.rulePack.rulesStrings.7"
+msgid "r_name(p=0.3)->[PersonFamily] [businesstype]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Traders.xml:7
+msgctxt "NamerTraderGeneral.rulePack.rulesStrings.8"
+msgid "r_name(p=0.3)->[maybe_adjective] [NaturalObject] [businesstype]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Traders.xml:7
+msgctxt "NamerTraderGeneral.rulePack.rulesStrings.9"
+msgid "r_name(p=0.2)->[maybe_adjective] [TreeType] [businesstype]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Traders.xml:7
+msgctxt "NamerTraderGeneral.rulePack.rulesStrings.10"
+msgid "r_name(p=0.2)->[maybe_adjective] [Vegetable] [businesstype]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Traders.xml:7
+msgctxt "NamerTraderGeneral.rulePack.rulesStrings.11"
+msgid "r_name(p=0.2)->[Direction] [businesstype]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Traders.xml:7
+msgctxt "NamerTraderGeneral.rulePack.rulesStrings.12"
+msgid "maybe_adjective->"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Traders.xml:7
+msgctxt "NamerTraderGeneral.rulePack.rulesStrings.13"
+msgid "maybe_adjective->[Color]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Traders.xml:7
+msgctxt "NamerTraderGeneral.rulePack.rulesStrings.14"
+msgid "maybe_adjective->[AdjectiveFriendly]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Traders.xml:7
+msgctxt "NamerTraderGeneral.rulePack.rulesStrings.15"
+msgid "maybe_adjective->[AdjectiveBadass]"
+msgstr ""

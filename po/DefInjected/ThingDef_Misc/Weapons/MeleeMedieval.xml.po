@@ -1,0 +1,87 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeMedieval.xml:6
+msgctxt "MeleeWeapon_Mace.label"
+msgid "mace"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeMedieval.xml:7
+msgctxt "MeleeWeapon_Mace.description"
+msgid "A refined club, engineered for efficient swinging and deadly impacts."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeMedieval.xml:40
+msgctxt "MeleeWeapon_Mace.tools.0.label"
+msgid "handle"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeMedieval.xml:48
+msgctxt "MeleeWeapon_Mace.tools.1.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeMedieval.xml:61
+msgctxt "MeleeWeapon_Gladius.label"
+msgid "gladius"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeMedieval.xml:62
+msgctxt "MeleeWeapon_Gladius.description"
+msgid ""
+"A short sword of ancient design. Good for stabbing or slashing. It's light "
+"and nimble, which sometimes lets it beat bigger, heavier weapons."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeMedieval.xml:87
+msgctxt "MeleeWeapon_Gladius.tools.0.label"
+msgid "handle"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeMedieval.xml:95
+msgctxt "MeleeWeapon_Gladius.tools.1.label"
+msgid "point"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeMedieval.xml:103
+msgctxt "MeleeWeapon_Gladius.tools.2.label"
+msgid "edge"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeMedieval.xml:122
+msgctxt "MeleeWeapon_LongSword.label"
+msgid "longsword"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeMedieval.xml:123
+msgctxt "MeleeWeapon_LongSword.description"
+msgid ""
+"The ancient weapon of kings, the longsword can be used for slashing or "
+"stabbing."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeMedieval.xml:148
+msgctxt "MeleeWeapon_LongSword.tools.0.label"
+msgid "handle"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeMedieval.xml:156
+msgctxt "MeleeWeapon_LongSword.tools.1.label"
+msgid "point"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Weapons/MeleeMedieval.xml:164
+msgctxt "MeleeWeapon_LongSword.tools.2.label"
+msgid "edge"
+msgstr ""

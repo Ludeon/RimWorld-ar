@@ -1,0 +1,302 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:6
+msgctxt "EggBox.label"
+msgid "egg box"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:7
+msgctxt "EggBox.description"
+msgid ""
+"A box with soft material made to hold eggs. Egg-laying animals will lay eggs"
+" in egg boxes if they can. Your haulers will take all the eggs out only when"
+" the box is full, to save time. The box also protects eggs from "
+"deteriorating outdoors, though it does not protect from temperature damage."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:58
+msgctxt "OrbitalTradeBeacon.label"
+msgid "orbital trade beacon"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:82
+msgctxt "OrbitalTradeBeacon.description"
+msgid ""
+"Required for orbital trading. You can only sell goods to orbital traders if "
+"they're near an orbital trade beacon. Can be placed indoors."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:117
+msgctxt "CommsConsole.label"
+msgid "comms console"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:118
+msgctxt "CommsConsole.description"
+msgid "Allows radio contact with other factions and orbital traders."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:169
+msgctxt "CommsConsole.comps.3.useLabel"
+msgid "Summon diabolus threat"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:196
+msgctxt "FirefoamPopper.label"
+msgid "firefoam popper"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:197
+msgctxt "FirefoamPopper.description"
+msgid ""
+"When it detects fire, this safety device pops and sprays a fire-retardant "
+"foam in a circular field around itself. Can also be triggered manually."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:227
+msgctxt "FirefoamPopper.comps.1.useLabel"
+msgid "Trigger {0_label}"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:271
+msgctxt "MoisturePump.label"
+msgid "moisture pump"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:272
+msgctxt "MoisturePump.description"
+msgid ""
+"Very slowly equalizes moisture in nearby terrain, converting marshes or "
+"shallow water into dry ground, and soft sand into normal sand. Does not "
+"affect deep water."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:326
+msgctxt "GroundPenetratingScanner.label"
+msgid "ground-penetrating scanner"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:327
+msgctxt "GroundPenetratingScanner.description"
+msgid ""
+"A sensor unit used by researchers to search for buried resources. The chance"
+" to find a resource depends on the operator's research ability. It consumes "
+"a lot of electricity. If you find a buried resource, you'll need to use deep"
+" drills to extract it. It doesn't work under a roof."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:396
+msgctxt "LongRangeMineralScanner.label"
+msgid "long-range mineral scanner"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:397
+msgctxt "LongRangeMineralScanner.description"
+msgid ""
+"A lateral sensor unit used by researchers to detect a specific type of "
+"mineral across the planet. The chance to find a resource depends on the "
+"operator's research ability. This sensor can be tuned to target a specific "
+"resource type. It consumes a lot of electricity. If you find a resource, "
+"you'll need to travel to collect it."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:466
+msgctxt "PodLauncher.label"
+msgid "pod launcher"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:467
+msgctxt "PodLauncher.description"
+msgid ""
+"A fueling port for launching one transport pod. Pod launchers can launch as "
+"a group - but the launchers must be placed adjacent to each other."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:529
+msgctxt "TransportPod.label"
+msgid "transport pod"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:530
+msgctxt "TransportPod.description"
+msgid ""
+"A launchable sub-orbital cargo pod capable of carrying people, items, or "
+"animals. Can be used for sending gifts, transporting people or supplies, "
+"surprise attacks, or reinforcing battles."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:583
+msgctxt "MultiAnalyzer.label"
+msgid "multi-analyzer"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:584
+msgctxt "MultiAnalyzer.description"
+msgid ""
+"Increases research speed when placed near hi-tech research bench and unlocks"
+" new research projects. Each research bench can only use one multi-analyzer."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:643
+msgctxt "VitalsMonitor.label"
+msgid "vitals monitor"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:644
+msgctxt "VitalsMonitor.description"
+msgid ""
+"Increases medical tend quality, surgery success chance, and immunity gain "
+"speed when placed directly adjacent to a hospital bed. Only works for "
+"hospital beds - normal beds will not benefit. Attaching more than one vitals"
+" monitor to the same bed will have no effect."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:710
+msgctxt "ToolCabinet.label"
+msgid "tool cabinet"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:711
+msgctxt "ToolCabinet.description"
+msgid ""
+"Increases work speed when placed near a workbench. One workbench can use up "
+"to two tool cabinets."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:771
+msgctxt "Grave.label"
+msgid "grave"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:772
+msgctxt "Grave.description"
+msgid ""
+"A decent final resting place. Colonists will visit full graves to gain "
+"meditative joy."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:874
+msgctxt "Sarcophagus.label"
+msgid "sarcophagus"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:875
+msgctxt "Sarcophagus.description"
+msgid "An ornamented burial receptacle for the honored dead."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1011
+msgctxt "CryptosleepCasket.label"
+msgid "cryptosleep casket"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1012
+msgctxt "CryptosleepCasket.description"
+msgid ""
+"A self-powered sarcophagus designed to keep a person in a state of suspended"
+" animation for many years."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1078
+msgctxt "AncientCryptosleepCasket.label"
+msgid "ancient cryptosleep casket"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1079
+msgctxt "AncientCryptosleepCasket.description"
+msgid ""
+"This cryptosleep casket looks like it has been here for a very long time. "
+"Who knows what it might contain?"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1142
+msgctxt "MarriageSpot.label"
+msgid "marriage spot"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1143
+msgctxt "MarriageSpot.description"
+msgid ""
+"Designates a spot where marriage ceremonies will take place. Spectators can "
+"watch from either side."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1180
+msgctxt "PartySpot.label"
+msgid "party spot"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1181
+msgctxt "PartySpot.description"
+msgid "Designates a spot for throwing parties."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1211
+msgctxt "CaravanPackingSpot.label"
+msgid "caravan hitching spot"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1212
+msgctxt "CaravanPackingSpot.description"
+msgid ""
+"Designates a spot for hitching animals and forming caravans. Colonists will "
+"hitch animals here while loading a caravan. You can also use these during "
+"encounters away from home to keep animals from wandering."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1275
+msgctxt "SteleLarge.label"
+msgid "large stele"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1276
+msgctxt "SteleLarge.description"
+msgid ""
+"A tall, thick slab with engravings on the sides. Steles have been used since"
+" ancient times to memorialize individuals, battles, and other important "
+"events."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1313
+msgctxt "SteleGrand.label"
+msgid "grand stele"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1314
+msgctxt "SteleGrand.description"
+msgid ""
+"A towering slab with extensive engravings on the sides. Steles have been "
+"used since ancient times to memorialize individuals, battles, and other "
+"important events."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1351
+msgctxt "PenMarker.label"
+msgid "pen marker"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1352
+msgctxt "PenMarker.description"
+msgid ""
+"A post with a sign designating an animal pen. It must be placed in an area "
+"enclosed by fences, barricades, walls, and doors. You can assign each pen "
+"marker a set of animals to accept, and handlers will bring animals to an "
+"appropriate pen."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Misc.xml:1418
+msgctxt "DelayedEffecterSpawner.label"
+msgid "delayed effecter spawner"
+msgstr ""

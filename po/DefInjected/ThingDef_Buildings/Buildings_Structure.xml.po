@@ -1,0 +1,110 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Buildings/Buildings_Structure.xml:61
+msgctxt "Door.label"
+msgid "door"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Structure.xml:62
+msgctxt "Door.description"
+msgid ""
+"Divides rooms. Simple doors must be manually opened, which slows people "
+"down. The amount of slowdown depends on what the door is made of."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Structure.xml:81
+msgctxt "Autodoor.label"
+msgid "autodoor"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Structure.xml:82
+msgctxt "Autodoor.description"
+msgid ""
+"Divides rooms. Powered operation allows people to move through the door "
+"without slowing down."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Structure.xml:116
+msgctxt "AnimalFlap.label"
+msgid "animal flap"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Structure.xml:117
+msgctxt "AnimalFlap.description"
+msgid ""
+"A doorway hung with thick overlapping strips of fabric or leather. It allows"
+" animals to pass while insulating the temperature. Animal flaps are commonly"
+" used as barn doors to give penned animals a sheltered place to sleep."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Structure.xml:149
+msgctxt "OrnateDoor.label"
+msgid "ornate door"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Structure.xml:150
+msgctxt "OrnateDoor.description"
+msgid ""
+"Divides rooms. An intricately-carved door, decorated with gold. This large, "
+"heavy door requires adjacent walls to function."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Structure.xml:206
+msgctxt "Wall.label"
+msgid "wall"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Structure.xml:207
+msgctxt "Wall.description"
+msgid "An impassable wall. Capable of holding up a roof."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Structure.xml:314
+msgctxt "Fence.label"
+msgid "fence"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Structure.xml:315
+msgctxt "Fence.description"
+msgid ""
+"A fence made of posts joined by crossbars used for building pens for certain"
+" kinds of animals. Some kinds of animals can get past fences. Predators will"
+" not hunt creatures on the other side of a fence, but may still wander "
+"inside."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Structure.xml:405
+msgctxt "FenceGate.label"
+msgid "fence gate"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Structure.xml:406
+msgctxt "FenceGate.description"
+msgid ""
+"A simple gate made of posts and crossbars. It blocks some animals like a "
+"fence. Handlers can lead animals in and out of the pen through these gates."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Structure.xml:448
+msgctxt "Column.label"
+msgid "column"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Structure.xml:449
+msgctxt "Column.description"
+msgid ""
+"A column capable of holding a roof. Does not block sight or movement and "
+"looks quite nice."
+msgstr ""

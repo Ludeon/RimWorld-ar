@@ -1,0 +1,50 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 21:14\n"
+"PO-Revision-Date: 2024-05-04 21:14\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/BiomeDefs/Biomes_WarmArid.xml:6
+msgctxt "AridShrubland.label"
+msgid "arid shrubland"
+msgstr ""
+
+#: Defs/BiomeDefs/Biomes_WarmArid.xml:7
+msgctxt "AridShrubland.description"
+msgid ""
+"A dry region, but not dry enough to become a true desert. Open plains with "
+"grasses and bushes give way to scattered groves of trees. Plants are hardy "
+"and there is a moderate density of animals, but arable soil is hard to find."
+msgstr ""
+
+#: Defs/BiomeDefs/Biomes_WarmArid.xml:140
+msgctxt "Desert.label"
+msgid "desert"
+msgstr ""
+
+#: Defs/BiomeDefs/Biomes_WarmArid.xml:141
+msgctxt "Desert.description"
+msgid ""
+"A very dry area which supports little life. There is very little arable "
+"land, and animal life is very sparse. Deserts can be hot, or quite cold."
+msgstr ""
+
+#: Defs/BiomeDefs/Biomes_WarmArid.xml:264
+msgctxt "ExtremeDesert.label"
+msgid "extreme desert"
+msgstr ""
+
+#: Defs/BiomeDefs/Biomes_WarmArid.xml:265
+msgctxt "ExtremeDesert.description"
+msgid ""
+"An extremely hot, dry area, devoid of almost all life. Searing heat and a "
+"near total lack of arable land make it very difficult to survive here."
+msgstr ""
