@@ -61,6 +61,6 @@ jobs:
       - name: Git add output files
         run: git add output/
       - name: Git commit output files
-        run: git commit -m "Generate output file for changes"
+        run: if [ -n "$(git diff --cached --exit-code)" ]; then git commit -m "Generate output file for changes"; fi
       - name: Git push output files
         run: git push
