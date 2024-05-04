@@ -1,0 +1,111 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Races/Races_Animal_Insect.xml:38
+#, fuzzy
+msgctxt "Megascarab.label"
+msgid "megascarab"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_Insect.xml:39
+#, fuzzy
+msgctxt "Megascarab.description"
+msgid ""
+"A large, genetically-engineered beetle. Once the worker caste of an "
+"artificial ecosystem of insectoids designed to fight mechanoid invasions, it"
+" is now often seen without its deadlier insectoid cousins. Still, its size "
+"and hard shell make it dangerous when it attacks. A eusocial creature, it "
+"cannot reproduce individually."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_Insect.xml:51
+msgctxt "Megascarab.tools.0.label"
+msgid "mandibles"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_Insect.xml:60
+msgctxt "Megascarab.tools.1.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_Insect.xml:115
+#, fuzzy
+msgctxt "Megascarab.label"
+msgid "megascarab"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_Insect.xml:165
+#, fuzzy
+msgctxt "Spelopede.label"
+msgid "spelopede"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_Insect.xml:166
+#, fuzzy
+msgctxt "Spelopede.description"
+msgid ""
+"A medium-sized bioengineered insectoid the size of a sheep. The spelopede is"
+" the middle caste of a hive, taking care of most work tasks as well as "
+"fighting with its digging claws. It's dangerous in combat, but slow on open "
+"ground."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_Insect.xml:178
+msgctxt "Spelopede.tools.0.label"
+msgid "head claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_Insect.xml:187
+msgctxt "Spelopede.tools.1.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_Insect.xml:242
+#, fuzzy
+msgctxt "Spelopede.label"
+msgid "spelopede"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_Insect.xml:292
+#, fuzzy
+msgctxt "Megaspider.label"
+msgid "megaspider"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_Insect.xml:293
+#, fuzzy
+msgctxt "Megaspider.description"
+msgid ""
+"Not actually a spider, the megaspider is a genetically-engineered giant "
+"insectoid the size of a small bear. Designed for heavy work and combat, its "
+"thick chitinous armor makes it hard to kill, while its long ripper-blades "
+"make it deadly at close quarters. It is, however, quite slow in open "
+"terrain."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_Insect.xml:305
+msgctxt "Megaspider.tools.0.label"
+msgid "head claw"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_Insect.xml:314
+msgctxt "Megaspider.tools.1.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_Insect.xml:363
+#, fuzzy
+msgctxt "Megaspider.label"
+msgid "megaspider"
+msgstr "TODO"

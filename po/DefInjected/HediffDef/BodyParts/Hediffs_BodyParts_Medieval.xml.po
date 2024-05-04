@@ -1,0 +1,107 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Medieval.xml:33
+#, fuzzy
+msgctxt "PegLeg.label"
+msgid "peg leg"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Medieval.xml:35
+msgctxt "PegLeg.description"
+msgid ""
+"An installed peg leg. Allows the user to walk again, albeit not very well."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Medieval.xml:46
+#, fuzzy
+msgctxt "InstallPegLeg.label"
+msgid "install peg leg"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Medieval.xml:47
+#, fuzzy
+msgctxt "InstallPegLeg.description"
+msgid "Install a peg leg."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Medieval.xml:61
+msgctxt "WoodenHand.label"
+msgid "wooden hand"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Medieval.xml:63
+msgctxt "WoodenHand.description"
+msgid "An installed wooden hand. Better than a stump, but not by much."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Medieval.xml:74
+msgctxt "InstallWoodenHand.label"
+msgid "install wooden hand"
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Medieval.xml:75
+msgctxt "InstallWoodenHand.description"
+msgid "Install a wooden hand."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Medieval.xml:89
+#, fuzzy
+msgctxt "WoodenFoot.label"
+msgid "wooden foot"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Medieval.xml:91
+msgctxt "WoodenFoot.description"
+msgid ""
+"An installed wooden foot. Restores some stability to the user, but without "
+"finer motor skills."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Medieval.xml:102
+#, fuzzy
+msgctxt "InstallWoodenFoot.label"
+msgid "install wooden foot"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Medieval.xml:103
+#, fuzzy
+msgctxt "InstallWoodenFoot.description"
+msgid "Install a wooden foot."
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Medieval.xml:119
+#, fuzzy
+msgctxt "Denture.label"
+msgid "denture"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Medieval.xml:121
+msgctxt "Denture.description"
+msgid ""
+"An installed denture. Allows for some basic functionality like eating and "
+"talking."
+msgstr ""
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Medieval.xml:131
+#, fuzzy
+msgctxt "InstallDenture.label"
+msgid "install denture"
+msgstr "TODO"
+
+#: Defs/HediffDefs/BodyParts/Hediffs_BodyParts_Medieval.xml:132
+#, fuzzy
+msgctxt "InstallDenture.description"
+msgid "Install a denture."
+msgstr "TODO"

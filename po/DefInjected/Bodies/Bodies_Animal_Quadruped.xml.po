@@ -1,0 +1,73 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Bodies/Bodies_Animal_Quadruped.xml:14
+#, fuzzy
+msgctxt "QuadrupedAnimalWithPaws.label"
+msgid "quadruped animal"
+msgstr "TODO"
+
+#: Defs/Bodies/Bodies_Animal_Quadruped.xml:187
+#, fuzzy
+msgctxt "QuadrupedAnimalWithPawsAndTail.label"
+msgid "quadruped animal"
+msgstr "TODO"
+
+#: Defs/Bodies/Bodies_Animal_Quadruped.xml:364
+#, fuzzy
+msgctxt "QuadrupedAnimalWithHooves.label"
+msgid "quadruped animal"
+msgstr "TODO"
+
+#: Defs/Bodies/Bodies_Animal_Quadruped.xml:537
+#, fuzzy
+msgctxt "QuadrupedAnimalWithHoovesAndHump.label"
+msgid "quadruped animal"
+msgstr "TODO"
+
+#: Defs/Bodies/Bodies_Animal_Quadruped.xml:715
+#, fuzzy
+msgctxt "QuadrupedAnimalWithHoovesAndTusks.label"
+msgid "quadruped animal"
+msgstr "TODO"
+
+#: Defs/Bodies/Bodies_Animal_Quadruped.xml:906
+#, fuzzy
+msgctxt "QuadrupedAnimalWithHoovesTusksAndTrunk.label"
+msgid "quadruped animal"
+msgstr "TODO"
+
+#: Defs/Bodies/Bodies_Animal_Quadruped.xml:1098
+#, fuzzy
+msgctxt "QuadrupedAnimalWithHoovesAndHorn.label"
+msgid "quadruped animal"
+msgstr "TODO"
+
+#: Defs/Bodies/Bodies_Animal_Quadruped.xml:1280
+#, fuzzy
+msgctxt "QuadrupedAnimalWithClawsTailAndJowl.label"
+msgid "quadruped animal"
+msgstr "TODO"
+
+#: Defs/Bodies/Bodies_Animal_Quadruped.xml:1565
+#, fuzzy
+msgctxt "TurtleLike.label"
+msgid "turtle-like"
+msgstr "TODO"
+
+#: Defs/Bodies/Bodies_Animal_Quadruped.xml:1689
+#, fuzzy
+msgctxt "Monkey.label"
+msgid "monkey"
+msgstr "TODO"

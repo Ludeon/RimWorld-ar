@@ -1,0 +1,145 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:8
+#, fuzzy
+msgctxt "MechanicalNeck.label"
+msgid "neck"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:24
+#, fuzzy
+msgctxt "MechanicalHead.label"
+msgid "head"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:35
+#, fuzzy
+msgctxt "ArtificialBrain.label"
+msgid "artificial brain"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:49
+#, fuzzy
+msgctxt "Reactor.label"
+msgid "reactor"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:63
+#, fuzzy
+msgctxt "FluidReprocessor.label"
+msgid "fluid reprocessor"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:77
+#, fuzzy
+msgctxt "SightSensor.label"
+msgid "visual sensor"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:93
+#, fuzzy
+msgctxt "HearingSensor.label"
+msgid "sound sensor"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:108
+#, fuzzy
+msgctxt "SmellSensor.label"
+msgid "chemical analyzer"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:120
+#, fuzzy
+msgctxt "MechanicalShoulder.label"
+msgid "shoulder"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:134
+#, fuzzy
+msgctxt "MechanicalArm.label"
+msgid "arm"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:148
+#, fuzzy
+msgctxt "MechanicalHand.label"
+msgid "hand"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:162
+#, fuzzy
+msgctxt "MechanicalFinger.label"
+msgid "finger"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:178
+#, fuzzy
+msgctxt "MechanicalLeg.label"
+msgid "leg"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:192
+#, fuzzy
+msgctxt "MechanicalFoot.label"
+msgid "foot"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:209
+#, fuzzy
+msgctxt "MechanicalThorax.label"
+msgid "thorax"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:229
+#, fuzzy
+msgctxt "Blade.label"
+msgid "blade"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:256
+#, fuzzy
+msgctxt "MechanicalCentipedeBodyFirstRing.label"
+msgid "first body ring"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:262
+#, fuzzy
+msgctxt "MechanicalCentipedeBodySecondRing.label"
+msgid "second body ring"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:268
+#, fuzzy
+msgctxt "MechanicalCentipedeBodyThirdRing.label"
+msgid "third body ring"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:274
+#, fuzzy
+msgctxt "MechanicalCentipedeBodyFourthRing.label"
+msgid "fourth body ring"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:280
+#, fuzzy
+msgctxt "MechanicalCentipedeBodyFifthRing.label"
+msgid "fifth body ring"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyParts_Mechanoid.xml:286
+#, fuzzy
+msgctxt "MechanicalCentipedeBodySixthRing.label"
+msgid "sixth body ring"
+msgstr "TODO"

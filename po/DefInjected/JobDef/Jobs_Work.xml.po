@@ -1,0 +1,405 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/JobDefs/Jobs_Work.xml:10
+#, fuzzy
+msgctxt "HaulToCell.reportString"
+msgid "hauling TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:18
+#, fuzzy
+msgctxt "HaulToContainer.reportString"
+msgid "hauling TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:28
+#, fuzzy
+msgctxt "Steal.reportString"
+msgid "stealing TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:36
+#, fuzzy
+msgctxt "Kidnap.reportString"
+msgid "kidnapping TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:44
+#, fuzzy
+msgctxt "CarryDownedPawnToExit.reportString"
+msgid "carrying TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:52
+msgctxt "CarryDownedPawnToPortal.reportString"
+msgid "carrying TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:63
+#, fuzzy
+msgctxt "Rescue.reportString"
+msgid "rescuing TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:72
+#, fuzzy
+msgctxt "CarryToCryptosleepCasket.reportString"
+msgid "carrying TargetA to cryptosleep casket."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:80
+#, fuzzy
+msgctxt "Capture.reportString"
+msgid "capturing TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:90
+#, fuzzy
+msgctxt "Arrest.reportString"
+msgid "arresting TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:100
+#, fuzzy
+msgctxt "ReleasePrisoner.reportString"
+msgid "releasing TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:109
+#, fuzzy
+msgctxt "EscortPrisonerToBed.reportString"
+msgid "escorting prisoner TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:118
+#, fuzzy
+msgctxt "TakeWoundedPrisonerToBed.reportString"
+msgid "taking wounded prisoner TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:127
+#, fuzzy
+msgctxt "TakeToBedToOperate.reportString"
+msgid "taking TargetA to bed."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:136
+msgctxt "TakeDownedPawnToBedDrafted.reportString"
+msgid "taking TargetA to bed."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:144
+msgctxt "CarryDownedPawnDrafted.reportString"
+msgid "carrying TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:151
+msgctxt "CarryToCryptosleepCasketDrafted.reportString"
+msgid "carrying TargetA to cryptosleep casket."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:161
+msgctxt "CarryToPrisonerBedDrafted.reportString"
+msgid "arresting TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:174
+#, fuzzy
+msgctxt "Slaughter.reportString"
+msgid "slaughtering TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:181
+#, fuzzy
+msgctxt "Milk.reportString"
+msgid "milking TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:188
+#, fuzzy
+msgctxt "Shear.reportString"
+msgid "shearing TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:195
+#, fuzzy
+msgctxt "Tame.reportString"
+msgid "taming TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:202
+#, fuzzy
+msgctxt "Train.reportString"
+msgid "training TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:210
+msgctxt "RopeToPen.reportString"
+msgid "leading TargetA to TargetC."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:218
+msgctxt "RopeRoamerToUnenclosedPen.reportString"
+msgid "leading TargetA to TargetC."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:226
+msgctxt "RopeRoamerToHitchingPost.reportString"
+msgid "leading TargetA to hitching spot."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:234
+msgctxt "Unrope.reportString"
+msgid "unroping TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:242
+msgctxt "ReleaseAnimalToWild.reportString"
+msgid "releasing TargetA into the wild."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:252
+#, fuzzy
+msgctxt "PlaceNoCostFrame.reportString"
+msgid "building TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:259
+msgctxt "Replant.reportString"
+msgid "replanting TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:266
+#, fuzzy
+msgctxt "FinishFrame.reportString"
+msgid "building TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:273
+#, fuzzy
+msgctxt "Deconstruct.reportString"
+msgid "deconstructing TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:280
+#, fuzzy
+msgctxt "Uninstall.reportString"
+msgid "uninstalling TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:287
+msgctxt "ExtractTree.reportString"
+msgid "extracting TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:294
+#, fuzzy
+msgctxt "Repair.reportString"
+msgid "repairing TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:301
+#, fuzzy
+msgctxt "FixBrokenDownBuilding.reportString"
+msgid "replacing broken components in TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:308
+#, fuzzy
+msgctxt "BuildRoof.reportString"
+msgid "building roof."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:315
+#, fuzzy
+msgctxt "RemoveRoof.reportString"
+msgid "removing roof."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:322
+msgctxt "PaintBuilding.reportString"
+msgid "painting TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:329
+msgctxt "PaintFloor.reportString"
+msgid "painting TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:336
+msgctxt "RemovePaintBuilding.reportString"
+msgid "removing paint from TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:343
+msgctxt "RemovePaintFloor.reportString"
+msgid "removing paint from TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:352
+#, fuzzy
+msgctxt "FeedPatient.reportString"
+msgid "feeding TargetA to TargetB."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:359
+#, fuzzy
+msgctxt "TendPatient.reportString"
+msgid "tending to TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:369
+#, fuzzy
+msgctxt "DeliverFood.reportString"
+msgid "feeding TargetA to TargetB."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:376
+#, fuzzy
+msgctxt "DoBill.reportString"
+msgid "doing bill at TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:384
+#, fuzzy
+msgctxt "OperateDeepDrill.reportString"
+msgid "drilling at TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:391
+#, fuzzy
+msgctxt "OperateScanner.reportString"
+msgid "scanning at TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:398
+#, fuzzy
+msgctxt "Clean.reportString"
+msgid "cleaning TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:405
+#, fuzzy
+msgctxt "Research.reportString"
+msgid "researching."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:412
+#, fuzzy
+msgctxt "Hunt.reportString"
+msgid "hunting TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:421
+#, fuzzy
+msgctxt "UseCommsConsole.reportString"
+msgid "using comms console."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:428
+#, fuzzy
+msgctxt "Mine.reportString"
+msgid "digging at TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:435
+#, fuzzy
+msgctxt "SmoothFloor.reportString"
+msgid "smoothing floor."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:442
+#, fuzzy
+msgctxt "RemoveFloor.reportString"
+msgid "removing floor."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:449
+#, fuzzy
+msgctxt "SmoothWall.reportString"
+msgid "smoothing wall."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:456
+#, fuzzy
+msgctxt "Sow.reportString"
+msgid "sowing TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:463
+#, fuzzy
+msgctxt "Harvest.reportString"
+msgid "harvesting TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:470
+#, fuzzy
+msgctxt "HarvestDesignated.reportString"
+msgid "harvesting TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:477
+#, fuzzy
+msgctxt "CutPlant.reportString"
+msgid "cutting TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:484
+#, fuzzy
+msgctxt "CutPlantDesignated.reportString"
+msgid "cutting TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:491
+#, fuzzy
+msgctxt "PrisonerAttemptRecruit.reportString"
+msgid "attempting to recruit TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:498
+#, fuzzy
+msgctxt "PrisonerExecution.reportString"
+msgid "executing TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Work.xml:506
+msgctxt "GuiltyColonistExecution.reportString"
+msgid "executing TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:514
+msgctxt "PlantSeed.reportString"
+msgid "planting TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:522
+msgctxt "StudyItem.reportString"
+msgid "Studying TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:528
+msgctxt "ExtractSkull.reportString"
+msgid "extracting skull from TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:536
+msgctxt "StudyInteract.reportString"
+msgid "Studying TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Work.xml:544
+msgctxt "AnalyzeItem.reportString"
+msgid "Analyzing TargetA."
+msgstr ""

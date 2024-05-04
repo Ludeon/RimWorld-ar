@@ -1,0 +1,358 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:6
+#, fuzzy
+msgctxt "BondedWithAnimal.label"
+msgid "bond developed"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:13
+msgctxt "BondedWithAnimal.rulePack.rulesStrings.0"
+msgid "tale_noun->[HUMAN_nameDef]'s bonding with [ANIMAL_nameDef]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:13
+msgctxt "BondedWithAnimal.rulePack.rulesStrings.1"
+msgid ""
+"image->[HUMAN_nameFull] bonding with [ANIMAL_nameFull] [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:13
+msgctxt "BondedWithAnimal.rulePack.rulesStrings.2"
+msgid ""
+"image->[HUMAN_nameFull] forming a deep bond with [ANIMAL_nameFull] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:13
+msgctxt "BondedWithAnimal.rulePack.rulesStrings.3"
+msgid ""
+"image->[HUMAN_nameFull] realizing [HUMAN_possessive] truly loves "
+"[ANIMAL_nameFull] [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:13
+msgctxt "BondedWithAnimal.rulePack.rulesStrings.4"
+msgid "circumstance_phrase->while other animals look on"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:13
+msgctxt "BondedWithAnimal.rulePack.rulesStrings.5"
+msgid "circumstance_phrase->while looking into [ANIMAL_nameDef]'s eyes"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:13
+msgctxt "BondedWithAnimal.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->with a sense of satisfaction"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:13
+msgctxt "BondedWithAnimal.rulePack.rulesStrings.7"
+msgid ""
+"desc_sentence->[ANIMAL_nameDef] is snuggling up against [HUMAN_nameDef]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:13
+msgctxt "BondedWithAnimal.rulePack.rulesStrings.8"
+msgid "desc_sentence->[ANIMAL_nameDef] looks sleepy and drunk with love."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:13
+msgctxt "BondedWithAnimal.rulePack.rulesStrings.9"
+msgid "desc_sentence->[ANIMAL_nameDef] stands tall and looks noble."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:13
+msgctxt "BondedWithAnimal.rulePack.rulesStrings.10"
+msgid "desc_sentence->[ANIMAL_nameDef] is responding positively."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:31
+#, fuzzy
+msgctxt "BecameLover.label"
+msgid "became lover"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:38
+msgctxt "BecameLover.rulePack.rulesStrings.0"
+msgid "tale_noun->[PURSUER_nameDef] and [ACCEPTER_nameDef] becoming lovers"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:38
+msgctxt "BecameLover.rulePack.rulesStrings.1"
+msgid ""
+"image->[PURSUER_nameFull] whispering sweet nothings into "
+"[ACCEPTER_nameFull]'s ear [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:38
+msgctxt "BecameLover.rulePack.rulesStrings.2"
+msgid ""
+"image->[PURSUER_nameFull] leading [ACCEPTER_nameFull] by the hand into bed "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:38
+msgctxt "BecameLover.rulePack.rulesStrings.3"
+msgid ""
+"image->[PURSUER_nameFull] gambolling in bed with [ACCEPTER_nameFull] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:38
+msgctxt "BecameLover.rulePack.rulesStrings.4"
+msgid ""
+"image->[PURSUER_nameFull] deeply kissing [ACCEPTER_nameFull] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:38
+msgctxt "BecameLover.rulePack.rulesStrings.5"
+msgid "circumstance_phrase->in an unrealistically large bed"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:38
+msgctxt "BecameLover.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->between the sheets"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:38
+msgctxt "BecameLover.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->with few clothes in sight"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:38
+msgctxt "BecameLover.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->while both are drenched in sweat"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:38
+msgctxt "BecameLover.rulePack.rulesStrings.9"
+msgid ""
+"desc_sentence->[PURSUER_nameDef] is snuggling up against [ACCEPTER_nameDef]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:38
+msgctxt "BecameLover.rulePack.rulesStrings.10"
+msgid ""
+"desc_sentence->[PURSUER_nameDef] is locking eyes with [ACCEPTER_nameDef]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:38
+msgctxt "BecameLover.rulePack.rulesStrings.11"
+msgid "desc_sentence->[PURSUER_nameDef] is blowing air at [ACCEPTER_nameDef]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:38
+msgctxt "BecameLover.rulePack.rulesStrings.12"
+msgid ""
+"desc_sentence->[PURSUER_nameDef] is stylistically bonded with "
+"[ACCEPTER_nameDef]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:38
+msgctxt "BecameLover.rulePack.rulesStrings.13"
+msgid ""
+"desc_sentence->[PURSUER_nameDef] is a near-mirror image of "
+"[ACCEPTER_nameDef]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:38
+msgctxt "BecameLover.rulePack.rulesStrings.14"
+msgid ""
+"desc_sentence->[PURSUER_nameDef] is touching [ACCEPTER_nameDef] "
+"aggressively."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:60
+#, fuzzy
+msgctxt "Breakup.label"
+msgid "breakup"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:67
+msgctxt "Breakup.rulePack.rulesStrings.0"
+msgid "tale_noun->the breakup of [DUMPER_nameDef] and [REJECTED_nameDef]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:67
+msgctxt "Breakup.rulePack.rulesStrings.1"
+msgid ""
+"image->[DUMPER_nameFull] sitting [REJECTED_nameFull] down for an unpleasant "
+"talk [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:67
+msgctxt "Breakup.rulePack.rulesStrings.2"
+msgid ""
+"image->[DUMPER_nameFull] standing at a distance from [REJECTED_nameFull] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:67
+msgctxt "Breakup.rulePack.rulesStrings.3"
+msgid ""
+"image->[DUMPER_nameFull] pushing [REJECTED_nameFull] out of bed "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:67
+msgctxt "Breakup.rulePack.rulesStrings.4"
+msgid ""
+"image->[DUMPER_nameFull] rejecting a hug from [REJECTED_nameFull] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:67
+msgctxt "Breakup.rulePack.rulesStrings.5"
+msgid "circumstance_phrase->in a moment of great sadness"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:67
+msgctxt "Breakup.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->as others look away awkwardly"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:67
+msgctxt "Breakup.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->as others look on"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:67
+msgctxt "Breakup.rulePack.rulesStrings.8"
+msgid "desc_sentence->[REJECTED_nameDef] is sobbing uncontrollably."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:67
+msgctxt "Breakup.rulePack.rulesStrings.9"
+msgid ""
+"desc_sentence->[REJECTED_nameDef] is sneering and crying at the same time."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:67
+msgctxt "Breakup.rulePack.rulesStrings.10"
+msgid "desc_sentence->[REJECTED_nameDef] is stony-faced with shock."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:67
+msgctxt "Breakup.rulePack.rulesStrings.11"
+msgid ""
+"desc_sentence->[DUMPER_nameDef] is stylistically separated from "
+"[REJECTED_nameDef]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:67
+msgctxt "Breakup.rulePack.rulesStrings.12"
+msgid ""
+"desc_sentence->[REJECTED_nameDef] has collapsed on the floor in a quivering "
+"heap."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:67
+msgctxt "Breakup.rulePack.rulesStrings.13"
+msgid ""
+"desc_sentence->[REJECTED_nameDef] is gesticulating angrily at "
+"[DUMPER_nameDef]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:88
+#, fuzzy
+msgctxt "Marriage.label"
+msgid "marriage"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:96
+msgctxt "Marriage.rulePack.rulesStrings.0"
+msgid "tale_noun->the marriage of [SPOUSE1_nameDef] and [SPOUSE2_nameDef]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:96
+msgctxt "Marriage.rulePack.rulesStrings.1"
+msgid ""
+"image->[SPOUSE1_nameFull] marrying [SPOUSE2_nameFull] [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:96
+msgctxt "Marriage.rulePack.rulesStrings.2"
+msgid ""
+"image->[SPOUSE1_nameFull] saying [SPOUSE1_possessive] marriage vows to "
+"[SPOUSE2_nameFull] [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:96
+msgctxt "Marriage.rulePack.rulesStrings.3"
+msgid ""
+"image->[SPOUSE1_nameFull] walking down the aisle with [SPOUSE2_nameFull] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:96
+msgctxt "Marriage.rulePack.rulesStrings.4"
+msgid ""
+"image->[SPOUSE1_nameFull] holding hands with [SPOUSE2_nameFull] during a "
+"marriage ceremony [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:96
+msgctxt "Marriage.rulePack.rulesStrings.5"
+msgid "circumstance_phrase->in a dignified ceremony"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:96
+msgctxt "Marriage.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->while both laugh gaily"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:96
+msgctxt "Marriage.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->while others look on solemnly"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:96
+msgctxt "Marriage.rulePack.rulesStrings.8"
+msgid ""
+"desc_sentence->[SPOUSE1_nameDef] is snuggling up against [SPOUSE2_nameDef]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:96
+msgctxt "Marriage.rulePack.rulesStrings.9"
+msgid ""
+"desc_sentence->[SPOUSE1_nameDef] is locking eyes with [SPOUSE2_nameDef]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:96
+msgctxt "Marriage.rulePack.rulesStrings.10"
+msgid "desc_sentence->[SPOUSE1_nameDef] is blowing air at [SPOUSE2_nameDef]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:96
+msgctxt "Marriage.rulePack.rulesStrings.11"
+msgid ""
+"desc_sentence->[SPOUSE1_nameDef] is stylistically bonded with "
+"[SPOUSE2_nameDef]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:96
+msgctxt "Marriage.rulePack.rulesStrings.12"
+msgid ""
+"desc_sentence->[SPOUSE1_nameDef] is a near-mirror image of "
+"[SPOUSE2_nameDef]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_DoublePawn_Relationships.xml:96
+msgctxt "Marriage.rulePack.rulesStrings.13"
+msgid ""
+"desc_sentence->[SPOUSE1_nameDef] is touching [SPOUSE2_nameDef] aggressively."
+msgstr ""

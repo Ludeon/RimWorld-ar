@@ -1,0 +1,141 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:154
+#, fuzzy
+msgctxt "Wolf_Timber.label"
+msgid "timber wolf"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:155
+#, fuzzy
+msgctxt "Wolf_Timber.description"
+msgid ""
+"A rugged predator long feared by many ancient Earth cultures. As pack "
+"hunters, wolves have complex social lives and are fiercely intelligent."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:163
+#, fuzzy
+msgctxt "Wolf_Timber.label"
+msgid "timber wolf"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:168
+msgctxt "Wolf_Timber.lifeStages.0.label"
+msgid "timber wolf puppy"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:214
+#, fuzzy
+msgctxt "Wolf_Arctic.label"
+msgid "arctic wolf"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:215
+#, fuzzy
+msgctxt "Wolf_Arctic.description"
+msgid ""
+"An arctic variant of the old Earth wolf. As pack hunters, wolves have a "
+"complex social life and are fiercely intelligent."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:226
+#, fuzzy
+msgctxt "Wolf_Arctic.label"
+msgid "arctic wolf"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:231
+msgctxt "Wolf_Arctic.lifeStages.0.label"
+msgid "arctic wolf puppy"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:406
+#, fuzzy
+msgctxt "Fox_Fennec.label"
+msgid "fennec fox"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:407
+#, fuzzy
+msgctxt "Fox_Fennec.description"
+msgid ""
+"A small fox originally from the northern part of Earth's Africa continent. "
+"It hunts small creatures and has very large ears for cooling itself in the "
+"heat."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:424
+#, fuzzy
+msgctxt "Fox_Fennec.label"
+msgid "fennec fox"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:429
+msgctxt "Fox_Fennec.lifeStages.0.label"
+msgid "fennec fox puppy"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:471
+#, fuzzy
+msgctxt "Fox_Red.label"
+msgid "red fox"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:472
+#, fuzzy
+msgctxt "Fox_Red.description"
+msgid ""
+"A small solitary canine evolved for hunting small prey in temperate "
+"climates. Chicken farmers hate foxes because of their ability to destroy a "
+"whole coop in minutes."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:480
+#, fuzzy
+msgctxt "Fox_Red.label"
+msgid "red fox"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:485
+msgctxt "Fox_Red.lifeStages.0.label"
+msgid "red fox puppy"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:527
+#, fuzzy
+msgctxt "Fox_Arctic.label"
+msgid "arctic fox"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:528
+#, fuzzy
+msgctxt "Fox_Arctic.description"
+msgid ""
+"A small predator adapted for cold climates. It usually hunts small game like"
+" mice and voles, sometimes burrowing through a meter of snow to reach its "
+"prey."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:539
+#, fuzzy
+msgctxt "Fox_Arctic.label"
+msgid "arctic fox"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_WildCanines.xml:544
+msgctxt "Fox_Arctic.lifeStages.0.label"
+msgid "arctic fox puppy"
+msgstr ""

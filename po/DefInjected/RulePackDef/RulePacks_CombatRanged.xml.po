@@ -1,0 +1,1133 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:7
+msgctxt "Combat_RangedBase.rulePack.rulesStrings.0"
+msgid "projectile(WEAPON_missing==True, p=3)->[PROJECTILE_label]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:7
+msgctxt "Combat_RangedBase.rulePack.rulesStrings.1"
+msgid "projectile->[WEAPON_projectile_label]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite] with "
+"[INITIATOR_possessive] [WEAPON_label]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.1"
+msgid ""
+"r_logentry->[INITIATOR_definite] [shot] [INITIATOR_possessive] "
+"[WEAPON_label] at [RECIPIENT_definite]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.2"
+msgid "r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.3"
+msgid ""
+"r_logentry->[INITIATOR_definite] [shot_a] [projectile] [burst] at "
+"[RECIPIENT_definite]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.4"
+msgid ""
+"r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot_a] "
+"[projectile]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.5"
+msgid ""
+"r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [shot] "
+"[INITIATOR_possessive] [WEAPON_label]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.6"
+msgid "shot_a(p=2)->[verb_shot] a"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.7"
+msgid "shot_a->[skillAdv] [verb_shot] a"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.8"
+msgid "shot(p=2)->[verb_shot]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.9"
+msgid "shot->[skillAdv] [verb_shot]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.10"
+msgid "shotat->shot [aburst] at"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.11"
+msgid "shotat->[skillAdv] shot [aburst] at"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.12"
+msgid "shotat(p=0.5)->tried to shoot [aburst] at"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.13"
+msgid "shotat(p=0.3)->took a shot at"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.14"
+msgid "shotat(p=0.2)->[skillAdv] took a shot at"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.15"
+msgid "shotat->fired [aburst] at"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.16"
+msgid "shotat->fired [aburst] [skillAdv] at"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.17"
+msgid "shotat(p=0.5)->aimed and fired [aburst] at"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.18"
+msgid "shotat(p=0.5)->[skillAdv] aimed and fired [aburst] at"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.19"
+msgid "shotat(p=0.3)->opened fire at"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.20"
+msgid "aburst->"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.21"
+msgid "aburst(BURST==True,p=3)->a burst"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.22"
+msgid "burst->"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.23"
+msgid "burst(BURST==True,p=3)->burst"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.24"
+msgid "verb_shot->shot"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.25"
+msgid "verb_shot->fired"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:21
+msgctxt "Combat_RangedFire.rulePack.rulesStrings.26"
+msgid "verb_shot(p=0.2)->discharged"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_definite] [threw] [INITIATOR_possessive] [projectile]"
+" at [RECIPIENT_definite]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.1"
+msgid ""
+"r_logentry->[INITIATOR_definite] [threw_a] [projectile] at "
+"[RECIPIENT_definite]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.2"
+msgid ""
+"r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw] "
+"[INITIATOR_possessive] [projectile]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.3"
+msgid ""
+"r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw_a] "
+"[projectile]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.4"
+msgid "threw_a->[adverb_threw] [verb_threw] a"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.5"
+msgid "threw_a(p=2)->[verb_threw] a"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.6"
+msgid "threw(p=2)->[verb_threw]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.7"
+msgid "threw->[adverb_threw] [verb_threw]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.8"
+msgid "verb_threw->threw"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.9"
+msgid "verb_threw->flung"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.10"
+msgid "verb_threw->launched"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.11"
+msgid "adverb_threw->carefully"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.12"
+msgid "adverb_threw->quickly"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.13"
+msgid "adverb_threw->precisely"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.14"
+msgid "adverb_threw->deliberately"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.15"
+msgid "adverb_threw(initiator_flesh!=Mechanoid)->gingerly"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.16"
+msgid "adverb_threw->precisely"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.17"
+msgid "adverb_threw(initiator_flesh!=Mechanoid)->warily"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.18"
+msgid "adjective_threw->careful"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.19"
+msgid "adjective_threw->quick"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.20"
+msgid "adjective_threw->deliberate"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.21"
+msgid "adjective_threw->precise"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:65
+msgctxt "Combat_RangedFire_Thrown.rulePack.rulesStrings.22"
+msgid "adjective_threw(initiator_flesh!=Mechanoid)->wary"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_definite]'s [projectile] [destroyed_past] "
+"[RECIPIENT_definite]'s [destroyed_targets]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.1"
+msgid ""
+"r_logentry->[INITIATOR_definite]'s [projectile] [destroyed_past] "
+"[RECIPIENT_definite]'s [destroyed_targets] [to] [destroyed_suffix]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.2"
+msgid ""
+"r_logentry(p=2)->[INITIATOR_definite]'s [projectile] [missed] "
+"[ORIGINALTARGET_definite] and [destroyed_past] [RECIPIENT_definite]'s "
+"[destroyed_targets]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.3"
+msgid ""
+"r_logentry(p=2)->[INITIATOR_definite]'s [projectile] [missed] "
+"[ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite]'s "
+"[destroyed_targets]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.4"
+msgid ""
+"r_logentry->[RECIPIENT_definite]'s [destroyed_targets] was [destroyed_past] "
+"by [INITIATOR_definite]'s [projectile]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.5"
+msgid ""
+"r_logentry->[RECIPIENT_definite]'s [destroyed_targets] was [destroyed_past] "
+"into [destroyed_suffix] by [INITIATOR_definite]'s [projectile]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.6"
+msgid ""
+"r_logentry(recipient_part_destroyed_count==0)->[INITIATOR_definite]'s "
+"[projectile] [damaged_past] [RECIPIENT_definite]'s [damaged_targets]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.7"
+msgid ""
+"r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite]'s "
+"[projectile] [missed] [ORIGINALTARGET_definite] and [damaged_past] "
+"[RECIPIENT_definite]'s [damaged_targets]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.8"
+msgid ""
+"r_logentry(recipient_part_destroyed_count==0,p=2)->[INITIATOR_definite]'s "
+"[projectile] [missed] [ORIGINALTARGET_definite], [damaged_present] "
+"[RECIPIENT_definite]'s [damaged_targets]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.9"
+msgid ""
+"r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_definite]'s "
+"[damaged_targets] was [damaged_past] by [INITIATOR_definite]'s [projectile]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.10"
+msgid ""
+"r_logentry(p=3)->[INITIATOR_definite]'s [projectile] [destroyed_past] "
+"[RECIPIENT_definite]'s [destroyed_targets] and [damaged_past] "
+"[RECIPIENT_possessive] [damaged_targets]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.11"
+msgid ""
+"r_logentry(p=6)->[INITIATOR_definite]'s [projectile] [missed] "
+"[ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite]'s "
+"[destroyed_targets] and [damaged_present] [RECIPIENT_possessive] "
+"[damaged_targets]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.12"
+msgid ""
+"r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite] with a "
+"[projectile]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.13"
+msgid ""
+"r_logentry(p=0.2)->[INITIATOR_definite]'s [projectile] hit "
+"[RECIPIENT_definite]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.14"
+msgid ""
+"r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] "
+"and hit [RECIPIENT_definite] with a [projectile]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.15"
+msgid ""
+"r_logentry(p=0.4)->[INITIATOR_definite]'s [projectile] [missed] "
+"[ORIGINALTARGET_definite] and hit [RECIPIENT_definite]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.16"
+msgid ""
+"r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite] with a "
+"[projectile] intended for [ORIGINALTARGET_definite]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.17"
+msgid "projectile(p=0.05)->shot"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.18"
+msgid "destroyed_past->shattered"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.19"
+msgid "destroyed_past->crushed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.20"
+msgid "destroyed_past->obliterated"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.21"
+msgid "destroyed_past->annihilated"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.22"
+msgid "destroyed_past->pierced"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.23"
+msgid "destroyed_past->perforated"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.24"
+msgid "destroyed_past->punctured"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.25"
+msgid "destroyed_present->shattering"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.26"
+msgid "destroyed_present->crushing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.27"
+msgid "destroyed_present->obliterating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.28"
+msgid "destroyed_present->annihilating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.29"
+msgid "destroyed_present->piercing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.30"
+msgid "destroyed_present->perforating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.31"
+msgid "destroyed_present->puncturing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.32"
+msgid "destroyed_suffix->pieces"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.33"
+msgid "destroyed_suffix->bits"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.34"
+msgid "destroyed_suffix->a fine mist"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.35"
+msgid "destroyed_suffix->fragments"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.36"
+msgid "destroyed_suffix(p=0.5)->a holey mess"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.37"
+msgid "destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)->ground beef"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.38"
+msgid "damaged_past->wounded"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.39"
+msgid "damaged_past->injured"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.40"
+msgid "damaged_past->pierced"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.41"
+msgid "damaged_past->damaged"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.42"
+msgid "damaged_past->shot"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.43"
+msgid "damaged_present->wounding"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.44"
+msgid "damaged_present->injuring"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.45"
+msgid "damaged_present->piercing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.46"
+msgid "damaged_present->damaging"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.47"
+msgid "damaged_present->shooting"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.48"
+msgid "damaged_suffix->in an ugly fashion"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.49"
+msgid "damaged_suffix(recipient_flesh!=Mechanoid)->with visible blood"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.50"
+msgid "damaged_suffix(recipient_flesh!=Mechanoid)->with the flesh visible"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.51"
+msgid "to->to"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.52"
+msgid "to->into"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.53"
+msgid "missed->missed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:105
+msgctxt "Combat_RangedDamage.rulePack.rulesStrings.54"
+msgid "missed->narrowly missed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_definite]'s [projectile] [damaged_past] "
+"[RECIPIENT_definite][damaged_target] [deflected_result]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.1"
+msgid ""
+"r_logentry(p=2)->[INITIATOR_definite]'s [projectile] [missed] "
+"[ORIGINALTARGET_definite] and [damaged_past] "
+"[RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.2"
+msgid ""
+"r_logentry->[RECIPIENT_definite][damaged_target_possessive_opt] was "
+"[damaged_past] by [INITIATOR_definite]'s [projectile] [deflected_result]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.3"
+msgid ""
+"r_logentry(p=0.2)->[INITIATOR_definite] hit "
+"[RECIPIENT_definite][damaged_target_possessive_opt] with a [projectile] "
+"[deflected_result]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.4"
+msgid ""
+"r_logentry(p=0.2)->[INITIATOR_definite]'s [projectile] hit "
+"[RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.5"
+msgid ""
+"r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] "
+"and hit [RECIPIENT_definite][damaged_target_possessive_opt] with a "
+"[projectile] [deflected_result]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.6"
+msgid ""
+"r_logentry(p=0.4)->[INITIATOR_definite]'s [projectile] [missed] "
+"[ORIGINALTARGET_definite] and hit "
+"[RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.7"
+msgid ""
+"r_logentry(p=0.2)->[INITIATOR_definite] hit "
+"[RECIPIENT_definite][damaged_target_possessive_opt] with a [projectile] "
+"intended for [ORIGINALTARGET_definite] [deflected_result]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.8"
+msgid "projectile(p=0.05)->shot"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.9"
+msgid "damaged_target_possessive_opt->"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.10"
+msgid ""
+"damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->'s "
+"[recipient_part_damaged0_label]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.11"
+msgid "deflected_result-> [adverb_deflected]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.12"
+msgid "deflected_result->, [deflected_consequence]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.13"
+msgid "adverb_deflected_opt(p=4)->"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.14"
+msgid "adverb_deflected_opt->[adverb_deflected]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.15"
+msgid "adverb_deflected->harmlessly"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.16"
+msgid "adverb_deflected->uselessly"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.17"
+msgid ""
+"deflected_consequence->but it [scraped_past] off [adverb_deflected_opt]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.18"
+msgid ""
+"deflected_consequence->[scraped_present] off [RECIPIENT_possessive] armor "
+"[adverb_deflected_opt]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.19"
+msgid "scraped_past->ricocheted"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.20"
+msgid "scraped_present->ricocheting"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.21"
+msgid "missed->missed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:189
+msgctxt "Combat_RangedDeflect.rulePack.rulesStrings.22"
+msgid "missed->narrowly missed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.0"
+msgid "r_logentry->[INITIATOR_definite]'s [projectile] [missed]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.1"
+msgid "r_logentry->[INITIATOR_definite] missed [ORIGINALTARGET_definite]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.2"
+msgid ""
+"r_logentry->[ORIGINALTARGET_definite] [avoidance], [INITIATOR_definite]'s "
+"[projectile] [missing]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.3"
+msgid "missed(p=4)->missed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.4"
+msgid "missed(p=2)->missed by a small margin"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.5"
+msgid "missed(p=2)->missed by a wide margin"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.6"
+msgid "missed->went wide"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.7"
+msgid "missed->flew into the air"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.8"
+msgid "missed->flew high into the air"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.9"
+msgid "missed->dug into the ground"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.10"
+msgid "missed->skipped off the ground and was lost"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.11"
+msgid "missed->dug a divot out of the ground"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.12"
+msgid "missed(p=0.2)->passed within millimeters of [ORIGINALTARGET_definite]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.13"
+msgid "missed->passed within centimeters of [ORIGINALTARGET_definite]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.14"
+msgid "missed->passed within a meter of [ORIGINALTARGET_definite]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.15"
+msgid "missed->was blown off course"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.16"
+msgid "missing->missing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.17"
+msgid "missing->missing by a small margin"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.18"
+msgid "missing->missing by a wide margin"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.19"
+msgid "missing->going wide"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.20"
+msgid "missing->flying into the air"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.21"
+msgid "missing->flying high into the air"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.22"
+msgid "missing->digging into the ground"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.23"
+msgid "missing->skipping off the ground and becoming lost"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.24"
+msgid "missing->digging a divot out of the ground"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.25"
+msgid ""
+"missing(p=0.2)->passing within millimeters of [ORIGINALTARGET_definite]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.26"
+msgid "missing->passing within centimeters of [ORIGINALTARGET_definite]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.27"
+msgid "missing->passing within a meter of [ORIGINALTARGET_definite]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.28"
+msgid "missing->blowing offcourse"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.29"
+msgid ""
+"avoidance(ORIGINALTARGET_mobile==True,p=2)->[moved] aside at the last "
+"[moment]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.30"
+msgid ""
+"avoidance(ORIGINALTARGET_mobile==True,p=0.3)->[ducked] behind "
+"[COVER_definite]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.31"
+msgid "moved->moved"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.32"
+msgid "moved->jerked"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.33"
+msgid "moved->jolted"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.34"
+msgid "moved->ducked"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.35"
+msgid "moment->moment"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.36"
+msgid "moment->second"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.37"
+msgid "moment->instant"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.38"
+msgid "ducked->ducked"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.39"
+msgid "ducked->crouched"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.40"
+msgid "ducked->bent down"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:234
+msgctxt "Combat_RangedMiss.rulePack.rulesStrings.41"
+msgid "ducked->hid"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.0"
+msgid "prefix->The [blast] [fromof] [INITIATOR_definite]'s [projectile]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.1"
+msgid "prefix->The [blast] [fromof] [INITIATOR_definite]'s [WEAPON_label]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.2"
+msgid "prefix->The [blast] [fromof] [INITIATOR_definite]'s [projectile]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.3"
+msgid "prefix->The [blast] [fromof] [INITIATOR_definite]'s [WEAPON_label]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.4"
+msgid "prefix->[INITIATOR_definite]'s [blast]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.5"
+msgid "prefix->[INITIATOR_definite]'s [projectile] [blast]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.6"
+msgid "prefix->[INITIATOR_definite]'s [WEAPON_label] [blast]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.7"
+msgid "prefix->[INITIATOR_definite]'s [projectile]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.8"
+msgid "prefix->[INITIATOR_definite]'s [WEAPON_label]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.9"
+msgid "r_logentry->[prefix] [injured] [RECIPIENT_definite]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.10"
+msgid ""
+"r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s "
+"[destroyed_targets]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.11"
+msgid ""
+"r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s "
+"[destroyed_targets] [strikeAdv]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.12"
+msgid ""
+"r_logentry->[prefix] [strikeAdv] [destroyed_past] [RECIPIENT_definite]'s "
+"[destroyed_targets]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.13"
+msgid ""
+"r_logentry->[prefix] [destroyed_past] [RECIPIENT_definite]'s "
+"[destroyed_targets] and [damaged_past] [RECIPIENT_possessive] "
+"[damaged_targets]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.14"
+msgid ""
+"r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] "
+"[RECIPIENT_definite]'s [damaged_targets]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.15"
+msgid ""
+"r_logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] "
+"[RECIPIENT_definite]'s [damaged_targets] [strikeAdv]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.16"
+msgid ""
+"r_logentry(recipient_part_destroyed_count==0)->[prefix] [strikeAdv] "
+"[damaged_past] [RECIPIENT_definite]'s [damaged_targets]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.17"
+msgid ""
+"r_logentry->[RECIPIENT_definite] was [damaged_past] by [INITIATOR_definite]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.18"
+msgid ""
+"r_logentry->[RECIPIENT_definite] was [damaged_past] [strikeAdv] by "
+"[INITIATOR_definite]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.19"
+msgid "r_logentry->[RECIPIENT_definite] was [damaged_past]."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.20"
+msgid "r_logentry(p=0.001)->[RECIPIENT_definite] was caught in an explosion."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.21"
+msgid "r_logentry(p=0.001)->[RECIPIENT_definite] was hit by an explosion."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.22"
+msgid "blast->explosion"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.23"
+msgid "blast->blast"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.24"
+msgid "blast->shockwave"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.25"
+msgid "blast->detonation"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.26"
+msgid "blast->discharge"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.27"
+msgid "blast->impact"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.28"
+msgid "fromof->from"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_CombatRanged.xml:295
+msgctxt "Combat_ExplosionImpact.rulePack.rulesStrings.29"
+msgid "fromof->of"
+msgstr ""

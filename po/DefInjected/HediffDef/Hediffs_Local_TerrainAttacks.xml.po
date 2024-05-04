@@ -1,0 +1,74 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/HediffDefs/Hediffs_Local_TerrainAttacks.xml:6
+#, fuzzy
+msgctxt "SandInEyes.label"
+msgid "sand"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Local_TerrainAttacks.xml:8
+msgctxt "SandInEyes.description"
+msgid ""
+"Sand in the eyes. It impairs vision, but can be cleared within a few "
+"moments."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_TerrainAttacks.xml:26
+#, fuzzy
+msgctxt "DirtInEyes.label"
+msgid "dirt"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Local_TerrainAttacks.xml:28
+msgctxt "DirtInEyes.description"
+msgid ""
+"Dirt in the eyes. It impairs vision, but can be cleared in a few moments."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_TerrainAttacks.xml:46
+#, fuzzy
+msgctxt "MudInEyes.label"
+msgid "mud"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Local_TerrainAttacks.xml:48
+msgctxt "MudInEyes.description"
+msgid ""
+"Mud in the eyes. It impairs vision, but can be cleared in a few moments."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_TerrainAttacks.xml:66
+#, fuzzy
+msgctxt "GravelInEyes.label"
+msgid "gravel"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Local_TerrainAttacks.xml:68
+msgctxt "GravelInEyes.description"
+msgid ""
+"Gravel in the eyes. It impairs vision, but can be cleared in a few moments."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_TerrainAttacks.xml:86
+#, fuzzy
+msgctxt "WaterInEyes.label"
+msgid "water"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Local_TerrainAttacks.xml:88
+msgctxt "WaterInEyes.description"
+msgid ""
+"Water in the eyes. It impairs vision, but can be cleared in a few moments."
+msgstr ""

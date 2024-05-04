@@ -1,0 +1,394 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:15
+msgctxt "Policeman45.description"
+msgid ""
+"[PAWN_nameDef] kept the peace as a line officer in a municipal social enforcement unit.\n"
+"\\n[PAWN_pronoun] was trained in de-escalation, physical control, shooting, and other police skills."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:37
+msgctxt "Chef52.description"
+msgid ""
+"[PAWN_nameDef] was the star chef at a high-class coreworld restaurant. "
+"[PAWN_pronoun] was famous among patrons for [PAWN_possessive] creative "
+"culinary specialties, and infamous among the kitchen staff for "
+"[PAWN_possessive] casual disdain for grunt work."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:67
+msgctxt "Housemate8.description"
+msgid ""
+"As an adult, [PAWN_nameDef] kept house and cared for [PAWN_possessive] "
+"children while [PAWN_possessive] spouse worked."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:93
+msgctxt "Inventor6.description"
+msgid ""
+"On [PAWN_possessive] homeworld, [PAWN_nameDef] worked as a moderately "
+"successful inventor. [PAWN_pronoun] developed several minor technologies."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:120
+msgctxt "Teacher20.description"
+msgid ""
+"[PAWN_nameDef] was educated in the liberal arts and taught at a public "
+"school. [PAWN_pronoun] was widely knowledgeable and well-liked by "
+"[PAWN_possessive] students."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:142
+msgctxt "CivilServant2.description"
+msgid ""
+"[PAWN_nameDef] worked as a low-ranking administrator for a moribund "
+"government bureaucracy. [PAWN_pronoun] is most at home filling out "
+"complicated paperwork and playing office politics."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:162
+msgctxt "Bartender62.description"
+msgid ""
+"[PAWN_nameDef] worked as a bartender in a seedy establishment. The job was "
+"one part drink-mixing, one part diplomacy, and one part head-bashing."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:190
+msgctxt "ConceptualArtist39.description"
+msgid ""
+"[PAWN_nameDef] was well-known in art circles on [PAWN_possessive] home world"
+" for [PAWN_possessive] unique and creative conceptual artworks.\\n\\nNobody "
+"was sure exactly what [PAWN_pronoun] was trying to communicate, but "
+"[PAWN_possessive] pieces were highly valued by collectors."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:213
+msgctxt "Evangelist39.description"
+msgid ""
+"As a youth, [PAWN_nameDef] experienced a religious awakening. [PAWN_pronoun]"
+" decided to spend the rest of [PAWN_possessive] life spreading the word of "
+"[PAWN_possessive] deity, the beauty of its culture, and its unusual medical "
+"tradition."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:238
+msgctxt "AsceticPriest84.description"
+msgid ""
+"After taking a vow of silence, [PAWN_nameDef] joined a monastery to spend "
+"[PAWN_possessive] days in quiet contemplation.\\n\\n[PAWN_pronoun] found "
+"happiness growing vegetables in the garden and making cheese in the "
+"monastery cellars."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:269
+msgctxt "EscapedConvict90.description"
+msgid ""
+"[PAWN_nameDef] denies involvement in the crimes that brought about "
+"[PAWN_possessive] incarceration in a brutal penal colony. [PAWN_pronoun] "
+"escaped by tunneling beneath the perimeter using modified cutlery."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:297
+msgctxt "Nurse61.description"
+msgid ""
+"[PAWN_nameDef] worked in a hospital, doing routine work such as changing "
+"bandages and taking temperatures.\\n\\nIt was a busy job, but [PAWN_pronoun]"
+" could always find time for a chat with a patient."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:323
+msgctxt "HouseServant63.description"
+msgid ""
+"[PAWN_nameDef] was a domestic servant to wealthy "
+"homeowners.\\n\\n[PAWN_pronoun] got to know the kitchens and basements of "
+"[PAWN_possessive] master's mansion well, but never did any work outside."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:351
+msgctxt "Bodyguard58.description"
+msgid ""
+"[PAWN_nameDef] protected whoever paid [PAWN_objective]. [PAWN_pronoun] "
+"gained proficiency in many different combat forms, and was known for "
+"[PAWN_possessive] ruthlessness against those who crossed [PAWN_objective]."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:379
+msgctxt "Mathematician6.description"
+msgid ""
+"[PAWN_nameDef] did mathematical research at a "
+"university.\\n\\n[PAWN_pronoun] spent much of [PAWN_possessive] spare time "
+"immersed in shooting simulations, though [PAWN_pronoun] was frequently "
+"ridiculed by other players for [PAWN_possessive] terrible aim."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:406
+msgctxt "Paramedic45.description"
+msgid ""
+"[PAWN_nameDef]'s job was to respond rapidly to medical emergencies. "
+"[PAWN_pronoun] is used to dealing with severe injuries with only limited "
+"medical supplies.\\n\\n[PAWN_pronoun] treated so many gunshot wounds over "
+"the years that even seeing a gun made [PAWN_objective] uncomfortable."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:430
+msgctxt "Gardener99.description"
+msgid ""
+"[PAWN_nameDef] worked at the mansion of a powerful family, tending the "
+"lavish gardens as part of a team of servants."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:460
+msgctxt "Torturer37.description"
+msgid ""
+"Working for a tyrannical dictator, [PAWN_nameDef] earned a reputation as an "
+"expert in 'persuasion.' Any prisoner who went down into the dungeons left "
+"with no secrets - and with [PAWN_nameDef]'s smile scarred permanently into "
+"their nightmares."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:489
+msgctxt "Defector78.description"
+msgid ""
+"Early in [PAWN_possessive] adulthood, [PAWN_nameDef] decided to leave the "
+"oppressive dictatorship where [PAWN_pronoun] lived. [PAWN_possessive] "
+"defection was not well-received, and agents were sent out after "
+"[PAWN_objective].\\n\\n[PAWN_pronoun] spent years on the run, treating "
+"[PAWN_possessive] own wounds so no doctor could betray [PAWN_objective]. The"
+" ordeal made [PAWN_objective] bitter and untrusting."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:516
+msgctxt "ConstructionEngineer32.description"
+msgid ""
+"[PAWN_nameDef] was a construction worker. [PAWN_pronoun] lead a team which "
+"built everything from office blocks to cathedrals.\\n\\n[PAWN_possessive] "
+"busy job and numerous nearby fast-food outlets meant [PAWN_pronoun] never "
+"cooked for [PAWN_objective]self."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:541
+msgctxt "Rancher43.description"
+msgid ""
+"[PAWN_nameDef] owned and operated a successful ranch where [PAWN_pronoun] "
+"raised animals for meat and wool.\\n\\n[PAWN_pronoun] refused to do any dumb"
+" labour [PAWN_pronoun] could pay someone else to do for [PAWN_objective]."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:571
+msgctxt "LowWageWorker7.description"
+msgid ""
+"[PAWN_nameDef] worked a variety of casual jobs to support [PAWN_possessive] "
+"family, gaining a set of basic hands-on skills."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:596
+msgctxt "Model99.description"
+msgid ""
+"[PAWN_nameDef] modelled clothes and jewellery for advertisers, and was also "
+"used as a physical blueprint for characters in virtual reality simulations."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:624
+msgctxt "Geologist66.description"
+msgid ""
+"[PAWN_nameDef] worked with miners and cave-diggers, identifying rock types "
+"and natural formations.\\n\\nDuring [PAWN_possessive] years underground "
+"[PAWN_pronoun] also gained experience repairing drilling machines and other "
+"technical equipment."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:652
+msgctxt "Jailbird40.description"
+msgid ""
+"[PAWN_nameDef] spent most of [PAWN_possessive] life in prisons, where "
+"[PAWN_pronoun] was put to work in the kitchens. [PAWN_pronoun] had a habit "
+"of getting into fights, and developed an aggressive way of speaking."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:679
+msgctxt "Actor72.description"
+msgid ""
+"[PAWN_nameDef] traveled with a company of actors, playing to packed theatres"
+" and loving audiences everywhere. [PAWN_pronoun] was a perfectionist, and "
+"made [PAWN_possessive] own props and costumes rather than use the ones "
+"[PAWN_pronoun] was given."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:704
+msgctxt "Veterinarian99.description"
+msgid ""
+"[PAWN_nameDef] treated sick and injured animals for a living. Seeing their "
+"suffering affected [PAWN_possessive] stance on the practice of eating meat, "
+"and for many years [PAWN_pronoun] lived as a vegetarian."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:727
+msgctxt "ExplosivesExpert26.description"
+msgid ""
+"[PAWN_nameDef] was an explosive engineer employed in mines. [PAWN_pronoun] "
+"took [PAWN_possessive] job very seriously and was well-versed in the "
+"technicalities - so much so that [PAWN_pronoun] refused to demean "
+"[PAWN_objective]self by helping with the clean-up once [PAWN_possessive] "
+"carefully-calculated explosion was complete."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:754
+msgctxt "Counselor26.description"
+msgid ""
+"A terrifying trauma when [PAWN_nameDef] was a young adult caused "
+"[PAWN_objective] to develop a serious eating disorder. With counseling "
+"[PAWN_pronoun] learned to have a healthier relationship with food, and "
+"decided to put [PAWN_possessive] new skills to use helping others overcome "
+"their emotional problems."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:777
+msgctxt "Recruiter14.description"
+msgid ""
+"[PAWN_nameDef] was part of a revered order of martial artists, infamous both"
+" for their skill in combat and for their practice of refusing to treat their"
+" wounded.\\n\\n[PAWN_pronoun] traveled [PAWN_possessive] homeworld, judging "
+"the young people [PAWN_pronoun] met to determine if they might be suitable "
+"for training."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:804
+msgctxt "Drifter67.description"
+msgid ""
+"[PAWN_nameDef] never figured out what to do with [PAWN_possessive] life. "
+"[PAWN_pronoun] traveled often, taking up casual work wherever [PAWN_pronoun]"
+" found it.\\n\\n[PAWN_pronoun] also occasionally worked on a novel that "
+"[PAWN_pronoun] knew would be a bestseller - just as soon as [PAWN_pronoun] "
+"could find a publisher who was interested."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:828
+msgctxt "MachineCollector55.description"
+msgid ""
+"[PAWN_nameDef] was obsessed with old machines and arcane pieces of "
+"technology. [PAWN_pronoun] obtained them wherever [PAWN_pronoun] could, and "
+"loved taking them apart to see how they worked.\\n\\n[PAWN_pronoun] had a "
+"habit of talking about [PAWN_possessive] collection long after people around"
+" [PAWN_objective] had stopped listening."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:854
+msgctxt "ConArtist80.description"
+msgid ""
+"[PAWN_nameDef] never created anything in [PAWN_possessive] life. "
+"[PAWN_pronoun] did, however, prove to be a natural at getting others to give"
+" [PAWN_objective] what they had created."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:877
+msgctxt "CaveExplorer45.description"
+msgid ""
+"[PAWN_nameDef] made a living mapping out dark tunnels and near-inaccessible "
+"crevices in search of valuable minerals. [PAWN_possessive] work was very "
+"dangerous, but the pay was good."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:901
+msgctxt "QuarryWorker29.description"
+msgid ""
+"[PAWN_nameDef] worked in a quarry helping to extract valuable stone from the"
+" hillside. [PAWN_pronoun] learned to sense opportunities and dangers in the "
+"stone by sight, touch, and intuition."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:924
+msgctxt "ContractMiner86.description"
+msgid ""
+"[PAWN_nameDef] moved from job to job, extracting minerals and ancient "
+"valuables in tunnels and strip-mines. The work was tough and dirty, but "
+"[PAWN_pronoun] found it rewarding."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:947
+msgctxt "Logger95.description"
+msgid ""
+"[PAWN_nameDef] took down trees and collected wood in hilly passes and "
+"ravines. [PAWN_pronoun] learned both how to fell the trees safely, and how "
+"to manage the forest to keep it healthy."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:973
+msgctxt "Ranger96.description"
+msgid ""
+"[PAWN_nameDef] tracked animals and people for a wide range of clients. "
+"[PAWN_pronoun] became adept at reading spoor, finding food in the wild, and "
+"stalking prey."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:997
+msgctxt "Forester96.description"
+msgid ""
+"[PAWN_nameDef] grew and harvested forests. [PAWN_pronoun] understood both "
+"the practical challenges of soil types, wind, and rain, as well as the long-"
+"term planning of forest growth."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:1021
+msgctxt "FurnitureBuilder83.description"
+msgid ""
+"[PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent [PAWN_possessive] "
+"time building beautiful furniture for wealthy glitterworld clients."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:1046
+msgctxt "Hunter89.description"
+msgid ""
+"[PAWN_nameDef] hunted wild animals to help feed [PAWN_possessive] community."
+" When times became tough, others looked to [PAWN_objective] as the one to "
+"help people through a tough season."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:1074
+msgctxt "Slaughterer58.description"
+msgid ""
+"[PAWN_nameDef] slaughtered animals for a living. Others looked down on this "
+"work as filthy, but the skills required to manage and cleanly slaughter "
+"large numbers of animals were never simple."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:1102
+msgctxt "AnimalFarmer21.description"
+msgid ""
+"[PAWN_nameDef] raised a variety of animals to provide meat, milk, eggs, and "
+"leather."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:1130
+msgctxt "CropFarmer17.description"
+msgid ""
+"[PAWN_nameDef] ran a crop farm. [PAWN_pronoun] analyzed soil, agricultural "
+"equipment, weather patterns, and price trends to optimize the planting and "
+"harvesting of massive crop fields."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:1154
+msgctxt "CorporateManager76.description"
+msgid ""
+"[PAWN_nameDef] worked in a massive open-plan office, ensuring that [PAWN_possessive] assigned team of workers stayed mostly on-task.\n"
+"\\nThe job was intensely political. In order to advance, [PAWN_nameDef] learned how to arrange things so [PAWN_pronoun] could take credit for work done by almost anyone."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Adult.xml:1176
+msgctxt "LivestockFarmer8.description"
+msgid ""
+"[PAWN_nameDef] ran a livestock farm. [PAWN_pronoun] analyzed animal "
+"genetics, feed types, birth and slaughter methods, and price trends to "
+"optimize the raising of huge animal herds."
+msgstr ""

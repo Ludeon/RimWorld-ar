@@ -1,0 +1,73 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/TerrainDefs/Terrain_Floors_StoneTile.xml:27
+#, fuzzy
+msgctxt "TileSandstone.label"
+msgid "sandstone tile"
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors_StoneTile.xml:36
+#, fuzzy
+msgctxt "TileGranite.label"
+msgid "granite tile"
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors_StoneTile.xml:45
+#, fuzzy
+msgctxt "TileLimestone.label"
+msgid "limestone tile"
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors_StoneTile.xml:54
+#, fuzzy
+msgctxt "TileSlate.label"
+msgid "slate tile"
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors_StoneTile.xml:63
+#, fuzzy
+msgctxt "TileMarble.label"
+msgid "marble tile"
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors_StoneTile.xml:93
+#, fuzzy
+msgctxt "FlagstoneSandstone.label"
+msgid "sandstone flagstone"
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors_StoneTile.xml:102
+#, fuzzy
+msgctxt "FlagstoneGranite.label"
+msgid "granite flagstone"
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors_StoneTile.xml:111
+#, fuzzy
+msgctxt "FlagstoneLimestone.label"
+msgid "limestone flagstone"
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors_StoneTile.xml:120
+#, fuzzy
+msgctxt "FlagstoneSlate.label"
+msgid "slate flagstone"
+msgstr "TODO"
+
+#: Defs/TerrainDefs/Terrain_Floors_StoneTile.xml:129
+#, fuzzy
+msgctxt "FlagstoneMarble.label"
+msgid "marble flagstone"
+msgstr "TODO"

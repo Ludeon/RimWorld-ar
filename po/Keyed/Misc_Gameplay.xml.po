@@ -1,0 +1,5215 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compendium:5
+#, fuzzy
+msgctxt "HitPointsBasic"
+msgid "hit points"
+msgstr "hit points"
+
+#: compendium:6
+#, fuzzy
+msgctxt "WorkLeft"
+msgid "Work left"
+msgstr "Work left"
+
+#: compendium:7
+#, fuzzy
+msgctxt "Contents"
+msgid "Contents"
+msgstr "Contents"
+
+#: compendium:8
+#, fuzzy
+msgctxt "ContainedResources"
+msgid "Contained resources"
+msgstr "Contained resources"
+
+#: compendium:9
+#, fuzzy
+msgctxt "ForPrisonerUse"
+msgid "For prisoner use"
+msgstr "For prisoner use"
+
+#: compendium:10
+#, fuzzy
+msgctxt "InPrisonCell"
+msgid "In prison cell: For prisoner use"
+msgstr "TODO"
+
+#: compendium:11
+#, fuzzy
+msgctxt "ForColonistUse"
+msgid "For colonist use"
+msgstr "For colonist use"
+
+#: compendium:12
+#, fuzzy
+msgctxt "MedicalBed"
+msgid "Medical"
+msgstr "Medical"
+
+#: compendium:13
+#, fuzzy
+msgctxt "Owner"
+msgid "Owner"
+msgstr "Owner"
+
+#: compendium:14
+#, fuzzy
+msgctxt "Owners"
+msgid "Owners"
+msgstr "Owners"
+
+#: compendium:15
+#, fuzzy
+msgctxt "AssignedColonist"
+msgid "Assigned colonist"
+msgstr "Assigned colonist"
+
+#: compendium:16
+msgctxt "BedUncomfortableTemperature"
+msgid "Uncomfortable room temperature"
+msgstr ""
+
+#: compendium:17
+msgctxt "BedUnsafeTemperature"
+msgid "Unsafe room temperature"
+msgstr ""
+
+#: compendium:18
+#, fuzzy
+msgctxt "DiedOn"
+msgid "Died on the {0}"
+msgstr "TODO"
+
+#: compendium:19
+#, fuzzy
+msgctxt "Nobody"
+msgid "Nobody"
+msgstr "Nobody"
+
+#: compendium:20
+#, fuzzy
+msgctxt "Unowned"
+msgid "Unowned"
+msgstr "Unowned"
+
+#: compendium:21
+#, fuzzy
+msgctxt "DeadTime"
+msgid "Dead for {0}"
+msgstr "Dead for {0}"
+
+#: compendium:22
+#, fuzzy
+msgctxt "WalkSpeed"
+msgid "walk speed {0}"
+msgstr "walk speed {0}"
+
+#: compendium:23
+#, fuzzy
+msgctxt "FertShort"
+msgid "fert."
+msgstr "fert."
+
+#: compendium:24
+#, fuzzy
+msgctxt "DyingLower"
+msgid "dying"
+msgstr "dying"
+
+#: compendium:25
+#, fuzzy
+msgctxt "FilthOnFeet"
+msgid "Filth on feet:"
+msgstr "Filth on feet:"
+
+#: compendium:26
+#, fuzzy
+msgctxt "NotEnoughStoredLower"
+msgid "not enough stored"
+msgstr "not enough stored"
+
+#: compendium:27
+#, fuzzy
+msgctxt "NothingLower"
+msgid "nothing"
+msgstr "nothing"
+
+#: compendium:28
+msgctxt "Nothing"
+msgid "Nothing"
+msgstr ""
+
+#: compendium:29
+#, fuzzy
+msgctxt "Adapted"
+msgid "Adapted"
+msgstr "Adapted"
+
+#: compendium:30
+#, fuzzy
+msgctxt "FreshMissingBodyPart"
+msgid "fresh"
+msgstr "fresh"
+
+#: compendium:31
+#, fuzzy
+msgctxt "DevelopedImmunityLower"
+msgid "developed immunity"
+msgstr "developed immunity"
+
+#: compendium:32
+#, fuzzy
+msgctxt "NeedsTendingNow"
+msgid "Needs tending now"
+msgstr "Needs tending now"
+
+#: compendium:33
+#, fuzzy
+msgctxt "CanTendNow"
+msgid "Can tend now"
+msgstr "TODO"
+
+#: compendium:34
+#, fuzzy
+msgctxt "TreatmentExpiresIn"
+msgid "Tending expires in {0}"
+msgstr "TODO"
+
+#: compendium:35
+#, fuzzy
+msgctxt "NextTendIn"
+msgid "Can be tended in {0}"
+msgstr "Will need tending in {0}"
+
+#: compendium:36
+#, fuzzy
+msgctxt "TendQuality"
+msgid "Tend quality"
+msgstr "TODO"
+
+#: compendium:37
+msgctxt "DisappearsAtTotalTendQuality"
+msgid "Total tend quality"
+msgstr ""
+
+#: compendium:38
+#, fuzzy
+msgctxt "MissingMedicalBillIngredient"
+msgid "no {0}"
+msgstr "no {0}"
+
+#: compendium:39
+#, fuzzy
+msgctxt "Immunity"
+msgid "Immunity"
+msgstr "Immunity"
+
+#: compendium:40
+msgctxt "DaysToRecover"
+msgid "{0} days to recover"
+msgstr ""
+
+#: compendium:41
+msgctxt "Ineffective"
+msgid "Ineffective"
+msgstr ""
+
+#: compendium:42
+msgctxt "Illegal"
+msgid "illegal"
+msgstr ""
+
+#: compendium:43
+msgctxt "DetectionChance"
+msgid "detection chance"
+msgstr ""
+
+#: compendium:44
+#, fuzzy
+msgctxt "Race"
+msgid "Race"
+msgstr "Race"
+
+#: compendium:45
+#, fuzzy
+msgctxt "Description"
+msgid "Description"
+msgstr "Description"
+
+#: compendium:46
+#, fuzzy
+msgctxt "Equipment"
+msgid "Equipment"
+msgstr "Equipment"
+
+#: compendium:47
+#, fuzzy
+msgctxt "Apparel"
+msgid "Apparel"
+msgstr "Apparel"
+
+#: compendium:48
+#, fuzzy
+msgctxt "Inventory"
+msgid "Inventory"
+msgstr "Inventory"
+
+#: compendium:49
+#, fuzzy
+msgctxt "ThingInfo"
+msgid "Information"
+msgstr "Information"
+
+#: compendium:50
+#, fuzzy
+msgctxt "DropThing"
+msgid "Drop"
+msgstr "Drop"
+
+#: compendium:51
+msgctxt "DropThingLodger"
+msgid "Temporary faction members will not drop their items."
+msgstr ""
+
+#: compendium:52
+msgctxt "DropThingLocked"
+msgid "This person refuses to drop this."
+msgstr ""
+
+#: compendium:53
+#, fuzzy
+msgctxt "Rename"
+msgid "Rename"
+msgstr "Rename"
+
+#: compendium:54
+#, fuzzy
+msgctxt "RenameAnimal"
+msgid "Rename animal"
+msgstr "TODO"
+
+#: compendium:55
+#, fuzzy
+msgctxt "RenameColonist"
+msgid "Rename colonist"
+msgstr "Rename colonist"
+
+#: compendium:56
+msgctxt "RenounceTitle"
+msgid "Renounce title"
+msgstr ""
+
+#: compendium:57
+msgctxt "Execute"
+msgid "Execute"
+msgstr ""
+
+#: compendium:58
+msgctxt "ExecuteColonist"
+msgid ""
+"Execute guilty colonist\\n\\nIf you toggle this on, a warden will proceed to"
+" execute this person."
+msgstr ""
+
+#: compendium:59
+msgctxt "MessageColonistMarkedForExecution"
+msgid ""
+"{0_labelShort} is now marked for execution. The next available warden will "
+"go execute {0_objective}."
+msgstr ""
+
+#: compendium:60
+msgctxt "TitleOfFaction"
+msgid "{0} of {1}"
+msgstr ""
+
+#: compendium:61
+msgctxt "RenounceTitleDescription"
+msgid ""
+"This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. "
+"You will receive no compensation for renouncing the title.\\n\\nThis will "
+"have the following effects:\\n\\n{EFFECTS}"
+msgstr ""
+
+#: compendium:62
+msgctxt "RenounceTitleWillLoosePermits"
+msgid "{PAWN_pronoun} will lose these permissions"
+msgstr ""
+
+#: compendium:63
+msgctxt "RenounceTitleWillLosePermitPoints"
+msgid ""
+"{PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}."
+msgstr ""
+
+#: compendium:64
+msgctxt "RenounceTitleWillKeepPsylinkLevels"
+msgid ""
+"{PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts."
+msgstr ""
+
+#: compendium:65
+#, fuzzy
+msgctxt "UnknownLower"
+msgid "unknown"
+msgstr "unknown"
+
+#: compendium:66
+#, fuzzy
+msgctxt "On"
+msgid "On"
+msgstr "On"
+
+#: compendium:67
+#, fuzzy
+msgctxt "Off"
+msgid "Off"
+msgstr "Off"
+
+#: compendium:68
+#, fuzzy
+msgctxt "PowerSwitch_Power"
+msgid "Power"
+msgstr "Power"
+
+#: compendium:69
+#, fuzzy
+msgctxt "JoyTolerances"
+msgid "Recreation type tolerances"
+msgstr "Joy tolerances"
+
+#: compendium:70
+#, fuzzy
+msgctxt "MilkFullness"
+msgid "Milk fullness"
+msgstr "Milk fullness"
+
+#: compendium:71
+#, fuzzy
+msgctxt "WoolGrowth"
+msgid "Wool growth"
+msgstr "Wool growth"
+
+#: compendium:72
+#, fuzzy
+msgctxt "EggProgress"
+msgid "Egg progress"
+msgstr "Egg progress"
+
+#: compendium:73
+#, fuzzy
+msgctxt "Fertilized"
+msgid "Fertilized"
+msgstr "Fertilized"
+
+#: compendium:74
+#, fuzzy
+msgctxt "ProgressStoppedUntilFertilized"
+msgid "Progress stopped until fertilized"
+msgstr "Progress stopped until fertilized"
+
+#: compendium:75
+msgctxt "HatchesIn"
+msgid "Hatches in"
+msgstr ""
+
+#: compendium:76
+#, fuzzy
+msgctxt "SkillTooLow"
+msgid "need {0} level {2}, have {1}"
+msgstr "need {0} level {2}, have {1}"
+
+#: compendium:77
+#, fuzzy
+msgctxt "Freezing"
+msgid "Freezing"
+msgstr "Freezing"
+
+#: compendium:78
+#, fuzzy
+msgctxt "Overheating"
+msgid "Overheating"
+msgstr "Overheating"
+
+#: compendium:79
+#, fuzzy
+msgctxt "RuinedByTemperature"
+msgid "Ruined by temperature."
+msgstr "Ruined by temperature."
+
+#: compendium:80
+#, fuzzy
+msgctxt "CorpsePercentMissing"
+msgid "Missing body parts"
+msgstr "Missing body parts"
+
+#: compendium:81
+#, fuzzy
+msgctxt "HiveReproducesIn"
+msgid "Reproduces in"
+msgstr "Reproduces in"
+
+#: compendium:82
+#, fuzzy
+msgctxt "DormantHiveNotReproducing"
+msgid "Dormant: Not reproducing."
+msgstr "TODO"
+
+#: compendium:83
+#, fuzzy
+msgctxt "NextSpawnedItemIn"
+msgid "Next {0} in"
+msgstr "TODO"
+
+#: compendium:84
+msgctxt "NextSpawnedResourceIn"
+msgid "Next resource in"
+msgstr ""
+
+#: compendium:85
+#, fuzzy
+msgctxt "BrokenDown"
+msgid "Broken down"
+msgstr "Broken down"
+
+#: compendium:86
+#, fuzzy
+msgctxt "BondBrackets"
+msgid "(bond)"
+msgstr "(bond)"
+
+#: compendium:87
+#, fuzzy
+msgctxt "Fuel"
+msgid "Fuel"
+msgstr "Fuel"
+
+#: compendium:88
+#, fuzzy
+msgctxt "FuelLevelGizmoLabel"
+msgid "Fuel"
+msgstr "Fuel"
+
+#: compendium:89
+#, fuzzy
+msgctxt "SetTargetFuelLevel"
+msgid "Set target fuel level to {0}"
+msgstr "Set target fuel level to {0}"
+
+#: compendium:90
+#, fuzzy
+msgctxt "SetPodLauncherTargetFuelLevel"
+msgid "Set target fuel level to {0}\\nMax distance: {1} tiles"
+msgstr "Set target fuel level to {0}\\nMax distance: {1} tiles"
+
+#: compendium:91
+#, fuzzy
+msgctxt "ConfiguredTargetFuelLevel"
+msgid "Target fuel level: {0}"
+msgstr "Target fuel level: {0}"
+
+#: compendium:92
+#, fuzzy
+msgctxt "Enemies"
+msgid "enemies"
+msgstr "enemies"
+
+#: compendium:93
+msgctxt "People"
+msgid "people"
+msgstr ""
+
+#: compendium:94
+#, fuzzy
+msgctxt "TimePassed"
+msgid "time passed"
+msgstr "time passed"
+
+#: compendium:95
+#, fuzzy
+msgctxt "CurrentRadius"
+msgid "current radius"
+msgstr "current radius"
+
+#: compendium:96
+#, fuzzy
+msgctxt "RadiusExpandsIn"
+msgid "radius expands in"
+msgstr "radius expands in"
+
+#: compendium:97
+#, fuzzy
+msgctxt "Permanent"
+msgid "permanent"
+msgstr "permanent"
+
+#: compendium:98
+#, fuzzy
+msgctxt "CaravanResting"
+msgid "Resting"
+msgstr "Resting."
+
+#: compendium:99
+#, fuzzy
+msgctxt "UsingBedroll"
+msgid "using 1 bedroll"
+msgstr "TODO"
+
+#: compendium:100
+#, fuzzy
+msgctxt "UsingBedrolls"
+msgid "using {0} bedrolls"
+msgstr "TODO"
+
+#: compendium:101
+#, fuzzy
+msgctxt "CaravanEstimatedTimeToDestination"
+msgid "Est. time to destination: {0} days"
+msgstr "Est. time to destination: {0} days"
+
+#: compendium:102
+#, fuzzy
+msgctxt "CaravanEstimatedDaysToDestination"
+msgid "Route travel time: {0} days"
+msgstr "TODO"
+
+#: compendium:103
+#, fuzzy
+msgctxt "CaravanImmobilizedByMass"
+msgid "Immobilized: Too much weight."
+msgstr "Immobilized: too much weight."
+
+#: compendium:104
+#, fuzzy
+msgctxt "CaravanOutOfFood"
+msgid "Out of food."
+msgstr "Out of food."
+
+#: compendium:105
+#, fuzzy
+msgctxt "CaravanDaysOfFood"
+msgid "Days of food: {0}"
+msgstr "Days of food: {0}"
+
+#: compendium:106
+#, fuzzy
+msgctxt "CaravanDaysOfFoodRot"
+msgid "Days of food: {0} (rot in {1} days)"
+msgstr "Days of food: {0}, rot in {1} days"
+
+#: compendium:107
+#, fuzzy
+msgctxt "AllCaravanMembersDowned"
+msgid "Stopped because: Everyone is downed."
+msgstr "Stopped because: everyone is downed."
+
+#: compendium:108
+#, fuzzy
+msgctxt "AllCaravanMembersMentalBreak"
+msgid "Stopped because: Everyone is in a mental break."
+msgstr "Stopped because: everyone has a mental break."
+
+#: compendium:109
+#, fuzzy
+msgctxt "CaravanColonistsCount"
+msgid "{0} {1}"
+msgstr "TODO"
+
+#: compendium:110
+#, fuzzy
+msgctxt "CaravanAnimal"
+msgid "1 animal"
+msgstr "TODO"
+
+#: compendium:111
+#, fuzzy
+msgctxt "CaravanAnimalsCount"
+msgid "{0} animals"
+msgstr "TODO"
+
+#: compendium:112
+#, fuzzy
+msgctxt "CaravanPrisoner"
+msgid "1 prisoner"
+msgstr "TODO"
+
+#: compendium:113
+#, fuzzy
+msgctxt "CaravanPrisonersCount"
+msgid "{0} prisoners"
+msgstr "TODO"
+
+#: compendium:114
+#, fuzzy
+msgctxt "CaravanPawnsInMentalState"
+msgid "{0} in mental state"
+msgstr "TODO"
+
+#: compendium:115
+#, fuzzy
+msgctxt "CaravanPawnsDowned"
+msgid "{0} downed"
+msgstr "TODO"
+
+#: compendium:116
+#, fuzzy
+msgctxt "CaravanTraveling"
+msgid "Traveling."
+msgstr "Traveling."
+
+#: compendium:117
+#, fuzzy
+msgctxt "CaravanWaiting"
+msgid "Waiting."
+msgstr "Waiting."
+
+#: compendium:118
+#, fuzzy
+msgctxt "BeingCarriedDueToIllness"
+msgid "Being carried due to illness"
+msgstr "TODO"
+
+#: compendium:119
+#, fuzzy
+msgctxt "UsingBedrollsDueToIllness"
+msgid "Using bedrolls due to illness"
+msgstr "TODO"
+
+#: compendium:120
+#, fuzzy
+msgctxt "CurrentTileMovementTime"
+msgid "Current tile movement time"
+msgstr "Current tile movement time"
+
+#: compendium:121
+#, fuzzy
+msgctxt "Visibility"
+msgid "Visibility"
+msgstr "TODO"
+
+#: compendium:122
+#, fuzzy
+msgctxt "Temperature"
+msgid "Temperature"
+msgstr "Temperature"
+
+#: compendium:123
+#, fuzzy
+msgctxt "BadTemperature"
+msgid "bad temperature"
+msgstr "bad temperature"
+
+#: compendium:124
+#, fuzzy
+msgctxt "IdealFermentingTemperature"
+msgid "Ideal fermenting temperature"
+msgstr "Ideal fermenting temperature"
+
+#: compendium:125
+#, fuzzy
+msgctxt "DrugEffectMultiplier"
+msgid "{0} effect multiplier: {1}"
+msgstr "{0} effect multiplier: {1}"
+
+#: compendium:126
+#, fuzzy
+msgctxt "CaravanVisiting"
+msgid "Visiting {0}."
+msgstr "Visiting {0}."
+
+#: compendium:127
+#, fuzzy
+msgctxt "CaravanEntering"
+msgid "Entering {0}."
+msgstr "Entering {0}."
+
+#: compendium:128
+#, fuzzy
+msgctxt "CaravanAttacking"
+msgid "Attacking {0}."
+msgstr "Attacking {0}."
+
+#: compendium:129
+#, fuzzy
+msgctxt "CaravanOfferingGifts"
+msgid "Offering gifts to {0}."
+msgstr "TODO"
+
+#: compendium:130
+msgctxt "CaravanTrading"
+msgid "Trading with {0}."
+msgstr ""
+
+#: compendium:131
+#, fuzzy
+msgctxt "WasWornByCorpse"
+msgid "Tainted from being worn by a corpse."
+msgstr "Was worn by a corpse."
+
+#: compendium:132
+#, fuzzy
+msgctxt "WornByCorpseChar"
+msgid "T"
+msgstr "D"
+
+#: compendium:133
+#, fuzzy
+msgctxt "DeterioratingUnroofed"
+msgid "unroofed"
+msgstr "TODO"
+
+#: compendium:134
+#, fuzzy
+msgctxt "DeterioratingOutdoors"
+msgid "outdoors"
+msgstr "TODO"
+
+#: compendium:135
+msgctxt "DeterioratingRaining"
+msgid "raining"
+msgstr ""
+
+#: compendium:136
+msgctxt "Protected"
+msgid "protected"
+msgstr ""
+
+#: compendium:137
+#, fuzzy
+msgctxt "DeterioratingBecauseOf"
+msgid "Deteriorating"
+msgstr "TODO"
+
+#: compendium:138
+msgctxt "DeteriorateInDuration"
+msgid "Will deteriorate in {0}."
+msgstr ""
+
+#: compendium:139
+#, fuzzy
+msgctxt "Map"
+msgid "Map"
+msgstr "Map"
+
+#: compendium:140
+msgctxt "CaravanDetectedRaidCountdown"
+msgid "{0} until enemies arrive"
+msgstr ""
+
+#: compendium:141
+msgctxt "CaravanDetectedRaidCountdownTip"
+msgid "Enemy reinforcements will arrive in this area in {0}."
+msgstr ""
+
+#: compendium:142
+#, fuzzy
+msgctxt "Room"
+msgid "Room"
+msgstr "Room"
+
+#: compendium:143
+#, fuzzy
+msgctxt "BeautyHere"
+msgid "Beauty here"
+msgstr "Beauty here"
+
+#: compendium:144
+#, fuzzy
+msgctxt "NoPower"
+msgid "no power"
+msgstr "No power"
+
+#: compendium:145
+#, fuzzy
+msgctxt "WorkSpeedPenalty"
+msgid "Work speed"
+msgstr "Work speed penalty"
+
+#: compendium:146
+#, fuzzy
+msgctxt "DisabledCommand"
+msgid "Disabled"
+msgstr "DISABLED"
+
+#: compendium:147
+#, fuzzy
+msgctxt "ReadyForLaunch"
+msgid "Ready for launch."
+msgstr "Ready for launch."
+
+#: compendium:148
+#, fuzzy
+msgctxt "NotReadyForLaunch"
+msgid "Not ready for launch"
+msgstr "Not ready for launch"
+
+#: compendium:149
+#, fuzzy
+msgctxt "NotAllInGroupConnectedToFuelingPort"
+msgid "no fueling port"
+msgstr "no fueling port"
+
+#: compendium:150
+#, fuzzy
+msgctxt "NotAllFuelingPortSourcesInGroupHaveAnyFuel"
+msgid "no fuel"
+msgstr "no fuel"
+
+#: compendium:151
+#, fuzzy
+msgctxt "TransportPodInGroupHasSomethingLeftToLoad"
+msgid "loading in progress"
+msgstr "loading in progress"
+
+#: compendium:152
+#, fuzzy
+msgctxt "TransportPodDestinationBeyondMaximumRange"
+msgid "Beyond maximum range"
+msgstr "Beyond maximum range"
+
+#: compendium:153
+#, fuzzy
+msgctxt "TransportPodNotEnoughFuel"
+msgid "Not enough fuel"
+msgstr "Not enough fuel"
+
+#: compendium:154
+#, fuzzy
+msgctxt "SettlementTrader"
+msgid "{0} of {1}"
+msgstr "{0} of {1}"
+
+#: compendium:155
+#, fuzzy
+msgctxt "RoomSurgerySuccessChanceFactor"
+msgid "Surgery success chance multiplier from room"
+msgstr "Room surgery success chance factor"
+
+#: compendium:156
+#, fuzzy
+msgctxt "RoomInfectionChanceFactor"
+msgid "Infection chance multiplier from room"
+msgstr "Room tend infection chance factor"
+
+#: compendium:157
+#, fuzzy
+msgctxt "VentClosed"
+msgid "Closed"
+msgstr "Closed"
+
+#: compendium:158
+#, fuzzy
+msgctxt "WornBy"
+msgid "worn by {1_labelShort}"
+msgstr "worn by {0}"
+
+#: compendium:159
+#, fuzzy
+msgctxt "EquippedBy"
+msgid "equipped by {1_labelShort}"
+msgstr "equipped by {0}"
+
+#: compendium:160
+#, fuzzy
+msgctxt "QuestTargetDestroyInspectString"
+msgid "{0} wants this destroyed.\\n    Reward: {1} ({2})"
+msgstr "{0} wants this destroyed.\\n    Reward: {1}."
+
+#: compendium:161
+msgctxt "QuestTargetDestroyInspectStringShort"
+msgid "{0} wants this destroyed."
+msgstr ""
+
+#: compendium:162
+msgctxt "ShuttleDelayInspectString"
+msgid "Departing on shuttle in {0}"
+msgstr ""
+
+#: compendium:163
+msgctxt "ShuttleLeaveDelayInspectString"
+msgid "Departing in {0}"
+msgstr ""
+
+#: compendium:164
+msgctxt "ShouldDepartOnShuttleInspectString"
+msgid "Should depart on shuttle"
+msgstr ""
+
+#: compendium:165
+#, fuzzy
+msgctxt "WorldObjectTimeout"
+msgid "Time left: {0}"
+msgstr "Time left: {0}"
+
+#: compendium:166
+#, fuzzy
+msgctxt "ClickToSortByThisColumn"
+msgid "Click to sort by this column."
+msgstr "Click to sort by this column."
+
+#: compendium:167
+#, fuzzy
+msgctxt "WorkPriorityShiftClickTip"
+msgid ""
+"Shift + click: Increase priority\\nShift + right click: Decrease priority"
+msgstr ""
+"Shift + click: Increase priority\\nShift + right click: Decrease priority"
+
+#: compendium:168
+#, fuzzy
+msgctxt "WorkPriorityShiftClickEnableDisableTip"
+msgid "Shift + click: Enable all\\nShift + right click: Disable all"
+msgstr "Shift + click: Enable all\\nShift + right click: Disable all"
+
+#: compendium:169
+#, fuzzy
+msgctxt "AllowedAreaShiftClickTip"
+msgid ""
+"Shift + click: Set all to home\\nShift + right click: Set all to "
+"unrestricted"
+msgstr ""
+"Shift + click: Set all to home\\nShift + right click: Set all to "
+"unrestricted"
+
+#: compendium:170
+#, fuzzy
+msgctxt "CheckboxShiftClickTip"
+msgid "Shift + click: Check all\\nShift + right click: Uncheck all"
+msgstr "Shift + click: Check all\\nShift + right click: Uncheck all"
+
+#: compendium:171
+msgctxt "KnownSiteThreatEnemyCountAppend"
+msgid "{0} {1}"
+msgstr ""
+
+#: compendium:172
+#, fuzzy
+msgctxt "SkillRequirements"
+msgid "Skill Requirements"
+msgstr "TODO"
+
+#: compendium:173
+#, fuzzy
+msgctxt "Products"
+msgid "Products"
+msgstr "TODO"
+
+#: compendium:174
+msgctxt "Requires"
+msgid "Requires"
+msgstr ""
+
+#: compendium:175
+msgctxt "NumAnyOf"
+msgid "{0}x any of"
+msgstr ""
+
+#: compendium:176
+#, fuzzy
+msgctxt "Relationship"
+msgid "{0} of {1}"
+msgstr "TODO"
+
+#: compendium:177
+#, fuzzy
+msgctxt "Prisoner"
+msgid "Prisoner"
+msgstr "TODO"
+
+#: compendium:178
+#, fuzzy
+msgctxt "Refugee"
+msgid "Refugee"
+msgstr "TODO"
+
+#: compendium:179
+#, fuzzy
+msgctxt "TileMovementDifficulty"
+msgid "Terrain movement difficulty"
+msgstr "TODO"
+
+#: compendium:180
+#, fuzzy
+msgctxt "Impassable"
+msgid "Impassable"
+msgstr "TODO"
+
+#: compendium:181
+#, fuzzy
+msgctxt "CaravanMovementSpeedFull"
+msgid "Caravan movement speed"
+msgstr "TODO"
+
+#: compendium:182
+#, fuzzy
+msgctxt "DownedLower"
+msgid "downed"
+msgstr "TODO"
+
+#: compendium:183
+#, fuzzy
+msgctxt "Carried"
+msgid "resting"
+msgstr "TODO"
+
+#: compendium:184
+msgctxt "RideableAnimalsPerPeople"
+msgid "Rideable animals / people"
+msgstr ""
+
+#: compendium:185
+msgctxt "MultiplierFromRiddenAnimals"
+msgid "Multiplier from ridden animals"
+msgstr ""
+
+#: compendium:186
+#, fuzzy
+msgctxt "MultiplierForCarriedMass"
+msgid "Multiplier for carried mass: {0}"
+msgstr "TODO"
+
+#: compendium:187
+msgctxt "RideableAnimalTip"
+msgid ""
+"This animal is rideable. People in a caravan will ride the fastest available"
+" animals, improving the speed of the caravan as a whole."
+msgstr ""
+
+#: compendium:188
+msgctxt "EncumberedCaravanTilesPerDayTip"
+msgid "This caravan can't move because it carries too much."
+msgstr ""
+
+#: compendium:189
+#, fuzzy
+msgctxt "FinalCaravanPawnsMovementSpeed"
+msgid "Caravan members speed"
+msgstr "TODO"
+
+#: compendium:190
+#, fuzzy
+msgctxt "FinalCaravanMovementSpeed"
+msgid "Final speed"
+msgstr "TODO"
+
+#: compendium:191
+#, fuzzy
+msgctxt "Winter"
+msgid "Winter"
+msgstr "TODO"
+
+#: compendium:192
+#, fuzzy
+msgctxt "MovementDifficultyOffsetInWinter"
+msgid "{0} in winter"
+msgstr "TODO"
+
+#: compendium:193
+#, fuzzy
+msgctxt "RangeTo"
+msgid "to"
+msgstr "TODO"
+
+#: compendium:194
+#, fuzzy
+msgctxt "NoDietCategoryLetter"
+msgid "No letter"
+msgstr "TODO"
+
+#: compendium:195
+#, fuzzy
+msgctxt "ExpiresIn"
+msgid "expires in"
+msgstr "TODO"
+
+#: compendium:196
+#, fuzzy
+msgctxt "CaravanLeaderCaravanName"
+msgid "{1_labelShort}'s caravan"
+msgstr "TODO"
+
+#: compendium:197
+#, fuzzy
+msgctxt "Reason"
+msgid "Reason"
+msgstr "TODO"
+
+#: compendium:198
+#, fuzzy
+msgctxt "RelationsWith"
+msgid "Relations with {0}"
+msgstr "TODO"
+
+#: compendium:199
+#, fuzzy
+msgctxt "capturedBy"
+msgid "captured by {0}"
+msgstr "TODO"
+
+#: compendium:200
+#, fuzzy
+msgctxt "yourCaravan"
+msgid "your caravan"
+msgstr "TODO"
+
+#: compendium:201
+#, fuzzy
+msgctxt "CreatureWildness"
+msgid "{0} wildness"
+msgstr "TODO"
+
+#: compendium:202
+#, fuzzy
+msgctxt "CreatureTrainability"
+msgid "{0} trainability"
+msgstr "TODO"
+
+#: compendium:203
+msgctxt "CreatureFollowDrafted"
+msgid "Follow master while drafted"
+msgstr ""
+
+#: compendium:204
+msgctxt "CreatureFollowFieldwork"
+msgid "Follow master while doing field work"
+msgstr ""
+
+#: compendium:205
+#, fuzzy
+msgctxt "ProximitySingleGoodwillChange"
+msgid "{0} with {1}"
+msgstr "TODO"
+
+#: compendium:206
+#, fuzzy
+msgctxt "EnterCooldown"
+msgid "Too dangerous to re-enter for {0}."
+msgstr "TODO"
+
+#: compendium:207
+#, fuzzy
+msgctxt "Caravan"
+msgid "Caravan"
+msgstr "TODO"
+
+#: compendium:208
+#, fuzzy
+msgctxt "HiddenOrNoSitePartDescription"
+msgid "there may be danger there."
+msgstr "TODO"
+
+#: compendium:209
+msgctxt "PreciousLumpHostileThreat"
+msgid ""
+"The scanner is picking up activity around the lump. It's likely hostile."
+msgstr ""
+
+#: compendium:210
+#, fuzzy
+msgctxt "PreciousLumpLabel"
+msgid "lump of {0}"
+msgstr "TODO"
+
+#: compendium:211
+#, fuzzy
+msgctxt "NoActiveResearchProjectToFinish"
+msgid "no active research project"
+msgstr "TODO"
+
+#: compendium:212
+msgctxt "CurrentProject"
+msgid "Current project"
+msgstr ""
+
+#: compendium:213
+msgctxt "ResearchProgress"
+msgid "Research progress"
+msgstr ""
+
+#: compendium:214
+msgctxt "AlreadyHasHediff"
+msgid "already has {0}"
+msgstr ""
+
+#: compendium:215
+#, fuzzy
+msgctxt "Turret"
+msgid "turret"
+msgstr "TODO"
+
+#: compendium:216
+#, fuzzy
+msgctxt "Turrets"
+msgid "turrets"
+msgstr "TODO"
+
+#: compendium:217
+#, fuzzy
+msgctxt "Mortar"
+msgid "mortar"
+msgstr "TODO"
+
+#: compendium:218
+#, fuzzy
+msgctxt "Mortars"
+msgid "mortars"
+msgstr "TODO"
+
+#: compendium:219
+#, fuzzy
+msgctxt "Enemy"
+msgid "enemy"
+msgstr "TODO"
+
+#: compendium:220
+msgctxt "Location"
+msgid "location"
+msgstr ""
+
+#: compendium:221
+msgctxt "AnimalsLower"
+msgid "animals"
+msgstr ""
+
+#: compendium:222
+msgctxt "ItemsLower"
+msgid "items"
+msgstr ""
+
+#: compendium:223
+msgctxt "FilthLabel"
+msgid "{0} x{1}"
+msgstr ""
+
+#: compendium:224
+msgctxt "FilthLabelWithSource"
+msgid "{0} of {1} x{2}"
+msgstr ""
+
+#: compendium:225
+msgctxt "Required"
+msgid "Required"
+msgstr ""
+
+#: compendium:226
+msgctxt "GiveGiftViaTransportPodsTradeRequestWarning"
+msgid ""
+"Warning: You cannot complete trade requests by using transport pods.\\nIf "
+"you send the goods, the settlement will accept them as gifts but they will "
+"not reward you.\\n\\nFor trading, approach the settlement with a "
+"caravan!\\n\\nAre you sure you want to gift the loaded goods to the faction?"
+msgstr ""
+
+#: compendium:227
+msgctxt "PrisonerLower"
+msgid "prisoner"
+msgstr ""
+
+#: compendium:228
+msgctxt "PrisonersLower"
+msgid "prisoners"
+msgstr ""
+
+#: compendium:229
+msgctxt "ClickToViewInQuestsTab"
+msgid "Click to view this quest in quests tab"
+msgstr ""
+
+#: compendium:230
+msgctxt "Mood"
+msgid "Mood"
+msgstr ""
+
+#: compendium:231
+msgctxt "Quest"
+msgid "Quest"
+msgstr ""
+
+#: compendium:232
+msgctxt "BringsRaidsEvery"
+msgid "Brings raids every {0}"
+msgstr ""
+
+#: compendium:233
+msgctxt "GeneratesResourcesEvery"
+msgid "Generates {0} every {1}"
+msgstr ""
+
+#: compendium:234
+msgctxt "FoliageKillRadius"
+msgid "Foliage kill radius"
+msgstr ""
+
+#: compendium:235
+msgctxt "ViewHyperlink"
+msgid "View: {0}"
+msgstr ""
+
+#: compendium:236
+msgctxt "DetonationCountdown"
+msgid "Detonates in {0} days"
+msgstr ""
+
+#: compendium:237
+msgctxt "ExplosionOnDamageWarning"
+msgid "Large fire explosion if damaged."
+msgstr ""
+
+#: compendium:238
+msgctxt "MechCluster"
+msgid "Mech cluster"
+msgstr ""
+
+#: compendium:239
+msgctxt "SpawningNextPawnIn"
+msgid "Spawning in {0}"
+msgstr ""
+
+#: compendium:240
+msgctxt "MechAssemblyCompleteIn"
+msgid "{0} assembly completes in {1}."
+msgstr ""
+
+#: compendium:241
+msgctxt "MechAssemblyNextType"
+msgid "Will assemble"
+msgstr ""
+
+#: compendium:242
+msgctxt "ThingsProduced"
+msgid "produced"
+msgstr ""
+
+#: compendium:243
+msgctxt "PlantsHarvested"
+msgid "harvested"
+msgstr ""
+
+#: compendium:244
+msgctxt "PawnsKilled"
+msgid "{0} killed"
+msgstr ""
+
+#: compendium:245
+msgctxt "PawnsLent"
+msgid "Sent {0}, will return in {1}"
+msgstr ""
+
+#: compendium:246
+msgctxt "DormantCompInactive"
+msgid "Dormant"
+msgstr ""
+
+#: compendium:247
+msgctxt "DormantCompSealed"
+msgid "Sealed"
+msgstr ""
+
+#: compendium:248
+msgctxt "DormantCompBeacon"
+msgid "Ready to drop mechanoids"
+msgstr ""
+
+#: compendium:249
+msgctxt "DormantCompExpired"
+msgid "Expired"
+msgstr ""
+
+#: compendium:250
+msgctxt "InitiatesIn"
+msgid "Initiates in"
+msgstr ""
+
+#: compendium:251
+msgctxt "SendSignalOnCountdownCompTime"
+msgid "Activates in {0}"
+msgstr ""
+
+#: compendium:252
+msgctxt "PsychicEntropy"
+msgid "Neural heat"
+msgstr ""
+
+#: compendium:253
+msgctxt "PsychicEntropyShort"
+msgid "Heat"
+msgstr ""
+
+#: compendium:254
+msgctxt "PsychicEntropyPainFocus"
+msgid "{0} pain boost"
+msgstr ""
+
+#: compendium:255
+msgctxt "ConditionCauserRadius"
+msgid "radius {0}"
+msgstr ""
+
+#: compendium:256
+msgctxt "LowPsyfocus"
+msgid "low psyfocus"
+msgstr ""
+
+#: compendium:257
+msgctxt "DurationLeft"
+msgid "{0} left"
+msgstr ""
+
+#: compendium:258
+msgctxt "AnyOf"
+msgid "Any of"
+msgstr ""
+
+#: compendium:259
+msgctxt "TraitRequired"
+msgid "Requires {0} trait"
+msgstr ""
+
+#: compendium:260
+msgctxt "Goodwill"
+msgid "Goodwill"
+msgstr ""
+
+#: compendium:261
+msgctxt "NaturalGoodwill"
+msgid "Natural goodwill"
+msgstr ""
+
+#: compendium:262
+msgctxt "NaturalGoodwillRange"
+msgid "Natural goodwill range"
+msgstr ""
+
+#: compendium:263
+msgctxt "NaturalGoodwillDescription"
+msgid ""
+"Natural goodwill is based on faction identities and beliefs. If current "
+"goodwill is far from natural goodwill, it will slowly shift towards natural "
+"goodwill over time.\\n\\nAll goodwill effects are multiplied by {0} when "
+"moving towards natural goodwill."
+msgstr ""
+
+#: compendium:264
+msgctxt "JobReport_ReduceResistance"
+msgid "reducing resistance of {0_nameIndef}"
+msgstr ""
+
+#: compendium:265
+msgctxt "TooLargeForBed"
+msgid "Too large"
+msgstr ""
+
+#: compendium:266
+msgctxt "Warning"
+msgid "Warning"
+msgstr ""
+
+#: compendium:267
+msgctxt "HasSubquest"
+msgid "Has subquest"
+msgstr ""
+
+#: compendium:268
+msgctxt "SubquestOf"
+msgid "Subquest of"
+msgstr ""
+
+#: compendium:269
+msgctxt "Raid"
+msgid "Raid"
+msgstr ""
+
+#: compendium:270
+msgctxt "ApparelRequirementDisabledLabel"
+msgid "Disabled by"
+msgstr ""
+
+#: compendium:271
+msgctxt "Nudism"
+msgid "Nudism"
+msgstr ""
+
+#: compendium:272
+msgctxt "StudyProgress"
+msgid "Study progress"
+msgstr ""
+
+#: compendium:273
+msgctxt "StudyCompleted"
+msgid "completed"
+msgstr ""
+
+#: compendium:274
+msgctxt "AttackToDestroy"
+msgid "Attack this to destroy it."
+msgstr ""
+
+#: compendium:275
+msgctxt "RemoveByAttackingTooltip"
+msgid "Remove this by attacking it."
+msgstr ""
+
+#: compendium:276
+msgctxt "ThoughtFoodEatenFood"
+msgid "Food"
+msgstr ""
+
+#: compendium:277
+msgctxt "ThoughtFoodEatenIngredients"
+msgid "Ingredients"
+msgstr ""
+
+#: compendium:278
+msgctxt "ShieldInbuilt"
+msgid "Shield pack"
+msgstr ""
+
+#: compendium:279
+msgctxt "PuncturedWillExplode"
+msgid "Punctured - will explode soon."
+msgstr ""
+
+#: compendium:280
+msgctxt "ClickToOpenResearchTab"
+msgid "Click to open research window"
+msgstr ""
+
+#: compendium:281
+msgctxt "TargetBelongsToNPCFaction"
+msgid "Target belongs to another faction."
+msgstr ""
+
+#: compendium:282
+msgctxt "MoreLower"
+msgid "more"
+msgstr ""
+
+#: compendium:283
+msgctxt "RequiredTechprintTip"
+msgid "Requires"
+msgstr ""
+
+#: compendium:284
+msgctxt "Size"
+msgid "size"
+msgstr ""
+
+#: compendium:285
+msgctxt "Cost"
+msgid "cost"
+msgstr ""
+
+#: compendium:286
+msgctxt "StunnedByEMP"
+msgid "Stunned by EMP"
+msgstr ""
+
+#: compendium:287
+msgctxt "BackstoryTitle"
+msgid "Title"
+msgstr ""
+
+#: compendium:288
+msgctxt "Person"
+msgid "person"
+msgstr ""
+
+#: compendium:289
+msgctxt "Activated"
+msgid "activated."
+msgstr ""
+
+#: compendium:290
+msgctxt "Contains"
+msgid "Contains"
+msgstr ""
+
+#: compendium:291
+msgctxt "Hostiles"
+msgid "Hostiles"
+msgstr ""
+
+#: compendium:292
+msgctxt "Investigate"
+msgid "Investigate"
+msgstr ""
+
+#: compendium:293
+msgctxt "Activate"
+msgid "Activate"
+msgstr ""
+
+#: compendium:294
+msgctxt "Activation"
+msgid "Activation"
+msgstr ""
+
+#: compendium:295
+msgctxt "Complete"
+msgid "complete"
+msgstr ""
+
+#: compendium:296
+msgctxt "RequiresImprisonment"
+msgid "Must be imprisoned."
+msgstr ""
+
+#: compendium:297
+msgctxt "HaulFromSource"
+msgid "Prioritize hauling contents"
+msgstr ""
+
+#: compendium:298
+msgctxt "UseGizmo"
+msgid "Use"
+msgstr ""
+
+#: compendium:299
+msgctxt "UseGizmoTooltip"
+msgid "Order someone to use the {0}."
+msgstr ""
+
+#: compendium:300
+msgctxt "UseGizmoMouse"
+msgid "Choose who should use this"
+msgstr ""
+
+#: compendium:301
+msgctxt "TargetGizmoMouse"
+msgid "Select target"
+msgstr ""
+
+#: compendium:302
+msgctxt "CannotUseGizmoMouse"
+msgid "Cannot use this"
+msgstr ""
+
+#: compendium:303
+msgctxt "Buildings"
+msgid "Buildings"
+msgstr ""
+
+#: compendium:304
+msgctxt "NotYetDiscovered"
+msgid "not yet discovered"
+msgstr ""
+
+#: compendium:305
+msgctxt "ReportStringCrawlingToSafety"
+msgid "Crawling to safety."
+msgstr ""
+
+#: compendium:306
+msgctxt "ReportStringCrawlingToBed"
+msgid "Crawling to bed."
+msgstr ""
+
+#: compendium:309
+msgctxt "UserScanAbility"
+msgid "User scanning speed"
+msgstr ""
+
+#: compendium:310
+msgctxt "ScanAverageInterval"
+msgid "Random find interval"
+msgstr ""
+
+#: compendium:311
+msgctxt "ScanningProgressToGuaranteedFind"
+msgid "Progress to guaranteed find"
+msgstr ""
+
+#: compendium:314
+msgctxt "MeditatingAt"
+msgid "meditating at"
+msgstr ""
+
+#: compendium:317
+#, fuzzy
+msgctxt "ContainsWort"
+msgid "Contains {0} / {1} wort."
+msgstr "Contains {0} / {1} wort."
+
+#: compendium:318
+#, fuzzy
+msgctxt "ContainsBeer"
+msgid "Contains {0} / {1} beer."
+msgstr "Contains {0} / {1} beer."
+
+#: compendium:319
+#, fuzzy
+msgctxt "Fermented"
+msgid "Fermented"
+msgstr "Fermented"
+
+#: compendium:320
+#, fuzzy
+msgctxt "FermentationProgress"
+msgid "Progress: {0} ({1} left)"
+msgstr "Progress: {0} ({1} left)"
+
+#: compendium:321
+#, fuzzy
+msgctxt "FermentationBarrelOutOfIdealTemperature"
+msgid "Non-ideal temperature. Fermentation speed: {0}"
+msgstr "Non-ideal temperature. Fermentation speed: {0}"
+
+#: compendium:324
+#, fuzzy
+msgctxt "Headshot"
+msgid "Headshot"
+msgstr "Headshot"
+
+#: compendium:325
+#, fuzzy
+msgctxt "TextMote_TreatSuccess"
+msgid "Treatment success!\\n{0} chance"
+msgstr "Treatment success!\\n{0} chance"
+
+#: compendium:326
+#, fuzzy
+msgctxt "TextMote_TreatFailed"
+msgid "Treatment failed\\n{0} chance"
+msgstr "Treatment failed\\n{0} chance"
+
+#: compendium:327
+#, fuzzy
+msgctxt "TextMote_HarvestFailed"
+msgid "Harvest\\nbotched"
+msgstr "Harvest\\nfailed"
+
+#: compendium:328
+#, fuzzy
+msgctxt "TextMote_YieldWasted"
+msgid "Yield\\nwasted"
+msgstr "Yield\\nwasted"
+
+#: compendium:329
+#, fuzzy
+msgctxt "TextMote_ProductWasted"
+msgid "Product\\nwasted"
+msgstr "Product\\nwasted"
+
+#: compendium:330
+#, fuzzy
+msgctxt "TextMote_RecruitFail"
+msgid "Recruit failed!\\n{0} chance"
+msgstr "Recruit failed!\\n{0} chance"
+
+#: compendium:331
+#, fuzzy
+msgctxt "TextMote_ResistanceReduced"
+msgid "Resistance\\n{0} to {1}"
+msgstr "TODO"
+
+#: compendium:332
+#, fuzzy
+msgctxt "TextMote_TameFail"
+msgid "Tame failed\\n{0} chance"
+msgstr "Tame failed\\n{0} chance"
+
+#: compendium:333
+#, fuzzy
+msgctxt "TextMote_TameSuccess"
+msgid "Tamed!"
+msgstr "Tamed!\\n{0} chance"
+
+#: compendium:334
+#, fuzzy
+msgctxt "TextMote_TrainFail"
+msgid "Failed training: {0}\\n{1} chance"
+msgstr "Failed training: {0}\\n{1} chance"
+
+#: compendium:335
+#, fuzzy
+msgctxt "TextMote_TrainSuccess"
+msgid "Trained: {0}\\n{1} chance"
+msgstr "Trained: {0}\\n{1} chance"
+
+#: compendium:336
+#, fuzzy
+msgctxt "TextMote_FixBrokenDownBuildingFail"
+msgid "Repair\\nbotched"
+msgstr "Repair\\nfailed"
+
+#: compendium:337
+#, fuzzy
+msgctxt "TextMote_ConstructionFail"
+msgid "Construction\\nbotched"
+msgstr "Construction\\nfailed"
+
+#: compendium:338
+#, fuzzy
+msgctxt "TextMote_Dodge"
+msgid "Dodge"
+msgstr "Dodge"
+
+#: compendium:339
+msgctxt "TextMote_Immune"
+msgid "Immune"
+msgstr ""
+
+#: compendium:340
+#, fuzzy
+msgctxt "TextMote_Tended"
+msgid "{0} tended"
+msgstr "{0} tended"
+
+#: compendium:341
+msgctxt "TextMote_SkillUp"
+msgid "level {0}"
+msgstr ""
+
+#: compendium:342
+#, fuzzy
+msgctxt "lowMood"
+msgid "low mood"
+msgstr "TODO"
+
+#: compendium:343
+#, fuzzy
+msgctxt "lowOpinion"
+msgid "low opinion"
+msgstr "TODO"
+
+#: compendium:346
+#, fuzzy
+msgctxt "Home"
+msgid "Home"
+msgstr "Home"
+
+#: compendium:347
+#, fuzzy
+msgctxt "BuildRoof"
+msgid "Build roof"
+msgstr "Build roof"
+
+#: compendium:348
+#, fuzzy
+msgctxt "NoRoof"
+msgid "No roof"
+msgstr "No roof"
+
+#: compendium:349
+#, fuzzy
+msgctxt "SnowClear"
+msgid "Snow clear"
+msgstr "Snow clear"
+
+#: compendium:350
+#, fuzzy
+msgctxt "AreaDefaultLabel"
+msgid "Area {0}"
+msgstr "Area {0}"
+
+#: compendium:351
+#, fuzzy
+msgctxt "NoAreaAllowed"
+msgid "Unrestricted"
+msgstr "Unrestricted"
+
+#: compendium:352
+#, fuzzy
+msgctxt "NewArea"
+msgid "New area"
+msgstr "New area"
+
+#: compendium:353
+#, fuzzy
+msgctxt "InvertArea"
+msgid "Invert"
+msgstr "Invert"
+
+#: compendium:354
+msgctxt "ExpandArea"
+msgid "Expand"
+msgstr ""
+
+#: compendium:355
+msgctxt "ShrinkArea"
+msgid "Shrink"
+msgstr ""
+
+#: compendium:356
+msgctxt "MaxAreasReached"
+msgid "Maximum {0} areas allowed."
+msgstr ""
+
+#: compendium:359
+msgctxt "PenUnenclosedLabel"
+msgid "Unenclosed"
+msgstr ""
+
+#: compendium:360
+msgctxt "PenOpenDoorLabel"
+msgid "open door"
+msgstr ""
+
+#: compendium:361
+msgctxt "RenameAnimalPen"
+msgid "Rename pen"
+msgstr ""
+
+#: compendium:362
+msgctxt "AnimalPenMarkerDefaultLabel"
+msgid "Pen marker {0}"
+msgstr ""
+
+#: compendium:363
+msgctxt "InPen"
+msgid "In pen"
+msgstr ""
+
+#: compendium:364
+msgctxt "Unpenned"
+msgid "not in a pen"
+msgstr ""
+
+#: compendium:365
+msgctxt "UnpennedTooltip"
+msgid ""
+"Animal pens can be created by building a pen marker inside an enclosed area."
+" Your handlers will bring animals to an appropriate pen. Pens can be "
+"enclosed with fences, barricades, walls, and doors."
+msgstr ""
+
+#: compendium:366
+msgctxt "RopedByPawn"
+msgid "Roped by"
+msgstr ""
+
+#: compendium:367
+msgctxt "RopedToThing"
+msgid "Roped to"
+msgstr ""
+
+#: compendium:368
+msgctxt "RopedToSpot"
+msgid "Roped to spot."
+msgstr ""
+
+#: compendium:369
+msgctxt "PenSizeLabel"
+msgid "Pen size"
+msgstr ""
+
+#: compendium:370
+msgctxt "PenSizeDesc_VerySmall"
+msgid "Very small pen"
+msgstr ""
+
+#: compendium:371
+msgctxt "PenSizeDesc_Small"
+msgid "Small pen"
+msgstr ""
+
+#: compendium:372
+msgctxt "PenSizeDesc_Medium"
+msgid "Medium-sized pen"
+msgstr ""
+
+#: compendium:373
+msgctxt "PenSizeDesc_Large"
+msgid "Large pen"
+msgstr ""
+
+#: compendium:374
+msgctxt "PenSizeDesc_Unenclosed"
+msgid "Not enclosed - build fences"
+msgstr ""
+
+#: compendium:375
+msgctxt "PenCapacityDesc"
+msgid "{ANIMALDEF_label} capacity"
+msgstr ""
+
+#: compendium:376
+msgctxt "PenExampleAnimals"
+msgid "Example animals"
+msgstr ""
+
+#: compendium:377
+msgctxt "NoExteriorAccess"
+msgid "No exterior access - Animals cannot be moved in or out."
+msgstr ""
+
+#: compendium:379
+msgctxt "DoorMustBeEnclosedByWalls"
+msgid "Must be connected to walls on both sides to function."
+msgstr ""
+
+#: compendium:382
+msgctxt "Beauty_Label"
+msgid "Beauty"
+msgstr ""
+
+#: compendium:383
+msgctxt "Zone_Label"
+msgid "Zone"
+msgstr ""
+
+#: compendium:384
+msgctxt "Roof_Label"
+msgid "Roof"
+msgstr ""
+
+#: compendium:385
+msgctxt "Terrain_Label"
+msgid "Terrain"
+msgstr ""
+
+#: compendium:386
+msgctxt "Snow_Label"
+msgid "Snow"
+msgstr ""
+
+#: compendium:387
+msgctxt "WalkSpeed_Label"
+msgid "Walk speed"
+msgstr ""
+
+#: compendium:388
+msgctxt "Fertility_Label"
+msgid "Fertility"
+msgstr ""
+
+#: compendium:389
+msgctxt "Temperature_Label"
+msgid "Temperature"
+msgstr ""
+
+#: compendium:390
+msgctxt "LightLevel_Label"
+msgid "Light level"
+msgstr ""
+
+#: compendium:391
+msgctxt "Biome_Label"
+msgid "Biome"
+msgstr ""
+
+#: compendium:392
+msgctxt "Hilliness_Label"
+msgid "Hilliness"
+msgstr ""
+
+#: compendium:393
+msgctxt "Road_Label"
+msgid "Road"
+msgstr ""
+
+#: compendium:394
+msgctxt "River_Label"
+msgid "River"
+msgstr ""
+
+#: compendium:395
+msgctxt "MovementDifficulty_Label"
+msgid "Movement difficulty"
+msgstr ""
+
+#: compendium:396
+msgctxt "Pollution_Label"
+msgid "Pollution"
+msgstr ""
+
+#: compendium:397
+msgctxt "Filth_Label"
+msgid "Filth"
+msgstr ""
+
+#: compendium:399
+msgctxt "Faction_Label"
+msgid "Faction"
+msgstr ""
+
+#: compendium:400
+msgctxt "Relationship_Label"
+msgid "Relationship"
+msgstr ""
+
+#: compendium:401
+msgctxt "CaravanColonists_Label"
+msgid "Colonists"
+msgstr ""
+
+#: compendium:402
+msgctxt "CaravanStatus_Label"
+msgid "Status"
+msgstr ""
+
+#: compendium:403
+msgctxt "CaravanTTD_Label"
+msgid "Time to destination"
+msgstr ""
+
+#: compendium:407
+#, fuzzy
+msgctxt "CannotOrderNonControlled"
+msgid "Cannot order characters you do not control."
+msgstr "Cannot order non-controlled units."
+
+#: compendium:408
+#, fuzzy
+msgctxt "IsIncapableOfViolence"
+msgid "{1_labelShort} is incapable of violence."
+msgstr "{0} is incapable of violence."
+
+#: compendium:409
+#, fuzzy
+msgctxt "IsIncapableOfViolenceShort"
+msgid "incapable of violence"
+msgstr "incapable of violence"
+
+#: compendium:410
+#, fuzzy
+msgctxt "IsNotDrafted"
+msgid "{1_labelShort} is not drafted."
+msgstr "{0} is not drafted."
+
+#: compendium:411
+msgctxt "ApparelPreventsShooting"
+msgid ""
+"{PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} "
+"{APPAREL_label}."
+msgstr ""
+
+#: compendium:412
+msgctxt "CannotUseReason_PocketMap"
+msgid "Cannot use in {0}"
+msgstr ""
+
+#: compendium:415
+msgctxt "Snow"
+msgid "Snow"
+msgstr ""
+
+#: compendium:416
+#, fuzzy
+msgctxt "SnowNone"
+msgid "No snow"
+msgstr "No snow"
+
+#: compendium:417
+#, fuzzy
+msgctxt "SnowDusting"
+msgid "dusting"
+msgstr "Snow (dusting)"
+
+#: compendium:418
+#, fuzzy
+msgctxt "SnowThin"
+msgid "thin"
+msgstr "Snow (thin)"
+
+#: compendium:419
+#, fuzzy
+msgctxt "SnowMedium"
+msgid "medium"
+msgstr "Snow (medium)"
+
+#: compendium:420
+#, fuzzy
+msgctxt "SnowThick"
+msgid "thick"
+msgstr "Snow (thick)"
+
+#: compendium:423
+#, fuzzy
+msgctxt "GunInstalled"
+msgid "Installed"
+msgstr "Installed"
+
+#: compendium:424
+#, fuzzy
+msgctxt "MinimumRange"
+msgid "Minimum range"
+msgstr "Minimum range"
+
+#: compendium:425
+#, fuzzy
+msgctxt "CanFireIn"
+msgid "Can fire in"
+msgstr "Can fire in"
+
+#: compendium:426
+#, fuzzy
+msgctxt "CannotFire"
+msgid "Cannot fire"
+msgstr "TODO"
+
+#: compendium:427
+#, fuzzy
+msgctxt "Roofed"
+msgid "roofed"
+msgstr "TODO"
+
+#: compendium:428
+#, fuzzy
+msgctxt "ShellLoaded"
+msgid "Shell loaded: {1_label}"
+msgstr "Shell loaded"
+
+#: compendium:429
+#, fuzzy
+msgctxt "ShellNotLoaded"
+msgid "Not loaded"
+msgstr "Not loaded"
+
+#: compendium:430
+msgctxt "AlreadyActive"
+msgid "Already active"
+msgstr ""
+
+#: compendium:431
+msgctxt "OrderActivation"
+msgid "Order activation"
+msgstr ""
+
+#: compendium:432
+msgctxt "OrderActivationDesc"
+msgid "Order a colonist to activate {THING_definite}."
+msgstr ""
+
+#: compendium:433
+msgctxt "MustBeActivatedByColonist"
+msgid "Send a colonist to activate this."
+msgstr ""
+
+#: compendium:434
+msgctxt "NoNearbyFire"
+msgid "No nearby fire"
+msgstr ""
+
+#: compendium:435
+msgctxt "NoNearbyFireNoFuelUsed"
+msgid "No nearby fire. No fuel was used."
+msgstr ""
+
+#: compendium:436
+msgctxt "ChooseWhoShouldActivate"
+msgid "Choose who should activate this."
+msgstr ""
+
+#: compendium:437
+msgctxt "NoFuel"
+msgid "No fuel"
+msgstr ""
+
+#: compendium:440
+#, fuzzy
+msgctxt "ReportHaulingTo"
+msgid "hauling {THING_label} to {DESTINATION}."
+msgstr "hauling {0} to {1}."
+
+#: compendium:441
+msgctxt "ReportHaulingToGrave"
+msgid "burying {THING_label} in {DESTINATION}."
+msgstr ""
+
+#: compendium:442
+#, fuzzy
+msgctxt "ReportHauling"
+msgid "hauling {1_label}."
+msgstr "hauling {0}."
+
+#: compendium:443
+#, fuzzy
+msgctxt "ReportHaulingUnknown"
+msgid "hauling."
+msgstr "TODO"
+
+#: compendium:444
+#, fuzzy
+msgctxt "ReportSleeping"
+msgid "sleeping."
+msgstr "sleeping."
+
+#: compendium:445
+#, fuzzy
+msgctxt "ReportResting"
+msgid "resting."
+msgstr "resting."
+
+#: compendium:446
+msgctxt "ReportLayingDown"
+msgid "laying down."
+msgstr ""
+
+#: compendium:447
+#, fuzzy
+msgctxt "WatchingSunrise"
+msgid "watching the sunrise."
+msgstr "watching the sunrise"
+
+#: compendium:448
+#, fuzzy
+msgctxt "CloudWatching"
+msgid "cloudwatching."
+msgstr "cloudwatching"
+
+#: compendium:449
+#, fuzzy
+msgctxt "WatchingSunset"
+msgid "watching the sunset."
+msgstr "watching the sunset"
+
+#: compendium:450
+#, fuzzy
+msgctxt "Stargazing"
+msgid "stargazing."
+msgstr "stargazing"
+
+#: compendium:451
+#, fuzzy
+msgctxt "WatchingEclipse"
+msgid "watching the eclipse."
+msgstr "watching the eclipse"
+
+#: compendium:452
+#, fuzzy
+msgctxt "WatchingAurora"
+msgid "watching the aurora."
+msgstr "TODO"
+
+#: compendium:453
+#, fuzzy
+msgctxt "UsingVerb"
+msgid "using {0} on {1}."
+msgstr "using {0} on {1}."
+
+#: compendium:454
+msgctxt "UsingVerbNoTarget"
+msgid "using {0}."
+msgstr ""
+
+#: compendium:455
+#, fuzzy
+msgctxt "AreaLower"
+msgid "area"
+msgstr "area"
+
+#: compendium:456
+#, fuzzy
+msgctxt "ReportCowering"
+msgid "cowering."
+msgstr "cowering."
+
+#: compendium:457
+#, fuzzy
+msgctxt "ReportStanding"
+msgid "standing."
+msgstr "standing."
+
+#: compendium:458
+#, fuzzy
+msgctxt "ReportExtinguishingFire"
+msgid "extinguishing fire."
+msgstr "extinguishing fire."
+
+#: compendium:459
+#, fuzzy
+msgctxt "ReportExtinguishingFireOn"
+msgid "extinguishing fire on {TARGET_label}."
+msgstr "extinguishing fire on {0}."
+
+#: compendium:460
+#, fuzzy
+msgctxt "ReportDiggingUpCorpse"
+msgid "digging up corpse."
+msgstr "TODO"
+
+#: compendium:461
+msgctxt "CarriedBy"
+msgid "being carried by {0_labelShort}."
+msgstr ""
+
+#: compendium:462
+msgctxt "InContainer"
+msgid "inside {0_labelShort}."
+msgstr ""
+
+#: compendium:463
+msgctxt "DownedCannotCrawl"
+msgid "downed, cannot crawl."
+msgstr ""
+
+#: compendium:464
+msgctxt "DownedUnconscious"
+msgid "downed, unconscious."
+msgstr ""
+
+#: compendium:467
+#, fuzzy
+msgctxt "LordReportAttendingMarriageCeremony"
+msgid "Attending marriage ceremony"
+msgstr "Attending marriage ceremony"
+
+#: compendium:468
+#, fuzzy
+msgctxt "LordReportAttendingParty"
+msgid "Attending party"
+msgstr "Attending party"
+
+#: compendium:469
+msgctxt "LordReportAttendingConcert"
+msgid "Attending concert"
+msgstr ""
+
+#: compendium:470
+msgctxt "LordReportHoldingConcert"
+msgid "Holding a concert"
+msgstr ""
+
+#: compendium:471
+msgctxt "LordReportGivingSpeech"
+msgid "Giving a speech"
+msgstr ""
+
+#: compendium:472
+msgctxt "LordReportListeningSpeech"
+msgid "Listening to {ORGANIZER_labelShort}'s speech"
+msgstr ""
+
+#: compendium:473
+#, fuzzy
+msgctxt "LordReportFormingCaravan"
+msgid "Forming caravan"
+msgstr "Forming caravan"
+
+#: compendium:476
+#, fuzzy
+msgctxt "WeaponMissRadius"
+msgid "Weapon miss radius"
+msgstr "Weapon miss radius"
+
+#: compendium:477
+#, fuzzy
+msgctxt "ShootReportShooterAbility"
+msgid "Shooter"
+msgstr "Shooter"
+
+#: compendium:478
+#, fuzzy
+msgctxt "ShootReportWeapon"
+msgid "Weapon"
+msgstr "Weapon"
+
+#: compendium:479
+#, fuzzy
+msgctxt "Darkness"
+msgid "Darkness"
+msgstr "Darkness"
+
+#: compendium:480
+#, fuzzy
+msgctxt "TargetProne"
+msgid "Target lying down"
+msgstr "Target lying down"
+
+#: compendium:481
+#, fuzzy
+msgctxt "TargetSize"
+msgid "Target size"
+msgstr "Target size"
+
+#: compendium:482
+#, fuzzy
+msgctxt "Weather"
+msgid "Weather"
+msgstr "Weather"
+
+#: compendium:483
+#, fuzzy
+msgctxt "ShootingCover"
+msgid "Cover"
+msgstr "Cover"
+
+#: compendium:484
+#, fuzzy
+msgctxt "CoverThingBlocksPercentOfShots"
+msgid "{COVER_label} stops {1}"
+msgstr "{0} stops {1}"
+
+#: compendium:485
+#, fuzzy
+msgctxt "NoCoverLower"
+msgid "no cover"
+msgstr "no cover"
+
+#: compendium:486
+#, fuzzy
+msgctxt "Execution"
+msgid "Execution"
+msgstr "Execution"
+
+#: compendium:489
+#, fuzzy
+msgctxt "RecipeMake"
+msgid "make {0}"
+msgstr "make {0}"
+
+#: compendium:490
+msgctxt "RecipeMakeDescription"
+msgid "Make {0}."
+msgstr ""
+
+#: compendium:491
+#, fuzzy
+msgctxt "RecipeMakeJobString"
+msgid "Making {0}."
+msgstr "Making {0}."
+
+#: compendium:492
+#, fuzzy
+msgctxt "RecipeAdminister"
+msgid "administer {0}"
+msgstr "administer {0}"
+
+#: compendium:493
+#, fuzzy
+msgctxt "RecipeAdministerJobString"
+msgid "Administering {0}."
+msgstr "Administering {0}."
+
+#: compendium:494
+#, fuzzy
+msgctxt "TeetotalerUnhappy"
+msgid "teetotaler will be unhappy"
+msgstr "teetotaler will be unhappy"
+
+#: compendium:495
+#, fuzzy
+msgctxt "ProsthophobeUnhappy"
+msgid "body purist will be unhappy"
+msgstr "prosthophobe will be unhappy"
+
+#: compendium:498
+#, fuzzy
+msgctxt "ThoughtExpiresIn"
+msgid "Expires in: {0}"
+msgstr "Expires in: {0}"
+
+#: compendium:499
+msgctxt "ThoughtNullifiedBy"
+msgid "thought disabled by"
+msgstr ""
+
+#: compendium:500
+#, fuzzy
+msgctxt "ThoughtStartsExpiringIn"
+msgid "Starts expiring in: {0}"
+msgstr "Starts expiring in: {0}"
+
+#: compendium:501
+#, fuzzy
+msgctxt "ThoughtFinishesExpiringIn"
+msgid "Finishes expiring in: {0}"
+msgstr "Finishes expiring in: {0}"
+
+#: compendium:502
+#, fuzzy
+msgctxt "MentalBreakThresholdExtreme"
+msgid "Extreme break threshold"
+msgstr "Extreme break threshold"
+
+#: compendium:503
+#, fuzzy
+msgctxt "MentalBreakThresholdMajor"
+msgid "Major break threshold"
+msgstr "Major break threshold"
+
+#: compendium:504
+#, fuzzy
+msgctxt "MentalBreakThresholdMinor"
+msgid "Minor break threshold"
+msgstr "Minor break threshold"
+
+#: compendium:507
+#, fuzzy
+msgctxt "PawnMainDescGendered"
+msgid "{PAWN_gender} {1}"
+msgstr "{0} {1}"
+
+#: compendium:508
+#, fuzzy
+msgctxt "PawnMainDescFactionedWrap"
+msgid "{0} of {1}"
+msgstr "{0} of {1}"
+
+#: compendium:509
+msgctxt "PawnTitleDescWrap"
+msgid "{0} in {1}"
+msgstr ""
+
+#: compendium:510
+msgctxt "PawnMainDescUnderFactionedWrap"
+msgid "{0} under {1}"
+msgstr ""
+
+#: compendium:511
+#, fuzzy
+msgctxt "PawnMainDescLifestageWrap"
+msgid "{2_lifeStageAdjective} {0}"
+msgstr "{1} {0}"
+
+#: compendium:512
+#, fuzzy
+msgctxt "Faction"
+msgid "Faction"
+msgstr "Faction"
+
+#: compendium:513
+msgctxt "FactionDesc"
+msgid "The faction {PAWN_labelShort} currently belongs to."
+msgstr ""
+
+#: compendium:514
+msgctxt "ExtraFactionDesc"
+msgid "The faction {PAWN_labelShort} originally belongs to."
+msgstr ""
+
+#: compendium:515
+#, fuzzy
+msgctxt "Equipped"
+msgid "Equipped"
+msgstr "Equipped"
+
+#: compendium:516
+#, fuzzy
+msgctxt "EquippedNothing"
+msgid "nothing"
+msgstr "nothing"
+
+#: compendium:517
+#, fuzzy
+msgctxt "Dead"
+msgid "Dead"
+msgstr "Dead"
+
+#: compendium:518
+#, fuzzy
+msgctxt "Unconscious"
+msgid "Unconscious"
+msgstr "Unconscious"
+
+#: compendium:519
+#, fuzzy
+msgctxt "PainShock"
+msgid "In shock due to pain"
+msgstr "In shock due to pain"
+
+#: compendium:520
+#, fuzzy
+msgctxt "PainShockShort"
+msgid "Pain shock"
+msgstr "Pain shock"
+
+#: compendium:521
+#, fuzzy
+msgctxt "Incapacitated"
+msgid "Incapacitated"
+msgstr "Incapacitated"
+
+#: compendium:522
+#, fuzzy
+msgctxt "InRestraints"
+msgid "In restraints (slowed)"
+msgstr "In restraints (slowed)"
+
+#: compendium:523
+#, fuzzy
+msgctxt "Carrying"
+msgid "Carrying"
+msgstr "Carrying"
+
+#: compendium:524
+#, fuzzy
+msgctxt "AffectedBy"
+msgid "Affected by:"
+msgstr "Affected by:"
+
+#: compendium:525
+#, fuzzy
+msgctxt "Queued"
+msgid "Queued"
+msgstr "TODO"
+
+#: compendium:526
+#, fuzzy
+msgctxt "State"
+msgid "State"
+msgstr "TODO"
+
+#: compendium:527
+#, fuzzy
+msgctxt "StunLower"
+msgid "stun"
+msgstr "TODO"
+
+#: compendium:528
+msgctxt "SlowedByDamage"
+msgid "Slowed by damage"
+msgstr ""
+
+#: compendium:531
+#, fuzzy
+msgctxt "SelectNextInSquareTip"
+msgid ""
+"Select next thing in same square.\\n\\n(*SectionTitle)Shortcut "
+"key:(/SectionTitle) {0}\\n\\nYou can also do this by slowly clicking the "
+"same square again."
+msgstr ""
+"Select next thing in same square.\\n\\nShortcut key: {0}\\n\\nYou can also "
+"do this by slowly clicking the same square again."
+
+#: compendium:532
+#, fuzzy
+msgctxt "DefInfoTip"
+msgid "View information."
+msgstr "View information about this object."
+
+#: compendium:533
+msgctxt "SelectNextInSquareTipController"
+msgid ""
+"Select next thing in same square.\\n\\nYou can also do this by slowly "
+"clicking the same square again."
+msgstr ""
+
+#: compendium:536
+#, fuzzy
+msgctxt "HostilityReponseTip"
+msgid "Change how this person will react to nearby enemies when not drafted."
+msgstr ""
+"Change how to react to nearby enemies when the colonist is not drafted."
+
+#: compendium:537
+#, fuzzy
+msgctxt "HostilityResponseCurrentMode"
+msgid "Current mode"
+msgstr "Current mode"
+
+#: compendium:540
+#, fuzzy
+msgctxt "OfLower"
+msgid "of"
+msgstr "of"
+
+#: compendium:543
+#, fuzzy
+msgctxt "PowerNotConnected"
+msgid "Not connected to power."
+msgstr "Not connected to power."
+
+#: compendium:544
+#, fuzzy
+msgctxt "PowerConnectedRateStored"
+msgid "Grid excess: {0} W ({1} Wd stored)"
+msgstr "Connected rate/stored: {0} W / {1} Wd"
+
+#: compendium:545
+#, fuzzy
+msgctxt "PowerNeeded"
+msgid "Power needed"
+msgstr "Power needed"
+
+#: compendium:546
+#, fuzzy
+msgctxt "PowerOutput"
+msgid "Power output"
+msgstr "Power output"
+
+#: compendium:547
+msgctxt "PowerActiveNeeded"
+msgid "{0} W when active"
+msgstr ""
+
+#: compendium:548
+#, fuzzy
+msgctxt "PowerBatteryStored"
+msgid "Stored"
+msgstr "Stored"
+
+#: compendium:549
+#, fuzzy
+msgctxt "PowerBatteryEfficiency"
+msgid "Efficiency"
+msgstr "Efficiency"
+
+#: compendium:550
+#, fuzzy
+msgctxt "SelfDischarging"
+msgid "Self-discharging"
+msgstr "TODO"
+
+#: compendium:553
+#, fuzzy
+msgctxt "TargetTemperature"
+msgid "Target temperature"
+msgstr "Target temperature"
+
+#: compendium:554
+#, fuzzy
+msgctxt "PowerConsumptionMode"
+msgid "Current power use"
+msgstr "Current power use"
+
+#: compendium:555
+#, fuzzy
+msgctxt "PowerConsumptionHigh"
+msgid "high"
+msgstr "high"
+
+#: compendium:556
+#, fuzzy
+msgctxt "PowerConsumptionLow"
+msgid "low"
+msgstr "low"
+
+#: compendium:559
+#, fuzzy
+msgctxt "Indoors"
+msgid "Indoors"
+msgstr "Indoors"
+
+#: compendium:560
+#, fuzzy
+msgctxt "IndoorsUnroofed"
+msgid "Unroofed"
+msgstr "Unroofed"
+
+#: compendium:561
+#, fuzzy
+msgctxt "Outdoors"
+msgid "outdoors"
+msgstr "Outdoors"
+
+#: compendium:564
+#, fuzzy
+msgctxt "RotStateFresh"
+msgid "Fresh"
+msgstr "Fresh"
+
+#: compendium:565
+#, fuzzy
+msgctxt "RotStateRotting"
+msgid "Rotting"
+msgstr "Rotting"
+
+#: compendium:566
+#, fuzzy
+msgctxt "RotStateDessicated"
+msgid "Dessicated"
+msgstr "Dessicated"
+
+#: compendium:567
+#, fuzzy
+msgctxt "CurrentlyFrozen"
+msgid "Frozen"
+msgstr "Frozen (won't spoil)"
+
+#: compendium:568
+#, fuzzy
+msgctxt "CurrentlyRefrigerated"
+msgid "Refrigerated, spoils in {0}"
+msgstr "Refrigerated (spoils in {0})"
+
+#: compendium:569
+#, fuzzy
+msgctxt "NotRefrigerated"
+msgid "Unrefrigerated, spoils in {0}"
+msgstr "Not refrigerated (spoils in {0})"
+
+#: compendium:570
+#, fuzzy
+msgctxt "OverADecade"
+msgid "over a decade"
+msgstr "over a decade"
+
+#: compendium:571
+#, fuzzy
+msgctxt "LessThanADay"
+msgid "less than a day"
+msgstr "less than a day"
+
+#: compendium:574
+#, fuzzy
+msgctxt "ShotBy"
+msgid "Shot by {1_labelShort}"
+msgstr "Shot by {0}"
+
+#: compendium:575
+#, fuzzy
+msgctxt "CannotHit"
+msgid "Cannot hit target."
+msgstr "Cannot hit target."
+
+#: compendium:576
+#, fuzzy
+msgctxt "ManhunterPerHit"
+msgid "Manhunter chance per hit"
+msgstr "TODO"
+
+#: compendium:579
+#, fuzzy
+msgctxt "Ingredients"
+msgid "Ingredients"
+msgstr "Ingredients"
+
+#: compendium:580
+msgctxt "IngredientsDesc"
+msgid "The ingredients used to make this meal."
+msgstr ""
+
+#: compendium:581
+msgctxt "DietaryType"
+msgid "Dietary type"
+msgstr ""
+
+#: compendium:582
+msgctxt "DietaryTypeDesc"
+msgid ""
+"The type of meal produced. Some people have preferences for specific types "
+"of meals."
+msgstr ""
+
+#: compendium:583
+msgctxt "OnlyStacksWithCompatibleMeals"
+msgid "only stacks with similar meals"
+msgstr ""
+
+#: compendium:586
+#, fuzzy
+msgctxt "PercentGrowth"
+msgid "{0} grown"
+msgstr "{0} grown"
+
+#: compendium:587
+#, fuzzy
+msgctxt "GrowthRate"
+msgid "Growth rate"
+msgstr "Growth rate"
+
+#: compendium:588
+#, fuzzy
+msgctxt "FullyGrownIn"
+msgid "Fully grown in {0} of growth."
+msgstr "Fully grown in {0} of growth."
+
+#: compendium:589
+#, fuzzy
+msgctxt "PlantNeedsLightLevel"
+msgid "Needs light level"
+msgstr "Needs light level"
+
+#: compendium:590
+#, fuzzy
+msgctxt "PlantResting"
+msgid "Resting"
+msgstr "Resting"
+
+#: compendium:591
+#, fuzzy
+msgctxt "OutOfIdealTemperatureRange"
+msgid "Non-ideal temperature. Temperature growth multiplier: {0}%"
+msgstr "Non-ideal temperature. Temperature growth multiplier: {0}%"
+
+#: compendium:592
+#, fuzzy
+msgctxt "OutOfIdealTemperatureRangeNotGrowing"
+msgid "Non-ideal temperature. Not growing."
+msgstr "Non-ideal temperature. Not growing."
+
+#: compendium:593
+#, fuzzy
+msgctxt "ReadyToHarvest"
+msgid "Ready to harvest."
+msgstr "Ready to harvest."
+
+#: compendium:594
+#, fuzzy
+msgctxt "Mature"
+msgid "Mature."
+msgstr "Mature."
+
+#: compendium:595
+msgctxt "AveragePlantAge"
+msgid "Average plant age"
+msgstr ""
+
+#: compendium:596
+msgctxt "OldestPlantAge"
+msgid "Oldest plant age"
+msgstr ""
+
+#: compendium:597
+#, fuzzy
+msgctxt "OutdoorGrowingPeriod"
+msgid "Growing period"
+msgstr "Growing period"
+
+#: compendium:598
+#, fuzzy
+msgctxt "NoGrowingPeriod"
+msgid "Never"
+msgstr "Never"
+
+#: compendium:599
+#, fuzzy
+msgctxt "GrowYearRound"
+msgid "Year-round"
+msgstr "Year-round"
+
+#: compendium:600
+#, fuzzy
+msgctxt "GrowSeasonHereNow"
+msgid "Growing season here now."
+msgstr "Growing season here now."
+
+#: compendium:601
+#, fuzzy
+msgctxt "CannotGrowBadSeasonTemperature"
+msgid "Cannot grow (bad seasonal temperature)."
+msgstr "Cannot grow (bad seasonal temperature)."
+
+#: compendium:602
+#, fuzzy
+msgctxt "Blighted"
+msgid "Blighted"
+msgstr "TODO"
+
+#: compendium:603
+#, fuzzy
+msgctxt "DyingBecauseExposedToLight"
+msgid "Dying because exposed to light"
+msgstr "TODO"
+
+#: compendium:604
+msgctxt "AutoCutNow"
+msgid "Cut now"
+msgstr ""
+
+#: compendium:605
+msgctxt "HarvestGerund"
+msgid "harvesting"
+msgstr ""
+
+#: compendium:606
+msgctxt "CutGerund"
+msgid "cutting"
+msgstr ""
+
+#: compendium:607
+msgctxt "CutAllBlight"
+msgid "Cut all blight"
+msgstr ""
+
+#: compendium:608
+msgctxt "CutAllBlightDesc"
+msgid ""
+"Mark all blighted plants to be destroyed. Blighted plants will not yield any"
+" food or resources and should be destroyed before the blight spreads."
+msgstr ""
+
+#: compendium:611
+#, fuzzy
+msgctxt "Zone"
+msgid "Zone"
+msgstr "Zone"
+
+#: compendium:612
+#, fuzzy
+msgctxt "GrowingZone"
+msgid "Growing zone"
+msgstr "Growing zone"
+
+#: compendium:613
+#, fuzzy
+msgctxt "Stockpile"
+msgid "Stockpile zone"
+msgstr "Stockpile zone"
+
+#: compendium:614
+#, fuzzy
+msgctxt "DumpingStockpile"
+msgid "Dumping stockpile zone"
+msgstr "Dumping stockpile zone"
+
+#: compendium:615
+msgctxt "CorpseStockpile"
+msgid "Corpse stockpile zone"
+msgstr ""
+
+#: compendium:616
+#, fuzzy
+msgctxt "Priority"
+msgid "Priority"
+msgstr "Priority"
+
+#: compendium:617
+#, fuzzy
+msgctxt "ClearAll"
+msgid "Clear all"
+msgstr "Clear all"
+
+#: compendium:618
+#, fuzzy
+msgctxt "AllowAll"
+msgid "Allow all"
+msgstr "Allow all"
+
+#: compendium:621
+msgctxt "StorageGroup"
+msgid "Group"
+msgstr ""
+
+#: compendium:622
+msgctxt "StorageLabel"
+msgid "Name"
+msgstr ""
+
+#: compendium:623
+msgctxt "StorageGroupLabel"
+msgid "Storage group"
+msgstr ""
+
+#: compendium:626
+#, fuzzy
+msgctxt "HitPoints"
+msgid "{0} hit points"
+msgstr "{0} hit points"
+
+#: compendium:627
+#, fuzzy
+msgctxt "AnyQuality"
+msgid "any quality"
+msgstr "any quality"
+
+#: compendium:628
+#, fuzzy
+msgctxt "OnlyQuality"
+msgid "{0} only"
+msgstr "{0} only"
+
+#: compendium:631
+#, fuzzy
+msgctxt "Undiscovered"
+msgid "Undiscovered"
+msgstr "Undiscovered"
+
+#: compendium:634
+msgctxt "AnimalSterilizeConfirm"
+msgid ""
+"Are you sure you want to sterilize {PAWN_nameDef}? Doing this will anger "
+"{FACTION_name}."
+msgstr ""
+
+#: compendium:635
+msgctxt "AnimalSlaughterConfirm"
+msgid ""
+"Are you sure you want to slaughter {PAWN_nameDef}? Doing this will anger "
+"{FACTION_name}."
+msgstr ""
+
+#: compendium:636
+msgctxt "AnimalReleaseConfirm"
+msgid ""
+"Are you sure you want to release {PAWN_nameDef}? Doing this will anger "
+"{FACTION_name}."
+msgstr ""
+
+#: compendium:639
+#, fuzzy
+msgctxt "ShowLearningHelperWhenEmptyToggleButton"
+msgid ""
+"Toggle visibility of the learning helper when it is empty.\\n\\nThe learning"
+" helper is always visible if there is a concept activated to be learned. "
+"This toggle makes it disappear when no concept is active."
+msgstr ""
+"Toggle visibility of the learning helper when it is empty.\\n\\nThe learning"
+" helper is always visible if there is a concept activated to be learned. "
+"This toggle makes it disappear when no concept is active."
+
+#: compendium:640
+#, fuzzy
+msgctxt "ZoneVisibilityToggleButton"
+msgid "Toggle visiblity of zones."
+msgstr "Toggle visiblity of zones."
+
+#: compendium:641
+#, fuzzy
+msgctxt "ShowBeautyToggleButton"
+msgid ""
+"Toggle the beauty display.\\n\\nDisplays the beauty of the world as would be"
+" perceived by a character standing where the cursor is pointing."
+msgstr "TODO"
+
+#: compendium:642
+#, fuzzy
+msgctxt "ShowRoomStatsToggleButton"
+msgid ""
+"Toggle room stats display.\\n\\nDisplays room stats of the room where the "
+"cursor is pointing."
+msgstr "TODO"
+
+#: compendium:643
+#, fuzzy
+msgctxt "ShowColonistBarToggleButton"
+msgid ""
+"Toggle colonist bar.\\n\\nDisplays icons and basic status for all colonists "
+"along the top of the screen.\\n\\nYou can reorder the colonists in the "
+"colonist bar by right-click and dragging them."
+msgstr ""
+"Toggle colonist bar.\\n\\nDisplays icons and basic status for all colonists "
+"along the top of the screen."
+
+#: compendium:644
+msgctxt "ShowColonistBarToggleButtonController"
+msgid ""
+"Toggle colonist bar.\\n\\nDisplays icons and basic status for all colonists "
+"along the top of the screen.\\n\\nYou can reorder the colonists in the "
+"colonist bar by pressing the left trigger button and dragging them."
+msgstr ""
+
+#: compendium:645
+#, fuzzy
+msgctxt "AutoHomeAreaToggleButton"
+msgid "Toggle automatically expanding the home area around new constructions."
+msgstr ""
+"Toggle automatically expanding the home area around new constructions."
+
+#: compendium:646
+#, fuzzy
+msgctxt "AutoRebuildButton"
+msgid "Toggle automatic rebuild of destroyed structures in the home area."
+msgstr "TODO"
+
+#: compendium:647
+#, fuzzy
+msgctxt "CategorizedResourceReadoutToggleButton"
+msgid "Toggle categorized mode on the resource readout."
+msgstr "Toggle categorized mode on the resource readout."
+
+#: compendium:648
+#, fuzzy
+msgctxt "ShowAnimalNamesToggleButton"
+msgid "Toggle displaying animal names for tame named animals."
+msgstr "Toggle displaying animal names for tame named animals."
+
+#: compendium:649
+#, fuzzy
+msgctxt "ShowRoofOverlayToggleButton"
+msgid "Toggle visibility of roofs."
+msgstr "Toggle visibility of roofs."
+
+#: compendium:650
+msgctxt "ShowFertilityOverlayToggleButton"
+msgid ""
+"Toggle fertility overlay.\\n\\nThis shows how fertile the ground is, which "
+"affects what kinds of plants can grow and how fast they grow."
+msgstr ""
+
+#: compendium:651
+msgctxt "ShowTerrainAffordanceOverlayToggleButton"
+msgid ""
+"Toggle visibility of terrain affordance.\\n\\nThis relates to what kinds of "
+"building can be constructed at each location.\\n\\nFor example, some types "
+"of ground only accept light or medium buildings, but not heavy ones. Bridges"
+" can only be built on water."
+msgstr ""
+
+#: compendium:652
+#, fuzzy
+msgctxt "LockNorthUpToggleButton"
+msgid "Lock the rotation of the camera so the north pole is always up."
+msgstr "Lock the rotation of the camera so the north pole is always up."
+
+#: compendium:653
+#, fuzzy
+msgctxt "UsePlanetDayNightSystemToggleButton"
+msgid "Toggle day/night lighting on the planet view."
+msgstr "Toggle day/night lighting system."
+
+#: compendium:654
+#, fuzzy
+msgctxt "ShowExpandingIconsToggleButton"
+msgid ""
+"Toggle displaying expanding icons instead of the regular icons for distant "
+"objects."
+msgstr "TODO"
+
+#: compendium:655
+#, fuzzy
+msgctxt "ShowWorldFeaturesToggleButton"
+msgid "Toggle visibility of names of landforms."
+msgstr "TODO"
+
+#: compendium:656
+msgctxt "ShowTemperatureOverlayToggleButton"
+msgid ""
+"Toggle heat overlay. This shows the air temperature in each room and "
+"outdoors.\\n\\nColonists will be unhappy if the temperature is too high or "
+"too low. Exposure to extreme temperatures can lead to hypothermia, "
+"frostbite, heatstroke, burns, and death."
+msgstr ""
+
+#: compendium:659
+msgctxt "HotKeyTip"
+msgid "Hotkey"
+msgstr ""
+
+#: compendium:662
+#, fuzzy
+msgctxt "FireOn"
+msgid "fire on {1_label}"
+msgstr "Fire on {0}"
+
+#: compendium:663
+#, fuzzy
+msgctxt "Burning"
+msgid "Burning"
+msgstr "Burning"
+
+#: compendium:664
+#, fuzzy
+msgctxt "FireSizeLower"
+msgid "fire size {0}"
+msgstr "fire size {0}"
+
+#: compendium:667
+#, fuzzy
+msgctxt "GameConditionsTip"
+msgid "Special conditions affecting the area right now."
+msgstr "Special conditions affecting the area right now."
+
+#: compendium:668
+#, fuzzy
+msgctxt "TimeLeft"
+msgid "time left"
+msgstr "time left"
+
+#: compendium:669
+#, fuzzy
+msgctxt "ImpactDate"
+msgid "impact date"
+msgstr "impact date"
+
+#: compendium:670
+msgctxt "SourceUnknown"
+msgid "Source unknown."
+msgstr ""
+
+#: compendium:671
+msgctxt "ClickToJumpToSource"
+msgid "Click to jump to the source."
+msgstr ""
+
+#: compendium:672
+msgctxt "ClickToJumpToFlashstorm"
+msgid "Click to jump to the flashstorm."
+msgstr ""
+
+#: compendium:673
+msgctxt "CausedByQuest"
+msgid "Caused by quest: {0}"
+msgstr ""
+
+#: compendium:676
+#, fuzzy
+msgctxt "NoStuffsToBuildWith"
+msgid "You have no usable materials from which to build this."
+msgstr "You have no usable materials from which to build this."
+
+#: compendium:679
+#, fuzzy
+msgctxt "WillGetWorkSpeedPenalty"
+msgid "{0} will have work speed penalty"
+msgstr "{0} will have work speed penalty"
+
+#: compendium:680
+#, fuzzy
+msgctxt "MustPlaceUnroofed"
+msgid "Cannot be placed under a roof."
+msgstr "Cannot be placed under a roof."
+
+#: compendium:681
+msgctxt "MustPlaceUnderThickRoof"
+msgid "Must be placed under thick roof."
+msgstr ""
+
+#: compendium:682
+msgctxt "MustPlaceOnWall"
+msgid "Must be placed against a wall."
+msgstr ""
+
+#: compendium:683
+msgctxt "SomethingPlacedOnThisWall"
+msgid "Something is already placed on this wall."
+msgstr ""
+
+#: compendium:684
+msgctxt "CannotSupportAttachment"
+msgid "This building can not support attachments."
+msgstr ""
+
+#: compendium:685
+#, fuzzy
+msgctxt "MustPlaceHeadOnShipBeam"
+msgid "Must place with head attached to ship structural beam."
+msgstr "Must place with head attached to ship structural beam."
+
+#: compendium:686
+#, fuzzy
+msgctxt "MustPlaceNextToHopperAccepter"
+msgid "Must be placed next to something that needs a hopper."
+msgstr "Must be placed next to something that needs a hopper."
+
+#: compendium:687
+#, fuzzy
+msgctxt "MustPlaceOnSteamGeyser"
+msgid "Must be placed directly on a steam geyser."
+msgstr "Must be placed directly on a steam geyser."
+
+#: compendium:688
+#, fuzzy
+msgctxt "MustPlaceCoolerWithFreeSpaces"
+msgid "Both the hot and cold sides of the cooler must be exposed."
+msgstr "Both the hot and cold sides of the cooler must be exposed."
+
+#: compendium:689
+#, fuzzy
+msgctxt "MustPlaceVentWithFreeSpaces"
+msgid "Both the sides must be exposed for air to pass through."
+msgstr "Both the sides must be exposed for air to pass through."
+
+#: compendium:690
+#, fuzzy
+msgctxt "MustPlaceAdjacentStandable"
+msgid "Must be placed with standable space on all sides."
+msgstr "Must be placed with standable space on all sides."
+
+#: compendium:691
+#, fuzzy
+msgctxt "MustPlaceNearFuelingPort"
+msgid "Must be placed next to a pod launcher's fueling port."
+msgstr "Must be placed next to a pod launcher's fueling port."
+
+#: compendium:692
+#, fuzzy
+msgctxt "MustPlaceOnDrillable"
+msgid "Must be placed on drillable resources."
+msgstr "TODO"
+
+#: compendium:693
+#, fuzzy
+msgctxt "CannotPlaceAdjacentTrap"
+msgid "Cannot be placed next to traps."
+msgstr "TODO"
+
+#: compendium:694
+msgctxt "CannotPlaceAdjacentSameDef"
+msgid "Cannot be placed next to another building of the same type."
+msgstr ""
+
+#: compendium:697
+#, fuzzy
+msgctxt "WindTurbine_WindPathIsBlockedBy"
+msgid "Blocked by"
+msgstr "Blocked by"
+
+#: compendium:698
+#, fuzzy
+msgctxt "WindTurbine_WindPathIsBlockedByRoof"
+msgid "Blocked by roof"
+msgstr "Blocked by roof"
+
+#: compendium:701
+#, fuzzy
+msgctxt "Watermill_WaterUsedTwice"
+msgid "Flow reduced: Turbulence from other watermill"
+msgstr "TODO"
+
+#: compendium:704
+#, fuzzy
+msgctxt "CasketContains"
+msgid "Contains"
+msgstr "Contains"
+
+#: compendium:705
+#, fuzzy
+msgctxt "CasketWarning"
+msgid ""
+"Warning!\\n\\n{PAWN_nameDef} is your last free-standing colonist! If you let"
+" {PAWN_objective} step into that casket, you may not be able to continue "
+"playing. Are you sure you want to proceed?"
+msgstr ""
+"Warning!\\n\\n[PAWN_nameDef] is your last free-standing colonist! If you let"
+" [PAWN_objective] step into that casket, you may not be able to continue "
+"playing. Are you sure you want to proceed?"
+
+#: compendium:708
+#, fuzzy
+msgctxt "ShipReportCannotLaunch"
+msgid "Cannot launch."
+msgstr "Cannot launch."
+
+#: compendium:709
+#, fuzzy
+msgctxt "ShipReportCanLaunch"
+msgid "Ready for launch."
+msgstr "Ready for launch."
+
+#: compendium:710
+#, fuzzy
+msgctxt "ShipReportMissingPart"
+msgid "Missing critical component"
+msgstr "Missing critical component"
+
+#: compendium:711
+#, fuzzy
+msgctxt "ShipReportMissingPartRequires"
+msgid "requires"
+msgstr "TODO"
+
+#: compendium:712
+#, fuzzy
+msgctxt "ShipReportNoFullPods"
+msgid "No full cryptosleep caskets"
+msgstr "No full cryptosleep caskets"
+
+#: compendium:713
+#, fuzzy
+msgctxt "ShipReportHibernating"
+msgid "Hibernating component"
+msgstr "TODO"
+
+#: compendium:714
+#, fuzzy
+msgctxt "ShipReportNotReady"
+msgid "Component not yet ready"
+msgstr "TODO"
+
+#: compendium:715
+msgctxt "ShipNoSettlementToReturnTo"
+msgid "No settlement to return to. Form a settlement first."
+msgstr ""
+
+#: compendium:716
+#, fuzzy
+msgctxt "HibernateWarning"
+msgid ""
+"(*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation"
+" recovery sequence.\\n\\nHe warns you that the process will take about 15 "
+"days, and the energy signature will be detectable from a long distance "
+"away.\\n\\nThis sort of energy signature indicates interstellar flight "
+"capability, and will attract gangs of desperate raiders and swarms of deadly"
+" mechanoids.\\n\\nYou will be assaulted with an intensity you've never seen."
+" Make sure your defenses are prepared first."
+msgstr "TODO"
+
+#: compendium:717
+#, fuzzy
+msgctxt "HibernateWarningStandalone"
+msgid ""
+"The reactor is ready to power up.\\n\\nThe process will take about 15 days, "
+"and the energy signature will be detectable from a long distance away. This "
+"sort of energy signature indicates interstellar flight capability, and will "
+"attract gangs of desperate raiders and swarms of deadly mechanoids.\\n\\nYou"
+" will be assaulted with an intensity you've never seen. Make sure your "
+"defenses are prepared first."
+msgstr "TODO"
+
+#: compendium:718
+#, fuzzy
+msgctxt "HibernateWarningPacifist"
+msgid ""
+"(*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation"
+" recovery sequence. He warns you that the process will take about 15 days."
+msgstr "TODO"
+
+#: compendium:719
+#, fuzzy
+msgctxt "HibernateWarningStandalonePacifist"
+msgid "The reactor is ready to power up. The process will take about 15 days."
+msgstr "TODO"
+
+#: compendium:722
+msgctxt "SkillNeurotrainerLabel"
+msgid "skilltrainer ({0})"
+msgstr ""
+
+#: compendium:723
+msgctxt "SkillNeurotrainerUseLabel"
+msgid "Use skilltrainer to learn {0}"
+msgstr ""
+
+#: compendium:724
+msgctxt "SkillNeurotrainerDescription"
+msgid ""
+"A one-use super-dose of mechanites which trains a specific skill.\\n\\nThe "
+"dose is administered through the orbit of the eye. Once released into the "
+"brain, the mechanites quickly improve the subject's skills in a specific "
+"area, transmuting themselves into neural tissue as needed."
+msgstr ""
+
+#: compendium:725
+msgctxt "SkillNeurotrainerUsed"
+msgid ""
+"{USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}."
+msgstr ""
+
+#: compendium:728
+#, fuzzy
+msgctxt "Installed"
+msgid "Installed"
+msgstr "Installed"
+
+#: compendium:729
+#, fuzzy
+msgctxt "NotInstalled"
+msgid "Not installed"
+msgstr "Not installed"
+
+#: compendium:730
+msgctxt "MinifiedTreeWillDieIn"
+msgid "Extracted tree will die in {time} unless replanted."
+msgstr ""
+
+#: compendium:733
+#, fuzzy
+msgctxt "Title"
+msgid "Title"
+msgstr "Title"
+
+#: compendium:734
+#, fuzzy
+msgctxt "Untitled"
+msgid "Untitled"
+msgstr "Untitled"
+
+#: compendium:737
+#, fuzzy
+msgctxt "UnfinishedItem"
+msgid "Unfinished {0}"
+msgstr "Unfinished {0}"
+
+#: compendium:738
+#, fuzzy
+msgctxt "UnfinishedItemWithStuff"
+msgid "Unfinished {0} {1}"
+msgstr "Unfinished {0} {1}"
+
+#: compendium:741
+#, fuzzy
+msgctxt "Quality"
+msgid "Quality"
+msgstr "Quality"
+
+#: compendium:742
+msgctxt "quality"
+msgid "quality"
+msgstr ""
+
+#: compendium:743
+#, fuzzy
+msgctxt "QualityDescription"
+msgid "An item's quality is how well-made it is."
+msgstr "An item's quality is how well-made it is."
+
+#: compendium:744
+#, fuzzy
+msgctxt "QualityIs"
+msgid "Quality: {0}"
+msgstr "Quality: {0}"
+
+#: compendium:747
+#, fuzzy
+msgctxt "Mood_MentalState"
+msgid "mental state"
+msgstr "mental state"
+
+#: compendium:748
+#, fuzzy
+msgctxt "Mood_AboutToBreak"
+msgid "about to break"
+msgstr "about to break"
+
+#: compendium:749
+#, fuzzy
+msgctxt "Mood_OnEdge"
+msgid "on edge"
+msgstr "on edge"
+
+#: compendium:750
+#, fuzzy
+msgctxt "Mood_Stressed"
+msgid "stressed"
+msgstr "stressed"
+
+#: compendium:751
+#, fuzzy
+msgctxt "Mood_Neutral"
+msgid "neutral"
+msgstr "neutral"
+
+#: compendium:752
+#, fuzzy
+msgctxt "Mood_Content"
+msgid "content"
+msgstr "content"
+
+#: compendium:753
+#, fuzzy
+msgctxt "Mood_Happy"
+msgid "happy"
+msgstr "happy"
+
+#: compendium:756
+msgctxt "GameOver"
+msgid "Game Over"
+msgstr ""
+
+#: compendium:757
+#, fuzzy
+msgctxt "GameOverEveryoneDead"
+msgid ""
+"Everyone is dead or gone. This story is over.\\n\\nPerhaps someone else will"
+" find a use for the ruins of this place."
+msgstr ""
+"Everyone is dead or gone. This story is over.\\n\\nPerhaps someone else will"
+" find a use for the ruins of this place."
+
+#: compendium:758
+#, fuzzy
+msgctxt "GameOverPlanetkillerImpact"
+msgid ""
+"At near-lightspeed, the planetkiller weapon slammed into the ground with the"
+" force of a trillion hydrogen bombs. Like a water balloon shot with a rifle,"
+" this world liquified under the impact and sprayed its molten guts across "
+"the cosmos.\\n\\nPart of {0} is now a small asteroid belt. The rest is a "
+"molten, radioactive hellscape, constantly rippling with kilometers-high "
+"planetquakes.\\n\\nYou did not survive."
+msgstr ""
+"At near-lightspeed, the planetkiller weapon slammed into the ground with the"
+" force of a trillion hydrogen bombs. Like a water balloon shot with a rifle,"
+" this world liquified under the impact and sprayed its molten guts across "
+"the cosmos.\\n\\nPart of {0} is now a small asteroid belt. The rest is a "
+"molten, radioactive hellscape, constantly rippling with kilometers-high "
+"planetquakes.\\n\\nYou did not survive."
+
+#: compendium:759
+msgctxt "GameOverShipLaunchedIntro"
+msgid "You've launched the ship!"
+msgstr ""
+
+#: compendium:760
+msgctxt "GameOverShipLaunchedEnding"
+msgid ""
+"Your machine persona will now try to guide the ship to a safe place. It "
+"might find a prosperous planet in this system. Or, it may undertake a "
+"centuries-long journey to another star. It might even decide to hide under "
+"ice on an asteroid for a few thousand years, waiting for someone to build a "
+"new glitterworld here.\\n\\nYou'll find out when you wake up."
+msgstr ""
+
+#: compendium:761
+msgctxt "GameOverColonistsEscaped"
+msgid "These colonists escaped:\\n\\n{0}"
+msgstr ""
+
+#: compendium:762
+msgctxt "GameOverColonistsLeft"
+msgid "These colonists were left behind:\\n\\n{0}"
+msgstr ""
+
+#: compendium:763
+msgctxt "GameOverInMemoryOf"
+msgid "In memory of:\\n"
+msgstr ""
+
+#: compendium:764
+msgctxt "GameOverKeepWatching"
+msgid "Keep watching"
+msgstr ""
+
+#: compendium:765
+msgctxt "GameOverKeepWatchingForNow"
+msgid "Keep watching for now"
+msgstr ""
+
+#: compendium:766
+msgctxt "GameOverCreateNewWanderers"
+msgid "Create new wanderers"
+msgstr ""
+
+#: compendium:767
+msgctxt "GameOverCreateNewWanderersWait"
+msgid "Create new wanderers (must wait {0}h)"
+msgstr ""
+
+#: compendium:768
+msgctxt "GameOverCreateNewWanderersText"
+msgid ""
+"Everyone is dead or gone. Perhaps someone will find a use for the ruins of "
+"this place.\\n\\nChoose new wanderers arrive at your colony and continue the"
+" story."
+msgstr ""
+
+#: compendium:769
+#, fuzzy
+msgctxt "GameOverMainMenu"
+msgid "Main menu"
+msgstr "Main menu"
+
+#: compendium:770
+msgctxt "NoColony"
+msgid "No colony"
+msgstr ""
+
+#: compendium:773
+#, fuzzy
+msgctxt "LifespanExpiry"
+msgid "Expires in:"
+msgstr "Expires in:"
+
+#: compendium:776
+#, fuzzy
+msgctxt "InactiveFacility"
+msgid "inactive"
+msgstr "inactive"
+
+#: compendium:777
+msgctxt "FacilityPotentiallyLinkedTo"
+msgid "Links to"
+msgstr ""
+
+#: compendium:778
+msgctxt "FacilityNoPotentialLinks"
+msgid "Not linked to a building"
+msgstr ""
+
+#: compendium:779
+msgctxt "FacilityMaxSimultaneousConnections"
+msgid "Max connected per building"
+msgstr ""
+
+#: compendium:780
+msgctxt "FacilityFrontBlocked"
+msgid "Front of building is blocked."
+msgstr ""
+
+#: compendium:783
+#, fuzzy
+msgctxt "DiseaseGrowthModeChanged_Growing"
+msgid "{PAWN_labelShort}'s {1} is now growing."
+msgstr "{0}'s {1} is now growing."
+
+#: compendium:784
+#, fuzzy
+msgctxt "DiseaseGrowthModeChanged_Stable"
+msgid "{PAWN_labelShort}'s {1} is now stable."
+msgstr "{0}'s {1} is now stable."
+
+#: compendium:785
+#, fuzzy
+msgctxt "DiseaseGrowthModeChanged_Remission"
+msgid "{PAWN_labelShort}'s {1} is now in remission."
+msgstr "{0}'s {1} is now in remission."
+
+#: compendium:788
+#, fuzzy
+msgctxt "MarriageSpotUsable"
+msgid "Usable now."
+msgstr "Usable now."
+
+#: compendium:789
+#, fuzzy
+msgctxt "MarriageSpotNotUsable"
+msgid "Not usable: {0}."
+msgstr "Not usable: {0}."
+
+#: compendium:790
+#, fuzzy
+msgctxt "MarriageSpotNotStandable"
+msgid "blocked"
+msgstr "blocked"
+
+#: compendium:791
+#, fuzzy
+msgctxt "MarriageSpotDangerous"
+msgid "too dangerous for {1_labelShort}"
+msgstr "too dangerous for {0}"
+
+#: compendium:792
+#, fuzzy
+msgctxt "MarriageSpotForbidden"
+msgid "forbidden for {1_labelShort}"
+msgstr "forbidden for {0}"
+
+#: compendium:793
+#, fuzzy
+msgctxt "MarriageSpotReserved"
+msgid "reserved"
+msgstr "reserved"
+
+#: compendium:794
+#, fuzzy
+msgctxt "MarriageSpotUnreachable"
+msgid "unreachable for {1_labelShort}"
+msgstr "unreachable for {0}"
+
+#: compendium:795
+#, fuzzy
+msgctxt "MarriageSpotInPrisonCell"
+msgid "in prison cell"
+msgstr "in prison cell"
+
+#: compendium:796
+#, fuzzy
+msgctxt "NotEnjoyableOutsideTemperature"
+msgid "uncomfortable temperature"
+msgstr "uncomfortable temperature"
+
+#: compendium:799
+#, fuzzy
+msgctxt "ActivityIconMedicalRest"
+msgid "Medical rest"
+msgstr "Medical rest"
+
+#: compendium:800
+#, fuzzy
+msgctxt "ActivityIconSleeping"
+msgid "Sleeping"
+msgstr "Sleeping"
+
+#: compendium:801
+#, fuzzy
+msgctxt "ActivityIconFleeing"
+msgid "Fleeing"
+msgstr "Fleeing"
+
+#: compendium:802
+#, fuzzy
+msgctxt "ActivityIconAttacking"
+msgid "Fighting"
+msgstr "Fighting"
+
+#: compendium:803
+#, fuzzy
+msgctxt "ActivityIconIdle"
+msgid "Idle"
+msgstr "Idle"
+
+#: compendium:804
+#, fuzzy
+msgctxt "ActivityIconBurning"
+msgid "Burning"
+msgstr "Burning"
+
+#: compendium:805
+#, fuzzy
+msgctxt "ActivityIconFormingCaravan"
+msgid "Forming a caravan"
+msgstr "TODO"
+
+#: compendium:808
+#, fuzzy
+msgctxt "DueForMaintenance"
+msgid "Due for maintenance."
+msgstr "Due for maintenance."
+
+#: compendium:809
+#, fuzzy
+msgctxt "DeterioratingDueToLackOfMaintenance"
+msgid "Deteriorating due to lack of maintenance."
+msgstr "Deteriorating due to lack of maintenance."
+
+#: compendium:812
+#, fuzzy
+msgctxt "ProgressToNextLump"
+msgid "Progress to next lump"
+msgstr "Progress to next lump"
+
+#: compendium:813
+#, fuzzy
+msgctxt "ResourceBelow"
+msgid "Resource below"
+msgstr "Resource below"
+
+#: compendium:814
+#, fuzzy
+msgctxt "ProgressToNextPortion"
+msgid "Progress to next portion"
+msgstr "TODO"
+
+#: compendium:815
+#, fuzzy
+msgctxt "DeepDrillNoResources"
+msgid "No resources below."
+msgstr "TODO"
+
+#: compendium:816
+#, fuzzy
+msgctxt "DeepDrillExhausted"
+msgid ""
+"Deep drill resources exhausted, drill automatically forbidden. Unforbid to "
+"begin mining of {0}."
+msgstr "TODO"
+
+#: compendium:817
+#, fuzzy
+msgctxt "DeepDrillExhaustedNoFallback"
+msgid "Deep drill resources exhausted."
+msgstr "TODO"
+
+#: compendium:820
+msgctxt "ChargesRemaining"
+msgid "Remaining charges"
+msgstr ""
+
+#: compendium:823
+#, fuzzy
+msgctxt "LearningHelper"
+msgid "Learning helper"
+msgstr "Learning helper"
+
+#: compendium:824
+msgctxt "LearningHelperTooltip"
+msgid ""
+"In-game tutor that aims to teach you information about topics relevant to "
+"your colony's current state"
+msgstr ""
+
+#: compendium:825
+#, fuzzy
+msgctxt "MarkLearned"
+msgid "Mark as learned"
+msgstr "Mark as learned"
+
+#: compendium:826
+#, fuzzy
+msgctxt "AlreadyLearned"
+msgid "Already learned"
+msgstr "Already learned"
+
+#: compendium:827
+#, fuzzy
+msgctxt "Filter"
+msgid "Filter"
+msgstr "Filter"
+
+#: compendium:830
+#, fuzzy
+msgctxt "CompassTip"
+msgid ""
+"Shows the north direction. Click to rotate the camera so the north pole is "
+"up."
+msgstr ""
+"Shows the north direction. Click to rotate the camera so the north pole is "
+"up."
+
+#: compendium:833
+#, fuzzy
+msgctxt "RoutePlannerButtonTip"
+msgid ""
+"Click to enter the planning mode where you can plan your journey and "
+"calculate distance between waypoints."
+msgstr ""
+"Click to enter the planning mode where you can plan your journey and "
+"calculate distance between waypoints."
+
+#: compendium:834
+#, fuzzy
+msgctxt "RoutePlannerAddTwoOrMoreWaypoints"
+msgid "Add two or more waypoints."
+msgstr "Add two or more waypoints."
+
+#: compendium:835
+#, fuzzy
+msgctxt "RoutePlannerAddOneOrMoreWaypoints"
+msgid "Add one or more waypoints."
+msgstr "Add one or more waypoints."
+
+#: compendium:836
+#, fuzzy
+msgctxt "RoutePlannerEstTimeToFinalDest"
+msgid "Total route time: {0}"
+msgstr "Total route time: {0}"
+
+#: compendium:837
+#, fuzzy
+msgctxt "RoutePlannerUsingAverageTicksPerMoveWarning"
+msgid "Planning mode uses the default caravan speed. Your speed may vary."
+msgstr "Planning mode uses the default caravan speed. Your speed may vary."
+
+#: compendium:838
+#, fuzzy
+msgctxt "RoutePlannerUsingTicksPerMoveOfCaravan"
+msgid "Calculating for: {0}"
+msgstr "Calculating for: {0}"
+
+#: compendium:839
+#, fuzzy
+msgctxt "RoutePlannerPressRMBToAddAndRemoveWaypoints"
+msgid "Right mouse button: Add/remove waypoints."
+msgstr "Right mouse button: Add/remove waypoints."
+
+#: compendium:840
+msgctxt "RoutePlannerPressRMBToAddAndRemoveWaypointsController"
+msgid "Left trigger button: Add/remove waypoints."
+msgstr ""
+
+#: compendium:841
+#, fuzzy
+msgctxt "RoutePlannerPressEscapeToExit"
+msgid "ESC: Exit planning mode."
+msgstr "ESC: Exit planning mode."
+
+#: compendium:842
+msgctxt "RoutePlannerPressEscapeToExitController"
+msgid "{Key:Cancel}: Exit planning mode."
+msgstr ""
+
+#: compendium:843
+#, fuzzy
+msgctxt "RoutePlannerPressEscapeToReturnToCaravanFormationDialog"
+msgid "ESC: Return to the caravan formation dialog."
+msgstr "ESC: Return to the caravan formation dialog."
+
+#: compendium:844
+msgctxt "RoutePlannerPressEscapeToReturnToCaravanFormationDialogController"
+msgid "{Key:Cancel}: Return to the caravan formation dialog."
+msgstr ""
+
+#: compendium:845
+#, fuzzy
+msgctxt "EstimatedTimeToWaypoint"
+msgid "Est. travel time: {0}"
+msgstr "TODO"
+
+#: compendium:846
+#, fuzzy
+msgctxt "EstimatedTimeToWaypointFromPrevious"
+msgid "Est. travel time (from previous waypoint): {0}"
+msgstr "TODO"
+
+#: compendium:847
+#, fuzzy
+msgctxt "EstimatedTimeToTile"
+msgid "Est. travel time: {0}"
+msgstr "TODO"
+
+#: compendium:848
+#, fuzzy
+msgctxt "ForagedFoodAmount"
+msgid "Foraged food amount"
+msgstr "TODO"
+
+#: compendium:851
+#, fuzzy
+msgctxt "OutfitAnything"
+msgid "Anything"
+msgstr "Anything"
+
+#: compendium:852
+#, fuzzy
+msgctxt "OutfitWorker"
+msgid "Worker"
+msgstr "Worker"
+
+#: compendium:853
+#, fuzzy
+msgctxt "OutfitSoldier"
+msgid "Soldier"
+msgstr "Soldier"
+
+#: compendium:854
+#, fuzzy
+msgctxt "OutfitNudist"
+msgid "Nudist"
+msgstr "Nudist"
+
+#: compendium:857
+#, fuzzy
+msgctxt "HibernatableHibernating"
+msgid "Hibernating"
+msgstr "TODO"
+
+#: compendium:858
+#, fuzzy
+msgctxt "HibernatableStartingUp"
+msgid "Starting up"
+msgstr "TODO"
+
+#: compendium:861
+#, fuzzy
+msgctxt "ClickToSeeAvailableOrders_WorldObject"
+msgid "{0}: See available orders..."
+msgstr "TODO"
+
+#: compendium:862
+#, fuzzy
+msgctxt "ClickToSeeAvailableOrders_Empty"
+msgid "See available orders..."
+msgstr "TODO"
+
+#: compendium:865
+msgctxt "PawnTooltipWithDescAndPrimaryEquip"
+msgid "{0} ({1})\\n{2}\\n{3}"
+msgstr ""
+
+#: compendium:866
+msgctxt "PawnTooltipWithDescNoPrimaryEquip"
+msgid "{0} ({1})\\n{2}"
+msgstr ""
+
+#: compendium:867
+msgctxt "PawnTooltipWithPrimaryEquipNoDesc"
+msgid "{0}\\n{1}\\n{2}"
+msgstr ""
+
+#: compendium:868
+msgctxt "PawnTooltipNoDescNoPrimaryEquip"
+msgid "{0}\\n{1}"
+msgstr ""
+
+#: compendium:869
+msgctxt "PawnTooltipPsychicEntropyStats"
+msgid "Fall rate: {0} / s ({1}s until zero)"
+msgstr ""
+
+#: compendium:870
+msgctxt "PawnTooltipPsychicEntropyDesc"
+msgid ""
+"Neural heat increases after using a psychic power. Surpassing the normal "
+"limit may cause a psychic breakdown lasting days.\\n\\nNeural heat "
+"dissipates naturally over time. This process can be accelerated by wearing "
+"eltex apparel or being in pain."
+msgstr ""
+
+#: compendium:871
+msgctxt "PawnTooltipPsychicEntropyPainFocus"
+msgid ""
+"Pain boost\\n\\nPain focuses the mind and speeds up neural heat "
+"dissipation.\\n\\nPain level: {0}\\nBonus to heat recovery: {1}"
+msgstr ""
+
+#: compendium:872
+msgctxt "PawnTooltipPsychicEntropyLimit"
+msgid ""
+"Toggle neural heat limiter. Exceeding your heat limit may cause a psychic "
+"breakdown lasting days. It won't cause permanent damage."
+msgstr ""
+
+#: compendium:873
+msgctxt "PawnTooltipPsyfocus"
+msgid "Psyfocus: {0}"
+msgstr ""
+
+#: compendium:876
+msgctxt "PawnTooltipGenderAndKindLabel"
+msgid "{0} {1}"
+msgstr ""
+
+#: compendium:879
+msgctxt "Reward_Pawn_DropPod"
+msgid ""
+"a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport "
+"pod {0_relationInfoInParentheses}"
+msgstr ""
+
+#: compendium:880
+msgctxt "Reward_Pawn_WalkIn"
+msgid ""
+"a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you "
+"{0_relationInfoInParentheses}"
+msgstr ""
+
+#: compendium:881
+msgctxt "Reward_Pawn_Caravan"
+msgid ""
+"a {0_age}-year-old {0_title} named {0_nameDef} will join you "
+"{0_relationInfoInParentheses}"
+msgstr ""
+
+#: compendium:882
+msgctxt "Reward_Items"
+msgid ""
+"transport pods with the following resources will arrive (total value {1}):\n"
+"\\n{0}"
+msgstr ""
+
+#: compendium:884
+msgctxt "Reward_Items_Caravan"
+msgid ""
+"you will receive (total value {1}):\n"
+"\\n{0}"
+msgstr ""
+
+#: compendium:886
+msgctxt "Reward_Goodwill"
+msgid "your faction relations with {0_name} will improve by {1}"
+msgstr ""
+
+#: compendium:887
+msgctxt "Reward_PassageOffworld"
+msgid "you will be taken to the stars"
+msgstr ""
+
+#: compendium:888
+msgctxt "Reward_PassageOffworld_Label"
+msgid "Passage offworld"
+msgstr ""
+
+#: compendium:889
+msgctxt "Reward_CampLoot"
+msgid "you can loot everything from the camp"
+msgstr ""
+
+#: compendium:890
+msgctxt "Reward_CampLoot_Label"
+msgid "Camp loot"
+msgstr ""
+
+#: compendium:891
+msgctxt "Reward_Unknown"
+msgid "It is unclear what will happen if you accept this quest"
+msgstr ""
+
+#: compendium:892
+msgctxt "Reward_Unknown_Label"
+msgid "Unknown"
+msgstr ""
+
+#: compendium:893
+msgctxt "Reward_VisitorsHelp"
+msgid "the visitors will work and fight for you"
+msgstr ""
+
+#: compendium:894
+msgctxt "Reward_VisitorsHelp_Label"
+msgid "Visitors' help"
+msgstr ""
+
+#: compendium:895
+msgctxt "Reward_BestowingCeremony_Label"
+msgid "New psylink level"
+msgstr ""
+
+#: compendium:896
+msgctxt "Reward_BestowingCeremony"
+msgid "{PAWNNAME} gains psylink"
+msgstr ""
+
+#: compendium:897
+msgctxt "Reward_ShuttleLoot_Label"
+msgid "Shuttle loot"
+msgstr ""
+
+#: compendium:898
+msgctxt "Reward_ShuttleLoot"
+msgid "you can deconstruct and loot the shuttle"
+msgstr ""
+
+#: compendium:899
+msgctxt "Reward_PossibleFutureReward_Label"
+msgid "Possible future reward"
+msgstr ""
+
+#: compendium:900
+msgctxt "Reward_PossibleFutureReward"
+msgid "a reward possibly granted in the future"
+msgstr ""
+
+#: compendium:901
+msgctxt "Reward_Title_Label"
+msgid "{TITLE} title"
+msgstr ""
+
+#: compendium:902
+msgctxt "Reward_Title"
+msgid "{PAWNNAME} gains {TITLE} title from {FACTION}"
+msgstr ""
+
+#: compendium:903
+msgctxt "TotalValue"
+msgid "value {0}"
+msgstr ""
+
+#: compendium:906
+msgctxt "BondedWith"
+msgid "Bonded to: {0}"
+msgstr ""
+
+#: compendium:907
+msgctxt "NotBonded"
+msgid "Not yet bonded"
+msgstr ""
+
+#: compendium:908
+msgctxt "BladelinkBondedToSomeoneElse"
+msgid "bonded to someone else"
+msgstr ""
+
+#: compendium:909
+msgctxt "BladelinkAlreadyBonded"
+msgid "(existing bond)"
+msgstr ""
+
+#: compendium:910
+msgctxt "BladelinkAlreadyBondedDialog"
+msgid ""
+"A person can only bond with one persona weapon at a time.\\n\\nTo equip and "
+"bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon "
+"{BONDEDWEAPON_labelShort} must first be destroyed."
+msgstr ""
+
+#: compendium:911
+msgctxt "BladelinkAlreadyBondedMessage"
+msgid "{PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort}"
+msgstr ""
+
+#: compendium:914
+msgctxt "Biocoded"
+msgid "biocoded {0}"
+msgstr ""
+
+#: compendium:915
+msgctxt "CodedFor"
+msgid "Biocoding: {0}"
+msgstr ""
+
+#: compendium:916
+msgctxt "BiocodedCodedForSomeoneElse"
+msgid "biocoded"
+msgstr ""
+
+#: compendium:919
+msgctxt "InterceptsProjectilesEvery"
+msgid "Intercepts {0} every {1}"
+msgstr ""
+
+#: compendium:920
+msgctxt "InterceptsProjectiles"
+msgid "Intercepts {0}"
+msgstr ""
+
+#: compendium:921
+msgctxt "InterceptsProjectiles_GroundProjectiles"
+msgid "ground projectiles"
+msgstr ""
+
+#: compendium:922
+msgctxt "InterceptsProjectiles_AerialProjectiles"
+msgid "aerial projectiles"
+msgstr ""
+
+#: compendium:925
+msgctxt "AffectedGender"
+msgid "Affected gender"
+msgstr ""
+
+#: compendium:928
+msgctxt "CausedByHediff"
+msgid "Caused by: {0}"
+msgstr ""
+
+#: compendium:930
+msgctxt "DamageFactorWeakness"
+msgid "{DAMAGE_label} weakness"
+msgstr ""
+
+#: compendium:931
+msgctxt "DamageFactorResistance"
+msgid "{DAMAGE_label} resistance"
+msgstr ""
+
+#: compendium:932
+msgctxt "DamageFactor"
+msgid ""
+"{DAMAGE_label} damage that this creature receives is multiplied by this "
+"amount."
+msgstr ""
+
+#: compendium:935
+msgctxt "HealingHealHediff"
+msgid "{0_nameDef}'s {1} was healed."
+msgstr ""
+
+#: compendium:936
+msgctxt "HealingRestoreBodyPart"
+msgid "{0_nameDef}'s {1} was restored."
+msgstr ""
+
+#: compendium:938
+msgctxt "WarningBuildingCausesHostility"
+msgid "Caution: Placing a building here will anger {FACTION_name}!"
+msgstr ""
+
+#: compendium:940
+msgctxt "ChooseLandingSite"
+msgid "Choose landing site"
+msgstr ""
+
+#: compendium:943
+msgctxt "LordJobOutcomeChances"
+msgid "Outcome chances at {0} quality"
+msgstr ""
+
+#: compendium:944
+msgctxt "ExpectedLordJobDuration"
+msgid "Expected duration"
+msgstr ""
+
+#: compendium:947
+msgctxt "Ritual"
+msgid "ritual"
+msgstr ""
+
+#: compendium:949
+msgctxt "RitualTakesPlaceAt"
+msgid "Takes place at"
+msgstr ""
+
+#: compendium:950
+msgctxt "RitualTargetThingDefsInfo"
+msgid "Any {0}"
+msgstr ""
+
+#: compendium:951
+msgctxt "LordReportAttending"
+msgid "Attending {0}"
+msgstr ""
+
+#: compendium:952
+msgctxt "RitualCalledOff"
+msgid "{0} has been canceled."
+msgstr ""
+
+#: compendium:953
+msgctxt "RitualNobodyAttended"
+msgid "{0} was not completed because of lack of attendance."
+msgstr ""
+
+#: compendium:954
+msgctxt "RitualFinished"
+msgid "{0} has been completed."
+msgstr ""
+
+#: compendium:955
+msgctxt "RitualEndsIn"
+msgid "ends in {0}"
+msgstr ""
+
+#: compendium:956
+msgctxt "RitualStartAnyTime"
+msgid "Can start any time"
+msgstr ""
+
+#: compendium:957
+msgctxt "RitualStartEvent"
+msgid "Can start after event"
+msgstr ""
+
+#: compendium:958
+msgctxt "RitualFocusObjects"
+msgid "Focus objects"
+msgstr ""
+
+#: compendium:959
+msgctxt "RitualParticipatingRoles"
+msgid "Participating roles"
+msgstr ""
+
+#: compendium:960
+msgctxt "Organizers"
+msgid "Organizers"
+msgstr ""
+
+#: compendium:961
+msgctxt "QualityFactors"
+msgid "Quality factors"
+msgstr ""
+
+#: compendium:962
+msgctxt "QualityFactorTooltipUncertain"
+msgid ""
+"This condition may be fulfilled, depending on how things play out.\\n\\nIf "
+"it is fulfilled, the quality bonus will apply."
+msgstr ""
+
+#: compendium:963
+msgctxt "QualityFactorTooltipNotFulfilled"
+msgid "This condition is not fulfilled.\\n\\nThe quality bonus will not apply."
+msgstr ""
+
+#: compendium:964
+msgctxt "Spectators"
+msgid "Spectators"
+msgstr ""
+
+#: compendium:965
+msgctxt "NotParticipating"
+msgid "Not participating"
+msgstr ""
+
+#: compendium:966
+msgctxt "DragPawnsToRolesInfo"
+msgid "Drag and drop or left/right click to move people."
+msgstr ""
+
+#: compendium:967
+msgctxt "DragPawnsToRolesInfoController"
+msgid "Drag and drop or click to move people."
+msgstr ""
+
+#: compendium:968
+msgctxt "RitualBeginSlaveDesc"
+msgid "A slave. The human property of others."
+msgstr ""
+
+#: compendium:969
+msgctxt "RitualBeginSleepingDesc"
+msgid ""
+"{0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake"
+" up to participate."
+msgstr ""
+
+#: compendium:970
+msgctxt "RitualBeginSleepingWarning"
+msgid ""
+"Some of the selected participants are sleeping. They will wake up once you "
+"start the ritual."
+msgstr ""
+
+#: compendium:971
+msgctxt "RitualRoleRequiresSocialRole"
+msgid ""
+"This position is best done by a colonist holding the social role of "
+"{0}.\\n\\nIf someone without this role fills this position, you won't get "
+"the following bonus(es)"
+msgstr ""
+
+#: compendium:972
+msgctxt "RitualRoleCantSubstitute"
+msgid "No substitute available for the role of {0}."
+msgstr ""
+
+#: compendium:973
+msgctxt "RitualOutcomeProgress"
+msgid "{0} progress"
+msgstr ""
+
+#: compendium:974
+msgctxt "RitualOutcomeQualityAbstract"
+msgid "{0} quality depends on"
+msgstr ""
+
+#: compendium:975
+msgctxt "RitualOutcomeQualitySpecific"
+msgid "{0} total quality was {1}, determined by these factors"
+msgstr ""
+
+#: compendium:976
+msgctxt "RitualOutcomePerformedRecently"
+msgid "Performed recently"
+msgstr ""
+
+#: compendium:977
+msgctxt "RitualQualityExpectations"
+msgid "{0} expectations"
+msgstr ""
+
+#: compendium:978
+msgctxt "RitualAmbienceSound"
+msgid "Ritual ambience sound"
+msgstr ""
+
+#: compendium:979
+msgctxt "RitualQualityLowWarning"
+msgid ""
+"Total {0} quality is below {1}. Proceeding will most likely negatively "
+"impact your colony.\\n\\nAre you sure?"
+msgstr ""
+
+#: compendium:980
+msgctxt "AbilitySpeechDisabledNoSpot"
+msgid "No reachable appropriate place to speak."
+msgstr ""
+
+#: compendium:981
+msgctxt "AbilityDisabledNoCapacity"
+msgid "{0_labelShort} is incapable of {1}."
+msgstr ""
+
+#: compendium:982
+msgctxt "RitualOutcomeExtraDesc_Mood"
+msgid "Everyone participating in the ritual gains {0} mood for {1} days."
+msgstr ""
+
+#: compendium:983
+msgctxt "RitualOutcomeNoQuality"
+msgid ""
+"This ritual has no quality offsets, so the best outcome is always expected"
+msgstr ""
+
+#: compendium:985
+msgctxt "Begin"
+msgid "Begin"
+msgstr ""
+
+#: compendium:986
+msgctxt "BeginRitual"
+msgid "Begin {0}"
+msgstr ""
+
+#: compendium:987
+msgctxt "BeginRitualFor"
+msgid "Begin {0} for {1}"
+msgstr ""
+
+#: compendium:988
+msgctxt "QualityOutOf"
+msgid "{0} (out of {1})"
+msgstr ""
+
+#: compendium:989
+msgctxt "DateRitualNoObligation"
+msgid ""
+"{0} is a date-specific ritual. You'll be able to start it in {1}, on the "
+"{2}."
+msgstr ""
+
+#: compendium:991
+msgctxt "PreceptReplaceWith"
+msgid "Replace with"
+msgstr ""
+
+#: compendium:992
+msgctxt "RitualSeatOf"
+msgid "Ritual seat of {IDEOS}"
+msgstr ""
+
+#: compendium:993
+msgctxt "ExpectedLordJobQuality"
+msgid "Expected quality"
+msgstr ""
+
+#: compendium:994
+msgctxt "StartingQuality"
+msgid "Starting quality"
+msgstr ""
+
+#: compendium:995
+msgctxt "RitualPredictedOutcomeDescPawnStat"
+msgid "{PAWN_labelShort}'s {1}"
+msgstr ""
+
+#: compendium:996
+msgctxt "RitualPredictedOutcomeDescRoomBeauty"
+msgid "Room beauty"
+msgstr ""
+
+#: compendium:997
+msgctxt "RitualPredictedOutcomeDescParticipantCount"
+msgid "Participants"
+msgstr ""
+
+#: compendium:998
+msgctxt "RitualPredictedOutcomeDescPawnExpectations"
+msgid "{PAWN_labelShort}'s expectations"
+msgstr ""
+
+#: compendium:999
+msgctxt "RitualOutcomeLovedOnePresentLabel"
+msgid "Loved one present"
+msgstr ""
+
+#: compendium:1000
+msgctxt "RitualOutcomeLovedOnePresentTip"
+msgid "Any person that {PAWN_labelShort} considers their friend or more."
+msgstr ""
+
+#: compendium:1002
+msgctxt "RitualOutcomeLabelAnyOfThese"
+msgid "Any of these"
+msgstr ""
+
+#: compendium:1003
+msgctxt "RitualRoleReplaces"
+msgid "Replaces {PAWN_labelShort}"
+msgstr ""
+
+#: compendium:1005
+msgctxt "Present"
+msgid "present"
+msgstr ""
+
+#: compendium:1006
+msgctxt "Used"
+msgid "{0} used"
+msgstr ""
+
+#: compendium:1007
+msgctxt "StartingRitualQuality"
+msgid "{0} starting quality"
+msgstr ""
+
+#: compendium:1009
+msgctxt "OutcomeBonusDesc_Quality"
+msgid "up to {0} quality"
+msgstr ""
+
+#: compendium:1010
+msgctxt "OutcomeBonusDesc_QualitySingleOffset"
+msgid "{0} quality"
+msgstr ""
+
+#: compendium:1011
+msgctxt "OutcomeLetterLabel"
+msgid "{OUTCOMELABEL} {RITUALLABEL}"
+msgstr ""
+
+#: compendium:1012
+msgctxt "MaxValue"
+msgid "{0} max"
+msgstr ""
+
+#: compendium:1014
+msgctxt "ThingOf"
+msgid "{0} of"
+msgstr ""
+
+#: compendium:1015
+msgctxt "ThingOfSource"
+msgid "{0} of {1}"
+msgstr ""
+
+#: compendium:1016
+msgctxt "ThingOfTwoSources"
+msgid "{0} of {1} and {2}"
+msgstr ""
+
+#: compendium:1019
+msgctxt "BlindSmoke"
+msgid "blind smoke"
+msgstr ""
+
+#: compendium:1020
+msgctxt "ToxGas"
+msgid "tox gas"
+msgstr ""
+
+#: compendium:1021
+msgctxt "RotStink"
+msgid "rot stink"
+msgstr ""
+
+#: compendium:1022
+msgctxt "DeadlifeDust"
+msgid "deadlife dust"
+msgstr ""
+
+#: compendium:1025
+msgctxt "AbilityDisabledUndrafted"
+msgid "must be drafted."
+msgstr ""
+
+#: compendium:1026
+msgctxt "AbilityOnCooldown"
+msgid "ability on cooldown. It will be available in {0}."
+msgstr ""
+
+#: compendium:1027
+msgctxt "AbilityNoCharges"
+msgid "ability out of charges."
+msgstr ""
+
+#: compendium:1028
+msgctxt "AbilityAlreadyQueued"
+msgid "ability already queued."
+msgstr ""
+
+#: compendium:1029
+msgctxt "AbilityReadyLabel"
+msgid "Ability ready for {PAWN_nameDef}: {0}"
+msgstr ""
+
+#: compendium:1030
+msgctxt "AbilitiesReadyLabel"
+msgid "Abilities ready for {PAWN_nameDef}: {0}"
+msgstr ""
+
+#: compendium:1031
+msgctxt "AbilityReadyText"
+msgid "{0_nameDef} is ready to use {1}."
+msgstr ""
+
+#: compendium:1032
+msgctxt "AbilityDisabledInRitual"
+msgid "{0_labelShort} is participating in {1}."
+msgstr ""
+
+#: compendium:1033
+msgctxt "Charges"
+msgid "Charges"
+msgstr ""
+
+#: compendium:1035
+msgctxt "PawnIsInMentalState"
+msgid "{0_nameDef} is in a mental state."
+msgstr ""
+
+#: compendium:1036
+msgctxt "PawnIsInAggroMentalState"
+msgid "{0_nameDef} is in an aggressive mental state."
+msgstr ""
+
+#: compendium:1038
+msgctxt "DisabledWorkLabel"
+msgid "Disabled work"
+msgstr ""
+
+#: compendium:1039
+msgctxt "DisabledNeedsLabel"
+msgid "Disabled needs"
+msgstr ""
+
+#: compendium:1042
+msgctxt "GlowerChangeColor"
+msgid "change color"
+msgstr ""
+
+#: compendium:1043
+msgctxt "GlowerChangeColorDescription"
+msgid "Change the color of the light."
+msgstr ""
+
+#: compendium:1044
+msgctxt "GlowerChangeColorNeedsResearch"
+msgid "You must research {0} to change light color."
+msgstr ""
+
+#: compendium:1047
+msgctxt "ShieldPersonalTip"
+msgid ""
+"A personal shield that will attempt to stop incoming projectiles or "
+"shrapnel. It prevents the wearer from firing out, and shuts down instantly "
+"if hit by an EMP."
+msgstr ""
+
+#: compendium:1049
+msgctxt "UnrecruitableDesc"
+msgid ""
+"{PAWN_nameDef} is so loyal to {PAWN_possessive} home that {PAWN_pronoun} "
+"will refuse to be recruited if taken prisoner."
+msgstr ""
+
+#: compendium:1051
+msgctxt "Random"
+msgid "Random"
+msgstr ""
+
+#: compendium:1053
+msgctxt "PlantThing"
+msgid "Plant {0_label}"
+msgstr ""
+
+#: compendium:1054
+msgctxt "PlantThingDesc"
+msgid "Plant a {0_label} in a chosen area."
+msgstr ""
+
+#: compendium:1055
+msgctxt "CancelPlantThing"
+msgid "Cancel planting {0_label}"
+msgstr ""
+
+#: compendium:1056
+msgctxt "CancelPlantThingDesc"
+msgid "Cancel planting the {0_label}."
+msgstr ""
+
+#: compendium:1058
+msgctxt "AbilitySpeechDisabledAnotherGatheringInProgress"
+msgid "another gathering is in progress."
+msgstr ""
+
+#: compendium:1059
+msgctxt "AbilitySpeechCooldown"
+msgid "Next speech ready in"
+msgstr ""
+
+#: compendium:1060
+msgctxt "AbilitySpeechTargetsLabel"
+msgid "Initiated at"
+msgstr ""
+
+#: compendium:1064
+msgctxt "Benefits"
+msgid "Benefits"
+msgstr ""
+
+#: compendium:1065
+msgctxt "Dangers"
+msgid "Dangers"
+msgstr ""
+
+#: compendium:1066
+msgctxt "AlreadyUnlocked"
+msgid "already unlocked"
+msgstr ""
+
+#: compendium:1067
+msgctxt "WhenDiscovered"
+msgid "when discovered"
+msgstr ""
+
+#: compendium:1069
+msgctxt "BookMentalBreakMessage"
+msgid "Was driven into a mental break after reading {0}."
+msgstr ""
+
+#: compendium:1070
+msgctxt "BookReadProgress"
+msgid "{0} done (complete in {1} hours)"
+msgstr ""
+
+#: compendium:1072
+msgctxt "BookLearningModifier"
+msgid "learning speed"
+msgstr ""
+
+#: compendium:1073
+msgctxt "BookMentalBreak"
+msgid "Mental break chance"
+msgstr ""
+
+#: compendium:1075
+msgctxt "BookNotReadable"
+msgid "{BOOK_labelShort} is not readable"
+msgstr ""
+
+#: compendium:1076
+msgctxt "BookCantRead"
+msgid "{PAWN_nameDef} can't read"
+msgstr ""
+
+#: compendium:1077
+msgctxt "BookCantBeStage"
+msgid "{PAWN_nameDef} must be a {STAGES}"
+msgstr ""
+
+#: compendium:1078
+msgctxt "BookBlind"
+msgid "{PAWN_nameDef} is blind"
+msgstr ""
+
+#: compendium:1080
+msgctxt "BookMaxLevel"
+msgid "max level {0}"
+msgstr ""
+
+#: compendium:1082
+msgctxt "ReadingReportHeader"
+msgid "Reading {0}: {1} done (complete in {2} hours)"
+msgstr ""
+
+#: compendium:1084
+msgctxt "ReadingDialogTitle"
+msgid "Assign reading"
+msgstr ""
+
+#: compendium:1085
+msgctxt "ReadingAssignTo"
+msgid "Assign to {0}"
+msgstr ""
+
+#: compendium:1086
+msgctxt "ReadingAssign"
+msgid "Assign"
+msgstr ""
+
+#: compendium:1088
+msgctxt "ContainedBooksDesc"
+msgid "The books currently on this bookshelf."
+msgstr ""
+
+#: compendium:1090
+msgctxt "BookshelfStoredInspect"
+msgid "Books stored"
+msgstr ""
+
+#: compendium:1091
+msgctxt "BookshelfReadingBonusInspect"
+msgid "Reading bonus in room"
+msgstr ""
+
+#: compendium:1093
+msgctxt "EjectBookTooltip"
+msgid "Remove this book from the bookshelf."
+msgstr ""
+
+#: compendium:1096
+msgctxt "CommandPushTo"
+msgid "Push to..."
+msgstr ""
+
+#: compendium:1097
+msgctxt "RequiredCapacity"
+msgid "requires {0}"
+msgstr ""
+
+#: compendium:1099
+msgctxt "UnableToEnterPortal"
+msgid "Unable to enter {0}, destination is blocked"
+msgstr ""
+
+#: compendium:1101
+msgctxt "ResearchNotDiscovered"
+msgid "This category of research has not been discovered."
+msgstr ""
+
+#: compendium:1103
+msgctxt "Emergence"
+msgid "Emergence"
+msgstr ""
+
+#: compendium:1105
+msgctxt "RemovePart"
+msgid "remove {0}"
+msgstr ""
+
+#: compendium:1107
+msgctxt "DoWorkAtThing"
+msgid "{GERUND} {TARGETLABEL} at"
+msgstr ""
+
+#: compendium:1108
+msgctxt "CanBeStudiedInDuration"
+msgid "can be studied in {0}"
+msgstr ""
+
+#: compendium:1110
+msgctxt "AboutToExplode"
+msgid "About to explode"
+msgstr ""
+
+#: compendium:1112
+msgctxt "MainScreen_AnomalyAvailableNow"
+msgid "New Anomaly expansion available now!"
+msgstr ""

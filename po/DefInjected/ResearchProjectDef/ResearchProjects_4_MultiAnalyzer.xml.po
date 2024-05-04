@@ -1,0 +1,528 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:6
+#, fuzzy
+msgctxt "MultiAnalyzer.label"
+msgid "multi-analyzer"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:7
+#, fuzzy
+msgctxt "MultiAnalyzer.description"
+msgid ""
+"Build multi-analyzers which increase research speed and allow higher-level "
+"research projects."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:20
+msgctxt "MultiAnalyzer.generalRules.rulesStrings.0"
+msgid "subject->multi-analysis"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:20
+msgctxt "MultiAnalyzer.generalRules.rulesStrings.1"
+msgid "subject_story->automated a research laboratory"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:20
+msgctxt "MultiAnalyzer.generalRules.rulesStrings.2"
+msgid "subject_story->unlocked the trans-spectrum secrets of the universe"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:20
+msgctxt "MultiAnalyzer.generalRules.rulesStrings.3"
+msgid "subject_story->helped identify new stable isotopes"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:20
+msgctxt "MultiAnalyzer.generalRules.rulesStrings.4"
+msgid "subject_gerund->constructing multi-analyzers"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:34
+#, fuzzy
+msgctxt "VitalsMonitor.label"
+msgid "vitals monitor"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:35
+#, fuzzy
+msgctxt "VitalsMonitor.description"
+msgid ""
+"Build vitals monitors which improve medical outcomes when placed next to "
+"hospital beds."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:49
+msgctxt "VitalsMonitor.generalRules.rulesStrings.0"
+msgid "subject->vital signs monitoring"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:49
+msgctxt "VitalsMonitor.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->struggled in an overcrowded hospital and vowed to work for "
+"change"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:49
+msgctxt "VitalsMonitor.generalRules.rulesStrings.2"
+msgid "subject_story->nursed a glassworld survivor back to health"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:49
+msgctxt "VitalsMonitor.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->monitored the isolation ward remotely, sending mechanoids in "
+"for treatments"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:49
+msgctxt "VitalsMonitor.generalRules.rulesStrings.4"
+msgid "subject_gerund->monitoring vital signs"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:49
+msgctxt "VitalsMonitor.generalRules.rulesStrings.5"
+msgid "subject_gerund->constructing vital signs monitors"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:65
+#, fuzzy
+msgctxt "Fabrication.label"
+msgid "fabrication"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:66
+#, fuzzy
+msgctxt "Fabrication.description"
+msgid ""
+"Build fabrication benches, capable of high-tech projects ranging from "
+"component assembly to power armor construction."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:81
+msgctxt "Fabrication.generalRules.rulesStrings.0"
+msgid "subject->high-tech fabrication benches"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:81
+msgctxt "Fabrication.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->spent many years crafting advanced components, to make "
+"fabrication benches to make more advanced components"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:81
+msgctxt "Fabrication.generalRules.rulesStrings.2"
+msgid "subject_story->traded everything to build a single fabrication bench"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:81
+msgctxt "Fabrication.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->constructed technological marvels which the feral villagers "
+"worshipped as magical"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:81
+msgctxt "Fabrication.generalRules.rulesStrings.4"
+msgid "subject_gerund->constructing high-tech projects"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:81
+msgctxt "Fabrication.generalRules.rulesStrings.5"
+msgid "subject_gerund->building high-tech fabrication stations"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:97
+#, fuzzy
+msgctxt "AdvancedFabrication.label"
+msgid "advanced fabrication"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:98
+#, fuzzy
+msgctxt "AdvancedFabrication.description"
+msgid ""
+"Fabricate advanced components from standard components and other materials."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:111
+msgctxt "AdvancedFabrication.generalRules.rulesStrings.0"
+msgid "subject->advanced component fabrication"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:111
+msgctxt "AdvancedFabrication.generalRules.rulesStrings.1"
+msgid "subject_story->traded advanced components to desperate rimworlders"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:111
+msgctxt "AdvancedFabrication.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->learned the secrets of fabricating advanced components and "
+"died without revealing them"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:111
+msgctxt "AdvancedFabrication.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->balked at the extreme cost of crafting advanced components "
+"and chose a simpler lifestyle"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:111
+msgctxt "AdvancedFabrication.generalRules.rulesStrings.4"
+msgid "subject_gerund->fabricating advanced components"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:125
+#, fuzzy
+msgctxt "Cryptosleep.label"
+msgid "cryptosleep casket"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:126
+#, fuzzy
+msgctxt "Cryptosleep.description"
+msgid ""
+"Construct cryptosleep caskets, which can put living beings in a state of "
+"indefinite suspended animation."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:139
+msgctxt "Cryptosleep.generalRules.rulesStrings.0"
+msgid "subject->cryptosleep"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:139
+msgctxt "Cryptosleep.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->intended to test a prototype cryptosleep casket and woke a "
+"generation later, alone"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:139
+msgctxt "Cryptosleep.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->sentenced the system's worst criminal to indefinite "
+"cryptosleep rather than death"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:139
+msgctxt "Cryptosleep.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->used a cryptosleep capsule to suspend the terminally ill, so "
+"they could see their children once they'd grown up"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:139
+msgctxt "Cryptosleep.generalRules.rulesStrings.4"
+msgid "subject_gerund->constructing cryptosleep caskets"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:139
+msgctxt "Cryptosleep.generalRules.rulesStrings.5"
+msgid "subject_gerund->inducing cryptosleep"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:155
+msgctxt "ReconArmor.label"
+msgid "recon armor"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:156
+msgctxt "ReconArmor.description"
+msgid ""
+"Craft recon armor, a light powered armor suit used by scout troops who need "
+"protection on the move. Note that these also require advanced components."
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:172
+msgctxt "ReconArmor.generalRules.rulesStrings.0"
+msgid "subject->recon armor"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:172
+msgctxt "ReconArmor.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->led the rebel scouts against the Imperial forces, until "
+"captured"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:172
+msgctxt "ReconArmor.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->crafted powered armor light and resilient enough for the "
+"hammer-users to close with the enemy"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:172
+msgctxt "ReconArmor.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->intended recon armor more for hunters than soldiers. It sold "
+"well, regardless"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:172
+msgctxt "ReconArmor.generalRules.rulesStrings.4"
+msgid "subject_gerund->crafting recon armor"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:172
+msgctxt "ReconArmor.generalRules.rulesStrings.5"
+msgid "subject_gerund->reducing armor weight"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:188
+#, fuzzy
+msgctxt "PoweredArmor.label"
+msgid "marine armor"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:189
+#, fuzzy
+msgctxt "PoweredArmor.description"
+msgid ""
+"Build marine armor, a general-use powered armor suit used by high-tech shock"
+" troops. Note that these also require advanced components."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:205
+msgctxt "PoweredArmor.generalRules.rulesStrings.0"
+msgid "subject->marine armor"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:205
+msgctxt "PoweredArmor.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->was employed by the shock troops to maintain their armor"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:205
+msgctxt "PoweredArmor.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->tested the armor by walking, unarmed, through a hostile feral"
+" village without receiving a scratch"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:205
+msgctxt "PoweredArmor.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->intended the armor as protection against the planet's hostile"
+" weather, but it worked well against the pirates too"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:205
+msgctxt "PoweredArmor.generalRules.rulesStrings.4"
+msgid "subject_gerund->constructing shock troop armor"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:205
+msgctxt "PoweredArmor.generalRules.rulesStrings.5"
+msgid "subject_gerund->constructing marine armor"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:205
+msgctxt "PoweredArmor.generalRules.rulesStrings.6"
+msgid "subject_gerund->constructing general-use advanced armor"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:222
+#, fuzzy
+msgctxt "ChargedShot.label"
+msgid "pulse-charged munitions"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:223
+#, fuzzy
+msgctxt "ChargedShot.description"
+msgid ""
+"Build weapons which fire pulse-charged munitions for extra damage. Note that"
+" these also require advanced components."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:239
+msgctxt "ChargedShot.generalRules.rulesStrings.0"
+msgid "subject->pulse munitions"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:239
+msgctxt "ChargedShot.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->studied glitterworld monorails and modified the tech for "
+"weapons"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:239
+msgctxt "ChargedShot.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->killed a mechanical crawler by kiting it with a charge lance"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:239
+msgctxt "ChargedShot.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->learned how to imbue rifle ammunition with retained charge, "
+"heavily increasing its lethality"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:239
+msgctxt "ChargedShot.generalRules.rulesStrings.4"
+msgid "subject_gerund->constructing pulse munitions"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:239
+msgctxt "ChargedShot.generalRules.rulesStrings.5"
+msgid "subject_gerund->utilising pulse munitions"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:255
+#, fuzzy
+msgctxt "Bionics.label"
+msgid "bionic replacements"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:256
+#, fuzzy
+msgctxt "Bionics.description"
+msgid ""
+"Build high-tech bionic body parts to replace lost limbs and eyes. Requires a"
+" skilled doctor to attach."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:272
+msgctxt "Bionics.generalRules.rulesStrings.0"
+msgid "subject->bionic prosthesis"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:272
+msgctxt "Bionics.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->worked primarily with disfigured soldiers, crafting bespoke "
+"bionic facial elements so they could return to their loved ones"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:272
+msgctxt "Bionics.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->studied slowed vids of human motion to better craft bionic "
+"prosthetics"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:272
+msgctxt "Bionics.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->was volunteered to have the various prototype bionics  "
+"implanted, ending up as more machine than man"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:272
+msgctxt "Bionics.generalRules.rulesStrings.4"
+msgid "subject_gerund->constructing bionic prosthetics"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:272
+msgctxt "Bionics.generalRules.rulesStrings.5"
+msgid "subject_gerund->utilizing bionic body parts"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:288
+#, fuzzy
+msgctxt "SniperTurret.label"
+msgid "uranium slug turret"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:289
+#, fuzzy
+msgctxt "SniperTurret.description"
+msgid ""
+"Produce the armor-penetrating uranium slug turret. It fires uranium slugs "
+"which tear through plasteel like paper, but it's less effective at close "
+"range."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:309
+msgctxt "SniperTurret.generalRules.rulesStrings.0"
+msgid "subject->sniper turrets"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:309
+msgctxt "SniperTurret.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->led the clean-up after the war, collecting spent radioactive "
+"uranium slugs from the front line"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:309
+msgctxt "SniperTurret.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->saw a turret shoot straight through an assault mechanoid and "
+"needed to understand how"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:309
+msgctxt "SniperTurret.generalRules.rulesStrings.3"
+msgid "subject_story->researched the effects of ammunition density on armor"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:309
+msgctxt "SniperTurret.generalRules.rulesStrings.4"
+msgid "subject_gerund->constructing sniper turrets"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:323
+msgctxt "RocketswarmLauncher.label"
+msgid "rocketswarm launcher"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:324
+msgctxt "RocketswarmLauncher.description"
+msgid ""
+"Produce rocketswarm launchers, single-burst turrets which can devastate a "
+"wide area at a key moment in battle."
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:343
+msgctxt "RocketswarmLauncher.generalRules.rulesStrings.0"
+msgid "subject->rocket turrets"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:343
+msgctxt "RocketswarmLauncher.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->testified about the use of rocketswarm launchers against "
+"civilian targets"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:343
+msgctxt "RocketswarmLauncher.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->constructed last-ditch defenses, including traps and "
+"launchers, in case the settlement was ever threatened"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:343
+msgctxt "RocketswarmLauncher.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->started by constructing primitive rockets to reach space, but"
+" the high failure rate led to them being repurposed as weapons"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_4_MultiAnalyzer.xml:343
+msgctxt "RocketswarmLauncher.generalRules.rulesStrings.4"
+msgid "subject_gerund->constructing rocket turrets"
+msgstr ""

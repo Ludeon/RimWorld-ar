@@ -1,0 +1,426 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:6
+#, fuzzy
+msgctxt "Root.label"
+msgid "root"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:13
+#, fuzzy
+msgctxt "Foods.label"
+msgid "foods"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:21
+#, fuzzy
+msgctxt "FoodMeals.label"
+msgid "meals"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:29
+#, fuzzy
+msgctxt "FoodRaw.label"
+msgid "raw food"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:37
+#, fuzzy
+msgctxt "MeatRaw.label"
+msgid "meat"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:44
+#, fuzzy
+msgctxt "PlantFoodRaw.label"
+msgid "vegetarian"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:51
+#, fuzzy
+msgctxt "AnimalProductRaw.label"
+msgid "animal products"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:58
+#, fuzzy
+msgctxt "EggsUnfertilized.label"
+msgid "eggs (unfert.)"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:65
+#, fuzzy
+msgctxt "EggsFertilized.label"
+msgid "eggs (fert.)"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:74
+#, fuzzy
+msgctxt "Manufactured.label"
+msgid "manufactured"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:82
+#, fuzzy
+msgctxt "Textiles.label"
+msgid "textiles"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:90
+#, fuzzy
+msgctxt "Leathers.label"
+msgid "leathers"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:97
+msgctxt "Wools.label"
+msgid "wools"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:104
+#, fuzzy
+msgctxt "Medicine.label"
+msgid "medicine"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:112
+#, fuzzy
+msgctxt "Drugs.label"
+msgid "drugs"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:120
+#, fuzzy
+msgctxt "MortarShells.label"
+msgid "mortar shells"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:129
+#, fuzzy
+msgctxt "ResourcesRaw.label"
+msgid "raw resources"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:137
+#, fuzzy
+msgctxt "PlantMatter.label"
+msgid "plant matter"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:145
+#, fuzzy
+msgctxt "StoneBlocks.label"
+msgid "stone blocks"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:158
+#, fuzzy
+msgctxt "Items.label"
+msgid "items"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:164
+#, fuzzy
+msgctxt "Unfinished.label"
+msgid "unfinished"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:170
+#, fuzzy
+msgctxt "Artifacts.label"
+msgid "artifacts"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:176
+msgctxt "InertRelics.label"
+msgid "inert relics"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:182
+msgctxt "Neurotrainers.label"
+msgid "neurotrainers"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:188
+msgctxt "NeurotrainersPsycast.label"
+msgid "psytrainers"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:194
+msgctxt "NeurotrainersSkill.label"
+msgid "skilltrainers"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:200
+msgctxt "Techprints.label"
+msgid "techprints"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:206
+#, fuzzy
+msgctxt "BodyParts.label"
+msgid "body parts"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:212
+#, fuzzy
+msgctxt "BodyPartsNatural.label"
+msgid "natural"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:218
+msgctxt "BodyPartsSimple.label"
+msgid "simple parts"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:224
+msgctxt "BodyPartsProsthetic.label"
+msgid "prosthetic"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:230
+msgctxt "BodyPartsBionic.label"
+msgid "bionic"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:236
+msgctxt "BodyPartsUltra.label"
+msgid "ultratech"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:242
+msgctxt "BodyPartsArchotech.label"
+msgid "archotech"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:248
+msgctxt "BodyPartsMechtech.label"
+msgid "mechtech"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:254
+msgctxt "Books.label"
+msgid "books"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:260
+msgctxt "ItemsMisc.label"
+msgid "misc"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:268
+#, fuzzy
+msgctxt "Weapons.label"
+msgid "weapons"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:274
+#, fuzzy
+msgctxt "WeaponsMelee.label"
+msgid "melee weapons"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:280
+msgctxt "WeaponsMeleeBladelink.label"
+msgid "persona weapons"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:286
+#, fuzzy
+msgctxt "WeaponsRanged.label"
+msgid "ranged weapons"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:292
+#, fuzzy
+msgctxt "Grenades.label"
+msgid "grenades"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:300
+#, fuzzy
+msgctxt "Apparel.label"
+msgid "apparel"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:306
+#, fuzzy
+msgctxt "Headgear.label"
+msgid "headgear"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:312
+msgctxt "ApparelArmor.label"
+msgid "armor"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:318
+msgctxt "ArmorHeadgear.label"
+msgid "headgear"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:324
+msgctxt "ApparelUtility.label"
+msgid "utility"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:330
+msgctxt "ApparelNoble.label"
+msgid "noble apparel"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:336
+msgctxt "HeadgearNoble.label"
+msgid "headgear"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:342
+msgctxt "ApparelMisc.label"
+msgid "misc"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:350
+#, fuzzy
+msgctxt "Buildings.label"
+msgid "buildings"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:356
+#, fuzzy
+msgctxt "BuildingsArt.label"
+msgid "art"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:362
+#, fuzzy
+msgctxt "BuildingsProduction.label"
+msgid "production"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:368
+#, fuzzy
+msgctxt "BuildingsFurniture.label"
+msgid "furniture"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:374
+#, fuzzy
+msgctxt "BuildingsPower.label"
+msgid "power"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:380
+#, fuzzy
+msgctxt "BuildingsSecurity.label"
+msgid "security"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:386
+#, fuzzy
+msgctxt "BuildingsMisc.label"
+msgid "misc"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:392
+#, fuzzy
+msgctxt "BuildingsJoy.label"
+msgid "recreation"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:398
+#, fuzzy
+msgctxt "BuildingsTemperature.label"
+msgid "temperature"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:404
+#, fuzzy
+msgctxt "BuildingsSpecial.label"
+msgid "special"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:412
+#, fuzzy
+msgctxt "Chunks.label"
+msgid "chunks"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:418
+#, fuzzy
+msgctxt "StoneChunks.label"
+msgid "stone chunks"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:428
+#, fuzzy
+msgctxt "Animals.label"
+msgid "animals"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:436
+#, fuzzy
+msgctxt "Plants.label"
+msgid "plants"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:442
+msgctxt "Stumps.label"
+msgid "stumps"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:450
+#, fuzzy
+msgctxt "Corpses.label"
+msgid "corpses"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:456
+#, fuzzy
+msgctxt "CorpsesHumanlike.label"
+msgid "humanlike corpses"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:462
+#, fuzzy
+msgctxt "CorpsesAnimal.label"
+msgid "animal corpses"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:468
+#, fuzzy
+msgctxt "CorpsesInsect.label"
+msgid "insect corpses"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:474
+#, fuzzy
+msgctxt "CorpsesMechanoid.label"
+msgid "mechanoid corpses"
+msgstr "TODO"
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:482
+msgctxt "BookEffects.label"
+msgid "bookEffects"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:487
+msgctxt "SkillGain.label"
+msgid "skill gain"
+msgstr ""
+
+#: Defs/ThingCategoryDefs/ThingCategories.xml:493
+msgctxt "ResearchGain.label"
+msgid "research"
+msgstr ""

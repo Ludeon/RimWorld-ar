@@ -1,0 +1,73 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Storyteller/Incidents_Caravan_All.xml:8
+#, fuzzy
+msgctxt "Ambush.label"
+msgid "ambush"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Caravan_All.xml:17
+#, fuzzy
+msgctxt "Ambush.letterText"
+msgid "{0} has been ambushed by {1} from {2}!"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Caravan_All.xml:18
+#, fuzzy
+msgctxt "Ambush.letterLabel"
+msgid "Caravan ambushed"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Caravan_All.xml:39
+#, fuzzy
+msgctxt "ManhunterAmbush.label"
+msgid "manhunter ambush"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Caravan_All.xml:48
+#, fuzzy
+msgctxt "ManhunterAmbush.letterText"
+msgid "{0} has been ambushed by scaria-infected manhunting {1}!"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Caravan_All.xml:49
+#, fuzzy
+msgctxt "ManhunterAmbush.letterLabel"
+msgid "Caravan ambushed (manhunters)"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Caravan_All.xml:73
+#, fuzzy
+msgctxt "Ambush.label"
+msgid "ambush"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Caravan_All.xml:74
+#, fuzzy
+msgctxt "Ambush.description"
+msgid "An ongoing ambush battle."
+msgstr ".ﺓﺮﻤﺘﺴﻣ ﻦﻴﻤﻛ ﺔﻛﺮﻌﻣ"
+
+#: Defs/Storyteller/Incidents_Caravan_All.xml:96
+#, fuzzy
+msgctxt "CaravanMeeting.label"
+msgid "caravan meeting"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Caravan_All.xml:125
+#, fuzzy
+msgctxt "CaravanDemand.label"
+msgid "payment demand"
+msgstr "TODO"

@@ -1,0 +1,632 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:6
+#, fuzzy
+msgctxt "Firefighter.labelShort"
+msgid "firefight"
+msgstr "ﺭﺎﻨﻟﺍ ﻕﻼﻃﻻ ﻝﺩﺎﺒﺗ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:7
+#, fuzzy
+msgctxt "Firefighter.pawnLabel"
+msgid "Firefighter"
+msgstr "ءﺎﻔﻃﻻﺍ ﻝﺎﺟﺭ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:8
+#, fuzzy
+msgctxt "Firefighter.gerundLabel"
+msgid "firefighting"
+msgstr "ﻖﻳﺮﺤﻟﺍ ﺔﺤﻓﺎﻜﻣe"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:9
+#, fuzzy
+msgctxt "Firefighter.description"
+msgid "Extinguish fires in the colony."
+msgstr ".ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻲﻓ ﻖﺋﺍﺮﺤﻟﺍ ءﺎﻔﻃﺇ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:10
+#, fuzzy
+msgctxt "Firefighter.verb"
+msgid "Extinguish"
+msgstr "ءﺎﻔﻃﺇ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:23
+#, fuzzy
+msgctxt "Patient.labelShort"
+msgid "patient"
+msgstr "ﺭﻮﺒﺻ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:24
+#, fuzzy
+msgctxt "Patient.pawnLabel"
+msgid "Patient"
+msgstr "ﺭﻮﺒﺻ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:25
+#, fuzzy
+msgctxt "Patient.gerundLabel"
+msgid "patienting"
+msgstr "ﺮﺒﺼﻟﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:26
+#, fuzzy
+msgctxt "Patient.description"
+msgid ""
+"Go to a medical bed for treatment if you have an immediately life-"
+"threatening health condition."
+msgstr ""
+".ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﻚﺗﺎﻴﺣ ﺩﺪﻬﺗ ﺔﻴﺤﺻ ﺔﻟﺎﺣ ﻦﻣ ﻲﻧﺎﻌﺗ ﺖﻨﻛ ﺍﺫﺇ ﺝﻼﻌﻟﺍ ﻲﻘﻠﺘﻟ ﻲﺒﻃ ﺮﻳﺮﺳ ﻰﻟﺇ "
+"ﺐﻫﺫﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:27
+#, fuzzy
+msgctxt "Patient.verb"
+msgid "Become patient"
+msgstr "ﺮﺒﺼﻟﺎﺑ ﻲﻠﺤﺘﻟﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:34
+#, fuzzy
+msgctxt "Doctor.labelShort"
+msgid "doctor"
+msgstr "ﺐﻴﺒﻃ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:35
+#, fuzzy
+msgctxt "Doctor.pawnLabel"
+msgid "Doctor"
+msgstr "ﺐﻴﺒﻃ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:36
+#, fuzzy
+msgctxt "Doctor.gerundLabel"
+msgid "doctoring"
+msgstr "ﺭﻮﺘﻛﺩ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:37
+#, fuzzy
+msgctxt "Doctor.description"
+msgid ""
+"Treat the sick, bring them food, cheer them up, and perform assigned "
+"surgeries. Doctors will care for both colonists and prisoners."
+msgstr ""
+".ءﺎﻨﺠﺴﻟﺍﻭ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻦﻣ ﻞﻛ ﺔﻳﺎﻋﺮﺑ ءﺎﺒﻃﻷﺍ ﻡﻮﻘﻴﺳ .ﻢﻬﻟ ﺔﺼﺼﺨﻤﻟﺍ ﺔﻴﺣﺍﺮﺠﻟﺍ "
+"ﺕﺎﻴﻠﻤﻌﻟﺍ ءﺍﺮﺟﺇﻭ ﻢﻬﻴﻠﻋ ﺔﺠﻬﺒﻟﺍ ﻝﺎﺧﺩﺇﻭ ﻢﻬﻟ ﻡﺎﻌﻄﻟﺍ ﺭﺎﻀﺣﺇﻭ ﻰﺿﺮﻤﻟﺍ ﺝﻼﻋ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:38
+#, fuzzy
+msgctxt "Doctor.verb"
+msgid "Care for"
+msgstr "ﺔﻳﺎﻋﺭ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:52
+#, fuzzy
+msgctxt "PatientBedRest.labelShort"
+msgid "bed rest"
+msgstr "ﺮﻳﺮﺴﻟﺍ ﻰﻠﻋ ﺔﺣﺍﺭ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:53
+#, fuzzy
+msgctxt "PatientBedRest.pawnLabel"
+msgid "Bed rester"
+msgstr "ﺮﻳﺮﺴﻟﺍ ﺔﺣﺍﺮﺘﺳﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:54
+#, fuzzy
+msgctxt "PatientBedRest.gerundLabel"
+msgid "resting in bed"
+msgstr "ﺮﻳﺮﺴﻟﺍ ﻲﻓ ﺢﻳﺮﺘﺴﻳ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:55
+#, fuzzy
+msgctxt "PatientBedRest.description"
+msgid ""
+"Rest in bed to recuperate from not-immediately-life-threatening medical "
+"problems."
+msgstr ""
+".ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﺓﺎﻴﺤﻟﺍ ﺩﺪﻬﺗ ﻻ ﻲﺘﻟﺍ ﺔﻴﺒﻄﻟﺍ ﻞﻛﺎﺸﻤﻟﺍ ﻦﻣ ﻲﻓﺎﻌﺘﻠﻟ ﺮﻳﺮﺴﻟﺍ ﻲﻓ ﺔﺣﺍﺮﻟﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:56
+#, fuzzy
+msgctxt "PatientBedRest.verb"
+msgid "Become patient"
+msgstr "ﺍﺭﻮﺒﺻ ﻦﻛ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:63
+#, fuzzy
+msgctxt "BasicWorker.labelShort"
+msgid "basic"
+msgstr "ﻲﺳﺎﺳﺃ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:64
+#, fuzzy
+msgctxt "BasicWorker.pawnLabel"
+msgid "Worker"
+msgstr "ﻞﻣﺎﻋ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:65
+#, fuzzy
+msgctxt "BasicWorker.gerundLabel"
+msgid "dealing with"
+msgstr "ﻊﻣ ﻕﺎﻔﺗﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:66
+#, fuzzy
+msgctxt "BasicWorker.description"
+msgid ""
+"Unskilled and easy tasks. Release prisoners and flick switches on machines."
+msgstr ""
+"ﺓﺰﻬﺟﻷﺍ ﻕﻼﻏﺍﻭ ﺢﺘﻔﺑ ﻢﻗﻭ ءﺎﻨﺠﺴﻟﺍ ﺡﺍﺮﺳ ﻖﻠﻃﺃ .ﺔﻠﻬﺴﻟﺍﻭ ﺓﺭﺎﻬﻣ ﺐﻠﻄﺘﺗ ﻻ ﻲﺘﻟﺍ ﻡﺎﻬﻤﻟﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:67
+#, fuzzy
+msgctxt "BasicWorker.verb"
+msgid "Deal with"
+msgstr "ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:78
+#, fuzzy
+msgctxt "Warden.labelShort"
+msgid "warden"
+msgstr "ﺮﻣﺁ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:79
+#, fuzzy
+msgctxt "Warden.pawnLabel"
+msgid "Warden"
+msgstr "ﺮﻣﺁ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:80
+#, fuzzy
+msgctxt "Warden.gerundLabel"
+msgid "wardening"
+msgstr "ﺔﺒﻗﺍﺮﻣ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:81
+#, fuzzy
+msgctxt "Warden.description"
+msgid "Manage, feed, chat with, and recruit prisoners."
+msgstr ".ءﺎﻨﺠﺴﻟﺍ ﺪﻴﻨﺠﺗﻭ ﻊﻣ ﺔﺷﺩﺭﺪﻟﺍﻭ ﻡﺎﻌﻃﺇﻭ ﺓﺭﺍﺩﺇ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:82
+#, fuzzy
+msgctxt "Warden.verb"
+msgid "Handle"
+msgstr "ﺾﺒﻘﻣ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:97
+#, fuzzy
+msgctxt "Handling.labelShort"
+msgid "handle"
+msgstr "ﺾﺒﻘﻣ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:98
+#, fuzzy
+msgctxt "Handling.pawnLabel"
+msgid "Handler"
+msgstr "ﺞﻟﺎﻌﻣ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:99
+#, fuzzy
+msgctxt "Handling.gerundLabel"
+msgid "handling"
+msgstr "ﺔﺠﻟﺎﻌﻣ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:100
+#, fuzzy
+msgctxt "Handling.description"
+msgid "Tame, train, harvest resources from and slaughter animals."
+msgstr ".ﺎﻬﺤﺑﺫﻭ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻦﻣ ﺩﺭﺍﻮﻤﻟﺍ ﺩﺎﺼﺣﻭ ﺐﻳﺭﺪﺗﻭ ﺾﻳﻭﺮﺗ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:101
+#, fuzzy
+msgctxt "Handling.verb"
+msgid "Handle"
+msgstr "ﺾﺒﻘﻣ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:115
+#, fuzzy
+msgctxt "Cooking.labelShort"
+msgid "cook"
+msgstr "ﺦﺒﻄﻳ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:116
+#, fuzzy
+msgctxt "Cooking.pawnLabel"
+msgid "Cook"
+msgstr "ﺦﺒﻄﻳ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:117
+#, fuzzy
+msgctxt "Cooking.gerundLabel"
+msgid "cooking"
+msgstr "ﺦﺒﻃ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:118
+#, fuzzy
+msgctxt "Cooking.description"
+msgid "Prepare meals and butcher meat."
+msgstr "TODO"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:119
+#, fuzzy
+msgctxt "Cooking.verb"
+msgid "Cook"
+msgstr "ﺦﺒﻄﻳ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:134
+#, fuzzy
+msgctxt "Hunting.labelShort"
+msgid "hunt"
+msgstr "ﺓﺩﺭﺎﻄﻣ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:135
+#, fuzzy
+msgctxt "Hunting.pawnLabel"
+msgid "Hunter"
+msgstr "ﺩﺎﻴﺻ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:136
+#, fuzzy
+msgctxt "Hunting.gerundLabel"
+msgid "hunting"
+msgstr "ﺪﻴﺼﻟﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:137
+#, fuzzy
+msgctxt "Hunting.description"
+msgid "Kill animals which are designated to be hunted."
+msgstr ".ﺪﻴﺼﻠﻟ ﺔﺼﺼﺨﻤﻟﺍ ﺕﺎﻧﺍﻮﻴﺤﻟﺍ ﻞﺘﻗ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:138
+#, fuzzy
+msgctxt "Hunting.verb"
+msgid "Hunt"
+msgstr "ﺓﺩﺭﺎﻄﻣ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:156
+#, fuzzy
+msgctxt "Construction.labelShort"
+msgid "construct"
+msgstr "ءﺎﻨﺑ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:157
+#, fuzzy
+msgctxt "Construction.pawnLabel"
+msgid "Constructor"
+msgstr "ءﺎﻨﺒﻟﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:158
+#, fuzzy
+msgctxt "Construction.gerundLabel"
+msgid "constructing"
+msgstr "ءﺎﻨﺑ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:159
+#, fuzzy
+msgctxt "Construction.description"
+msgid ""
+"Build things that you've designated, and fix damaged or broken-down "
+"buildings."
+msgstr "TODO"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:160
+#, fuzzy
+msgctxt "Construction.verb"
+msgid "Construct"
+msgstr "ءﺎﻨﺑ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:176
+#, fuzzy
+msgctxt "Growing.labelShort"
+msgid "grow"
+msgstr "ﻮﻤﻨﻳ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:177
+#, fuzzy
+msgctxt "Growing.pawnLabel"
+msgid "Grower"
+msgstr "ﻉﺭﺍﺰﻟﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:178
+#, fuzzy
+msgctxt "Growing.gerundLabel"
+msgid "growing"
+msgstr "ﺪﻳﺍﺰﺗ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:179
+#, fuzzy
+msgctxt "Growing.description"
+msgid "Plant seeds, harvest crops, and forage for wild plants."
+msgstr ".ﺔﻳﺮﺒﻟﺍ ﺕﺎﺗﺎﺒﻨﻠﻟ ﻑﻼﻋﻷﺍﻭ ،ﺩﺎﺼﺤﻟﺍ ﻞﻴﺻﺎﺤﻣﻭ ،ﺕﺎﺗﺎﺒﻨﻟﺍ ﺭﻭﺬﺑ."
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:180
+#, fuzzy
+msgctxt "Growing.verb"
+msgid "Grow"
+msgstr "ﻮﻤﻨﻳ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:196
+#, fuzzy
+msgctxt "Mining.labelShort"
+msgid "mine"
+msgstr "ﻢﺠﻨﻣ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:197
+#, fuzzy
+msgctxt "Mining.pawnLabel"
+msgid "Miner"
+msgstr "ﻢﺠﻨﻣ ﻞﻣﺎﻋ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:198
+#, fuzzy
+msgctxt "Mining.gerundLabel"
+msgid "mining"
+msgstr "ﻦﻳﺪﻌﺘﻟﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:199
+#, fuzzy
+msgctxt "Mining.description"
+msgid "Digging and drilling."
+msgstr "TODO"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:200
+#, fuzzy
+msgctxt "Mining.verb"
+msgid "Mine"
+msgstr "ﻢﺠﻨﻣ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:216
+#, fuzzy
+msgctxt "PlantCutting.labelShort"
+msgid "plant cut"
+msgstr "ﺕﺎﺒﻨﻟﺍ ﻊﻄﻗ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:217
+#, fuzzy
+msgctxt "PlantCutting.pawnLabel"
+msgid "Plant cutter"
+msgstr "ﺕﺎﺗﺎﺒﻧ ﺔﻌﻃﺎﻗ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:218
+#, fuzzy
+msgctxt "PlantCutting.gerundLabel"
+msgid "plant cutting"
+msgstr "ﺕﺎﺒﻨﻟﺍ ﻊﻄﻗ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:219
+#, fuzzy
+msgctxt "PlantCutting.description"
+msgid "Cut or harvest plants as designated."
+msgstr ".ﺩﺪﺤﻤﻟﺍ ﻮﺤﻨﻟﺍ ﻰﻠﻋ ﺕﺎﺗﺎﺒﻨﻟﺍ ﺩﺎﺼﺣ ﻭﺃ ﻊﻄﻗ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:220
+#, fuzzy
+msgctxt "PlantCutting.verb"
+msgid "Cut"
+msgstr "ﻊﻄﻘﻳ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:236
+#, fuzzy
+msgctxt "Smithing.labelShort"
+msgid "smith"
+msgstr "ﺩﺍﺪﺣ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:237
+#, fuzzy
+msgctxt "Smithing.pawnLabel"
+msgid "Smith"
+msgstr "ﺩﺍﺪﺣ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:238
+#, fuzzy
+msgctxt "Smithing.gerundLabel"
+msgid "smithing"
+msgstr "ﺓﺩﺍﺪﺣ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:239
+#, fuzzy
+msgctxt "Smithing.description"
+msgid ""
+"Create weapons and tools from raw materials, either as a blacksmith or by "
+"machining."
+msgstr "TODO"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:240
+#, fuzzy
+msgctxt "Smithing.verb"
+msgid "Smith at"
+msgstr "ﻲﻓ ﺓﺩﺍﺪﺣ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:255
+#, fuzzy
+msgctxt "Tailoring.labelShort"
+msgid "tailor"
+msgstr "ﻁﺎﻴﺧ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:256
+#, fuzzy
+msgctxt "Tailoring.pawnLabel"
+msgid "Tailor"
+msgstr "ﻁﺎﻴﺧ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:257
+#, fuzzy
+msgctxt "Tailoring.gerundLabel"
+msgid "tailoring"
+msgstr "ﺔﻃﺎﻴﺨﻟﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:258
+#, fuzzy
+msgctxt "Tailoring.description"
+msgid "Create apparel from raw materials."
+msgstr ".ﻡﺎﺨﻟﺍ ﺩﺍﻮﻤﻟﺍ ﻦﻣ ﺲﺑﻼﻤﻟﺍ ﻊﻨﺻ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:259
+#, fuzzy
+msgctxt "Tailoring.verb"
+msgid "Tailor at"
+msgstr "ﻲﻓ ﺔﻃﺎﻴﺧ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:274
+#, fuzzy
+msgctxt "Art.labelShort"
+msgid "art"
+msgstr "ﻥﺎﻨﻓ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:275
+#, fuzzy
+msgctxt "Art.pawnLabel"
+msgid "Artist"
+msgstr "ﻥﺎﻨﻓ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:276
+#, fuzzy
+msgctxt "Art.gerundLabel"
+msgid "art"
+msgstr "ﻦﻓ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:277
+#, fuzzy
+msgctxt "Art.description"
+msgid "Create beautiful works of art from raw materials."
+msgstr ".ﺔﻠﻴﻤﺟ ﻻﺎﻤﻋﺃ ﻥﻮﻌﻨﺼﻳ ﻥﻮﻧﺎﻨﻔﻟﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:278
+#, fuzzy
+msgctxt "Art.verb"
+msgid "Do art at"
+msgstr "ﻼﻤﻋ ﻊﻨﺻﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:293
+#, fuzzy
+msgctxt "Crafting.labelShort"
+msgid "craft"
+msgstr "ﺔﻓﺮﺣ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:294
+#, fuzzy
+msgctxt "Crafting.pawnLabel"
+msgid "Crafter"
+msgstr "ﻲﻓﺮﺤﻟﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:295
+#, fuzzy
+msgctxt "Crafting.gerundLabel"
+msgid "crafting"
+msgstr "ﺔﻏﺎﻴﺻ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:296
+#, fuzzy
+msgctxt "Crafting.description"
+msgid ""
+"Do general low-skilled labor at work stations. This includes stonecutting, "
+"smelting, and more."
+msgstr "TODO"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:297
+#, fuzzy
+msgctxt "Crafting.verb"
+msgid "Craft at"
+msgstr "ﻲﻓ ﺔﻏﺎﻴﺻ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:313
+#, fuzzy
+msgctxt "Hauling.labelShort"
+msgid "haul"
+msgstr "ﺐﺤﺳ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:314
+#, fuzzy
+msgctxt "Hauling.pawnLabel"
+msgid "Hauler"
+msgstr "ﻞﻘﻨﻟﺍ ﺪﻬﻌﺘﻣ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:315
+#, fuzzy
+msgctxt "Hauling.gerundLabel"
+msgid "hauling"
+msgstr "ﻥﻮﻠﻘﻨﻳ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:316
+#, fuzzy
+msgctxt "Hauling.description"
+msgid "Carry things to where they need to be."
+msgstr ".ﻥﻮﻜﺗ ﻥﺃ ﺐﺠﻳ ﺚﻴﺣ ﻰﻟﺇ ءﺎﻴﺷﻷﺍ ﻞﻤﺣﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:317
+#, fuzzy
+msgctxt "Hauling.verb"
+msgid "Haul"
+msgstr "ﺐﺤﺳ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:331
+#, fuzzy
+msgctxt "Cleaning.labelShort"
+msgid "clean"
+msgstr "ينظف"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:332
+#, fuzzy
+msgctxt "Cleaning.pawnLabel"
+msgid "Cleaner"
+msgstr "منظف"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:333
+#, fuzzy
+msgctxt "Cleaning.gerundLabel"
+msgid "cleaning"
+msgstr "تنظيف"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:334
+#, fuzzy
+msgctxt "Cleaning.description"
+msgid "Clear snow and clean the floor in the home area."
+msgstr "قم بإزالة الثلج وتنظيف الأرضية في منطقة المنزل."
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:335
+#, fuzzy
+msgctxt "Cleaning.verb"
+msgid "Clean"
+msgstr "ينظف"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:349
+#, fuzzy
+msgctxt "Research.labelShort"
+msgid "research"
+msgstr "ﺚﺤﺑ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:350
+#, fuzzy
+msgctxt "Research.pawnLabel"
+msgid "Researcher"
+msgstr "ﺚﺣﺎﺒﻟﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:351
+#, fuzzy
+msgctxt "Research.gerundLabel"
+msgid "researching"
+msgstr "ﺚﺤﺒﻟﺍ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:352
+#, fuzzy
+msgctxt "Research.description"
+msgid "Perform research work."
+msgstr ".ﻲﺜﺤﺒﻟﺍ ﻞﻤﻌﻟﺍ ءﺍﺩﺃ"
+
+#: Defs/WorkTypeDefs/WorkTypes.xml:353
+#, fuzzy
+msgctxt "Research.verb"
+msgid "Research at"
+msgstr "TODO"

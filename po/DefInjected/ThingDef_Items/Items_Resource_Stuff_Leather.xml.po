@@ -1,0 +1,276 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:45
+#, fuzzy
+msgctxt "Leather_Plain.label"
+msgid "plainleather"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:57
+#, fuzzy
+msgctxt "Leather_Dog.label"
+msgid "dog leather"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:73
+#, fuzzy
+msgctxt "Leather_Wolf.label"
+msgid "wolfskin"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:74
+#, fuzzy
+msgctxt "Leather_Wolf.description"
+msgid ""
+"A soft furry pelt harvested from a wolf-like creature. It is difficult to "
+"pierce and insulates well against cold."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:95
+#, fuzzy
+msgctxt "Leather_Panthera.label"
+msgid "panthera fur"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:96
+#, fuzzy
+msgctxt "Leather_Panthera.description"
+msgid ""
+"A soft furry pelt harvested from a big cat. It is difficult to pierce and "
+"insulates well against heat."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:117
+#, fuzzy
+msgctxt "Leather_Camel.label"
+msgid "camelhide"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:118
+#, fuzzy
+msgctxt "Leather_Camel.description"
+msgid ""
+"Tanned, dried, scraped camel skin. Good at temperature regulation in hot "
+"climates."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:137
+#, fuzzy
+msgctxt "Leather_Bluefur.label"
+msgid "bluefur"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:138
+#, fuzzy
+msgctxt "Leather_Bluefur.description"
+msgid ""
+"The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good "
+"at temperature regulation in cold climates."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:158
+#, fuzzy
+msgctxt "Leather_Bear.label"
+msgid "bearskin"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:159
+#, fuzzy
+msgctxt "Leather_Bear.description"
+msgid ""
+"The strong furry leather of a bear. Compared to most leather, it is quite a "
+"bit tougher and a bit better at all kinds of temperature regulation."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:181
+msgctxt "Leather_GuineaPig.label"
+msgid "guinea pig fur"
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:182
+msgctxt "Leather_GuineaPig.description"
+msgid "Sheets of guinea pig fur. It is delicate, but luxurious."
+msgstr ""
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:208
+#, fuzzy
+msgctxt "Leather_Human.label"
+msgid "human leather"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:209
+#, fuzzy
+msgctxt "Leather_Human.description"
+msgid ""
+"Tanned, dried, scraped human skin. Most people find this material "
+"horrifying. Some find it fascinating. While a decent leather, it neither "
+"protects nor insulates particularly well."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:227
+#, fuzzy
+msgctxt "Leather_Pig.label"
+msgid "pigskin"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:228
+#, fuzzy
+msgctxt "Leather_Pig.description"
+msgid ""
+"Tanned, dried, scraped pig skin. While a decent leather, it neither protects"
+" nor insulates particularly well."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:248
+#, fuzzy
+msgctxt "Leather_Light.label"
+msgid "lightleather"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:249
+#, fuzzy
+msgctxt "Leather_Light.description"
+msgid ""
+"Lightweight, thin leather. Probably harvested from a small animal. Not as "
+"protective as thicker leathers."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:271
+#, fuzzy
+msgctxt "Leather_Bird.label"
+msgid "birdskin"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:272
+#, fuzzy
+msgctxt "Leather_Bird.description"
+msgid ""
+"Tanned, dried, scraped bird skin. It is quite delicate. Without its "
+"feathers, it provides little protection from heat or cold."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:294
+#, fuzzy
+msgctxt "Leather_Chinchilla.label"
+msgid "chinchilla fur"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:295
+#, fuzzy
+msgctxt "Leather_Chinchilla.description"
+msgid ""
+"Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and "
+"insulating fur, it is exceptionally valuable."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:318
+#, fuzzy
+msgctxt "Leather_Fox.label"
+msgid "foxfur"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:319
+#, fuzzy
+msgctxt "Leather_Fox.description"
+msgid ""
+"The pelt of a fox. It protects well from the cold and is quite luxurious, "
+"fetching a high price."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:341
+#, fuzzy
+msgctxt "Leather_Lizard.label"
+msgid "lizardskin"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:342
+#, fuzzy
+msgctxt "Leather_Lizard.description"
+msgid ""
+"The tanned skin of a cold-blooded reptile. Lizardskin is reasonably tough, "
+"but does not insulate well at all."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:367
+#, fuzzy
+msgctxt "Leather_Elephant.label"
+msgid "elephant leather"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:368
+#, fuzzy
+msgctxt "Leather_Elephant.description"
+msgid ""
+"Tanned, dried, scraped elephant skin. While quite tough, it is a poor "
+"insulator."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:390
+#, fuzzy
+msgctxt "Leather_Heavy.label"
+msgid "heavy fur"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:391
+#, fuzzy
+msgctxt "Leather_Heavy.description"
+msgid ""
+"Thick leather covered in a long, rugged mat of fur. Harvested from a large, "
+"hardy animal. This thick skin insulates and protects very well."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:413
+#, fuzzy
+msgctxt "Leather_Rhinoceros.label"
+msgid "rhinoceros leather"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:414
+#, fuzzy
+msgctxt "Leather_Rhinoceros.description"
+msgid ""
+"Tanned, dried, scraped rhinocerous skin. It is exceptionally durable in "
+"combat, but provides little protection from weather."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:438
+#, fuzzy
+msgctxt "Leather_Thrumbo.label"
+msgid "thrumbofur"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:439
+#, fuzzy
+msgctxt "Leather_Thrumbo.description"
+msgid ""
+"Furry pelt of a thrumbo. Luxurious and extraordinarily durable. Used for the"
+" highest-quality crafts for its insulation and strength."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:464
+#, fuzzy
+msgctxt "Leather_Patch.label"
+msgid "patchleather"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Items/Items_Resource_Stuff_Leather.xml:465
+#, fuzzy
+msgctxt "Leather_Patch.description"
+msgid ""
+"A weak textile created by cutting up and sewing together various types of "
+"leathers. Regardless of what kind of leather is used to create it, "
+"patchleather's irregular seams make it less tough and less insulating than "
+"any intact leather."
+msgstr "TODO"

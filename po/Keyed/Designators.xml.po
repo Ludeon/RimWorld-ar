@@ -1,0 +1,861 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compendium:4
+#, fuzzy
+msgctxt "DesignatorCancel"
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: compendium:5
+#, fuzzy
+msgctxt "DesignatorCancelDesc"
+msgid ""
+"Cancel designated building, mining, hauling, harvesting, and all other "
+"designations."
+msgstr ""
+"إلغاء مؤشرات اوامر البناء, الحفر, النقل, الحصاد و كل مؤشرات الاوامر الاخرى."
+
+#: compendium:7
+#, fuzzy
+msgctxt "DesignatorCutPlants"
+msgid "Cut plants"
+msgstr "قطع النبات"
+
+#: compendium:8
+#, fuzzy
+msgctxt "DesignatorCutPlantsDesc"
+msgid ""
+"Marks plants to be cut and destroyed. The plant will be completely removed, "
+"and any food or resource yield will be harvested."
+msgstr ""
+"إتأشير النبتة للقص. سيتم قص النبتة و إزالتها, اي نبتة تحوي على غذاء سيتم "
+"حصدها."
+
+#: compendium:10
+#, fuzzy
+msgctxt "DesignatorDeconstruct"
+msgid "Deconstruct"
+msgstr "هدم"
+
+#: compendium:11
+#, fuzzy
+msgctxt "DesignatorDeconstructDesc"
+msgid "Deconstruct this and reclaim part of its resources."
+msgstr ""
+"تأشير بناء أو اثاث للهدم. سيتم استرداد بعض المواد التي استخدمت في صناعته."
+
+#: compendium:13
+#, fuzzy
+msgctxt "DesignatorUninstall"
+msgid "Uninstall"
+msgstr "Uninstall"
+
+#: compendium:14
+#, fuzzy
+msgctxt "DesignatorUninstallDesc"
+msgid "Uninstall this so it can be moved, sold, or installed somewhere else."
+msgstr "Uninstall this so it can be moved, sold, or installed somewhere else."
+
+#: compendium:16
+msgctxt "DesignatorExtractTree"
+msgid "Extract tree"
+msgstr ""
+
+#: compendium:17
+msgctxt "DesignatorExtractTreeDesc"
+msgid ""
+"Extract this tree while keeping it alive so it can be replanted somewhere "
+"else."
+msgstr ""
+
+#: compendium:19
+#, fuzzy
+msgctxt "DesignatorHarvest"
+msgid "Harvest"
+msgstr "حصاد"
+
+#: compendium:20
+#, fuzzy
+msgctxt "DesignatorHarvestDesc"
+msgid "Marks plants to be harvested for their food or other products."
+msgstr ""
+"تاشير النتة للحصاد. سيتم الحصول على الغذاء من النبتة إن أمكن, لكن لن يتم "
+"إزالة النبتة."
+
+#: compendium:22
+#, fuzzy
+msgctxt "DesignatorHarvestWood"
+msgid "Chop wood"
+msgstr "قطع الخشب"
+
+#: compendium:23
+#, fuzzy
+msgctxt "DesignatorHarvestWoodDesc"
+msgid "Marks trees to be chopped down for wood."
+msgstr "تاشير الاشجار ليتم قطعها من أجل الخشب."
+
+#: compendium:25
+#, fuzzy
+msgctxt "DesignatorHaulThings"
+msgid "Haul things"
+msgstr "نقل"
+
+#: compendium:26
+#, fuzzy
+msgctxt "DesignatorHaulThingsDesc"
+msgid ""
+"Mark rock chunks and other items to be hauled to dumping areas. Not needed "
+"for things like food or corpses, which are always haulable."
+msgstr ""
+"تأشير الركام و أشياء أخرى ليتم نقلها إلى المكبات. لا ينطبق هذا الامر على "
+"الجثث أو الطعام حيث يتم نقلها دائما."
+
+#: compendium:27
+#, fuzzy
+msgctxt "MustHaulHaulables"
+msgid ""
+"Can only designate haulable but non-always-hauled things (like rock chunks)."
+msgstr "يمكن فقط تحديد الأشياء التي لا يتم نقلها تلقائيا كالركام."
+
+#: compendium:29
+#, fuzzy
+msgctxt "DesignatorHunt"
+msgid "Hunt"
+msgstr "صيد"
+
+#: compendium:30
+#, fuzzy
+msgctxt "DesignatorHuntDesc"
+msgid "Mark animals to be hunted by your hunters."
+msgstr "تاشير الحيوانات ليتم صيدها من قبل الصيادين."
+
+#: compendium:32
+#, fuzzy
+msgctxt "DesignatorMine"
+msgid "Mine"
+msgstr "حفر"
+
+#: compendium:33
+#, fuzzy
+msgctxt "DesignatorMineDesc"
+msgid "Designate areas of rock to be mined out."
+msgstr "تاشير مناطق من الصخر ليتم حفرها."
+
+#: compendium:35
+msgctxt "DesignatorMineVein"
+msgid "Mine vein"
+msgstr ""
+
+#: compendium:36
+msgctxt "DesignatorMineVeinDesc"
+msgid ""
+"Designate an area of rock to be mined. Colonists will continue to mine until"
+" all connected rock of the same type has been mined."
+msgstr ""
+
+#: compendium:38
+#, fuzzy
+msgctxt "DesignatorSmoothSurface"
+msgid "Smooth surface"
+msgstr "TODO"
+
+#: compendium:39
+#, fuzzy
+msgctxt "DesignatorSmoothSurfaceDesc"
+msgid "Designate rough stone terrain and walls to be smoothed."
+msgstr "TODO"
+
+#: compendium:40
+msgctxt "DesignatorSmoothWalls"
+msgid "Smooth walls"
+msgstr ""
+
+#: compendium:41
+msgctxt "DesignatorSmoothWallsDesc"
+msgid "Designate rough stone walls to be smoothed."
+msgstr ""
+
+#: compendium:42
+msgctxt "DesignatorSmoothFloors"
+msgid "Smooth terrain"
+msgstr ""
+
+#: compendium:43
+msgctxt "DesignatorSmoothFloorsDesc"
+msgid "Designate rough stone terrain to be smoothed."
+msgstr ""
+
+#: compendium:45
+#, fuzzy
+msgctxt "DesignatorPlan"
+msgid "Plan"
+msgstr "تخطيط"
+
+#: compendium:46
+#, fuzzy
+msgctxt "DesignatorPlanDesc"
+msgid ""
+"Place planning designations. These don't do anything except help you plan "
+"future expansions."
+msgstr ""
+"وضع مؤشرات تخطيط. هذه المؤشرات لا تعمل شيئا سوى مساعدتك في تخطيط مناطق "
+"البناء المستقبلية."
+
+#: compendium:48
+#, fuzzy
+msgctxt "DesignatorPlanRemove"
+msgid "Remove plans"
+msgstr "إزالة التخطيط"
+
+#: compendium:49
+#, fuzzy
+msgctxt "DesignatorPlanRemoveDesc"
+msgid "Remove planning designations."
+msgstr "إزالة مؤشرات التخطيط."
+
+#: compendium:51
+#, fuzzy
+msgctxt "DesignatorForbid"
+msgid "Forbid"
+msgstr "TODO"
+
+#: compendium:52
+#, fuzzy
+msgctxt "DesignatorForbidDesc"
+msgid ""
+"Mark items as forbidden. Colonists will not be able to interact with the "
+"designated items."
+msgstr "TODO"
+
+#: compendium:54
+#, fuzzy
+msgctxt "DesignatorUnforbid"
+msgid "Allow"
+msgstr "TODO"
+
+#: compendium:55
+#, fuzzy
+msgctxt "DesignatorUnforbidDesc"
+msgid ""
+"Mark items as not forbidden. Colonists will be able to interact with the "
+"designated items."
+msgstr "TODO"
+
+#: compendium:57
+#, fuzzy
+msgctxt "DesignatorAreaHomeExpand"
+msgid "Expand home area"
+msgstr "Expand home area"
+
+#: compendium:58
+#, fuzzy
+msgctxt "DesignatorAreaHomeExpandDesc"
+msgid ""
+"Colonists will repair buildings, clean floors, and extinguish fires only in "
+"the home area."
+msgstr ""
+"Colonists will repair buildings, clean floors, and extinguish fires only in "
+"the home area."
+
+#: compendium:59
+#, fuzzy
+msgctxt "DesignatorAreaHomeClear"
+msgid "Clear home area"
+msgstr "Clear home area"
+
+#: compendium:60
+#, fuzzy
+msgctxt "DesignatorAreaHomeClearDesc"
+msgid ""
+"Removes a home area. Colonists will no longer clean, repair, or extinguish "
+"fires here."
+msgstr ""
+"Removes a home area. Colonists will no longer clean, repair, or extinguish "
+"fires here."
+
+#: compendium:62
+#, fuzzy
+msgctxt "DesignatorAreaBuildRoofExpand"
+msgid "Build roof area"
+msgstr "Expand build roof area"
+
+#: compendium:63
+#, fuzzy
+msgctxt "DesignatorAreaBuildRoofExpandDesc"
+msgid "Colonists will build roofs in this area."
+msgstr "Colonists will build roofs in this area."
+
+#: compendium:65
+#, fuzzy
+msgctxt "DesignatorAreaNoRoofExpand"
+msgid "Remove roof area"
+msgstr "Expand no roof area"
+
+#: compendium:66
+#, fuzzy
+msgctxt "DesignatorAreaNoRoofExpandDesc"
+msgid ""
+"Colonists will remove roofs in this area (except overhead mountain, which "
+"cannot be removed)."
+msgstr ""
+"Colonists will remove roofs in this area (except overhead mountain, which "
+"cannot be removed)."
+
+#: compendium:68
+#, fuzzy
+msgctxt "DesignatorAreaIgnoreRoofExpand"
+msgid "Ignore roof area"
+msgstr "TODO"
+
+#: compendium:69
+#, fuzzy
+msgctxt "DesignatorAreaIgnoreRoofExpandDesc"
+msgid "Colonists will ignore roofs in this area."
+msgstr "TODO"
+
+#: compendium:71
+#, fuzzy
+msgctxt "DesignatorAreaSnowClearExpand"
+msgid "Snow removal area"
+msgstr "Expand snow clear area"
+
+#: compendium:72
+#, fuzzy
+msgctxt "DesignatorAreaSnowClearExpandDesc"
+msgid "Create an area which colonists will try to keep clear of snow."
+msgstr "Create a area which colonists will try to keep clear of snow."
+
+#: compendium:73
+#, fuzzy
+msgctxt "DesignatorAreaSnowClearClear"
+msgid "Clear snow removal area"
+msgstr "Clear snow clear Area"
+
+#: compendium:74
+#, fuzzy
+msgctxt "DesignatorAreaSnowClearClearDesc"
+msgid ""
+"Removes a snow removal area. Colonists will no longer try to keep this area "
+"clear of snow."
+msgstr ""
+"Removes a snow clearing area. Colonists will no longer try to keep this area"
+" clear of snow."
+
+#: compendium:76
+#, fuzzy
+msgctxt "DesignatorExpandAreaAllowed"
+msgid "Expand allowed area"
+msgstr "Expand allowed area"
+
+#: compendium:77
+#, fuzzy
+msgctxt "DesignatorExpandAreaAllowedDesc"
+msgid ""
+"Expand an allowed area.\\n\\nAllowed areas are defined areas you can assign "
+"to colonists. Colonists will not accept work or fulfill their needs outside "
+"their allowed area."
+msgstr ""
+"Expand an allowed area.\\n\\nAllowed areas are defined areas you can assign "
+"to colonists. Colonists will not accept work or fulfill their needs outside "
+"their allowed area."
+
+#: compendium:78
+#, fuzzy
+msgctxt "DesignatorClearAreaAllowed"
+msgid "Clear allowed area"
+msgstr "Clear allowed area"
+
+#: compendium:79
+#, fuzzy
+msgctxt "DesignatorClearAreaAllowedDesc"
+msgid ""
+"Clear cells from an allowed area.\\n\\nAllowed area are defined areas you "
+"can assign to colonists. Colonists will not accept work or fulfill their "
+"needs outside their allowed area."
+msgstr ""
+"Clear cells from an allowed area.\\n\\nAllowed area are defined areas you "
+"can assign to colonists. Colonists will not accept work or fulfill their "
+"needs outside their allowed area."
+
+#: compendium:80
+#, fuzzy
+msgctxt "ManageAreas"
+msgid "Manage areas..."
+msgstr "Manage areas..."
+
+#: compendium:81
+msgctxt "ManageAutoSlaughter"
+msgid "Manage auto-slaughter..."
+msgstr ""
+
+#: compendium:83
+#, fuzzy
+msgctxt "DesignatorGrowingZoneDesc"
+msgid ""
+"Create a zone where your colonists will try to grow a certain kind of plant."
+msgstr ""
+"Create a zone where your colonists will try to grow a certain kind of plant."
+
+#: compendium:85
+#, fuzzy
+msgctxt "DesignatorZoneCreateStorageResourcesDesc"
+msgid ""
+"Create a stockpile where your colonists will store resources.\\nThis tool "
+"can also expand any existing stockpile."
+msgstr ""
+"Create a stockpile where your colonists will store resources.\\nThis tool "
+"can also expand any existing stockpile."
+
+#: compendium:87
+#, fuzzy
+msgctxt "DesignatorZoneCreateStorageDumpingDesc"
+msgid ""
+"Create a stockpile where your colonists will store junk.\\nThis tool can "
+"also expand any existing stockpile."
+msgstr ""
+"Create a stockpile where your colonists will store junk.\\nThis tool can "
+"also expand any existing stockpile."
+
+#: compendium:89
+#, fuzzy
+msgctxt "DesignatorZoneDelete"
+msgid "Shrink zones"
+msgstr "Delete zones"
+
+#: compendium:90
+#, fuzzy
+msgctxt "DesignatorZoneDeleteSingular"
+msgid "Shrink zone"
+msgstr "TODO"
+
+#: compendium:91
+#, fuzzy
+msgctxt "DesignatorZoneDeleteDesc"
+msgid "Remove zones, like stockpile zones or growing zones."
+msgstr "Remove zones, like stockpile zones or growing zones."
+
+#: compendium:93
+#, fuzzy
+msgctxt "DesignatorZoneExpand"
+msgid "Expand zone"
+msgstr "TODO"
+
+#: compendium:95
+#, fuzzy
+msgctxt "DesignatorClaim"
+msgid "Claim"
+msgstr "Claim"
+
+#: compendium:96
+#, fuzzy
+msgctxt "DesignatorClaimDesc"
+msgid ""
+"Claim neutral structures for the colony, including ancient ruins and "
+"abandoned siege bases. Claimed structures can be repaired and maintained by "
+"your colonists."
+msgstr ""
+"Claim neutral structures for the colony, including ancient ruins and "
+"abandoned siege bases. Claimed structures can be repaired and maintained by "
+"your colonists."
+
+#: compendium:98
+#, fuzzy
+msgctxt "DesignatorRemoveFloor"
+msgid "Remove floor"
+msgstr "Remove floor"
+
+#: compendium:99
+#, fuzzy
+msgctxt "DesignatorRemoveFloorDesc"
+msgid "Remove floors to reveal the terrain underneath."
+msgstr "Remove floors to reveal the terrain underneath."
+
+#: compendium:101
+#, fuzzy
+msgctxt "DesignatorRemoveBridge"
+msgid "Remove bridge"
+msgstr "TODO"
+
+#: compendium:102
+#, fuzzy
+msgctxt "DesignatorRemoveBridgeDesc"
+msgid "Remove bridges to reveal the terrain underneath."
+msgstr "TODO"
+
+#: compendium:104
+#, fuzzy
+msgctxt "DesignatorStrip"
+msgid "Strip"
+msgstr "Strip"
+
+#: compendium:105
+#, fuzzy
+msgctxt "DesignatorStripDesc"
+msgid "Strip apparel from corpses and the wounded."
+msgstr "Strip apparel from corpses and the wounded."
+
+#: compendium:107
+#, fuzzy
+msgctxt "DesignatorOpen"
+msgid "Open"
+msgstr "Open"
+
+#: compendium:108
+#, fuzzy
+msgctxt "DesignatorOpenDesc"
+msgid "Open containers."
+msgstr "Open full graves or containers."
+
+#: compendium:110
+#, fuzzy
+msgctxt "DesignatorSlaughter"
+msgid "Slaughter"
+msgstr "Slaughter"
+
+#: compendium:111
+#, fuzzy
+msgctxt "DesignatorSlaughterDesc"
+msgid "Slaughter a tame animal."
+msgstr "Slaughter a tame animal."
+
+#: compendium:113
+#, fuzzy
+msgctxt "DesignatorTame"
+msgid "Tame"
+msgstr "Tame"
+
+#: compendium:114
+#, fuzzy
+msgctxt "DesignatorTameDesc"
+msgid "Tame a wild animal."
+msgstr "Tame a wild animal."
+
+#: compendium:116
+msgctxt "DesignatorReleaseAnimalToWild"
+msgid "Release to wild"
+msgstr ""
+
+#: compendium:117
+msgctxt "DesignatorReleaseAnimalToWildDesc"
+msgid "Release an animal back into the wild."
+msgstr ""
+
+#: compendium:119
+msgctxt "DesignatorStudy"
+msgid "Study"
+msgstr ""
+
+#: compendium:120
+msgctxt "DesignatorStudyDesc"
+msgid "Study this object to learn more about it."
+msgstr ""
+
+#: compendium:122
+msgctxt "DesignatorPaintBuilding"
+msgid "Paint building..."
+msgstr ""
+
+#: compendium:123
+msgctxt "DesignatorPaintBuildingDesc"
+msgid ""
+"Designate walls and buildings to be painted using dye from tinctoria plants,"
+" which you can grow. Only certain buildings can be painted."
+msgstr ""
+
+#: compendium:124
+msgctxt "DesignatorPaintFloor"
+msgid "Paint floor..."
+msgstr ""
+
+#: compendium:125
+msgctxt "DesignatorPaintFloorDesc"
+msgid ""
+"Designate floors to be painted using dye from tinctoria plants, which you "
+"can grow. Only certain floors can be painted."
+msgstr ""
+
+#: compendium:127
+msgctxt "DesignatorRemovePaint"
+msgid "Remove paint"
+msgstr ""
+
+#: compendium:128
+msgctxt "DesignatorRemovePaintDesc"
+msgid "Remove paint from walls, buildings, and floors."
+msgstr ""
+
+#: compendium:129
+msgctxt "DesignatorRemoveFloorPaint"
+msgid "Remove floor paint"
+msgstr ""
+
+#: compendium:130
+msgctxt "DesignatorRemoveFloorPaintDesc"
+msgid "Remove paint from floors."
+msgstr ""
+
+#: compendium:131
+msgctxt "Paint"
+msgid "Paint"
+msgstr ""
+
+#: compendium:132
+msgctxt "Color"
+msgid "Color"
+msgstr ""
+
+#: compendium:134
+msgctxt "DesignatorEyedropper"
+msgid "Color picker"
+msgstr ""
+
+#: compendium:135
+msgctxt "GrabExistingColor"
+msgid "Grab existing color"
+msgstr ""
+
+#: compendium:136
+msgctxt "DesignatorEyeDropperDesc_Paint"
+msgid "Grab a color from an existing building."
+msgstr ""
+
+#: compendium:137
+msgctxt "DesignatorEyeDropperDesc_Carpet"
+msgid "Grab a color from an existing carpet."
+msgstr ""
+
+#: compendium:138
+msgctxt "SelectAPaintedBuilding"
+msgid "Select a painted building."
+msgstr ""
+
+#: compendium:139
+msgctxt "SelectColoredFloor"
+msgid "Select colored carpet."
+msgstr ""
+
+#: compendium:140
+msgctxt "Grab"
+msgid "Grab"
+msgstr ""
+
+#: compendium:141
+msgctxt "GrabbedColor"
+msgid "Grabbed color"
+msgstr ""
+
+#: compendium:144
+#, fuzzy
+msgctxt "UnchosenStuff"
+msgid "Unchosen material"
+msgstr "Unchosen material"
+
+#: compendium:145
+#, fuzzy
+msgctxt "TooCloseToMapEdge"
+msgid "Too close to map edge."
+msgstr "قريب جدا من حافة الخريطة."
+
+#: compendium:146
+#, fuzzy
+msgctxt "OutOfBounds"
+msgid "Out of bounds."
+msgstr "خارج الخريطة."
+
+#: compendium:147
+#, fuzzy
+msgctxt "CannotPlaceInUndiscovered"
+msgid "Cannot place in undiscovered areas."
+msgstr "لا يمنكنك وضع هذا في منطقة غير مستكشفة."
+
+#: compendium:148
+#, fuzzy
+msgctxt "InteractionSpotBlocked"
+msgid "Interaction spot is blocked by {1_labelShort}."
+msgstr "نقطة الاستخدام مسدودة من قبل {0}."
+
+#: compendium:149
+#, fuzzy
+msgctxt "InteractionSpotOutOfBounds"
+msgid "Interaction spot is out of bounds."
+msgstr "Interaction spot is out of bounds."
+
+#: compendium:150
+#, fuzzy
+msgctxt "InteractionSpotWillBeBlocked"
+msgid "Interaction spot will be blocked by {1_labelShort}."
+msgstr "سيؤدي هذا إلى سد نقطة الاستعمال من قبل {0}."
+
+#: compendium:151
+#, fuzzy
+msgctxt "WouldBlockInteractionSpot"
+msgid "{0} would block {1}'s interaction spot."
+msgstr "سيقوم {0} بسد نقطة الاستعمال لـ{1} إذا وضعته هنا."
+
+#: compendium:152
+#, fuzzy
+msgctxt "TerrainIsAlready"
+msgid "The terrain here is already {0}."
+msgstr "المنطقة هنا هي  {0} بالاصل."
+
+#: compendium:153
+#, fuzzy
+msgctxt "SurfaceBeingSmoothed"
+msgid "The surface is already marked for smoothing."
+msgstr "TODO"
+
+#: compendium:154
+#, fuzzy
+msgctxt "IdenticalThingExists"
+msgid "Identical thing already exists here."
+msgstr "Identical thing already exists here."
+
+#: compendium:155
+#, fuzzy
+msgctxt "IdenticalBlueprintExists"
+msgid "Identical blueprint already exists here."
+msgstr "مخطط بناء  مطابق موجود هنا بالاصل."
+
+#: compendium:156
+#, fuzzy
+msgctxt "TerrainCannotSupport"
+msgid "{0_label} cannot be built on this terrain."
+msgstr "نوعية الارض هنا لا تسمح ببناء هذا."
+
+#: compendium:157
+#, fuzzy
+msgctxt "TerrainCannotSupport_TerrainAffordance"
+msgid "{0_label} requires terrain that supports: {1_label}"
+msgstr "TODO"
+
+#: compendium:158
+msgctxt "TerrainCannotSupport_TerrainAffordanceFromStuff"
+msgid ""
+"{0_label} (when made of {2_label}) requires terrain that supports: {1_label}"
+msgstr ""
+
+#: compendium:159
+#, fuzzy
+msgctxt "SpaceAlreadyOccupied"
+msgid "Space already occupied."
+msgstr "المنطقة هنا محجوزة مسبقا."
+
+#: compendium:160
+#, fuzzy
+msgctxt "SpaceBeingSmoothed"
+msgid "Space being smoothed."
+msgstr "Space being smoothed."
+
+#: compendium:161
+#, fuzzy
+msgctxt "TerrainMustBeRemovable"
+msgid "Must target a removable floor."
+msgstr "Must target a removable floor."
+
+#: compendium:162
+#, fuzzy
+msgctxt "MustBeOnMovingWater"
+msgid "The waterwheel must be on moving water."
+msgstr "TODO"
+
+#: compendium:163
+msgctxt "InteractionSpotWillOverlap"
+msgid ""
+"Interaction spot will overlap with the interaction spot of {1_labelShort}."
+msgstr ""
+
+#: compendium:164
+msgctxt "InteractionSpotOverlaps"
+msgid "Interaction spot overlaps with the interaction spot of {1_labelShort}."
+msgstr ""
+
+#: compendium:165
+msgctxt "CannotPlaceMonumentOver"
+msgid "Cannot place monument over: {0}."
+msgstr ""
+
+#: compendium:166
+msgctxt "CannotPlaceMonumentOnTerrain"
+msgid "Cannot build on: {0}."
+msgstr ""
+
+#: compendium:167
+msgctxt "MonumentOverlapsBuilding"
+msgid "Cannot place monument over: {0}."
+msgstr ""
+
+#: compendium:168
+msgctxt "MonumentAdjacentToBuilding"
+msgid "Monument cannot be placed adjacent to: {0}."
+msgstr ""
+
+#: compendium:169
+msgctxt "CannotBePlantedHere"
+msgid "Cannot be planted here"
+msgstr ""
+
+#: compendium:172
+#, fuzzy
+msgctxt "ExpandOrCreateZone"
+msgid "Expand {0} or\\nCreate new {1}"
+msgstr "وسع {0} أو\\nحدد {1} جديدة"
+
+#: compendium:173
+#, fuzzy
+msgctxt "CreateNewZone"
+msgid "Create new {0}"
+msgstr "حدد {0} جديدة"
+
+#: compendium:176
+#, fuzzy
+msgctxt "TransmitsPower"
+msgid "Transmits power"
+msgstr "قم بتوصيل الطاقة"
+
+#: compendium:177
+#, fuzzy
+msgctxt "ConstructionNeeded"
+msgid "Construction needed"
+msgstr "TODO"
+
+#: compendium:178
+msgctxt "NoColonistWithSkillTip"
+msgid "None of your {0} have this skill."
+msgstr ""
+
+#: compendium:179
+msgctxt "SkillNeededForConstructing"
+msgid "{0} needed"
+msgstr ""
+
+#: compendium:180
+msgctxt "NoColonistWithAllSkillsForConstructing"
+msgid "None of your {0} have all skills required."
+msgstr ""
+
+#: compendium:181
+msgctxt "AllColonistsWithSkillHaveDisabledConstructingTip"
+msgid "All of your {0} who have this skill are not assigned to {1}."
+msgstr ""
+
+#: compendium:183
+msgctxt "DesignatorExtractSkull"
+msgid "Extract skull"
+msgstr ""
+
+#: compendium:184
+msgctxt "DesignatorExtractSkullDesc"
+msgid "Extract the skull from a corpse."
+msgstr ""

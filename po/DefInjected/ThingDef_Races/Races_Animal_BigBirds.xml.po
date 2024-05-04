@@ -1,0 +1,120 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:27
+#, fuzzy
+msgctxt "Ostrich.label"
+msgid "ostrich"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:28
+#, fuzzy
+msgctxt "Ostrich.description"
+msgid ""
+"The largest unmodified bird species, ostriches are known for their fast run,"
+" huge eggs, and powerful kick. It is easily angered."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:84
+msgctxt "Ostrich.tools.0.label"
+msgid "claws"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:101
+msgctxt "Ostrich.tools.1.label"
+msgid "beak"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:118
+msgctxt "Ostrich.tools.2.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:136
+#, fuzzy
+msgctxt "Ostrich.label"
+msgid "ostrich"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:203
+#, fuzzy
+msgctxt "Emu.label"
+msgid "emu"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:204
+#, fuzzy
+msgctxt "Emu.description"
+msgid ""
+"A large flightless bird with beady eyes on its ugly face. With its bad "
+"attitude, it is the jerk of the natural world. Bother it, and it is "
+"guaranteed to seek revenge."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:260
+msgctxt "Emu.tools.0.label"
+msgid "claws"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:277
+msgctxt "Emu.tools.1.label"
+msgid "beak"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:294
+msgctxt "Emu.tools.2.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:312
+#, fuzzy
+msgctxt "Emu.label"
+msgid "emu"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:360
+#, fuzzy
+msgctxt "Cassowary.label"
+msgid "cassowary"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:361
+#, fuzzy
+msgctxt "Cassowary.description"
+msgid ""
+"A large flightless bird with brightly-colored feathers. While it looks "
+"beautiful, its kick is vicious. It's known for being quick to aggression "
+"when harmed by violence or confronted by incompetent animal tamers."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:417
+msgctxt "Cassowary.tools.0.label"
+msgid "claws"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:434
+msgctxt "Cassowary.tools.1.label"
+msgid "beak"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:451
+msgctxt "Cassowary.tools.2.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_BigBirds.xml:469
+#, fuzzy
+msgctxt "Cassowary.label"
+msgid "cassowary"
+msgstr "TODO"

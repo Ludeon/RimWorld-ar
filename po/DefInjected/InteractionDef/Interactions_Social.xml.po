@@ -1,0 +1,524 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/InteractionDefs/Interactions_Social.xml:8
+#, fuzzy
+msgctxt "Chitchat.label"
+msgid "chitchat"
+msgstr "TODO"
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] "
+"[subject]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.1"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with "
+"[RECIPIENT_nameDef]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.2"
+msgid ""
+"r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [subject] to "
+"[RECIPIENT_nameDef]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.3"
+msgid "subject(INITIATOR_cubeInterest==false)->[TalkTopicLight]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.4"
+msgid "subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.5"
+msgid "talkedabout(p=4)->chatted about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.6"
+msgid "talkedabout->shared a word about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.7"
+msgid "talkedabout->spoke about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.8"
+msgid "talkedabout->gabbed about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.9"
+msgid "talkedabout->talked about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.10"
+msgid "talkedabout->joked about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.11"
+msgid "talkedabout->quipped about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.12"
+msgid "commentedabout->said something about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.13"
+msgid "commentedabout->said a word about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.14"
+msgid "commentedabout->made a comment about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.15"
+msgid "commentedabout->commented about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:16
+msgctxt "Chitchat.logRulesInitiator.rulesStrings.16"
+msgid "commentedabout->told a joke about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:47
+#, fuzzy
+msgctxt "DeepTalk.label"
+msgid "deep talk"
+msgstr "TODO"
+
+#: Defs/InteractionDefs/Interactions_Social.xml:55
+msgctxt "DeepTalk.logRulesInitiator.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] "
+"[subject]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:55
+msgctxt "DeepTalk.logRulesInitiator.rulesStrings.1"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with "
+"[RECIPIENT_nameDef]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:55
+msgctxt "DeepTalk.logRulesInitiator.rulesStrings.2"
+msgid "talkedabout->communicated thoughts about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:55
+msgctxt "DeepTalk.logRulesInitiator.rulesStrings.3"
+msgid "talkedabout->exchanged thoughts about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:55
+msgctxt "DeepTalk.logRulesInitiator.rulesStrings.4"
+msgid "talkedabout->exchanged ideas about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:55
+msgctxt "DeepTalk.logRulesInitiator.rulesStrings.5"
+msgid "talkedabout->shared views on"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:55
+msgctxt "DeepTalk.logRulesInitiator.rulesStrings.6"
+msgid "talkedabout->shared beliefs on"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:55
+msgctxt "DeepTalk.logRulesInitiator.rulesStrings.7"
+msgid "talkedabout->discussed the topic of"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:55
+msgctxt "DeepTalk.logRulesInitiator.rulesStrings.8"
+msgid "talkedabout->had a heartfelt conversation about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:55
+msgctxt "DeepTalk.logRulesInitiator.rulesStrings.9"
+msgid "talkedabout->talked quietly about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:55
+msgctxt "DeepTalk.logRulesInitiator.rulesStrings.10"
+msgid "talkedabout->talked deeply about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:55
+msgctxt "DeepTalk.logRulesInitiator.rulesStrings.11"
+msgid "talkedabout->connected on the topic of"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:55
+msgctxt "DeepTalk.logRulesInitiator.rulesStrings.12"
+msgid "subject(INITIATOR_cubeInterest==false)->[TalkTopicHeavy]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:55
+msgctxt "DeepTalk.logRulesInitiator.rulesStrings.13"
+msgid "subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:81
+#, fuzzy
+msgctxt "Slight.label"
+msgid "slight"
+msgstr "TODO"
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] [madefunof] [target]'s [characteristic]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.1"
+msgid ""
+"characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.2"
+msgid ""
+"characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.3"
+msgid "target(p=4)->[RECIPIENT_nameDef]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.4"
+msgid "target->[RECIPIENT_nameDef]'s [PersonFamily]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.5"
+msgid "madefunof->made fun of"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.6"
+msgid "madefunof->disrespected"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.7"
+msgid "madefunof->subtly scorned"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.8"
+msgid "madefunof->subtly shamed"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.9"
+msgid "madefunof->spoke badly of"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.10"
+msgid "madefunof->spoke negatively of"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.11"
+msgid "madefunof->laughed at"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.12"
+msgid "madefunof->sniggered at"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.13"
+msgid "madefunof->implied negative things about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.14"
+msgid "madefunof->belittled"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.15"
+msgid "madefunof->made a contemptuous remark about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:87
+msgctxt "Slight.logRulesInitiator.rulesStrings.16"
+msgid "madefunof->offered a backhanded compliment about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:117
+#, fuzzy
+msgctxt "Insult.label"
+msgid "insult"
+msgstr "TODO"
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.0"
+msgid ""
+"r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [characteristic]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.1"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] compared [target] to [insultcomparison]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.2"
+msgid "r_logentry->[INITIATOR_nameDef] called [target] [insultcomparison]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.3"
+msgid ""
+"r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef]"
+" called [target] a false idol worshipper."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.4"
+msgid ""
+"r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef]"
+" implied that [target] had been driven insane by the golden cube."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.5"
+msgid ""
+"r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef]"
+" [insulted] the golden cube."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.6"
+msgid ""
+"characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.7"
+msgid ""
+"characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.8"
+msgid "target(p=4)->[RECIPIENT_nameDef]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.9"
+msgid "target->[RECIPIENT_nameDef]'s [PersonFamily]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.10"
+msgid "insulted(p=3)->insulted"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.11"
+msgid "insulted->openly insulted"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.12"
+msgid "insulted->loudly insulted"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.13"
+msgid "insulted->flagrantly insulted"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.14"
+msgid "insulted->directly insulted"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.15"
+msgid "insulted->viciously insulted"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.16"
+msgid "insulted->flagrantly disrespected"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.17"
+msgid "insulted->slandered"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.18"
+msgid "insulted->hurled invective about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.19"
+msgid "insulted->derided"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.20"
+msgid "insultcomparison(INITIATOR_cubeInterest==false,p=2)->a [Animal]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.21"
+msgid "insultcomparison(INITIATOR_cubeInterest==false)->a [Enemy]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.22"
+msgid "insultcomparison(INITIATOR_cubeInterest==true)->a sphere"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.23"
+msgid ""
+"insultcomparison(INITIATOR_cubeInterest==true)->something totally pointless"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:123
+msgctxt "Insult.logRulesInitiator.rulesStrings.24"
+msgid ""
+"insultcomparison(INITIATOR_cubeInterest==true)->a non-cubic platonic object"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:164
+msgctxt "Sentence_SocialFightStarted.rulePack.rulesStrings.0"
+msgid ""
+"sent->This drove [RECIPIENT_nameDef] into a rage and [RECIPIENT_pronoun] "
+"began a fight!"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:172
+#, fuzzy
+msgctxt "KindWords.label"
+msgid "kind words"
+msgstr "TODO"
+
+#: Defs/InteractionDefs/Interactions_Social.xml:177
+msgctxt "KindWords.logRulesInitiator.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s "
+"[characteristic]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:177
+msgctxt "KindWords.logRulesInitiator.rulesStrings.1"
+msgid ""
+"characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:177
+msgctxt "KindWords.logRulesInitiator.rulesStrings.2"
+msgid ""
+"characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:177
+msgctxt "KindWords.logRulesInitiator.rulesStrings.3"
+msgid "complimented(p=3)->complimented"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:177
+msgctxt "KindWords.logRulesInitiator.rulesStrings.4"
+msgid "complimented->praised"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:177
+msgctxt "KindWords.logRulesInitiator.rulesStrings.5"
+msgid "complimented->commended"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:177
+msgctxt "KindWords.logRulesInitiator.rulesStrings.6"
+msgid "complimented->lauded"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:177
+msgctxt "KindWords.logRulesInitiator.rulesStrings.7"
+msgid "complimented->applauded"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:177
+msgctxt "KindWords.logRulesInitiator.rulesStrings.8"
+msgid "complimented->celebrated"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:177
+msgctxt "KindWords.logRulesInitiator.rulesStrings.9"
+msgid "complimented->saluted"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:177
+msgctxt "KindWords.logRulesInitiator.rulesStrings.10"
+msgid "complimented->spoke kindly of"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:177
+msgctxt "KindWords.logRulesInitiator.rulesStrings.11"
+msgid "complimented->expressed good things about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:177
+msgctxt "KindWords.logRulesInitiator.rulesStrings.12"
+msgid "complimented->offered kinds words about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:177
+msgctxt "KindWords.logRulesInitiator.rulesStrings.13"
+msgid "complimented->verbally appreciated"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:177
+msgctxt "KindWords.logRulesInitiator.rulesStrings.14"
+msgid "complimented->expressed appreciation for"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Social.xml:177
+msgctxt "KindWords.logRulesInitiator.rulesStrings.15"
+msgid "complimented->said good things about"
+msgstr ""

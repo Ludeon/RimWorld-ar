@@ -1,0 +1,232 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:8
+#, fuzzy
+msgctxt "ResourcePodCrash.label"
+msgid "resource pod crash"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:19
+#, fuzzy
+msgctxt "PsychicSoothe.label"
+msgid "psychic soothe"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:32
+#, fuzzy
+msgctxt "SelfTame.label"
+msgid "self-tame"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:44
+#, fuzzy
+msgctxt "AmbrosiaSprout.label"
+msgid "ambrosia sprout"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:51
+#, fuzzy
+msgctxt "AmbrosiaSprout.letterLabel"
+msgid "Ambrosia sprout"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:52
+#, fuzzy
+msgctxt "AmbrosiaSprout.letterText"
+msgid ""
+"A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for"
+" the plants to grow, you'll be able to harvest the delicious, pleasurable, "
+"and slightly addictive fruit."
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:66
+#, fuzzy
+msgctxt "FarmAnimalsWanderIn.label"
+msgid "farm animals wander in"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:77
+#, fuzzy
+msgctxt "WandererJoin.label"
+msgid "wanderer join"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:91
+#, fuzzy
+msgctxt "RefugeePodCrash.label"
+msgid "transport pod crash"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:107
+#, fuzzy
+msgctxt "ThrumboPasses.label"
+msgid "thrumbos pass"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:119
+#, fuzzy
+msgctxt "RansomDemand.label"
+msgid "ransom demand"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:127
+#, fuzzy
+msgctxt "RansomDemand.letterLabel"
+msgid "Ransom demand"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:133
+#, fuzzy
+msgctxt "MeteoriteImpact.label"
+msgid "meteorite impact"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:140
+#, fuzzy
+msgctxt "MeteoriteImpact.letterLabel"
+msgid "Meteorite"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:141
+#, fuzzy
+msgctxt "MeteoriteImpact.letterText"
+msgid ""
+"A large meteorite has struck ground in the area. It has left behind a lump "
+"of {0}."
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:147
+#, fuzzy
+msgctxt "HerdMigration.label"
+msgid "herd migration"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:161
+#, fuzzy
+msgctxt "HerdMigration.letterLabel"
+msgid "Animal migration: {0}"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:162
+#, fuzzy
+msgctxt "HerdMigration.letterText"
+msgid ""
+"A group of {0} is passing through the area.\\n\\nThey won't attack unless "
+"provoked."
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:168
+#, fuzzy
+msgctxt "WildManWandersIn.label"
+msgid "wild man wanders in"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:176
+#, fuzzy
+msgctxt "WildManWandersIn.letterLabel"
+msgid "{0} wanders in"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:177
+#, fuzzy
+msgctxt "WildManWandersIn.letterText"
+msgid ""
+"A {1} living among wild animals has wandered into the area. {PAWN_pronoun}'s"
+" called {0}.\\n\\nYou can attempt to tame {PAWN_objective}."
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:185
+#, fuzzy
+msgctxt "PsychicDrone.label"
+msgid "psychic drone"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:199
+#, fuzzy
+msgctxt "ToxicFallout.label"
+msgid "toxic fallout"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:206
+#, fuzzy
+msgctxt "ToxicFallout.letterLabel"
+msgid "Toxic fallout"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:220
+#, fuzzy
+msgctxt "VolcanicWinter.label"
+msgid "volcanic winter"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:227
+#, fuzzy
+msgctxt "VolcanicWinter.letterLabel"
+msgid "Volcanic winter"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:241
+#, fuzzy
+msgctxt "HeatWave.label"
+msgid "heat wave"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:248
+#, fuzzy
+msgctxt "HeatWave.letterLabel"
+msgid "Heat wave"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:257
+#, fuzzy
+msgctxt "ColdSnap.label"
+msgid "cold snap"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:264
+#, fuzzy
+msgctxt "ColdSnap.letterLabel"
+msgid "Cold snap"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:273
+#, fuzzy
+msgctxt "Flashstorm.label"
+msgid "flashstorm"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:279
+#, fuzzy
+msgctxt "Flashstorm.letterLabel"
+msgid "Flashstorm"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:292
+#, fuzzy
+msgctxt "ShortCircuit.label"
+msgid "short circuit"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:304
+#, fuzzy
+msgctxt "CropBlight.label"
+msgid "crop blight"
+msgstr "TODO"
+
+#: Defs/Storyteller/Incidents_Map_Misc.xml:317
+#, fuzzy
+msgctxt "Alphabeavers.label"
+msgid "alphabeavers"
+msgstr "TODO"

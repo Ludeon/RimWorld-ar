@@ -1,0 +1,83 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Goodwill/GoodwillEvents_Pawns.xml:8
+msgctxt "UsedHarmfulItem.label"
+msgid "harmed member"
+msgstr ""
+
+#: Defs/Goodwill/GoodwillEvents_Pawns.xml:13
+msgctxt "AttackedMember.label"
+msgid "attacked member"
+msgstr ""
+
+#: Defs/Goodwill/GoodwillEvents_Pawns.xml:18
+msgctxt "MemberCrushed.label"
+msgid "member crushed"
+msgstr ""
+
+#: Defs/Goodwill/GoodwillEvents_Pawns.xml:23
+msgctxt "MemberNeutrallyDied.label"
+msgid "member died"
+msgstr ""
+
+#: Defs/Goodwill/GoodwillEvents_Pawns.xml:28
+msgctxt "MemberCaptured.label"
+msgid "member captured"
+msgstr ""
+
+#: Defs/Goodwill/GoodwillEvents_Pawns.xml:33
+msgctxt "MemberKilled.label"
+msgid "member killed"
+msgstr ""
+
+#: Defs/Goodwill/GoodwillEvents_Pawns.xml:38
+msgctxt "MemberSold.label"
+msgid "member sold"
+msgstr ""
+
+#: Defs/Goodwill/GoodwillEvents_Pawns.xml:43
+msgctxt "MemberExitedMapHealthy.label"
+msgid "member exited map healthy"
+msgstr ""
+
+#: Defs/Goodwill/GoodwillEvents_Pawns.xml:48
+msgctxt "FriendlyExitedMapTended.label"
+msgid "tended to member"
+msgstr ""
+
+#: Defs/Goodwill/GoodwillEvents_Pawns.xml:53
+msgctxt "PerformedHarmfulSurgery.label"
+msgid "harmful surgery on member"
+msgstr ""
+
+#: Defs/Goodwill/GoodwillEvents_Pawns.xml:58
+msgctxt "MemberStripped.label"
+msgid "member stripped"
+msgstr ""
+
+#: Defs/Goodwill/GoodwillEvents_Pawns.xml:63
+msgctxt "InnocentPrisonerDied.label"
+msgid "innocent prisoner died"
+msgstr ""
+
+#: Defs/Goodwill/GoodwillEvents_Pawns.xml:68
+msgctxt "GuiltyPrisonerDied.label"
+msgid "guilty prisoner died"
+msgstr ""
+
+#: Defs/Goodwill/GoodwillEvents_Pawns.xml:73
+msgctxt "PrisonerDied.label"
+msgid "prisoner died"
+msgstr ""

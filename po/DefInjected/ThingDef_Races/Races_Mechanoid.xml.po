@@ -1,0 +1,169 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:173
+msgctxt "Mech_CentipedeBlaster.label"
+msgid "centipede blaster"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:178
+msgctxt "Mech_CentipedeBlaster.label"
+msgid "centipede blaster"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:188
+msgctxt "Mech_CentipedeGunner.label"
+msgid "centipede gunner"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:193
+msgctxt "Mech_CentipedeGunner.label"
+msgid "centipede gunner"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:229
+msgctxt "Mech_CentipedeBurner.label"
+msgid "centipede burner"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:234
+msgctxt "Mech_CentipedeBurner.label"
+msgid "centipede burner"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:305
+#, fuzzy
+msgctxt "Mech_Lancer.label"
+msgid "lancer"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:306
+#, fuzzy
+msgctxt "Mech_Lancer.description"
+msgid ""
+"Fast human-sized combat mechanoids built for medium and long-range combat. "
+"Their bodies are light, making them vulnerable targets at close range - "
+"especially in melee combat."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:309
+msgctxt "Mech_Lancer.tools.0.label"
+msgid "left fist"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:320
+msgctxt "Mech_Lancer.tools.1.label"
+msgid "right fist"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:331
+msgctxt "Mech_Lancer.tools.2.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:365
+#, fuzzy
+msgctxt "Mech_Lancer.label"
+msgid "lancer"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:407
+#, fuzzy
+msgctxt "Mech_Scyther.label"
+msgid "scyther"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:408
+#, fuzzy
+msgctxt "Mech_Scyther.description"
+msgid ""
+"Fast, spindly, human-sized combat mechanoids specializing in rapid approach "
+"and close-range combat. Their bodies are covered in points and blades, but "
+"they mostly use their two arm blades to lop off limbs or gut their victims "
+"alive."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:411
+msgctxt "Mech_Scyther.tools.0.label"
+msgid "left blade"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:423
+msgctxt "Mech_Scyther.tools.1.label"
+msgid "right blade"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:435
+msgctxt "Mech_Scyther.tools.2.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:472
+#, fuzzy
+msgctxt "Mech_Scyther.label"
+msgid "scyther"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:513
+msgctxt "Mech_Pikeman.label"
+msgid "pikeman"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:514
+msgctxt "Mech_Pikeman.description"
+msgid ""
+"A clunky multi-legged combat mechanoid specialized as a long-range weapons "
+"platform. While effective at distance, it is weak in close-range fights and "
+"in melee combat.\\n\\nVeterans of mechanoid wars know that often, the safest"
+" place to be around a pikeman is touching it."
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:521
+msgctxt "Mech_Pikeman.tools.0.label"
+msgid "front left leg"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:532
+msgctxt "Mech_Pikeman.tools.1.label"
+msgid "front right leg"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:543
+msgctxt "Mech_Pikeman.tools.2.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:595
+msgctxt "Mech_Pikeman.label"
+msgid "pikeman"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:637
+msgctxt "Mech_Termite.label"
+msgid "termite"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:638
+msgctxt "Mech_Termite.description"
+msgid ""
+"A medium-sized mechanoid. Termites specialize in burrowing, digging, and "
+"breaking through defensive structures. Defenders need to decide whether to "
+"try to eliminate the termite before it can dig through their defenses, or "
+"take it where it emerges."
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Mechanoid.xml:647
+msgctxt "Mech_Termite.tools.0.label"
+msgid "head"
+msgstr ""

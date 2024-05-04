@@ -1,0 +1,92 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Buildings/Buildings_Exotic.xml:58
+msgctxt "PsychicDronerShipPart.label"
+msgid "ship part (psychic droner)"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Exotic.xml:59
+msgctxt "PsychicDronerShipPart.description"
+msgid ""
+"An ancient ship part, torn off of a craft of unknown origin. It might be "
+"thousands of years old.\\n\\nThis one contains a psychic disturbance device."
+" Using incomprehensible archotechnologies, it generates a psychic signal "
+"that drives people and animals mad within a wide radius around itself."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Exotic.xml:85
+msgctxt "PsychicDroner.label"
+msgid "psychic droner"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Exotic.xml:86
+msgctxt "PsychicDroner.description"
+msgid "A psychic droner tuned to the {0} gender is driving {0}s mad."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Exotic.xml:87
+msgctxt "PsychicDroner.letterText"
+msgid "A psychic droner machine has begun affecting this region."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Exotic.xml:96
+msgctxt "DefoliatorShipPart.label"
+msgid "ship part (defoliator)"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Exotic.xml:97
+msgctxt "DefoliatorShipPart.description"
+msgid ""
+"An ancient ship part, torn off of a craft of unknown origin. It might be "
+"thousands of years old.\\n\\nThis one contains a device which annihilates "
+"plant life near itself without directly affecting flesh creatures. These "
+"kinds of weapons are sometimes scattered across farmlands or forests to "
+"remove the enemy's food supply and hiding places without permanently ruining"
+" the territory. They're usually associated with orbital-drop mechanoid "
+"armies."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Exotic.xml:132
+#, fuzzy
+msgctxt "ShipChunk.label"
+msgid "ship chunk"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Exotic.xml:133
+#, fuzzy
+msgctxt "ShipChunk.description"
+msgid ""
+"A chunk of a spacecraft. It seems to have been torn off either by "
+"uncontrolled re-entry forces or some kind of weapon.\\n\\nHaving landed not "
+"long ago, it still contains useful resources which you can acquire by "
+"deconstructing it."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Exotic.xml:179
+msgctxt "Shuttle.label"
+msgid "shuttle"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Exotic.xml:180
+msgctxt "Shuttle.description"
+msgid ""
+"A spacer-tech shuttle designed for transit between surface and orbit, or "
+"between moons of a planetary system."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Exotic.xml:243
+msgctxt "ShuttleCrashed.label"
+msgid "crashed shuttle"
+msgstr ""

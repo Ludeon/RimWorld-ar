@@ -1,0 +1,60 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/DamageDefs/Damages_MeleeWeapon.xml:6
+#, fuzzy
+msgctxt "Cut.label"
+msgid "cut"
+msgstr "TODO"
+
+#: Defs/DamageDefs/Damages_MeleeWeapon.xml:30
+#, fuzzy
+msgctxt "Crush.label"
+msgid "crush"
+msgstr "TODO"
+
+#: Defs/DamageDefs/Damages_MeleeWeapon.xml:45
+#, fuzzy
+msgctxt "Blunt.label"
+msgid "blunt"
+msgstr "TODO"
+
+#: Defs/DamageDefs/Damages_MeleeWeapon.xml:90
+#, fuzzy
+msgctxt "Stab.label"
+msgid "stab"
+msgstr "TODO"
+
+#: Defs/DamageDefs/Damages_MeleeWeapon.xml:104
+#, fuzzy
+msgctxt "Scratch.label"
+msgid "scratch"
+msgstr "TODO"
+
+#: Defs/DamageDefs/Damages_MeleeWeapon.xml:119
+msgctxt "ScratchToxic.label"
+msgid "toxic scratch"
+msgstr ""
+
+#: Defs/DamageDefs/Damages_MeleeWeapon.xml:136
+#, fuzzy
+msgctxt "Bite.label"
+msgid "bite"
+msgstr "TODO"
+
+#: Defs/DamageDefs/Damages_MeleeWeapon.xml:150
+#, fuzzy
+msgctxt "ToxicBite.label"
+msgid "toxic bite"
+msgstr "TODO"

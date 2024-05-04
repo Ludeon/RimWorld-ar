@@ -1,0 +1,146 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:8
+#, fuzzy
+msgctxt "Sandbags.label"
+msgid "sandbags"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:9
+#, fuzzy
+msgctxt "Sandbags.description"
+msgid ""
+"Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are"
+" ugly, but provide better cover than other low objects."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:67
+msgctxt "Barricade.label"
+msgid "barricade"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:68
+msgctxt "Barricade.description"
+msgid ""
+"A waist-high barrier for use as cover from incoming shots. Barricades are "
+"ugly, but provide better cover than other low objects. Barricades will block"
+" certain kinds of animals the same way that fences do."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:128
+#, fuzzy
+msgctxt "TrapSpike.label"
+msgid "spike trap"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:129
+#, fuzzy
+msgctxt "TrapSpike.description"
+msgid ""
+"Five spikes under tension, connected to a touch-activated trigger. When the "
+"victim disturbs the trigger, the spikes spring forth and strike the victim. "
+"Since it is hidden in the surrounding terrain, it cannot be placed adjacent "
+"to other traps. Animals can sense these when calm."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:223
+#, fuzzy
+msgctxt "TrapIED_HighExplosive.label"
+msgid "IED trap"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:224
+#, fuzzy
+msgctxt "TrapIED_HighExplosive.description"
+msgid ""
+"A pair of high-explosive shells connected to a trigger which detonates on "
+"touch or bullet impact. Since it is hidden in the surrounding terrain, it "
+"cannot be placed adjacent to other traps. Animals can sense these when calm."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:250
+#, fuzzy
+msgctxt "TrapIED_Incendiary.label"
+msgid "IED incendiary trap"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:251
+#, fuzzy
+msgctxt "TrapIED_Incendiary.description"
+msgid ""
+"A pair of incendiary shells connected to a trigger which detonates on touch "
+"or bullet impact. Since it is hidden in the surrounding terrain, it cannot "
+"be placed adjacent to other traps. Animals can sense these when calm."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:278
+#, fuzzy
+msgctxt "TrapIED_EMP.label"
+msgid "IED EMP trap"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:279
+#, fuzzy
+msgctxt "TrapIED_EMP.description"
+msgid ""
+"A pair of EMP shells connected to a trigger which detonates on touch or "
+"bullet impact. The explosion can paralyze mechanoids for a few seconds. "
+"Since it is hidden in the surrounding terrain, it cannot be placed adjacent "
+"to other traps. Animals can sense these when calm."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:306
+msgctxt "TrapIED_Smoke.label"
+msgid "IED smoke trap"
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:307
+msgctxt "TrapIED_Smoke.description"
+msgid ""
+"A pair of smoke shells connected to a trigger which detonates on touch or "
+"bullet impact. Since it is hidden in the surrounding terrain, it cannot be "
+"placed adjacent to other traps. Animals can sense these when calm."
+msgstr ""
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:335
+#, fuzzy
+msgctxt "TrapIED_Firefoam.label"
+msgid "IED firefoam trap"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:336
+#, fuzzy
+msgctxt "TrapIED_Firefoam.description"
+msgid ""
+"A pair of firefoam shells connected to a trigger which detonates on touch or"
+" bullet impact. Since it is hidden in the surrounding terrain, it cannot be "
+"placed adjacent to other traps. Animals can sense these when calm."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:368
+#, fuzzy
+msgctxt "TrapIED_AntigrainWarhead.label"
+msgid "IED antigrain warhead trap"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Security.xml:369
+#, fuzzy
+msgctxt "TrapIED_AntigrainWarhead.description"
+msgid ""
+"An antimatter-powered antigrain warhead connected to a trigger which "
+"detonates on touch or bullet impact. Since it is hidden in the surrounding "
+"terrain, it cannot be placed adjacent to other traps. Animals can sense "
+"these when calm."
+msgstr "TODO"

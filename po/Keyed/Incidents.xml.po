@@ -1,0 +1,733 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compendium:4
+#, fuzzy
+msgctxt "LetterLabelAnimalInsanitySingle"
+msgid "Mad {ANIMAL_labelShort}"
+msgstr "Mad animal"
+
+#: compendium:5
+#, fuzzy
+msgctxt "AnimalInsanitySingle"
+msgid "A local {ANIMAL_label} has gone mad. It will attack everyone it sees."
+msgstr "A local {0} has gone mad. It will attack everyone it sees."
+
+#: compendium:6
+#, fuzzy
+msgctxt "LetterLabelAnimalInsanityMultiple"
+msgid "Mad {0}"
+msgstr "Mad animals!"
+
+#: compendium:7
+#, fuzzy
+msgctxt "AnimalInsanityMultiple"
+msgid ""
+"Some sort of psychic wave has swept over the landscape. Your colonists are "
+"okay, but...\\n\\nIt seems many of the {0} in the area have been driven "
+"insane."
+msgstr ""
+"Some sort of psychic wave has swept over the landscape. Your colonists are "
+"okay, but...\\n\\nIt seems many of the {0}s in the area have been driven "
+"insane."
+
+#: compendium:9
+#, fuzzy
+msgctxt "LetterLabelCropBlight"
+msgid "Blight: {PLANTDEF_labelPlural}"
+msgstr "Blight"
+
+#: compendium:10
+#, fuzzy
+msgctxt "LetterCropBlight"
+msgid ""
+"Blight has been discovered on the {PLANTDEF_labelPlural}!\n"
+"\\nYou should cut or burn the affected plants before the blight spreads."
+msgstr "TODO"
+
+#: compendium:13
+#, fuzzy
+msgctxt "LetterLabelMiracleHeal"
+msgid "Miracle"
+msgstr "Miracle"
+
+#: compendium:14
+#, fuzzy
+msgctxt "MiracleHeal"
+msgid "{0} has experienced a miraculous recovery!"
+msgstr "{0} has experienced a miraculous recovery!"
+
+#: compendium:17
+#, fuzzy
+msgctxt "EnemyRaidLeaderPresent"
+msgid ""
+"One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader "
+"of the faction."
+msgstr "One of the {0} - {1}, is the leader of the faction."
+
+#: compendium:20
+#, fuzzy
+msgctxt "FriendlyRaidLeaderPresent"
+msgid ""
+"One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader "
+"of the faction."
+msgstr "One of the {0} - {1}, is the leader of the faction."
+
+#: compendium:22
+#, fuzzy
+msgctxt "LetterLabelRefugeePodCrash"
+msgid "Transport pod crash"
+msgstr "Escape pod"
+
+#: compendium:23
+#, fuzzy
+msgctxt "RefugeePodCrash"
+msgid ""
+"{PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod "
+"nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly "
+"wounded."
+msgstr ""
+"You've detected an escape pod crashing hard nearby.\\n\\nIf anyone survived "
+"the impact, they'll be badly wounded.\\n\\nYou can rescue them and send them"
+" on their way. Or, capture them for recruitment or slavery purposes."
+
+#: compendium:24
+msgctxt "RefugeePodCrash_Child"
+msgid "{PAWN_nameDef} is a child of {AGE}."
+msgstr ""
+
+#: compendium:25
+#, fuzzy
+msgctxt "RefugeePodCrash_Factionless"
+msgid ""
+"{PAWN_nameDef} is not affiliated with any faction. You can rescue "
+"{PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture "
+"{PAWN_objective} for recruitment or slavery purposes."
+msgstr "TODO"
+
+#: compendium:26
+#, fuzzy
+msgctxt "RefugeePodCrash_Hostile"
+msgid ""
+"{PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture "
+"{PAWN_objective} for recruitment or slavery purposes."
+msgstr "TODO"
+
+#: compendium:27
+#, fuzzy
+msgctxt "RefugeePodCrash_NonHostile"
+msgid ""
+"{PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, "
+"{PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home "
+"and spread goodwill between your factions.\\n\\nYou can also capture "
+"{PAWN_objective} for recruitment or slavery purposes, but this will anger "
+"{PAWN_possessive} faction."
+msgstr "TODO"
+
+#: compendium:29
+msgctxt "LetterLabelWandererJoins"
+msgid "Wanderer joins: {PAWN_nameDef}"
+msgstr ""
+
+#: compendium:30
+msgctxt "LetterWandererJoins"
+msgid ""
+"A {PAWN_title} named {PAWN_nameDef} has arrived and wants to join the "
+"colony.\\n\\n[PAWN_pronoun] is willing to contribute, but will not leave "
+"voluntarily, claiming to have nowhere else to go. You can choose to turn "
+"{PAWN_objective} down and send {PAWN_objective} away. However, your "
+"colonists will be disturbed at sending someone away in need."
+msgstr ""
+
+#: compendium:32
+#, fuzzy
+msgctxt "LetterLabelCargoPodCrash"
+msgid "Cargo pods"
+msgstr "Cargo pods"
+
+#: compendium:33
+#, fuzzy
+msgctxt "CargoPodCrash"
+msgid ""
+"You have detected a cluster of cargo pods crashing nearby.\\n\\nPerhaps "
+"you'll find something useful in the wreckage."
+msgstr ""
+"You have detected a cluster of cargo pods crashing nearby.\\n\\nPerhaps "
+"you'll find something useful in the wreckage."
+
+#: compendium:35
+#, fuzzy
+msgctxt "AnElectricalConduit"
+msgid "an electrical conduit"
+msgstr "an electrical conduit"
+
+#: compendium:36
+#, fuzzy
+msgctxt "ShortCircuit"
+msgid "A fault in {0} has caused a short circuit."
+msgstr ""
+"A fault in {0} has caused a short circuit.\\n\\nAll {1} Wd of energy in the "
+"connected batteries has been discharged in an electrical explosion."
+
+#: compendium:37
+#, fuzzy
+msgctxt "ShortCircuitStartedFire"
+msgid "A fault in {0} has caused a short circuit which started a fire."
+msgstr "TODO"
+
+#: compendium:38
+#, fuzzy
+msgctxt "ShortCircuitDischargedEnergy"
+msgid ""
+"All {0} Wd of energy in the connected batteries has been discharged in an "
+"electrical explosion."
+msgstr "TODO"
+
+#: compendium:39
+#, fuzzy
+msgctxt "ShortCircuitWasLarge"
+msgid ""
+"This large amount of power has created an explosion of considerable size."
+msgstr ""
+"This large amount of power has created an explosion of considerable size."
+
+#: compendium:40
+#, fuzzy
+msgctxt "ShortCircuitWasHuge"
+msgid "That really is a huge explosion. Wow."
+msgstr "That really is a huge explosion. Wow."
+
+#: compendium:42
+#, fuzzy
+msgctxt "TraderArrival"
+msgid ""
+"A trade ship is passing nearby.\\n\\nThey are known as {0}. They are a "
+"{1}.\\n\\n{2}"
+msgstr ""
+"A trade ship is passing nearby.\\n\\nThey are known as {0}. They are a {1}."
+
+#: compendium:43
+msgctxt "TraderArrivalFromFaction"
+msgid "They're affiliated with {FACTION_name}."
+msgstr ""
+
+#: compendium:44
+msgctxt "TraderArrivalNoFaction"
+msgid "They are not affiliated with any faction."
+msgstr ""
+
+#: compendium:46
+#, fuzzy
+msgctxt "SingleTravelerPassing"
+msgid ""
+"A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named "
+"{PAWN_nameFull}."
+msgstr "A {0} from {1} is passing by. [PAWN_pronoun] is named {2}."
+
+#: compendium:47
+#, fuzzy
+msgctxt "GroupTravelersPassing"
+msgid "A group of travelers from {0} are passing by."
+msgstr "A group of travelers from {0} are passing by."
+
+#: compendium:49
+#, fuzzy
+msgctxt "LetterLabelSingleVisitorArrives"
+msgid "Visitor"
+msgstr "Visitor"
+
+#: compendium:50
+#, fuzzy
+msgctxt "SingleVisitorArrives"
+msgid ""
+"{PAWN_titleIndef} from {1} is visiting the colony.\\n\\n{PAWN_pronoun} is "
+"named {PAWN_nameFull}.{3}{4}"
+msgstr ""
+"A {0} from {1} is visiting the colony.\\n\\n[PAWN_pronoun] is named "
+"{2}.{3}{4}"
+
+#: compendium:51
+#, fuzzy
+msgctxt "SingleVisitorArrivesTraderInfo"
+msgid "{PAWN_pronoun} seems to have a few items to trade."
+msgstr "\\n\\n[PAWN_pronoun] seems to have a few items to trade."
+
+#: compendium:52
+#, fuzzy
+msgctxt "SingleVisitorArrivesLeaderInfo"
+msgid "{PAWN_pronoun} is the leader of the faction."
+msgstr "\\n\\n[PAWN_pronoun] is the leader of the faction."
+
+#: compendium:53
+#, fuzzy
+msgctxt "LetterLabelGroupVisitorsArrive"
+msgid "Visitors"
+msgstr "Visitors"
+
+#: compendium:54
+#, fuzzy
+msgctxt "GroupVisitorsArrive"
+msgid "A group from {0} are visiting the colony.{1}{2}"
+msgstr "A group from {0} are visiting the colony.{1}{2}"
+
+#: compendium:55
+#, fuzzy
+msgctxt "GroupVisitorsArriveTraderInfo"
+msgid "They seem to have a few items to trade."
+msgstr "\\n\\nThey seem to have a few items to trade."
+
+#: compendium:56
+#, fuzzy
+msgctxt "GroupVisitorsArriveLeaderInfo"
+msgid "One of the visitors - {1_labelShort}, is the leader of the faction."
+msgstr "\\n\\nOne of the visitors - {0}, is the leader of the faction."
+
+#: compendium:57
+#, fuzzy
+msgctxt "VisitorsLeaving"
+msgid "Visitors from {0} are leaving."
+msgstr "Visitors from {0} are leaving."
+
+#: compendium:59
+#, fuzzy
+msgctxt "LetterLabelManhunterPackArrived"
+msgid "Manhunter pack"
+msgstr "Manhunter pack"
+
+#: compendium:60
+#, fuzzy
+msgctxt "ManhunterPackArrived"
+msgid ""
+"A pack of man-hunting {0} have entered the area! Driven insane by the "
+"disease known as scaria, they will roam the region, hunting for humanoid "
+"flesh.\\n\\nThey won't attack doors unless they see someone go through the "
+"door. Hide inside and you'll be safe. They also won't attack powered-off "
+"turrets, so turn your turrets off to save them.\\n\\nThe {0} will leave the "
+"area in one or two days. You can hide and wait them out, or fight them."
+msgstr ""
+"A pack of man-hunting {0}s have entered the area. They will roam the region,"
+" hunting for humanoid flesh.\\n\\nThey can't pass doors, so if you stay "
+"behind walls you should be safe. They won't attack inactive turrets, so turn"
+" your turrets off if you want to save them.\\n\\nThey'll leave the area in a"
+" few days."
+
+#: compendium:63
+#, fuzzy
+msgctxt "MessageAnimalInsanityPulse"
+msgid ""
+"The {SOURCE_label} has emitted a psychic pulse that has driven nearby "
+"animals mad."
+msgstr ""
+"The ancient structure has emitted a psychic pulse that has driven nearby "
+"animals mad."
+
+#: compendium:64
+#, fuzzy
+msgctxt "LetterShipPartDroveColonistInsane"
+msgid ""
+"The crashed ship part has emitted a focused psychic pulse that has driven "
+"colonist {0} insane."
+msgstr ""
+"The crashed ship part has emitted a focused psychic pulse that has driven "
+"colonist {0} insane."
+
+#: compendium:65
+#, fuzzy
+msgctxt "AwokeDaysAgo"
+msgid "Awoke {0} days ago"
+msgstr "Awoke {0} days ago"
+
+#: compendium:66
+msgctxt "ActivatedDaysAgo"
+msgid "Activated {0} days ago"
+msgstr ""
+
+#: compendium:67
+msgctxt "OpenedDaysAgo"
+msgid "Opened {0} days ago"
+msgstr ""
+
+#: compendium:68
+#, fuzzy
+msgctxt "PsychicDroneLevel"
+msgid "Psychic drone level: {0}"
+msgstr "Psychic drone level: {0}"
+
+#: compendium:69
+#, fuzzy
+msgctxt "LetterLabelPsychicDroneLevelIncreased"
+msgid "Drone intensifies"
+msgstr "Drone intensifies"
+
+#: compendium:70
+#, fuzzy
+msgctxt "LetterPsychicDroneLevelIncreased"
+msgid ""
+"The crashed ship part is now emanating a more powerful kind of psychic "
+"drone. Every {0} humanlike in the area now feels more disturbed, terrified, "
+"and paranoid."
+msgstr ""
+"The crashed ship part is now emanating a more powerful kind of psychic "
+"drone. Every humanlike in the area now feels more disturbed, terrified, and "
+"paranoid."
+
+#: compendium:73
+#, fuzzy
+msgctxt "LetterLabelAgentRevealed"
+msgid "Agent"
+msgstr "Agent"
+
+#: compendium:74
+#, fuzzy
+msgctxt "LetterAgentRevealed"
+msgid ""
+"{0} has been revealed as an agent of your enemy {1}.\\n\\nThey are "
+"attempting to escape now."
+msgstr ""
+"{0} has been revealed as an agent of your enemy {1}.\\n\\nThey are "
+"attempting to escape now."
+
+#: compendium:77
+#, fuzzy
+msgctxt "LetterLabelBeaversArrived"
+msgid "Beavers!"
+msgstr "Beavers!"
+
+#: compendium:78
+#, fuzzy
+msgctxt "BeaversArrived"
+msgid ""
+"A group of hungry alphabeavers has just arrived.\\n\\nTry to eliminate them "
+"before they decimate every last source of wood in the region."
+msgstr ""
+"A group of hungry alphabeavers has just arrived.\\n\\nTry to eliminate them "
+"before they decimate every last tree in the region."
+
+#: compendium:81
+#, fuzzy
+msgctxt "LetterLabelAnimalSelfTame"
+msgid "{1_kind} self-tamed"
+msgstr "{0} self-tamed"
+
+#: compendium:82
+#, fuzzy
+msgctxt "LetterAnimalSelfTame"
+msgid "{0} has become tame."
+msgstr "{0} has become tame."
+
+#: compendium:83
+#, fuzzy
+msgctxt "LetterAnimalSelfTameAndNameNumerical"
+msgid "{0} has become tame. It is now designated {ANIMAL_nameFull}."
+msgstr "{0} has become tame. It is now designated {1}."
+
+#: compendium:84
+#, fuzzy
+msgctxt "LetterAnimalSelfTameAndName"
+msgid ""
+"{0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}."
+msgstr "{0} has become tame. Colonists have decided to name it {1}."
+
+#: compendium:87
+#, fuzzy
+msgctxt "LetterLabelFarmAnimalsWanderIn"
+msgid "{0} join"
+msgstr "{0}s join"
+
+#: compendium:88
+#, fuzzy
+msgctxt "LetterFarmAnimalsWanderIn"
+msgid ""
+"A group of {0}, abandoned or lost, have wandered into the area.\\n\\nThey "
+"seem accustomed to human contact and are joining the colony."
+msgstr ""
+"A group of {0}s, abandoned or lost, have wandered into the area.\\n\\nThey "
+"seem accustomed to human contact and are joining the colony."
+
+#: compendium:91
+#, fuzzy
+msgctxt "LetterLabelThrumboPasses"
+msgid "Rare thrumbos"
+msgstr "Rare thrumbos"
+
+#: compendium:92
+#, fuzzy
+msgctxt "LetterThrumboPasses"
+msgid ""
+"A small herd of thrumbos have wandered into the area.\\n\\nPeaceful by "
+"nature, these rare creatures are extremely dangerous when confronted. Some "
+"traders are willing to pay a lot of money for their precious leather and "
+"horn.\\n\\nThrumbos will leave the area in a few days."
+msgstr ""
+"A small herd of thrumbos have wandered into the area.\\n\\nPeaceful by "
+"nature, these rare creatures are extremely dangerous when confronted. Some "
+"traders are willing to pay a lot of money for their precious leather and "
+"horn.\\n\\nThrumbos will leave the area in a few days."
+
+#: compendium:95
+#, fuzzy
+msgctxt "LetterLabelTraderCaravanArrival"
+msgid "{1} from {0}"
+msgstr "{1} from {0}"
+
+#: compendium:96
+#, fuzzy
+msgctxt "LetterTraderCaravanArrival"
+msgid "A caravan from {0} is approaching. They are a {1}."
+msgstr ""
+"A caravan from {0} is approaching. They are a {1}.\\n\\nThey will hang "
+"around the colony for a few days before leaving. You can attack them - but "
+"this will anger their faction!"
+
+#: compendium:97
+msgctxt "LetterCaravanArrivalCommonWarning"
+msgid ""
+"They will hang around the colony for some time before leaving. You can "
+"attack them - but this will anger their faction!"
+msgstr ""
+
+#: compendium:100
+#, fuzzy
+msgctxt "RansomDemandTitle"
+msgid "Ransom demand at {0}"
+msgstr "Ransom demand at {0}"
+
+#: compendium:101
+#, fuzzy
+msgctxt "RansomDemand"
+msgid ""
+"{1} contacts you on radio. They are holding former colonist "
+"{PAWN_labelShort} for ransom.\\n\\nThey're willing to release "
+"{PAWN_objective} back to you in exchange for {2} silver."
+msgstr ""
+"{1} contacts you on radio. They are holding former colonist {0} for "
+"ransom.\\n\\nThey're willing to release [PAWN_objective] back to you in "
+"exchange for {2} silver."
+
+#: compendium:102
+#, fuzzy
+msgctxt "RansomDemand_Accept"
+msgid "Accept"
+msgstr "Accept"
+
+#: compendium:103
+#, fuzzy
+msgctxt "RansomDemand_Reject"
+msgid "Reject"
+msgstr "Reject"
+
+#: compendium:106
+#, fuzzy
+msgctxt "EscapeShipFoundLabel"
+msgid "Ship found"
+msgstr "TODO"
+
+#: compendium:107
+#, fuzzy
+msgctxt "EscapeShipFound"
+msgid ""
+"You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and "
+"discovered the hidden starship.\\n\\nThe ship's reactor is still in deep "
+"hibernation mode, so it can't fly yet. You can start it up by interacting "
+"with the computer core.\\n\\n(*Name)Charlon Whitestone(/Name) warns you that"
+" the startup process will take about 15 days, and the energy signature will "
+"be detectable from a long distance away. This sort of energy signature "
+"indicates interstellar flight capability, and will attract gangs of "
+"desperate raiders and swarms of deadly mechanoids.\\n\\nYou will be "
+"assaulted with an intensity you've never seen. Make sure your defenses are "
+"prepared first."
+msgstr "TODO"
+
+#: compendium:108
+msgctxt "EscapeShipFoundPeaceful"
+msgid ""
+"You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and "
+"discovered the hidden starship.\\n\\nThe ship's reactor is still in deep "
+"hibernation mode, so it can't fly yet. You can start it up by interacting "
+"with the computer core.\\n\\n(*Name)Charlon Whitestone(/Name) warns you that"
+" the startup process will take about 15 days."
+msgstr ""
+
+#: compendium:111
+#, fuzzy
+msgctxt "CaravanMeetingTitle"
+msgid "Caravan meeting by {0}"
+msgstr "Caravan meeting by {0}"
+
+#: compendium:112
+#, fuzzy
+msgctxt "CaravanMeeting"
+msgid ""
+"{0} has met peacefully with a caravan from {1}. The other caravan is "
+"composed of:\\n\\n{2}"
+msgstr ""
+"Your caravan has met peacefully with a caravan from {0}. The other caravan "
+"is composed of:\\n\\n{1}"
+
+#: compendium:113
+#, fuzzy
+msgctxt "CaravanMeeting_Trade"
+msgid "Trade"
+msgstr "Trade"
+
+#: compendium:114
+#, fuzzy
+msgctxt "CaravanMeeting_Attack"
+msgid "Attack"
+msgstr "Attack"
+
+#: compendium:115
+#, fuzzy
+msgctxt "CaravanMeeting_MoveOn"
+msgid "Move on"
+msgstr "Move on"
+
+#: compendium:116
+#, fuzzy
+msgctxt "CaravanMeeting_TradeIncapable"
+msgid "no caravan members capable of trading"
+msgstr "TODO"
+
+#: compendium:117
+msgctxt "CaravanMeeting_NoPermit"
+msgid "need a trader with the title of {0} from {1_name}"
+msgstr ""
+
+#: compendium:120
+#, fuzzy
+msgctxt "LetterLabelCaravanRequest"
+msgid "Caravan request"
+msgstr "Caravan request"
+
+#: compendium:121
+#, fuzzy
+msgctxt "LetterCaravanRequest"
+msgid ""
+"A nearby settlement, {0}, contacts you with a special trade request. They "
+"would like to purchase:\\n\\n  {1} (worth {2})\\n\\nIn return, they "
+"offer:\\n\\n  {3} (worth {4})\\n\\nThis request expires after: {5}\\n\\nIf "
+"you want to make the trade, send a caravan with the requested supplies. The "
+"estimated travel time is {6}. You can review this offer by selecting {0} on "
+"the world map."
+msgstr ""
+"A nearby settlement, {0}, contacts you with a special trade request. They "
+"would like to purchase:\\n\\n  {1}\\n\\nIn return, they offer:\\n\\n  "
+"{2}\\n\\nThis request expires after: {3}\\n\\nIf you want to make the trade,"
+" send a caravan with the requested supplies. You can review this offer by "
+"selecting {0} on the world map."
+
+#: compendium:122
+#, fuzzy
+msgctxt "CaravanRequestInfo"
+msgid "Requesting: {0} ({2}) ({1} left)"
+msgstr "Requesting: {0}, Reward: {1} ({2} left)"
+
+#: compendium:123
+#, fuzzy
+msgctxt "NormalQualityOrBetter"
+msgid "normal quality or better"
+msgstr "TODO"
+
+#: compendium:124
+#, fuzzy
+msgctxt "NotTainted"
+msgid "not tainted"
+msgstr "TODO"
+
+#: compendium:127
+#, fuzzy
+msgctxt "CaravanDemandTitle"
+msgid "Caravan demand by {0}"
+msgstr "Caravan demand by {0}"
+
+#: compendium:128
+#, fuzzy
+msgctxt "CaravanDemand"
+msgid ""
+"{0} has been ambushed by a group of {2} {4} from {1}. They will attack "
+"unless you give them:\\n\\n{3}"
+msgstr ""
+"Your caravan has been ambushed by a group of {1} {3} from {0}. They will "
+"attack unless you give them:\\n\\n{2}"
+
+#: compendium:129
+#, fuzzy
+msgctxt "CaravanDemand_Give"
+msgid "Give and pass"
+msgstr "Give and pass"
+
+#: compendium:130
+#, fuzzy
+msgctxt "CaravanDemand_Fight"
+msgid "Refuse and fight"
+msgstr "Refuse and fight"
+
+#: compendium:133
+#, fuzzy
+msgctxt "LetterLabelSiteNoLongerHostile"
+msgid "Quest no longer available"
+msgstr "TODO"
+
+#: compendium:134
+#, fuzzy
+msgctxt "LetterLabelSiteNoLongerHostileMulti"
+msgid "Quests no longer available"
+msgstr "TODO"
+
+#: compendium:135
+#, fuzzy
+msgctxt "LetterSiteNoLongerHostile"
+msgid ""
+"Because you are no longer hostile with {0}, the {1} site is no longer "
+"available."
+msgstr "TODO"
+
+#: compendium:136
+#, fuzzy
+msgctxt "LetterSiteNoLongerHostileMulti"
+msgid ""
+"Because you are no longer hostile with {0}, the following sites are no "
+"longer available"
+msgstr "TODO"
+
+#: compendium:139
+msgctxt "LetterLabelQuestAskerFactionHostile"
+msgid "Quest failed"
+msgstr ""
+
+#: compendium:140
+msgctxt "LetterQuestAskerFactionHostile"
+msgid "The quest is now incompletable because {FACTION_name} is hostile."
+msgstr ""
+
+#: compendium:143
+msgctxt "LetterLabelQuestAskerCaptured"
+msgid "Quest failed"
+msgstr ""
+
+#: compendium:144
+msgctxt "LetterQuestAskerCaptured"
+msgid ""
+"The quest is now incompletable because {SUBJECT_definite} has been captured."
+msgstr ""
+
+#: compendium:147
+msgctxt "LetterLabelQuestAskerDied"
+msgid "Quest failed"
+msgstr ""
+
+#: compendium:148
+msgctxt "LetterQuestAskerDied"
+msgid "The quest is now incompletable because {SUBJECT_definite} has died."
+msgstr ""

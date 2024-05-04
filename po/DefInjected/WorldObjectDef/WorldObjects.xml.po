@@ -1,0 +1,126 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:6
+#, fuzzy
+msgctxt "Caravan.label"
+msgid "caravan"
+msgstr "ﻞﻘﻨﺘﻤﻟﺍ ﻝﺰﻨﻤﻟﺍ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:7
+#, fuzzy
+msgctxt "Caravan.description"
+msgid "A group of traveling people."
+msgstr ".ﻦﻳﺮﻓﺎﺴﻤﻟﺍ ﻦﻣ ﺔﻋﻮﻤﺠﻣ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:31
+#, fuzzy
+msgctxt "Settlement.label"
+msgid "settlement"
+msgstr "ﺕﺍﻮﻘﻟﺍ ﺓﺪﻋﺎﻗ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:32
+#, fuzzy
+msgctxt "Settlement.description"
+msgid "A base of one of the factions."
+msgstr ".ﺕﺍﻮﻘﻟﺍ ﻯﺪﺣﺇ ﺓﺪﻋﺎﻗ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:48
+#, fuzzy
+msgctxt "AbandonedSettlement.label"
+msgid "abandoned settlement"
+msgstr "ﺓﺭﻮﺠﻬﻤﻟﺍ ﺕﺍﻮﻘﻟﺍ ﺓﺪﻋﺎﻗ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:49
+#, fuzzy
+msgctxt "AbandonedSettlement.description"
+msgid "An abandoned settlement."
+msgstr ".ﺕﺍﻮﻘﻟﺍ ﺪﺣﻷ ﺓﺭﻮﺠﻬﻣ ﺓﺪﻋﺎﻗ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:55
+#, fuzzy
+msgctxt "DestroyedSettlement.label"
+msgid "destroyed settlement"
+msgstr "ﺓﺮﻣﺪﻤﻟﺍ ﺕﺍﻮﻘﻟﺍ ﺓﺪﻋﺎﻗ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:56
+#, fuzzy
+msgctxt "DestroyedSettlement.description"
+msgid "A destroyed settlement."
+msgstr ".ﺓﺮﻣﺪﻣ ﺔﻳﺮﻜﺴﻋ ﺓﺪﻋﺎﻗ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:70
+#, fuzzy
+msgctxt "EscapeShip.label"
+msgid "landed ship"
+msgstr "ﺮﻔﺴﻟﺍ ﺔﻬﺟﻭ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:71
+#, fuzzy
+msgctxt "EscapeShip.description"
+msgid "The location of a hidden ship which can help you escape the planet."
+msgstr ".ﺐﻛﻮﻜﻟﺍ ﺍﺬﻫ ﻦﻣ ﺏﻭﺮﻬﻟﺍ ﻰﻠﻋ ﻙﺪﻋﺎﺴﺗ ﻥﺃ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺔﻳﺮﺴﻟﺍ ﺔﻨﻴﻔﺴﻟﺍ ﻊﻗﻮﻣ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:93
+#, fuzzy
+msgctxt "AttackedNonPlayerCaravan.label"
+msgid "attacked caravan"
+msgstr "ﻡﻮﺠﻬﻠﻟ ﺔﻠﻓﺎﻘﻟﺍ ﺖﺿﺮﻌﺗ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:94
+#, fuzzy
+msgctxt "AttackedNonPlayerCaravan.description"
+msgid "A caravan under attack."
+msgstr ".ﻡﻮﺠﻬﻠﻟ ﺽﺮﻌﺘﺗ ﺔﻠﻓﺎﻗ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:113
+#, fuzzy
+msgctxt "TravelingTransportPods.label"
+msgid "transport pods"
+msgstr "ﻞﻘﻨﻟﺍ ﺔﻟﻮﺴﺒﻛ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:114
+#, fuzzy
+msgctxt "TravelingTransportPods.description"
+msgid "Transport pods in flight."
+msgstr ".ﺮﻴﻄﺗ ﻞﻘﻨﻟﺍ ﺓﺮﺠﺣ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:127
+#, fuzzy
+msgctxt "RoutePlannerWaypoint.label"
+msgid "waypoint"
+msgstr "ﺔﺘﻓﻻ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:128
+#, fuzzy
+msgctxt "RoutePlannerWaypoint.description"
+msgid "A temporary waypoint."
+msgstr ".ﺔﺘﻗﺆﻣ ﻖﻳﺮﻃ ﺔﻣﻼﻋ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:161
+#, fuzzy
+msgctxt "PeaceTalks.label"
+msgid "peace talks"
+msgstr "ﻡﻼﺴﻟﺍ ﺕﺎﺛﺩﺎﺤﻣ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:162
+#, fuzzy
+msgctxt "PeaceTalks.description"
+msgid "A site designated for peace talks."
+msgstr ".ﻡﻼﺴﻟﺍ ﺕﺎﺿﻭﺎﻔﻤﻟ ﺓﺩﺪﺤﻣ ﺔﺣﺎﺴﻣ"
+
+#: Defs/WorldObjectDefs/WorldObjects.xml:175
+msgctxt "PocketMap.label"
+msgid "pocket map"
+msgstr ""

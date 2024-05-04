@@ -1,0 +1,307 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:16
+#, fuzzy
+msgctxt "ShipBasics.label"
+msgid "starflight basics"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:17
+#, fuzzy
+msgctxt "ShipBasics.description"
+msgid ""
+"Construct the structural and supportive elements of a starship. This is the "
+"first step in building a ship to leave this star system."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:31
+msgctxt "ShipBasics.generalRules.rulesStrings.0"
+msgid "subject->starship structural engineering"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:31
+msgctxt "ShipBasics.generalRules.rulesStrings.1"
+msgid "subject_story->recruited starship engineers for a glitterworld fleet"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:31
+msgctxt "ShipBasics.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->was a structural designer in an urbworld skyripper district"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:31
+msgctxt "ShipBasics.generalRules.rulesStrings.3"
+msgid "subject_story->harvested shipwrecks in the debris belt of a deadworld"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:31
+msgctxt "ShipBasics.generalRules.rulesStrings.4"
+msgid "subject_gerund->constructing starship structures"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:46
+#, fuzzy
+msgctxt "ShipCryptosleep.label"
+msgid "vacuum cryptosleep casket"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:47
+#, fuzzy
+msgctxt "ShipCryptosleep.description"
+msgid ""
+"Construct hardened cryptosleep caskets tough enough to be exposed to vacuum,"
+" for transporting people on the years-long journey between stars."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:57
+msgctxt "ShipCryptosleep.generalRules.rulesStrings.0"
+msgid "subject->starship-grade cryptosleep caskets"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:57
+msgctxt "ShipCryptosleep.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->replaced the failed cryptosleep caskets on the CMC Celeste, "
+"so the old generation ship could be used again"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:57
+msgctxt "ShipCryptosleep.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->was accidentally ejected in deep space, surviving in a self-"
+"designed casket for two months"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:57
+msgctxt "ShipCryptosleep.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->lectured on the differences between planetary- and starship-"
+"grade equipment"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:57
+msgctxt "ShipCryptosleep.generalRules.rulesStrings.4"
+msgid "subject_gerund->constructing hardened cryptosleep caskets"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:71
+#, fuzzy
+msgctxt "ShipReactor.label"
+msgid "starship reactor"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:72
+#, fuzzy
+msgctxt "ShipReactor.description"
+msgid ""
+"Build a long-duration nuclear reactor to power a starship. Note that "
+"reactors have a long startup process that will attract raiders."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:81
+msgctxt "ShipReactor.generalRules.rulesStrings.0"
+msgid "subject->starship nuclear reactor"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:81
+msgctxt "ShipReactor.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->constructed a new reactor for a colony ship, but never lived "
+"to see it lift off"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:81
+msgctxt "ShipReactor.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->defended the ship whilst the reactor span up, against raiders"
+" desperate to get off-world"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:81
+msgctxt "ShipReactor.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->used a starship reactor as the back-up power for a genebank "
+"buried beneath the planet's ice-cap"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:81
+msgctxt "ShipReactor.generalRules.rulesStrings.4"
+msgid "subject_gerund->constructing starship reactors"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:95
+#, fuzzy
+msgctxt "ShipEngine.label"
+msgid "Johnson-Tanaka drive"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:96
+#, fuzzy
+msgctxt "ShipEngine.description"
+msgid ""
+"Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to "
+"other stars by leveraging quantum scale effects to beam momentum to distant "
+"stars. Of course, as with all starships, it still takes many years to get "
+"anywhere."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:105
+msgctxt "ShipEngine.generalRules.rulesStrings.0"
+msgid "subject->Johnson-Tanaka theory"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:105
+msgctxt "ShipEngine.generalRules.rulesStrings.1"
+msgid "subject->exotic momentum transfer"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:105
+msgctxt "ShipEngine.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->lectured in the university on Johnson, Tanaka and quantum-"
+"scale effects"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:105
+msgctxt "ShipEngine.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->constructed a Johnson-Tanaka drive from first principles for "
+"a thesis"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:105
+msgctxt "ShipEngine.generalRules.rulesStrings.4"
+msgid ""
+"subject_story->maintained a Johnson-Tanaka drive for two decades, as the "
+"ship traveled between the stars"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:105
+msgctxt "ShipEngine.generalRules.rulesStrings.5"
+msgid "subject_gerund->constructing starship drives"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:120
+#, fuzzy
+msgctxt "ShipComputerCore.label"
+msgid "machine persuasion"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:121
+#, fuzzy
+msgctxt "ShipComputerCore.description"
+msgid ""
+"Build a reward-signal system to persuade an existing persona core into "
+"serving as a ship's machine captain. Since people sleep during interstellar "
+"travel, a persona core is necessary to handle the complex decisions of a "
+"years-long starflight."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:130
+msgctxt "ShipComputerCore.generalRules.rulesStrings.0"
+msgid "subject->persona core incentivization"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:130
+msgctxt "ShipComputerCore.generalRules.rulesStrings.1"
+msgid "subject->starship AI sanity maintenance"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:130
+msgctxt "ShipComputerCore.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->regained control of an aberrant ship's core with careful "
+"reconditioning"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:130
+msgctxt "ShipComputerCore.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->set up colony-management simulations to occupy the ship's "
+"core during the many years of interstellar travel"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:130
+msgctxt "ShipComputerCore.generalRules.rulesStrings.4"
+msgid ""
+"subject_story->kept a ship's core company during a 'short' interstellar "
+"trip, learning much about cores in the process"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:130
+msgctxt "ShipComputerCore.generalRules.rulesStrings.5"
+msgid "subject_gerund->incentivizing persona cores"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:130
+msgctxt "ShipComputerCore.generalRules.rulesStrings.6"
+msgid "subject_gerund->maintaining starship AI sanity"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:130
+msgctxt "ShipComputerCore.generalRules.rulesStrings.7"
+msgid "subject_gerund->constructing reward-signal systems"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:148
+#, fuzzy
+msgctxt "ShipSensorCluster.label"
+msgid "starflight sensors"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:149
+#, fuzzy
+msgctxt "ShipSensorCluster.description"
+msgid ""
+"Construct long-range sensors for a starship. These sensors are essential for"
+" navigation, communication, and threat avoidance."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:161
+msgctxt "ShipSensorCluster.generalRules.rulesStrings.0"
+msgid "subject->interstellar navigation"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:161
+msgctxt "ShipSensorCluster.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->used prototype starship sensors to detect an incoming "
+"extinction-level asteroid and evacuate the planet"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:161
+msgctxt "ShipSensorCluster.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->was employed as navigator and cook on a Glitterworld star-"
+"yacht"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:161
+msgctxt "ShipSensorCluster.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->refined the design of long-range sensors, improving their "
+"utility"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:161
+msgctxt "ShipSensorCluster.generalRules.rulesStrings.4"
+msgid "subject_gerund->navigating interstellar space"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_5_Ship.xml:161
+msgctxt "ShipSensorCluster.generalRules.rulesStrings.5"
+msgid "subject_gerund->constructing starship sensors"
+msgstr ""

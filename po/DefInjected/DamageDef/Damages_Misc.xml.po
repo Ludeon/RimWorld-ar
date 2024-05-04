@@ -1,0 +1,69 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/DamageDefs/Damages_Misc.xml:6
+#, fuzzy
+msgctxt "Deterioration.label"
+msgid "deterioration"
+msgstr "TODO"
+
+#: Defs/DamageDefs/Damages_Misc.xml:14
+#, fuzzy
+msgctxt "Mining.label"
+msgid "mining"
+msgstr "TODO"
+
+#: Defs/DamageDefs/Damages_Misc.xml:19
+#, fuzzy
+msgctxt "Rotting.label"
+msgid "rotting"
+msgstr "TODO"
+
+#: Defs/DamageDefs/Damages_Misc.xml:27
+#, fuzzy
+msgctxt "Extinguish.label"
+msgid "extinguish"
+msgstr "TODO"
+
+#: Defs/DamageDefs/Damages_Misc.xml:43
+#, fuzzy
+msgctxt "Bomb.label"
+msgid "bomb"
+msgstr "TODO"
+
+#: Defs/DamageDefs/Damages_Misc.xml:79
+#, fuzzy
+msgctxt "Smoke.label"
+msgid "smoke"
+msgstr "TODO"
+
+#: Defs/DamageDefs/Damages_Misc.xml:92
+msgctxt "Thump.label"
+msgid "thump"
+msgstr ""
+
+#: Defs/DamageDefs/Damages_Misc.xml:118
+msgctxt "Vaporize.label"
+msgid "vaporize"
+msgstr ""
+
+#: Defs/DamageDefs/Damages_Misc.xml:145
+msgctxt "AcidBurn.label"
+msgid "acid burn"
+msgstr ""
+
+#: Defs/DamageDefs/Damages_Misc.xml:154
+msgctxt "Decayed.label"
+msgid "decayed organ"
+msgstr ""

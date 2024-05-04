@@ -1,0 +1,152 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Child.xml:10
+msgctxt "VatgrownSoldier8.description"
+msgid ""
+"[PAWN_nameDef] wasn't made as a person, but as an instrument of destruction."
+" Grown in a bioweapons facility and taught combat during [PAWN_possessive] "
+"accelerated growth, [PAWN_nameDef] still has a proclivity for combat of all "
+"kinds and an aversion to human contact."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Child.xml:33
+msgctxt "SicklyChild55.description"
+msgid ""
+"As a child, [PAWN_nameDef] suffered from a rare disease. Quarantined in a "
+"hospital, [PAWN_pronoun] had minimal human contact and got little physical "
+"exercise. In the sterile hospital environment, however, [PAWN_pronoun] "
+"became very familiar with science and medicine."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Child.xml:57
+msgctxt "FrightenedChild43.description"
+msgid ""
+"[PAWN_nameDef] grew up with a laundry list of phobias and neuroses. "
+"[PAWN_pronoun] feared, among other things, doctors and foodborne "
+"pathogens.\\n\\nAs a result, [PAWN_pronoun] learned to cook and care for "
+"[PAWN_objective]self, but many of [PAWN_possessive] fears dog "
+"[PAWN_objective] in adulthood."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Child.xml:79
+msgctxt "ComaChild93.description"
+msgid ""
+"A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn't "
+"wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. "
+"[PAWN_possessive] body never recovered from the years of inactivity, but "
+"people tend to take pity on [PAWN_objective] when they hear "
+"[PAWN_possessive] story."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Child.xml:101
+msgctxt "Pyromaniac18.description"
+msgid ""
+"From an early age, [PAWN_nameDef] had an unhealthy fascination with fire. "
+"[PAWN_pronoun] would set refuse heaps ablaze and become so entranced by the "
+"flames [PAWN_pronoun] would absent-mindedly burn "
+"[PAWN_objective]self.\\n\\nOne day while playing with matches, "
+"[PAWN_pronoun] carelessly burned down [PAWN_possessive] home."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Child.xml:127
+msgctxt "Mute34.description"
+msgid ""
+"[PAWN_nameDef] was greatly affected by a traumatic event early in "
+"[PAWN_possessive] life. For many years [PAWN_pronoun] refused to speak to "
+"people, preferring instead to play with [PAWN_possessive] household's "
+"numerous pets."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Child.xml:148
+msgctxt "WarRefugee51.description"
+msgid ""
+"War broke out in [PAWN_nameDef]'s home when [PAWN_pronoun] was a baby. "
+"[PAWN_possessive] parents fled with [PAWN_objective], seeking safety "
+"wherever they could find it. [PAWN_nameDef]'s earliest memories are of being"
+" taught how to defend [PAWN_objective]self.\\n\\nThe violence and "
+"destruction [PAWN_pronoun] witnessed left [PAWN_objective] scarred for life."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Child.xml:168
+msgctxt "MusicalKid86.description"
+msgid ""
+"As a child, [PAWN_nameDef] had a talent for playing musical instruments and "
+"singing. [PAWN_pronoun] was given expert training and loved to perform in "
+"recitals and concerts, though the lavish praise [PAWN_pronoun] received made"
+" [PAWN_objective] a little self-obsessed."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Child.xml:187
+msgctxt "ChildStar74.description"
+msgid ""
+"[PAWN_nameDef] was well-known throughout [PAWN_possessive] homeworld as a "
+"child actor in films and TV shows. [PAWN_possessive] fame put "
+"[PAWN_objective] in contact with many different kinds of people, but also "
+"tended to get in the way of [PAWN_possessive] education."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Child.xml:207
+msgctxt "ChildSpy47.description"
+msgid ""
+"Children are presumed innocent, which makes them excellent spies. [PAWN_nameDef] was trained in the art of infiltration when [PAWN_pronoun] was just a small child.\n"
+"\\n[PAWN_possessive] years undercover gave [PAWN_objective] experience with social manipulation and lying, but [PAWN_pronoun] never had a normal education."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Child.xml:228
+msgctxt "ShopKid36.description"
+msgid ""
+"[PAWN_nameDef]'s mother was often ill, and it fell to [PAWN_objective] to "
+"run the store which was their only source of income. [PAWN_pronoun] learned "
+"a little about the exotic artifacts which [PAWN_pronoun] sold, and a lot "
+"about the art of the deal."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Child.xml:247
+msgctxt "OrganFarm67.description"
+msgid ""
+"[PAWN_nameDef] was raised in an illegal underground organ farm. "
+"[PAWN_possessive] body was used to grow organic implants for wounded "
+"mercenaries. Though [PAWN_possessive] upbringing has left [PAWN_objective] "
+"haunted, it has also given [PAWN_objective] a unique understanding of human "
+"biology."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Child.xml:269
+msgctxt "MedicalAssistant12.description"
+msgid ""
+"[PAWN_nameDef] was born during a catastrophic war in which both sides used "
+"incendiary weapons. [PAWN_pronoun] grew up helping [PAWN_possessive] parents"
+" in an infirmary, treating the cascade of horrific burns from the "
+"battlefields. [PAWN_pronoun] was left with a lifelong fear of fire."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Child.xml:294
+msgctxt "CultChild3.description"
+msgid ""
+"[PAWN_nameDef] was born into a powerful cult which shunned advanced "
+"technology and believed that all illness could be cured by cleansing the "
+"soul through sacred art.\\n\\nAfter [PAWN_possessive] first glimpse of the "
+"outside world, [PAWN_pronoun] decided to run away."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Offworld_Nonspecific_Child.xml:319
+msgctxt "StoryWriter67.description"
+msgid ""
+"As a child, [PAWN_nameDef] was addicted to reading. [PAWN_pronoun] would "
+"spend all day in [PAWN_possessive] local library with [PAWN_possessive] nose"
+" in a book. When budget cuts forced the library to close, [PAWN_nameDef] was"
+" distraught. [PAWN_pronoun] decided to fill the gap by writing "
+"[PAWN_possessive] own stories instead."
+msgstr ""

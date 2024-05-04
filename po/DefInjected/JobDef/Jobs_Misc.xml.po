@@ -1,0 +1,452 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/JobDefs/Jobs_Misc.xml:9
+msgctxt "IdleWhileDespawned.reportString"
+msgid "idling."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:15
+#, fuzzy
+msgctxt "Goto.reportString"
+msgid "moving."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:24
+msgctxt "PickupToHold.reportString"
+msgid "picking up TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:32
+#, fuzzy
+msgctxt "Follow.reportString"
+msgid "following TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:39
+#, fuzzy
+msgctxt "FollowClose.reportString"
+msgid "following TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:46
+msgctxt "FollowRoper.reportString"
+msgid "following TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:53
+#, fuzzy
+msgctxt "GotoSafeTemperature.reportString"
+msgid "seeking safe temperature."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:60
+#, fuzzy
+msgctxt "GotoWander.reportString"
+msgid "wandering."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:69
+#, fuzzy
+msgctxt "Wait.reportString"
+msgid "standing."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:80
+msgctxt "StandAndStare.reportString"
+msgid "staring."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:88
+#, fuzzy
+msgctxt "Wait_MaintainPosture.reportString"
+msgid "standing."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:96
+msgctxt "Wait_Asleep.reportString"
+msgid "sleeping."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:105
+msgctxt "Wait_AsleepDormancy.reportString"
+msgid "sleeping."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:114
+#, fuzzy
+msgctxt "Wait_Downed.reportString"
+msgid "downed."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:123
+#, fuzzy
+msgctxt "Wait_SafeTemperature.reportString"
+msgid "waiting in safe temperature."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:129
+#, fuzzy
+msgctxt "Wait_Wander.reportString"
+msgid "wandering."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:139
+#, fuzzy
+msgctxt "Wait_Combat.reportString"
+msgid "watching for targets."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:150
+#, fuzzy
+msgctxt "AttackStatic.reportString"
+msgid "attacking TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:159
+#, fuzzy
+msgctxt "AttackMelee.reportString"
+msgid "melee attacking TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:168
+#, fuzzy
+msgctxt "SocialFight.reportString"
+msgid "fighting with TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:241
+#, fuzzy
+msgctxt "Equip.reportString"
+msgid "equipping TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:248
+#, fuzzy
+msgctxt "TakeInventory.reportString"
+msgid "taking TargetA to inventory."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:255
+#, fuzzy
+msgctxt "GiveToPackAnimal.reportString"
+msgid "taking TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:262
+#, fuzzy
+msgctxt "Wear.reportString"
+msgid "wearing TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:269
+#, fuzzy
+msgctxt "RemoveApparel.reportString"
+msgid "removing TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:276
+#, fuzzy
+msgctxt "DropEquipment.reportString"
+msgid "dropping TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:283
+#, fuzzy
+msgctxt "Strip.reportString"
+msgid "stripping TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:291
+#, fuzzy
+msgctxt "Open.reportString"
+msgid "opening TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:298
+#, fuzzy
+msgctxt "RearmTurret.reportString"
+msgid "rearming TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:306
+#, fuzzy
+msgctxt "RearmTurretAtomic.reportString"
+msgid "rearming TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:314
+#, fuzzy
+msgctxt "Refuel.reportString"
+msgid "refueling TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:322
+#, fuzzy
+msgctxt "RefuelAtomic.reportString"
+msgid "refueling TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:330
+msgctxt "Reload.reportString"
+msgid "reloading TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:338
+#, fuzzy
+msgctxt "FillFermentingBarrel.reportString"
+msgid "filling TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:346
+#, fuzzy
+msgctxt "TakeBeerOutOfFermentingBarrel.reportString"
+msgid "taking beer out of TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:353
+msgctxt "ApplyTechprint.reportString"
+msgid "applying TargetB."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:360
+#, fuzzy
+msgctxt "UnloadInventory.reportString"
+msgid "unloading TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:367
+#, fuzzy
+msgctxt "UnloadYourInventory.reportString"
+msgid "unloading inventory."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:374
+#, fuzzy
+msgctxt "HaulToTransporter.reportString"
+msgid "hauling TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:383
+msgctxt "HaulToPortal.reportString"
+msgid "hauling TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:392
+#, fuzzy
+msgctxt "ManTurret.reportString"
+msgid "operating turret."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:400
+#, fuzzy
+msgctxt "EnterCryptosleepCasket.reportString"
+msgid "entering cryptosleep casket."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:408
+#, fuzzy
+msgctxt "UseNeurotrainer.reportString"
+msgid "using neurotrainer."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:415
+#, fuzzy
+msgctxt "UseArtifact.reportString"
+msgid "activating artifact."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:422
+#, fuzzy
+msgctxt "UseItem.reportString"
+msgid "using TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:430
+msgctxt "TriggerObject.reportString"
+msgid "triggering TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:436
+#, fuzzy
+msgctxt "ClearSnow.reportString"
+msgid "clearing snow."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:445
+#, fuzzy
+msgctxt "Vomit.reportString"
+msgid "vomiting."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:452
+#, fuzzy
+msgctxt "Flick.reportString"
+msgid "flicking switch."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:459
+#, fuzzy
+msgctxt "TradeWithPawn.reportString"
+msgid "trading with TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:465
+msgctxt "DismissTrader.reportString"
+msgid "dismissing trader."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:471
+#, fuzzy
+msgctxt "Flee.reportString"
+msgid "fleeing."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:479
+#, fuzzy
+msgctxt "FleeAndCower.reportString"
+msgid "fleeing."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:487
+#, fuzzy
+msgctxt "EnterTransporter.reportString"
+msgid "entering TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:494
+#, fuzzy
+msgctxt "Resurrect.reportString"
+msgid "resurrecting TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:501
+#, fuzzy
+msgctxt "Insult.reportString"
+msgid "insulting TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:507
+#, fuzzy
+msgctxt "HaulCorpseToPublicPlace.reportString"
+msgid "hauling TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:513
+#, fuzzy
+msgctxt "InducePrisonerToEscape.reportString"
+msgid "inducing TargetA to escape."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:519
+#, fuzzy
+msgctxt "OfferHelp.reportString"
+msgid "helping TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:525
+msgctxt "EmptyThingContainer.reportString"
+msgid "emptying TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:531
+msgctxt "InteractThing.reportString"
+msgid "activating TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:537
+msgctxt "DeliverToCell.reportString"
+msgid "delivering TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:544
+msgctxt "DeliverToBed.reportString"
+msgid "delivering TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:551
+msgctxt "TakeCountToInventory.reportString"
+msgid "taking TargetA to inventory."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:559
+msgctxt "TakeFromOtherInventory.reportString"
+msgid "grabbing TargetA from TargetB."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:576
+msgctxt "Reading.reportString"
+msgid "reading TargetA"
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:584
+msgctxt "EnterPortal.reportString"
+msgid "entering TargetA."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:592
+#, fuzzy
+msgctxt "Ignite.reportString"
+msgid "igniting TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:599
+#, fuzzy
+msgctxt "BeatFire.reportString"
+msgid "beating fire out."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:607
+#, fuzzy
+msgctxt "ExtinguishSelf.reportString"
+msgid "extinguishing self."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:615
+msgctxt "ExtinguishFiresNearby.reportString"
+msgid "extinguishing fires nearby."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:625
+#, fuzzy
+msgctxt "Ingest.reportString"
+msgid "consuming TargetA."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:632
+#, fuzzy
+msgctxt "LayDown.reportString"
+msgid "lying down."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:641
+msgctxt "LayDownAwake.reportString"
+msgid "lying down."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:651
+msgctxt "LayDownResting.reportString"
+msgid "lying down."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Misc.xml:662
+#, fuzzy
+msgctxt "Lovin.reportString"
+msgid "lovin'."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Misc.xml:671
+msgctxt "GotoMindControlled.reportString"
+msgid "moving."
+msgstr ""

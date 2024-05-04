@@ -1,0 +1,124 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/BackstoryDefs/Shuffled/Tribal_Child.xml:8
+msgctxt "TribeChild40.description"
+msgid ""
+"[PAWN_nameDef] grew up in a tribe, running around the village, moving with "
+"the muffalo herds, learning essential skills from [PAWN_possessive] "
+"parents.\\n\\n[PAWN_pronoun] never learned to read and never saw a machine "
+"that wasn't an ancient ruin."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Tribal_Child.xml:23
+msgctxt "AbandonedChild23.description"
+msgid ""
+"[PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only "
+"burden the tribe, [PAWN_possessive] parents exposed [PAWN_objective] to the "
+"elements. Somehow, [PAWN_pronoun] survived."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Tribal_Child.xml:42
+msgctxt "ReclusiveChild81.description"
+msgid ""
+"[PAWN_nameDef] didn't learn to speak until [PAWN_pronoun] was nearly five years old. Even then [PAWN_pronoun] preferred to keep to [PAWN_objective]self.\n"
+"\\nTo the chagrin of [PAWN_possessive] caretakers, [PAWN_pronoun] made a habit of wandering off to live in the wilderness for weeks at a time."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Tribal_Child.xml:62
+msgctxt "Herder19.description"
+msgid ""
+"[PAWN_nameDef] tended the muffalo herds, keeping them safe from predators "
+"and treating sick animals. It was quiet work, but [PAWN_pronoun] enjoyed "
+"being away from people."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Tribal_Child.xml:76
+msgctxt "Scavenger22.description"
+msgid ""
+"[PAWN_nameDef] spent [PAWN_possessive] childhood escaping grunt work to go "
+"digging through wrecks and ruins for treasures. [PAWN_possessive] natural "
+"curiosity got [PAWN_objective] into a lot of trouble, but it also yielded "
+"many interesting finds."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Tribal_Child.xml:92
+msgctxt "CaveChild30.description"
+msgid ""
+"[PAWN_nameDef] grew up in a large and intricate cave complex that extended "
+"deep into a mountainside. [PAWN_pronoun] helped the adults maintain and "
+"improve the deep caves."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Tribal_Child.xml:108
+msgctxt "SoleSurvivor21.description"
+msgid ""
+"[PAWN_nameDef]'s entire tribe was wiped out in a raid. Though [PAWN_pronoun]"
+" was adopted by another group, [PAWN_pronoun] was emotionally scarred, and "
+"preferred to stay near home, cooking and tending crops."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Tribal_Child.xml:128
+msgctxt "VengefulChild43.description"
+msgid ""
+"As a child, [PAWN_nameDef] returned to [PAWN_possessive] village to find "
+"that it had been wiped out by bandits. [PAWN_pronoun] swore revenge on the "
+"attackers and began a violent rampage across the wilderness."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Tribal_Child.xml:147
+msgctxt "FireKeeper44.description"
+msgid ""
+"[PAWN_nameDef] was responsible for keeping the tribe's fire going. "
+"[PAWN_pronoun] took this responsibility very seriously."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Tribal_Child.xml:160
+msgctxt "Hideaway7.description"
+msgid ""
+"[PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay "
+"at home nearly every day. Though [PAWN_pronoun] had a lot of time to read "
+"and pursue crafting hobbies, [PAWN_pronoun] never developed normal social "
+"skills."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Tribal_Child.xml:177
+msgctxt "CrashBaby32.description"
+msgid ""
+"As a baby, [PAWN_nameDef] was the only survivor of a deadly spacecraft "
+"crash. A passing tribe discovered [PAWN_objective] in the wreckage and "
+"adopted [PAWN_objective]."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Tribal_Child.xml:190
+msgctxt "BuddingArtist44.description"
+msgid ""
+"[PAWN_nameDef] had a knack for art. Traders and collectors from many "
+"different societies sought to buy [PAWN_possessive] creations."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Tribal_Child.xml:202
+msgctxt "Bully70.description"
+msgid ""
+"[PAWN_nameDef] tormented other children for fun. To keep [PAWN_objective] "
+"busy, an elder assigned [PAWN_objective] to a hunting party at an early age."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Tribal_Child.xml:218
+msgctxt "Bookworm19.description"
+msgid ""
+"Rather than socialize with the other children, [PAWN_nameDef] preferred to "
+"get lost in literature. [PAWN_pronoun] taught [PAWN_objective]self to read "
+"at an early age with books bought from passing traders."
+msgstr ""

@@ -1,0 +1,193 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:8
+#, fuzzy
+msgctxt "Plant_Rice.label"
+msgid "rice plant"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:9
+#, fuzzy
+msgctxt "Plant_Rice.description"
+msgid ""
+"A short, fast-growing crop that yields small edible grains. Its great "
+"nutritional output and ease of cultivation has made it the economic core of "
+"many great civilizations. While rice grows quickly, it is sensitive to soil "
+"fertility and will not fare well in poor soil."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:43
+#, fuzzy
+msgctxt "Plant_Potato.label"
+msgid "potato plant"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:44
+#, fuzzy
+msgctxt "Plant_Potato.description"
+msgid ""
+"A highly nutritious tuber. Potatoes grow well even in somewhat poor soil, "
+"and form a delicious crispy outer coating when fried in oil."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:78
+#, fuzzy
+msgctxt "Plant_Corn.label"
+msgid "corn plant"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:79
+#, fuzzy
+msgctxt "Plant_Corn.description"
+msgid ""
+"A tall grain plant which produces ears of soft, edible seeds. While corn "
+"takes a long time to grow, it yields lots of food compared to other crops. "
+"Harvested corn takes a long time to spoil."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:112
+#, fuzzy
+msgctxt "Plant_Strawberry.label"
+msgid "strawberry plant"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:113
+#, fuzzy
+msgctxt "Plant_Strawberry.description"
+msgid ""
+"A low bush-like plant that yields fragile but delicious strawberries. While "
+"it isn't quite as productive calorie-for-calorie as other crops, "
+"strawberries are delicious even when raw."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:147
+#, fuzzy
+msgctxt "Plant_Haygrass.label"
+msgid "haygrass"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:148
+#, fuzzy
+msgctxt "Plant_Haygrass.description"
+msgid ""
+"A mixture of nutrient-rich grasses which yield large amounts of hay. Hay is "
+"edible for animals, but not humans."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:184
+#, fuzzy
+msgctxt "Plant_Cotton.label"
+msgid "cotton plant"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:185
+#, fuzzy
+msgctxt "Plant_Cotton.description"
+msgid ""
+"A mid-size crop that yields fine white cotton fibers. These are used to make"
+" cloth."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:216
+#, fuzzy
+msgctxt "Plant_Devilstrand.label"
+msgid "devilstrand"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:217
+#, fuzzy
+msgctxt "Plant_Devilstrand.description"
+msgid ""
+"This fragile mushroom was genetically engineered to produce a silk net that "
+"is both difficult to tear and soft to the touch. While the mushroom takes a "
+"very long time to grow, only exotic ultra-tech fabrics outperform its "
+"devilstrand fibers.\\n\\nSome say it's called devilstrand because of its red"
+" color. Others think it owes its name to the greed it inspires in people."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:282
+#, fuzzy
+msgctxt "Plant_Healroot.label"
+msgid "healroot"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:283
+#, fuzzy
+msgctxt "Plant_Healroot.description"
+msgid ""
+"A slow-growing plant which yields herbal medicine when harvested. Sowing and"
+" harvesting healroot are both very labor-intensive tasks because of its "
+"delicate shoots.\\n\\nHealroot was selectively bred for centuries by "
+"settlers. It is sometimes also called \"healer's hand\" by tribespeople - a "
+"nickname it owes to its five major medicinal virtues."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:300
+#, fuzzy
+msgctxt "Plant_Hops.label"
+msgid "hop plant"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:301
+#, fuzzy
+msgctxt "Plant_Hops.description"
+msgid "A flowering crop that yields hops, an essential ingredient in beer."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:334
+#, fuzzy
+msgctxt "Plant_Smokeleaf.label"
+msgid "smokeleaf plant"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:335
+#, fuzzy
+msgctxt "Plant_Smokeleaf.description"
+msgid ""
+"A leafy crop grown for the psychological effects of chemicals in its leaves."
+" Smokeleaf leaves can be prepared into joints at the crafting spot. "
+"Smokeleaf makes a user feel relaxed, but reduces motivation, and can be "
+"addictive."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:367
+#, fuzzy
+msgctxt "Plant_Psychoid.label"
+msgid "psychoid plant"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:368
+#, fuzzy
+msgctxt "Plant_Psychoid.description"
+msgid ""
+"A leafy plant which generates the chemical compound psychite. Originally "
+"evolved as a defense mechanism to ward off plant-eating animals by "
+"overstimulating and sickening them, the psychite drug can be extracted and "
+"refined into various forms for recreational use. It is addictive."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:406
+#, fuzzy
+msgctxt "Plant_TreeCocoa.label"
+msgid "cocoa tree"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Plants/Plants_Cultivated_Farm.xml:407
+#, fuzzy
+msgctxt "Plant_TreeCocoa.description"
+msgid ""
+"A tropical tree that produces chocolate, genetically engineered to sweeten "
+"its own product, and survive in slightly less-warm climates."
+msgstr "TODO"

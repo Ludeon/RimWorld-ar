@@ -1,0 +1,132 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/FactionDefs/Factions_Misc.xml:185
+#, fuzzy
+msgctxt "OutlanderCivil.label"
+msgid "civil outlander union"
+msgstr "TODO"
+
+#: Defs/FactionDefs/Factions_Misc.xml:186
+#, fuzzy
+msgctxt "OutlanderCivil.description"
+msgid ""
+"These people have lived here for decades or centuries, and have lost most of"
+" the technology that brought them to this world. They usually work with "
+"simple machinery and defend themselves with advanced gunpowder "
+"weapons.\\n\\nThey are concerned with the practical matters of trade, trust,"
+" and survival.\\n\\nThis particular group holds civil behavior in high "
+"regard."
+msgstr "TODO"
+
+#: Defs/FactionDefs/Factions_Misc.xml:211
+#, fuzzy
+msgctxt "OutlanderRough.label"
+msgid "rough outlander union"
+msgstr "TODO"
+
+#: Defs/FactionDefs/Factions_Misc.xml:212
+#, fuzzy
+msgctxt "OutlanderRough.description"
+msgid ""
+"These people have lived here for decades or centuries, and have lost most of"
+" the technology that brought them to this world. They usually work with "
+"simple machinery and defend themselves with advanced gunpowder "
+"weapons.\\n\\nThey are concerned with the practical matters of trade, trust,"
+" and survival.\\n\\nThis particular group has a streak of barbarity in them."
+msgstr "TODO"
+
+#: Defs/FactionDefs/Factions_Misc.xml:443
+#, fuzzy
+msgctxt "TribeCivil.label"
+msgid "gentle tribe"
+msgstr "TODO"
+
+#: Defs/FactionDefs/Factions_Misc.xml:444
+#, fuzzy
+msgctxt "TribeCivil.description"
+msgid ""
+"These people have been here a very long time. Maybe their ancestors crashed "
+"here a thousand years ago. Maybe they survived some cataclysm that destroyed"
+" a technological civilization here. In any case, the tribals are mostly "
+"nomadic people who live off the land using primitive tools and "
+"weapons.\\n\\nDespite their apparent technological weakness, the tribals can"
+" be dangerous enemies and valuable friends because of their skill with low-"
+"tech warfare, their numbers, and their hardiness.\\n\\nThis particular tribe"
+" pursues a gentle way of life where they can. They are quite open to trade "
+"and alliances, even with strange peoples."
+msgstr "TODO"
+
+#: Defs/FactionDefs/Factions_Misc.xml:478
+#, fuzzy
+msgctxt "TribeRough.label"
+msgid "fierce tribe"
+msgstr "TODO"
+
+#: Defs/FactionDefs/Factions_Misc.xml:479
+#, fuzzy
+msgctxt "TribeRough.description"
+msgid ""
+"These people have been here a very long time. Maybe their ancestors crashed "
+"here a thousand years ago. Maybe they survived some cataclysm that destroyed"
+" a technological civilization here. In any case, the tribals are mostly "
+"nomadic people who live off the land using primitive tools and "
+"weapons.\\n\\nDespite their apparent technological weakness, the tribals can"
+" be dangerous enemies and valuable friends because of their skill with low-"
+"tech warfare, their numbers, and their hardiness.\\n\\nThis particular tribe"
+" values warlike dominance; it may be difficult to turn them into an ally."
+msgstr "TODO"
+
+#: Defs/FactionDefs/Factions_Misc.xml:502
+msgctxt "TribeSavage.label"
+msgid "savage tribe"
+msgstr ""
+
+#: Defs/FactionDefs/Factions_Misc.xml:503
+msgctxt "TribeSavage.description"
+msgid ""
+"These people have been here a very long time. Maybe their ancestors crashed "
+"here a thousand years ago. Maybe they survived some cataclysm that destroyed"
+" a technological civilization here. In any case, the tribals are mostly "
+"nomadic people who live off the land using primitive tools and "
+"weapons.\\n\\nDespite their apparent technological weakness, the tribals can"
+" be dangerous enemies because of their skill with low-tech warfare, their "
+"numbers, and their hardiness.\\n\\nThis particular tribe is driven by a "
+"blood-and-honor culture; you will not be able to ally with them!"
+msgstr ""
+
+#: Defs/FactionDefs/Factions_Misc.xml:511
+#, fuzzy
+msgctxt "Pirate.label"
+msgid "pirate gang"
+msgstr "TODO"
+
+#: Defs/FactionDefs/Factions_Misc.xml:512
+#, fuzzy
+msgctxt "Pirate.description"
+msgid ""
+"A loose confederation of pirate gangs who've agreed to mostly fight "
+"outsiders instead of fighting each other.\\n\\nPirates don't sow, they don't"
+" build, and they rarely trade. Driven by a blood-and-honor culture that "
+"values personal strength and ruthlessness, they enrich themselves by raiding"
+" and robbing their more productive neighbors.\\n\\nTheir technology level "
+"depends mostly on who they've managed to steal from recently. Mostly they "
+"carry gunpowder weapons, though some prefer to stab victims at close range."
+msgstr "TODO"
+
+#: Defs/FactionDefs/Factions_Misc.xml:514
+#, fuzzy
+msgctxt "Pirate.pawnsPlural"
+msgid "pirates"
+msgstr "TODO"

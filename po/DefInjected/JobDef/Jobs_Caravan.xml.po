@@ -1,0 +1,40 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/JobDefs/Jobs_Caravan.xml:7
+#, fuzzy
+msgctxt "PrepareCaravan_GatherItems.reportString"
+msgid "gathering supplies."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Caravan.xml:14
+msgctxt "PrepareCaravan_GatherAnimals.reportString"
+msgid "leading TargetA to caravan spot."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Caravan.xml:22
+msgctxt "PrepareCaravan_CollectAnimals.reportString"
+msgid "leading TargetA to exit."
+msgstr ""
+
+#: Defs/JobDefs/Jobs_Caravan.xml:30
+#, fuzzy
+msgctxt "PrepareCaravan_GatherDownedPawns.reportString"
+msgid "preparing to leave."
+msgstr "TODO"
+
+#: Defs/JobDefs/Jobs_Caravan.xml:39
+msgctxt "ReturnedCaravan_PenAnimals.reportString"
+msgid "taking TargetA back to a pen."
+msgstr ""

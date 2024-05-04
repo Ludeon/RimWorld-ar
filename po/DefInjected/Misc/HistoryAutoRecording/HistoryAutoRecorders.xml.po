@@ -1,0 +1,79 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:6
+#, fuzzy
+msgctxt "Wealth_Total.label"
+msgid "wealth (total)"
+msgstr "TODO"
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:15
+#, fuzzy
+msgctxt "Wealth_Items.label"
+msgid "wealth (items)"
+msgstr "TODO"
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:24
+#, fuzzy
+msgctxt "Wealth_Buildings.label"
+msgid "wealth (buildings)"
+msgstr "TODO"
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:33
+#, fuzzy
+msgctxt "Wealth_Pawns.label"
+msgid "wealth (creatures)"
+msgstr "TODO"
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:42
+#, fuzzy
+msgctxt "FreeColonists.label"
+msgid "free colonists"
+msgstr "TODO"
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:51
+#, fuzzy
+msgctxt "Prisoners.label"
+msgid "prisoners"
+msgstr "TODO"
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:60
+#, fuzzy
+msgctxt "ColonistMood.label"
+msgid "mood"
+msgstr "TODO"
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:71
+#, fuzzy
+msgctxt "Adaptation.label"
+msgid "recovery"
+msgstr "TODO"
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:80
+#, fuzzy
+msgctxt "ThreatPoints.label"
+msgid "fun points /10"
+msgstr "TODO"
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:89
+#, fuzzy
+msgctxt "PopAdaptation.label"
+msgid "pop recovery"
+msgstr "TODO"
+
+#: Defs/Misc/HistoryAutoRecording/HistoryAutoRecorders.xml:98
+#, fuzzy
+msgctxt "PopIntent.label"
+msgid "pop intent x10"
+msgstr "TODO"

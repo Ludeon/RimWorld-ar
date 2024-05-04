@@ -1,0 +1,65 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/BackstoryDefs/Shuffled/Pirate_Adult.xml:8
+msgctxt "SpacePirate55.description"
+msgid ""
+"Piracy appears everywhere that governments are weak and society spread thin."
+" [PAWN_nameDef] was part of this age-old part of human existence, extorting "
+"and smashing peaceful trade ships for profit."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Pirate_Adult.xml:26
+msgctxt "PitBrawler76.description"
+msgid ""
+"[PAWN_nameDef] was nine years old when [PAWN_pronoun] got in "
+"[PAWN_possessive] first fight. [PAWN_pronoun] won, but more important was "
+"the enjoyment of [PAWN_possessive] audience. Pit fighting turned out to be a"
+" lucrative career for those who could survive it. And it was even mostly "
+"legal."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Pirate_Adult.xml:50
+msgctxt "IllegalShipwright76.description"
+msgid ""
+"There is a law that says that you're not allowed to put terawatt-range "
+"grasers on a cargo scow. Especially if you hide them under what looks like a"
+" communications dish for better ambush potential. [PAWN_nameDef] discovered "
+"that there is great profit to be made, however, from those who are "
+"uninterested in these laws."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Pirate_Adult.xml:69
+msgctxt "Gigolo30.description"
+msgid ""
+"[PAWN_nameDef] was used for [PAWN_possessive] body by hundreds of customers "
+"in brothels on several planets. [PAWN_pronoun] gained some mental marks and "
+"a special kind of street smarts."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Pirate_Adult.xml:97
+msgctxt "SpaceMarine16.description"
+msgid ""
+"[PAWN_nameDef] was a warrior in an Imperial navy. [PAWN_possessive] job was "
+"to punch into enemy starships, gun down the crew, and capture the ship "
+"intact. And [PAWN_pronoun] was good at it."
+msgstr ""
+
+#: Defs/BackstoryDefs/Shuffled/Pirate_Adult.xml:119
+msgctxt "Assassin20.description"
+msgid ""
+"[PAWN_nameDef] was a professional assassin. [PAWN_pronoun] was cold, "
+"calculating, and made a good profit. In this business, an utter lack of "
+"empathy was an asset."
+msgstr ""

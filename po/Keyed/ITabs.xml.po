@@ -1,0 +1,1199 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compendium:5
+#, fuzzy
+msgctxt "TabBills"
+msgid "Bills"
+msgstr "Bills"
+
+#: compendium:6
+#, fuzzy
+msgctxt "TabGrowing"
+msgid "Growing"
+msgstr "Growing"
+
+#: compendium:7
+#, fuzzy
+msgctxt "TabCharacter"
+msgid "Bio"
+msgstr "Character"
+
+#: compendium:8
+#, fuzzy
+msgctxt "TabTraining"
+msgid "Training"
+msgstr "Training"
+
+#: compendium:9
+#, fuzzy
+msgctxt "TabPrisoner"
+msgid "Prisoner"
+msgstr "Prisoner"
+
+#: compendium:10
+#, fuzzy
+msgctxt "TabGuest"
+msgid "Guest"
+msgstr "Guest"
+
+#: compendium:11
+#, fuzzy
+msgctxt "TabGear"
+msgid "Gear"
+msgstr "Gear"
+
+#: compendium:12
+#, fuzzy
+msgctxt "TabNeeds"
+msgid "Needs"
+msgstr "Needs"
+
+#: compendium:13
+#, fuzzy
+msgctxt "TabStorage"
+msgid "Storage"
+msgstr "Storage"
+
+#: compendium:14
+#, fuzzy
+msgctxt "TabShells"
+msgid "Shells"
+msgstr "TODO"
+
+#: compendium:15
+#, fuzzy
+msgctxt "TabHealth"
+msgid "Health"
+msgstr "Health"
+
+#: compendium:16
+#, fuzzy
+msgctxt "TabRace"
+msgid "Race"
+msgstr "Race"
+
+#: compendium:17
+#, fuzzy
+msgctxt "TabBasics"
+msgid "Basics"
+msgstr "Basics"
+
+#: compendium:18
+#, fuzzy
+msgctxt "TabStats"
+msgid "Stats"
+msgstr "Stats"
+
+#: compendium:19
+#, fuzzy
+msgctxt "TabRecords"
+msgid "Records"
+msgstr "Records"
+
+#: compendium:20
+#, fuzzy
+msgctxt "TabArt"
+msgid "Art"
+msgstr "Art"
+
+#: compendium:21
+#, fuzzy
+msgctxt "TabSocial"
+msgid "Social"
+msgstr "Social"
+
+#: compendium:22
+#, fuzzy
+msgctxt "TabLog"
+msgid "Log"
+msgstr "TODO"
+
+#: compendium:23
+msgctxt "TabPenAnimals"
+msgid "Animals"
+msgstr ""
+
+#: compendium:24
+msgctxt "TabPenFood"
+msgid "Food"
+msgstr ""
+
+#: compendium:25
+msgctxt "TabPenAutoCut"
+msgid "Auto-cut"
+msgstr ""
+
+#: compendium:26
+#, fuzzy
+msgctxt "TabFormingCaravan"
+msgid "Caravan"
+msgstr "TODO"
+
+#: compendium:27
+#, fuzzy
+msgctxt "TabTransporterContents"
+msgid "Contents"
+msgstr "TODO"
+
+#: compendium:28
+msgctxt "TabMapPortalContents"
+msgid "Travel"
+msgstr ""
+
+#: compendium:29
+msgctxt "TabCasketContents"
+msgid "Contents"
+msgstr ""
+
+#: compendium:30
+msgctxt "TabBookContents"
+msgid "Details"
+msgstr ""
+
+#: compendium:31
+msgctxt "TabStudyNotesContents"
+msgid "Study"
+msgstr ""
+
+#: compendium:32
+msgctxt "TabWindTurbineAutoCut"
+msgid "Auto-cut"
+msgstr ""
+
+#: compendium:35
+#, fuzzy
+msgctxt "AddBill"
+msgid "Add bill"
+msgstr "Add bill"
+
+#: compendium:36
+#, fuzzy
+msgctxt "RecipeRequiresSkills"
+msgid ""
+"The recipe {0} requires the skills below. None of your colonists have these "
+"skills, so nobody will do this bill."
+msgstr ""
+"The recipe {0} requires the skills below. None of your colonists have these "
+"skills, so nobody will do this bill."
+
+#: compendium:37
+#, fuzzy
+msgctxt "MinimumSkill"
+msgid "Min skill"
+msgstr "Min skill"
+
+#: compendium:38
+#, fuzzy
+msgctxt "SuspendedCaps"
+msgid "SUSPENDED"
+msgstr "SUSPENDED"
+
+#: compendium:39
+#, fuzzy
+msgctxt "BoundWorkerIs"
+msgid "Worker: {1_labelShort}"
+msgstr "Worker: {0}"
+
+#: compendium:40
+#, fuzzy
+msgctxt "PlantVerb"
+msgid "Plant"
+msgstr "Plant"
+
+#: compendium:41
+#, fuzzy
+msgctxt "ClipboardBillNotAvailableHere"
+msgid "Copied bill cannot be pasted here"
+msgstr "TODO"
+
+#: compendium:42
+#, fuzzy
+msgctxt "ReorderBillUpTip"
+msgid "Move up"
+msgstr "TODO"
+
+#: compendium:43
+#, fuzzy
+msgctxt "ReorderBillDownTip"
+msgid "Move down"
+msgstr "TODO"
+
+#: compendium:44
+#, fuzzy
+msgctxt "DeleteBillTip"
+msgid "Delete"
+msgstr "TODO"
+
+#: compendium:45
+#, fuzzy
+msgctxt "CopyBillTip"
+msgid "Copy to the clipboard"
+msgstr "TODO"
+
+#: compendium:46
+#, fuzzy
+msgctxt "SuspendBillTip"
+msgid "Suspend"
+msgstr "TODO"
+
+#: compendium:47
+#, fuzzy
+msgctxt "PasteBillTip"
+msgid "Paste"
+msgstr "TODO"
+
+#: compendium:48
+#, fuzzy
+msgctxt "PasteBillTip_LimitReached"
+msgid "can't add more"
+msgstr "TODO"
+
+#: compendium:49
+msgctxt "FinishesIn"
+msgid "Finishes in"
+msgstr ""
+
+#: compendium:52
+#, fuzzy
+msgctxt "RecruitmentResistance"
+msgid "Resistance"
+msgstr "TODO"
+
+#: compendium:53
+msgctxt "RecruitmentResistanceDesc"
+msgid ""
+"How much doubt this prisoner has about joining your faction. When this "
+"reaches zero, they can be recruited."
+msgstr ""
+
+#: compendium:54
+msgctxt "RecruitmentResistanceFromPawnKind"
+msgid "{0} base resistance"
+msgstr ""
+
+#: compendium:55
+msgctxt "PrisonerReleasePotentialRelationGains"
+msgid "Relations gain on release"
+msgstr ""
+
+#: compendium:56
+msgctxt "PrisonerReleaseRelationGainsDesc"
+msgid ""
+"The faction goodwill you will get from the prisoner's faction if you release"
+" them. This is affected by the prisoner's identity, health, and mental "
+"condition."
+msgstr ""
+
+#: compendium:57
+msgctxt "PrisonBreakMTBDays"
+msgid "Prison break interval"
+msgstr ""
+
+#: compendium:58
+msgctxt "PrisonBreakMTBDaysDescription"
+msgid ""
+"The average days awake between prison breaks. This is affected by mood, "
+"mobility, the number of prison doors, and time since the last prison "
+"break.\\n\\nNote that this does not include time spent asleep."
+msgstr ""
+
+#: compendium:59
+#, fuzzy
+msgctxt "Never"
+msgid "Never"
+msgstr "Do not allow"
+
+#: compendium:60
+msgctxt "NotWhileAsleep"
+msgid "Not while asleep"
+msgstr ""
+
+#: compendium:61
+msgctxt "CurrentlyPrisonBreaking"
+msgid "Breaking out now"
+msgstr ""
+
+#: compendium:62
+msgctxt "FactorForDoorCount"
+msgid "Door count"
+msgstr ""
+
+#: compendium:63
+msgctxt "FactorForMovement"
+msgid "Movement"
+msgstr ""
+
+#: compendium:64
+msgctxt "SlavePrice"
+msgid "Slave price"
+msgstr ""
+
+#: compendium:65
+msgctxt "SlavePriceDescription"
+msgid "The base market value of this slave if sold."
+msgstr ""
+
+#: compendium:66
+#, fuzzy
+msgctxt "GetsFood"
+msgid "Gets food"
+msgstr "Gets food"
+
+#: compendium:67
+#, fuzzy
+msgctxt "DoctorsCare"
+msgid "Doctors care"
+msgstr "Doctors care"
+
+#: compendium:68
+#, fuzzy
+msgctxt "GetsMedicine"
+msgid "Gets medicine"
+msgstr "Gets medicine"
+
+#: compendium:69
+#, fuzzy
+msgctxt "ShouldTryToRecruit"
+msgid "Try to recruit"
+msgstr "Try to recruit"
+
+#: compendium:70
+#, fuzzy
+msgctxt "ConsideredGuilty"
+msgid "Considered guilty (expires in {0})"
+msgstr "Considered guilty (expires in {0})"
+
+#: compendium:71
+msgctxt "ConsideredGuiltyNoTimer"
+msgid "Considered guilty"
+msgstr ""
+
+#: compendium:72
+msgctxt "LastRecruitment"
+msgid "Last resistance reduction"
+msgstr ""
+
+#: compendium:73
+msgctxt "LastRecruitmentDescription"
+msgid ""
+"How much {0_nameDef}'s resistance was reduced by {1} when {0_pronoun} was "
+"last recruited."
+msgstr ""
+
+#: compendium:74
+msgctxt "OpinionOfRecruiter"
+msgid "Opinion of recruiter"
+msgstr ""
+
+#: compendium:75
+msgctxt "RecruiterNegotiationAbility"
+msgid "Recruiter negotiation ability"
+msgstr ""
+
+#: compendium:76
+msgctxt "NonRecruitable"
+msgid "Unwavering loyalty"
+msgstr ""
+
+#: compendium:77
+msgctxt "NonRecruitableTip"
+msgid ""
+"This prisoner is so unwaveringly loyal to their home that they refuse to be "
+"recruited entirely."
+msgstr ""
+
+#: compendium:78
+msgctxt "MedicineQualityDescriptionPrisoner"
+msgid "What type of medicine can be given to this prisoner."
+msgstr ""
+
+#: compendium:84
+#, fuzzy
+msgctxt "MoveSpeed"
+msgid "Move speed"
+msgstr "Move speed"
+
+#: compendium:85
+#, fuzzy
+msgctxt "Efficiency"
+msgid "Efficiency"
+msgstr "Efficiency"
+
+#: compendium:86
+#, fuzzy
+msgctxt "PartEfficiency"
+msgid "Part efficiency"
+msgstr "Part efficiency"
+
+#: compendium:87
+#, fuzzy
+msgctxt "BodyPartEfficiency"
+msgid "Body part efficiency"
+msgstr "Body part efficiency"
+
+#: compendium:88
+#, fuzzy
+msgctxt "MissingBodyPart"
+msgid "Gone"
+msgstr "Gone"
+
+#: compendium:89
+#, fuzzy
+msgctxt "DestroyedBodyPart"
+msgid "Destroyed"
+msgstr "Destroyed"
+
+#: compendium:90
+#, fuzzy
+msgctxt "ShatteredBodyPart"
+msgid "Shattered"
+msgstr "Shattered"
+
+#: compendium:91
+#, fuzzy
+msgctxt "RemovedBodyPart"
+msgid "Removed"
+msgstr "Removed"
+
+#: compendium:92
+#, fuzzy
+msgctxt "Healthy"
+msgid "Healthy"
+msgstr "Healthy"
+
+#: compendium:93
+#, fuzzy
+msgctxt "InPain"
+msgid "In pain"
+msgstr "In pain"
+
+#: compendium:94
+#, fuzzy
+msgctxt "PainLevel"
+msgid "Pain"
+msgstr "Pain"
+
+#: compendium:95
+#, fuzzy
+msgctxt "Injured"
+msgid "Injured"
+msgstr "Injured"
+
+#: compendium:96
+msgctxt "UntendedInjury"
+msgid "untended injury"
+msgstr ""
+
+#: compendium:97
+#, fuzzy
+msgctxt "NoHealthConditions"
+msgid "no health conditions"
+msgstr "TODO"
+
+#: compendium:98
+#, fuzzy
+msgctxt "WholeBody"
+msgid "Whole body"
+msgstr "Whole body"
+
+#: compendium:99
+#, fuzzy
+msgctxt "DataProcessing"
+msgid "Data processing"
+msgstr "Data processing"
+
+#: compendium:100
+#, fuzzy
+msgctxt "Communication"
+msgid "Communication"
+msgstr "Communication"
+
+#: compendium:101
+#, fuzzy
+msgctxt "Affects"
+msgid "Affects"
+msgstr "Affects"
+
+#: compendium:102
+#, fuzzy
+msgctxt "BleedingRate"
+msgid "Bleeding"
+msgstr "Bleeding"
+
+#: compendium:103
+#, fuzzy
+msgctxt "TimeToDeath"
+msgid "death in {0}"
+msgstr "death in {0}"
+
+#: compendium:104
+#, fuzzy
+msgctxt "WontBleedOutSoon"
+msgid "no immediate danger"
+msgstr "no immediate danger"
+
+#: compendium:105
+#, fuzzy
+msgctxt "HealthOverview"
+msgid "Overview"
+msgstr "Overview"
+
+#: compendium:106
+#, fuzzy
+msgctxt "MedicalOperationsShort"
+msgid "Operations"
+msgstr "Operations ({0})"
+
+#: compendium:107
+#, fuzzy
+msgctxt "MedicalOperationsMechanoidsShort"
+msgid "Modifications"
+msgstr "Modifications ({0})"
+
+#: compendium:108
+#, fuzzy
+msgctxt "MedicalOperations"
+msgid "Medical operations"
+msgstr "Medical operations"
+
+#: compendium:109
+#, fuzzy
+msgctxt "Amputate"
+msgid "amputate"
+msgstr "Amputate"
+
+#: compendium:110
+#, fuzzy
+msgctxt "HarvestOrgan"
+msgid "harvest"
+msgstr "TODO"
+
+#: compendium:111
+#, fuzzy
+msgctxt "RemoveOrgan"
+msgid "remove"
+msgstr "Remove"
+
+#: compendium:112
+#, fuzzy
+msgctxt "MemoryLower"
+msgid "memory"
+msgstr "memory"
+
+#: compendium:113
+#, fuzzy
+msgctxt "SocialInteractionsLower"
+msgid "social interactions"
+msgstr "social interactions"
+
+#: compendium:114
+#, fuzzy
+msgctxt "HungerRate"
+msgid "Hunger rate"
+msgstr "Hunger rate"
+
+#: compendium:115
+msgctxt "FoodConsumption"
+msgid "Food consumption"
+msgstr ""
+
+#: compendium:116
+#, fuzzy
+msgctxt "Tiredness"
+msgid "Tiredness"
+msgstr "Tiredness"
+
+#: compendium:117
+#, fuzzy
+msgctxt "PainFactor"
+msgid "Pain"
+msgstr "Pain"
+
+#: compendium:118
+#, fuzzy
+msgctxt "PreventsInfection"
+msgid "Prevents infection"
+msgstr "Prevents infection"
+
+#: compendium:119
+msgctxt "AllowSelfTend"
+msgid "Allow self-tend"
+msgstr ""
+
+#: compendium:120
+msgctxt "AllowSelfTendTip"
+msgid ""
+"{0} with self-tend enabled will automatically tend to themselves on the spot"
+" at {1} the normal efficiency."
+msgstr ""
+
+#: compendium:121
+msgctxt "DeathIn"
+msgid "death in {0}"
+msgstr ""
+
+#: compendium:122
+msgctxt "AllowMedicine"
+msgid "Allow medicine"
+msgstr ""
+
+#: compendium:123
+msgctxt "MedicineQualityDescription"
+msgid "What type of medicine can be given to this person."
+msgstr ""
+
+#: compendium:124
+msgctxt "FoodRestrictionDescription"
+msgid "What type of food can be given to this person."
+msgstr ""
+
+#: compendium:127
+#, fuzzy
+msgctxt "None"
+msgid "None"
+msgstr "None"
+
+#: compendium:128
+#, fuzzy
+msgctxt "VeryPoor"
+msgid "Very poor"
+msgstr "Very poor"
+
+#: compendium:129
+#, fuzzy
+msgctxt "Poor"
+msgid "Poor"
+msgstr "Poor"
+
+#: compendium:130
+#, fuzzy
+msgctxt "Weakened"
+msgid "Weakened"
+msgstr "Weakened"
+
+#: compendium:131
+#, fuzzy
+msgctxt "GoodCondition"
+msgid "OK"
+msgstr "OK"
+
+#: compendium:132
+#, fuzzy
+msgctxt "Enhanced"
+msgid "Enhanced"
+msgstr "Enhanced"
+
+#: compendium:133
+#, fuzzy
+msgctxt "SeriouslyImpaired"
+msgid "Seriously impaired"
+msgstr "Seriously impaired"
+
+#: compendium:134
+#, fuzzy
+msgctxt "Impaired"
+msgid "Impaired"
+msgstr "Impaired"
+
+#: compendium:135
+#, fuzzy
+msgctxt "SlightlyImpaired"
+msgid "Slightly impaired"
+msgstr "Slightly impaired"
+
+#: compendium:136
+#, fuzzy
+msgctxt "NoPain"
+msgid "None"
+msgstr "None"
+
+#: compendium:137
+#, fuzzy
+msgctxt "LittlePain"
+msgid "Little"
+msgstr "Little"
+
+#: compendium:138
+#, fuzzy
+msgctxt "MediumPain"
+msgid "Medium"
+msgstr "Medium"
+
+#: compendium:139
+#, fuzzy
+msgctxt "SeverePain"
+msgid "Severe"
+msgstr "Severe"
+
+#: compendium:140
+#, fuzzy
+msgctxt "ExtremePain"
+msgid "Extreme"
+msgstr "Extreme"
+
+#: compendium:143
+#, fuzzy
+msgctxt "Trainability"
+msgid "Trainability"
+msgstr "TODO"
+
+#: compendium:144
+#, fuzzy
+msgctxt "CannotTrainNotSmartEnough"
+msgid "Requires {0} trainability."
+msgstr "Requires trainable intelligence {0}."
+
+#: compendium:145
+#, fuzzy
+msgctxt "CannotTrainTooSmall"
+msgid "{1_labelShort} is too small to train this."
+msgstr "{0} is too small to train this."
+
+#: compendium:147
+#, fuzzy
+msgctxt "TrainingNeedsPrerequisite"
+msgid "Prerequisite needed: {0}"
+msgstr "Prerequisite needed: {0}"
+
+#: compendium:150
+#, fuzzy
+msgctxt "Kidnapped"
+msgid "Kidnapped"
+msgstr "Kidnapped"
+
+#: compendium:151
+msgctxt "Lent"
+msgid "Lent to {FACTION_name}, returns in {1}"
+msgstr ""
+
+#: compendium:152
+#, fuzzy
+msgctxt "Missing"
+msgid "Missing"
+msgstr "Missing"
+
+#: compendium:153
+#, fuzzy
+msgctxt "Slave"
+msgid "slave"
+msgstr "Slave"
+
+#: compendium:154
+#, fuzzy
+msgctxt "FactionLeader"
+msgid "Faction leader"
+msgstr "Faction leader"
+
+#: compendium:155
+#, fuzzy
+msgctxt "OpinionOf"
+msgid "Opinion of {0}"
+msgstr "Opinion of {0}"
+
+#: compendium:156
+#, fuzzy
+msgctxt "SomeonesOpinionOfMe"
+msgid "{0}'s opinion of me"
+msgstr "{0}'s opinion of me"
+
+#: compendium:157
+#, fuzzy
+msgctxt "IAmDead"
+msgid "I'm dead"
+msgstr "I'm dead"
+
+#: compendium:158
+#, fuzzy
+msgctxt "IAmPsychopath"
+msgid "I'm a psychopath"
+msgstr "I'm a psychopath"
+
+#: compendium:161
+#, fuzzy
+msgctxt "OverallArmor"
+msgid "Overall armor"
+msgstr "TODO"
+
+#: compendium:162
+#, fuzzy
+msgctxt "MassCarried"
+msgid "Mass carried: {0} / {1} kg"
+msgstr "Mass carried: {0} / {1} kg"
+
+#: compendium:163
+#, fuzzy
+msgctxt "ComfyTemperatureRange"
+msgid "Comfortable temperature range"
+msgstr "Comfortable temperature range"
+
+#: compendium:164
+#, fuzzy
+msgctxt "ArmorBlunt"
+msgid "Blunt"
+msgstr "Blunt"
+
+#: compendium:165
+#, fuzzy
+msgctxt "ArmorSharp"
+msgid "Sharp"
+msgstr "Sharp"
+
+#: compendium:166
+#, fuzzy
+msgctxt "ArmorHeat"
+msgid "Heat"
+msgstr "Heat"
+
+#: compendium:169
+#, fuzzy
+msgctxt "ShowAll"
+msgid "Show all"
+msgstr "TODO"
+
+#: compendium:170
+#, fuzzy
+msgctxt "ShowCombat"
+msgid "Show combat"
+msgstr "TODO"
+
+#: compendium:171
+#, fuzzy
+msgctxt "ShowSocial"
+msgid "Show social"
+msgstr "TODO"
+
+#: compendium:172
+#, fuzzy
+msgctxt "NoRecentEntries"
+msgid "no recent entries"
+msgstr "TODO"
+
+#: compendium:173
+#, fuzzy
+msgctxt "CopyLogTip"
+msgid "Copy log to the clipboard."
+msgstr "TODO"
+
+#: compendium:176
+#, fuzzy
+msgctxt "FormingCaravanStatus_GatheringAnimals"
+msgid "Gathering animals"
+msgstr "TODO"
+
+#: compendium:177
+#, fuzzy
+msgctxt "FormingCaravanStatus_GatheringAnimals_Pause"
+msgid "Gathering animals (waiting)"
+msgstr "TODO"
+
+#: compendium:178
+#, fuzzy
+msgctxt "FormingCaravanStatus_GatheringItems"
+msgid "Gathering items"
+msgstr "TODO"
+
+#: compendium:179
+#, fuzzy
+msgctxt "FormingCaravanStatus_GatheringItems_Pause"
+msgid "Gathering items (waiting)"
+msgstr "TODO"
+
+#: compendium:180
+#, fuzzy
+msgctxt "FormingCaravanStatus_GatheringDownedPawns"
+msgid "Gathering downed people"
+msgstr "TODO"
+
+#: compendium:181
+#, fuzzy
+msgctxt "FormingCaravanStatus_GatheringDownedPawns_Pause"
+msgid "Gathering downed people (waiting)"
+msgstr "TODO"
+
+#: compendium:182
+#, fuzzy
+msgctxt "FormingCaravanStatus_Leaving"
+msgid "Leaving"
+msgstr "TODO"
+
+#: compendium:183
+#, fuzzy
+msgctxt "FormingCaravanStatus_Leaving_Pause"
+msgid "Leaving (waiting)"
+msgstr "TODO"
+
+#: compendium:184
+#, fuzzy
+msgctxt "FormingCaravanStatus_Waiting"
+msgid "Waiting"
+msgstr "TODO"
+
+#: compendium:185
+#, fuzzy
+msgctxt "CaravanMembers"
+msgid "Members"
+msgstr "TODO"
+
+#: compendium:186
+#, fuzzy
+msgctxt "CaravanAnimals"
+msgid "Animals"
+msgstr "TODO"
+
+#: compendium:187
+#, fuzzy
+msgctxt "ItemsToLoad"
+msgid "To load"
+msgstr "TODO"
+
+#: compendium:188
+#, fuzzy
+msgctxt "LoadedItems"
+msgid "Loaded"
+msgstr "TODO"
+
+#: compendium:189
+#, fuzzy
+msgctxt "PackAnimalsCountLower"
+msgid "pack animals"
+msgstr "TODO"
+
+#: compendium:190
+#, fuzzy
+msgctxt "InMentalStateCountLower"
+msgid "mentally broken"
+msgstr "TODO"
+
+#: compendium:193
+#, fuzzy
+msgctxt "RemoveSliderText"
+msgid "Remove {{0}}x {0}"
+msgstr "TODO"
+
+#: compendium:194
+msgctxt "ContainedItems"
+msgid "Contained items"
+msgstr ""
+
+#: compendium:195
+#, fuzzy
+msgctxt "ConfirmRemoveItemDialog"
+msgid "Do you really want to remove {0}?"
+msgstr "TODO"
+
+#: compendium:198
+msgctxt "DismissQuest"
+msgid ""
+"Dismiss this quest and move it to the historical tab.\\n\\nThe quest can be "
+"un-dismissed at any time. Its effects and expiry times will proceed as "
+"normal. You won't recieve notifications about dismissed quests."
+msgstr ""
+
+#: compendium:199
+msgctxt "UnDismissQuest"
+msgid ""
+"Un-dismiss this quest.\\n\\nThe quest will be returned to the available or "
+"active tab, and notifications will be re-enabled."
+msgstr ""
+
+#: compendium:200
+msgctxt "QuestDismissed"
+msgid ""
+"This quest is here because it was dismissed.\\n\\nYou can un-dismiss it "
+"until it expires."
+msgstr ""
+
+#: compendium:201
+msgctxt "DeleteQuest"
+msgid "Delete this quest and remove it from the quest list forever."
+msgstr ""
+
+#: compendium:204
+msgctxt "PenFoodTab_NotEnclosed"
+msgid "enclose the pen marker to calculate food information"
+msgstr ""
+
+#: compendium:206
+msgctxt "PenFoodTab_StockpileTotal"
+msgid "Nutrition stockpiled"
+msgstr ""
+
+#: compendium:207
+msgctxt "PenFoodTab_StockpileTotalDescription"
+msgid "The total nutrition of stockpiled food in the pen."
+msgstr ""
+
+#: compendium:208
+msgctxt "PenFoodTab_StockpileEmptyDays"
+msgid "Days to stockpile exhaustion"
+msgstr ""
+
+#: compendium:209
+msgctxt "PenFoodTab_StockpileEmptyDaysDescription"
+msgid ""
+"Nutrition consumption exceeds nutrition growth rate in this pen. The animals"
+" will eventually eat all the stockpiled food and starve."
+msgstr ""
+
+#: compendium:211
+msgctxt "PenFoodTab_AnimalType"
+msgid "Animal type"
+msgstr ""
+
+#: compendium:212
+msgctxt "PenFoodTab_Count"
+msgid "Count"
+msgstr ""
+
+#: compendium:213
+msgctxt "PenFoodTab_CurrentDay"
+msgid "Today"
+msgstr ""
+
+#: compendium:214
+msgctxt "PenFoodTab_Nutrition_Unit"
+msgid "nutrition"
+msgstr ""
+
+#: compendium:215
+msgctxt "PenFoodTab_NutritionPerDay_Unit"
+msgid "per day"
+msgstr ""
+
+#: compendium:216
+msgctxt "PenFoodTab_AddAnimal"
+msgid "Force display animal..."
+msgstr ""
+
+#: compendium:218
+msgctxt "PenFoodTab_NaturalNutritionGrowthRate"
+msgid "Nutrition growth"
+msgstr ""
+
+#: compendium:219
+msgctxt "PenFoodTab_GrowthPerSeason"
+msgid "Growth per season"
+msgstr ""
+
+#: compendium:220
+msgctxt "PenFoodTab_TotalNutritionConsumptionRate"
+msgid "Nutrition consumption"
+msgstr ""
+
+#: compendium:221
+msgctxt "PenFoodTab_NaturalNutritionGrowthRateDescription"
+msgid "The average nutrition provided by edible plants in this pen."
+msgstr ""
+
+#: compendium:222
+msgctxt "PenFoodTab_NutritionConsumptionDescription"
+msgid ""
+"The nutrition needed by animals currently in this pen.\\n\\nTo get more "
+"food, expand the pen to cover more wild plant growth, or deliver stockpiled "
+"food like haygrass to the pen."
+msgstr ""
+
+#: compendium:223
+msgctxt "PenFoodTab_NaturalNutritionGrowthRateSeasonal"
+msgid ""
+"Note: Plant growth rate varies due to seasons, weather, theft by wild "
+"animals, and other factors. These calculations are approximations."
+msgstr ""
+
+#: compendium:225
+msgctxt "PenFoodTab_NutritionConsumedPerDay_ColumLabel"
+msgid "Total consumption"
+msgstr ""
+
+#: compendium:226
+msgctxt "PenFoodTab_NutritionConsumedPerDay_ColumnTooltip"
+msgid ""
+"The total nutrition that will be consumed each day by each type of animal in"
+" this pen."
+msgstr ""
+
+#: compendium:227
+msgctxt "PenFoodTab_NutritionConsumedPerDay"
+msgid "Daily consumption per {ANIMALDEF_label}"
+msgstr ""
+
+#: compendium:228
+msgctxt "PenFoodTab_NutritionConsumedEachAnimalLabel"
+msgid "each {CONSUMEDAMOUNT}"
+msgstr ""
+
+#: compendium:229
+msgctxt "PenFoodTab_AnimalTypeAnimalCapacity"
+msgid "Count that could be supported with no other animals in the pen"
+msgstr ""
+
+#: compendium:231
+msgctxt "PenFoodTab_EdibleNow"
+msgid "Edible now"
+msgstr ""
+
+#: compendium:233
+msgctxt "PenAutoCut_EnabledCheckbox"
+msgid "Auto-cut plants in pen"
+msgstr ""
+
+#: compendium:234
+msgctxt "PenAutoCut_EnabledCheckboxTip"
+msgid ""
+"Automatically mark certain inedible plants to be cut. This makes room for "
+"edible plants to grow, which your animals can then eat.\\n\\nThis auto-"
+"designation happens periodically and only applies to certain "
+"plants.\\n\\nThis only works when the pen is enclosed."
+msgstr ""
+
+#: compendium:236
+msgctxt "AutocutUnenclosedPen"
+msgid "Pen is not enclosed"
+msgstr ""
+
+#: compendium:237
+msgctxt "AutocutUnenclosedPenTip"
+msgid "Pen is not enclosed now, so auto-cut won't occur."
+msgstr ""
+
+#: compendium:239
+msgctxt "WindTurbineAutoCut_EnabledCheckbox"
+msgid "Auto-cut blocking plants"
+msgstr ""
+
+#: compendium:242
+msgctxt "StudyNotesTab_StudyProgress"
+msgid "Study progress"
+msgstr ""
+
+#: compendium:243
+msgctxt "StudyNotesTab_StudyProgressOngoing"
+msgid "Ongoing"
+msgstr ""
+
+#: compendium:244
+msgctxt "StudyNotesTab_StudyProgressCompleted"
+msgid "Completed"
+msgstr ""
+
+#: compendium:245
+msgctxt "StudyNotesTab_ToggleStudy"
+msgid "Toggle study"
+msgstr ""
+
+#: compendium:246
+msgctxt "StudyNotesTab_NoDiscoveries"
+msgid "No discoveries yet"
+msgstr ""

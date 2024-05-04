@@ -1,0 +1,301 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:6
+#, fuzzy
+msgctxt "TimeAsColonistOrColonyAnimal.label"
+msgid "time as a colonist"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:7
+#, fuzzy
+msgctxt "TimeAsColonistOrColonyAnimal.description"
+msgid "Total time spent loyal to your community."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:14
+msgctxt "TimeAsQuestLodger.label"
+msgid "time hosted"
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:15
+msgctxt "TimeAsQuestLodger.description"
+msgid "Total time spent hosted by your community through a quest."
+msgstr ""
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:22
+#, fuzzy
+msgctxt "TimeAsPrisoner.label"
+msgid "time as a prisoner"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:23
+#, fuzzy
+msgctxt "TimeAsPrisoner.description"
+msgid "Total time spent as a prisoner."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:30
+#, fuzzy
+msgctxt "TimeInBed.label"
+msgid "time in a bed"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:31
+#, fuzzy
+msgctxt "TimeInBed.description"
+msgid "Total time spent in bed."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:38
+#, fuzzy
+msgctxt "TimeInBedForMedicalReasons.label"
+msgid "time in a bed for medical reasons"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:39
+#, fuzzy
+msgctxt "TimeInBedForMedicalReasons.description"
+msgid ""
+"Total time spent in bed for medical reasons: awaiting treatment, recovering "
+"from injuries or being operated on."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:46
+#, fuzzy
+msgctxt "TimeDowned.label"
+msgid "time downed"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:47
+#, fuzzy
+msgctxt "TimeDowned.description"
+msgid "Total time spent downed."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:54
+#, fuzzy
+msgctxt "TimeGettingFood.label"
+msgid "time finding food and eating"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:55
+#, fuzzy
+msgctxt "TimeGettingFood.description"
+msgid "Total time spent on finding food and eating."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:65
+#, fuzzy
+msgctxt "TimeGettingJoy.label"
+msgid "time spent on entertainment"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:66
+#, fuzzy
+msgctxt "TimeGettingJoy.description"
+msgid "Total time spent on entertainment."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:73
+#, fuzzy
+msgctxt "TimeUnderRoof.label"
+msgid "time under a roof"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:74
+#, fuzzy
+msgctxt "TimeUnderRoof.description"
+msgid "Total time spent under a roof."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:81
+#, fuzzy
+msgctxt "TimeDrafted.label"
+msgid "time drafted"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:82
+#, fuzzy
+msgctxt "TimeDrafted.description"
+msgid "Total time spent drafted."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:89
+#, fuzzy
+msgctxt "TimeOnFire.label"
+msgid "time on fire"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:90
+#, fuzzy
+msgctxt "TimeOnFire.description"
+msgid "Total time spent on fire."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:97
+#, fuzzy
+msgctxt "TimeInMentalState.label"
+msgid "time in mental state"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:98
+#, fuzzy
+msgctxt "TimeInMentalState.description"
+msgid "Total time spent in an abnormal mental state."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:105
+#, fuzzy
+msgctxt "TimeHauling.label"
+msgid "time hauling"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:106
+#, fuzzy
+msgctxt "TimeHauling.description"
+msgid "Total time spent hauling things."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:113
+#, fuzzy
+msgctxt "TimeHandlingAnimals.label"
+msgid "time handling animals"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:114
+#, fuzzy
+msgctxt "TimeHandlingAnimals.description"
+msgid "Total time spent handling animals."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:127
+#, fuzzy
+msgctxt "TimeFirefighting.label"
+msgid "time firefighting"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:128
+#, fuzzy
+msgctxt "TimeFirefighting.description"
+msgid "Total time spent firefighting."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:138
+#, fuzzy
+msgctxt "TimeWardening.label"
+msgid "time wardening"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:139
+#, fuzzy
+msgctxt "TimeWardening.description"
+msgid "Total time spent wardening."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:153
+#, fuzzy
+msgctxt "TimeHunting.label"
+msgid "time hunting"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:154
+#, fuzzy
+msgctxt "TimeHunting.description"
+msgid "Total time spent hunting."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:164
+#, fuzzy
+msgctxt "TimeConstructing.label"
+msgid "time constructing"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:165
+#, fuzzy
+msgctxt "TimeConstructing.description"
+msgid "Total time spent constructing and deconstructing buildings."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:177
+#, fuzzy
+msgctxt "TimeTreatingAndFeeding.label"
+msgid "time treating and feeding"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:178
+#, fuzzy
+msgctxt "TimeTreatingAndFeeding.description"
+msgid "Total time spent treating and feeding patients."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:188
+#, fuzzy
+msgctxt "TimeResearching.label"
+msgid "time researching"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:189
+#, fuzzy
+msgctxt "TimeResearching.description"
+msgid "Total time spent researching."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:198
+#, fuzzy
+msgctxt "TimeCleaning.label"
+msgid "time cleaning"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:199
+#, fuzzy
+msgctxt "TimeCleaning.description"
+msgid "Total time spent cleaning."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:208
+#, fuzzy
+msgctxt "TimeRepairing.label"
+msgid "time repairing"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:209
+#, fuzzy
+msgctxt "TimeRepairing.description"
+msgid "Total time spent repairing."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:218
+#, fuzzy
+msgctxt "TimeMining.label"
+msgid "time mining"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:219
+#, fuzzy
+msgctxt "TimeMining.description"
+msgid "Total time spent mining."
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:228
+#, fuzzy
+msgctxt "TimeSowingAndHarvesting.label"
+msgid "time sowing and harvesting"
+msgstr "TODO"
+
+#: Defs/Misc/RecordDefs/Records_Time.xml:229
+#, fuzzy
+msgctxt "TimeSowingAndHarvesting.description"
+msgid "Total time spent sowing, harvesting and cutting plants."
+msgstr "TODO"

@@ -1,0 +1,33 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/DrugPolicyDefs/DrugPolicyDefs.xml:6
+msgctxt "SocialDrugs.label"
+msgid "social drugs"
+msgstr ""
+
+#: Defs/DrugPolicyDefs/DrugPolicyDefs.xml:21
+msgctxt "NoDrugs.label"
+msgid "no drugs"
+msgstr ""
+
+#: Defs/DrugPolicyDefs/DrugPolicyDefs.xml:26
+msgctxt "Unrestricted.label"
+msgid "unrestricted"
+msgstr ""
+
+#: Defs/DrugPolicyDefs/DrugPolicyDefs.xml:32
+msgctxt "OneDrinkPerDay.label"
+msgid "one drink per day"
+msgstr ""

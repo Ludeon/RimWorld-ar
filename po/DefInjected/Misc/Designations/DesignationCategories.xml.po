@@ -1,0 +1,85 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/Designations/DesignationCategories.xml:6
+#, fuzzy
+msgctxt "Orders.label"
+msgid "orders"
+msgstr "TODO"
+
+#: Defs/Misc/Designations/DesignationCategories.xml:33
+#, fuzzy
+msgctxt "Zone.label"
+msgid "zone"
+msgstr "TODO"
+
+#: Defs/Misc/Designations/DesignationCategories.xml:58
+#, fuzzy
+msgctxt "Structure.label"
+msgid "structure"
+msgstr "TODO"
+
+#: Defs/Misc/Designations/DesignationCategories.xml:70
+#, fuzzy
+msgctxt "Production.label"
+msgid "production"
+msgstr "TODO"
+
+#: Defs/Misc/Designations/DesignationCategories.xml:80
+#, fuzzy
+msgctxt "Furniture.label"
+msgid "furniture"
+msgstr "TODO"
+
+#: Defs/Misc/Designations/DesignationCategories.xml:90
+#, fuzzy
+msgctxt "Power.label"
+msgid "power"
+msgstr "TODO"
+
+#: Defs/Misc/Designations/DesignationCategories.xml:104
+#, fuzzy
+msgctxt "Security.label"
+msgid "security"
+msgstr "TODO"
+
+#: Defs/Misc/Designations/DesignationCategories.xml:114
+#, fuzzy
+msgctxt "Misc.label"
+msgid "misc"
+msgstr "TODO"
+
+#: Defs/Misc/Designations/DesignationCategories.xml:124
+#, fuzzy
+msgctxt "Floors.label"
+msgid "floors"
+msgstr "TODO"
+
+#: Defs/Misc/Designations/DesignationCategories.xml:137
+#, fuzzy
+msgctxt "Joy.label"
+msgid "recreation"
+msgstr "TODO"
+
+#: Defs/Misc/Designations/DesignationCategories.xml:147
+#, fuzzy
+msgctxt "Ship.label"
+msgid "ship"
+msgstr "TODO"
+
+#: Defs/Misc/Designations/DesignationCategories.xml:160
+#, fuzzy
+msgctxt "Temperature.label"
+msgid "temperature"
+msgstr "TODO"

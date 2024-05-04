@@ -1,0 +1,123 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:6
+msgctxt "Cosmetic.label"
+msgid "cosmetic"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:13
+msgctxt "Cosmetic_Skin.label"
+msgid "cosmetic - skin"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:20
+msgctxt "Cosmetic_Hair.label"
+msgid "cosmetic - hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:26
+msgctxt "Miscellaneous.label"
+msgid "miscellaneous"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:49
+msgctxt "Hair_SnowWhite.label"
+msgid "snow-white hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:58
+msgctxt "Hair_InkBlack.label"
+msgid "ink-black hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:67
+msgctxt "Hair_Gray.label"
+msgid "gray hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:75
+msgctxt "Hair_DarkBlack.label"
+msgid "dark-black hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:83
+msgctxt "Hair_MidBlack.label"
+msgid "mid-black hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:91
+msgctxt "Hair_DarkReddish.label"
+msgid "dark-reddish hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:99
+msgctxt "Hair_DarkSaturatedReddish.label"
+msgid "dark-brown hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:107
+msgctxt "Hair_DarkBrown.label"
+msgid "brown hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:114
+msgctxt "Hair_ReddishBrown.label"
+msgid "reddish-brown hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:121
+msgctxt "Hair_SandyBlonde.label"
+msgid "sandy-blonde hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:129
+msgctxt "Hair_Blonde.label"
+msgid "blonde hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:137
+msgctxt "Hair_Pink.label"
+msgid "pink hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:146
+msgctxt "Hair_LightPurple.label"
+msgid "purple hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:155
+msgctxt "Hair_LightBlue.label"
+msgid "blue hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:164
+msgctxt "Hair_LightTeal.label"
+msgid "teal hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:173
+msgctxt "Hair_LightGreen.label"
+msgid "green hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:182
+msgctxt "Hair_LightOrange.label"
+msgid "orange hair"
+msgstr ""
+
+#: Defs/GeneDefs/GeneDefs_Endogenes.xml:191
+msgctxt "Hair_BrightRed.label"
+msgid "red hair"
+msgstr ""

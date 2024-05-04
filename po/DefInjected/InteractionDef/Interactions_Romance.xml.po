@@ -1,0 +1,459 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:6
+#, fuzzy
+msgctxt "RomanceAttempt.label"
+msgid "romance attempt"
+msgstr "TODO"
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.1"
+msgid "wooed->tried to flirt with"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.2"
+msgid "wooed->flirted with"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.3"
+msgid "wooed->tried to attract"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.4"
+msgid "wooed->tried to romance"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.5"
+msgid "wooed->tried to woo"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.6"
+msgid "wooed->wooed"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.7"
+msgid "wooed->pursued"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.8"
+msgid "wooed->charmed"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.9"
+msgid "wooed->courted"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.10"
+msgid ""
+"wootactic(p=4)->[complimenting] [RECIPIENT_possessive] "
+"[PersonalCharacteristic]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.11"
+msgid "wootactic->telling a story about [TalkTopicAny]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.12"
+msgid "wootactic->telling a tale about [TalkTopicAny]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.13"
+msgid "wootactic->joking about [TalkTopicAny]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.14"
+msgid "wootactic->making an observation about [TalkTopicAny]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.15"
+msgid ""
+"wootactic(p=2)->[boasting] [INITIATOR_possessive] own "
+"[PersonalCharacteristic]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.16"
+msgid ""
+"wootactic->comparing [RECIPIENT_objective] to a [romantic_adj] "
+"[romantic_noun]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.17"
+msgid ""
+"wootactic->describing [RECIPIENT_objective] as a [romantic_adj] "
+"[romantic_noun]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.18"
+msgid "boasting->boasting about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.19"
+msgid "boasting->mentioning"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.20"
+msgid "boasting->implying good things about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.21"
+msgid "boasting->exaggerating"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.22"
+msgid "boasting->talking about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.23"
+msgid "boasting->drawing attention to"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.24"
+msgid "complimenting(p=3)->complimenting"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.25"
+msgid "complimenting->subtly complimenting"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.26"
+msgid "complimenting->lauding"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.27"
+msgid "complimenting->commending"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.28"
+msgid "complimenting->saying good things about"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.29"
+msgid "complimenting(p=2)->playfully making fun of"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.30"
+msgid "complimenting->jokingly poking at"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.31"
+msgid "complimenting->jokingly half-complimenting"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.32"
+msgid "complimenting->impishly questioning"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.33"
+msgid "complimenting->cheerfully making fun of"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.34"
+msgid "romantic_adj->beautiful"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.35"
+msgid "romantic_adj->shining"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.36"
+msgid "romantic_adj->glimmering"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.37"
+msgid "romantic_adj->heavenly"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.38"
+msgid "romantic_adj->golden"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.39"
+msgid "romantic_adj->bright"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.40"
+msgid "romantic_adj->breathtaking"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.41"
+msgid "romantic_adj->charming"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.42"
+msgid "romantic_adj->dazzling"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.43"
+msgid "romantic_adj->delicate"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.44"
+msgid "romantic_adj->fine"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.45"
+msgid "romantic_adj->magnificent"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.46"
+msgid "romantic_adj->lovely"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.47"
+msgid "romantic_adj->wonderful"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.48"
+msgid "romantic_adj(p=3)->[AdjectiveBadass]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.49"
+msgid "romantic_noun->flower"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.50"
+msgid "romantic_noun->spring"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.51"
+msgid "romantic_noun->river"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.52"
+msgid "romantic_noun->star"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.53"
+msgid "romantic_noun->moon"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.54"
+msgid "romantic_noun->sun"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.55"
+msgid "romantic_noun->house"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.56"
+msgid "romantic_noun->aurora"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.57"
+msgid "romantic_noun->[TreeType] tree"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.58"
+msgid "romantic_noun(p=2)->[TerrainFeature]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:10
+msgctxt "RomanceAttempt.logRulesInitiator.rulesStrings.59"
+msgid "romantic_noun(p=2)->[NaturalObject]"
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:84
+msgctxt "Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.0"
+msgid ""
+"sent->[RECIPIENT_nameDef] was attracted and is now [INITIATOR_nameDef]'s "
+"lover."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:84
+msgctxt "Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.1"
+msgid ""
+"sent->[RECIPIENT_nameDef] responded well and is now [INITIATOR_nameDef]'s "
+"lover."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:84
+msgctxt "Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.2"
+msgid ""
+"sent->[RECIPIENT_nameDef] became aroused and agreed to become "
+"[INITIATOR_nameDef]'s lover."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:95
+msgctxt "Sentence_RomanceAttemptRejected.rulePack.rulesStrings.0"
+msgid "sent->[RECIPIENT_nameDef] rejected the advance."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:95
+msgctxt "Sentence_RomanceAttemptRejected.rulePack.rulesStrings.1"
+msgid "sent->[RECIPIENT_nameDef] ignored the advance."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:95
+msgctxt "Sentence_RomanceAttemptRejected.rulePack.rulesStrings.2"
+msgid "sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] back."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:95
+msgctxt "Sentence_RomanceAttemptRejected.rulePack.rulesStrings.3"
+msgid "sent->[RECIPIENT_nameDef] turned away."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:95
+msgctxt "Sentence_RomanceAttemptRejected.rulePack.rulesStrings.4"
+msgid "sent->[RECIPIENT_nameDef] gave a minimal response."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:95
+msgctxt "Sentence_RomanceAttemptRejected.rulePack.rulesStrings.5"
+msgid "sent->[RECIPIENT_nameDef] did not respond."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:95
+msgctxt "Sentence_RomanceAttemptRejected.rulePack.rulesStrings.6"
+msgid "sent->[RECIPIENT_nameDef] turned [INITIATOR_objective] down."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:111
+#, fuzzy
+msgctxt "MarriageProposal.label"
+msgid "marriage proposal"
+msgstr "TODO"
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:115
+msgctxt "MarriageProposal.logRulesInitiator.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] proposed marriage to [RECIPIENT_nameDef]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:115
+msgctxt "MarriageProposal.logRulesInitiator.rulesStrings.1"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] proposed a lifelong commitment to "
+"[RECIPIENT_nameDef]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:115
+msgctxt "MarriageProposal.logRulesInitiator.rulesStrings.2"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that "
+"[INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with "
+"[RECIPIENT_objective]."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:126
+msgctxt "Sentence_MarriageProposalAccepted.rulePack.rulesStrings.0"
+msgid "sent->[RECIPIENT_nameDef] agreed and the two are now engaged."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:135
+msgctxt "Sentence_MarriageProposalRejected.rulePack.rulesStrings.0"
+msgid "sent->[RECIPIENT_nameDef] rejected the proposal."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:144
+msgctxt "Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings.0"
+msgid ""
+"sent->It was too much for the relationship to continue, and the two have now"
+" broken up."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:154
+#, fuzzy
+msgctxt "Breakup.label"
+msgid "breakup"
+msgstr "TODO"
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:158
+msgctxt "Breakup.logRulesInitiator.rulesStrings.0"
+msgid "r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for a break."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:158
+msgctxt "Breakup.logRulesInitiator.rulesStrings.1"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for some space."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:158
+msgctxt "Breakup.logRulesInitiator.rulesStrings.2"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not "
+"working out."
+msgstr ""
+
+#: Defs/InteractionDefs/Interactions_Romance.xml:158
+msgctxt "Breakup.logRulesInitiator.rulesStrings.3"
+msgid ""
+"r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be "
+"best to see other people."
+msgstr ""

@@ -1,0 +1,63 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Buildings/Buildings_Art.xml:132
+#, fuzzy
+msgctxt "SculptureSmall.label"
+msgid "small sculpture"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Art.xml:133
+#, fuzzy
+msgctxt "SculptureSmall.description"
+msgid "A torso-sized piece of material sculpted into an artistic form."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Art.xml:157
+#, fuzzy
+msgctxt "SculptureLarge.label"
+msgid "large sculpture"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Art.xml:158
+#, fuzzy
+msgctxt "SculptureLarge.description"
+msgid "A person-sized piece of material sculpted into an artistic form."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Art.xml:184
+#, fuzzy
+msgctxt "SculptureGrand.label"
+msgid "grand sculpture"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Art.xml:185
+#, fuzzy
+msgctxt "SculptureGrand.description"
+msgid "A huge sculpture sized to dominate a room."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Art.xml:215
+#, fuzzy
+msgctxt "Snowman.label"
+msgid "snowman"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Art.xml:216
+#, fuzzy
+msgctxt "Snowman.description"
+msgid ""
+"A set of large snowballs piled and shaped to resemble a person. People make "
+"these for the fun of it."
+msgstr "TODO"

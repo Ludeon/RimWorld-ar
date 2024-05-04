@@ -1,0 +1,102 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Rooms/RoomRoles.xml:6
+#, fuzzy
+msgctxt "None.label"
+msgid "none"
+msgstr "TODO"
+
+#: Defs/Rooms/RoomRoles.xml:12
+#, fuzzy
+msgctxt "Room.label"
+msgid "room"
+msgstr "TODO"
+
+#: Defs/Rooms/RoomRoles.xml:18
+#, fuzzy
+msgctxt "Bedroom.label"
+msgid "bedroom"
+msgstr "TODO"
+
+#: Defs/Rooms/RoomRoles.xml:31
+#, fuzzy
+msgctxt "PrisonCell.label"
+msgid "prison cell"
+msgstr "TODO"
+
+#: Defs/Rooms/RoomRoles.xml:44
+#, fuzzy
+msgctxt "DiningRoom.label"
+msgid "dining room"
+msgstr "TODO"
+
+#: Defs/Rooms/RoomRoles.xml:57
+#, fuzzy
+msgctxt "RecRoom.label"
+msgid "rec room"
+msgstr "TODO"
+
+#: Defs/Rooms/RoomRoles.xml:70
+#, fuzzy
+msgctxt "Hospital.label"
+msgid "hospital"
+msgstr "TODO"
+
+#: Defs/Rooms/RoomRoles.xml:81
+#, fuzzy
+msgctxt "Laboratory.label"
+msgid "laboratory"
+msgstr "TODO"
+
+#: Defs/Rooms/RoomRoles.xml:90
+#, fuzzy
+msgctxt "Workshop.label"
+msgid "workshop"
+msgstr "TODO"
+
+#: Defs/Rooms/RoomRoles.xml:96
+msgctxt "Storeroom.label"
+msgid "storeroom"
+msgstr ""
+
+#: Defs/Rooms/RoomRoles.xml:102
+#, fuzzy
+msgctxt "Barracks.label"
+msgid "barracks"
+msgstr "TODO"
+
+#: Defs/Rooms/RoomRoles.xml:115
+#, fuzzy
+msgctxt "PrisonBarracks.label"
+msgid "prison barracks"
+msgstr "TODO"
+
+#: Defs/Rooms/RoomRoles.xml:128
+#, fuzzy
+msgctxt "Kitchen.label"
+msgid "kitchen"
+msgstr "TODO"
+
+#: Defs/Rooms/RoomRoles.xml:137
+#, fuzzy
+msgctxt "Tomb.label"
+msgid "tomb"
+msgstr "TODO"
+
+#: Defs/Rooms/RoomRoles.xml:143
+#, fuzzy
+msgctxt "Barn.label"
+msgid "barn"
+msgstr "TODO"

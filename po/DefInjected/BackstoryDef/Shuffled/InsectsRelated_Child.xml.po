@@ -1,0 +1,20 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/BackstoryDefs/Shuffled/InsectsRelated_Child.xml:10
+msgctxt "SewerKid57.description"
+msgid ""
+"[PAWN_nameDef] grew up in the sludge-smeared sewers of a polluted industrial world.\n"
+"\\n[PAWN_pronoun] befriended the strange insects in the darkness and learned to love them."
+msgstr ""

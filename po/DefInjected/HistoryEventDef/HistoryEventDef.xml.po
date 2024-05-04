@@ -1,0 +1,98 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:6
+msgctxt "BuildSpecificDef.label"
+msgid "build building"
+msgstr ""
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:11
+msgctxt "CutTree.label"
+msgid "cut tree"
+msgstr ""
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:16
+msgctxt "MinifiedTreeDied.label"
+msgid "tree died"
+msgstr ""
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:21
+msgctxt "Mined.label"
+msgid "mined"
+msgstr ""
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:26
+msgctxt "DestroyedMineable.label"
+msgid "destroyed natural wall"
+msgstr ""
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:31
+msgctxt "SowedPlant.label"
+msgid "sowed plant"
+msgstr ""
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:36
+msgctxt "SowedHumanFoodPlant.label"
+msgid "sowed food plant"
+msgstr ""
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:41
+msgctxt "InstalledProsthetic.label"
+msgid "installed prosthetic"
+msgstr ""
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:46
+msgctxt "Researching.label"
+msgid "researching"
+msgstr ""
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:51
+msgctxt "AteHumanMeat.label"
+msgid "ate human meat"
+msgstr ""
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:56
+msgctxt "IngestedDrug.label"
+msgid "used drug"
+msgstr ""
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:61
+msgctxt "IngestedRecreationalDrug.label"
+msgid "used recreational drug"
+msgstr ""
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:66
+msgctxt "IngestedHardDrug.label"
+msgid "used hard drug"
+msgstr ""
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:71
+msgctxt "AdministeredDrug.label"
+msgid "administered drug"
+msgstr ""
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:76
+msgctxt "AdministeredRecreationalDrug.label"
+msgid "administered recreational drug"
+msgstr ""
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:81
+msgctxt "AdministeredHardDrug.label"
+msgid "administered hard drug"
+msgstr ""
+
+#: Defs/HistoryEventDefs/HistoryEventDefs.xml:86
+msgctxt "CharityRefused_ThreatReward_Joiner.label"
+msgid "joiner refused"
+msgstr ""

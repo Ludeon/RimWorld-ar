@@ -1,0 +1,530 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:6
+#, fuzzy
+msgctxt "Cow.label"
+msgid "cow"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:8
+#, fuzzy
+msgctxt "Cow.description"
+msgid ""
+"A large domesticated ungulate, cows have been bred for millennia to produce "
+"huge amounts of milk, meat, and leather. They are exceptionally gentle "
+"creatures and will never seek revenge, no matter how many times they are "
+"harmed. Most of them are so adapted to farm life that they cannot survive in"
+" the wild."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:80
+msgctxt "Cow.tools.1.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:91
+msgctxt "Cow.tools.2.label"
+msgid "left hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:102
+msgctxt "Cow.tools.3.label"
+msgid "right hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:117
+#, fuzzy
+msgctxt "Cow.label"
+msgid "cow"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:125
+msgctxt "Cow.lifeStages.0.label"
+msgid "calf"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:218
+#, fuzzy
+msgctxt "Boomalope.label"
+msgid "boomalope"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:220
+#, fuzzy
+msgctxt "Boomalope.description"
+msgid ""
+"Engineered for chemicals production, the boomalope grows a large sac of "
+"volatile chemicals on its back. Though it is weak and fragile for its size, "
+"other animals have learned to avoid it because of the huge explosion it "
+"produces when it dies. It can be milked to produce chemfuel - very "
+"carefully."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:291
+msgctxt "Boomalope.tools.0.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:302
+msgctxt "Boomalope.tools.1.label"
+msgid "left hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:313
+msgctxt "Boomalope.tools.2.label"
+msgid "right hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:337
+#, fuzzy
+msgctxt "Boomalope.label"
+msgid "boomalope"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:344
+msgctxt "Boomalope.lifeStages.0.label"
+msgid "boomalope calf"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:413
+#, fuzzy
+msgctxt "Muffalo.label"
+msgid "muffalo"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:415
+#, fuzzy
+msgctxt "Muffalo.description"
+msgid ""
+"A large herding herbivore descended from buffalo and adapted for both cold "
+"and warm environments. While enraged muffalo are deadly, tamed muffalo are "
+"quite docile and can be used as pack animals.\\n\\nNobody is quite sure why "
+"they're blue - it might even be some early genetic modification test that "
+"just never got changed."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:481
+msgctxt "Muffalo.tools.0.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:491
+msgctxt "Muffalo.tools.1.label"
+msgid "left hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:502
+msgctxt "Muffalo.tools.2.label"
+msgid "right hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:526
+#, fuzzy
+msgctxt "Muffalo.label"
+msgid "muffalo"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:533
+msgctxt "Muffalo.lifeStages.0.label"
+msgid "muffalo calf"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:584
+msgctxt "Bison.label"
+msgid "bison"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:586
+msgctxt "Bison.description"
+msgid ""
+"A large plant eating mammal appearing in the savannah wilderness. Tamed are "
+"quite docile, but enraged are fast and dangerous."
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:652
+msgctxt "Bison.tools.0.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:662
+msgctxt "Bison.tools.1.label"
+msgid "left hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:673
+msgctxt "Bison.tools.2.label"
+msgid "right hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:697
+msgctxt "Bison.label"
+msgid "bison"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:704
+msgctxt "Bison.lifeStages.0.label"
+msgid "bison calf"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:755
+#, fuzzy
+msgctxt "Dromedary.label"
+msgid "dromedary"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:757
+#, fuzzy
+msgctxt "Dromedary.description"
+msgid ""
+"A large land mammal adapted to arid environments. Domesticated since ancient"
+" times, its leather is exceptionally good at insulating against the desert "
+"heat, and its milk is quite nourishing. It can be used as a pack animal and "
+"mount, but its bouncing gait makes it slower to ride than a horse.\\n\\nBy "
+"storing water in its large humps and reclaiming moisture from its breath as "
+"it exhales, it can go weeks without drinking.\\n\\nWhen in a caravan, people"
+" can ride dromedaries to increase the caravan's speed."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:823
+msgctxt "Dromedary.tools.0.label"
+msgid "left hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:834
+msgctxt "Dromedary.tools.1.label"
+msgid "right hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:854
+msgctxt "Dromedary.tools.3.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:869
+#, fuzzy
+msgctxt "Dromedary.label"
+msgid "dromedary"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:877
+msgctxt "Dromedary.lifeStages.0.label"
+msgid "dromedary calf"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:928
+msgctxt "Goat.label"
+msgid "goat"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:930
+msgctxt "Goat.description"
+msgid ""
+"Naturally curious about the world, goats are among the friendliest "
+"domesticated creature bred by mankind."
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1001
+msgctxt "Goat.tools.1.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1016
+msgctxt "Goat.label"
+msgid "goat"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1023
+msgctxt "Goat.lifeStages.0.label"
+msgid "baby goat"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1098
+#, fuzzy
+msgctxt "Elk.label"
+msgid "elk"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1100
+#, fuzzy
+msgctxt "Elk.description"
+msgid ""
+"A large member of the deer family, well-adapted to life in cold climates. "
+"Domesticated elk can be milked, but refuse to carry packs."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1162
+msgctxt "Elk.tools.0.label"
+msgid "left hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1173
+msgctxt "Elk.tools.1.label"
+msgid "right hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1193
+msgctxt "Elk.tools.3.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1207
+#, fuzzy
+msgctxt "Elk.label"
+msgid "elk"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1215
+msgctxt "Elk.lifeStages.0.label"
+msgid "elk calf"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1286
+msgctxt "Yak.label"
+msgid "yak"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1288
+msgctxt "Yak.description"
+msgid ""
+"Yaks are robust cattle with a bulky frame, short but thick legs, and rounded"
+" cloven hooves that are splayed to help them walk in snow."
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1363
+msgctxt "Yak.tools.1.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1374
+msgctxt "Yak.tools.2.label"
+msgid "left hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1385
+msgctxt "Yak.tools.3.label"
+msgid "right hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1400
+msgctxt "Yak.label"
+msgid "yak"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1408
+msgctxt "Yak.lifeStages.0.label"
+msgid "yak calf"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1495
+#, fuzzy
+msgctxt "Caribou.label"
+msgid "caribou"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1497
+#, fuzzy
+msgctxt "Caribou.description"
+msgid ""
+"A large member of the deer family, well-adapted to life in cold climates. "
+"Caribou can be milked, but refuse to carry packs."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1560
+msgctxt "Caribou.tools.0.label"
+msgid "left hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1571
+msgctxt "Caribou.tools.1.label"
+msgid "right hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1591
+msgctxt "Caribou.tools.3.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1605
+#, fuzzy
+msgctxt "Caribou.label"
+msgid "caribou"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1613
+msgctxt "Caribou.lifeStages.0.label"
+msgid "caribou calf"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1660
+msgctxt "Horse.label"
+msgid "horse"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1662
+msgctxt "Horse.description"
+msgid ""
+"A large hoofed mammal with a short coat, a long mane, and a long tail. "
+"Horses have been domesticated since ancient times.\\n\\nWhen in a caravan, "
+"people can ride horses to increase the caravan's speed."
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1723
+msgctxt "Horse.tools.0.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1733
+msgctxt "Horse.tools.1.label"
+msgid "left hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1744
+msgctxt "Horse.tools.2.label"
+msgid "right hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1768
+msgctxt "Horse.label"
+msgid "horse"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1786
+msgctxt "Horse.lifeStages.0.label"
+msgid "foal"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1835
+msgctxt "Donkey.label"
+msgid "donkey"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1837
+msgctxt "Donkey.description"
+msgid ""
+"A small relative of the horse, domesticated in ancient times for farm work. "
+"Its goofy call is simultaneously annoying and endearing.\\n\\nWhen in a "
+"caravan, people can ride donkeys to increase the caravan's speed."
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1897
+msgctxt "Donkey.tools.0.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1907
+msgctxt "Donkey.tools.1.label"
+msgid "left hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1918
+msgctxt "Donkey.tools.2.label"
+msgid "right hoof"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1942
+msgctxt "Donkey.label"
+msgid "donkey"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1949
+msgctxt "Donkey.lifeStages.0.label"
+msgid "donkey foal"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:1999
+#, fuzzy
+msgctxt "Elephant.label"
+msgid "elephant"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:2001
+#, fuzzy
+msgctxt "Elephant.description"
+msgid ""
+"The largest unmodified land animal. Elephants has a long trunk they use to "
+"manipulate objects, and sharp tusks they use to gore attackers. A dead "
+"elephant's valuable tusks can be recovered by butchering "
+"it.\\n\\nIntelligent creatures with complex social relationships, elephants "
+"can be used as pack animals or trained to carry out the most complex of "
+"tasks. They live a long time, and are known to remember events and "
+"relationships from many decades before."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:2012
+msgctxt "Elephant.tools.0.label"
+msgid "tusk"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:2022
+msgctxt "Elephant.tools.1.label"
+msgid "left foot"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:2032
+msgctxt "Elephant.tools.2.label"
+msgid "right foot"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:2042
+msgctxt "Elephant.tools.3.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:2102
+#, fuzzy
+msgctxt "Elephant.label"
+msgid "elephant"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:2109
+msgctxt "Elephant.lifeStages.0.label"
+msgid "elephant calf"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:2165
+#, fuzzy
+msgctxt "Rhinoceros.label"
+msgid "rhinoceros"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:2167
+#, fuzzy
+msgctxt "Rhinoceros.description"
+msgid ""
+"Despite being herbivorous, this large mammal is very easy to enrage. Once "
+"angered, its massive strength and sharp horn make it a brutal opponent. It "
+"has more muscle in one leg than most humans do in their whole body."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:2176
+msgctxt "Rhinoceros.tools.0.label"
+msgid "horn"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:2185
+msgctxt "Rhinoceros.tools.1.label"
+msgid "horn"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:2203
+msgctxt "Rhinoceros.tools.3.label"
+msgid "head"
+msgstr ""
+
+#: Defs/ThingDefs_Races/Races_Animal_CowGroup.xml:2266
+#, fuzzy
+msgctxt "Rhinoceros.label"
+msgid "rhinoceros"
+msgstr "TODO"

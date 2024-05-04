@@ -1,0 +1,63 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/RulePackDefs/RulePacks_Common.xml:9
+msgctxt "TribalWordUtility.rulePack.rulesStrings.0"
+msgid "WordTribal(p=3)->[tribal_word_file]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Common.xml:9
+msgctxt "TribalWordUtility.rulePack.rulesStrings.1"
+msgid "WordTribal(p=3)->[SylG][SylG]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Common.xml:9
+msgctxt "TribalWordUtility.rulePack.rulesStrings.2"
+msgid "WordTribal(p=2)->[SylG][SylG][SylG]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Common.xml:9
+msgctxt "TribalWordUtility.rulePack.rulesStrings.3"
+msgid "WordTribal->[SylG][SylG][SylG][SylG]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Common.xml:24
+msgctxt "OutlanderPlaceNameUtility.rulePack.rulesStrings.0"
+msgid "PlaceOutlander->[SylE][place_end]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Common.xml:24
+msgctxt "OutlanderPlaceNameUtility.rulePack.rulesStrings.1"
+msgid "PlaceOutlander->[SylE][place_end]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Common.xml:24
+msgctxt "OutlanderPlaceNameUtility.rulePack.rulesStrings.2"
+msgid "PlaceOutlander->[SylE][place_end]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Common.xml:24
+msgctxt "OutlanderPlaceNameUtility.rulePack.rulesStrings.3"
+msgid "PlaceOutlander->[SylE][SylE][place_end]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Common.xml:24
+msgctxt "OutlanderPlaceNameUtility.rulePack.rulesStrings.4"
+msgid "PlaceOutlander->[SylE][SylE][place_end]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Common.xml:24
+msgctxt "OutlanderPlaceNameUtility.rulePack.rulesStrings.5"
+msgid "PlaceOutlander->[SylE][SylE][SylE][place_end]"
+msgstr ""

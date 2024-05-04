@@ -1,0 +1,362 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:21
+#, fuzzy
+msgctxt "GutWorms.label"
+msgid "gut worms"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:22
+msgctxt "GutWorms.description"
+msgid ""
+"Parasitic worms in the gut. They cause vomiting. They also consume the "
+"victim's food, which increases hunger."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:43
+#, fuzzy
+msgctxt "MuscleParasites.label"
+msgid "muscle parasites"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:44
+msgctxt "MuscleParasites.description"
+msgid ""
+"Parasitic creatures in the muscles. These cause weakness and a lack of "
+"coordination."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:98
+#, fuzzy
+msgctxt "FibrousMechanites.label"
+msgid "fibrous mechanites"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:99
+msgctxt "FibrousMechanites.description"
+msgid ""
+"Semi-coherent mechanites which develop fibrous links in muscle tissue. They "
+"enhance the victim's strength, but also cause intense pain. These are "
+"probably a mutated strain of strength-enhancing mechanites."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:103
+msgctxt "FibrousMechanites.stages.0.label"
+msgid "mild pain"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:124
+msgctxt "FibrousMechanites.stages.1.label"
+msgid "intense pain"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:149
+#, fuzzy
+msgctxt "SensoryMechanites.label"
+msgid "sensory mechanites"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:150
+msgctxt "SensoryMechanites.description"
+msgid ""
+"Semi-coherent mechanites which reside in the nervous system. They enhance "
+"the victim's senses, but also cause intense pain. These are probably a "
+"mutated strain of sense-enhancing mechanites."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:153
+msgctxt "SensoryMechanites.stages.0.label"
+msgid "mild pain"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:178
+msgctxt "SensoryMechanites.stages.1.label"
+msgid "intense pain"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:208
+#, fuzzy
+msgctxt "WoundInfection.label"
+msgid "infection"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:210
+msgctxt "WoundInfection.description"
+msgid ""
+"Bacterial infection in a wound. Without treatment, the bacteria will multiply, killing local tissue, and eventually causing blood poisoning and death.\n"
+"\\nThrough aeons of human warfare, infections have often taken more lives than the wounds themselves."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:232
+msgctxt "WoundInfection.stages.0.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:237
+msgctxt "WoundInfection.stages.1.label"
+msgid "major"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:242
+msgctxt "WoundInfection.stages.2.label"
+msgid "extreme"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:254
+msgctxt "WoundInfection.stages.3.label"
+msgid "extreme"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:273
+#, fuzzy
+msgctxt "Flu.label"
+msgid "flu"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:274
+msgctxt "Flu.description"
+msgid "An infectious disease caused by the influenza virus."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:292
+msgctxt "Flu.stages.0.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:310
+msgctxt "Flu.stages.1.label"
+msgid "major"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:329
+msgctxt "Flu.stages.2.label"
+msgid "extreme"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:353
+#, fuzzy
+msgctxt "Animal_Flu.label"
+msgid "flu"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:354
+msgctxt "Animal_Flu.description"
+msgid ""
+"An infectious disease caused by the influenza virus. This strain is adapted "
+"for infecting non-human species."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:373
+msgctxt "Animal_Flu.stages.0.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:391
+msgctxt "Animal_Flu.stages.1.label"
+msgid "major"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:410
+msgctxt "Animal_Flu.stages.2.label"
+msgid "extreme"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:434
+#, fuzzy
+msgctxt "Plague.label"
+msgid "plague"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:435
+msgctxt "Plague.description"
+msgid "An infectious disease caused by bacteria."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:453
+msgctxt "Plague.stages.0.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:468
+msgctxt "Plague.stages.1.label"
+msgid "major"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:483
+msgctxt "Plague.stages.2.label"
+msgid "extreme"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:498
+msgctxt "Plague.stages.3.label"
+msgid "extreme"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:521
+#, fuzzy
+msgctxt "Animal_Plague.label"
+msgid "plague"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:522
+msgctxt "Animal_Plague.description"
+msgid ""
+"An infectious disease caused by bacteria. This strain is adapted to "
+"infecting non-human species."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:541
+msgctxt "Animal_Plague.stages.0.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:556
+msgctxt "Animal_Plague.stages.1.label"
+msgid "major"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:571
+msgctxt "Animal_Plague.stages.2.label"
+msgid "extreme"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:586
+msgctxt "Animal_Plague.stages.3.label"
+msgid "extreme"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:610
+#, fuzzy
+msgctxt "Malaria.label"
+msgid "malaria"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:611
+msgctxt "Malaria.description"
+msgid "An infectious disease caused by a mosquito-borne parasite."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:630
+msgctxt "Malaria.stages.0.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:644
+msgctxt "Malaria.stages.1.label"
+msgid "major"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:664
+msgctxt "Malaria.stages.2.label"
+msgid "extreme"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:688
+#, fuzzy
+msgctxt "SleepingSickness.label"
+msgid "sleeping sickness"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:689
+msgctxt "SleepingSickness.description"
+msgid ""
+"An infectious disease caused by an insect-borne parasite. Sleeping sickness "
+"is not as deadly as some other diseases, but progresses slowly. The body "
+"takes a long time to clear the infection."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:707
+msgctxt "SleepingSickness.stages.0.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:722
+msgctxt "SleepingSickness.stages.1.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:737
+msgctxt "SleepingSickness.stages.2.label"
+msgid "major"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:753
+msgctxt "SleepingSickness.stages.3.label"
+msgid "extreme"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:770
+msgctxt "SleepingSickness.stages.4.label"
+msgid "extreme"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:790
+msgctxt "LungRotExposure.label"
+msgid "rot stink exposure"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:791
+msgctxt "LungRotExposure.description"
+msgid ""
+"Long-term exposure to rot stink gas. Rot stink exposure has no direct health"
+" effects. However, serious rot stink exposure has a chance to result in a "
+"painful bacterial infection known as lung rot. When not exposed to rot stink"
+" gas, rot stink exposure will slowly decrease."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:826
+msgctxt "LungRotExposure.stages.1.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:830
+msgctxt "LungRotExposure.stages.2.label"
+msgid "major"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:834
+msgctxt "LungRotExposure.stages.3.label"
+msgid "serious"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:842
+msgctxt "LungRot.label"
+msgid "lung rot"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:843
+msgctxt "LungRot.description"
+msgid ""
+"A bacterial disease that targets an individual's lungs. Minor cases are "
+"little more than an irritation, but if left unchecked the bacterial growth "
+"results in an increasing amount of fluid buildup in the victim's lungs, "
+"eventually resulting in death.\\n\\nIf treated properly, the body's immune "
+"system will eventually clear lung rot."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:852
+msgctxt "LungRot.stages.0.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:863
+msgctxt "LungRot.stages.1.label"
+msgid "major"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Local_Infections.xml:874
+msgctxt "LungRot.stages.2.label"
+msgid "extreme"
+msgstr ""

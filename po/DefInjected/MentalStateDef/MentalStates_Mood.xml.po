@@ -1,0 +1,362 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:20
+#, fuzzy
+msgctxt "Berserk.label"
+msgid "berserk"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:32
+#, fuzzy
+msgctxt "Berserk.beginLetter"
+msgid ""
+"{0} has gone berserk.\\n\\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] "
+"sees."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:37
+#, fuzzy
+msgctxt "Berserk.recoveryMessage"
+msgid "{0}'s berserk rage has come to an end."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:55
+#, fuzzy
+msgctxt "FireStartingSpree.label"
+msgid "fire starting spree"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:69
+#, fuzzy
+msgctxt "FireStartingSpree.beginLetter"
+msgid ""
+"{0} is on a fire starting spree.\\n\\n[PAWN_pronoun] will wander around for "
+"a while, randomly starting fires."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:72
+#, fuzzy
+msgctxt "FireStartingSpree.recoveryMessage"
+msgid "{0} is no longer on a fire starting spree."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:89
+#, fuzzy
+msgctxt "Binging_DrugExtreme.label"
+msgid "binging on drug"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:107
+#, fuzzy
+msgctxt "Catatonic.label"
+msgid "catatonic"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:123
+#, fuzzy
+msgctxt "Jailbreaker.label"
+msgid "inducing prisoner to escape"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:132
+#, fuzzy
+msgctxt "Jailbreaker.recoveryMessage"
+msgid "{0} is no longer inducing prisoners to escape."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:133
+#, fuzzy
+msgctxt "Jailbreaker.beginLetterLabel"
+msgid "jailbreaker"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:134
+#, fuzzy
+msgctxt "Jailbreaker.beginLetter"
+msgid ""
+"{0} has had a mental breakdown and is going to induce prisoners to escape."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:151
+#, fuzzy
+msgctxt "Slaughterer.label"
+msgid "slaughterer"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:166
+#, fuzzy
+msgctxt "Slaughterer.recoveryMessage"
+msgid "{0} is no longer slaughtering random animals."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:167
+#, fuzzy
+msgctxt "Slaughterer.beginLetter"
+msgid ""
+"{0} has had a mental breakdown and is going to vent [PAWN_possessive] anger "
+"on your animals."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:189
+#, fuzzy
+msgctxt "MurderousRage.label"
+msgid "murderous rage"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:205
+#, fuzzy
+msgctxt "MurderousRage.recoveryMessage"
+msgid "{0} is no longer in a murderous rage."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:206
+#, fuzzy
+msgctxt "MurderousRage.beginLetter"
+msgid ""
+"{0} has flown into a murderous rage.\\n\\n[PAWN_pronoun] has decided to kill"
+" {1}."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:214
+#, fuzzy
+msgctxt "RunWild.label"
+msgid "run wild"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:241
+#, fuzzy
+msgctxt "GiveUpExit.label"
+msgid "giving up and leaving"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:249
+#, fuzzy
+msgctxt "GiveUpExit.beginLetterLabel"
+msgid "gave up"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:250
+#, fuzzy
+msgctxt "GiveUpExit.beginLetter"
+msgid ""
+"{0} has given up on this community.\\n\\n[PAWN_pronoun] has decided to leave"
+" and pursue a better life elsewhere. You can try to arrest [PAWN_objective] "
+"as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] "
+"again some day."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:252
+#, fuzzy
+msgctxt "GiveUpExit.recoveryMessage"
+msgid "{0} has had a change of heart and is coming back to the colony."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:280
+#, fuzzy
+msgctxt "Wander_Psychotic.label"
+msgid "wandering in psychosis"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:288
+#, fuzzy
+msgctxt "Wander_Psychotic.recoveryMessage"
+msgid "{0} is no longer wandering in a psychotic state."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:289
+#, fuzzy
+msgctxt "Wander_Psychotic.beginLetterLabel"
+msgid "daze"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:290
+#, fuzzy
+msgctxt "Wander_Psychotic.beginLetter"
+msgid "{0} is wandering around in a psychotic state."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:312
+#, fuzzy
+msgctxt "Tantrum.label"
+msgid "tantrum"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:329
+#, fuzzy
+msgctxt "Tantrum.recoveryMessage"
+msgid "{0} is no longer having a tantrum."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:330
+#, fuzzy
+msgctxt "Tantrum.beginLetter"
+msgid ""
+"{0} is having a tantrum.\\n\\n[PAWN_pronoun] will smash up random furniture,"
+" items and structures."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:349
+#, fuzzy
+msgctxt "TargetedTantrum.beginLetter"
+msgid "{0} is having a tantrum.\\n\\n[PAWN_pronoun] is going to destroy {1}."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:362
+#, fuzzy
+msgctxt "BedroomTantrum.beginLetter"
+msgid ""
+"{0} is having a tantrum.\\n\\n[PAWN_pronoun] is going to smash things in "
+"[PAWN_possessive] room."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:375
+#, fuzzy
+msgctxt "SadisticRage.label"
+msgid "sadistic rage"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:377
+#, fuzzy
+msgctxt "SadisticRage.recoveryMessage"
+msgid "{0} is no longer in a sadistic rage."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:379
+#, fuzzy
+msgctxt "SadisticRage.beginLetter"
+msgid ""
+"{0} has flown into a sadistic rage.\\n\\n[PAWN_pronoun] is going to vent "
+"[PAWN_possessive] anger on the prisoners."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:393
+#, fuzzy
+msgctxt "CorpseObsession.label"
+msgid "corpse obsession"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:406
+#, fuzzy
+msgctxt "CorpseObsession.recoveryMessage"
+msgid "{0} is no longer having a corpse obsession."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:407
+#, fuzzy
+msgctxt "CorpseObsession.beginLetter"
+msgid ""
+"{0} has broken inside and become obsessed with corpses.\\n\\n[PAWN_pronoun] "
+"is going to find a corpse and present it for all to see."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:426
+#, fuzzy
+msgctxt "Binging_Food.label"
+msgid "binging on food"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:435
+#, fuzzy
+msgctxt "Binging_Food.beginLetterLabel"
+msgid "food binge"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:436
+#, fuzzy
+msgctxt "Binging_Food.beginLetter"
+msgid "{0} is pigging out on food."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:439
+#, fuzzy
+msgctxt "Binging_Food.recoveryMessage"
+msgid "{0} is no longer pigging out on food."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:454
+#, fuzzy
+msgctxt "Wander_Sad.label"
+msgid "sad wandering"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:464
+#, fuzzy
+msgctxt "Wander_Sad.recoveryMessage"
+msgid "{0} is no longer wandering in sadness."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:465
+#, fuzzy
+msgctxt "Wander_Sad.beginLetterLabel"
+msgid "sad wander"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:466
+#, fuzzy
+msgctxt "Wander_Sad.beginLetter"
+msgid "{0} has broken down and is wandering around in sadness."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:484
+#, fuzzy
+msgctxt "Wander_OwnRoom.label"
+msgid "sitting alone"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:494
+#, fuzzy
+msgctxt "Wander_OwnRoom.recoveryMessage"
+msgid "{0} is no longer hiding in [PAWN_possessive] room."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:495
+#, fuzzy
+msgctxt "Wander_OwnRoom.beginLetterLabel"
+msgid "hide in room"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:496
+#, fuzzy
+msgctxt "Wander_OwnRoom.beginLetter"
+msgid "{0} is hiding in [PAWN_possessive] room."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:513
+#, fuzzy
+msgctxt "InsultingSpree.label"
+msgid "insulting spree"
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:533
+#, fuzzy
+msgctxt "InsultingSpree.recoveryMessage"
+msgid "{0} is no longer on an insulting spree."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:534
+#, fuzzy
+msgctxt "InsultingSpree.beginLetter"
+msgid ""
+"{0} is on an insulting spree.\\n\\n[PAWN_pronoun] will wander around, "
+"randomly insulting others."
+msgstr "TODO"
+
+#: Defs/MentalStateDefs/MentalStates_Mood.xml:551
+#, fuzzy
+msgctxt "TargetedInsultingSpree.beginLetter"
+msgid ""
+"{0} has fixated [PAWN_possessive] rage on {1}.\\n\\n[PAWN_pronoun] will "
+"follow {1} around, hurling insults."
+msgstr "TODO"

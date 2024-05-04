@@ -1,0 +1,936 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:10
+#, fuzzy
+msgctxt "PsychoidBrewing.label"
+msgid "psychoid brewing"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:11
+#, fuzzy
+msgctxt "PsychoidBrewing.description"
+msgid ""
+"Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at"
+" the campfire or cooking stove."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:20
+msgctxt "PsychoidBrewing.generalRules.rulesStrings.0"
+msgid "subject->psychoid"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:20
+msgctxt "PsychoidBrewing.generalRules.rulesStrings.1"
+msgid "subject_story->joined a short-lived psychoid commune on a cult world"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:20
+msgctxt "PsychoidBrewing.generalRules.rulesStrings.2"
+msgid "subject_story->experimented with psychoid to help traumatized soldiers"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:20
+msgctxt "PsychoidBrewing.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->legalized psychoid for mass production across several "
+"coreworlds, when he had the power to do so"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:20
+msgctxt "PsychoidBrewing.generalRules.rulesStrings.4"
+msgid "subject_gerund->brewing psychoid"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:34
+#, fuzzy
+msgctxt "TreeSowing.label"
+msgid "tree sowing"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:35
+#, fuzzy
+msgctxt "TreeSowing.description"
+msgid "Sow the local biome's natural trees in your fields."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:44
+msgctxt "TreeSowing.generalRules.rulesStrings.0"
+msgid "subject->tree sowing"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:44
+msgctxt "TreeSowing.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->propagated trees across a long-dead planetoid, trying to "
+"bring life back"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:44
+msgctxt "TreeSowing.generalRules.rulesStrings.2"
+msgid "subject_story->published a paper about maintaining natural ecosystems"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:44
+msgctxt "TreeSowing.generalRules.rulesStrings.3"
+msgid "subject_story->worked in a tree nursery on an animal world"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:44
+msgctxt "TreeSowing.generalRules.rulesStrings.4"
+msgid "subject_gerund->sowing trees"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:58
+#, fuzzy
+msgctxt "Brewing.label"
+msgid "beer brewing"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:59
+#, fuzzy
+msgctxt "Brewing.description"
+msgid ""
+"Build a brewery and fermenting vats to transform hops into tasty, tasty "
+"beer."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:65
+msgctxt "Brewing.generalRules.rulesStrings.0"
+msgid "subject->brewing"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:65
+msgctxt "Brewing.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->brewed a unique stout that became famous across the system"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:65
+msgctxt "Brewing.generalRules.rulesStrings.2"
+msgid "subject_story->retired to run a public house on an animal world"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:65
+msgctxt "Brewing.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->specialized in climate-controlled fermentation techniques"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:65
+msgctxt "Brewing.generalRules.rulesStrings.4"
+msgid "subject_gerund->constructing breweries"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:65
+msgctxt "Brewing.generalRules.rulesStrings.5"
+msgid "subject_gerund->brewing beer"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:81
+#, fuzzy
+msgctxt "ComplexFurniture.label"
+msgid "complex furniture"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:82
+#, fuzzy
+msgctxt "ComplexFurniture.description"
+msgid ""
+"Build complex furniture like beds, end tables, dining chairs, armchairs, "
+"dressers, tool cabinets, billiards tables, and poker tables, vents, "
+"sarcophagi, and more."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:91
+msgctxt "ComplexFurniture.generalRules.rulesStrings.0"
+msgid "subject->carpentry"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:91
+msgctxt "ComplexFurniture.generalRules.rulesStrings.1"
+msgid "subject_story->studied woodcarving under a master carpenter"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:91
+msgctxt "ComplexFurniture.generalRules.rulesStrings.2"
+msgid "subject_story->built a town of log-cabins singlehandedly"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:91
+msgctxt "ComplexFurniture.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->established a factory, selling high-quality furniture to "
+"passing traders"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:91
+msgctxt "ComplexFurniture.generalRules.rulesStrings.4"
+msgid "subject_gerund->building complex furniture"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:105
+#, fuzzy
+msgctxt "PassiveCooler.label"
+msgid "passive cooler"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:106
+#, fuzzy
+msgctxt "PassiveCooler.description"
+msgid "Make passive coolers, to cool indoor spaces without using electricity."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:116
+msgctxt "PassiveCooler.generalRules.rulesStrings.0"
+msgid "subject->evaporation"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:116
+msgctxt "PassiveCooler.generalRules.rulesStrings.1"
+msgid "subject->passive coolers"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:116
+msgctxt "PassiveCooler.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->moved to a sweltering tropical world and developed unique "
+"techniques for staying cool"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:116
+msgctxt "PassiveCooler.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->researched primitive techniques for cooling areas in the "
+"comfort of a coreworld's libraries"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:116
+msgctxt "PassiveCooler.generalRules.rulesStrings.4"
+msgid ""
+"subject_story->noticed, on the shores of an oceanic planet, that it was "
+"cooler where the sea spray settled"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:116
+msgctxt "PassiveCooler.generalRules.rulesStrings.5"
+msgid "subject_gerund->building passive coolers"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:131
+#, fuzzy
+msgctxt "Stonecutting.label"
+msgid "stonecutting"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:132
+#, fuzzy
+msgctxt "Stonecutting.description"
+msgid ""
+"Cut rock chunks into stone blocks for use in construction. Build beautiful "
+"stone tile floors or ugly concrete walkways."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:141
+msgctxt "Stonecutting.generalRules.rulesStrings.0"
+msgid "subject->masonry"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:141
+msgctxt "Stonecutting.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->was the first in a line of temple designers, all sharing the "
+"same name"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:141
+msgctxt "Stonecutting.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->developed unique techniques for cutting the hardest rock with"
+" basic tools"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:141
+msgctxt "Stonecutting.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->tiled the entirety of the viceroy's palace on a medieval "
+"world"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:141
+msgctxt "Stonecutting.generalRules.rulesStrings.4"
+msgid "subject_gerund->stonecutting"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:141
+msgctxt "Stonecutting.generalRules.rulesStrings.5"
+msgid "subject_gerund->cutting stones"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:156
+#, fuzzy
+msgctxt "ComplexClothing.label"
+msgid "complex clothing"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:157
+#, fuzzy
+msgctxt "ComplexClothing.description"
+msgid "Tailor complicated garments like pants, dusters, and cowboy hats."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:166
+msgctxt "ComplexClothing.generalRules.rulesStrings.0"
+msgid "subject->complex tailoring"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:166
+msgctxt "ComplexClothing.generalRules.rulesStrings.1"
+msgid "subject_story->tailored hard-wearing clothes for urbworld cityfolk"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:166
+msgctxt "ComplexClothing.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->would relax by sewing and telling stories to the village "
+"children"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:166
+msgctxt "ComplexClothing.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->learned to craft clothing to be worn at their troupe's grand "
+"performances"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:166
+msgctxt "ComplexClothing.generalRules.rulesStrings.4"
+msgid "subject_gerund->tailoring complex clothes"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:182
+#, fuzzy
+msgctxt "DrugProduction.label"
+msgid "drug production"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:183
+#, fuzzy
+msgctxt "DrugProduction.description"
+msgid ""
+"Build a drug lab for basic drug synthesis. Further research is required to "
+"make specific drugs."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:189
+msgctxt "DrugProduction.generalRules.rulesStrings.0"
+msgid "subject->drug production"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:189
+msgctxt "DrugProduction.generalRules.rulesStrings.1"
+msgid "subject->drug synthesis"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:189
+msgctxt "DrugProduction.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->worked in an asteroid lab on the edge of populated space"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:189
+msgctxt "DrugProduction.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->learned how to craft drugs from recycled chemicals, leading "
+"to many years spent in prison"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:189
+msgctxt "DrugProduction.generalRules.rulesStrings.4"
+msgid ""
+"subject_story->worked as a chemist, but slipped into peddling illegal drugs "
+"on the side"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:189
+msgctxt "DrugProduction.generalRules.rulesStrings.5"
+msgid "subject_gerund->building drug labs"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:189
+msgctxt "DrugProduction.generalRules.rulesStrings.6"
+msgid "subject_gerund->producing drugs"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:206
+#, fuzzy
+msgctxt "Cocoa.label"
+msgid "cocoa"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:207
+#, fuzzy
+msgctxt "Cocoa.description"
+msgid ""
+"Sow cocoa trees to create your own delicious chocolate. Eating chocolate "
+"fulfills the need for recreation and it's a valuable trade good too."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:216
+msgctxt "Cocoa.generalRules.rulesStrings.0"
+msgid "subject->cocoa"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:216
+msgctxt "Cocoa.generalRules.rulesStrings.1"
+msgid "subject->chocolate"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:216
+msgctxt "Cocoa.generalRules.rulesStrings.2"
+msgid "subject_story->became obsessed with chocolate and had to be restrained"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:216
+msgctxt "Cocoa.generalRules.rulesStrings.3"
+msgid "subject_story->studied the fermentation process of cocoa for a thesis"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:216
+msgctxt "Cocoa.generalRules.rulesStrings.4"
+msgid "subject_story->set up the best chocolate shop in the sector"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:216
+msgctxt "Cocoa.generalRules.rulesStrings.5"
+msgid "subject_gerund->producing chocolate"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:216
+msgctxt "Cocoa.generalRules.rulesStrings.6"
+msgid "subject_gerund->cultivating cocoa"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:233
+#, fuzzy
+msgctxt "Devilstrand.label"
+msgid "devilstrand"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:234
+#, fuzzy
+msgctxt "Devilstrand.description"
+msgid ""
+"Plant devilstrand, a slow-growing mushroom that yields an exceptionally "
+"tough, heat-resistant plant fiber."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:240
+msgctxt "Devilstrand.generalRules.rulesStrings.0"
+msgid "subject->devilstrand cultivation"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:240
+msgctxt "Devilstrand.generalRules.rulesStrings.1"
+msgid "subject_story->used devilstrand as a natural firebreak"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:240
+msgctxt "Devilstrand.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->established the techniques for cultivating devilstrand easily"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:240
+msgctxt "Devilstrand.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->became obsessed with mushrooms and became the self-declared "
+"Princess of their kingdom"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:240
+msgctxt "Devilstrand.generalRules.rulesStrings.4"
+msgid "subject_gerund->cultivating devilstrand"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:254
+#, fuzzy
+msgctxt "CarpetMaking.label"
+msgid "carpet-making"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:255
+#, fuzzy
+msgctxt "CarpetMaking.description"
+msgid "Weave beautiful carpets from cloth."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:261
+msgctxt "CarpetMaking.generalRules.rulesStrings.0"
+msgid "subject->carpet-making"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:261
+msgctxt "CarpetMaking.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->learned to weave carpets from hair, for a distant Emperor"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:261
+msgctxt "CarpetMaking.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->left behind an unparalleled collection of carpets and "
+"tapestries"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:261
+msgctxt "CarpetMaking.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->settled on a medieval moon, where the carpetweaving craft was"
+" truly appreciated"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:261
+msgctxt "CarpetMaking.generalRules.rulesStrings.4"
+msgid "subject_gerund->weaving carpets"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:275
+#, fuzzy
+msgctxt "Pemmican.label"
+msgid "pemmican"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:276
+#, fuzzy
+msgctxt "Pemmican.description"
+msgid ""
+"Make pemmican, a preserved mixture of meat and plant matter that doesn't go "
+"bad for a long time. Great for traveling."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:285
+msgctxt "Pemmican.generalRules.rulesStrings.0"
+msgid "subject->pemmican production"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:285
+msgctxt "Pemmican.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->mastered pemmican production during a long pilgrimage to the "
+"planet's Spire"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:285
+msgctxt "Pemmican.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->survived solely on pemmican when a passenger liner crashed on"
+" a glassworld"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:285
+msgctxt "Pemmican.generalRules.rulesStrings.3"
+msgid "subject_story->taught pemmican production to feral tribes"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:285
+msgctxt "Pemmican.generalRules.rulesStrings.4"
+msgid "subject_gerund->making pemmican"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:301
+#, fuzzy
+msgctxt "Smithing.label"
+msgid "smithing"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:302
+#, fuzzy
+msgctxt "Smithing.description"
+msgid ""
+"Build smithies for crafting metal weapons like knives, gladii, and maces. "
+"Work metal into clean, beautiful floor tiles."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:308
+msgctxt "Smithing.generalRules.rulesStrings.0"
+msgid "subject->blacksmithing"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:308
+msgctxt "Smithing.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->settled in a medieval hamlet and mastered simple metal "
+"crafting"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:308
+msgctxt "Smithing.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->built glitterworld smithies for the Renaissance reenactment "
+"guilds"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:308
+msgctxt "Smithing.generalRules.rulesStrings.3"
+msgid "subject_gerund->smithing"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:321
+#, fuzzy
+msgctxt "RecurveBow.label"
+msgid "recurve bow"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:322
+#, fuzzy
+msgctxt "RecurveBow.description"
+msgid "Build the recurve bow, an effective and inexpensive ranged weapon."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:331
+msgctxt "RecurveBow.generalRules.rulesStrings.0"
+msgid "subject->bowyery"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:331
+msgctxt "RecurveBow.generalRules.rulesStrings.1"
+msgid "subject->bow-making"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:331
+msgctxt "RecurveBow.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->tracked a rabid boomalope for four days before killing it "
+"with a single arrow"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:331
+msgctxt "RecurveBow.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->settled near a yew forest to secure the perfect materials for"
+" bows"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:331
+msgctxt "RecurveBow.generalRules.rulesStrings.4"
+msgid ""
+"subject_story->raised the colony children as hunter-gatherers, with every "
+"one a master archer"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:331
+msgctxt "RecurveBow.generalRules.rulesStrings.5"
+msgid "subject_gerund->crafting bows"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:348
+#, fuzzy
+msgctxt "PsychiteRefining.label"
+msgid "psychite refining"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:349
+#, fuzzy
+msgctxt "PsychiteRefining.description"
+msgid ""
+"Refine psychoid leaves into flake and yayo, different forms of the euphoric "
+"psychite drug."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:358
+msgctxt "PsychiteRefining.generalRules.rulesStrings.0"
+msgid "subject->psychite production"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:358
+msgctxt "PsychiteRefining.generalRules.rulesStrings.1"
+msgid "subject_story->used his university job as cover for his drug-dealing"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:358
+msgctxt "PsychiteRefining.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->started a commune where low-dose flake was mixed into the "
+"food"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:358
+msgctxt "PsychiteRefining.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->campaigned for the legalisation of yayo on a nearby urbworld"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:358
+msgctxt "PsychiteRefining.generalRules.rulesStrings.4"
+msgid "subject_gerund->refining psychite"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:372
+#, fuzzy
+msgctxt "WakeUpProduction.label"
+msgid "wake-up production"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:373
+#, fuzzy
+msgctxt "WakeUpProduction.description"
+msgid ""
+"Synthesize wake-up, a work performance-enhancing drug which replaces the "
+"need for sleep."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:382
+msgctxt "WakeUpProduction.generalRules.rulesStrings.0"
+msgid "subject->wake-up production"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:382
+msgctxt "WakeUpProduction.generalRules.rulesStrings.1"
+msgid "subject_story->tried to overcome caffeine addiction by taking wake-up"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:382
+msgctxt "WakeUpProduction.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->treated narcoleptics and sleepwalkers with carefully timed "
+"wake-up doses"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:382
+msgctxt "WakeUpProduction.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->moved everyone to the dark side of an asteroid and used wake-"
+"up to maintain their biorhythms"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:382
+msgctxt "WakeUpProduction.generalRules.rulesStrings.4"
+msgid "subject_gerund->synthesizing wake-up"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:396
+#, fuzzy
+msgctxt "GoJuiceProduction.label"
+msgid "go-juice production"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:397
+#, fuzzy
+msgctxt "GoJuiceProduction.description"
+msgid ""
+"Produce go-juice, a synthetic combat-performance-enhancing drug which "
+"improves shooting, melee, and movement ability, and dulls pain."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:406
+msgctxt "GoJuiceProduction.generalRules.rulesStrings.0"
+msgid "subject->go-juice production"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:406
+msgctxt "GoJuiceProduction.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->was expelled for taking go-juice during team sports matches"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:406
+msgctxt "GoJuiceProduction.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->found go-juice massively increased productivity in mines and "
+"lumberyards"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:406
+msgctxt "GoJuiceProduction.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->never went on a mission without go-juice or juggernaut in a "
+"pocket"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:406
+msgctxt "GoJuiceProduction.generalRules.rulesStrings.4"
+msgid "subject_gerund->synthesizing go-juice"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:420
+#, fuzzy
+msgctxt "PenoxycylineProduction.label"
+msgid "penoxycyline production"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:421
+#, fuzzy
+msgctxt "PenoxycylineProduction.description"
+msgid ""
+"Produce penoxycyline, a disease prevention drug which blocks plague, "
+"malaria, and more before they start."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:430
+msgctxt "PenoxycylineProduction.generalRules.rulesStrings.0"
+msgid "subject->penoxycyline production"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:430
+msgctxt "PenoxycylineProduction.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->lectured to the United Planets about preventative medicine"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:430
+msgctxt "PenoxycylineProduction.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->was driven out of Dawn Falls as a quack, for selling a "
+"medicine that \"doesn't do anything\""
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:430
+msgctxt "PenoxycylineProduction.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->prevented an outbreak of malaria from spreading through "
+"careful penoxycyline dosage"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:430
+msgctxt "PenoxycylineProduction.generalRules.rulesStrings.4"
+msgid "subject_gerund->synthesizing penoxycyline"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:446
+#, fuzzy
+msgctxt "LongBlades.label"
+msgid "long blades"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:447
+#, fuzzy
+msgctxt "LongBlades.description"
+msgid "Craft longswords and spears."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:456
+msgctxt "LongBlades.generalRules.rulesStrings.0"
+msgid "subject->medieval weaponry"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:456
+msgctxt "LongBlades.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->rode with the Betaduke's Fifth Light Cavalry as they "
+"conquered the sector"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:456
+msgctxt "LongBlades.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->was enslaved as a weaponsmith beneath the arena on an iron "
+"age planet"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:456
+msgctxt "LongBlades.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->trained the hoplites on a warworld to use their weapons' "
+"reach"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:456
+msgctxt "LongBlades.generalRules.rulesStrings.4"
+msgid "subject_gerund->smithing medieval weapons"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:470
+#, fuzzy
+msgctxt "PlateArmor.label"
+msgid "plate armor"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:471
+#, fuzzy
+msgctxt "PlateArmor.description"
+msgid ""
+"Smith suits of plate armor from metal or wood. This heavy armor noticeably "
+"slows movement, but protects very effectively."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:481
+msgctxt "PlateArmor.generalRules.rulesStrings.0"
+msgid "subject->plate armor"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:481
+msgctxt "PlateArmor.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->crafted armor from scrap, when the authorities surrounded "
+"their family's shack"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:481
+msgctxt "PlateArmor.generalRules.rulesStrings.2"
+msgid ""
+"subject_story->became known as the Green Smith, when moss grew on the wooden"
+" armor"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:481
+msgctxt "PlateArmor.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->started the first armorworker's collective on an urbworld"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:481
+msgctxt "PlateArmor.generalRules.rulesStrings.4"
+msgid "subject_gerund->smithing plate armor"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:495
+#, fuzzy
+msgctxt "Greatbow.label"
+msgid "greatbow"
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:496
+#, fuzzy
+msgctxt "Greatbow.description"
+msgid "Craft greatbows for killing enemies at great range."
+msgstr "TODO"
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:505
+msgctxt "Greatbow.generalRules.rulesStrings.0"
+msgid "subject->greatbows"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:505
+msgctxt "Greatbow.generalRules.rulesStrings.1"
+msgid ""
+"subject_story->fired an arrow right through the iron helmet of a feudal king"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:505
+msgctxt "Greatbow.generalRules.rulesStrings.2"
+msgid "subject_story->hunted muffalos for their fur on a feral world"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:505
+msgctxt "Greatbow.generalRules.rulesStrings.3"
+msgid ""
+"subject_story->lived alone in the greenwood, a hail of arrows greeting "
+"anyone who approached within a mile of its edge"
+msgstr ""
+
+#: Defs/ResearchProjectDefs/ResearchProjects_1.xml:505
+msgctxt "Greatbow.generalRules.rulesStrings.4"
+msgid "subject_gerund->crafting greatbows"
+msgstr ""

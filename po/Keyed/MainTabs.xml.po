@@ -1,0 +1,981 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compendium:5
+#, fuzzy
+msgctxt "ManualPriorities"
+msgid "Manual priorities"
+msgstr "Manual priorities"
+
+#: compendium:6
+#, fuzzy
+msgctxt "HigherPriority"
+msgid "higher priority"
+msgstr "higher priority"
+
+#: compendium:7
+#, fuzzy
+msgctxt "LowerPriority"
+msgid "lower priority"
+msgstr "lower priority"
+
+#: compendium:8
+#, fuzzy
+msgctxt "RelevantSkills"
+msgid "Relevant skills: {0}\\nAverage of relevant skills: {1}"
+msgstr "Relevant skills: {0}\\nAverage of relevant skills: {1} / {2}"
+
+#: compendium:9
+#, fuzzy
+msgctxt "ClickToJumpTo"
+msgid "Click to jump to:"
+msgstr "Click to jump to:"
+
+#: compendium:10
+#, fuzzy
+msgctxt "CannotDoThisWork"
+msgid "{1_labelShort} cannot do this kind of work."
+msgstr "{0} cannot do this kind of work."
+
+#: compendium:11
+#, fuzzy
+msgctxt "NoneBrackets"
+msgid "(none)"
+msgstr "(none)"
+
+#: compendium:12
+#, fuzzy
+msgctxt "IncapableOfWorkTypeBecauseOfCapacities"
+msgid ""
+"This colonist is not able to do any work of this type because of their "
+"health condition."
+msgstr ""
+"This colonist is not able to do any work of this type because of his health "
+"condition."
+
+#: compendium:13
+#, fuzzy
+msgctxt "EmergencyWorkMarker"
+msgid "E"
+msgstr "E"
+
+#: compendium:14
+#, fuzzy
+msgctxt "SelectedWorkTypeWithVeryBadSkill"
+msgid "Warning: The average of relevant skills is very low."
+msgstr "TODO"
+
+#: compendium:15
+msgctxt "PriorityOneDoneFirst"
+msgid "Priority 1 is done first. Priority 4 is done last."
+msgstr ""
+
+#: compendium:16
+msgctxt "Priority0"
+msgid "Will not do"
+msgstr ""
+
+#: compendium:17
+msgctxt "Priority1"
+msgid "Top priority"
+msgstr ""
+
+#: compendium:18
+msgctxt "Priority2"
+msgid "High priority"
+msgstr ""
+
+#: compendium:19
+msgctxt "Priority3"
+msgid "Normal priority"
+msgstr ""
+
+#: compendium:20
+msgctxt "Priority4"
+msgid "Low priority"
+msgstr ""
+
+#: compendium:21
+msgctxt "PawnFactionInfo"
+msgid ""
+"{0}\\n\\nThe faction {1_nameDef} currently belongs to.\\n\\nClick to view "
+"faction."
+msgstr ""
+
+#: compendium:22
+msgctxt "WorkDisabledByBackstory"
+msgid "Disabled by {0} backstory"
+msgstr ""
+
+#: compendium:23
+msgctxt "WorkDisabledByTrait"
+msgid "Disabled by {0} trait"
+msgstr ""
+
+#: compendium:24
+msgctxt "WorkDisabledByQuest"
+msgid "Disabled by quest '{0}'"
+msgstr ""
+
+#: compendium:27
+msgctxt "Unchangeable"
+msgid "Unchangeable"
+msgstr ""
+
+#: compendium:28
+#, fuzzy
+msgctxt "ClearForcedApparel"
+msgid "Clr. forced"
+msgstr "Clear forced"
+
+#: compendium:29
+#, fuzzy
+msgctxt "ApparelForcedLower"
+msgid "forced"
+msgstr "forced"
+
+#: compendium:30
+msgctxt "ApparelLockedLower"
+msgid "locked"
+msgstr ""
+
+#: compendium:31
+#, fuzzy
+msgctxt "ForcedApparel"
+msgid "Forced apparel"
+msgstr "Forced apparel"
+
+#: compendium:32
+#, fuzzy
+msgctxt "AssignTabEdit"
+msgid "Edit"
+msgstr "Edit..."
+
+#: compendium:33
+msgctxt "ManageApparelPolicies"
+msgid "Manage apparel policies"
+msgstr ""
+
+#: compendium:34
+#, fuzzy
+msgctxt "ManageDrugPolicies"
+msgid "Manage drug policies"
+msgstr "Manage drug policies"
+
+#: compendium:35
+msgctxt "ManageFoodPolicies"
+msgid "Manage food policies"
+msgstr ""
+
+#: compendium:36
+msgctxt "ManageReadingPolicies"
+msgid "Manage reading policies"
+msgstr ""
+
+#: compendium:39
+#, fuzzy
+msgctxt "Copy"
+msgid "Copy"
+msgstr "Copy"
+
+#: compendium:40
+#, fuzzy
+msgctxt "Paste"
+msgid "Paste"
+msgstr "Paste"
+
+#: compendium:41
+#, fuzzy
+msgctxt "AllowedArea"
+msgid "Allowed area"
+msgstr "Allowed area"
+
+#: compendium:44
+#, fuzzy
+msgctxt "Master"
+msgid "Master"
+msgstr "Master"
+
+#: compendium:45
+#, fuzzy
+msgctxt "PregnantIconDesc"
+msgid "Pregnant ({0} / {1})"
+msgstr "Pregnant ({0} / {1})"
+
+#: compendium:46
+#, fuzzy
+msgctxt "BondedTo"
+msgid "Bonded to"
+msgstr "TODO"
+
+#: compendium:47
+msgctxt "SterilizeAnimal"
+msgid "Sterilize animal."
+msgstr ""
+
+#: compendium:48
+msgctxt "AnimalAlreadySterile"
+msgid "Animal sterile."
+msgstr ""
+
+#: compendium:51
+#, fuzzy
+msgctxt "IsPredator"
+msgid ""
+"This creature is a predator. When hungry, it will hunt smaller creatures - "
+"possibly including people."
+msgstr "TODO"
+
+#: compendium:52
+msgctxt "IsInMentalState"
+msgid "This creature is currently in mental state: {0}"
+msgstr ""
+
+#: compendium:55
+#, fuzzy
+msgctxt "Hostile"
+msgid "Hostile"
+msgstr "Hostile"
+
+#: compendium:56
+#, fuzzy
+msgctxt "Ally"
+msgid "Ally"
+msgstr "TODO"
+
+#: compendium:57
+msgctxt "HostileLower"
+msgid "hostile"
+msgstr ""
+
+#: compendium:58
+msgctxt "AllyLower"
+msgid "ally"
+msgstr ""
+
+#: compendium:59
+#, fuzzy
+msgctxt "DefeatedLower"
+msgid "defeated"
+msgstr "defeated"
+
+#: compendium:60
+#, fuzzy
+msgctxt "HostileTo"
+msgid "Enemy of {0}"
+msgstr "Enemy of {0}"
+
+#: compendium:61
+msgctxt "EnemyOf"
+msgid "Enemy of: "
+msgstr ""
+
+#: compendium:62
+msgctxt "RecentEvents"
+msgid "Recent events"
+msgstr ""
+
+#: compendium:63
+msgctxt "OngoingEvents"
+msgid "Ongoing events"
+msgstr ""
+
+#: compendium:64
+#, fuzzy
+msgctxt "CurrentGoodwillTip_PermanentEnemy"
+msgid ""
+"This faction is permanently hostile. They will raid your settlements and "
+"caravans. Relations with them will never improve for any reason."
+msgstr "TODO"
+
+#: compendium:65
+#, fuzzy
+msgctxt "CurrentGoodwillTip_Ally"
+msgid ""
+"This faction is allied. They will send fighters to help you when they can. "
+"If relations fall below {0}, they will become neutral."
+msgstr "TODO"
+
+#: compendium:66
+#, fuzzy
+msgctxt "CurrentGoodwillTip_Neutral"
+msgid ""
+"This faction is neutral. They will trade and talk with you freely. If "
+"relations fall below {0}, they will become hostile. If relations rise above "
+"{1}, they will become allied and start actively working to help you."
+msgstr "TODO"
+
+#: compendium:67
+#, fuzzy
+msgctxt "CurrentGoodwillTip_Hostile"
+msgid ""
+"This faction is hostile. They will raid your settlements and caravans. If "
+"relations rise above {0}, they will become neutral."
+msgstr "TODO"
+
+#: compendium:70
+#, fuzzy
+msgctxt "Friend"
+msgid "Friend"
+msgstr "Friend"
+
+#: compendium:71
+#, fuzzy
+msgctxt "Rival"
+msgid "Rival"
+msgstr "Rival"
+
+#: compendium:72
+#, fuzzy
+msgctxt "Acquaintance"
+msgid "Acquaintance"
+msgstr "Acquaintance"
+
+#: compendium:75
+#, fuzzy
+msgctxt "Graph"
+msgid "Graph"
+msgstr "Graph"
+
+#: compendium:76
+#, fuzzy
+msgctxt "Messages"
+msgid "Messages"
+msgstr "TODO"
+
+#: compendium:77
+#, fuzzy
+msgctxt "Statistics"
+msgid "Statistics"
+msgstr "Statistics"
+
+#: compendium:80
+#, fuzzy
+msgctxt "SelectGraph"
+msgid "Select graph"
+msgstr "Select graph"
+
+#: compendium:81
+#, fuzzy
+msgctxt "Last30Days"
+msgid "Last 30 days"
+msgstr "Last 30 days"
+
+#: compendium:82
+#, fuzzy
+msgctxt "Last100Days"
+msgid "Last 100 days"
+msgstr "Last 100 days"
+
+#: compendium:83
+#, fuzzy
+msgctxt "Last300Days"
+msgid "Last 300 days"
+msgstr "Last 300 days"
+
+#: compendium:84
+#, fuzzy
+msgctxt "AllDays"
+msgid "All"
+msgstr "All"
+
+#: compendium:85
+#, fuzzy
+msgctxt "Value"
+msgid "Value"
+msgstr "Value"
+
+#: compendium:86
+#, fuzzy
+msgctxt "External"
+msgid "External"
+msgstr "External"
+
+#: compendium:89
+#, fuzzy
+msgctxt "ShowLetters"
+msgid "Show letters"
+msgstr "TODO"
+
+#: compendium:90
+#, fuzzy
+msgctxt "ShowMessages"
+msgid "Show messages"
+msgstr "TODO"
+
+#: compendium:91
+#, fuzzy
+msgctxt "PinArchivableTip"
+msgid ""
+"Pin or unpin this message.\\n\\nThe oldest unpinned messages will be removed"
+" automatically from the list after reaching the limit of {0} messages."
+msgstr "TODO"
+
+#: compendium:92
+#, fuzzy
+msgctxt "NoMessages"
+msgid "no messages"
+msgstr "TODO"
+
+#: compendium:95
+#, fuzzy
+msgctxt "Playtime"
+msgid "Play time"
+msgstr "Play time"
+
+#: compendium:96
+#, fuzzy
+msgctxt "Storyteller"
+msgid "Storyteller"
+msgstr "Storyteller"
+
+#: compendium:97
+#, fuzzy
+msgctxt "ThisMapColonyWealthTotal"
+msgid "Colony wealth (this map)"
+msgstr "Colony wealth (this map)"
+
+#: compendium:98
+#, fuzzy
+msgctxt "ThisMapColonyWealthItems"
+msgid "Colony wealth (items) (this map)"
+msgstr "Colony wealth (items) (this map)"
+
+#: compendium:99
+#, fuzzy
+msgctxt "ThisMapColonyWealthBuildings"
+msgid "Colony wealth (buildings) (this map)"
+msgstr "Colony wealth (buildings) (this map)"
+
+#: compendium:100
+#, fuzzy
+msgctxt "ThisMapColonyWealthColonistsAndTameAnimals"
+msgid "Colony wealth (people and animals) (this map)"
+msgstr "TODO"
+
+#: compendium:101
+#, fuzzy
+msgctxt "NumThreatBigs"
+msgid "Major threats"
+msgstr "Major threats"
+
+#: compendium:102
+#, fuzzy
+msgctxt "NumEnemyRaids"
+msgid "Enemy raids"
+msgstr "Enemy raids"
+
+#: compendium:103
+#, fuzzy
+msgctxt "ThisMapDamageTaken"
+msgid "Damage taken (this map)"
+msgstr "Damage taken (this map)"
+
+#: compendium:104
+#, fuzzy
+msgctxt "ColonistsKilled"
+msgid "Colonists killed"
+msgstr "Colonists killed"
+
+#: compendium:105
+#, fuzzy
+msgctxt "ColonistsLaunched"
+msgid "Colonists launched into space"
+msgstr "Colonists launched into space"
+
+#: compendium:108
+#, fuzzy
+msgctxt "Research"
+msgid "Research"
+msgstr "تطوير"
+
+#: compendium:109
+msgctxt "Study"
+msgid "Study"
+msgstr ""
+
+#: compendium:110
+msgctxt "StudyThing"
+msgid "Study {0}"
+msgstr ""
+
+#: compendium:111
+#, fuzzy
+msgctxt "Unresearched"
+msgid "Unresearched"
+msgstr "غير مطور"
+
+#: compendium:112
+#, fuzzy
+msgctxt "Finished"
+msgid "Finished"
+msgstr "منته"
+
+#: compendium:113
+#, fuzzy
+msgctxt "InProgress"
+msgid "In Progress"
+msgstr "جاري التطوير"
+
+#: compendium:114
+#, fuzzy
+msgctxt "Locked"
+msgid "Locked"
+msgstr "Locked"
+
+#: compendium:115
+msgctxt "Prerequisites"
+msgid "Prerequisites"
+msgstr ""
+
+#: compendium:116
+msgctxt "ResearchTechprintRequirement"
+msgid "Techprints required {0} / {1}"
+msgstr ""
+
+#: compendium:117
+msgctxt "InsufficientTechprintsApplied"
+msgid "Insufficient techprints applied ({0} / {1})"
+msgstr ""
+
+#: compendium:118
+msgctxt "PrerequisitesNotCompleted"
+msgid "Prerequisite(s) not completed"
+msgstr ""
+
+#: compendium:119
+msgctxt "NoProjectSelected"
+msgid "No project active."
+msgstr ""
+
+#: compendium:120
+msgctxt "ActiveProjectPlural"
+msgid "Active projects"
+msgstr ""
+
+#: compendium:121
+msgctxt "ActiveProject"
+msgid "Active project"
+msgstr ""
+
+#: compendium:122
+msgctxt "StopResearch"
+msgid "Stop research"
+msgstr ""
+
+#: compendium:123
+msgctxt "MissingRequiredResearchFacilities"
+msgid "Missing required research facilities"
+msgstr ""
+
+#: compendium:124
+#, fuzzy
+msgctxt "RequiredResearchBench"
+msgid "Required research bench"
+msgstr "Required research bench"
+
+#: compendium:125
+#, fuzzy
+msgctxt "RequiredResearchBenchFacilities"
+msgid "Required research bench facilities"
+msgstr "Required research bench facilities"
+
+#: compendium:126
+#, fuzzy
+msgctxt "ResearchCostComparison"
+msgid "Project base cost {0} becomes {1} for you because of your tech level."
+msgstr "Project base cost {0} becomes {1} for you because of your tech level."
+
+#: compendium:127
+msgctxt "ResearchTechprintsFromFactions"
+msgid "Techprints are available from these factions via trade and quests:"
+msgstr ""
+
+#: compendium:128
+msgctxt "TechLevelTooLow"
+msgid ""
+"Your faction tech level is {0}, but this project's tech level is {1}. "
+"Research speed will be multiplied by {2}."
+msgstr ""
+
+#: compendium:129
+msgctxt "UnlockedWith"
+msgid "Unlocked with"
+msgstr ""
+
+#: compendium:130
+msgctxt "UnknownResearchDescription"
+msgid "Research one or more of this project's prerequisites to discover it."
+msgstr ""
+
+#: compendium:131
+msgctxt "UnknownResearch"
+msgid "unknown"
+msgstr ""
+
+#: compendium:134
+msgctxt "FactionsTab"
+msgid "Factions"
+msgstr ""
+
+#: compendium:135
+msgctxt "NoFactions"
+msgid "No known factions"
+msgstr ""
+
+#: compendium:138
+msgctxt "AvailableQuests"
+msgid "Available"
+msgstr ""
+
+#: compendium:139
+msgctxt "ActiveQuests"
+msgid "Active"
+msgstr ""
+
+#: compendium:140
+msgctxt "HistoricalQuests"
+msgid "Historical"
+msgstr ""
+
+#: compendium:141
+msgctxt "NoQuestSelected"
+msgid "no quest selected"
+msgstr ""
+
+#: compendium:142
+msgctxt "AppearedDaysAgo"
+msgid "Appeared {0} days ago"
+msgstr ""
+
+#: compendium:143
+msgctxt "AppearedOn"
+msgid "Appeared on {0}"
+msgstr ""
+
+#: compendium:144
+msgctxt "AcceptedAgo"
+msgid "Accepted {0} ago"
+msgstr ""
+
+#: compendium:145
+msgctxt "AcceptedOn"
+msgid "Accepted on {0}"
+msgstr ""
+
+#: compendium:146
+msgctxt "AcceptedAgoBy"
+msgid "Accepted {0} ago by {1}"
+msgstr ""
+
+#: compendium:147
+msgctxt "AcceptedOnBy"
+msgid "Accepted on {0} by {1}"
+msgstr ""
+
+#: compendium:148
+msgctxt "QuestExpiresIn"
+msgid "Expires in {0}"
+msgstr ""
+
+#: compendium:149
+msgctxt "QuestExpiresOn"
+msgid "Expires on {0}"
+msgstr ""
+
+#: compendium:150
+msgctxt "QuestAveragePawnMood"
+msgid "Average guest mood (previous {0}): {1}"
+msgstr ""
+
+#: compendium:151
+msgctxt "QuestAveragePawnMoodTargets"
+msgid "The average mood of {0} over the previous {1}"
+msgstr ""
+
+#: compendium:152
+msgctxt "ShuttleArrivesIn"
+msgid "Shuttle arrives in {0}"
+msgstr ""
+
+#: compendium:153
+msgctxt "ShuttleArrivesOn"
+msgid "Shuttle arrives on {0}"
+msgstr ""
+
+#: compendium:154
+msgctxt "ShuttleDepartsIn"
+msgid "Shuttle departs in {0}"
+msgstr ""
+
+#: compendium:155
+msgctxt "ShuttleDepartsOn"
+msgid "Shuttle departs on {0}"
+msgstr ""
+
+#: compendium:156
+msgctxt "GuestsDepartsIn"
+msgid "Guests depart in {0}"
+msgstr ""
+
+#: compendium:157
+msgctxt "GuestsDepartsOn"
+msgid "Guests depart on {0}"
+msgstr ""
+
+#: compendium:158
+msgctxt "QuestFinishedAgo"
+msgid "Finished {0} ago"
+msgstr ""
+
+#: compendium:159
+msgctxt "AcceptQuest"
+msgid "Accept quest"
+msgstr ""
+
+#: compendium:160
+msgctxt "AcceptWith"
+msgid "Accept with {0_labelShort}"
+msgstr ""
+
+#: compendium:161
+msgctxt "AcceptQuestFor"
+msgid "Accept for"
+msgstr ""
+
+#: compendium:162
+msgctxt "AcceptQuestForTip"
+msgid "Click to accept this quest for this reward."
+msgstr ""
+
+#: compendium:163
+msgctxt "QuestOutcomeInfo_OfferExpired"
+msgid "The offer expired."
+msgstr ""
+
+#: compendium:164
+msgctxt "QuestOutcomeInfo_UnknownOrSuccess"
+msgid "You completed this quest."
+msgstr ""
+
+#: compendium:165
+msgctxt "QuestOutcomeInfo_Failed"
+msgid "You failed this quest."
+msgstr ""
+
+#: compendium:166
+msgctxt "QuestOutcomeInfo_Invalid"
+msgid "This quest became invalid before it was accepted."
+msgstr ""
+
+#: compendium:167
+msgctxt "JumpToTargetCustom"
+msgid "Jump to {0}"
+msgstr ""
+
+#: compendium:168
+msgctxt "SelectHiveTargets"
+msgid "Select hives"
+msgstr ""
+
+#: compendium:169
+msgctxt "QuestChallengeRatingTip"
+msgid ""
+"Challenge rating. This is a general rating for how difficult the quest will "
+"be relative to your current strength. More challenging quests give greater "
+"rewards.\\n\\n1: Normal\\n2: Hard\\n3: Extreme\\n4: Ultimate"
+msgstr ""
+
+#: compendium:170
+msgctxt "QuestAcceptanceRequirementsDescription"
+msgid "To accept this quest, you need"
+msgstr ""
+
+#: compendium:171
+msgctxt "QuestBedroomRequirementsUnsatisfied"
+msgid "free bedrooms that satisfy the title requirements of"
+msgstr ""
+
+#: compendium:172
+msgctxt "QuestBedroomRequirementsUnsatisfiedSingle"
+msgid "a free bedroom that satisfies the title requirements of"
+msgstr ""
+
+#: compendium:173
+msgctxt "QuestThroneRoomRequirementsUnsatisfied"
+msgid ""
+"a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} "
+"title"
+msgstr ""
+
+#: compendium:174
+msgctxt "QuestNoThroneRoom"
+msgid "assign a throne for {PAWN_definite}"
+msgstr ""
+
+#: compendium:175
+msgctxt "QuestNoColonistWithTitle"
+msgid "a colonist with the title of {0}"
+msgstr ""
+
+#: compendium:176
+msgctxt "QuestPawnNotOnColonyMap"
+msgid "{PAWN_definite} to be in your home colony"
+msgstr ""
+
+#: compendium:177
+msgctxt "QuestRequiresNoDangerOnMap"
+msgid "the map clear of enemies of the bestower's faction"
+msgstr ""
+
+#: compendium:178
+msgctxt "QuestCanNotStartUntilBestowingCeremonyFinished"
+msgid "to finish the ongoing bestowing ceremony quest"
+msgstr ""
+
+#: compendium:179
+msgctxt "ChooseRewards"
+msgid "Reward preferences"
+msgstr ""
+
+#: compendium:180
+msgctxt "ChooseRewardsDesc"
+msgid ""
+"Tell other factions what kinds of rewards you want in future quests. This "
+"doesn't affect quests that were already offered."
+msgstr ""
+
+#: compendium:181
+msgctxt "AcceptRoyalFavor"
+msgid "Accept {FACTION_royalFavorLabel}"
+msgstr ""
+
+#: compendium:182
+msgctxt "AcceptRoyalFavorDesc"
+msgid ""
+"Whether you wish to be rewarded with {FACTION_royalFavorLabel} from "
+"{FACTION_name}.\\n\\nIf this is disabled, {FACTION_name} will offer other "
+"types of rewards instead.\\n\\nThis setting only affects newly-arriving "
+"quests."
+msgstr ""
+
+#: compendium:183
+msgctxt "AcceptGoodwill"
+msgid "Accept goodwill"
+msgstr ""
+
+#: compendium:184
+msgctxt "AcceptGoodwillDesc"
+msgid ""
+"Whether you wish to be rewarded via improved faction relations with "
+"{FACTION_name}.\\n\\nIf this is disabled, {FACTION_name} will offer other "
+"types of rewards instead.\\n\\nThis setting only affects newly-generated "
+"quests."
+msgstr ""
+
+#: compendium:185
+msgctxt "RoyalFavorOn"
+msgid "You are currently opting in to receive {FACTION_royalFavorLabel}."
+msgstr ""
+
+#: compendium:186
+msgctxt "RoyalFavorOff"
+msgid "You are currently opting out of receiving {FACTION_royalFavorLabel}."
+msgstr ""
+
+#: compendium:187
+msgctxt "GoodwillTip"
+msgid ""
+"Your goodwill with {0_name} will improve by {1}.\\n\\nCurrent goodwill: {4} "
+"({5}).\\n\\nGoodwill measures the general relationship between factions. If "
+"it falls below {2}, the faction becomes hostile and will raid your "
+"settlements and caravans. If it rises above {3}, the faction will become "
+"your ally and send fighters to help you when they can. Otherwise, the "
+"faction remains neutral and will trade and talk with you freely."
+msgstr ""
+
+#: compendium:188
+msgctxt "PawnQuestReward"
+msgid "{0_labelShort} joins"
+msgstr ""
+
+#: compendium:189
+msgctxt "QuestBetrayalOffer"
+msgid "Betrayal offer: {0} targets remain"
+msgstr ""
+
+#: compendium:190
+msgctxt "QuestBetrayalOfferTip"
+msgid "{0} will grant you a reward for killing all members of the {1}."
+msgstr ""
+
+#: compendium:191
+msgctxt "QuestRequiredPlayerWealth"
+msgid "a colony wealth of at least {0}"
+msgstr ""
+
+#: compendium:192
+msgctxt "QuestAlliedTo"
+msgid "alliance with {0}"
+msgstr ""
+
+#: compendium:193
+msgctxt "QuestHostileTo"
+msgid "hostile to {0}"
+msgstr ""
+
+#: compendium:194
+msgctxt "QuestNeutralTo"
+msgid "neutral to {0}"
+msgstr ""
+
+#: compendium:195
+msgctxt "QuestRequiredThingStudied"
+msgid "studied {0_labelShort}"
+msgstr ""
+
+#: compendium:198
+msgctxt "CreatesNeed"
+msgid "Creates need"
+msgstr ""
+
+#: compendium:199
+msgctxt "ChangeDefaults"
+msgid "Change defaults..."
+msgstr ""
+
+#: compendium:202
+msgctxt "ClickToEdit"
+msgid "Click to edit"
+msgstr ""
+
+#: compendium:203
+msgctxt "AssignButton"
+msgid "Assign"
+msgstr ""
+
+#: compendium:204
+msgctxt "UnassignButton"
+msgid "Unassign"
+msgstr ""
+
+#: compendium:207
+msgctxt "BookMentalBreakChance"
+msgid "Mental break chance"
+msgstr ""
+
+#: compendium:209
+msgctxt "BookJoyFactor"
+msgid "Recreation gain multiplier"
+msgstr ""

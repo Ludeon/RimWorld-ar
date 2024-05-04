@@ -1,0 +1,375 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:24
+msgctxt "KnowGuestExecuted.stages.0.label"
+msgid "justified execution"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:25
+msgctxt "KnowGuestExecuted.stages.0.description"
+msgid ""
+"A guilty prisoner or guest was executed. It was justified, but still sad."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:29
+msgctxt "KnowGuestExecuted.stages.1.label"
+msgid "someone was euthanized"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:31
+msgctxt "KnowGuestExecuted.stages.1.description"
+msgid "A prisoner or guest was euthanized. It was humane, but still sad."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:35
+msgctxt "KnowGuestExecuted.stages.2.label"
+msgid "someone was executed"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:37
+msgctxt "KnowGuestExecuted.stages.2.description"
+msgid "A prisoner or guest was killed in cold blood. It seemed a bit evil."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:41
+msgctxt "KnowGuestExecuted.stages.3.label"
+msgid "someone was organ-murdered"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:43
+msgctxt "KnowGuestExecuted.stages.3.description"
+msgid ""
+"A prisoner or guest died because the colony took body parts from them. It's "
+"horrible."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:47
+msgctxt "KnowGuestExecuted.stages.4.label"
+msgid "someone was ripscanned"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:49
+msgctxt "KnowGuestExecuted.stages.4.description"
+msgid ""
+"A prisoner died in our ripscanner. Their brain was burned up to feed the "
+"machine. It's horrible."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:65
+msgctxt "KnowColonistExecuted.stages.0.label"
+msgid "justified execution of colonist"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:66
+msgctxt "KnowColonistExecuted.stages.0.description"
+msgid "A guilty colonist was executed. It was justified, but still sad."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:70
+msgctxt "KnowColonistExecuted.stages.1.label"
+msgid "colonist euthanized"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:72
+msgctxt "KnowColonistExecuted.stages.1.description"
+msgid "A colonist was euthanized. It was humane, but still sad."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:76
+msgctxt "KnowColonistExecuted.stages.2.label"
+msgid "colonist executed"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:78
+msgctxt "KnowColonistExecuted.stages.2.description"
+msgid "A colonist was killed in cold blood. It seemed a bit evil."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:82
+msgctxt "KnowColonistExecuted.stages.3.label"
+msgid "colonist organ-harvested"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:84
+msgctxt "KnowColonistExecuted.stages.3.description"
+msgid ""
+"A colonist died because someone took body parts from them. It's horrible."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:88
+msgctxt "KnowColonistExecuted.stages.4.label"
+msgid "colonist ripscanned"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:90
+msgctxt "KnowColonistExecuted.stages.4.description"
+msgid ""
+"A colonist died in our ripscanner. Their brain was burned up to feed the "
+"machine. It's horrible."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:107
+msgctxt "KnowPrisonerDiedInnocent.stages.0.label"
+msgid "innocent prisoner died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:108
+msgctxt "KnowPrisonerDiedInnocent.stages.0.description"
+msgid ""
+"One of our prisoners died despite being harmless. We should be able to take "
+"care of our prisoners. If we wanted them dead, we could have at least "
+"conducted an orderly execution rather than permit that barbarism."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:124
+msgctxt "KnowColonistDied.stages.0.label"
+msgid "colonist died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:125
+msgctxt "KnowColonistDied.stages.0.description"
+msgid "One of our people died. We should be able to take care of our people."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:144
+msgctxt "BondedAnimalDied.stages.0.label"
+msgid "bonded animal {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:145
+msgctxt "BondedAnimalDied.stages.0.description"
+msgid "Such a tender, unique animal. This universe is evil!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:163
+msgctxt "PawnWithGoodOpinionDied.stages.0.label"
+msgid "my friend {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:164
+msgctxt "PawnWithGoodOpinionDied.stages.0.description"
+msgid ""
+"Such a wonderful person, gone forever. The universe gets darker every day."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:177
+msgctxt "PawnWithBadOpinionDied.stages.0.label"
+msgid "my rival {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:178
+msgctxt "PawnWithBadOpinionDied.stages.0.description"
+msgid "Serves them right. At least there's some justice in this world."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:197
+msgctxt "MySonDied.stages.0.label"
+msgid "my son {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:198
+msgctxt "MySonDied.stages.0.description"
+msgid "My son is dead. My own flesh and blood..."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:208
+msgctxt "MyDaughterDied.stages.0.label"
+msgid "my daughter {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:209
+msgctxt "MyDaughterDied.stages.0.description"
+msgid "My daughter is dead. My own flesh and blood..."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:219
+msgctxt "MyHusbandDied.stages.0.label"
+msgid "my husband {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:220
+msgctxt "MyHusbandDied.stages.0.description"
+msgid "My husband is dead. I am alone."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:230
+msgctxt "MyWifeDied.stages.0.label"
+msgid "my wife {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:231
+msgctxt "MyWifeDied.stages.0.description"
+msgid "My wife is dead. I am alone."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:241
+msgctxt "MyFianceDied.stages.0.label"
+msgid "my fiance {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:242
+msgctxt "MyFianceDied.stages.0.description"
+msgid "My fiance died. Such a man... my future is gone."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:252
+msgctxt "MyFianceeDied.stages.0.label"
+msgid "my fiancée {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:253
+msgctxt "MyFianceeDied.stages.0.description"
+msgid "My fiancée died. Such a woman... my future is gone."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:263
+msgctxt "MyLoverDied.stages.0.label"
+msgid "my lover {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:264
+msgctxt "MyLoverDied.stages.0.description"
+msgid "My lover died. I am so alone."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:274
+msgctxt "MyBrotherDied.stages.0.label"
+msgid "my brother {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:275
+msgctxt "MyBrotherDied.stages.0.description"
+msgid "My brother died. My own flesh and blood..."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:285
+msgctxt "MySisterDied.stages.0.label"
+msgid "my sister {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:286
+msgctxt "MySisterDied.stages.0.description"
+msgid "My sister died. My own flesh and blood..."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:296
+msgctxt "MyGrandchildDied.stages.0.label"
+msgid "my grandchild {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:297
+msgctxt "MyGrandchildDied.stages.0.description"
+msgid "My grandchild died. My own flesh and blood..."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:307
+msgctxt "MyFatherDied.stages.0.label"
+msgid "my father {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:308
+msgctxt "MyFatherDied.stages.0.description"
+msgid "My father died. He's gone forever."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:318
+msgctxt "MyMotherDied.stages.0.label"
+msgid "my mother {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:319
+msgctxt "MyMotherDied.stages.0.description"
+msgid "My mother died. She's gone forever."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:329
+msgctxt "MyNieceDied.stages.0.label"
+msgid "my niece {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:330
+msgctxt "MyNieceDied.stages.0.description"
+msgid "My niece died. Such a wonderful child."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:340
+msgctxt "MyNephewDied.stages.0.label"
+msgid "my nephew {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:341
+msgctxt "MyNephewDied.stages.0.description"
+msgid "My nephew died. Such a wonderful child."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:351
+msgctxt "MyHalfSiblingDied.stages.0.label"
+msgid "my half-sibling {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:352
+msgctxt "MyHalfSiblingDied.stages.0.description"
+msgid "My half-sibling died. My own flesh and blood..."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:362
+msgctxt "MyAuntDied.stages.0.label"
+msgid "my aunt {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:363
+msgctxt "MyAuntDied.stages.0.description"
+msgid "My aunt died."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:373
+msgctxt "MyUncleDied.stages.0.label"
+msgid "my uncle {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:374
+msgctxt "MyUncleDied.stages.0.description"
+msgid "My uncle died."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:384
+msgctxt "MyGrandparentDied.stages.0.label"
+msgid "my grandparent {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:385
+msgctxt "MyGrandparentDied.stages.0.description"
+msgid "My grandparent died."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:395
+msgctxt "MyCousinDied.stages.0.label"
+msgid "my cousin {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:396
+msgctxt "MyCousinDied.stages.0.description"
+msgid "My cousin died. My own flesh and blood..."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:406
+msgctxt "MyKinDied.stages.0.label"
+msgid "my kin {0} died"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Memory_Death.xml:407
+msgctxt "MyKinDied.stages.0.description"
+msgid "My kin died."
+msgstr ""

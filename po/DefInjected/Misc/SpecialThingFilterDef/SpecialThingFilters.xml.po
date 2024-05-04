@@ -1,0 +1,324 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:6
+#, fuzzy
+msgctxt "AllowCorpsesColonist.label"
+msgid "allow colonist corpses"
+msgstr "TODO"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:7
+#, fuzzy
+msgctxt "AllowCorpsesColonist.description"
+msgid "Allow the dead bodies of colonists."
+msgstr "TODO"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:16
+#, fuzzy
+msgctxt "AllowCorpsesStranger.label"
+msgid "allow stranger corpses"
+msgstr "TODO"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:17
+#, fuzzy
+msgctxt "AllowCorpsesStranger.description"
+msgid "Allow the dead bodies of strangers and enemies."
+msgstr "TODO"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:26
+msgctxt "AllowLargeCorpses.label"
+msgid "allow large corpses"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:27
+msgctxt "AllowLargeCorpses.description"
+msgid "Allow large, dead bodies."
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:37
+#, fuzzy
+msgctxt "AllowRotten.label"
+msgid "allow rotten"
+msgstr "TODO"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:38
+#, fuzzy
+msgctxt "AllowRotten.description"
+msgid "Allow organic things which have started to rot."
+msgstr "TODO"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:47
+#, fuzzy
+msgctxt "AllowFresh.label"
+msgid "allow fresh"
+msgstr "TODO"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:48
+#, fuzzy
+msgctxt "AllowFresh.description"
+msgid "Allow organic things which haven't started to rot yet."
+msgstr "TODO"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:57
+#, fuzzy
+msgctxt "AllowPlantFood.label"
+msgid "allow plant food"
+msgstr "TODO"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:58
+#, fuzzy
+msgctxt "AllowPlantFood.description"
+msgid ""
+"Allow foods that are of quality equivalent to unharvested plants, like hay."
+msgstr "TODO"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:68
+msgctxt "AllowSmeltableApparel.label"
+msgid "allow smeltable"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:77
+msgctxt "AllowNonSmeltableApparel.label"
+msgid "allow non-smeltable"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:86
+msgctxt "AllowBurnableApparel.label"
+msgid "allow burnable"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:95
+msgctxt "AllowNonBurnableApparel.label"
+msgid "allow non-burnable"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:104
+#, fuzzy
+msgctxt "AllowSmeltable.label"
+msgid "allow smeltable"
+msgstr "TODO"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:113
+#, fuzzy
+msgctxt "AllowNonSmeltableWeapons.label"
+msgid "allow non-smeltable"
+msgstr "TODO"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:122
+msgctxt "AllowNonBurnableWeapons.label"
+msgid "allow non-burnable"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:131
+msgctxt "AllowBurnableWeapons.label"
+msgid "allow burnable"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:140
+msgctxt "AllowBiocodedWeapons.label"
+msgid "allow biocoded weapons"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:149
+msgctxt "AllowNonBiocodedWeapons.label"
+msgid "allow non-biocoded weapons"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:158
+msgctxt "AllowBiocodedApparel.label"
+msgid "allow biocoded apparel"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:167
+msgctxt "AllowNonBiocodedApparel.label"
+msgid "allow non-biocoded apparel"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:176
+#, fuzzy
+msgctxt "AllowNonDeadmansApparel.label"
+msgid "allow clean apparel"
+msgstr "TODO"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:177
+#, fuzzy
+msgctxt "AllowNonDeadmansApparel.description"
+msgid ""
+"Allow clothing that was never worn by a corpse. Most humans find corpse-"
+"tainted clothing to be disturbing, and traders will not accept it."
+msgstr "TODO"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:186
+#, fuzzy
+msgctxt "AllowDeadmansApparel.label"
+msgid "allow tainted apparel"
+msgstr "TODO"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:187
+#, fuzzy
+msgctxt "AllowDeadmansApparel.description"
+msgid ""
+"Allow clothing that was once worn by a corpse. Most humans find corpse-"
+"tainted clothing to be disturbing, and traders will not accept it."
+msgstr "TODO"
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:196
+msgctxt "AllowFemaleGender.label"
+msgid "allow females"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:197
+msgctxt "AllowFemaleGender.description"
+msgid "Allow female individuals."
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:206
+msgctxt "AllowMaleGender.label"
+msgid "allow males"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:207
+msgctxt "AllowMaleGender.description"
+msgid "Allow male individuals."
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:223
+msgctxt "AllowMainResearch.label"
+msgid "normal research"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:224
+msgctxt "AllowMainResearch.description"
+msgid "Allow books which advance research of normal research projects."
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:238
+msgctxt "AllowBookShooting.label"
+msgid "shooting"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:239
+msgctxt "AllowBookShooting.description"
+msgid "Allow books which teach shooting skills."
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:246
+msgctxt "AllowBookMelee.label"
+msgid "melee"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:247
+msgctxt "AllowBookMelee.description"
+msgid "Allow books which teach melee skills."
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:254
+msgctxt "AllowBookConstruction.label"
+msgid "construction"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:255
+msgctxt "AllowBookConstruction.description"
+msgid "Allow books which teach construction skills."
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:262
+msgctxt "AllowBookMining.label"
+msgid "mining"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:263
+msgctxt "AllowBookMining.description"
+msgid "Allow books which teach mining skills."
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:270
+msgctxt "AllowBookCooking.label"
+msgid "cooking"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:271
+msgctxt "AllowBookCooking.description"
+msgid "Allow books which teach cooking skills."
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:278
+msgctxt "AllowBookPlants.label"
+msgid "plants"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:279
+msgctxt "AllowBookPlants.description"
+msgid "Allow books which teach plant-related skills."
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:286
+msgctxt "AllowBookAnimals.label"
+msgid "animals"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:287
+msgctxt "AllowBookAnimals.description"
+msgid "Allow books which teach animal-related skills."
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:294
+msgctxt "AllowBookCrafting.label"
+msgid "crafting"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:295
+msgctxt "AllowBookCrafting.description"
+msgid "Allow books which teach crafting skills."
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:302
+msgctxt "AllowBookArtistic.label"
+msgid "artistic"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:303
+msgctxt "AllowBookArtistic.description"
+msgid "Allow books which teach art skills."
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:310
+msgctxt "AllowBookMedicine.label"
+msgid "medical"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:311
+msgctxt "AllowBookMedicine.description"
+msgid "Allow books which teach medical skills."
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:318
+msgctxt "AllowBookSocial.label"
+msgid "social"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:319
+msgctxt "AllowBookSocial.description"
+msgid "Allow books which teach social skills."
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:326
+msgctxt "AllowBookIntellectual.label"
+msgid "intellectual"
+msgstr ""
+
+#: Defs/Misc/SpecialThingFilterDefs/SpecialThingFilters.xml:327
+msgctxt "AllowBookIntellectual.description"
+msgid "Allow books which teach intellectual skills."
+msgstr ""

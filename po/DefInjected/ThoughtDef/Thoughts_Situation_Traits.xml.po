@@ -1,0 +1,468 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:14
+msgctxt "MasochistPain.stages.0.label"
+msgid "masochist in minor pain"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:15
+msgctxt "MasochistPain.stages.0.description"
+msgid "Ow... Heh heh heh... I could get used to this!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:19
+msgctxt "MasochistPain.stages.1.label"
+msgid "masochist in serious pain"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:20
+msgctxt "MasochistPain.stages.1.description"
+msgid "Ughhh... It hurts, but I love it! Keep it coming!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:24
+msgctxt "MasochistPain.stages.2.label"
+msgid "masochist in intense pain"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:25
+msgctxt "MasochistPain.stages.2.description"
+msgid "Ouch... I think something's broken... But what an exquisite feeling!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:29
+msgctxt "MasochistPain.stages.3.label"
+msgid "masochist in mind-shattering pain"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:30
+msgctxt "MasochistPain.stages.3.description"
+msgid "Ahhh... Am I in heaven?"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:46
+msgctxt "ProsthophileNoProsthetic.stages.0.label"
+msgid "body modder frustrated"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:47
+msgctxt "ProsthophileNoProsthetic.stages.0.description"
+msgid "Flesh is so limiting. I wish I had some kind of artificial body part."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:62
+msgctxt "ProsthophileHappy.stages.0.label"
+msgid "body modder pleased"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:63
+msgctxt "ProsthophileHappy.stages.0.description"
+msgid "This artificial enhancement is cool. I want more."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:67
+msgctxt "ProsthophileHappy.stages.1.label"
+msgid "body modder quite pleased"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:68
+msgctxt "ProsthophileHappy.stages.1.description"
+msgid "Two artificial enhancements are better than one. I wish I had more."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:72
+msgctxt "ProsthophileHappy.stages.2.label"
+msgid "body modder delighted"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:73
+msgctxt "ProsthophileHappy.stages.2.description"
+msgid ""
+"Three artificial enhancements, and my weak human flesh is receding. But I "
+"still want more machine power."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:77
+msgctxt "ProsthophileHappy.stages.3.label"
+msgid "body modder enchanted"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:78
+msgctxt "ProsthophileHappy.stages.3.description"
+msgid ""
+"Four artificial enhancements and I am becoming more than human. But there's "
+"still some flesh that needs replacing."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:82
+msgctxt "ProsthophileHappy.stages.4.label"
+msgid "body modder overjoyed"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:83
+msgctxt "ProsthophileHappy.stages.4.description"
+msgid ""
+"Five artificial enhancements! How could an enhanced being like me ever feel "
+"sad?"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:87
+msgctxt "ProsthophileHappy.stages.5.label"
+msgid "machine body is complete"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:88
+msgctxt "ProsthophileHappy.stages.5.description"
+msgid "I asked for this."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:103
+msgctxt "ProsthophobeUnhappy.stages.0.label"
+msgid "body purist squeamish"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:104
+msgctxt "ProsthophobeUnhappy.stages.0.description"
+msgid "I hate having this unnatural enhancement. I feel filthy!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:108
+msgctxt "ProsthophobeUnhappy.stages.1.label"
+msgid "body purist disgusted"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:109
+msgctxt "ProsthophobeUnhappy.stages.1.description"
+msgid ""
+"Two artificial enhancements are sullying my natural, pure body. It makes me "
+"sick to think of it."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:113
+msgctxt "ProsthophobeUnhappy.stages.2.label"
+msgid "body purist violated"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:114
+msgctxt "ProsthophobeUnhappy.stages.2.description"
+msgid ""
+"Three artificial enhancements violate my body's pure flesh. I shudder when I"
+" think of it... and these objects shudder with me."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:118
+msgctxt "ProsthophobeUnhappy.stages.3.label"
+msgid "body purist horrified"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:119
+msgctxt "ProsthophobeUnhappy.stages.3.description"
+msgid ""
+"I have four artificial enhancements; it's like I'm becoming a robot. What a "
+"horrifying sensation."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:123
+msgctxt "ProsthophobeUnhappy.stages.4.label"
+msgid "body purist nightmare"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:124
+msgctxt "ProsthophobeUnhappy.stages.4.description"
+msgid ""
+"Five artificial enhancements... Is there anything left of me? Or am I just a"
+" robot that thinks it's human?"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:128
+msgctxt "ProsthophobeUnhappy.stages.5.label"
+msgid "I have become what I hate"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:129
+msgctxt "ProsthophobeUnhappy.stages.5.description"
+msgid "I asked for the exact opposite of this!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:144
+msgctxt "BrawlerUnhappy.stages.0.label"
+msgid "brawler has ranged weapon"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:145
+msgctxt "BrawlerUnhappy.stages.0.description"
+msgid "I hate shooting from a distance. I want to get up close and personal!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:160
+msgctxt "PyromaniacHappy.stages.0.label"
+msgid "pyromaniac has incendiary weapon"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:161
+msgctxt "PyromaniacHappy.stages.0.description"
+msgid "It makes me think of flame and fire. I can't wait to use it."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:176
+msgctxt "PyromaniacNearFire.stages.0.label"
+msgid "beautiful fire"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:177
+msgctxt "PyromaniacNearFire.stages.0.description"
+msgid ""
+"The sinuous flame dances, warm like love, bright like freedom, all-"
+"consuming."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:193
+msgctxt "ClothedNudist.stages.0.label"
+msgid "constraining clothes"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:194
+msgctxt "ClothedNudist.stages.0.description"
+msgid ""
+"I'm a nudist but I have to wear these clothes. It's not unbearable - but I "
+"still feel constrained and uncomfortable."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:209
+msgctxt "HappyNude.stages.0.label"
+msgid "happily nude"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:210
+msgctxt "HappyNude.stages.0.description"
+msgid ""
+"I'm nude and loving it! I feel so free and unconstrained and in touch with "
+"my surroundings!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:224
+msgctxt "UndergrounderIndoors.stages.0.label"
+msgid "undergrounder indoors"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:225
+msgctxt "UndergrounderIndoors.stages.0.description"
+msgid "I like working or simply being indoors."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:239
+msgctxt "UndergrounderUnderground.stages.0.label"
+msgid "underground"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:240
+msgctxt "UndergrounderUnderground.stages.0.description"
+msgid "I love working or simply being in the underground."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:254
+msgctxt "UndergrounderOutdoors.stages.0.label"
+msgid "undergrounder outdoors"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:255
+msgctxt "UndergrounderOutdoors.stages.0.description"
+msgid "I don't like being outside. I want to get back to the underground."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:269
+msgctxt "NightOwlDuringTheDay.stages.0.label"
+msgid "night owl in daytime"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:270
+msgctxt "NightOwlDuringTheDay.stages.0.description"
+msgid "I don't like working during the day."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:284
+msgctxt "NightOwlDuringTheNight.stages.0.label"
+msgid "night owl at night"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:285
+msgctxt "NightOwlDuringTheNight.stages.0.description"
+msgid "I feel much better at night."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:299
+msgctxt "Greedy.stages.0.label"
+msgid "greedy for impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:300
+msgctxt "Greedy.stages.0.description"
+msgid "I'm greedy. I want a really impressive bedroom."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:304
+msgctxt "Greedy.stages.1.label"
+msgid "greedy for impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:305
+msgctxt "Greedy.stages.1.description"
+msgid "I'm greedy. My room is pathetic! I want a really impressive bedroom."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:309
+msgctxt "Greedy.stages.2.label"
+msgid "greedy for impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:310
+msgctxt "Greedy.stages.2.description"
+msgid ""
+"I'm greedy. My room isn't nearly good enough. I want a really impressive "
+"bedroom."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:314
+msgctxt "Greedy.stages.3.label"
+msgid "greedy for impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:315
+msgctxt "Greedy.stages.3.description"
+msgid ""
+"I'm greedy. My room isn't good enough. I want a really impressive bedroom."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:319
+msgctxt "Greedy.stages.4.label"
+msgid "greedy for impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:320
+msgctxt "Greedy.stages.4.description"
+msgid ""
+"I'm greedy. My room isn't quite good enough. I want a really impressive "
+"bedroom."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:340
+msgctxt "Jealous.stages.0.label"
+msgid "jealous of {0}'s bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:341
+msgctxt "Jealous.stages.0.description"
+msgid "I need to have the best one!"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:355
+msgctxt "Ascetic.stages.0.label"
+msgid "ascetic has awful bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:356
+msgctxt "Ascetic.stages.0.description"
+msgid "My bedroom is just how I want it to be. Very humble and simple."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:360
+msgctxt "Ascetic.stages.1.label"
+msgid "ascetic has dull bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:361
+msgctxt "Ascetic.stages.1.description"
+msgid "My bedroom is just how I want it to be. Very humble and simple."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:365
+msgctxt "Ascetic.stages.2.label"
+msgid "ascetic has mediocre bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:366
+msgctxt "Ascetic.stages.2.description"
+msgid "My bedroom is very humble and simple. I like it."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:372
+msgctxt "Ascetic.stages.5.label"
+msgid "ascetic has impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:373
+msgctxt "Ascetic.stages.5.description"
+msgid "I don't like having an impressive bedroom."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:377
+msgctxt "Ascetic.stages.6.label"
+msgid "ascetic has impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:378
+msgctxt "Ascetic.stages.6.description"
+msgid "I don't like having an impressive bedroom."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:382
+msgctxt "Ascetic.stages.7.label"
+msgid "ascetic has impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:383
+msgctxt "Ascetic.stages.7.description"
+msgid "I don't like having an impressive bedroom."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:387
+msgctxt "Ascetic.stages.8.label"
+msgid "ascetic has impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:388
+msgctxt "Ascetic.stages.8.description"
+msgid "I don't like having an impressive bedroom."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:392
+msgctxt "Ascetic.stages.9.label"
+msgid "ascetic has impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:393
+msgctxt "Ascetic.stages.9.description"
+msgid "I don't like having an impressive bedroom."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:397
+msgctxt "Ascetic.stages.10.label"
+msgid "ascetic has impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:398
+msgctxt "Ascetic.stages.10.description"
+msgid "I don't like having an impressive bedroom."
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:402
+msgctxt "Ascetic.stages.11.label"
+msgid "ascetic has impressive bedroom"
+msgstr ""
+
+#: Defs/ThoughtDefs/Thoughts_Situation_Traits.xml:403
+msgctxt "Ascetic.stages.11.description"
+msgid "I don't like having an impressive bedroom."
+msgstr ""

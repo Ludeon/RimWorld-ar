@@ -1,0 +1,99 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Buildings/Buildings_Ship.xml:8
+#, fuzzy
+msgctxt "Ship_Beam.label"
+msgid "ship structural beam"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Ship.xml:9
+#, fuzzy
+msgctxt "Ship_Beam.description"
+msgid ""
+"A structural beam around which a starship can be constructed. Includes all "
+"the necessary conduits and transit pipes for communications, power, and "
+"materials transport."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Ship.xml:76
+#, fuzzy
+msgctxt "Ship_CryptosleepCasket.label"
+msgid "ship cryptosleep casket"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Ship.xml:77
+#, fuzzy
+msgctxt "Ship_CryptosleepCasket.description"
+msgid ""
+"A cryptosleep casket hardened against the dangers of space. Capable of "
+"maintaining a person in cryptosleep for centuries and surviving atmospheric "
+"re-entry."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Ship.xml:154
+#, fuzzy
+msgctxt "Ship_ComputerCore.label"
+msgid "ship computer core"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Ship.xml:155
+#, fuzzy
+msgctxt "Ship_ComputerCore.description"
+msgid ""
+"A computer core housing a machine persona who can guide a starship through "
+"any challenge during a multi-decade starflight."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Ship.xml:214
+#, fuzzy
+msgctxt "Ship_Reactor.label"
+msgid "ship reactor"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Ship.xml:215
+#, fuzzy
+msgctxt "Ship_Reactor.description"
+msgid ""
+"Powers a ship on its journey between stars. Takeoff requires a long powerup "
+"process that is likely to attract raiders."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Ship.xml:283
+#, fuzzy
+msgctxt "Ship_Engine.label"
+msgid "ship engine"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Ship.xml:284
+#, fuzzy
+msgctxt "Ship_Engine.description"
+msgid ""
+"A reactionless Johnson-Tanaka drive capable of launching a ship into orbit, "
+"and crawling across the vast expanses between stars."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Ship.xml:339
+#, fuzzy
+msgctxt "Ship_SensorCluster.label"
+msgid "sensor cluster"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Ship.xml:340
+#, fuzzy
+msgctxt "Ship_SensorCluster.description"
+msgid ""
+"A multi-function sensor module. Can scan and signal across the void for "
+"communications, threat detection, deception, jamming, and other purposes."
+msgstr "TODO"

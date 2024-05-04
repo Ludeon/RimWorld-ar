@@ -1,0 +1,1045 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.0"
+msgid "damaged_inf(p=4)->slash"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.1"
+msgid "damaged_inf->cut"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.2"
+msgid "damaged_inf->chop"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.3"
+msgid "damaged_inf->hack"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.4"
+msgid "damaged_inf->slice"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.5"
+msgid "damaged_inf(deflected!=True)->gash"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.6"
+msgid "damaged_past(p=4)->slashed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.7"
+msgid "damaged_past->cut"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.8"
+msgid "damaged_past->chopped"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.9"
+msgid "damaged_past->hacked"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.10"
+msgid "damaged_past->sliced"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.11"
+msgid "damaged_past(deflected!=True)->gashed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.12"
+msgid "damaged_present->slashing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.13"
+msgid "damaged_present->cutting"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.14"
+msgid "damaged_present->slicing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.15"
+msgid "damaged_present(deflected!=True)->gashing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.16"
+msgid "damaged_present(deflected!=True)->tearing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.17"
+msgid "damaged_present(deflected!=True)->lacerating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.18"
+msgid "woundname->wound"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.19"
+msgid "woundname(p=0.3)->opening"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.20"
+msgid ""
+"flavortext_consequence(recipient_flesh!=Mechanoid)->exposing the flesh "
+"underneath"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.21"
+msgid ""
+"flavortext_consequence(recipient_flesh==Mechanoid)->exposing the machinery "
+"underneath"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.22"
+msgid ""
+"flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a gory "
+"[woundname]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.23"
+msgid "destroyed_past->bisected"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.24"
+msgid "destroyed_past->divided"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.25"
+msgid "destroyed_past->halved"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.26"
+msgid "destroyed_past->separated"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.27"
+msgid "destroyed_past->split"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.28"
+msgid "destroyed_present->bisecting"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.29"
+msgid "destroyed_present->dividing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.30"
+msgid "destroyed_present->halving"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.31"
+msgid "destroyed_present->separating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.32"
+msgid "destroyed_present->splitting"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.33"
+msgid "destroyed_suffix->into neat pieces"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.34"
+msgid "destroyed_suffix->cleanly"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.35"
+msgid ""
+"destroyed_suffix(target_part_destroyed_count==1)->exposing its inner "
+"workings"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:6
+msgctxt "Maneuver_Slash.rulePack.rulesStrings.36"
+msgid "destroyed_suffix(target_part_destroyed_count==1)->slicing it in twain"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.0"
+msgid "damaged_inf(p=4)->stab"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.1"
+msgid "damaged_inf->jab"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.2"
+msgid "damaged_inf(deflected!=True)->pierce"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.3"
+msgid "damaged_inf(deflected!=True)->puncture"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.4"
+msgid "damaged_inf(deflected!=True)->skewer"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.5"
+msgid "damaged_past(p=4)->stabbed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.6"
+msgid "damaged_past->jabbed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.7"
+msgid "damaged_past(deflected!=True)->pierced"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.8"
+msgid "damaged_past(deflected!=True)->punctured"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.9"
+msgid "damaged_past(deflected!=True)->skewered"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.10"
+msgid "damaged_present(deflected!=True)->piercing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.11"
+msgid "damaged_present(deflected!=True)->puncturing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.12"
+msgid "damaged_present(deflected!=True)->penetrating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.13"
+msgid "damaged_present(deflected!=True)->skewering"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.14"
+msgid "woundname->hole"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.15"
+msgid "woundname->wound"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.16"
+msgid "woundname->crevice"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.17"
+msgid ""
+"flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a bloody "
+"[woundname]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.18"
+msgid ""
+"flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a torn "
+"[woundname]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.19"
+msgid ""
+"flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a bleeding "
+"[woundname]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.20"
+msgid "destroyed_past->impaled"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.21"
+msgid "destroyed_past->perforated"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.22"
+msgid "destroyed_past->skewered"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.23"
+msgid "destroyed_present->impaling"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.24"
+msgid "destroyed_present->perforating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.25"
+msgid "destroyed_present->skewering"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.26"
+msgid "destroyed_suffix->straight through"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.27"
+msgid "destroyed_suffix->leaving a clean hole"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.28"
+msgid ""
+"destroyed_suffix(recipient_flesh!=Mechanoid,target_part_destroyed_count==1)->leaving"
+" it leaking gory fluids"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:85
+msgctxt "Maneuver_Stab.rulePack.rulesStrings.29"
+msgid ""
+"destroyed_suffix(target_part_destroyed_count==1)->leaving it leaking "
+"unrecognizable fluids"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.0"
+msgid "damaged_inf->hit"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.1"
+msgid "damaged_inf->smash"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.2"
+msgid "damaged_inf->bash"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.3"
+msgid "damaged_inf->slam"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.4"
+msgid "damaged_inf->strike"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.5"
+msgid "damaged_inf->beat"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.6"
+msgid "damaged_past->hit"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.7"
+msgid "damaged_past->smashed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.8"
+msgid "damaged_past->bashed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.9"
+msgid "damaged_past->slammed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.10"
+msgid "damaged_past->struck"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.11"
+msgid "damaged_past->beat"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.12"
+msgid "damaged_present->smashing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.13"
+msgid "damaged_present->bashing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.14"
+msgid "damaged_present(deflected!=True)->bruising"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.15"
+msgid "destroyed_past->shattered"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.16"
+msgid "destroyed_past->crushed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.17"
+msgid "destroyed_past->broke"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.18"
+msgid "destroyed_present->shattering"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.19"
+msgid "destroyed_present->crushing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:157
+msgctxt "Maneuver_Smash_Damage.rulePack.rulesStrings.20"
+msgid "destroyed_present->breaking"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:192
+msgctxt "Maneuver_Smash.rulePack.rulesStrings.0"
+msgid ""
+"flavortext_consequence(recipient_flesh!=Mechanoid)->leaving an enormous "
+"bruise"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:192
+msgctxt "Maneuver_Smash.rulePack.rulesStrings.1"
+msgid "flavortext_consequence->leaving the area visibly deformed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:192
+msgctxt "Maneuver_Smash.rulePack.rulesStrings.2"
+msgid "flavortext_consequence->knocking [RECIPIENT_objective] off balance"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:192
+msgctxt "Maneuver_Smash.rulePack.rulesStrings.3"
+msgid "flavortext_consequence->knocking [RECIPIENT_objective] to the side"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:192
+msgctxt "Maneuver_Smash.rulePack.rulesStrings.4"
+msgid "destroyed_suffix->[to] pieces"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:192
+msgctxt "Maneuver_Smash.rulePack.rulesStrings.5"
+msgid "destroyed_suffix->[to] bits"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:192
+msgctxt "Maneuver_Smash.rulePack.rulesStrings.6"
+msgid "destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a fine mist"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:192
+msgctxt "Maneuver_Smash.rulePack.rulesStrings.7"
+msgid "destroyed_suffix->[to] fragments"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.0"
+msgid "damaged_inf(p=4)->scratch"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.1"
+msgid "damaged_inf(deflected!=True)->lacerate"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.2"
+msgid "damaged_inf(deflected!=True)->tear"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.3"
+msgid "damaged_inf->cut"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.4"
+msgid "damaged_past(p=4)->scratched"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.5"
+msgid "damaged_past(deflected!=True)->lacerated"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.6"
+msgid "damaged_past(deflected!=True)->tore"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.7"
+msgid "damaged_past->cut"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.8"
+msgid "damaged_present->scratching"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.9"
+msgid "damaged_present(deflected!=True)->lacerating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.10"
+msgid "damaged_present(deflected!=True)->tearing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.11"
+msgid "damaged_present->cutting"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.12"
+msgid "destroyed_past->mauled"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.13"
+msgid "destroyed_past->lacerated"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.14"
+msgid "destroyed_past->tore"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.15"
+msgid "destroyed_past->shredded"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.16"
+msgid "destroyed_past->ripped"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.17"
+msgid "destroyed_present->mauling"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.18"
+msgid "destroyed_present->lacerating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.19"
+msgid "destroyed_present->tearing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.20"
+msgid "destroyed_present->shredding"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:237
+msgctxt "Maneuver_Scratch_Damage.rulePack.rulesStrings.21"
+msgid "destroyed_present->ripping"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:274
+msgctxt "Maneuver_Scratch.rulePack.rulesStrings.0"
+msgid "woundname->wound"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:274
+msgctxt "Maneuver_Scratch.rulePack.rulesStrings.1"
+msgid "woundname(p=0.3)->opening"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:274
+msgctxt "Maneuver_Scratch.rulePack.rulesStrings.2"
+msgid ""
+"flavortext_consequence(recipient_flesh!=Mechanoid)->and exposing the flesh "
+"underneath"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:274
+msgctxt "Maneuver_Scratch.rulePack.rulesStrings.3"
+msgid ""
+"flavortext_consequence(recipient_flesh==Mechanoid)->and exposing the "
+"machinery underneath"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:274
+msgctxt "Maneuver_Scratch.rulePack.rulesStrings.4"
+msgid ""
+"flavortext_consequence(recipient_flesh!=Mechanoid)->and leaving a gory "
+"[woundname]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:274
+msgctxt "Maneuver_Scratch.rulePack.rulesStrings.5"
+msgid "destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy strips"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:274
+msgctxt "Maneuver_Scratch.rulePack.rulesStrings.6"
+msgid "destroyed_suffix->[to] strips"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:274
+msgctxt "Maneuver_Scratch.rulePack.rulesStrings.7"
+msgid "destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy pieces"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:274
+msgctxt "Maneuver_Scratch.rulePack.rulesStrings.8"
+msgid "destroyed_suffix->[to] pieces"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:274
+msgctxt "Maneuver_Scratch.rulePack.rulesStrings.9"
+msgid "destroyed_suffix->[to] fragments"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:274
+msgctxt "Maneuver_Scratch.rulePack.rulesStrings.10"
+msgid "destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a pile of gore"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.0"
+msgid "damaged_inf(p=2)->poke"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.1"
+msgid "damaged_inf(p=2)->jab"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.2"
+msgid "damaged_inf->prod"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.3"
+msgid "damaged_inf->shove"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.4"
+msgid "damaged_inf->stab"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.5"
+msgid "damaged_past(p=2)->poked"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.6"
+msgid "damaged_past(p=2)->jabbed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.7"
+msgid "damaged_past->prodded"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.8"
+msgid "damaged_past->shoved"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.9"
+msgid "damaged_past->stabbed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.10"
+msgid "damaged_present(p=2)->poking"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.11"
+msgid "damaged_present(p=2)->jabbing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.12"
+msgid "damaged_present->prodding"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.13"
+msgid "damaged_present->shoving"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.14"
+msgid "damaged_present->stabbing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.15"
+msgid ""
+"flavortext_consequence(recipient_flesh!=Mechanoid)->leaving an enormous "
+"bruise"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.16"
+msgid "flavortext_consequence->leaving the area visibly deformed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.17"
+msgid "flavortext_consequence->knocking [RECIPIENT_objective] off balance"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.18"
+msgid "flavortext_consequence->knocking [RECIPIENT_objective] to the side"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.19"
+msgid "destroyed_past->shattered"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.20"
+msgid "destroyed_past->crushed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.21"
+msgid "destroyed_past->obliterated"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.22"
+msgid "destroyed_past->annihilated"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.23"
+msgid "destroyed_past->broke"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.24"
+msgid "destroyed_present->shattering"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.25"
+msgid "destroyed_present->crushing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.26"
+msgid "destroyed_present->obliterating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.27"
+msgid "destroyed_present->annihilating"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.28"
+msgid "destroyed_present->breaking"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.29"
+msgid "destroyed_suffix->[to] pieces"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.30"
+msgid "destroyed_suffix->[to] bits"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.31"
+msgid "destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a fine mist"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:322
+msgctxt "Maneuver_Poke.rulePack.rulesStrings.32"
+msgid "destroyed_suffix->[to] fragments"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.0"
+msgid "damaged_inf->bite"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.1"
+msgid "damaged_inf->chomp"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.2"
+msgid "damaged_inf(p=0.5)->nip"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.3"
+msgid "damaged_past->bit"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.4"
+msgid "damaged_past->chomped"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.5"
+msgid "damaged_past->nipped"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.6"
+msgid "damaged_past->gnawed"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.7"
+msgid "damaged_past(deflected!=True)->tore"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.8"
+msgid "damaged_present->biting"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.9"
+msgid "damaged_present->chomping"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.10"
+msgid "damaged_present->nipped"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.11"
+msgid "damaged_present->gnawing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.12"
+msgid "damaged_present(deflected!=True)->tearing"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.13"
+msgid ""
+"flavortext_consequence(recipient_flesh!=Mechanoid)->exposing the flesh "
+"underneath"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.14"
+msgid ""
+"flavortext_consequence(recipient_flesh==Mechanoid)->exposing the machinery "
+"underneath"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.15"
+msgid ""
+"flavortext_consequence(recipient_flesh!=Mechanoid)->leaving grisly tears in "
+"the skin"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.16"
+msgid ""
+"flavortext_consequence(recipient_flesh==Mechanoid)->leaving grisly tears in "
+"the metal"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.17"
+msgid "destroyed_past->tore off"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.18"
+msgid "destroyed_past->ripped off"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.19"
+msgid "destroyed_past->bit off"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.20"
+msgid "destroyed_present->tearing off"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.21"
+msgid "destroyed_present->ripping off"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.22"
+msgid "destroyed_present->biting off"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.23"
+msgid "destroyed_suffix->[to] pieces"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.24"
+msgid "destroyed_suffix->[to] bits"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.25"
+msgid "destroyed_suffix->[to] chunks"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.26"
+msgid "destroyed_suffix(recipient_flesh!=Mechanoid)->[to] shreds"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.27"
+msgid "destroyed_suffix(recipient_flesh!=Mechanoid)->[to] strips"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.28"
+msgid "destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy strips"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:397
+msgctxt "Maneuver_Bite.rulePack.rulesStrings.29"
+msgid ""
+"destroyed_suffix(recipient_flesh!=Mechanoid)->[to] an unrecognizable mess"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:469
+msgctxt "Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_definite] kicked [TOOL_label] in "
+"[RECIPIENT_definite]'s eyes."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:469
+msgctxt "Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings.1"
+msgid ""
+"r_logentry(p=0.2)->[INITIATOR_definite] kicked a spray of [TOOL_label] in "
+"[RECIPIENT_definite]'s eyes."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:484
+msgctxt "Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in "
+"[RECIPIENT_definite]'s eyes, but missed."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:492
+msgctxt "Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings.0"
+msgid ""
+"r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in "
+"[RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] dodged out of the way."
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Maneuvers.xml:492
+msgctxt "Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings.1"
+msgid ""
+"r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in "
+"[RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] blocked it."
+msgstr ""

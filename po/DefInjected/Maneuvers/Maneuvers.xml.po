@@ -1,0 +1,138 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Maneuvers/Maneuvers.xml:7
+msgctxt "Slash.verb.verbClass"
+msgid "Verb_MeleeAttackDamage"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:7
+msgctxt "Slash.verb.meleeDamageDef"
+msgid "Cut"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:21
+msgctxt "Stab.verb.verbClass"
+msgid "Verb_MeleeAttackDamage"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:21
+msgctxt "Stab.verb.meleeDamageDef"
+msgid "Stab"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:35
+msgctxt "Smash.verb.verbClass"
+msgid "Verb_MeleeAttackDamage"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:35
+msgctxt "Smash.verb.meleeDamageDef"
+msgid "Blunt"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:49
+msgctxt "Demolish.verb.verbClass"
+msgid "Verb_MeleeAttackDamage"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:49
+msgctxt "Demolish.verb.meleeDamageDef"
+msgid "Demolish"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:49
+msgctxt "Demolish.verb.ai_IsBuildingDestroyer"
+msgid "true"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:64
+msgctxt "Scratch.verb.verbClass"
+msgid "Verb_MeleeAttackDamage"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:64
+msgctxt "Scratch.verb.meleeDamageDef"
+msgid "Scratch"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:78
+msgctxt "ScratchToxic.verb.verbClass"
+msgid "Verb_MeleeAttackDamage"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:78
+msgctxt "ScratchToxic.verb.meleeDamageDef"
+msgid "ScratchToxic"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:92
+msgctxt "Poke.verb.verbClass"
+msgid "Verb_MeleeAttackDamage"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:92
+msgctxt "Poke.verb.meleeDamageDef"
+msgid "Poke"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:106
+msgctxt "Bite.verb.verbClass"
+msgid "Verb_MeleeAttackDamage"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:106
+msgctxt "Bite.verb.meleeDamageDef"
+msgid "Bite"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:106
+msgctxt "Bite.verb.commonalityVsEdificeFactor"
+msgid "0.01"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:121
+msgctxt "ToxicBite.verb.verbClass"
+msgid "Verb_MeleeAttackDamage"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:121
+msgctxt "ToxicBite.verb.meleeDamageDef"
+msgid "ToxicBite"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:135
+msgctxt "KickMaterialInEyes.verb.verbClass"
+msgid "Verb_MeleeApplyHediff"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:135
+msgctxt "KickMaterialInEyes.verb.bodypartTagTarget"
+msgid "SightSource"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:135
+msgctxt "KickMaterialInEyes.verb.minIntelligence"
+msgid "ToolUser"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:135
+msgctxt "KickMaterialInEyes.verb.impactFleck"
+msgid "SandInEyes"
+msgstr ""
+
+#: Defs/Maneuvers/Maneuvers.xml:135
+msgctxt "KickMaterialInEyes.verb.linkedBodyPartsGroup"
+msgid "Feet"
+msgstr ""

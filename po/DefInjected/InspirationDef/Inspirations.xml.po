@@ -1,0 +1,125 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/InspirationDefs/Inspirations.xml:6
+#, fuzzy
+msgctxt "Frenzy_Work.label"
+msgid "work frenzy"
+msgstr "TODO"
+
+#: Defs/InspirationDefs/Inspirations.xml:8
+#, fuzzy
+msgctxt "Frenzy_Work.beginLetter"
+msgid "[PAWN_pronoun] will work faster for the next 8 days."
+msgstr "TODO"
+
+#: Defs/InspirationDefs/Inspirations.xml:21
+#, fuzzy
+msgctxt "Frenzy_Go.label"
+msgid "go frenzy"
+msgstr "TODO"
+
+#: Defs/InspirationDefs/Inspirations.xml:24
+#, fuzzy
+msgctxt "Frenzy_Go.beginLetter"
+msgid "[PAWN_pronoun] will move faster for the next 8 days."
+msgstr "TODO"
+
+#: Defs/InspirationDefs/Inspirations.xml:38
+#, fuzzy
+msgctxt "Frenzy_Shoot.label"
+msgid "shoot frenzy"
+msgstr "TODO"
+
+#: Defs/InspirationDefs/Inspirations.xml:40
+#, fuzzy
+msgctxt "Frenzy_Shoot.beginLetter"
+msgid "[PAWN_pronoun] will shoot more accurately for the next 8 days."
+msgstr "TODO"
+
+#: Defs/InspirationDefs/Inspirations.xml:58
+#, fuzzy
+msgctxt "Inspired_Trade.label"
+msgid "inspired trade"
+msgstr "TODO"
+
+#: Defs/InspirationDefs/Inspirations.xml:60
+#, fuzzy
+msgctxt "Inspired_Trade.beginLetter"
+msgid ""
+"[PAWN_pronoun] will get a significant trade price bonus when closing "
+"[PAWN_possessive] next trade deal.\\n\\nThe inspiration will expire after 8 "
+"days, or when the deal is done."
+msgstr "TODO"
+
+#: Defs/InspirationDefs/Inspirations.xml:81
+#, fuzzy
+msgctxt "Inspired_Recruitment.label"
+msgid "inspired recruitment"
+msgstr "TODO"
+
+#: Defs/InspirationDefs/Inspirations.xml:83
+#, fuzzy
+msgctxt "Inspired_Recruitment.beginLetter"
+msgid ""
+"[PAWN_pronoun] will successfully recruit the next prisoner regardless of "
+"difficulty or resistance, as long as they are not unwaveringly "
+"loyal.\\n\\nThe inspiration will end after 8 days, or when the prisoner is "
+"recruited."
+msgstr "TODO"
+
+#: Defs/InspirationDefs/Inspirations.xml:107
+msgctxt "Inspired_Taming.label"
+msgid "inspired taming"
+msgstr ""
+
+#: Defs/InspirationDefs/Inspirations.xml:109
+msgctxt "Inspired_Taming.beginLetter"
+msgid ""
+"[PAWN_pronoun] will successfully tame the next animal regardless of "
+"difficulty.\\n\\nThe inspiration will end after 8 days, or when an animal "
+"was tamed."
+msgstr ""
+
+#: Defs/InspirationDefs/Inspirations.xml:132
+#, fuzzy
+msgctxt "Inspired_Surgery.label"
+msgid "inspired surgery"
+msgstr "TODO"
+
+#: Defs/InspirationDefs/Inspirations.xml:134
+#, fuzzy
+msgctxt "Inspired_Surgery.beginLetter"
+msgid ""
+"The next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of"
+" success will be doubled. A small minimum chance of failure still "
+"applies.\\n\\nThe inspiration will end after 8 days, or when the surgery is "
+"performed."
+msgstr "TODO"
+
+#: Defs/InspirationDefs/Inspirations.xml:158
+#, fuzzy
+msgctxt "Inspired_Creativity.label"
+msgid "inspired creativity"
+msgstr "TODO"
+
+#: Defs/InspirationDefs/Inspirations.xml:160
+#, fuzzy
+msgctxt "Inspired_Creativity.beginLetter"
+msgid ""
+"The next item, art, or furniture [PAWN_pronoun] creates will be two quality "
+"levels higher than it would otherwise be. This even allows the creation of "
+"legendary items.\\n\\nThe inspiration will end after 8 days, or when the "
+"creation is completed."
+msgstr "TODO"

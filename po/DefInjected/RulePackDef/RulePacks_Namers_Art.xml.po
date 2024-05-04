@@ -1,0 +1,281 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.0"
+msgid "r_art_name(p=4)->[Artwork] [Trans] [ConceptAny]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.1"
+msgid "r_art_name(p=4)->[maybe_a] [maybe_adjective] [Artwork]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.2"
+msgid "r_art_name->[maybe_a] [maybe_adjective] [ConceptAny]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.3"
+msgid "r_art_name->[maybe_a] [maybe_adjective] [TerrainFeature]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.4"
+msgid "r_art_name->[maybe_a] [maybe_adjective] [Vegetable]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.5"
+msgid "r_art_name->[maybe_a] [maybe_adjective] [Game]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.6"
+msgid "r_art_name->[maybe_a] [maybe_adjective] [Animal]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.7"
+msgid "r_art_name->[maybe_a] [maybe_adjective] [Gore]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.8"
+msgid "r_art_name->[maybe_a] [maybe_adjective] [NaturalObject]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.9"
+msgid "r_art_name->[maybe_a] [maybe_adjective] [PersonFamily]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.10"
+msgid "r_art_name->[maybe_a] [maybe_adjective] [Enemy]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.11"
+msgid "r_art_name(p=2)->[Artwork] No. [art_name_numeric]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.12"
+msgid "r_art_name->No. [art_name_numeric]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.13"
+msgid "r_art_name->[art_name_numeric]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.14"
+msgid "r_art_name->[Artwork] [art_name_numeric]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.15"
+msgid "r_art_name->[ConceptAny] No. [art_name_numeric]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.16"
+msgid "r_art_name->[art_name_numeric] [Trans] [ANYPAWN_nameIndef]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.17"
+msgid "r_art_name(p=6)->[ANYPAWN_nameIndef]'s [Artwork]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.18"
+msgid "r_art_name(p=3)->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.19"
+msgid "r_art_name(p=3)->[ANYPAWN_nameIndef]'s [PersonalCharacteristic]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.20"
+msgid "r_art_name(p=3)->[PersonalCharacteristic] of [ANYPAWN_nameIndef]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.21"
+msgid "r_art_name(p=3)->[ConceptAny] [Trans] [ANYPAWN_nameIndef]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.22"
+msgid "r_art_name(p=3)->[maybe_a] [Artwork] [Trans] [ANYPAWN_nameIndef]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.23"
+msgid "art_name_numeric->[maybe_letter][Digit][maybe_letter]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.24"
+msgid "art_name_numeric->[maybe_letter][Digit][Digit][maybe_letter]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.25"
+msgid "art_name_numeric->[maybe_letter][Digit][Digit][Digit][maybe_letter]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.26"
+msgid "art_name_numeric->[maybe_letter][RomanNumeral][maybe_letter]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.27"
+msgid "art_name_numeric->[maybe_letter][RomanNumeral][Digit][maybe_letter]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.28"
+msgid "art_name_numeric->[maybe_letter][Digit][RomanNumeral][maybe_letter]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.29"
+msgid ""
+"art_name_numeric->[maybe_letter][Digit][RomanNumeral][Digit][maybe_letter]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.30"
+msgid ""
+"art_name_numeric->[maybe_letter][RomanNumeral][Digit][RomanNumeral][maybe_letter]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.31"
+msgid ""
+"art_name_numeric->[maybe_letter][RomanNumeral][Digit][Digit][RomanNumeral][maybe_letter]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.32"
+msgid "maybe_letter(p=8)->"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.33"
+msgid "maybe_letter->[Letter]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.34"
+msgid "maybe_letter->[Letter][Letter]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.35"
+msgid "maybe_a(p=3)->"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.36"
+msgid "maybe_a->a"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.37"
+msgid "maybe_adjective(p=5)->"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.38"
+msgid "maybe_adjective(p=2)->[AdjectiveAngsty]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.39"
+msgid "maybe_adjective->[AdjectiveBadass]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:23
+msgctxt "NamerArtCommon.rulePack.rulesStrings.40"
+msgid "maybe_adjective->[Color]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:106
+msgctxt "NamerArtWeapon.rulePack.rulesStrings.0"
+msgid "r_art_name->[ConceptBadass]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:106
+msgctxt "NamerArtWeapon.rulePack.rulesStrings.1"
+msgid "r_art_name->The [AnimalBadass]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:106
+msgctxt "NamerArtWeapon.rulePack.rulesStrings.2"
+msgid "r_art_name->[AdjectiveBadass] [AnimalBadass]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:106
+msgctxt "NamerArtWeapon.rulePack.rulesStrings.3"
+msgid "r_art_name->[ColorBadass] [AnimalBadass]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:106
+msgctxt "NamerArtWeapon.rulePack.rulesStrings.4"
+msgid "r_art_name->[ConceptBadass] [ColorBadass]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:106
+msgctxt "NamerArtWeapon.rulePack.rulesStrings.5"
+msgid "r_art_name(p=3)->[ANYPAWN_nameIndef]'s [ConceptBadass]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:106
+msgctxt "NamerArtWeapon.rulePack.rulesStrings.6"
+msgid "r_art_name(p=3)->[ANYPAWN_nameIndef]'s [AnimalBadass]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:106
+msgctxt "NamerArtWeapon.rulePack.rulesStrings.7"
+msgid "r_art_name(p=3)->[ANYPAWN_nameIndef]'s [PersonBadass]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:106
+msgctxt "NamerArtWeapon.rulePack.rulesStrings.8"
+msgid "r_art_name(p=3)->[ANYPAWN_nameIndef]'s [PersonAlly]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:106
+msgctxt "NamerArtWeapon.rulePack.rulesStrings.9"
+msgid "r_art_name(p=3)->[ANYPAWN_nameIndef]'s [PersonFamily]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:106
+msgctxt "NamerArtWeapon.rulePack.rulesStrings.10"
+msgid "r_art_name(p=3)->[ConceptBadass] of [ANYPAWN_nameIndef]"
+msgstr ""
+
+#: Defs/RulePackDefs/RulePacks_Namers_Art.xml:106
+msgctxt "NamerArtWeapon.rulePack.rulesStrings.11"
+msgid "r_art_name(p=3)->[ColorBadass] [ANYPAWN_nameIndef]"
+msgstr ""

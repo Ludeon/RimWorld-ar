@@ -1,0 +1,133 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:6
+#, fuzzy
+msgctxt "Heatstroke.label"
+msgid "heatstroke"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:7
+msgctxt "Heatstroke.description"
+msgid ""
+"A generalized disruption to body functioning caused by excessive exposure to"
+" heat and sun. The victim becomes dizzy, weak, and confused. Recovery is "
+"quick once in a cool area, but if heat exposure continues, heat stroke gets "
+"worse until death."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:14
+msgctxt "Heatstroke.stages.0.label"
+msgid "initial"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:18
+msgctxt "Heatstroke.stages.1.label"
+msgid "initial"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:28
+msgctxt "Heatstroke.stages.2.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:42
+msgctxt "Heatstroke.stages.3.label"
+msgid "serious"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:57
+msgctxt "Heatstroke.stages.4.label"
+msgid "extreme"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:73
+#, fuzzy
+msgctxt "Hypothermia.label"
+msgid "hypothermia"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:74
+msgctxt "Hypothermia.description"
+msgid ""
+"Dangerously low core body temperature. Unless re-warmed, hypothermia gets "
+"worse and ends in death. Recovery is quick once the victim is re-warmed. "
+"Avoid hypothermia by wearing warm clothes in cold environments."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:81
+msgctxt "Hypothermia.stages.0.label"
+msgid "shivering"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:85
+msgctxt "Hypothermia.stages.1.label"
+msgid "shivering"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:99
+msgctxt "Hypothermia.stages.2.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:117
+msgctxt "Hypothermia.stages.3.label"
+msgid "serious"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:136
+msgctxt "Hypothermia.stages.4.label"
+msgid "extreme"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:152
+#, fuzzy
+msgctxt "HypothermicSlowdown.label"
+msgid "hypothermic slowdown"
+msgstr "TODO"
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:153
+msgctxt "HypothermicSlowdown.description"
+msgid ""
+"A special biological state used by some creatures to survive extreme cold. "
+"Instead of trying to stay warm, the creature's body chemistry adapts to "
+"prevent internal freezing despite very low temperature. Bodily functions are"
+" slowed and capacities are reduced, but the cold does no permanent damage. "
+"Some biologists call it a wakeful form of hibernation."
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:157
+msgctxt "HypothermicSlowdown.stages.0.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:161
+msgctxt "HypothermicSlowdown.stages.1.label"
+msgid "minor"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:175
+msgctxt "HypothermicSlowdown.stages.2.label"
+msgid "moderate"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:194
+msgctxt "HypothermicSlowdown.stages.3.label"
+msgid "serious"
+msgstr ""
+
+#: Defs/HediffDefs/Hediffs_Global_Temperature.xml:213
+msgctxt "HypothermicSlowdown.stages.4.label"
+msgid "extreme"
+msgstr ""

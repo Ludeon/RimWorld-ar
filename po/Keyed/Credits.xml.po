@@ -1,0 +1,174 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compendium:5
+#, fuzzy
+msgctxt "MainPageCredit"
+msgid "A story generator by Tynan Sylvester"
+msgstr "A colony simulator by Tynan Sylvester"
+
+#: compendium:8
+msgctxt "Credits_Design"
+msgid "Design"
+msgstr ""
+
+#: compendium:9
+#, fuzzy
+msgctxt "Credits_Developers"
+msgid "Engineering"
+msgstr "Developers"
+
+#: compendium:10
+#, fuzzy
+msgctxt "Credit_MusicAndSound"
+msgid "Audio"
+msgstr "Music and sound"
+
+#: compendium:11
+#, fuzzy
+msgctxt "Credit_GameArt"
+msgid "Art"
+msgstr "Game art"
+
+#: compendium:12
+msgctxt "Credit_Testers"
+msgid "Testers"
+msgstr ""
+
+#: compendium:13
+#, fuzzy
+msgctxt "Credits_AdditionalDevelopment"
+msgid "Additional development"
+msgstr "TODO"
+
+#: compendium:15
+msgctxt "Credits_TitleTester"
+msgid "Volunteer testers"
+msgstr ""
+
+#: compendium:17
+msgctxt "Credits_TitleMods"
+msgid "Mods"
+msgstr ""
+
+#: compendium:19
+#, fuzzy
+msgctxt "Credits_TitleLanguage"
+msgid "{0} language"
+msgstr "{0} language"
+
+#: compendium:20
+msgctxt "Credits_Localization_Anomaly"
+msgid "Anomaly localization"
+msgstr ""
+
+#: compendium:21
+msgctxt "Credits_LeadLocalizationProjectManager"
+msgid "Lead Localization Project Manager"
+msgstr ""
+
+#: compendium:22
+msgctxt "Credits_LocalizationProjectManager"
+msgid "Localization Project Manager"
+msgstr ""
+
+#: compendium:23
+msgctxt "Credits_ProjectManager"
+msgid "Project Manager"
+msgstr ""
+
+#: compendium:24
+msgctxt "Credits_Translator"
+msgid "Translator"
+msgstr ""
+
+#: compendium:25
+msgctxt "Credits_Editor"
+msgid "Editor"
+msgstr ""
+
+#: compendium:26
+msgctxt "Credits_French"
+msgid "French"
+msgstr ""
+
+#: compendium:27
+msgctxt "Credits_Japanese"
+msgid "Japanese"
+msgstr ""
+
+#: compendium:28
+msgctxt "Credits_Korean"
+msgid "Korean"
+msgstr ""
+
+#: compendium:29
+msgctxt "Credits_Polish"
+msgid "Polish"
+msgstr ""
+
+#: compendium:30
+msgctxt "Credits_Russian"
+msgid "Russian"
+msgstr ""
+
+#: compendium:31
+msgctxt "Credits_ChineseSimplified"
+msgid "Simplified Chinese"
+msgstr ""
+
+#: compendium:32
+msgctxt "Credits_ChineseTraditional"
+msgid "Traditional Chinese"
+msgstr ""
+
+#: compendium:35
+#, fuzzy
+msgctxt "Credit_SpecialThanks"
+msgid "Special thanks"
+msgstr "Special thanks"
+
+#: compendium:36
+msgctxt "Credit_TestLead"
+msgid "Test lead"
+msgstr ""
+
+#: compendium:37
+#, fuzzy
+msgctxt "Credits_TitleCommunity"
+msgid "Community donations"
+msgstr "Community volunteers"
+
+#: compendium:38
+#, fuzzy
+msgctxt "Credit_ModDonation"
+msgid "Mod donors"
+msgstr "Mod donor"
+
+#: compendium:39
+#, fuzzy
+msgctxt "Credit_WritingDonation"
+msgid "Writing donor"
+msgstr "Writing donor"
+
+#: compendium:42
+#, fuzzy
+msgctxt "ThanksForPlaying"
+msgid "Thanks for playing!"
+msgstr "Thanks for playing!"
+
+#: compendium:43
+msgctxt "SkipCredits"
+msgid "Skip credits"
+msgstr ""

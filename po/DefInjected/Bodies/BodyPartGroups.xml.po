@@ -1,0 +1,257 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Bodies/BodyPartGroups.xml:6
+#, fuzzy
+msgctxt "Torso.label"
+msgid "torso"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:12
+#, fuzzy
+msgctxt "UpperHead.label"
+msgid "upper head"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:18
+#, fuzzy
+msgctxt "FullHead.label"
+msgid "full head"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:24
+#, fuzzy
+msgctxt "Eyes.label"
+msgid "eyes"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:31
+#, fuzzy
+msgctxt "Teeth.label"
+msgid "teeth"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:37
+#, fuzzy
+msgctxt "Mouth.label"
+msgid "mouth"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:43
+#, fuzzy
+msgctxt "Neck.label"
+msgid "neck"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:49
+#, fuzzy
+msgctxt "Arms.label"
+msgid "arms"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:55
+#, fuzzy
+msgctxt "Shoulders.label"
+msgid "shoulders"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:61
+#, fuzzy
+msgctxt "Hands.label"
+msgid "hands"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:67
+#, fuzzy
+msgctxt "LeftHand.label"
+msgid "left fist"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:68
+#, fuzzy
+msgctxt "LeftHand.labelShort"
+msgid "fist"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:74
+#, fuzzy
+msgctxt "RightHand.label"
+msgid "right fist"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:75
+#, fuzzy
+msgctxt "RightHand.labelShort"
+msgid "fist"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:81
+msgctxt "MiddleFingers.label"
+msgid "middle finger"
+msgstr ""
+
+#: Defs/Bodies/BodyPartGroups.xml:82
+msgctxt "MiddleFingers.labelShort"
+msgid "finger"
+msgstr ""
+
+#: Defs/Bodies/BodyPartGroups.xml:88
+#, fuzzy
+msgctxt "Waist.label"
+msgid "utility slot"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:94
+#, fuzzy
+msgctxt "Legs.label"
+msgid "legs"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:100
+#, fuzzy
+msgctxt "Feet.label"
+msgid "feet"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:108
+#, fuzzy
+msgctxt "FrontLeftPaw.label"
+msgid "front left paw"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:109
+#, fuzzy
+msgctxt "FrontLeftPaw.labelShort"
+msgid "paw"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:114
+#, fuzzy
+msgctxt "FrontRightPaw.label"
+msgid "front right paw"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:115
+#, fuzzy
+msgctxt "FrontRightPaw.labelShort"
+msgid "paw"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:120
+#, fuzzy
+msgctxt "HeadAttackTool.label"
+msgid "head"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:125
+#, fuzzy
+msgctxt "FrontLeftLeg.label"
+msgid "front left leg"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:126
+#, fuzzy
+msgctxt "FrontLeftLeg.labelShort"
+msgid "leg"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:131
+#, fuzzy
+msgctxt "FrontRightLeg.label"
+msgid "front right leg"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:132
+#, fuzzy
+msgctxt "FrontRightLeg.labelShort"
+msgid "leg"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:137
+#, fuzzy
+msgctxt "FrontLeftClaws.label"
+msgid "front left claws"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:138
+#, fuzzy
+msgctxt "FrontLeftClaws.labelShort"
+msgid "claws"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:143
+#, fuzzy
+msgctxt "FrontRightClaws.label"
+msgid "front right claws"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:144
+#, fuzzy
+msgctxt "FrontRightClaws.labelShort"
+msgid "claws"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:149
+#, fuzzy
+msgctxt "LeftBlade.label"
+msgid "left blade"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:150
+#, fuzzy
+msgctxt "LeftBlade.labelShort"
+msgid "blade"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:155
+#, fuzzy
+msgctxt "RightBlade.label"
+msgid "right blade"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:156
+#, fuzzy
+msgctxt "RightBlade.labelShort"
+msgid "blade"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:161
+#, fuzzy
+msgctxt "TuskAttackTool.label"
+msgid "tusks"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:166
+#, fuzzy
+msgctxt "HornAttackTool.label"
+msgid "horn"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:171
+#, fuzzy
+msgctxt "HeadClaw.label"
+msgid "claw"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:176
+#, fuzzy
+msgctxt "TurtleBeakAttackTool.label"
+msgid "beak"
+msgstr "TODO"
+
+#: Defs/Bodies/BodyPartGroups.xml:181
+#, fuzzy
+msgctxt "Beak.label"
+msgid "beak"
+msgstr "TODO"

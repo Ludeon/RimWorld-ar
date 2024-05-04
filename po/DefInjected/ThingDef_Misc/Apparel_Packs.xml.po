@@ -1,0 +1,49 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Misc/Apparel_Packs.xml:6
+#, fuzzy
+msgctxt "Apparel_SmokepopBelt.label"
+msgid "smokepop pack"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Misc/Apparel_Packs.xml:7
+#, fuzzy
+msgctxt "Apparel_SmokepopBelt.description"
+msgid ""
+"A defensive smokescreen. When activated, it will release a cloud of smoke, "
+"obscuring incoming shots and preventing turrets from locking on."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Misc/Apparel_Packs.xml:24
+msgctxt "Apparel_SmokepopBelt.verbs.0.label"
+msgid "pop smoke"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Packs.xml:139
+msgctxt "Apparel_FirefoampopPack.label"
+msgid "firefoam pop pack"
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Packs.xml:140
+msgctxt "Apparel_FirefoampopPack.description"
+msgid ""
+"A utility pack made for firefighters. When triggered, a burst of fire-"
+"retardant foam is released, covering a wide circle around its wearer."
+msgstr ""
+
+#: Defs/ThingDefs_Misc/Apparel_Packs.xml:175
+msgctxt "Apparel_FirefoampopPack.verbs.0.label"
+msgid "pop firefoam"
+msgstr ""

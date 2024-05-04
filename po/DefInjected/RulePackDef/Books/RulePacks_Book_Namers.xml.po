@@ -1,0 +1,2357 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.0"
+msgid "title->[titleBasic]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.1"
+msgid "title(p=2)->[titleAuthored]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.2"
+msgid "title(p=2)->[titleAuthoredNoSubject]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.3"
+msgid ""
+"title(length_subject_primary[less_than]20,p=4)->[titleAuthoredOneSubject]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.4"
+msgid ""
+"title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleBasicTwoSubjects]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.5"
+msgid ""
+"title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleAuthoredTwoSubjects]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.6"
+msgid "titleBasic(p=6)->[randAdjective] [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.7"
+msgid "titleBasic(p=6)->[randNoun] and [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.8"
+msgid "titleBasic->Lessons in [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.9"
+msgid "titleBasic->Thinking About [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.10"
+msgid "titleBasic->A Guide to [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.11"
+msgid "titleBasic->Introduction to [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.12"
+msgid "titleBasic->A Primer on [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.13"
+msgid "titleBasic->Essentials of [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.14"
+msgid "titleBasic->Mastery in [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.15"
+msgid "titleBasic->The Fundamentals of [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.16"
+msgid "titleBasic->Navigating [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.17"
+msgid "titleBasic->Key Concepts in [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.18"
+msgid "titleBasic->The Art of [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.19"
+msgid "titleBasic->Masterclass: [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.20"
+msgid "titleBasic->Decoding [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.21"
+msgid "titleBasic->Advanced Techniques in [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.22"
+msgid "titleBasic->Unlocking [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.23"
+msgid "titleBasic->Practical Guide to [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.24"
+msgid "titleBasic->Exploring [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.25"
+msgid "titleBasic->Pro Tips: [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.26"
+msgid "titleBasic->Understanding [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.27"
+msgid "titleBasic->Journey Through [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.28"
+msgid "titleBasic->The Way of [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.29"
+msgid "titleBasic->Insights into [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.30"
+msgid "titleBasic->Unraveling [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.31"
+msgid "titleBasic->Secrets of [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.32"
+msgid "titleBasic->Mastering [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.33"
+msgid "titleBasic->In-depth Study of [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.34"
+msgid "titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Studies"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.35"
+msgid "titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s [randAdjective] Studies"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.36"
+msgid "titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Diary"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.37"
+msgid "titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Chronicles"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.38"
+msgid "titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Memoirs"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.39"
+msgid "titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Journal"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.40"
+msgid "titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Musings"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.41"
+msgid "titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Adventures"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.42"
+msgid "titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Reflections"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.43"
+msgid "titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Exploration"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.44"
+msgid "titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Testimonies"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.45"
+msgid "titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Odyssey"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.46"
+msgid "titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Journey"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.47"
+msgid "titleAuthoredNoSubject->The Life of [ANYPAWN_nameIndef]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.48"
+msgid "titleAuthoredNoSubject->The Story of [ANYPAWN_nameIndef]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.49"
+msgid "titleAuthoredNoSubject->The Legacy of [ANYPAWN_nameIndef]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.50"
+msgid "titleAuthoredNoSubject->The Adventures of [ANYPAWN_nameIndef]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.51"
+msgid "titleAuthoredNoSubject->The Diaries of [ANYPAWN_nameIndef]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.52"
+msgid "titleAuthoredNoSubject->The Wanderings of [ANYPAWN_nameIndef]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.53"
+msgid "titleAuthoredNoSubject->The Musings of [ANYPAWN_nameIndef]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.54"
+msgid "titleAuthoredNoSubject->The Testimonies of [ANYPAWN_nameIndef]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.55"
+msgid "titleAuthoredNoSubject->The Chronicles of [ANYPAWN_nameIndef]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.56"
+msgid "titleAuthoredNoSubject->The Memoirs of [ANYPAWN_nameIndef]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.57"
+msgid "titleAuthoredOneSubject->[ANYPAWN_nameIndef] on [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.58"
+msgid ""
+"titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Guide to [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.59"
+msgid ""
+"titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Intro to [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.60"
+msgid ""
+"titleAuthoredOneSubject->[ANYPAWN_nameIndef] Explores [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.61"
+msgid ""
+"titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Insights on [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.62"
+msgid ""
+"titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Manual on [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.63"
+msgid ""
+"titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Perspectives on "
+"[subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.64"
+msgid ""
+"titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Handbook for "
+"[subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.65"
+msgid ""
+"titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Analysis of [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.66"
+msgid ""
+"titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Approach to [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.67"
+msgid ""
+"titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Discoveries in "
+"[subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.68"
+msgid ""
+"titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Musings on [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.69"
+msgid ""
+"titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Study of [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.70"
+msgid ""
+"titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Investigation into "
+"[subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.71"
+msgid ""
+"titleAuthoredOneSubject->[ANYPAWN_nameIndef]'s Research on [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.72"
+msgid "titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] on [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.73"
+msgid ""
+"titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Guide to [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.74"
+msgid ""
+"titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Intro to [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.75"
+msgid "titleAuthoredTwoSubjects->[ANYPAWN_nameIndef] Explores [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.76"
+msgid ""
+"titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Insights on [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.77"
+msgid ""
+"titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Manual on [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.78"
+msgid ""
+"titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Perspectives on "
+"[subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.79"
+msgid ""
+"titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Handbook for [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.80"
+msgid ""
+"titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Analysis of [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.81"
+msgid ""
+"titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Approach to [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.82"
+msgid ""
+"titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Discoveries in "
+"[subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.83"
+msgid ""
+"titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Musings on [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.84"
+msgid ""
+"titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Study of [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.85"
+msgid ""
+"titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Investigation into "
+"[subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.86"
+msgid ""
+"titleAuthoredTwoSubjects->[ANYPAWN_nameIndef]'s Research on [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.87"
+msgid "titleBasicTwoSubjects->[subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.88"
+msgid "titleBasicTwoSubjects->An Intro to [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.89"
+msgid "titleBasicTwoSubjects->The Best of [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.90"
+msgid "titleBasicTwoSubjects->Combining [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.91"
+msgid "titleBasicTwoSubjects->Lessons on [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.92"
+msgid "titleBasicTwoSubjects->Thinking About [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.93"
+msgid "titleBasicTwoSubjects->A Guide to [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.94"
+msgid "titleBasicTwoSubjects->Introduction to [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.95"
+msgid "titleBasicTwoSubjects->A Primer on [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.96"
+msgid "titleBasicTwoSubjects->Essentials of [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.97"
+msgid "titleBasicTwoSubjects->Mastery in [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.98"
+msgid "titleBasicTwoSubjects->The Fundamentals of [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.99"
+msgid "titleBasicTwoSubjects->Navigating [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.100"
+msgid "titleBasicTwoSubjects->Key Concepts in [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.101"
+msgid "titleBasicTwoSubjects->The Art of [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.102"
+msgid "titleBasicTwoSubjects->Masterclass: [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.103"
+msgid "titleBasicTwoSubjects->Decoding [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.104"
+msgid "titleBasicTwoSubjects->Advanced Techniques in [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.105"
+msgid "titleBasicTwoSubjects->Unlocking [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.106"
+msgid "titleBasicTwoSubjects->Practical Guide to [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.107"
+msgid "titleBasicTwoSubjects->Exploring [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.108"
+msgid "titleBasicTwoSubjects->Pro Tips: [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.109"
+msgid "titleBasicTwoSubjects->Understanding [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.110"
+msgid "titleBasicTwoSubjects->Journey Through [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.111"
+msgid "titleBasicTwoSubjects->The Way of [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.112"
+msgid "titleBasicTwoSubjects->Insights into [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.113"
+msgid "titleBasicTwoSubjects->Unraveling [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.114"
+msgid "titleBasicTwoSubjects->Secrets of [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.115"
+msgid "titleBasicTwoSubjects->Mastering [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.116"
+msgid "titleBasicTwoSubjects->In-depth Study of [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.117"
+msgid ""
+"subjectsTuple(has_subject_secondary==true,p=6)->[subject_primary] and "
+"[subject_secondary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.118"
+msgid "subjectsTuple->[subject_secondary], [subject_primary], and [randTheme]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.119"
+msgid "subjectsTuple->[subject_primary] and [randTheme]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.120"
+msgid "randNoun->Death"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.121"
+msgid "randNoun->Life"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.122"
+msgid "randNoun->Love"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.123"
+msgid "randNoun->Growth"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.124"
+msgid "randNoun->Courage"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.125"
+msgid "randNoun->Wisdom"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.126"
+msgid "randNoun->Health"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.127"
+msgid "randNoun->Boomalopes"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.128"
+msgid "randNoun->Pirates"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.129"
+msgid "randAdjective->Basic"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.130"
+msgid "randAdjective->Efficient"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.131"
+msgid "randAdjective->Thoughtful"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.132"
+msgid "randAdjective->Spectacular"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.133"
+msgid "randAdjective->Sloppy"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.134"
+msgid "randAdjective->Bad"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.135"
+msgid "randAdjective->Good"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.136"
+msgid "randAdjective->Glitterworld"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.137"
+msgid "randAdjective->Rural"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.138"
+msgid "randAdjective->Medieval"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.139"
+msgid "randAdjective->Inspired"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.140"
+msgid "randAdjective->Healthy"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.141"
+msgid "randAdjective->Nefarious"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.142"
+msgid "randAdjective->Chaotic"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.143"
+msgid "randAdjective->Funny"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.144"
+msgid "randTheme->knowledge"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.145"
+msgid "randTheme->self-improvement"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:14
+msgctxt "Namer_TextBook.rulePack.rulesStrings.146"
+msgid "randTheme->understanding"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.0"
+msgid "title->The Design of [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.1"
+msgid "title->Notes on [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.2"
+msgid "title->A Breakthrough in [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.3"
+msgid "title->A Study in [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.4"
+msgid "title->Novel Applications for [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.5"
+msgid "title->Understanding [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.6"
+msgid "title->Principles of [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.7"
+msgid "title->The Fundamentals of [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.8"
+msgid "title->[subject_primary]: Part [volNumeral]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.9"
+msgid "title->[subject_primary] Vol. [volNumeral]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.10"
+msgid "title->[randAdjective] [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.11"
+msgid "title->[randAdjective] [subject_primary] Vol. [volNumeral]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.12"
+msgid "title->[maybe_authored_title]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.13"
+msgid ""
+"title(has_subject_secondary==true)->[studiesStart] [subject_primary] in the "
+"[subject_secondary] sector"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.14"
+msgid "title->[studiesStart] [subject_primary] following [lifeEvent]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.15"
+msgid "title->[studiesStart] [subject_primary]: [anecdotes]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.16"
+msgid ""
+"title->[studiesStart] [subject_primary]: a [randAdjective] [discussionNoun]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.17"
+msgid "title->The [randAdjective] [subject_primary] [referenceType]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.18"
+msgid ""
+"title->The [referenceType] of [randAdjective] [subject_primary], Vol. "
+"[volNumeral]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.19"
+msgid ""
+"title->[studiesStart] [randAdjective] [subject_primary], Vol. [volNumeral]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.20"
+msgid ""
+"title->The [referenceType] of [studiesStart] [randAdjective] "
+"[subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.21"
+msgid "title->The [lifeEvent] [discussionNoun] and [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.22"
+msgid "studiesStart->Studies in"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.23"
+msgid "studiesStart->Fundamentals of"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.24"
+msgid "studiesStart->Managing"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.25"
+msgid "studiesStart->Histories of"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.26"
+msgid "studiesStart->Working in"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.27"
+msgid "studiesStart->Representation of"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.28"
+msgid "studiesStart->Surviving"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.29"
+msgid "studiesStart->Advances in"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.30"
+msgid "studiesStart->Applications of"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.31"
+msgid "studiesStart->Shaping the future of"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.32"
+msgid "studiesStart->Documenting of"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.33"
+msgid "referenceType->Encyclopedia"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.34"
+msgid "referenceType->Dictionary"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.35"
+msgid "referenceType->Almanac"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.36"
+msgid "referenceType->Register"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.37"
+msgid "referenceType->Annal"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.38"
+msgid "referenceType->Record"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.39"
+msgid "referenceType->Guidebook"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.40"
+msgid "referenceType->Chronicle"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.41"
+msgid "referenceType->Mentor"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.42"
+msgid "referenceType->Toolbox"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.43"
+msgid "anecdotes->thoughts"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.44"
+msgid "anecdotes->anecdotes"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.45"
+msgid "anecdotes->folk tales"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.46"
+msgid "anecdotes->hearsay"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.47"
+msgid "anecdotes->stories"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.48"
+msgid "anecdotes->narratives"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.49"
+msgid "discussionNoun->discussion"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.50"
+msgid "discussionNoun->debate"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.51"
+msgid "discussionNoun->discourse"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.52"
+msgid "discussionNoun->dialog"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.53"
+msgid "discussionNoun->dialectic"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.54"
+msgid "discussionNoun->examination"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.55"
+msgid "discussionNoun->consultation"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.56"
+msgid "discussionNoun->controversy"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.57"
+msgid "lifeEvent->injury"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.58"
+msgid "lifeEvent->cloning"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.59"
+msgid "lifeEvent->trauma"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.60"
+msgid "lifeEvent->separation"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.61"
+msgid "lifeEvent->landing"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.62"
+msgid "lifeEvent->revolution"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.63"
+msgid "lifeEvent->archotech invocation"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.64"
+msgid "lifeEvent->Horax"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.65"
+msgid "lifeEvent->childbirth"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.66"
+msgid "lifeEvent->accident"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.67"
+msgid "lifeEvent->fleshmelding"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.68"
+msgid "lifeEvent->deathrest"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.69"
+msgid "lifeEvent->uprising"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.70"
+msgid "lifeEvent->chimera"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.71"
+msgid "lifeEvent->reverie"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.72"
+msgid "lifeEvent->ripperfall"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.73"
+msgid "lifeEvent->lobotomy"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.74"
+msgid "lifeEvent->archite infection"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.75"
+msgid "volNumeral->I"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.76"
+msgid "volNumeral->II"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.77"
+msgid "volNumeral->III"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.78"
+msgid "volNumeral->IV"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.79"
+msgid "volNumeral->V"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.80"
+msgid ""
+"title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=2)->[titleTwoSubjects]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.81"
+msgid "titleTwoSubjects->An Intro to [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.82"
+msgid "titleTwoSubjects->Analysis of [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.83"
+msgid "maybe_authored_title->[author_gen]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.84"
+msgid "author_gen->[ANYPAWN_nameIndef]'s Studies"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.85"
+msgid "author_gen->[ANYPAWN_nameIndef]'s Notes"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.86"
+msgid "author_gen->[ANYPAWN_nameIndef]'s Seminars"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.87"
+msgid ""
+"maybe_authored_title(length_subject_primary[less_than]20,p=2)->[authored_title_gen]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.88"
+msgid ""
+"maybe_authored_title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[authored_title_gen_two]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.89"
+msgid "authored_title_gen->[ANYPAWN_nameIndef]'s Guide to [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.90"
+msgid "authored_title_gen->[ANYPAWN_nameIndef]'s Intro to [subject_primary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.91"
+msgid "authored_title_gen_two->[ANYPAWN_nameIndef]'s Guide to [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.92"
+msgid "authored_title_gen_two->[ANYPAWN_nameIndef]'s Intro to [subjectsTuple]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.93"
+msgid ""
+"subjectsTuple(has_subject_secondary==true,p=2)->[subject_primary] and "
+"[subject_secondary]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.94"
+msgid ""
+"subjectsTuple(has_subject_secondary==true)->[subject_secondary] and "
+"[randTheme]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.95"
+msgid "subjectsTuple->[subject_primary] and [randTheme]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.96"
+msgid "randAdjective->Basic"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.97"
+msgid "randAdjective->Best"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.98"
+msgid "randAdjective->Glitterworld"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.99"
+msgid "randAdjective->Medieval"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.100"
+msgid "randAdjective->Archaic"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.101"
+msgid "randAdjective->Lurid"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.102"
+msgid "randAdjective->Twilight"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.103"
+msgid "randAdjective->Deathworld"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.104"
+msgid "randAdjective->Grotesque"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.105"
+msgid "randAdjective->Sepulchral"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.106"
+msgid "randAdjective->Holy"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.107"
+msgid "randAdjective->Darkest"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.108"
+msgid "randAdjective->Subworld"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.109"
+msgid "randAdjective->Primitive"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.110"
+msgid "randAdjective->Survival"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.111"
+msgid "randAdjective->Stygian"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.112"
+msgid "randAdjective->Morose"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.113"
+msgid "randAdjective->Haunting"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.114"
+msgid "randAdjective->Cryptic"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.115"
+msgid "randAdjective->Cursed"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.116"
+msgid "randTheme->engineering"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.117"
+msgid "randTheme->folklore"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.118"
+msgid "randTheme->science fiction"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.119"
+msgid "randTheme->survival tips"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.120"
+msgid "randTheme->the rim"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.121"
+msgid "randTheme->autophagy"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.122"
+msgid "randTheme->faith"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.123"
+msgid "randTheme->rights"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:193
+msgctxt "Namer_Schematic.rulePack.rulesStrings.124"
+msgid "randTheme->ethics"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.0"
+msgid "title(p=3)->[titleNaked]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.1"
+msgid "title->[ANYPAWN_nameIndef]'s [titleNaked]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.2"
+msgid "title->[Character]'s [story]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.3"
+msgid "title->[Character]'s [objectAny]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.4"
+msgid "title->[Character] [linkagePlace] [place]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.5"
+msgid "title->The [adjective] [Character]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.6"
+msgid "title->The [adjective] [objectAny]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.7"
+msgid "titleNaked->[ConceptAny]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.8"
+msgid "titleNaked->[adjective] [ConceptAny]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.9"
+msgid "titleNaked->[ConceptAny] [linkage] [ConceptAny]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.10"
+msgid "titleNaked->[ConceptAny] [linkagePlace] [place]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.11"
+msgid "titleNaked->[objectAny] [linkage] [ConceptAny]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.12"
+msgid "objectAny->[Game]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.13"
+msgid "objectAny->[Weapon]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.14"
+msgid "linkage->of"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.15"
+msgid "linkage->by"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.16"
+msgid "linkage->for"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.17"
+msgid "linkage->without"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.18"
+msgid "linkage->with"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.19"
+msgid "linkagePlace->in the"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.20"
+msgid "linkagePlace->by the"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.21"
+msgid "linkagePlace->on the"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.22"
+msgid "linkagePlace->Near the"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.23"
+msgid "adjective->[AdjectiveAny]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.24"
+msgid "place(p=25)->[TerrainFeature]"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.25"
+msgid "place->Abyss"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.26"
+msgid "place->Amphitheater"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.27"
+msgid "place->Aquarium"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.28"
+msgid "place->Aqueduct"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.29"
+msgid "place->Arena"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.30"
+msgid "place->Asylum"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.31"
+msgid "place->Barracks"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.32"
+msgid "place->Base"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.33"
+msgid "place->Bunker"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.34"
+msgid "place->Cabin"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.35"
+msgid "place->Camp"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.36"
+msgid "place->Castle"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.37"
+msgid "place->Cathedral"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.38"
+msgid "place->Cavern"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.39"
+msgid "place->Citadel"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.40"
+msgid "place->City"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.41"
+msgid "place->Coliseum"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.42"
+msgid "place->Colony"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.43"
+msgid "place->Depths"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.44"
+msgid "place->Desert"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.45"
+msgid "place->Elevator"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.46"
+msgid "place->Factory"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.47"
+msgid "place->Festival"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.48"
+msgid "place->Fortress"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.49"
+msgid "place->Glade"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.50"
+msgid "place->Graveyard"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.51"
+msgid "place->Greenhouse"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.52"
+msgid "place->Grove"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.53"
+msgid "place->Harbor"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.54"
+msgid "place->Heart"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.55"
+msgid "place->Hive"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.56"
+msgid "place->Hospital"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.57"
+msgid "place->Island"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.58"
+msgid "place->Jungle"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.59"
+msgid "place->Labor Camp"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.60"
+msgid "place->Laboratory"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.61"
+msgid "place->Labyrinth"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.62"
+msgid "place->Launchpad"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.63"
+msgid "place->Library"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.64"
+msgid "place->Lighthouse"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.65"
+msgid "place->Manor"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.66"
+msgid "place->Mansion"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.67"
+msgid "place->Marketplace"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.68"
+msgid "place->Mine"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.69"
+msgid "place->Monastery"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.70"
+msgid "place->Mountain"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.71"
+msgid "place->Nexus"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.72"
+msgid "place->Oasis"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.73"
+msgid "place->Observatory"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.74"
+msgid "place->Orchard"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.75"
+msgid "place->Outpost"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.76"
+msgid "place->Palace"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.77"
+msgid "place->Plateau"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.78"
+msgid "place->Prison"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.79"
+msgid "place->Refinery"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.80"
+msgid "place->Resort"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.81"
+msgid "place->Rift"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.82"
+msgid "place->Ruins"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.83"
+msgid "place->Sanctuary"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.84"
+msgid "place->School"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.85"
+msgid "place->Settlement"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.86"
+msgid "place->Ship"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.87"
+msgid "place->Soul"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.88"
+msgid "place->Space Station"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.89"
+msgid "place->Spaceport"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.90"
+msgid "place->Spire"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.91"
+msgid "place->Swamp"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.92"
+msgid "place->Tavern"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.93"
+msgid "place->Temple"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.94"
+msgid "place->Town"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.95"
+msgid "place->Tundra"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.96"
+msgid "place->University"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.97"
+msgid "place->Village"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.98"
+msgid "place->Volcano"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.99"
+msgid "place->Warehouse"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.100"
+msgid "place->Wasteland"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.101"
+msgid "place->Wilderness"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.102"
+msgid "place->Zoo"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.103"
+msgid "story->Adventure"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.104"
+msgid "story->Adventures"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.105"
+msgid "story->Allegory"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.106"
+msgid "story->Anecdote"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.107"
+msgid "story->Annals"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.108"
+msgid "story->Ballad"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.109"
+msgid "story->Biography"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.110"
+msgid "story->Chapters"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.111"
+msgid "story->Chronicle"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.112"
+msgid "story->Chronicles"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.113"
+msgid "story->Chronology"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.114"
+msgid "story->Comedy"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.115"
+msgid "story->Compendium"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.116"
+msgid "story->Compilation"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.117"
+msgid "story->Dialogue"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.118"
+msgid "story->Diary"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.119"
+msgid "story->Discourse"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.120"
+msgid "story->Drama"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.121"
+msgid "story->Dream"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.122"
+msgid "story->Enigma"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.123"
+msgid "story->Epic"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.124"
+msgid "story->Epiphany"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.125"
+msgid "story->Epistle"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.126"
+msgid "story->Fable"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.127"
+msgid "story->Fables"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.128"
+msgid "story->Fairy Tale"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.129"
+msgid "story->Fantasia"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.130"
+msgid "story->Fantasy"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.131"
+msgid "story->Fantasy"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.132"
+msgid "story->Fiction"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.133"
+msgid "story->Folklore"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.134"
+msgid "story->History"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.135"
+msgid "story->Imagination"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.136"
+msgid "story->Imaginings"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.137"
+msgid "story->Insight"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.138"
+msgid "story->Jottings"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.139"
+msgid "story->Journal"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.140"
+msgid "story->Journey"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.141"
+msgid "story->Legacy"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.142"
+msgid "story->Legend"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.143"
+msgid "story->Legends"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.144"
+msgid "story->Literature"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.145"
+msgid "story->Log"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.146"
+msgid "story->Memoir"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.147"
+msgid "story->Memoirs"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.148"
+msgid "story->Memories"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.149"
+msgid "story->Mind"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.150"
+msgid "story->Musical"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.151"
+msgid "story->Musings"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.152"
+msgid "story->Myth"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.153"
+msgid "story->Mythology"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.154"
+msgid "story->Mythos"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.155"
+msgid "story->Narration"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.156"
+msgid "story->Narrative"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.157"
+msgid "story->Novel"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.158"
+msgid "story->Observations"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.159"
+msgid "story->Ode"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.160"
+msgid "story->Pages"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.161"
+msgid "story->Papers"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.162"
+msgid "story->Parable"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.163"
+msgid "story->Prose"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.164"
+msgid "story->Recollections"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.165"
+msgid "story->Recount"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.166"
+msgid "story->Reflection"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.167"
+msgid "story->Reflections"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.168"
+msgid "story->Reminiscences"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.169"
+msgid "story->Revelation"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.170"
+msgid "story->Rhapsody"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.171"
+msgid "story->Saga"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.172"
+msgid "story->Scribblings"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.173"
+msgid "story->Script"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.174"
+msgid "story->Sketch"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.175"
+msgid "story->Sketches"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.176"
+msgid "story->Story"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.177"
+msgid "story->Tale"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.178"
+msgid "story->Tales"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.179"
+msgid "story->Testament"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.180"
+msgid "story->Testimony"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.181"
+msgid "story->Tragedy"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.182"
+msgid "story->Tribute"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.183"
+msgid "story->Verse"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.184"
+msgid "story->Volume"
+msgstr ""
+
+#: Defs/RulePackDefs/Books/RulePacks_Book_Namers.xml:355
+msgctxt "Namer_Novel.rulePack.rulesStrings.185"
+msgid "story->Whimsy"
+msgstr ""

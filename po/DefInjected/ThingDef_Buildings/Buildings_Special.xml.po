@@ -1,0 +1,57 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/ThingDefs_Buildings/Buildings_Special.xml:6
+#, fuzzy
+msgctxt "PsychicEmanator.label"
+msgid "psychic emanator"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Special.xml:7
+#, fuzzy
+msgctxt "PsychicEmanator.description"
+msgid ""
+"An ancient device that projects a soothing psychic field around itself. This"
+" improves the mood of anyone nearby. Works through walls."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Special.xml:72
+#, fuzzy
+msgctxt "VanometricPowerCell.label"
+msgid "vanometric power cell"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Special.xml:73
+#, fuzzy
+msgctxt "VanometricPowerCell.description"
+msgid ""
+"Generates free energy, forever, without using fuel. This technology is "
+"developed by archotechs, and is beyond even most glitterworld societies. "
+"While nobody knows exactly how it works, scholars believe it somehow "
+"extracts energy directly from fluctuations in the quantum foam."
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Special.xml:133
+#, fuzzy
+msgctxt "InfiniteChemreactor.label"
+msgid "infinite chemreactor"
+msgstr "TODO"
+
+#: Defs/ThingDefs_Buildings/Buildings_Special.xml:134
+#, fuzzy
+msgctxt "InfiniteChemreactor.description"
+msgid ""
+"Slowly generates chemfuel by a complex series of chemical reactions, using "
+"atoms extracted from the air."
+msgstr "TODO"

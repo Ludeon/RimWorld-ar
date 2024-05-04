@@ -1,0 +1,64 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/Drugs/Psychite_Tea.xml:6
+#, fuzzy
+msgctxt "PsychiteTea.label"
+msgid "psychite tea"
+msgstr "TODO"
+
+#: Defs/Drugs/Psychite_Tea.xml:7
+#, fuzzy
+msgctxt "PsychiteTea.description"
+msgid ""
+"A fragrant tea infused with leaves of the psychoid plant. Drinking it "
+"induces a subtle psychite euphoria. This tea is easy to produce at cooking "
+"facilities, but can produce psychite addiction if consumed too "
+"often.\\n\\nMany tribes use psychoid tea, both as a daily energizer and as "
+"part of social and religious rituals."
+msgstr "TODO"
+
+#: Defs/Drugs/Psychite_Tea.xml:41
+#, fuzzy
+msgctxt "PsychiteTea.ingestible.ingestCommandString"
+msgid "Drink {0}"
+msgstr "TODO"
+
+#: Defs/Drugs/Psychite_Tea.xml:42
+#, fuzzy
+msgctxt "PsychiteTea.ingestible.ingestReportString"
+msgid "Drinking {0}."
+msgstr "TODO"
+
+#: Defs/Drugs/Psychite_Tea.xml:95
+#, fuzzy
+msgctxt "PsychiteTeaHigh.label"
+msgid "high on psychite tea"
+msgstr "TODO"
+
+#: Defs/Drugs/Psychite_Tea.xml:97
+msgctxt "PsychiteTeaHigh.description"
+msgid ""
+"Active psychite tea in the bloodstream. Generates a mild euphoric effect."
+msgstr ""
+
+#: Defs/Drugs/Psychite_Tea.xml:127
+msgctxt "PsychiteTeaHigh.stages.0.label"
+msgid "psychite tea"
+msgstr ""
+
+#: Defs/Drugs/Psychite_Tea.xml:128
+msgctxt "PsychiteTeaHigh.stages.0.description"
+msgid "Drinking that tea made me feel great. I love having this energy!"
+msgstr ""

@@ -1,0 +1,1586 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: hi@fairewinds.ca\n"
+"POT-Creation-Date: 2024-05-04 22:58\n"
+"PO-Revision-Date: 2024-05-04 22:58\n"
+"Last-Translator: Mohamed Moustafa <hi@fairewinds.ca>\n"
+"Language-Team: Ludeon/translators-arabic (https://github.com/orgs/Ludeon/teams/translators-arabic) <hi@fairewinds.ca>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Defs/TaleDefs/Tales_Job.xml:6
+#, fuzzy
+msgctxt "MinedValuable.label"
+msgid "mined valuable"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef] mining a rich vein of [MATERIAL_label]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.1"
+msgid ""
+"image->[PAWN_nameFull] working a [MATERIAL_label] wall with mining tools, "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.2"
+msgid ""
+"image->[PAWN_nameFull] holding up a chunk of [MATERIAL_label], "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.3"
+msgid ""
+"image->[PAWN_nameFull] resting against a wall of [MATERIAL_label], "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.4"
+msgid ""
+"image->[PAWN_nameFull] coordinating an excavation team against a rich vein "
+"of [MATERIAL_label], [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.5"
+msgid ""
+"image->[PAWN_nameFull] carefully inspecting a rich vein of [MATERIAL_label],"
+" [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->sweating heavily"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->wearing a [AdjectiveFriendly] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->wearing a [AdjectiveFriendly] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->smiling proudly"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->a satisfied expression on [PAWN_possessive] face"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.11"
+msgid "desc_sentence->[Quantity_adjphrase] [ally]s assist."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.12"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s wander the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.13"
+msgid "desc_sentence->There is a [Community] in the background."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.14"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] further veins are visible in the "
+"distance."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.15"
+msgid "desc_sentence->A [TerrainFeature] is visible in the distance."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:12
+msgctxt "MinedValuable.rulePack.rulesStrings.16"
+msgid "desc_sentence->[PAWN_nameDef] is sweaty and dirty from work."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:36
+#, fuzzy
+msgctxt "CompletedLongConstructionProject.label"
+msgid "completed long construction project"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Job.xml:42
+msgctxt "CompletedLongConstructionProject.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef] finishing construction on a [OBJECT_label]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:42
+msgctxt "CompletedLongConstructionProject.rulePack.rulesStrings.1"
+msgid "image->[PAWN_nameFull] building a [OBJECT_label] [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:42
+msgctxt "CompletedLongConstructionProject.rulePack.rulesStrings.2"
+msgid ""
+"image->[PAWN_nameFull] putting together a [OBJECT_label] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:42
+msgctxt "CompletedLongConstructionProject.rulePack.rulesStrings.3"
+msgid ""
+"image->[PAWN_nameFull] polishing the surface of a [OBJECT_label] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:42
+msgctxt "CompletedLongConstructionProject.rulePack.rulesStrings.4"
+msgid ""
+"image->[PAWN_nameFull] inscribing [PAWN_possessive] name on a [OBJECT_label]"
+" [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:42
+msgctxt "CompletedLongConstructionProject.rulePack.rulesStrings.5"
+msgid "circumstance_phrase->with a gleam in [PAWN_possessive] eye"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:42
+msgctxt "CompletedLongConstructionProject.rulePack.rulesStrings.6"
+msgid ""
+"circumstance_phrase->while wiping the sweat from [PAWN_possessive] forehead"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:42
+msgctxt "CompletedLongConstructionProject.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->while covered in grime"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:42
+msgctxt "CompletedLongConstructionProject.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->while smiling proudly"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:42
+msgctxt "CompletedLongConstructionProject.rulePack.rulesStrings.9"
+msgid ""
+"circumstance_phrase->with a satisfied expression on [PAWN_possessive] face"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:42
+msgctxt "CompletedLongConstructionProject.rulePack.rulesStrings.10"
+msgid ""
+"desc_sentence->The [OBJECT_label] appears to tower above [PAWN_nameDef]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:42
+msgctxt "CompletedLongConstructionProject.rulePack.rulesStrings.11"
+msgid "desc_sentence->The [OBJECT_label] glows a soft [Color]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:42
+msgctxt "CompletedLongConstructionProject.rulePack.rulesStrings.12"
+msgid "desc_sentence->The [OBJECT_label] is intricately detailed."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:42
+msgctxt "CompletedLongConstructionProject.rulePack.rulesStrings.13"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [PersonJob]s marvel at the "
+"[OBJECT_label]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:42
+msgctxt "CompletedLongConstructionProject.rulePack.rulesStrings.14"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:64
+#, fuzzy
+msgctxt "CompletedLongCraftingProject.label"
+msgid "completed long crafting project"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Job.xml:70
+msgctxt "CompletedLongCraftingProject.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef] completing work on a [OBJECT_label]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:70
+msgctxt "CompletedLongCraftingProject.rulePack.rulesStrings.1"
+msgid ""
+"image->[PAWN_nameFull] working on a [OBJECT_label] [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:70
+msgctxt "CompletedLongCraftingProject.rulePack.rulesStrings.2"
+msgid ""
+"image->[PAWN_nameFull] polishing the surface of a [OBJECT_label] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:70
+msgctxt "CompletedLongCraftingProject.rulePack.rulesStrings.3"
+msgid ""
+"image->[PAWN_nameFull] adding surface detail to a [OBJECT_label] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:70
+msgctxt "CompletedLongCraftingProject.rulePack.rulesStrings.4"
+msgid ""
+"image->[PAWN_nameFull] inscribing [PAWN_possessive] name on a [OBJECT_label]"
+" [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:70
+msgctxt "CompletedLongCraftingProject.rulePack.rulesStrings.5"
+msgid "circumstance_phrase->with a gleam in [PAWN_possessive] eye"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:70
+msgctxt "CompletedLongCraftingProject.rulePack.rulesStrings.6"
+msgid ""
+"circumstance_phrase->while wiping the sweat from [PAWN_possessive] forehead"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:70
+msgctxt "CompletedLongCraftingProject.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->while covered in grime"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:70
+msgctxt "CompletedLongCraftingProject.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->while smiling proudly"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:70
+msgctxt "CompletedLongCraftingProject.rulePack.rulesStrings.9"
+msgid ""
+"circumstance_phrase->with a satisfied expression on [PAWN_possessive] face"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:70
+msgctxt "CompletedLongCraftingProject.rulePack.rulesStrings.10"
+msgid "desc_sentence->The [OBJECT_label] glows a soft [Color]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:70
+msgctxt "CompletedLongCraftingProject.rulePack.rulesStrings.11"
+msgid "desc_sentence->The [OBJECT_label] is intricately detailed."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:70
+msgctxt "CompletedLongCraftingProject.rulePack.rulesStrings.12"
+msgid ""
+"desc_sentence->[PAWN_nameDef] lifts the [OBJECT_label] seemingly without "
+"effort."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:70
+msgctxt "CompletedLongCraftingProject.rulePack.rulesStrings.13"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s marvel at the device."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:70
+msgctxt "CompletedLongCraftingProject.rulePack.rulesStrings.14"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:92
+#, fuzzy
+msgctxt "AttendedParty.label"
+msgid "attended party"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Job.xml:99
+msgctxt "AttendedParty.rulePack.rulesStrings.0"
+msgid "tale_noun->[ATTENDER_nameDef] attending [ORGANIZER_nameDef]'s party"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:99
+msgctxt "AttendedParty.rulePack.rulesStrings.1"
+msgid ""
+"tale_noun->[ATTENDER_nameDef] relaxing with [ORGANIZER_nameDef] at a party"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:99
+msgctxt "AttendedParty.rulePack.rulesStrings.2"
+msgid ""
+"image->[ATTENDER_nameFull] having a conversation with [ORGANIZER_nameFull] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:99
+msgctxt "AttendedParty.rulePack.rulesStrings.3"
+msgid ""
+"image->[ATTENDER_nameFull] getting a drink from [ORGANIZER_nameFull] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:99
+msgctxt "AttendedParty.rulePack.rulesStrings.4"
+msgid ""
+"image->[ATTENDER_nameFull] chatting with [ORGANIZER_nameFull] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:99
+msgctxt "AttendedParty.rulePack.rulesStrings.5"
+msgid ""
+"image->[ORGANIZER_nameFull] welcoming [ATTENDER_nameFull] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:99
+msgctxt "AttendedParty.rulePack.rulesStrings.6"
+msgid ""
+"image->[ORGANIZER_nameFull] introducing [ATTENDER_nameFull] to a friend "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:99
+msgctxt "AttendedParty.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->with a broad grin"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:99
+msgctxt "AttendedParty.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->with a laugh"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:99
+msgctxt "AttendedParty.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->with a [AdjectiveFriendly] smile"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:99
+msgctxt "AttendedParty.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->while laughing uproariously"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:99
+msgctxt "AttendedParty.rulePack.rulesStrings.11"
+msgid "circumstance_phrase->while [AdjectiveFriendly]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:99
+msgctxt "AttendedParty.rulePack.rulesStrings.12"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [PersonJob]s are involved in the "
+"conversation."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:99
+msgctxt "AttendedParty.rulePack.rulesStrings.13"
+msgid "desc_sentence->The area is decorated with [Color] and [Color]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:99
+msgctxt "AttendedParty.rulePack.rulesStrings.14"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s play nearby."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:121
+#, fuzzy
+msgctxt "Meditated.label"
+msgid "meditated"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Job.xml:126
+msgctxt "Meditated.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef] meditating"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:126
+msgctxt "Meditated.rulePack.rulesStrings.1"
+msgid ""
+"image->[PAWN_nameFull] sitting under a [TreeType] tree, [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:126
+msgctxt "Meditated.rulePack.rulesStrings.2"
+msgid "image->[PAWN_nameFull] sitting quietly, [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:126
+msgctxt "Meditated.rulePack.rulesStrings.3"
+msgid ""
+"image->[PAWN_nameFull] gazing into the distance and [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:126
+msgctxt "Meditated.rulePack.rulesStrings.4"
+msgid ""
+"image->[PAWN_nameFull] closing [PAWN_possessive] eyes and "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:126
+msgctxt "Meditated.rulePack.rulesStrings.5"
+msgid "circumstance_phrase->radiating serenity"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:126
+msgctxt "Meditated.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->with a tranquil smile"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:126
+msgctxt "Meditated.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->with a [VerbFriendly] smile"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:126
+msgctxt "Meditated.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->glowing softly"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:126
+msgctxt "Meditated.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->surrounded by a [Color] aura"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:126
+msgctxt "Meditated.rulePack.rulesStrings.10"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze upon [PAWN_objective]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:126
+msgctxt "Meditated.rulePack.rulesStrings.11"
+msgid ""
+"desc_sentence->[PAWN_pronoun] is surrounded by [Quantity_adjphrase] "
+"[Animal]s."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:126
+msgctxt "Meditated.rulePack.rulesStrings.12"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s rest peacefully."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:126
+msgctxt "Meditated.rulePack.rulesStrings.13"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:147
+#, fuzzy
+msgctxt "Prayed.label"
+msgid "prayed"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Job.xml:152
+msgctxt "Prayed.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef] praying"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:152
+msgctxt "Prayed.rulePack.rulesStrings.1"
+msgid "tale_noun->[PAWN_nameDef] praying to a higher power"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:152
+msgctxt "Prayed.rulePack.rulesStrings.2"
+msgid ""
+"image->[PAWN_nameFull] gazing into the distance and [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:152
+msgctxt "Prayed.rulePack.rulesStrings.3"
+msgid ""
+"image->[PAWN_nameFull] closing [PAWN_possessive] eyes and "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:152
+msgctxt "Prayed.rulePack.rulesStrings.4"
+msgid ""
+"image->[PAWN_nameFull] clasping [PAWN_possessive] hands and "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:152
+msgctxt "Prayed.rulePack.rulesStrings.5"
+msgid "image->[PAWN_nameFull] looking into the sky and [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:152
+msgctxt "Prayed.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->radiating serenity"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:152
+msgctxt "Prayed.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->whispering softly"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:152
+msgctxt "Prayed.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->wearing a hopeful expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:152
+msgctxt "Prayed.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->glowing softly"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:152
+msgctxt "Prayed.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->surrounded by a [Color] aura"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:152
+msgctxt "Prayed.rulePack.rulesStrings.11"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze upon [PAWN_objective]."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:152
+msgctxt "Prayed.rulePack.rulesStrings.12"
+msgid ""
+"desc_sentence->[PAWN_pronoun] is surrounded by [Quantity_adjphrase] "
+"[Animal]s."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:152
+msgctxt "Prayed.rulePack.rulesStrings.13"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s rest peacefully."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:152
+msgctxt "Prayed.rulePack.rulesStrings.14"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:174
+#, fuzzy
+msgctxt "BuiltSnowman.label"
+msgid "built snowman"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Job.xml:179
+msgctxt "BuiltSnowman.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef] building a snowman"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:179
+msgctxt "BuiltSnowman.rulePack.rulesStrings.1"
+msgid "tale_noun->[PAWN_nameDef] playing in the snow"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:179
+msgctxt "BuiltSnowman.rulePack.rulesStrings.2"
+msgid "image->[PAWN_nameFull] forming a snowball [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:179
+msgctxt "BuiltSnowman.rulePack.rulesStrings.3"
+msgid ""
+"image->[PAWN_nameFull] rolling a giant ball of snow on the ground "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:179
+msgctxt "BuiltSnowman.rulePack.rulesStrings.4"
+msgid ""
+"image->[PAWN_nameFull] arranging [Vegetable]s into a rough human face "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:179
+msgctxt "BuiltSnowman.rulePack.rulesStrings.5"
+msgid "image->[PAWN_nameFull] lying down in the snow [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:179
+msgctxt "BuiltSnowman.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->while enveloped in [Quantity_adjphrase] parkas"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:179
+msgctxt "BuiltSnowman.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->while obscured in a light snowstorm"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:179
+msgctxt "BuiltSnowman.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->while [PAWN_possessive] friends build a fort"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:179
+msgctxt "BuiltSnowman.rulePack.rulesStrings.9"
+msgid ""
+"circumstance_phrase->while [PAWN_possessive] friends build a snowman family"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:179
+msgctxt "BuiltSnowman.rulePack.rulesStrings.10"
+msgid "desc_sentence->A [Color] aurora shines in the background."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:179
+msgctxt "BuiltSnowman.rulePack.rulesStrings.11"
+msgid "desc_sentence->In the distance, a [Community] is covered with snow."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:179
+msgctxt "BuiltSnowman.rulePack.rulesStrings.12"
+msgid ""
+"desc_sentence->A field of [Vegetable]s is barely visible through the snow."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:179
+msgctxt "BuiltSnowman.rulePack.rulesStrings.13"
+msgid "desc_sentence->A snow-covered [TerrainFeature] can be seen far away."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:200
+#, fuzzy
+msgctxt "VisitedGrave.label"
+msgid "visited grave"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.0"
+msgid "tale_noun->[VISITOR_nameDef] visiting the grave of [CORPSE_nameDef]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.1"
+msgid "tale_noun->[VISITOR_nameDef] visiting [CORPSE_nameDef]'s grave"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.2"
+msgid ""
+"image->[VISITOR_nameFull] standing next to [CORPSE_nameFull]'s grave "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.3"
+msgid ""
+"image->[VISITOR_nameFull] sitting next to [CORPSE_nameFull]'s grave "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.4"
+msgid ""
+"image->[VISITOR_nameFull] leaning against [CORPSE_nameFull]'s grave "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.5"
+msgid ""
+"image->[VISITOR_nameFull] reading the text on [CORPSE_nameFull]'s grave "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.6"
+msgid ""
+"image->[VISITOR_nameFull] looking at the art on [CORPSE_nameFull]'s grave "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->with a [AdjectiveAngsty] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->and consumed in thought"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->while gazing at a faraway [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->and talking quietly to the memorial"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.11"
+msgid "desc_sentence->A [Color] aurora shines in the background."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.12"
+msgid "desc_sentence->In the distance, a [Community] is covered with snow."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.13"
+msgid ""
+"desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene "
+"with a [AdjectiveFriendly] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.14"
+msgid ""
+"desc_sentence->A spectral image of [CORPSE_nameDef] stands next to "
+"[VISITOR_nameDef], wearing a [AdjectiveFriendly] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.15"
+msgid ""
+"desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene "
+"with a [AdjectiveAngsty] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.16"
+msgid ""
+"desc_sentence->A spectral image of [CORPSE_nameDef] stands next to "
+"[VISITOR_nameDef], wearing a [AdjectiveAngsty] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:207
+msgctxt "VisitedGrave.rulePack.rulesStrings.17"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:232
+#, fuzzy
+msgctxt "PlayedGame.label"
+msgid "played game"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef] relaxing at a [OBJECT_label]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.1"
+msgid "tale_noun->[PAWN_nameDef] playing games at a [OBJECT_label]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.2"
+msgid ""
+"tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.3"
+msgid "image->[PAWN_nameFull] waiting in a chair, [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.4"
+msgid ""
+"image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.5"
+msgid ""
+"image->[PAWN_nameFull] sitting next to the [OBJECT_label], "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.6"
+msgid ""
+"image->[PAWN_nameFull] winning at a [OBJECT_label], [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.7"
+msgid ""
+"image->[PAWN_nameFull] losing at a [OBJECT_label], [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->tense with energy"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->[PAWN_possessive] body loose and relaxed"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->planning [PAWN_possessive] next action"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.11"
+msgid "circumstance_phrase->gently massaging [PAWN_possessive] wrists"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.12"
+msgid "circumstance_phrase->[angstyverb] with a [AdjectiveAngsty] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.13"
+msgid "circumstance_phrase->wearing a [AdjectiveAngsty] look"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.14"
+msgid "circumstance_phrase->[angstyverb]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.15"
+msgid "desc_sentence->A [Color] aurora shines in the background."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.16"
+msgid "desc_sentence->In the distance, a [Community] is visible."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.17"
+msgid "desc_sentence->In the distance, a [TerrainFeature] is visible."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.18"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s are playing as well."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.19"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s play nearby."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.20"
+msgid "desc_sentence->[PAWN_nameDef] is glowing with a [Color] aura."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.21"
+msgid "desc_sentence->[PAWN_nameDef]'s features are exaggerated."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.22"
+msgid "desc_sentence->[PAWN_nameDef] towers above the scene."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:238
+msgctxt "PlayedGame.rulePack.rulesStrings.23"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] [PersonJob]s are slumped in defeat."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:269
+#, fuzzy
+msgctxt "BuriedCorpse.label"
+msgid "buried corpse"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.0"
+msgid "tale_noun->[DIGGER_nameDef] burying [CORPSE_nameDef]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.1"
+msgid "tale_noun->[DIGGER_nameDef] laying [CORPSE_nameDef] to rest"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.2"
+msgid ""
+"image->[DIGGER_nameFull] standing next to [CORPSE_nameFull]'s grave "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.3"
+msgid ""
+"image->[DIGGER_nameFull] sitting next to [CORPSE_nameFull]'s grave "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.4"
+msgid ""
+"image->[DIGGER_nameFull] leaning against [CORPSE_nameFull]'s grave "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.5"
+msgid ""
+"image->[DIGGER_nameFull] scribing text on [CORPSE_nameFull]'s grave "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.6"
+msgid ""
+"image->[DIGGER_nameFull] drawing art on [CORPSE_nameFull]'s grave "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.7"
+msgid ""
+"image->[DIGGER_nameFull] placing [CORPSE_nameFull]'s body within a grave "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->with a [AdjectiveAngsty] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->and consumed in thought"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->while gazing at a faraway [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.11"
+msgid "circumstance_phrase->and talking quietly to the memorial"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.12"
+msgid "desc_sentence->A [Color] aurora shines in the background."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.13"
+msgid "desc_sentence->In the distance, a [Community] is covered with snow."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.14"
+msgid ""
+"desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene "
+"with a [AdjectiveFriendly] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.15"
+msgid ""
+"desc_sentence->A spectral image of [CORPSE_nameDef] stands next to "
+"[DIGGER_nameDef], wearing a [AdjectiveFriendly] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.16"
+msgid ""
+"desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene "
+"with a [AdjectiveAngsty] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.17"
+msgid ""
+"desc_sentence->A spectral image of [CORPSE_nameDef] stands next to "
+"[DIGGER_nameDef], wearing a [AdjectiveAngsty] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:276
+msgctxt "BuriedCorpse.rulePack.rulesStrings.18"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:302
+#, fuzzy
+msgctxt "EnteredCryptosleep.label"
+msgid "entered cryptosleep"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Job.xml:307
+msgctxt "EnteredCryptosleep.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef] entering cryptosleep"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:307
+msgctxt "EnteredCryptosleep.rulePack.rulesStrings.1"
+msgid ""
+"image->[PAWN_nameFull] lying down inside a cryptosleep casket "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:307
+msgctxt "EnteredCryptosleep.rulePack.rulesStrings.2"
+msgid ""
+"image->[PAWN_nameFull] opening an empty cryptosleep casket "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:307
+msgctxt "EnteredCryptosleep.rulePack.rulesStrings.3"
+msgid ""
+"image->[PAWN_nameFull] sealing themselves inside a cryptosleep casket "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:307
+msgctxt "EnteredCryptosleep.rulePack.rulesStrings.4"
+msgid ""
+"image->[PAWN_nameFull] looking through the wall of a cryptosleep casket at a"
+" world they're about to leave [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:307
+msgctxt "EnteredCryptosleep.rulePack.rulesStrings.5"
+msgid "circumstance_phrase->with a [AdjectiveAngsty] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:307
+msgctxt "EnteredCryptosleep.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->while consumed in thought"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:307
+msgctxt "EnteredCryptosleep.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->while gazing at a faraway [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:307
+msgctxt "EnteredCryptosleep.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->and talking quietly to themselves"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:307
+msgctxt "EnteredCryptosleep.rulePack.rulesStrings.9"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:307
+msgctxt "EnteredCryptosleep.rulePack.rulesStrings.10"
+msgid "desc_sentence->[Quantity_adjphrase] [Enemy]s approach the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:307
+msgctxt "EnteredCryptosleep.rulePack.rulesStrings.11"
+msgid "desc_sentence->[PAWN_nameDef] radiates determination."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:307
+msgctxt "EnteredCryptosleep.rulePack.rulesStrings.12"
+msgid "desc_sentence->[PAWN_nameDef] is visibly wounded."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:307
+msgctxt "EnteredCryptosleep.rulePack.rulesStrings.13"
+msgid "desc_sentence->A [Color] aurora shines in the background."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:307
+msgctxt "EnteredCryptosleep.rulePack.rulesStrings.14"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] filled cryptosleep caskets surround the "
+"scene."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:329
+#, fuzzy
+msgctxt "PutIntoCryptosleep.label"
+msgid "put into cryptosleep"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Job.xml:336
+msgctxt "PutIntoCryptosleep.rulePack.rulesStrings.0"
+msgid ""
+"tale_noun->[CARRIER_nameDef] putting [SLEEPER_nameDef] into cryptosleep"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:336
+msgctxt "PutIntoCryptosleep.rulePack.rulesStrings.1"
+msgid ""
+"image->[CARRIER_nameFull] placing [SLEEPER_nameDef] inside a cryptosleep "
+"casket [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:336
+msgctxt "PutIntoCryptosleep.rulePack.rulesStrings.2"
+msgid ""
+"image->[CARRIER_nameFull] opening an empty cryptosleep casket while "
+"supporting [SLEEPER_nameDef] [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:336
+msgctxt "PutIntoCryptosleep.rulePack.rulesStrings.3"
+msgid ""
+"image->[CARRIER_nameFull] sealing [SLEEPER_nameDef] inside a cryptosleep "
+"casket [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:336
+msgctxt "PutIntoCryptosleep.rulePack.rulesStrings.4"
+msgid ""
+"image->[CARRIER_nameFull] walking away as [SLEEPER_nameDef] looks through "
+"the wall of a cryptosleep casket [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:336
+msgctxt "PutIntoCryptosleep.rulePack.rulesStrings.5"
+msgid "circumstance_phrase(p=3)->with a [AdjectiveAny] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:336
+msgctxt "PutIntoCryptosleep.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->while consumed in thought"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:336
+msgctxt "PutIntoCryptosleep.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->while gazing at a faraway [TerrainFeature]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:336
+msgctxt "PutIntoCryptosleep.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->with visible tension between the two"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:336
+msgctxt "PutIntoCryptosleep.rulePack.rulesStrings.9"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:336
+msgctxt "PutIntoCryptosleep.rulePack.rulesStrings.10"
+msgid "desc_sentence->[Quantity_adjphrase] [Enemy]s approach the area."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:336
+msgctxt "PutIntoCryptosleep.rulePack.rulesStrings.11"
+msgid "desc_sentence->[CARRIER_nameDef] radiates determination."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:336
+msgctxt "PutIntoCryptosleep.rulePack.rulesStrings.12"
+msgid "desc_sentence->[SLEEPER_nameDef] is visibly wounded."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:336
+msgctxt "PutIntoCryptosleep.rulePack.rulesStrings.13"
+msgid "desc_sentence->[SLEEPER_nameDef] looks exhausted."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:336
+msgctxt "PutIntoCryptosleep.rulePack.rulesStrings.14"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] filled cryptosleep caskets surround the "
+"scene."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:358
+#, fuzzy
+msgctxt "Stripped.label"
+msgid "stripped"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Job.xml:365
+msgctxt "Stripped.rulePack.rulesStrings.0"
+msgid "tale_noun->[TAKER_nameDef] stripping [STRIPPED_nameDef]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:365
+msgctxt "Stripped.rulePack.rulesStrings.1"
+msgid ""
+"image->[TAKER_nameFull] disrobing [STRIPPED_nameFull] in public "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:365
+msgctxt "Stripped.rulePack.rulesStrings.2"
+msgid ""
+"image->[TAKER_nameFull] removing the clothes of [STRIPPED_nameFull] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:365
+msgctxt "Stripped.rulePack.rulesStrings.3"
+msgid ""
+"image->[TAKER_nameFull] holding an armful of [Apparel]s while standing next "
+"to [STRIPPED_nameFull], who is completely naked [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:365
+msgctxt "Stripped.rulePack.rulesStrings.4"
+msgid ""
+"image->[TAKER_nameFull] waiting patiently as [STRIPPED_nameFull] removes "
+"[STRIPPED_possessive] clothes [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:365
+msgctxt "Stripped.rulePack.rulesStrings.5"
+msgid "circumstance_phrase->with a sense of purpose"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:365
+msgctxt "Stripped.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->with no hint of shame"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:365
+msgctxt "Stripped.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->while others look on"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:365
+msgctxt "Stripped.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->for no apparent reason"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:365
+msgctxt "Stripped.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->while confused animals look on"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:365
+msgctxt "Stripped.rulePack.rulesStrings.10"
+msgid "desc_sentence->[STRIPPED_nameDef] is visibly aroused."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:365
+msgctxt "Stripped.rulePack.rulesStrings.11"
+msgid "desc_sentence->[STRIPPED_nameDef] is covered in unexplained moisture."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:365
+msgctxt "Stripped.rulePack.rulesStrings.12"
+msgid ""
+"desc_sentence->[STRIPPED_nameDef] is breathing heavily for no obvious "
+"reason."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:365
+msgctxt "Stripped.rulePack.rulesStrings.13"
+msgid "desc_sentence->[STRIPPED_nameDef] is fondling a shrub."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:365
+msgctxt "Stripped.rulePack.rulesStrings.14"
+msgid ""
+"desc_sentence->[STRIPPED_nameDef] wears only a [AdjectiveAngsty] expression."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:387
+#, fuzzy
+msgctxt "GainedMasterSkillWithPassion.label"
+msgid "gained master skill with passion"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef] becoming a master at [SKILL_label] tasks"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.1"
+msgid ""
+"image->[PAWN_nameFull] practicing [SKILL_label] skills [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.2"
+msgid ""
+"image->[PAWN_nameFull] reading a tome on [SKILL_label] methods "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.3"
+msgid ""
+"image->[PAWN_nameFull] receiving training for [SKILL_label] skills "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.4"
+msgid "image->[PAWN_nameFull] working feverishly [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.5"
+msgid "image->[PAWN_nameFull] finishing a project [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->with a [AdjectiveFriendly] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->with a joyous expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->while [VerbFriendly]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->with an exuberant shout"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->while covered in sweat"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.11"
+msgid "circumstance_phrase->with visible exhaustion"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.12"
+msgid ""
+"desc_sentence->The subject is surrounded by the results of "
+"[Quantity_adjphrase] failed experiments."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.13"
+msgid ""
+"desc_sentence->The subject is surrounded by [Quantity_adjphrase] books."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.14"
+msgid "desc_sentence->[PAWN_possessive] skill is visible in the work."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.15"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s watch with amazement."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.16"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s watch with amazement."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:394
+msgctxt "GainedMasterSkillWithPassion.rulePack.rulesStrings.17"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] ethereal spirits of ancient masters "
+"watch from above."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:421
+#, fuzzy
+msgctxt "GainedMasterSkillWithoutPassion.label"
+msgid "gained master skill"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Job.xml:428
+msgctxt "GainedMasterSkillWithoutPassion.rulePack.rulesStrings.0"
+msgid "tale_noun->[PAWN_nameDef] becoming a master at [SKILL_label] tasks"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:428
+msgctxt "GainedMasterSkillWithoutPassion.rulePack.rulesStrings.1"
+msgid ""
+"image->[PAWN_nameFull] practicing [SKILL_label] skills [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:428
+msgctxt "GainedMasterSkillWithoutPassion.rulePack.rulesStrings.2"
+msgid ""
+"image->[PAWN_nameFull] reading a tome on [SKILL_label] methods "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:428
+msgctxt "GainedMasterSkillWithoutPassion.rulePack.rulesStrings.3"
+msgid ""
+"image->[PAWN_nameFull] receiving training in [SKILL_label] skills "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:428
+msgctxt "GainedMasterSkillWithoutPassion.rulePack.rulesStrings.4"
+msgid "image->[PAWN_nameFull] working feverishly [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:428
+msgctxt "GainedMasterSkillWithoutPassion.rulePack.rulesStrings.5"
+msgid "image->[PAWN_nameFull] finishing a project [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:428
+msgctxt "GainedMasterSkillWithoutPassion.rulePack.rulesStrings.6"
+msgid "circumstance_phrase->while covered in sweat"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:428
+msgctxt "GainedMasterSkillWithoutPassion.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->with visible exhaustion"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:428
+msgctxt "GainedMasterSkillWithoutPassion.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->with a [AdjectiveAngsty] expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:428
+msgctxt "GainedMasterSkillWithoutPassion.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->with a bored expression"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:428
+msgctxt "GainedMasterSkillWithoutPassion.rulePack.rulesStrings.10"
+msgid ""
+"desc_sentence->The scene is surrounded by [Quantity_adjphrase] failed "
+"experiments."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:428
+msgctxt "GainedMasterSkillWithoutPassion.rulePack.rulesStrings.11"
+msgid "desc_sentence->The scene is surrounded by [Quantity_adjphrase] books."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:428
+msgctxt "GainedMasterSkillWithoutPassion.rulePack.rulesStrings.12"
+msgid "desc_sentence->[PAWN_possessive] skill is visible in the work."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:428
+msgctxt "GainedMasterSkillWithoutPassion.rulePack.rulesStrings.13"
+msgid "desc_sentence->[Quantity_adjphrase] [PersonJob]s watch with amazement."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:428
+msgctxt "GainedMasterSkillWithoutPassion.rulePack.rulesStrings.14"
+msgid "desc_sentence->[Quantity_adjphrase] [Animal]s watch with amazement."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:428
+msgctxt "GainedMasterSkillWithoutPassion.rulePack.rulesStrings.15"
+msgid ""
+"desc_sentence->[Quantity_adjphrase] ethereal spirits of ancient masters "
+"watch from above."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:453
+#, fuzzy
+msgctxt "IncreasedMenagerie.label"
+msgid "increased menagerie"
+msgstr "TODO"
+
+#: Defs/TaleDefs/Tales_Job.xml:460
+msgctxt "IncreasedMenagerie.rulePack.rulesStrings.0"
+msgid ""
+"tale_noun(p=3)->[HUMAN_nameDef] recruiting yet another animal to "
+"[HUMAN_possessive] growing [AnimalGroup]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:460
+msgctxt "IncreasedMenagerie.rulePack.rulesStrings.1"
+msgid "tale_noun->[HUMAN_nameDef] being followed around by a [AnimalGroup]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:460
+msgctxt "IncreasedMenagerie.rulePack.rulesStrings.2"
+msgid "tale_noun->[HUMAN_nameDef]'s taming of [ANIMAL_nameDef]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:460
+msgctxt "IncreasedMenagerie.rulePack.rulesStrings.3"
+msgid "image->[HUMAN_nameFull] taming [ANIMAL_nameFull] [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:460
+msgctxt "IncreasedMenagerie.rulePack.rulesStrings.4"
+msgid ""
+"image->[HUMAN_nameFull] offering a morsel of food to [ANIMAL_nameFull] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:460
+msgctxt "IncreasedMenagerie.rulePack.rulesStrings.5"
+msgid ""
+"image->[HUMAN_nameFull] whispering to a skittish [ANIMAL_label] "
+"[circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:460
+msgctxt "IncreasedMenagerie.rulePack.rulesStrings.6"
+msgid ""
+"image->[HUMAN_nameFull] calming a wild [ANIMAL_label] [circumstance_group]"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:460
+msgctxt "IncreasedMenagerie.rulePack.rulesStrings.7"
+msgid "circumstance_phrase->with great care and caution"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:460
+msgctxt "IncreasedMenagerie.rulePack.rulesStrings.8"
+msgid "circumstance_phrase->with a smile"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:460
+msgctxt "IncreasedMenagerie.rulePack.rulesStrings.9"
+msgid "circumstance_phrase->while exhausted but happy"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:460
+msgctxt "IncreasedMenagerie.rulePack.rulesStrings.10"
+msgid "circumstance_phrase->with a [AnimalGroup] in the background"
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:460
+msgctxt "IncreasedMenagerie.rulePack.rulesStrings.11"
+msgid "desc_sentence->[HUMAN_nameDef] is surrounded by uncountable [Animal]s."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:460
+msgctxt "IncreasedMenagerie.rulePack.rulesStrings.12"
+msgid ""
+"desc_sentence->[ANIMAL_nameDef] is moving to join a [AnimalGroup] of its "
+"kin."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:460
+msgctxt "IncreasedMenagerie.rulePack.rulesStrings.13"
+msgid "desc_sentence->The scene is packed with [Animal]s and [Animal]s."
+msgstr ""
+
+#: Defs/TaleDefs/Tales_Job.xml:460
+msgctxt "IncreasedMenagerie.rulePack.rulesStrings.14"
+msgid ""
+"desc_sentence->A line of uncountable [Animal]s waits to be tamed by "
+"[HUMAN_nameDef]."
+msgstr ""
