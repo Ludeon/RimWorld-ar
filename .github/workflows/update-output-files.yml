@@ -1,0 +1,66 @@
+name: 'Update output files'
+on:
+  push: new-system
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  generate-po-artifacts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Archive po files as artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: translation-po
+          path: po
+
+  generate-output:
+    needs: generate-po-artifacts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout RimTranslate
+        uses: actions/checkout@v4
+        with:
+          repository: 'mtimoustafa/RimTranslate'
+      - name: Download po files artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: translation-po
+          path: po
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12.3'
+      - name: Install packages
+        run: python -m pip install -r requirements.txt
+      - name: Generate output files
+        run: python RimTranslate.py -p "$(pwd)/po/" -o "$(pwd)/output/"
+      - name: Archive output files as artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: translation-output
+          path: output
+
+  push-output:
+    needs: generate-output
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Download output files artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: translation-output
+          path: output
+      - name: Setup Git
+        uses: actions4git/setup-git@v1
+      - name: Git add output files
+        run: git add output/
+      - name: Git commit output files
+        run: if [ -n "$(git diff --cached --exit-code)" ]; then git commit -m "Generate output file for changes"; fi
+      - name: Git push output files
+        run: git push
