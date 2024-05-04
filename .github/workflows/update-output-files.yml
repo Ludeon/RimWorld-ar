@@ -28,6 +28,7 @@ jobs:
             output
 
   push-output:
+    needs: generate-output
     runs-on: ubuntu-latest
     permissions:
       contents: write
