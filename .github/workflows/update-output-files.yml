@@ -56,11 +56,11 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: translation-output
-          path: output
+          path: Arabic
       - name: Setup Git
         uses: actions4git/setup-git@v1
       - name: Git add output files
-        run: git add output/
+        run: git add Arabic/
       - name: Git commit output files
         run: if [ -n "$(git diff --cached --exit-code)" ]; then git commit -m "Generate output file for changes"; fi
       - name: Git push output files
