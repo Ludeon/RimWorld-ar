@@ -20,11 +20,7 @@ jobs:
         with:
           python-version: '3.12.3'
       - run: python -m pip install -r RimTranslate/requirements.txt
-      - run: pwd
-      - run: echo $HOME
-      - run: echo $HOME/..
-      - run: ls -lah
-      - run: python RimTranslate/RimTranslate.py -p "$HOME/../po/" -o "$HOME/../output/"
+      - run: python RimTranslate/RimTranslate.py -p "$(pwd)/po/" -o "$(pwd)/output/"
       - uses: actions4git/setup-git@v1
       - run: git add output/
       - run: git commit -m 'Generate output file for changes'
