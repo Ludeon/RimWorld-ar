@@ -18,5 +18,5 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12.3'
-      - run: python RimTranslate.py -p "po/" -o "output/"
+      - run: python RimTranslate/RimTranslate.py -p "po/" -o "output/"
       - uses: actions4git/add-commit-push@v1
