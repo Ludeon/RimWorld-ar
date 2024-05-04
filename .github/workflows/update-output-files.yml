@@ -5,9 +5,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  publish:
+  update-output:
     runs-on: ubuntu-latest
-    container: mtimoustafa/rim-translate
+    permissions:
+      contents: write
     
     steps:
       - uses: actions/checkout@v4
+        with:
+          repository: 'mtimoustafa/RimTranslate'
+          path: 'RimTranslate/'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: python RimTranslate.py -p "po/" -o "output/"
+      - uses: actions4git/add-commit-push@v1
