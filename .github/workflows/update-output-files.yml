@@ -17,6 +17,7 @@ jobs:
           path: po
 
   generate-output:
+    needs: generate-po-artifacts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout RimTranslate
