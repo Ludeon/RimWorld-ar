@@ -62,6 +62,8 @@ jobs:
         with:
           name: translation-output
           path: raw-output
+      - run: pwd
+      - run: ls -lah
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
