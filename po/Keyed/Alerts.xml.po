@@ -13,7 +13,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: compendium:4
-#, fuzzy
 msgctxt "ClickToJumpToProblem"
 msgid "Click to jump to problem"
 msgstr "ﺔﻠﻜﺸﻤﻟﺍ ﻰﻟﺇ ﻝﺎﻘﺘﻧﻼﻟ ﺮﻘﻧﺍ"

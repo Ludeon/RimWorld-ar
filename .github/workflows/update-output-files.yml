@@ -1,12 +1,14 @@
 name: 'Update output files'
 on:
   push:
-    branches: new-system
+    branches:
+      - new-system
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
   generate-po-artifacts:
+    name: Generate PO artifacts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -18,6 +20,7 @@ jobs:
           path: po
 
   generate-output:
+    name: Generate raw output
     needs: generate-po-artifacts
     runs-on: ubuntu-latest
     steps:
@@ -44,8 +47,34 @@ jobs:
           name: translation-output
           path: output
 
-  push-output:
+  fix-output-rtl:
+    name: Fix output RTL
     needs: generate-output
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout rimworld-rtl-translation-tools
+        uses: actions/checkout@v4
+        with:
+          repository: 'mtimoustafa/rimworld-rtl-translation-tools'
+      - name: Download output files artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: translation-output
+          path: raw-output
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - name: Fix Arabic strings
+        run: ./build_arabic.sh raw-output/ fixed-output/
+      - name: Archive fixed output files as artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: translation-output-fixed
+          path: fixed-output
+
+  push-output:
+    needs: fix-output-rtl
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -55,7 +84,7 @@ jobs:
       - name: Download output files artifacts
         uses: actions/download-artifact@v4
         with:
-          name: translation-output
+          name: translation-output-fixed
           path: Arabic
       - name: Setup Git
         uses: actions4git/setup-git@v1
