@@ -62,21 +62,17 @@ jobs:
         with:
           name: translation-output
           path: raw-output
-      - run: pwd
-      - run: ls -lah
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
       - name: Fix Arabic strings
-        run: ./build-arabic.sh raw-output/ fixed-output/
+        run: ./build_arabic.sh raw-output/ fixed-output/
       - name: Archive fixed output files as artifacts
         uses: actions/upload-artifact@v4
         with:
           name: translation-output-fixed
           path: fixed-output/
-
-
 
   push-output:
     needs: fix-output-rtl
