@@ -1,12 +1,13 @@
 name: 'Update output files'
 on:
   push:
-    branches: new-system
+    branches: [ new-system, add-rtl-fix-to-action ]
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
   generate-po-artifacts:
+    name: Generate PO artifacts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -18,6 +19,7 @@ jobs:
           path: po
 
   generate-output:
+    name: Generate raw output
     needs: generate-po-artifacts
     runs-on: ubuntu-latest
     steps:
@@ -44,8 +46,37 @@ jobs:
           name: translation-output
           path: output
 
-  push-output:
+  fix-output-rtl:
+    name: Fix output RTL
     needs: generate-output
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout rimworld-rtl-translation-tools
+        uses: actions/checkout@v4
+        with:
+          repository: 'mtimoustafa/rimworld-rtl-translation-tools'
+      - name: Download output files artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: translation-output
+          path: output
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3.1'
+      - name: Reverse Arabic strings
+        run: ruby reverse_rtl_text.rb output/
+      - name: Contextualize Arabic strings
+        run: ruby contextualize_arabic_letters.rb output/
+      - name: Archive fixed output files as artifacts
+        with:
+          name: translation-output-fixed
+          path: output
+
+
+
+  push-output:
+    needs: fix-output-rtl
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -55,7 +86,7 @@ jobs:
       - name: Download output files artifacts
         uses: actions/download-artifact@v4
         with:
-          name: translation-output
+          name: translation-output-fixed
           path: Arabic
       - name: Setup Git
         uses: actions4git/setup-git@v1
