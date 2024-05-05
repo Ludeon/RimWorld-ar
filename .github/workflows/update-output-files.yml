@@ -64,6 +64,8 @@ jobs:
           path: raw-output
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
       - name: Fix Arabic strings
         run: ./build_arabic.sh raw-output/ fixed-output/
       - name: Archive fixed output files as artifacts
