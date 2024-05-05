@@ -67,7 +67,7 @@ jobs:
         with:
           bundler-cache: true
       - name: Fix Arabic strings
-        name: ./build-arabic.sh raw-output/ fixed-output/
+        run: ./build-arabic.sh raw-output/ fixed-output/
       - name: Archive fixed output files as artifacts
         uses: actions/upload-artifact@v4
         with:
