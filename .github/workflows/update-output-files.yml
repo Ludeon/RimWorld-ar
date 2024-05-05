@@ -1,6 +1,9 @@
 name: 'Update output files'
 on:
   push:
+    branches:
+      - new-system
+      - add-rtl-fix-to-action
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
