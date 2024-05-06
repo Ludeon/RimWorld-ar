@@ -20,16 +20,10 @@ However, the contribution workflow is different for this project.
 
 ## Active Translators
 
-* https://github.com/mtimoustafa
-* CGUltimateno
+* [CGUltimateno](https://github.com/CGUltimateno)
+* [mtimoustafa](https://github.com/mtimoustafa)
 
-## Past Translators
-
-* Abdulhadi Mohammed "Nickname = Mr Ant"
-* IHERO97
-* msabsabee
-* mjkubba
-* Blitzilla
+Full list of translators [here](https://github.com/Ludeon/RimWorld-ar/graphs/contributors).
 
 # Forums
 
