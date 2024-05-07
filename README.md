@@ -10,13 +10,20 @@ Read [official contribution guidelines](http://ludeon.com/forums/index.php?topic
 
 However, the contribution workflow is different for this project. 
 
-1. Download the files in this repository using GitHub Desktop, by following the steps [here](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop). If you're familiar with Git, clone the repository however you like.
-    * There are two main folders: `po` and `Arabic`. `po` contains the files we use to translate. `Arabic` contains the game files and is automatically generated here in GitHub.
-1. Download the software [POEdit](https://poedit.net/download). This is the main software we use for translating files.
-1. Open files in the `po/` folder, and fill out any entries that are empty or marked as `Needs Work`. 
-1. Upload any changed files through GitHub Desktop by creating a new pull request. Instructions can be found [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request?tool=desktop).
-    * **Do NOT commit to the `master` branch directly!** The `master` branch is a clean, working copy of the project.
-    * Do not commit any files outside of the `po/` folder, unless you have a reason for including them.
+1. Setup your computer for translation:
+    1. [Download the files in this repository using GitHub Desktop](https://docs.github.com/en/desktop/making-changes-in-a-branch/managing-branches-in-github-desktop#creating-a-branch).
+    1. [Create a new branch to work from](https://docs.github.com/en/desktop/making-changes-in-a-branch/managing-branches-in-github-desktop#creating-a-branch), based on `master`. This will be needed for submitting your changes and generating the game files for testing.
+    1. Download [POEdit](https://poedit.net/download). This is a free and easy application we use for translating files.
+1. Start translating:
+    1. Open files in the `po/` folder using POEdit.
+    1. Fill out any entries that are empty or marked as `Needs Work`.
+<!-- TODO -->
+<!-- 1. Test your translations: -->
+1. Submit your work:
+    1. Upload any changed files through GitHub Desktop by [creating a new pull request](https://docs.github.com/en/desktop/making-changes-in-a-branch/managing-branches-in-github-desktop#creating-a-branch).
+        * **Do NOT commit to the `master` branch directly!** The `master` branch is a clean, working copy of the project.
+        * Do not commit any files outside of the `po/` folder, unless you have a reason for including them.
+    1. A maintainer of the project will review the changes. If everything looks good, they will approve the changes and merge them into `master`. They will then be available in the `Arabic/` folder for use in the game.
 
 ## Active Translators
 
