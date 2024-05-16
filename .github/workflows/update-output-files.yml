@@ -37,6 +37,8 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
+      - name: Patch for Nokogiri # https://github.com/sparklemotion/nokogiri/issues/2430
+        run: apk add gcompat
       - name: Generate output files
         run: ruby archotome.rb -d "$(pwd)/"
       - name: Archive output files as artifacts
