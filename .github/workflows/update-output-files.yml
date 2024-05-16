@@ -24,28 +24,26 @@ jobs:
     needs: generate-po-artifacts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout RimTranslate
+      - name: Checkout Archotome
         uses: actions/checkout@v4
         with:
-          repository: 'mtimoustafa/RimTranslate'
+          repository: 'mtimoustafa/Archotome'
       - name: Download po files artifacts
         uses: actions/download-artifact@v4
         with:
           name: translation-po
           path: po
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          python-version: '3.12.3'
-      - name: Install packages
-        run: python -m pip install -r requirements.txt
+          bundler-cache: true
       - name: Generate output files
-        run: python RimTranslate.py -p "$(pwd)/po/" -o "$(pwd)/output/"
+        run: ruby archotome.rb -d "$(pwd)/"
       - name: Archive output files as artifacts
         uses: actions/upload-artifact@v4
         with:
           name: translation-output
-          path: output
+          path: Arabic
 
   fix-output-rtl:
     name: Fix output RTL
