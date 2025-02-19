@@ -17,7 +17,7 @@ http://ludeon.com/forums/index.php?topic=2933.0
 # Translators
 
 ## Current 2023
-Abdulhadi Mohammed "Nickname = Mr Ant"
+lDeamonl
 
 ## Previous
 
@@ -27,6 +27,7 @@ Abdulhadi Mohammed "Nickname = Mr Ant"
 * Blitzilla
 * mtimoustafa
 * CGUltimateno
+* Abdulhadi Mohammed "Nickname = Mr Ant"
 
 If you wish to be added to the list, please contact one of the official translators.
 
