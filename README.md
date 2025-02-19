@@ -16,7 +16,7 @@ http://ludeon.com/forums/index.php?topic=2933.0
 
 # Translators
 
-## Current 2023
+## Current 2025
 lDeamonl
 
 ## Previous
