@@ -129,6 +129,6 @@ processDirectory(dataDir, path.join(outDir, 'Data-ArabicSupport/Data'), {
   applyWordWrap: false,
   wrapLength: 30,
 });
-copyModDirectory(path.join(modsDir, 'ArabicSupport'), path.join(outDir, 'Data-ArabicSupport/ArabicSupport'));
+copyModDirectory(path.join(modsDir, 'ArabicSupport'), path.join(outDir, 'Data-ArabicSupport/Mods/ArabicSupport'));
 
 console.log('\n✅ All variants built in /dist/');
