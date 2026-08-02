@@ -91,23 +91,44 @@ function processDirectory(inputDir: string, outputDir: string, baseOptions: Part
   }
 }
 
+function copyModDirectory(inputDir: string, outputDir: string) {
+  if (!fs.existsSync(inputDir)) {
+    console.error(`  [ERROR] Mod source folder not found: ${inputDir}`);
+    return;
+  }
+  if (fs.existsSync(outputDir)) {
+    fs.rmSync(outputDir, { recursive: true });
+  }
+  copyDir(inputDir, outputDir);
+  console.log(`  [MOD] Copied: ${inputDir} -> ${outputDir}`);
+}
+
 const dataDir = path.resolve(__dirname, '../Data');
+const modsDir = path.resolve(__dirname, '../Mods');
 const outDir  = path.resolve(__dirname, '../dist');
 
 fs.mkdirSync(outDir, { recursive: true });
 
-console.log('\n[1/2] Building Data-RTL (RTL fix only)...');
-processDirectory(dataDir, path.join(outDir, 'Data-RTL/Data'), {
+console.log('\n[1/3] Building Data-Normal (RTL fix only)...');
+processDirectory(dataDir, path.join(outDir, 'Data-Normal/Data'), {
   applyRtlFix: true,
   applyWordWrap: false,
   wrapLength: 30,
 });
 
-console.log('\n[2/2] Building Data-RTL-WORD-WRAP (RTL fix + word wrap)...');
-processDirectory(dataDir, path.join(outDir, 'Data-RTL-WORD-WRAP/Data'), {
+console.log('\n[2/3] Building Data-WordWrap (RTL fix + word wrap)...');
+processDirectory(dataDir, path.join(outDir, 'Data-WordWrap/Data'), {
   applyRtlFix: true,
   applyWordWrap: true,
   wrapLength: 30,
 });
+
+console.log('\n[3/3] Building Data-ArabicSupport (RTL fix only + ArabicSupport mod)...');
+processDirectory(dataDir, path.join(outDir, 'Data-ArabicSupport/Data'), {
+  applyRtlFix: true,
+  applyWordWrap: false,
+  wrapLength: 30,
+});
+copyModDirectory(path.join(modsDir, 'ArabicSupport'), path.join(outDir, 'Data-ArabicSupport/ArabicSupport'));
 
 console.log('\n✅ All variants built in /dist/');
