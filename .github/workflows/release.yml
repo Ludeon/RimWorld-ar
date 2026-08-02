@@ -33,8 +33,9 @@ jobs:
       - name: Create ZIP archives
         run: |
           cd dist
-          zip -r Data-RTL.zip          Data-RTL/
-          zip -r Data-RTL-WORD-WRAP.zip Data-RTL-WORD-WRAP/
+          (cd Data-Normal && zip -r ../Data-Normal.zip Data)
+          (cd Data-WordWrap && zip -r ../Data-WordWrap.zip Data)
+          (cd Data-ArabicSupport && zip -r ../Data-ArabicSupport.zip Data ArabicSupport)
           ls -lh *.zip
 
       - name: Get current date
@@ -54,22 +55,34 @@ jobs:
             --title "Arabic Translation — Updated ${{ steps.date.outputs.DATE }}" \
             --notes "## تعريب ريمورلد — آخر تحديث: ${{ steps.date.outputs.DATE }}
 
-          ## 🛠️ نسخ التعريب المتاحة
+          ## 🛠️ نسخ التعريب المتاحة (Releases)
 
-          | النسخة | الحروف | الاتجاه |
-          | :--- | :---: | :---: |
-          | **Data-RTL** | ✅ متصلة | ⬆️ معكوس |
-          | **Data-RTL-WORD-WRAP** | ✅ متصلة | ✅ صحيح **(موصى به)** |
+          **بسبب القيود التقنية في محرك اللعبة فيما يخص اللغة العربية (RTL)، تم توفير ثلاث نسخ حسب الرغبة:**
+          1. نسخة **Data-WordWrap** : التعريب يظهر بحروف متصلة و تستطيع أن تقرأ من الأعلى إلى الأسفل لكن الكلمات تتجمع في الجهة اليسرى.
+          2. نسخة **Data-Normal** : التعريب يظهر بحروف متصلة مع طول نصوص طبيعي لكن يجب أن تقرأ النصوص من الأسفل إلى الأعلى.
+          3. نسخة **Data-ArabicSupport** : التعريب يظهر بحروف متصلة و يأتي هذا التعريب مع مود (\`ArabicSupport\`) ليجعل النصوص تُقرأ من الأعلى إلى الأسفل مع طول نصوص طبيعي.
 
           ---
 
-          ## 🚀 طريقة التثبيت
+          ## 🚀 طريقة التثبيت (Installation)
 
-          1. حمّل النسخة المناسبة
-          2. افتح ملف الـ ZIP
-          3. انسخ مجلد \`Data\` وألصقه داخل مجلد اللعبة الرئيسي (دمج ملفات Data)
+          **الشرح:**
+          1. **حمّل النسخة المناسبة**
+          2. **فك ضغط ملف الـ \`ZIP\`**
+          3. **انسخ مجلد \`Data\` وألصقه داخل مجلد اللعبة الرئيسي (\`RimWorld\`)**
+          4. **في حال كنت تستخدم نسخة Data-ArabicSupport ، يجب أن تضع المود في مجلد (\`Mods\`)**
+
+
+          ### 1. نسخة Steam 🎮
+          المسار الافتراضي:
+          \`C:\Program Files (x86)\Steam\steamapps\common\RimWorld\`
+
+          ### 2. نسخة GOG 📂
+          المسار الافتراضي:
+          \`C:\GOG Games\RimWorld\`
             " \
-            dist/Data-RTL.zip \
-            dist/Data-RTL-WORD-WRAP.zip
+            dist/Data-Normal.zip \
+            dist/Data-WordWrap.zip \
+            dist/Data-ArabicSupport.zip
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
