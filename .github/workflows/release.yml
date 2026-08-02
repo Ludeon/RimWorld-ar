@@ -35,7 +35,7 @@ jobs:
           cd dist
           (cd Data-Normal && zip -r ../Data-Normal.zip Data)
           (cd Data-WordWrap && zip -r ../Data-WordWrap.zip Data)
-          (cd Data-ArabicSupport && zip -r ../Data-ArabicSupport.zip Data ArabicSupport)
+          (cd Data-ArabicSupport && zip -r ../Data-ArabicSupport.zip Data Mods)
           ls -lh *.zip
 
       - name: Get current date
@@ -70,7 +70,7 @@ jobs:
           1. **حمّل النسخة المناسبة**
           2. **فك ضغط ملف الـ \`ZIP\`**
           3. **انسخ مجلد \`Data\` وألصقه داخل مجلد اللعبة الرئيسي (\`RimWorld\`)**
-          4. **في حال كنت تستخدم نسخة Data-ArabicSupport ، يجب أن تضع المود في مجلد (\`Mods\`)**
+          4. **في حال كنت تستخدم نسخة Data-ArabicSupport ، فقط قم بفك الضغط و سيتم لصق المجلدات في المكان الصحيح ( الترجمة و المود )**
 
 
           ### 1. نسخة Steam 🎮
